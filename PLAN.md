@@ -78,6 +78,41 @@ Output of this stage: `work/1-nephi/candidates.jsonl`, one row per (BoM ref, KJV
 - Exclusion register page, variant register page, bibliography, downloads (JSON/CSV — `export-dataset.mjs` already does this shape).
 - Not in the pilot: chord diagram, trajectory reader, PDF. Port later; they are derived views.
 
+## 6a. STATUS — 1 Nephi adjudicated in full (2026-09-05, Opus)
+
+All 22 chapters. 288 links across 267 of 618 verses; 247 exclusions; 99 Isaiah
+variants. 96 quotations, 160 allusions, 30 echoes, 2 figural. Confidence: 80
+certain, 129 high, 76 moderate, 3 low. `kjvSpecific: "yes"` on 226. Mediation:
+163 direct-OT, 105 direct-NT, **16 OT-via-NT**, 3 OT-via-earlier-BoM.
+170 rows are `status: "novel"`; 43 carry a Hardy citation, 245 remain pending.
+
+Top source books by link count: Isaiah 65, Revelation 23, Matthew 23, Acts 20,
+Genesis 18, Exodus 12, John 12, Psalm 10, 1 Samuel 10, Hebrews 9.
+
+**The sixteen OT-via-NT rows are the pilot's principal result.** Each is decided
+by a point where the KJV's Old Testament and its own New Testament quotation
+differ, and in every case but two the Book of Mormon has the New Testament's
+form. The clearest: 2:22 and 3:29 (`ruler` not `prince`, Acts 7:27 vs Exodus
+2:14) · 6:4 (one conjunction, Acts 7:32 vs Exodus 3:6) · 10:8 (`make his paths
+straight`, Synoptics vs Isaiah 40:3) · 12:17 (`blinded … hardened`, John 12:40
+vs Isaiah 6:10) · 15:18 and 22:9 (`kindreds` not `nations`, Acts 3:25 vs Genesis
+22:18) · 17:39 (third person, Matthew 5:35 vs Isaiah 66:1/Acts 7:49) · 17:46
+(`smooth` not `plain`, Luke 3:5 vs Isaiah 40:4) · 17:55 (`worship` not `fear`,
+Matthew 4:10 vs Deuteronomy 6:13) · 19:11 and 22:18 (`vapour` not `pillars`,
+Acts 2:19 vs Joel 2:30) · **22:20**, the test CONVENTIONS §7 named in advance:
+26 continuous words of Acts 3:22-23, with every divergence from Deuteronomy 18
+on the New Testament side. Recorded counter-examples where the book follows the
+Old Testament instead: 13:37 and 19:17, both Isaiah 52.
+
+Acts 3 is a source at five places (3:20, 15:18, 19:10, 22:9, 22:20) and Acts 7
+at six (2:22, 3:29, 5:14, 6:4, 11:13, 17:8). Hebrews 11 is used in its own
+order across chapters 2-5 (11:8, 11:9, 11:13, 11:29). Mark 3:1-5 supplies three
+separate elements across chapters 2, 7 and 17.
+
+New tools: `collate-isaiah.py`, `build-isaiah-adjudication.py`,
+`hardy-coverage.py`. New data: `isaiah-collation.json`. Schema addition:
+`Link.recurrenceRefs`.
+
 ## 7. Pilot acceptance test ("definitive" for 1 Nephi means all of these)
 1. Pipeline recovers the confirmable Skousen KJV-quotation row(s) in 1 Nephi — currently just 1 Nephi 20–21 ~ Isaiah 48–49 (recovered ✓, see §4 note on KJQ availability).
 2. Every Hardy appendix row for 1 Nephi is either a Link or a reasoned exclusion.
@@ -86,6 +121,32 @@ Output of this stage: `work/1-nephi/candidates.jsonl`, one row per (BoM ref, KJV
 5. Every Link has a `note`, `mediation`, `kjvSpecific`, and ≥1 bibliography or `status:"novel"`.
 6. Exclusion register non-empty and reviewed.
 7. Wilson has read every chapter in the reader.
+
+**Status of the seven, 2026-09-05:**
+1. ✅ 1 Nephi 20-21 ~ Isaiah 48-49 recovered and collated (see §6a).
+2. ✅ **All 62 Hardy rows for 1 Nephi accounted for** — `tools/hardy-coverage.py`
+   checks it mechanically and exits non-zero on a gap. Run it before claiming this.
+3. ⛔ **Cannot be checked.** Frederick is not on disk (CONVENTIONS §6 says we
+   hold him; we do not). The Revelation network in 11-14 IS catalogued — 11:34
+   and 13:26 and 14:10-11 are the spine of it — but against Revelation itself,
+   not against Frederick. This is the one acceptance criterion the pilot fails,
+   and it fails for want of a book, not for want of work.
+4. ✅ Collated verse by verse; 99 variant rows in `data/isaiah-collation.json`.
+5. ✅ Enforced by `apply-adjudication.py`, which refuses to write otherwise.
+6. ✅ 247 exclusions across five categories.
+7. ⛔ Pending Wilson's read-through — the last gate.
+
+**Open, for Wilson's ruling:**
+- `Mediation` enum: 4:14, 22:6 and 22:13 are mediated by the book's OWN earlier
+  text, and two of the three have a New Testament ultimate source. The value is
+  named `OT-via-earlier-BoM`; the category is right and the name is not.
+- The italics question. The public-domain KJV in `text/kjv.json` does not mark
+  italicized words, so whether the 99 Isaiah departures cluster at them cannot
+  be answered here. Stated as a limit inside `isaiah-collation.json` itself.
+- Skousen's KJQ list remains unobtainable, so no row can be checked against his
+  36 + 83. Every quotation link says explicitly where it falls relative to his
+  sixteen-word threshold. The two strongest candidates in 1 Nephi are 10:8 and
+  22:20.
 
 ## 8. Order of work
 1. Texts (§2): acquire, align, variant register. Sonnet. One session.

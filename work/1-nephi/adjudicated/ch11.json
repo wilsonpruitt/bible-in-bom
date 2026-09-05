@@ -10,11 +10,26 @@
         "subtype": "strong-verbal",
         "confidence": "high",
         "text": "And he carried me away in the spirit to a great and high mountain, and shewed me that great city, the holy Jerusalem, descending out of heaven from God,",
-        "evidence": { "vocabulary": 4, "syntax": 5, "sequence": 5, "context": 5, "rarity": 4, "attestation": 1 },
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 1
+        },
         "kjvSpecific": "yes",
         "mediation": "direct-NT",
-        "composite": ["Revelation 17:3", "Matthew 4:8", "Ezekiel 40:2"],
-        "recurrenceRefs": ["1 Nephi 11:13", "1 Nephi 11:19", "1 Nephi 11:29"],
+        "composite": [
+          "Revelation 17:3",
+          "Matthew 4:8",
+          "Ezekiel 40:2"
+        ],
+        "recurrenceRefs": [
+          "1 Nephi 11:13",
+          "1 Nephi 11:19",
+          "1 Nephi 11:29"
+        ],
         "provenance": {
           "route": "Revelation 21:10 → KJV → Book of Mormon",
           "other": "'Carried away in the spirit' occurs in exactly two KJV verses, Revelation 17:3 and 21:10, and both are transitions into a vision. 'An exceeding high mountain' occurs in exactly one, Matthew 4:8, where the devil takes Jesus up to shew him the kingdoms of the world.",
@@ -24,7 +39,10 @@
         "bibliography": [],
         "status": "novel",
         "citationsPending": true,
-        "streams": ["machine-ngram", "manual"]
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
       }
     ],
     "11:6": [
@@ -34,11 +52,26 @@
         "subtype": "strong-verbal",
         "confidence": "high",
         "text": "And Simon Peter answered and said, Thou art the Christ, the Son of the living God.",
-        "evidence": { "vocabulary": 4, "syntax": 5, "sequence": 5, "context": 5, "rarity": 4, "attestation": 0 },
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
         "kjvSpecific": "yes",
         "mediation": "direct-NT",
-        "composite": ["Matthew 16:17", "Mark 5:7", "Genesis 14:22", "Matthew 21:9"],
-        "recurrenceRefs": ["1 Nephi 2:1", "1 Nephi 2:19"],
+        "composite": [
+          "Matthew 16:17",
+          "Mark 5:7",
+          "Genesis 14:22",
+          "Matthew 21:9"
+        ],
+        "recurrenceRefs": [
+          "1 Nephi 2:1",
+          "1 Nephi 2:19"
+        ],
         "provenance": {
           "route": "Matthew 16:16-17 → KJV → Book of Mormon",
           "other": "'The most high God' is Genesis 14:18-22's title for God and Mark 5:7's ('thou Son of the most high God'). 'Hosanna' is confined to the triumphal entry (Matthew 21:9, 15; Mark 11:9-10; John 12:13).",
@@ -48,7 +81,10 @@
         "bibliography": [],
         "status": "novel",
         "citationsPending": true,
-        "streams": ["machine-ngram", "manual"]
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
       }
     ],
     "11:7": [
@@ -58,19 +94,35 @@
         "subtype": "close-verbal",
         "confidence": "high",
         "text": "And I saw, and bare record that this is the Son of God.",
-        "evidence": { "vocabulary": 5, "syntax": 5, "sequence": 5, "context": 5, "rarity": 5, "attestation": 4 },
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 4
+        },
         "kjvSpecific": "yes",
         "mediation": "direct-NT",
-        "recurrenceRefs": ["1 Nephi 11:32", "1 Nephi 11:36", "1 Nephi 10:10"],
+        "recurrenceRefs": [
+          "1 Nephi 11:32",
+          "1 Nephi 11:36",
+          "1 Nephi 10:10"
+        ],
         "provenance": {
           "route": "John 1:34 → KJV → Book of Mormon",
           "other": "'Bare record that this is' occurs in exactly one KJV verse. The 1830 reads 'bear record' in the present tense at 11:32 and 11:36, where the KJV has the preterite 'bare'.",
           "significance": "John 1:34 is the Baptist's testimony formula and 1 Nephi makes it the vision's own. It appears three times: promised here at 11:7 ('ye shall bear record that it is the Son of God'), then discharged at 11:32 and 11:36 ('I saw and bear record'). The chapter is structured as a sworn deposition in John's words — the same words that at 10:10 described what the Baptist would do. The seer has taken over the forerunner's office."
         },
         "note": "'And after that ye have witnessed him, ye shall bear record that it is the Son of God.' The formula is John 1:34's and the whole clause is reproduced with the demonstrative changed. Note the recurrence: this is the promise, and 11:32 and 11:36 are its fulfilment in the same words.",
-        "bibliography": ["Hardy MSI at 1 Ne 11.32 and 11.36 (John 1:34)"],
+        "bibliography": [
+          "Hardy MSI at 1 Ne 11.32 and 11.36 (John 1:34)"
+        ],
         "status": "consensus",
-        "streams": ["scholarship", "manual"]
+        "streams": [
+          "scholarship",
+          "manual"
+        ]
       }
     ],
     "11:11": [
@@ -80,10 +132,20 @@
         "subtype": "close-verbal",
         "confidence": "high",
         "text": "And the LORD spake unto Moses face to face, as a man speaketh unto his friend. And he turned again into the camp: but his servant Joshua, the son of Nun, a young man, departed not out of the tabernacle.",
-        "evidence": { "vocabulary": 5, "syntax": 5, "sequence": 4, "context": 5, "rarity": 5, "attestation": 1 },
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 1
+        },
         "kjvSpecific": "yes",
         "mediation": "direct-OT",
-        "composite": ["Ezekiel 1:26", "Numbers 12:8"],
+        "composite": [
+          "Ezekiel 1:26",
+          "Numbers 12:8"
+        ],
         "provenance": {
           "route": "Exodus 33:11 → KJV → Book of Mormon",
           "other": "'As a man speaketh' occurs in exactly one KJV verse.",
@@ -93,7 +155,9 @@
         "bibliography": [],
         "status": "novel",
         "citationsPending": true,
-        "streams": ["manual"]
+        "streams": [
+          "manual"
+        ]
       }
     ],
     "11:13": [
@@ -103,11 +167,25 @@
         "subtype": "strong-verbal",
         "confidence": "high",
         "text": "And in the sixth month the angel Gabriel was sent from God unto a city of Galilee, named Nazareth,",
-        "evidence": { "vocabulary": 4, "syntax": 4, "sequence": 5, "context": 5, "rarity": 5, "attestation": 3 },
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 3
+        },
         "kjvSpecific": "yes",
         "mediation": "direct-NT",
-        "composite": ["Luke 1:27", "Acts 7:20"],
-        "recurrenceRefs": ["1 Nephi 11:15", "1 Nephi 11:18", "1 Nephi 11:20"],
+        "composite": [
+          "Luke 1:27",
+          "Acts 7:20"
+        ],
+        "recurrenceRefs": [
+          "1 Nephi 11:15",
+          "1 Nephi 11:18",
+          "1 Nephi 11:20"
+        ],
         "provenance": {
           "route": "Luke 1:26-27 → KJV → Book of Mormon",
           "other": "'Exceeding fair' occurs in exactly one KJV verse: Acts 7:20, 'In which time Moses was born, and was exceeding fair, and nourished up in his father's house three months.'",
@@ -117,7 +195,9 @@
         "bibliography": [],
         "status": "novel",
         "citationsPending": true,
-        "streams": ["manual"]
+        "streams": [
+          "manual"
+        ]
       }
     ],
     "11:14": [
@@ -127,11 +207,25 @@
         "subtype": "close-verbal",
         "confidence": "moderate",
         "text": "And said, Behold, I see the heavens opened, and the Son of man standing on the right hand of God.",
-        "evidence": { "vocabulary": 4, "syntax": 3, "sequence": 3, "context": 5, "rarity": 3, "attestation": 0 },
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 3,
+          "attestation": 0
+        },
         "kjvSpecific": "uncertain",
         "mediation": "direct-NT",
-        "composite": ["Ezekiel 1:1", "Mark 1:10", "Revelation 19:11"],
-        "recurrenceRefs": ["1 Nephi 11:27", "1 Nephi 11:30"],
+        "composite": [
+          "Ezekiel 1:1",
+          "Mark 1:10",
+          "Revelation 19:11"
+        ],
+        "recurrenceRefs": [
+          "1 Nephi 11:27",
+          "1 Nephi 11:30"
+        ],
         "provenance": {
           "route": "Acts 7:56 → KJV → Book of Mormon",
           "alternative": "Opened heavens are the standard signal of a vision: Ezekiel 1:1, Matthew 3:16, Mark 1:10, John 1:51, Acts 10:11, Revelation 4:1 and 19:11 all have some form of it.",
@@ -141,7 +235,9 @@
         "bibliography": [],
         "status": "novel",
         "citationsPending": true,
-        "streams": ["manual"]
+        "streams": [
+          "manual"
+        ]
       }
     ],
     "11:18": [
@@ -151,10 +247,20 @@
         "subtype": "probable",
         "confidence": "moderate",
         "text": "And whence is this to me, that the mother of my Lord should come to me?",
-        "evidence": { "vocabulary": 2, "syntax": 2, "sequence": 3, "context": 5, "rarity": 4, "attestation": 4 },
+        "evidence": {
+          "vocabulary": 2,
+          "syntax": 2,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 4
+        },
         "kjvSpecific": "no",
         "mediation": "direct-NT",
-        "composite": ["Romans 1:3", "Romans 9:5"],
+        "composite": [
+          "Romans 1:3",
+          "Romans 9:5"
+        ],
         "provenance": {
           "route": "Luke 1:43 → KJV → Book of Mormon",
           "other": "'Mother of God' is not a King James phrase and occurs nowhere in the English Bible. The KJV's nearest form is Elisabeth's 'the mother of my Lord' at Luke 1:43. The Book of Mormon's qualifier, 'after the manner of the flesh', is Pauline in shape — compare 'made of the seed of David according to the flesh' (Romans 1:3) and 'of whom as concerning the flesh Christ came' (Romans 9:5).",
@@ -164,7 +270,9 @@
         "bibliography": [],
         "status": "consensus",
         "citationsPending": true,
-        "streams": ["manual"]
+        "streams": [
+          "manual"
+        ]
       }
     ],
     "11:21": [
@@ -174,11 +282,25 @@
         "subtype": "close-verbal",
         "confidence": "high",
         "text": "For unto us a child is born, unto us a son is given: and the government shall be upon his shoulder: and his name shall be called Wonderful, Counsellor, The mighty God, The everlasting Father, The Prince of Peace.",
-        "evidence": { "vocabulary": 4, "syntax": 3, "sequence": 4, "context": 5, "rarity": 5, "attestation": 3 },
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 3
+        },
         "kjvSpecific": "yes",
         "mediation": "direct-OT",
-        "composite": ["John 1:29"],
-        "recurrenceRefs": ["1 Nephi 11:18", "1 Nephi 11:32", "1 Nephi 13:40", "2 Nephi 19:6"],
+        "composite": [
+          "John 1:29"
+        ],
+        "recurrenceRefs": [
+          "1 Nephi 11:18",
+          "1 Nephi 11:32",
+          "1 Nephi 13:40",
+          "2 Nephi 19:6"
+        ],
         "provenance": {
           "route": "Isaiah 9:6 → KJV → Book of Mormon",
           "other": "'Everlasting Father' occurs in exactly one KJV verse, Isaiah 9:6 — which Nephi transcribes entire at 2 Nephi 19:6.",
@@ -188,7 +310,9 @@
         "bibliography": [],
         "status": "consensus",
         "citationsPending": true,
-        "streams": ["manual"]
+        "streams": [
+          "manual"
+        ]
       }
     ],
     "11:22": [
@@ -198,10 +322,19 @@
         "subtype": "close-verbal",
         "confidence": "certain",
         "text": "And hope maketh not ashamed; because the love of God is shed abroad in our hearts by the Holy Ghost which is given unto us.",
-        "evidence": { "vocabulary": 5, "syntax": 5, "sequence": 5, "context": 5, "rarity": 5, "attestation": 1 },
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 1
+        },
         "kjvSpecific": "yes",
         "mediation": "direct-NT",
-        "recurrenceRefs": ["1 Nephi 11:25"],
+        "recurrenceRefs": [
+          "1 Nephi 11:25"
+        ],
         "provenance": {
           "route": "Romans 5:5 → KJV → Book of Mormon",
           "other": "'Shed abroad in our hearts' occurs in exactly one KJV verse, and 'the love of God' governs it there as here. The Book of Mormon makes the verb reflexive — 'sheddeth itself abroad' — which is a grammatical change, not a lexical one.",
@@ -211,7 +344,9 @@
         "bibliography": [],
         "status": "novel",
         "citationsPending": true,
-        "streams": ["manual"]
+        "streams": [
+          "manual"
+        ]
       }
     ],
     "11:25": [
@@ -221,11 +356,27 @@
         "subtype": "close-verbal",
         "confidence": "high",
         "text": "For my people have committed two evils; they have forsaken me the fountain of living waters, and hewed them out cisterns, broken cisterns, that can hold no water.",
-        "evidence": { "vocabulary": 5, "syntax": 4, "sequence": 4, "context": 5, "rarity": 5, "attestation": 2 },
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 2
+        },
         "kjvSpecific": "yes",
         "mediation": "direct-OT",
-        "composite": ["Jeremiah 17:13", "Revelation 22:1", "Revelation 22:14", "John 4:14"],
-        "recurrenceRefs": ["1 Nephi 8:13", "1 Nephi 8:19", "1 Nephi 15:23"],
+        "composite": [
+          "Jeremiah 17:13",
+          "Revelation 22:1",
+          "Revelation 22:14",
+          "John 4:14"
+        ],
+        "recurrenceRefs": [
+          "1 Nephi 8:13",
+          "1 Nephi 8:19",
+          "1 Nephi 15:23"
+        ],
         "provenance": {
           "route": "Jeremiah 2:13 → KJV → Book of Mormon",
           "other": "'Fountain of living waters' occurs in exactly two KJV verses, Jeremiah 2:13 and 17:13, and in both it is a title for God that his people have abandoned.",
@@ -235,7 +386,10 @@
         "bibliography": [],
         "status": "consensus",
         "citationsPending": true,
-        "streams": ["machine-ngram", "manual"]
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
       }
     ],
     "11:27": [
@@ -245,20 +399,41 @@
         "subtype": "close-verbal",
         "confidence": "certain",
         "text": "And John bare record, saying, I saw the Spirit descending from heaven like a dove, and it abode upon him.",
-        "evidence": { "vocabulary": 5, "syntax": 5, "sequence": 5, "context": 5, "rarity": 5, "attestation": 5 },
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 5
+        },
         "kjvSpecific": "yes",
         "mediation": "direct-NT",
-        "composite": ["Matthew 3:16", "Mark 1:10", "Luke 3:22"],
-        "recurrenceRefs": ["1 Nephi 10:7", "1 Nephi 10:8", "1 Nephi 10:9", "1 Nephi 10:10"],
+        "composite": [
+          "Matthew 3:16",
+          "Mark 1:10",
+          "Luke 3:22"
+        ],
+        "recurrenceRefs": [
+          "1 Nephi 10:7",
+          "1 Nephi 10:8",
+          "1 Nephi 10:9",
+          "1 Nephi 10:10"
+        ],
         "provenance": {
           "route": "John 1:32 → KJV → Book of Mormon",
           "other": "'Abode upon him' occurs in exactly one KJV verse. The Synoptic accounts have the Spirit 'descending like a dove, and lighting upon him' (Matthew 3:16), 'descending upon him' (Mark 1:10), and 'in a bodily shape like a dove upon him' (Luke 3:22); only John has the verb 'abode'. The 1830 reads 'abode upon him'; the 1920 edition changed it to 'abide'.",
           "significance": "A fourth decisive mediation datum in two chapters, and the same one as at 10:9: where the KJV's four accounts of the baptism differ, the Book of Mormon takes John's. And the 1830/1920 divergence is the sharpest in the corpus so far — the first edition reproduces John 1:32's preterite exactly and the modern edition replaces it with an infinitive that matches nothing in the KJV. Every reader of the current text sees a verse that has been moved one step away from its source."
         },
         "note": "'The Lamb of God went forth, and was baptised of him; and after that he was baptised, I beheld the Heavens open, and the Holy Ghost come down out of Heaven and abode upon him in the form of a dove.' The whole sequence is John 1:32-34's — Spirit from heaven, dove, abiding, and the bearing of record at 11:32 — and the distinctive verb is a KJV singleton. Recorded at 'certain'.",
-        "bibliography": ["Hardy MSI at 1 Ne 11.27 (Matthew 3:16; Mark 1:10; Luke 3:22; John 1:32)"],
+        "bibliography": [
+          "Hardy MSI at 1 Ne 11.27 (Matthew 3:16; Mark 1:10; Luke 3:22; John 1:32)"
+        ],
         "status": "consensus",
-        "streams": ["scholarship", "manual"]
+        "streams": [
+          "scholarship",
+          "manual"
+        ]
       }
     ],
     "11:31": [
@@ -268,10 +443,21 @@
         "subtype": "strong-verbal",
         "confidence": "high",
         "text": "And his fame went throughout all Syria: and they brought unto him all sick people that were taken with divers diseases and torments, and those which were possessed with devils, and those which were lunatick, and those that had the palsy; and he healed them.",
-        "evidence": { "vocabulary": 4, "syntax": 4, "sequence": 5, "context": 5, "rarity": 3, "attestation": 1 },
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 3,
+          "attestation": 1
+        },
         "kjvSpecific": "yes",
         "mediation": "direct-NT",
-        "composite": ["Matthew 4:23", "Luke 6:18", "Mark 1:34"],
+        "composite": [
+          "Matthew 4:23",
+          "Luke 6:18",
+          "Mark 1:34"
+        ],
         "provenance": {
           "route": "Matthew 4:23-24 and Luke 6:17-18 → KJV → Book of Mormon",
           "other": "Matthew 4:23 supplies 'all manner of sickness and all manner of disease'; Matthew 4:24 supplies the sick, the diseased and the possessed in one list; Luke 6:18 supplies 'they that were vexed with unclean spirits: and they were healed', which is the only KJV verse putting unclean spirits and healing in the same clause.",
@@ -281,7 +467,9 @@
         "bibliography": [],
         "status": "novel",
         "citationsPending": true,
-        "streams": ["manual"]
+        "streams": [
+          "manual"
+        ]
       }
     ],
     "11:33": [
@@ -291,11 +479,26 @@
         "subtype": "close-verbal",
         "confidence": "high",
         "text": "And I, if I be lifted up from the earth, will draw all men unto me.",
-        "evidence": { "vocabulary": 4, "syntax": 4, "sequence": 4, "context": 5, "rarity": 4, "attestation": 3 },
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 3
+        },
         "kjvSpecific": "yes",
         "mediation": "direct-NT",
-        "composite": ["John 3:14", "John 8:28", "John 1:29"],
-        "recurrenceRefs": ["1 Nephi 10:10", "1 Nephi 19:10", "3 Nephi 27:14"],
+        "composite": [
+          "John 3:14",
+          "John 8:28",
+          "John 1:29"
+        ],
+        "recurrenceRefs": [
+          "1 Nephi 10:10",
+          "1 Nephi 19:10",
+          "3 Nephi 27:14"
+        ],
         "provenance": {
           "route": "John 3:14, 8:28, 12:32-33 → KJV → Book of Mormon",
           "other": "'Lifted up' as a term for the crucifixion is John's alone in the KJV — three times (3:14, 8:28, 12:32), and John 12:33 glosses it: 'This he said, signifying what death he should die.' The Synoptics never use it this way.",
@@ -305,7 +508,9 @@
         "bibliography": [],
         "status": "novel",
         "citationsPending": true,
-        "streams": ["manual"]
+        "streams": [
+          "manual"
+        ]
       }
     ],
     "11:34": [
@@ -315,10 +520,23 @@
         "subtype": "close-verbal",
         "confidence": "certain",
         "text": "And the wall of the city had twelve foundations, and in them the names of the twelve apostles of the Lamb.",
-        "evidence": { "vocabulary": 5, "syntax": 5, "sequence": 5, "context": 4, "rarity": 5, "attestation": 2 },
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 2
+        },
         "kjvSpecific": "yes",
         "mediation": "direct-NT",
-        "recurrenceRefs": ["1 Nephi 11:35", "1 Nephi 11:36", "1 Nephi 12:9", "1 Nephi 13:26", "1 Nephi 14:20"],
+        "recurrenceRefs": [
+          "1 Nephi 11:35",
+          "1 Nephi 11:36",
+          "1 Nephi 12:9",
+          "1 Nephi 13:26",
+          "1 Nephi 14:20"
+        ],
         "provenance": {
           "route": "Revelation 21:14 → KJV → Book of Mormon",
           "other": "'The twelve apostles of the Lamb' occurs in exactly one KJV verse. The phrase 'apostles of the Lamb' occurs nowhere else in scripture in any form.",
@@ -328,7 +546,10 @@
         "bibliography": [],
         "status": "novel",
         "citationsPending": true,
-        "streams": ["machine-ngram", "manual"]
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
       }
     ],
     "11:36": [
@@ -338,11 +559,26 @@
         "subtype": "close-verbal",
         "confidence": "certain",
         "text": "And the rain descended, and the floods came, and the winds blew, and beat upon that house; and it fell: and great was the fall of it.",
-        "evidence": { "vocabulary": 5, "syntax": 5, "sequence": 5, "context": 5, "rarity": 5, "attestation": 1 },
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 1
+        },
         "kjvSpecific": "yes",
         "mediation": "direct-NT",
-        "composite": ["Revelation 14:6", "Luke 6:49"],
-        "recurrenceRefs": ["1 Nephi 8:20", "1 Nephi 8:26", "1 Nephi 12:18"],
+        "composite": [
+          "John 1:34",
+          "Luke 6:49",
+          "Revelation 14:6"
+        ],
+        "recurrenceRefs": [
+          "1 Nephi 8:20",
+          "1 Nephi 8:26",
+          "1 Nephi 12:18"
+        ],
         "provenance": {
           "route": "Matthew 7:24-27 → KJV → Book of Mormon",
           "other": "'Great was the fall' occurs in exactly one KJV verse.",
@@ -352,7 +588,9 @@
         "bibliography": [],
         "status": "novel",
         "citationsPending": true,
-        "streams": ["manual"]
+        "streams": [
+          "manual"
+        ]
       }
     ]
   }

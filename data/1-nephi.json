@@ -4691,6 +4691,11 @@
           "status": "novel",
           "streams": [
             "manual"
+          ],
+          "composite": [
+            "Jeremiah 32:1-2",
+            "Jeremiah 37:15",
+            "Jeremiah 38:6"
           ]
         }
       ]
@@ -7228,8 +7233,9 @@
           "kjvSpecific": "yes",
           "mediation": "direct-NT",
           "composite": [
-            "Revelation 14:6",
-            "Luke 6:49"
+            "John 1:34",
+            "Luke 6:49",
+            "Revelation 14:6"
           ],
           "recurrenceRefs": [
             "1 Nephi 8:20",
@@ -10462,14 +10468,96 @@
       "ch": 17,
       "ref": "17:28",
       "text": "and ye also know that they were fed with manna, in the wilderness;",
-      "links": []
+      "links": [
+        {
+          "source": "Exodus 16:15",
+          "type": "allusion",
+          "subtype": "conceptual",
+          "confidence": "high",
+          "text": "And when the children of Israel saw it, they said one to another, It is manna: for they wist not what it was. And Moses said unto them, This is the bread which the LORD hath given you to eat.",
+          "evidence": {
+            "vocabulary": 3,
+            "syntax": 2,
+            "sequence": 4,
+            "context": 5,
+            "rarity": 4,
+            "attestation": 5
+          },
+          "kjvSpecific": "no",
+          "mediation": "direct-OT",
+          "composite": [
+            "Exodus 16:4",
+            "Exodus 16:35",
+            "Deuteronomy 8:3",
+            "John 6:31"
+          ],
+          "provenance": {
+            "route": "Exodus 16 → KJV → Book of Mormon",
+            "significance": "Second of the four Exodus proofs Nephi lists in five verses (Red Sea 17:26, manna 17:28, water from the rock 17:29, the pillar 17:30), and the one stated most briefly — 'ye also know that they were fed with manna, in the wilderness'. The brevity is the argument: Nephi is reciting a list his brothers already have, so each item needs only its name. 'Manna' occurs in fourteen KJV verses; 'fed … with manna' in the wilderness is Deuteronomy 8:3's and Exodus 16's, and John 6:31 is the New Testament's version, 'He gave them bread from heaven to eat'.",
+            "alternative": "A one-word allusion to an episode this famous cannot be pinned to a verse, and this row records the episode rather than a source."
+          },
+          "note": "'And ye also know that they were fed with manna, in the wilderness.' Catalogued because Hardy's apparatus cites Exodus 16:4-35 here and because the verse is one item in a deliberate four-item recital; there is no verbal case beyond the noun, and none is claimed.",
+          "bibliography": [
+            "Hardy MSI at 1 Ne 17.28 (Exodus 16:4-35)"
+          ],
+          "status": "consensus",
+          "streams": [
+            "scholarship",
+            "manual"
+          ]
+        }
+      ]
     },
     {
       "id": "17:29",
       "ch": 17,
       "ref": "17:29",
       "text": "yea, and ye also know that Moses, by his word, according to the power of God which was in him, smote the rock, and there came forth water, that the children of Israel might quench their thirst;",
-      "links": []
+      "links": [
+        {
+          "source": "Exodus 17:6",
+          "type": "allusion",
+          "subtype": "conceptual",
+          "confidence": "high",
+          "text": "Behold, I will stand before thee there upon the rock in Horeb; and thou shalt smite the rock, and there shall come water out of it, that the people may drink. And Moses did so in the sight of the elders of Israel.",
+          "evidence": {
+            "vocabulary": 4,
+            "syntax": 3,
+            "sequence": 4,
+            "context": 5,
+            "rarity": 4,
+            "attestation": 5
+          },
+          "kjvSpecific": "no",
+          "mediation": "direct-OT",
+          "composite": [
+            "Exodus 17:1-7",
+            "Numbers 20:2-13",
+            "Numbers 20:11",
+            "1 Corinthians 10:4"
+          ],
+          "recurrenceRefs": [
+            "1 Nephi 17:26",
+            "1 Nephi 17:28",
+            "1 Nephi 17:30"
+          ],
+          "provenance": {
+            "route": "Exodus 17:1-7 / Numbers 20:2-13 → KJV → Book of Mormon",
+            "other": "The KJV tells the story twice, at Rephidim (Exodus 17:6, 'thou shalt smite the rock, and there shall come water out of it') and at Meribah-Kadesh (Numbers 20:11, 'he smote the rock twice: and the water came out abundantly'). Hardy's apparatus cites both.",
+            "significance": "Third of the four Exodus proofs. What distinguishes 1 Nephi 17:29 from either source is the agency it insists on: 'Moses, by his word, according to the power of God which was in him, smote the rock'. Numbers 20 is the episode in which precisely that claim costs Moses the land — 'because ye believed me not, to sanctify me in the eyes of the children of Israel' — so the Book of Mormon's phrasing credits Moses with what Numbers rebukes him for. The catalogue records that; it does not resolve it. The next verse (17:31) then corrects the balance: 'there was not any thing done, save it were by his word', meaning God's.",
+            "alternative": "Paul reads the rock christologically at 1 Corinthians 10:4 ('that Rock was Christ'), inside the same chapter whose verse 13 this book uses at 3:7 and 16:1; nothing in 17:29 requires that reading."
+          },
+          "note": "'Moses, by his word, according to the power of God which was in him, smote the rock, and there came forth water, that the children of Israel might quench their thirst.' The verbs are Exodus 17:6's and Numbers 20:11's; the attribution of the power to Moses is the Book of Mormon's own and is worth noticing against Numbers 20:12.",
+          "bibliography": [
+            "Hardy MSI at 1 Ne 17.29 (Exodus 17:1-7; Numbers 20:2-13)"
+          ],
+          "status": "consensus",
+          "streams": [
+            "scholarship",
+            "manual"
+          ]
+        }
+      ]
     },
     {
       "id": "17:30",
@@ -10972,11 +11060,13 @@
           "kjvSpecific": "yes",
           "mediation": "direct-NT",
           "composite": [
-            "Revelation 19:10",
             "Acts 10:25",
             "Acts 10:26",
+            "Deuteronomy 6:13",
+            "Exodus 20:12",
+            "Luke 4:8",
             "Matthew 4:10",
-            "Exodus 20:12"
+            "Revelation 19:10"
           ],
           "recurrenceRefs": [
             "1 Nephi 11:8",
@@ -14358,7 +14448,42 @@
       "ch": 22,
       "ref": "22:19",
       "text": "for behold, the righteous shall not perish; for the time surely must come, that all they which fight against Zion, shall be cut off.",
-      "links": []
+      "links": [
+        {
+          "source": "Isaiah 29:8",
+          "type": "allusion",
+          "subtype": "close-verbal",
+          "confidence": "high",
+          "text": "It shall even be as when an hungry man dreameth, and, behold, he eateth; but he awaketh, and his soul is empty: or as when a thirsty man dreameth, and, behold, he drinketh; but he awaketh, and, behold, he is faint, and his soul hath appetite: so shall the multitude of all the nations be, that fight against mount Zion.",
+          "evidence": {
+            "vocabulary": 4,
+            "syntax": 4,
+            "sequence": 3,
+            "context": 5,
+            "rarity": 5,
+            "attestation": 5
+          },
+          "kjvSpecific": "yes",
+          "mediation": "direct-OT",
+          "recurrenceRefs": [
+            "1 Nephi 22:14"
+          ],
+          "provenance": {
+            "route": "Isaiah 29:8 → KJV → Book of Mormon",
+            "other": "Isaiah 29:8 ends 'so shall the multitude of all the nations be, that fight against mount Zion'. The Book of Mormon has 'all they which fight against Zion' twice, at 22:14 and here, dropping 'mount' both times.",
+            "significance": "The repetition five verses apart is how this chapter argues: 22:14 states the fate of those who fight against Zion in the middle of a sentence assembling four other borrowed judgments, and 22:19 restates it alone as the conclusion. Isaiah 29:8's own figure is a man who dreams he eats and wakes hungry — the nations besieging Zion will find their victory was a dream — and the Book of Mormon keeps the verdict and drops the simile."
+          },
+          "note": "'The time surely must come, that all they which fight against Zion, shall be cut off.' Second use of Isaiah 29:8's clause; see 22:14, where it stands with the dug pit, the great whore, Acts 13:10 and Matthew 7:27.",
+          "bibliography": [
+            "Hardy MSI at 1 Ne 22.19 (Isaiah 29:8)"
+          ],
+          "status": "consensus",
+          "streams": [
+            "scholarship",
+            "manual"
+          ]
+        }
+      ]
     },
     {
       "id": "22:20",
@@ -14541,9 +14666,11 @@
           "kjvSpecific": "yes",
           "mediation": "direct-NT",
           "composite": [
-            "John 10:9",
-            "John 10:14",
             "Ezekiel 34:23",
+            "Isaiah 49:22",
+            "Isaiah 49:26",
+            "John 10:14",
+            "John 10:9",
             "Revelation 20:8"
           ],
           "recurrenceRefs": [
