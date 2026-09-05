@@ -2397,6 +2397,16 @@
         "machine-ngram"
       ],
       "reason": "Fourth exclusion for the same five words (3:18, 10:13, 15:33)."
+    },
+    {
+      "bomRef": "1 Nephi 20:1-21:26",
+      "source": "Isaiah 48-49",
+      "category": "better-source-identified",
+      "sharedText": "(the whole of both chapters)",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "A standing note rather than an exclusion, filed here so the register accounts for the two chapters it does not otherwise cover. 1 Nephi 20-21 is a continuous transcription of Isaiah 48-49, with the KJV's verse count and versification exactly. Every machine candidate in these chapters is therefore either the Isaiah verse itself — which is adjudicated as a quotation, verse by verse — or a second KJV verse that happens to share Isaiah's wording, which carries no information. No candidate in these two chapters was rejected on judgment; the adjudication is the collation, and the 99 word-level departures are registered individually in data/isaiah-collation.json rather than here."
     }
   ]
 }
