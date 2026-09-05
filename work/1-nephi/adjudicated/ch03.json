@@ -1,0 +1,414 @@
+{
+  "chapter": 3,
+  "adjudicated": "2026-09-05",
+  "adjudicator": "Opus",
+  "links": {
+    "3:2": [
+      {
+        "source": "Genesis 37:9",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "And he dreamed yet another dream, and told it his brethren, and said, Behold, I have dreamed a dream more; and, behold, the sun and the moon and the eleven stars made obeisance to me.",
+        "evidence": { "vocabulary": 5, "syntax": 4, "sequence": 4, "context": 5, "rarity": 4, "attestation": 2 },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": ["Genesis 41:15", "Daniel 2:3"],
+        "recurrenceRefs": ["1 Nephi 8:2", "1 Nephi 2:11"],
+        "provenance": {
+          "route": "Genesis 37:9 → KJV → Book of Mormon",
+          "other": "'I have dreamed a dream' occurs in three KJV verses: Genesis 37:9, Genesis 41:15 (Pharaoh), and Daniel 2:3 (Nebuchadnezzar). Only Genesis 37:9 is addressed by a family member to brethren.",
+          "significance": "Recover the context and the announcement is a provocation. Genesis 37:9 is the second dream, the one told to the brethren, and the sentence immediately following it in Genesis is 'and his brethren envied him.' 1 Nephi 3:2 puts the formula in Lehi's mouth and the next thing the chapter reports is that 'thy brothers murmur' (3:5). The Joseph frame is already running — 2:11 has them calling their father a visionary man — and the phrase that begins this chapter is the phrase that begins the enmity in Genesis."
+        },
+        "note": "'Behold I have dreamed a dream' is a five-word run reproducing one of the KJV's three occurrences, and the choice among the three is settled by audience: Pharaoh and Nebuchadnezzar speak to their courts, Joseph speaks to his brothers. So does Lehi, and with the same result. 1 Nephi 8:2 opens the tree-of-life vision with the formula again ('Behold, I have dreamed a dream'), which is how a borrowed opening becomes a house style.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": ["machine-ngram"]
+      }
+    ],
+    "3:4": [
+      {
+        "source": "Jeremiah 35:2",
+        "type": "echo",
+        "subtype": "probable",
+        "confidence": "moderate",
+        "text": "Go unto the house of the Rechabites, and speak unto them, and bring them into the house of the LORD, into one of the chambers, and give them wine to drink.",
+        "evidence": { "vocabulary": 3, "syntax": 4, "sequence": 3, "context": 5, "rarity": 2, "attestation": 0 },
+        "kjvSpecific": "uncertain",
+        "mediation": "direct-OT",
+        "provenance": {
+          "route": "Jeremiah 35:2 → KJV → Book of Mormon",
+          "alternative": "'Go unto the house of X' is an ordinary errand formula; the five shared words are four function words and a noun.",
+          "significance": "Jeremiah 35 is the chapter in which the Rechabites — a clan that dwells in tents, owns no field or vineyard, and keeps a father's commandment absolutely — are set before Judah as a rebuke, because they obeyed their father and Judah would not obey God. That is the whole moral machinery of 1 Nephi 3: a father's commandment, sons who obey or refuse, tents, and a renounced inheritance. If the errand formula came from Jeremiah 35:2, it came with the one chapter in the prophets that argues exactly what this chapter dramatizes."
+        },
+        "note": "'Go unto the house of Laban, and seek the records.' The verbal contact with Jeremiah 35:2 is slight and would not be worth recording on its own. It is recorded because of what stands around it: Jeremiah 35 is the tent-dwelling, inheritance-refusing, father-obeying clan held up against a Jerusalem that will not listen — and 1 Nephi's Jeremiah frame is already established (1:4, 1:20, 2:1). Proposed as a deliberate risk under the generative posture; the case is thematic, and the wording is the occasion rather than the evidence.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": ["machine-ngram", "manual"]
+      }
+    ],
+    "3:5": [
+      {
+        "source": "John 6:60",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "text": "Many therefore of his disciples, when they had heard this, said, This is an hard saying; who can hear it?",
+        "evidence": { "vocabulary": 4, "syntax": 4, "sequence": 5, "context": 5, "rarity": 5, "attestation": 0 },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": ["John 6:61", "John 6:66"],
+        "provenance": {
+          "route": "John 6:60-61 → KJV → Book of Mormon",
+          "other": "'An hard saying' occurs in exactly one KJV verse, and the very next verse supplies the reaction: 'When Jesus knew in himself that his disciples murmured at it.' The pairing of a hard saying with murmuring exists in the English Bible only at John 6:60-61.",
+          "significance": "John 6:60-66 is the passage where followers who cannot bear a commandment 'went back, and walked no more with him,' and where Jesus turns to the twelve and asks 'Will ye also go away?' 1 Nephi 3:5 sets the same test, and 3:14 reports the same near-defection: 'my brethren were about to return unto my father in the wilderness.' The Book of Mormon takes the Johannine crisis of discipleship and stages it as a family argument at the edge of Jerusalem."
+        },
+        "note": "'Thy brothers murmur, saying: It is a hard thing which I have required of them.' Two elements arrive together and both are John 6's: the assessment of the command as hard, and the murmuring at it. 'An hard saying' exists in one KJV verse; the murmuring is in its neighbour. Lehi's rejoinder — 'behold I have not required it of them, but it is a commandment of the Lord' — is the same correction Jesus makes in the next breath, that the offence is not the speaker's but the sender's.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": ["manual"]
+      }
+    ],
+    "3:7": [
+      {
+        "source": "Exodus 24:7",
+        "type": "allusion",
+        "subtype": "conceptual",
+        "confidence": "moderate",
+        "text": "And he took the book of the covenant, and read in the audience of the people: and they said, All that the LORD hath said will we do, and be obedient.",
+        "evidence": { "vocabulary": 3, "syntax": 3, "sequence": 4, "context": 5, "rarity": 3, "attestation": 1 },
+        "kjvSpecific": "uncertain",
+        "mediation": "direct-OT",
+        "composite": ["Exodus 19:8", "Exodus 24:3", "Isaiah 6:8"],
+        "provenance": {
+          "route": "Israel's covenant answer at Sinai → KJV → Book of Mormon",
+          "alternative": "'I will go and do' is not a KJV phrase; the resemblance is to the sense of the Sinai formula rather than its wording, and a willing answer to a divine errand could be modelled equally on Isaiah 6:8.",
+          "significance": "The Sinai formula is spoken by a whole people and immediately broken by them; Nephi speaks it as an individual, alone among four brothers, and keeps it. The Book of Mormon's most quoted sentence is Israel's covenant answer with the plural taken out — which is the book's whole account of how a remnant works."
+        },
+        "note": "'I will go and do the things which the Lord hath commanded' is the Book of Mormon's best known line and has no single KJV verse behind it. What it has is the Sinai answer — 'All that the LORD hath said will we do, and be obedient' (Exodus 24:7; cf. 19:8, 24:3) — reduced from a nation's assent to one son's. Recorded as an allusion at moderate because the shape and function match exactly while no phrase is reproduced. The prophetic volunteer formula of Isaiah 6:8, 'Here am I; send me,' is the other available model and is noted rather than chosen; Nephi's line is a promise to perform, not an offer to be sent."
+        ,
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": ["manual"]
+      },
+      {
+        "source": "1 Corinthians 10:13",
+        "type": "allusion",
+        "subtype": "conceptual",
+        "confidence": "moderate",
+        "text": "There hath no temptation taken you but such as is common to man: but God is faithful, who will not suffer you to be tempted above that ye are able; but will with the temptation also make a way to escape, that ye may be able to bear it.",
+        "evidence": { "vocabulary": 3, "syntax": 4, "sequence": 4, "context": 4, "rarity": 3, "attestation": 0 },
+        "kjvSpecific": "uncertain",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "1 Corinthians 10:13 → KJV → Book of Mormon",
+          "alternative": "Paul's subject is temptation and Nephi's is commandment; the shared element is the general principle that God does not impose what he does not enable.",
+          "significance": "Paul's guarantee is set inside a rehearsal of Israel's wilderness failures (1 Corinthians 10:1-11 — the cloud, the sea, the murmuring, 'neither murmur ye, as some of them also murmured'), which is precisely the material 1 Nephi 2-3 is working with. Nephi answers his murmuring brothers with the doctrine Paul draws from murmuring Israel, in the chapter where Paul draws it."
+        },
+        "note": "'The Lord giveth no commandments unto the children of men, save he shall prepare a way for them that they may accomplish the thing which he commandeth them.' The logic and the structure are 1 Corinthians 10:13's — God will not impose beyond ability, but 'will with the temptation also make a way' — with 'way' doing the same work in both. The context strengthens it: Paul's guarantee comes at the end of a passage about Israel murmuring in the wilderness, and Nephi's is addressed to brothers who have just murmured.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": ["manual"]
+      }
+    ],
+    "3:11": [
+      {
+        "source": "Jonah 1:7",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "And they said every one to his fellow, Come, and let us cast lots, that we may know for whose cause this evil is upon us. So they cast lots, and the lot fell upon Jonah.",
+        "evidence": { "vocabulary": 5, "syntax": 5, "sequence": 5, "context": 4, "rarity": 5, "attestation": 1 },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": ["Acts 1:26"],
+        "provenance": {
+          "route": "Jonah 1:7 → KJV → Book of Mormon",
+          "other": "'The lot fell upon' occurs in exactly two KJV verses: Jonah 1:7 and Acts 1:26 ('the lot fell upon Matthias').",
+          "significance": "The two KJV lots do opposite work, and the chapter arguably wants both. Jonah's lot identifies the man on whose account disaster has come; Matthias's chooses a man for an apostolic errand. Laman's lot does the second and produces the first — he is chosen to go in, he fails, and Laban's enmity follows from his going. The Jonah frame is already open in this book (2:13, 'Jerusalem, that great city'), and Jonah is the prophet who runs from the errand, which is what Laman proposes at 3:14."
+        },
+        "note": "'We cast lots which of us should go in unto the house of Laban … and the lot fell upon Laman.' Both the procedure and the result formula are KJV, and the result formula exists in only two verses. Nothing decides between them on wording alone, so both are kept — Jonah 1:7 as the source and Acts 1:26 as composite. Note what the casting of lots implies about the brothers at this point: an errand received by direct revelation is allocated by chance.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": ["machine-ngram", "manual"]
+      },
+      {
+        "source": "1 Samuel 19:9",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "And the evil spirit from the LORD was upon Saul, as he sat in his house with his javelin in his hand: and David played with his hand.",
+        "evidence": { "vocabulary": 5, "syntax": 5, "sequence": 4, "context": 5, "rarity": 5, "attestation": 0 },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "recurrenceRefs": ["1 Nephi 3:31", "1 Nephi 4:19"],
+        "provenance": {
+          "route": "1 Samuel 19:9 → KJV → Book of Mormon",
+          "other": "'As he sat in his house' occurs in exactly one KJV verse.",
+          "significance": "The phrase brings its scene with it, and the scene is the model for everything Laban does. 1 Samuel 19:9 is Saul seated at home with a javelin in his hand while the young man God has chosen plays before him; in the next verse he throws it. Laban sits in his house, receives the young men, and by verse 25 has sent servants to kill them. The Saul-and-David substructure then carries into chapter 4, where Nephi kills a drunken enemy with the man's own sword — which is 1 Samuel 17:51 exactly, and which David refuses to do to the sleeping Saul at 1 Samuel 26:8-11."
+        },
+        "note": "'He talked with him as he sat in his house.' Six words reproducing the KJV's single occurrence, and the source verse is not incidental — it is the murderous-host scene of Saul with the javelin. From here the chapter is a Saul narrative: the great man in his house, the anger, the attempt on the young men's lives, the flight. The n-gram stream found this and ranked it below a Herod verse (see the exclusion at 3:8), which is the recall-floor problem in one page.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": ["machine-ngram"]
+      }
+    ],
+    "3:15": [
+      {
+        "source": "2 Kings 2:2",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "text": "And Elijah said unto Elisha, Tarry here, I pray thee; for the LORD hath sent me to Bethel. And Elisha said unto him, As the LORD liveth, and as thy soul liveth, I will not leave thee. So they went down to Bethel.",
+        "evidence": { "vocabulary": 4, "syntax": 5, "sequence": 5, "context": 5, "rarity": 4, "attestation": 1 },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": ["2 Samuel 15:21", "1 Samuel 20:3", "2 Kings 2:4", "2 Kings 2:6"],
+        "provenance": {
+          "route": "The doubled oath formula → KJV → Book of Mormon",
+          "other": "'As the LORD liveth, and as <someone> liveth' occurs in seven KJV verses. Four of them are 2 Kings 2:2, 2:4, 2:6 and 4:30, all Elisha refusing to turn back; the others are 1 Samuel 20:3, 1 Samuel 25:26 and 2 Samuel 15:21.",
+          "significance": "The doubled oath is the KJV's formula for a refusal to abandon an errand, and its densest home is 2 Kings 2, where Elisha swears it three times in five verses against three invitations to stay behind. Nephi swears it once against his brothers' proposal to go back. Ittai's version (2 Samuel 15:21) is the other candidate and carries the same sense — 'whether in death or life, even there also will thy servant be' — which is what 1 Nephi 3:15 is promising."
+        },
+        "note": "'As the Lord liveth, and as we live, we will not go down unto our father in the wilderness, until we have accomplished the thing which the Lord hath commanded us.' Nephi does not use the simple oath ('as the LORD liveth', dozens of KJV verses) but the doubled one, which is rarer and which the KJV attaches specifically to refusals to turn back. Elisha's is the closest in function — three times refused permission to stop, three times the same oath — and 1 Nephi 3:15 is spoken against exactly that proposal. The only alteration is the plural: 'as thy soul liveth' becomes 'as we live', binding the brothers into an oath they did not swear.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": ["manual"]
+      }
+    ],
+    "3:17": [
+      {
+        "source": "Deuteronomy 28:20",
+        "type": "echo",
+        "subtype": "probable",
+        "confidence": "moderate",
+        "text": "The LORD shall send upon thee cursing, vexation, and rebuke, in all that thou settest thine hand unto for to do, until thou be destroyed, and until thou perish quickly; because of the wickedness of thy doings, whereby thou hast forsaken me.",
+        "evidence": { "vocabulary": 4, "syntax": 3, "sequence": 3, "context": 4, "rarity": 3, "attestation": 0 },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": ["Deuteronomy 9:4", "Jeremiah 7:12"],
+        "provenance": {
+          "route": "Deuteronomy 28:20 → KJV → Book of Mormon",
+          "alternative": "'Because of the wickedness of' is a stock prophetic causal clause; Deuteronomy 9:4-5 uses it of the Canaanites and Jeremiah of Shiloh.",
+          "significance": "Deuteronomy 28 is the covenant-curse chapter, and 28:20 states the mechanism the Book of Mormon will use for its entire national history: destruction follows wickedness, by covenant, and the destruction of Jerusalem is only its first instance. Nephi gives the reason for Jerusalem's fall in the vocabulary of the chapter that legislates it."
+        },
+        "note": "'He knowing that Jerusalem must be destroyed, because of the wickedness of the people.' The pairing of destruction with 'because of the wickedness of' is Deuteronomy 28:20's, in the covenant curses, where destruction is the stipulated consequence rather than a misfortune. Note the 1830 participle: 'for he knowing that Jerusalem must be destroyed', corrected to 'knew' in 1920 — the first edition leaves the clause hanging in a way that reads as scriptural pastiche rather than as English.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": ["machine-ngram"]
+      }
+    ],
+    "3:20": [
+      {
+        "source": "Acts 3:21",
+        "type": "quotation",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "Whom the heaven must receive until the times of restitution of all things, which God hath spoken by the mouth of all his holy prophets since the world began.",
+        "evidence": { "vocabulary": 5, "syntax": 5, "sequence": 5, "context": 5, "rarity": 5, "attestation": 3 },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": ["Acts 3:18", "Luke 1:70"],
+        "recurrenceRefs": ["1 Nephi 15:18", "1 Nephi 22:9", "1 Nephi 22:20"],
+        "provenance": {
+          "route": "Acts 3:21 → KJV → Book of Mormon",
+          "other": "'By the mouth of all' occurs in exactly two KJV verses, Acts 3:18 and Acts 3:21, both in the same sermon. 'Since the world began' occurs in four (Luke 1:70, John 9:32, Acts 3:21, Romans 16:25). Acts 3:21 is the only verse in the English Bible that contains both.",
+          "significance": "This is the most consequential single link in 1 Nephi 3, because of what else comes out of the same sermon. Peter's speech at Solomon's porch supplies 'the mouth of all his holy prophets since the world began' here at 3:20; supplies Deuteronomy 18's prophet-like-unto-Moses at 1 Nephi 22:20, in Acts 3:22-23's wording rather than Deuteronomy's; and supplies Genesis 22:18's promise to Abraham's seed at 1 Nephi 15:18 and 22:9, in Acts 3:25's wording. Three of the four places 1 Nephi states its own theory of scripture and covenant come from one page of Acts. That is not an echo; it is a source."
+        },
+        "note": "'The words which have been spoken by the mouth of all the holy prophets … since the world began.' Two phrases are reproduced, and both are rare: 'by the mouth of all' exists in two KJV verses and 'since the world began' in four, and exactly one verse — Acts 3:21 — has them together in this order with 'holy prophets' between them. Luke 1:70 is the near neighbour and shares three of the elements without 'all'. The passage falls below Skousen's sixteen-word threshold and is not one of his quotations; it is catalogued as a quotation because a whole clause of a single identifiable verse is reproduced with only the verb form altered. See the Acts 3 cluster noted under significance — this verse is where it starts.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": ["machine-ngram", "manual"]
+      },
+      {
+        "source": "Luke 1:17",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "text": "And he shall go before him in the spirit and power of Elias, to turn the hearts of the fathers to the children, and the disobedient to the wisdom of the just; to make ready a people prepared for the Lord.",
+        "evidence": { "vocabulary": 4, "syntax": 3, "sequence": 2, "context": 4, "rarity": 5, "attestation": 0 },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "Luke 1:17 → KJV → Book of Mormon",
+          "other": "'Spirit and power of' occurs in exactly one KJV verse.",
+          "significance": "Gabriel's promise about John is that he will 'turn the hearts of the fathers to the children' — and the sentence borrowing his phrase is Nephi's argument for why records must be kept: 'that we might preserve unto our children the language of our fathers' (3:19). Fathers and children, in the verse before, and the phrase from the angel who joins them."
+        },
+        "note": "'Delivered unto them by the spirit and power of God' takes a phrase the KJV uses once, of Elias. The transfer is minimal — 'of Elias' becomes 'of God' — and the sentence it lands in is already about fathers and children, which is Luke 1:17's own subject. Held at moderate because the phrase is short and the substitution generic; the same verse's neighbours (Acts 3:21) do the heavier work here.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": ["machine-ngram"]
+      }
+    ],
+    "3:25": [
+      {
+        "source": "James 4:2",
+        "type": "allusion",
+        "subtype": "conceptual",
+        "confidence": "moderate",
+        "text": "Ye lust, and have not: ye kill, and desire to have, and cannot obtain: ye fight and war, yet ye have not, because ye ask not.",
+        "evidence": { "vocabulary": 4, "syntax": 4, "sequence": 5, "context": 5, "rarity": 3, "attestation": 0 },
+        "kjvSpecific": "uncertain",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "James 4:2 → KJV → Book of Mormon",
+          "alternative": "The sequence covet-then-kill is the tenth commandment's logic and needs no epistle; Ahab and Naboth (1 Kings 21) is the Old Testament's set-piece for it and is arguably the better narrative model.",
+          "significance": "James 4:2 gives the anatomy of the sin in four verbs, in order — lust, have not, kill, obtain — and 1 Nephi 3:25 gives the same four in the same order in one sentence. What the New Testament states as a general diagnosis the Book of Mormon narrates as an event, which is what this book does with epistolary material throughout (compare the Pauline authentication formula at 1:3 and the Corinthian adjectives at 2:10)."
+        },
+        "note": "'When Laban saw our property, and that it was exceeding great, he did lust after it, insomuch that he thrust us out, and sent his servants to slay us, that he might obtain our property.' Set against James 4:2 the correspondence is sequential: lust · cannot have · kill · in order to obtain. No phrase is reproduced — 'lust after' is common KJV — so this is proposed on the shape of the sentence rather than its wording. The Ahab-and-Naboth alternative is recorded because 1 Kings 21 supplies a narrative that James is arguably already summarizing.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": ["manual"]
+      }
+    ],
+    "3:27": [
+      {
+        "source": "1 Samuel 13:6",
+        "type": "echo",
+        "subtype": "probable",
+        "confidence": "moderate",
+        "text": "When the men of Israel saw that they were in a strait, (for the people were distressed,) then the people did hide themselves in caves, and in thickets, and in rocks, and in high places, and in pits.",
+        "evidence": { "vocabulary": 3, "syntax": 3, "sequence": 3, "context": 4, "rarity": 3, "attestation": 0 },
+        "kjvSpecific": "uncertain",
+        "mediation": "direct-OT",
+        "composite": ["Isaiah 2:10", "Revelation 6:15", "1 Samuel 22:1"],
+        "recurrenceRefs": ["2 Nephi 12:10"],
+        "provenance": {
+          "route": "The rock-refuge topos → KJV → Book of Mormon",
+          "alternative": "'The cavity of a rock' is not a KJV phrase at all — 'cavity' does not occur in the KJV — so no verbal case can be made, only a situational one.",
+          "significance": "Two of the three candidates make hiding in rocks an eschatological image rather than a tactical one: Isaiah 2:10, 'Enter into the rock, and hide thee in the dust, for fear of the LORD', which Nephi transcribes at 2 Nephi 12:10; and Revelation 6:15, where the great and mighty hide 'in the dens and in the rocks of the mountains'. The men doing the hiding here are fleeing a mighty man who wanted to kill them for treasure, which inverts both."
+        },
+        "note": "'We hid ourselves in the cavity of a rock.' The Book of Mormon's noun is not the KJV's, so this is recorded as an echo on situation only, and kept at moderate because the situation is a fixed biblical topos with three distinct settings — Saul's Israel hiding from the Philistines (1 Samuel 13:6), David in the cave of Adullam (22:1), and the eschatological hiding of Isaiah 2 and Revelation 6. The Saul narrative is preferred as the nearest neighbour because chapter 3 has been running on 1 Samuel since verse 11.",
+        "whyNot": "No shared wording whatever; 'cavity' is not KJV vocabulary. Men fleeing armed pursuers hide among rocks in every literature, and the verse would read exactly as it does if no biblical passage lay behind it. Kept because the chapter's other links are already inside 1 Samuel, not because the sentence demands a source.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": ["manual"]
+      }
+    ],
+    "3:28": [
+      {
+        "source": "1 Samuel 17:28",
+        "type": "allusion",
+        "subtype": "conceptual",
+        "confidence": "high",
+        "text": "And Eliab his eldest brother heard when he spake unto the men; and Eliab’s anger was kindled against David, and he said, Why camest thou down hither? and with whom hast thou left those few sheep in the wilderness? I know thy pride, and the naughtiness of thine heart; for thou art come down that thou mightest see the battle.",
+        "evidence": { "vocabulary": 3, "syntax": 3, "sequence": 5, "context": 5, "rarity": 4, "attestation": 2 },
+        "kjvSpecific": "no",
+        "mediation": "direct-OT",
+        "recurrenceRefs": ["1 Nephi 3:31", "1 Nephi 4:1", "1 Nephi 16:37", "1 Nephi 17:17"],
+        "provenance": {
+          "route": "1 Samuel 17 → KJV → Book of Mormon",
+          "significance": "1 Samuel 17 supplies the scene the whole chapter has been building toward and supplies it in the right order: the eldest brother's anger at the youngest for speaking (17:28), the objection that the enemy is too great and the youth too young (17:33), and the answer that the LORD will deliver him into my hand (17:46). 1 Nephi 3:28, 3:31 and 4:1-3 run the same three beats with the same speakers. The Book of Mormon then completes the type in chapter 4 by having the youth kill the armed man with the man's own sword and take his head (17:51)."
+        },
+        "note": "'Laman was angry with me, and also with my father … Wherefore Laman and Lemuel did speak many hard words unto us, their younger brothers.' Eliab's outburst is the KJV's one scene of an eldest brother's anger kindled against the youngest for zeal in a divine errand, and it stands immediately before the objection Laman makes three verses later, that the enemy is a mighty man. No wording is reproduced; the case rests on the sequence, which 1 Nephi 3-4 follows beat for beat and completes with the beheading.",
+        "bibliography": [],
+        "status": "consensus",
+        "citationsPending": true,
+        "streams": ["manual"]
+      },
+      {
+        "source": "Exodus 21:20",
+        "type": "echo",
+        "subtype": "possible",
+        "confidence": "moderate",
+        "text": "And if a man smite his servant, or his maid, with a rod, and he die under his hand; he shall be surely punished.",
+        "evidence": { "vocabulary": 4, "syntax": 4, "sequence": 2, "context": 4, "rarity": 3, "attestation": 0 },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "provenance": {
+          "route": "Exodus 21:20 → KJV → Book of Mormon",
+          "alternative": "The rod is the Bible's standard instrument of correction (Proverbs 23:13-14) and of tyranny (Isaiah 10:24), and a beating needs no statute behind it.",
+          "significance": "Of the KJV's ten 'with a rod' verses, one describes a man striking a person in his own household: Exodus 21:20, the law of the beaten servant, whose point is that the victim is legally a person and the striker is punishable. The angel's intervention two verses later is that statute enforced — someone has been struck with a rod who was not a servant but a brother."
+        },
+        "note": "'They did smite us even with a rod.' The KJV's rod is mostly a sceptre or a figure of judgment; the one verse where a man smites a member of his own household with one is Exodus 21:20, and its subject is precisely the status of the person struck. Read that way, the angel's question at 3:29 — 'why do ye smite your younger brother with a rod?' — is a charge under the statute, and the answer to it is the reversal of status the angel then announces.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": ["manual"]
+      }
+    ],
+    "3:29": [
+      {
+        "source": "Acts 7:26",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "text": "And the next day he shewed himself unto them as they strove, and would have set them at one again, saying, Sirs, ye are brethren; why do ye wrong one to another?",
+        "evidence": { "vocabulary": 4, "syntax": 4, "sequence": 5, "context": 5, "rarity": 5, "attestation": 2 },
+        "kjvSpecific": "yes",
+        "mediation": "OT-via-NT",
+        "composite": ["Acts 7:27", "Exodus 2:13", "Exodus 2:14"],
+        "recurrenceRefs": ["1 Nephi 2:22", "1 Nephi 16:37", "1 Nephi 17:44"],
+        "provenance": {
+          "mt": "Exodus 2:13-14 — 'Wherefore smitest thou thy fellow? And he said, Who made thee a prince and a judge over us?'",
+          "route": "Exodus 2:13-14 → Stephen's speech (Acts 7:26-27) → KJV → Book of Mormon",
+          "other": "The KJV has the intervention scene twice. Exodus 2:13-14: 'Wherefore smitest thou thy fellow?' … 'Who made thee a prince and a judge over us?' Acts 7:26-27: 'why do ye wrong one to another?' … 'Who made thee a ruler and a judge over us?'",
+          "significance": "This confirms the mediation call made at 1 Nephi 2:22, and confirms it by a second, independent element. Two things happen in 3:29 in a single speech: a third party interrupts men striking their brethren, and the striker is told that the struck man is to be a RULER over him. Those are Acts 7:26 and 7:27, consecutive verses, in order. The Old Testament original has the same two beats but says 'prince', and the Book of Mormon says 'ruler' at 2:22 and again here. Stephen's whole argument — that the brother refused as ruler is the one God sent (7:35) — is the argument the angel makes, and it is the argument 1 Nephi as a book exists to make."
+        },
+        "note": "'Why do ye smite your younger brother with a rod? Know ye not that the Lord hath chosen him to be a ruler over you?' The angel takes the role Moses takes in Exodus 2:13 and Stephen's Moses takes in Acts 7:26 — the intervener between striking brethren — and then states the very claim that Exodus 2:14 and Acts 7:27 put in the striker's mouth as a sneer. The Book of Mormon has answered the sneer in advance at 2:22, and here has an angel deliver the answer over a beating. The choice of 'ruler' rather than 'prince' identifies which of the two KJV versions is in play.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": ["machine-ngram", "manual"]
+      },
+      {
+        "source": "1 Samuel 17:46",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "This day will the LORD deliver thee into mine hand; and I will smite thee, and take thine head from thee; and I will give the carcases of the host of the Philistines this day unto the fowls of the air, and to the wild beasts of the earth; that all the earth may know that there is a God in Israel.",
+        "evidence": { "vocabulary": 4, "syntax": 4, "sequence": 5, "context": 5, "rarity": 3, "attestation": 2 },
+        "kjvSpecific": "no",
+        "mediation": "direct-OT",
+        "composite": ["1 Samuel 23:4", "Judges 7:9", "Joshua 8:7"],
+        "recurrenceRefs": ["1 Nephi 4:3", "1 Nephi 4:12", "1 Nephi 4:18"],
+        "provenance": {
+          "route": "The holy-war delivery formula → KJV → Book of Mormon",
+          "other": "'Deliver … into thine/mine hand' occurs in a dozen KJV verses, all of them sanctioning a killing or a conquest (Deuteronomy 7:24, Joshua 8:7, Judges 4:7, 7:7, 1 Samuel 17:46, 23:4, 24:4 and others).",
+          "significance": "The formula is what makes chapter 4 possible. Every KJV occurrence licenses a killing in advance, and 1 Samuel 17:46 — the only one spoken by a youth about a mighty man, and the only one that goes on to name decapitation as the method — is the one whose narrative 1 Nephi 4 then carries out. The Spirit's argument to Nephi at 4:12-13 is a defence of a killing the angel has already authorized here, in the Bible's own language for authorizing killings."
+        },
+        "note": "'Behold thou shalt go up to Jerusalem again, and the Lord will deliver Laban into your hands.' The clause is the Deuteronomistic holy-war formula, and the version standing closest is 1 Samuel 17:46, David's answer to Goliath, because it alone is spoken by the youngest brother against a mighty man and alone specifies the head. Chapter 4 supplies the head. Note the 1830 reading 'Behold thou shalt go up' where 1920 has 'ye shall' — the first edition addresses the command to one of the four, which reads as the angel singling Nephi out.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": ["machine-ngram", "manual"]
+      }
+    ],
+    "3:31": [
+      {
+        "source": "1 Samuel 17:33",
+        "type": "allusion",
+        "subtype": "conceptual",
+        "confidence": "high",
+        "text": "And Saul said to David, Thou art not able to go against this Philistine to fight with him: for thou art but a youth, and he a man of war from his youth.",
+        "evidence": { "vocabulary": 3, "syntax": 4, "sequence": 5, "context": 5, "rarity": 3, "attestation": 2 },
+        "kjvSpecific": "uncertain",
+        "mediation": "direct-OT",
+        "composite": ["2 Samuel 17:10", "1 Samuel 17:11"],
+        "recurrenceRefs": ["1 Nephi 4:1"],
+        "provenance": {
+          "route": "1 Samuel 17:33 → KJV → Book of Mormon",
+          "alternative": "'He is a mighty man' is a stock KJV description (2 Samuel 17:10 of David himself, and a dozen others), and the objection that an enemy is too strong is the oldest speech in war literature.",
+          "significance": "The objection and the answer are both 1 Samuel 17's. Saul weighs the youth against the man of war; David answers by naming the LORD, and by arithmetic — the lion and the bear, and now this Philistine. Nephi answers his brothers the same way at 4:1, and answers with arithmetic too: 'the Lord is mightier than all the earth, then why not mightier than Laban and his fifty, yea, or even than his tens of thousands?' The number in that reply is 1 Samuel 18:7's, the women's song of Saul's thousands and David's ten thousands."
+        },
+        "note": "'How is it possible that the Lord will deliver Laban into our hands? Behold he is a mighty man, and he can command fifty, yea, even he can slay fifty; then why not us?' This is Saul's objection at 1 Samuel 17:33 — the enemy's proven capacity against the youth's — put in the mouths of the elder brothers, three verses after the eldest-brother's anger of 17:28 was put there too. Recorded at high confidence on sequence: the Book of Mormon takes 1 Samuel 17's speeches in 1 Samuel 17's order and redistributes them among its own cast.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": ["machine-ngram", "manual"]
+      }
+    ]
+  }
+}

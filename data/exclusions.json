@@ -417,6 +417,176 @@
         "manual"
       ],
       "reason": "Recorded not as a rejection but as the losing half of a mediation test, because the reasoning is the point. Exodus 2:14 is the ultimate source of the formula behind 'a ruler and a teacher over thy brethren' — but the KJV renders it 'a prince and a judge', and only Acts 7:27 and 7:35 render it 'a ruler and a judge'. The Book of Mormon has 'ruler'. So the Old Testament verse is the source of the story and the New Testament verses are the source of the English, which is exactly what the mediation field 'OT-via-NT' exists to record. Exodus 2:14 is carried in the link's composite list."
+    },
+    {
+      "bomRef": "1 Nephi 3:8",
+      "source": "Luke 23:8",
+      "category": "wrong-sense",
+      "sharedText": "he was exceeding glad for he",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "The highest-scoring candidate in the chapter (rarity 3.00, a six-word run) and the clearest wrong-sense case yet. 'Exceeding glad' occurs in four KJV verses; Luke 23:8 is Herod's gladness at finally getting Jesus in front of him, 'for he was desirous to see him of a long season … and he hoped to have seen some miracle done by him' — prurient, and immediately followed by mockery and a gorgeous robe. Lehi's gladness is a father's at a son's obedience. Nothing but the string is shared, and the string is shared because both texts use the KJV's ordinary intensifier. Psalm 21:6 ('thou hast made him exceeding glad with thy countenance', of the blessed king) would be a better source if one were needed; none is."
+    },
+    {
+      "bomRef": "1 Nephi 3:9",
+      "source": "Ezekiel 38:11",
+      "category": "formulaic",
+      "sharedText": "go up to the land of",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "Gog's boast about invading unwalled villages. Going up to a land is the KJV's standard idiom of approach, and the noun that follows differs. The same candidate recurs at 3:10 and is passed over there."
+    },
+    {
+      "bomRef": "1 Nephi 3:11",
+      "source": "Esther 4:8",
+      "category": "formulaic",
+      "sharedText": "should go in unto the",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "Mordecai charging Esther to go in unto the king. Function words plus a verb of entry; the two errands have nothing else in common."
+    },
+    {
+      "bomRef": "1 Nephi 3:13",
+      "source": "Mark 9:30",
+      "category": "formulaic",
+      "sharedText": "and he would not that",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "'He would not that any man should know it' — a negated volitional construction, entirely syntactic."
+    },
+    {
+      "bomRef": "1 Nephi 3:15",
+      "source": "Genesis 43:5",
+      "category": "better-source-identified",
+      "sharedText": "we will not go down",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "Tempting, because the Joseph cycle is genuinely live in this book (see the Genesis 37:9 link at 3:2) and Genesis 43:5 is brothers refusing to go down to Egypt. But the refusals point opposite ways: Judah's brothers will not go down to face the errand, and Nephi will not go down until the errand is done. The source of 3:15 is the doubled oath formula, which Genesis 43:5 does not have and 2 Kings 2:2 does."
+    },
+    {
+      "bomRef": "1 Nephi 3:15",
+      "source": "2 Samuel 11:10",
+      "category": "formulaic",
+      "sharedText": "not go down unto",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "Uriah declining to go down to his house. Four function words around a verb of motion."
+    },
+    {
+      "bomRef": "1 Nephi 3:16",
+      "source": "2 Kings 14:14",
+      "category": "common-vocabulary",
+      "sharedText": "gold and silver and all",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "'Gold and silver' is one of the KJV's commonest pairs and the Book of Mormon uses it as boilerplate for wealth throughout. Jehoash's plunder of the temple contributes nothing."
+    },
+    {
+      "bomRef": "1 Nephi 3:16",
+      "source": "Jeremiah 46:16",
+      "category": "formulaic",
+      "sharedText": "to the land of our",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "'The land of our nativity'; the Book of Mormon has 'the land of our father's inheritance'. The shared span is four function words plus a possessive. Recurs at 3:22 and is passed over there."
+    },
+    {
+      "bomRef": "1 Nephi 3:18",
+      "source": "Matthew 18:7",
+      "category": "formulaic",
+      "sharedText": "it must needs be that",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "'Must needs be' is the KJV's necessity idiom (also Acts 17:3, 1 Corinthians 5:10). Matthew 18:7 is about offences and shares nothing else."
+    },
+    {
+      "bomRef": "1 Nephi 3:18",
+      "source": "Leviticus 13:7",
+      "category": "formulaic",
+      "sharedText": "after that he hath been",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "A temporal subordinator from the law of the spreading scab. Note that the 1830 'after that he hath been commanded' was shortened to 'after he hath been' in 1920, which removes the string entirely — the match exists only in the first edition, and only as grammar."
+    },
+    {
+      "bomRef": "1 Nephi 3:20",
+      "source": "John 17:8",
+      "category": "formulaic",
+      "sharedText": "unto them the words which",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "Displaced by Acts 3:21, which supplies the whole clause rather than its opening five function words."
+    },
+    {
+      "bomRef": "1 Nephi 3:29",
+      "source": "2 Timothy 2:4",
+      "category": "wrong-sense",
+      "sharedText": "hath chosen him to be a",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "A six-word run, rarity 2.50, and the object is what breaks it: 2 Timothy's soldier does not entangle himself with the affairs of this life, 'that he may please him who hath chosen him to be a soldier.' The Book of Mormon's clause is 'chosen him to be a ruler over you', which is Acts 7:27's noun and Acts 7:35's argument. A good illustration of an n-gram window closing one word before the word that decides the case."
+    },
+    {
+      "bomRef": "1 Nephi 3:29",
+      "source": "Matthew 2:19",
+      "category": "common-vocabulary",
+      "sharedText": "behold an angel of the Lord",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "'An angel of the Lord' appears throughout both testaments; the appearance formula carries no signal. Note that Matthew 2 IS relevant to this book, but at 1 Nephi 2:2 (the dream-warning sequence), not here."
+    },
+    {
+      "bomRef": "1 Nephi 3:29",
+      "source": "1 Samuel 3:10",
+      "category": "insufficient-verbal",
+      "sharedText": "the LORD came and stood",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "'And the LORD came, and stood, and called' — the call of Samuel, and a real parallel of form for a nocturnal divine appearance to a youth. Rejected because the shared words are the two commonest verbs of theophany, and because the content of 3:29 is Acts 7:26-27, which accounts for the whole speech and not just its stage direction."
+    },
+    {
+      "bomRef": "1 Nephi 3:29",
+      "source": "2 Chronicles 6:5",
+      "category": "better-source-identified",
+      "sharedText": "to be a ruler over",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "Solomon's prayer, 'neither chose I any man to be a ruler over my people Israel'. The phrase is right and the passage is wrong: the Book of Mormon's ruler-clause belongs to the Exodus 2 / Acts 7 challenge, which supplies the beating, the intervener, and the elder brothers as well as the noun."
+    },
+    {
+      "bomRef": "1 Nephi 3:29",
+      "source": "Luke 5:30",
+      "category": "formulaic",
+      "sharedText": "saying why do ye",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "The scribes murmuring about publicans. An interrogative formula; Acts 7:26 supplies the same four words together with the situation."
+    },
+    {
+      "bomRef": "1 Nephi 3:31",
+      "source": "2 Samuel 17:10",
+      "category": "common-vocabulary",
+      "sharedText": "is a mighty man and",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "Hushai's counsel, of David: 'thy father is a mighty man'. 'Mighty man' is one of the KJV's stock epithets and points nowhere in particular; the objection at 3:31 is 1 Samuel 17:33's, on sequence rather than wording. Retained in that link's composite list rather than as a source."
     }
   ]
 }
