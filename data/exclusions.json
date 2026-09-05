@@ -867,6 +867,56 @@
         "machine-ngram"
       ],
       "reason": "Five function words spanning a clause boundary in both texts."
+    },
+    {
+      "bomRef": "1 Nephi 6:1",
+      "source": "Philippians 1:29",
+      "category": "formulaic",
+      "sharedText": "it is given in the",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "'Unto you it is given in the behalf of Christ.' Five function words plus a passive; the Book of Mormon's 'it is given in the record which has been kept by my father' is bibliographic."
+    },
+    {
+      "bomRef": "1 Nephi 6:1",
+      "source": "1 Thessalonians 2:5",
+      "category": "formulaic",
+      "sharedText": "neither at any time",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "A negative-temporal adverbial. Paul is disclaiming flattery."
+    },
+    {
+      "bomRef": "1 Nephi 6:1",
+      "source": "Genesis 47:9",
+      "category": "insufficient-verbal",
+      "sharedText": "of my fathers in",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "Jacob before Pharaoh on the days of the years of his pilgrimage. A real thematic neighbour — a patriarch's account of his fathers, and this book's tent-dwelling pilgrimage language elsewhere leans on Hebrews 11:9-13, which is Genesis 47:9's New Testament reading — but four function words at this verse is not the place to record it."
+    },
+    {
+      "bomRef": "1 Nephi 6:3",
+      "source": "1 Corinthians 2:11",
+      "category": "common-vocabulary",
+      "sharedText": "the things of God",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "'The things of God' is a stock KJV phrase (Matthew 16:23, Romans 15:17, 1 Corinthians 2:11-14). The editorial move at 6:3 is John 21:25's, not Paul's."
+    },
+    {
+      "bomRef": "1 Nephi 6:5",
+      "source": "Job 5:8",
+      "category": "formulaic",
+      "sharedText": "unto God and unto",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "Four function words. The verse's source is Galatians 1:10."
     }
   ]
 }

@@ -4179,21 +4179,139 @@
       "ch": 6,
       "ref": "6:3",
       "text": "And it mattereth not to me that I am particular to give a full account of all the things of my father, for they cannot be written upon these plates, for I desire the room, that I may write of the things of God.",
-      "links": []
+      "links": [
+        {
+          "source": "John 21:25",
+          "type": "allusion",
+          "subtype": "conceptual",
+          "confidence": "moderate",
+          "text": "And there are also many other things which Jesus did, the which, if they should be written every one, I suppose that even the world itself could not contain the books that should be written. Amen.",
+          "evidence": {
+            "vocabulary": 2,
+            "syntax": 3,
+            "sequence": 4,
+            "context": 5,
+            "rarity": 4,
+            "attestation": 0
+          },
+          "kjvSpecific": "uncertain",
+          "mediation": "direct-NT",
+          "composite": [
+            "John 20:30"
+          ],
+          "recurrenceRefs": [
+            "1 Nephi 1:16",
+            "1 Nephi 9:2",
+            "1 Nephi 14:28"
+          ],
+          "provenance": {
+            "route": "John 20:30-21:25 → KJV → Book of Mormon",
+            "alternative": "The apology for an abridged record is a convention of ancient historiography generally, not a Johannine property; 2 Maccabees 2:24-31 makes the same excuse at length and is not in the KJV.",
+            "significance": "John's two colophons are the KJV's only formal statements that a record has been cut short for reasons of space and selection — 'many other signs truly did Jesus … which are not written in this book', and the hyperbole about the world not containing the books. 1 Nephi's editorial apparatus makes the same move repeatedly (1:16, 6:3, 9:2, 14:28), and it is the move that constitutes the Book of Mormon as a selected record with a stated purpose rather than a chronicle. Verse 4 then gives the purpose, exactly as John 20:31 does: 'these are written, that ye might believe.'"
+          },
+          "note": "'They cannot be written upon these plates, for I desire the room, that I may write of the things of God.' The gesture — too much material, deliberate omission, and a stated criterion of selection — is John's colophon, and the two verses run in John's order: the omission at 6:3, then the purpose clause at 6:4 answering John 20:31. Nothing verbal is reproduced; the physical constraint ('I desire the room') is the Book of Mormon's own, and is the point at which its metal plates make the convention literal.",
+          "bibliography": [],
+          "status": "novel",
+          "citationsPending": true,
+          "streams": [
+            "manual"
+          ]
+        }
+      ]
     },
     {
       "id": "6:4",
       "ch": 6,
       "ref": "6:4",
       "text": "For the fullness of mine intent is that I may persuade men to come unto the God of Abraham, and the God of Isaac, and the God of Jacob, and be saved.",
-      "links": []
+      "links": [
+        {
+          "source": "Acts 7:32",
+          "type": "quotation",
+          "subtype": "explicit",
+          "confidence": "high",
+          "text": "Saying, I am the God of thy fathers, the God of Abraham, and the God of Isaac, and the God of Jacob. Then Moses trembled, and durst not behold.",
+          "evidence": {
+            "vocabulary": 5,
+            "syntax": 5,
+            "sequence": 5,
+            "context": 4,
+            "rarity": 4,
+            "attestation": 3
+          },
+          "kjvSpecific": "yes",
+          "mediation": "OT-via-NT",
+          "composite": [
+            "Matthew 22:32",
+            "Mark 12:26",
+            "Luke 20:37"
+          ],
+          "recurrenceRefs": [
+            "1 Nephi 2:22",
+            "1 Nephi 3:29",
+            "1 Nephi 5:14"
+          ],
+          "provenance": {
+            "mt": "Exodus 3:6 — 'the God of Abraham, the God of Isaac, and the God of Jacob' (also 3:15, 4:5, identically).",
+            "route": "Exodus 3:6 → the New Testament citation form (Matthew 22:32 / Mark 12:26 / Luke 20:37 / Acts 7:32) → KJV → Book of Mormon",
+            "other": "The two English forms differ by one word. All three Exodus verses read 'the God of Abraham, the God of Isaac, and the God of Jacob'; all four New Testament verses read 'the God of Abraham, AND the God of Isaac, and the God of Jacob'. 1 Nephi 6:4 has the second 'and'.",
+            "alternative": "The four New Testament verses are identical across the whole shared span, so nothing in the wording selects among them. Acts 7:32 is named as source because Stephen's speech is a demonstrated source for this book at 2:22, 3:29 and 5:14; the three Synoptic verses are kept as composite and a reader may prefer any of them.",
+            "significance": "A second clean mediation test, decided the same way as 2:22 and by the same kind of evidence — a single word that differs between the Old Testament KJV and its New Testament quotation. Fourteen words are reproduced in sequence, which is the longest verbatim run in 1 Nephi 1-6, and they are reproduced in the New Testament's form. The Book of Mormon states the covenant name of God in the wording it has in the mouth of Jesus and of Stephen, not in the wording it has at the burning bush."
+          },
+          "note": "'That I may persuade men to come unto the God of Abraham, and the God of Isaac, and the God of Jacob, and be saved.' Fourteen words verbatim, and the second conjunction is the whole argument: Exodus never has it and the New Testament always does. Still below Skousen's sixteen-word threshold and not one of his quotations — worth saying, because on run length alone this is the closest 1 Nephi 1-6 comes to it. See 6:5 for the Pauline frame the sentence sits in; 'persuade men' in 6:4 and 'pleasing' in 6:5 are both Galatians 1:10's.",
+          "bibliography": [],
+          "status": "novel",
+          "citationsPending": true,
+          "streams": [
+            "machine-ngram",
+            "manual"
+          ]
+        }
+      ]
     },
     {
       "id": "6:5",
       "ch": 6,
       "ref": "6:5",
       "text": "Wherefore the things which are pleasing unto the world, I do not write, but the things which are pleasing unto God and unto them which are not of the world.",
-      "links": []
+      "links": [
+        {
+          "source": "Galatians 1:10",
+          "type": "allusion",
+          "subtype": "strong-verbal",
+          "confidence": "high",
+          "text": "For do I now persuade men, or God? or do I seek to please men? for if I yet pleased men, I should not be the servant of Christ.",
+          "evidence": {
+            "vocabulary": 5,
+            "syntax": 5,
+            "sequence": 5,
+            "context": 5,
+            "rarity": 5,
+            "attestation": 0
+          },
+          "kjvSpecific": "yes",
+          "mediation": "direct-NT",
+          "composite": [
+            "2 Corinthians 5:11"
+          ],
+          "recurrenceRefs": [
+            "1 Nephi 6:4",
+            "1 Nephi 1:3"
+          ],
+          "provenance": {
+            "route": "Galatians 1:10 → KJV → Book of Mormon",
+            "other": "'Persuade men' occurs in exactly two KJV verses, Galatians 1:10 and 2 Corinthians 5:11. 'Please men' / 'pleased men' occurs in exactly one, Galatians 1:10. That one verse therefore contains both of the terms 1 Nephi 6:4-5 uses, and is the only verse in the English Bible that does.",
+            "significance": "Two consecutive Book of Mormon verses take their two governing terms from one Pauline sentence, and take them in Paul's order. Galatians 1:10 asks whether the writer persuades men or God and whether he seeks to please men; 1 Nephi 6:4 says his intent is to persuade men, and 6:5 says he writes not what pleases the world but what pleases God. Recover Galatians 1:10's context and the point sharpens: Paul is defending the independent authority of his gospel — 'I neither received it of man, neither was I taught it, but by the revelation of Jesus Christ' (1:12) — which is the claim Nephi's colophon has been making since 1:3."
+          },
+          "note": "'The things which are pleasing unto the world, I do not write, but the things which are pleasing unto God and unto them which are not of the world.' Set against Galatians 1:10, the two rare terms of 6:4-5 belong to a single verse, and the antithesis is Paul's: men or God, pleasing men or serving Christ. The Book of Mormon adds the third party — 'them which are not of the world' — which is Johannine rather than Pauline (John 15:19, 17:14), and which is how the colophon includes its own readers. The 1830 'them which' is the KJV relative; 1920 reads 'those who'.",
+          "bibliography": [],
+          "status": "novel",
+          "citationsPending": true,
+          "streams": [
+            "manual"
+          ]
+        }
+      ]
     },
     {
       "id": "6:6",
