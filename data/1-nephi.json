@@ -6430,7 +6430,48 @@
       "ch": 11,
       "ref": "11:1",
       "text": "For it came to pass that after I had desired to know the things that my father had seen, and believing that the Lord was able to make them known unto me; wherefore, as I sat pondering in mine heart, I was caught away in the spirit of the Lord, yea, into an exceeding high mountain, which I never had before seen, and upon which I never had before sat my foot.",
-      "links": []
+      "links": [
+        {
+          "source": "Revelation 21:10",
+          "type": "allusion",
+          "subtype": "strong-verbal",
+          "confidence": "high",
+          "text": "And he carried me away in the spirit to a great and high mountain, and shewed me that great city, the holy Jerusalem, descending out of heaven from God,",
+          "evidence": {
+            "vocabulary": 4,
+            "syntax": 5,
+            "sequence": 5,
+            "context": 5,
+            "rarity": 4,
+            "attestation": 1
+          },
+          "kjvSpecific": "yes",
+          "mediation": "direct-NT",
+          "composite": [
+            "Revelation 17:3",
+            "Matthew 4:8",
+            "Ezekiel 40:2"
+          ],
+          "recurrenceRefs": [
+            "1 Nephi 11:13",
+            "1 Nephi 11:19",
+            "1 Nephi 11:29"
+          ],
+          "provenance": {
+            "route": "Revelation 21:10 → KJV → Book of Mormon",
+            "other": "'Carried away in the spirit' occurs in exactly two KJV verses, Revelation 17:3 and 21:10, and both are transitions into a vision. 'An exceeding high mountain' occurs in exactly one, Matthew 4:8, where the devil takes Jesus up to shew him the kingdoms of the world.",
+            "significance": "The chapter's opening sentence takes its mechanism from Revelation and its mountain from the temptation. Revelation 21:10's structure is exact: caught away in the spirit, to a high mountain, and then shewn a great city — which is what 11:13 delivers, 'I beheld the great city Jerusalem'. Matthew 4:8's mountain is the one place in the KJV where a spirit takes a man up a high mountain and shews him the world; here the taker is the Spirit of the Lord and what is shewn is the tree. The Book of Mormon has kept the whole apparatus of both scenes and reversed the second one's agent. Verses 19 and 29 then reuse 'carried away in the spirit' for others, which is how a borrowed formula behaves once it is the book's own."
+          },
+          "note": "'I was caught away in the spirit of the Lord, yea, into an exceeding high mountain, which I never had before seen.' Both phrases are KJV rarities and they belong to different books; the verse fuses the apocalyptic transport formula with the temptation's mountain. Note the 1830 'sat my foot' where 1920 reads 'set' — a first-edition form, not a KJV one.",
+          "bibliography": [],
+          "status": "novel",
+          "citationsPending": true,
+          "streams": [
+            "machine-ngram",
+            "manual"
+          ]
+        }
+      ]
     },
     {
       "id": "11:2",
@@ -6465,14 +6506,92 @@
       "ch": 11,
       "ref": "11:6",
       "text": "And when I had spoken these words, the spirit cried with a loud voice, saying: Hosanna to the Lord, the most high God; for he is God over all the earth, yea, even above all; and blessed art thou, Nephi, because thou believest in the Son of the Most High God; wherefore, thou shalt behold the things which thou hast desired.",
-      "links": []
+      "links": [
+        {
+          "source": "Matthew 16:16",
+          "type": "allusion",
+          "subtype": "strong-verbal",
+          "confidence": "high",
+          "text": "And Simon Peter answered and said, Thou art the Christ, the Son of the living God.",
+          "evidence": {
+            "vocabulary": 4,
+            "syntax": 5,
+            "sequence": 5,
+            "context": 5,
+            "rarity": 4,
+            "attestation": 0
+          },
+          "kjvSpecific": "yes",
+          "mediation": "direct-NT",
+          "composite": [
+            "Matthew 16:17",
+            "Mark 5:7",
+            "Genesis 14:22",
+            "Matthew 21:9"
+          ],
+          "recurrenceRefs": [
+            "1 Nephi 2:1",
+            "1 Nephi 2:19"
+          ],
+          "provenance": {
+            "route": "Matthew 16:16-17 → KJV → Book of Mormon",
+            "other": "'The most high God' is Genesis 14:18-22's title for God and Mark 5:7's ('thou Son of the most high God'). 'Hosanna' is confined to the triumphal entry (Matthew 21:9, 15; Mark 11:9-10; John 12:13).",
+            "significance": "This is the third and strongest occurrence of the 'Blessed art thou, <name>' formula in 1 Nephi, and the first at which the whole of Matthew 16:16-17 is in play rather than the vocative alone. Matthew's sequence is a confession of the Son of God followed by a blessing on the confessor, grounded in the fact that the confession was revealed and not reasoned. 1 Nephi 11:6 has the identical sequence: 'blessed art thou, Nephi, because thou believest in the Son of the Most High God' — and what follows in both is a promise of further disclosure. The links at 2:1 and 2:19 should be read through this one."
+          },
+          "note": "'Blessed art thou, Nephi, because thou believest in the Son of the Most High God; wherefore, thou shalt behold the things which thou hast desired.' Matthew 16:16-17 supplies both halves — the confession and the benediction — and Mark 5:7's 'Son of the most high God' supplies the exact title, which the KJV otherwise reserves for Melchizedek's God at Genesis 14. The 'Hosanna' that opens the verse is the triumphal entry's cry, sung here by the Spirit at the start of a vision of the Messiah's life.",
+          "bibliography": [],
+          "status": "novel",
+          "citationsPending": true,
+          "streams": [
+            "machine-ngram",
+            "manual"
+          ]
+        }
+      ]
     },
     {
       "id": "11:7",
       "ch": 11,
       "ref": "11:7",
       "text": "And behold, this thing shall be given unto thee for a sign: that after thou hast beheld the tree which bore the fruit which thy father tasted, thou shalt also behold a man descending out of Heaven, and him shall ye witness; and after that ye have witnessed him, ye shall bear record that it is the Son of God.",
-      "links": []
+      "links": [
+        {
+          "source": "John 1:34",
+          "type": "allusion",
+          "subtype": "close-verbal",
+          "confidence": "high",
+          "text": "And I saw, and bare record that this is the Son of God.",
+          "evidence": {
+            "vocabulary": 5,
+            "syntax": 5,
+            "sequence": 5,
+            "context": 5,
+            "rarity": 5,
+            "attestation": 4
+          },
+          "kjvSpecific": "yes",
+          "mediation": "direct-NT",
+          "recurrenceRefs": [
+            "1 Nephi 11:32",
+            "1 Nephi 11:36",
+            "1 Nephi 10:10"
+          ],
+          "provenance": {
+            "route": "John 1:34 → KJV → Book of Mormon",
+            "other": "'Bare record that this is' occurs in exactly one KJV verse. The 1830 reads 'bear record' in the present tense at 11:32 and 11:36, where the KJV has the preterite 'bare'.",
+            "significance": "John 1:34 is the Baptist's testimony formula and 1 Nephi makes it the vision's own. It appears three times: promised here at 11:7 ('ye shall bear record that it is the Son of God'), then discharged at 11:32 and 11:36 ('I saw and bear record'). The chapter is structured as a sworn deposition in John's words — the same words that at 10:10 described what the Baptist would do. The seer has taken over the forerunner's office."
+          },
+          "note": "'And after that ye have witnessed him, ye shall bear record that it is the Son of God.' The formula is John 1:34's and the whole clause is reproduced with the demonstrative changed. Note the recurrence: this is the promise, and 11:32 and 11:36 are its fulfilment in the same words.",
+          "bibliography": [
+            "Hardy MSI at 1 Ne 11.32 and 11.36 (John 1:34)"
+          ],
+          "status": "consensus",
+          "streams": [
+            "scholarship",
+            "manual"
+          ]
+        }
+      ]
     },
     {
       "id": "11:8",
@@ -6500,7 +6619,41 @@
       "ch": 11,
       "ref": "11:11",
       "text": "And I said unto him, to know the interpretation thereof; for I spake unto him as a man speaketh; for I beheld that he was in the form of a man; yet, nevertheless, I knew that it was the spirit of the Lord; and he spake unto me as a man speaketh with another.",
-      "links": []
+      "links": [
+        {
+          "source": "Exodus 33:11",
+          "type": "allusion",
+          "subtype": "close-verbal",
+          "confidence": "high",
+          "text": "And the LORD spake unto Moses face to face, as a man speaketh unto his friend. And he turned again into the camp: but his servant Joshua, the son of Nun, a young man, departed not out of the tabernacle.",
+          "evidence": {
+            "vocabulary": 5,
+            "syntax": 5,
+            "sequence": 4,
+            "context": 5,
+            "rarity": 5,
+            "attestation": 1
+          },
+          "kjvSpecific": "yes",
+          "mediation": "direct-OT",
+          "composite": [
+            "Ezekiel 1:26",
+            "Numbers 12:8"
+          ],
+          "provenance": {
+            "route": "Exodus 33:11 → KJV → Book of Mormon",
+            "other": "'As a man speaketh' occurs in exactly one KJV verse.",
+            "significance": "The KJV's superlative statement of intimacy with God is Exodus 33:11, and it is said of Moses alone: the LORD spake unto him face to face, as a man speaketh unto his friend. 1 Nephi 11:11 says it twice in one verse of Nephi — 'I spake unto him as a man speaketh … and he spake unto me as a man speaketh with another.' The Moses typology that has governed this book since the pillar of fire at 1:6 arrives here at its most audacious point: the claim is not that Nephi is like Moses in his errand but that he is like Moses in his access."
+          },
+          "note": "The phrase is a KJV singleton and the Book of Mormon uses it in both directions of the conversation, which is more than Exodus does. 'He was in the form of a man' has no KJV phrase behind it but has a KJV precedent in Ezekiel 1:26, 'the likeness as the appearance of a man', and Numbers 12:8's 'the similitude of the LORD shall he behold', which is again said of Moses.",
+          "bibliography": [],
+          "status": "novel",
+          "citationsPending": true,
+          "streams": [
+            "manual"
+          ]
+        }
+      ]
     },
     {
       "id": "11:12",
@@ -6514,14 +6667,92 @@
       "ch": 11,
       "ref": "11:13",
       "text": "And it came to pass that I looked and beheld the great city Jerusalem, and also other cities. And I beheld the city of Nazareth; and in the city of Nazareth I beheld a virgin, and she was exceeding fair and white.",
-      "links": []
+      "links": [
+        {
+          "source": "Luke 1:26",
+          "type": "allusion",
+          "subtype": "strong-verbal",
+          "confidence": "high",
+          "text": "And in the sixth month the angel Gabriel was sent from God unto a city of Galilee, named Nazareth,",
+          "evidence": {
+            "vocabulary": 4,
+            "syntax": 4,
+            "sequence": 5,
+            "context": 5,
+            "rarity": 5,
+            "attestation": 3
+          },
+          "kjvSpecific": "yes",
+          "mediation": "direct-NT",
+          "composite": [
+            "Luke 1:27",
+            "Acts 7:20"
+          ],
+          "recurrenceRefs": [
+            "1 Nephi 11:15",
+            "1 Nephi 11:18",
+            "1 Nephi 11:20"
+          ],
+          "provenance": {
+            "route": "Luke 1:26-27 → KJV → Book of Mormon",
+            "other": "'Exceeding fair' occurs in exactly one KJV verse: Acts 7:20, 'In which time Moses was born, and was exceeding fair, and nourished up in his father's house three months.'",
+            "significance": "Two things happen in one sentence. The city and the virgin are Luke 1:26-27's, in Luke's order — a city named Nazareth, and in it a virgin — which is the annunciation's own opening. And the description of the virgin, 'exceeding fair', is a phrase that exists in exactly one verse of the King James Bible, where it describes the infant Moses. So the mother of the Messiah is introduced in Luke's setting and characterized in Stephen's phrase for Moses's beauty at birth — a fourth demonstrable borrowing from Acts 7 (after 2:22, 3:29, 5:14, 6:4), and the one that reaches furthest from its source's subject."
+          },
+          "note": "'I beheld the city of Nazareth; and in the city of Nazareth I beheld a virgin, and she was exceeding fair and white.' Luke supplies the frame; Acts 7:20 supplies the adjective pair. The 1830 reads 'exceeding fair' where 1920 modernized to 'exceedingly fair', so the first edition holds the KJV's exact form and the current text does not.",
+          "bibliography": [],
+          "status": "novel",
+          "citationsPending": true,
+          "streams": [
+            "manual"
+          ]
+        }
+      ]
     },
     {
       "id": "11:14",
       "ch": 11,
       "ref": "11:14",
       "text": "And it came to pass that I saw the Heavens open; and an angel came down and stood before me; and he saith unto me, Nephi, what beholdest thou?",
-      "links": []
+      "links": [
+        {
+          "source": "Acts 7:56",
+          "type": "allusion",
+          "subtype": "close-verbal",
+          "confidence": "moderate",
+          "text": "And said, Behold, I see the heavens opened, and the Son of man standing on the right hand of God.",
+          "evidence": {
+            "vocabulary": 4,
+            "syntax": 3,
+            "sequence": 3,
+            "context": 5,
+            "rarity": 3,
+            "attestation": 0
+          },
+          "kjvSpecific": "uncertain",
+          "mediation": "direct-NT",
+          "composite": [
+            "Ezekiel 1:1",
+            "Mark 1:10",
+            "Revelation 19:11"
+          ],
+          "recurrenceRefs": [
+            "1 Nephi 11:27",
+            "1 Nephi 11:30"
+          ],
+          "provenance": {
+            "route": "Acts 7:56 → KJV → Book of Mormon",
+            "alternative": "Opened heavens are the standard signal of a vision: Ezekiel 1:1, Matthew 3:16, Mark 1:10, John 1:51, Acts 10:11, Revelation 4:1 and 19:11 all have some form of it.",
+            "significance": "The phrase itself decides nothing; its interest is cumulative. This chapter opens the heavens three times (11:14, 11:27, 11:30), and Acts 7:56 is the KJV's one instance of a man reporting the sight in the first person as testimony — which is exactly the register 11:7 established for the whole vision, 'ye shall bear record'. That it is again Acts 7 is worth recording, since Stephen's speech has now supplied this book at 2:22, 3:29, 5:14, 6:4 and 11:13."
+          },
+          "note": "'I saw the Heavens open; and an angel came down and stood before me.' Recorded at moderate on a common formula, and kept because of the pattern rather than the phrase. Ezekiel 1:1 is the Old Testament candidate and is equally available.",
+          "bibliography": [],
+          "status": "novel",
+          "citationsPending": true,
+          "streams": [
+            "manual"
+          ]
+        }
+      ]
     },
     {
       "id": "11:15",
@@ -6549,7 +6780,41 @@
       "ch": 11,
       "ref": "11:18",
       "text": "And he said unto me, Behold, the virgin which thou seest, is the mother of God, after the manner of the flesh.",
-      "links": []
+      "links": [
+        {
+          "source": "Luke 1:43",
+          "type": "echo",
+          "subtype": "probable",
+          "confidence": "moderate",
+          "text": "And whence is this to me, that the mother of my Lord should come to me?",
+          "evidence": {
+            "vocabulary": 2,
+            "syntax": 2,
+            "sequence": 3,
+            "context": 5,
+            "rarity": 4,
+            "attestation": 4
+          },
+          "kjvSpecific": "no",
+          "mediation": "direct-NT",
+          "composite": [
+            "Romans 1:3",
+            "Romans 9:5"
+          ],
+          "provenance": {
+            "route": "Luke 1:43 → KJV → Book of Mormon",
+            "other": "'Mother of God' is not a King James phrase and occurs nowhere in the English Bible. The KJV's nearest form is Elisabeth's 'the mother of my Lord' at Luke 1:43. The Book of Mormon's qualifier, 'after the manner of the flesh', is Pauline in shape — compare 'made of the seed of David according to the flesh' (Romans 1:3) and 'of whom as concerning the flesh Christ came' (Romans 9:5).",
+            "significance": "This is the single most consequential 1830 reading in the Book of Mormon and the reason this project runs on the first edition. The 1830 reads 'the virgin which thou seest, is the mother of God, after the manner of the flesh'; the 1837 edition changed it to 'the mother of the Son of God', and every edition since has followed. The same change was made at 11:21 ('the Lamb of God, yea, even the Eternal Father' → 'the Son of the Eternal Father'), 11:32 and 13:40. What the first edition says is not in the King James Bible at all — 'mother of God' is the Greek theotokos in English dress, a creedal title rather than a scriptural phrase — and the qualifier that follows it is doing precisely the work the title needs, restricting the maternity to the flesh. Whatever else the 1837 revision was, it was a retreat from a formula the KJV does not supply."
+          },
+          "note": "Recorded as an echo of Luke 1:43 because that is the nearest King James wording, but the point of the record is the negative finding: the 1830's phrase has no biblical source. Where nearly every other link in this catalogue shows the Book of Mormon reaching into the KJV, this verse shows it reaching past the KJV into the creeds, and being pulled back seven years later. See 11:21 for the companion reading.",
+          "bibliography": [],
+          "status": "consensus",
+          "citationsPending": true,
+          "streams": [
+            "manual"
+          ]
+        }
+      ]
     },
     {
       "id": "11:19",
@@ -6570,14 +6835,86 @@
       "ch": 11,
       "ref": "11:21",
       "text": "And the angel said unto me, behold the Lamb of God, yea, even the Eternal Father! Knowest thou the meaning of the tree which thy father saw?",
-      "links": []
+      "links": [
+        {
+          "source": "Isaiah 9:6",
+          "type": "allusion",
+          "subtype": "close-verbal",
+          "confidence": "high",
+          "text": "For unto us a child is born, unto us a son is given: and the government shall be upon his shoulder: and his name shall be called Wonderful, Counsellor, The mighty God, The everlasting Father, The Prince of Peace.",
+          "evidence": {
+            "vocabulary": 4,
+            "syntax": 3,
+            "sequence": 4,
+            "context": 5,
+            "rarity": 5,
+            "attestation": 3
+          },
+          "kjvSpecific": "yes",
+          "mediation": "direct-OT",
+          "composite": [
+            "John 1:29"
+          ],
+          "recurrenceRefs": [
+            "1 Nephi 11:18",
+            "1 Nephi 11:32",
+            "1 Nephi 13:40",
+            "2 Nephi 19:6"
+          ],
+          "provenance": {
+            "route": "Isaiah 9:6 → KJV → Book of Mormon",
+            "other": "'Everlasting Father' occurs in exactly one KJV verse, Isaiah 9:6 — which Nephi transcribes entire at 2 Nephi 19:6.",
+            "significance": "The 1830 reads 'behold the Lamb of God, yea, even the Eternal Father', joining John 1:29's title for the Son to Isaiah 9:6's title for God in a single apposition, over a virgin holding a newborn. The 1837 edition inserted 'the Son of' — 'even the Son of the Eternal Father' — as it did at 11:18, 11:32 and 13:40. The verse is therefore two things at once: an ordinary allusion to the one KJV verse containing 'everlasting Father', and the second exhibit in the 1830's identification of the Lamb with the Father. Both readings are the first edition's and both were revised away."
+          },
+          "note": "'Behold the Lamb of God, yea, even the Eternal Father!' John 1:29's title (see 10:10) and Isaiah 9:6's, which is a KJV singleton and which Nephi will copy out verbatim at 2 Nephi 19:6. The Book of Mormon's 'Eternal' for Isaiah's 'everlasting' is the only change. See 11:18 for the textual history the two verses share.",
+          "bibliography": [],
+          "status": "consensus",
+          "citationsPending": true,
+          "streams": [
+            "manual"
+          ]
+        }
+      ]
     },
     {
       "id": "11:22",
       "ch": 11,
       "ref": "11:22",
       "text": "And I answered him, saying: Yea, it is the love of God, which sheddeth itself abroad in the hearts of the children of men; wherefore, it is the most desirable above all things.",
-      "links": []
+      "links": [
+        {
+          "source": "Romans 5:5",
+          "type": "quotation",
+          "subtype": "close-verbal",
+          "confidence": "certain",
+          "text": "And hope maketh not ashamed; because the love of God is shed abroad in our hearts by the Holy Ghost which is given unto us.",
+          "evidence": {
+            "vocabulary": 5,
+            "syntax": 5,
+            "sequence": 5,
+            "context": 5,
+            "rarity": 5,
+            "attestation": 1
+          },
+          "kjvSpecific": "yes",
+          "mediation": "direct-NT",
+          "recurrenceRefs": [
+            "1 Nephi 11:25"
+          ],
+          "provenance": {
+            "route": "Romans 5:5 → KJV → Book of Mormon",
+            "other": "'Shed abroad in our hearts' occurs in exactly one KJV verse, and 'the love of God' governs it there as here. The Book of Mormon makes the verb reflexive — 'sheddeth itself abroad' — which is a grammatical change, not a lexical one.",
+            "significance": "The interpretation of the tree, the single most important sentence in Lehi's dream, is Romans 5:5. The whole answer Nephi gives — 'it is the love of God, which sheddeth itself abroad in the hearts of the children of men' — reproduces Paul's clause with 'our' generalized to 'the children of men'. And Paul's next words are the ones the vision has been running on: 'by the Holy Ghost which is given unto us.' The dream's tree, its fruit, and its water are all glossed at 11:22 and 11:25 as the love of God, and the gloss is a New Testament sentence about the Spirit's work in believers."
+          },
+          "note": "'It is the love of God, which sheddeth itself abroad in the hearts of the children of men.' Seven words of Romans 5:5, in order, from the only KJV verse containing them. The machine stream reached Romans 8:39 ('the love of God, which is in Christ Jesus') and missed the verse that supplies the predicate. Below Skousen's threshold and not one of his quotations; catalogued as a quotation, and at 'certain', because the phrase is a KJV singleton reproduced intact.",
+          "bibliography": [],
+          "status": "novel",
+          "citationsPending": true,
+          "streams": [
+            "manual"
+          ]
+        }
+      ]
     },
     {
       "id": "11:23",
@@ -6598,7 +6935,49 @@
       "ch": 11,
       "ref": "11:25",
       "text": "And it came to pass that I beheld that the rod of iron which my father had seen, was the word of God, which led to the fountain of living waters, or to the tree of life; which waters are a representation of the love of God; and I also beheld that the tree of life was a representation of the love of God.",
-      "links": []
+      "links": [
+        {
+          "source": "Jeremiah 2:13",
+          "type": "allusion",
+          "subtype": "close-verbal",
+          "confidence": "high",
+          "text": "For my people have committed two evils; they have forsaken me the fountain of living waters, and hewed them out cisterns, broken cisterns, that can hold no water.",
+          "evidence": {
+            "vocabulary": 5,
+            "syntax": 4,
+            "sequence": 4,
+            "context": 5,
+            "rarity": 5,
+            "attestation": 2
+          },
+          "kjvSpecific": "yes",
+          "mediation": "direct-OT",
+          "composite": [
+            "Jeremiah 17:13",
+            "Revelation 22:1",
+            "Revelation 22:14",
+            "John 4:14"
+          ],
+          "recurrenceRefs": [
+            "1 Nephi 8:13",
+            "1 Nephi 8:19",
+            "1 Nephi 15:23"
+          ],
+          "provenance": {
+            "route": "Jeremiah 2:13 → KJV → Book of Mormon",
+            "other": "'Fountain of living waters' occurs in exactly two KJV verses, Jeremiah 2:13 and 17:13, and in both it is a title for God that his people have abandoned.",
+            "significance": "Nephi's interpretation reassigns every element of his father's dream, and this verse does three at once: the rod of iron is the word of God, the water is the fountain of living waters, and both lead to the tree of life. The water's title is Jeremiah's — and in Jeremiah it names the God whom Judah forsook, which is the charge the whole first chapter of 1 Nephi was built on. Lehi's dream shows people who will not come to the water; Jeremiah's oracle says the nation has already left it. Nephi will later reinterpret the same river as hell (15:26-29), which makes this the one image in the book that carries two incompatible readings from its own narrators."
+          },
+          "note": "'The rod of iron which my father had seen, was the word of God, which led to the fountain of living waters, or to the tree of life.' The water phrase is Jeremiah's; the tree of life is Genesis's and Revelation's (see 8:10, 8:13); the rod of iron is Psalm 2:9 via Revelation (see 8:19). The verse is where the dream's three borrowed images are given their meanings, and the meanings are borrowed too.",
+          "bibliography": [],
+          "status": "consensus",
+          "citationsPending": true,
+          "streams": [
+            "machine-ngram",
+            "manual"
+          ]
+        }
+      ]
     },
     {
       "id": "11:26",
@@ -6612,7 +6991,50 @@
       "ch": 11,
       "ref": "11:27",
       "text": "And I looked and beheld the Redeemer of the world, of which my father had spoken; and I also beheld the prophet, which should prepare the way before him. And the Lamb of God went forth, and was baptised of him; and after that he was baptised, I beheld the Heavens open, and the Holy Ghost come down out of Heaven and abode upon him in the form of a dove.",
-      "links": []
+      "links": [
+        {
+          "source": "John 1:32",
+          "type": "quotation",
+          "subtype": "close-verbal",
+          "confidence": "certain",
+          "text": "And John bare record, saying, I saw the Spirit descending from heaven like a dove, and it abode upon him.",
+          "evidence": {
+            "vocabulary": 5,
+            "syntax": 5,
+            "sequence": 5,
+            "context": 5,
+            "rarity": 5,
+            "attestation": 5
+          },
+          "kjvSpecific": "yes",
+          "mediation": "direct-NT",
+          "composite": [
+            "Matthew 3:16",
+            "Mark 1:10",
+            "Luke 3:22"
+          ],
+          "recurrenceRefs": [
+            "1 Nephi 10:7",
+            "1 Nephi 10:8",
+            "1 Nephi 10:9",
+            "1 Nephi 10:10"
+          ],
+          "provenance": {
+            "route": "John 1:32 → KJV → Book of Mormon",
+            "other": "'Abode upon him' occurs in exactly one KJV verse. The Synoptic accounts have the Spirit 'descending like a dove, and lighting upon him' (Matthew 3:16), 'descending upon him' (Mark 1:10), and 'in a bodily shape like a dove upon him' (Luke 3:22); only John has the verb 'abode'. The 1830 reads 'abode upon him'; the 1920 edition changed it to 'abide'.",
+            "significance": "A fourth decisive mediation datum in two chapters, and the same one as at 10:9: where the KJV's four accounts of the baptism differ, the Book of Mormon takes John's. And the 1830/1920 divergence is the sharpest in the corpus so far — the first edition reproduces John 1:32's preterite exactly and the modern edition replaces it with an infinitive that matches nothing in the KJV. Every reader of the current text sees a verse that has been moved one step away from its source."
+          },
+          "note": "'The Lamb of God went forth, and was baptised of him; and after that he was baptised, I beheld the Heavens open, and the Holy Ghost come down out of Heaven and abode upon him in the form of a dove.' The whole sequence is John 1:32-34's — Spirit from heaven, dove, abiding, and the bearing of record at 11:32 — and the distinctive verb is a KJV singleton. Recorded at 'certain'.",
+          "bibliography": [
+            "Hardy MSI at 1 Ne 11.27 (Matthew 3:16; Mark 1:10; Luke 3:22; John 1:32)"
+          ],
+          "status": "consensus",
+          "streams": [
+            "scholarship",
+            "manual"
+          ]
+        }
+      ]
     },
     {
       "id": "11:28",
@@ -6640,7 +7062,42 @@
       "ch": 11,
       "ref": "11:31",
       "text": "And he spake unto me again, saying, look! And I looked, and I beheld the Lamb of God going forth among the children of men. And I beheld multitudes of people which were sick, and which were afflicted of all manner of diseases, and with devils, and unclean spirits; and the angel spake, and shewed all these things unto me. And they were healed by the power of the Lamb of God; and the devils and the unclean spirits were cast out.",
-      "links": []
+      "links": [
+        {
+          "source": "Matthew 4:24",
+          "type": "allusion",
+          "subtype": "strong-verbal",
+          "confidence": "high",
+          "text": "And his fame went throughout all Syria: and they brought unto him all sick people that were taken with divers diseases and torments, and those which were possessed with devils, and those which were lunatick, and those that had the palsy; and he healed them.",
+          "evidence": {
+            "vocabulary": 4,
+            "syntax": 4,
+            "sequence": 5,
+            "context": 5,
+            "rarity": 3,
+            "attestation": 1
+          },
+          "kjvSpecific": "yes",
+          "mediation": "direct-NT",
+          "composite": [
+            "Matthew 4:23",
+            "Luke 6:18",
+            "Mark 1:34"
+          ],
+          "provenance": {
+            "route": "Matthew 4:23-24 and Luke 6:17-18 → KJV → Book of Mormon",
+            "other": "Matthew 4:23 supplies 'all manner of sickness and all manner of disease'; Matthew 4:24 supplies the sick, the diseased and the possessed in one list; Luke 6:18 supplies 'they that were vexed with unclean spirits: and they were healed', which is the only KJV verse putting unclean spirits and healing in the same clause.",
+            "significance": "The Gospels' summary paragraphs — the ones that stand in for the ministry as a whole rather than narrating one miracle — are exactly what a vision of the ministry needs, and 1 Nephi 11:31 uses them as such. The four categories arrive in the Gospels' own order: multitudes, all manner of diseases, devils, unclean spirits; then the healing, then the casting out. The verse is a précis of a précis."
+          },
+          "note": "'I beheld multitudes of people which were sick, and which were afflicted of all manner of diseases, and with devils, and unclean spirits … And they were healed by the power of the Lamb of God; and the devils and the unclean spirits were cast out.' Recorded as an allusion rather than a quotation because the material is drawn from two summaries and no clause is continuous. The 1830 'afflicted of all manner of diseases' where 1920 reads 'with' preserves the KJV's genitive-of-affliction idiom.",
+          "bibliography": [],
+          "status": "novel",
+          "citationsPending": true,
+          "streams": [
+            "manual"
+          ]
+        }
+      ]
     },
     {
       "id": "11:32",
@@ -6654,14 +7111,92 @@
       "ch": 11,
       "ref": "11:33",
       "text": "And I, Nephi, saw that he was lifted up upon the cross, and slain for the sins of the world.",
-      "links": []
+      "links": [
+        {
+          "source": "John 12:32",
+          "type": "allusion",
+          "subtype": "close-verbal",
+          "confidence": "high",
+          "text": "And I, if I be lifted up from the earth, will draw all men unto me.",
+          "evidence": {
+            "vocabulary": 4,
+            "syntax": 4,
+            "sequence": 4,
+            "context": 5,
+            "rarity": 4,
+            "attestation": 3
+          },
+          "kjvSpecific": "yes",
+          "mediation": "direct-NT",
+          "composite": [
+            "John 3:14",
+            "John 8:28",
+            "John 1:29"
+          ],
+          "recurrenceRefs": [
+            "1 Nephi 10:10",
+            "1 Nephi 19:10",
+            "3 Nephi 27:14"
+          ],
+          "provenance": {
+            "route": "John 3:14, 8:28, 12:32-33 → KJV → Book of Mormon",
+            "other": "'Lifted up' as a term for the crucifixion is John's alone in the KJV — three times (3:14, 8:28, 12:32), and John 12:33 glosses it: 'This he said, signifying what death he should die.' The Synoptics never use it this way.",
+            "significance": "The vision's account of the crucifixion is stated in the Fourth Gospel's private idiom for it, and paired with the Fourth Gospel's title for the victim: 'slain for the sins of the world' is John 1:29's clause, already used at 10:10. The one non-Johannine element in the sentence is 'upon the cross', which John's 'lifted up' pointedly avoids saying — so the Book of Mormon has taken John's euphemism and glossed it exactly as John 12:33 does, by naming the death."
+          },
+          "note": "'I, Nephi, saw that he was lifted up upon the cross, and slain for the sins of the world.' The verb is John's technical term and the predicate is John 1:29's. Held at high rather than certain because 'lifted up' is a common English phrase whose KJV specialization has to be argued rather than counted.",
+          "bibliography": [],
+          "status": "novel",
+          "citationsPending": true,
+          "streams": [
+            "manual"
+          ]
+        }
+      ]
     },
     {
       "id": "11:34",
       "ch": 11,
       "ref": "11:34",
       "text": "And after that he was slain, I saw the multitudes of the earth, that they were gathered together to fight against the apostles of the Lamb; for thus were the twelve called by the angel of the Lord.",
-      "links": []
+      "links": [
+        {
+          "source": "Revelation 21:14",
+          "type": "quotation",
+          "subtype": "close-verbal",
+          "confidence": "certain",
+          "text": "And the wall of the city had twelve foundations, and in them the names of the twelve apostles of the Lamb.",
+          "evidence": {
+            "vocabulary": 5,
+            "syntax": 5,
+            "sequence": 5,
+            "context": 4,
+            "rarity": 5,
+            "attestation": 2
+          },
+          "kjvSpecific": "yes",
+          "mediation": "direct-NT",
+          "recurrenceRefs": [
+            "1 Nephi 11:35",
+            "1 Nephi 11:36",
+            "1 Nephi 12:9",
+            "1 Nephi 13:26",
+            "1 Nephi 14:20"
+          ],
+          "provenance": {
+            "route": "Revelation 21:14 → KJV → Book of Mormon",
+            "other": "'The twelve apostles of the Lamb' occurs in exactly one KJV verse. The phrase 'apostles of the Lamb' occurs nowhere else in scripture in any form.",
+            "significance": "The title the Book of Mormon uses for the twelve throughout 1 Nephi 11-14 exists in one verse of the English Bible, and that verse is a description of the New Jerusalem's foundation stones. Its transfer here is total: 11:34 'the apostles of the Lamb', 11:35 and 11:36 'the twelve apostles of the Lamb', and the phrase carries into 12:9 and 14:20. The chapter has been calling Christ 'the Lamb of God' since 11:21 on John 1:29's authority; the apostles' title comes from Revelation, and the two together are why 1 Nephi 11-14 reads as it does."
+          },
+          "note": "'They were gathered together to fight against the apostles of the Lamb; for thus were the twelve called by the angel of the Lord.' The Book of Mormon says outright that the title is the angel's — that is, that it is being supplied from outside the narrative — and the title is a KJV singleton. Below Skousen's threshold and not one of his quotations; recorded at 'certain' on absolute rarity.",
+          "bibliography": [],
+          "status": "novel",
+          "citationsPending": true,
+          "streams": [
+            "machine-ngram",
+            "manual"
+          ]
+        }
+      ]
     },
     {
       "id": "11:35",
@@ -6675,7 +7210,46 @@
       "ch": 11,
       "ref": "11:36",
       "text": "And it came to pass that I saw and bear record, that the great and spacious building was the pride of the world; and it fell; and the fall thereof was exceeding great. And the angel of the Lord spake unto me again, saying: Thus shall be the destruction of all nations, kindreds, tongues, and people, that shall fight against the twelve apostles of the Lamb.",
-      "links": []
+      "links": [
+        {
+          "source": "Matthew 7:27",
+          "type": "quotation",
+          "subtype": "close-verbal",
+          "confidence": "certain",
+          "text": "And the rain descended, and the floods came, and the winds blew, and beat upon that house; and it fell: and great was the fall of it.",
+          "evidence": {
+            "vocabulary": 5,
+            "syntax": 5,
+            "sequence": 5,
+            "context": 5,
+            "rarity": 5,
+            "attestation": 1
+          },
+          "kjvSpecific": "yes",
+          "mediation": "direct-NT",
+          "composite": [
+            "Revelation 14:6",
+            "Luke 6:49"
+          ],
+          "recurrenceRefs": [
+            "1 Nephi 8:20",
+            "1 Nephi 8:26",
+            "1 Nephi 12:18"
+          ],
+          "provenance": {
+            "route": "Matthew 7:24-27 → KJV → Book of Mormon",
+            "other": "'Great was the fall' occurs in exactly one KJV verse.",
+            "significance": "This closes the case opened at 8:26. Lehi's great and spacious building, which 'stood as it were in the air, high above the earth', now falls in the exact words with which the Sermon on the Mount ends: 'and it fell, and the fall thereof was exceeding great' against 'and it fell: and great was the fall of it.' The dream's path came from Matthew 7:13-14 and its building from Matthew 7:24-27 — the two halves of the Sermon's closing, expanded into a landscape and then collapsed in the Sermon's own sentence. The verse also closes with Revelation 14:6's fourfold formula, already catalogued at 5:18, so the last sentence of the vision holds both of the chapter's governing sources at once."
+          },
+          "note": "'The great and spacious building was the pride of the world; and it fell; and the fall thereof was exceeding great.' Matthew's clause with the word order inverted and 'exceeding' for 'great' — the same words, redistributed. Recorded at 'certain': the phrase is a KJV singleton, its structural partner was already borrowed at 8:20, and the Book of Mormon's own interpretation ('the pride of the world') is Matthew's point about the foolish builder.",
+          "bibliography": [],
+          "status": "novel",
+          "citationsPending": true,
+          "streams": [
+            "manual"
+          ]
+        }
+      ]
     },
     {
       "id": "12:1",

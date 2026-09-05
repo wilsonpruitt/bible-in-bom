@@ -1397,6 +1397,146 @@
         "machine-ngram"
       ],
       "reason": "Peter at Cornelius's house. The five words straddle a clause boundary in the Book of Mormon ('by the power of the Holy Ghost, as well in these times, as in times of old')."
+    },
+    {
+      "bomRef": "1 Nephi 11:7",
+      "source": "Psalm 120:3",
+      "category": "formulaic",
+      "sharedText": "shall be given unto thee",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "'What shall be given unto thee? or what shall be done unto thee, thou false tongue?' Five function words in an interrogative; the Book of Mormon's clause is a sign-formula."
+    },
+    {
+      "bomRef": "1 Nephi 11:8",
+      "source": "Esther 2:23",
+      "category": "wrong-sense",
+      "sharedText": "a tree and it was",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "'Therefore they were both hanged on a tree.' The shared noun is a gallows. A clean case of a rare-scoring window landing on the one word the two texts have in common and the one sense they do not."
+    },
+    {
+      "bomRef": "1 Nephi 11:11",
+      "source": "Ezekiel 10:8",
+      "category": "insufficient-verbal",
+      "sharedText": "the form of a man",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "'The form of a man's hand under their wings.' Ezekiel is a real neighbour for the appearance of a spirit-guide in human form (1:26, 'the likeness as the appearance of a man'), but 10:8 is about cherub hands and the five shared words break at the possessive. The verse's link is Exodus 33:11."
+    },
+    {
+      "bomRef": "1 Nephi 11:11",
+      "source": "2 Chronicles 32:24",
+      "category": "formulaic",
+      "sharedText": "the LORD and he spake unto",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "Hezekiah sick to the death. A six-word run of speech-formula spanning a clause boundary."
+    },
+    {
+      "bomRef": "1 Nephi 11:11",
+      "source": "Revelation 7:14",
+      "category": "formulaic",
+      "sharedText": "and I said unto him",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "The dialogue formula of every vision in scripture, and of this chapter fifteen times over. Revelation 7:14 is where the KJV happens to have it in the same words; it recurs at 11:17 and is passed over there."
+    },
+    {
+      "bomRef": "1 Nephi 11:12",
+      "source": "Genesis 44:28",
+      "category": "formulaic",
+      "sharedText": "and I saw him not",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "Jacob on Joseph, 'Surely he is torn in pieces; and I saw him not since.' Five words of negation. The Joseph cycle is a live source in this book but not here."
+    },
+    {
+      "bomRef": "1 Nephi 11:17",
+      "source": "Matthew 26:72",
+      "category": "formulaic",
+      "sharedText": "I do not know the",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "Peter's denial, 'I do not know the man.' Five function words, and the sense could hardly be more opposed: Nephi is confessing the limits of knowledge, Peter is lying about it."
+    },
+    {
+      "bomRef": "1 Nephi 11:19",
+      "source": "Esther 2:12",
+      "category": "formulaic",
+      "sharedText": "after that she had been",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "The purification of Ahasuerus's maidens. Five words of temporal subordination, long only because of the 1830's 'after that' construction."
+    },
+    {
+      "bomRef": "1 Nephi 11:21",
+      "source": "Revelation 17:7",
+      "category": "formulaic",
+      "sharedText": "and the angel said unto me",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "A six-word run and the standing formula of the angelus interpres. Recurs at 11:26 and throughout 11-14; recorded once here as the standing exclusion for all of them."
+    },
+    {
+      "bomRef": "1 Nephi 11:22",
+      "source": "Romans 8:39",
+      "category": "better-source-identified",
+      "sharedText": "the love of God which",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "The machine's best candidate at the chapter's most important verse, and the wrong one by a single clause. Romans 8:39 has 'the love of God, which is in Christ Jesus our Lord' — the right noun phrase and the wrong predicate. Romans 5:5 has 'the love of God is shed abroad in our hearts', which is what 11:22 actually says, and 'shed abroad in our hearts' occurs in exactly one KJV verse. A contiguous-window stream cannot prefer the second over the first, because both share the same four opening words and only the second shares the sense."
+    },
+    {
+      "bomRef": "1 Nephi 11:27",
+      "source": "Mark 9:31",
+      "category": "formulaic",
+      "sharedText": "and after that he",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "Temporal subordination; long only in the 1830, which 1920 shortened."
+    },
+    {
+      "bomRef": "1 Nephi 11:28",
+      "source": "2 Corinthians 6:17",
+      "category": "wrong-sense",
+      "sharedText": "out from among them and",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "'Come out from among them, and be ye separate' — a command to the faithful to withdraw. 1 Nephi 11:28 is 'they cast him out from among them', the crowd expelling Christ. Same five words, opposite agent and opposite valuation."
+    },
+    {
+      "bomRef": "1 Nephi 11:35",
+      "source": "Ezekiel 18:15",
+      "category": "formulaic",
+      "sharedText": "the house of Israel hath",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "A national designation plus an auxiliary."
+    },
+    {
+      "bomRef": "1 Nephi 11:35",
+      "source": "1 Samuel 13:6",
+      "category": "formulaic",
+      "sharedText": "that they were in a",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "Five function words. 1 Samuel 13:6 is cited as a genuine, if weak, source at 3:27; here the overlap is syntax only."
     }
   ]
 }
