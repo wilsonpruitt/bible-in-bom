@@ -1,0 +1,149 @@
+{
+  "chapter": 18,
+  "adjudicated": "2026-09-05",
+  "adjudicator": "Opus",
+  "links": {
+    "18:2": [
+      {
+        "source": "Galatians 1:11",
+        "type": "allusion",
+        "subtype": "conceptual",
+        "confidence": "moderate",
+        "text": "But I certify you, brethren, that the gospel which was preached of me is not after man.",
+        "evidence": { "vocabulary": 3, "syntax": 4, "sequence": 4, "context": 4, "rarity": 3, "attestation": 0 },
+        "kjvSpecific": "uncertain",
+        "mediation": "direct-NT",
+        "composite": ["Galatians 1:12", "1 Corinthians 2:5"],
+        "recurrenceRefs": ["1 Nephi 6:4", "1 Nephi 6:5", "1 Nephi 17:8"],
+        "provenance": {
+          "route": "Galatians 1:11-12 → KJV → Book of Mormon",
+          "alternative": "'After the manner of men' is a KJV idiom in four verses (Romans 6:19, 1 Corinthians 15:32, Galatians 1:11, 3:15) and usually means 'speaking humanly'; the resemblance may be idiom rather than allusion.",
+          "significance": "Galatians 1:10-12 has already supplied 1 Nephi 6:4-5 with both its governing terms. Here the argument continues into the next verse of the same paragraph: Paul's point is that what he has is 'not after man' because 'I neither received it of man, neither was I taught it, but by the revelation of Jesus Christ', and 18:2 says the same of the ship — 'I did not work the timbers after the manner which was learned by men … but I did build it after the manner which the Lord had shewn unto me'. The Book of Mormon applies Paul's claim about a gospel to a piece of naval architecture, and the parallel is exact in structure: not learned from men, received by revelation, therefore not after the manner of men."
+        },
+        "note": "Recorded at moderate: the phrase is idiomatic and the sentence's force comes from the argument rather than the wording. Its interest is that this book has now used Galatians 1:10-12 twice, and both times to justify a claim of unmediated instruction.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": ["manual"]
+      }
+    ],
+    "18:13": [
+      {
+        "source": "Mark 4:37",
+        "type": "quotation",
+        "subtype": "close-verbal",
+        "confidence": "certain",
+        "text": "And there arose a great storm of wind, and the waves beat into the ship, so that it was now full.",
+        "evidence": { "vocabulary": 5, "syntax": 5, "sequence": 5, "context": 5, "rarity": 5, "attestation": 1 },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": ["Mark 4:38", "Matthew 8:24", "Jonah 1:4"],
+        "recurrenceRefs": ["1 Nephi 18:21"],
+        "provenance": {
+          "route": "Mark 4:37-39 → KJV → Book of Mormon",
+          "other": "'There arose a great storm' occurs in exactly one KJV verse. Its resolution, 'there was a great calm', occurs in exactly two (Mark 4:39 and Matthew 8:26), and 1 Nephi 18:21 has that one too.",
+          "significance": "The Book of Mormon's storm is bracketed by the two ends of the stilling of the tempest, eight verses apart and in Mark's order. 18:13: 'there arose a great storm, yea, a great and terrible tempest'. 18:21: 'the winds did cease, and the storm did cease, and there was a great calm' — which is Mark 4:39's 'the wind ceased, and there was a great calm', clause for clause. What sits between them is not Mark's: in the Gospel the disciples wake a sleeping Christ, and here the sailors have bound the one man who could have prayed. So the borrowed frame is being used to measure the difference — the storm ends when Nephi is loosed and prays, which puts him in the place Mark's Jesus occupies."
+        },
+        "note": "'There arose a great storm, yea, a great and terrible tempest; and we were driven back upon the waters for the space of three days.' Five words of a KJV singleton at the storm's onset and six of a two-verse phrase at its end. Recorded at 'certain' on the pair. Jonah 1:4-15 is the Old Testament storm and is kept in composite — see 18:20.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": ["machine-ngram", "manual"]
+      }
+    ],
+    "18:17": [
+      {
+        "source": "Acts 9:1",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "And Saul, yet breathing out threatenings and slaughter against the disciples of the Lord, went unto the high priest,",
+        "evidence": { "vocabulary": 5, "syntax": 5, "sequence": 4, "context": 5, "rarity": 5, "attestation": 0 },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": ["Luke 1:7", "Joshua 13:1"],
+        "provenance": {
+          "route": "Acts 9:1 → KJV → Book of Mormon",
+          "other": "'Breathing out threatenings' occurs in exactly one KJV verse. The 1830 spells the noun 'threatnings'. 'Stricken in years' occurs in four (Joshua 13:1, 1 Kings 1:1, Luke 1:7, 1:18), always of the aged.",
+          "significance": "The phrase belongs to Saul on the Damascus road, at the moment before his conversion — a man persecuting people for their allegiance to someone he has not met. 1 Nephi 18:17 uses it of Laman and Lemuel silencing anyone who would speak for their bound brother, and the chapter then converts them at 18:20 by terror rather than vision. The borrowing carries the promise of that reversal with it: the KJV's one breather-out of threatenings ends the chapter as an apostle."
+        },
+        "note": "'They did breathe out much threatnings against any one that should speak for me; and my parents being stricken in years.' Three words from a KJV singleton, and a four-verse idiom for old age. The verse's real weight falls on the next one; see 18:18.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": ["manual"]
+      }
+    ],
+    "18:18": [
+      {
+        "source": "Genesis 42:38",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "And he said, My son shall not go down with you; for his brother is dead, and he is left alone: if mischief befall him by the way in the which ye go, then shall ye bring down my gray hairs with sorrow to the grave.",
+        "evidence": { "vocabulary": 5, "syntax": 5, "sequence": 4, "context": 5, "rarity": 5, "attestation": 2 },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": ["Genesis 44:29", "Genesis 44:31", "Genesis 37:35"],
+        "recurrenceRefs": ["1 Nephi 18:7", "1 Nephi 5:2", "1 Nephi 5:14", "1 Nephi 7:16"],
+        "provenance": {
+          "route": "Genesis 42:38 → KJV → Book of Mormon",
+          "other": "'Gray hairs' occurs in five KJV verses, and in three of them — Genesis 42:38, 44:29 and 44:31 — the phrase is Jacob's, in the identical formula 'bring down my gray hairs with sorrow to the grave', spoken about the danger to his sons.",
+          "significance": "The Joseph cycle closes here as deliberately as it opened. Eleven verses earlier, at 18:7, Lehi's two youngest sons are named — 'The eldest was called Jacob, and the younger, Joseph.' Now the father whose sons have just been given those names is described in the one KJV formula that belongs to Jacob grieving over Joseph: gray hairs brought down in sorrow. Genesis has Jacob say it three times, always about losing a son on a journey; 1 Nephi 18:18 has the sons nearly kill the father on a journey, and the sorrow is real rather than feared. The cycle has run from the dream formula at 3:2 through the pit at 7:16 to the naming and the gray hairs here."
+        },
+        "note": "'Their gray hairs were about to be brought down to lie low in the dust; yea, even they were near to be cast into a watery grave.' The formula is Jacob's, with 'to the grave' replaced twice over — first by 'to lie low in the dust', then by the chapter's own peril, 'a watery grave'. The substitution is what keeps this an allusion rather than a quotation, and it is also the point: Jacob feared Sheol, and Lehi is on a ship.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": ["manual"]
+      }
+    ],
+    "18:20": [
+      {
+        "source": "Jonah 1:12",
+        "type": "allusion",
+        "subtype": "conceptual",
+        "confidence": "high",
+        "text": "And he said unto them, Take me up, and cast me forth into the sea; so shall the sea be calm unto you: for I know that for my sake this great tempest is upon you.",
+        "evidence": { "vocabulary": 3, "syntax": 3, "sequence": 5, "context": 5, "rarity": 4, "attestation": 1 },
+        "kjvSpecific": "no",
+        "mediation": "direct-OT",
+        "composite": ["Jonah 1:4", "Jonah 1:15", "Jonah 1:5"],
+        "recurrenceRefs": ["1 Nephi 2:13", "1 Nephi 3:11", "1 Nephi 18:13", "1 Nephi 18:21"],
+        "provenance": {
+          "route": "Jonah 1 → KJV → Book of Mormon",
+          "significance": "Jonah 1 is the KJV's one narrative in which a ship's company is caught in a storm that turns on the treatment of one man aboard, and in which the sea is stilled the moment they deal rightly with him. 1 Nephi 18 inverts it at every joint. Jonah's shipmates cast the man out and the sea ceases from her raging (1:15); Nephi's take the man in — they loose the bands — and the storm ceases (18:20-21). Jonah is the cause of the tempest and knows it; Nephi is bound while the tempest runs and the binding is the cause. Even the lots that chose Jonah are here already: 1 Nephi 3:11's 'the lot fell upon Laman' is Jonah 1:7's clause, and the book has called Jerusalem 'that great city' at 2:13 in Jonah's phrase. The Jonah frame has been open since chapter 2 and this is the chapter it was for."
+        },
+        "note": "'When they saw that they were about to be swallowed up in the depths of the sea, they repented of the thing which they had done, insomuch that they loosed me.' Nothing verbal is reproduced; the case is the structure, which the KJV supplies once. The New Testament storm at 18:13 and 18:21 supplies the words (Mark 4:37-39); Jonah supplies the plot.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": ["manual"]
+      }
+    ],
+    "18:21": [
+      {
+        "source": "Mark 4:39",
+        "type": "quotation",
+        "subtype": "close-verbal",
+        "confidence": "certain",
+        "text": "And he arose, and rebuked the wind, and said unto the sea, Peace, be still. And the wind ceased, and there was a great calm.",
+        "evidence": { "vocabulary": 5, "syntax": 5, "sequence": 5, "context": 5, "rarity": 5, "attestation": 1 },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": ["Matthew 8:26", "Mark 4:37"],
+        "recurrenceRefs": ["1 Nephi 18:13"],
+        "provenance": {
+          "route": "Mark 4:39 → KJV → Book of Mormon",
+          "other": "'A great calm' occurs in exactly two KJV verses, Mark 4:39 and Matthew 8:26, both the same episode. Mark's fuller clause — 'the wind ceased, and there was a great calm' — is the one 1 Nephi 18:21 reproduces.",
+          "significance": "The doubled clause settles the source. Matthew 8:26 has only 'there was a great calm'; Mark 4:39 has the ceasing and the calm in sequence, and 1 Nephi 18:21 has both: 'the winds did cease, and the storm did cease, and there was a great calm.' Combined with 18:13's 'there arose a great storm' — a KJV singleton at Mark 4:37 — the chapter has taken the opening and closing sentences of one Gospel episode and put its own narrative between them. And what it puts there changes the agent: in Mark the calm follows a rebuke spoken by Christ; here it follows a prayer offered by a man who has just been untied."
+        },
+        "note": "'I prayed unto the Lord; and after that I had prayed, the winds did cease, and the storm did cease, and there was a great calm.' Six words verbatim from Mark 4:39, with the ceasing doubled. Below Skousen's threshold and not one of his quotations; recorded at 'certain' on the pairing with 18:13.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": ["manual"]
+      }
+    ]
+  }
+}

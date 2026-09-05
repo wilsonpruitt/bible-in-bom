@@ -2227,6 +2227,96 @@
         "manual"
       ],
       "reason": "'They were confounded, and could not contend against me' — the same verb adjudicated at 2:14 against Acts 9:22 and Luke 20:40. Its recurrence here is the Book of Mormon reusing its own formula for a silenced opponent, not a fresh borrowing."
+    },
+    {
+      "bomRef": "1 Nephi 18:6",
+      "source": "Numbers 14:3",
+      "category": "formulaic",
+      "sharedText": "our wives and our children",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "'Our wives and our children should be a prey' — the murmuring at Kadesh. A household formula. Note that Numbers 14 IS live in this book, at 16:30, and is excluded there too."
+    },
+    {
+      "bomRef": "1 Nephi 18:6",
+      "source": "Numbers 17:8",
+      "category": "formulaic",
+      "sharedText": "and it came to pass that on the morrow",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "A nine-word hinge, already excluded at 16:9."
+    },
+    {
+      "bomRef": "1 Nephi 18:8",
+      "source": "Acts 21:1",
+      "category": "formulaic",
+      "sharedText": "and it came to pass that after we",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "An eight-word hinge, already excluded at 5:1. Worth one line here because Acts 21:1 is a SEA-VOYAGE verse and 1 Nephi 18 is a sea voyage, which makes the coincidence look meaningful; it is not. The chapter's voyage language comes from Mark 4:37-39 and Jonah 1, and Acts 27 — the KJV's real shipwreck narrative — is not in the candidate set at all."
+    },
+    {
+      "bomRef": "1 Nephi 18:7",
+      "source": "Genesis 25:16",
+      "category": "common-vocabulary",
+      "sharedText": "the sons of Ishmael and",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "Already excluded at 16:27. A name collision with Abraham's Ishmael."
+    },
+    {
+      "bomRef": "1 Nephi 18:15",
+      "source": "Romans 2:2",
+      "category": "formulaic",
+      "sharedText": "the judgment of God",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "A standing genitive."
+    },
+    {
+      "bomRef": "1 Nephi 18:16",
+      "source": "Deuteronomy 33:12",
+      "category": "common-vocabulary",
+      "sharedText": "all the day long",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "Thirteen KJV verses. The nearest in sense are the Psalter's praise verses (35:28, 44:8, 71:24), which would give 'I did praise him all the day long' a plausible home; none is identifiable and the phrase is too common to catalogue."
+    },
+    {
+      "bomRef": "1 Nephi 18:19",
+      "source": "Exodus 1:12",
+      "category": "formulaic",
+      "sharedText": "were grieved because of the",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "'The Egyptians were grieved because of the children of Israel.' A grief formula; the same five words were excluded at 2:18, where the real source (Mark 3:5) supplies the whole clause."
+    },
+    {
+      "bomRef": "1 Nephi 18:23",
+      "source": "Hebrews 11:9",
+      "category": "better-source-identified",
+      "sharedText": "the land of promise",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "A KJV singleton adjudicated as a flagship link at 2:20 and again at 4:14 and 5:5. Its arrival here — 'we did arrive to the promised land … and we did call it the promised land' — is the fulfilment of the promise made in the borrowed phrase, not a fresh borrowing. Recorded because a reader tracking the phrase will want to see that the catalogue noticed where it lands."
+    },
+    {
+      "bomRef": "1 Nephi 18:25",
+      "source": "Deuteronomy 14:5",
+      "category": "common-vocabulary",
+      "sharedText": "and the wild goat",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "The verse most likely to interest a reader in this chapter, and there is nothing to catalogue. 1 Nephi 18:25's list — cow, ox, ass, horse, goat, wild goat — is a fauna inventory, and the KJV's animal lists (Deuteronomy 14:4-5's clean beasts, Isaiah 32:20's ox and ass) share individual nouns because both texts are naming domestic animals in English. 'Wild goat' appears in Deuteronomy 14:5, 1 Samuel 24:2, Job 39:1 and Psalm 104:18. The list carries no verbal signal, and the historical questions it raises are not this catalogue's business."
     }
   ]
 }
