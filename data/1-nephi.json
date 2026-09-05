@@ -262,7 +262,8 @@
             "sequence": 4,
             "context": 5,
             "rarity": 4,
-            "attestation": 4
+            "attestation": 4,
+            "recurrence": 5
           },
           "kjvSpecific": "no",
           "mediation": "direct-OT",
@@ -273,12 +274,14 @@
           ],
           "provenance": {
             "route": "Divine-council throne vision (Micaiah, Isaiah, Daniel) → KJV → Book of Mormon",
-            "significance": "Lehi is given the credential that authenticates a true prophet in the Hebrew Bible: he has stood in the divine council and seen the throne. The Book of Mormon is claiming for Lehi the precise standing that 1 Kings 22 uses to distinguish Micaiah from the four hundred false prophets."
+            "significance": "Lehi is given the credential that authenticates a true prophet in the Hebrew Bible: he has stood in the divine council and seen the throne. The Book of Mormon is claiming for Lehi the precise standing that 1 Kings 22 uses to distinguish Micaiah from the four hundred false prophets. Confirmed by Hardy's Maxwell Institute Study Edition apparatus, which notes that these twenty-one words recur verbatim at Alma 36:22, where Alma explicitly models his own conversion vision on 'our father Lehi['s]' — the clearest possible case of Hays's recurrence criterion (CONVENTIONS.md §3a): a later Nephite author read this scene as formulaic throne-vision language and reused it deliberately, which is independent evidence that the scene functions as a type in the book's own internal reception, not only in ours."
           },
-          "note": "'He thought he saw God sitting upon his throne, surrounded with numberless concourses of angels' is the divine-council vision in its classic form. 'Sitting on/upon his throne' with the heavenly host in attendance occurs in the KJV at 1 Kings 22:19 and its parallel 2 Chronicles 18:18, and the enthronement half at Isaiah 6:1; the innumerable attendants come from Daniel 7:10 ('thousand thousands ministered unto him') and Revelation 5:11. Micaiah's vision is the closest: it shares the seated Lord, the throne, and the surrounding host, and it functions as Micaiah's warrant for contradicting the official prophets — which is exactly the position Lehi occupies eleven verses later.",
-          "bibliography": [],
+          "note": "'He thought he saw God sitting upon his throne, surrounded with numberless concourses of angels' is the divine-council vision in its classic form. 'Sitting on/upon his throne' with the heavenly host in attendance occurs in the KJV at 1 Kings 22:19 and its parallel 2 Chronicles 18:18, and the enthronement half at Isaiah 6:1; the innumerable attendants come from Daniel 7:10 ('thousand thousands ministered unto him') and Revelation 5:11. Micaiah's vision is the closest: it shares the seated Lord, the throne, and the surrounding host, and it functions as Micaiah's warrant for contradicting the official prophets — which is exactly the position Lehi occupies eleven verses later. That this exact wording recurs, unprompted, in Alma's account of his own vision two books later (Alma 36:22, 'God sitting upon his throne, surrounded with numberless concourses of angels, in the attitude of singing and praising their God') is independent confirmation that the Book of Mormon itself treats this as a fixed formula for a throne-vision, which is exactly the biblical type this link claims.",
+          "bibliography": [
+            "Hardy MSI at 1 Ne 1.8: 'The twenty-one words \"saw God . . . praising their God\" are quoted exactly at Alma 36.22.'"
+          ],
           "status": "consensus",
-          "citationsPending": true,
+          "citationsPending": false,
           "streams": [
             "manual"
           ]
