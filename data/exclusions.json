@@ -587,6 +587,176 @@
         "machine-ngram"
       ],
       "reason": "Hushai's counsel, of David: 'thy father is a mighty man'. 'Mighty man' is one of the KJV's stock epithets and points nowhere in particular; the objection at 3:31 is 1 Samuel 17:33's, on sequence rather than wording. Retained in that link's composite list rather than as a source."
+    },
+    {
+      "bomRef": "1 Nephi 4:2",
+      "source": "Exodus 15:22",
+      "category": "better-source-identified",
+      "sharedText": "the Red sea and they",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "Exodus 15:22 is a real source in this book, but at 1 Nephi 2:6 ('three days in the wilderness'), not here. The Red Sea recital of 4:2 is worded out of Hebrews 11:29 (Red sea, dry land, Egyptians, drowned — all four, in order) and 2 Kings 2:8 ('divided hither and thither … on dry ground', a phrase Exodus never uses). The n-gram window caught the noun and missed both."
+    },
+    {
+      "bomRef": "1 Nephi 4:3",
+      "source": "2 Chronicles 25:9",
+      "category": "formulaic",
+      "sharedText": "the LORD is able to",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "The man of God to Amaziah about a hundred talents. 'The LORD is able to' is a bare ability-formula; Daniel 3:17 supplies the same words plus the situation."
+    },
+    {
+      "bomRef": "1 Nephi 4:3",
+      "source": "Acts 23:9",
+      "category": "common-vocabulary",
+      "sharedText": "an angel hath spoken",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "The Pharisees on Paul's behalf: 'if a spirit or an angel hath spoken to him.' Four words, and angelic speech is common to both testaments. The angel in question at 4:3 is the one from 3:29, whose source is Acts 7:26."
+    },
+    {
+      "bomRef": "1 Nephi 4:8",
+      "source": "Deuteronomy 22:14",
+      "category": "formulaic",
+      "sharedText": "and when I came to",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "From the law of the slandered bride. Five words, all function words plus a verb of arrival, and the senses could hardly be further apart."
+    },
+    {
+      "bomRef": "1 Nephi 4:10",
+      "source": "Ecclesiastes 2:15",
+      "category": "formulaic",
+      "sharedText": "I said in my heart",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "'I said in my heart' is Ecclesiastes' own refrain and a KJV commonplace throughout. It marks interior speech and carries no source."
+    },
+    {
+      "bomRef": "1 Nephi 4:11",
+      "source": "1 Kings 13:26",
+      "category": "wrong-sense",
+      "sharedText": "the LORD hath delivered him",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "The chapter's top-ranked candidate at this verse, and instructively wrong. In 1 Kings 13:26 the LORD 'hath delivered him unto the lion' — the delivering is a punishment inflicted ON the disobedient man of God, not a licence granted TO anyone. 1 Nephi 4:11-12 needs the licensing sense, which belongs to the holy-war formula (1 Samuel 17:46, 23:4, Judges 7:9) and above all to 1 Samuel 24:4 and 26:8, where the identical words are used to urge a killing that David refuses. The preposition decides it: 'delivered him unto' is a sentence, 'delivered him into thy hand' is a permission."
+    },
+    {
+      "bomRef": "1 Nephi 4:11",
+      "source": "Genesis 27:31",
+      "category": "formulaic",
+      "sharedText": "and he also had",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "Four function words from Esau bringing his venison. Note that Genesis 27 IS a source in this chapter, at 4:21 — the impersonation by garments — which the n-gram stream reached for the wrong reason at the wrong verse."
+    },
+    {
+      "bomRef": "1 Nephi 4:11",
+      "source": "2 Kings 6:32",
+      "category": "insufficient-verbal",
+      "sharedText": "to take away mine",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "Elisha barring the door against a king's messenger, 'this son of a murderer hath sent to take away mine head'. A real resemblance of situation — a great man sending to kill a prophet — but four function words is not a case, and 1 Nephi's own Jeremiah frame (1:20, 2:1, 3:13) already accounts for the life-seeking clause."
+    },
+    {
+      "bomRef": "1 Nephi 4:14",
+      "source": "Isaiah 55:11",
+      "category": "formulaic",
+      "sharedText": "shall prosper in the",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "'It shall prosper in the thing whereto I sent it', of God's word. The prospering at 4:14 is the covenant conditional quoted back from 1 Nephi 2:20, whose KJV source is 1 Kings 2:3."
+    },
+    {
+      "bomRef": "1 Nephi 4:14",
+      "source": "Matthew 22:22",
+      "category": "formulaic",
+      "sharedText": "had heard these words",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "A narrative transition. Four words."
+    },
+    {
+      "bomRef": "1 Nephi 4:15",
+      "source": "Numbers 9:6",
+      "category": "formulaic",
+      "sharedText": "that they could not keep",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "Men defiled by a corpse who could not keep the passover — a six-word run and, on the surface, apt, since Nephi is standing over a corpse discussing the law. But the shared string is a negated modal, the Numbers case is about ritual defilement and not about possessing a text, and the coincidence of setting is the reader's, not the sentence's."
+    },
+    {
+      "bomRef": "1 Nephi 4:18",
+      "source": "Numbers 6:18",
+      "category": "better-source-identified",
+      "sharedText": "the hair of the head",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "The KJV's one 'hair of the head' is the Nazarite's, shaved at the door of the tabernacle and burned under the peace offering. The phrase is genuinely borrowed — there is nowhere else it could come from — but it is a detail imported into a scene whose source is 1 Samuel 17:51, and it is carried there as a note rather than made a link of its own. Recorded here so that a reader who notices the Nazarite resonance can see it was considered."
+    },
+    {
+      "bomRef": "1 Nephi 4:28",
+      "source": "Joshua 10:11",
+      "category": "formulaic",
+      "sharedText": "they fled from before",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "The hailstones at Bethhoron. 'Fled from before' is standard KJV rout-language."
+    },
+    {
+      "bomRef": "1 Nephi 4:35",
+      "source": "John 4:40",
+      "category": "formulaic",
+      "sharedText": "that he would tarry with",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "The Samaritans asking Jesus to stay. A five-word run of ordinary hospitality idiom; nothing else is shared."
+    },
+    {
+      "bomRef": "1 Nephi 4:35",
+      "source": "Acts 7:5",
+      "category": "formulaic",
+      "sharedText": "he promised that he would",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "Worth a line because Acts 7 is a demonstrated source elsewhere in this book (2:22, 3:29): here the five shared words are a bare promise-formula, and 7:5's subject is Abraham receiving no inheritance. Not every hit on a genuine source text is a link."
+    },
+    {
+      "bomRef": "1 Nephi 4:38",
+      "source": "1 Kings 7:30",
+      "category": "common-vocabulary",
+      "sharedText": "plates of brass",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "Recorded because it is the single most quotable coincidence in the chapter and a reader will want to know it was checked. 'Plates of brass' occurs in exactly one KJV verse — 1 Kings 7:30, the brazen wheels and plates of the bases of Solomon's lavers — so the Book of Mormon's name for its central artifact is, as an English phrase, temple-furniture metalwork from the account of Solomon's temple. It is rejected as a link because there is nothing to argue: the phrase is technical, its KJV context contributes no sense to 1 Nephi, and 'plates' plus 'brass' is what the object would be called in any case. The observation stands on its own and belongs in the register, not in the catalogue."
+    },
+    {
+      "bomRef": "1 Nephi 4:38",
+      "source": "2 Timothy 2:24",
+      "category": "formulaic",
+      "sharedText": "and the servant of",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "'The servant of the Lord must not strive.' Four words, three of them function words."
     }
   ]
 }
