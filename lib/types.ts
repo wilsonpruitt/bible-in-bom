@@ -63,6 +63,12 @@ export type Link = {
   kjvSpecific?: "yes" | "no" | "uncertain";
   mediation?: Mediation;
   composite?: string[];        // other sources fused into the same phrase
+  // Where this source, or the formula it supplies, recurs elsewhere in the Book
+  // of Mormon — Hays's "recurrence" criterion at the level of the individual
+  // link, as against the 0-5 score in EvidenceScores, which is a magnitude.
+  // Refs are Book of Mormon citations, e.g. "1 Nephi 20:18". Added on the
+  // chapter 2 adjudication; not yet rendered (PLAN.md §6 is Sonnet work).
+  recurrenceRefs?: string[];
   provenance?: Provenance;
   note: string;                 // the argument FOR this link
   whyNot?: string;              // the counter-evidence — expected when confidence is "low" or "contested"

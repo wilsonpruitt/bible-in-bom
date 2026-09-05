@@ -1,0 +1,696 @@
+{
+  "chapter": 2,
+  "adjudicated": "2026-09-05",
+  "adjudicator": "Opus",
+  "links": {
+    "2:1": [
+      {
+        "source": "Jeremiah 11:21",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "text": "Therefore thus saith the LORD of the men of Anathoth, that seek thy life, saying, Prophesy not in the name of the LORD, that thou die not by our hand:",
+        "evidence": { "vocabulary": 3, "syntax": 3, "sequence": 3, "context": 5, "rarity": 3, "attestation": 2 },
+        "kjvSpecific": "uncertain",
+        "mediation": "direct-OT",
+        "composite": ["Jeremiah 26:8", "1 Kings 19:10"],
+        "provenance": {
+          "route": "Jeremiah's persecution oracles → KJV → Book of Mormon",
+          "alternative": "'Seek thy life' is a standing KJV idiom for a lethal threat and occurs in ten verses (1 Samuel, 2 Samuel, 1 Kings, Jeremiah, Romans); the phrase alone points at no single one.",
+          "significance": "The clause that ends chapter 1 ('the Jews … sought his life') and the clause that opens chapter 2 are the same clause, and it is Jeremiah's. What Jeremiah 11:21 supplies is not just the idiom but the situation: a prophet told by the LORD, in the LORD's own voice, that named men intend to kill him for prophesying. The Book of Mormon's plot begins where Jeremiah's does."
+        },
+        "note": "Divine speech informing a prophet that he is a marked man: 'behold they seek to take away thy life.' The idiom is widespread, but four of its ten KJV occurrences are Jeremiah's, the tightest is Jeremiah 11:21, and the frame around 1 Nephi 2:1 is Jeremiah's frame throughout — a Zedekiah dateline at 1:4, prophets preaching Jerusalem's destruction at 1:4, the prophet mocked and threatened at 1:19-20. Note also the direction of the divine counsel. Jeremiah is told to stay; Lehi is told to go. The Book of Mormon makes its opening move by taking Jeremiah's premise and reversing his outcome.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": ["manual"]
+      },
+      {
+        "source": "Matthew 16:17",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "text": "And Jesus answered and said unto him, Blessed art thou, Simon Barjona: for flesh and blood hath not revealed it unto thee, but my Father which is in heaven.",
+        "evidence": { "vocabulary": 4, "syntax": 4, "sequence": 3, "context": 4, "rarity": 4, "attestation": 1 },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "Matthew 16:17 → KJV → Book of Mormon",
+          "other": "'Blessed art thou' occurs in five KJV verses (Psalm 119:12, Ecclesiastes 10:17, Matthew 16:17, Luke 1:28, 42). Only Matthew 16:17 attaches it to a personal name in the vocative.",
+          "significance": "Twice in one chapter the Lord opens a speech with 'Blessed art thou, <name>, because …' — to Lehi at 2:1 and to Nephi at 2:19. In the KJV the construction belongs to Peter's confession, where the blessing is specifically for having received what flesh and blood could not reveal. Both Book of Mormon uses reward exactly that: Lehi for declaring what he was shown, Nephi for believing it."
+        },
+        "note": "Of the five KJV verses reading 'Blessed art thou,' one addresses a named man and gives the ground of the blessing in a because-clause: Matthew 16:17. 1 Nephi 2:1 and 2:19 both reproduce that shape — vocative name, then 'because of.' The doubling matters: a formula used once could be coincidence, but the Lord's two direct addresses in this chapter are both cast in it, which is what a borrowed formula looks like in use.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": ["machine-ngram", "manual"]
+      }
+    ],
+    "2:2": [
+      {
+        "source": "Matthew 2:13",
+        "type": "echo",
+        "subtype": "probable",
+        "confidence": "moderate",
+        "text": "And when they were departed, behold, the angel of the Lord appeareth to Joseph in a dream, saying, Arise, and take the young child and his mother, and flee into Egypt, and be thou there until I bring thee word: for Herod will seek the young child to destroy him.",
+        "evidence": { "vocabulary": 2, "syntax": 3, "sequence": 5, "context": 5, "rarity": 2, "attestation": 1 },
+        "kjvSpecific": "uncertain",
+        "mediation": "direct-NT",
+        "composite": ["Matthew 2:20", "Exodus 4:19"],
+        "provenance": {
+          "route": "Matthew's flight-into-Egypt sequence → KJV → Book of Mormon",
+          "alternative": "Dream-warnings are common in both testaments (Genesis 31:10-13, Genesis 46:2-4, Matthew 27:19), and a command to flee an assassination plot needs no literary model.",
+          "significance": "The sequence, not the wording, is what carries this. Warning in a dream · take the family · depart · because they seek the life. Matthew built that sequence over Exodus 4:19 ('all the men are dead which sought thy life'), and Matthew 2:20 quotes it. If 1 Nephi 2:1-2 is reading Matthew, it is reading a passage that is itself already a reading of Moses — which is the same double movement the pillar of fire at 1:6 and the borrowed 'song of Moses' at 1:14 are making."
+        },
+        "note": "Four elements in four clauses, in Matthew's order: the Lord speaks 'in a dream' (2:1), the addressee is told his life is sought (2:1), he is commanded to 'take his family' (2:2), and he departs (2:2, 2:4). Matthew 2:13 has the angel appear 'in a dream, saying, Arise, and take the young child and his mother, and flee,' with Herod's threat as the stated reason; Matthew 2:20 supplies 'they are dead which sought the young child's life.' The verbal contact is thin — 'in a dream' is the only phrase held in common — so this is proposed on sequence and situation.",
+        "whyNot": "Two words of shared wording. Every element of the sequence has an Old Testament precedent available on the text's own chronology, and Exodus 4:19 alone would account for the life-seeking clause without Matthew. Kept at moderate because the four elements arrive in Matthew's order and in four consecutive clauses, which sequence alone rarely does by accident.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": ["machine-ngram", "manual"]
+      }
+    ],
+    "2:3": [
+      {
+        "source": "Hebrews 11:8",
+        "type": "allusion",
+        "subtype": "conceptual",
+        "confidence": "high",
+        "text": "By faith Abraham, when he was called to go out into a place which he should after receive for an inheritance, obeyed; and he went out, not knowing whither he went.",
+        "evidence": { "vocabulary": 3, "syntax": 2, "sequence": 5, "context": 5, "rarity": 3, "attestation": 2 },
+        "kjvSpecific": "uncertain",
+        "mediation": "direct-NT",
+        "composite": ["Hebrews 11:9", "Hebrews 11:6"],
+        "provenance": {
+          "route": "Hebrews 11:8-9 → KJV → Book of Mormon",
+          "significance": "Hebrews 11:8-9 is the chapter's blueprint, not one of its ornaments. Called to go out · obeyed · left an inheritance behind · sojourned dwelling in tabernacles · in the land of promise · by faith. 1 Nephi 2 runs those clauses in order: obedient (2:3), left the land of his inheritance (2:4), dwelt in a tent (2:15), because of thy faith (2:19), a land of promise (2:20). The single KJV occurrence of the phrase 'land of promise' at Hebrews 11:9 (see 2:20) is what turns a family resemblance into a demonstrable one."
+        },
+        "note": "'He was obedient unto the word of the Lord' is the hinge of Hebrews 11:8 — Abraham 'called to go out … obeyed; and he went out, not knowing whither he went' — and Lehi likewise departs before he is told where. The elements Hebrews 11:8-9 strings together are the elements 1 Nephi 2 strings together, in the same order, and one of them ('land of promise') exists in exactly one KJV verse. Catalogued here at 2:3 as the head of that cluster; see 2:4, 2:15, 2:19 and 2:20 for its other members.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": ["manual"]
+      },
+      {
+        "source": "Exodus 7:6",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "text": "And Moses and Aaron did as the LORD commanded them, so did they.",
+        "evidence": { "vocabulary": 4, "syntax": 4, "sequence": 2, "context": 3, "rarity": 2, "attestation": 1 },
+        "kjvSpecific": "no",
+        "mediation": "direct-OT",
+        "composite": ["Genesis 6:22", "Leviticus 16:34"],
+        "provenance": {
+          "route": "Pentateuchal obedience refrain → KJV → Book of Mormon",
+          "alternative": "This is the Torah's standing formula rather than any one verse's property; eight KJV verses read 'did as the LORD commanded' and no single one is identifiable as the source.",
+          "significance": "The formula is reserved in the Pentateuch for Noah, Moses, and Aaron carrying out a divine instruction that will save or constitute a people. Lehi receives it in his third verse."
+        },
+        "note": "'He did as the Lord commanded him' is the Pentateuch's refrain of executed obedience — Exodus 7:6 of Moses and Aaron, Genesis 6:22 of Noah building the ark, and six more in Leviticus and Numbers. The wording is not distinctive enough to name a source verse and is recorded as a formula rather than a quotation, but the formula is not neutral: it is what the Torah says about the men who obey the instruction that preserves the line.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": ["machine-ngram"]
+      }
+    ],
+    "2:4": [
+      {
+        "source": "Genesis 12:1",
+        "type": "allusion",
+        "subtype": "conceptual",
+        "confidence": "high",
+        "text": "Now the LORD had said unto Abram, Get thee out of thy country, and from thy kindred, and from thy father’s house, unto a land that I will shew thee:",
+        "evidence": { "vocabulary": 3, "syntax": 2, "sequence": 5, "context": 5, "rarity": 3, "attestation": 4 },
+        "kjvSpecific": "no",
+        "mediation": "direct-OT",
+        "composite": ["Genesis 12:5", "Acts 7:3"],
+        "provenance": {
+          "route": "The call of Abram → KJV → Book of Mormon",
+          "significance": "Every departure narrative in Israel's scripture is measured against Genesis 12. What 1 Nephi 2:4 adds to the pattern is an inventory — house, land of inheritance, gold, silver, precious things — which reads as an answer to the question Genesis leaves open, namely what it costs to obey. Abram takes 'the substance that they had gathered' with him (Genesis 12:5); Lehi takes nothing."
+        },
+        "note": "Lehi leaves house, land of inheritance, and possessions at a divine command, for an unnamed destination that will turn out to be a promised land. That is Genesis 12:1 in outline, and the outline is filled in the same order: the leaving (2:4), the journey (2:5-6), the altar (2:7), the promise of a land (2:20). The pointed departure from the model is that Abram carries his substance and Lehi abandons his — the gold and silver of 2:4 will be sent back for in chapter 3 and refused as a price for the plates, which makes the inventory here a set-up rather than a flourish.",
+        "bibliography": [],
+        "status": "consensus",
+        "citationsPending": true,
+        "streams": ["manual"]
+      },
+      {
+        "source": "Matthew 19:29",
+        "type": "echo",
+        "subtype": "probable",
+        "confidence": "moderate",
+        "text": "And every one that hath forsaken houses, or brethren, or sisters, or father, or mother, or wife, or children, or lands, for my name’s sake, shall receive an hundredfold, and shall inherit everlasting life.",
+        "evidence": { "vocabulary": 3, "syntax": 3, "sequence": 3, "context": 4, "rarity": 2, "attestation": 0 },
+        "kjvSpecific": "uncertain",
+        "mediation": "direct-NT",
+        "composite": ["Luke 18:29", "Mark 10:29"],
+        "provenance": {
+          "route": "The hundredfold saying → KJV → Book of Mormon",
+          "alternative": "The list form ('his house, and the land of his inheritance, and his gold, and his silver') is ordinary Hebrew inventory style and needs no Gospel model.",
+          "significance": "If the saying is in play, the promise attached to it is too: those who forsake houses and lands 'shall receive an hundredfold, and shall inherit everlasting life.' 1 Nephi 2:20 answers with an inheritance — 'a land which I have prepared for you' — sixteen verses later. The exchange the Gospel promises is the exchange the chapter transacts."
+        },
+        "note": "The verse is built as a renunciation list of exactly the kind the Synoptics use: house first, then lands, then goods, all left for the word's sake. Matthew 19:29 and its parallels are the KJV's version of that list. Proposed as an echo rather than an allusion because no phrase is reproduced; what is shared is the form and the logic — abandonment now against inheritance later — and the chapter does supply the inheritance.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": ["manual"]
+      }
+    ],
+    "2:5": [
+      {
+        "source": "1 Kings 9:26",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "text": "And king Solomon made a navy of ships in Eziongeber, which is beside Eloth, on the shore of the Red sea, in the land of Edom.",
+        "evidence": { "vocabulary": 4, "syntax": 3, "sequence": 2, "context": 2, "rarity": 4, "attestation": 0 },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "provenance": {
+          "route": "1 Kings 9:26 → KJV → Book of Mormon",
+          "other": "'The shore of the Red sea' occurs in exactly one KJV verse. The Red Sea itself is everywhere in Exodus, but always as something crossed or drowned in, never as a shore travelled along.",
+          "significance": "The geography is doing typological work in reverse. Israel comes out of Egypt to the Red Sea and crosses it going toward the land of promise; Lehi leaves the land of promise and travels down to the Red Sea, in the wrong direction, at the start of a book that will end by crossing an ocean. The one KJV verse that describes travel *along* that shore rather than through those waters is a shipbuilding verse, which is where 1 Nephi is going too (17:8)."
+        },
+        "note": "'He came down by the borders near the shore of the Red Sea.' The phrase 'the shore of the Red sea' is unique in the KJV to 1 Kings 9:26, Solomon's shipyard at Ezion-geber — the one biblical passage that treats that coastline as a place a party of Israelites travels to rather than a barrier God parts. The link is verbal and slight; its interest is that the chapter's Exodus machinery is running backwards here, and the source verse is about building ships.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": ["machine-ngram"]
+      }
+    ],
+    "2:6": [
+      {
+        "source": "Exodus 15:22",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "So Moses brought Israel from the Red sea, and they went out into the wilderness of Shur; and they went three days in the wilderness, and found no water.",
+        "evidence": { "vocabulary": 5, "syntax": 4, "sequence": 4, "context": 5, "rarity": 5, "attestation": 3 },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": ["Exodus 3:18", "Exodus 5:3"],
+        "provenance": {
+          "route": "Exodus 15:22 → KJV → Book of Mormon",
+          "other": "'Three days in the wilderness' occurs in exactly one KJV verse. The related 'three days' journey into the wilderness' occurs at Exodus 3:18, 5:3 and 8:27, always as the distance Israel asks Pharaoh for in order to sacrifice.",
+          "significance": "The borrowing is exact and the outcome is inverted. Exodus 15:22: three days in the wilderness, and found no water. 1 Nephi 2:6: three days in the wilderness, and he pitches his tent 'in a valley beside a river of water.' Then, in the next verse, Lehi does what Israel wanted the three days for in the first place (Exodus 3:18, 5:3) and sacrifices. The Book of Mormon takes Exodus's failed march and completes it, with the water present and the offering made."
+        },
+        "note": "A five-word run reproducing the only KJV verse containing it, in a narrative that has just come from the Red Sea, as Exodus 15:22 has. What makes this more than a phrase match is what happens on either side of it. Israel's three days end in thirst; Lehi's end at a river. And the errand Moses repeatedly requests three days in the wilderness for — 'let us go, we pray thee, three days' journey into the desert, and sacrifice unto the LORD our God' — is exactly what 1 Nephi 2:7 then narrates. Below Skousen's sixteen-word threshold and not one of his quotations; recorded here as an allusion.",
+        "bibliography": [],
+        "status": "majority",
+        "citationsPending": true,
+        "streams": ["machine-ngram", "manual"]
+      }
+    ],
+    "2:7": [
+      {
+        "source": "Genesis 12:8",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "text": "And he removed from thence unto a mountain on the east of Bethel, and pitched his tent, having Bethel on the west, and Hai on the east: and there he builded an altar unto the LORD, and called upon the name of the LORD.",
+        "evidence": { "vocabulary": 4, "syntax": 4, "sequence": 5, "context": 5, "rarity": 4, "attestation": 3 },
+        "kjvSpecific": "no",
+        "mediation": "direct-OT",
+        "composite": ["Genesis 26:25", "Genesis 13:18"],
+        "provenance": {
+          "route": "The patriarchal tent-and-altar formula → KJV → Book of Mormon",
+          "alternative": "Building an altar on arriving somewhere is what everyone in Genesis does, and the two verses need no single model.",
+          "significance": "Genesis 12:8 and 26:25 are the two KJV verses that put pitching a tent and building an altar in one sentence, and both are moments when a patriarch takes possession of a place he has been promised but does not own. 1 Nephi 2:6-7 reproduces the pair in the same order, then names the valley and the river after his sons (2:8-10) — which is the other half of the patriarchal formula, the naming that stakes a claim."
+        },
+        "note": "The tent goes up in 2:6 and the altar in 2:7: 'he pitched his tent in a valley beside a river of water … he built an altar of stones, and he made an offering unto the Lord, and gave thanks unto the Lord our God.' Both KJV verses that pair those two acts are patriarchal arrival scenes — Abram at Bethel (Genesis 12:8) and Isaac at Beersheba (Genesis 26:25), each adding 'and called upon the name of the LORD,' for which Lehi's 'gave thanks unto the Lord our God' stands. The machine stream reached only the altar's stones; the pairing is what identifies the source.",
+        "bibliography": [],
+        "status": "consensus",
+        "citationsPending": true,
+        "streams": ["manual"]
+      },
+      {
+        "source": "Deuteronomy 27:5",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "text": "And there shalt thou build an altar unto the LORD thy God, an altar of stones: thou shalt not lift up any iron tool upon them.",
+        "evidence": { "vocabulary": 4, "syntax": 3, "sequence": 2, "context": 4, "rarity": 5, "attestation": 1 },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": ["Exodus 20:25", "Joshua 8:31"],
+        "provenance": {
+          "route": "Deuteronomy 27:5 → KJV → Book of Mormon",
+          "other": "'An altar of stones' occurs in exactly one KJV verse.",
+          "significance": "Deuteronomy 27 is the altar Israel is to build on entering the land, at the covenant renewal on Ebal. Lehi builds his on leaving it. The unhewn stones are the point of the Deuteronomic law — an altar no tool has touched — and 1 Nephi's phrase carries that specification into a wilderness where no tool would have been available anyway."
+        },
+        "note": "'He built an altar of stones' reproduces the exact phrase of Deuteronomy 27:5, the KJV's only occurrence, where it names the unhewn altar commanded for the entry into Canaan (cf. Exodus 20:25, 'thou shalt not build it of hewn stone'; Joshua 8:31, where the command is carried out). Held at moderate rather than high because the phrase is short and the situation is inverted — Deuteronomy legislates an altar for arrival, Lehi builds one for departure — but the wording is the KJV's and belongs to one verse.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": ["machine-ngram"]
+      }
+    ],
+    "2:9": [
+      {
+        "source": "Isaiah 48:18",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "text": "O that thou hadst hearkened to my commandments! then had thy peace been as a river, and thy righteousness as the waves of the sea:",
+        "evidence": { "vocabulary": 4, "syntax": 4, "sequence": 5, "context": 5, "rarity": 4, "attestation": 1 },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "recurrenceRefs": ["1 Nephi 20:18"],
+        "provenance": {
+          "route": "Isaiah 48:18 → KJV → Book of Mormon",
+          "other": "'O that thou' opens ten KJV verses; 'O that thou hadst' opens one. Isaiah 48:18 is also the only KJV verse that puts a wish-formula, commandments, a river, and righteousness in a single sentence.",
+          "significance": "This is the chapter's most consequential link because of where it recurs. Lehi rebukes his two eldest sons in the words of Isaiah 48:18, and twenty chapters later Nephi transcribes Isaiah 48 entire, so that at 1 Nephi 20:18 the family reads out, as scripture, the verse their father had already spoken over them at the river. The catalogue can show the same text arriving twice by two different routes — once as a father's wish, once as a quoted prophecy — which is precisely Hays's recurrence criterion doing work."
+        },
+        "note": "Lehi's two blessings are the two halves of Isaiah 48:18. To Laman: 'O that thou mightest be like unto this river, continually running into the fountain of all righteousness' — Isaiah's wish-formula, his river, his righteousness. To Lemuel in the next verse: 'firm, and steadfast, and immovable in keeping the commandments of the Lord' — Isaiah's commandments. Isaiah's sentence laments an obedience that did not happen; Lehi's speech is a wish that it still might, addressed to the two sons of whom the book has just said they murmured. Both wishes fail, and Isaiah 48 is read aloud to them again in chapter 20.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": ["manual"]
+      }
+    ],
+    "2:10": [
+      {
+        "source": "1 Corinthians 15:58",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "Therefore, my beloved brethren, be ye stedfast, unmoveable, always abounding in the work of the Lord, forasmuch as ye know that your labour is not in vain in the Lord.",
+        "evidence": { "vocabulary": 5, "syntax": 4, "sequence": 4, "context": 4, "rarity": 5, "attestation": 2 },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "1 Corinthians 15:58 → KJV → Book of Mormon",
+          "other": "'Unmoveable' occurs in two KJV verses (Acts 27:41, of a ship's bow stuck fast; 1 Corinthians 15:58). Only 1 Corinthians 15:58 pairs it with 'stedfast', and it does so in the same asyndetic run of adjectives that 1 Nephi 2:10 uses.",
+          "significance": "A Pauline exhortation, in Paul's own adjective-pair and Paul's vocative, given to a son named Lemuel in an Arabian valley. The 1830 spelling ('steadfast', 'immovable') has been modernized away from the KJV's 'stedfast, unmoveable' in every subsequent edition, so the first edition shows the borrowing more plainly than the current text does."
+        },
+        "note": "'Firm, and steadfast, and immovable in keeping the commandments of the Lord' reproduces the adjective pair of 1 Corinthians 15:58, which is the KJV's only occurrence of the two words together and one of only two occurrences of 'unmoveable' at all. Paul's clause is an exhortation to brethren to hold fast in the Lord's work; Lehi's is an exhortation to a son to hold fast to the Lord's commandments. The phrase became one of the Book of Mormon's own formulae (Mosiah 5:15, Alma 1:25), which is how a borrowed phrase behaves once it has been absorbed.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": ["manual"]
+      }
+    ],
+    "2:11": [
+      {
+        "source": "Exodus 14:11",
+        "type": "allusion",
+        "subtype": "conceptual",
+        "confidence": "high",
+        "text": "And they said unto Moses, Because there were no graves in Egypt, hast thou taken us away to die in the wilderness? wherefore hast thou dealt thus with us, to carry us forth out of Egypt?",
+        "evidence": { "vocabulary": 4, "syntax": 4, "sequence": 5, "context": 5, "rarity": 3, "attestation": 4 },
+        "kjvSpecific": "no",
+        "mediation": "direct-OT",
+        "composite": ["Numbers 21:5", "Exodus 16:2", "Exodus 16:3"],
+        "provenance": {
+          "route": "The wilderness murmuring complaints → KJV → Book of Mormon",
+          "significance": "The murmuring is not a character note; it is a citation. Israel's complaint has a fixed three-part shape — you brought us out, you took us from what we had, we shall die here — and Laman and Lemuel deliver all three parts in one verse. From this point the Book of Mormon can run the Exodus story with its own cast, and the reader knows which role each brother has been assigned by the way he complains."
+        },
+        "note": "'They did murmur … because he had led them out of the land of Jerusalem, to leave the land of their inheritance … and to perish in the wilderness.' Every element is the Pentateuch's murmuring formula: the verb (Exodus 15:24, 16:2, 17:3, Numbers 14:2, all 'murmured against'), the charge that the leader brought them out (Exodus 14:11, Numbers 21:5), the loss of what they had, and death in the wilderness. Exodus 14:11 is the tightest single verse because it holds the accusation and the death-in-the-wilderness clause together, and because it too is spoken within sight of the Red Sea.",
+        "bibliography": [],
+        "status": "consensus",
+        "citationsPending": true,
+        "streams": ["manual"]
+      },
+      {
+        "source": "Deuteronomy 13:5",
+        "type": "echo",
+        "subtype": "probable",
+        "confidence": "moderate",
+        "text": "And that prophet, or that dreamer of dreams, shall be put to death; because he hath spoken to turn you away from the LORD your God, which brought you out of the land of Egypt, and redeemed you out of the house of bondage, to thrust thee out of the way which the LORD thy God commanded thee to walk in. So shalt thou put the evil away from the midst of thee.",
+        "evidence": { "vocabulary": 2, "syntax": 2, "sequence": 4, "context": 5, "rarity": 3, "attestation": 0 },
+        "kjvSpecific": "uncertain",
+        "mediation": "direct-OT",
+        "composite": ["Deuteronomy 13:1", "Genesis 37:19"],
+        "provenance": {
+          "route": "Deuteronomy 13's law of the false dreamer → KJV → Book of Mormon",
+          "alternative": "'Visionary man' is not a KJV phrase at all, and the brothers' contempt needs no legal source; it may be nothing more than a son's word for a father who has ruined the family on the strength of a dream.",
+          "significance": "If Deuteronomy 13 is in view, the brothers are not merely complaining — they are prosecuting. Deuteronomy 13:1-5 provides for exactly the case of a dreamer of dreams whose dream 'thrusts thee out of the way,' and prescribes death. That is the charge Laman and Lemuel bring, and in chapters 7 and 17 they twice attempt the sentence."
+        },
+        "note": "'Because that he was a visionary man, and that he had led them out of the land of Jerusalem … and to perish in the wilderness.' The KJV has no 'visionary,' but it has a legal category for the offence being alleged: the 'dreamer of dreams' of Deuteronomy 13:1-5, who is to be put to death for speaking to 'thrust thee out of the way.' The brothers' complaint reproduces the statute's elements — dream, leading away, ruin — and their later conduct reproduces its penalty. Compare also Genesis 37:19, where elder brothers greet a younger visionary with 'Behold, this dreamer cometh,' and then plot his death.",
+        "whyNot": "No shared wording, and the connection is made entirely by the reader supplying a statute the text never cites. A brother calling his father a dreamer is the most natural thing in the world and requires no Deuteronomic warrant. Kept because the accusation, the leading-away, and the two later murder attempts assemble the statute's whole structure, and because Genesis 37 shows the KJV already using that structure narratively.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": ["manual"]
+      }
+    ],
+    "2:12": [
+      {
+        "source": "Judges 2:10",
+        "type": "echo",
+        "subtype": "probable",
+        "confidence": "moderate",
+        "text": "And also all that generation were gathered unto their fathers: and there arose another generation after them, which knew not the LORD, nor yet the works which he had done for Israel.",
+        "evidence": { "vocabulary": 3, "syntax": 3, "sequence": 3, "context": 4, "rarity": 3, "attestation": 0 },
+        "kjvSpecific": "uncertain",
+        "mediation": "direct-OT",
+        "composite": ["1 Samuel 2:12"],
+        "provenance": {
+          "route": "Judges 2:10 → KJV → Book of Mormon",
+          "alternative": "'Knew not God' is a commonplace of biblical indictment; 1 Samuel 2:12 says the same of Eli's sons.",
+          "significance": "Judges 2:10 is the verse on which the whole book of Judges turns: a generation that did not know the LORD 'nor yet the works which he had done.' 1 Nephi 2:12 makes the same diagnosis of the same kind of failure — sons who did not know what God had done — and the Book of Mormon proceeds, like Judges, to run a cycle of apostasy and deliverance over it."
+        },
+        "note": "'They did murmur because they knew not the dealings of that God who had created them.' The two KJV verses that state the fault this way are Judges 2:10 and 1 Samuel 2:12, and Judges 2:10 is the closer: not merely ignorance of God but ignorance of his *works*, which is exactly what 'dealings' names. The Book of Mormon's word is unusual — 'dealings' is what a chronicler says when he means the record of what God has done — and the sentence works as a thesis for the two brothers' whole arc.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": ["manual"]
+      }
+    ],
+    "2:13": [
+      {
+        "source": "Jonah 1:2",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "text": "Arise, go to Nineveh, that great city, and cry against it; for their wickedness is come up before me.",
+        "evidence": { "vocabulary": 4, "syntax": 4, "sequence": 3, "context": 5, "rarity": 4, "attestation": 1 },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": ["Jonah 3:2", "Jonah 3:4", "Revelation 11:8"],
+        "provenance": {
+          "route": "Jonah's 'that great city' → KJV → Book of Mormon",
+          "other": "The KJV reads 'that great city' of Nineveh (Jonah 1:2, 3:2, 4:11) and of Babylon (Revelation 14:8, 16:19, 18:10, 16, 18, 19, 21). It is applied to Jerusalem in exactly one verse, Revelation 11:8, and there as 'the great city, which spiritually is called Sodom and Egypt.'",
+          "significance": "The epithet the KJV reserves for Nineveh and Babylon is transferred to Jerusalem in the clause that denies Jerusalem can fall. Jonah's Nineveh is the case that proves the transfer apt: a great city warned by a prophet, whose destruction was announced in forty days and then withheld. Laman and Lemuel disbelieve on Jonah's premise and are wrong; the one KJV verse that does call Jerusalem 'the great city' calls it Sodom and Egypt in the same breath."
+        },
+        "note": "'Neither did they believe that Jerusalem, that great city, could be destroyed according to the words of the prophets.' The demonstrative epithet is Jonah's for Nineveh and Revelation's for Babylon, and the sentence hands it to Jerusalem while reporting a refusal to believe the prophets — which is the situation of Jonah 3 with the response reversed, Nineveh having believed. Whether or not Jonah is the specific source, the epithet is not neutral in the KJV: every city that carries it is a city under sentence.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": ["manual"]
+      }
+    ],
+    "2:14": [
+      {
+        "source": "Micah 3:8",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "text": "But truly I am full of power by the spirit of the LORD, and of judgment, and of might, to declare unto Jacob his transgression, and to Israel his sin.",
+        "evidence": { "vocabulary": 4, "syntax": 4, "sequence": 4, "context": 5, "rarity": 5, "attestation": 0 },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "provenance": {
+          "route": "Micah 3:8 → KJV → Book of Mormon",
+          "other": "'Full of power by the spirit' occurs in exactly one KJV verse. The nearest New Testament analogues (Luke 4:14, 'in the power of the Spirit'; Acts 4:8, 'filled with the Holy Ghost, said unto them') separate the two nouns that Micah and 1 Nephi 2:14 join.",
+          "significance": "Micah 3:8 is the prophet's self-authentication against the false prophets of 3:5-7, and its stated purpose is 'to declare unto Jacob his transgression.' That is precisely the office Lehi performs in 2:14 — he speaks against his sons with power and confounds them — one verse after they have accused him of being a false dreamer (2:11). The chapter stages the Micah 3 contest between true and false prophecy inside one family."
+        },
+        "note": "'My father did speak unto them in the valley of Lemuel, with power, being filled with the spirit.' The KJV joins power and spirit in this way once: Micah 3:8. The context is the tighter half of the case. Micah's boast is made against prophets who prophesy falsely, and its object is the rebuke of his own people's transgression; Lehi's power is exercised against sons who have just called him a visionary, and its object is their rebuke. Compare the New Testament's version of the same authentication at Acts 4:8-13, where hearers likewise cannot answer.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": ["manual"]
+      },
+      {
+        "source": "Luke 20:40",
+        "type": "echo",
+        "subtype": "possible",
+        "confidence": "moderate",
+        "text": "And after that they durst not ask him any question at all.",
+        "evidence": { "vocabulary": 3, "syntax": 3, "sequence": 3, "context": 4, "rarity": 4, "attestation": 0 },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": ["Matthew 22:46", "Acts 9:22"],
+        "provenance": {
+          "route": "The silencing of the questioners → KJV → Book of Mormon",
+          "alternative": "'Durst not' is simply the KJV's way of saying 'dared not', and a father silencing his sons needs no Gospel precedent.",
+          "significance": "The Gospel scene is a formal one: a teacher answers hostile interrogators until they are confounded and stop asking. Luke and Matthew both close the temple controversies with it. 1 Nephi 2:14 closes the family controversy the same way, and the verb it uses to do so ('confound') is Acts 9:22's verb for what Paul does to the Damascus synagogue."
+        },
+        "note": "'He did confound them, that they durst not utter against him.' 'Durst not' occurs in four KJV verses, and the one that describes the end of a public dispute is Luke 20:40, with Matthew 22:46 as its parallel — after the confounding, no one dares speak again. 'Confound' in that same sense is Acts 9:22, of Paul confounding the Jews at Damascus. Small verbal contact, but the two rare words arrive together and describe the same outcome.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": ["manual"]
+      }
+    ],
+    "2:16": [
+      {
+        "source": "1 Corinthians 4:1",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "text": "Let a man so account of us, as of the ministers of Christ, and stewards of the mysteries of God.",
+        "evidence": { "vocabulary": 4, "syntax": 3, "sequence": 2, "context": 3, "rarity": 5, "attestation": 0 },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": ["Matthew 13:11", "Luke 8:10"],
+        "provenance": {
+          "route": "1 Corinthians 4:1 → KJV → Book of Mormon",
+          "other": "'Mysteries of God' occurs in exactly one KJV verse. 'The mysteries of' occurs in three (Matthew 13:11 and Luke 8:10, both 'the mysteries of the kingdom').",
+          "significance": "The phrase is Paul's name for what an apostle is entrusted with, not what a boy may ask for; the Gospels make it something 'given' to disciples and withheld from outsiders. Nephi's 'great desires to know of the mysteries of God' claims that access directly, by prayer, and gets it — which is the epistemology the whole book will run on and the specific claim his brothers deny in 15:8-11."
+        },
+        "note": "'Having great desires to know of the mysteries of God' takes its object from 1 Corinthians 4:1, the KJV's only occurrence of the phrase, where the mysteries of God are what stewards are trusted with. The Gospel form ('to know the mysteries of the kingdom of heaven', Matthew 13:11) supplies the verb. What follows in Nephi's verse is the answer to the request — 'he did visit me, and did soften my heart' — set deliberately against 'the hardness of their hearts' two verses later; compare Ezekiel 36:26 and Job 23:16, 'God maketh my heart soft.'",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": ["machine-ngram", "manual"]
+      }
+    ],
+    "2:18": [
+      {
+        "source": "Mark 3:5",
+        "type": "quotation",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "And when he had looked round about on them with anger, being grieved for the hardness of their hearts, he saith unto the man, Stretch forth thine hand. And he stretched it out: and his hand was restored whole as the other.",
+        "evidence": { "vocabulary": 5, "syntax": 5, "sequence": 5, "context": 4, "rarity": 5, "attestation": 2 },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "Mark 3:5 → KJV → Book of Mormon",
+          "other": "'Hardness of their hearts' occurs in exactly one KJV verse, and 'grieved … the hardness' in the same one. Mark 3:5 is the only place in the English Bible where the participle 'being grieved' governs that phrase.",
+          "significance": "Recovering the context is what makes the borrowing say something. In Mark 3:5 the one who is grieved at hardness of heart is Jesus, in the synagogue, looking round on men who are watching to see whether he will heal on the sabbath so that they may accuse him. The clause puts Nephi in that position and his brothers in the position of the watchers — and the next thing Mark's Jesus does is heal, while the next thing Nephi does is pray for them. Neither text says this. The clause says it."
+        },
+        "note": "'And being grieved because of the hardness of their hearts, I cried unto the Lord for them' against Mark 3:5's 'being grieved for the hardness of their hearts.' Seven words in sequence, with only the preposition altered, reproducing a participial clause from the one KJV verse in which that clause exists — 'hardness of their hearts' is unique to Mark 3:5 in the whole English Bible. This is the strongest verbal case in the chapter and the one link here that the n-gram stream found unaided. It falls well below Skousen's sixteen-word threshold and is not one of his quotations; it is catalogued as a quotation on the §2 rule that a reproduced clause from an identifiable single verse is one regardless of length.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": ["machine-ngram"]
+      },
+      {
+        "source": "Deuteronomy 18:19",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "text": "And it shall come to pass, that whosoever will not hearken unto my words which he shall speak in my name, I will require it of him.",
+        "evidence": { "vocabulary": 4, "syntax": 4, "sequence": 3, "context": 5, "rarity": 5, "attestation": 1 },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "recurrenceRefs": ["1 Nephi 22:20", "1 Nephi 17:53-55"],
+        "provenance": {
+          "route": "Deuteronomy 18:19 → KJV → Book of Mormon",
+          "other": "'Hearken unto my words' occurs in exactly one KJV verse.",
+          "significance": "Deuteronomy 18:15-19 is the prophet-like-unto-Moses passage, which 1 Nephi 22:20 will quote outright and which the Book of Mormon treats as its own charter. Its sanction clause — whoever will not hearken unto my words shall be required of — is spoken here, in Nephi's own voice, about his brothers. The book's youngest son takes up the Mosaic prophet's formula in the second chapter of his record, twenty chapters before he cites the passage it comes from."
+        },
+        "note": "'Laman and Lemuel would not hearken unto my words.' The phrase belongs to exactly one KJV verse, and it is not an incidental one: Deuteronomy 18:19 is the sanction attached to the promise of a prophet like unto Moses, the passage Nephi quotes at 1 Nephi 22:20 and argues from at 17:53-55. Nephi describes his brothers' refusal in the terms Deuteronomy uses for refusing that prophet, which is a claim about himself made by the choice of a phrase.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": ["machine-ngram", "manual"]
+      }
+    ],
+    "2:19": [
+      {
+        "source": "Hebrews 11:6",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "text": "But without faith it is impossible to please him: for he that cometh to God must believe that he is, and that he is a rewarder of them that diligently seek him.",
+        "evidence": { "vocabulary": 4, "syntax": 3, "sequence": 4, "context": 5, "rarity": 4, "attestation": 0 },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": ["Hebrews 11:8", "Hebrews 11:9"],
+        "provenance": {
+          "route": "Hebrews 11:6 → KJV → Book of Mormon",
+          "other": "'Diligently seek' occurs in two KJV verses (Proverbs 11:27, Hebrews 11:6).",
+          "significance": "The Lord's commendation gives faith and diligent seeking as the two grounds of the blessing, and rewards them with a land; Hebrews 11:6 gives the same two as the conditions of pleasing God, and 11:8-9 gives the reward as a land of promise. Read together, 2:19-20 is Hebrews 11:6-9 in the order Hebrews has them."
+        },
+        "note": "'Blessed art thou, Nephi, because of thy faith, for thou hast sought me diligently.' Hebrews 11:6 supplies both terms — faith, and God as 'a rewarder of them that diligently seek him' — and the very next clause of 1 Nephi 2 supplies the reward. The rest of the Hebrews 11 cluster is catalogued at 2:3, 2:4 and 2:20; this is the verse where the chapter names the criterion the chapter has been illustrating.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": ["manual"]
+      },
+      {
+        "source": "Matthew 11:29",
+        "type": "echo",
+        "subtype": "probable",
+        "confidence": "moderate",
+        "text": "Take my yoke upon you, and learn of me; for I am meek and lowly in heart: and ye shall find rest unto your souls.",
+        "evidence": { "vocabulary": 3, "syntax": 2, "sequence": 2, "context": 3, "rarity": 4, "attestation": 0 },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "Matthew 11:29 → KJV → Book of Mormon",
+          "other": "'Lowly in heart' occurs in exactly one KJV verse. The Book of Mormon's variant 'lowliness of heart' is not a KJV phrase at all, though 'lowliness' appears at Ephesians 4:2 and Philippians 2:3.",
+          "significance": "Matthew 11:29 is Christ's self-description, offered as the condition of learning from him. 1 Nephi 2:19 makes it the condition of being taught by the Lord directly — Nephi is commended for approaching in the posture Christ names as his own."
+        },
+        "note": "'With lowliness of heart' inverts the KJV's one occurrence of 'lowly in heart' (Matthew 11:29) into a noun phrase. The inversion is what keeps this at moderate rather than higher: an echo that changes the part of speech is harder to demonstrate than one that does not, and 'lowliness' was available to the writer from Ephesians 4:2 without Matthew. But 'lowly in heart' exists in one verse, and that verse is about the disposition in which one is taught by God, which is what 2:19 is rewarding.",
+        "whyNot": "One rare phrase, and it has been grammatically recast. 'Lowliness' and 'heart' are both common enough that their combination could be independent, and the Pauline 'lowliness of mind' (Philippians 2:3) is closer in form to the Book of Mormon's genitive than Matthew's adjective is.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": ["manual"]
+      }
+    ],
+    "2:20": [
+      {
+        "source": "Hebrews 11:9",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "By faith he sojourned in the land of promise, as in a strange country, dwelling in tabernacles with Isaac and Jacob, the heirs with him of the same promise:",
+        "evidence": { "vocabulary": 4, "syntax": 3, "sequence": 4, "context": 5, "rarity": 5, "attestation": 1 },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "recurrenceRefs": ["1 Nephi 2:15", "1 Nephi 5:5", "1 Nephi 7:13", "1 Nephi 17:14"],
+        "provenance": {
+          "route": "Hebrews 11:9 → KJV → Book of Mormon",
+          "other": "'Land of promise' occurs in exactly one KJV verse. The Old Testament never uses the phrase; it says 'the land which the LORD thy God giveth thee' and its variants. The English expression that the Book of Mormon uses more than any other for its own geography enters the English Bible at Hebrews 11:9 and nowhere else.",
+          "significance": "This is the chapter's most consequential finding for the project's thesis. A phrase the Book of Mormon treats as ordinary biblical vocabulary — the land of promise, from here to Ether — is not Old Testament vocabulary at all, and in the KJV belongs to a single New Testament verse about Abraham sojourning in tents. Recover that verse's context and the whole of 1 Nephi 2 is in it: called out by faith (2:3, 2:19), leaving an inheritance (2:4), dwelling in a tent (2:15), heir to a promise (2:20). Lehi's family is living in Hebrews 11:9, and saying so in Hebrews 11:9's words."
+        },
+        "note": "'Ye shall prosper, and shall be led to a land of promise.' The phrase is unique in the KJV to Hebrews 11:9, and its one occurrence there is embedded in the exact scenario this chapter narrates: a man who left an inheritance at a call, sojourning as a stranger, dwelling in tents, holding a promise he does not yet possess. 1 Nephi 2:15 — 'And my father dwelt in a tent' — is the same verse's other half, and the phrase 'land of promise' then governs the Book of Mormon's self-description for a thousand years of its narrative. That an Old Testament family should describe its destination in the one phrase that exists only in the Epistle to the Hebrews is the sort of fact this catalogue is built to record.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": ["manual"]
+      },
+      {
+        "source": "1 Kings 2:3",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "text": "And keep the charge of the LORD thy God, to walk in his ways, to keep his statutes, and his commandments, and his judgments, and his testimonies, as it is written in the law of Moses, that thou mayest prosper in all that thou doest, and whithersoever thou turnest thyself:",
+        "evidence": { "vocabulary": 4, "syntax": 5, "sequence": 4, "context": 5, "rarity": 4, "attestation": 3 },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": ["Joshua 1:7", "Deuteronomy 29:9"],
+        "provenance": {
+          "route": "The Deuteronomic prosperity conditional → KJV → Book of Mormon",
+          "other": "The KJV joins commandment-keeping to prospering in three verses: Joshua 1:7, 1 Kings 2:3, and (of a different subject) 3 John 1:2. 1 Kings 2:3 and Joshua 1:7 are both deathbed or commissioning charges to a successor.",
+          "significance": "The formula the Book of Mormon will repeat more than any other — keep the commandments and prosper in the land — is given here at its first appearance, and it arrives in the KJV's own diction from two verses that are both handovers of leadership: Moses to Joshua, David to Solomon. That is what 2:22 is about to make Nephi. The promise and the succession come in the same breath."
+        },
+        "note": "'Inasmuch as ye shall keep my commandments, ye shall prosper.' The conditional is Deuteronomic and the KJV's wording for it is 1 Kings 2:3 ('to keep his statutes, and his commandments … that thou mayest prosper') and Joshua 1:7 ('that thou mayest prosper whithersoever thou goest'). Both are charges given to a man about to inherit a leadership, which is exactly the setting here: three verses later Nephi is made 'a ruler and a teacher over thy brethren.' The clause becomes the Book of Mormon's governing covenant formula.",
+        "bibliography": [],
+        "status": "consensus",
+        "citationsPending": true,
+        "streams": ["manual"]
+      },
+      {
+        "source": "Ezekiel 20:6",
+        "type": "echo",
+        "subtype": "probable",
+        "confidence": "moderate",
+        "text": "In the day that I lifted up mine hand unto them, to bring them forth of the land of Egypt into a land that I had espied for them, flowing with milk and honey, which is the glory of all lands:",
+        "evidence": { "vocabulary": 2, "syntax": 3, "sequence": 3, "context": 4, "rarity": 4, "attestation": 0 },
+        "kjvSpecific": "uncertain",
+        "mediation": "direct-OT",
+        "composite": ["Ezekiel 20:15"],
+        "provenance": {
+          "route": "Ezekiel 20:6 → KJV → Book of Mormon",
+          "alternative": "A superlative about a promised land is the most predictable thing such a promise could contain, and the Book of Mormon's word ('choice') is not Ezekiel's word ('glory').",
+          "significance": "Ezekiel 20:6 is the KJV's one way of saying that the promised land outranks every other land, and Ezekiel says it inside an indictment: the land was given, and the generation that received it rebelled. 1 Nephi 2:20-24 does the same in four verses — the land is promised, and the rebellion is predicted before the promise is finished."
+        },
+        "note": "'A land which is choice above all other lands' has no KJV phrase behind it, but it has a KJV idea with a fixed expression: 'the glory of all lands' (Ezekiel 20:6, 20:15), used twice of Canaan and nowhere else. Both Ezekiel verses are inside a rehearsal of Israel's rebellion in the wilderness, which is what 2:21-24 immediately turns to. Recorded as an echo, on sense and setting rather than on wording.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": ["manual"]
+      }
+    ],
+    "2:21": [
+      {
+        "source": "Genesis 4:16",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "And Cain went out from the presence of the LORD, and dwelt in the land of Nod, on the east of Eden.",
+        "evidence": { "vocabulary": 4, "syntax": 3, "sequence": 4, "context": 5, "rarity": 4, "attestation": 2 },
+        "kjvSpecific": "uncertain",
+        "mediation": "direct-OT",
+        "composite": ["Genesis 4:11", "2 Thessalonians 1:9"],
+        "provenance": {
+          "route": "Genesis 4 → KJV → Book of Mormon",
+          "other": "'From the presence of the LORD/Lord' occurs in eight KJV verses (Genesis 3:8, 4:16, Job 1:12, 2:7, Jonah 1:3, 1:10, Acts 3:19, 2 Thessalonians 1:9). Genesis 4:16 is the only one where the departure is a sentence passed on a brother; 2 Thessalonians 1:9 is the only one that makes it a punishment 'with everlasting destruction'.",
+          "significance": "The Cain frame is the frame the rest of 1 Nephi will run on, and it is set here in a single clause. Elder brother resents the favoured younger, rebels, is cursed (2:23, 'I will curse them even with a sore curse'), is cut off from the presence of the LORD, and is nevertheless preserved with a mark and a limit on what may be done to him — 'they shall have no power over thy seed, except they shall rebel against me also' (2:23) is the Book of Mormon's version of Genesis 4:15. The prophecy of 2:21-24 is a compressed retelling of Genesis 4:11-16 with the sentence deferred to the seed."
+        },
+        "note": "'They shall be cut off from the presence of the Lord.' The KJV's phrase for that exile is Genesis 4:16, where Cain goes out from the presence of the LORD after being cursed for what he did to his brother; the New Testament's is 2 Thessalonians 1:9, which supplies the eschatological weight the Book of Mormon's 'cut off' carries elsewhere. The Cain reading is preferred over the merely idiomatic one because verses 21-24 assemble the rest of Genesis 4 around it: rebellion against a favoured brother, a curse, a mark on the seed, and a divine restraint on how far the curse may go.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": ["manual"]
+      }
+    ],
+    "2:22": [
+      {
+        "source": "Acts 7:35",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "text": "This Moses whom they refused, saying, Who made thee a ruler and a judge? the same did God send to be a ruler and a deliverer by the hand of the angel which appeared to him in the bush.",
+        "evidence": { "vocabulary": 4, "syntax": 4, "sequence": 4, "context": 5, "rarity": 5, "attestation": 2 },
+        "kjvSpecific": "yes",
+        "mediation": "OT-via-NT",
+        "composite": ["Acts 7:27", "Exodus 2:14"],
+        "recurrenceRefs": ["1 Nephi 16:37", "1 Nephi 17:44", "1 Nephi 18:10"],
+        "provenance": {
+          "mt": "Exodus 2:14 — 'Who made thee a man, a prince and a judge over us?'",
+          "route": "Exodus 2:14 → Stephen's speech (Acts 7:27, 7:35) → KJV → Book of Mormon",
+          "other": "The KJV reads 'a prince and a judge' at Exodus 2:14 and 'a ruler and a judge' at Acts 7:27 and 7:35. The word 'ruler' in this formula exists only in the New Testament passages.",
+          "significance": "This is the chapter's mediation finding, and it is decisive because the two English forms differ in exactly the word the Book of Mormon uses. Had 1 Nephi 2:22 followed the Old Testament KJV it would read 'a prince'; it reads 'a ruler', which is Stephen's word, twice. Stephen's point in Acts 7:35 is that the very man the brethren refused as ruler was the one God sent as ruler and deliverer — and that is the whole plot of 1 Nephi: the brothers ask 'who made thee a ruler over us' at 16:37 and 18:10 while God confirms the appointment made here."
+        },
+        "note": "'Thou shalt be made a ruler and a teacher over thy brethren' answers a KJV question that exists in two forms. Exodus 2:14 has the Hebrew challenge Moses in the sand: 'Who made thee a prince and a judge over us?' Acts 7:27 and 7:35 quote it as 'Who made thee a ruler and a judge?' The Book of Mormon takes the New Testament's noun, and it takes it into a promise rather than a challenge — and then hands the challenge back to Laman and Lemuel almost verbatim at 16:37 ('he thinketh to rule over us') and 17:44. Stephen's whole argument in Acts 7 is that the refused ruler is the sent one, and 1 Nephi is that argument in narrative.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": ["manual"]
+      }
+    ],
+    "2:23": [
+      {
+        "source": "Micah 2:10",
+        "type": "echo",
+        "subtype": "possible",
+        "confidence": "moderate",
+        "text": "Arise ye, and depart; for this is not your rest: because it is polluted, it shall destroy you, even with a sore destruction.",
+        "evidence": { "vocabulary": 3, "syntax": 4, "sequence": 2, "context": 3, "rarity": 4, "attestation": 0 },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": ["Deuteronomy 28:35", "Genesis 4:11"],
+        "provenance": {
+          "route": "Micah 2:10 → KJV → Book of Mormon",
+          "other": "The construction 'even with a sore <noun>' occurs in two KJV verses: Deuteronomy 28:35 ('with a sore botch') and Micah 2:10 ('with a sore destruction').",
+          "significance": "Micah 2:10 is a command to leave a polluted land before it destroys its inhabitants, which is the premise of the entire chapter — Lehi has been told to arise and depart from a Jerusalem under sentence. The verse the curse-formula comes from is the verse that would have authorized the journey."
+        },
+        "note": "'I will curse them even with a sore curse' uses a KJV construction found in two verses, one of them Deuteronomy 28:35 in the covenant curses, the other Micah 2:10. Micah is the more interesting because of what its sentence says: 'Arise ye, and depart; for this is not your rest' — the departure command of 1 Nephi 2:2 — followed by destruction on those who stay. The formula and the situation come from the same verse.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": ["machine-ngram", "manual"]
+      }
+    ],
+    "2:24": [
+      {
+        "source": "Joshua 23:13",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "Know for a certainty that the LORD your God will no more drive out any of these nations from before you; but they shall be snares and traps unto you, and scourges in your sides, and thorns in your eyes, until ye perish from off this good land which the LORD your God hath given you.",
+        "evidence": { "vocabulary": 4, "syntax": 4, "sequence": 4, "context": 5, "rarity": 5, "attestation": 1 },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": ["Judges 2:21-23", "Judges 3:1", "Numbers 33:55"],
+        "provenance": {
+          "route": "Joshua 23:13 → KJV → Book of Mormon",
+          "other": "'Scourges in your sides' occurs in exactly one KJV verse. The related figure — a people deliberately left in the land as 'pricks in your eyes, and thorns in your sides' — is Numbers 33:55 and Judges 2:3.",
+          "significance": "Joshua 23:13 and Judges 2:21-3:4 give the Deuteronomistic doctrine of the useful enemy: nations left unconquered so that they may afflict Israel, and, in Judges' formulation, 'to prove Israel by them'. 1 Nephi 2:24 states the doctrine in one sentence and adds its own purpose clause — 'to stir them up in the ways of remembrance' — which is what the Judges cycle is for. The Lamanites are given their function in the book's second chapter, and it is Joshua's function for the Canaanites."
+        },
+        "note": "'They shall be a scourge unto thy seed, to stir them up in the ways of remembrance.' The one KJV verse that makes a hostile people a scourge is Joshua 23:13, where nations are left in the land as 'scourges in your sides'; Judges 2:21-3:4 supplies the reason the Book of Mormon adds, that they remain 'to prove Israel by them.' Both source passages are about the consequences of not keeping the covenant, which is the condition 2:21-23 has just attached. The 1830 wording is unchanged here.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": ["manual"]
+      }
+    ]
+  }
+}

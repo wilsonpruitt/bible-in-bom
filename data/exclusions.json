@@ -227,6 +227,196 @@
         "machine-ngram"
       ],
       "reason": "A four-word run of announcement formula. Worth noting for a different reason, however: the 1830 text spells it 'shew', exactly as the KJV does, and the 1920 edition modernized it to 'show'. The orthography is evidence about the Book of Mormon's relation to KJV English generally, and belongs in the variant register rather than here as a link to any particular verse."
+    },
+    {
+      "bomRef": "1 Nephi 2:1",
+      "source": "Joshua 1:1",
+      "category": "formulaic",
+      "sharedText": "it came to pass that the LORD spake unto",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "A nine-word run, the longest in the chapter, and worthless. 'And it came to pass that the Lord spake unto' is the Book of Mormon's standard narrative hinge and appears three times in this chapter alone (2:1, 2:2, 2:19); Joshua 1:1 shares it because both texts are King James narrative prose. Recorded here once, at length, as the model case for why n-gram run length is a recall floor and not a ranking (CONVENTIONS.md §9); the same match at 2:2 and 2:19 is passed over in silence."
+    },
+    {
+      "bomRef": "1 Nephi 2:1",
+      "source": "1 Kings 2:26",
+      "category": "formulaic",
+      "sharedText": "and because thou hast been",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "Connective. Abiathar's banishment shares no content word with the Lord's commendation of Lehi, and the causal 'because thou hast been' is ordinary KJV subordination."
+    },
+    {
+      "bomRef": "1 Nephi 2:2",
+      "source": "Numbers 36:2",
+      "category": "formulaic",
+      "sharedText": "the LORD commanded my",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "Four words spanning a clause boundary; Numbers 36:2 concerns the inheritance of Zelophehad's daughters."
+    },
+    {
+      "bomRef": "1 Nephi 2:4",
+      "source": "Mark 13:34",
+      "category": "better-source-identified",
+      "sharedText": "left his house and",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "The renunciation list at 2:4 is real, but its Gospel source is the hundredfold saying (Matthew 19:29 and parallels), which supplies houses AND lands AND the promised inheritance. Mark 13:34's householder leaves his house to travel and gives his servants authority — the departure is a parable frame, not a renunciation. Superseded."
+    },
+    {
+      "bomRef": "1 Nephi 2:4",
+      "source": "Genesis 39:12",
+      "category": "formulaic",
+      "sharedText": "and he left his",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "Joseph leaves his garment in Potiphar's wife's hand. Shared words are the verb and two pronouns."
+    },
+    {
+      "bomRef": "1 Nephi 2:5",
+      "source": "1 Samuel 25:20",
+      "category": "formulaic",
+      "sharedText": "came down by the",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "Abigail riding down a hill. Pure motion idiom."
+    },
+    {
+      "bomRef": "1 Nephi 2:6",
+      "source": "Ezekiel 10:6",
+      "category": "formulaic",
+      "sharedText": "and it came to pass that when he had",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "Another long run of narrative hinge; see the Joshua 1:1 entry at 2:1. Ezekiel's subject is the man in linen taking fire from between the cherubim."
+    },
+    {
+      "bomRef": "1 Nephi 2:8",
+      "source": "Exodus 10:19",
+      "category": "better-source-identified",
+      "sharedText": "into the Red sea",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "The Red Sea link in this chapter is carried at 2:5 by the unique phrase 'the shore of the Red sea' (1 Kings 9:26) and at 2:6 by 'three days in the wilderness' (Exodus 15:22). Exodus 10:19, where the west wind casts the locusts into the Red Sea, contributes nothing the geography does not already supply."
+    },
+    {
+      "bomRef": "1 Nephi 2:9",
+      "source": "Amos 5:24",
+      "category": "better-source-identified",
+      "sharedText": "righteousness as a mighty stream",
+      "streams": [
+        "manual"
+      ],
+      "reason": "Not a machine candidate, but the parallel a reader reaches for first: 'let judgment run down as waters, and righteousness as a mighty stream.' The river-and-righteousness figure is Amos's most famous sentence and it is the wrong source here. Lehi's blessing has the wish-formula ('O that thou'), the commandments in the very next verse, and the river and righteousness together — all four of which are Isaiah 48:18 and only two of which are Amos. The decisive fact is external to the wording: Nephi transcribes Isaiah 48 entire at 1 Nephi 20, so the verse Lehi is using is a verse the book will quote."
+    },
+    {
+      "bomRef": "1 Nephi 2:14",
+      "source": "Philippians 1:11",
+      "category": "better-source-identified",
+      "sharedText": "being filled with the",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "'Being filled with the fruits of righteousness' shares a participial formula and nothing else. The source of 2:14 is Micah 3:8, the KJV's only verse joining power to the spirit, and it also supplies the prophetic-rebuke setting Philippians lacks."
+    },
+    {
+      "bomRef": "1 Nephi 2:14",
+      "source": "Psalm 2:5",
+      "category": "formulaic",
+      "sharedText": "speak unto them in",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "Four words of which three are function words; the match breaks at 'his wrath' / 'the valley of Lemuel'."
+    },
+    {
+      "bomRef": "1 Nephi 2:16",
+      "source": "1 Kings 2:29",
+      "category": "formulaic",
+      "sharedText": "the LORD and behold he",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "Spans a clause boundary in both texts; 1 Kings 2:29 reports Joab fled to the tabernacle."
+    },
+    {
+      "bomRef": "1 Nephi 2:17",
+      "source": "1 Corinthians 10:20",
+      "category": "formulaic",
+      "sharedText": "the things which the",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "Four function words. One of the commonest strings in the KJV."
+    },
+    {
+      "bomRef": "1 Nephi 2:20",
+      "source": "Luke 21:24",
+      "category": "wrong-sense",
+      "sharedText": "and shall be led",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "The senses are opposed, and instructively so. Luke 21:24 is the destruction of Jerusalem: 'they shall fall by the edge of the sword, and shall be led away captive into all nations.' 1 Nephi 2:20 is the promise that answers that destruction: 'shall be led to a land of promise.' The identical four words carry exile in one text and inheritance in the other, and the passive participle is doing opposite work either side. Worth recording because chapter 1 has already used the KJV's exile vocabulary in earnest at 1:13 ('carried away captive into Babylon'), so a reader tracking that thread has real reason to hear it again here — and should not."
+    },
+    {
+      "bomRef": "1 Nephi 2:20",
+      "source": "John 15:10",
+      "category": "better-source-identified",
+      "sharedText": "keep my commandments ye shall",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "A five-word run and a genuine parallel of form: John 15:10 is also a conditional promise turning on commandment-keeping. But the apodosis decides it. John's is abiding in love; 1 Nephi's is prospering in a land, which is the Deuteronomic conditional of 1 Kings 2:3 and Joshua 1:7 and becomes the Book of Mormon's covenant formula. The Johannine phrasing is a coincidence of the protasis."
+    },
+    {
+      "bomRef": "1 Nephi 2:21",
+      "source": "Leviticus 20:17",
+      "category": "common-vocabulary",
+      "sharedText": "they shall be cut off",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "'Cut off' is the Pentateuch's standing penalty formula and occurs scores of times; Leviticus 20:17 is one instance among many. What identifies the source at 2:21 is not 'cut off' but 'from the presence of the Lord', which the KJV has in eight verses and which Genesis 4:16 makes a sentence on a brother."
+    },
+    {
+      "bomRef": "1 Nephi 2:23",
+      "source": "Ezekiel 20:38",
+      "category": "formulaic",
+      "sharedText": "against me I will",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "Four words across a clause boundary. Note that Ezekiel 20 IS relevant to this chapter, but at 2:20 (verses 6 and 15, 'the glory of all lands'), not here."
+    },
+    {
+      "bomRef": "1 Nephi 2:24",
+      "source": "2 Chronicles 17:6",
+      "category": "formulaic",
+      "sharedText": "in the ways of",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "Jehoshaphat's heart lifted up in the ways of the LORD. The Book of Mormon's phrase is 'the ways of remembrance', which is not a KJV construction at all."
+    },
+    {
+      "bomRef": "1 Nephi 2:22",
+      "source": "Exodus 2:14",
+      "category": "better-source-identified",
+      "sharedText": "a prince and a judge",
+      "streams": [
+        "manual"
+      ],
+      "reason": "Recorded not as a rejection but as the losing half of a mediation test, because the reasoning is the point. Exodus 2:14 is the ultimate source of the formula behind 'a ruler and a teacher over thy brethren' — but the KJV renders it 'a prince and a judge', and only Acts 7:27 and 7:35 render it 'a ruler and a judge'. The Book of Mormon has 'ruler'. So the Old Testament verse is the source of the story and the New Testament verses are the source of the English, which is exactly what the mediation field 'OT-via-NT' exists to record. Exodus 2:14 is carried in the link's composite list."
     }
   ]
 }
