@@ -60,6 +60,15 @@ export type Link = {
   whyNot?: string;              // the counter-evidence — expected when confidence is "low" or "contested"
   bibliography?: string[];      // e.g. "Hardy 2023: 871", "Skousen KJQ: #12"
   status?: LinkStatus;
+  // TRUE when `status` records the adjudicator's read of where this link sits in
+  // the field, but no citation has yet been verified against a source we hold.
+  // The scholarship stream (PLAN.md §4.4) has not been run: Hardy 2023 and
+  // Frederick are not on disk, and Skousen's KJQ list is unobtainable (§4.1).
+  // Marking these is what keeps `status: "consensus"` from being an unsourced
+  // assertion and stops us from padding `bibliography` with citations we cannot
+  // check. Every such row needs a real citation before the volume can call
+  // itself definitive (§7.5).
+  citationsPending?: boolean;
   streams?: CandidateStream[];  // how the candidate was found
   altSource?: string;           // a parallel/alternative precursor
   contested?: boolean;          // renders a trailing "?" chip — kept for the visual grammar

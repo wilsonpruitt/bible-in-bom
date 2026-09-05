@@ -1,0 +1,229 @@
+{
+  "chapter": 1,
+  "adjudicated": "2026-09-05",
+  "adjudicator": "Opus (pilot chapter — conventions established here, see CONVENTIONS.md)",
+  "links": {
+    "1:3": [
+      {
+        "source": "Philemon 1:19",
+        "type": "echo",
+        "subtype": "possible",
+        "confidence": "low",
+        "text": "I Paul have written it with mine own hand, I will repay it: albeit I do not say to thee how thou owest unto me even thine own self besides.",
+        "evidence": { "vocabulary": 3, "syntax": 2, "sequence": 2, "context": 3, "rarity": 1, "attestation": 1 },
+        "kjvSpecific": "no",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "Pauline autograph formula → KJV → Book of Mormon",
+          "significance": "If real, this would be a Pauline epistolary formula in the mouth of a pre-exilic Israelite — but the formula is too ordinary to carry that weight on its own."
+        },
+        "note": "Nephi authenticates his record exactly where Paul authenticates his letter: 'I make it with mine own hand' answers 'I Paul have written it with mine own hand.' The function matches as well as the wording — both are first-person guarantees of an autograph attached to a claim that the document is trustworthy, and Nephi's stands one clause after 'I know that the record which I make, to be true.'",
+        "whyNot": "'With mine own hand' is a commonplace of the KJV's epistolary and legal idiom (compare 1 Corinthians 16:21, Galatians 6:11, Colossians 4:18, 2 Thessalonians 3:17), not a phrase peculiar to Philemon. Any writer imitating scriptural English who wanted to say that he wrote something himself would land on these words. The parallel of FUNCTION is real; the parallel of WORDING proves nothing, and there is no second marker tying this to Philemon specifically rather than to the formula at large.",
+        "bibliography": [],
+        "status": "minority",
+        "citationsPending": true,
+        "streams": ["machine-ngram"]
+      }
+    ],
+    "1:4": [
+      {
+        "source": "Jeremiah 28:1",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "text": "And it came to pass the same year, in the beginning of the reign of Zedekiah king of Judah, in the fourth year, and in the fifth month, that Hananiah the son of Azur the prophet, which was of Gibeon, spake unto me in the house of the LORD, in the presence of the priests and of all the people, saying,",
+        "evidence": { "vocabulary": 4, "syntax": 4, "sequence": 4, "context": 5, "rarity": 4, "attestation": 4 },
+        "kjvSpecific": "uncertain",
+        "mediation": "direct-OT",
+        "composite": ["Jeremiah 49:34", "Jeremiah 1:3"],
+        "provenance": {
+          "route": "Jeremiah's dating formula → KJV → Book of Mormon",
+          "alternative": "The synchronism may be a generic biblical date formula rather than a borrowing from Jeremiah in particular; regnal dating by 'the Nth year of the reign of X king of Judah' is the standard idiom of Kings and Chronicles as well.",
+          "significance": "The Book of Mormon opens by dating itself in the exact idiom of the prophet whose ministry it presupposes. Lehi is made Jeremiah's contemporary in the first sentence of narrative, and the shared formula is the instrument that does it."
+        },
+        "note": "'The commencement of the first year of the reign of Zedekiah, king of Judah' reproduces the frame of Jeremiah's own datelines — 'in the beginning of the reign of Zedekiah king of Judah' at both Jeremiah 28:1 and 49:34, with Jeremiah 1:3 supplying the same regnal anchor for the prophet's own call. The convergence is not merely verbal: 1 Nephi 1:4 goes on to say that 'there came many prophets, prophesying unto the people, that they must repent, or the great city Jerusalem must be destroyed,' which is Jeremiah's message, and the chapter ends with Lehi persecuted for delivering it, which is Jeremiah's biography. The dateline places Lehi inside Jeremiah's book.",
+        "bibliography": [],
+        "status": "consensus",
+        "citationsPending": true,
+        "streams": ["machine-ngram"]
+      }
+    ],
+    "1:6": [
+      {
+        "source": "Exodus 13:21",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "text": "And the LORD went before them by day in a pillar of a cloud, to lead them the way; and by night in a pillar of fire, to give them light; to go by day and night:",
+        "evidence": { "vocabulary": 4, "syntax": 2, "sequence": 2, "context": 5, "rarity": 4, "attestation": 4 },
+        "kjvSpecific": "no",
+        "mediation": "direct-OT",
+        "composite": ["Exodus 14:24", "Numbers 14:14"],
+        "provenance": {
+          "route": "Exodus theophany → KJV → Book of Mormon",
+          "significance": "Lehi's prophetic call is narrated in the vocabulary of the Exodus, which is the typology the whole of 1 Nephi will run on: a family led out of a doomed land, through a wilderness, across water, to a promised land. The pillar of fire is where that typology starts."
+        },
+        "note": "'There came a pillar of fire and dwelt upon a rock before him' takes the Exodus guidance-theophany and relocates it from the nation to a single man. 'Pillar of fire' occurs six times in the KJV (Exodus 13:21, 13:22, 14:24; Numbers 14:14; Nehemiah 9:12, 9:19) and in every case it is the LORD leading Israel out of Egypt — the phrase carries no other biblical sense. Applying it to a private call vision in Jerusalem is a deliberate transfer, and it announces the Exodus pattern that 1 Nephi 17 will make explicit when Nephi argues his own case from Moses.",
+        "bibliography": [],
+        "status": "consensus",
+        "citationsPending": true,
+        "streams": ["machine-ngram"]
+      }
+    ],
+    "1:7": [
+      {
+        "source": "Daniel 10:8",
+        "type": "figural",
+        "subtype": "type-scene",
+        "confidence": "moderate",
+        "text": "Therefore I was left alone, and saw this great vision, and there remained no strength in me: for my comeliness was turned in me into corruption, and I retained no strength.",
+        "evidence": { "vocabulary": 1, "syntax": 1, "sequence": 3, "context": 4, "rarity": 3, "attestation": 3 },
+        "kjvSpecific": "no",
+        "mediation": "direct-OT",
+        "composite": ["Daniel 10:9", "Ezekiel 3:15"],
+        "provenance": {
+          "route": "Prophetic collapse type-scene (Daniel, Ezekiel) → Book of Mormon",
+          "significance": "The claim here is generic, not verbal: Lehi is being placed in a recognized class of visionary. This is what the `figural` type is for — a link that is real at the level of narrative form and absent at the level of wording."
+        },
+        "note": "'He cast himself upon his bed, being overcome with the spirit' is the standard aftermath of a major vision in the prophetic books: Daniel 10:8–9 loses all strength and falls into a deep sleep on his face, and Ezekiel 3:15 sits astonished seven days. The sequence — vision, physical collapse, later report — is a type-scene, and 1 Nephi 1:7 occupies its middle term precisely.",
+        "whyNot": "There is no verbal contact whatever with Daniel or Ezekiel here; the machine streams did not propose this link and could not have. The judgment rests entirely on narrative form, which means it is weaker evidence for KJV dependence than any of the verbal links in this chapter and should never be counted toward the KJV-specificity argument.",
+        "bibliography": [],
+        "status": "majority",
+        "citationsPending": true,
+        "streams": ["manual"]
+      }
+    ],
+    "1:8": [
+      {
+        "source": "1 Kings 22:19",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "text": "And he said, Hear thou therefore the word of the LORD: I saw the LORD sitting on his throne, and all the host of heaven standing by him on his right hand and on his left.",
+        "evidence": { "vocabulary": 4, "syntax": 4, "sequence": 4, "context": 5, "rarity": 4, "attestation": 4 },
+        "kjvSpecific": "no",
+        "mediation": "direct-OT",
+        "composite": ["Isaiah 6:1", "Daniel 7:10", "Revelation 5:11"],
+        "provenance": {
+          "route": "Divine-council throne vision (Micaiah, Isaiah, Daniel) → KJV → Book of Mormon",
+          "significance": "Lehi is given the credential that authenticates a true prophet in the Hebrew Bible: he has stood in the divine council and seen the throne. The Book of Mormon is claiming for Lehi the precise standing that 1 Kings 22 uses to distinguish Micaiah from the four hundred false prophets."
+        },
+        "note": "'He thought he saw God sitting upon his throne, surrounded with numberless concourses of angels' is the divine-council vision in its classic form. 'Sitting on/upon his throne' with the heavenly host in attendance occurs in the KJV at 1 Kings 22:19 and its parallel 2 Chronicles 18:18, and the enthronement half at Isaiah 6:1; the innumerable attendants come from Daniel 7:10 ('thousand thousands ministered unto him') and Revelation 5:11. Micaiah's vision is the closest: it shares the seated Lord, the throne, and the surrounding host, and it functions as Micaiah's warrant for contradicting the official prophets — which is exactly the position Lehi occupies eleven verses later.",
+        "bibliography": [],
+        "status": "consensus",
+        "citationsPending": true,
+        "streams": ["manual"]
+      }
+    ],
+    "1:10": [
+      {
+        "source": "Revelation 21:14",
+        "type": "figural",
+        "subtype": "structural",
+        "confidence": "moderate",
+        "text": "And the wall of the city had twelve foundations, and in them the names of the twelve apostles of the Lamb.",
+        "evidence": { "vocabulary": 1, "syntax": 1, "sequence": 2, "context": 4, "rarity": 3, "attestation": 3 },
+        "kjvSpecific": "uncertain",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "The Twelve → Book of Mormon vision imagery",
+          "alternative": "The twelve may be read as the heavenly host or as the twelve tribes rather than the apostolic college, in which case no New Testament dependence is involved at all.",
+          "significance": "If the twelve are the apostles, then a vision dated to 600 BC contains the apostolic college — the same anachronism that 1 Nephi 11:34–36 and 13:26 make explicit and verbal. The interpretive weight rests on those later verses, not on this one."
+        },
+        "note": "'He also saw twelve others following him' comes immediately after 'one descending out of the midst of Heaven' whose brightness exceeds the sun. Read forward, the vision identifies itself: at 1 Nephi 11:34–36 and 13:26 the text speaks of 'the twelve apostles of the Lamb,' which is a verbatim borrowing from Revelation 21:14, and applies it to the same figures. 1 Nephi 1:10 is the first, unglossed appearance of that group.",
+        "whyNot": "Taken by itself this verse has no verbal contact with Revelation 21:14 or any other New Testament text — it says only 'twelve others.' The identification is imported from later chapters of 1 Nephi rather than established here, so the link is structural and provisional; a reader who declines the forward reference is left with nothing to adjudicate.",
+        "bibliography": [],
+        "status": "majority",
+        "citationsPending": true,
+        "streams": ["manual"]
+      }
+    ],
+    "1:13": [
+      {
+        "source": "Jeremiah 13:27",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "text": "I have seen thine adulteries, and thy neighings, the lewdness of thy whoredom, and thine abominations on the hills in the fields. Woe unto thee, O Jerusalem! wilt thou not be made clean? when shall it once be?",
+        "evidence": { "vocabulary": 4, "syntax": 4, "sequence": 5, "context": 5, "rarity": 4, "attestation": 3 },
+        "kjvSpecific": "uncertain",
+        "mediation": "direct-OT",
+        "provenance": {
+          "route": "Jeremiah 13:27 → KJV → Book of Mormon",
+          "significance": "Lehi's book — the one handed him in vision — opens with Jeremiah's own indictment of Jerusalem. The vision authenticates itself by speaking in the voice of the prophet then active in the city."
+        },
+        "note": "The three elements of Lehi's reading are all present in a single verse of Jeremiah, and in the same order: the woe over Jerusalem ('Woe unto thee, O Jerusalem!' ~ 'Wo, wo unto Jerusalem!'), the first-person sight of her sins ('I have seen thine adulteries … and thine abominations' ~ 'for I have seen thine abominations'), and the coming judgement. The Book of Mormon takes 'abominations' — Jeremiah's second noun — and drops 'adulteries,' which is the more graphic term; the substitution is characteristic of the way the text handles Jeremiah's sexual imagery elsewhere. The machine stream found only the four-word run 'I have seen thine'; the strength of the case is the co-occurrence of all three elements in one verse, which no single n-gram could surface.",
+        "bibliography": [],
+        "status": "majority",
+        "citationsPending": true,
+        "streams": ["machine-ngram", "manual"]
+      },
+      {
+        "source": "Jeremiah 39:9",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "Then Nebuzaradan the captain of the guard carried away captive into Babylon the remnant of the people that remained in the city, and those that fell away, that fell to him, with the rest of the people that remained.",
+        "evidence": { "vocabulary": 5, "syntax": 4, "sequence": 4, "context": 5, "rarity": 5, "attestation": 3 },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "provenance": {
+          "route": "Jeremiah 39:9 → KJV → Book of Mormon",
+          "other": "Modern versions render the same Hebrew as 'carried into exile' (ESV, NIV), which shares no wording with the Book of Mormon here.",
+          "significance": "A five-word run reproducing the unique KJV phrasing of the event Lehi is predicting. This is the strongest KJV-specific claim in the chapter after 1:14: the wording is available in English only from the Authorized Version's idiom of 'carrying away captive.'"
+        },
+        "note": "'Many should be carried away captive into Babylon' reproduces 'carried away captive into Babylon' exactly. The phrase occurs precisely once in the entire KJV — at Jeremiah 39:9, in the narrative of the fall of Jerusalem — which makes it rarity-decisive rather than formulaic. Lehi is made to predict, in the historian's own later words, the deportation that Jeremiah 39 records as having happened.",
+        "bibliography": [],
+        "status": "majority",
+        "citationsPending": true,
+        "streams": ["machine-ngram"]
+      }
+    ],
+    "1:14": [
+      {
+        "source": "Revelation 15:3",
+        "type": "quotation",
+        "subtype": "close-verbal",
+        "confidence": "certain",
+        "text": "And they sing the song of Moses the servant of God, and the song of the Lamb, saying, Great and marvellous are thy works, Lord God Almighty; just and true are thy ways, thou King of saints.",
+        "evidence": { "vocabulary": 5, "syntax": 5, "sequence": 5, "context": 4, "rarity": 5, "attestation": 5 },
+        "kjvSpecific": "uncertain",
+        "mediation": "direct-NT",
+        "composite": ["Revelation 11:17"],
+        "provenance": {
+          "route": "Revelation 15:3 → KJV → Book of Mormon",
+          "other": "The Geneva Bible (1560) reads very nearly the same at this verse, so the wording alone cannot separate KJV dependence from Geneva dependence.",
+          "significance": "A prophet dated to 600 BC praises God in the words of a Christian apocalypse written around AD 95, in English. This is the chapter's central anachronism and the clearest instance in 1 Nephi of the phenomenon the whole catalogue exists to document."
+        },
+        "note": "'Great and marvellous are thy works, O Lord God Almighty' reproduces Revelation 15:3 word for word across six words, adding only the vocative 'O' — which itself appears in the same formula at Revelation 11:17 ('O LORD God Almighty'), so the composite reading is likely. 'Great and marvellous' occurs twice in the KJV and both times in Revelation 15 (verses 1 and 3); nowhere else in the Bible. The 1830 text spells it 'marvellous,' matching the KJV's own orthography, and later editions modernized it to 'marvelous' — the first edition preserves the borrowing more visibly than the current text does. At six identical words the passage falls well below Skousen's sixteen-word threshold for a 'literal quotation' and so is not one of his 36; by the taxonomy used here, a complete clause reproduced verbatim from a verse that is its only biblical home is a quotation regardless of length.",
+        "bibliography": [],
+        "status": "consensus",
+        "citationsPending": true,
+        "streams": ["machine-ngram"]
+      }
+    ],
+    "1:20": [
+      {
+        "source": "Psalm 145:9",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "text": "The LORD is good to all: and his tender mercies are over all his works.",
+        "evidence": { "vocabulary": 5, "syntax": 4, "sequence": 4, "context": 4, "rarity": 5, "attestation": 2 },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "provenance": {
+          "route": "Psalm 145:9 → KJV → Book of Mormon",
+          "alternative": "The machine streams proposed Proverbs 12:10 on the strength of a longer contiguous string; see the exclusion register for why that reading fails.",
+          "other": "'Tender mercies' is the KJV's rendering of raḥămê; modern versions read 'compassion' or 'mercy' and lose the phrase entirely.",
+          "significance": "Nephi's thesis statement for the whole book — the sentence he uses to say what his record is about — is built on the Psalter's formula for divine goodness, in the KJV's wording."
+        },
+        "note": "'The tender mercies of the Lord is over all them whom he hath chosen' joins two KJV elements that occur together nowhere else. 'Tender mercies' appears eleven times in the KJV, ten of them in the Psalms; 'are/is over all' as a predicate appears in only two verses in the whole Bible (Psalm 145:9 and Romans 9:5). Psalm 145:9 is the single verse where both meet: 'his tender mercies are over all his works.' Nephi keeps the subject and the predicate and substitutes the object — 'all them whom he hath chosen' for 'all his works' — which narrows a statement about creation into a statement about election, and that narrowing is the point of his sentence. Note also that the 1830 text reads 'is over all' where the KJV reads 'are'; the 1920 edition corrected it to 'are,' moving the Book of Mormon closer to its source than the first edition had been.",
+        "bibliography": [],
+        "status": "majority",
+        "citationsPending": true,
+        "streams": ["manual"]
+      }
+    ]
+  }
+}
