@@ -8,7 +8,38 @@
       "ch": 1,
       "ref": "1:1",
       "text": "I, Nephi, having been born of goodly parents, therefore I was taught somewhat in all the learning of my father; and having seen many afflictions in the course of my days—nevertheless, having been highly favored of the Lord in all my days; yea, having had a great knowledge of the goodness and the mysteries of God, therefore I make a record of my proceedings in my days;",
-      "links": []
+      "links": [
+        {
+          "source": "Exodus 2:2",
+          "type": "echo",
+          "subtype": "possible",
+          "confidence": "low",
+          "text": "And the woman conceived, and bare a son: and when she saw him that he was a goodly child, she hid him three months.",
+          "evidence": {
+            "vocabulary": 2,
+            "syntax": 1,
+            "sequence": 1,
+            "context": 4,
+            "rarity": 2,
+            "attestation": 0
+          },
+          "kjvSpecific": "uncertain",
+          "mediation": "direct-OT",
+          "provenance": {
+            "route": "Exodus 2:2 (Moses birth notice) → KJV → Book of Mormon",
+            "alternative": "'Goodly' is a common KJV adjective — of cedars, cattle, garments, and persons — and 'goodly parents' may be nothing more than a conventional compliment.",
+            "significance": "If the echo holds, Nephi casts himself as Moses in his opening six words, before any narrative has begun. That reading is not isolated: the pillar of fire arrives at 1:6, the borrowed praise at 1:14 is what Revelation 15:3 calls 'the song of Moses', and chapter 17 argues Nephi's authority from Moses at length. The first sentence would then be setting the type the book spends twenty-two chapters filling."
+          },
+          "note": "'I, Nephi, having been born of goodly parents' opens the book. The KJV's one memorable use of 'goodly' in a birth notice is Exodus 2:2, where Moses' mother 'saw him that he was a goodly child' — the sentence that launches the Exodus. Nephi's clause shares the adjective and the birth setting while transferring the epithet from the child to the parents, which is what an allusion under compression tends to do. Proposed here as a deliberate risk: the verbal contact is one word, and the case rests on the Moses typology that demonstrably governs the rest of 1 Nephi.",
+          "whyNot": "One shared adjective and no shared syntax. 'Goodly' appears throughout the KJV in wholly unrelated settings, and a reader who did not already expect Moses typology would have no reason to hear Exodus 2:2 here. The machine streams did not propose this and could not have; it is a reading imported from the book's later chapters, and it should be the first record struck if the cluster it depends on fails to hold up across 1 Nephi 17.",
+          "bibliography": [],
+          "status": "novel",
+          "citationsPending": true,
+          "streams": [
+            "manual"
+          ]
+        }
+      ]
     },
     {
       "id": "1:2",
@@ -26,8 +57,8 @@
         {
           "source": "Philemon 1:19",
           "type": "echo",
-          "subtype": "possible",
-          "confidence": "low",
+          "subtype": "probable",
+          "confidence": "moderate",
           "text": "I Paul have written it with mine own hand, I will repay it: albeit I do not say to thee how thou owest unto me even thine own self besides.",
           "evidence": {
             "vocabulary": 3,
@@ -37,16 +68,16 @@
             "rarity": 1,
             "attestation": 1
           },
-          "kjvSpecific": "no",
+          "kjvSpecific": "uncertain",
           "mediation": "direct-NT",
           "provenance": {
             "route": "Pauline autograph formula → KJV → Book of Mormon",
-            "significance": "If real, this would be a Pauline epistolary formula in the mouth of a pre-exilic Israelite — but the formula is too ordinary to carry that weight on its own."
+            "significance": "A Pauline epistolary formula in the mouth of a pre-exilic Israelite. The formula is ordinary enough that it cannot prove the case alone, but the project's business is to put such things on the table."
           },
           "note": "Nephi authenticates his record exactly where Paul authenticates his letter: 'I make it with mine own hand' answers 'I Paul have written it with mine own hand.' The function matches as well as the wording — both are first-person guarantees of an autograph attached to a claim that the document is trustworthy, and Nephi's stands one clause after 'I know that the record which I make, to be true.'",
-          "whyNot": "'With mine own hand' is a commonplace of the KJV's epistolary and legal idiom (compare 1 Corinthians 16:21, Galatians 6:11, Colossians 4:18, 2 Thessalonians 3:17), not a phrase peculiar to Philemon. Any writer imitating scriptural English who wanted to say that he wrote something himself would land on these words. The parallel of FUNCTION is real; the parallel of WORDING proves nothing, and there is no second marker tying this to Philemon specifically rather than to the formula at large.",
+          "whyNot": "'With mine own hand' is a commonplace of the KJV's epistolary idiom (1 Corinthians 16:21, Galatians 6:11, Colossians 4:18, 2 Thessalonians 3:17), not a phrase peculiar to Philemon, and no second marker ties Nephi to that letter rather than to the formula at large. Kept at moderate because the FUNCTION matches as precisely as the wording — both are first-person guarantees of an autograph attached to a claim that the document is trustworthy — and a Pauline authentication formula in a pre-exilic colophon is worth putting on the table even undecided.",
           "bibliography": [],
-          "status": "minority",
+          "status": "novel",
           "citationsPending": true,
           "streams": [
             "machine-ngram"
@@ -74,7 +105,7 @@
             "rarity": 4,
             "attestation": 4
           },
-          "kjvSpecific": "uncertain",
+          "kjvSpecific": "yes",
           "mediation": "direct-OT",
           "composite": [
             "Jeremiah 49:34",
@@ -303,7 +334,7 @@
             "rarity": 4,
             "attestation": 3
           },
-          "kjvSpecific": "uncertain",
+          "kjvSpecific": "yes",
           "mediation": "direct-OT",
           "provenance": {
             "route": "Jeremiah 13:27 → KJV → Book of Mormon",
@@ -369,14 +400,14 @@
             "rarity": 5,
             "attestation": 5
           },
-          "kjvSpecific": "uncertain",
+          "kjvSpecific": "yes",
           "mediation": "direct-NT",
           "composite": [
             "Revelation 11:17"
           ],
           "provenance": {
             "route": "Revelation 15:3 → KJV → Book of Mormon",
-            "other": "The Geneva Bible (1560) reads very nearly the same at this verse, so the wording alone cannot separate KJV dependence from Geneva dependence.",
+            "other": "The Geneva Bible (1560) reads very nearly the same at this verse, so this passage on its own does not separate KJV from Geneva dependence. Recorded as a qualification, not a disqualification: the wording is the Authorized Version's as the Book of Mormon's readers would have met it.",
             "significance": "A prophet dated to 600 BC praises God in the words of a Christian apocalypse written around AD 95, in English. This is the chapter's central anachronism and the clearest instance in 1 Nephi of the phenomenon the whole catalogue exists to document. There is also a metaleptic gain (Hays 2016, Introduction): recover the context of Revelation 15:3 and the borrowed words turn out to be introduced there as 'the song of Moses the servant of God, and the song of the Lamb'. Lehi therefore opens a book that will run on Exodus typology from 1:6 onward — and that will argue itself from Moses at length in chapter 17 — by praising God in what the source text labels the song of Moses. Neither text states the connection; only the link does."
           },
           "note": "'Great and marvellous are thy works, O Lord God Almighty' reproduces Revelation 15:3 word for word across six words, adding only the vocative 'O' — which itself appears in the same formula at Revelation 11:17 ('O LORD God Almighty'), so the composite reading is likely. 'Great and marvellous' occurs twice in the KJV and both times in Revelation 15 (verses 1 and 3); nowhere else in the Bible. The 1830 text spells it 'marvellous,' matching the KJV's own orthography, and later editions modernized it to 'marvelous' — the first edition preserves the borrowing more visibly than the current text does. At six identical words the passage falls well below Skousen's sixteen-word threshold for a 'literal quotation' and so is not one of his 36; by the taxonomy used here, a complete clause reproduced verbatim from a verse that is its only biblical home is a quotation regardless of length.",

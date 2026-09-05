@@ -10,6 +10,32 @@ sixth confidence level.
 
 ---
 
+## 0a. Posture: generative, not critical (Wilson's ruling, 2026-09-05)
+
+**This catalogue gestures in the direction of connections. It is not a critical
+edition and should not behave like one.** The value we are adding is *finding
+links other people have not found*, which means accepting a rate of error that a
+critical edition could not. Bias toward proposing.
+
+Practically:
+
+- **Take the risk.** A connection that is interesting and defensible goes in, even
+  without a citation and even if a cautious editor would decline it. `status:
+  "novel"` is a *feature* of this project, not an admission.
+- **Do not gate on citations.** `citationsPending: true` marks a row as unsourced;
+  it does not hold it back. Cite what you happen to have; gesture where you don't.
+- **Do not gate on version comparison.** See §4 — `kjvSpecific: "yes"` no longer
+  requires ruling out Geneva and Tyndale first.
+- **Still write the `note`.** The argument is the product. A link with no argument
+  is not risk-taking, it is noise.
+
+The single limit: **never attribute a claim to a named scholar who did not make
+it.** Speculating boldly in our own voice is the point of the project; saying
+"Frederick pairs these" when he does not is a false statement about a real
+person's work, and it is what discredited the colleague's pilot (see
+`work/1-nephi/PROVENANCE-colleague-pilot.md`). Write "compare Hays on metalepsis"
+freely; write "Hays identifies this link" only if he does.
+
 ## 0. The one rule everything else serves
 
 **The machine finds candidates; it never decides.** Every accepted link carries a
@@ -132,27 +158,31 @@ the Lamb"** — so Lehi, at the head of a book that will run on Exodus typology 
 1:6 onward and argue itself from Moses in chapter 17, praises God in what
 Revelation labels the song of Moses. Neither text says this. The link says it.
 
-## 4. `kjvSpecific` is the historically significant field — do not inflate it
+## 4. `kjvSpecific` — the interesting field, graded generously
 
-This is the claim that gives the project its point, so it is the one to be
-strictest about. Answer the question: *could this wording have come from an
-English Bible other than the KJV?*
+This is the claim that gives the project its point. Answer the question: *is the
+Book of Mormon following the KJV's English here?*
 
-- `yes` — the phrasing is the KJV's and other English versions differ. Say what
-  they read instead, in `provenance.other`. Example: 1 Nephi 1:13's "carried away
-  captive into Babylon", where modern versions read "carried into exile".
-- `uncertain` — the KJV shares the reading with Geneva, Bishops', or Tyndale, so
-  the passage cannot separate them. **This is the correct answer far more often
-  than is comfortable**, and Skousen's own comparison tables (BYU Studies 59.1,
-  93–95) are the model: he sets the KJV beside seven earlier English versions
-  before claiming anything. 1 Nephi 1:14 is marked `uncertain` for exactly this
-  reason — Geneva 1560 reads nearly the same.
+- `yes` — the phrasing is the KJV's. This is the **default when the wording
+  tracks the KJV**, and it does not require first ruling out Geneva, Bishops', or
+  Tyndale. Where you happen to know an earlier English version reads the same,
+  note it in `provenance.other` as a qualification — but it no longer forces a
+  downgrade. Modern versions diverging (e.g. "carried into exile" for "carried
+  away captive") is a bonus, not a requirement.
+- `uncertain` — genuinely can't tell, or the wording is generic enough that no
+  particular English version is in view.
 - `no` — the phrase is common to essentially all English Bibles ("pillar of
   fire"), or the link is figural and has no wording to test.
 
-A `yes` should be backed by rarity: check how many KJV verses contain the phrase
-before claiming it. `text/kjv.json` is loaded as a `{ref: text}` dict; a two-line
-regex count is enough, and it is not optional.
+**Rarity counts are encouraged, not required.** They make an argument much
+stronger when you have one — "carried away captive into Babylon" occurring in
+exactly one KJV verse is what makes 1 Nephi 1:13 compelling — so run them where
+the link matters. `text/kjv.json` is a `{ref: text}` dict and a two-line regex
+does it. But an uncounted `yes` is acceptable under §0a; don't stall on it.
+
+*Changed 2026-09-05 by Wilson's ruling. The previous version required Skousen's
+seven-version comparison before any `yes`, which suited a critical edition and
+not this one. 1 Nephi 1:14 moved `uncertain` → `yes` under the new standard.*
 
 ## 5. The exclusion register
 
@@ -170,22 +200,32 @@ the standing exclusion at 1 Nephi 1:5 and may be passed over in silence.
 - a typological expectation was pulling toward a link the wording will not bear
   (the Exodus 2:2 "goodly" entry).
 
-## 6. Citations: never invent one
+## 6. Citations: gesture freely, attribute honestly
 
-The scholarship stream (PLAN.md §4.4) **has not been run** — Hardy 2023 and
-Frederick are not on disk and Skousen's KJQ list is unobtainable (§4.1). So:
+Per §0a, missing citations never hold a link back. We hold Hardy (two editions),
+Frederick, Spencer, Barlow, and both Hays volumes; Skousen's KJQ list remains
+unobtainable (PLAN.md §4.1). Cite them when they happen to bear on a link and
+move on when they don't.
 
-- `bibliography` may only contain a citation whose source we actually hold and
-  which has been checked. Today that is close to nothing.
-- Where you are confident a link is standard in the field but cannot cite it,
-  set `status` to your honest read (`consensus`, `majority`, …) **and set
-  `citationsPending: true`.** That field exists so a `status` claim is not
-  mistaken for a sourced one.
-- `status: "novel"` means *nobody has claimed this before*. That is a strong
-  claim about the literature. Do not use it as a synonym for "I have no citation."
+- `bibliography` is for citations you have actually seen. Page numbers are nice,
+  not required; "Hardy MSI at 1 Ne 22.20" is a perfectly good entry.
+- No citation? Set `citationsPending: true` and keep going. It marks the row as
+  unsourced so it can be swept later — it is a bookmark, not a blocker.
+- `status: "novel"` is **the interesting outcome here**, not a confession. This
+  project exists to produce rows nobody has published. Use it when you believe
+  the connection is ours; use `citationsPending` when you suspect it is standard
+  but haven't looked.
+- In the `note`, gesture at the literature in our own voice as much as you like —
+  "compare Hays on metalepsis", "the Exodus reading is the usual one here".
 
-`apply-adjudication.py` enforces the last two: a link with no bibliography must
-be either `novel` or `citationsPending`.
+**The one hard limit:** never write that a named scholar says something unless
+they say it. "Frederick pairs these passages" is a factual claim about Frederick.
+Speculate boldly as ourselves; do not speculate in someone else's name. See
+`work/1-nephi/PROVENANCE-colleague-pilot.md` for what this looks like when it
+goes wrong — 23 invented attributions across an otherwise decent pilot.
+
+`apply-adjudication.py` still requires that an uncited link be either `novel` or
+`citationsPending`, so that the unsourced set stays countable.
 
 ## 7. Mediation
 

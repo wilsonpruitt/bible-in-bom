@@ -9,19 +9,13 @@
   },
   "exclusions": [
     {
-      "bomRef": "1 Nephi 1:1",
-      "source": "Exodus 2:2",
-      "category": "common-vocabulary",
-      "sharedText": "goodly",
-      "streams": ["manual"],
-      "reason": "'Born of goodly parents' is tempting because 1 Nephi runs on Exodus typology from 1:6 onward, and Exodus 2:2 is the birth notice of Moses ('he was a goodly child'). But 'goodly' is a common KJV adjective applied to persons, garments, cedars, and cattle, and the Book of Mormon phrase shares one word with the Exodus verse and no syntax. Recording this as a link would mean letting a typological expectation manufacture verbal evidence."
-    },
-    {
       "bomRef": "1 Nephi 1:3",
       "source": "Acts 7:44",
       "category": "formulaic",
       "sharedText": "make it according to",
-      "streams": ["machine-ngram"],
+      "streams": [
+        "machine-ngram"
+      ],
       "reason": "A four-word run of pure connective tissue. Acts 7:44 concerns the tabernacle's pattern and shares no content word with Nephi's colophon."
     },
     {
@@ -29,7 +23,9 @@
       "source": "Ezekiel 44:24",
       "category": "formulaic",
       "sharedText": "it according to my",
-      "streams": ["machine-ngram"],
+      "streams": [
+        "machine-ngram"
+      ],
       "reason": "Connective boilerplate; Ezekiel's subject is priestly adjudication of controversies."
     },
     {
@@ -37,7 +33,9 @@
       "source": "Job 15:20",
       "category": "formulaic",
       "sharedText": "all his days and",
-      "streams": ["machine-ngram"],
+      "streams": [
+        "machine-ngram"
+      ],
       "reason": "Four words of connective phrasing spanning a clause boundary in both texts."
     },
     {
@@ -45,7 +43,9 @@
       "source": "Luke 7:21",
       "category": "formulaic",
       "sharedText": "and in that same",
-      "streams": ["machine-ngram"],
+      "streams": [
+        "machine-ngram"
+      ],
       "reason": "Temporal connective. The following noun differs ('year' vs 'hour')."
     },
     {
@@ -53,7 +53,9 @@
       "source": "1 Samuel 1:20",
       "category": "formulaic",
       "sharedText": "wherefore it came to pass",
-      "streams": ["machine-ngram"],
+      "streams": [
+        "machine-ngram"
+      ],
       "reason": "'And/wherefore it came to pass' is the Book of Mormon's single most frequent narrative connective and occurs hundreds of times in the KJV. It should never be treated as evidence of dependence on any particular verse, and candidates resting on it alone are excluded throughout this catalogue without further comment."
     },
     {
@@ -61,7 +63,9 @@
       "source": "Jonah 4:2",
       "category": "formulaic",
       "sharedText": "he prayed unto the LORD",
-      "streams": ["machine-ngram"],
+      "streams": [
+        "machine-ngram"
+      ],
       "reason": "A standard KJV formula for prayer with no distinctive content. The real link at this verse is to the Exodus pillar-of-fire theophany; see the accepted link."
     },
     {
@@ -69,7 +73,9 @@
       "source": "2 Samuel 14:24",
       "category": "formulaic",
       "sharedText": "returned to his own house",
-      "streams": ["machine-ngram"],
+      "streams": [
+        "machine-ngram"
+      ],
       "reason": "Ordinary narrative motion. Absalom's return to his own house has no thematic contact with Lehi's."
     },
     {
@@ -77,7 +83,9 @@
       "source": "2 Samuel 20:3",
       "category": "formulaic",
       "sharedText": "house at Jerusalem and",
-      "streams": ["machine-ngram"],
+      "streams": [
+        "machine-ngram"
+      ],
       "reason": "Locative boilerplate; the shared string straddles a clause boundary."
     },
     {
@@ -85,7 +93,9 @@
       "source": "1 Kings 18:42",
       "category": "insufficient-verbal",
       "sharedText": "and he cast himself",
-      "streams": ["machine-ngram"],
+      "streams": [
+        "machine-ngram"
+      ],
       "reason": "Elijah casting himself down on Carmel is a closer thematic neighbour than most machine noise — both are prophets prostrate after an encounter with God — but the objects differ ('upon the earth' vs 'upon his bed') and the postures serve opposite functions: Elijah is praying, Lehi is collapsing. The prophetic-collapse type-scene is recorded as a link to Daniel 10:8–9 instead."
     },
     {
@@ -93,7 +103,9 @@
       "source": "Joshua 10:13",
       "category": "formulaic",
       "sharedText": "the midst of heaven",
-      "streams": ["machine-ngram"],
+      "streams": [
+        "machine-ngram"
+      ],
       "reason": "A locative phrase. Joshua 10:13 concerns the sun standing still, not a descending figure."
     },
     {
@@ -101,7 +113,9 @@
       "source": "Deuteronomy 16:6",
       "category": "formulaic",
       "sharedText": "of the sun at",
-      "streams": ["machine-ngram"],
+      "streams": [
+        "machine-ngram"
+      ],
       "reason": "Three content-free words plus 'sun'; Deuteronomy's subject is the hour of the passover sacrifice."
     },
     {
@@ -109,7 +123,9 @@
       "source": "1 Kings 7:14",
       "category": "formulaic",
       "sharedText": "he was filled with",
-      "streams": ["machine-ngram"],
+      "streams": [
+        "machine-ngram"
+      ],
       "reason": "'Filled with' takes wisdom, the Spirit, fury, and much else across the KJV. Hiram of Tyre being filled with craftsman's wisdom is not a source for Lehi being filled with the Spirit."
     },
     {
@@ -117,7 +133,9 @@
       "source": "Job 36:12",
       "category": "common-vocabulary",
       "sharedText": "perish by the sword",
-      "streams": ["machine-ngram"],
+      "streams": [
+        "machine-ngram"
+      ],
       "reason": "A stock phrase of prophetic judgement distributed across the KJV; Jeremiah alone offers many closer contexts. Nothing points to Job."
     },
     {
@@ -125,7 +143,9 @@
       "source": "Daniel 2:44",
       "category": "formulaic",
       "sharedText": "be destroyed and the",
-      "streams": ["machine-ngram"],
+      "streams": [
+        "machine-ngram"
+      ],
       "reason": "Connective boilerplate spanning a clause boundary."
     },
     {
@@ -133,7 +153,9 @@
       "source": "Jeremiah 15:2",
       "category": "formulaic",
       "sharedText": "the LORD such as",
-      "streams": ["machine-ngram"],
+      "streams": [
+        "machine-ngram"
+      ],
       "reason": "The shared string is an accident of the Book of Mormon's 'such as' introducing a quotation and Jeremiah's 'such as are for death'. Different constructions entirely."
     },
     {
@@ -141,7 +163,9 @@
       "source": "Leviticus 2:8",
       "category": "formulaic",
       "sharedText": "things unto the LORD",
-      "streams": ["machine-ngram"],
+      "streams": [
+        "machine-ngram"
+      ],
       "reason": "Boilerplate; Leviticus concerns the meat offering."
     },
     {
@@ -149,7 +173,9 @@
       "source": "Genesis 12:12",
       "category": "formulaic",
       "sharedText": "thee that they shall",
-      "streams": ["machine-ngram"],
+      "streams": [
+        "machine-ngram"
+      ],
       "reason": "Four function words."
     },
     {
@@ -157,7 +183,9 @@
       "source": "1 Samuel 10:7",
       "category": "formulaic",
       "sharedText": "come unto thee that",
-      "streams": ["machine-ngram"],
+      "streams": [
+        "machine-ngram"
+      ],
       "reason": "Four function words."
     },
     {
@@ -165,7 +193,9 @@
       "source": "Ezekiel 23:30",
       "category": "formulaic",
       "sharedText": "and because thou art",
-      "streams": ["machine-ngram"],
+      "streams": [
+        "machine-ngram"
+      ],
       "reason": "Four function words."
     },
     {
@@ -173,7 +203,9 @@
       "source": "Job 42:7",
       "category": "formulaic",
       "sharedText": "that after the LORD had",
-      "streams": ["machine-ngram"],
+      "streams": [
+        "machine-ngram"
+      ],
       "reason": "A temporal connective. Scored relatively high (1.50) because the five-word run is uncommon, which illustrates that n-gram rarity tracks string frequency and not significance: rare boilerplate is still boilerplate."
     },
     {
@@ -181,7 +213,9 @@
       "source": "Ezekiel 16:14",
       "category": "formulaic",
       "sharedText": "went forth among the",
-      "streams": ["machine-ngram"],
+      "streams": [
+        "machine-ngram"
+      ],
       "reason": "Ordinary narrative motion."
     },
     {
@@ -189,7 +223,9 @@
       "source": "Nehemiah 8:18",
       "category": "common-vocabulary",
       "sharedText": "he read in the book",
-      "streams": ["machine-ngram"],
+      "streams": [
+        "machine-ngram"
+      ],
       "reason": "Ezra reading the book of the law is a genuine thematic neighbour to Lehi reading the book given him in vision, and both scenes are public. But the shared words are the plainest possible way to say that someone read a book, and Lehi's reading is visionary rather than liturgical. Not enough to adjudicate."
     },
     {
@@ -197,7 +233,9 @@
       "source": "Proverbs 12:10",
       "category": "wrong-sense",
       "sharedText": "the tender mercies of the",
-      "streams": ["machine-ngram"],
+      "streams": [
+        "machine-ngram"
+      ],
       "reason": "This is the most instructive rejection in the chapter. Proverbs 12:10 gave the longest contiguous match in the machine's candidate set for this verse — five words, scoring 2.00 — and it is wrong. The Proverbs verse reads 'the tender mercies of the wicked are cruel': the phrase is there to be negated, and its subject is the opposite of Nephi's. The true source, Psalm 145:9 ('his tender mercies are over all his works'), shares fewer contiguous words and so never surfaced in the n-gram stream at all, but supplies both halves of Nephi's sentence — the subject 'tender mercies' and the predicate 'over all', a pairing found in no other KJV verse. A longer string match is not a better one, and the contiguous-window method is structurally blind to sources whose agreement is split across a clause."
     },
     {
@@ -205,7 +243,9 @@
       "source": "Psalm 89:1",
       "category": "better-source-identified",
       "sharedText": "mercies of the LORD",
-      "streams": ["machine-ngram"],
+      "streams": [
+        "machine-ngram"
+      ],
       "reason": "A real member of the Psalter's mercy vocabulary, but without 'tender' and without the 'over all' predicate. Superseded by Psalm 145:9."
     },
     {
@@ -213,7 +253,9 @@
       "source": "1 John 1:2",
       "category": "formulaic",
       "sharedText": "shew unto you that",
-      "streams": ["machine-ngram"],
+      "streams": [
+        "machine-ngram"
+      ],
       "reason": "A four-word run of announcement formula. Worth noting for a different reason, however: the 1830 text spells it 'shew', exactly as the KJV does, and the 1920 edition modernized it to 'show'. The orthography is evidence about the Book of Mormon's relation to KJV English generally, and belongs in the variant register rather than here as a link to any particular verse."
     }
   ]

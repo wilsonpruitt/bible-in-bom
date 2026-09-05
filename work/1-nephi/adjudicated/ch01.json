@@ -3,26 +3,67 @@
   "adjudicated": "2026-09-05",
   "adjudicator": "Opus (pilot chapter — conventions established here, see CONVENTIONS.md)",
   "links": {
+    "1:1": [
+      {
+        "source": "Exodus 2:2",
+        "type": "echo",
+        "subtype": "possible",
+        "confidence": "low",
+        "text": "And the woman conceived, and bare a son: and when she saw him that he was a goodly child, she hid him three months.",
+        "evidence": {
+          "vocabulary": 2,
+          "syntax": 1,
+          "sequence": 1,
+          "context": 4,
+          "rarity": 2,
+          "attestation": 0
+        },
+        "kjvSpecific": "uncertain",
+        "mediation": "direct-OT",
+        "provenance": {
+          "route": "Exodus 2:2 (Moses birth notice) → KJV → Book of Mormon",
+          "alternative": "'Goodly' is a common KJV adjective — of cedars, cattle, garments, and persons — and 'goodly parents' may be nothing more than a conventional compliment.",
+          "significance": "If the echo holds, Nephi casts himself as Moses in his opening six words, before any narrative has begun. That reading is not isolated: the pillar of fire arrives at 1:6, the borrowed praise at 1:14 is what Revelation 15:3 calls 'the song of Moses', and chapter 17 argues Nephi's authority from Moses at length. The first sentence would then be setting the type the book spends twenty-two chapters filling."
+        },
+        "note": "'I, Nephi, having been born of goodly parents' opens the book. The KJV's one memorable use of 'goodly' in a birth notice is Exodus 2:2, where Moses' mother 'saw him that he was a goodly child' — the sentence that launches the Exodus. Nephi's clause shares the adjective and the birth setting while transferring the epithet from the child to the parents, which is what an allusion under compression tends to do. Proposed here as a deliberate risk: the verbal contact is one word, and the case rests on the Moses typology that demonstrably governs the rest of 1 Nephi.",
+        "whyNot": "One shared adjective and no shared syntax. 'Goodly' appears throughout the KJV in wholly unrelated settings, and a reader who did not already expect Moses typology would have no reason to hear Exodus 2:2 here. The machine streams did not propose this and could not have; it is a reading imported from the book's later chapters, and it should be the first record struck if the cluster it depends on fails to hold up across 1 Nephi 17.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
     "1:3": [
       {
         "source": "Philemon 1:19",
         "type": "echo",
-        "subtype": "possible",
-        "confidence": "low",
+        "subtype": "probable",
+        "confidence": "moderate",
         "text": "I Paul have written it with mine own hand, I will repay it: albeit I do not say to thee how thou owest unto me even thine own self besides.",
-        "evidence": { "vocabulary": 3, "syntax": 2, "sequence": 2, "context": 3, "rarity": 1, "attestation": 1 },
-        "kjvSpecific": "no",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 2,
+          "sequence": 2,
+          "context": 3,
+          "rarity": 1,
+          "attestation": 1
+        },
+        "kjvSpecific": "uncertain",
         "mediation": "direct-NT",
         "provenance": {
           "route": "Pauline autograph formula → KJV → Book of Mormon",
-          "significance": "If real, this would be a Pauline epistolary formula in the mouth of a pre-exilic Israelite — but the formula is too ordinary to carry that weight on its own."
+          "significance": "A Pauline epistolary formula in the mouth of a pre-exilic Israelite. The formula is ordinary enough that it cannot prove the case alone, but the project's business is to put such things on the table."
         },
         "note": "Nephi authenticates his record exactly where Paul authenticates his letter: 'I make it with mine own hand' answers 'I Paul have written it with mine own hand.' The function matches as well as the wording — both are first-person guarantees of an autograph attached to a claim that the document is trustworthy, and Nephi's stands one clause after 'I know that the record which I make, to be true.'",
-        "whyNot": "'With mine own hand' is a commonplace of the KJV's epistolary and legal idiom (compare 1 Corinthians 16:21, Galatians 6:11, Colossians 4:18, 2 Thessalonians 3:17), not a phrase peculiar to Philemon. Any writer imitating scriptural English who wanted to say that he wrote something himself would land on these words. The parallel of FUNCTION is real; the parallel of WORDING proves nothing, and there is no second marker tying this to Philemon specifically rather than to the formula at large.",
+        "whyNot": "'With mine own hand' is a commonplace of the KJV's epistolary idiom (1 Corinthians 16:21, Galatians 6:11, Colossians 4:18, 2 Thessalonians 3:17), not a phrase peculiar to Philemon, and no second marker ties Nephi to that letter rather than to the formula at large. Kept at moderate because the FUNCTION matches as precisely as the wording — both are first-person guarantees of an autograph attached to a claim that the document is trustworthy — and a Pauline authentication formula in a pre-exilic colophon is worth putting on the table even undecided.",
         "bibliography": [],
-        "status": "minority",
+        "status": "novel",
         "citationsPending": true,
-        "streams": ["machine-ngram"]
+        "streams": [
+          "machine-ngram"
+        ]
       }
     ],
     "1:4": [
@@ -32,10 +73,20 @@
         "subtype": "strong-verbal",
         "confidence": "high",
         "text": "And it came to pass the same year, in the beginning of the reign of Zedekiah king of Judah, in the fourth year, and in the fifth month, that Hananiah the son of Azur the prophet, which was of Gibeon, spake unto me in the house of the LORD, in the presence of the priests and of all the people, saying,",
-        "evidence": { "vocabulary": 4, "syntax": 4, "sequence": 4, "context": 5, "rarity": 4, "attestation": 4 },
-        "kjvSpecific": "uncertain",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 4
+        },
+        "kjvSpecific": "yes",
         "mediation": "direct-OT",
-        "composite": ["Jeremiah 49:34", "Jeremiah 1:3"],
+        "composite": [
+          "Jeremiah 49:34",
+          "Jeremiah 1:3"
+        ],
         "provenance": {
           "route": "Jeremiah's dating formula → KJV → Book of Mormon",
           "alternative": "The synchronism may be a generic biblical date formula rather than a borrowing from Jeremiah in particular; regnal dating by 'the Nth year of the reign of X king of Judah' is the standard idiom of Kings and Chronicles as well.",
@@ -45,7 +96,9 @@
         "bibliography": [],
         "status": "consensus",
         "citationsPending": true,
-        "streams": ["machine-ngram"]
+        "streams": [
+          "machine-ngram"
+        ]
       }
     ],
     "1:6": [
@@ -55,10 +108,20 @@
         "subtype": "strong-verbal",
         "confidence": "high",
         "text": "And the LORD went before them by day in a pillar of a cloud, to lead them the way; and by night in a pillar of fire, to give them light; to go by day and night:",
-        "evidence": { "vocabulary": 4, "syntax": 2, "sequence": 2, "context": 5, "rarity": 4, "attestation": 4 },
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 2,
+          "sequence": 2,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 4
+        },
         "kjvSpecific": "no",
         "mediation": "direct-OT",
-        "composite": ["Exodus 14:24", "Numbers 14:14"],
+        "composite": [
+          "Exodus 14:24",
+          "Numbers 14:14"
+        ],
         "provenance": {
           "route": "Exodus theophany → KJV → Book of Mormon",
           "significance": "Lehi's prophetic call is narrated in the vocabulary of the Exodus, which is the typology the whole of 1 Nephi will run on: a family led out of a doomed land, through a wilderness, across water, to a promised land. The pillar of fire is where that typology starts."
@@ -67,7 +130,9 @@
         "bibliography": [],
         "status": "consensus",
         "citationsPending": true,
-        "streams": ["machine-ngram"]
+        "streams": [
+          "machine-ngram"
+        ]
       }
     ],
     "1:7": [
@@ -77,10 +142,20 @@
         "subtype": "type-scene",
         "confidence": "moderate",
         "text": "Therefore I was left alone, and saw this great vision, and there remained no strength in me: for my comeliness was turned in me into corruption, and I retained no strength.",
-        "evidence": { "vocabulary": 1, "syntax": 1, "sequence": 3, "context": 4, "rarity": 3, "attestation": 3 },
+        "evidence": {
+          "vocabulary": 1,
+          "syntax": 1,
+          "sequence": 3,
+          "context": 4,
+          "rarity": 3,
+          "attestation": 3
+        },
         "kjvSpecific": "no",
         "mediation": "direct-OT",
-        "composite": ["Daniel 10:9", "Ezekiel 3:15"],
+        "composite": [
+          "Daniel 10:9",
+          "Ezekiel 3:15"
+        ],
         "provenance": {
           "route": "Prophetic collapse type-scene (Daniel, Ezekiel) → Book of Mormon",
           "significance": "The claim here is generic, not verbal: Lehi is being placed in a recognized class of visionary. This is what the `figural` type is for — a link that is real at the level of narrative form and absent at the level of wording."
@@ -90,7 +165,9 @@
         "bibliography": [],
         "status": "majority",
         "citationsPending": true,
-        "streams": ["manual"]
+        "streams": [
+          "manual"
+        ]
       }
     ],
     "1:8": [
@@ -100,10 +177,21 @@
         "subtype": "strong-verbal",
         "confidence": "high",
         "text": "And he said, Hear thou therefore the word of the LORD: I saw the LORD sitting on his throne, and all the host of heaven standing by him on his right hand and on his left.",
-        "evidence": { "vocabulary": 4, "syntax": 4, "sequence": 4, "context": 5, "rarity": 4, "attestation": 4 },
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 4
+        },
         "kjvSpecific": "no",
         "mediation": "direct-OT",
-        "composite": ["Isaiah 6:1", "Daniel 7:10", "Revelation 5:11"],
+        "composite": [
+          "Isaiah 6:1",
+          "Daniel 7:10",
+          "Revelation 5:11"
+        ],
         "provenance": {
           "route": "Divine-council throne vision (Micaiah, Isaiah, Daniel) → KJV → Book of Mormon",
           "significance": "Lehi is given the credential that authenticates a true prophet in the Hebrew Bible: he has stood in the divine council and seen the throne. The Book of Mormon is claiming for Lehi the precise standing that 1 Kings 22 uses to distinguish Micaiah from the four hundred false prophets."
@@ -112,7 +200,9 @@
         "bibliography": [],
         "status": "consensus",
         "citationsPending": true,
-        "streams": ["manual"]
+        "streams": [
+          "manual"
+        ]
       }
     ],
     "1:10": [
@@ -122,7 +212,14 @@
         "subtype": "structural",
         "confidence": "moderate",
         "text": "And the wall of the city had twelve foundations, and in them the names of the twelve apostles of the Lamb.",
-        "evidence": { "vocabulary": 1, "syntax": 1, "sequence": 2, "context": 4, "rarity": 3, "attestation": 3 },
+        "evidence": {
+          "vocabulary": 1,
+          "syntax": 1,
+          "sequence": 2,
+          "context": 4,
+          "rarity": 3,
+          "attestation": 3
+        },
         "kjvSpecific": "uncertain",
         "mediation": "direct-NT",
         "provenance": {
@@ -135,7 +232,9 @@
         "bibliography": [],
         "status": "majority",
         "citationsPending": true,
-        "streams": ["manual"]
+        "streams": [
+          "manual"
+        ]
       }
     ],
     "1:13": [
@@ -145,8 +244,15 @@
         "subtype": "strong-verbal",
         "confidence": "high",
         "text": "I have seen thine adulteries, and thy neighings, the lewdness of thy whoredom, and thine abominations on the hills in the fields. Woe unto thee, O Jerusalem! wilt thou not be made clean? when shall it once be?",
-        "evidence": { "vocabulary": 4, "syntax": 4, "sequence": 5, "context": 5, "rarity": 4, "attestation": 3 },
-        "kjvSpecific": "uncertain",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 3
+        },
+        "kjvSpecific": "yes",
         "mediation": "direct-OT",
         "provenance": {
           "route": "Jeremiah 13:27 → KJV → Book of Mormon",
@@ -156,7 +262,10 @@
         "bibliography": [],
         "status": "majority",
         "citationsPending": true,
-        "streams": ["machine-ngram", "manual"]
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
       },
       {
         "source": "Jeremiah 39:9",
@@ -164,7 +273,14 @@
         "subtype": "close-verbal",
         "confidence": "high",
         "text": "Then Nebuzaradan the captain of the guard carried away captive into Babylon the remnant of the people that remained in the city, and those that fell away, that fell to him, with the rest of the people that remained.",
-        "evidence": { "vocabulary": 5, "syntax": 4, "sequence": 4, "context": 5, "rarity": 5, "attestation": 3 },
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 3
+        },
         "kjvSpecific": "yes",
         "mediation": "direct-OT",
         "provenance": {
@@ -176,7 +292,9 @@
         "bibliography": [],
         "status": "majority",
         "citationsPending": true,
-        "streams": ["machine-ngram"]
+        "streams": [
+          "machine-ngram"
+        ]
       }
     ],
     "1:14": [
@@ -186,20 +304,31 @@
         "subtype": "close-verbal",
         "confidence": "certain",
         "text": "And they sing the song of Moses the servant of God, and the song of the Lamb, saying, Great and marvellous are thy works, Lord God Almighty; just and true are thy ways, thou King of saints.",
-        "evidence": { "vocabulary": 5, "syntax": 5, "sequence": 5, "context": 4, "rarity": 5, "attestation": 5 },
-        "kjvSpecific": "uncertain",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 5
+        },
+        "kjvSpecific": "yes",
         "mediation": "direct-NT",
-        "composite": ["Revelation 11:17"],
+        "composite": [
+          "Revelation 11:17"
+        ],
         "provenance": {
           "route": "Revelation 15:3 → KJV → Book of Mormon",
-          "other": "The Geneva Bible (1560) reads very nearly the same at this verse, so the wording alone cannot separate KJV dependence from Geneva dependence.",
+          "other": "The Geneva Bible (1560) reads very nearly the same at this verse, so this passage on its own does not separate KJV from Geneva dependence. Recorded as a qualification, not a disqualification: the wording is the Authorized Version's as the Book of Mormon's readers would have met it.",
           "significance": "A prophet dated to 600 BC praises God in the words of a Christian apocalypse written around AD 95, in English. This is the chapter's central anachronism and the clearest instance in 1 Nephi of the phenomenon the whole catalogue exists to document. There is also a metaleptic gain (Hays 2016, Introduction): recover the context of Revelation 15:3 and the borrowed words turn out to be introduced there as 'the song of Moses the servant of God, and the song of the Lamb'. Lehi therefore opens a book that will run on Exodus typology from 1:6 onward — and that will argue itself from Moses at length in chapter 17 — by praising God in what the source text labels the song of Moses. Neither text states the connection; only the link does."
         },
         "note": "'Great and marvellous are thy works, O Lord God Almighty' reproduces Revelation 15:3 word for word across six words, adding only the vocative 'O' — which itself appears in the same formula at Revelation 11:17 ('O LORD God Almighty'), so the composite reading is likely. 'Great and marvellous' occurs twice in the KJV and both times in Revelation 15 (verses 1 and 3); nowhere else in the Bible. The 1830 text spells it 'marvellous,' matching the KJV's own orthography, and later editions modernized it to 'marvelous' — the first edition preserves the borrowing more visibly than the current text does. At six identical words the passage falls well below Skousen's sixteen-word threshold for a 'literal quotation' and so is not one of his 36; by the taxonomy used here, a complete clause reproduced verbatim from a verse that is its only biblical home is a quotation regardless of length.",
         "bibliography": [],
         "status": "consensus",
         "citationsPending": true,
-        "streams": ["machine-ngram"]
+        "streams": [
+          "machine-ngram"
+        ]
       }
     ],
     "1:20": [
@@ -209,7 +338,14 @@
         "subtype": "strong-verbal",
         "confidence": "high",
         "text": "The LORD is good to all: and his tender mercies are over all his works.",
-        "evidence": { "vocabulary": 5, "syntax": 4, "sequence": 4, "context": 4, "rarity": 5, "attestation": 2 },
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 2
+        },
         "kjvSpecific": "yes",
         "mediation": "direct-OT",
         "provenance": {
@@ -222,7 +358,9 @@
         "bibliography": [],
         "status": "majority",
         "citationsPending": true,
-        "streams": ["manual"]
+        "streams": [
+          "manual"
+        ]
       }
     ]
   }
