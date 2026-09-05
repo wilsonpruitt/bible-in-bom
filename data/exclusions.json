@@ -757,6 +757,116 @@
         "machine-ngram"
       ],
       "reason": "'The servant of the Lord must not strive.' Four words, three of them function words."
+    },
+    {
+      "bomRef": "1 Nephi 5:1",
+      "source": "Acts 21:1",
+      "category": "formulaic",
+      "sharedText": "and it came to pass that after we",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "An eight-word run and pure hinge; the 'we' passage of Acts happens to begin its sentences the same way. See the Joshua 1:1 entry at 2:1."
+    },
+    {
+      "bomRef": "1 Nephi 5:1",
+      "source": "Luke 23:8",
+      "category": "wrong-sense",
+      "sharedText": "was exceeding glad for",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "Herod again, at a second verse (see 3:8). Recorded once more only to note that the same wrong candidate recurs wherever the Book of Mormon says a person was exceeding glad, which is often; subsequent hits are passed over in silence."
+    },
+    {
+      "bomRef": "1 Nephi 5:1",
+      "source": "1 Kings 7:14",
+      "category": "formulaic",
+      "sharedText": "he was filled with",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "Hiram the worker in brass 'filled with wisdom'. A filling-formula; Acts 13:52's 'filled with joy' is the nearer sense and is equally generic."
+    },
+    {
+      "bomRef": "1 Nephi 5:4",
+      "source": "1 Chronicles 20:1",
+      "category": "wrong-sense",
+      "sharedText": "tarried at Jerusalem and",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "A four-word run and a sharp inversion. 1 Chronicles 20:1 is 'But David tarried at Jerusalem' — the sentence that, in its 2 Samuel 11 form, introduces Bathsheba: the king stays home when he should have gone out, and disaster follows. Lehi says he would have 'tarried at Jerusalem and had perished with my brethren' — staying is death in both, but by opposite mechanisms, and neither text knows about the other."
+    },
+    {
+      "bomRef": "1 Nephi 5:5",
+      "source": "Philippians 1:18",
+      "category": "formulaic",
+      "sharedText": "do rejoice yea and",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "'I therein do rejoice, yea, and will rejoice.' A rejoicing formula; four words."
+    },
+    {
+      "bomRef": "1 Nephi 5:10",
+      "source": "Judges 16:21",
+      "category": "wrong-sense",
+      "sharedText": "of brass and he did",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "Rarity 2.00 and entirely spurious: Samson bound with fetters of brass, grinding in the prison house. The 'brass' is the shared word and it belongs to different objects. A clean illustration of a rare-word match with no rare sense behind it."
+    },
+    {
+      "bomRef": "1 Nephi 5:11",
+      "source": "Romans 1:20",
+      "category": "common-vocabulary",
+      "sharedText": "the creation of the world",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "'The creation of the world' occurs in exactly one KJV verse, so the phrase is genuinely rare — but Romans 1:20's subject is natural theology and 1 Nephi 5:11's is the table of contents of the Pentateuch. The phrase is doing bibliographic work here and doctrinal work there, and nothing else is shared. Recorded rather than passed over because the rarity count would otherwise look like a case."
+    },
+    {
+      "bomRef": "1 Nephi 5:13",
+      "source": "Revelation 22:6",
+      "category": "better-source-identified",
+      "sharedText": "of the holy prophets",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "'The Lord God of the holy prophets'. The Book of Mormon's holy-prophets formula in this book comes from Acts 3:21 (see 3:20), which supplies 'by the mouth of all' as well."
+    },
+    {
+      "bomRef": "1 Nephi 5:14",
+      "source": "Luke 3:34",
+      "category": "better-source-identified",
+      "sharedText": "which was the son of Jacob",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "An eight-word run, rarity 3.11, and a real observation kept as a note rather than a link. Luke 3:34's 'which was the son of Jacob' is the KJV's genealogical relative, and 1 Nephi 5:14 uses it — in the 1830 wording, which 1920 modernized to 'who'. But Luke 3 contributes only the grammar of a genealogy, not its content; the content of 5:14 is Acts 7:9-14, where Joseph is sold into Egypt and sends for his father and all his kindred. Carried in that link's composite."
+    },
+    {
+      "bomRef": "1 Nephi 5:14",
+      "source": "Deuteronomy 6:24",
+      "category": "formulaic",
+      "sharedText": "that he might preserve",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "'That he might preserve us alive'. The preservation formula at 5:14 is Joseph's own (Genesis 45:7, 50:20), which supplies the famine and the household as well as the verb."
+    },
+    {
+      "bomRef": "1 Nephi 5:22",
+      "source": "1 Corinthians 11:32",
+      "category": "formulaic",
+      "sharedText": "the Lord that we should",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "Five function words spanning a clause boundary in both texts."
     }
   ]
 }

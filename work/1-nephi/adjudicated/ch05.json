@@ -1,0 +1,249 @@
+{
+  "chapter": 5,
+  "adjudicated": "2026-09-05",
+  "adjudicator": "Opus",
+  "links": {
+    "5:2": [
+      {
+        "source": "Genesis 37:35",
+        "type": "allusion",
+        "subtype": "conceptual",
+        "confidence": "high",
+        "text": "And all his sons and all his daughters rose up to comfort him; but he refused to be comforted; and he said, For I will go down into the grave unto my son mourning. Thus his father wept for him.",
+        "evidence": { "vocabulary": 3, "syntax": 3, "sequence": 5, "context": 5, "rarity": 4, "attestation": 0 },
+        "kjvSpecific": "uncertain",
+        "mediation": "direct-OT",
+        "composite": ["Genesis 42:36", "Jeremiah 31:15", "Matthew 2:18"],
+        "recurrenceRefs": ["1 Nephi 5:7", "1 Nephi 5:14", "1 Nephi 2:11"],
+        "provenance": {
+          "route": "Genesis 37:35 → KJV → Book of Mormon",
+          "other": "Four KJV verses have a mourner who refuses or will not be comforted: Genesis 37:35 (Jacob for Joseph), Psalm 77:2, Jeremiah 31:15 (Rachel for her children, 'because they were not') and Matthew 2:18, which quotes Jeremiah with the tense changed to 'because they are not'.",
+          "significance": "The chapter itself supplies the reading. Sariah mourns sons she believes dead in a foreign errand, and at 5:14 the plates reveal that the family descends from Joseph — the son Jacob mourned as dead in exactly these words, and who was alive in Egypt the whole time. Genesis 37:35 is the parent's grief that the Joseph story exists to reverse, and 1 Nephi 5 reverses it in six verses: 'my sons are no more' at 5:2, 'my mother was comforted' at 5:7. Jacob refuses comfort and gets it only at Genesis 45:26; Sariah gets it when the sons walk in."
+        },
+        "note": "'She had supposed that we had perished in the wilderness … my sons are no more.' The complaint is Jacob's at Genesis 37:35 and 42:36 ('Joseph is not, and Simeon is not'), and Rachel's at Jeremiah 31:15 — a parent grieving children who 'are not', where the reader knows they are. The Book of Mormon's phrase is 'are no more' rather than either KJV form, so no single verse is demonstrable on wording; what is demonstrable is that the chapter names Joseph nine verses later and makes the family his. Sariah's complaint is also the wilderness murmur of 2:11 in a different mouth — 'thou hast led us forth from the land of our inheritance' is what Laman said, and the narrative gives it to the mother without editorial comment.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": ["manual"]
+      }
+    ],
+    "5:5": [
+      {
+        "source": "Hebrews 11:13",
+        "type": "allusion",
+        "subtype": "conceptual",
+        "confidence": "moderate",
+        "text": "These all died in faith, not having received the promises, but having seen them afar off, and were persuaded of them, and embraced them, and confessed that they were strangers and pilgrims on the earth.",
+        "evidence": { "vocabulary": 3, "syntax": 2, "sequence": 4, "context": 5, "rarity": 4, "attestation": 0 },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": ["Hebrews 11:9"],
+        "recurrenceRefs": ["1 Nephi 2:20", "1 Nephi 4:2", "1 Nephi 4:14"],
+        "provenance": {
+          "route": "Hebrews 11:9-13 → KJV → Book of Mormon",
+          "other": "'Land of promise' occurs in exactly one KJV verse, Hebrews 11:9; 11:13 is the sentence four verses later that explains how a promise can be possessed before it is received.",
+          "significance": "Lehi says 'I have obtained a land of promise' while sitting in a tent in Arabia, having obtained nothing. Hebrews 11:13 is the verse that licenses the tense — the patriarchs 'died in faith, not having received the promises, but having seen them afar off … and embraced them.' The Book of Mormon has now used Hebrews 11:8, 11:9, 11:13 and 11:29 in four chapters, in the source's own order, and the perfect tense in 5:5 is the clearest sign that the chapter is thinking in Hebrews 11's grammar of faith."
+        },
+        "note": "'But behold, I have obtained a land of promise, in the which thing I do rejoice.' The phrase is Hebrews 11:9's, already catalogued at 2:20, and the completed aspect is Hebrews 11:13's doctrine: the promise is embraced and confessed as one's own while still seen afar off. Recorded here rather than folded into the 2:20 link because the tense is the point — Lehi is not repeating the promise, he is claiming it as already held, which is the specific claim Hebrews 11:13 makes about the patriarchs and which nothing in the Old Testament states.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": ["manual"]
+      }
+    ],
+    "5:8": [
+      {
+        "source": "Acts 12:11",
+        "type": "quotation",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "And when Peter was come to himself, he said, Now I know of a surety, that the LORD hath sent his angel, and hath delivered me out of the hand of Herod, and from all the expectation of the people of the Jews.",
+        "evidence": { "vocabulary": 5, "syntax": 5, "sequence": 5, "context": 5, "rarity": 5, "attestation": 1 },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": ["Genesis 15:13"],
+        "recurrenceRefs": ["1 Nephi 3:29", "1 Nephi 4:3"],
+        "provenance": {
+          "route": "Acts 12:11 → KJV → Book of Mormon",
+          "other": "'Know of a surety' occurs in exactly two KJV verses. Genesis 15:13 has it as an imperative to Abram; Acts 12:11 is the only occurrence of the first-person declaration 'Now I know of a surety'.",
+          "significance": "Sariah's speech reproduces not just the formula but the whole sentence Peter speaks on the far side of a deliverance: 'Now I know of a surety, that the LORD hath … delivered me out of the hand of Herod.' She says 'the Lord hath … delivered them out of the hands of Laban', with the tyrant's name substituted. And the deliverance she is talking about was announced by an angel at 3:29, as Peter's was performed by one. The two most confident statements of knowledge in the first five chapters — this and Lehi's at 5:4 — are both put in the mouth of the doubter, immediately after the doubt is answered."
+        },
+        "note": "'Now I know of a surety that the Lord hath commanded my husband to flee into the wilderness; yea, and I also know of a surety that the Lord hath protected my sons and delivered them out of the hands of Laban.' The machine stream ranked this the highest-scoring candidate in 1 Nephi so far (rarity 5.04, a ten-word window), and for once the ranking is right: the phrase is unique to two verses, the first-person form to one, and the delivered-out-of-the-hand-of-X clause follows in both. Below Skousen's threshold and not among his quotations; catalogued as a quotation because a complete clause of one identifiable verse is reproduced with only the tyrant's name changed.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": ["machine-ngram"]
+      }
+    ],
+    "5:10": [
+      {
+        "source": "Acts 17:11",
+        "type": "echo",
+        "subtype": "probable",
+        "confidence": "moderate",
+        "text": "These were more noble than those in Thessalonica, in that they received the word with all readiness of mind, and searched the scriptures daily, whether those things were so.",
+        "evidence": { "vocabulary": 3, "syntax": 3, "sequence": 4, "context": 4, "rarity": 4, "attestation": 0 },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": ["John 5:39"],
+        "recurrenceRefs": ["1 Nephi 5:21"],
+        "provenance": {
+          "route": "Acts 17:11 → KJV → Book of Mormon",
+          "alternative": "'Search' is an ordinary verb for reading a record and the Old Testament uses it of documents (Ezra 4:15, 6:1, 'search … in the book of the records').",
+          "significance": "Two KJV verses make scripture the object of the verb 'search', and both are New Testament: John 5:39 as a command to opponents, Acts 17:11 as praise for hearers who check. Lehi's first act on obtaining the plates is the Berean act — he takes the record and searches it from the beginning — and 5:21 reports the verdict of the search ('we searched them and found that they were desirable'), which is Acts 17:11's structure exactly: search, then find."
+        },
+        "note": "'My father Lehi took the records … and he did search them from the beginning.' The verb with scripture as its object is a New Testament idiom in the KJV, and Acts 17:11 supplies both the searching and the verdict that follows it at 5:21. Ezra's 'search … in the book of the records' (4:15) is the Old Testament alternative and is an archival search for a legal precedent, which is not what Lehi does.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": ["manual"]
+      }
+    ],
+    "5:12": [
+      {
+        "source": "Jeremiah 28:1",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "text": "And it came to pass the same year, in the beginning of the reign of Zedekiah king of Judah, in the fourth year, and in the fifth month, that Hananiah the son of Azur the prophet, which was of Gibeon, spake unto me in the house of the LORD, in the presence of the priests and of all the people, saying,",
+        "evidence": { "vocabulary": 5, "syntax": 5, "sequence": 5, "context": 5, "rarity": 4, "attestation": 3 },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": ["Jeremiah 49:34"],
+        "recurrenceRefs": ["1 Nephi 1:4"],
+        "provenance": {
+          "route": "Jeremiah's dateline → KJV → Book of Mormon",
+          "other": "An eight-word run, 'the beginning of the reign of Zedekiah king of Judah', occurring in the KJV at Jeremiah 28:1 and 49:34 only.",
+          "significance": "The same dateline that opened the book at 1:4 now closes the record the book was written to obtain. The brass plates run 'even down to the commencement of the reign of Zedekiah' — that is, they stop at the sentence with which 1 Nephi begins. The Book of Mormon presents itself as resuming a record precisely where the record it inherits leaves off, and it marks the seam with Jeremiah's formula at both ends."
+        },
+        "note": "The 1:4 link repeated, and the repetition is the finding. Nephi dates his father's call by Jeremiah's dateline and then reports that the brass plates end at the same date. Whether or not the writer noticed, the effect is a splice: the two records are joined at one verse of Jeremiah, and everything after it is the Book of Mormon's own. Note that 5:13 immediately names Jeremiah as the last prophet on the plates, which makes the join explicit.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": ["machine-ngram", "manual"]
+      }
+    ],
+    "5:13": [
+      {
+        "source": "2 Chronicles 36:21",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "text": "To fulfil the word of the LORD by the mouth of Jeremiah, until the land had enjoyed her sabbaths: for as long as she lay desolate she kept sabbath, to fulfil threescore and ten years.",
+        "evidence": { "vocabulary": 4, "syntax": 4, "sequence": 3, "context": 5, "rarity": 4, "attestation": 0 },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": ["2 Chronicles 36:22", "Ezra 1:1"],
+        "recurrenceRefs": ["1 Nephi 3:20", "1 Nephi 7:14"],
+        "provenance": {
+          "route": "2 Chronicles 36:21-22 / Ezra 1:1 → KJV → Book of Mormon",
+          "other": "'By the mouth of Jeremiah' occurs in exactly three KJV verses, and all three are the same formula about the same prophecy: 2 Chronicles 36:21, 36:22 and Ezra 1:1.",
+          "significance": "The three KJV verses that speak of prophecy 'by the mouth of Jeremiah' all concern one thing — the seventy years, the exile, and its end. They are the Old Testament's last words and the hinge on which the return turns. 1 Nephi 5:13 puts Jeremiah's prophecies at the end of the brass plates, which is where 2 Chronicles puts them at the end of its own book, and the family carrying them is going the other way: out, not back. See also 3:20, where 'by the mouth of all the holy prophets' comes from Acts 3:21 — the two 'mouth of' formulas in this book are both borrowed and both are about the whole prophetic deposit."
+        },
+        "note": "'Many prophecies which have been spoken by the mouth of Jeremiah.' The formula belongs in the KJV to three verses, all of them the closing frame of Chronicles and the opening of Ezra. Its appearance here is chronologically pointed: on the book's own timeline the seventy years have not begun, so the plates can contain Jeremiah's prophecies but not the formula by which later scripture summarizes them.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": ["manual"]
+      }
+    ],
+    "5:14": [
+      {
+        "source": "Acts 7:9",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "And the patriarchs, moved with envy, sold Joseph into Egypt: but God was with him,",
+        "evidence": { "vocabulary": 4, "syntax": 4, "sequence": 5, "context": 5, "rarity": 4, "attestation": 2 },
+        "kjvSpecific": "yes",
+        "mediation": "OT-via-NT",
+        "composite": ["Acts 7:14", "Genesis 45:7", "Genesis 50:20", "Luke 3:34"],
+        "recurrenceRefs": ["1 Nephi 2:22", "1 Nephi 3:29", "1 Nephi 5:15"],
+        "provenance": {
+          "mt": "Genesis 37:28 — 'and they … sold Joseph to the Ishmeelites for twenty pieces of silver: and they brought Joseph into Egypt.'",
+          "route": "Genesis 37-50 → Stephen's speech (Acts 7:9-14) → KJV → Book of Mormon",
+          "other": "Genesis narrates the sale over several verses and never in this compression. Acts 7:9 gives the whole thing in one clause — 'sold Joseph into Egypt' — and Acts 7:14 supplies the sequel in another: Joseph 'called his father Jacob to him, and all his kindred'.",
+          "significance": "Third confirmed borrowing from Stephen's speech in five chapters, after 2:22 and 3:29, and the pattern is now a finding rather than a coincidence. Acts 7 is a compressed retelling of Israel's whole history organized around one thesis — that the deliverer his brethren reject is the one God sends — and 1 Nephi is a narrative built on that thesis, told by a younger brother his elder brothers refuse. The Book of Mormon does not merely quote Stephen; it takes his argument, his summaries, and his order (Abraham, Joseph, Moses), and 5:14-15 runs Joseph and the Exodus in two verses exactly as Acts 7:9-36 does."
+        },
+        "note": "'Even that Joseph which was the son of Jacob, which was sold into Egypt, and which was preserved by the hand of the Lord, that he might preserve his father Jacob and all his household from perishing with famine.' The summary is Stephen's, not Genesis's: 'sold Joseph into Egypt' is Acts 7:9's clause, and the sending for Jacob 'and all his kindred' is Acts 7:14's. The preservation formula is Joseph's own at Genesis 45:7 and 50:20 ('to save much people alive'). Note also the genealogical relative: the 1830 reads 'that Joseph which was the son of Jacob', which is the KJV's genealogical idiom at Luke 3:34 ('which was the son of Jacob'), and 1920 modernized every 'which' in the verse to 'who' — so the first edition wears its source and the current text does not.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": ["machine-ngram", "manual"]
+      }
+    ],
+    "5:18": [
+      {
+        "source": "Revelation 14:6",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "text": "And I saw another angel fly in the midst of heaven, having the everlasting gospel to preach unto them that dwell on the earth, and to every nation, and kindred, and tongue, and people,",
+        "evidence": { "vocabulary": 5, "syntax": 4, "sequence": 4, "context": 5, "rarity": 5, "attestation": 2 },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": ["Revelation 5:9", "Revelation 13:7", "Revelation 7:9"],
+        "recurrenceRefs": ["1 Nephi 11:36", "1 Nephi 13:40", "1 Nephi 14:11"],
+        "provenance": {
+          "route": "Revelation 14:6 → KJV → Book of Mormon",
+          "other": "The fourfold formula — nation, kindred, tongue, people — is Revelation's and no other book's. It occurs at Revelation 5:9, 7:9, 11:9, 13:7, 14:6 and 17:15, with the members reordered, and nowhere in the Old Testament.",
+          "significance": "Lehi's prophecy over the brass plates is that they 'should go forth unto all nations, kindreds, tongues, and people', and the KJV sentence he is speaking is the one about an angel carrying the everlasting gospel to exactly that audience. The Book of Mormon's own account of its transmission is therefore stated, at its first mention, in the words of the verse from which the whole apocalyptic missionary programme comes — and chapters 13 and 14, where Nephi sees the book carried to the Gentiles, will use the formula again. This is a case where the borrowed phrase is also the borrowed self-understanding."
+        },
+        "note": "'That these plates of brass should go forth unto all nations, kindreds, tongues, and people.' The fourfold list is Revelation's signature and appears nowhere else in the English Bible. Which occurrence is in view is settled by content: 14:6 is the only one where the audience is being reached by a message carried to it, which is what Lehi is prophesying. The link also anchors the Revelation network that 1 Nephi 11-14 will run at length.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": ["manual"]
+      }
+    ],
+    "5:19": [
+      {
+        "source": "Isaiah 40:8",
+        "type": "echo",
+        "subtype": "probable",
+        "confidence": "moderate",
+        "text": "The grass withereth, the flower fadeth: but the word of our God shall stand for ever.",
+        "evidence": { "vocabulary": 2, "syntax": 3, "sequence": 3, "context": 5, "rarity": 3, "attestation": 0 },
+        "kjvSpecific": "uncertain",
+        "mediation": "direct-OT",
+        "composite": ["1 Peter 1:24", "1 Peter 1:25"],
+        "recurrenceRefs": ["1 Nephi 10:8"],
+        "provenance": {
+          "route": "Isaiah 40:8 → KJV → Book of Mormon",
+          "alternative": "'Should never perish' and 'dimmed by time' are not KJV phrases; the imperishability of a written record could be asserted without any source.",
+          "significance": "Isaiah 40:8 is the KJV's statement that the word outlasts what carries it, and 1 Peter 1:24-25 quotes it to say that this abiding word is the gospel preached. Lehi applies the claim to a physical object — plates of brass that 'should never perish; neither should they be dimmed any more by time' — which is a material reading of a figure about permanence. Isaiah 40 is also the chapter Lehi quotes at 1 Nephi 10:8, so the family's prophet is demonstrably working in it."
+        },
+        "note": "Recorded as an echo because nothing is reproduced. The claim of an imperishable word belongs in the KJV to Isaiah 40:8 and its New Testament citation, and Lehi is stating it of the plates. What tips it above a bare resemblance is that Isaiah 40 is a chapter this family uses — 10:8 quotes Isaiah 40:3 — and that 'dimmed' has no biblical source at all, which suggests a writer working from the idea rather than from a phrase.",
+        "whyNot": "Zero verbal contact, and the two claims differ in kind: Isaiah says God's word outlasts flesh and grass, Lehi says a set of metal plates will not corrode or fade. A reader could take the verse as an unsourced prophecy about an artifact and lose nothing.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": ["manual"]
+      }
+    ],
+    "5:21": [
+      {
+        "source": "Psalm 19:10",
+        "type": "allusion",
+        "subtype": "conceptual",
+        "confidence": "high",
+        "text": "More to be desired are they than gold, yea, than much fine gold: sweeter also than honey and the honeycomb.",
+        "evidence": { "vocabulary": 3, "syntax": 3, "sequence": 4, "context": 5, "rarity": 4, "attestation": 1 },
+        "kjvSpecific": "uncertain",
+        "mediation": "direct-OT",
+        "composite": ["Psalm 119:72", "Psalm 119:127", "Proverbs 8:11"],
+        "recurrenceRefs": ["1 Nephi 3:24", "1 Nephi 3:26"],
+        "provenance": {
+          "route": "Psalm 19:10 → KJV → Book of Mormon",
+          "alternative": "'Desirable' and 'of great worth' are ordinary evaluative words, and a family might praise a hard-won record without reaching for the Psalter.",
+          "significance": "The plot has already made the comparison literal. At 3:24 the brothers offer Laban all their gold and silver for the plates; at 3:26 they lose the gold and silver and get nothing; at 4:38 they leave with the plates and no property at all. Psalm 19:10 says of the law that it is 'more to be desired … than gold, yea, than much fine gold', and Psalm 119:72 that 'the law of thy mouth is better unto me than thousands of gold and silver'. 1 Nephi 5:21's verdict — 'they were desirable; yea, even of great worth unto us' — is the Psalter's valuation delivered after the transaction has been performed on stage. The book has dramatized a metaphor and then quoted it."
+        },
+        "note": "'We had obtained the record which the Lord had commanded us, and searched them and found that they were desirable; yea, even of great worth unto us.' No phrase is reproduced, so this rests on the fit between the Psalter's standing comparison and the chapter's completed exchange. It is recorded at high confidence anyway, because the exchange is not incidental: two chapters were spent losing the gold in order to gain the law, which is Psalm 19:10 and Psalm 119:72 acted out.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": ["manual"]
+      }
+    ]
+  }
+}
