@@ -7754,7 +7754,48 @@
       "ch": 13,
       "ref": "13:5",
       "text": "And the angel said unto me, Behold the foundation of a church, which is most abominable above all other churches, which slayeth the Saints of God, yea, and tortureth them and bindeth them down, and yoketh them with a yoke of iron, and bringeth them down into captivity.",
-      "links": []
+      "links": [
+        {
+          "source": "Revelation 17:6",
+          "type": "allusion",
+          "subtype": "conceptual",
+          "confidence": "high",
+          "text": "And I saw the woman drunken with the blood of the saints, and with the blood of the martyrs of Jesus: and when I saw her, I wondered with great admiration.",
+          "evidence": {
+            "vocabulary": 4,
+            "syntax": 3,
+            "sequence": 5,
+            "context": 5,
+            "rarity": 5,
+            "attestation": 4
+          },
+          "kjvSpecific": "yes",
+          "mediation": "direct-NT",
+          "composite": [
+            "Revelation 17:5",
+            "Deuteronomy 28:48",
+            "Jeremiah 28:14"
+          ],
+          "recurrenceRefs": [
+            "1 Nephi 13:6",
+            "1 Nephi 13:8",
+            "1 Nephi 13:34",
+            "1 Nephi 14:9-17"
+          ],
+          "provenance": {
+            "route": "Revelation 17 → KJV → Book of Mormon",
+            "other": "'Drunken with the blood of the saints' occurs in exactly one KJV verse. 'Yoke of iron' occurs in exactly two, Deuteronomy 28:48 and Jeremiah 28:14, both of them a foreign power's domination of Israel.",
+            "significance": "The great and abominable church is Revelation 17's whore of Babylon under a different noun, and the chapter builds her out of Revelation 17-18 piece by piece: she kills the saints (17:6), her name is the mother of harlots (17:5, quoted at 13:34), and her desires are the cargo list of 18:12 (see 13:7). What the Book of Mormon adds is the yoke — 'yoketh them with a yoke of iron, and bringeth them down into captivity' — which is Deuteronomy 28:48's curse and Jeremiah 28:14's oracle, both about Babylon. So the New Testament Babylon is being described with the Old Testament's Babylonian yoke, which is a coherent piece of composition rather than a stray borrowing."
+          },
+          "note": "'A church, which is most abominable above all other churches, which slayeth the Saints of God, yea, and tortureth them and bindeth them down, and yoketh them with a yoke of iron.' The killing of the saints is Revelation 17:6's, and the yoke is Deuteronomy and Jeremiah's. Note the 1830's 'the devil, that he was the founder of it' at 13:6, which 1920 changed to 'the foundation of it' — the first edition makes the devil a person who founds, the later text an abstraction.",
+          "bibliography": [],
+          "status": "consensus",
+          "citationsPending": true,
+          "streams": [
+            "manual"
+          ]
+        }
+      ]
     },
     {
       "id": "13:6",
@@ -7768,7 +7809,47 @@
       "ch": 13,
       "ref": "13:7",
       "text": "And I also saw gold, and silver, and silks, and scarlets, and fine twined linen, and all manner of precious clothing; and I saw many harlots.",
-      "links": []
+      "links": [
+        {
+          "source": "Revelation 18:12",
+          "type": "allusion",
+          "subtype": "strong-verbal",
+          "confidence": "high",
+          "text": "The merchandise of gold, and silver, and precious stones, and of pearls, and fine linen, and purple, and silk, and scarlet, and all thyine wood, and all manner vessels of ivory, and all manner vessels of most precious wood, and of brass, and iron, and marble,",
+          "evidence": {
+            "vocabulary": 5,
+            "syntax": 4,
+            "sequence": 5,
+            "context": 5,
+            "rarity": 4,
+            "attestation": 2
+          },
+          "kjvSpecific": "yes",
+          "mediation": "direct-NT",
+          "composite": [
+            "Revelation 17:4",
+            "Exodus 26:1"
+          ],
+          "recurrenceRefs": [
+            "1 Nephi 13:8",
+            "2 Nephi 13:16-24",
+            "Alma 1:29",
+            "4 Nephi 1:24"
+          ],
+          "provenance": {
+            "route": "Revelation 18:12 → KJV → Book of Mormon",
+            "other": "'Silk' occurs in four KJV verses (Proverbs 31:22, Ezekiel 16:10, 16:13, Revelation 18:12); only Revelation 18:12 has it in a list with gold, silver, fine linen and scarlet. 'Fine twined linen' is the Pentateuch's phrase for the tabernacle hangings (Exodus 26:1 and some thirty others), so the Book of Mormon's list fuses the merchant's cargo with the sanctuary's fabric.",
+            "significance": "The inventory of the abominable church's desires is Revelation 18:12's cargo manifest — the goods that no man buyeth any more when Babylon falls — with 'silks' and 'scarlets' pluralized into commodity classes. The Book of Mormon then makes this its permanent vocabulary of luxury: 'silks, and scarlets, and fine twined linen' recurs at Alma 1:29 and 4 Nephi 1:24 as the standing sign of a church gone rich. A KJV list has become a moral category."
+          },
+          "note": "'I also saw gold, and silver, and silks, and scarlets, and fine twined linen, and all manner of precious clothing; and I saw many harlots.' The list is Revelation 18:12's in Revelation's own order, with the tabernacle's 'fine twined linen' substituted for its 'fine linen', and the harlots supplied by Revelation 17:4-5. The 1830 prints 'fine twined' as two words; 1920 hyphenates.",
+          "bibliography": [],
+          "status": "novel",
+          "citationsPending": true,
+          "streams": [
+            "manual"
+          ]
+        }
+      ]
     },
     {
       "id": "13:8",
@@ -7901,14 +7982,93 @@
       "ch": 13,
       "ref": "13:26",
       "text": "and after that they go forth by the hand of the twelve apostles of the Lamb, from the Jews unto the Gentiles; behold, after this, thou seest the foundation of a great and abominable church, which is the most abominable above all other churches; for behold, they have taken away from the Gospel of the Lamb, many parts which are plain and most precious; and also, many Covenants of the Lord have they taken away;",
-      "links": []
+      "links": [
+        {
+          "source": "Revelation 22:19",
+          "type": "allusion",
+          "subtype": "conceptual",
+          "confidence": "high",
+          "text": "And if any man shall take away from the words of the book of this prophecy, God shall take away his part out of the book of life, and out of the holy city, and from the things which are written in this book.",
+          "evidence": {
+            "vocabulary": 4,
+            "syntax": 4,
+            "sequence": 5,
+            "context": 5,
+            "rarity": 5,
+            "attestation": 1
+          },
+          "kjvSpecific": "yes",
+          "mediation": "direct-NT",
+          "composite": [
+            "Deuteronomy 4:2",
+            "Revelation 21:14",
+            "Revelation 20:12"
+          ],
+          "recurrenceRefs": [
+            "1 Nephi 13:28",
+            "1 Nephi 13:29",
+            "1 Nephi 13:32",
+            "1 Nephi 13:34"
+          ],
+          "provenance": {
+            "route": "Revelation 22:19 → KJV → Book of Mormon",
+            "other": "'Take away from the words' occurs in exactly one KJV verse. Deuteronomy 4:2's version is 'neither shall ye diminish ought from it', which is not the Book of Mormon's phrase.",
+            "significance": "This is the chapter's central charge and it is stated in the words of the verse that curses it. Revelation 22:19 is the last warning of the Christian Bible — take away from the words of this book and God takes away your part in it — and 1 Nephi 13:26 accuses the great and abominable church of doing precisely that, using precisely that phrase, five times over in verses 26 to 34. The metalepsis runs both ways: the accusation borrows its authority from the passage it names, and the passage's own position at the end of the canon is what makes the accusation sting. Whether the Book of Mormon means it as an allusion or merely inherits the vocabulary, the effect is that the sanction of Revelation 22:19 is invoked against the transmitters of the book Revelation ends."
+          },
+          "note": "'They have taken away from the Gospel of the Lamb, many parts which are plain and most precious; and also, many Covenants of the Lord have they taken away.' The phrase 'take(n) away from' with 'the words'/'the Book' as object is Revelation 22:19's alone. Deuteronomy 4:2 states the same law in different words and is kept in composite. Note 13:32's 1830 reading, 'that state of awful woundedness', which 1920 replaced with 'that awful state of blindness' — a change of image, not of grammar.",
+          "bibliography": [],
+          "status": "novel",
+          "citationsPending": true,
+          "streams": [
+            "manual"
+          ]
+        }
+      ]
     },
     {
       "id": "13:27",
       "ch": 13,
       "ref": "13:27",
       "text": "and all this have they done, that they might pervert the right ways of the Lord; that they might blind the eyes and harden the hearts of the children of men;",
-      "links": []
+      "links": [
+        {
+          "source": "Acts 13:10",
+          "type": "quotation",
+          "subtype": "close-verbal",
+          "confidence": "certain",
+          "text": "And said, O full of all subtilty and all mischief, thou child of the devil, thou enemy of all righteousness, wilt thou not cease to pervert the right ways of the Lord?",
+          "evidence": {
+            "vocabulary": 5,
+            "syntax": 5,
+            "sequence": 5,
+            "context": 5,
+            "rarity": 5,
+            "attestation": 0
+          },
+          "kjvSpecific": "yes",
+          "mediation": "direct-NT",
+          "composite": [
+            "John 12:40"
+          ],
+          "recurrenceRefs": [
+            "1 Nephi 12:17",
+            "1 Nephi 13:6"
+          ],
+          "provenance": {
+            "route": "Acts 13:10 → KJV → Book of Mormon",
+            "other": "'Pervert the right ways of the Lord' occurs in exactly one KJV verse. The machine stream ranked it first in the chapter, rarity 3.17, a seven-word window.",
+            "significance": "Recovering the context supplies the chapter's antagonist. Acts 13:10 is Paul's rebuke of Elymas the sorcerer at Paphos, and the sentence begins 'thou child of the devil' — which is what 1 Nephi 13:6 has already said of the abominable church, 'I saw the devil, that he was the founder of it'. So the accusation and the paternity come from the same verse, twenty-one verses apart in the Book of Mormon. The second half of 13:27 then repeats the John 12:40 pair used at 12:17: 'blind the eyes and harden the hearts'."
+          },
+          "note": "'All this have they done, that they might pervert the right ways of the Lord.' Seven words verbatim from the KJV's sole occurrence. Below Skousen's threshold and not one of his quotations; recorded at 'certain' on absolute rarity and on the corroborating link between Acts 13:10's 'child of the devil' and 1 Nephi 13:6.",
+          "bibliography": [],
+          "status": "novel",
+          "citationsPending": true,
+          "streams": [
+            "machine-ngram",
+            "manual"
+          ]
+        }
+      ]
     },
     {
       "id": "13:28",
@@ -7957,7 +8117,42 @@
       "ch": 13,
       "ref": "13:34",
       "text": "And it came to pass that the angel of the Lord spake unto me, saying: Behold, saith the Lamb of God, after that I have visited the remnant of the House of Israel, and this remnant of which I speak, is the seed of thy father; wherefore, after that I have visited them in judgment, and smitten them by the hand of the Gentiles; and after that the Gentiles do stumble exceedingly, because of the most plain and precious parts of the Gospel of the Lamb which hath been kept back, by that abominable church, which is the mother of harlots, saith the Lamb; wherefore, I will be merciful unto the Gentiles in that day, saith the Lamb, insomuch that I will bring forth unto them in mine own power, much of my Gospel, which shall be plain and precious, saith the Lamb;",
-      "links": []
+      "links": [
+        {
+          "source": "Revelation 17:5",
+          "type": "quotation",
+          "subtype": "close-verbal",
+          "confidence": "certain",
+          "text": "And upon her forehead was a name written, MYSTERY, BABYLON THE GREAT, THE MOTHER OF HARLOTS AND ABOMINATIONS OF THE EARTH.",
+          "evidence": {
+            "vocabulary": 5,
+            "syntax": 4,
+            "sequence": 4,
+            "context": 5,
+            "rarity": 5,
+            "attestation": 4
+          },
+          "kjvSpecific": "yes",
+          "mediation": "direct-NT",
+          "recurrenceRefs": [
+            "1 Nephi 13:5",
+            "1 Nephi 13:7",
+            "1 Nephi 14:9-17"
+          ],
+          "provenance": {
+            "route": "Revelation 17:5 → KJV → Book of Mormon",
+            "other": "'The mother of harlots' occurs in exactly one KJV verse, where it is part of the name written on the whore of Babylon's forehead.",
+            "significance": "The identification is made explicit here: 'that abominable church, which is the mother of harlots, saith the Lamb'. The Book of Mormon has been assembling this figure since 13:5 out of Revelation 17 and 18, and at 13:34 it simply gives her Revelation's name. Chapter 14 will then complete the identification by calling her 'the whore of all the earth' (14:10-12), which is Revelation 17:1's 'the great whore'."
+          },
+          "note": "A three-word KJV singleton, reproduced exactly and applied to the same figure. Recorded at 'certain'. The verse is also the chapter's densest 1830/1920 divergence — nine substantive changes — including the excision of a whole 'saith the Lamb'.",
+          "bibliography": [],
+          "status": "consensus",
+          "citationsPending": true,
+          "streams": [
+            "manual"
+          ]
+        }
+      ]
     },
     {
       "id": "13:35",
@@ -7971,14 +8166,91 @@
       "ch": 13,
       "ref": "13:36",
       "text": "and in them shall be written my Gospel, saith the Lamb, and my rock and my salvation;",
-      "links": []
+      "links": [
+        {
+          "source": "Psalm 62:2",
+          "type": "allusion",
+          "subtype": "close-verbal",
+          "confidence": "high",
+          "text": "He only is my rock and my salvation; he is my defence; I shall not be greatly moved.",
+          "evidence": {
+            "vocabulary": 5,
+            "syntax": 4,
+            "sequence": 3,
+            "context": 4,
+            "rarity": 5,
+            "attestation": 0
+          },
+          "kjvSpecific": "yes",
+          "mediation": "direct-OT",
+          "composite": [
+            "Psalm 62:6",
+            "Psalm 89:26"
+          ],
+          "provenance": {
+            "route": "Psalm 62:2 → KJV → Book of Mormon",
+            "other": "'My rock and my salvation' occurs in exactly two KJV verses, Psalm 62:2 and 62:6, which are the same refrain repeated.",
+            "significance": "The Lamb's description of the contents of the promised record — 'in them shall be written my Gospel, saith the Lamb, and my rock and my salvation' — takes a psalmist's confession of God and puts it in God's own mouth as a possessive. What the worshipper says about the Lord ('he only is my rock and my salvation') becomes what the Lord says will be written in a book. The grammatical shift is the whole of the interest: a first-person confession has been converted into a first-person claim."
+          },
+          "note": "Five words from a two-verse KJV refrain, with the speaker changed. Recorded at high; the phrase is distinctive and the transposition is deliberate enough to be worth arguing about.",
+          "bibliography": [],
+          "status": "novel",
+          "citationsPending": true,
+          "streams": [
+            "manual"
+          ]
+        }
+      ]
     },
     {
       "id": "13:37",
       "ch": 13,
       "ref": "13:37",
       "text": "and blessed are they which shall seek to bring forth my Zion at that day, for they shall have the gift and the power of the Holy Ghost; and if they endure unto the end, they shall be lifted up at the last day, and shall be saved in the Everlasting Kingdom of the Lamb; yea, whoso shall publish peace, that shall publish tidings of great joy, how beautiful upon the mountains shall they be.",
-      "links": []
+      "links": [
+        {
+          "source": "Isaiah 52:7",
+          "type": "quotation",
+          "subtype": "close-verbal",
+          "confidence": "high",
+          "text": "How beautiful upon the mountains are the feet of him that bringeth good tidings, that publisheth peace; that bringeth good tidings of good, that publisheth salvation; that saith unto Zion, Thy God reigneth!",
+          "evidence": {
+            "vocabulary": 5,
+            "syntax": 4,
+            "sequence": 4,
+            "context": 5,
+            "rarity": 5,
+            "attestation": 5
+          },
+          "kjvSpecific": "yes",
+          "mediation": "direct-OT",
+          "composite": [
+            "Luke 2:10",
+            "Matthew 24:13",
+            "Romans 10:15"
+          ],
+          "recurrenceRefs": [
+            "Mosiah 15:14-18",
+            "3 Nephi 20:40"
+          ],
+          "provenance": {
+            "mt": "Isaiah 52:7, as in the KJV.",
+            "route": "Isaiah 52:7 → KJV → Book of Mormon (NOT via Romans 10:15)",
+            "other": "Isaiah 52:7 reads 'How beautiful upon the mountains are the feet of him that bringeth good tidings, that publisheth peace'. Romans 10:15 quotes it as 'How beautiful are the feet of them that preach the gospel of peace' — dropping 'upon the mountains' entirely. 1 Nephi 13:37 reads 'how beautiful upon the mountains shall they be', which is Isaiah's phrase and not Paul's.",
+            "significance": "A counter-example worth recording. This catalogue has repeatedly found the Book of Mormon taking the New Testament's form of an Old Testament text (2:22, 6:4, 10:8, 12:17); here it takes the Old Testament's, and demonstrably so, because Romans 10:15 omits the four words 1 Nephi keeps. The verse is therefore evidence that the book is not simply working from a New Testament concordance: where Isaiah 52:7 and Romans 10:15 differ, it follows Isaiah. Note also that the same verse fuses in two New Testament phrases — 'tidings of great joy', a KJV singleton at Luke 2:10, and 'endure unto the end', Matthew 24:13 and Mark 13:13 — so the composition is mixed even where the mediation is not."
+          },
+          "note": "'Whoso shall publish peace, that shall publish tidings of great joy, how beautiful upon the mountains shall they be.' Isaiah's clause with the word order rearranged and the verb made future. The 1830's 'that shall publish tidings of great joy' was flattened in 1920 to 'yea, and tidings of great joy', which removes the repeated verb that ties the sentence to Isaiah's 'publisheth … publisheth'.",
+          "bibliography": [
+            "Hardy MSI at 1 Ne 13.37 (Isaiah 52:7)"
+          ],
+          "status": "consensus",
+          "streams": [
+            "machine-ngram",
+            "scholarship",
+            "manual"
+          ]
+        }
+      ]
     },
     {
       "id": "13:38",
@@ -8006,14 +8278,92 @@
       "ch": 13,
       "ref": "13:41",
       "text": "and they must come according to the words which shall be established by the mouth of the Lamb; and the words of the Lamb shall be made known in the records of thy seed, as well as in the records of the twelve apostles of the Lamb; wherefore, they shall be established in one, for there is one God and one Shepherd over all the earth;",
-      "links": []
+      "links": [
+        {
+          "source": "Ezekiel 37:17",
+          "type": "allusion",
+          "subtype": "conceptual",
+          "confidence": "high",
+          "text": "And join them one to another into one stick; and they shall become one in thine hand.",
+          "evidence": {
+            "vocabulary": 3,
+            "syntax": 3,
+            "sequence": 5,
+            "context": 5,
+            "rarity": 5,
+            "attestation": 5
+          },
+          "kjvSpecific": "uncertain",
+          "mediation": "direct-OT",
+          "composite": [
+            "Ezekiel 37:19",
+            "1 Timothy 2:5",
+            "Ezekiel 34:23",
+            "John 10:16"
+          ],
+          "recurrenceRefs": [
+            "1 Nephi 13:40",
+            "2 Nephi 3:12",
+            "2 Nephi 29:8"
+          ],
+          "provenance": {
+            "route": "Ezekiel 37:15-20 → KJV → Book of Mormon",
+            "other": "'Become one in thine hand' occurs in exactly one KJV verse; Ezekiel 37:19's parallel is 'they shall be one in mine hand'. 'One shepherd' occurs in four (Ecclesiastes 12:11, Ezekiel 34:23, 37:24, John 10:16), and Ezekiel 37:24 is fifteen verses after the sticks — the same oracle.",
+            "significance": "Ezekiel 37:15-20, the two sticks of Judah and Joseph joined into one, is the Book of Mormon's own proof-text for its existence, and 1 Nephi 13:41 states the doctrine without naming the passage: the records of Nephi's seed and the records of the twelve apostles 'shall be established in one'. What confirms that Ezekiel 37 is in view rather than a general unity-formula is the shepherd in the same sentence — 'one Shepherd over all the earth' — because Ezekiel 37:24, the same oracle's conclusion, is 'David my servant shall be king over them; and they all shall have one shepherd'. Two elements of one prophecy arrive in one Book of Mormon verse. 2 Nephi 3:12 will make the claim explicit."
+          },
+          "note": "'They shall be established in one, for there is one God and one Shepherd over all the earth.' Nothing is reproduced verbatim; the case is that the verse combines the joining-into-one of Ezekiel 37:17-19 with the one shepherd of Ezekiel 37:24, both from a single oracle the Book of Mormon elsewhere applies to itself. The clause 'there is one God and one' is also 1 Timothy 2:5's opening ('For there is one God, and one mediator'), a seven-word run, and that verse is kept in composite — the Book of Mormon has put a shepherd where Paul has a mediator.",
+          "bibliography": [],
+          "status": "consensus",
+          "citationsPending": true,
+          "streams": [
+            "machine-ngram",
+            "manual"
+          ]
+        }
+      ]
     },
     {
       "id": "13:42",
       "ch": 13,
       "ref": "13:42",
       "text": "and the time cometh that he shall manifest himself unto all nations, both unto the Jews, and also unto the Gentiles; and after that he hath manifested himself unto the Jews, and also unto the Gentiles, then he shall manifest himself unto the Gentiles, and also unto the Jews, and the last shall be first, and the first shall be last.",
-      "links": []
+      "links": [
+        {
+          "source": "Matthew 20:16",
+          "type": "quotation",
+          "subtype": "close-verbal",
+          "confidence": "high",
+          "text": "So the last shall be first, and the first last: for many be called, but few chosen.",
+          "evidence": {
+            "vocabulary": 5,
+            "syntax": 5,
+            "sequence": 5,
+            "context": 4,
+            "rarity": 5,
+            "attestation": 2
+          },
+          "kjvSpecific": "yes",
+          "mediation": "direct-NT",
+          "composite": [
+            "Matthew 19:30",
+            "Mark 10:31",
+            "Luke 13:30"
+          ],
+          "provenance": {
+            "route": "Matthew 20:16 → KJV → Book of Mormon",
+            "other": "The saying exists in the KJV in four forms and 1 Nephi 13:42 matches none exactly. Matthew 20:16 has the right order and elides the second verb ('the last shall be first, and the first last'); Matthew 19:30 has both verbs in the reverse order; Mark 10:31 elides differently; Luke 13:30 recasts it with relatives. The Book of Mormon reads 'the last shall be first, and the first shall be last' — Matthew 20:16's order with Matthew 19:30's verb restored.",
+            "significance": "A useful case for how this catalogue should describe a composite. The Book of Mormon's sentence is not a copy of any one KJV verse; it is the saying in its most regular English form, which is what a writer produces who knows the saying rather than a page. The machine stream scored Matthew 20:16 highest (rarity 3.50, eight-word window) and it is the right answer on order, but the second verb comes from elsewhere. And the point the Book of Mormon uses it for is its own: the sequence Jew-then-Gentile reversed into Gentile-then-Jew, which is Romans 1:16 read backwards."
+          },
+          "note": "'And the last shall be first, and the first shall be last.' Eight words matching Matthew 20:16 in order, with the elided verb supplied from the parallel at Matthew 19:30. Below Skousen's sixteen-word threshold and not one of his quotations.",
+          "bibliography": [],
+          "status": "consensus",
+          "citationsPending": true,
+          "streams": [
+            "machine-ngram",
+            "manual"
+          ]
+        }
+      ]
     },
     {
       "id": "14:1",
