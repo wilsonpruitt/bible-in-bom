@@ -23,13 +23,21 @@ export type Mediation =
   | "OT-via-earlier-BoM" // an earlier Book of Mormon quotation of the source is the proximate model
   | "uncertain";
 
+// A reworking of Richard Hays's seven criteria for testing claims about
+// scriptural echo (Echoes of Scripture in the Letters of Paul, 1989, 29-32).
+// See CONVENTIONS.md §3a for the mapping, including why Hays's first criterion
+// — availability — inverts for this corpus rather than applying.
 export type EvidenceScores = {
-  vocabulary: number;   // 0-5
-  syntax: number;       // 0-5
-  sequence: number;     // 0-5
-  context: number;      // 0-5
-  rarity: number;        // 0-5
-  attestation: number;  // 0-5 — weight of prior scholarship
+  vocabulary: number;   // 0-5  ┐
+  syntax: number;       // 0-5  ├ Hays's "volume"
+  sequence: number;     // 0-5  ┘
+  rarity: number;       // 0-5  — volume's second half: distinctiveness of the precursor
+  context: number;      // 0-5  — Hays's "thematic coherence"
+  attestation: number;  // 0-5  — Hays's "history of interpretation"; never a negative test
+  // Hays's "recurrence": how often this source is used elsewhere in the Book of
+  // Mormon. Optional because it is only meaningful once enough of the corpus is
+  // adjudicated to count against; backfill mechanically rather than guessing.
+  recurrence?: number;  // 0-5
 };
 
 export type Provenance = {

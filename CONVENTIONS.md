@@ -64,6 +64,74 @@ about how sure we are of *dependence*, not how much text is shared.
 Do not use `low` as a way of keeping something you cannot argue for. If the case
 is weak *and* uninteresting, it belongs in the exclusion register instead.
 
+## 3a. The `evidence` scores, and where they come from
+
+The six subscores are not ours. They are a reworking of **Richard B. Hays's seven
+criteria for testing claims about scriptural echo** (*Echoes of Scripture in the
+Letters of Paul*, Yale, 1989, 29–32), which is the standard apparatus in this
+field and which we should cite rather than quietly reinvent. Hays's list:
+
+> (1) Availability · (2) Volume · (3) Recurrence · (4) Thematic Coherence ·
+> (5) Historical Plausibility · (6) History of Interpretation · (7) Satisfaction
+
+The mapping onto our schema:
+
+| our subscore | Hays |
+| --- | --- |
+| `vocabulary`, `syntax`, `sequence` | **Volume** — "the degree of explicit repetition of words or syntactical patterns" |
+| `rarity` | **Volume**, second half — "how distinctive or prominent is the precursor text within Scripture" |
+| `context` | **Thematic Coherence** — does the echo fit the line of argument being developed |
+| `recurrence` | **Recurrence** — how often the same source is used elsewhere in the corpus |
+| `attestation` | **History of Interpretation** |
+| the `note` field itself | **Satisfaction**, which Hays calls "finally the most important test" |
+| `mediation` + `kjvSpecific` | **Historical Plausibility** |
+
+Two of Hays's criteria are prose judgments, not scores, and we keep them that way:
+Satisfaction *is* the argument in `note`, and a link whose note does not make the
+passage read better is not a link. Note also Hays's warning about criterion 6: it
+"should rarely be used as a negative test to exclude proposed echoes that commend
+themselves on other grounds" — so a low `attestation` is never by itself a reason
+to downgrade confidence, and it is certainly not a reason to reject.
+
+### Availability, and why this corpus inverts it
+
+Hays's first criterion is the one he spends least time on: "In the case of Paul's
+use of Scripture, we rarely have to worry about this problem." Paul demonstrably
+had the Scriptures. **For the Book of Mormon, availability is the whole question,
+and it fails by construction.** On the text's own chronology a source like
+Revelation 15:3 or Matthew 20:16 was not available to a writer in 600 BC, and the
+KJV's English was not available to anyone before 1611.
+
+So we invert the criterion. Where Hays uses availability as a *filter* — no
+access, no echo — we treat its failure as **the finding itself**. An echo of
+Revelation in 1 Nephi is not disqualified by being anachronistic; being
+anachronistic is what makes it worth cataloguing. This is what `mediation` and
+`kjvSpecific` exist to record, and it is why those two fields carry the argument
+that `evidence` alone cannot.
+
+The corollary is a discipline, not a licence: because availability can never
+count *against* a proposed link here, we lose Hays's cheapest filter, and the
+remaining criteria have to work harder. That is the real reason §4 insists on
+rarity counts before claiming KJV-specificity.
+
+### Metalepsis
+
+Hays's second volume (*Echoes of Scripture in the Gospels*, Baylor, 2016,
+Introduction) presses a figure worth naming in our `provenance.significance`
+field: **metalepsis**, "citing or echoing a small bit of a precursor text in such
+a way that the reader can grasp the significance of the echo only by recalling or
+recovering the original context from which the fragmentary echo came." The point
+of the figure is that the meaning lives in "the unstated or suppressed points of
+correspondence between the two texts."
+
+This is frequently where the interesting reading is, and the `significance` field
+is the place for it. Worked example from the pilot: 1 Nephi 1:14 borrows six words
+from Revelation 15:3. Recover the context and Revelation 15:3 turns out to
+identify those words as **"the song of Moses the servant of God, and the song of
+the Lamb"** — so Lehi, at the head of a book that will run on Exodus typology from
+1:6 onward and argue itself from Moses in chapter 17, praises God in what
+Revelation labels the song of Moses. Neither text says this. The link says it.
+
 ## 4. `kjvSpecific` is the historically significant field — do not inflate it
 
 This is the claim that gives the project its point, so it is the one to be
