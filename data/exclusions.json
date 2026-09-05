@@ -89,16 +89,6 @@
       "reason": "Locative boilerplate; the shared string straddles a clause boundary."
     },
     {
-      "bomRef": "1 Nephi 1:7",
-      "source": "1 Kings 18:42",
-      "category": "insufficient-verbal",
-      "sharedText": "and he cast himself",
-      "streams": [
-        "machine-ngram"
-      ],
-      "reason": "Elijah casting himself down on Carmel is a closer thematic neighbour than most machine noise — both are prophets prostrate after an encounter with God — but the objects differ ('upon the earth' vs 'upon his bed') and the postures serve opposite functions: Elijah is praying, Lehi is collapsing. The prophetic-collapse type-scene is recorded as a link to Daniel 10:8–9 instead."
-    },
-    {
       "bomRef": "1 Nephi 1:9",
       "source": "Joshua 10:13",
       "category": "formulaic",
@@ -219,16 +209,6 @@
       "reason": "Ordinary narrative motion."
     },
     {
-      "bomRef": "1 Nephi 1:19",
-      "source": "Nehemiah 8:18",
-      "category": "common-vocabulary",
-      "sharedText": "he read in the book",
-      "streams": [
-        "machine-ngram"
-      ],
-      "reason": "Ezra reading the book of the law is a genuine thematic neighbour to Lehi reading the book given him in vision, and both scenes are public. But the shared words are the plainest possible way to say that someone read a book, and Lehi's reading is visionary rather than liturgical. Not enough to adjudicate."
-    },
-    {
       "bomRef": "1 Nephi 1:20",
       "source": "Proverbs 12:10",
       "category": "wrong-sense",
@@ -237,16 +217,6 @@
         "machine-ngram"
       ],
       "reason": "This is the most instructive rejection in the chapter. Proverbs 12:10 gave the longest contiguous match in the machine's candidate set for this verse — five words, scoring 2.00 — and it is wrong. The Proverbs verse reads 'the tender mercies of the wicked are cruel': the phrase is there to be negated, and its subject is the opposite of Nephi's. The true source, Psalm 145:9 ('his tender mercies are over all his works'), shares fewer contiguous words and so never surfaced in the n-gram stream at all, but supplies both halves of Nephi's sentence — the subject 'tender mercies' and the predicate 'over all', a pairing found in no other KJV verse. A longer string match is not a better one, and the contiguous-window method is structurally blind to sources whose agreement is split across a clause."
-    },
-    {
-      "bomRef": "1 Nephi 1:20",
-      "source": "Psalm 89:1",
-      "category": "better-source-identified",
-      "sharedText": "mercies of the LORD",
-      "streams": [
-        "machine-ngram"
-      ],
-      "reason": "A real member of the Psalter's mercy vocabulary, but without 'tender' and without the 'over all' predicate. Superseded by Psalm 145:9."
     },
     {
       "bomRef": "1 Nephi 1:20",

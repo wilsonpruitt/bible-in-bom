@@ -168,6 +168,36 @@
         "streams": [
           "manual"
         ]
+      },
+      {
+        "source": "1 Kings 18:42",
+        "type": "echo",
+        "subtype": "possible",
+        "confidence": "low",
+        "text": "So Ahab went up to eat and to drink. And Elijah went up to the top of Carmel; and he cast himself down upon the earth, and put his face between his knees,",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 2,
+          "context": 3,
+          "rarity": 2,
+          "attestation": 0
+        },
+        "kjvSpecific": "uncertain",
+        "mediation": "direct-OT",
+        "provenance": {
+          "route": "1 Kings 18:42 → KJV → Book of Mormon",
+          "alternative": "The prophetic-collapse reading (Daniel 10:8–9, recorded separately at this verse) accounts for Lehi's posture without needing Elijah at all.",
+          "significance": "Both readings can stand at once. Daniel supplies the type-scene — vision, collapse, report; Elijah supplies the wording. If the Elijah echo is heard, Lehi's private collapse is coloured by the most public prophetic contest in the Hebrew Bible, which is the situation Lehi walks into eleven verses later."
+        },
+        "note": "'He cast himself upon his bed' shares its verb phrase with Elijah on Carmel, who 'cast himself down upon the earth' — the KJV's reflexive 'cast himself' is not common, and both men are prophets going prone immediately after an encounter with God. Recorded alongside, not instead of, the Daniel type-scene at the same verse: the two are different claims about the same clause, one verbal and one formal.",
+        "whyNot": "The objects differ — 'upon his bed' against 'upon the earth' — and so do the functions: Elijah is deliberately assuming a posture of prayer to summon rain, Lehi is involuntarily overcome. A shared two-word reflexive is thin, and the machine proposed it on that basis alone.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram"
+        ]
       }
     ],
     "1:8": [
@@ -331,6 +361,43 @@
         ]
       }
     ],
+    "1:19": [
+      {
+        "source": "Nehemiah 8:18",
+        "type": "echo",
+        "subtype": "probable",
+        "confidence": "low",
+        "text": "Also day by day, from the first day unto the last day, he read in the book of the law of God. And they kept the feast seven days; and on the eighth day was a solemn assembly, according unto the manner.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 2,
+          "context": 4,
+          "rarity": 2,
+          "attestation": 0
+        },
+        "kjvSpecific": "uncertain",
+        "mediation": "direct-OT",
+        "composite": [
+          "Nehemiah 8:1",
+          "Nehemiah 8:3"
+        ],
+        "provenance": {
+          "route": "Nehemiah 8 (Ezra's public reading) → KJV → Book of Mormon",
+          "alternative": "'He read in the book' may be simply the plainest way in KJV English to say that someone read a book, with no scene behind it.",
+          "significance": "Read as an echo, the interest is in the inversion. Nehemiah 8 is the paradigm scene of Israel receiving the book: the people gather 'as one man', 'the ears of all the people were attentive unto the book of the law', and they weep and obey. 1 Nephi 1 runs the same scene backwards — a man reads a book given him by heaven, testifies from it, and the Jews mock him and seek his life. The Book of Mormon's opening thereby stages Israel failing the test Nehemiah records Israel passing."
+        },
+        "note": "Lehi 'testified that the things which he saw and heard, and also the things which he read in the Book, manifested plainly of the coming of a Messiah.' The phrase 'read in the book' matches Nehemiah 8:18's 'he read in the book of the law of God', and the surrounding scene matches more than the phrase does: a divinely given book read aloud in Jerusalem before the assembled people, with the people's reaction as the point of the episode in both cases. What differs is the reaction, and that difference is the reading.",
+        "whyNot": "Four ordinary words, and the machine proposed it on that basis. Lehi's reading is visionary and private in origin where Ezra's is liturgical and public, and the 'scene' correspondence depends on treating 1 Nephi 1:11–19 as a unit rather than on anything in verse 19 itself. A reader who declines the inversion is left with a commonplace.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
     "1:20": [
       {
         "source": "Psalm 145:9",
@@ -359,6 +426,46 @@
         "status": "majority",
         "citationsPending": true,
         "streams": [
+          "manual"
+        ]
+      },
+      {
+        "source": "Psalm 25:6",
+        "type": "echo",
+        "subtype": "probable",
+        "confidence": "moderate",
+        "text": "Remember, O LORD, thy tender mercies and thy lovingkindnesses; for they have been ever of old.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 2,
+          "sequence": 2,
+          "context": 4,
+          "rarity": 3,
+          "attestation": 1,
+          "recurrence": 4
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Psalm 40:11",
+          "Psalm 51:1",
+          "Psalm 69:16",
+          "Psalm 103:4",
+          "Psalm 119:77",
+          "Psalm 145:9"
+        ],
+        "provenance": {
+          "route": "The Psalter's 'tender mercies' formula → KJV → Book of Mormon",
+          "alternative": "Psalm 145:9 alone accounts for Nephi's full sentence and is recorded separately at this verse; this record makes the broader claim that the phrase itself is a Psalter formula the Book of Mormon has absorbed.",
+          "other": "'Tender mercies' is the KJV's rendering of raḥămîm; modern versions read 'compassion' or 'mercy' and the collocation disappears.",
+          "significance": "Nephi is not only borrowing one verse but writing inside a Psalms idiom. That matters for the thesis statement of his whole record: the sentence in which he tells us what his book is about reaches for the Psalter's characteristic vocabulary for divine goodness."
+        },
+        "note": "'Tender mercies' occurs eleven times in the KJV and ten of them are in the Psalms — the one exception, Proverbs 12:10, inverts the sense and is rejected in the exclusion register. This is a phrase family rather than a single source, and the Book of Mormon uses it more than once: 1 Nephi 8:8 has 'according to the multitude of his tender mercies', which reproduces the fuller formula of Psalm 51:1 and 69:16 ('according unto the multitude of thy tender mercies'). Recurrence across the book is itself part of the case (compare Hays's third criterion), and it is why this record stands alongside the Psalm 145:9 link rather than being absorbed into it.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
           "manual"
         ]
       }
