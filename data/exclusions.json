@@ -1917,6 +1917,126 @@
         "machine-ngram"
       ],
       "reason": "A closing formula the Book of Mormon uses throughout. The colophon at 14:28-30 — too much seen to write, and what is written is true — is John 21:25's, catalogued at 6:3."
+    },
+    {
+      "bomRef": "1 Nephi 15:4",
+      "source": "Mark 3:5",
+      "category": "better-source-identified",
+      "sharedText": "the hardness of their hearts",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "Adjudicated as a link at 2:18 and again at 7:8, where the whole participial clause is reproduced. Here only the noun phrase survives, and six verses later the same chapter switches to the SECOND-person form, which is Matthew 19:8's. Recorded to keep the pronoun distinction visible: 15:4 is narration and takes 'their', 15:10 is address and takes 'your'."
+    },
+    {
+      "bomRef": "1 Nephi 15:7",
+      "source": "Genesis 50:18",
+      "category": "formulaic",
+      "sharedText": "and they said, Behold, we",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "Genesis 50:18 is a real source in this book, at 1 Nephi 7:20 — the brothers falling down before Joseph. Here the five shared words are a speech-introduction."
+    },
+    {
+      "bomRef": "1 Nephi 15:9",
+      "source": "Deuteronomy 1:41",
+      "category": "formulaic",
+      "sharedText": "said unto me, we have",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "A reply formula spanning a clause boundary."
+    },
+    {
+      "bomRef": "1 Nephi 15:13",
+      "source": "Acts 26:17",
+      "category": "formulaic",
+      "sharedText": "and from the Gentiles unto",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "Paul's commission. The chapter's Gentile argument is Romans 11:25's, which supplies 'the fulness of the Gentiles' — a KJV singleton — three words later."
+    },
+    {
+      "bomRef": "1 Nephi 15:14",
+      "source": "2 Timothy 3:7",
+      "category": "formulaic",
+      "sharedText": "come to the knowledge of the",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "Already excluded at 10:14 for the same six words. Used three times in this one verse, which is why it scores."
+    },
+    {
+      "bomRef": "1 Nephi 15:14",
+      "source": "Jeremiah 49:22",
+      "category": "formulaic",
+      "sharedText": "and at that day shall the",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "A temporal formula; the oracle against Edom shares nothing else."
+    },
+    {
+      "bomRef": "1 Nephi 15:14",
+      "source": "Job 34:28",
+      "category": "formulaic",
+      "sharedText": "to come unto him and",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "Five function words."
+    },
+    {
+      "bomRef": "1 Nephi 15:24",
+      "source": "Zechariah 11:11",
+      "category": "formulaic",
+      "sharedText": "that it was the word of",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "A six-word run of identification-formula. The verse's real borrowing is 'firy darts', four words later, which is a KJV singleton."
+    },
+    {
+      "bomRef": "1 Nephi 15:29",
+      "source": "Revelation 17:7",
+      "category": "formulaic",
+      "sharedText": "the angel said unto me",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "Covered by the standing exclusion at 11:21."
+    },
+    {
+      "bomRef": "1 Nephi 15:33",
+      "source": "Matthew 18:7",
+      "category": "formulaic",
+      "sharedText": "it must needs be that",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "Already excluded at 3:18 and 10:13."
+    },
+    {
+      "bomRef": "1 Nephi 15:34",
+      "source": "Matthew 21:43",
+      "category": "formulaic",
+      "sharedText": "unto you the kingdom of God",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "A six-word run built from 'I say unto you' plus the chapter's governing noun phrase. The exclusion clause at 15:34 is Revelation 21:27's."
+    },
+    {
+      "bomRef": "1 Nephi 15:36",
+      "source": "Job 1:3",
+      "category": "wrong-sense",
+      "sharedText": "the greatest of all the",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "'This man was the greatest of all the men of the east' — a superlative of wealth, applied to Job's livestock count. 1 Nephi 15:36's superlative is of gifts, and the KJV verse that ranks gifts is 1 Corinthians 13:13. A clean case of the highest-scoring window landing on the one construction two verses share and none of the sense."
     }
   ]
 }

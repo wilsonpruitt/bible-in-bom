@@ -8955,14 +8955,99 @@
       "ch": 15,
       "ref": "15:10",
       "text": "Behold, I said unto them, How is it that ye do not keep the commandments of the Lord? How is it that ye will perish, because of the hardness of your hearts?",
-      "links": []
+      "links": [
+        {
+          "source": "Matthew 19:8",
+          "type": "quotation",
+          "subtype": "close-verbal",
+          "confidence": "high",
+          "text": "He saith unto them, Moses because of the hardness of your hearts suffered you to put away your wives: but from the beginning it was not so.",
+          "evidence": {
+            "vocabulary": 5,
+            "syntax": 5,
+            "sequence": 5,
+            "context": 4,
+            "rarity": 5,
+            "attestation": 1
+          },
+          "kjvSpecific": "yes",
+          "mediation": "direct-NT",
+          "composite": [
+            "Mark 8:21",
+            "Mark 10:5",
+            "Luke 2:49"
+          ],
+          "recurrenceRefs": [
+            "1 Nephi 2:18",
+            "1 Nephi 7:8",
+            "1 Nephi 15:4",
+            "1 Nephi 14:7"
+          ],
+          "provenance": {
+            "route": "Matthew 19:8 → KJV → Book of Mormon",
+            "other": "'Hardness of your hearts' — second person — occurs in exactly one KJV verse. 'Hardness of their hearts' occurs in exactly one other, Mark 3:5. The Book of Mormon uses the third-person form when narrating (2:18, 7:8, 15:4) and the second-person form when Nephi addresses his brothers directly (15:10). It is taking the pronoun that fits from whichever Gospel has it.",
+            "significance": "That precision is the finding. Two different KJV verses supply two different persons of the same phrase, and the Book of Mormon uses each in its proper grammatical setting across four chapters. This is not the behaviour of an accidental resemblance; it is the behaviour of a writer with both verses available. The interrogative frame around it is Mark 8:21's — 'And he said unto them, How is it that ye do not understand?' — which the machine stream matched at a ten-word window (rarity 2.12), the longest in the chapter after Acts 3:25."
+          },
+          "note": "'How is it that ye do not keep the commandments of the Lord? How is it that ye will perish, because of the hardness of your hearts?' Two borrowings in one sentence: Mark 8:21's rebuke-formula, doubled, and Matthew 19:8's second-person phrase. Both are reproached disciples in the source and reproached brothers here.",
+          "bibliography": [],
+          "status": "novel",
+          "citationsPending": true,
+          "streams": [
+            "machine-ngram",
+            "manual"
+          ]
+        }
+      ]
     },
     {
       "id": "15:11",
       "ch": 15,
       "ref": "15:11",
       "text": "Do ye not remember the things which the Lord hath said: If ye will not harden your hearts, and ask me in faith, believing that ye shall receive, with diligence in keeping my commandments, surely, these things shall be made known unto you?",
-      "links": []
+      "links": [
+        {
+          "source": "Matthew 21:22",
+          "type": "allusion",
+          "subtype": "close-verbal",
+          "confidence": "high",
+          "text": "And all things, whatsoever ye shall ask in prayer, believing, ye shall receive.",
+          "evidence": {
+            "vocabulary": 5,
+            "syntax": 4,
+            "sequence": 4,
+            "context": 5,
+            "rarity": 5,
+            "attestation": 4
+          },
+          "kjvSpecific": "yes",
+          "mediation": "direct-NT",
+          "composite": [
+            "Matthew 21:21",
+            "James 1:6",
+            "Mark 11:24"
+          ],
+          "recurrenceRefs": [
+            "1 Nephi 15:8",
+            "1 Nephi 15:9",
+            "1 Nephi 10:19",
+            "Moroni 10:4"
+          ],
+          "provenance": {
+            "route": "Matthew 21:22 + James 1:6 → KJV → Book of Mormon",
+            "other": "'Ask in faith' occurs in exactly one KJV verse, James 1:6. 'Believing, ye shall receive' is Matthew 21:22's, with Mark 11:24 as its parallel.",
+            "significance": "Two verses, from two books, supply the two halves of one condition — 'ask me in faith, believing that ye shall receive'. James supplies 'ask in faith', Matthew supplies 'believing, ye shall receive', and neither has the other's phrase. The combination is the Book of Mormon's own formula for revelation, restated at 10:19 and finally at Moroni 10:4, which is the sentence the whole book ends on. Note the exchange the verse answers: at 15:8 Nephi asks 'Have ye inquired of the Lord?' and at 15:9 the brothers reply 'we have not; for the Lord maketh no such thing known unto us' — so the borrowed condition is deployed against a stated denial that asking works."
+          },
+          "note": "'If ye will not harden your hearts, and ask me in faith, believing that ye shall receive, with diligence in keeping my commandments, surely, these things shall be made known unto you.' A fusion of James 1:6 and Matthew 21:22 with a Deuteronomic condition attached. Hardy's apparatus cites Matthew 21:21-22 here.",
+          "bibliography": [
+            "Hardy MSI at 1 Ne 15.11 (Matthew 21:21-22)"
+          ],
+          "status": "consensus",
+          "streams": [
+            "scholarship",
+            "manual"
+          ]
+        }
+      ]
     },
     {
       "id": "15:12",
@@ -8976,7 +9061,51 @@
       "ch": 15,
       "ref": "15:13",
       "text": "And now, the thing which our father meaneth concerning the grafting in of the natural branches through the fulness of the Gentiles, is, that in the latter days, when our seed shall have dwindled in unbelief, yea, for the space of many years, and many generations, after that the Messiah hath manifested himself in body unto the children of men, then shall the fulness of the Gospel of the Messiah come unto the Gentiles, and from the Gentiles unto the remnant of our seed;",
-      "links": []
+      "links": [
+        {
+          "source": "Romans 11:25",
+          "type": "quotation",
+          "subtype": "close-verbal",
+          "confidence": "certain",
+          "text": "For I would not, brethren, that ye should be ignorant of this mystery, lest ye should be wise in your own conceits; that blindness in part is happened to Israel, until the fulness of the Gentiles be come in.",
+          "evidence": {
+            "vocabulary": 5,
+            "syntax": 5,
+            "sequence": 5,
+            "context": 5,
+            "rarity": 5,
+            "attestation": 4
+          },
+          "kjvSpecific": "yes",
+          "mediation": "direct-NT",
+          "composite": [
+            "Romans 11:17",
+            "Romans 11:24"
+          ],
+          "recurrenceRefs": [
+            "1 Nephi 10:12",
+            "1 Nephi 10:14",
+            "1 Nephi 15:7",
+            "1 Nephi 15:16",
+            "Jacob 5"
+          ],
+          "provenance": {
+            "route": "Romans 11:25 → KJV → Book of Mormon",
+            "other": "'The fulness of the Gentiles' occurs in exactly one KJV verse.",
+            "significance": "This completes the Romans 11 case opened at 1 Nephi 10:12. The allegory's terms were already Paul's — branches broken off, natural branches, grafting in — and here the timetable is Paul's too, in his own phrase: the natural branches are grafted in 'through the fulness of the Gentiles', which is Romans 11:25's exact expression for the moment Israel's partial blindness ends. Paul's argument and Nephi's are the same argument, and the chapter's whole exposition (15:12-18) is a paraphrase of Romans 11:16-26 with a New World remnant inserted. Note also that the Book of Mormon at 10:14 wrote 'the fulness of the Gospel' where Paul has 'the fulness of the Gentiles'; here it uses Paul's original."
+          },
+          "note": "'The grafting in of the natural branches through the fulness of the Gentiles.' A KJV singleton reproduced intact, inside a sentence whose other technical terms are all from the same chapter of Romans. Below Skousen's threshold and not among his quotations; recorded at 'certain' on absolute rarity plus the surrounding argument.",
+          "bibliography": [
+            "Hardy MSI at 1 Ne 15.12 (Romans 11:16-24)"
+          ],
+          "status": "consensus",
+          "streams": [
+            "machine-ngram",
+            "scholarship",
+            "manual"
+          ]
+        }
+      ]
     },
     {
       "id": "15:14",
@@ -8990,7 +9119,46 @@
       "ch": 15,
       "ref": "15:15",
       "text": "And then at that day, will they not rejoice and give praise unto their everlasting God, their rock and their salvation? Yea, at that day, will they not receive the strength and nourishment from the true vine? Yea, will they not come unto the true fold of God?",
-      "links": []
+      "links": [
+        {
+          "source": "John 15:1",
+          "type": "allusion",
+          "subtype": "close-verbal",
+          "confidence": "high",
+          "text": "I am the true vine, and my Father is the husbandman.",
+          "evidence": {
+            "vocabulary": 4,
+            "syntax": 3,
+            "sequence": 4,
+            "context": 5,
+            "rarity": 5,
+            "attestation": 1
+          },
+          "kjvSpecific": "yes",
+          "mediation": "direct-NT",
+          "composite": [
+            "John 10:16",
+            "Romans 11:17",
+            "Psalm 62:2"
+          ],
+          "recurrenceRefs": [
+            "1 Nephi 13:36",
+            "1 Nephi 13:41"
+          ],
+          "provenance": {
+            "route": "John 15:1 + John 10:16 + Romans 11:17 → KJV → Book of Mormon",
+            "other": "'True vine' occurs in exactly one KJV verse. 'One fold' is John 10:16's. 'The root and fatness of the olive tree' — the nourishment the grafted branch receives — is Romans 11:17's, and occurs in exactly one KJV verse.",
+            "significance": "One Book of Mormon sentence pulls three separate horticultural and pastoral figures together: Paul's olive tree, John's vine, and John's fold. 'Will they not receive the strength and nourishment from the true vine? Yea, will they not come unto the true fold of God?' Paul's olive has supplied the argument since 10:12; John 15's vine is a different plant doing the same work; John 10:16's fold is the sheep version. The verse also reuses Psalm 62:2's 'their rock and their salvation', already catalogued at 13:36. Four borrowings in twenty-eight words, and the mixture is not confusion — it is the Book of Mormon assembling a single image of incorporation out of every KJV figure for it."
+          },
+          "note": "'Will they not rejoice and give praise unto their everlasting God, their rock and their salvation? Yea, at that day, will they not receive the strength and nourishment from the true vine? Yea, will they not come unto the true fold of God?' The 'strength and nourishment' answers Romans 11:17's 'root and fatness' without reproducing it; 'true vine' and 'true fold' are John's, with 'true' carried over from the vine to the fold, which John does not do.",
+          "bibliography": [],
+          "status": "novel",
+          "citationsPending": true,
+          "streams": [
+            "manual"
+          ]
+        }
+      ]
     },
     {
       "id": "15:16",
@@ -9011,7 +9179,51 @@
       "ch": 15,
       "ref": "15:18",
       "text": "wherefore, our father hath not spoken of our seed alone, but also of all the House of Israel, pointing to the covenant which should be fulfilled in the latter days; which covenant the Lord made to our father Abraham, saying: In thy seed shall all the kindreds of the earth be blessed.",
-      "links": []
+      "links": [
+        {
+          "source": "Acts 3:25",
+          "type": "quotation",
+          "subtype": "extended",
+          "confidence": "certain",
+          "text": "Ye are the children of the prophets, and of the covenant which God made with our fathers, saying unto Abraham, And in thy seed shall all the kindreds of the earth be blessed.",
+          "evidence": {
+            "vocabulary": 5,
+            "syntax": 5,
+            "sequence": 5,
+            "context": 5,
+            "rarity": 5,
+            "attestation": 5
+          },
+          "kjvSpecific": "yes",
+          "mediation": "OT-via-NT",
+          "composite": [
+            "Genesis 22:18",
+            "Genesis 12:3",
+            "Galatians 3:8"
+          ],
+          "recurrenceRefs": [
+            "1 Nephi 22:9",
+            "1 Nephi 3:20",
+            "3 Nephi 20:25-27"
+          ],
+          "provenance": {
+            "mt": "Genesis 22:18 — 'And in thy seed shall all the NATIONS of the earth be blessed.'",
+            "route": "Genesis 22:18 → Acts 3:25 → KJV → Book of Mormon",
+            "other": "The two English forms differ in one noun. Genesis 22:18 reads 'all the nations of the earth'; Genesis 12:3 and 28:14 read 'all families'; Acts 3:25 reads 'all the kindreds of the earth'. 'Kindreds of the earth' occurs in exactly two KJV verses, Acts 3:25 and Revelation 1:7. 1 Nephi 15:18 reads 'all the kindreds of the earth'.",
+            "significance": "This is the longest verbatim run in 1 Nephi — twelve words, machine rarity 3.62, the highest-scoring window in the chapter — and it is decisive on mediation for the same reason 2:22 and 6:4 were: the Old Testament and its New Testament quotation differ by a single word, and the Book of Mormon has the New Testament's. It is also the third demonstrable borrowing from Acts 3. That sermon has now supplied 1 Nephi 3:20 ('by the mouth of all his holy prophets since the world began', Acts 3:21), this verse (Acts 3:25), and 22:20 (Deuteronomy 18 in Acts 3:22-23's wording). Peter at Solomon's porch is a source text for this book at three of the four places where it states its own covenant theology."
+          },
+          "note": "'Which covenant the Lord made to our father Abraham, saying: In thy seed shall all the kindreds of the earth be blessed.' Twelve words verbatim. This meets Skousen's sixteen-word threshold only if the introduction is counted with it; on the quoted clause alone it falls four words short, and it is not among the quotations his published summary names. Recorded at 'certain'.",
+          "bibliography": [
+            "Hardy MSI at 1 Ne 15.18 (Genesis 22:18; Acts 3:25)"
+          ],
+          "status": "consensus",
+          "streams": [
+            "machine-ngram",
+            "scholarship",
+            "manual"
+          ]
+        }
+      ]
     },
     {
       "id": "15:19",
@@ -9025,7 +9237,44 @@
       "ch": 15,
       "ref": "15:20",
       "text": "and I did rehearse unto them the words of Isaiah, which spake concerning the restoration of the Jews, or of the House of Israel; and after that they were restored, they should no more be confounded, neither should they be scattered again. And it came to pass that I did speak many words unto my brethren, that they were pacified, and did humble themselves before the Lord.",
-      "links": []
+      "links": [
+        {
+          "source": "Isaiah 45:17",
+          "type": "allusion",
+          "subtype": "close-verbal",
+          "confidence": "high",
+          "text": "But Israel shall be saved in the LORD with an everlasting salvation: ye shall not be ashamed nor confounded world without end.",
+          "evidence": {
+            "vocabulary": 4,
+            "syntax": 4,
+            "sequence": 4,
+            "context": 5,
+            "rarity": 4,
+            "attestation": 5
+          },
+          "kjvSpecific": "yes",
+          "mediation": "direct-OT",
+          "recurrenceRefs": [
+            "1 Nephi 14:2",
+            "1 Nephi 20:1-22",
+            "1 Nephi 21:1-26"
+          ],
+          "provenance": {
+            "route": "Isaiah 45:17 → KJV → Book of Mormon",
+            "other": "Isaiah 45:17 is the KJV's statement that a restored Israel 'shall not be ashamed nor confounded world without end'. 1 Nephi 15:20 says the restored 'should no more be confounded, neither should they be scattered again', and 14:2 had already promised 'the House of Israel shall no more be confounded'.",
+            "significance": "The verse says outright that Nephi 'did rehearse unto them the words of Isaiah', which makes it the book's first explicit citation of Isaiah as a source, five chapters before it transcribes Isaiah 48-49 entire at 1 Nephi 20-21. Isaiah 45:17 is the verse the rehearsal is drawing on — the promise of a restoration that cannot be undone. The catalogue should note the position: 15:20 announces the practice that chapters 20-21 carry out at length."
+          },
+          "note": "'I did rehearse unto them the words of Isaiah, which spake concerning the restoration of the Jews … and after that they were restored, they should no more be confounded, neither should they be scattered again.' The borrowed term is 'confounded' in its Isaianic sense of a restoration that will not fail. Hardy's apparatus cites Isaiah 45:17 here.",
+          "bibliography": [
+            "Hardy MSI at 1 Ne 15.20 (Isaiah 45:17)"
+          ],
+          "status": "consensus",
+          "streams": [
+            "scholarship",
+            "manual"
+          ]
+        }
+      ]
     },
     {
       "id": "15:21",
@@ -9053,7 +9302,46 @@
       "ch": 15,
       "ref": "15:24",
       "text": "And I said unto them, that it was the word of God; and whoso would hearken unto the word of God, and would hold fast unto it, they would never perish; neither could the temptations and the firy darts of the adversary, overpower them unto blindness, to lead them away to destruction.",
-      "links": []
+      "links": [
+        {
+          "source": "Ephesians 6:16",
+          "type": "quotation",
+          "subtype": "close-verbal",
+          "confidence": "certain",
+          "text": "Above all, taking the shield of faith, wherewith ye shall be able to quench all the fiery darts of the wicked.",
+          "evidence": {
+            "vocabulary": 5,
+            "syntax": 4,
+            "sequence": 4,
+            "context": 5,
+            "rarity": 5,
+            "attestation": 2
+          },
+          "kjvSpecific": "yes",
+          "mediation": "direct-NT",
+          "composite": [
+            "2 Corinthians 6:7",
+            "Hebrews 10:23"
+          ],
+          "recurrenceRefs": [
+            "1 Nephi 14:14",
+            "1 Nephi 8:24",
+            "1 Nephi 11:25"
+          ],
+          "provenance": {
+            "route": "Ephesians 6:16 → KJV → Book of Mormon",
+            "other": "'Fiery darts' occurs in exactly one KJV verse. The 1830 spells it 'firy', corrected to 'fiery' in 1920.",
+            "significance": "The interpretation of the rod of iron ends in Paul's armoury. Nephi has already said the rod is the word of God (11:25); here he adds what holding it protects against — 'neither could the temptations and the firy darts of the adversary, overpower them' — and the phrase is Ephesians 6:16's, from the passage whose shield of faith quenches them. The armour cluster has now been used twice in two chapters: 14:14's 'armed with righteousness and with the power of God' (2 Corinthians 6:7) and this. And the verb before it, 'hold fast unto it', is Hebrews 10:23's, which is what one does with a rod."
+          },
+          "note": "'Neither could the temptations and the firy darts of the adversary, overpower them unto blindness.' A KJV singleton reproduced, with 'of the wicked' replaced by 'of the adversary'. Recorded at 'certain' on absolute rarity.",
+          "bibliography": [],
+          "status": "novel",
+          "citationsPending": true,
+          "streams": [
+            "manual"
+          ]
+        }
+      ]
     },
     {
       "id": "15:25",
@@ -9123,7 +9411,46 @@
       "ch": 15,
       "ref": "15:34",
       "text": "But, behold, I say unto you, The kingdom of God is not filthy, and there cannot any unclean thing enter into the kingdom of God; wherefore, there must needs be a place of filthiness prepared for that which is filthy.",
-      "links": []
+      "links": [
+        {
+          "source": "Revelation 21:27",
+          "type": "allusion",
+          "subtype": "close-verbal",
+          "confidence": "high",
+          "text": "And there shall in no wise enter into it any thing that defileth, neither whatsoever worketh abomination, or maketh a lie: but they which are written in the Lamb’s book of life.",
+          "evidence": {
+            "vocabulary": 4,
+            "syntax": 4,
+            "sequence": 4,
+            "context": 5,
+            "rarity": 4,
+            "attestation": 1
+          },
+          "kjvSpecific": "yes",
+          "mediation": "direct-NT",
+          "composite": [
+            "1 Corinthians 6:9",
+            "Psalm 5:4"
+          ],
+          "recurrenceRefs": [
+            "1 Nephi 10:21",
+            "1 Nephi 15:33",
+            "1 Nephi 15:36"
+          ],
+          "provenance": {
+            "route": "Revelation 21:27 → KJV → Book of Mormon",
+            "other": "Revelation 21:27 is the KJV's one absolute exclusion clause — nothing that defileth may enter — and it is the New Jerusalem that is being kept clean. 1 Nephi 15:34 substitutes 'unclean thing' for 'any thing that defileth' and 'the kingdom of God' for the city.",
+            "significance": "The doctrine stated at 10:21 ('no unclean thing can dwell with God') is here turned into an entrance rule, and the entrance rule is Revelation 21:27's. What the Book of Mormon adds is the corollary, argued as a reductio at 15:33: if the filthy entered, 'the kingdom of God must be filthy also' — which is a piece of reasoning Revelation does not perform and which requires the exclusion to be absolute rather than merely stated. The verse then invents a destination for the excluded, 'a place of filthiness prepared for that which is filthy', which has no KJV source at all."
+          },
+          "note": "'There cannot any unclean thing enter into the kingdom of God.' Recorded on the exclusion formula rather than on reproduced words; the KJV has this shape once. 1 Corinthians 6:9-10's 'shall not inherit the kingdom of God' supplies the kingdom and not the entering.",
+          "bibliography": [],
+          "status": "novel",
+          "citationsPending": true,
+          "streams": [
+            "manual"
+          ]
+        }
+      ]
     },
     {
       "id": "15:35",
@@ -9137,7 +9464,46 @@
       "ch": 15,
       "ref": "15:36",
       "text": "wherefore, the wicked are rejected from the righteous, and also from that tree of life, whose fruit is most precious and most desirable above all other fruits; yea, and it is the greatest of all the gifts of God. And thus I spake unto my brethren.— Amen.",
-      "links": []
+      "links": [
+        {
+          "source": "1 Corinthians 13:13",
+          "type": "allusion",
+          "subtype": "conceptual",
+          "confidence": "moderate",
+          "text": "And now abideth faith, hope, charity, these three; but the greatest of these is charity.",
+          "evidence": {
+            "vocabulary": 3,
+            "syntax": 3,
+            "sequence": 4,
+            "context": 5,
+            "rarity": 4,
+            "attestation": 0
+          },
+          "kjvSpecific": "uncertain",
+          "mediation": "direct-NT",
+          "composite": [
+            "1 Corinthians 12:31",
+            "Romans 5:5"
+          ],
+          "recurrenceRefs": [
+            "1 Nephi 11:22",
+            "1 Nephi 11:25",
+            "Moroni 7:46-47"
+          ],
+          "provenance": {
+            "route": "1 Corinthians 13:13 → KJV → Book of Mormon",
+            "alternative": "'The greatest of all' is ordinary English and the KJV's nearest run is Job 1:3's 'the greatest of all the men of the east', which is about wealth. Nothing verbal is reproduced.",
+            "significance": "The chain is what makes this worth recording. At 11:22 the tree was interpreted as the love of God in Romans 5:5's words; at 15:36 its fruit is 'the greatest of all the gifts of God'; and 1 Corinthians 13:13 is the KJV's one sentence declaring what the greatest of the gifts is — charity, which is love. Paul's chapter is introduced at 12:31 as 'a more excellent way' after a discussion of gifts, so 'gifts' and 'greatest' belong together there as they do here. Moroni 7:46-47 will make the identification explicit and quote 1 Corinthians 13 at length, which is evidence that the book knows the passage."
+          },
+          "note": "'Whose fruit is most precious and most desirable above all other fruits; yea, and it is the greatest of all the gifts of God.' Proposed on the argument rather than the wording: the fruit has already been identified as the love of God, and the KJV states once that love is the greatest. Held at moderate because nothing is reproduced.",
+          "bibliography": [],
+          "status": "novel",
+          "citationsPending": true,
+          "streams": [
+            "manual"
+          ]
+        }
+      ]
     },
     {
       "id": "16:1",
