@@ -10218,10 +10218,12 @@
             "attestation": 2
           },
           "kjvSpecific": "yes",
-          "mediation": "direct-OT",
+          "mediation": "OT-via-NT",
           "composite": [
             "Exodus 25:40",
             "Hebrews 8:5",
+            "Acts 7:3",
+            "Genesis 12:1",
             "Genesis 6:14",
             "Genesis 6:15"
           ],
@@ -10231,15 +10233,17 @@
             "1 Nephi 18:1-2"
           ],
           "provenance": {
-            "route": "Exodus 25:9, 25:40 → KJV → Book of Mormon",
-            "other": "Exodus 25:9 has 'According to all that I shew thee'; Exodus 25:40 has 'after their pattern, which was shewed thee in the mount'; Hebrews 8:5 quotes it as 'according to the pattern shewed to thee in the mount'. The Book of Mormon has 'after the manner which I shall shew thee' at 17:8 and 'after the manner which thou hast shewn unto me' at 17:9.",
-            "significance": "The commission is Moses's, and the staging proves it. At 17:7 the voice says 'Arise, and get thee into the mountain', and Nephi goes up; at 17:8, on the mountain, he is told to build 'after the manner which I shall shew thee'. That is the tabernacle commission of Exodus 25 — the one biblical instance of a man taken up a mountain and shown a pattern to build by, which Hebrews 8:5 singles out as the type of all heavenly-pattern construction. The object built is Noah's, not Moses's: Genesis 6:14-15 is the KJV's other divine construction order, and it too specifies 'the fashion which thou shalt make it of'. Nephi's ship is an ark built to a tabernacle's commission, and the 1830 keeps the KJV's 'shew'/'shewn' spelling throughout."
+            "route": "Exodus 25:9, 25:40 (the mountain pattern) + Genesis 12:1 via Acts 7:3 (the wording) → KJV → Book of Mormon",
+            "other": "Exodus 25:9 has 'According to all that I shew thee'; Exodus 25:40 has 'after their pattern, which was shewed thee in the mount'; Hebrews 8:5 quotes it as 'according to the pattern shewed to thee in the mount'. The Book of Mormon has 'after the manner which I shall shew thee' at 17:8 and 'after the manner which thou hast shewn unto me' at 17:9. Separately, the relative clause itself is traceable: 'I shall shew thee' occurs in exactly one KJV verse, Acts 7:3, where Stephen quotes Genesis 12:1. Genesis 12:1 reads 'a land that I WILL shew thee'; Acts 7:3 reads 'the land which I SHALL shew thee'. 1 Nephi 17:8 reads 'after the manner which I shall shew thee'.",
+            "significance": "The commission is Moses's, and the staging proves it. At 17:7 the voice says 'Arise, and get thee into the mountain', and Nephi goes up; at 17:8, on the mountain, he is told to build 'after the manner which I shall shew thee'. That is the tabernacle commission of Exodus 25 — the one biblical instance of a man taken up a mountain and shown a pattern to build by, which Hebrews 8:5 singles out as the type of all heavenly-pattern construction. The object built is Noah's, not Moses's: Genesis 6:14-15 is the KJV's other divine construction order, and it too specifies 'the fashion which thou shalt make it of'. Nephi's ship is an ark built to a tabernacle's commission, and the 1830 keeps the KJV's 'shew'/'shewn' spelling throughout. And the clause that carries the commission is a tenth mediation datum, found by the n-gram stream: 'which I shall shew thee' is Acts 7:3's rendering of Genesis 12:1, differing from Genesis by one auxiliary. That makes this the sixth demonstrable borrowing from Stephen's speech in 1 Nephi (2:22, 3:29, 5:14, 6:4, 11:13, and here), and it is the same verse of Genesis the book used at 2:4 for Lehi's departure — used there for the call and here for the formula.",
+            "mt": "Genesis 12:1 — 'unto a land that I WILL shew thee.'"
           },
-          "note": "'Thou shalt construct a ship, after the manner which I shall shew thee, that I may carry thy people across these waters.' No clause is reproduced, but the formula ('after the … which I shall shew thee') and its mountain setting belong to one passage in the KJV. The Moses typology that has run since 1:6 reaches its structural point here: Nephi receives on a mountain what Moses received on a mountain.",
+          "note": "'Thou shalt construct a ship, after the manner which I shall shew thee, that I may carry thy people across these waters.' No clause is reproduced, but the formula ('after the … which I shall shew thee') and its mountain setting belong to one passage in the KJV. The Moses typology that has run since 1:6 reaches its structural point here: Nephi receives on a mountain what Moses received on a mountain. The n-gram stream supplied the decisive element that manual reading missed: Acts 7:3, whose 'which I shall shew thee' the verse reproduces exactly where Genesis 12:1 reads 'that I will shew thee'.",
           "bibliography": [],
           "status": "novel",
           "citationsPending": true,
           "streams": [
+            "machine-ngram",
             "manual"
           ]
         }
