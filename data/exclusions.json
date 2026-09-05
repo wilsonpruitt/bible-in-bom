@@ -2407,6 +2407,76 @@
         "machine-ngram"
       ],
       "reason": "A standing note rather than an exclusion, filed here so the register accounts for the two chapters it does not otherwise cover. 1 Nephi 20-21 is a continuous transcription of Isaiah 48-49, with the KJV's verse count and versification exactly. Every machine candidate in these chapters is therefore either the Isaiah verse itself — which is adjudicated as a quotation, verse by verse — or a second KJV verse that happens to share Isaiah's wording, which carries no information. No candidate in these two chapters was rejected on judgment; the adjudication is the collation, and the 99 word-level departures are registered individually in data/isaiah-collation.json rather than here."
+    },
+    {
+      "bomRef": "1 Nephi 22:4",
+      "source": "Isaiah 24:15",
+      "category": "better-source-identified",
+      "sharedText": "isles of the sea",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "A two-verse KJV phrase (Esther 10:1, Isaiah 24:15) already carried in the 19:10 link's composite. Its use here and at 22:4 is the Book of Mormon's own formula for the dispersion, established at 19:10 and 19:16, not a fresh borrowing."
+    },
+    {
+      "bomRef": "1 Nephi 22:14",
+      "source": "Revelation 17:1",
+      "category": "better-source-identified",
+      "sharedText": "that great whore",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "Adjudicated at 14:10 and 14:11, where the whole configuration of Revelation 17 is reproduced. Its appearance at 22:14 is one of four previously catalogued sources gathered into that verse; see the link there, whose composite carries it."
+    },
+    {
+      "bomRef": "1 Nephi 22:14",
+      "source": "Acts 13:10",
+      "category": "better-source-identified",
+      "sharedText": "perverted the right ways of the Lord",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "A six-word run and a KJV singleton — and a repetition rather than a new borrowing. Adjudicated at 13:27, where the source verse's 'thou child of the devil' also accounts for 1 Nephi 13:6. Carried in the 22:14 link's composite."
+    },
+    {
+      "bomRef": "1 Nephi 22:14",
+      "source": "Matthew 7:27",
+      "category": "better-source-identified",
+      "sharedText": "great shall be the fall of it",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "Third occurrence of a KJV singleton adjudicated at 11:36 and prepared at 8:26. By 22:14 'great shall be the fall of it' has become the Book of Mormon's own formula for the collapse of the abominable church; the borrowing is recorded where it was made."
+    },
+    {
+      "bomRef": "1 Nephi 22:16",
+      "source": "Revelation 16:1",
+      "category": "better-source-identified",
+      "sharedText": "the wrath of God shall be poured out",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "Adjudicated at 14:15, where the verb 'poured out' is what selects Revelation's vials over Romans 1:18's revealing. Repetition, not fresh borrowing."
+    },
+    {
+      "bomRef": "1 Nephi 22:22",
+      "source": "Matthew 12:26",
+      "category": "insufficient-verbal",
+      "sharedText": "the kingdom of the devil",
+      "streams": [
+        "manual"
+      ],
+      "reason": "'The kingdom of the Devil' is not a KJV phrase. The KJV has 'his kingdom' of Satan at Matthew 12:26 and Luke 11:18, and 'the kingdom of God' scores of times; the Book of Mormon's antithesis between the two kingdoms is its own construction, and 14:10's 'two churches only' is where the catalogue records the doctrine's shape. Nothing to catalogue here."
+    },
+    {
+      "bomRef": "1 Nephi 22:28",
+      "source": "Ezekiel 34:25",
+      "category": "insufficient-verbal",
+      "sharedText": "dwell safely",
+      "streams": [
+        "manual"
+      ],
+      "reason": "'Dwell safely' is a covenant-blessing formula in some fifteen KJV verses (Leviticus 25:18-19, Deuteronomy 12:10, Jeremiah 23:6, 32:37, Ezekiel 34:25-28 and others) and identifies no source. The verse's catalogued borrowing is 'all nations, kindreds, tongues, and people', which is Revelation 14:6's and is adjudicated at 5:18."
     }
   ]
 }

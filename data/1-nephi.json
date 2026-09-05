@@ -13881,7 +13881,45 @@
       "ch": 22,
       "ref": "22:6",
       "text": "Nevertheless, after that they have been nursed by the Gentiles, and the Lord hath lifted up his hand upon the Gentiles and set them up for a standard, and their children shall be carried in their arms, and their daughters shall be carried upon their shoulders, behold, these things of which are spoken, are temporal: for thus is the covenants of the Lord with our fathers; and it meaneth us in the days to come, and also all our brethren which are of the House of Israel.",
-      "links": []
+      "links": [
+        {
+          "source": "Isaiah 49:22",
+          "type": "quotation",
+          "subtype": "close-verbal",
+          "confidence": "certain",
+          "text": "Thus saith the Lord GOD, Behold, I will lift up mine hand to the Gentiles, and set up my standard to the people: and they shall bring thy sons in their arms, and thy daughters shall be carried upon their shoulders.",
+          "evidence": {
+            "vocabulary": 5,
+            "syntax": 5,
+            "sequence": 5,
+            "context": 5,
+            "rarity": 5,
+            "attestation": 5
+          },
+          "kjvSpecific": "yes",
+          "mediation": "OT-via-earlier-BoM",
+          "composite": [
+            "Isaiah 49:23"
+          ],
+          "recurrenceRefs": [
+            "1 Nephi 21:22",
+            "1 Nephi 21:23",
+            "1 Nephi 22:8"
+          ],
+          "provenance": {
+            "route": "Isaiah 49:22-23 → KJV → 1 Nephi 21:22-23 → 1 Nephi 22:6",
+            "other": "Isaiah 49:22 supplies the lifted hand, the standard, and the daughters carried upon shoulders; 49:23 supplies the nursing. Both verses stand thirty-one and thirty verses earlier in this same book, transcribed at 1 Nephi 21:22-23.",
+            "significance": "The second clean case in the corpus of mediation through the Book of Mormon's own earlier text, and a cleaner one than 4:14. Chapter 22 is Nephi's exposition of the chapter he has just read aloud, and it opens by quoting three phrases from three consecutive verses of it. The proximate source is not Isaiah 49 but 1 Nephi 21:22-23 — the text the brothers have in front of them — and the chapter says so at 22:1: 'What meaneth these things which ye have read?' Cataloguing this as a direct Isaiah borrowing would miss the whole structure of the chapter."
+          },
+          "note": "'After that they have been nursed by the Gentiles, and the Lord hath lifted up his hand upon the Gentiles and set them up for a standard, and their children shall be carried in their arms, and their daughters shall be carried upon their shoulders.' Three clauses from Isaiah 49:22-23, in Isaiah's order, reached through the transcription at 1 Nephi 21. The one substantive change is that Isaiah's standard is set up TO the people and the Book of Mormon sets the Gentiles up AS one.",
+          "bibliography": [],
+          "status": "consensus",
+          "citationsPending": true,
+          "streams": [
+            "manual"
+          ]
+        }
+      ]
     },
     {
       "id": "22:7",
@@ -13895,14 +13933,91 @@
       "ch": 22,
       "ref": "22:8",
       "text": "And after that our seed is scattered, the Lord God will proceed to do a marvellous work among the Gentiles, which shall be of great worth unto our seed; wherefore, it is likened unto the being nourished by the Gentiles, and being carried in their arms, and upon their shoulders.",
-      "links": []
+      "links": [
+        {
+          "source": "Isaiah 29:14",
+          "type": "quotation",
+          "subtype": "close-verbal",
+          "confidence": "certain",
+          "text": "Therefore, behold, I will proceed to do a marvellous work among this people, even a marvellous work and a wonder: for the wisdom of their wise men shall perish, and the understanding of their prudent men shall be hid.",
+          "evidence": {
+            "vocabulary": 5,
+            "syntax": 5,
+            "sequence": 5,
+            "context": 5,
+            "rarity": 5,
+            "attestation": 5
+          },
+          "kjvSpecific": "yes",
+          "mediation": "direct-OT",
+          "recurrenceRefs": [
+            "1 Nephi 14:7",
+            "2 Nephi 25:17",
+            "2 Nephi 27:26"
+          ],
+          "provenance": {
+            "route": "Isaiah 29:14 → KJV → Book of Mormon",
+            "other": "'Proceed to do a marvellous work' occurs in exactly one KJV verse, and the verb 'proceed' is what identifies it: 'marvellous work' alone appears in five verses, but only Isaiah 29:14 has God proceeding to do one.",
+            "significance": "This settles a question left open at 1 Nephi 14:7. There the phrase 'a great and a marvellous work' could have come from Isaiah 29:14 (the sense) or Revelation 15:3 (the adjective pair), and the catalogue recorded both without choosing. Here the verb 'proceed' is present, which is Isaiah's and nobody else's, so Isaiah 29:14 is demonstrably in this book's hands — and 14:7's link should be read with that in view. Isaiah 29 becomes the Book of Mormon's own charter chapter, quoted at length in 2 Nephi 27."
+          },
+          "note": "'The Lord God will proceed to do a marvellous work among the Gentiles.' Six words verbatim from a KJV singleton, with 'this people' becoming 'the Gentiles'. The rest of the verse returns to Isaiah 49:22-23 via 1 Nephi 21 (see 22:6).",
+          "bibliography": [
+            "Hardy MSI at 1 Ne 22.8 (Isaiah 29:14)"
+          ],
+          "status": "consensus",
+          "streams": [
+            "scholarship",
+            "manual"
+          ]
+        }
+      ]
     },
     {
       "id": "22:9",
       "ch": 22,
       "ref": "22:9",
       "text": "And it shall also be of worth unto the Gentiles; and not only unto the Gentiles, but unto all the House of Israel, unto the making known of the covenants of the Father of Heaven unto Abraham, saying, In thy seed shall all the kindreds of the earth be blessed.",
-      "links": []
+      "links": [
+        {
+          "source": "Acts 3:25",
+          "type": "quotation",
+          "subtype": "close-verbal",
+          "confidence": "certain",
+          "text": "Ye are the children of the prophets, and of the covenant which God made with our fathers, saying unto Abraham, And in thy seed shall all the kindreds of the earth be blessed.",
+          "evidence": {
+            "vocabulary": 5,
+            "syntax": 5,
+            "sequence": 5,
+            "context": 5,
+            "rarity": 5,
+            "attestation": 5
+          },
+          "kjvSpecific": "yes",
+          "mediation": "OT-via-NT",
+          "composite": [
+            "Genesis 22:18"
+          ],
+          "recurrenceRefs": [
+            "1 Nephi 15:18",
+            "1 Nephi 22:10"
+          ],
+          "provenance": {
+            "mt": "Genesis 22:18 — 'in thy seed shall all the NATIONS of the earth be blessed'.",
+            "route": "Genesis 22:18 → Acts 3:25 → KJV → Book of Mormon",
+            "other": "'Kindreds of the earth' is Acts 3:25's word, not Genesis's. See the full argument at 1 Nephi 15:18.",
+            "significance": "The same twelve-word quotation as 15:18, and it is repeated here because the chapter is about to build on it: 22:10 argues that 'all the kindreds of the earth cannot be blessed, unless he shall make bare his arm', which takes the borrowed noun and makes it the subject of a further inference. So the Acts 3:25 form is not a single lapse but the phrase the book reasons with."
+          },
+          "note": "'Unto the making known of the covenants of the Father of Heaven unto Abraham, saying, In thy seed shall all the kindreds of the earth be blessed.' Second occurrence of the Acts 3:25 form; the argument for the mediation is at 15:18 and is not repeated.",
+          "bibliography": [
+            "Hardy MSI at 1 Ne 22.9 (Genesis 22:18; Acts 3:25)"
+          ],
+          "status": "consensus",
+          "streams": [
+            "scholarship",
+            "manual"
+          ]
+        }
+      ]
     },
     {
       "id": "22:10",
@@ -13916,35 +14031,233 @@
       "ch": 22,
       "ref": "22:11",
       "text": "Wherefore, the Lord God will proceed to make bare his arm in the eyes of all the nations, in bringing about his covenants and his Gospel, unto they which are of the House of Israel.",
-      "links": []
+      "links": [
+        {
+          "source": "Isaiah 52:10",
+          "type": "quotation",
+          "subtype": "close-verbal",
+          "confidence": "certain",
+          "text": "The LORD hath made bare his holy arm in the eyes of all the nations; and all the ends of the earth shall see the salvation of our God.",
+          "evidence": {
+            "vocabulary": 5,
+            "syntax": 5,
+            "sequence": 5,
+            "context": 5,
+            "rarity": 5,
+            "attestation": 5
+          },
+          "kjvSpecific": "yes",
+          "mediation": "direct-OT",
+          "recurrenceRefs": [
+            "1 Nephi 19:17",
+            "1 Nephi 22:10",
+            "3 Nephi 16:20"
+          ],
+          "provenance": {
+            "route": "Isaiah 52:10 → KJV → Book of Mormon",
+            "other": "'Make bare his arm in the eyes of' occurs in exactly one KJV verse.",
+            "significance": "Isaiah 52:10 has been in this book since 13:37 (its verse 7) and 19:17 (its second half). Here the first half arrives, twice — 22:10 states it as a condition and 22:11 as a promise — and the two verses together turn a single Isaian sentence into an argument: the kindreds cannot be blessed unless the arm is made bare, therefore the arm will be made bare. That is what 19:23's 'I did liken all scriptures unto us' looks like in practice."
+          },
+          "note": "'The Lord God will proceed to make bare his arm in the eyes of all the nations.' Eight words verbatim, with 'holy' dropped and Isaiah 29:14's 'proceed' (see 22:8) carried across into the clause.",
+          "bibliography": [
+            "Hardy MSI at 1 Ne 22.10 (Isaiah 52:10)"
+          ],
+          "status": "consensus",
+          "streams": [
+            "scholarship",
+            "manual"
+          ]
+        }
+      ]
     },
     {
       "id": "22:12",
       "ch": 22,
       "ref": "22:12",
       "text": "Wherefore, he will bring them again out of captivity, and they shall be gathered together to the lands of their inheritance; and they shall be brought out of obscurity, and out of darkness; and they shall know that the Lord is their Saviour and their Redeemer, the mighty one of Israel.",
-      "links": []
+      "links": [
+        {
+          "source": "Isaiah 29:18",
+          "type": "allusion",
+          "subtype": "close-verbal",
+          "confidence": "high",
+          "text": "And in that day shall the deaf hear the words of the book, and the eyes of the blind shall see out of obscurity, and out of darkness.",
+          "evidence": {
+            "vocabulary": 5,
+            "syntax": 4,
+            "sequence": 4,
+            "context": 5,
+            "rarity": 5,
+            "attestation": 5
+          },
+          "kjvSpecific": "yes",
+          "mediation": "direct-OT",
+          "composite": [
+            "Isaiah 49:26",
+            "Isaiah 1:24",
+            "Jeremiah 30:3"
+          ],
+          "recurrenceRefs": [
+            "1 Nephi 22:8",
+            "2 Nephi 27:29"
+          ],
+          "provenance": {
+            "route": "Isaiah 29:18 → KJV → Book of Mormon",
+            "other": "'Out of obscurity' occurs in exactly one KJV verse. 'The mighty One of Israel' is Isaiah 1:24; Isaiah 49:26, which Nephi has just transcribed at 21:26, has 'the mighty One of Jacob'.",
+            "significance": "Isaiah 29 supplies both ends of this chapter's argument — the marvellous work at 22:8 and, here, what the work accomplishes: the deaf hearing the words of a book and the blind seeing out of obscurity. 2 Nephi 27 will quote the whole chapter and make the book explicit. Note the composite: 'their Saviour and their Redeemer, the mighty one of Israel' fuses Isaiah 49:26's 'thy Saviour and thy Redeemer, the mighty One of Jacob' — which is the last verse Nephi transcribed — with Isaiah 1:24's title, so the epithet is being corrected from Jacob to Israel between the transcription and the exposition."
+          },
+          "note": "'They shall be brought out of obscurity, and out of darkness; and they shall know that the Lord is their Saviour and their Redeemer, the mighty one of Israel.' Five words of a KJV singleton, and the following clause reworks the verse Nephi finished reading two chapters ago.",
+          "bibliography": [
+            "Hardy MSI at 1 Ne 22.12 (Isaiah 29:18)"
+          ],
+          "status": "consensus",
+          "streams": [
+            "scholarship",
+            "manual"
+          ]
+        }
+      ]
     },
     {
       "id": "22:13",
       "ch": 22,
       "ref": "22:13",
       "text": "And the blood of that great and abominable church, which is the whore of all the earth, shall turn upon their own heads: for they shall war among themselves, and the sword of their own hands shall fall upon their own heads, and they shall be drunken with their own blood.",
-      "links": []
+      "links": [
+        {
+          "source": "Isaiah 49:26",
+          "type": "quotation",
+          "subtype": "close-verbal",
+          "confidence": "certain",
+          "text": "And I will feed them that oppress thee with their own flesh; and they shall be drunken with their own blood, as with sweet wine: and all flesh shall know that I the LORD am thy Saviour and thy Redeemer, the mighty One of Jacob.",
+          "evidence": {
+            "vocabulary": 5,
+            "syntax": 5,
+            "sequence": 4,
+            "context": 5,
+            "rarity": 5,
+            "attestation": 4
+          },
+          "kjvSpecific": "yes",
+          "mediation": "OT-via-earlier-BoM",
+          "composite": [
+            "Psalm 7:16",
+            "Esther 9:25"
+          ],
+          "recurrenceRefs": [
+            "1 Nephi 21:26",
+            "1 Nephi 22:12"
+          ],
+          "provenance": {
+            "route": "Isaiah 49:26 → KJV → 1 Nephi 21:26 → 1 Nephi 22:13",
+            "other": "'Drunken with their own blood' occurs in exactly one KJV verse, and it is the last verse Nephi transcribed, three chapters ago.",
+            "significance": "Third case of mediation through the book's own text in one chapter (with 22:6 and 22:12), which is what makes 1 Nephi 22 the place where that category earns its name. The exposition is quoting the transcription, and the reader can watch it happen: Isaiah 49:26 stands complete at 1 Nephi 21:26, and 22:12-13 takes its two halves in reverse order — the Saviour and Redeemer clause at 12, the drunken-with-blood clause at 13. What the Book of Mormon adds is the mechanism, 'they shall war among themselves', which converts Isaiah's divine feeding of oppressors on their own flesh into civil war."
+          },
+          "note": "'They shall war among themselves, and the sword of their own hands shall fall upon their own heads, and they shall be drunken with their own blood.' The turning of violence on its author is the KJV's standing figure (Psalm 7:16, Esther 9:25) and the clause is Isaiah's.",
+          "bibliography": [],
+          "status": "consensus",
+          "citationsPending": true,
+          "streams": [
+            "manual"
+          ]
+        }
+      ]
     },
     {
       "id": "22:14",
       "ch": 22,
       "ref": "22:14",
       "text": "And every nation which shall war against thee, O house of Israel, shall be turned one against another, and they shall fall into the pit which they digged to ensnare the people of the Lord. And all that fight against Zion, shall be destroyed. And that great whore, which hath perverted the right ways of the Lord; yea, that great and abominable church, shall tumble to the dust, and great shall be the fall of it.",
-      "links": []
+      "links": [
+        {
+          "source": "Isaiah 29:8",
+          "type": "allusion",
+          "subtype": "close-verbal",
+          "confidence": "high",
+          "text": "It shall even be as when an hungry man dreameth, and, behold, he eateth; but he awaketh, and his soul is empty: or as when a thirsty man dreameth, and, behold, he drinketh; but he awaketh, and, behold, he is faint, and his soul hath appetite: so shall the multitude of all the nations be, that fight against mount Zion.",
+          "evidence": {
+            "vocabulary": 4,
+            "syntax": 4,
+            "sequence": 4,
+            "context": 5,
+            "rarity": 5,
+            "attestation": 5
+          },
+          "kjvSpecific": "yes",
+          "mediation": "direct-OT",
+          "composite": [
+            "Psalm 7:15",
+            "Matthew 7:27",
+            "Acts 13:10",
+            "Revelation 17:1"
+          ],
+          "recurrenceRefs": [
+            "1 Nephi 8:26",
+            "1 Nephi 11:36",
+            "1 Nephi 13:27",
+            "1 Nephi 14:3",
+            "1 Nephi 22:19"
+          ],
+          "provenance": {
+            "route": "Isaiah 29:8 → KJV → Book of Mormon",
+            "other": "'Fight against mount Zion' is Isaiah 29:8's; the Book of Mormon has 'fight against Zion' here and at 22:19.",
+            "significance": "This one verse gathers four borrowings the catalogue recorded in four earlier chapters, and gathering them is the finding. 'They shall fall into the pit which they digged' is the topos of 14:3 (Psalm 7:15). 'That great whore' is Revelation 17:1, first used at 14:10. 'Which hath perverted the right ways of the Lord' is Acts 13:10, a KJV singleton adjudicated at 13:27. And 'great shall be the fall of it' is Matthew 7:27, adjudicated at 11:36 and prepared at 8:26 — its third appearance. Isaiah 29:8 supplies the frame that holds them. A reader who has followed this catalogue from chapter 8 arrives at 22:14 and finds the book's whole apparatus of judgment assembled in a single sentence out of parts it has been laying down for fourteen chapters."
+          },
+          "note": "'They shall fall into the pit which they digged to ensnare the people of the Lord. And all that fight against Zion, shall be destroyed. And that great whore, which hath perverted the right ways of the Lord … shall tumble to the dust, and great shall be the fall of it.' Four previously catalogued sources in one verse; see the recurrence list.",
+          "bibliography": [
+            "Hardy MSI at 1 Ne 22.14 (Isaiah 29:8)"
+          ],
+          "status": "consensus",
+          "streams": [
+            "scholarship",
+            "manual"
+          ]
+        }
+      ]
     },
     {
       "id": "22:15",
       "ch": 22,
       "ref": "22:15",
       "text": "For behold, saith the prophet, that the time cometh speedily, that Satan shall have no more power over the hearts of the children of men: for the day soon cometh, that all the proud and they which do wickedly, shall be as stubble; and the day cometh that they must be burned.",
-      "links": []
+      "links": [
+        {
+          "source": "Malachi 4:1",
+          "type": "quotation",
+          "subtype": "close-verbal",
+          "confidence": "certain",
+          "text": "For, behold, the day cometh, that shall burn as an oven; and all the proud, yea, and all that do wickedly, shall be stubble: and the day that cometh shall burn them up, saith the LORD of hosts, that it shall leave them neither root nor branch.",
+          "evidence": {
+            "vocabulary": 5,
+            "syntax": 5,
+            "sequence": 5,
+            "context": 5,
+            "rarity": 5,
+            "attestation": 5
+          },
+          "kjvSpecific": "yes",
+          "mediation": "direct-OT",
+          "recurrenceRefs": [
+            "1 Nephi 22:23",
+            "1 Nephi 22:24",
+            "3 Nephi 25:1"
+          ],
+          "provenance": {
+            "route": "Malachi 4:1 → KJV → Book of Mormon",
+            "other": "'All the proud, yea, and all that do wickedly, shall be stubble' is Malachi 4:1's clause; 1 Nephi 22:15 reads 'all the proud and they which do wickedly, shall be as stubble; and the day cometh that they must be burned'.",
+            "significance": "Malachi 4 governs the end of this chapter as Isaiah 29 governs its middle: 4:1's stubble here and again at 22:23, 4:2's calves of the stall at 22:24. The chronological point is worth stating plainly, since it is the kind of fact this catalogue exists to record: Malachi prophesied roughly two centuries after Lehi is said to have left Jerusalem, and 1 Nephi 22 attributes the words to 'the prophet' without naming him. The Book of Mormon itself resolves the difficulty later, at 3 Nephi 24-25, where the risen Christ dictates Malachi 3-4 to the Nephites because they did not have it."
+          },
+          "note": "'All the proud and they which do wickedly, shall be as stubble; and the day cometh that they must be burned.' Malachi's clause with 'shall be stubble' softened to 'shall be as stubble' and the burning moved into its own clause.",
+          "bibliography": [
+            "Hardy MSI at 1 Ne 22.15 (Malachi 4:1)"
+          ],
+          "status": "consensus",
+          "streams": [
+            "scholarship",
+            "manual"
+          ]
+        }
+      ]
     },
     {
       "id": "22:16",
@@ -13958,14 +14271,87 @@
       "ch": 22,
       "ref": "22:17",
       "text": "Wherefore, he will preserve the righteous by his power, even if it so be that the fulness of his wrath must come, and the righteous be preserved, even unto the destruction of their enemies by fire. Wherefore, the righteous need not fear: for thus saith the prophet, They shall be saved, even if it so be as by fire.",
-      "links": []
+      "links": [
+        {
+          "source": "1 Corinthians 3:15",
+          "type": "quotation",
+          "subtype": "close-verbal",
+          "confidence": "certain",
+          "text": "If any man’s work shall be burned, he shall suffer loss: but he himself shall be saved; yet so as by fire.",
+          "evidence": {
+            "vocabulary": 5,
+            "syntax": 5,
+            "sequence": 5,
+            "context": 5,
+            "rarity": 5,
+            "attestation": 5
+          },
+          "kjvSpecific": "yes",
+          "mediation": "direct-NT",
+          "recurrenceRefs": [
+            "1 Nephi 22:16",
+            "1 Nephi 14:15"
+          ],
+          "provenance": {
+            "route": "1 Corinthians 3:15 → KJV → Book of Mormon",
+            "other": "'So as by fire' occurs in exactly one KJV verse.",
+            "significance": "The attribution is the finding. 1 Nephi 22:17 reads 'for thus saith the prophet, They shall be saved, even if it so be as by fire' — a Pauline clause about the day declaring every man's work, introduced as the words of a prophet, in a chapter whose other prophets are Isaiah and Malachi. Paul's point is that a man whose work burns is himself saved through the fire; the Book of Mormon turns it into the preservation of the righteous from a fire that destroys their enemies, which is nearly the opposite use of the same image. Hardy's apparatus cites the verse, so the connection is not this catalogue's discovery; the reading of what the borrowing does to Paul's sense is."
+          },
+          "note": "Four words from a KJV singleton, quoted as prophecy. Note 22:16's 'the fulness of the wrath of God shall be poured out', which is Revelation 16:1's verb (see 14:15) — so the verse's two halves come from two testaments and both are called 'the prophet'.",
+          "bibliography": [
+            "Hardy MSI at 1 Ne 22.17 (1 Corinthians 3:15)"
+          ],
+          "status": "consensus",
+          "streams": [
+            "scholarship",
+            "manual"
+          ]
+        }
+      ]
     },
     {
       "id": "22:18",
       "ch": 22,
       "ref": "22:18",
       "text": "Behold, my brethren, I say unto you, that these things must shortly come; yea, even blood, and fire, and vapor of smoke must come; and it must needs be upon the face of this earth; and it cometh unto men according to the flesh, if it so be that they will harden their hearts against the Holy One of Israel:",
-      "links": []
+      "links": [
+        {
+          "source": "Acts 2:19",
+          "type": "quotation",
+          "subtype": "close-verbal",
+          "confidence": "certain",
+          "text": "And I will shew wonders in heaven above, and signs in the earth beneath; blood, and fire, and vapour of smoke:",
+          "evidence": {
+            "vocabulary": 5,
+            "syntax": 5,
+            "sequence": 5,
+            "context": 5,
+            "rarity": 5,
+            "attestation": 1
+          },
+          "kjvSpecific": "yes",
+          "mediation": "OT-via-NT",
+          "composite": [
+            "Joel 2:30"
+          ],
+          "recurrenceRefs": [
+            "1 Nephi 19:11"
+          ],
+          "provenance": {
+            "mt": "Joel 2:30 — 'blood, and fire, and PILLARS of smoke'.",
+            "route": "Joel 2:30 → Acts 2:19 → KJV → Book of Mormon",
+            "other": "'Blood, and fire, and vapour' occurs in exactly one KJV verse. Joel 2:30, which Acts 2:19 is quoting, reads 'pillars of smoke'. 1 Nephi 22:18 reads 'blood, and fire, and vapor of smoke' — six words of Acts 2:19 verbatim.",
+            "significance": "The second and stronger of the two Joel-via-Acts cases. At 19:11 the Book of Mormon had 'vapour of darkness', which showed the noun but not the run; here the whole triplet is reproduced exactly as Peter has it at Pentecost, and exactly as Joel does not. Twelve mediation cases now stand in this book, and this is the only one where the same divergence is caught twice."
+          },
+          "note": "'Even blood, and fire, and vapor of smoke must come; and it must needs be upon the face of this earth.' Six words verbatim from a KJV singleton. The 1830 spells 'vapor' here and 'vapour' at 19:11; the KJV has 'vapour'.",
+          "bibliography": [],
+          "status": "novel",
+          "citationsPending": true,
+          "streams": [
+            "manual"
+          ]
+        }
+      ]
     },
     {
       "id": "22:19",
@@ -13979,7 +14365,54 @@
       "ch": 22,
       "ref": "22:20",
       "text": "And the Lord will surely prepare a way for his people, unto the fulfilling of the words of Moses, which he spake, saying: A prophet shall the Lord your God raise up unto you, like unto me; him shall ye hear in all things whatsoever he shall say unto you. And it shall come to pass that all they which will not hear that prophet, shall be cut off from among the people.",
-      "links": []
+      "links": [
+        {
+          "source": "Acts 3:22",
+          "type": "quotation",
+          "subtype": "extended",
+          "confidence": "certain",
+          "text": "For Moses truly said unto the fathers, A prophet shall the Lord your God raise up unto you of your brethren, like unto me; him shall ye hear in all things whatsoever he shall say unto you.",
+          "evidence": {
+            "vocabulary": 5,
+            "syntax": 5,
+            "sequence": 5,
+            "context": 5,
+            "rarity": 5,
+            "attestation": 5
+          },
+          "kjvSpecific": "yes",
+          "mediation": "OT-via-NT",
+          "composite": [
+            "Acts 3:23",
+            "Deuteronomy 18:15",
+            "Deuteronomy 18:18",
+            "Deuteronomy 18:19"
+          ],
+          "recurrenceRefs": [
+            "1 Nephi 10:4",
+            "1 Nephi 10:5",
+            "1 Nephi 2:18",
+            "1 Nephi 4:32",
+            "1 Nephi 17:53-55",
+            "3 Nephi 20:23"
+          ],
+          "provenance": {
+            "mt": "Deuteronomy 18:15 — 'The LORD THY God WILL RAISE UP UNTO THEE A PROPHET from the midst of thee, of thy brethren, like unto me; UNTO HIM YE SHALL HEARKEN.' Deuteronomy 18:19 — 'whosoever WILL NOT HEARKEN UNTO MY WORDS which he shall speak in my name, I WILL REQUIRE IT OF HIM.'",
+            "route": "Deuteronomy 18:15-19 → Acts 3:22-23 → KJV → Book of Mormon",
+            "other": "Every point of divergence between the Old Testament passage and its New Testament quotation falls on the New Testament side. (1) Word order: Acts has 'A prophet shall the Lord your God raise up unto you'; Deuteronomy has 'The LORD thy God will raise up unto thee a Prophet'. The Book of Mormon has Acts's. (2) Person: Acts has 'your God', Deuteronomy 'thy God'. The Book of Mormon has Acts's. (3) The clause 'him shall ye hear in all things whatsoever he shall say unto you' — sixteen words — exists only in Acts 3:22; Deuteronomy 18:15 reads 'unto him ye shall hearken'. The Book of Mormon has it in full. (4) The sanction: Acts 3:23 has 'every soul, which will not hear that prophet, shall be destroyed from among the people'; Deuteronomy 18:19 has 'whosoever will not hearken unto my words … I will require it of him'. The Book of Mormon has Acts's clause, with 'all they which' for 'every soul' and 'cut off' for 'destroyed'.",
+            "significance": "This is the mediation test CONVENTIONS §7 named in advance as the one that must be got right, and it is not close. Twenty-six continuous words of Acts 3:22 are reproduced with a single three-word omission, and the sanction clause of Acts 3:23 follows with one verb changed. Nothing here comes from Deuteronomy 18 except the doctrine. The catalogue can therefore say something precise about the Book of Mormon's central self-authorizing text: the prophet-like-unto-Moses passage reaches it in Peter's wording, not Moses's — which is also how it reached 3:20, 15:18, 19:10 and 22:9. Five separate borrowings from one sermon at Solomon's porch, and this is the largest. On run length alone the passage comfortably exceeds Skousen's sixteen-word threshold and is the strongest candidate in 1 Nephi for one of his thirty-six long quotations; whether he counts it cannot be checked, since the itemized list is unobtainable (PLAN §4.1)."
+          },
+          "note": "'A prophet shall the Lord your God raise up unto you, like unto me; him shall ye hear in all things whatsoever he shall say unto you. And it shall come to pass that all they which will not hear that prophet, shall be cut off from among the people.' The longest continuous quotation in 1 Nephi outside the transcribed Isaiah blocks. The book has been using this passage since 2:18, where 'hearken unto my words' — a KJV singleton at Deuteronomy 18:19 — was applied to Nephi's brothers, and again at 4:32; here it finally quotes the passage, and quotes the New Testament's version of it.",
+          "bibliography": [
+            "Hardy MSI at 1 Ne 22.20 (Deuteronomy 18:15-18; Acts 3:22-23)"
+          ],
+          "status": "consensus",
+          "streams": [
+            "scholarship",
+            "manual"
+          ]
+        }
+      ]
     },
     {
       "id": "22:21",
@@ -14000,28 +14433,184 @@
       "ch": 22,
       "ref": "22:23",
       "text": "for the time speedily shall come, that all churches which are built up to get gain, and all they which are built up to get power over the flesh, and they which are built up to become popular in the eyes of the world, and they which seek the lusts of the flesh and the things of the world, and to do all manner of iniquity; yea, in fine, all they which belong to the kingdom of the Devil, it is they which need fear, and tremble, and quake; it is they which must be brought low in the dust; it is they which must be consumed as stubble: and this is according to the words of the prophet.",
-      "links": []
+      "links": [
+        {
+          "source": "Isaiah 29:4",
+          "type": "allusion",
+          "subtype": "conceptual",
+          "confidence": "moderate",
+          "text": "And thou shalt be brought down, and shalt speak out of the ground, and thy speech shall be low out of the dust, and thy voice shall be, as of one that hath a familiar spirit, out of the ground, and thy speech shall whisper out of the dust.",
+          "evidence": {
+            "vocabulary": 3,
+            "syntax": 3,
+            "sequence": 3,
+            "context": 4,
+            "rarity": 3,
+            "attestation": 5
+          },
+          "kjvSpecific": "uncertain",
+          "mediation": "direct-OT",
+          "composite": [
+            "Malachi 4:1"
+          ],
+          "recurrenceRefs": [
+            "1 Nephi 22:15",
+            "2 Nephi 26:16",
+            "2 Nephi 27:9"
+          ],
+          "provenance": {
+            "route": "Isaiah 29:4 + Malachi 4:1 → KJV → Book of Mormon",
+            "alternative": "'Brought low in the dust' is a commonplace of humiliation language and the Book of Mormon's phrase is not Isaiah's; the case rests on Hardy's apparatus and on Isaiah 29's demonstrated presence at 22:8 and 22:12.",
+            "significance": "Two prophets supply the two halves of the verse's judgment — Isaiah 29:4's bringing low into the dust and Malachi 4:1's stubble — and Hardy's apparatus cites both. Isaiah 29:4 matters elsewhere in the Book of Mormon far more than it does here: 2 Nephi 26:16 and 27:9 read it as a prophecy of the book itself speaking out of the ground. Recorded at moderate because at this verse the contact is thematic."
+          },
+          "note": "'It is they which must be brought low in the dust; it is they which must be consumed as stubble: and this is according to the words of the prophet.' The chapter's inventory of churches 'built up to get gain … to become popular in the eyes of the world' has no KJV source and is the Book of Mormon's own.",
+          "bibliography": [
+            "Hardy MSI at 1 Ne 22.23 (Isaiah 29:4; Malachi 4:1)"
+          ],
+          "status": "consensus",
+          "streams": [
+            "scholarship",
+            "manual"
+          ]
+        }
+      ]
     },
     {
       "id": "22:24",
       "ch": 22,
       "ref": "22:24",
       "text": "And the time cometh speedily, that the righteous must be led up as calves of the stall, and the Holy One of Israel must reign in dominion, and might, and power, and great glory.",
-      "links": []
+      "links": [
+        {
+          "source": "Malachi 4:2",
+          "type": "quotation",
+          "subtype": "close-verbal",
+          "confidence": "certain",
+          "text": "But unto you that fear my name shall the Sun of righteousness arise with healing in his wings; and ye shall go forth, and grow up as calves of the stall.",
+          "evidence": {
+            "vocabulary": 5,
+            "syntax": 4,
+            "sequence": 4,
+            "context": 5,
+            "rarity": 5,
+            "attestation": 5
+          },
+          "kjvSpecific": "yes",
+          "mediation": "direct-OT",
+          "recurrenceRefs": [
+            "1 Nephi 22:15",
+            "3 Nephi 25:2"
+          ],
+          "provenance": {
+            "route": "Malachi 4:2 → KJV → Book of Mormon",
+            "other": "'Calves of the stall' occurs in exactly one KJV verse.",
+            "significance": "Malachi 4:1 and 4:2 are used in order, nine verses apart — the stubble at 22:15 and 22:23, the calves here — which is the pattern this chapter follows with Isaiah 29 as well. The Book of Mormon takes Malachi's image of the righteous released like stalled cattle and attaches it to a reign 'in dominion, and might, and power, and great glory', which is not Malachi's ending. And the whole of Malachi 3-4 is dictated to the Nephites at 3 Nephi 24-25 on the stated grounds that they did not have it, which is the book's own answer to the chronology this verse raises."
+          },
+          "note": "'The righteous must be led up as calves of the stall.' Four words from a KJV singleton, with Malachi's 'grow up' becoming 'led up'.",
+          "bibliography": [
+            "Hardy MSI at 1 Ne 22.24 (Malachi 4:2)"
+          ],
+          "status": "consensus",
+          "streams": [
+            "scholarship",
+            "manual"
+          ]
+        }
+      ]
     },
     {
       "id": "22:25",
       "ch": 22,
       "ref": "22:25",
       "text": "And he gathereth his children from the four quarters of the earth; and he numbereth his sheep, and they know him; and there shall be one fold and one shepherd; and he shall feed his sheep, and in him they shall find pasture.—",
-      "links": []
+      "links": [
+        {
+          "source": "John 10:16",
+          "type": "allusion",
+          "subtype": "strong-verbal",
+          "confidence": "high",
+          "text": "And other sheep I have, which are not of this fold: them also I must bring, and they shall hear my voice; and there shall be one fold, and one shepherd.",
+          "evidence": {
+            "vocabulary": 5,
+            "syntax": 5,
+            "sequence": 5,
+            "context": 5,
+            "rarity": 5,
+            "attestation": 3
+          },
+          "kjvSpecific": "yes",
+          "mediation": "direct-NT",
+          "composite": [
+            "John 10:9",
+            "John 10:14",
+            "Ezekiel 34:23",
+            "Revelation 20:8"
+          ],
+          "recurrenceRefs": [
+            "1 Nephi 13:41",
+            "1 Nephi 15:15",
+            "1 Nephi 19:16",
+            "3 Nephi 15:21"
+          ],
+          "provenance": {
+            "route": "John 10:9-16 → KJV → Book of Mormon",
+            "other": "'One fold, and one shepherd' occurs in exactly one KJV verse. 'Find pasture' occurs in exactly one, John 10:9. Both are in 1 Nephi 22:25.",
+            "significance": "The book's last major borrowing is the verse it has been circling since 13:41, where 'one Shepherd over all the earth' joined Ezekiel 37:24 to 1 Timothy 2:5, and 15:15, where 'the true fold of God' took John's noun. Here the whole clause arrives — 'there shall be one fold and one shepherd' — with John 10:9's pasture and John 10:14's mutual knowledge around it. The choice matters for what this book is: John 10:16's 'other sheep I have, which are not of this fold' is the verse the Book of Mormon exists to be an answer to, and 3 Nephi 15:21 will have the risen Christ say so outright. Nephi's closing exposition assembles the sentence without yet making the claim."
+          },
+          "note": "'He gathereth his children from the four quarters of the earth; and he numbereth his sheep, and they know him; and there shall be one fold and one shepherd; and he shall feed his sheep, and in him they shall find pasture.' Two KJV singletons from one Gospel paragraph, with Revelation 20:8's four quarters (see 19:16) and Ezekiel 34:23's feeding shepherd.",
+          "bibliography": [],
+          "status": "consensus",
+          "citationsPending": true,
+          "streams": [
+            "manual"
+          ]
+        }
+      ]
     },
     {
       "id": "22:26",
       "ch": 22,
       "ref": "22:26",
       "text": "And because of the righteousness of his people, Satan hath no power; wherefore, he cannot be loosed for the space of many years: for he hath no power over the hearts of the people, for they dwell in righteousness, and the Holy One of Israel reigneth.",
-      "links": []
+      "links": [
+        {
+          "source": "Revelation 20:3",
+          "type": "allusion",
+          "subtype": "close-verbal",
+          "confidence": "high",
+          "text": "And cast him into the bottomless pit, and shut him up, and set a seal upon him, that he should deceive the nations no more, till the thousand years should be fulfilled: and after that he must be loosed a little season.",
+          "evidence": {
+            "vocabulary": 4,
+            "syntax": 4,
+            "sequence": 5,
+            "context": 5,
+            "rarity": 4,
+            "attestation": 2
+          },
+          "kjvSpecific": "yes",
+          "mediation": "direct-NT",
+          "composite": [
+            "Revelation 20:7",
+            "Revelation 20:2"
+          ],
+          "recurrenceRefs": [
+            "1 Nephi 14:9-17",
+            "1 Nephi 22:15"
+          ],
+          "provenance": {
+            "route": "Revelation 20:2-7 → KJV → Book of Mormon",
+            "other": "Satan being LOOSED after a bound period is Revelation 20:3 ('he must be loosed a little season') and 20:7 ('Satan shall be loosed out of his prison'). The passive verb is Revelation's alone.",
+            "significance": "The verse depends on the reader knowing that Satan's binding is temporary, which only Revelation 20 supplies: 'he cannot be loosed for the space of many years' is unintelligible without 20:3's little season on the other side of it. What the Book of Mormon changes is the mechanism. In Revelation an angel binds Satan with a chain; here 'because of the righteousness of his people, Satan hath no power … for they dwell in righteousness'. The binding is moral rather than penal, and the loosing is therefore the people's doing rather than God's — a substantive reworking of the source, made by taking one word from it."
+          },
+          "note": "'Satan hath no power; wherefore, he cannot be loosed for the space of many years.' Recorded on the verb and the structure. The chapter has been working Revelation since 22:13-14 (the whore of 17:1), so the apocalypse is demonstrably in hand.",
+          "bibliography": [],
+          "status": "novel",
+          "citationsPending": true,
+          "streams": [
+            "manual"
+          ]
+        }
+      ]
     },
     {
       "id": "22:27",
@@ -14056,7 +14645,46 @@
       "ch": 22,
       "ref": "22:31",
       "text": "Wherefore, ye need not suppose that I and my father are the only ones that have testified, and also taught them. Wherefore, if ye shall be obedient to the commandments, and endure to the end, ye shall be saved at the last day. And thus it is. Amen.",
-      "links": []
+      "links": [
+        {
+          "source": "Matthew 10:22",
+          "type": "allusion",
+          "subtype": "close-verbal",
+          "confidence": "high",
+          "text": "And ye shall be hated of all men for my name’s sake: but he that endureth to the end shall be saved.",
+          "evidence": {
+            "vocabulary": 5,
+            "syntax": 4,
+            "sequence": 4,
+            "context": 5,
+            "rarity": 5,
+            "attestation": 1
+          },
+          "kjvSpecific": "yes",
+          "mediation": "direct-NT",
+          "composite": [
+            "Matthew 24:13",
+            "Mark 13:13"
+          ],
+          "recurrenceRefs": [
+            "1 Nephi 13:37",
+            "1 Nephi 22:5",
+            "2 Nephi 31:20"
+          ],
+          "provenance": {
+            "route": "Matthew 10:22 → KJV → Book of Mormon",
+            "other": "'Endure(th) to/unto the end … shall be saved' occurs in three KJV verses, all the same saying (Matthew 10:22, 24:13, Mark 13:13). 1 Nephi 13:37 has already used it once.",
+            "significance": "The last sentence of 1 Nephi is a New Testament one. 'If ye shall be obedient to the commandments, and endure to the end, ye shall be saved at the last day' closes the book on the endurance saying — and the source verse's first half, 'ye shall be hated of all men for my name's sake', is what 22:5 said would happen to scattered Israel: 'they shall be scattered among all nations, and shall be hated by all men'. Both halves of Matthew 10:22 are in this chapter, twenty-six verses apart, which is a small piece of composition and a fitting close for a catalogue of this kind: the book ends by borrowing, and by borrowing from both ends of one verse."
+          },
+          "note": "'If ye shall be obedient to the commandments, and endure to the end, ye shall be saved at the last day. And thus it is. Amen.' The formula becomes the Book of Mormon's standing condition of salvation (2 Nephi 31:20, Omni 1:26, 3 Nephi 15:9, Moroni 6:3).",
+          "bibliography": [],
+          "status": "consensus",
+          "citationsPending": true,
+          "streams": [
+            "manual"
+          ]
+        }
+      ]
     }
   ]
 }
