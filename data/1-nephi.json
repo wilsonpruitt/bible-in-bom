@@ -2726,9 +2726,10 @@
             "significance": "This is the second stop on a route already established. 1 Nephi 2 built its departure out of Hebrews 11:8-9 — the call, the abandoned inheritance, the tent, the land of promise; 1 Nephi 4 builds its exhortation out of Hebrews 11:29, four verses further down the same chapter. The Book of Mormon is not merely echoing Hebrews 11; it is working through it in order, and using it as an index to the Old Testament episodes it wants."
           },
           "note": "'For he truly spake unto the waters of the Red Sea, and they divided hither and thither, and our fathers came through out of captivity on dry ground, and the armies of Pharaoh did follow and were drowned in the waters of the Red Sea.' Every element of Hebrews 11:29 is here in Hebrews' order: passage through the Red Sea, dry land, the Egyptians following, the drowning. Exodus supplies the narrative but not this compression — Exodus 14 takes nine verses to say it and never uses 'drowned', which is Exodus 15:4's word and Hebrews 11:29's. What Nephi is doing rhetorically is what Hebrews 11 does: reciting a past deliverance as a warrant for present courage.",
-          "bibliography": [],
+          "bibliography": [
+            "Hardy MSI at 1 Ne 4.2 (Exodus 14:21-29, for the Red Sea crossing)"
+          ],
           "status": "novel",
-          "citationsPending": true,
           "streams": [
             "manual"
           ]
@@ -4325,7 +4326,42 @@
       "ch": 7,
       "ref": "7:1",
       "text": "And now I would that ye might know, that after my father Lehi had made an end of prophesying concerning his seed, it came to pass that the Lord spake unto him again, saying, that it was not mete for him, Lehi, that he should take his family into the wilderness alone; but that his sons should take daughters to wife, that they might raise up seed unto the Lord in the land of promise.",
-      "links": []
+      "links": [
+        {
+          "source": "Genesis 2:18",
+          "type": "allusion",
+          "subtype": "close-verbal",
+          "confidence": "high",
+          "text": "And the LORD God said, It is not good that the man should be alone; I will make him an help meet for him.",
+          "evidence": {
+            "vocabulary": 4,
+            "syntax": 4,
+            "sequence": 4,
+            "context": 5,
+            "rarity": 5,
+            "attestation": 1
+          },
+          "kjvSpecific": "yes",
+          "mediation": "direct-OT",
+          "composite": [
+            "Genesis 2:20",
+            "Genesis 38:8",
+            "Matthew 22:24"
+          ],
+          "provenance": {
+            "route": "Genesis 2:18 → KJV → Book of Mormon",
+            "other": "'Help meet' occurs in two KJV verses, Genesis 2:18 and 2:20, and 'should be alone' in one. The 1830 spells the Book of Mormon's word 'mete', which 1920 corrected to 'meet' — the KJV's own spelling and the KJV's own word.",
+            "significance": "The Lord's reason for sending the sons back to Jerusalem is stated in the Lord's own words for making Eve: it is not good, not meet, for the man to be alone. The Book of Mormon has taken the two load-bearing words of Genesis 2:18 — the negation and 'meet' — and rebuilt the sentence around a family rather than a person. The purpose clause then reaches for the levirate formula ('raise up seed', Genesis 38:8 and its three New Testament quotations) and redirects it from a dead brother to the Lord."
+          },
+          "note": "'It was not mete for him, Lehi, that he should take his family into the wilderness alone; but that his sons should take daughters to wife, that they might raise up seed unto the Lord in the land of promise.' The KJV's 'It is not good that the man should be alone; I will make him an help meet for him' supplies the negation, the aloneness and the adjective, and the 1830's 'mete' is the KJV's spelling of it. Note that 'raise up seed' is the levirate phrase of Genesis 38:8, quoted in the New Testament at Matthew 22:24, Mark 12:19 and Luke 20:28 — the Sadducees' resurrection question, whose next verses gave 1 Nephi 6:4 its formula for the God of Abraham.",
+          "bibliography": [],
+          "status": "novel",
+          "citationsPending": true,
+          "streams": [
+            "manual"
+          ]
+        }
+      ]
     },
     {
       "id": "7:2",
@@ -4346,7 +4382,44 @@
       "ch": 7,
       "ref": "7:4",
       "text": "And it came to pass that we went up unto the house of Ishmael, and we did gain favor in the sight of Ishmael, insomuch that we did, speak unto him the words of the Lord.",
-      "links": []
+      "links": [
+        {
+          "source": "Genesis 39:21",
+          "type": "allusion",
+          "subtype": "close-verbal",
+          "confidence": "moderate",
+          "text": "But the LORD was with Joseph, and shewed him mercy, and gave him favour in the sight of the keeper of the prison.",
+          "evidence": {
+            "vocabulary": 4,
+            "syntax": 4,
+            "sequence": 3,
+            "context": 4,
+            "rarity": 3,
+            "attestation": 0
+          },
+          "kjvSpecific": "yes",
+          "mediation": "direct-OT",
+          "composite": [
+            "Exodus 3:21",
+            "Exodus 12:36"
+          ],
+          "recurrenceRefs": [
+            "1 Nephi 5:14"
+          ],
+          "provenance": {
+            "route": "Genesis 39:21 → KJV → Book of Mormon",
+            "alternative": "'Favour in the sight of' occurs in seven KJV verses, including Esther's twice, and is the standard idiom for winning someone over.",
+            "significance": "Two of the seven occurrences carry weight here. Genesis 39:21 is Joseph — the ancestor this family has just discovered itself to have (5:14) — winning favour in a foreign house while a prisoner. Exodus 3:21 and 12:36 are the LORD giving Israel favour in the sight of the Egyptians so that they may leave the country carrying what they need. 1 Nephi 7:4 is a party from the wilderness winning over a Jerusalem household in order to take it out of the city; both senses fit, and the Book of Mormon is doing at 7:4 what the Exodus verses do and doing it in Joseph's phrase."
+          },
+          "note": "'We did gain favor in the sight of Ishmael.' The idiom is common enough that the link rests on context rather than rarity, and the context is thick: the chapter before has just established the family's descent from Joseph, and Joseph is the KJV's figure for gaining favour in a household not one's own. Verse 5 then adds the softened heart, which is the Book of Mormon's own answer to Exodus's hardened one.",
+          "bibliography": [],
+          "status": "novel",
+          "citationsPending": true,
+          "streams": [
+            "manual"
+          ]
+        }
+      ]
     },
     {
       "id": "7:5",
@@ -4367,14 +4440,87 @@
       "ch": 7,
       "ref": "7:7",
       "text": "And it came to pass in the which rebellion, they were desirous to return unto the land of Jerusalem.",
-      "links": []
+      "links": [
+        {
+          "source": "Ruth 1:7",
+          "type": "allusion",
+          "subtype": "conceptual",
+          "confidence": "moderate",
+          "text": "Wherefore she went forth out of the place where she was, and her two daughters in law with her; and they went on the way to return unto the land of Judah.",
+          "evidence": {
+            "vocabulary": 4,
+            "syntax": 4,
+            "sequence": 5,
+            "context": 5,
+            "rarity": 4,
+            "attestation": 0
+          },
+          "kjvSpecific": "yes",
+          "mediation": "direct-OT",
+          "composite": [
+            "Ruth 1:8",
+            "Ruth 1:14",
+            "Ruth 1:15"
+          ],
+          "recurrenceRefs": [
+            "1 Nephi 4:35",
+            "1 Nephi 7:19"
+          ],
+          "provenance": {
+            "route": "Ruth 1 → KJV → Book of Mormon",
+            "other": "'Return unto the land of' occurs in four KJV verses (Genesis 31:3, 31:13, Joshua 1:15, Ruth 1:7). Only Ruth 1:7 has daughters travelling with a family and facing the choice whether to go back.",
+            "significance": "Ruth 1 is the KJV's one narrative about daughters attached by marriage to a migrating household, some of whom turn back and some of whom cleave. 1 Nephi 7:6-7 divides Ishmael's daughters the same way — two rebel and are 'desirous to return unto the land of Jerusalem', three stay — and at 7:19 it is one of the daughters who intervenes to save Nephi's life. The book has already used Ruth's oath of attachment for Zoram at 4:35; it is using her narrative here."
+          },
+          "note": "'They were desirous to return unto the land of Jerusalem.' The four-word phrase is one of four KJV occurrences, and the situation selects Ruth's: a household leaving its land, with in-law daughters who must choose. Orpah's return is the exact shape of what two of Ishmael's daughters attempt, and the chapter resolves as Ruth 1 does, by some of them cleaving.",
+          "bibliography": [],
+          "status": "novel",
+          "citationsPending": true,
+          "streams": [
+            "machine-ngram",
+            "manual"
+          ]
+        }
+      ]
     },
     {
       "id": "7:8",
       "ch": 7,
       "ref": "7:8",
       "text": "And now I, Nephi, being grieved for the hardness of their hearts, therefore I spake unto them, saying; yea, even unto Laman and unto Lemuel, behold, thou art mine elder brethren; and how is it that ye are so hard in your hearts, and so blind in your minds, that ye have need that I, your younger brother, should speak unto you, yea, and set an example for you?",
-      "links": []
+      "links": [
+        {
+          "source": "Mark 3:5",
+          "type": "quotation",
+          "subtype": "close-verbal",
+          "confidence": "certain",
+          "text": "And when he had looked round about on them with anger, being grieved for the hardness of their hearts, he saith unto the man, Stretch forth thine hand. And he stretched it out: and his hand was restored whole as the other.",
+          "evidence": {
+            "vocabulary": 5,
+            "syntax": 5,
+            "sequence": 5,
+            "context": 5,
+            "rarity": 5,
+            "attestation": 2
+          },
+          "kjvSpecific": "yes",
+          "mediation": "direct-NT",
+          "recurrenceRefs": [
+            "1 Nephi 2:18"
+          ],
+          "provenance": {
+            "route": "Mark 3:5 → KJV → Book of Mormon",
+            "other": "'Hardness of their hearts' occurs in exactly one KJV verse. 1 Nephi 7:8 reproduces seven consecutive words of it, including the preposition — 'being grieved for the hardness of their hearts' — where 1 Nephi 2:18 had 'because of'.",
+            "significance": "The second occurrence is closer than the first, which settles the case. At 2:18 the clause was 'being grieved because of the hardness of their hearts', which a sceptic could call convergent phrasing; here it is Mark's exact seven words in Mark's exact order, and the two Book of Mormon verses describe the same two brothers. And in both, Mark's context supplies the reading: it is Jesus, in the synagogue, grieved at men who are watching to see whether he will do something they can accuse him of. Verse 16 has them bind Nephi with cords."
+          },
+          "note": "'And now I, Nephi, being grieved for the hardness of their hearts.' Verbatim from the only KJV verse in which the phrase exists, and one of the highest-ranked machine candidates in the book (rarity 4.50, an eight-word window). This is the one link in 1 Nephi 1-7 recorded at 'certain': the clause is unique in the English Bible, it is reproduced without alteration, and it has already appeared once in the same book about the same people. The rest of the verse continues the borrowing loosely — 'so blind in your minds' is 2 Corinthians 4:4's 'blinded the minds', and the anaphora of 7:9-12 ('How is it that ye …', four times) is the shape of Jesus's chain of reproaches at Mark 8:17-21.",
+          "bibliography": [],
+          "status": "novel",
+          "citationsPending": true,
+          "streams": [
+            "machine-ngram"
+          ]
+        }
+      ]
     },
     {
       "id": "7:9",
@@ -4388,21 +4534,121 @@
       "ch": 7,
       "ref": "7:10",
       "text": "How is it that ye have forgotten that ye have seen an angel of the Lord?",
-      "links": []
+      "links": [
+        {
+          "source": "Judges 6:22",
+          "type": "allusion",
+          "subtype": "close-verbal",
+          "confidence": "moderate",
+          "text": "And when Gideon perceived that he was an angel of the LORD, Gideon said, Alas, O LORD God! for because I have seen an angel of the LORD face to face.",
+          "evidence": {
+            "vocabulary": 4,
+            "syntax": 4,
+            "sequence": 3,
+            "context": 4,
+            "rarity": 5,
+            "attestation": 0
+          },
+          "kjvSpecific": "yes",
+          "mediation": "direct-OT",
+          "recurrenceRefs": [
+            "1 Nephi 3:29"
+          ],
+          "provenance": {
+            "route": "Judges 6:22 → KJV → Book of Mormon",
+            "other": "'Have seen an angel of the LORD' occurs in exactly one KJV verse.",
+            "significance": "Gideon's reaction to having seen the angel is terror at the consequences of the sight; Laman and Lemuel's, on Nephi's account, is to forget it. The rebuke works by the contrast the source supplies — in the KJV the sight of an angel is the sort of thing that makes a man cry 'Alas, O LORD God!', and these two have mislaid it in seven verses."
+          },
+          "note": "'How is it that ye have forgotten that ye have seen an angel of the Lord?' The seven-word clause exists once in the KJV. The angel in question is the one of 3:29, and the rebuke turns on the KJV's own valuation of such an experience rather than on Gideon's story in particular.",
+          "bibliography": [],
+          "status": "novel",
+          "citationsPending": true,
+          "streams": [
+            "machine-ngram"
+          ]
+        }
+      ]
     },
     {
       "id": "7:11",
       "ch": 7,
       "ref": "7:11",
       "text": "Yea, and how is it that ye have forgotten how great things the Lord hath done for us, in delivering us out of the hands of Laban, and also that we should obtain the record?",
-      "links": []
+      "links": [
+        {
+          "source": "Mark 5:19",
+          "type": "quotation",
+          "subtype": "close-verbal",
+          "confidence": "high",
+          "text": "Howbeit Jesus suffered him not, but saith unto him, Go home to thy friends, and tell them how great things the Lord hath done for thee, and hath had compassion on thee.",
+          "evidence": {
+            "vocabulary": 5,
+            "syntax": 5,
+            "sequence": 5,
+            "context": 4,
+            "rarity": 5,
+            "attestation": 0
+          },
+          "kjvSpecific": "yes",
+          "mediation": "direct-NT",
+          "composite": [
+            "Mark 5:20"
+          ],
+          "provenance": {
+            "route": "Mark 5:19 → KJV → Book of Mormon",
+            "other": "'How great things' occurs in five KJV verses (1 Samuel 12:24, Mark 5:19, 5:20, Luke 8:39, Acts 9:16). Only Mark 5:19 reads 'how great things the LORD hath done for'. Luke 8:39, the parallel, reads 'how great things GOD hath done unto thee'.",
+            "significance": "This is a first-edition case of the kind §8 exists for, and the cleanest one so far. The 1830 reads 'how great things the Lord hath done for us', which is Mark 5:19 word for word. The 1920 edition changed 'how' to 'what' — 'what great things the Lord hath done for us' — which is not in the KJV at all. So the first edition preserves an eight-word quotation of Mark and every subsequent edition has partly erased it. The catalogue can only see this because it runs on the 1830 text."
+          },
+          "note": "'How is it that ye have forgotten how great things the Lord hath done for us, in delivering us out of the hands of Laban.' Eight words of Mark 5:19, in order, in the 1830. Mark's sentence is the commission given to the healed Gerasene — go and tell how great things the Lord hath done for thee — and Nephi is using it as a reproach for not having told, or not having remembered. Below Skousen's threshold and not one of his quotations; catalogued as a quotation on the §2 rule. The 1830/1920 divergence is recorded under significance and is the reason this link would be invisible in the current text.",
+          "bibliography": [],
+          "status": "novel",
+          "citationsPending": true,
+          "streams": [
+            "machine-ngram"
+          ]
+        }
+      ]
     },
     {
       "id": "7:12",
       "ch": 7,
       "ref": "7:12",
       "text": "Yea, and how is it that ye have forgotten that the Lord is able to do all things, according to his will, for the children of men, if it so be that they exercise faith in him; wherefore, let us be faithful in him.",
-      "links": []
+      "links": [
+        {
+          "source": "Mark 9:23",
+          "type": "echo",
+          "subtype": "probable",
+          "confidence": "moderate",
+          "text": "Jesus said unto him, If thou canst believe, all things are possible to him that believeth.",
+          "evidence": {
+            "vocabulary": 3,
+            "syntax": 3,
+            "sequence": 4,
+            "context": 4,
+            "rarity": 3,
+            "attestation": 0
+          },
+          "kjvSpecific": "uncertain",
+          "mediation": "direct-NT",
+          "composite": [
+            "Matthew 19:26",
+            "Mark 10:27"
+          ],
+          "provenance": {
+            "route": "Mark 9:23 → KJV → Book of Mormon",
+            "alternative": "Divine omnipotence conditioned on faith is a commonplace; Daniel 3:17 ('our God … is able to deliver us'), already used at 1 Nephi 4:3, would account for the ability clause on its own.",
+            "significance": "What Mark 9:23 adds to the ability formula is the condition, and the condition is what 7:12 has: 'the Lord is able to do all things … if it so be that they exercise faith in him.' In Mark the sentence is addressed to a father whose son the disciples could not heal, and the answer is 'Lord, I believe; help thou mine unbelief' — the exact posture Nephi is trying to argue his brothers into."
+          },
+          "note": "'The Lord is able to do all things, according to his will, for the children of men, if it so be that they exercise faith in him.' Ability plus a faith condition; the KJV's version is Mark 9:23, with Matthew 19:26 and Mark 10:27 supplying the unconditioned form. Recorded as an echo because no phrase survives, and at moderate because the conditional is the distinctive element and it is Mark's.",
+          "bibliography": [],
+          "status": "novel",
+          "citationsPending": true,
+          "streams": [
+            "manual"
+          ]
+        }
+      ]
     },
     {
       "id": "7:13",
@@ -4416,56 +4662,332 @@
       "ch": 7,
       "ref": "7:14",
       "text": "For, behold, the spirit of the Lord ceaseth soon to strive with them; for behold, they have rejected the prophets, and Jeremiah have they cast into prison. And they have sought to take away the life of my father, insomuch that they have driven him out of the land.",
-      "links": []
+      "links": [
+        {
+          "source": "Genesis 6:3",
+          "type": "allusion",
+          "subtype": "strong-verbal",
+          "confidence": "high",
+          "text": "And the LORD said, My spirit shall not always strive with man, for that he also is flesh: yet his days shall be an hundred and twenty years.",
+          "evidence": {
+            "vocabulary": 5,
+            "syntax": 4,
+            "sequence": 4,
+            "context": 5,
+            "rarity": 5,
+            "attestation": 1
+          },
+          "kjvSpecific": "yes",
+          "mediation": "direct-OT",
+          "provenance": {
+            "route": "Genesis 6:3 → KJV → Book of Mormon",
+            "other": "The collocation of the divine spirit with the verb 'strive' occurs in exactly one KJV verse.",
+            "significance": "Genesis 6:3 is the sentence that begins the flood — the withdrawal of divine forbearance, with a term of years attached, immediately before the destruction of everyone outside one family's boat. 1 Nephi 7:14 uses it to announce the destruction of Jerusalem, in a book whose one family is about to leave in a boat of its own (18:8). The typology is not stated and does not have to be; the borrowed clause carries the flood with it."
+          },
+          "note": "'For, behold, the spirit of the Lord ceaseth soon to strive with them.' The KJV joins God's spirit to striving once, at Genesis 6:3, and the Book of Mormon reproduces the collocation with the temporal qualifier intact — 'not always' becoming 'ceaseth soon'. The rest of the verse is contemporary Jerusalem rather than allusion: the prophets rejected, Jeremiah in prison (Jeremiah 32:2, 37:15, 38:6), and Lehi driven out.",
+          "bibliography": [
+            "Hardy MSI at 1 Ne 7.14 (Jeremiah 32:1-2, for the imprisonment of Jeremiah)"
+          ],
+          "status": "novel",
+          "streams": [
+            "manual"
+          ]
+        }
+      ]
     },
     {
       "id": "7:15",
       "ch": 7,
       "ref": "7:15",
       "text": "Now, behold, I say unto you, that if ye will return unto Jerusalem, ye shall also perish with them. And now, if ye have choice, go up to the land, and remember the words which I speak unto you, that if ye go, ye will also perish; for thus the spirit of the Lord constraineth me that I should speak.",
-      "links": []
+      "links": [
+        {
+          "source": "Joshua 24:15",
+          "type": "echo",
+          "subtype": "probable",
+          "confidence": "moderate",
+          "text": "And if it seem evil unto you to serve the LORD, choose you this day whom ye will serve; whether the gods which your fathers served that were on the other side of the flood, or the gods of the Amorites, in whose land ye dwell: but as for me and my house, we will serve the LORD.",
+          "evidence": {
+            "vocabulary": 2,
+            "syntax": 3,
+            "sequence": 4,
+            "context": 5,
+            "rarity": 3,
+            "attestation": 0
+          },
+          "kjvSpecific": "no",
+          "mediation": "direct-OT",
+          "provenance": {
+            "route": "Joshua 24:15 → KJV → Book of Mormon",
+            "alternative": "Offering an audience a free choice with a stated consequence is the standard shape of a covenant address and needs no single source.",
+            "significance": "Joshua 24:15 is the KJV's set-piece of the freely offered alternative: choose, and here is where I stand. 1 Nephi 7:15 makes the same offer with the consequence attached — 'if ye have choice, go up to the land … if ye go, ye will also perish' — and then, like Joshua, declines to soften it. The clause that follows is the giveaway that this is a formal speech and not a quarrel: 'thus the spirit of the Lord constraineth me that I should speak.'"
+          },
+          "note": "Proposed on form. Nothing verbal is shared; what is shared is the covenant-address structure of a genuine choice with an announced outcome, which the KJV states most memorably at Joshua 24:15. Recorded at moderate because 1 Nephi 7:15 does the same work in the same order and because the chapter's argument has otherwise been Deuteronomic since verse 9.",
+          "whyNot": "No shared wording at all, and the two speeches differ at the centre: Joshua's choice is between gods, Nephi's is between two destinations. A reader could decline this without losing anything the chapter needs.",
+          "bibliography": [],
+          "status": "novel",
+          "citationsPending": true,
+          "streams": [
+            "manual"
+          ]
+        }
+      ]
     },
     {
       "id": "7:16",
       "ch": 7,
       "ref": "7:16",
       "text": "And it came to pass that when I, Nephi, had spoken these words unto my brethren, they were angry with me. And it came to pass that they did lay their hands upon me; for, behold, they were exceeding wroth; and they did bind me with cords, for they sought to take away my life, that they might leave me in the wilderness, to be devoured by wild beasts.",
-      "links": []
+      "links": [
+        {
+          "source": "Genesis 37:20",
+          "type": "allusion",
+          "subtype": "conceptual",
+          "confidence": "high",
+          "text": "Come now therefore, and let us slay him, and cast him into some pit, and we will say, Some evil beast hath devoured him: and we shall see what will become of his dreams.",
+          "evidence": {
+            "vocabulary": 3,
+            "syntax": 3,
+            "sequence": 5,
+            "context": 5,
+            "rarity": 4,
+            "attestation": 2
+          },
+          "kjvSpecific": "no",
+          "mediation": "direct-OT",
+          "composite": [
+            "Genesis 37:33",
+            "Genesis 37:24"
+          ],
+          "recurrenceRefs": [
+            "1 Nephi 3:2",
+            "1 Nephi 5:14",
+            "1 Nephi 7:19",
+            "1 Nephi 7:21"
+          ],
+          "provenance": {
+            "route": "Genesis 37 → KJV → Book of Mormon",
+            "significance": "The Joseph cycle, running since the dream formula at 3:2 and made explicit by the genealogy at 5:14, arrives at its central scene. Brothers seize the younger, leave him in a wilderness place, and intend a wild beast to account for the body — 'we will say, Some evil beast hath devoured him.' 1 Nephi 7:16 states the plan as fact rather than as cover story: they bound him 'that they might leave me in the wilderness, to be devoured by wild beasts'. Genesis 37 also supplies the intercession at 7:19 (Reuben) and the forgiveness at 7:20-21 (Genesis 50), so the chapter runs the whole arc from pit to reconciliation in six verses."
+          },
+          "note": "'They did bind me with cords, for they sought to take away my life, that they might leave me in the wilderness, to be devoured by wild beasts.' No phrase is reproduced, but the plan is Genesis 37:20's in every element, including the beast — which in Genesis is a lie the brothers rehearse and here is the method itself. The elder-brothers-against-the-dreamer frame has been in place since 2:11, and this is the scene it was pointing at.",
+          "bibliography": [],
+          "status": "consensus",
+          "citationsPending": true,
+          "streams": [
+            "manual"
+          ]
+        }
+      ]
     },
     {
       "id": "7:17",
       "ch": 7,
       "ref": "7:17",
       "text": "But it came to pass that I prayed unto the Lord, saying: O Lord, according to my faith which is in thee, wilt thou deliver me from the hands of my brethren; yea, even give me strength that I may burst these bands with which I am bound.",
-      "links": []
+      "links": [
+        {
+          "source": "Judges 16:28",
+          "type": "allusion",
+          "subtype": "conceptual",
+          "confidence": "high",
+          "text": "And Samson called unto the LORD, and said, O Lord God, remember me, I pray thee, and strengthen me, I pray thee, only this once, O God, that I may be at once avenged of the Philistines for my two eyes.",
+          "evidence": {
+            "vocabulary": 3,
+            "syntax": 4,
+            "sequence": 5,
+            "context": 5,
+            "rarity": 4,
+            "attestation": 0
+          },
+          "kjvSpecific": "uncertain",
+          "mediation": "direct-OT",
+          "composite": [
+            "Judges 15:13",
+            "Judges 15:14"
+          ],
+          "recurrenceRefs": [
+            "1 Nephi 7:18"
+          ],
+          "provenance": {
+            "route": "Judges 15-16 → KJV → Book of Mormon",
+            "significance": "A bound man prays for strength and his bonds come off. That is Samson's story twice over — cords at Judges 15:13-14, and the prayer for strength at 16:28 — and 1 Nephi 7:17-18 runs both halves in two verses. See 7:18 for what makes the borrowing demonstrable rather than merely apt."
+          },
+          "note": "'Wilt thou deliver me from the hands of my brethren; yea, even give me strength that I may burst these bands with which I am bound.' The prayer is Samson's petition of Judges 16:28 with the vengeance removed, and the situation is Judges 15:13, where Samson is bound with cords by his own countrymen and handed over. Recorded at high on the strength of the verbal case at the next verse.",
+          "bibliography": [],
+          "status": "novel",
+          "citationsPending": true,
+          "streams": [
+            "manual"
+          ]
+        }
+      ]
     },
     {
       "id": "7:18",
       "ch": 7,
       "ref": "7:18",
       "text": "And it came to pass that when I had said these words, behold, the bands were loosed from off my hands and feet, and I stood before my brethren, and I spake unto them again.",
-      "links": []
+      "links": [
+        {
+          "source": "Judges 15:14",
+          "type": "quotation",
+          "subtype": "close-verbal",
+          "confidence": "high",
+          "text": "And when he came unto Lehi, the Philistines shouted against him: and the Spirit of the LORD came mightily upon him, and the cords that were upon his arms became as flax that was burnt with fire, and his bands loosed from off his hands.",
+          "evidence": {
+            "vocabulary": 5,
+            "syntax": 5,
+            "sequence": 5,
+            "context": 5,
+            "rarity": 5,
+            "attestation": 0
+          },
+          "kjvSpecific": "yes",
+          "mediation": "direct-OT",
+          "composite": [
+            "Judges 15:13",
+            "Judges 16:28"
+          ],
+          "provenance": {
+            "route": "Judges 15:14 → KJV → Book of Mormon",
+            "other": "'Bands loosed from off his hands' occurs in exactly one KJV verse. So does the name Lehi — or rather, the name Lehi occurs in exactly three, Judges 15:9, 15:14 and 15:19, and they are the only three verses in the entire King James Bible where the word appears.",
+            "significance": "This is the finding of the chapter and possibly of the book. 1 Nephi 7:18 reproduces the distinctive clause of Judges 15:14 — a bound man's bands loosed from off his hands after the Spirit comes on him — and Judges 15:14 opens with the words 'And when he came unto Lehi.' The one KJV verse the Book of Mormon demonstrably borrows here is one of the only three KJV verses containing the name of the Book of Mormon's founding patriarch. Judges 15 also supplies, at 15:19, God cleaving a hollow place so that water comes out for a man about to perish of thirst, 'which is in Lehi unto this day' — and 1 Nephi 2:6-9 puts Lehi at a river in a valley and 1 Nephi 17:29 has Moses smite the rock for water. The catalogue records the coincidence and does not explain it; explaining it is a different kind of book. But no reader of this project should have to find it for themselves."
+          },
+          "note": "'The bands were loosed from off my hands and feet.' Six words reproducing the sole KJV occurrence, with 'his' changed to 'my' and 'and feet' added. The whole scene is Judges 15:13-14: bound with cords by his own people, and freed when the Spirit comes. Below Skousen's sixteen-word threshold and not one of his quotations. The observation about the name — Lehi is a KJV word only in Judges 15, and this is Judges 15 — belongs to the provenance note above and is stated there as an observation, not an argument.",
+          "bibliography": [],
+          "status": "novel",
+          "citationsPending": true,
+          "streams": [
+            "manual"
+          ]
+        }
+      ]
     },
     {
       "id": "7:19",
       "ch": 7,
       "ref": "7:19",
       "text": "And it came to pass that they were angry with me again, and sought to lay hands upon me; but, behold, one of the daughters of Ishmael, yea, and also her mother, and one of the sons of Ishmael did plead with my brethren, insomuch that they did soften their hearts; and they did cease striving to take away my life.",
-      "links": []
+      "links": [
+        {
+          "source": "Genesis 37:21",
+          "type": "allusion",
+          "subtype": "conceptual",
+          "confidence": "high",
+          "text": "And Reuben heard it, and he delivered him out of their hands; and said, Let us not kill him.",
+          "evidence": {
+            "vocabulary": 3,
+            "syntax": 3,
+            "sequence": 5,
+            "context": 5,
+            "rarity": 3,
+            "attestation": 1
+          },
+          "kjvSpecific": "no",
+          "mediation": "direct-OT",
+          "composite": [
+            "Genesis 37:26",
+            "Genesis 37:27"
+          ],
+          "recurrenceRefs": [
+            "1 Nephi 7:16",
+            "1 Nephi 7:20"
+          ],
+          "provenance": {
+            "route": "Genesis 37:21-27 → KJV → Book of Mormon",
+            "significance": "Genesis 37 does not let the murder happen: Reuben intervenes, then Judah, and the brother is sold rather than killed. 1 Nephi 7:19 supplies the same structural mercy from a different quarter — one of Ishmael's daughters, her mother, and one of his sons — which redistributes the Genesis role to the in-laws and to a woman. The intercession is what makes the reconciliation of 7:20-21 possible, exactly as it is in Genesis."
+          },
+          "note": "'One of the daughters of Ishmael, yea, and also her mother, and one of the sons of Ishmael did plead with my brethren, insomuch that they did soften their hearts.' The Joseph plot requires an intercessor at precisely this point and the Book of Mormon provides three. Nothing verbal is shared; the case is the position of the scene in a sequence the chapter has already committed to at 7:16.",
+          "bibliography": [],
+          "status": "novel",
+          "citationsPending": true,
+          "streams": [
+            "manual"
+          ]
+        }
+      ]
     },
     {
       "id": "7:20",
       "ch": 7,
       "ref": "7:20",
       "text": "And it came to pass that they were sorrowful, because of their wickedness, insomuch that they did bow down before me, and did plead with me, that I would forgive them of the thing that they had done against me.",
-      "links": []
+      "links": [
+        {
+          "source": "Genesis 50:17",
+          "type": "allusion",
+          "subtype": "conceptual",
+          "confidence": "high",
+          "text": "So shall ye say unto Joseph, Forgive, I pray thee now, the trespass of thy brethren, and their sin; for they did unto thee evil: and now, we pray thee, forgive the trespass of the servants of the God of thy father. And Joseph wept when they spake unto him.",
+          "evidence": {
+            "vocabulary": 3,
+            "syntax": 4,
+            "sequence": 5,
+            "context": 5,
+            "rarity": 4,
+            "attestation": 2
+          },
+          "kjvSpecific": "no",
+          "mediation": "direct-OT",
+          "composite": [
+            "Genesis 50:18",
+            "Genesis 42:6",
+            "Genesis 50:21"
+          ],
+          "recurrenceRefs": [
+            "1 Nephi 7:16",
+            "1 Nephi 7:21"
+          ],
+          "provenance": {
+            "route": "Genesis 50:17-21 → KJV → Book of Mormon",
+            "significance": "The Joseph arc closes in the same chapter it opened. Brothers who intended his death bow before him and beg forgiveness for 'the thing that they had done against me', which is Genesis 50:17's 'the trespass of thy brethren … for they did unto thee evil'; the prostration is Genesis 50:18 and 42:6, 'his brethren also went and fell down before his face'; and the forgiveness is Genesis 50:21, where Joseph comforts them and speaks kindly. 1 Nephi 7 has run pit, intercession, reconciliation — Genesis 37 and 50 — inside five verses, which is the whole Joseph novella compressed into an episode of a journey."
+          },
+          "note": "'They did bow down before me, and did plead with me, that I would forgive them of the thing that they had done against me.' The scene is Genesis 50:17-18 with the roles held constant. What the Book of Mormon does not take is Joseph's theology of it — 'ye thought evil against me; but God meant it unto good' (50:20) — which would have justified the brothers' hostility as providential. Nephi's answer at 7:21 is simply forgiveness, and it comes in Luke's words rather than Genesis's.",
+          "bibliography": [],
+          "status": "consensus",
+          "citationsPending": true,
+          "streams": [
+            "manual"
+          ]
+        }
+      ]
     },
     {
       "id": "7:21",
       "ch": 7,
       "ref": "7:21",
       "text": "And it came to pass that I did frankly forgive them all that they had done, and I did exhort them that they would pray unto the Lord their God, for forgiveness. And it came to pass that they did so. And after that they had done praying unto the Lord, we did again travel on our journey toward the tent of our father.",
-      "links": []
+      "links": [
+        {
+          "source": "Luke 7:42",
+          "type": "allusion",
+          "subtype": "close-verbal",
+          "confidence": "high",
+          "text": "And when they had nothing to pay, he frankly forgave them both. Tell me therefore, which of them will love him most?",
+          "evidence": {
+            "vocabulary": 5,
+            "syntax": 4,
+            "sequence": 3,
+            "context": 4,
+            "rarity": 5,
+            "attestation": 0
+          },
+          "kjvSpecific": "yes",
+          "mediation": "direct-NT",
+          "provenance": {
+            "route": "Luke 7:42 → KJV → Book of Mormon",
+            "other": "'Frankly' occurs in exactly one KJV verse, and it occurs there as 'frankly forgave'. The adverb is used nowhere else in the English Bible.",
+            "significance": "A word that exists once in the King James Bible turns up in the Book of Mormon attached to the same verb. Luke 7:42 is the parable of the two debtors, told to a Pharisee to explain why a forgiven woman loves much — 'to whom little is forgiven, the same loveth little.' Nephi forgives brothers who had just bound him to die, and the adverb he is given for it is the one Jesus uses for a creditor who cancels a debt neither man could pay. The Genesis 50 scene supplies the situation and Luke 7:42 supplies the single most distinctive word in the sentence."
+          },
+          "note": "'I did frankly forgive them all that they had done.' 'Frankly' is a KJV hapax and it is bound to this verb in its one occurrence, which makes the borrowing about as demonstrable as a single word can be. Recorded as an allusion rather than a quotation because only the adverb-and-verb survive; the surrounding clause is Genesis 50's (see 7:20).",
+          "bibliography": [],
+          "status": "novel",
+          "citationsPending": true,
+          "streams": [
+            "manual"
+          ]
+        }
+      ]
     },
     {
       "id": "7:22",

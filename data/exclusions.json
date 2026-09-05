@@ -917,6 +917,146 @@
         "machine-ngram"
       ],
       "reason": "Four function words. The verse's source is Galatians 1:10."
+    },
+    {
+      "bomRef": "1 Nephi 7:1",
+      "source": "1 Samuel 10:13",
+      "category": "wrong-sense",
+      "sharedText": "had made an end of prophesying",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "A six-word run whose phrase, 'made an end of prophesying', occurs in exactly one KJV verse — so the rarity is real and the sense is not. 1 Samuel 10:13 is Saul among the prophets in an ecstatic fit, the incident that produces the proverb 'Is Saul also among the prophets?'; the phrase there marks the end of a seizure. Lehi at 7:1 has finished delivering a prophecy about his seed. The Book of Mormon uses 'made an end of' as an ordinary narrative transition dozens of times, which is the better explanation."
+    },
+    {
+      "bomRef": "1 Nephi 7:1",
+      "source": "Deuteronomy 29:6",
+      "category": "formulaic",
+      "sharedText": "that ye might know that",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "A purpose clause. Five function words."
+    },
+    {
+      "bomRef": "1 Nephi 7:4",
+      "source": "Numbers 22:7",
+      "category": "formulaic",
+      "sharedText": "unto him the words of",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "The elders of Moab bringing Balak's words to Balaam. A speech-delivery formula; the following noun differs ('of Balak' / 'of the Lord')."
+    },
+    {
+      "bomRef": "1 Nephi 7:8",
+      "source": "Exodus 2:18",
+      "category": "formulaic",
+      "sharedText": "how is it that ye are",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "Reuel asking his daughters why they are home early. 'How is it that ye …' opens seven KJV verses and is the interrogative frame of Jesus's reproaches at Mark 4:40, 8:21 and Luke 12:56 — which is the register 1 Nephi 7:9-12 is working in, four times over. Recorded as a formula rather than a link because no one of the seven can be identified as the source."
+    },
+    {
+      "bomRef": "1 Nephi 7:9",
+      "source": "2 Kings 22:13",
+      "category": "formulaic",
+      "sharedText": "have not hearkened unto the",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "Josiah on the found book. A negated hearkening formula; 2 Kings 22 is a genuine source in this book but at 4:16, where the subject is the recovery of the law itself."
+    },
+    {
+      "bomRef": "1 Nephi 7:12",
+      "source": "2 Chronicles 25:9",
+      "category": "formulaic",
+      "sharedText": "the LORD is able to",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "Already excluded at 4:3 for the same five words. The ability formula carries no source; what carries one at 7:12 is the faith condition, which is Mark 9:23's."
+    },
+    {
+      "bomRef": "1 Nephi 7:13",
+      "source": "Leviticus 8:36",
+      "category": "formulaic",
+      "sharedText": "all things which the LORD",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "'Aaron and his sons did all things which the LORD commanded.' A totality formula."
+    },
+    {
+      "bomRef": "1 Nephi 7:15",
+      "source": "Galatians 5:2",
+      "category": "formulaic",
+      "sharedText": "say unto you that if ye",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "'Behold, I Paul say unto you, that if ye be circumcised.' A six-word run of announcement-plus-conditional, and both texts issue a warning — but 'behold, I say unto you' is one of the commonest openings in the Gospels and the conditional is bare syntax."
+    },
+    {
+      "bomRef": "1 Nephi 7:16",
+      "source": "Job 42:7",
+      "category": "formulaic",
+      "sharedText": "had spoken these words unto",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "The same Job 42:7 candidate flagged in the chapter 1 pilot as the model of rare-looking boilerplate (CONVENTIONS §9). Still boilerplate."
+    },
+    {
+      "bomRef": "1 Nephi 7:16",
+      "source": "Acts 22:17",
+      "category": "formulaic",
+      "sharedText": "and it came to pass that when I",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "An eight-word hinge. Recurs at 7:18 and is passed over there."
+    },
+    {
+      "bomRef": "1 Nephi 7:17",
+      "source": "Psalm 7:8",
+      "category": "formulaic",
+      "sharedText": "O LORD according to my",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "'Judge me, O LORD, according to my righteousness.' The Book of Mormon's noun is 'faith', not 'righteousness', and the nearer parallel for a petition answered according to faith is Matthew 9:29, 'According to your faith be it unto you' — itself too generic to catalogue."
+    },
+    {
+      "bomRef": "1 Nephi 7:19",
+      "source": "Esther 2:21",
+      "category": "formulaic",
+      "sharedText": "sought to lay hands",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "Bigthan and Teresh plotting against Ahasuerus. A violence formula; the intercession that follows is Genesis 37:21's."
+    },
+    {
+      "bomRef": "1 Nephi 7:21",
+      "source": "Luke 9:10",
+      "category": "formulaic",
+      "sharedText": "all that they had done",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "The apostles reporting back. A six-word run of pure narrative summary. Note that the distinctive word in 1 Nephi 7:21 is 'frankly', which is a KJV hapax at Luke 7:42 and is catalogued there."
+    },
+    {
+      "bomRef": "1 Nephi 7:22",
+      "source": "Judges 16:31",
+      "category": "formulaic",
+      "sharedText": "and all the house of",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "Samson's burial. A household formula — and an accidental second hit on Judges 15-16, whose real contact with this chapter is at 7:17-18 and is a different kind of thing entirely."
     }
   ]
 }
