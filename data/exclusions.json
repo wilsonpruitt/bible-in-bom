@@ -2317,6 +2317,86 @@
         "machine-ngram"
       ],
       "reason": "The verse most likely to interest a reader in this chapter, and there is nothing to catalogue. 1 Nephi 18:25's list — cow, ox, ass, horse, goat, wild goat — is a fauna inventory, and the KJV's animal lists (Deuteronomy 14:4-5's clean beasts, Isaiah 32:20's ox and ass) share individual nouns because both texts are naming domestic animals in English. 'Wild goat' appears in Deuteronomy 14:5, 1 Samuel 24:2, Job 39:1 and Psalm 104:18. The list carries no verbal signal, and the historical questions it raises are not this catalogue's business."
+    },
+    {
+      "bomRef": "1 Nephi 19:3",
+      "source": "Jeremiah 33:24",
+      "category": "formulaic",
+      "sharedText": "my people that they should",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "Five function words spanning a clause boundary."
+    },
+    {
+      "bomRef": "1 Nephi 19:10",
+      "source": "1 Corinthians 1:11",
+      "category": "formulaic",
+      "sharedText": "them which are of the house of",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "A seven-word run, already excluded at 12:9 and 14:17. 'The house of Chloe' against 'the House of Israel'; the run is long because both texts stack the same function words."
+    },
+    {
+      "bomRef": "1 Nephi 19:10",
+      "source": "1 Kings 2:27",
+      "category": "formulaic",
+      "sharedText": "which he spake concerning the",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "A citation formula, and this chapter uses it repeatedly ('according to the words of Zenock … of Neum … of Zenos')."
+    },
+    {
+      "bomRef": "1 Nephi 19:7",
+      "source": "Luke 23:11",
+      "category": "better-source-identified",
+      "sharedText": "set him at nought",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "Herod setting Christ at nought — a genuine parallel, and carried in the 19:7 link's composite rather than made its source. The clause that decides 19:7 is 'trample under their feet', which is Matthew 7:6's and a KJV singleton; 'set at nought' occurs at Luke 23:11 and Acts 4:11 and is the verse's gloss on itself, not its source."
+    },
+    {
+      "bomRef": "1 Nephi 19:9",
+      "source": "Matthew 27:30",
+      "category": "better-source-identified",
+      "sharedText": "they spit upon him and",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "Five words, and the closest single verse for the spitting — but 19:9 has three verbs in sequence (scourge, smite, spit) with an endurance refrain after each, which is Isaiah 50:6's posture and Luke 18:32-33's sequence. Matthew 27:30 supplies one of the three and is carried in composite."
+    },
+    {
+      "bomRef": "1 Nephi 19:11",
+      "source": "Exodus 20:18",
+      "category": "formulaic",
+      "sharedText": "the thunderings and the lightnings",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "Sinai's pair, reused throughout Revelation (4:5, 8:5, 11:19, 16:18). A theophany formula; the verse's identifiable borrowing is 'vapour', which is Acts 2:19's word for Joel's 'pillars'."
+    },
+    {
+      "bomRef": "1 Nephi 19:16",
+      "source": "Jeremiah 49:36",
+      "category": "better-source-identified",
+      "sharedText": "the four quarters of",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "'The four quarters of HEAVEN', in the oracle against Elam. 1 Nephi 19:16 has 'of the earth', which is Revelation 20:8's and a KJV singleton."
+    },
+    {
+      "bomRef": "1 Nephi 19:21",
+      "source": "Matthew 18:7",
+      "category": "formulaic",
+      "sharedText": "it must needs be that",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "Fourth exclusion for the same five words (3:18, 10:13, 15:33)."
     }
   ]
 }

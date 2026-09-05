@@ -1,0 +1,199 @@
+{
+  "chapter": 19,
+  "adjudicated": "2026-09-05",
+  "adjudicator": "Opus",
+  "links": {
+    "19:7": [
+      {
+        "source": "Matthew 7:6",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "Give not that which is holy unto the dogs, neither cast ye your pearls before swine, lest they trample them under their feet, and turn again and rend you.",
+        "evidence": { "vocabulary": 5, "syntax": 4, "sequence": 5, "context": 5, "rarity": 4, "attestation": 0 },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": ["Hebrews 10:29", "Luke 23:11", "Acts 4:11"],
+        "recurrenceRefs": ["1 Nephi 8:20", "1 Nephi 8:26", "1 Nephi 11:36"],
+        "provenance": {
+          "route": "Matthew 7:6 → KJV → Book of Mormon",
+          "other": "'Trample … under their feet' occurs in exactly one KJV verse. Hebrews 10:29 has the related 'trodden under foot the Son of God'. 'Set at nought' is Luke 23:11 (Herod) and Acts 4:11 (the rejected stone).",
+          "significance": "The two clauses of 19:7 come from the two KJV verses about trampling something holy, and the second is the one the sentence needs. Matthew 7:6 supplies the wording and the logic — a thing of great worth given to those who do not know its value and trample it. Hebrews 10:29 supplies the escalation to a person: 'trodden under foot the Son of God'. 1 Nephi 19:7 makes exactly that move across one sentence, from 'the things which some men esteem to be of great worth' to 'the very God of Israel, do men trample under their feet'. This is a fourth borrowing from the Sermon on the Mount, after 8:20, 8:26 and 11:36."
+        },
+        "note": "'The things which some men esteem to be of great worth … others set at nought, and trample under their feet. Yea, even the very God of Israel, do men trample under their feet.' Four words from a KJV singleton, doubled deliberately — Nephi repeats the phrase and then glosses it, 'but I would speak in other words: They do set him at nought' — which is Luke 23:11's verb for what Herod did to Christ.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": ["machine-ngram", "manual"]
+      }
+    ],
+    "19:9": [
+      {
+        "source": "Isaiah 50:6",
+        "type": "allusion",
+        "subtype": "conceptual",
+        "confidence": "high",
+        "text": "I gave my back to the smiters, and my cheeks to them that plucked off the hair: I hid not my face from shame and spitting.",
+        "evidence": { "vocabulary": 4, "syntax": 4, "sequence": 5, "context": 5, "rarity": 4, "attestation": 3 },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": ["Luke 18:32", "Luke 18:33", "Matthew 27:26", "Matthew 27:30"],
+        "recurrenceRefs": ["2 Nephi 7:6"],
+        "provenance": {
+          "route": "Isaiah 50:6 + Luke 18:32-33 → KJV → Book of Mormon",
+          "other": "'Spitting' and 'spitted' occur in exactly two KJV verses: Isaiah 50:6 and Luke 18:32, which is the Gospel's own restatement of it. Isaiah 50 is transcribed entire at 2 Nephi 7, so this book demonstrably has the chapter.",
+          "significance": "The three verbs of 19:9 — scourge, smite, spit — are the three of the passion predictions, and their Old Testament original is Isaiah 50:6, which supplies the smiting and the spitting and, crucially, the endurance: 'I hid not my face'. 1 Nephi 19:9 says 'and he suffereth it' three times, once after each verb, which is Isaiah 50:6's posture converted into a refrain. Luke 18:32-33 supplies the sequence in the Gospel's order (mocked, spitted on, scourged, put to death). Note that Nephi transcribes Isaiah 50 at 2 Nephi 7 and Isaiah 49 at 1 Nephi 21, so the servant songs are demonstrably his working material."
+        },
+        "note": "'They scourge him, and he suffereth it; and they smite him, and he suffereth it. Yea, they spit upon him, and he suffereth it.' The triple refrain has no KJV source and is the writer's own; the three verbs and the endurance are Isaiah 50:6's. 'Loving kindness' and 'long suffering' close the verse in the KJV's covenant vocabulary (Exodus 34:6).",
+        "bibliography": [],
+        "status": "consensus",
+        "citationsPending": true,
+        "streams": ["machine-ngram", "manual"]
+      }
+    ],
+    "19:10": [
+      {
+        "source": "Acts 3:13",
+        "type": "quotation",
+        "subtype": "close-verbal",
+        "confidence": "certain",
+        "text": "The God of Abraham, and of Isaac, and of Jacob, the God of our fathers, hath glorified his Son Jesus; whom ye delivered up, and denied him in the presence of Pilate, when he was determined to let him go.",
+        "evidence": { "vocabulary": 5, "syntax": 5, "sequence": 5, "context": 5, "rarity": 5, "attestation": 2 },
+        "kjvSpecific": "yes",
+        "mediation": "OT-via-NT",
+        "composite": ["Luke 24:7", "Acts 2:23", "Exodus 10:22", "Isaiah 24:15"],
+        "recurrenceRefs": ["1 Nephi 6:4", "1 Nephi 3:20", "1 Nephi 15:18", "1 Nephi 22:20"],
+        "provenance": {
+          "mt": "Exodus 3:6 / 3:15 — 'the God of Abraham, the God of Isaac, and the God of Jacob' (no conjunction before Isaac).",
+          "route": "Exodus 3:6 → Acts 3:13 → KJV → Book of Mormon",
+          "other": "The KJV has three distinct English forms of the patriarchal title. Exodus: 'the God of Abraham, the God of Isaac, and the God of Jacob'. Matthew 22:32 / Mark 12:26 / Luke 20:37 / Acts 7:32: 'the God of Abraham, AND the God of Isaac, and the God of Jacob'. Acts 3:13: 'The God of Abraham, and OF Isaac, and OF Jacob, the God of our fathers'. 1 Nephi 6:4 has the second form; 1 Nephi 19:10 has 'the God of our fathers … the God of Abraham, and of Isaac, and the God of Jacob', which is the third, together with the phrase 'the God of our fathers' that only Acts 3:13 attaches to it.",
+          "significance": "This is the most precise mediation finding in the book. The Book of Mormon uses two different New Testament forms of one Old Testament title, thirteen chapters apart, and each matches a different New Testament verse — 6:4 the Synoptic-and-Acts-7 form, 19:10 the Acts 3:13 form, complete with 'the God of our fathers' from the same verse. And Acts 3:13's own subject is what 19:10 goes on to describe: the God of the fathers glorifying a Son 'whom ye delivered up'. That makes Acts 3 the source at four separate places in 1 Nephi — 3:20 (Acts 3:21), 15:18 (Acts 3:25), 19:10 (Acts 3:13) and 22:20 (Acts 3:22-23) — which is to say that Peter's sermon at Solomon's porch stands behind every place this book states its covenant theology, and now behind its account of the passion too."
+        },
+        "note": "'The God of Abraham, and of Isaac, and the God of Jacob, yieldeth himself according to the words of the angel, as a man, into the hands of wicked men, to be lifted up … and to be crucified.' Eight words of Acts 3:13 (machine rarity 3.53) with its companion phrase. The rest of the sentence is Luke 24:7's — 'delivered into the hands of sinful men, and be crucified' — with Acts 2:23's 'by wicked hands' supplying the adjective, and 'lifted up' is John's (see 11:33). The three days of darkness are Exodus 10:22's, the plague of darkness in Egypt, transferred to the death of Christ.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": ["machine-ngram", "manual"]
+      }
+    ],
+    "19:11": [
+      {
+        "source": "Acts 2:19",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "And I will shew wonders in heaven above, and signs in the earth beneath; blood, and fire, and vapour of smoke:",
+        "evidence": { "vocabulary": 4, "syntax": 4, "sequence": 4, "context": 5, "rarity": 5, "attestation": 0 },
+        "kjvSpecific": "yes",
+        "mediation": "OT-via-NT",
+        "composite": ["Joel 2:30", "Exodus 20:18", "Revelation 11:19"],
+        "recurrenceRefs": ["1 Nephi 12:4", "1 Nephi 19:12"],
+        "provenance": {
+          "mt": "Joel 2:30 — 'blood, and fire, and PILLARS of smoke.'",
+          "route": "Joel 2:30 → Acts 2:19 → KJV → Book of Mormon",
+          "other": "The two English forms differ in one noun. Joel 2:30 reads 'pillars of smoke'; Acts 2:19, quoting Joel at Pentecost, reads 'vapour of smoke'. 1 Nephi 19:11 reads 'by fire, and by smoke, and vapour of darkness'.",
+          "significance": "An eleventh mediation case, decided the same way as 15:18 and 19:10 — by a single noun that differs between an Old Testament verse and its New Testament quotation. 'Vapour' is Peter's word, not Joel's, and the Book of Mormon has it. That the verse is attributed to a prophet named Zenos, whose words are not in the Bible, makes the borrowing more rather than less interesting: the non-biblical prophecy is worded out of the biblical quotation of a biblical prophecy. 'The thunderings and the lightnings' is Exodus 20:18's Sinai pair, used throughout Revelation."
+        },
+        "note": "'Others, with the thunderings and the lightnings of his power, by tempest, by fire, and by smoke, and vapour of darkness.' The catalogue records the noun and does not speculate about Zenos. Note that 19:12's 'the rocks of the earth must rend' repeats Matthew 27:51, already catalogued at 12:4, so the Zenos oracle is built from the same New Testament passion material as the rest of the chapter.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": ["manual"]
+      }
+    ],
+    "19:14": [
+      {
+        "source": "1 Kings 9:7",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "text": "Then will I cut off Israel out of the land which I have given them; and this house, which I have hallowed for my name, will I cast out of my sight; and Israel shall be a proverb and a byword among all people:",
+        "evidence": { "vocabulary": 4, "syntax": 4, "sequence": 4, "context": 5, "rarity": 4, "attestation": 1 },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": ["1 Kings 9:8", "2 Chronicles 7:20", "2 Chronicles 7:21", "Deuteronomy 28:37", "Jeremiah 29:18"],
+        "provenance": {
+          "route": "1 Kings 9:7-8 / 2 Chronicles 7:20-21 → KJV → Book of Mormon",
+          "other": "'Byword' occurs in six KJV verses. Only 1 Kings 9:7-8 and its parallel at 2 Chronicles 7:20-21 pair it with hissing in adjacent verses — 'a proverb and a byword among all people' followed by 'shall be astonished, and shall hiss'.",
+          "significance": "The Book of Mormon compresses two verses into one phrase: 'become a hiss and a byword, and be hated among all nations'. The source is Solomon's temple oracle, where the condition is apostasy and the consequence is exile and derision — which is the fate 19:13-14 assigns to those who crucify the God of Israel. Deuteronomy 28:37's 'an astonishment, a proverb, and a byword' is the covenant-curse original behind both."
+        },
+        "note": "'They shall wander in the flesh, and perish, and become a hiss and a byword, and be hated among all nations.' The compound 'a hiss and a byword' is not a KJV phrase; it is the two halves of 1 Kings 9:7-8 joined. Held at moderate for that reason: what is reproduced is a pairing rather than a phrase.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": ["manual"]
+      }
+    ],
+    "19:16": [
+      {
+        "source": "Revelation 20:8",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "text": "And shall go out to deceive the nations which are in the four quarters of the earth, Gog, and Magog, to gather them together to battle: the number of whom is as the sand of the sea.",
+        "evidence": { "vocabulary": 4, "syntax": 3, "sequence": 3, "context": 4, "rarity": 5, "attestation": 0 },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": ["Isaiah 11:12", "Isaiah 24:15", "Jeremiah 49:36"],
+        "provenance": {
+          "route": "Revelation 20:8 → KJV → Book of Mormon",
+          "alternative": "Isaiah 11:12's 'the four corners of the earth' is the gathering prophecy the sentence is otherwise about, and 'corners' rather than 'quarters' is the standard Old Testament form.",
+          "significance": "'The four quarters of the earth' occurs in exactly one KJV verse, and it is a gathering — but a gathering of Gog and Magog to battle, not of Israel to blessing. 1 Nephi 19:16 takes the phrase for the opposite operation: 'all the people which are of the House of Israel, will I gather in … from the four quarters of the earth'. Isaiah 11:12, the actual gathering prophecy, says 'the four corners'. The Book of Mormon has the rarer phrase and the wrong one, which is the sort of fact this catalogue exists to record rather than explain."
+        },
+        "note": "Four words from a KJV singleton, with the sense reversed. Held at moderate: 'quarters' and 'corners' are near-synonyms and a writer could produce either, so the rarity carries more weight than the argument does.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": ["machine-ngram", "manual"]
+      }
+    ],
+    "19:17": [
+      {
+        "source": "Isaiah 52:10",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "The LORD hath made bare his holy arm in the eyes of all the nations; and all the ends of the earth shall see the salvation of our God.",
+        "evidence": { "vocabulary": 5, "syntax": 5, "sequence": 4, "context": 5, "rarity": 4, "attestation": 4 },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": ["Luke 3:6", "Revelation 14:6", "Genesis 22:18"],
+        "recurrenceRefs": ["1 Nephi 22:10", "1 Nephi 22:11", "1 Nephi 5:18", "3 Nephi 16:20"],
+        "provenance": {
+          "mt": "Isaiah 52:10, as in the KJV.",
+          "route": "Isaiah 52:10 → KJV → Book of Mormon (not via Luke 3:6)",
+          "other": "Isaiah 52:10 reads 'all the ends of the earth shall see the salvation of our God'; Luke 3:6, the New Testament's version of the same idea, reads 'all flesh shall see the salvation of God'. 1 Nephi 19:17 reads 'all the earth shall see the salvation of the Lord' — Isaiah's subject, not Luke's.",
+          "significance": "A second recorded counter-example to this book's habit of taking New Testament forms, after 13:37 (which also drew on Isaiah 52). Where Isaiah and its Gospel citation differ, 19:17 follows Isaiah. Hardy's apparatus cites Isaiah 52:10 at 1 Nephi 22:10, where the verse is used again at greater length, so the chapter that closes the book returns to the passage this one opens with. The verse's second half — 'every nation, kindred, tongue, and people, shall be blessed' — joins Revelation's fourfold formula (see 5:18) to the Abrahamic blessing of Genesis 22:18, which 15:18 has already taken in Acts 3:25's wording."
+        },
+        "note": "'Yea, and all the earth shall see the salvation of the Lord, saith the prophet; every nation, kindred, tongue, and people, shall be blessed.' Seven words matching Isaiah 52:10 (machine rarity 2.25). Note the mixture: an Old Testament clause in its Old Testament form, joined to a New Testament formula, in a verse attributed to Zenos.",
+        "bibliography": ["Hardy MSI at 1 Ne 22.10 (Isaiah 52:10)"],
+        "status": "consensus",
+        "streams": ["machine-ngram", "scholarship", "manual"]
+      }
+    ],
+    "19:23": [
+      {
+        "source": "Romans 15:4",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "text": "For whatsoever things were written aforetime were written for our learning, that we through patience and comfort of the scriptures might have hope.",
+        "evidence": { "vocabulary": 5, "syntax": 4, "sequence": 5, "context": 5, "rarity": 5, "attestation": 1 },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": ["2 Timothy 3:16", "1 Corinthians 10:11"],
+        "recurrenceRefs": ["1 Nephi 19:24", "2 Nephi 11:8"],
+        "provenance": {
+          "route": "Romans 15:4 + 2 Timothy 3:16 → KJV → Book of Mormon",
+          "other": "'Written for our learning' occurs in exactly one KJV verse. 'Profitable' as a property of scripture occurs in exactly one other, 2 Timothy 3:16. 1 Nephi 19:23 has both — 'for our profit and learning' — and 19:24 supplies Romans 15:4's third term, hope.",
+          "significance": "This is the Book of Mormon's own statement of hermeneutic method, the sentence quoted more often than any other in discussions of how it reads the Bible, and it is assembled out of the New Testament's two statements about why the Old Testament is read. Romans 15:4 gives the purpose ('written for our learning … might have hope'), 2 Timothy 3:16 gives the property ('profitable'), and 1 Nephi 19:23-24 runs them in Romans's order across two verses: 'for our profit and learning' at 23, 'that ye may have hope' at 24. What the Book of Mormon adds is the verb — 'I did liken all scriptures unto us' — which names an operation neither epistle names, and which is then performed on Isaiah for the next two chapters."
+        },
+        "note": "'I did read unto them that which was written by the Prophet Isaiah; for I did liken all scriptures unto us, that it might be for our profit and learning.' Two KJV singletons in one clause, from two epistles, with Romans 15:4's hope arriving in the next verse. The reading practice announced here is what chapters 20-21 carry out, and 19:24's 'a branch of which have been broken off' returns to Romans 11:17 (see 10:12).",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": ["manual"]
+      }
+    ]
+  }
+}
