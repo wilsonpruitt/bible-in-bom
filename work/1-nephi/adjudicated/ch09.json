@@ -1,0 +1,79 @@
+{
+  "chapter": 9,
+  "adjudicated": "2026-09-05",
+  "adjudicator": "Opus",
+  "links": {
+    "9:1": [
+      {
+        "source": "Genesis 26:17",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "text": "And Isaac departed thence, and pitched his tent in the valley of Gerar, and dwelt there.",
+        "evidence": { "vocabulary": 4, "syntax": 4, "sequence": 3, "context": 4, "rarity": 5, "attestation": 0 },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": ["Genesis 26:25", "Genesis 12:8"],
+        "recurrenceRefs": ["1 Nephi 2:6", "1 Nephi 2:15", "1 Nephi 16:6"],
+        "provenance": {
+          "route": "Genesis 26:17 → KJV → Book of Mormon",
+          "other": "'Tent in the valley' occurs in exactly one KJV verse.",
+          "significance": "The chapter opens by placing the whole of Lehi's vision inside a formula: a patriarch dwelling in a tent in a named valley. Genesis 26:17 is the KJV's only instance of that exact geography, and Genesis 26:25 — eight verses later — is one of the two verses that gave 1 Nephi 2:6-7 its tent-and-altar pair. The Book of Mormon returns to the same page of Genesis whenever it needs to say where Lehi is."
+        },
+        "note": "'As he dwelt in a tent, in the valley of Lemuel.' The phrase is a KJV singleton and the tent-dwelling formula has been running since 2:15. Recorded at moderate: the three words are common individually and their combination could be arrived at independently by a narrative that has already committed to tents and valleys. The verse's second half — 'a great many more things, which cannot be written upon these plates' — is the John 21:25 colophon again (see 6:3).",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": ["machine-ngram"]
+      }
+    ],
+    "9:5": [
+      {
+        "source": "Deuteronomy 29:29",
+        "type": "echo",
+        "subtype": "probable",
+        "confidence": "moderate",
+        "text": "The secret things belong unto the LORD our God: but those things which are revealed belong unto us and to our children for ever, that we may do all the words of this law.",
+        "evidence": { "vocabulary": 2, "syntax": 3, "sequence": 4, "context": 5, "rarity": 4, "attestation": 0 },
+        "kjvSpecific": "no",
+        "mediation": "direct-OT",
+        "composite": ["Isaiah 55:8", "Romans 11:33"],
+        "provenance": {
+          "route": "Deuteronomy 29:29 → KJV → Book of Mormon",
+          "alternative": "Professed ignorance of God's reasons is the commonest of pious formulas; Isaiah 55:8 and Romans 11:33 say it more famously and neither is reproduced either.",
+          "significance": "Deuteronomy 29:29 is the KJV's formal statement of the division 1 Nephi 9:5 acts on: God keeps his reasons, and what is disclosed is disclosed so that it can be transmitted to children. Nephi is obeying an instruction whose purpose is withheld from him, and doing it by making a second record for someone else to read — which is Deuteronomy's 'belong unto us and to our children for ever' as a task rather than a doctrine."
+        },
+        "note": "'The Lord hath commanded me to make these plates, for a wise purpose in him; which purpose, I know not.' Nothing is reproduced. Recorded because the sentence is not merely modest — it is a formal statement about the distribution of knowledge between God and a scribe, which is what Deuteronomy 29:29 legislates, and because 9:6 immediately supplies the other half ('the Lord knoweth all things'). The verse is also the Book of Mormon's own explanation for the small plates, which is a claim about its transmission and not only about providence.",
+        "whyNot": "Zero verbal contact and a commonplace sentiment. The link stands or falls on whether the reader thinks 9:5-6 is making Deuteronomy's distinction rather than simply expressing humility.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": ["manual"]
+      }
+    ],
+    "9:6": [
+      {
+        "source": "Acts 15:18",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "Known unto God are all his works from the beginning of the world.",
+        "evidence": { "vocabulary": 5, "syntax": 4, "sequence": 4, "context": 5, "rarity": 5, "attestation": 0 },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": ["Isaiah 46:10", "Matthew 28:18"],
+        "recurrenceRefs": ["1 Nephi 3:7"],
+        "provenance": {
+          "route": "Acts 15:18 → KJV → Book of Mormon",
+          "other": "'All his works from the beginning' occurs in exactly one KJV verse. Acts 15:18 is a single sentence, James's closing remark at the Jerusalem council.",
+          "significance": "Nephi has just said he does not know the purpose of what he has been told to do; the next sentence answers with the one KJV verse that asserts God's complete foreknowledge of his own works. Acts 15:18 is spoken at the council that decides the terms on which Gentiles enter the covenant — a decision James justifies by saying that God knew all along — and 1 Nephi 9:6 uses it to justify a record whose purpose its own maker does not know. Both are appeals to a plan visible only from the other end. The plates of Nephi are the Book of Mormon's own account of why it exists in two versions, and the sentence that closes the account is James's."
+        },
+        "note": "'But the Lord knoweth all things, from the beginning; wherefore, he prepareth a way to accomplish all his works among the children of men; for behold, he hath all power unto the fulfilling of all his words.' Two elements of Acts 15:18 are reproduced — God's knowledge, and 'all his works from the beginning', a KJV singleton — and 'he prepareth a way' repeats Nephi's own formula from 3:7. The chapter's last verse is thus a compound of the book's borrowed doctrine of providence and its own catchphrase.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": ["manual"]
+      }
+    ]
+  }
+}

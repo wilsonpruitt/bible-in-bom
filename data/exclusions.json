@@ -1217,6 +1217,66 @@
         "machine-ngram"
       ],
       "reason": "An eight-word run and the single most-repeated formula in the Book of Mormon, used dozens of times per book. Recorded once, here, as the standing exclusion for every subsequent occurrence of 'keep the commandments of the Lord' throughout the corpus; later hits are passed over in silence."
+    },
+    {
+      "bomRef": "1 Nephi 9:1",
+      "source": "2 Samuel 24:23",
+      "category": "formulaic",
+      "sharedText": "all these things did",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "'All these things did Araunah, as a king, give unto the king.' A summary formula."
+    },
+    {
+      "bomRef": "1 Nephi 9:1",
+      "source": "Genesis 19:30",
+      "category": "formulaic",
+      "sharedText": "he dwelt in a",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "Lot in the cave. Four function words; the tent formula at 9:1 is catalogued against Genesis 26:17."
+    },
+    {
+      "bomRef": "1 Nephi 9:2",
+      "source": "Jeremiah 5:10",
+      "category": "formulaic",
+      "sharedText": "they are not the",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "Four function words across a clause boundary."
+    },
+    {
+      "bomRef": "1 Nephi 9:3",
+      "source": "2 John 1:4",
+      "category": "formulaic",
+      "sharedText": "have received a commandment",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "'As we have received a commandment from the Father.' A commandment-receipt formula; the Book of Mormon uses it constantly."
+    },
+    {
+      "bomRef": "1 Nephi 9:4",
+      "source": "Numbers 4:47",
+      "category": "formulaic",
+      "sharedText": "of the ministry and the",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "The Levitical service census. 'Ministry' in 1 Nephi 9:4 means the religious as against the political content of a record — a bibliographic sense the KJV never has."
+    },
+    {
+      "bomRef": "1 Nephi 9:6",
+      "source": "Luke 1:3",
+      "category": "insufficient-verbal",
+      "sharedText": "all things from the",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "Luke's preface — 'having had perfect understanding of all things from the very first, to write unto thee in order'. Genuinely the nearest thing in the KJV to what 1 Nephi 9 is doing, which is explaining the editorial rationale of a record. But four function words is not evidence, and the sentence at 9:6 is Acts 15:18's. Recorded so the Lukan-preface question stays visible for chapters that may make a better case."
     }
   ]
 }
