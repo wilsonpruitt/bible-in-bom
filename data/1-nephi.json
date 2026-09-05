@@ -9510,14 +9510,90 @@
       "ch": 16,
       "ref": "16:1",
       "text": "And now it came to pass that after I, Nephi, had made an end of speaking to my brethren, behold, they said unto me, Thou hast declared unto us hard things, more than that which we are able to bear.",
-      "links": []
+      "links": [
+        {
+          "source": "1 Corinthians 10:13",
+          "type": "allusion",
+          "subtype": "close-verbal",
+          "confidence": "moderate",
+          "text": "There hath no temptation taken you but such as is common to man: but God is faithful, who will not suffer you to be tempted above that ye are able; but will with the temptation also make a way to escape, that ye may be able to bear it.",
+          "evidence": {
+            "vocabulary": 4,
+            "syntax": 4,
+            "sequence": 4,
+            "context": 4,
+            "rarity": 4,
+            "attestation": 0
+          },
+          "kjvSpecific": "yes",
+          "mediation": "direct-NT",
+          "composite": [
+            "Psalm 60:3",
+            "John 6:60"
+          ],
+          "recurrenceRefs": [
+            "1 Nephi 3:7",
+            "1 Nephi 3:5"
+          ],
+          "provenance": {
+            "route": "1 Corinthians 10:13 → KJV → Book of Mormon",
+            "other": "'Above that ye are able' and 'able to bear it' both occur in 1 Corinthians 10:13, the KJV's only verse joining them. 'Hard things' as something God shews his people is Psalm 60:3's.",
+            "significance": "The brothers turn Nephi's own prooftext against him. At 3:7 Nephi argued that God 'giveth no commandments … save he shall prepare a way' — which is 1 Corinthians 10:13's guarantee that God will not impose beyond ability and will make a way. Here the brothers answer 'thou hast declared unto us hard things, more than that which we are able to bear', which is the same verse's other half denied. The exchange is a small piece of composition using one Pauline sentence from both ends, and the fact that Paul's guarantee sits inside a rehearsal of Israel's murmuring in the wilderness (10:1-11) makes it apt in a way neither speaker mentions."
+          },
+          "note": "'Thou hast declared unto us hard things, more than that which we are able to bear.' The measure is Paul's — what one is able to bear — and the complaint is John 6:60's hard saying again (see 3:5). Held at moderate because the reproduced material is a common idiom; the interest is the pairing with 3:7.",
+          "bibliography": [],
+          "status": "novel",
+          "citationsPending": true,
+          "streams": [
+            "manual"
+          ]
+        }
+      ]
     },
     {
       "id": "16:2",
       "ch": 16,
       "ref": "16:2",
       "text": "And it came to pass that I said unto them, That I knew that I had spoken hard things against the wicked, according to the truth; and the righteous have I justified, and testified that they should be lifted up at the last day; wherefore, the guilty taketh the truth to be hard, for it cutteth them to the very centre.",
-      "links": []
+      "links": [
+        {
+          "source": "Acts 5:33",
+          "type": "allusion",
+          "subtype": "conceptual",
+          "confidence": "moderate",
+          "text": "When they heard that, they were cut to the heart, and took counsel to slay them.",
+          "evidence": {
+            "vocabulary": 3,
+            "syntax": 3,
+            "sequence": 5,
+            "context": 5,
+            "rarity": 4,
+            "attestation": 0
+          },
+          "kjvSpecific": "yes",
+          "mediation": "direct-NT",
+          "composite": [
+            "Acts 7:54",
+            "Hebrews 4:12"
+          ],
+          "recurrenceRefs": [
+            "1 Nephi 16:37",
+            "1 Nephi 16:38"
+          ],
+          "provenance": {
+            "route": "Acts 5:33 / 7:54 → KJV → Book of Mormon",
+            "other": "'Cut to the heart' occurs in exactly two KJV verses, Acts 5:33 and Acts 7:54, and in both the hearers respond to a true word by resolving to kill the speaker. Hebrews 4:12 supplies the instrument — the word of God as a sword that pierces.",
+            "significance": "The sequence is the argument. In Acts the council is cut to the heart and takes counsel to slay the apostles (5:33); Stephen's hearers are cut to the heart and stone him (7:54-58). In 1 Nephi 16 the truth 'cutteth them to the very centre' at verse 2, and at verse 37 Laman says 'let us slay our father, and also our brother Nephi'. The Book of Mormon has reproduced the effect and its consequence thirty-five verses apart, and Acts 7 is the passage this book has drawn on more than any other outside the Gospels."
+          },
+          "note": "'The guilty taketh the truth to be hard, for it cutteth them to the very centre.' The Book of Mormon's noun is 'centre' rather than 'heart' (1830 spelling; 1920 'center'), so no phrase is reproduced. Recorded on the figure and its narrative consequence.",
+          "bibliography": [],
+          "status": "novel",
+          "citationsPending": true,
+          "streams": [
+            "manual"
+          ]
+        }
+      ]
     },
     {
       "id": "16:3",
@@ -9538,7 +9614,37 @@
       "ch": 16,
       "ref": "16:5",
       "text": "And it came to pass that they did humble themselves before the Lord; insomuch, that I had joy and great hopes of them, that they would walk in the paths of righteousness.",
-      "links": []
+      "links": [
+        {
+          "source": "Psalm 23:3",
+          "type": "allusion",
+          "subtype": "close-verbal",
+          "confidence": "moderate",
+          "text": "He restoreth my soul: he leadeth me in the paths of righteousness for his name’s sake.",
+          "evidence": {
+            "vocabulary": 4,
+            "syntax": 3,
+            "sequence": 3,
+            "context": 4,
+            "rarity": 5,
+            "attestation": 0
+          },
+          "kjvSpecific": "yes",
+          "mediation": "direct-OT",
+          "provenance": {
+            "route": "Psalm 23:3 → KJV → Book of Mormon",
+            "other": "'Paths of righteousness' occurs in exactly one KJV verse.",
+            "significance": "The phrase enters this book at the point where the family is about to be given a guidance device and led through a wilderness. Psalm 23:3's paths of righteousness are what a shepherd leads along; 1 Nephi 16 is a chapter about being led, and about the pointers in the ball working 'according to the faith, and diligence, and heed' given to them (16:28). The borrowed phrase and the chapter's plot are about the same thing, which is the strongest argument available for a four-word borrowing."
+          },
+          "note": "'I had joy and great hopes of them, that they would walk in the paths of righteousness.' A KJV singleton, four words, in a book that has been using the Psalter since 1:20. Held at moderate: the phrase is short and could be produced by anyone who has read Psalm 23, which is exactly the point and also the difficulty.",
+          "bibliography": [],
+          "status": "novel",
+          "citationsPending": true,
+          "streams": [
+            "machine-ngram"
+          ]
+        }
+      ]
     },
     {
       "id": "16:6",
@@ -9629,7 +9735,45 @@
       "ch": 16,
       "ref": "16:18",
       "text": "And it came to pass that as I, Nephi, went forth to slay food, behold, I did break my bow, which was made of fine steel; and after that I did break my bow, behold, my brethren were angry with me, because of the loss of my bow, for we did obtain no food.",
-      "links": []
+      "links": [
+        {
+          "source": "Psalm 18:34",
+          "type": "allusion",
+          "subtype": "close-verbal",
+          "confidence": "high",
+          "text": "He teacheth my hands to war, so that a bow of steel is broken by mine arms.",
+          "evidence": {
+            "vocabulary": 5,
+            "syntax": 4,
+            "sequence": 4,
+            "context": 5,
+            "rarity": 5,
+            "attestation": 0
+          },
+          "kjvSpecific": "yes",
+          "mediation": "direct-OT",
+          "composite": [
+            "2 Samuel 22:35",
+            "Job 20:24"
+          ],
+          "recurrenceRefs": [
+            "1 Nephi 16:23",
+            "1 Nephi 16:21"
+          ],
+          "provenance": {
+            "route": "Psalm 18:34 → KJV → Book of Mormon",
+            "other": "'Bow of steel' occurs in exactly three KJV verses: 2 Samuel 22:35 and Psalm 18:34, which are the same psalm twice, and Job 20:24. Only the first two have the bow BROKEN, and in both it is broken by the arms of a man God has strengthened.",
+            "significance": "The detail is the borrowing. A steel bow is an anachronism twice over — in 600 BC and in the KJV, where it renders a Hebrew phrase for a bronze bow — and it exists in the English Bible in three verses. 1 Nephi 16:18 breaks one. What makes this more than a coincidence of vocabulary is the source's sense: David's psalm boasts that God so strengthens him that a steel bow breaks in his arms, and it is a boast. Nephi's steel bow breaks and the family starves. The Book of Mormon has taken the KJV's one image of a broken steel bow and turned a sign of divine strength into a crisis — and then, at 16:23, has Nephi arm himself with 'a sling, and with stones', which is David's other weapon (1 Samuel 17:50)."
+          },
+          "note": "'I did break my bow, which was made of fine steel.' Three words of a three-verse KJV phrase, with the breaking supplied by the same verses. The chapter's David material continues at 16:23 with the sling and stones. Note that 16:21's 'their bows having lost their springs' has no KJV source and is the writer's own detail.",
+          "bibliography": [],
+          "status": "novel",
+          "citationsPending": true,
+          "streams": [
+            "manual"
+          ]
+        }
+      ]
     },
     {
       "id": "16:19",
@@ -9664,7 +9808,45 @@
       "ch": 16,
       "ref": "16:23",
       "text": "And it came to pass that I, Nephi, did make out of wood a bow, and out of a straight stick, an arrow; wherefore, I did arm myself with a bow and an arrow, with a sling, and with stones. And I said unto my father, Whither shall I go, to obtain food?",
-      "links": []
+      "links": [
+        {
+          "source": "1 Samuel 17:50",
+          "type": "allusion",
+          "subtype": "close-verbal",
+          "confidence": "moderate",
+          "text": "So David prevailed over the Philistine with a sling and with a stone, and smote the Philistine, and slew him; but there was no sword in the hand of David.",
+          "evidence": {
+            "vocabulary": 4,
+            "syntax": 4,
+            "sequence": 3,
+            "context": 4,
+            "rarity": 4,
+            "attestation": 0
+          },
+          "kjvSpecific": "yes",
+          "mediation": "direct-OT",
+          "recurrenceRefs": [
+            "1 Nephi 3:28",
+            "1 Nephi 3:31",
+            "1 Nephi 4:9",
+            "1 Nephi 4:18",
+            "1 Nephi 16:18"
+          ],
+          "provenance": {
+            "route": "1 Samuel 17:50 → KJV → Book of Mormon",
+            "alternative": "A sling and stones are ordinary equipment and the Book of Mormon has already listed them at 16:15 without any Davidic frame.",
+            "significance": "1 Samuel 17 has been this book's substructure since 3:28 — the elder brother's anger, the objection about the mighty man, the sword drawn from the sheath, the head struck off. Here Nephi improvises a weapon and arms himself 'with a sling, and with stones', which is the phrase 1 Samuel 17:50 uses for what David killed Goliath with. The chapter has just broken his steel bow, which is David's psalm's image (16:18). Two Davidic weapons in six verses, in a chapter about a younger brother providing for a family that wants to kill him."
+          },
+          "note": "'I did arm myself with a bow and an arrow, with a sling, and with stones.' Four words reproducing 1 Samuel 17:50's pair, with the plural. Held at moderate because the equipment is generic; the case is the accumulation across chapters 3, 4 and 16.",
+          "bibliography": [],
+          "status": "novel",
+          "citationsPending": true,
+          "streams": [
+            "machine-ngram",
+            "manual"
+          ]
+        }
+      ]
     },
     {
       "id": "16:24",
@@ -9678,7 +9860,45 @@
       "ch": 16,
       "ref": "16:25",
       "text": "And it came to pass that the voice of the Lord came unto my father; and he was truly chastened because of his murmuring against the Lord, insomuch, that he was brought down into the depths of sorrow.",
-      "links": []
+      "links": [
+        {
+          "source": "Hebrews 12:6",
+          "type": "allusion",
+          "subtype": "conceptual",
+          "confidence": "moderate",
+          "text": "For whom the Lord loveth he chasteneth, and scourgeth every son whom he receiveth.",
+          "evidence": {
+            "vocabulary": 3,
+            "syntax": 3,
+            "sequence": 4,
+            "context": 5,
+            "rarity": 3,
+            "attestation": 0
+          },
+          "kjvSpecific": "uncertain",
+          "mediation": "direct-NT",
+          "composite": [
+            "Hebrews 12:5",
+            "Proverbs 3:11",
+            "Psalm 118:18"
+          ],
+          "recurrenceRefs": [
+            "1 Nephi 16:39"
+          ],
+          "provenance": {
+            "route": "Hebrews 12:5-6 → KJV → Book of Mormon",
+            "alternative": "'Chasten' is a common KJV verb and Proverbs 3:11-12, which Hebrews 12:5-6 is quoting, is equally available.",
+            "significance": "The chapter chastens twice — Lehi at 16:25, the brothers at 16:39 — and both times the chastening produces repentance rather than destruction, which is Hebrews 12:5-11's whole argument about what chastening is for. The remarkable thing about 16:25 is its object: Lehi, the prophet, is 'truly chastened because of his murmuring against the Lord', having murmured at 16:20 in the same verb the book has used of Laman and Lemuel since 2:11. Hebrews 12:6's premise — that chastening is a mark of sonship rather than rejection — is what allows the narrative to do that to its patriarch and continue."
+          },
+          "note": "'He was truly chastened because of his murmuring against the Lord, insomuch, that he was brought down into the depths of sorrow.' Recorded on the doctrine rather than the wording. The depths of sorrow are the Book of Mormon's own phrase and have no KJV source.",
+          "bibliography": [],
+          "status": "novel",
+          "citationsPending": true,
+          "streams": [
+            "manual"
+          ]
+        }
+      ]
     },
     {
       "id": "16:26",
@@ -9706,7 +9926,45 @@
       "ch": 16,
       "ref": "16:29",
       "text": "And there was also written upon them, a new writing, which was plain to be read, which did give us understanding concerning the ways of the Lord; and it was written and changed from time to time, according to the faith and diligence which we gave unto it: And thus we see, that by small means, the Lord can bring about great things.",
-      "links": []
+      "links": [
+        {
+          "source": "Zechariah 4:10",
+          "type": "echo",
+          "subtype": "probable",
+          "confidence": "moderate",
+          "text": "For who hath despised the day of small things? for they shall rejoice, and shall see the plummet in the hand of Zerubbabel with those seven; they are the eyes of the LORD, which run to and fro through the whole earth.",
+          "evidence": {
+            "vocabulary": 3,
+            "syntax": 3,
+            "sequence": 3,
+            "context": 5,
+            "rarity": 4,
+            "attestation": 0
+          },
+          "kjvSpecific": "uncertain",
+          "mediation": "direct-OT",
+          "composite": [
+            "1 Corinthians 1:27"
+          ],
+          "recurrenceRefs": [
+            "Alma 37:6",
+            "Alma 37:38-41"
+          ],
+          "provenance": {
+            "route": "Zechariah 4:10 → KJV → Book of Mormon",
+            "alternative": "1 Corinthians 1:27 ('God hath chosen the weak things of the world to confound the things which are mighty') states the same principle more famously and is equally unreproduced.",
+            "significance": "'By small means, the Lord can bring about great things' becomes one of the Book of Mormon's proverbs — Alma 37:6 restates it and Alma 37:38-41 applies it to this same ball, which Alma names Liahona. The KJV's one verse rebuking contempt for small beginnings is Zechariah 4:10, and the two texts are doing identical work: defending an unimpressive instrument (a plummet, a brass ball) as the vehicle of something large. Zechariah's next clause — 'they are the eyes of the LORD, which run to and fro through the whole earth' — is even the right kind of image for a device that points the way."
+          },
+          "note": "'And thus we see, that by small means, the Lord can bring about great things.' Nothing is reproduced; recorded because the sentiment has one KJV home and because the Book of Mormon later makes it a formula attached to this very object.",
+          "whyNot": "Zero verbal contact, and the proverb is the sort a writer produces unaided. A reader may decline it without loss; it is recorded so that the Zechariah parallel is on the table when Alma 37 is adjudicated.",
+          "bibliography": [],
+          "status": "novel",
+          "citationsPending": true,
+          "streams": [
+            "manual"
+          ]
+        }
+      ]
     },
     {
       "id": "16:30",
@@ -9741,7 +9999,42 @@
       "ch": 16,
       "ref": "16:34",
       "text": "And it came to pass that Ishmael died, and was buried in the place which was called Nahom.",
-      "links": []
+      "links": [
+        {
+          "source": "Genesis 35:8",
+          "type": "echo",
+          "subtype": "probable",
+          "confidence": "moderate",
+          "text": "But Deborah Rebekah’s nurse died, and she was buried beneath Bethel under an oak: and the name of it was called Allonbachuth.",
+          "evidence": {
+            "vocabulary": 2,
+            "syntax": 4,
+            "sequence": 5,
+            "context": 5,
+            "rarity": 4,
+            "attestation": 1
+          },
+          "kjvSpecific": "no",
+          "mediation": "direct-OT",
+          "composite": [
+            "Genesis 35:19",
+            "Genesis 35:20"
+          ],
+          "provenance": {
+            "route": "Genesis 35:8 → KJV → Book of Mormon",
+            "alternative": "Naming a place after an event is the commonest of Hebrew etiological formulas and needs no single source; and the Book of Mormon does not translate 'Nahom' or comment on it.",
+            "significance": "Genesis 35 is the KJV's set-piece for a death on a journey commemorated in a place-name: Deborah dies and the burial oak is called Allon-bachuth, the oak of weeping (35:8); Rachel dies on the way and a pillar is set on her grave (35:19-20). 1 Nephi 16:34-35 has Ishmael die on the journey, be buried 'in the place which was called Nahom', and his daughters 'mourn exceedingly' — and Nahom is transparently the Hebrew root for mourning or consolation, so the name means what Allon-bachuth means. The Book of Mormon has reproduced the etiological structure without translating it, which is what a text does when it expects the reader to hear the name."
+          },
+          "note": "'Ishmael died, and was buried in the place which was called Nahom. And … the daughters of Ishmael did mourn exceedingly.' No wording is shared; the case is the form — death on the road, burial, a name, and mourning in the next clause — which the KJV supplies at Genesis 35. Recorded at moderate, and recorded chiefly so that the parallel is on the record: the catalogue takes no position on the philology of the name.",
+          "whyNot": "Nothing verbal, and the etiology is a universal narrative move. The mourning follows the name rather than explaining it, so a reader who does not supply the Hebrew root has no link at all.",
+          "bibliography": [],
+          "status": "novel",
+          "citationsPending": true,
+          "streams": [
+            "manual"
+          ]
+        }
+      ]
     },
     {
       "id": "16:35",
@@ -9762,7 +10055,49 @@
       "ch": 16,
       "ref": "16:37",
       "text": "And Laman saith unto Lemuel, and also unto the sons of Ishmael, Behold, let us slay our father, and also our brother Nephi, who hath taken it upon him to be our ruler and our teacher, who are his elder brethren.",
-      "links": []
+      "links": [
+        {
+          "source": "Acts 7:27",
+          "type": "allusion",
+          "subtype": "strong-verbal",
+          "confidence": "high",
+          "text": "But he that did his neighbour wrong thrust him away, saying, Who made thee a ruler and a judge over us?",
+          "evidence": {
+            "vocabulary": 4,
+            "syntax": 4,
+            "sequence": 5,
+            "context": 5,
+            "rarity": 5,
+            "attestation": 1
+          },
+          "kjvSpecific": "yes",
+          "mediation": "OT-via-NT",
+          "composite": [
+            "Acts 7:35",
+            "Exodus 2:14",
+            "Ephesians 4:14"
+          ],
+          "recurrenceRefs": [
+            "1 Nephi 2:22",
+            "1 Nephi 3:29",
+            "1 Nephi 17:44",
+            "1 Nephi 18:10"
+          ],
+          "provenance": {
+            "mt": "Exodus 2:14 — 'Who made thee a prince and a judge over us?'",
+            "route": "Exodus 2:14 → Acts 7:27, 7:35 → KJV → Book of Mormon",
+            "other": "The KJV's Old Testament form is 'a prince and a judge'; only Acts 7:27 and 7:35 read 'a ruler'. The Book of Mormon has used 'ruler' at 2:22, at 3:29, and here.",
+            "significance": "The promise made at 2:22 and confirmed by the angel at 3:29 is now thrown back as an accusation, which is exactly the movement of Stephen's argument. Acts 7:27 is the sneer; Acts 7:35 is the answer — 'This Moses whom they refused, saying, Who made thee a ruler and a judge? the same did God send to be a ruler and a deliverer.' 1 Nephi 16:37 gives the sneer to Laman ('our brother Nephi, who hath taken it upon him to be our ruler and our teacher') and 16:38 escalates it to 'make himself a King and a ruler over us'. Third occurrence of the formula in the book, and the first in the mouths for whom Stephen's version was written. The clause 'who are his elder brethren' is the Book of Mormon supplying the grievance Exodus leaves implicit."
+          },
+          "note": "'Let us slay our father, and also our brother Nephi, who hath taken it upon him to be our ruler and our teacher.' Not a quotation but a redeployment: the noun 'ruler' identifies the New Testament form (see 2:22), and the sentence turns 2:22's blessing into a capital charge. 16:38's account of Nephi's 'cunning arts, that he may deceive our eyes' takes its shape from Ephesians 4:14's 'cunning craftiness, whereby they lie in wait to deceive', which is the KJV's only occurrence of that collocation.",
+          "bibliography": [],
+          "status": "consensus",
+          "citationsPending": true,
+          "streams": [
+            "manual"
+          ]
+        }
+      ]
     },
     {
       "id": "16:38",
