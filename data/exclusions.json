@@ -1537,6 +1537,136 @@
         "machine-ngram"
       ],
       "reason": "Five function words. 1 Samuel 13:6 is cited as a genuine, if weak, source at 3:27; here the overlap is syntax only."
+    },
+    {
+      "bomRef": "1 Nephi 12:1",
+      "source": "1 Kings 4:20",
+      "category": "common-vocabulary",
+      "sharedText": "many as the sand",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "'Judah and Israel were many, as the sand which is by the sea in multitude.' The sand-of-the-sea simile occurs in nine KJV verses (Genesis 32:12, 41:49, 1 Kings 4:20, Psalm 78:27, Isaiah 10:22, Hosea 1:10, Romans 9:27, Hebrews 11:12, Revelation 20:8) and points at no single one. Note in passing that Hebrews 11:12 is the version inside the chapter this book has been quoting since 1 Nephi 2:3."
+    },
+    {
+      "bomRef": "1 Nephi 12:1",
+      "source": "Acts 2:39",
+      "category": "formulaic",
+      "sharedText": "as many as the",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "Four function words."
+    },
+    {
+      "bomRef": "1 Nephi 12:1",
+      "source": "Genesis 50:17",
+      "category": "formulaic",
+      "sharedText": "of thy brethren and",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "Genesis 50:17 is a real source in this book, at 1 Nephi 7:20 — the brothers' plea for forgiveness. Here the overlap is a possessive phrase."
+    },
+    {
+      "bomRef": "1 Nephi 12:4",
+      "source": "1 Chronicles 14:12",
+      "category": "formulaic",
+      "sharedText": "they were burned with fire",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "David burning the Philistines' abandoned gods. A destruction formula; the chapter's catastrophe vocabulary is Matthew 27:51's and Revelation 16:18-20's."
+    },
+    {
+      "bomRef": "1 Nephi 12:5",
+      "source": "Malachi 4:5",
+      "category": "insufficient-verbal",
+      "sharedText": "of the great and",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "'The great and dreadful day of the LORD'; Joel 2:31 has 'the great and terrible day of the LORD', which is closer to 1 Nephi's 'the great and terrible judgments of the Lord'. Four function words either way, and 'judgments' is the Book of Mormon's noun, not the KJV's. Malachi 4 is a genuine source later in this book (22:15, 22:24, on Hardy's apparatus); not here."
+    },
+    {
+      "bomRef": "1 Nephi 12:5",
+      "source": "Psalm 19:9",
+      "category": "formulaic",
+      "sharedText": "judgments of the LORD",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "A standing genitive."
+    },
+    {
+      "bomRef": "1 Nephi 12:8",
+      "source": "Zechariah 6:8",
+      "category": "formulaic",
+      "sharedText": "spake unto me saying Behold",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "The vision-dialogue formula, five words. Recurs at 12:16 and throughout 11-14; covered by the standing exclusion filed at 11:21."
+    },
+    {
+      "bomRef": "1 Nephi 12:9",
+      "source": "John 5:39",
+      "category": "formulaic",
+      "sharedText": "they are they which",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "A demonstrative relative. Note that Revelation 7:14's 'These are they which' is the same construction and IS part of a real link at 12:11 — the difference being that there the whole predicate follows."
+    },
+    {
+      "bomRef": "1 Nephi 12:9",
+      "source": "1 Corinthians 1:11",
+      "category": "formulaic",
+      "sharedText": "are of the house of",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "'The house of Chloe' against 'the house of Israel'. Five function words."
+    },
+    {
+      "bomRef": "1 Nephi 12:15",
+      "source": "2 Samuel 20:14",
+      "category": "formulaic",
+      "sharedText": "they were gathered together",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "An assembly formula, used four times in this chapter alone."
+    },
+    {
+      "bomRef": "1 Nephi 12:18",
+      "source": "Deuteronomy 33:21",
+      "category": "formulaic",
+      "sharedText": "the justice of the",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "Four function words."
+    },
+    {
+      "bomRef": "1 Nephi 12:18",
+      "source": "John 17:3",
+      "category": "insufficient-verbal",
+      "sharedText": "God and Jesus Christ",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "Recorded because of the variant rather than the match. The 1830 reads 'the Eternal God, and Jesus Christ, which is the Lamb of God'; the 1920 edition replaced the name with 'the Messiah'. So the four shared words exist only in the first edition, and what they are evidence of is an editorial retreat from putting the name Jesus Christ in a 600 BC vision — the same retreat visible at 11:18, 11:21, 11:32 and 13:40."
+    },
+    {
+      "bomRef": "1 Nephi 12:19",
+      "source": "Job 35:12",
+      "category": "formulaic",
+      "sharedText": "because of the pride of",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "'Because of the pride of evil men.' A causal phrase; the pride motif in this chapter is glossed at 12:18 with Romans 1:21's 'vain imaginations'."
     }
   ]
 }

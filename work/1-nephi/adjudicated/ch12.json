@@ -1,0 +1,199 @@
+{
+  "chapter": 12,
+  "adjudicated": "2026-09-05",
+  "adjudicator": "Opus",
+  "links": {
+    "12:2": [
+      {
+        "source": "Matthew 24:6",
+        "type": "quotation",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "And ye shall hear of wars and rumours of wars: see that ye be not troubled: for all these things must come to pass, but the end is not yet.",
+        "evidence": { "vocabulary": 5, "syntax": 5, "sequence": 4, "context": 5, "rarity": 5, "attestation": 2 },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": ["Mark 13:7", "Matthew 24:7"],
+        "recurrenceRefs": ["1 Nephi 12:21", "1 Nephi 14:15-16"],
+        "provenance": {
+          "route": "Matthew 24:6 → KJV → Book of Mormon",
+          "other": "'Rumours of wars' occurs in exactly two KJV verses, Matthew 24:6 and its Markan parallel at 13:7.",
+          "significance": "Matthew 24 is the template for the whole chapter, not just the phrase. The Olivet discourse runs wars and rumours of wars (24:6), nation against nation (24:7), earthquakes (24:7), the darkening of the sun (24:29), and then the Son of man appearing (24:30); 1 Nephi 12 runs wars and rumours of wars (12:2), multitudes to battle (12:2), earthquakes and darkness (12:4), and the Lamb of God descending out of heaven (12:6). The Book of Mormon has taken the KJV's apocalyptic discourse and used it as the outline of a national history, with Christ's appearance placed where Matthew puts the parousia."
+        },
+        "note": "'I beheld wars, and rumors of wars, and great slaughters with the sword among my people.' The phrase belongs to two KJV verses, both the same saying. It recurs at 12:21 ('wars, and rumors of wars among them'), which is how the chapter marks the passage of generations. Below Skousen's threshold; catalogued as a quotation because the phrase is a KJV property reproduced intact.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": ["manual"]
+      }
+    ],
+    "12:4": [
+      {
+        "source": "Matthew 27:51",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "And, behold, the veil of the temple was rent in twain from the top to the bottom; and the earth did quake, and the rocks rent;",
+        "evidence": { "vocabulary": 5, "syntax": 4, "sequence": 4, "context": 5, "rarity": 5, "attestation": 2 },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": ["Revelation 16:18", "Revelation 16:20", "Revelation 11:19"],
+        "recurrenceRefs": ["1 Nephi 19:10-12", "3 Nephi 8:5-23"],
+        "provenance": {
+          "route": "Matthew 27:51 → KJV → Book of Mormon",
+          "other": "'The rocks rent' occurs in exactly one KJV verse, and 'the earth did quake' stands immediately before it in the same clause.",
+          "significance": "The catastrophe Nephi sees is dated by its borrowing. Matthew 27:51 describes the signs at the moment of the crucifixion — the earth quaking and the rocks rending — and 1 Nephi 12:4-6 puts an earthquake and rending rocks immediately before 'the Lamb of God descending out of Heaven', which is what the Book of Mormon's own narrative later supplies at 3 Nephi 8-11. The Old World sign is transplanted to the New, and the phrase that transplants it is a KJV singleton. The apocalyptic furniture around it — lightnings, thunderings, cities falling, mountains not found — is Revelation 16:18-20's."
+        },
+        "note": "'I saw the earth and the rocks, that they rent; and I saw mountains tumbling into pieces … and I saw many cities, that they were sunk.' The rocks and the quaking are Matthew's crucifixion signs; the mountains and cities are Revelation 16's seventh vial. 1 Nephi 19:10-12 will say explicitly that these signs attend the death of Christ, which confirms the reading.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": ["manual"]
+      }
+    ],
+    "12:9": [
+      {
+        "source": "Matthew 19:28",
+        "type": "quotation",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "And Jesus said unto them, Verily I say unto you, That ye which have followed me, in the regeneration when the Son of man shall sit in the throne of his glory, ye also shall sit upon twelve thrones, judging the twelve tribes of Israel.",
+        "evidence": { "vocabulary": 5, "syntax": 4, "sequence": 4, "context": 5, "rarity": 5, "attestation": 4 },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": ["Luke 22:30", "Revelation 21:14"],
+        "recurrenceRefs": ["1 Nephi 11:34", "1 Nephi 11:35", "1 Nephi 11:36"],
+        "provenance": {
+          "route": "Matthew 19:28 / Luke 22:30 → KJV → Book of Mormon",
+          "other": "'The twelve tribes of Israel' judged by the twelve occurs in exactly two KJV verses, Matthew 19:28 and Luke 22:30, in identical wording ('judging the twelve tribes of Israel'), so nothing selects between them. 'The twelve apostles of the Lamb' in the same verse is Revelation 21:14's, a KJV singleton.",
+          "significance": "Two apocalyptic titles are joined in one sentence and a third court is inserted between them. The twelve apostles of the Lamb (Revelation 21:14) shall judge the twelve tribes of Israel (Matthew 19:28) — and the Book of Mormon adds that its own twelve ministers, who judge Nephi's seed, shall themselves be judged by the apostles. The hierarchy is the Book of Mormon's own; both its terms are borrowed, and the innovation consists precisely in stacking them."
+        },
+        "note": "'Behold, they are they which shall judge the twelve tribes of Israel; wherefore, the twelve ministers of thy seed, shall be judged of them; for ye are of the house of Israel.' Note the 1830 'Thou remembereth' (1920: 'rememberest'), a first-edition form and not a KJV one.",
+        "bibliography": ["Hardy MSI at 1 Ne 12.9 (Matthew 19:28; Luke 22:30)"],
+        "status": "consensus",
+        "streams": ["machine-ngram", "scholarship"]
+      }
+    ],
+    "12:11": [
+      {
+        "source": "Revelation 7:14",
+        "type": "quotation",
+        "subtype": "close-verbal",
+        "confidence": "certain",
+        "text": "And I said unto him, Sir, thou knowest. And he said to me, These are they which came out of great tribulation, and have washed their robes, and made them white in the blood of the Lamb.",
+        "evidence": { "vocabulary": 5, "syntax": 5, "sequence": 5, "context": 5, "rarity": 5, "attestation": 3 },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": ["Revelation 7:13", "Revelation 22:14"],
+        "recurrenceRefs": ["1 Nephi 12:10", "Alma 5:21", "Alma 13:11", "3 Nephi 27:19"],
+        "provenance": {
+          "route": "Revelation 7:14 → KJV → Book of Mormon",
+          "other": "'Made them white in the blood of the Lamb' occurs in exactly one KJV verse. The whole seven-word run 'white in the blood of the Lamb' is unique to it.",
+          "significance": "Revelation 7:14 becomes one of the Book of Mormon's standing formulas — garments made white in the blood of the Lamb, at Alma 5:21, 13:11 and 3 Nephi 27:19 — and it enters the book here, twice in two verses (12:10, 12:11), with the dialogue frame of Revelation 7:13-14 intact: an interlocutor asks, the seer defers, the interlocutor explains who the white-robed are. 1 Nephi 12:11 keeps even that structure — 'And the angel said unto me, These are made white in the blood of the Lamb' answers Revelation's 'These are they which … made them white in the blood of the Lamb.'"
+        },
+        "note": "'Their garments were white, even like unto the Lamb of God … These are made white in the blood of the Lamb, because of their faith in him.' Seven words verbatim from a KJV singleton, and the demonstrative 'These are' reproduced with it. The Book of Mormon adds the ground — 'because of their faith in him' — which Revelation does not state. Recorded at 'certain'.",
+        "bibliography": [],
+        "status": "consensus",
+        "citationsPending": true,
+        "streams": ["machine-ngram", "manual"]
+      }
+    ],
+    "12:16": [
+      {
+        "source": "Proverbs 9:18",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "text": "But he knoweth not that the dead are there; and that her guests are in the depths of hell.",
+        "evidence": { "vocabulary": 4, "syntax": 3, "sequence": 3, "context": 5, "rarity": 5, "attestation": 0 },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": ["Isaiah 14:15", "Jeremiah 2:13"],
+        "recurrenceRefs": ["1 Nephi 11:25", "1 Nephi 15:26-29"],
+        "provenance": {
+          "route": "Proverbs 9:18 → KJV → Book of Mormon",
+          "other": "'The depths of hell' occurs in exactly one KJV verse.",
+          "significance": "The reinterpretation is the point. At 11:25 the water beside the tree was 'the fountain of living waters', which is Jeremiah 2:13's title for God; at 12:16 the same river is 'the fountain of filthy water … and the depths thereof, are the depths of hell'. Two chapters apart, the same narrator gives the same image opposite meanings, each in a borrowed phrase, and neither reading is retracted. Proverbs 9:18 is the KJV's one 'depths of hell', and its context is the house of the strange woman whose guests do not know where they are — which is what 12:17's mist of darkness does to the people on the path."
+        },
+        "note": "'Behold the fountain of filthy water which thy father saw … and the depths thereof, are the depths of hell.' The phrase is a KJV singleton. Held at moderate because four words is a small basis and Isaiah 14:15's 'brought down to hell, to the sides of the pit' is an available alternative; recorded because of the collision with 11:25, which is a fact about the Book of Mormon's own exegesis rather than about the KJV.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": ["manual"]
+      }
+    ],
+    "12:17": [
+      {
+        "source": "John 12:40",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "text": "He hath blinded their eyes, and hardened their heart; that they should not see with their eyes, nor understand with their heart, and be converted, and I should heal them.",
+        "evidence": { "vocabulary": 5, "syntax": 5, "sequence": 5, "context": 5, "rarity": 5, "attestation": 0 },
+        "kjvSpecific": "yes",
+        "mediation": "OT-via-NT",
+        "composite": ["Isaiah 6:10", "Matthew 7:13", "2 Corinthians 4:4"],
+        "recurrenceRefs": ["1 Nephi 8:20", "1 Nephi 8:23", "1 Nephi 7:8"],
+        "provenance": {
+          "mt": "Isaiah 6:10 — 'Make the heart of this people fat, and make their ears heavy, and shut their eyes.'",
+          "route": "Isaiah 6:10 → John 12:40 → KJV → Book of Mormon",
+          "other": "The pairing of blinded eyes with a hardened heart occurs in exactly one KJV verse. John 12:40 is a free rendering of Isaiah 6:10, and Isaiah's own wording is quite different — fat heart, heavy ears, shut eyes, with no blinding and no hardening. The Book of Mormon has John's verbs, not Isaiah's.",
+          "significance": "A sixth clean mediation case, decided on vocabulary rather than word order: the Book of Mormon's 'blindeth the eyes, and hardeneth the hearts' is John 12:40's pair and cannot come from Isaiah 6:10, which uses neither verb. And the second half of the verse completes the other borrowing: 'leadeth them away into broad roads, that they may perish' is Matthew 7:13's 'broad is the way, that leadeth to destruction' — the half of the strait-gate saying that 1 Nephi 8:20 did not take. Both halves of Matthew 7:13-14 are now in the catalogue, four chapters apart."
+        },
+        "note": "'The mists of darkness, are the temptations of the devil, which blindeth the eyes, and hardeneth the hearts of the children of men, and leadeth them away into broad roads, that they may perish, and are lost.' The interpretation of the mist takes its verbs from John 12:40 and its road from Matthew 7:13. Note that the mist itself came from 2 Peter 2:17 (see 8:23), where it is not a temptation but a punishment — so Nephi's gloss is a reading of the phrase rather than of its source.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": ["manual"]
+      }
+    ],
+    "12:18": [
+      {
+        "source": "Luke 16:26",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "And beside all this, between us and you there is a great gulf fixed: so that they which would pass from hence to you cannot; neither can they pass to us, that would come from thence.",
+        "evidence": { "vocabulary": 5, "syntax": 4, "sequence": 4, "context": 5, "rarity": 5, "attestation": 1 },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": ["Romans 1:21", "Matthew 7:26"],
+        "recurrenceRefs": ["1 Nephi 8:26", "1 Nephi 11:36", "1 Nephi 15:28-29"],
+        "provenance": {
+          "route": "Luke 16:26 → KJV → Book of Mormon",
+          "other": "'Great gulf' occurs in exactly one KJV verse. 'Vain imaginations' is Romans 1:21's 'became vain in their imaginations', the KJV's only occurrence of the collocation.",
+          "significance": "Luke 16:19-31 supplies the dream's missing geometry. Lehi saw a building on the far side of a river with people mocking across it; Nephi now says 'a great and a terrible gulf divideth them', which is the phrase from the one KJV passage where two parties are permanently separated by an impassable space and can still see and speak to each other. That is exactly the arrangement of 8:26-33 — the scoffers in the building can be seen and heard by those at the tree, and neither can reach the other. Nephi restates it at 15:28-29 as 'an awful gulf'.",
+          "alternative": "The 1830 reads 'the word of the justice of the Eternal God, and Jesus Christ', which the 1920 edition altered to 'the Messiah' — one of the first edition's several places where the name Jesus Christ stands in a pre-Christian speech and was later removed. Recorded here because it bears on how the verse is read, not on its source."
+        },
+        "note": "'And a great and a terrible gulf divideth them.' The noun phrase is a KJV singleton and its source passage supplies the whole configuration of Lehi's dream's second half. 'Vain imaginations, and the pride of the children of men' glosses the building with Romans 1:21's phrase, which is likewise unique in the KJV.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": ["manual"]
+      }
+    ],
+    "12:23": [
+      {
+        "source": "Ezekiel 16:49",
+        "type": "echo",
+        "subtype": "probable",
+        "confidence": "moderate",
+        "text": "Behold, this was the iniquity of thy sister Sodom, pride, fulness of bread, and abundance of idleness was in her and in her daughters, neither did she strengthen the hand of the poor and needy.",
+        "evidence": { "vocabulary": 3, "syntax": 3, "sequence": 4, "context": 5, "rarity": 4, "attestation": 0 },
+        "kjvSpecific": "uncertain",
+        "mediation": "direct-OT",
+        "provenance": {
+          "route": "Ezekiel 16:49 → KJV → Book of Mormon",
+          "alternative": "'Idleness' occurs in three KJV verses (Proverbs 31:27, Ecclesiastes 10:18, Ezekiel 16:49) and is a commonplace of wisdom literature; no phrase is reproduced.",
+          "significance": "Ezekiel 16:49 is the KJV's one verse that makes idleness a national iniquity rather than a personal vice, and it names it alongside pride — which is the pair 1 Nephi 12 has been building since 12:18-19, where the building is 'the pride of the children of men' and the seed is overpowered 'because of the pride of my seed'. The chapter ends with pride's consequence stated in Ezekiel's Sodom vocabulary: 'full of idleness and all manner of abominations'."
+        },
+        "note": "'They became a dark, and loathsome, and a filthy people, full of idleness and all manner of abominations.' Recorded on the collocation of idleness with abomination as the diagnosis of a people, which the KJV has once. The verse's other terms are the Book of Mormon's own and have no KJV source; the racial language in particular ('a dark, and loathsome, and a filthy people') is not scriptural vocabulary and is not being catalogued as such.",
+        "whyNot": "One shared word, and it is not rare enough on its own to identify a source. The link rests entirely on the pride-and-idleness pairing, which a reader may reasonably think is coincidence.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": ["manual"]
+      }
+    ]
+  }
+}
