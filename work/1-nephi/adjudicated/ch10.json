@@ -1,0 +1,241 @@
+{
+  "chapter": 10,
+  "adjudicated": "2026-09-05",
+  "adjudicator": "Opus",
+  "links": {
+    "10:4": [
+      {
+        "source": "Deuteronomy 18:15",
+        "type": "allusion",
+        "subtype": "conceptual",
+        "confidence": "high",
+        "text": "The LORD thy God will raise up unto thee a Prophet from the midst of thee, of thy brethren, like unto me; unto him ye shall hearken;",
+        "evidence": { "vocabulary": 4, "syntax": 4, "sequence": 4, "context": 5, "rarity": 4, "attestation": 5 },
+        "kjvSpecific": "uncertain",
+        "mediation": "uncertain",
+        "composite": ["Deuteronomy 18:18", "Acts 3:22", "John 4:42", "1 John 4:14"],
+        "recurrenceRefs": ["1 Nephi 22:20", "1 Nephi 2:18", "1 Nephi 17:53-55", "Jarom 1:2", "3 Nephi 20:23", "Alma 33:12-22"],
+        "provenance": {
+          "route": "Deuteronomy 18:15-18 → KJV → Book of Mormon (mediation undecided here; see 1 Nephi 22:20)",
+          "other": "'Saviour of the world' occurs in exactly two KJV verses, John 4:42 and 1 John 4:14. Note the 1830 spelling 'Saviour', which is the King James spelling; 1920 modernized it to 'Savior'.",
+          "alternative": "Whether the raise-up-a-prophet formula reaches 1 Nephi 10:4-5 from Deuteronomy 18:15 or from Acts 3:22 cannot be decided at this verse: Deuteronomy has 'The LORD thy God will raise up unto thee a Prophet', Acts has 'A prophet shall the Lord your God raise up unto you', and 1 Nephi 10:4 has 'a Prophet would the Lord God raise up', which matches neither pronoun. The test is deferred to 22:20, where the passage is quoted at length.",
+          "significance": "Deuteronomy 18:15-18 is the Book of Mormon's charter text and 1 Nephi 10:4-5 is its first full statement here. Lehi's Messiah is announced under Deuteronomy's title, and the verse then translates it twice — 'a Messiah; or, in other words, a Saviour of the world', the second phrase being one that exists in the KJV only in the Johannine literature. The prophet promised to Moses is glossed with a title from John."
+        },
+        "note": "'A Prophet would the Lord God raise up among the Jews; yea, even a Messiah; or, in other words, a Saviour of the world.' The double gloss is the interesting part. Deuteronomy's promise is turned into a Messiah and then into a Saviour of the world, a phrase the KJV has twice and only in John and 1 John. The mediation call is explicitly left open here and taken at 22:20.",
+        "bibliography": ["Hardy MSI at 1 Ne 10.5 (Deuteronomy 18:15-18)"],
+        "status": "consensus",
+        "streams": ["scholarship", "manual"]
+      }
+    ],
+    "10:8": [
+      {
+        "source": "John 1:26",
+        "type": "quotation",
+        "subtype": "extended",
+        "confidence": "certain",
+        "text": "John answered them, saying, I baptize with water: but there standeth one among you, whom ye know not;",
+        "evidence": { "vocabulary": 5, "syntax": 5, "sequence": 5, "context": 5, "rarity": 5, "attestation": 5 },
+        "kjvSpecific": "yes",
+        "mediation": "OT-via-NT",
+        "composite": ["John 1:27", "Matthew 3:3", "Mark 1:3", "Luke 3:4", "Matthew 3:11", "Isaiah 40:3"],
+        "recurrenceRefs": ["1 Nephi 10:9", "1 Nephi 10:10", "1 Nephi 11:27"],
+        "provenance": {
+          "mt": "Isaiah 40:3 — 'The voice of him that crieth in the wilderness, Prepare ye the way of the LORD, make straight in the desert a highway for our God.'",
+          "route": "Isaiah 40:3 → the Synoptic citation form (Matthew 3:3 / Mark 1:3 / Luke 3:4) + John 1:26-27 + Matthew 3:11 → KJV → Book of Mormon",
+          "other": "The Old Testament and New Testament forms of Isaiah 40:3 diverge in the second half. Isaiah reads 'make straight in the desert a highway for our God'; all three Synoptic quotations read 'make his paths straight'. 1 Nephi 10:8 reads 'make his paths straight'. Separately: 'whose shoe's latchet' — singular, possessive — occurs in exactly one KJV verse, John 1:27; Mark 1:7 and Luke 3:16 read 'the latchet of whose shoes'. And 'is mightier than I' in that word order is Matthew 3:11's.",
+          "significance": "This is the densest verse in 1 Nephi and the clearest mediation case in the book. One sentence, put in the mouth of a prophet six hundred years before John the Baptist, fuses four New Testament verses: the Synoptic form of Isaiah 40:3 (not Isaiah's own), John 1:26 verbatim for nine words, John 1:27's singular 'shoe's latchet' rather than Mark's or Luke's plural, and Matthew 3:11's 'mightier than I'. Every point at which the KJV offers a choice between two wordings, 1 Nephi 10:8 takes the New Testament's — and where the New Testament itself offers a choice, it takes John's. The next two verses continue: Bethabara at 10:9 (a place-name unique to John 1:28), the Lamb of God at 10:10 (John 1:29). Lehi's prophecy of John the Baptist is a cento of the Fourth Gospel's first chapter."
+        },
+        "note": "'Yea, even he should go forth and cry in the wilderness, Prepare ye the way of the Lord, and make his paths straight; for there standeth one among you whom ye know not; and he is mightier than I, whose shoe's latchet I am not worthy to unloose.' Two runs of nine and ten words are reproduced verbatim, and the machine stream ranked John 1:26 and 1:27 first and second in the chapter (rarity 5.33 and 4.83). The combined verbatim material comfortably exceeds Skousen's sixteen-word threshold, though it is assembled from four verses rather than continuous in one; whether he counts it among his thirty-six long quotations cannot be checked, since the itemized list is unobtainable (PLAN §4.1). Recorded at 'certain'.",
+        "bibliography": ["Hardy MSI at 1 Ne 10.8 (Isaiah 40:3; Matthew 3:3; Mark 1:2-3; Luke 3:4; Matthew 3:11; Mark 1:7; Luke 3:16; John 1:26-27)"],
+        "status": "consensus",
+        "streams": ["machine-ngram", "scholarship", "manual"]
+      }
+    ],
+    "10:9": [
+      {
+        "source": "John 1:28",
+        "type": "quotation",
+        "subtype": "close-verbal",
+        "confidence": "certain",
+        "text": "These things were done in Bethabara beyond Jordan, where John was baptizing.",
+        "evidence": { "vocabulary": 5, "syntax": 5, "sequence": 5, "context": 5, "rarity": 5, "attestation": 4 },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "John 1:28 → KJV → Book of Mormon",
+          "other": "'Bethabara' occurs in exactly one verse of the King James Bible, John 1:28, and the reading itself is a textual variant: the majority of Greek manuscripts and every modern critical edition read Bethany, not Bethabara. The King James translators followed the Textus Receptus here.",
+          "significance": "This is the strongest single piece of evidence in 1 Nephi for the project's central claim, and it is strong precisely because it is a proper noun. A place-name that exists nowhere in scripture except one King James verse, and exists there because of a manuscript reading the King James translators happened to adopt, is spoken by a prophet in Arabia in 600 BC. Compare 10:8's 'make his paths straight' and 10:10's Lamb of God: the whole passage is John 1 in sequence, and this verse is the point at which the dependence stops being a matter of judgment. The 1830 spells the verb 'baptise', where the KJV has 'baptize'; 1920 corrected it back toward the KJV, which is the opposite of the usual direction (CONVENTIONS §8)."
+        },
+        "note": "'And my father saith that he should baptise in Bethabara, beyond Jordan.' Four words, one of them a proper noun found in a single KJV verse and found there on a contested reading. Below Skousen's sixteen-word threshold and not one of his quotations; catalogued as a quotation, and as the chapter's decisive datum, because rarity here is absolute rather than statistical.",
+        "bibliography": [],
+        "status": "consensus",
+        "citationsPending": true,
+        "streams": ["manual"]
+      }
+    ],
+    "10:10": [
+      {
+        "source": "John 1:29",
+        "type": "quotation",
+        "subtype": "close-verbal",
+        "confidence": "certain",
+        "text": "The next day John seeth Jesus coming unto him, and saith, Behold the Lamb of God, which taketh away the sin of the world.",
+        "evidence": { "vocabulary": 5, "syntax": 5, "sequence": 5, "context": 5, "rarity": 5, "attestation": 5 },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": ["John 1:34"],
+        "recurrenceRefs": ["1 Nephi 11:21", "1 Nephi 11:31", "1 Nephi 12:6", "1 Nephi 13:41", "1 Nephi 14:10"],
+        "provenance": {
+          "route": "John 1:29 → KJV → Book of Mormon",
+          "other": "The Book of Mormon reads 'the sins of the world', plural; the KJV reads 'the sin of the world', singular, at John 1:29 and again at 1:36's shorter form. The plural is the only alteration.",
+          "significance": "'The Lamb of God' becomes the Book of Mormon's dominant title for Christ from here to the end of 1 Nephi — chapters 11 to 14 use it more than fifty times — and it enters the book in John 1:29's exact clause, three verses after Bethabara and two after John 1:26-27. The whole of Lehi's prophecy at 10:7-10 is the first chapter of John's Gospel read in order: the forerunner, the one standing unknown among them, the latchet, the place, the Lamb, and the bearing of record (John 1:34). Whatever else is going on in this book, this passage is a reading of John 1."
+        },
+        "note": "'He should behold and bear record, that he had baptised the Lamb of God, which should take away the sins of the world.' John 1:29's clause with the noun pluralized and the tense shifted to prophecy; 'bear record' is John 1:34's own verb for what the Baptist then does. The 1830's 'which' where 1920 reads 'who' preserves the KJV relative.",
+        "bibliography": ["Hardy MSI at 1 Ne 10.10 (John 1:29)"],
+        "status": "consensus",
+        "streams": ["machine-ngram", "scholarship"]
+      }
+    ],
+    "10:11": [
+      {
+        "source": "Acts 26:23",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "text": "That Christ should suffer, and that he should be the first that should rise from the dead, and should shew light unto the people, and to the Gentiles.",
+        "evidence": { "vocabulary": 5, "syntax": 5, "sequence": 5, "context": 5, "rarity": 4, "attestation": 0 },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "Acts 26:23 → KJV → Book of Mormon",
+          "other": "A seven-word run — 'should rise from the dead, and should' — with 'the Gentiles' following in both.",
+          "significance": "Acts 26:22-23 is Paul before Agrippa summarizing what he preaches as 'none other things than those which the prophets and Moses did say should come': Christ suffering, rising first from the dead, and shewing light to the Gentiles. That is precisely the claim 1 Nephi 10:11 makes for Lehi — a pre-Christian prophet stating the gospel in outline — and it states it in Paul's own summary sentence. The Book of Mormon is using the New Testament's own description of Old Testament prophecy as the content of an Old Testament prophecy."
+        },
+        "note": "'After that they had slain the Messiah which should come, and after that he had been slain, he should rise from the dead, and should make himself manifest, by the Holy Ghost, unto the Gentiles.' The elements and their order are Acts 26:23's — suffering, resurrection, manifestation to the Gentiles — with the seven-word run in the middle. Note the third element in 1 Nephi is 'the dwindling of the Jews in unbelief', which is Romans 11's premise and prepares the olive tree of 10:12.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": ["machine-ngram", "manual"]
+      }
+    ],
+    "10:12": [
+      {
+        "source": "Romans 11:24",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "text": "For if thou wert cut out of the olive tree which is wild by nature, and wert graffed contrary to nature into a good olive tree: how much more shall these, which be the natural branches, be graffed into their own olive tree?",
+        "evidence": { "vocabulary": 5, "syntax": 4, "sequence": 5, "context": 5, "rarity": 5, "attestation": 4 },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": ["Romans 11:17", "Romans 11:21", "Ezekiel 34:6"],
+        "recurrenceRefs": ["1 Nephi 10:14", "1 Nephi 15:7", "1 Nephi 15:12", "1 Nephi 15:16", "Jacob 5"],
+        "provenance": {
+          "route": "Romans 11:17-24 → KJV → Book of Mormon",
+          "other": "'Natural branches' occurs in exactly two KJV verses, Romans 11:21 and 11:24. The olive-tree allegory of branches broken off, a wild stock grafted in, and the natural branches grafted back exists in the Bible only at Romans 11. 'Scattered upon all the face of the earth' is Ezekiel 34:6's, and occurs in one KJV verse.",
+          "significance": "Romans 11 is the Book of Mormon's master allegory. It supplies 10:12's broken branches, 10:14's natural branches grafted in, the whole of Nephi's explanation at 15:7-16, and eventually the seventy-seven verses of Jacob 5, which is the allegory expanded into a parable. Paul's argument is that Israel's unbelief is temporary and instrumental — 'blindness in part is happened to Israel, until the fulness of the Gentiles be come in' (11:25) — and 1 Nephi 10:14 reproduces the sequence and even the term: 'after the Gentiles had received the fulness of the Gospel, the natural branches … should be grafted in'. Paul's 'fulness of the Gentiles' has become the 'fulness of the Gospel', and the fulness phrase itself is Romans 15:29's."
+        },
+        "note": "'They should be compared like unto an olive tree, whose branches should be broken off, and should be scattered upon all the face of the earth.' Romans 11:17's broken branches, Romans 11:24's natural branches at 10:14, and the grafting in both — against Ezekiel 34:6, which supplies the scattering in an eight-word run. Held at high rather than certain because no continuous clause is reproduced; the case is the allegory, which is Paul's property in scripture, plus the two-verse phrase 'natural branches'.",
+        "bibliography": ["Hardy MSI at 1 Ne 15.12 (Romans 11:16-24), for the same allegory at Nephi's exposition"],
+        "status": "consensus",
+        "streams": ["machine-ngram", "manual"]
+      }
+    ],
+    "10:18": [
+      {
+        "source": "Hebrews 13:8",
+        "type": "quotation",
+        "subtype": "close-verbal",
+        "confidence": "certain",
+        "text": "Jesus Christ the same yesterday, and to day, and for ever.",
+        "evidence": { "vocabulary": 5, "syntax": 5, "sequence": 5, "context": 5, "rarity": 5, "attestation": 3 },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": ["Matthew 25:34", "Revelation 13:8"],
+        "recurrenceRefs": ["2 Nephi 27:23", "Alma 31:17", "Mormon 9:9", "Moroni 10:19"],
+        "provenance": {
+          "route": "Hebrews 13:8 → KJV → Book of Mormon",
+          "other": "'The same yesterday' occurs in exactly one KJV verse, and the whole seven-word formula 'the same yesterday, and to day, and for ever' is unique to it. The 1830 hyphenates 'to-day'.",
+          "significance": "Hebrews continues to be a governing source for this book: 11:8, 11:9 and 11:13 in chapter 2 and 5, 11:29 in chapter 4, and now 13:8. The formula becomes one of the Book of Mormon's standing arguments — it is the premise of the claim that revelation and miracle did not cease — and it is used that way here, to license Nephi's request in the previous verse for the same experience his father had, 'as well in times of old as in the time that he should manifest himself'. The immutability of God is the warrant for the continuity of revelation, which is Hebrews 13:8 pressed into service as an epistemology.",
+          "alternative": "The second half of the verse, 'the way is prepared from the foundation of the world', draws on a different KJV formula: 'from the foundation of the world' occurs in ten verses, of which Matthew 25:34 ('the kingdom prepared for you from the foundation of the world') and Revelation 13:8 ('the Lamb slain from the foundation of the world') are the two that pair it with preparation and with the Lamb — the title this chapter has just adopted at 10:10."
+        },
+        "note": "'For he is the same yesterday, to-day, and forever.' Seven words verbatim from the KJV's only occurrence, with 'Jesus Christ' replaced by the pronoun because the Messiah has not yet been named in the narrative. Below Skousen's sixteen-word threshold and not one of his quotations. Recorded at 'certain'.",
+        "bibliography": [],
+        "status": "consensus",
+        "citationsPending": true,
+        "streams": ["manual"]
+      }
+    ],
+    "10:19": [
+      {
+        "source": "Matthew 7:7",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "text": "Ask, and it shall be given you; seek, and ye shall find; knock, and it shall be opened unto you:",
+        "evidence": { "vocabulary": 4, "syntax": 4, "sequence": 3, "context": 4, "rarity": 3, "attestation": 0 },
+        "kjvSpecific": "uncertain",
+        "mediation": "direct-NT",
+        "composite": ["Matthew 7:8", "Hebrews 11:6", "1 Corinthians 4:1"],
+        "recurrenceRefs": ["1 Nephi 2:16", "1 Nephi 2:19", "1 Nephi 10:17", "1 Nephi 15:11"],
+        "provenance": {
+          "route": "Matthew 7:7-8 + Hebrews 11:6 → KJV → Book of Mormon",
+          "alternative": "'Seek and ye shall find' is among the best-known sentences in the KJV and its reuse proves nothing about which verse is in view.",
+          "significance": "Two formulas the book has already used are fused here. Hebrews 11:6's 'them that diligently seek him' was the ground of the blessing at 2:19; Matthew 7:8's 'he that seeketh findeth' is the promise. 1 Nephi 10:19 joins them into a single clause — 'he that diligently seeketh, shall find' — and attaches to it the mysteries of God from 1 Corinthians 4:1, which was Nephi's request at 2:16. The verse is a compendium of the book's own borrowed epistemology, restated as a rule."
+        },
+        "note": "'He that diligently seeketh, shall find; and the mysteries of God shall be unfolded unto them, by the power of the Holy Ghost.' A fusion rather than a quotation: Matthew 7:7-8's promise with Hebrews 11:6's adverb. Recorded at moderate because each element is individually generic and the interest is in the combination, which repeats the pairing already made at 2:16 and 2:19.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": ["manual"]
+      }
+    ],
+    "10:20": [
+      {
+        "source": "Ecclesiastes 11:9",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "text": "Rejoice, O young man, in thy youth; and let thy heart cheer thee in the days of thy youth, and walk in the ways of thine heart, and in the sight of thine eyes: but know thou, that for all these things God will bring thee into judgment.",
+        "evidence": { "vocabulary": 4, "syntax": 5, "sequence": 5, "context": 5, "rarity": 4, "attestation": 0 },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": ["Ecclesiastes 12:14"],
+        "recurrenceRefs": ["1 Nephi 10:21"],
+        "provenance": {
+          "route": "Ecclesiastes 11:9 → KJV → Book of Mormon",
+          "other": "The KJV brings a person into judgment in seven verses; Ecclesiastes 11:9 is the only one that does so in the second person, after a vocative, with 'for all' governing the reason.",
+          "significance": "The two verses match at every joint. Ecclesiastes: vocative ('O young man'), a description of how the addressee is living, and then 'but know thou, that for all these things God will bring thee into judgment.' 1 Nephi 10:20-21: vocative ('remember, O man'), 'for all thy doings, thou shalt be brought into judgment', then a description of how the addressee has been living ('if ye have sought to do wickedly in the days of your probation'). The Book of Mormon has taken Qoheleth's most famous warning and inverted its order, putting the judgment first and the life after — which converts a caution into a sentence."
+        },
+        "note": "'Therefore, remember, O man, for all thy doings, thou shalt be brought into judgment.' The vocative, the totalizing 'for all', and the judgment clause are Ecclesiastes 11:9's, with the verb turned passive. Ecclesiastes 12:14 ('God shall bring every work into judgment') supplies the general form. Note that the following verse's 'judgment seat of God' is not a KJV phrase: the KJV reads 'the judgment seat of Christ' at both Romans 14:10 and 2 Corinthians 5:10. Recorded as an observation only — modern critical editions read 'of God' at Romans 14:10, but that is a fact about the Greek and not evidence about this verse, and it is set down here so that no one mistakes it for an argument.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": ["manual"]
+      }
+    ],
+    "10:21": [
+      {
+        "source": "Psalm 5:4",
+        "type": "echo",
+        "subtype": "probable",
+        "confidence": "moderate",
+        "text": "For thou art not a God that hath pleasure in wickedness: neither shall evil dwell with thee.",
+        "evidence": { "vocabulary": 3, "syntax": 4, "sequence": 3, "context": 5, "rarity": 4, "attestation": 0 },
+        "kjvSpecific": "uncertain",
+        "mediation": "direct-OT",
+        "composite": ["Habakkuk 1:13", "Revelation 21:27"],
+        "provenance": {
+          "route": "Psalm 5:4 → KJV → Book of Mormon",
+          "alternative": "The doctrine is stated more famously at Habakkuk 1:13 ('Thou art of purer eyes than to behold evil') and Revelation 21:27 ('there shall in no wise enter into it any thing that defileth'), and 1 Nephi's clause reproduces none of the three.",
+          "significance": "Psalm 5:4 is the KJV's one sentence in which evil is denied the ability to dwell with God — the exact proposition of 'no unclean thing can dwell with God', with 'evil' where the Book of Mormon has 'unclean thing' and the same verb of dwelling. The Book of Mormon's substitution matters: 'unclean' shifts the ground from moral to cultic, which is what the sentence needs in order to serve as the premise of a judgment scene."
+        },
+        "note": "'No unclean thing can dwell with God; wherefore, ye must be cast off forever.' Proposed on the proposition and the verb rather than on a reproduced phrase. Held at moderate: three KJV verses state versions of this and none is reproduced, but Psalm 5:4 alone states it with 'dwell'.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": ["manual"]
+      }
+    ]
+  }
+}
