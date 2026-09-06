@@ -50,6 +50,12 @@ export default function Reader({ book }: { book: Book }) {
     };
   }, []);
 
+  // A chapter change is a navigation, so start the new chapter at its top.
+  const goToChapter = (ch: number | null) => {
+    setActiveChapter(ch);
+    window.scrollTo({ top: 0, behavior: "smooth" });
+  };
+
   const toggleType = (t: LinkType) =>
     setActiveTypes((prev) => {
       const n = new Set(prev);
@@ -100,6 +106,15 @@ export default function Reader({ book }: { book: Book }) {
     () => [...new Set(book.pericopes.map((p) => p.ch))].sort((a, b) => a - b),
     [book]
   );
+
+  // Chapter-at-a-time reading. With no chapter selected the whole book is shown,
+  // so "next" starts at the first chapter and "previous" is unavailable.
+  const chIndex = activeChapter === null ? -1 : chapters.indexOf(activeChapter);
+  const prevChapter = chIndex > 0 ? chapters[chIndex - 1] : null;
+  const nextChapter =
+    chIndex === -1 ? chapters[0] ?? null
+    : chIndex < chapters.length - 1 ? chapters[chIndex + 1]
+    : null;
 
   // Chapters that contain a matching echo (for the sidebar grid tint).
   const matchingChapters = useMemo(() => {
@@ -167,6 +182,53 @@ export default function Reader({ book }: { book: Book }) {
 
       <div className="brass-layout" style={S.layout}>
         <aside className="brass-sidebar" style={S.sidebar}>
+          <div style={S.chapterNavTop}>
+            <div style={S.sectionLabel}>Read a chapter</div>
+            <div style={S.chapterGrid}>
+              {chapters.map((ch) => {
+                const isActive = activeChapter === ch;
+                const matches = matchingChapters === null || matchingChapters.has(ch);
+                const faded = matchingChapters !== null && !matches;
+                let bg = "transparent";
+                let color = "#4a3d30";
+                let borderColor = "#c9b99a";
+                if (isActive) {
+                  bg = ACCENT;
+                  color = "#f5f0e8";
+                  borderColor = ACCENT;
+                } else if (faded) {
+                  color = "#c8bfae";
+                  borderColor = "#e8e0d0";
+                } else if (matchingChapters !== null && matches) {
+                  bg = "rgba(138,107,31,0.10)";
+                  color = ACCENT;
+                  borderColor = ACCENT;
+                }
+                return (
+                  <button
+                    key={ch}
+                    className="brass-ch-btn"
+                    onClick={() => goToChapter(isActive ? null : ch)}
+                    style={{
+                      ...S.chBtn,
+                      background: bg,
+                      color,
+                      borderColor,
+                      opacity: faded ? 0.5 : 1,
+                    }}
+                  >
+                    {ch}
+                  </button>
+                );
+              })}
+            </div>
+            {activeChapter && (
+              <button onClick={() => goToChapter(null)} style={S.clearBtn}>
+                Show all chapters
+              </button>
+            )}
+          </div>
+
           <button onClick={() => setLegendOpen(!legendOpen)} style={S.legendToggle}>
             {legendOpen ? "▾" : "▸"} Kinds of Links
           </button>
@@ -210,7 +272,7 @@ export default function Reader({ book }: { book: Book }) {
           )}
 
           <div style={S.sourceSection}>
-            <div style={S.sectionLabel}>Books LinkTed</div>
+            <div style={S.sectionLabel}>Source books</div>
             <div style={S.sourceList}>
               {sourceCounts.map(([b, count]) => {
                 const active = activeSource === b;
@@ -241,57 +303,51 @@ export default function Reader({ book }: { book: Book }) {
             </button>
           )}
 
-          <div style={S.chapterNav}>
-            <div style={S.sectionLabel}>Chapters</div>
-            <div style={S.chapterGrid}>
-              {chapters.map((ch) => {
-                const isActive = activeChapter === ch;
-                const matches = matchingChapters === null || matchingChapters.has(ch);
-                const faded = matchingChapters !== null && !matches;
-                let bg = "transparent";
-                let color = "#4a3d30";
-                let borderColor = "#c9b99a";
-                if (isActive) {
-                  bg = ACCENT;
-                  color = "#f5f0e8";
-                  borderColor = ACCENT;
-                } else if (faded) {
-                  color = "#c8bfae";
-                  borderColor = "#e8e0d0";
-                } else if (matchingChapters !== null && matches) {
-                  bg = "rgba(138,107,31,0.10)";
-                  color = ACCENT;
-                  borderColor = ACCENT;
-                }
-                return (
-                  <button
-                    key={ch}
-                    className="brass-ch-btn"
-                    onClick={() => setActiveChapter(isActive ? null : ch)}
-                    style={{
-                      ...S.chBtn,
-                      background: bg,
-                      color,
-                      borderColor,
-                      opacity: faded ? 0.5 : 1,
-                    }}
-                  >
-                    {ch}
-                  </button>
-                );
-              })}
-            </div>
-            {activeChapter && (
-              <button onClick={() => setActiveChapter(null)} style={S.clearBtn}>
-                Show all chapters
-              </button>
-            )}
-          </div>
 
           {book.howToRead && <div style={S.howTo}>{book.howToRead}</div>}
         </aside>
 
         <main className="brass-main" style={S.main}>
+          <nav style={S.chapterBar} aria-label="Chapter navigation">
+            <button
+              className="brass-chip"
+              onClick={() => goToChapter(prevChapter)}
+              disabled={prevChapter === null}
+              style={{ ...S.chapterBarBtn, opacity: prevChapter === null ? 0.3 : 1,
+                       cursor: prevChapter === null ? "default" : "pointer" }}
+            >
+              ← {prevChapter === null ? "" : `Chapter ${prevChapter}`}
+            </button>
+
+            <label style={S.chapterBarCentre}>
+              <select
+                value={activeChapter ?? "all"}
+                onChange={(e) =>
+                  goToChapter(e.target.value === "all" ? null : Number(e.target.value))
+                }
+                style={S.chapterSelect}
+              >
+                <option value="all">All {chapters.length} chapters</option>
+                {chapters.map((ch) => (
+                  <option key={ch} value={ch}>
+                    Chapter {ch}
+                  </option>
+                ))}
+              </select>
+            </label>
+
+            <button
+              className="brass-chip"
+              onClick={() => goToChapter(nextChapter)}
+              disabled={nextChapter === null}
+              style={{ ...S.chapterBarBtn, textAlign: "right",
+                       opacity: nextChapter === null ? 0.3 : 1,
+                       cursor: nextChapter === null ? "default" : "pointer" }}
+            >
+              {nextChapter === null ? "" : `Chapter ${nextChapter}`} →
+            </button>
+          </nav>
+
           {grouped.map(([ch, passages]) => (
             <div key={ch} style={S.chapterBlock}>
               <div style={S.chapterHead}>
@@ -610,6 +666,40 @@ const S: Record<string, CSSProperties> = {
     width: "100%",
     textAlign: "center",
   },
+  chapterNavTop: { marginBottom: 16 },
+  chapterBar: {
+    display: "flex",
+    alignItems: "center",
+    gap: 12,
+    marginBottom: 28,
+    paddingBottom: 12,
+    borderBottom: "1px solid #d4c9b5",
+  },
+  chapterBarBtn: {
+    flex: "0 0 auto",
+    minWidth: 96,
+    padding: "5px 10px",
+    border: "1px solid #c9b99a",
+    borderRadius: 4,
+    background: "transparent",
+    color: "#4a3d30",
+    fontFamily: "'Crimson Pro', serif",
+    fontSize: 13,
+    transition: "all 0.15s",
+  } as CSSProperties,
+  chapterBarCentre: { flex: 1, display: "flex", justifyContent: "center" },
+  chapterSelect: {
+    padding: "5px 10px",
+    border: "1px solid #c9b99a",
+    borderRadius: 4,
+    background: "#fdfbf7",
+    color: "#4a3d30",
+    fontFamily: "'Cormorant Garamond', serif",
+    fontSize: 16,
+    fontWeight: 600,
+    letterSpacing: 0.5,
+    cursor: "pointer",
+  } as CSSProperties,
   chapterNav: { borderTop: "1px solid #d4c9b5", paddingTop: 14, marginTop: 14 },
   chapterGrid: { display: "grid", gridTemplateColumns: "repeat(7, 1fr)", gap: 3 },
   chBtn: {
