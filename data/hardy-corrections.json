@@ -1,5 +1,5 @@
 {
-  "note": "Verse-attribution corrections to data/hardy-refs.json, applied by tools/parse-hardy.py after parsing so they survive a re-run. parse-hardy walks verses against page-boundary checkpoints and can mis-attribute a footnote when a chapter turns over mid-page, or drift inside a very long chapter; both are limits of the method (see its docstring). THREE such errors were found in Jacob alone by the adjudicating agents — see the moves below — against none yet found in 1 Nephi, whose 62 rows were each checked against the text during that book's passes. The walker needs an audit before Mosiah and Alma, whose chapters are longer and more numerous than Jacob's. Each entry records its evidence, because a correction to a scholarly apparatus must be checkable. Rows reviewed and judged NOT drift are listed under `reviewed_not_drift` so a later audit does not re-litigate them.",
+  "note": "Verse-attribution corrections to data/hardy-refs.json, applied by tools/parse-hardy.py after parsing so they survive a re-run. 2026-09-05: the walker was rebuilt to bound every page by its running head (a verso head names the page's first verse, a recto head its last), and it now reproduces ALL FIVE of the moves below on its own, from the page rather than from a human's reading — they are kept as no-ops because they are the evidence that the rebuilt walker agrees with what was checked by hand. Two rows previously reviewed and left alone were overturned by the same rebuild; see reviewed_not_drift, where each now carries what settled it. Each entry records its evidence, because a correction to a scholarly apparatus must be checkable.",
   "moves": [
     {
       "from": "Jacob 4:3",
@@ -49,12 +49,20 @@
     {
       "ref": "1 Nephi 22:26",
       "cite": "Isaiah 49:22-26",
-      "reason": "tools/audit-hardy.py flags this because 1 Nephi 21:26 scores higher — but 1 Nephi 21 IS Isaiah 49, so a high score there is the transcription matching itself, not evidence of drift. 1 Nephi 22 is Nephi's exposition of the chapter he has just read out, and a cross-reference from 22:26 back to the Isaiah passage it expounds is exactly what a study edition should carry. Reviewed 2026-09-05; left where Hardy keys it."
+      "reason": "OVERTURNED 2026-09-05. Reviewed earlier as a thematic cross-reference from Nephi's exposition back to the Isaiah chapter he had transcribed, and left where the old walker put it. The rebuilt walker bounds each page by its running head, and the page carrying this note runs 1 Nephi 21:25 to 22:2: its notes are “a 25 O, P captive”, “b 26 Isa 49.22-26 … 2 Ne 6.6-7”, “c 2 O, P made”. The note stands with 21:26, the last verse of the transcription, which is also the natural place for a note saying the passage will be quoted again. The row is cited at 21:26 now. The earlier reasoning was sound about what a study edition might do and wrong about what this page shows."
     },
     {
       "ref": "Jacob 3:5",
       "cite": "Genesis 22:1-18",
-      "reason": "Low verbal overlap and no better candidate anywhere in the book, which is the audit's signature for a THEMATIC cross-reference rather than a mis-key. Hardy is pointing a reader from the Lamanite promise to the Abrahamic one; we are cataloguing dependence. Discharged per CONVENTIONS §6a as a figural link with a whyNot at Jacob 3:5, on our own evidence, with his row cited as the cross-reference it is."
+      "reason": "OVERTURNED 2026-09-05. Reviewed earlier as thematic on the audit's signature — low overlap, no better candidate in the book — and discharged as a figural link with a whyNot. The rebuilt walker keys it to Jacob 4:5, where Abraham's offering of Isaac is named outright as a similitude of God and his Only Begotten Son; the audit could not see it because that verse's own link is to Hebrews 11:17, which reports the narrative rather than sharing its words. The Jacob 3:5 link is withdrawn to the exclusion register and the row is cited at 4:5."
+    }
+  ],
+  "cite_fixes": [
+    {
+      "ref": "2 Nephi 17:17",
+      "from": "Isaiah 17:7",
+      "to": "Isaiah 7:17",
+      "reason": "The note reads “Isa 17.7 reads ‘from Judah, even the king’” — but those are Isaiah 7:17's words (“the LORD shall bring upon thee … from the day that Ephraim departed from Judah; even the king of Assyria”), and Isaiah 17:7 is about a man looking to his Maker. 2 Nephi 17 IS Isaiah 7, so a note on its verse 17 comparing the KJV of the same verse is what the apparatus is doing throughout this block. Digits transposed, in the printed note or in the text extraction; the note's own quotation settles which verse is meant. Found 2026-09-05 by tools/audit-hardy.py, which scored the keyed verse at 0.12 against the cited one."
     }
   ]
 }

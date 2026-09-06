@@ -12848,16 +12848,25 @@
             "route": "Isaiah 48 → KJV → Book of Mormon",
             "significance": "Part of a continuous transcription of Isaiah 48 as 1 Nephi 20. The quotation is not the finding; the departures are, and they are listed in the note and registered individually in data/isaiah-collation.json."
           },
-          "note": "2 departure(s) from the KJV: KJV “when” omitted; KJV “clave” → “cleaved”.",
+          "note": "2 departure(s) from the KJV: KJV “when” omitted; KJV “clave” → “cleaved”. Hardy points the two wilderness water-from-the-rock narratives (Exodus 17:1-7, Numbers 20:2-13) at this verse, and Isaiah 48:21 is their poetic recollection: “he caused the waters to flow out of the rock for them; he clave the rock also and the waters gushed out.” Nephi had made the same recital in his own words at 17:29, where the link to those chapters is argued; here he reads it out as Isaiah.",
           "variants": [
             "1-nephi-20:21-a",
             "1-nephi-20:21-b"
           ],
-          "bibliography": [],
+          "bibliography": [
+            "Hardy MSI at 1 Ne 20.21 (Exodus 17:1-7; Numbers 20:2-13)"
+          ],
           "status": "consensus",
-          "citationsPending": true,
           "streams": [
-            "manual"
+            "manual",
+            "scholarship"
+          ],
+          "composite": [
+            "Exodus 17:1-7",
+            "Numbers 20:2-13"
+          ],
+          "recurrenceRefs": [
+            "1 Nephi 17:29"
           ]
         }
       ]
@@ -13726,22 +13735,16 @@
             "route": "Isaiah 49 → KJV → Book of Mormon",
             "significance": "Part of a continuous transcription of Isaiah 49 as 1 Nephi 21. The quotation is not the finding; the departures are, and they are listed in the note and registered individually in data/isaiah-collation.json."
           },
-          "note": "1 departure(s) from the KJV: KJV “had” → “have”.",
+          "note": "1 departure(s) from the KJV: KJV “had” → “have”. (A Hardy citation formerly stood here reading “Exodus 17:1-7; Numbers 20:2-13” — the same verse-walker drift corrected at 21:16. The page of the study edition that carries the note runs 1 Nephi 20:15-22, and the row belongs at 20:21, Isaiah 48:21's water from the rock, where it is now cited. See data/hardy-corrections.json.)",
           "variants": [
             "1-nephi-21:21-a"
           ],
-          "bibliography": [
-            "Hardy MSI at 1 Nephi 21:21 (Exodus 17:1-7; Numbers 20:2-13)"
-          ],
+          "bibliography": [],
           "status": "consensus",
           "streams": [
-            "scholarship",
             "manual"
           ],
-          "composite": [
-            "Exodus 17:1-7",
-            "Numbers 20:2-13"
-          ]
+          "citationsPending": true
         }
       ]
     },
@@ -13926,15 +13929,17 @@
             "route": "Isaiah 49 → KJV → Book of Mormon",
             "significance": "Part of a continuous transcription of Isaiah 49 as 1 Nephi 21. The quotation is not the finding; the departures are, and they are listed in the note and registered individually in data/isaiah-collation.json."
           },
-          "note": "1 departure(s) from the KJV: KJV “and” omitted.",
+          "note": "1 departure(s) from the KJV: KJV “and” omitted. Hardy's apparatus hangs its note on the close of the transcription, keyed to this verse: Isaiah 49:22-26 “will be quoted again by Jacob at 2 Ne 6.6-7, 16-18”. It was read as standing at 22:26 until the running heads were used to bound the page (2026-09-05); the note sits with 21:25-26 on its page, above the first verses of chapter 22.",
           "variants": [
             "1-nephi-21:26-a"
           ],
-          "bibliography": [],
+          "bibliography": [
+            "Hardy MSI at 1 Ne 21.26 (Isaiah 49:22-26)"
+          ],
           "status": "consensus",
-          "citationsPending": true,
           "streams": [
-            "manual"
+            "manual",
+            "scholarship"
           ]
         }
       ]

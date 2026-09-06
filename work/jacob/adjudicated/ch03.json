@@ -1,553 +1,518 @@
 {
- "chapter": 3,
- "adjudicated": "2026-09-05",
- "adjudicator": "Opus",
- "links": {
-  "3:1": [
-   {
-    "source": "Matthew 5:8",
-    "type": "allusion",
-    "subtype": "close-verbal",
-    "confidence": "high",
-    "evidence": {
-     "vocabulary": 4,
-     "syntax": 3,
-     "sequence": 3,
-     "context": 5,
-     "rarity": 5,
-     "attestation": 0
-    },
-    "kjvSpecific": "yes",
-    "mediation": "direct-NT",
-    "recurrenceRefs": [
-     "Jacob 3:2",
-     "Jacob 3:3"
+  "chapter": 3,
+  "adjudicated": "2026-09-05",
+  "adjudicator": "Opus",
+  "links": {
+    "3:1": [
+      {
+        "source": "Matthew 5:8",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "recurrenceRefs": [
+          "Jacob 3:2",
+          "Jacob 3:3"
+        ],
+        "provenance": {
+          "route": "Matthew 5:8 → KJV → Book of Mormon",
+          "other": "“pure in heart” occurs in exactly one KJV verse, Matthew 5:8. The Psalter has the idea but not the phrase — Psalm 24:4 reads “clean hands, and a pure heart”, Psalm 73:1 “of a clean heart”, Psalm 51:10 “Create in me a clean heart”. The exact English construction is the Beatitude's.",
+          "significance": "Jacob does with the sixth Beatitude what Luke 6 does with the whole set: he states it, and then turns it over into a woe. 3:1 addresses those who are pure in heart and promises consolation; 3:3 opens “But, wo, wo, unto you that are not pure in heart”. Recover Matthew 5:8's second half — “for they shall see God” — and the sermon's arc appears: the beatitude's reward is sight of God, and Jacob's threat five verses later is that his hearers will be “brought with them before the throne of God” and be the darker party there. What the Beatitude offers as blessing, Jacob holds out as exposure."
+        },
+        "note": "“I, Jacob, would speak unto you that are pure in heart.” The phrase is a KJV singleton and it organizes the whole opening of the chapter, appearing three times in three verses (3:1, 3:2, 3:3) and supplying the hinge on which the sermon turns from consolation to woe. Jacob's chapter also picks up the Sermon's other governing verb at 3:9, where the commandment is that ye “revile no more” — Matthew 5:11 is the KJV verse that makes reviling the disciple's expected lot, three verses below the one Jacob starts from. Well short of Skousen's sixteen-word threshold for a quotation, and catalogued as allusion accordingly.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "Blessed are the pure in heart: for they shall see God."
+      },
+      {
+        "source": "Micah 7:9",
+        "type": "echo",
+        "subtype": "probable",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 4,
+          "context": 4,
+          "rarity": 2,
+          "attestation": 0
+        },
+        "kjvSpecific": "uncertain",
+        "mediation": "direct-OT",
+        "composite": [
+          "1 Samuel 24:15"
+        ],
+        "provenance": {
+          "route": "Micah 7:9 → KJV → Book of Mormon",
+          "alternative": "“plead my cause” occurs in exactly five KJV verses (1 Samuel 24:15, Psalm 35:1, Psalm 43:1, Psalm 119:154, Micah 7:9), so the phrase alone cannot pick a source. Micah 7:9 is proposed because it is the only one of the five where God pleads the cause in the third person as a promise — “until he plead my cause” — and the only one that pairs the pleading with a judicial sentence executed on the adversary.",
+          "significance": "Micah 7:9 is spoken by a sinner under sentence: “I will bear the indignation of the LORD, because I have sinned against him, until he plead my cause.” Jacob 3 is addressed to a congregation two thirds of which is under exactly that sentence, and the promise of an advocate is offered to the pure-in-heart remainder. The Micah verse ends “he will bring me forth to the light, and I shall behold his righteousness”, which is the light-and-darkness register Jacob returns to at 3:8-9."
+        },
+        "note": "“He will console you in your afflictions, and he will plead your cause, and send down justice upon those who seek your destruction.” Two of the three clauses answer to Micah 7:9's two: he pleads the cause, and he executes judgment. The third — consolation in affliction — has no KJV wording behind it; “console” is not a King James word at all, and its presence is a mark of the 1829 dictation rather than of a source. Recorded as an echo because the phrase it turns on is shared with four other verses; but note that 1 Samuel 24:15, one of those four, sits between the two verses that supply this chapter's frame at 3:5 and 3:14, which is a reason to keep it named in the composite rather than discard it.",
+        "whyNot": "A five-verse phrase and no second point of contact. A reader who takes “plead your cause” as ordinary devotional English — which by 1829 it was — loses nothing by declining this row.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "I will bear the indignation of the LORD, because I have sinned against him, until he plead my cause, and execute judgment for me: he will bring me forth to the light, and I shall behold his righteousness."
+      }
     ],
-    "provenance": {
-     "route": "Matthew 5:8 → KJV → Book of Mormon",
-     "other": "“pure in heart” occurs in exactly one KJV verse, Matthew 5:8. The Psalter has the idea but not the phrase — Psalm 24:4 reads “clean hands, and a pure heart”, Psalm 73:1 “of a clean heart”, Psalm 51:10 “Create in me a clean heart”. The exact English construction is the Beatitude's.",
-     "significance": "Jacob does with the sixth Beatitude what Luke 6 does with the whole set: he states it, and then turns it over into a woe. 3:1 addresses those who are pure in heart and promises consolation; 3:3 opens “But, wo, wo, unto you that are not pure in heart”. Recover Matthew 5:8's second half — “for they shall see God” — and the sermon's arc appears: the beatitude's reward is sight of God, and Jacob's threat five verses later is that his hearers will be “brought with them before the throne of God” and be the darker party there. What the Beatitude offers as blessing, Jacob holds out as exposure."
-    },
-    "note": "“I, Jacob, would speak unto you that are pure in heart.” The phrase is a KJV singleton and it organizes the whole opening of the chapter, appearing three times in three verses (3:1, 3:2, 3:3) and supplying the hinge on which the sermon turns from consolation to woe. Jacob's chapter also picks up the Sermon's other governing verb at 3:9, where the commandment is that ye “revile no more” — Matthew 5:11 is the KJV verse that makes reviling the disciple's expected lot, three verses below the one Jacob starts from. Well short of Skousen's sixteen-word threshold for a quotation, and catalogued as allusion accordingly.",
-    "bibliography": [],
-    "status": "novel",
-    "citationsPending": true,
-    "streams": [
-     "manual"
+    "3:2": [
+      {
+        "source": "Psalm 24:7",
+        "type": "allusion",
+        "subtype": "conceptual",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 4,
+          "context": 4,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Psalm 24:4"
+        ],
+        "altSource": [
+          "Luke 21:28"
+        ],
+        "provenance": {
+          "route": "Psalm 24:4, 24:7 → KJV → Book of Mormon",
+          "other": "“lift up your heads” occurs in exactly three KJV verses: Psalm 24:7, Psalm 24:9 and Luke 21:28. Two of the three are one psalm, and that psalm is also the KJV's principal text on purity of heart as the condition of approach — “He that hath clean hands, and a pure heart” (24:4).",
+          "alternative": "Luke 21:28 is the better fit for the sense, since there the heads lifted are people's and the occasion is consolation — “then look up, and lift up your heads; for your redemption draweth nigh” — whereas Psalm 24's heads belong to the gates of the temple. The sequence favours the psalm and the meaning favours Luke; both are named.",
+          "significance": "Read with Psalm 24 recovered, Jacob 3:1-2 reproduces the psalm's own order of business: who may ascend the hill of the LORD, he that has a pure heart, lift up your heads. Jacob has taken a liturgy of entrance and re-addressed it from the gates to the congregation, so that the pure in heart are themselves the doors through which the King of glory comes in."
+        },
+        "note": "“O all ye that are pure in heart, lift up your heads and receive the pleasing word of God.” Taken alone the phrase is unremarkable; taken in sequence with the KJV singleton “pure in heart” in the clause before it, it puts Jacob on the two halves of Psalm 24 in the psalm's own order. “Feast upon his love”, which closes the verse, has no KJV antecedent — the KJV never uses “feast” with a divine attribute as its object — and is the Book of Mormon's own idiom, recurring at 2 Nephi 9:51 and Jacob 3:2 alone in this book.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "Lift up your heads, O ye gates; and be ye lift up, ye everlasting doors; and the King of glory shall come in."
+      }
     ],
-    "text": "Blessed are the pure in heart: for they shall see God."
-   },
-   {
-    "source": "Micah 7:9",
-    "type": "echo",
-    "subtype": "probable",
-    "confidence": "moderate",
-    "evidence": {
-     "vocabulary": 3,
-     "syntax": 3,
-     "sequence": 4,
-     "context": 4,
-     "rarity": 2,
-     "attestation": 0
-    },
-    "kjvSpecific": "uncertain",
-    "mediation": "direct-OT",
-    "composite": [
-     "1 Samuel 24:15"
+    "3:3": [
+      {
+        "source": "Genesis 3:17",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 4,
+          "sequence": 3,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "provenance": {
+          "route": "Genesis 3:17 → KJV → Book of Mormon",
+          "other": "“cursed is the ground” occurs in exactly one KJV verse, Genesis 3:17, and it is the Bible's one statement that the land itself is cursed on account of somebody's conduct. “for your sakes” is common (fifteen KJV verses) but not in this construction: nowhere else does the KJV curse a territory for the sake of the people standing on it.",
+          "significance": "The Fall's sentence is Adam's alone in Genesis; here it is conditional and reversible — “except ye shall repent, the land is cursed for your sakes”. A curse pronounced once on the ground for the first man's disobedience becomes, in Jacob's mouth, a standing offer withdrawable on repentance, and the land in question is a land of promise rather than a garden lost."
+        },
+        "note": "“For except ye shall repent, the land is cursed for your sakes.” The construction — land, cursed, on account of a person — exists once in the King James Bible and this is its shape. Note that Jacob turns the sentence's polarity: Genesis makes the curse the consequence of a sin already committed, Jacob makes it the consequence of a repentance not yet made.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "And unto Adam he said, Because thou hast hearkened unto the voice of thy wife, and hast eaten of the tree, of which I commanded thee, saying, Thou shalt not eat of it: cursed is the ground for thy sake; in sorrow shalt thou eat of it all the days of thy life;"
+      },
+      {
+        "source": "Malachi 3:9",
+        "type": "echo",
+        "subtype": "probable",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 4,
+          "sequence": 2,
+          "context": 3,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "provenance": {
+          "route": "Malachi 3:9 → KJV → Book of Mormon",
+          "other": "“cursed with a curse” occurs in exactly one KJV verse, Malachi 3:9. The Book of Mormon reads “cursed with a sore cursing” — the same cognate-accusative Hebraism, with the noun changed and an adjective added. 1830 reads “the cursings which hath come upon their skins” at 3:5 where 1920 prints the singular “cursing”.",
+          "significance": "Malachi 3:9-11 holds both halves of what Jacob 3:3 says in one breath: a nation “cursed with a curse”, and a land whose fruit God will or will not destroy “for your sakes” (3:11). If the collocation is borrowed rather than coincidental, Jacob has taken the vocabulary of a covenant lawsuit about withheld tithes and applied it to withheld chastity."
+        },
+        "note": "“The Lamanites, which are not filthy like unto you, (nevertheless, they are cursed with a sore cursing).” The cognate accusative is the KJV's at Malachi 3:9 and nowhere else, and the same page of Malachi supplies the “for your sakes” that governs the previous clause. Recorded as an echo, not an allusion, because the shared element is a construction rather than a string — “sore cursing” is not KJV English at all.",
+        "whyNot": "A cognate accusative is a Hebraism available anywhere in the King James idiom, and the two contexts have nothing in common but the fact of a curse. The Malachi 3:11 “for your sakes” is a coincidence of a fifteen-verse phrase.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "Ye are cursed with a curse: for ye have robbed me, even this whole nation."
+      }
     ],
-    "provenance": {
-     "route": "Micah 7:9 → KJV → Book of Mormon",
-     "alternative": "“plead my cause” occurs in exactly five KJV verses (1 Samuel 24:15, Psalm 35:1, Psalm 43:1, Psalm 119:154, Micah 7:9), so the phrase alone cannot pick a source. Micah 7:9 is proposed because it is the only one of the five where God pleads the cause in the third person as a promise — “until he plead my cause” — and the only one that pairs the pleading with a judicial sentence executed on the adversary.",
-     "significance": "Micah 7:9 is spoken by a sinner under sentence: “I will bear the indignation of the LORD, because I have sinned against him, until he plead my cause.” Jacob 3 is addressed to a congregation two thirds of which is under exactly that sentence, and the promise of an advocate is offered to the pure-in-heart remainder. The Micah verse ends “he will bring me forth to the light, and I shall behold his righteousness”, which is the light-and-darkness register Jacob returns to at 3:8-9."
-    },
-    "note": "“He will console you in your afflictions, and he will plead your cause, and send down justice upon those who seek your destruction.” Two of the three clauses answer to Micah 7:9's two: he pleads the cause, and he executes judgment. The third — consolation in affliction — has no KJV wording behind it; “console” is not a King James word at all, and its presence is a mark of the 1829 dictation rather than of a source. Recorded as an echo because the phrase it turns on is shared with four other verses; but note that 1 Samuel 24:15, one of those four, sits between the two verses that supply this chapter's frame at 3:5 and 3:14, which is a reason to keep it named in the composite rather than discard it.",
-    "whyNot": "A five-verse phrase and no second point of contact. A reader who takes “plead your cause” as ordinary devotional English — which by 1829 it was — loses nothing by declining this row.",
-    "bibliography": [],
-    "status": "novel",
-    "citationsPending": true,
-    "streams": [
-     "manual"
+    "3:5": [
+      {
+        "source": "Ezekiel 16:52",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "provenance": {
+          "route": "Ezekiel 16:52 → KJV → Book of Mormon",
+          "other": "“are more righteous than” occurs in exactly one KJV verse, Ezekiel 16:52. The comparative in any person occurs in exactly four (Genesis 38:26, 1 Samuel 24:17, Ezekiel 16:52, Habakkuk 1:13), and of those four only Ezekiel has it in the plural and only Ezekiel is addressed to the guilty party about people she despises.",
+          "significance": "Ezekiel 16 is the KJV's longest sustained figure of sexual infidelity: Jerusalem as an adulterous wife, with Sodom and Samaria as her sisters, and the sting of 16:51-52 is that the sisters she has judged “are more righteous than thou” because her own abominations exceed theirs. Jacob 3:5 lands in the same place from the same premises. The sermon he is finishing is about wives and concubines and whoredoms; the people he tells his hearers to look at are their despised kin; and the verdict he delivers is the exact verdict Ezekiel delivers, in Ezekiel's words. Recovering the context supplies what Jacob does not say aloud: in Ezekiel the comparison is not a compliment to the sisters, it is a sentence on the one being addressed, and it ends “be thou confounded also, and bear thy shame”."
+        },
+        "note": "“The Lamanites your brethren, whom ye hate … are more righteous than you.” The verse turns on a KJV singleton, and the singleton comes from the one chapter of the King James Bible that argues at length that a people's sexual unfaithfulness makes its despised neighbours look righteous by comparison. Given that Jacob 2-3 is a single sermon on plural marriage and whoredom, the coincidence of wording and of subject is hard to put down to chance. The chapter has a second and independent claim on the phrase: see the 1 Samuel 24:17 row at this verse, where the David-and-Saul frame is argued.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ],
+        "text": "Thou also, which hast judged thy sisters, bear thine own shame for thy sins that thou hast committed more abominable than they: they are more righteous than thou: yea, be thou confounded also, and bear thy shame, in that thou hast justified thy sisters."
+      },
+      {
+        "source": "1 Samuel 24:17",
+        "type": "allusion",
+        "subtype": "conceptual",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 4,
+          "context": 4,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "1 Samuel 24:15",
+          "1 Samuel 24:16"
+        ],
+        "recurrenceRefs": [
+          "Jacob 3:1",
+          "Jacob 3:14"
+        ],
+        "provenance": {
+          "route": "1 Samuel 24:15-17 → KJV → Book of Mormon",
+          "other": "“more righteous than” occurs in exactly four KJV verses; 1 Samuel 24:17 is the one in which the speaker concedes it to a man he has been hunting. The chapter's other two contacts are checkable in the same way: “end of speaking these words” occurs in exactly one KJV verse (1 Samuel 24:16), and “plead my cause” in exactly five, of which 1 Samuel 24:15 is one.",
+          "significance": "Three consecutive verses of 1 Samuel 24 stand at three structural points of Jacob 3 — 24:15 behind the promise that God “will plead your cause” in the opening sentence, 24:17 behind the chapter's central verdict, 24:16 behind its closing colophon. Recovered, the frame is the cave at En-gedi: David spares the king who is hunting him, calls on the LORD to plead his cause, and Saul answers, weeping, “Thou art more righteous than I.” Jacob is telling Nephites that the Lamanites hunting them hold David's position and they hold Saul's."
+        },
+        "note": "No single one of these three contacts would carry a link. Together they are the chapter's frame: the phrase that opens it, the verdict at its centre and the formula that closes it all come from 1 Samuel 24:15-17, in the biblical order, and the passage they come from is the Bible's set piece on a pursued man proving more righteous than the king pursuing him. That is the argument Jacob 3 is making about the Lamanites. Catalogued at moderate because each strand is individually thin and the case rests on their convergence; the reader who wants one strong verbal source for this verse should take the Ezekiel 16:52 row above.",
+        "whyNot": "Convergence arguments are the easiest kind to manufacture: with 31,000 verses available, three loose contacts within one biblical chapter are not beyond coincidence, and “made an end of speaking” is a common enough KJV closing formula that its four-word extension may be accidental.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "And he said to David, Thou art more righteous than I: for thou hast rewarded me good, whereas I have rewarded thee evil."
+      }
     ],
-    "text": "I will bear the indignation of the LORD, because I have sinned against him, until he plead my cause, and execute judgment for me: he will bring me forth to the light, and I shall behold his righteousness."
-   }
-  ],
-  "3:2": [
-   {
-    "source": "Psalm 24:7",
-    "type": "allusion",
-    "subtype": "conceptual",
-    "confidence": "moderate",
-    "evidence": {
-     "vocabulary": 3,
-     "syntax": 3,
-     "sequence": 4,
-     "context": 4,
-     "rarity": 4,
-     "attestation": 0
-    },
-    "kjvSpecific": "yes",
-    "mediation": "direct-OT",
-    "composite": [
-     "Psalm 24:4"
+    "3:7": [
+      {
+        "source": "Titus 2:4",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Ephesians 5:25"
+        ],
+        "provenance": {
+          "route": "Titus 2:4 (+ Ephesians 5:25) → KJV → Book of Mormon",
+          "other": "“love their husbands” occurs in exactly one KJV verse and “love their children” occurs in exactly one KJV verse, and it is the same verse: Titus 2:4. The remaining clause, husbands loving wives, is the household code's other half at Ephesians 5:25 and Colossians 3:19.",
+          "significance": "Jacob's evidence that the Lamanites are the more righteous people is a household in good order, and he describes it in the vocabulary of the Pauline household codes — the New Testament's own standard for a well-ordered Christian family. The metaleptic force is in what the codes are for: Titus 2 is instruction to a church on how to live so that “the word of God be not blasphemed”, and it is being satisfied, in Jacob's account, by the people his hearers despise. The unstated correspondence is that the Lamanites are keeping a rule the Nephites were given."
+        },
+        "note": "“Their husbands love their wives, and their wives love their husbands, and their husbands and their wives love their children.” Two of the three clauses reproduce the two KJV singletons of Titus 2:4 in Titus's order, and the third is Ephesians 5:25's imperative turned into a report. This is a Pauline household code assembled from two epistles and set inside a sermon against plural marriage — a monogamous ideal being described in the one register of the King James Bible that has vocabulary for it. Well below Skousen's sixteen-word threshold and catalogued as allusion, but the double singleton makes the identification of the source secure.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "That they may teach the young women to be sober, to love their husbands, to love their children,"
+      }
     ],
-    "altSource": [
-     "Luke 21:28"
+    "3:8": [
+      {
+        "source": "Revelation 7:15",
+        "type": "allusion",
+        "subtype": "conceptual",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Revelation 7:14"
+        ],
+        "provenance": {
+          "route": "Revelation 7:14-15 → KJV → Book of Mormon",
+          "other": "“before the throne of God” occurs in exactly two KJV verses, Revelation 7:15 and Revelation 14:5, and 7:15 is the one that arrives with an explanation of how the people standing there came to be white: “made them white” occurs in exactly one KJV verse, Revelation 7:14, and what is made white there is a robe washed in the blood of the Lamb.",
+          "significance": "This is the chapter's sharpest case of a borrowed phrase carrying its context against the borrower. Jacob imagines a joint appearance of Nephites and Lamanites in which the Lamanites' skins are the whiter, and the phrase he reaches for to describe the venue occurs twice in the King James Bible — once, at Revelation 7:15, four words after the only verse in scripture that says anyone was made white. There the whiteness is laundry, explicitly and at length: robes washed by people who came out of great tribulation. Whatever the verse intends about skin, the scriptural language it is standing in makes whiteness a thing done to a garment by the blood of the Lamb, and unavailable as a property of a body."
+        },
+        "note": "“Their skins will be whiter than yours, when ye shall be brought with them before the throne of God.” The catalogue's claim here is limited and worth stating exactly: the venue clause has a KJV source and the whiteness clause has none. “whiter than” occurs in exactly two KJV verses — Psalm 51:7's “whiter than snow”, of a sinner washed, and Lamentations 4:7's “whiter than milk”, of the Nazarites' polish — and neither is a comparison between two peoples' skins, which is a comparison the King James Bible does not make anywhere. The racial language of 3:5-9 (“filthiness”, “the darkness of their skins”, skins “whiter than yours”) is the Book of Mormon's own and is not being catalogued as scriptural vocabulary; where a phrase in this passage has no KJV source, the entry says so rather than proposing one. Compare the same handling at 1 Nephi 12:23.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ],
+        "text": "Therefore are they before the throne of God, and serve him day and night in his temple: and he that sitteth on the throne shall dwell among them."
+      }
     ],
-    "provenance": {
-     "route": "Psalm 24:4, 24:7 → KJV → Book of Mormon",
-     "other": "“lift up your heads” occurs in exactly three KJV verses: Psalm 24:7, Psalm 24:9 and Luke 21:28. Two of the three are one psalm, and that psalm is also the KJV's principal text on purity of heart as the condition of approach — “He that hath clean hands, and a pure heart” (24:4).",
-     "alternative": "Luke 21:28 is the better fit for the sense, since there the heads lifted are people's and the occasion is consolation — “then look up, and lift up your heads; for your redemption draweth nigh” — whereas Psalm 24's heads belong to the gates of the temple. The sequence favours the psalm and the meaning favours Luke; both are named.",
-     "significance": "Read with Psalm 24 recovered, Jacob 3:1-2 reproduces the psalm's own order of business: who may ascend the hill of the LORD, he that has a pure heart, lift up your heads. Jacob has taken a liturgy of entrance and re-addressed it from the gates to the congregation, so that the pure in heart are themselves the doors through which the King of glory comes in."
-    },
-    "note": "“O all ye that are pure in heart, lift up your heads and receive the pleasing word of God.” Taken alone the phrase is unremarkable; taken in sequence with the KJV singleton “pure in heart” in the clause before it, it puts Jacob on the two halves of Psalm 24 in the psalm's own order. “Feast upon his love”, which closes the verse, has no KJV antecedent — the KJV never uses “feast” with a divine attribute as its object — and is the Book of Mormon's own idiom, recurring at 2 Nephi 9:51 and Jacob 3:2 alone in this book.",
-    "bibliography": [],
-    "status": "novel",
-    "citationsPending": true,
-    "streams": [
-     "manual"
+    "3:9": [
+      {
+        "source": "John 13:34",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 3,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Matthew 5:11"
+        ],
+        "provenance": {
+          "route": "John 13:34 → KJV → Book of Mormon",
+          "other": "“commandment I give unto you” occurs in exactly one KJV verse, John 13:34, where the commandment given is that ye love one another. The Book of Mormon's clause is “a commandment I give unto you” for John's “A new commandment I give unto you”.",
+          "significance": "The one commandment in the King James Bible introduced with these words is the commandment to love; the commandment Jacob introduces with them is a prohibition on reviling a hated people. Read with John recovered, the two are the same commandment stated from opposite ends — John says what to do, Jacob says what to stop — and Jacob's is the harder version, because it names the people it is about."
+        },
+        "note": "“Wherefore, a commandment I give unto you, which is the word of God, that ye revile no more against them, because of the darkness of their skins.” The introduction is a KJV singleton; the substance is not. “revile” is a nine-verse word in the KJV, but the chapter has been running on the Sermon on the Mount since its first sentence (see the Matthew 5:8 row at 3:1), and Matthew 5:11 — “Blessed are ye, when men shall revile you” — is three verses below the one Jacob started from, which is why it is named in the composite. Catalogued at moderate rather than high because a five-word formula introducing a commandment could be a preacher's cadence rather than a citation.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ],
+        "text": "A new commandment I give unto you, That ye love one another; as I have loved you, that ye also love one another."
+      }
     ],
-    "text": "Lift up your heads, O ye gates; and be ye lift up, ye everlasting doors; and the King of glory shall come in."
-   }
-  ],
-  "3:3": [
-   {
-    "source": "Genesis 3:17",
-    "type": "allusion",
-    "subtype": "close-verbal",
-    "confidence": "moderate",
-    "evidence": {
-     "vocabulary": 3,
-     "syntax": 4,
-     "sequence": 3,
-     "context": 4,
-     "rarity": 5,
-     "attestation": 0
-    },
-    "kjvSpecific": "yes",
-    "mediation": "direct-OT",
-    "provenance": {
-     "route": "Genesis 3:17 → KJV → Book of Mormon",
-     "other": "“cursed is the ground” occurs in exactly one KJV verse, Genesis 3:17, and it is the Bible's one statement that the land itself is cursed on account of somebody's conduct. “for your sakes” is common (fifteen KJV verses) but not in this construction: nowhere else does the KJV curse a territory for the sake of the people standing on it.",
-     "significance": "The Fall's sentence is Adam's alone in Genesis; here it is conditional and reversible — “except ye shall repent, the land is cursed for your sakes”. A curse pronounced once on the ground for the first man's disobedience becomes, in Jacob's mouth, a standing offer withdrawable on repentance, and the land in question is a land of promise rather than a garden lost."
-    },
-    "note": "“For except ye shall repent, the land is cursed for your sakes.” The construction — land, cursed, on account of a person — exists once in the King James Bible and this is its shape. Note that Jacob turns the sentence's polarity: Genesis makes the curse the consequence of a sin already committed, Jacob makes it the consequence of a repentance not yet made.",
-    "bibliography": [],
-    "status": "novel",
-    "citationsPending": true,
-    "streams": [
-     "manual"
+    "3:11": [
+      {
+        "source": "Isaiah 52:2",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 5,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 1
+        },
+        "kjvSpecific": "yes",
+        "mediation": "uncertain",
+        "composite": [
+          "Isaiah 52:1",
+          "Psalm 116:3"
+        ],
+        "recurrenceRefs": [
+          "2 Nephi 8:24-25"
+        ],
+        "provenance": {
+          "route": "Isaiah 52:1-2 → KJV → Book of Mormon, possibly by way of 2 Nephi 8:24-25",
+          "other": "“shake thyself” occurs in exactly one KJV verse and “loose thyself” occurs in exactly one KJV verse, and it is the same verse, Isaiah 52:2. Jacob has both verbs, reflexive, in Isaiah's order, with Isaiah 52:1's “Awake, awake” between them as “that ye may awake”. The object of the loosing is supplied from elsewhere: “pains of hell” occurs in exactly one KJV verse, Psalm 116:3, “the pains of hell gat hold upon me”.",
+          "significance": "Isaiah 52:1-2 is addressed to a captive city told to get up off the ground because the bands on her neck are already loose. Jacob applies it to men asleep in their own sin, and swaps Isaiah's bands of the neck for Psalm 116:3's pains of hell — so the captivity being shaken off is not Babylon but death. The two-source fusion is the finding: Isaiah supplies both reflexive verbs, the psalm supplies what is holding on."
+        },
+        "note": "“Shake yourselves, that ye may awake from the slumber of death; and loose yourselves from the pains of hell.” Three KJV singletons in one clause, two of them from a single verse. The mediation is genuinely undecidable and is recorded as such: 2 Nephi 8:24-25 has already transcribed Isaiah 52:1-2 into the Book of Mormon verbatim — “Shake thyself from the dust … loose thyself from the bands of thy neck” — so the proximate model may be the earlier Book of Mormon page rather than the KJV Isaiah, and because that transcription reproduces Isaiah exactly there is no divergence for tools/mediation-check.py to test. Where the diff cannot decide, the entry says so.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "Shake thyself from the dust; arise, and sit down, O Jerusalem: loose thyself from the bands of thy neck, O captive daughter of Zion."
+      },
+      {
+        "source": "Revelation 21:8",
+        "type": "quotation",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 1
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Revelation 20:10",
+          "Revelation 20:14"
+        ],
+        "provenance": {
+          "route": "Revelation 20:10 + 21:8 → KJV → Book of Mormon",
+          "other": "Three Revelation verses are in play and the Book of Mormon takes a half from two of them. “lake of fire and brimstone” occurs in exactly one KJV verse, Revelation 20:10; Revelation 21:8 has instead “the lake which burneth with fire and brimstone”. The second half is decided by one word: “which is the second death” occurs in exactly one KJV verse, Revelation 21:8, against Revelation 20:14's “This is the second death”, and the Book of Mormon reads “which”. “second death” at large occurs in four KJV verses, all in Revelation.",
+          "significance": "The fusion produces a sentence in neither source: Revelation's lake of fire and brimstone (20:10, where the devil is cast) welded to Revelation's definition of the second death (21:8, where the fearful and the whoremongers are). Given that Jacob's sermon is against whoredom, the half he takes the relative clause from is the half whose list of the condemned includes whoremongers — and his hearers, warned three verses later against fornication, are on it."
+        },
+        "note": "“To be cast into that lake of fire and brimstone, which is the second death.” An eight-word run against Revelation 21:8 and a five-word run against 20:10, catalogued as a quotation on the strength of the reproduced clause rather than its length — it is far below Skousen's sixteen-word threshold and is not one of his long quotations. The pronoun test is the useful part: “which is the second death” is 21:8's wording, not 20:14's “This is”, so the Book of Mormon has the verse that names whoremongers among those whose part it is.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ],
+        "text": "But the fearful, and unbelieving, and the abominable, and murderers, and whoremongers, and sorcerers, and idolaters, and all liars, shall have their part in the lake which burneth with fire and brimstone: which is the second death."
+      },
+      {
+        "source": "Matthew 25:41",
+        "type": "echo",
+        "subtype": "probable",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 2,
+          "sequence": 3,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "recurrenceRefs": [
+          "2 Nephi 9:9"
+        ],
+        "provenance": {
+          "route": "Matthew 25:41 → KJV → Book of Mormon",
+          "other": "“the devil and his angels” occurs in exactly one KJV verse, Matthew 25:41. The Book of Mormon inverts the genitive: not the devil's angels but men who become “Angels to the Devil”, which is 2 Nephi 9:9's coinage (“Angels to a Devil”, so capitalized in 1830) reused here.",
+          "significance": "Matthew 25:41 assigns the everlasting fire to the devil and his angels; the Book of Mormon's inversion makes the damned into the staff rather than the fuel. Read against Matthew, the sentence at the left hand — “Depart from me, ye cursed” — is the sentence Jacob is warning his hearers they will hear, and the chapter has already told them what being cursed looks like from the outside (3:3)."
+        },
+        "note": "“That ye may not become Angels to the Devil, to be cast into that lake of fire and brimstone.” The phrase is the Book of Mormon's own, coined at 2 Nephi 9:9 and reused here, but its raw material is the KJV's single verse pairing the devil with angels belonging to him, and the destination clause that follows it is Revelation's. Recorded at moderate because the wording is inverted and the idea of the devil's angels is a commonplace of English preaching well outside the KJV.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "Then shall he say also unto them on the left hand, Depart from me, ye cursed, into everlasting fire, prepared for the devil and his angels:"
+      }
     ],
-    "text": "And unto Adam he said, Because thou hast hearkened unto the voice of thy wife, and hast eaten of the tree, of which I commanded thee, saying, Thou shalt not eat of it: cursed is the ground for thy sake; in sorrow shalt thou eat of it all the days of thy life;"
-   },
-   {
-    "source": "Malachi 3:9",
-    "type": "echo",
-    "subtype": "probable",
-    "confidence": "moderate",
-    "evidence": {
-     "vocabulary": 3,
-     "syntax": 4,
-     "sequence": 2,
-     "context": 3,
-     "rarity": 5,
-     "attestation": 0
-    },
-    "kjvSpecific": "yes",
-    "mediation": "direct-OT",
-    "provenance": {
-     "route": "Malachi 3:9 → KJV → Book of Mormon",
-     "other": "“cursed with a curse” occurs in exactly one KJV verse, Malachi 3:9. The Book of Mormon reads “cursed with a sore cursing” — the same cognate-accusative Hebraism, with the noun changed and an adjective added. 1830 reads “the cursings which hath come upon their skins” at 3:5 where 1920 prints the singular “cursing”.",
-     "significance": "Malachi 3:9-11 holds both halves of what Jacob 3:3 says in one breath: a nation “cursed with a curse”, and a land whose fruit God will or will not destroy “for your sakes” (3:11). If the collocation is borrowed rather than coincidental, Jacob has taken the vocabulary of a covenant lawsuit about withheld tithes and applied it to withheld chastity."
-    },
-    "note": "“The Lamanites, which are not filthy like unto you, (nevertheless, they are cursed with a sore cursing).” The cognate accusative is the KJV's at Malachi 3:9 and nowhere else, and the same page of Malachi supplies the “for your sakes” that governs the previous clause. Recorded as an echo, not an allusion, because the shared element is a construction rather than a string — “sore cursing” is not KJV English at all.",
-    "whyNot": "A cognate accusative is a Hebraism available anywhere in the King James idiom, and the two contexts have nothing in common but the fact of a curse. The Malachi 3:11 “for your sakes” is a coincidence of a fifteen-verse phrase.",
-    "bibliography": [],
-    "status": "novel",
-    "citationsPending": true,
-    "streams": [
-     "manual"
+    "3:12": [
+      {
+        "source": "2 Corinthians 12:21",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "2 Corinthians 12:21 → KJV → Book of Mormon",
+          "other": "“fornication and lasciviousness” occurs in exactly one KJV verse, 2 Corinthians 12:21. “lasciviousness” itself is a six-verse word (Mark 7:22, 2 Corinthians 12:21, Galatians 5:19, Ephesians 4:19, 1 Peter 4:3, Jude 1:4), and the pairing with fornication in that order is Paul's alone.",
+          "significance": "Recovering 2 Corinthians 12:21 supplies Jacob's whole rhetorical situation, not just his two nouns. Paul is writing ahead of a visit, afraid that God will humble him among the Corinthians and that he will have to “bewail many which have sinned already, and have not repented”. Jacob's summary of his sermon is a preacher warning a congregation about the same sins in the same fear, and his own “I fear, that unless ye shall repent” at 3:8 is the same sentence turned toward the hearers. The chapter takes from Paul both the vice list and the posture of the man reciting it."
+        },
+        "note": "“Warning them against fornication, and lasciviousness, and every kind of sin, telling them the awful consequences of them.” The pairing is a KJV singleton and it comes from the one verse in the epistles where an apostle says in advance that he expects his warning to fail. Galatians 5:19 is the nearer analogue for a vice list as such — “Adultery, fornication, uncleanness, lasciviousness” — but it separates the two words Jacob joins, which is why 2 Corinthians is preferred here.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "And lest, when I come again, my God will humble me among you, and that I shall bewail many which have sinned already, and have not repented of the uncleanness and fornication and lasciviousness which they have committed."
+      }
     ],
-    "text": "Ye are cursed with a curse: for ye have robbed me, even this whole nation."
-   }
-  ],
-  "3:5": [
-   {
-    "source": "Ezekiel 16:52",
-    "type": "allusion",
-    "subtype": "close-verbal",
-    "confidence": "high",
-    "evidence": {
-     "vocabulary": 4,
-     "syntax": 4,
-     "sequence": 3,
-     "context": 5,
-     "rarity": 5,
-     "attestation": 0
-    },
-    "kjvSpecific": "yes",
-    "mediation": "direct-OT",
-    "provenance": {
-     "route": "Ezekiel 16:52 → KJV → Book of Mormon",
-     "other": "“are more righteous than” occurs in exactly one KJV verse, Ezekiel 16:52. The comparative in any person occurs in exactly four (Genesis 38:26, 1 Samuel 24:17, Ezekiel 16:52, Habakkuk 1:13), and of those four only Ezekiel has it in the plural and only Ezekiel is addressed to the guilty party about people she despises.",
-     "significance": "Ezekiel 16 is the KJV's longest sustained figure of sexual infidelity: Jerusalem as an adulterous wife, with Sodom and Samaria as her sisters, and the sting of 16:51-52 is that the sisters she has judged “are more righteous than thou” because her own abominations exceed theirs. Jacob 3:5 lands in the same place from the same premises. The sermon he is finishing is about wives and concubines and whoredoms; the people he tells his hearers to look at are their despised kin; and the verdict he delivers is the exact verdict Ezekiel delivers, in Ezekiel's words. Recovering the context supplies what Jacob does not say aloud: in Ezekiel the comparison is not a compliment to the sisters, it is a sentence on the one being addressed, and it ends “be thou confounded also, and bear thy shame”."
-    },
-    "note": "“The Lamanites your brethren, whom ye hate … are more righteous than you.” The verse turns on a KJV singleton, and the singleton comes from the one chapter of the King James Bible that argues at length that a people's sexual unfaithfulness makes its despised neighbours look righteous by comparison. Given that Jacob 2-3 is a single sermon on plural marriage and whoredom, the coincidence of wording and of subject is hard to put down to chance. The chapter has a second and independent claim on the phrase: see the 1 Samuel 24:17 row at this verse, where the David-and-Saul frame is argued.",
-    "bibliography": [],
-    "status": "novel",
-    "citationsPending": true,
-    "streams": [
-     "machine-ngram",
-     "manual"
-    ],
-    "text": "Thou also, which hast judged thy sisters, bear thine own shame for thy sins that thou hast committed more abominable than they: they are more righteous than thou: yea, be thou confounded also, and bear thy shame, in that thou hast justified thy sisters."
-   },
-   {
-    "source": "1 Samuel 24:17",
-    "type": "allusion",
-    "subtype": "conceptual",
-    "confidence": "moderate",
-    "evidence": {
-     "vocabulary": 3,
-     "syntax": 3,
-     "sequence": 4,
-     "context": 4,
-     "rarity": 4,
-     "attestation": 0
-    },
-    "kjvSpecific": "yes",
-    "mediation": "direct-OT",
-    "composite": [
-     "1 Samuel 24:15",
-     "1 Samuel 24:16"
-    ],
-    "recurrenceRefs": [
-     "Jacob 3:1",
-     "Jacob 3:14"
-    ],
-    "provenance": {
-     "route": "1 Samuel 24:15-17 → KJV → Book of Mormon",
-     "other": "“more righteous than” occurs in exactly four KJV verses; 1 Samuel 24:17 is the one in which the speaker concedes it to a man he has been hunting. The chapter's other two contacts are checkable in the same way: “end of speaking these words” occurs in exactly one KJV verse (1 Samuel 24:16), and “plead my cause” in exactly five, of which 1 Samuel 24:15 is one.",
-     "significance": "Three consecutive verses of 1 Samuel 24 stand at three structural points of Jacob 3 — 24:15 behind the promise that God “will plead your cause” in the opening sentence, 24:17 behind the chapter's central verdict, 24:16 behind its closing colophon. Recovered, the frame is the cave at En-gedi: David spares the king who is hunting him, calls on the LORD to plead his cause, and Saul answers, weeping, “Thou art more righteous than I.” Jacob is telling Nephites that the Lamanites hunting them hold David's position and they hold Saul's."
-    },
-    "note": "No single one of these three contacts would carry a link. Together they are the chapter's frame: the phrase that opens it, the verdict at its centre and the formula that closes it all come from 1 Samuel 24:15-17, in the biblical order, and the passage they come from is the Bible's set piece on a pursued man proving more righteous than the king pursuing him. That is the argument Jacob 3 is making about the Lamanites. Catalogued at moderate because each strand is individually thin and the case rests on their convergence; the reader who wants one strong verbal source for this verse should take the Ezekiel 16:52 row above.",
-    "whyNot": "Convergence arguments are the easiest kind to manufacture: with 31,000 verses available, three loose contacts within one biblical chapter are not beyond coincidence, and “made an end of speaking” is a common enough KJV closing formula that its four-word extension may be accidental.",
-    "bibliography": [],
-    "status": "novel",
-    "citationsPending": true,
-    "streams": [
-     "manual"
-    ],
-    "text": "And he said to David, Thou art more righteous than I: for thou hast rewarded me good, whereas I have rewarded thee evil."
-   },
-   {
-    "source": "Genesis 22:18",
-    "type": "figural",
-    "subtype": "conceptual",
-    "confidence": "moderate",
-    "evidence": {
-     "vocabulary": 1,
-     "syntax": 1,
-     "sequence": 3,
-     "context": 4,
-     "rarity": 1,
-     "attestation": 3
-    },
-    "kjvSpecific": "no",
-    "mediation": "direct-OT",
-    "composite": [
-     "Genesis 22:17"
-    ],
-    "provenance": {
-     "route": "Genesis 22:16-18 → Book of Mormon",
-     "other": "No shared wording of any weight. “obeyed my voice” occurs in seven KJV verses and “blessed people” in none; the link is at the level of the promise's structure, not its English.",
-     "alternative": "Deuteronomy 17:17, which forbids the king to multiply wives, is the obvious legal source for the commandment Jacob says the Lamanites have kept, but the Book of Mormon has already located that commandment in its own text at Jacob 2:27 rather than in the Pentateuch.",
-     "significance": "Genesis 22:16-18 is the one place in the KJV where the Abrahamic blessing is made to turn on an act of obedience already performed — “because thou hast obeyed my voice” — rather than on election. Jacob 3:5-6 reasons in exactly that form and applies it to the wrong people: because they have kept the one commandment, God will not destroy them, will be merciful to them, and “one day they shall become a blessed people”. The Abrahamic promise is being routed to the branch of the family the hearers regard as cursed."
-    },
-    "note": "The Maxwell Institute Study Edition's cross-reference apparatus points Genesis 22:1-18 at this verse. Nothing verbal connects them, and what the reference is doing there has to be inferred; the reading offered here is ours. The inference is that the argument running from 3:5 to 3:6 — they kept the commandment, therefore God will spare them, therefore they shall become a blessed people — is the logic of Genesis 22:16-18, the obedience-conditioned form of the Abrahamic blessing, transferred to the Lamanites. Note that where Acts 3:25 quotes that promise it reads “our fathers”, which is 1830's reading here; the 1920 text prints the singular “our father”, referring the commandment to Lehi rather than to the patriarchs, and the mediation test between Genesis 22:18 and Acts 3:25 returns no decisive divergence.",
-    "whyNot": "A figural link with no verbal contact at all, resting on a cross-reference whose intent we cannot read. If the study edition means Genesis 22 in some other way — or if the reference belongs with the Abraham-and-Isaac discussion at Jacob 4:5 — this row has no independent support.",
-    "bibliography": [
-     "Hardy MSI at Jacob 3.5 (Genesis 22:1-18)"
-    ],
-    "status": "minority",
-    "streams": [
-     "scholarship"
-    ],
-    "text": "And in thy seed shall all the nations of the earth be blessed; because thou hast obeyed my voice."
-   }
-  ],
-  "3:7": [
-   {
-    "source": "Titus 2:4",
-    "type": "allusion",
-    "subtype": "close-verbal",
-    "confidence": "high",
-    "evidence": {
-     "vocabulary": 5,
-     "syntax": 4,
-     "sequence": 4,
-     "context": 4,
-     "rarity": 5,
-     "attestation": 0
-    },
-    "kjvSpecific": "yes",
-    "mediation": "direct-NT",
-    "composite": [
-     "Ephesians 5:25"
-    ],
-    "provenance": {
-     "route": "Titus 2:4 (+ Ephesians 5:25) → KJV → Book of Mormon",
-     "other": "“love their husbands” occurs in exactly one KJV verse and “love their children” occurs in exactly one KJV verse, and it is the same verse: Titus 2:4. The remaining clause, husbands loving wives, is the household code's other half at Ephesians 5:25 and Colossians 3:19.",
-     "significance": "Jacob's evidence that the Lamanites are the more righteous people is a household in good order, and he describes it in the vocabulary of the Pauline household codes — the New Testament's own standard for a well-ordered Christian family. The metaleptic force is in what the codes are for: Titus 2 is instruction to a church on how to live so that “the word of God be not blasphemed”, and it is being satisfied, in Jacob's account, by the people his hearers despise. The unstated correspondence is that the Lamanites are keeping a rule the Nephites were given."
-    },
-    "note": "“Their husbands love their wives, and their wives love their husbands, and their husbands and their wives love their children.” Two of the three clauses reproduce the two KJV singletons of Titus 2:4 in Titus's order, and the third is Ephesians 5:25's imperative turned into a report. This is a Pauline household code assembled from two epistles and set inside a sermon against plural marriage — a monogamous ideal being described in the one register of the King James Bible that has vocabulary for it. Well below Skousen's sixteen-word threshold and catalogued as allusion, but the double singleton makes the identification of the source secure.",
-    "bibliography": [],
-    "status": "novel",
-    "citationsPending": true,
-    "streams": [
-     "manual"
-    ],
-    "text": "That they may teach the young women to be sober, to love their husbands, to love their children,"
-   }
-  ],
-  "3:8": [
-   {
-    "source": "Revelation 7:15",
-    "type": "allusion",
-    "subtype": "conceptual",
-    "confidence": "moderate",
-    "evidence": {
-     "vocabulary": 3,
-     "syntax": 3,
-     "sequence": 3,
-     "context": 5,
-     "rarity": 4,
-     "attestation": 0
-    },
-    "kjvSpecific": "yes",
-    "mediation": "direct-NT",
-    "composite": [
-     "Revelation 7:14"
-    ],
-    "provenance": {
-     "route": "Revelation 7:14-15 → KJV → Book of Mormon",
-     "other": "“before the throne of God” occurs in exactly two KJV verses, Revelation 7:15 and Revelation 14:5, and 7:15 is the one that arrives with an explanation of how the people standing there came to be white: “made them white” occurs in exactly one KJV verse, Revelation 7:14, and what is made white there is a robe washed in the blood of the Lamb.",
-     "significance": "This is the chapter's sharpest case of a borrowed phrase carrying its context against the borrower. Jacob imagines a joint appearance of Nephites and Lamanites in which the Lamanites' skins are the whiter, and the phrase he reaches for to describe the venue occurs twice in the King James Bible — once, at Revelation 7:15, four words after the only verse in scripture that says anyone was made white. There the whiteness is laundry, explicitly and at length: robes washed by people who came out of great tribulation. Whatever the verse intends about skin, the scriptural language it is standing in makes whiteness a thing done to a garment by the blood of the Lamb, and unavailable as a property of a body."
-    },
-    "note": "“Their skins will be whiter than yours, when ye shall be brought with them before the throne of God.” The catalogue's claim here is limited and worth stating exactly: the venue clause has a KJV source and the whiteness clause has none. “whiter than” occurs in exactly two KJV verses — Psalm 51:7's “whiter than snow”, of a sinner washed, and Lamentations 4:7's “whiter than milk”, of the Nazarites' polish — and neither is a comparison between two peoples' skins, which is a comparison the King James Bible does not make anywhere. The racial language of 3:5-9 (“filthiness”, “the darkness of their skins”, skins “whiter than yours”) is the Book of Mormon's own and is not being catalogued as scriptural vocabulary; where a phrase in this passage has no KJV source, the entry says so rather than proposing one. Compare the same handling at 1 Nephi 12:23.",
-    "bibliography": [],
-    "status": "novel",
-    "citationsPending": true,
-    "streams": [
-     "machine-ngram",
-     "manual"
-    ],
-    "text": "Therefore are they before the throne of God, and serve him day and night in his temple: and he that sitteth on the throne shall dwell among them."
-   }
-  ],
-  "3:9": [
-   {
-    "source": "John 13:34",
-    "type": "allusion",
-    "subtype": "close-verbal",
-    "confidence": "moderate",
-    "evidence": {
-     "vocabulary": 4,
-     "syntax": 4,
-     "sequence": 3,
-     "context": 4,
-     "rarity": 5,
-     "attestation": 0
-    },
-    "kjvSpecific": "yes",
-    "mediation": "direct-NT",
-    "composite": [
-     "Matthew 5:11"
-    ],
-    "provenance": {
-     "route": "John 13:34 → KJV → Book of Mormon",
-     "other": "“commandment I give unto you” occurs in exactly one KJV verse, John 13:34, where the commandment given is that ye love one another. The Book of Mormon's clause is “a commandment I give unto you” for John's “A new commandment I give unto you”.",
-     "significance": "The one commandment in the King James Bible introduced with these words is the commandment to love; the commandment Jacob introduces with them is a prohibition on reviling a hated people. Read with John recovered, the two are the same commandment stated from opposite ends — John says what to do, Jacob says what to stop — and Jacob's is the harder version, because it names the people it is about."
-    },
-    "note": "“Wherefore, a commandment I give unto you, which is the word of God, that ye revile no more against them, because of the darkness of their skins.” The introduction is a KJV singleton; the substance is not. “revile” is a nine-verse word in the KJV, but the chapter has been running on the Sermon on the Mount since its first sentence (see the Matthew 5:8 row at 3:1), and Matthew 5:11 — “Blessed are ye, when men shall revile you” — is three verses below the one Jacob started from, which is why it is named in the composite. Catalogued at moderate rather than high because a five-word formula introducing a commandment could be a preacher's cadence rather than a citation.",
-    "bibliography": [],
-    "status": "novel",
-    "citationsPending": true,
-    "streams": [
-     "machine-ngram",
-     "manual"
-    ],
-    "text": "A new commandment I give unto you, That ye love one another; as I have loved you, that ye also love one another."
-   }
-  ],
-  "3:11": [
-   {
-    "source": "Isaiah 52:2",
-    "type": "allusion",
-    "subtype": "close-verbal",
-    "confidence": "high",
-    "evidence": {
-     "vocabulary": 5,
-     "syntax": 4,
-     "sequence": 5,
-     "context": 4,
-     "rarity": 5,
-     "attestation": 1
-    },
-    "kjvSpecific": "yes",
-    "mediation": "uncertain",
-    "composite": [
-     "Isaiah 52:1",
-     "Psalm 116:3"
-    ],
-    "recurrenceRefs": [
-     "2 Nephi 8:24-25"
-    ],
-    "provenance": {
-     "route": "Isaiah 52:1-2 → KJV → Book of Mormon, possibly by way of 2 Nephi 8:24-25",
-     "other": "“shake thyself” occurs in exactly one KJV verse and “loose thyself” occurs in exactly one KJV verse, and it is the same verse, Isaiah 52:2. Jacob has both verbs, reflexive, in Isaiah's order, with Isaiah 52:1's “Awake, awake” between them as “that ye may awake”. The object of the loosing is supplied from elsewhere: “pains of hell” occurs in exactly one KJV verse, Psalm 116:3, “the pains of hell gat hold upon me”.",
-     "significance": "Isaiah 52:1-2 is addressed to a captive city told to get up off the ground because the bands on her neck are already loose. Jacob applies it to men asleep in their own sin, and swaps Isaiah's bands of the neck for Psalm 116:3's pains of hell — so the captivity being shaken off is not Babylon but death. The two-source fusion is the finding: Isaiah supplies both reflexive verbs, the psalm supplies what is holding on."
-    },
-    "note": "“Shake yourselves, that ye may awake from the slumber of death; and loose yourselves from the pains of hell.” Three KJV singletons in one clause, two of them from a single verse. The mediation is genuinely undecidable and is recorded as such: 2 Nephi 8:24-25 has already transcribed Isaiah 52:1-2 into the Book of Mormon verbatim — “Shake thyself from the dust … loose thyself from the bands of thy neck” — so the proximate model may be the earlier Book of Mormon page rather than the KJV Isaiah, and because that transcription reproduces Isaiah exactly there is no divergence for tools/mediation-check.py to test. Where the diff cannot decide, the entry says so.",
-    "bibliography": [],
-    "status": "novel",
-    "citationsPending": true,
-    "streams": [
-     "manual"
-    ],
-    "text": "Shake thyself from the dust; arise, and sit down, O Jerusalem: loose thyself from the bands of thy neck, O captive daughter of Zion."
-   },
-   {
-    "source": "Revelation 21:8",
-    "type": "quotation",
-    "subtype": "close-verbal",
-    "confidence": "high",
-    "evidence": {
-     "vocabulary": 5,
-     "syntax": 5,
-     "sequence": 5,
-     "context": 4,
-     "rarity": 5,
-     "attestation": 1
-    },
-    "kjvSpecific": "yes",
-    "mediation": "direct-NT",
-    "composite": [
-     "Revelation 20:10",
-     "Revelation 20:14"
-    ],
-    "provenance": {
-     "route": "Revelation 20:10 + 21:8 → KJV → Book of Mormon",
-     "other": "Three Revelation verses are in play and the Book of Mormon takes a half from two of them. “lake of fire and brimstone” occurs in exactly one KJV verse, Revelation 20:10; Revelation 21:8 has instead “the lake which burneth with fire and brimstone”. The second half is decided by one word: “which is the second death” occurs in exactly one KJV verse, Revelation 21:8, against Revelation 20:14's “This is the second death”, and the Book of Mormon reads “which”. “second death” at large occurs in four KJV verses, all in Revelation.",
-     "significance": "The fusion produces a sentence in neither source: Revelation's lake of fire and brimstone (20:10, where the devil is cast) welded to Revelation's definition of the second death (21:8, where the fearful and the whoremongers are). Given that Jacob's sermon is against whoredom, the half he takes the relative clause from is the half whose list of the condemned includes whoremongers — and his hearers, warned three verses later against fornication, are on it."
-    },
-    "note": "“To be cast into that lake of fire and brimstone, which is the second death.” An eight-word run against Revelation 21:8 and a five-word run against 20:10, catalogued as a quotation on the strength of the reproduced clause rather than its length — it is far below Skousen's sixteen-word threshold and is not one of his long quotations. The pronoun test is the useful part: “which is the second death” is 21:8's wording, not 20:14's “This is”, so the Book of Mormon has the verse that names whoremongers among those whose part it is.",
-    "bibliography": [],
-    "status": "novel",
-    "citationsPending": true,
-    "streams": [
-     "machine-ngram",
-     "manual"
-    ],
-    "text": "But the fearful, and unbelieving, and the abominable, and murderers, and whoremongers, and sorcerers, and idolaters, and all liars, shall have their part in the lake which burneth with fire and brimstone: which is the second death."
-   },
-   {
-    "source": "Matthew 25:41",
-    "type": "echo",
-    "subtype": "probable",
-    "confidence": "moderate",
-    "evidence": {
-     "vocabulary": 3,
-     "syntax": 2,
-     "sequence": 3,
-     "context": 4,
-     "rarity": 5,
-     "attestation": 0
-    },
-    "kjvSpecific": "yes",
-    "mediation": "direct-NT",
-    "recurrenceRefs": [
-     "2 Nephi 9:9"
-    ],
-    "provenance": {
-     "route": "Matthew 25:41 → KJV → Book of Mormon",
-     "other": "“the devil and his angels” occurs in exactly one KJV verse, Matthew 25:41. The Book of Mormon inverts the genitive: not the devil's angels but men who become “Angels to the Devil”, which is 2 Nephi 9:9's coinage (“Angels to a Devil”, so capitalized in 1830) reused here.",
-     "significance": "Matthew 25:41 assigns the everlasting fire to the devil and his angels; the Book of Mormon's inversion makes the damned into the staff rather than the fuel. Read against Matthew, the sentence at the left hand — “Depart from me, ye cursed” — is the sentence Jacob is warning his hearers they will hear, and the chapter has already told them what being cursed looks like from the outside (3:3)."
-    },
-    "note": "“That ye may not become Angels to the Devil, to be cast into that lake of fire and brimstone.” The phrase is the Book of Mormon's own, coined at 2 Nephi 9:9 and reused here, but its raw material is the KJV's single verse pairing the devil with angels belonging to him, and the destination clause that follows it is Revelation's. Recorded at moderate because the wording is inverted and the idea of the devil's angels is a commonplace of English preaching well outside the KJV.",
-    "bibliography": [],
-    "status": "novel",
-    "citationsPending": true,
-    "streams": [
-     "manual"
-    ],
-    "text": "Then shall he say also unto them on the left hand, Depart from me, ye cursed, into everlasting fire, prepared for the devil and his angels:"
-   }
-  ],
-  "3:12": [
-   {
-    "source": "2 Corinthians 12:21",
-    "type": "allusion",
-    "subtype": "close-verbal",
-    "confidence": "high",
-    "evidence": {
-     "vocabulary": 4,
-     "syntax": 3,
-     "sequence": 4,
-     "context": 5,
-     "rarity": 5,
-     "attestation": 0
-    },
-    "kjvSpecific": "yes",
-    "mediation": "direct-NT",
-    "provenance": {
-     "route": "2 Corinthians 12:21 → KJV → Book of Mormon",
-     "other": "“fornication and lasciviousness” occurs in exactly one KJV verse, 2 Corinthians 12:21. “lasciviousness” itself is a six-verse word (Mark 7:22, 2 Corinthians 12:21, Galatians 5:19, Ephesians 4:19, 1 Peter 4:3, Jude 1:4), and the pairing with fornication in that order is Paul's alone.",
-     "significance": "Recovering 2 Corinthians 12:21 supplies Jacob's whole rhetorical situation, not just his two nouns. Paul is writing ahead of a visit, afraid that God will humble him among the Corinthians and that he will have to “bewail many which have sinned already, and have not repented”. Jacob's summary of his sermon is a preacher warning a congregation about the same sins in the same fear, and his own “I fear, that unless ye shall repent” at 3:8 is the same sentence turned toward the hearers. The chapter takes from Paul both the vice list and the posture of the man reciting it."
-    },
-    "note": "“Warning them against fornication, and lasciviousness, and every kind of sin, telling them the awful consequences of them.” The pairing is a KJV singleton and it comes from the one verse in the epistles where an apostle says in advance that he expects his warning to fail. Galatians 5:19 is the nearer analogue for a vice list as such — “Adultery, fornication, uncleanness, lasciviousness” — but it separates the two words Jacob joins, which is why 2 Corinthians is preferred here.",
-    "bibliography": [],
-    "status": "novel",
-    "citationsPending": true,
-    "streams": [
-     "manual"
-    ],
-    "text": "And lest, when I come again, my God will humble me among you, and that I shall bewail many which have sinned already, and have not repented of the uncleanness and fornication and lasciviousness which they have committed."
-   }
-  ],
-  "3:14": [
-   {
-    "source": "1 Samuel 24:16",
-    "type": "allusion",
-    "subtype": "close-verbal",
-    "confidence": "high",
-    "evidence": {
-     "vocabulary": 4,
-     "syntax": 4,
-     "sequence": 3,
-     "context": 3,
-     "rarity": 5,
-     "attestation": 0
-    },
-    "kjvSpecific": "yes",
-    "mediation": "direct-OT",
-    "recurrenceRefs": [
-     "Jacob 3:5"
-    ],
-    "provenance": {
-     "route": "1 Samuel 24:16 → KJV → Book of Mormon",
-     "other": "“end of speaking these words” occurs in exactly one KJV verse, 1 Samuel 24:16. “made an end of speaking” without the object is common — nine KJV verses — so the whole four-word extension is doing the identifying, and 1830's “I make an end of speaking these words” has all of it.",
-     "significance": "The colophon is the third of the chapter's three contacts with 1 Samuel 24:15-17 (see the row at 3:5). What David finishes speaking in that verse is the speech that ends with Saul conceding “Thou art more righteous than I” and weeping — so the Book of Mormon's formula for ending a sermon is the KJV's formula for ending the speech whose verdict Jacob 3:5 has just delivered against his own people. The colophon and the sermon's thesis come from two adjacent verses of one chapter."
-    },
-    "note": "“These plates are called the plates of Jacob; and they were made by the hand of Nephi. And I make an end of speaking these words.” The colophon proper — the naming of the plates and their maker — has no KJV source and is the Book of Mormon's own scribal convention; only the closing formula is borrowed, and it is borrowed from a verse three verses away from the one behind 3:5. Catalogued at high on the singleton, at the recognized risk that a book which ends many chapters this way may simply have a house formula: cf. 1 Nephi 9:6 and Jacob 6:13 for the family of closings.",
-    "bibliography": [],
-    "status": "novel",
-    "citationsPending": true,
-    "streams": [
-     "machine-ngram",
-     "manual"
-    ],
-    "text": "And it came to pass, when David had made an end of speaking these words unto Saul, that Saul said, Is this thy voice, my son David? And Saul lifted up his voice, and wept."
-   }
-  ]
- }
+    "3:14": [
+      {
+        "source": "1 Samuel 24:16",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 3,
+          "context": 3,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "recurrenceRefs": [
+          "Jacob 3:5"
+        ],
+        "provenance": {
+          "route": "1 Samuel 24:16 → KJV → Book of Mormon",
+          "other": "“end of speaking these words” occurs in exactly one KJV verse, 1 Samuel 24:16. “made an end of speaking” without the object is common — nine KJV verses — so the whole four-word extension is doing the identifying, and 1830's “I make an end of speaking these words” has all of it.",
+          "significance": "The colophon is the third of the chapter's three contacts with 1 Samuel 24:15-17 (see the row at 3:5). What David finishes speaking in that verse is the speech that ends with Saul conceding “Thou art more righteous than I” and weeping — so the Book of Mormon's formula for ending a sermon is the KJV's formula for ending the speech whose verdict Jacob 3:5 has just delivered against his own people. The colophon and the sermon's thesis come from two adjacent verses of one chapter."
+        },
+        "note": "“These plates are called the plates of Jacob; and they were made by the hand of Nephi. And I make an end of speaking these words.” The colophon proper — the naming of the plates and their maker — has no KJV source and is the Book of Mormon's own scribal convention; only the closing formula is borrowed, and it is borrowed from a verse three verses away from the one behind 3:5. Catalogued at high on the singleton, at the recognized risk that a book which ends many chapters this way may simply have a house formula: cf. 1 Nephi 9:6 and Jacob 6:13 for the family of closings.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ],
+        "text": "And it came to pass, when David had made an end of speaking these words unto Saul, that Saul said, Is this thy voice, my son David? And Saul lifted up his voice, and wept."
+      }
+    ]
+  }
 }

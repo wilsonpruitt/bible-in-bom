@@ -76,6 +76,19 @@ def main() -> None:
     h = sum(len(v) for k, v in hardy.items() if k.startswith(name + " "))
     f = sum(1 for k in fred if k.startswith(name + " "))
 
+    parsed_path = ROOT / "data" / "hardy-parsed.json"
+    parsed = json.loads(parsed_path.read_text()) if parsed_path.exists() else {}
+    if name not in parsed:
+        sys.exit(
+            f"\nSTOP: Hardy's apparatus has not been parsed for {name}.\n"
+            f"  Without it this script would report '0 Hardy rows to account for' and the\n"
+            f"  book would look ready while the whole scholarship stream was missing.\n"
+            f"  Run (heading and label as printed in the MSI):\n"
+            f"    python3.11 tools/parse-hardy.py --book {name!r} --heading 'The Book of …' \\\n"
+            f"        --section-label '…' --next-heading 'The Book of …'\n"
+            f"  then re-run this script."
+        )
+
     print(f"\n{name}: {len(per_ch)} chapters, {len(book['pericopes'])} verses, {words:,} words")
     print(f"  Hardy rows to account for: {h}   (PLAN §7.2)")
     print(f"  Frederick verses touched:  {f}")

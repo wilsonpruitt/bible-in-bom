@@ -123,26 +123,42 @@ def extract_section(text: str, heading: str, next_headings: list[str]) -> str:
     return text[start:end]
 
 
-def strip_headers_track_chapter(section: str, section_label: str) -> list[tuple[int | None, str]]:
-    """Split into (chapter_or_None, chunk) pieces at each page header/footer line."""
-    pieces: list[tuple[int | None, str]] = []
+Anchor = tuple[int, int, bool]   # (chapter, verse, ref_is_the_page's_FIRST_verse)
+
+
+def strip_headers_track_chapter(section: str, section_label: str) -> list[tuple[Anchor | None, str]]:
+    """
+    Split the section into one (anchor, page-body) piece per printed page.
+
+    The running head sits at the top of each page in `pdftotext -layout` output,
+    and it is a dictionary-style guide ref, not a start-of-page ref: on a verso
+    (ref printed to the LEFT of the bracket, page number to the right) it names
+    the FIRST verse of that page; on a recto (page number left, ref right) it
+    names the LAST. Verified on 2 Nephi page 87 — head "2 Ne 12.20", body 12.10-20
+    — and its facing page 88, head "2 Ne 12.21", body starting at 12.21.
+
+    So every page carries a hard checkpoint at one end or the other. That is what
+    keeps the verse walker from drifting: without it a single missed chapter
+    transition silently mis-keys every footnote until the next resync (2 Nephi:
+    55 of 120 rows, whole chapters off by one, before this was understood).
+    """
+    pieces: list[tuple[Anchor | None, str]] = []
     pos = 0
-    last_chapter = None
+    pending: Anchor | None = None
     for m in re.finditer(re.escape(f"[ {section_label}"), section):
         line_start = section.rfind("\n", 0, m.start()) + 1
         line_end = section.find("\n", m.end())
         if line_end == -1:
             line_end = len(section)
         line = section[line_start:line_end]
-        chapter = None
-        ref_m = REF_IN_HEADER_RE.search(line)
-        if ref_m:
-            chapter = int(ref_m.group(2))
-        pieces.append((last_chapter, section[pos:line_start]))
+        pieces.append((pending, section[pos:line_start]))
         pos = line_end
-        if chapter is not None:
-            last_chapter = chapter
-    pieces.append((last_chapter, section[pos:]))
+        ref_m = REF_IN_HEADER_RE.search(line)
+        pending = None
+        if ref_m:
+            ref_is_first = ref_m.start() < line.index("[")
+            pending = (int(ref_m.group(2)), int(ref_m.group(3)), ref_is_first)
+    pieces.append((pending, section[pos:]))
     return pieces
 
 
@@ -165,8 +181,8 @@ def chapter_verse_counts(bom_text: dict[str, str]) -> dict[int, int]:
 
 
 def walk_verses_and_footnotes(
-    pieces: list[tuple[int | None, str]], bom_text: dict[str, str], book_name: str
-) -> tuple[dict[str, list[str]], list[str]]:
+    pieces: list[tuple[Anchor | None, str]], bom_text: dict[str, str], book_name: str
+) -> tuple[dict[str, list[str]], dict[str, list[str]], list[str]]:
     bible_refs: defaultdict[str, list[str]] = defaultdict(list)
     bom_refs: defaultdict[str, list[str]] = defaultdict(list)
     warnings: list[str] = []
@@ -181,10 +197,21 @@ def walk_verses_and_footnotes(
     chapter = 1
     verse = 0
 
-    for header_chapter, chunk in pieces:
-        # Split this chunk into footnote paragraph(s) vs body text, by density
-        # of the footnote-marker pattern.
+    for anchor, chunk in pieces:
+        # A verso head names the page's first verse: take it as a hard reset, so
+        # a chapter transition the walker missed on an earlier page cannot travel
+        # further than the spread it happened on.
+        if anchor is not None and anchor[2]:
+            chapter, verse = anchor[0], anchor[1] - 1
+
+        # Two passes over the page. The body pass records every (chapter, verse)
+        # printed on this page; the footnote pass then keys each note by what the
+        # page actually shows, because a page-bottom note belongs to a verse ON
+        # THAT PAGE — which is a fact about the page, not about where the walker
+        # happens to have got to by the time the notes are read.
         paras = re.split(r"\n\s*\n", chunk)
+        footnote_paras: list[list[re.Match]] = []
+        page_seen: list[tuple[int, int]] = []
         for para in paras:
             matches = list(FOOTNOTE_MARKER_RE.finditer(para))
             marker_hits = len(matches)
@@ -192,40 +219,7 @@ def walk_verses_and_footnotes(
                 marker_hits == 1 and len(para.strip()) < 400
             )
             if looks_like_footnotes and marker_hits:
-                for i, mm in enumerate(matches):
-                    fn_verse = int(mm.group(2))
-                    text_start = mm.end()
-                    text_end = matches[i + 1].start() if i + 1 < len(matches) else len(para)
-                    fn_text = para[text_start:text_end]
-                    # Footnotes print at the bottom of a physical page, so a
-                    # chapter's trailing footnotes can appear in the raw text
-                    # AFTER the next chapter's opening verses if both chapters
-                    # share a page — the walker's `chapter` has already moved
-                    # on by the time we reach them. A footnote verse number
-                    # that doesn't fit the current chapter but does fit the
-                    # previous one belongs to the previous one.
-                    # NOT the reverse correction (fn_chapter = chapter + 1 when
-                    # fn_verse is small): footnotes for a whole page are batched
-                    # at the bottom and are not emitted in body reading order, so
-                    # a footnote verse smaller than the walker's current verse
-                    # commonly just means "an earlier verse in the SAME chapter,"
-                    # not a chapter turnover. Tried that correction first; it
-                    # misattributed 1 Nephi 4:2 to 5:2. Removed.
-                    fn_chapter = chapter
-                    if fn_verse > max_verse.get(chapter, 10**9) and fn_verse <= max_verse.get(chapter - 1, -1):
-                        fn_chapter = chapter - 1
-                    ref = f"{book_name} {fn_chapter}:{fn_verse}"
-                    for cm in CITATION_RE.finditer(fn_text):
-                        abbr, c, v, v2 = cm.groups()
-                        full = BOOK_ABBREV[abbr]
-                        cite = f"{full} {c}:{v}" + (f"-{v2}" if v2 else "")
-                        bible_refs[ref].append(cite)
-                    for cm in BOM_CITATION_RE.finditer(fn_text):
-                        abbr, c, v, v2 = cm.groups()
-                        full = BOM_ABBREV[abbr]
-                        cite = f"{full} {c}:{v}" + (f"-{v2}" if v2 else "")
-                        if cite != ref:  # skip self-reference (the verse citing itself)
-                            bom_refs[ref].append(cite)
+                footnote_paras.append(matches)
             else:
                 for vm in VERSE_START_RE.finditer(para):
                     n = int(vm.group(1))
@@ -237,17 +231,74 @@ def walk_verses_and_footnotes(
                         verse = 1
                     else:
                         continue  # not a verse marker (e.g. a footnote digit, a year)
+                    page_seen.append((chapter, verse))
 
-        if header_chapter is not None and header_chapter != chapter:
-            if header_chapter == chapter + 1:
-                chapter = header_chapter
-                verse = 0
-            elif abs(header_chapter - chapter) > 1:
+        last_fn: tuple[int, int] | None = None
+        for matches in footnote_paras:
+            para = matches[0].string
+            for i, mm in enumerate(matches):
+                fn_verse = int(mm.group(2))
+                text_start = mm.end()
+                text_end = matches[i + 1].start() if i + 1 < len(matches) else len(para)
+                fn_text = para[text_start:text_end]
+                # Which chapter does this verse number belong to? Ask the page.
+                # A page-bottom note belongs to a verse the page shows, so the
+                # candidates are bounded above by the last verse printed here —
+                # which is what settles the two cases the verse number alone
+                # cannot. (a) The note's verse is not on the page at all,
+                # because its text ran over from the page before: 2 Nephi 5's
+                # note "34" is 4:34, not 5:34, because the page stops at 5:10.
+                # (b) The page straddles a chapter break and BOTH chapters have
+                # that verse number: a page running 13:24-15:2 has a note "1"
+                # for 15:1, not 14:1, and the later one is right because a note
+                # sits with the verse the page ended on, not the one it passed.
+                # Where the page shows nothing at all, fall back to the walker.
+                if page_seen:
+                    first, end = page_seen[0], page_seen[-1]
+                    # The running head outranks the walk where they disagree:
+                    # it is printed, and the walk can stall inside a page (a
+                    # 1 Nephi 22 page whose walk stopped at 22:12 sent its notes
+                    # for 22:15 and 22:17 back into chapter 21 before this).
+                    if anchor is not None:
+                        head = (anchor[0], anchor[1])
+                        first, end = (min(first, head), end) if anchor[2] else (first, max(end, head))
+                    cands = [
+                        (c, fn_verse)
+                        for c in range(max(first[0] - 1, 1), end[0] + 1)
+                        if fn_verse <= max_verse.get(c, 0)
+                    ]
+                    cands = [x for x in cands if x <= end]
+                    if last_fn is not None:
+                        cands = [x for x in cands if x >= last_fn] or cands
+                    fn_chapter = max(cands)[0] if cands else chapter
+                else:
+                    fn_chapter = chapter
+                    if fn_verse > max_verse.get(chapter, 10**9) and fn_verse <= max_verse.get(chapter - 1, -1):
+                        fn_chapter = chapter - 1
+                last_fn = (fn_chapter, fn_verse)
+                ref = f"{book_name} {fn_chapter}:{fn_verse}"
+                for cm in CITATION_RE.finditer(fn_text):
+                    abbr, c, v, v2 = cm.groups()
+                    full = BOOK_ABBREV[abbr]
+                    cite = f"{full} {c}:{v}" + (f"-{v2}" if v2 else "")
+                    bible_refs[ref].append(cite)
+                for cm in BOM_CITATION_RE.finditer(fn_text):
+                    abbr, c, v, v2 = cm.groups()
+                    full = BOM_ABBREV[abbr]
+                    cite = f"{full} {c}:{v}" + (f"-{v2}" if v2 else "")
+                    if cite != ref:  # skip self-reference (the verse citing itself)
+                        bom_refs[ref].append(cite)
+
+        # A recto head names the page's LAST verse: an end-of-page check. A
+        # mismatch means the walk over this page is wrong, so say so rather than
+        # resyncing in silence.
+        if anchor is not None and not anchor[2]:
+            if (chapter, verse) != (anchor[0], anchor[1]):
                 warnings.append(
-                    f"resync at header: walker chapter {chapter} vs header chapter {header_chapter}"
+                    f"page ends at {book_name} {chapter}:{verse}, running head says "
+                    f"{anchor[0]}:{anchor[1]}"
                 )
-                chapter = header_chapter
-                verse = 0
+                chapter, verse = anchor[0], anchor[1]
 
     return dict(bible_refs), dict(bom_refs), warnings
 
@@ -265,6 +316,15 @@ def apply_corrections(refs: dict) -> tuple[dict, int]:
     if not path.exists():
         return refs, 0
     moved = 0
+    # A citation can also be wrong in the source rather than in the walk: the
+    # note at 2 Nephi 17:17 cites "Isa 17.7" while quoting Isaiah 7:17's own
+    # words. Those are repaired by `cite_fixes`, with the evidence, rather than
+    # left for an adjudicator to chase.
+    for f in json.loads(path.read_text()).get("cite_fixes", []):
+        cites = refs.get(f["ref"])
+        if cites and f["from"] in cites:
+            cites[cites.index(f["from"])] = f["to"]
+            moved += 1
     for m in json.loads(path.read_text()).get("moves", []):
         src, dst = m["from"], m["to"]
         if src not in refs:
@@ -321,6 +381,10 @@ def main() -> None:
                 clean[ref] = seen
         out_path = ROOT / "data" / filename
         existing = json.loads(out_path.read_text()) if out_path.exists() else {}
+        # Drop this book's rows before merging, so a re-parse REPLACES them. A
+        # plain update leaves the previous run's mis-keyed rows behind as ghosts
+        # — which is how a fixed walker can still ship a broken apparatus.
+        existing = {k: v for k, v in existing.items() if not k.startswith(args.book + " ")}
         existing.update(clean)
         existing = dict(sorted(existing.items(), key=lambda kv: (kv[0].split()[-1],)))
         out_path.write_text(json.dumps(existing, indent=2, ensure_ascii=False) + "\n")
@@ -329,8 +393,20 @@ def main() -> None:
         print(f"wrote {out_path.relative_to(ROOT)}")
         return len(clean), sum(len(v) for v in clean.values()), dropped
 
-    _, _, dropped = validate_and_write(bible_refs, "hardy-refs.json", "Bible citations")
+    verses, cites, dropped = validate_and_write(bible_refs, "hardy-refs.json", "Bible citations")
     validate_and_write(bom_refs, "hardy-recurrence.json", "internal Book of Mormon cross-refs")
+
+    # Record that this book HAS been parsed. Jarom and the Words of Mormon
+    # genuinely carry no Bible citations, so an empty result is not by itself a
+    # sign that the apparatus is missing — without this file, a book nobody has
+    # parsed yet reports "0 Hardy rows to account for" and reads as done.
+    log_path = ROOT / "data" / "hardy-parsed.json"
+    log = json.loads(log_path.read_text()) if log_path.exists() else {}
+    log[args.book] = {
+        "heading": args.heading, "sectionLabel": args.section_label,
+        "verses": verses, "citations": cites, "warnings": len(warnings),
+    }
+    log_path.write_text(json.dumps(dict(sorted(log.items())), indent=2, ensure_ascii=False) + "\n")
 
     if dropped:
         print(f"  dropped {len(dropped)} refs not found in bom-1830.json: {dropped[:10]}")

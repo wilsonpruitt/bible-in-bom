@@ -22,6 +22,39 @@ John, so "Frederick identifies X" is nearly always false.
 
 ---
 
+## 0a. Before a new book, get the apparatus right
+
+A book is not ready because `bootstrap-book.py` ran. Hardy's apparatus is parsed
+**per book**, and until it is, the bootstrap reports "Hardy rows to account for: 0"
+— which reads exactly like a book with nothing to account for. That happened on
+2 Nephi on 2026-09-05; the real count was 120. `bootstrap-book.py` now refuses to
+run for a book absent from `data/hardy-parsed.json`, and the parse comes first:
+
+```bash
+python3.11 tools/parse-hardy.py --book "2 Nephi" \
+    --heading "The Second Book of Nephi" --section-label "Second Nephi" \
+    --next-heading "The Book of Jacob"
+python3.11 tools/audit-hardy.py 2-nephi     # then READ the suspects
+```
+
+The audit is not a formality either. The parse keys each footnote to a verse by
+walking the page, and a page it walks wrong mis-keys every note on it — 55 of
+2 Nephi's 120 rows, whole chapters off by one, on the first run. Two signatures
+tell you which kind of error you have:
+
+- **The verse number survives and the chapter is wrong** (`21:16 → 20:16`). That
+  is ours, every time. The walker lost a chapter transition.
+- **The keyed verse has no verbal contact and nothing nearby does either.** Read
+  the page in `text/hardy-msi-raw.txt` before concluding it is thematic
+  (CONVENTIONS §6a).
+
+Nothing in a suspect list moves without a human reading both verses, and what
+moves is written into `data/hardy-corrections.json` with its evidence — `moves`
+for a row on the wrong verse, `cite_fixes` for a citation wrong in the printed
+apparatus. Only then dispatch.
+
+---
+
 ## 1. The loop
 
 ```bash

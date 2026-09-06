@@ -734,16 +734,25 @@
           "route": "Isaiah 48 → KJV → Book of Mormon",
           "significance": "Part of a continuous transcription of Isaiah 48 as 1 Nephi 20. The quotation is not the finding; the departures are, and they are listed in the note and registered individually in data/isaiah-collation.json."
         },
-        "note": "2 departure(s) from the KJV: KJV “when” omitted; KJV “clave” → “cleaved”.",
+        "note": "2 departure(s) from the KJV: KJV “when” omitted; KJV “clave” → “cleaved”. Hardy points the two wilderness water-from-the-rock narratives (Exodus 17:1-7, Numbers 20:2-13) at this verse, and Isaiah 48:21 is their poetic recollection: “he caused the waters to flow out of the rock for them; he clave the rock also and the waters gushed out.” Nephi had made the same recital in his own words at 17:29, where the link to those chapters is argued; here he reads it out as Isaiah.",
         "variants": [
           "1-nephi-20:21-a",
           "1-nephi-20:21-b"
         ],
-        "bibliography": [],
+        "bibliography": [
+          "Hardy MSI at 1 Ne 20.21 (Exodus 17:1-7; Numbers 20:2-13)"
+        ],
         "status": "consensus",
-        "citationsPending": true,
         "streams": [
-          "manual"
+          "manual",
+          "scholarship"
+        ],
+        "composite": [
+          "Exodus 17:1-7",
+          "Numbers 20:2-13"
+        ],
+        "recurrenceRefs": [
+          "1 Nephi 17:29"
         ]
       }
     ],

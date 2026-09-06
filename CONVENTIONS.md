@@ -268,6 +268,14 @@ reproduce, and three of his rows in Jacob alone turned out to be mis-keyed in
 our extract of him — which is a fact about our parser, but it makes the general
 point: an apparatus is evidence, not a verdict.
 
+*Amended 2026-09-05, same day:* the parser was rebuilt to bound every page by
+its running head and it now keys those Jacob rows correctly on its own, along
+with 1 Nephi's. So the score to date is: eight rows mis-keyed by us, one wrong
+in the printed apparatus itself (2 Nephi 17:17's "Isa 17.7", which quotes
+Isaiah 7:17's words), and none where Hardy pointed somewhere unaccountable. That
+does not change the ruling — our reading still governs — but it does change
+where to look first when his row and the text disagree. Look at our extraction.
+
 In practice:
 
 - **Cite him wherever he genuinely bears.** A Hardy row on a link we made
@@ -285,8 +293,18 @@ In practice:
   evidence.** He may be recording a thematic association a study edition wants
   its reader to have; we are cataloguing dependence. Discharge the row honestly
   — a `figural` link with a `whyNot`, or an exclusion that gives the reason —
-  and do not manufacture a verbal case to justify his reference. Jacob 3:5's
-  Genesis 22:1-18 is the standing example.
+  and do not manufacture a verbal case to justify his reference.
+
+  **But suspect the extraction first.** Jacob 3:5's Genesis 22:1-18 stood as the
+  example of this bullet for a day. It was not a thematic reference at all: the
+  note belongs to Jacob 4:5, where Abraham's offering of Isaac is named outright,
+  and our verse-walker had mis-keyed it. A row with no verbal contact anywhere
+  near it is at least as likely to be in the wrong place as to be thematic, and
+  the check is cheap — `audit-hardy.py`, and then the page itself in
+  `text/hardy-msi-raw.txt`. Build a figural link on a bare cross-reference only
+  after that check, and write the `whyNot` so that it names the condition that
+  would withdraw the row. Jacob 3:5's did, which is why withdrawing it was one
+  edit rather than an argument.
 - **`status` follows the evidence, not the citation.** A link we found and he
   happens to corroborate is still ours; use `novel` or `majority` on our own
   assessment and let `bibliography` record that he cross-references it.
