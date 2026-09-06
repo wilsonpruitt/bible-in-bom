@@ -10,10 +10,22 @@
         "subtype": "conceptual",
         "confidence": "high",
         "text": "He made a pit, and digged it, and is fallen into the ditch which he made.",
-        "evidence": { "vocabulary": 4, "syntax": 4, "sequence": 5, "context": 5, "rarity": 4, "attestation": 1 },
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 1
+        },
         "kjvSpecific": "yes",
         "mediation": "direct-OT",
-        "composite": ["Psalm 57:6", "Proverbs 26:27", "Ecclesiastes 10:8", "Jeremiah 18:20"],
+        "composite": [
+          "Psalm 57:6",
+          "Proverbs 26:27",
+          "Ecclesiastes 10:8",
+          "Jeremiah 18:20"
+        ],
         "provenance": {
           "route": "The dug-pit topos → KJV → Book of Mormon",
           "other": "Five KJV verses have a man falling into the pit he dug: Psalm 7:15, Psalm 57:6, Proverbs 26:27, Jeremiah 18:20 and 18:22 (with Ecclesiastes 10:8 as its proverbial form). Psalm 7:15 is the tightest — the digging and the falling in one verse.",
@@ -23,7 +35,9 @@
         "bibliography": [],
         "status": "novel",
         "citationsPending": true,
-        "streams": ["manual"]
+        "streams": [
+          "manual"
+        ]
       }
     ],
     "14:7": [
@@ -33,11 +47,27 @@
         "subtype": "close-verbal",
         "confidence": "moderate",
         "text": "And they sing the song of Moses the servant of God, and the song of the Lamb, saying, Great and marvellous are thy works, Lord God Almighty; just and true are thy ways, thou King of saints.",
-        "evidence": { "vocabulary": 4, "syntax": 3, "sequence": 3, "context": 4, "rarity": 4, "attestation": 1 },
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 4,
+          "rarity": 4,
+          "attestation": 1
+        },
         "kjvSpecific": "yes",
         "mediation": "direct-NT",
-        "composite": ["Isaiah 29:14", "Acts 13:41"],
-        "recurrenceRefs": ["1 Nephi 1:14", "1 Nephi 14:23", "1 Nephi 22:8", "2 Nephi 25:17", "2 Nephi 27:26"],
+        "composite": [
+          "Isaiah 29:14",
+          "Acts 13:41"
+        ],
+        "recurrenceRefs": [
+          "1 Nephi 1:14",
+          "1 Nephi 14:23",
+          "1 Nephi 22:8",
+          "2 Nephi 25:17",
+          "2 Nephi 27:26"
+        ],
         "provenance": {
           "route": "Revelation 15:3 → KJV → Book of Mormon (with Isaiah 29:14 as the competing source)",
           "other": "'Marvellous work' occurs in five KJV verses; only Isaiah 29:14 uses it of something God is about to do. But the Book of Mormon's phrase is 'a great and a marvellous work', and the adjective PAIR 'great and marvellous' is Revelation's — 15:3 and 15:1, where it qualifies works and signs. The 1830 spells it 'marvellous', the KJV's spelling; 1920 modernized to 'marvelous'.",
@@ -48,7 +78,10 @@
         "bibliography": [],
         "status": "novel",
         "citationsPending": true,
-        "streams": ["machine-ngram", "manual"]
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
       }
     ],
     "14:10": [
@@ -58,11 +91,27 @@
         "subtype": "close-verbal",
         "confidence": "high",
         "text": "And upon her forehead was a name written, MYSTERY, BABYLON THE GREAT, THE MOTHER OF HARLOTS AND ABOMINATIONS OF THE EARTH.",
-        "evidence": { "vocabulary": 5, "syntax": 4, "sequence": 4, "context": 5, "rarity": 5, "attestation": 4 },
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 4
+        },
         "kjvSpecific": "yes",
         "mediation": "direct-NT",
-        "composite": ["Revelation 17:1", "Revelation 19:2"],
-        "recurrenceRefs": ["1 Nephi 13:34", "1 Nephi 14:9", "1 Nephi 14:13", "1 Nephi 14:16", "1 Nephi 14:17"],
+        "composite": [
+          "Revelation 17:1",
+          "Revelation 19:2"
+        ],
+        "recurrenceRefs": [
+          "1 Nephi 13:34",
+          "1 Nephi 14:9",
+          "1 Nephi 14:13",
+          "1 Nephi 14:16",
+          "1 Nephi 14:17"
+        ],
         "provenance": {
           "route": "Revelation 17:5 → KJV → Book of Mormon",
           "other": "The KJV's title is one continuous phrase: 'THE MOTHER OF HARLOTS AND ABOMINATIONS OF THE EARTH'. The Book of Mormon splits it into two independent titles and uses them alternately — 'the mother of harlots' at 13:34 and 14:16, 'the mother of abominations' at 14:9, 14:10, 14:13 and 14:17 — and adds a third from the same chapter, 'the whore of all the earth' (Revelation 17:1's 'the great whore', 19:2's 'the great whore, which did corrupt the earth').",
@@ -72,7 +121,9 @@
         "bibliography": [],
         "status": "consensus",
         "citationsPending": true,
-        "streams": ["manual"]
+        "streams": [
+          "manual"
+        ]
       }
     ],
     "14:11": [
@@ -82,11 +133,26 @@
         "subtype": "close-verbal",
         "confidence": "certain",
         "text": "And there came one of the seven angels which had the seven vials, and talked with me, saying unto me, Come hither; I will shew unto thee the judgment of the great whore that sitteth upon many waters:",
-        "evidence": { "vocabulary": 5, "syntax": 5, "sequence": 5, "context": 5, "rarity": 5, "attestation": 4 },
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 4
+        },
         "kjvSpecific": "yes",
         "mediation": "direct-NT",
-        "composite": ["Revelation 17:15", "Revelation 13:7", "Revelation 14:6"],
-        "recurrenceRefs": ["1 Nephi 14:12", "1 Nephi 13:10", "1 Nephi 5:18"],
+        "composite": [
+          "Revelation 17:15",
+          "Revelation 13:7",
+          "Revelation 14:6"
+        ],
+        "recurrenceRefs": [
+          "1 Nephi 14:12",
+          "1 Nephi 13:10",
+          "1 Nephi 5:18"
+        ],
         "provenance": {
           "route": "Revelation 17:1 + 17:15 → KJV → Book of Mormon",
           "other": "'The great whore that sitteth upon many waters' is Revelation 17:1's; 'the waters which thou sawest, where the whore sitteth, are peoples, and multitudes, and nations, and tongues' is 17:15's gloss on it. Revelation 13:7 supplies 'power was given him over all kindreds, and tongues, and nations'.",
@@ -96,7 +162,9 @@
         "bibliography": [],
         "status": "consensus",
         "citationsPending": true,
-        "streams": ["manual"]
+        "streams": [
+          "manual"
+        ]
       }
     ],
     "14:14": [
@@ -106,10 +174,20 @@
         "subtype": "close-verbal",
         "confidence": "moderate",
         "text": "By the word of truth, by the power of God, by the armour of righteousness on the right hand and on the left,",
-        "evidence": { "vocabulary": 4, "syntax": 4, "sequence": 4, "context": 4, "rarity": 4, "attestation": 0 },
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 4,
+          "rarity": 4,
+          "attestation": 0
+        },
         "kjvSpecific": "yes",
         "mediation": "direct-NT",
-        "composite": ["Ephesians 6:11", "Ephesians 6:14"],
+        "composite": [
+          "Ephesians 6:11",
+          "Ephesians 6:14"
+        ],
         "provenance": {
           "route": "2 Corinthians 6:7 → KJV → Book of Mormon",
           "other": "'Armour of righteousness' occurs in exactly one KJV verse; Ephesians 6:11-14 has 'the whole armour of God' and 'the breastplate of righteousness' as separate items.",
@@ -119,7 +197,9 @@
         "bibliography": [],
         "status": "novel",
         "citationsPending": true,
-        "streams": ["manual"]
+        "streams": [
+          "manual"
+        ]
       }
     ],
     "14:15": [
@@ -129,21 +209,41 @@
         "subtype": "close-verbal",
         "confidence": "high",
         "text": "And I heard a great voice out of the temple saying to the seven angels, Go your ways, and pour out the vials of the wrath of God upon the earth.",
-        "evidence": { "vocabulary": 5, "syntax": 4, "sequence": 4, "context": 5, "rarity": 4, "attestation": 1 },
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 1
+        },
         "kjvSpecific": "yes",
         "mediation": "direct-NT",
-        "composite": ["Revelation 14:10", "Revelation 15:7", "Matthew 24:6"],
-        "recurrenceRefs": ["1 Nephi 14:16", "1 Nephi 14:17", "1 Nephi 12:2"],
+        "composite": [
+          "Revelation 14:10",
+          "Revelation 15:7",
+          "Matthew 24:6"
+        ],
+        "recurrenceRefs": [
+          "1 Nephi 12:2",
+          "1 Nephi 13:29",
+          "1 Nephi 14:16",
+          "1 Nephi 14:17"
+        ],
         "provenance": {
           "route": "Revelation 16:1 → KJV → Book of Mormon",
           "other": "'The wrath of God' occurs in ten KJV verses, five of them in Revelation 14-16. Only Revelation 16:1 (with 15:7 and 16:2-17) has it POURED OUT, which is the Book of Mormon's verb.",
           "significance": "The verb decides the source. Romans 1:18 has the wrath of God revealed, John 3:36 has it abiding, Ephesians 5:6 and Colossians 3:6 have it coming; only Revelation's vials pour it out, and 1 Nephi 14:15 and 14:17 both read 'the wrath of God was poured out'. What follows in the Book of Mormon is 'wars and rumors of wars' — Matthew 24:6 (see 12:2) — so the verse joins the two apocalypses, Revelation's vials and the Olivet discourse, in one sentence."
         },
         "note": "'The wrath of God was poured out upon the great and abominable church, insomuch that there were wars and rumors of wars.' The pouring is Revelation's, the wars are Matthew's. Held at high rather than certain because no continuous clause is reproduced.",
-        "bibliography": [],
+        "bibliography": [
+          "Frederick 2016: ch. 4 — quotes 1 Ne 14:17 entire (with 13:27 and 13:29) as the Book of Mormon's apocalyptic clash of light and dark, in support of a reading of John 1:5 in D&C 6:21. A reading of the passage, not a source for it."
+        ],
         "status": "novel",
-        "citationsPending": true,
-        "streams": ["manual"]
+        "streams": [
+          "scholarship",
+          "manual"
+        ]
       }
     ],
     "14:23": [
@@ -153,11 +253,24 @@
         "subtype": "close-verbal",
         "confidence": "high",
         "text": "And they sing the song of Moses the servant of God, and the song of the Lamb, saying, Great and marvellous are thy works, Lord God Almighty; just and true are thy ways, thou King of saints.",
-        "evidence": { "vocabulary": 5, "syntax": 4, "sequence": 3, "context": 5, "rarity": 5, "attestation": 1 },
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 1
+        },
         "kjvSpecific": "yes",
         "mediation": "direct-NT",
-        "composite": ["Revelation 1:2", "Revelation 19:11"],
-        "recurrenceRefs": ["1 Nephi 1:14", "1 Nephi 14:7"],
+        "composite": [
+          "Revelation 1:2",
+          "Revelation 19:11"
+        ],
+        "recurrenceRefs": [
+          "1 Nephi 1:14",
+          "1 Nephi 14:7"
+        ],
         "provenance": {
           "route": "Revelation 15:3 → KJV → Book of Mormon",
           "other": "'Just and true' occurs in exactly one KJV verse. Revelation 16:7 and 19:2 have 'true and righteous', which is a different pair.",
@@ -167,7 +280,9 @@
         "bibliography": [],
         "status": "novel",
         "citationsPending": true,
-        "streams": ["manual"]
+        "streams": [
+          "manual"
+        ]
       }
     ],
     "14:25": [
@@ -177,11 +292,26 @@
         "subtype": "conceptual",
         "confidence": "high",
         "text": "And when the seven thunders had uttered their voices, I was about to write: and I heard a voice from heaven saying unto me, Seal up those things which the seven thunders uttered, and write them not.",
-        "evidence": { "vocabulary": 4, "syntax": 4, "sequence": 5, "context": 5, "rarity": 5, "attestation": 1 },
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 1
+        },
         "kjvSpecific": "yes",
         "mediation": "direct-NT",
-        "composite": ["Daniel 12:4", "Daniel 12:9"],
-        "recurrenceRefs": ["1 Nephi 14:26", "1 Nephi 14:28", "2 Nephi 27:7-11", "Ether 3:27"],
+        "composite": [
+          "Daniel 12:4",
+          "Daniel 12:9"
+        ],
+        "recurrenceRefs": [
+          "1 Nephi 14:26",
+          "1 Nephi 14:28",
+          "2 Nephi 27:7-11",
+          "Ether 3:27"
+        ],
         "provenance": {
           "route": "Revelation 10:4 → KJV → Book of Mormon",
           "other": "Revelation 10:4 is the KJV's one scene of a seer forbidden to write what he has just seen. Daniel 12:4 and 12:9 supply the sealing until the time of the end.",
@@ -191,7 +321,9 @@
         "bibliography": [],
         "status": "novel",
         "citationsPending": true,
-        "streams": ["manual"]
+        "streams": [
+          "manual"
+        ]
       }
     ]
   }

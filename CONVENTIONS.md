@@ -140,6 +140,36 @@ count *against* a proposed link here, we lose Hays's cheapest filter, and the
 remaining criteria have to work harder. That is the real reason §4 insists on
 rarity counts before claiming KJV-specificity.
 
+### Frederick uses the same apparatus
+
+*Added 2026-09-05, on acquiring Frederick.* Nicholas J. Frederick's *The Bible,
+Mormon Scripture, and the Rhetoric of Allusivity* (Fairleigh Dickinson, 2016) —
+the standard monograph on biblical allusion in the Book of Mormon — builds its
+method on **the same seven criteria of Hays**, and on the same metalepsis
+figure from the same two books. That is worth knowing and worth not
+over-reading:
+
+- It means this catalogue's evidence scores are not idiosyncratic. A reader
+  who knows the field will recognize the apparatus, and §3a's mapping is doing
+  openly what Frederick does in prose.
+- It does **not** corroborate any of our findings. Two projects using one
+  rubric is one rubric, not two witnesses; where Frederick and this catalogue
+  agree about a passage, the agreement is worth exactly as much as the evidence
+  under it. See the note at 1 Nephi 13:27, where he reaches John by reading the
+  argument and we reach John by counting the words — that convergence is worth
+  something precisely because the two routes are different.
+
+Note also what Frederick's book is not. He has no cross-reference apparatus and
+no appendix of proposed intertexts; he is arguing about the Gospel of John, and
+Book of Mormon verses appear as evidence in that argument. `tools/parse-frederick.py`
+therefore indexes CO-OCCURRENCE — which Book of Mormon verse is discussed near
+which biblical verse — and its own docstring says so. Anything written from that
+index into a `bibliography` field must state what Frederick actually does. §6's
+hard limit applies with full force here: three of the four 1 Nephi verses he
+touches are quoted to illustrate a claim about D&C 6:21, and writing "Frederick
+identifies Acts 13:10 at 1 Nephi 13:27" would be a false statement about a real
+person's work.
+
 ### Metalepsis
 
 Hays's second volume (*Echoes of Scripture in the Gospels*, Baylor, 2016,

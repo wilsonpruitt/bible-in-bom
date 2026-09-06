@@ -110,7 +110,8 @@ order across chapters 2-5 (11:8, 11:9, 11:13, 11:29). Mark 3:1-5 supplies three
 separate elements across chapters 2, 7 and 17.
 
 New tools: `collate-isaiah.py`, `build-isaiah-adjudication.py`,
-`hardy-coverage.py`. New data: `isaiah-collation.json`. Schema addition:
+`hardy-coverage.py`, `parse-frederick.py`. New data: `isaiah-collation.json`,
+`frederick-refs.json`. Schema addition:
 `Link.recurrenceRefs`.
 
 ## 7. Pilot acceptance test ("definitive" for 1 Nephi means all of these)
@@ -126,11 +127,27 @@ New tools: `collate-isaiah.py`, `build-isaiah-adjudication.py`,
 1. ✅ 1 Nephi 20-21 ~ Isaiah 48-49 recovered and collated (see §6a).
 2. ✅ **All 62 Hardy rows for 1 Nephi accounted for** — `tools/hardy-coverage.py`
    checks it mechanically and exits non-zero on a gap. Run it before claiming this.
-3. ⛔ **Cannot be checked.** Frederick is not on disk (CONVENTIONS §6 says we
-   hold him; we do not). The Revelation network in 11-14 IS catalogued — 11:34
-   and 13:26 and 14:10-11 are the spine of it — but against Revelation itself,
-   not against Frederick. This is the one acceptance criterion the pilot fails,
-   and it fails for want of a book, not for want of work.
+3. ⚠️ **The criterion was wrong, and is now restated.** Frederick was acquired
+   2026-09-05 and indexed (`tools/parse-frederick.py` → `data/frederick-refs.json`).
+   The criterion as drafted — "Frederick's four Pauline parallels and the Rev
+   network in 1 Ne 11-14" — does not describe his book. Frederick's subject is
+   **the Gospel of John** (289 Johannine citations against 4 in Revelation and
+   2 in Romans), and across the whole monograph he cites 1 Nephi at exactly
+   **four verses: 13:26, 13:27, 13:29, 14:17** — none of them Pauline, none of
+   them in the Revelation network of 11-14. There are no four Pauline parallels
+   to check against.
+
+   What is now done: all four are catalogued, and three carry a Frederick
+   citation that says what he actually argues (13:26 and 13:27 and 14:15/17;
+   plus 22:25, where his claim about John 10:16's "other sheep" is directly on
+   point). The Revelation network in 11-14 remains catalogued — 11:34, 13:26,
+   14:10-11 are its spine — against Revelation itself, which is the right
+   authority for it.
+
+   **Restated criterion, for 2 Nephi onward:** every Frederick row for the book
+   under adjudication is either a Link or a reasoned exclusion. That will bite,
+   because his weight is elsewhere: Alma 47 citations, 3 Nephi 23, 2 Nephi 18,
+   Moroni 12. The pilot's overlap with him was always going to be near zero.
 4. ✅ Collated verse by verse; 99 variant rows in `data/isaiah-collation.json`.
 5. ✅ Enforced by `apply-adjudication.py`, which refuses to write otherwise.
 6. ✅ 247 exclusions across five categories.
