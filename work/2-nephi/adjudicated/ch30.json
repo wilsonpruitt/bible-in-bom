@@ -1,0 +1,455 @@
+{
+  "chapter": 30,
+  "adjudicated": "2026-09-05",
+  "adjudicator": "Opus",
+  "links": {
+    "30:1": [
+      {
+        "source": "Luke 13:3",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "text": "I tell you, Nay: but, except ye repent, ye shall all likewise perish.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Luke 13:5",
+          "Luke 13:2"
+        ],
+        "provenance": {
+          "route": "Luke 13:1-5 → KJV → Book of Mormon",
+          "other": "“ye shall all likewise perish” occurs in exactly two KJV verses, Luke 13:3 and Luke 13:5, which are the same sentence said twice in one paragraph. The construction occurs nowhere else in the Bible.",
+          "significance": "The whole paragraph is here, not the clause. Luke 13:1-5 is Christ's answer to people who assume that those who died — the Galilaeans whose blood Pilate mingled, the eighteen killed by the tower of Siloam — must have been worse sinners: 'Suppose ye that these Galilaeans were sinners above all the Galilaeans, because they suffered such things? I tell you, Nay: but, except ye repent, ye shall all likewise perish.' 2 Nephi 30:1 opens with exactly that supposition, in Luke's own verb: 'I… would not suffer that ye should suppose that ye are more righteous than the Gentiles shall be… ye shall all likewise perish.' Nephi has just spent two chapters prophesying the destruction of the Gentiles, and he opens the next by refusing his own audience the inference Luke's hearers drew. The metalepsis supplies the reason — not that the Gentiles are innocent, but that judgment on others licenses no conclusion about oneself."
+        },
+        "note": "Five words from the KJV's one construction, with 'suppose' — Luke 13:2's verb, and the hinge of the passage — arriving in the same sentence. The condition attached to the threat is changed and the change is worth recording: Luke's is 'except ye repent', Nephi's 'except ye shall keep the commandments of God', which converts a call to repentance into a standard of conduct. The verse then repeats 'ye need not suppose' a second time about a different inference, so the Lucan verb is doing structural work in the paragraph rather than appearing once.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "30:5": [
+      {
+        "source": "Mark 1:1",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "text": "The beginning of the gospel of Jesus Christ, the Son of God;",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "Mark 1:1 → KJV → Book of Mormon",
+          "other": "“the gospel of Jesus Christ” occurs in exactly one KJV verse, Mark 1:1. The New Testament elsewhere has 'the gospel of Christ' (a dozen times), 'the gospel of God', 'the gospel of his Son' and 'the gospel of the kingdom', but the full name appears in this construction only at the head of Mark.",
+          "significance": "Mark 1:1 is not a sentence but a title — the opening words of a book, naming what the book is. 2 Nephi 30:5 uses it of something being declared to the remnant of Nephi's seed after a book has come forth and been carried to them, which is the same relation: a written record whose subject is named by this phrase. Recovering the source therefore supplies a genre claim the verse does not make explicitly. What is to be declared among them is not a message in general but a gospel of the kind that comes in a book with a beginning."
+        },
+        "note": "Four words and a KJV singleton, in a verse about a record being brought to a people. Confidence is moderate rather than high because 'the gospel of Jesus Christ' had long since become standard devotional English independent of Mark, and the Book of Mormon uses it freely elsewhere; the argument for Mark specifically is the rarity count and the fact that 30:3-5 is describing the transmission of a book. A reader who treats the phrase as ordinary usage rather than a borrowing is not refuted by anything here.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "30:6": [
+      {
+        "source": "Acts 9:18",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "text": "And immediately there fell from his eyes as it had been scales: and he received sight forthwith, and arose, and was baptized.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "Acts 9:18 → KJV → Book of Mormon",
+          "other": "“fell from his eyes as it had been scales” occurs in exactly one KJV verse, Acts 9:18. 'Scales' occurs in nine KJV verses altogether and the other eight are fish scales or Leviathan's; Acts 9:18 is the only verse in the Bible where scales fall from anyone's eyes, and the KJV never calls them 'scales of darkness' — that phrase is the Book of Mormon's own.",
+          "significance": "Paul's blindness is the model of a particular kind of conversion: not a sinner reformed but a zealot who was wrong about the scriptures he knew best, struck blind on the road and given sight by a man he had come to arrest. 2 Nephi 30:6 applies it to the remnant of Nephi's seed learning 'that they are a descendant of the Jews' — a recovery of identity, not merely of belief, which is what Acts 9 is about. The added genitive, 'scales of darkness', names what the KJV leaves as a simile ('as it had been scales'), and in doing so it makes Luke's medical detail into a figure for ignorance. That is the Book of Mormon reading Acts, and the reading has since become the ordinary English idiom."
+        },
+        "note": "The KJV's one falling-scales verse, quoted in its distinctive elements — scales, eyes, falling — with the simile hardened into a metaphor. Note what changes: in Acts the scales fall at once ('immediately… forthwith') and in 30:6 they 'shall begin to fall', with 'many generations shall not pass away' before the process completes. A sudden miracle has been made a gradual one, which is the difference between a conversion narrative and a prophecy about a people.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "30:8": [
+      {
+        "source": "Revelation 14:6",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "And I saw another angel fly in the midst of heaven, having the everlasting gospel to preach unto them that dwell on the earth, and to every nation, and kindred, and tongue, and people,",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "Revelation 14:6 → KJV → Book of Mormon",
+          "other": "Revelation gives its four-fold list of humanity seven times and in seven different orders. “nation, and kindred, and tongue, and people” occurs in exactly one KJV verse, Revelation 14:6, and it is the Book of Mormon's order here — 'all nations, kindreds, tongues, and people' — pluralised throughout. Revelation 7:9's order is nations, kindreds, people, tongues; Revelation 13:7's is kindreds, tongues, nations; Revelation 5:9's is kindred, tongue, people, nation.",
+          "significance": "The order is the evidence, and the verse it selects is the right one. Revelation 14:6's angel carries 'the everlasting gospel to preach unto them that dwell on the earth', which is precisely 30:8's subject — the Lord commencing his work among all nations to bring about the restoration of his people. Of the seven Revelation lists this is the only one attached to a gospel going out rather than to a multitude gathered, a beast's dominion, or a people redeemed. Nephi has taken the list from the one occurrence whose sentence matches his own, which is not what an author reaching for a remembered formula would be expected to do."
+        },
+        "note": "A four-item list is weak evidence and a four-item list in one of seven possible orders, matching the one verse whose subject is the same, is strong evidence. The pluralisation is uniform and is the Book of Mormon's standing form of the phrase. Recorded as an allusion rather than a quotation because the list is lifted out of Revelation's sentence and set in Nephi's; the borrowed material is a series, not a clause.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "30:9": [
+      {
+        "source": "Isaiah 11:4",
+        "type": "quotation",
+        "subtype": "extended",
+        "confidence": "certain",
+        "text": "But with righteousness shall he judge the poor, and reprove with equity for the meek of the earth: and he shall smite the earth: with the rod of his mouth, and with the breath of his lips shall he slay the wicked.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 2
+        },
+        "kjvSpecific": "yes",
+        "mediation": "uncertain",
+        "recurrenceRefs": [
+          "2 Nephi 21:4"
+        ],
+        "provenance": {
+          "route": "Isaiah 11:4 → KJV → Book of Mormon; whether by way of this book's own transcription at 2 Nephi 21:4 cannot be determined — see the collation in the note",
+          "other": "“reprove with equity” occurs in exactly one KJV verse, Isaiah 11:4, and “breath of his lips” occurs in exactly one KJV verse, the same one. 2 Nephi 21:4's transcription of the verse reproduces the KJV word for word. 2 Nephi 30:9 departs from both at exactly two points, and both are at the seam: 'And' for 'But', and 'the Lord God' for 'he'.",
+          "significance": "This is the second Book of Mormon witness to Isaiah 11 and the point of collating it is to see whether the book's two copies of one chapter are the same text. They are. The two changes here are not textual but framing: 'But' becomes 'And' because the sentence now follows Nephi's verse 8 instead of Isaiah's verse 3, and Isaiah's 'he' — whose antecedent in Isaiah 11:1-3 is the rod out of the stem of Jesse — becomes 'the Lord God', because the quotation has been lifted out of the context that supplied its subject and needs one. An expositor quoting from memory or from a manuscript would be expected to leave traces of a different text; what 30:9 leaves are traces of a different sentence."
+        },
+        "note": "The chapter's centrepiece and the reason it was kept as a hand chapter. Collating 2 Nephi 30:9-15 against both the KJV and 2 Nephi 21:4-9 gives a clean and largely negative result, which is worth stating plainly because the test could have gone the other way (compare 2 Nephi 6:16 against 1 Nephi 21:24, where the two Book of Mormon witnesses genuinely diverge and the verdict had to be recorded as divided). Here: 2 Nephi 21:4-9 agrees with the KJV at every word; 2 Nephi 30:9-15 agrees with both at every word except the two connective adjustments in this verse, one more at 30:12, and the possessive apostrophe at 30:14. Every substantive difference between the two Book of Mormon witnesses is a join, and every join is where Nephi's own prose meets the quotation. The mediation is therefore recorded as uncertain rather than guessed: with the two candidate sources verbally identical, no reading in this verse can tell them apart.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "30:10": [
+      {
+        "source": "Psalm 145:20",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "text": "The LORD preserveth all them that love him: but all the wicked will he destroy.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "recurrenceRefs": [
+          "1 Nephi 1:20"
+        ],
+        "provenance": {
+          "route": "Psalm 145:20 → KJV → Book of Mormon",
+          "other": "“the wicked will he destroy” occurs in exactly one KJV verse, Psalm 145:20, and the inversion — object, auxiliary, subject, verb — is preserved intact in 2 Nephi 30:10. Both of the psalm verse's halves are present: 'the wicked will he destroy' and, for 'The LORD preserveth all them that love him', 'he will spare his people'.",
+          "significance": "The placement is what makes this row matter. 2 Nephi 30:10 is the one verse Nephi inserts into his quotation of Isaiah 11 — the block runs 11:4 at verse 9, then this, then 11:5 at verse 11 — and it is inserted precisely where Isaiah has said the Messiah shall 'slay the wicked'. So the gloss on Isaiah's slaying is built out of a psalm, and out of the psalm's own antithesis: destruction of the wicked set against preservation of those who love God. Nephi has answered Isaiah with the Psalter rather than with his own words, at the single point where he interrupts. Note that Psalm 145 has been used at the head of this record before: 145:9's 'tender mercies… over all' stands behind 1 Nephi 1:20, a link the machine streams could not see and which the pilot found by reading."
+        },
+        "note": "A KJV singleton with its unusual word order kept, and its companion clause paraphrased in the next breath — 'the wicked will he destroy; and he will spare his people' against 'The LORD preserveth all them that love him: but all the wicked will he destroy.' The Book of Mormon reverses the psalm's order, putting the destruction first, because the verse is glossing Isaiah 11:4's slaying and has to begin there. The closing clause, 'even if it so be that he must destroy the wicked by fire', is Nephi's own and has no source; it is the specification the psalm does not give and Isaiah does not give either.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "30:11": [
+      {
+        "source": "Isaiah 11:5",
+        "type": "quotation",
+        "subtype": "extended",
+        "confidence": "certain",
+        "text": "And righteousness shall be the girdle of his loins, and faithfulness the girdle of his reins.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 2
+        },
+        "kjvSpecific": "yes",
+        "mediation": "uncertain",
+        "recurrenceRefs": [
+          "2 Nephi 21:5"
+        ],
+        "provenance": {
+          "route": "Isaiah 11:5 → KJV → Book of Mormon; not distinguishable from a route through 2 Nephi 21:5",
+          "other": "“girdle of his loins” occurs in exactly one KJV verse, Isaiah 11:5. 2 Nephi 30:11, 2 Nephi 21:5 and the KJV are identical here at every word and every mark of punctuation — the only verse of the six where all three witnesses agree completely.",
+          "significance": "The verse's position is the finding rather than its wording. Isaiah 11:5 follows 11:4 immediately; in 2 Nephi 30 the two are separated by verse 10, thirty-eight words of Nephi's own prophecy about a great division and the wicked destroyed by fire. So the expositor has opened Isaiah's oracle at the point where it says the Messiah shall 'slay the wicked', paused to say what that will look like, and then resumed at the girdle of righteousness. The interpolation is a gloss placed inside the quotation, which is a different technique from the one 2 Nephi 27 used on Isaiah 29, where the additions are woven into the verses themselves."
+        },
+        "note": "Verbatim, at nine words, on a KJV singleton. It is recorded as a link rather than passed over because a reader of 2 Nephi 30 should be able to see where the quotation resumes after verse 10's interruption, and because the perfect three-way agreement is itself a datum in the collation argued at 30:9.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "30:12": [
+      {
+        "source": "Isaiah 11:6",
+        "type": "quotation",
+        "subtype": "extended",
+        "confidence": "certain",
+        "text": "The wolf also shall dwell with the lamb, and the leopard shall lie down with the kid; and the calf and the young lion and the fatling together; and a little child shall lead them.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 2
+        },
+        "kjvSpecific": "yes",
+        "mediation": "uncertain",
+        "recurrenceRefs": [
+          "2 Nephi 21:6"
+        ],
+        "provenance": {
+          "route": "Isaiah 11:6 → KJV → Book of Mormon; not distinguishable from a route through 2 Nephi 21:6",
+          "other": "“the fatling” occurs in exactly two KJV verses, Isaiah 11:6 and 2 Samuel 6:13, and only Isaiah's is an animal at peace. 2 Nephi 21:6 reproduces the KJV word for word. 30:12 departs from both by one substitution: 'And then shall the wolf dwell' for 'The wolf also shall dwell'.",
+          "significance": "The second and last substantive departure in the block, and it is the same kind of thing as 30:9's: a connective. Isaiah's 'also' links his verse 6 to his verse 5; Nephi's 'and then' links it to his own verse 11 and, through it, to the sequence of events he has been narrating since verse 8 — the Lord commencing his work, the division, the burning, and then the peaceable kingdom. Isaiah's 'also' is additive and Nephi's 'and then' is chronological, which converts a description into a timetable. That is what an exposition does to an oracle, and it is the only interpretive pressure the six quoted verses show."
+        },
+        "note": "Thirty-one consecutive words shared with the source once the opening connective is set aside. The 1830 also adds commas to Isaiah's unpunctuated series — 'the calf, and the young lion, and the fatling, together' against both the KJV's and 2 Nephi 21:6's 'the calf and the young lion and the fatling together' — which is the one point in the block where 30 differs from 21 in a way that is not a join. It is recorded rather than argued from: 1830 punctuation is the compositor's before it is the author's, and a comma cannot bear a mediation claim.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "30:13": [
+      {
+        "source": "Isaiah 11:7",
+        "type": "quotation",
+        "subtype": "extended",
+        "confidence": "certain",
+        "text": "And the cow and the bear shall feed; their young ones shall lie down together: and the lion shall eat straw like the ox.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 2
+        },
+        "kjvSpecific": "yes",
+        "mediation": "uncertain",
+        "recurrenceRefs": [
+          "2 Nephi 21:7"
+        ],
+        "provenance": {
+          "route": "Isaiah 11:7 → KJV → Book of Mormon; not distinguishable from a route through 2 Nephi 21:7",
+          "other": "“straw like the ox” occurs in exactly one KJV verse, Isaiah 11:7. Isaiah 65:25, the oracle's later reprise, reads 'the lion shall eat straw like the bullock' — a different animal — and it also compresses the whole of 11:6-7 into one clause, 'The wolf and the lamb shall feed together'. 30:13 has Isaiah 11:7's ox and Isaiah 11:7's full sequence, at every word.",
+          "significance": "The discrimination against Isaiah 65:25 is worth having because 65:25 is the passage a writer working from memory would be most likely to conflate with this one: it is the same vision, in the same book, using the same animals, and it ends with the same 'they shall not hurt nor destroy in all my holy mountain'. The n-gram stream duly proposed it here and again at 30:15. The Book of Mormon does not conflate them. It has the ox and not the bullock, and it keeps the cow, the bear and their young ones, which Isaiah 65:25 drops."
+        },
+        "note": "Verbatim at every word. The one difference from the KJV is a semicolon for a colon, and 2 Nephi 21:7 has the semicolon too — an agreement of 30 with 21 against the KJV that is worth exactly as much as the punctuation of a first edition is worth, which is to say it is noted in the collation at 30:9 and not argued from.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "30:14": [
+      {
+        "source": "Isaiah 11:8",
+        "type": "quotation",
+        "subtype": "extended",
+        "confidence": "certain",
+        "text": "And the sucking child shall play on the hole of the asp, and the weaned child shall put his hand on the cockatrice’ den.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 2
+        },
+        "kjvSpecific": "yes",
+        "mediation": "OT-via-earlier-BoM",
+        "recurrenceRefs": [
+          "2 Nephi 21:8"
+        ],
+        "provenance": {
+          "route": "Isaiah 11:8 → 2 Nephi 21:8 → 2 Nephi 30:14, on one orthographic datum only",
+          "other": "“hole of the asp” occurs in exactly one KJV verse, Isaiah 11:8, and 'cockatrice' occurs in exactly four KJV verses, of which this is the only one with a den. The KJV prints the possessive as 'the cockatrice’ den', with a bare apostrophe and no s; 2 Nephi 21:8 prints 'the cockatrice’s den' and so does 2 Nephi 30:14. This is the only reading anywhere in the six quoted verses where both Book of Mormon witnesses stand together against the KJV.",
+          "significance": "It is the whole positive result of the collation, and it is very small. If the two Book of Mormon copies of Isaiah 11 descend from one another rather than independently from the KJV, this apostrophe is the only surviving trace of it. The honest weight to put on that is close to none: a compositor setting 'cockatrice’ den' from copy would regularise it to 'cockatrice’s' without thinking, and would do so twice as readily as once, so the agreement of 21:8 and 30:14 may be two independent normalisations rather than one inherited reading. The mediation field records it because CONVENTIONS §7 asks for a decision and this is the only evidence there is; the note says how thin it is."
+        },
+        "note": "Verbatim except for the possessive. The mediation is recorded as OT-via-earlier-BoM on a single apostrophe, which is stated here so that no reader mistakes the field for a stronger claim than the evidence supports — this row is the one place in the chapter where the catalogue has taken a position it could lose. Set beside 2 Nephi 6:16, where the same test on Isaiah 49:24 produced two readings pointing opposite ways and the verdict had to be recorded as divided, the result here is different in kind: not a conflict of evidence but an absence of it, with one orthographical straw on the scale.",
+        "whyNot": "The sole basis for preferring an internal route over the KJV directly is the possessive 's' in 'cockatrice’s', which is a printing-house normalisation of an archaic form and could have been made twice independently. Every other word of Isaiah 11:4-9 is identical in all three witnesses, so the mediation claim rests on one apostrophe and should be withdrawn if the 1830 compositor is shown to have regularised bare possessive apostrophes elsewhere as a matter of course.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "30:15": [
+      {
+        "source": "Isaiah 11:9",
+        "type": "quotation",
+        "subtype": "extended",
+        "confidence": "certain",
+        "text": "They shall not hurt nor destroy in all my holy mountain: for the earth shall be full of the knowledge of the LORD, as the waters cover the sea.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 2
+        },
+        "kjvSpecific": "yes",
+        "mediation": "uncertain",
+        "recurrenceRefs": [
+          "2 Nephi 21:9"
+        ],
+        "provenance": {
+          "route": "Isaiah 11:9 → KJV → Book of Mormon; not distinguishable from a route through 2 Nephi 21:9",
+          "other": "“hurt nor destroy” occurs in exactly two KJV verses, Isaiah 11:9 and Isaiah 65:25, and “as the waters cover the sea” occurs in exactly two, Isaiah 11:9 and Habakkuk 2:14. 30:15 is verbatim from Isaiah 11:9 and agrees with neither competitor where they differ: Habakkuk reads 'the earth shall be filled with the knowledge of the glory of the LORD', with 'filled' for 'full' and an added 'glory of'.",
+          "significance": "Two rival verses, each sharing one of this verse's two rare phrases, and the Book of Mormon has Isaiah 11:9's form of both. That is the last confirmation the collation needs: whatever 2 Nephi 30's proximate copy was, it was a copy of Isaiah 11 and not a memory of the several places where the peaceable kingdom is described. The vision then closes the quotation and the chapter turns, at verse 16, to what the earth being full of the knowledge of the Lord will mean in practice — everything made known, nothing sealed."
+        },
+        "note": "Twenty-nine consecutive words, verbatim, ending the block. The n-gram stream ranked Isaiah 65:25 and Habakkuk 2:14 behind Isaiah 11:9 here and both are excluded on their divergent readings rather than on rank; the register gives the reason. The mediation is uncertain for the same reason as at 30:9: 2 Nephi 21:9 and the KJV are identical, so there is nothing to choose between them.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "30:17": [
+      {
+        "source": "Luke 8:17",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "For nothing is secret, that shall not be made manifest; neither any thing hid, that shall not be known and come abroad.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Ephesians 5:13",
+          "Ephesians 5:11"
+        ],
+        "provenance": {
+          "route": "Luke 8:17 → KJV → Book of Mormon, with Ephesians 5:11-13 supplying the second clause",
+          "other": "“nothing is secret” occurs in exactly one KJV verse, Luke 8:17, and both of the Book of Mormon's verbs are Luke's: 'secret' paired with 'made manifest'. The synoptic parallels do not have this pairing — Mark 4:22 reads 'nothing hid, which shall not be manifested; neither was any thing kept secret', with the terms crossed, and Matthew 10:26 reads 'nothing covered, that shall not be revealed'. “works of darkness” occurs in exactly two KJV verses, Romans 13:12 and Ephesians 5:11, and Ephesians 5:13 continues 'all things that are reproved are made manifest by the light'.",
+          "significance": "The verse is a chain of three sayings and each has its own source, which is what makes it a good specimen of how this writer composes. Luke supplies the secret that shall be revealed; Ephesians 5:11-13 supplies the works of darkness made manifest by light, in the one KJV passage that puts those two ideas in one sentence; and the third clause — 'nothing which is sealed upon the earth, save it shall be loosed' — has no biblical source at all, because it is about the sealed book of 2 Nephi 27, which is this book's own subject. So the verse moves from quoted scripture to quoted scripture to the Book of Mormon's own contribution, and the reader who recovers the first two hears the third claimed on their authority."
+        },
+        "note": "Luke 8:17 rather than Mark 4:22 or Matthew 10:26, and the discrimination is clean: the Book of Mormon has 'secret' governed by revelation and 'made manifest' as its verb, which is Luke's arrangement; Mark crosses the terms and Matthew has neither. The Ephesians half is fused rather than quoted — the KJV has works of darkness at 5:11 and 'made manifest by the light' at 5:13, and 30:17 compresses them into 'no works of darkness, save it shall be made manifest in the light', with 'in' for Paul's 'by'. Recorded as an allusion on that account, and because none of the three clauses reproduces a whole KJV clause.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "30:18": [
+      {
+        "source": "Revelation 20:3",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "And cast him into the bottomless pit, and shut him up, and set a seal upon him, that he should deceive the nations no more, till the thousand years should be fulfilled: and after that he must be loosed a little season.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Revelation 20:2"
+        ],
+        "recurrenceRefs": [
+          "2 Nephi 28:23",
+          "2 Nephi 29:11"
+        ],
+        "provenance": {
+          "route": "Revelation 20:2-3 → KJV → Book of Mormon",
+          "other": "“deceive the nations no more” occurs in exactly one KJV verse, Revelation 20:3, and it is the KJV's only sentence in which Satan's power over people is suspended for a stated term. The Book of Mormon's 'for a long time' stands where Revelation has 'till the thousand years should be fulfilled'.",
+          "significance": "The substitution is the finding. Revelation 20:3 binds Satan for a thousand years and then — 'after that he must be loosed a little season' — releases him; 30:18 gives him no power over the hearts of the children of men 'no more, for a long time', which keeps the release and declines the number. That is a deliberate imprecision in a verse whose source is famously precise, and it leaves the millennium's length an open question in a book that has just insisted the Lord's word is not finished. Recovering Revelation 20 also completes a pattern: 2 Nephi 28:23 took verses 10-14 for the lake of fire, 2 Nephi 29:11 took verse 12 for the judgment out of books, and 30:18 takes verses 2-3 for the binding — three chapters of Nephi's closing exposition drawing on one chapter of Revelation, and drawing on it backwards."
+        },
+        "note": "A five-word KJV singleton, with Revelation's temporal clause replaced by a vaguer one that keeps its logic: a bounded suspension, not an abolition. 'For a long time' is not scriptural English and is the 1830's reading; it is what makes the borrowing visible as an adaptation rather than a quotation. Note the two other Revelation 20 rows in this dispatch, at 2 Nephi 28:23 and 29:11 — taken together they show the chapter-ending sermon working through Revelation 20 from its end to its beginning, which is not how a writer recalling a familiar passage would be expected to move.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ]
+  }
+}

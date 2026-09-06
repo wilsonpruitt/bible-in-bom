@@ -1,5 +1,6 @@
 import type { Book } from "@/lib/types";
 import firstNephi from "./1-nephi.json";
+import secondNephi from "./2-nephi.json";
 import jacob from "./jacob.json";
 import enos from "./enos.json";
 import jarom from "./jarom.json";
@@ -11,6 +12,7 @@ import wordsOfMormon from "./words-of-mormon.json";
 // import and list it here. Order follows the Book of Mormon's own.
 export const BOOKS: Book[] = [
   firstNephi as Book,
+  secondNephi as Book,
   jacob as Book,
   enos as Book,
   jarom as Book,

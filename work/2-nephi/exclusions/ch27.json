@@ -1,0 +1,62 @@
+[
+  {
+    "bomRef": "2 Nephi 27:1",
+    "source": "Isaiah 29:1",
+    "category": "insufficient-verbal",
+    "sharedText": "(none)",
+    "streams": [
+      "manual"
+    ],
+    "reason": "Recorded as a deliberate absence rather than a rejected candidate, because it is the most informative fact about this chapter's relation to its source. 2 Nephi 27 is an expansion of Isaiah 29 and it begins at Isaiah 29:6. Isaiah 29:3-5 were used in the previous chapter at 2 Nephi 26:15-18. Isaiah 29:1-2 — 'Woe to Ariel, to Ariel, the city where David dwelt! add ye year to year; let them kill sacrifices. Yet I will distress Ariel …' — are used nowhere in the Book of Mormon, and they are the only two verses of the oracle that name its subject and tie it to Jerusalem and the temple cult. In their place 27:1 supplies a wholly non-biblical frame: 'in the last days, or in the days of the Gentiles'. The oracle's geography is removed and its addressee replaced, and at 27:3 the surviving occurrence of Ariel is itself replaced by Zion. A reader collating the two chapters will look for Isaiah 29:1-2 and should be told that the omission is systematic."
+  },
+  {
+    "bomRef": "2 Nephi 27:2",
+    "source": "Isaiah 30:30",
+    "category": "better-source-identified",
+    "sharedText": "with the flame of",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "Isaiah 30:30 has 'the flame of a devouring fire' with the indefinite article; Isaiah 29:6 has 'the flame of devouring fire' without it, which is the Book of Mormon's form, and 29:6 supplies the whole of the rest of the verse. Recorded because Isaiah 30 is a neighbouring oracle with a similar storm-theophany and a reader might reasonably wonder whether both are in play. On the evidence only 29:6 is."
+  },
+  {
+    "bomRef": "2 Nephi 27:28",
+    "source": "Isaiah 32:15",
+    "category": "better-source-identified",
+    "sharedText": "and the fruitful field",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "A seven-word run, and the longest non-Isaiah-29 match in the chapter. Isaiah 32:15 has the wilderness becoming a fruitful field and the fruitful field 'counted for a forest'; 2 Nephi 27:28 has Lebanon turned into a fruitful field and the fruitful field 'esteemed as a forest', which is Isaiah 29:17's wording exactly, together with 'a very little while' which Isaiah 32 lacks. The shared run is the phrase the two Isaiah verses share with each other."
+  },
+  {
+    "bomRef": "2 Nephi 27:22",
+    "source": "Revelation 5:2",
+    "category": "insufficient-verbal",
+    "sharedText": "(sealed book; no shared wording)",
+    "streams": [
+      "manual"
+    ],
+    "reason": "Revelation 5:1-5 is the Bible's other great sealed book — written within and on the back, sealed with seven seals, with none in heaven or earth worthy to open it until the Lion of Judah prevails — and it is the passage a reader of 2 Nephi 27 is most likely to think of. It is declined here because there is no verbal contact at all: the Book of Mormon's book is sealed by God's power and reserved to his own due time, not opened by a worthy one, and none of Revelation's distinctive vocabulary (loose the seals, prevailed to open, worthy) appears. The conceptual row filed at this verse is to Daniel 12:4 and 12:9 instead, on the ground that Daniel supplies the sealing, the withholding and the appointed time together — but that row is graded moderate and carries a whyNot, and Revelation 5 remains the strongest alternative to it."
+  },
+  {
+    "bomRef": "2 Nephi 27:12",
+    "source": "Deuteronomy 19:15",
+    "category": "better-source-identified",
+    "sharedText": "witnesses",
+    "streams": [
+      "manual"
+    ],
+    "reason": "Deuteronomy 19:15 is the origin of the law of witnesses and the obvious place to key 27:12's three witnesses. The verbal link is at 27:14 and it is to the New Testament form of the law, not Deuteronomy's: 27:14 has 'in the mouth of' (Matthew 18:16, 2 Corinthians 13:1) rather than Deuteronomy's 'at the mouth of', and establishes a 'word' rather than Deuteronomy's 'matter'. Recorded so that a reader who expects Deuteronomy at the witnesses verse is sent to the mediation argument two verses on."
+  },
+  {
+    "bomRef": "2 Nephi 27:13",
+    "source": "Isaiah 29:4",
+    "category": "better-source-identified",
+    "sharedText": "speak as if it were from the dead",
+    "streams": [
+      "scholarship"
+    ],
+    "reason": "Hardy cross-references Isaiah 29:4 at 27:13, and the reference is right about the book and wrong about the verse for this catalogue's purpose. 27:13 says only that 'the words of the faithful should speak as if it were from the dead', which paraphrases Isaiah's ghost-voice without reproducing a phrase of it. The verbal link to Isaiah 29:4 — speaking out of the ground, speech low out of the dust, a voice as of one that hath a familiar spirit, a whisper out of the dust — is at 2 Nephi 26:16, where all four clauses stand in Isaiah's order and where the catalogue files it (CONVENTIONS §6a). This is not drift in our extraction: 27:13 genuinely alludes to the same verse, and a study edition is right to point a reader there. The register sends him to 26:16 for the wording."
+  }
+]

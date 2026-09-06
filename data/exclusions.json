@@ -4771,6 +4771,1237 @@
         "machine-ngram"
       ],
       "reason": "Five words, of which four are function words and one is a noun Jacob uses eleven times in this chapter. Isaiah 45:13 concerns Cyrus raised up in righteousness to build the city; 2 Nephi 9:49 concerns Jacob's own delight in righteousness and his praise of God's name. There is no shared subject, image or argument, only the accident that both sentences turn from a prepositional phrase to a first-person future."
+    },
+    {
+      "bomRef": "2 Nephi 10:3",
+      "source": "1 Kings 13:18",
+      "category": "wrong-sense",
+      "sharedText": "angel spake unto me",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "Four words, and the KJV verse is the lying prophet of Bethel: 'an angel spake unto me by the word of the LORD... But he lied unto him.' 2 Nephi 10:3's parenthesis is the angel of 2 Nephi 6:9 telling Jacob the Messiah's name. The one KJV verse where an angel speaks to a man in these words is the one where the claim is false, which makes the string match actively misleading rather than merely empty."
+    },
+    {
+      "bomRef": "2 Nephi 10:3",
+      "source": "Romans 9:8",
+      "category": "formulaic",
+      "sharedText": "they which are the",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "A standing exclusion for this chapter. 'They which are' is the 1830 text's ordinary relative construction — the 1920 edition rewrote it to 'those who are' at 10:3, 10:16 twice, 10:19, 10:21 and 10:22 — and it will match any KJV verse using the same relative. Romans 9:8, Mark 12:43 ('all they which have', proposed at 10:22) and Luke 8:10 are all instances of this and none is a borrowing. The same applies to 'it must needs be' (Matthew 18:7) and 'and now, behold, the Lord' (Joshua 14:10)."
+    },
+    {
+      "bomRef": "2 Nephi 10:7",
+      "source": "Leviticus 26:36",
+      "category": "common-vocabulary",
+      "sharedText": "the lands of their",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "The machine's run stops one word short of the noun that matters. Leviticus 26:36 has 'in the lands of their ENEMIES' — the curse of exile; 2 Nephi 10:7 has 'unto the lands of their INHERITANCE' — the promise of return. 'Lands of their inheritance' is in no KJV verse at all, which is why the window closes early (ADJUDICATING 4). Malachi 4:1 ('the day cometh that'), Exodus 10:6 and Galatians 1:16 are proposed at the same verse on connective strings and are covered by the standing exclusion at 10:3."
+    },
+    {
+      "bomRef": "2 Nephi 10:8",
+      "source": "Luke 1:15",
+      "category": "wrong-sense",
+      "sharedText": "shall be great in",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "The top-ranked candidate for the verse and it is a coincidence of five common words. Luke 1:15 is Gabriel on John the Baptist, 'he shall be great in the sight of the Lord'; 2 Nephi 10:8 is 'the nations of the Gentiles shall be great in the eyes of me'. Luke 1:15 is a real source elsewhere in this book (2 Nephi 3:24, on being filled with the Spirit from the womb), which makes the false positive here worth registering rather than passing over. The verse's actual sources are Isaiah 11:11-12, which the n-gram stream did not propose at all."
+    },
+    {
+      "bomRef": "2 Nephi 10:9",
+      "source": "Luke 22:25",
+      "category": "wrong-sense",
+      "sharedText": "the kings of the Gentiles",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "A genuine four-word run whose sense is exactly opposed. Luke 22:25: 'The kings of the Gentiles exercise lordship over them; and they that exercise authority upon them are called benefactors' — a warning against Gentile rule. 2 Nephi 10:9: 'the kings of the Gentiles shall be nursing fathers unto them' — a promise that Gentile rule will nurse Israel. The verse's source is Isaiah 49:23, where the phrase 'nursing fathers' and 'nursing mothers' are both KJV singletons; 'kings of the Gentiles' is Jacob's own gloss on Isaiah's unspecified 'kings', not a borrowing from Luke."
+    },
+    {
+      "bomRef": "2 Nephi 10:10",
+      "source": "Psalm 41:2",
+      "category": "common-vocabulary",
+      "sharedText": "shall be blessed upon the",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "Five words, and the fifth diverges: Psalm 41:2 has 'blessed upon the EARTH' of the man who considers the poor; 2 Nephi 10:10 has 'blessed upon the LAND', the land being the subject of the whole passage. The construction is ordinary KJV blessing-formula English and points at no particular verse."
+    },
+    {
+      "bomRef": "2 Nephi 10:11",
+      "source": "Numbers 32:22",
+      "category": "formulaic",
+      "sharedText": "and this land shall be",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "Five words of pure land-promise boilerplate. Numbers 32:22 is the Reubenites' conditional possession of Gilead; 2 Nephi 10:11 is the land of liberty. Nothing after the shared string agrees. The theological warrant behind 10:11-14 is 1 Samuel 8, which is linked at 10:11, and 'land of liberty' is in no KJV verse."
+    },
+    {
+      "bomRef": "2 Nephi 10:15",
+      "source": "Ezekiel 7:27",
+      "category": "formulaic",
+      "sharedText": "I will do unto them",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "Proposed at both 10:15 and 10:17, which is a sign it has caught Jacob's own repeated clause ('that I will do unto them while they are in the flesh') rather than a source. Ezekiel 7:27 has 'I will do unto them after their way', a judgment formula; the Book of Mormon's clause is a promise about timing. Common connective phrasing in both."
+    },
+    {
+      "bomRef": "2 Nephi 10:16",
+      "source": "Numbers 5:3",
+      "category": "better-source-identified",
+      "sharedText": "both male and female",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "The string is real but the source is not. Numbers 5:3 puts male and female lepers out of the camp; it has no bond and free and no Jew and Gentile. 2 Nephi 10:16 gives all three pairs in the order of Galatians 3:28, where 'male nor female' is a KJV singleton and 'bond nor free' occurs in only two verses. The link is written at Galatians 3:28, with 1 Corinthians 12:13 recorded as the source of the substituted first pair."
+    },
+    {
+      "bomRef": "2 Nephi 10:18",
+      "source": "Lamentations 1:21",
+      "category": "formulaic",
+      "sharedText": "they shall be like unto",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "Five words of comparison boilerplate. Lamentations 1:21 says the enemies 'shall be like unto me' in ruin; 2 Nephi 10:18 says the Gentiles 'shall be like unto a father' to Lehi's seed. Opposite valence, no other contact."
+    },
+    {
+      "bomRef": "2 Nephi 10:21",
+      "source": "Esther 10:1",
+      "category": "better-source-identified",
+      "sharedText": "upon the isles of the sea",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "The longest run the machine found in the chapter — six words, and 'isles of the sea' occurs in only two KJV verses — but Esther 10:1 is the extent of Ahasuerus's tribute, 'upon the land, and upon the isles of the sea', with no covenant content whatever. The other of the two is Isaiah 24:15, 'glorify ye the LORD... in the isles of the sea', which is where the link is written, with Isaiah 49:1's 'Listen, O isles' as a composite because Jacob had transcribed Isaiah 49 four chapters earlier. Note the crux recorded there: the verse Jacob is actually expounding, Isaiah 11:11, reads 'islands of the sea' in the KJV and in the Book of Mormon's own transcription at 2 Nephi 21:11 — so the plural he builds an argument on is not the plural his source gives him."
+    },
+    {
+      "bomRef": "2 Nephi 10:22",
+      "source": "Ezekiel 45:8",
+      "category": "formulaic",
+      "sharedText": "the house of Israel according to",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "Six words, and every one of them is a fixed KJV collocation. 'The house of Israel' occurs well over a hundred times and 'according to' is connective. Ezekiel 45:8 is about the division of the land among the tribes; 2 Nephi 10:22 is about branches led away 'according to his will and pleasure'. The verse's source is Romans 11:17-20, on 'broken off', which the n-gram stream missed."
+    },
+    {
+      "bomRef": "2 Nephi 10:23",
+      "source": "Deuteronomy 24:5",
+      "category": "wrong-sense",
+      "sharedText": "cheer up",
+      "streams": [
+        "manual"
+      ],
+      "reason": "Registered because the rarity is startling and the sense is absurd. 'Cheer up' is a KJV singleton, and the one verse is the newlywed's exemption from military service: 'he shall be free at home one year, and shall cheer up his wife which he hath taken.' 2 Nephi 10:23's 'Therefore cheer up your hearts' has nothing to do with it, and the idiom had passed into ordinary nineteenth-century English by any route. The model case for CONVENTIONS 5's warning that a rarity count is evidence about a phrase, not about a link."
+    },
+    {
+      "bomRef": "2 Nephi 10:24",
+      "source": "Titus 2:11",
+      "category": "better-source-identified",
+      "sharedText": "the grace of God that",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "Five words, and the fifth is the hinge. Titus 2:11 is 'the grace of God that BRINGETH SALVATION hath appeared to all men' — grace appearing; 2 Nephi 10:24 is 'the grace of God that YE ARE SAVED' — grace saving. The saving formula is Ephesians 2:8's, 'by grace are ye saved', a KJV singleton in that exact form, and the link is written there. Titus 2:11 remains the machine's best guess for the chapter and is worth recording as a near miss."
+    },
+    {
+      "bomRef": "2 Nephi 10:25",
+      "source": "2 Samuel 21:3",
+      "category": "wrong-sense",
+      "sharedText": "the atonement, that ye may",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "A five-word run across the most theologically loaded word in the verse, and it is a coincidence. 2 Samuel 21:3 is David asking the Gibeonites what blood-price will make atonement for Saul's slaughter of them; 2 Nephi 10:25 is a benediction about deliverance from everlasting death 'by the power of the atonement'. The English 'make the atonement, that ye may' and 'the atonement, that ye may' are the same words doing unrelated work. The verse's sources are Philippians 3:10 and 2 Peter 1:3-11."
+    },
+    {
+      "bomRef": "2 Nephi 11:1",
+      "source": "Jeremiah 13:11",
+      "category": "formulaic",
+      "sharedText": "have I caused to",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "A standing exclusion for this chapter. Nephi's editorial formula 'only these things have I caused to be written' is his own, and it will match any KJV causative. Jeremiah 13:11 has 'so have I caused to cleave unto me the whole house of Israel'. Exodus 24:12 ('which I have written'), Psalm 102:18 ('be written for the') and 2 Corinthians 4:18 ('for the things which') are proposed at the same verse on the same kind of connective tissue and are covered here."
+    },
+    {
+      "bomRef": "2 Nephi 11:2",
+      "source": "Job 4:8",
+      "category": "wrong-sense",
+      "sharedText": "even as I have seen",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "A five-word run and a complete accident of English. Job 4:8 is Eliphaz beginning a proverb — 'Even as I have seen, they that plow iniquity, and sow wickedness, reap the same' — where the clause governs what follows. 2 Nephi 11:2 has 'he verily saw my Redeemer, even as I have seen him', where it governs what precedes and the object is a person. The stream proposes the same string again at 11:3. Nephi's seeing-language belongs with Job 19:25-26, which is linked at 2 Nephi 9:4 in Jacob's sermon, not with Job 4."
+    },
+    {
+      "bomRef": "2 Nephi 11:3",
+      "source": "2 Corinthians 6:16",
+      "category": "wrong-sense",
+      "sharedText": "God hath said, I will",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "The highest-ranked candidate in the chapter, and it is a speech-introduction formula. 2 Corinthians 6:16 quotes Leviticus 26:12 on God dwelling among his people; 2 Nephi 11:3 quotes the law of witnesses. Hebrews 13:5 ('hath said, I will never leave thee') is the same shape and the same non-event. The verse's real sources are Deuteronomy 19:15 and its New Testament citations, which the stream did propose in part — 2 Chronicles 29:15 and Hosea 6:5 both matched on 'by the words of', which is Nephi's phrase for the three witnesses, but neither KJV verse has anything to do with witnesses."
+    },
+    {
+      "bomRef": "2 Nephi 11:4",
+      "source": "Matthew 13:35",
+      "category": "common-vocabulary",
+      "sharedText": "things which have been",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "Four words of relative-clause filler. Matthew 13:35 has 'things which have been kept secret from the foundation of the world'; 2 Nephi 11:4 has 'all things which have been given of God from the beginning of the world'. The near-agreement of the two temporal phrases is worth noting and does not survive inspection: 'from the foundation of the world' and 'from the beginning of the world' are both common KJV formulas (the latter in Isaiah 64:4, Matthew 24:21, Acts 15:18 and Ephesians 3:9), and neither points at a source. Revelation 18:14, Ephesians 6:6 and 2 Samuel 6:12 are proposed at the same verse on strings of the same kind."
+    },
+    {
+      "bomRef": "2 Nephi 11:7",
+      "source": "Daniel 2:28",
+      "category": "wrong-sense",
+      "sharedText": "But there is a God",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "Five words, and the sense is unrelated in both directions. Daniel 2:28 is 'But there is a God in heaven that revealeth secrets' — an answer to the Chaldeans who could not recover the king's dream; 1 Samuel 17:46, proposed alongside it, is David telling Goliath 'that all the earth may know that there is a God in Israel'. Both assert God's existence against a rival claim of power. 2 Nephi 11:7 asserts it as the conclusion of a chained reductio — 'For if there be no Christ, there be no God... But there is a God, and he is Christ' — and the form of that argument, not the assertion, is what is borrowed; the link is written at 1 Corinthians 15:13."
+    },
+    {
+      "bomRef": "2 Nephi 11:7",
+      "source": "Job 20:22",
+      "category": "wrong-sense",
+      "sharedText": "in the fulness of his",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "Five words across a phrase that is doing nothing in the KJV verse. Job 20:22 is Zophar on the wicked man: 'In the fulness of his sufficiency he shall be in straits.' Romans 15:29, proposed with it, has 'in the fulness of the blessing of the gospel of Christ'. 2 Nephi 11:7's 'he cometh in the fulness of his own time' is the temporal sense, which in the KJV is Galatians 4:4's 'the fulness of the time' — a singleton, adjudicated at 2 Nephi 2:3 and recorded here as a composite rather than a second row."
+    },
+    {
+      "bomRef": "2 Nephi 25:4",
+      "source": "1 Corinthians 1:11",
+      "category": "wrong-sense",
+      "sharedText": "which are of the house of",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "A six-word run, and the longest match the machine found for this verse, but the houses are unrelated: Paul's is the household of Chloe, whose members reported the Corinthian factions; Nephi's is the House of Israel. The formula 'which are of the house of' is a KJV commonplace of genealogy and household."
+    },
+    {
+      "bomRef": "2 Nephi 25:4",
+      "source": "1 Samuel 29:3",
+      "category": "formulaic",
+      "sharedText": "which hath been with me",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "Achish vouching for David to the Philistine lords. No content word is shared beyond the auxiliary and the pronoun, and the n-gram score of 1.50 is an artifact of the phrase's low frequency rather than its distinctiveness — the trap CONVENTIONS §9 names."
+    },
+    {
+      "bomRef": "2 Nephi 25:4",
+      "source": "John 15:27",
+      "category": "formulaic",
+      "sharedText": "been with me from",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "A five-word run of connective tissue spanning a clause boundary. John 15:27's subject is apostolic witness 'from the beginning'; Nephi's is the plainness that has been with him 'from the time that I came out from Jerusalem'. The shared words are a temporal preposition and a pronoun."
+    },
+    {
+      "bomRef": "2 Nephi 25:5",
+      "source": "1 Corinthians 9:13",
+      "category": "formulaic",
+      "sharedText": "of the things of the",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "Pure connective. Nephi's verse repeats 'the things of the Jews' four times in one sentence, which is what raised the score; Paul is discussing priestly maintenance from the temple."
+    },
+    {
+      "bomRef": "2 Nephi 25:13",
+      "source": "Acts 19:8",
+      "category": "wrong-sense",
+      "sharedText": "for the space of three",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "A genuine KJV singleton — “for the space of three” occurs in exactly one KJV verse — and it is the wrong one. Acts 19:8 continues 'months', of Paul disputing in the Ephesian synagogue; Nephi continues 'days', of Christ in the sepulchre. This is the trap ADJUDICATING §4 names as the window closing one word early, and it is worth the register entry precisely because the rarity count is real and would tempt an adjudicator who did not read the whole verse. The link at this verse is to Mark 9:31, which supplies the frame with the interval attached."
+    },
+    {
+      "bomRef": "2 Nephi 25:13",
+      "source": "Mark 12:25",
+      "category": "better-source-identified",
+      "sharedText": "shall rise from the dead",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "'Rise from the dead' is common in the gospels, and Mark 12:25's subject is the marital status of the resurrected, not a passion prediction. Superseded by the Mark 9:31 row at the same verse, which shares the whole temporal frame and not just the verb."
+    },
+    {
+      "bomRef": "2 Nephi 25:14",
+      "source": "1 Chronicles 20:1",
+      "category": "formulaic",
+      "sharedText": "came to pass that after the",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "Narrative boilerplate of the kind covered by the standing exclusion at 1 Nephi 2:1. The Chronicler's verse is the siege of Rabbah."
+    },
+    {
+      "bomRef": "2 Nephi 25:20",
+      "source": "Exodus 32:34",
+      "category": "formulaic",
+      "sharedText": "of which I have spoken",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "Connective. The coincidence is faintly interesting — Exodus 32:34 is the aftermath of the golden calf and this chapter draws twice on that complex (Exodus 33:5 at 25:28, Exodus 17:6 here) — but nothing in the shared words points at it, and the phrase is a KJV commonplace."
+    },
+    {
+      "bomRef": "2 Nephi 25:23",
+      "source": "1 John 2:18",
+      "category": "formulaic",
+      "sharedText": "we know that it is",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "Five words of connective tissue. 1 John 2:18's subject is the many antichrists as evidence that it is the last time; the link at this verse is to Ephesians 2:8, which supplies the clause the connective introduces."
+    },
+    {
+      "bomRef": "2 Nephi 25:27",
+      "source": "Romans 4:19",
+      "category": "wrong-sense",
+      "sharedText": "the deadness",
+      "streams": [
+        "manual"
+      ],
+      "reason": "A tempting one, and it should be recorded as declined rather than passed over. “the deadness” occurs in exactly one KJV verse, Romans 4:19, and 2 Nephi 25:27 uses the noun twice in a single sentence — 'the deadness of the law', 'by knowing the deadnes of the law' (1830 spelling). But Romans 4:19's deadness is Sarah's womb, a physical incapacity that Abraham's faith overlooks, and Romans 4 is not arguing that the law is dead; it is arguing that Abraham was justified before the law existed. Nothing but the bare noun is shared, and the noun is an ordinary English abstraction from a common adjective. The Pauline material this verse is actually working with is 2 Corinthians 3, which is catalogued as a link at the same verse."
+    },
+    {
+      "bomRef": "2 Nephi 25:28",
+      "source": "Ezekiel 12:28",
+      "category": "formulaic",
+      "sharedText": "which I have spoken",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "Connective, and the same string already excluded at 25:20. Ezekiel's oracle concerns the delay of prophecy, which is thematically adjacent to Nephi's insistence that his words will stand — but the four shared words are a KJV commonplace and carry none of that."
+    },
+    {
+      "bomRef": "2 Nephi 25:29",
+      "source": "Isaiah 12:6",
+      "category": "common-vocabulary",
+      "sharedText": "the Holy One of Israel",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "'The Holy One of Israel' occurs in 31 KJV verses, 25 of them in Isaiah, and it is 2 Nephi's habitual title for Christ — the book has already transcribed a dozen of those Isaiah verses at chapters 12-24, including Isaiah 12:6 at 2 Nephi 22:6. No single occurrence can be identified as the source of Nephi's use, and the machine's selection of Isaiah 12:6 is arbitrary among 31. Recorded here once as a standing note for the title throughout 2 Nephi 25-33."
+    },
+    {
+      "bomRef": "2 Nephi 26:1",
+      "source": "Deuteronomy 18:19",
+      "category": "formulaic",
+      "sharedText": "words which he shall speak",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "Tempting because Deuteronomy 18:15-19 is the prophet-like-Moses oracle that 1 Nephi 22:20 quotes and that this corpus uses repeatedly, and because 26:1 is about words Christ will speak that 'shall be the law which ye shall do'. But the shared string is a relative clause of pure connective tissue, and Deuteronomy 18:19's subject is the requiring of obedience from those who will not hearken, not the giving of a new law. If Deuteronomy 18 is in view here it has left no verbal trace; the adjudicated link for that oracle sits at 1 Nephi 22:20."
+    },
+    {
+      "bomRef": "2 Nephi 26:3",
+      "source": "Malachi 4:3",
+      "category": "better-source-identified",
+      "sharedText": "the wicked for they shall",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "Malachi 4 is genuinely in view in this chapter, but at 26:4 and 26:6 (v. 1) and 26:9 (v. 2), not here. Malachi 4:3's treading down of the wicked as ashes shares only a connective run with 26:3, whose sources are Genesis 4:10 and the Abel-to-Zacharias tradition of Matthew 23:35 and Luke 11:50-51."
+    },
+    {
+      "bomRef": "2 Nephi 26:5",
+      "source": "Isaiah 41:16",
+      "category": "common-vocabulary",
+      "sharedText": "shall carry them away",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "Nephi's 'whirlwinds shall carry them away' and Isaiah 41:16's 'the wind shall carry them away, and the whirlwind shall scatter them' share the idiom and split the two winds differently. The image of chaff or stubble taken by a whirlwind is distributed across Isaiah 17:13, 40:24, 41:16 and Job 21:18, and no one of them can be identified as the source. Recorded because the verse's neighbours do borrow from Isaiah and a reader may expect this clause to as well."
+    },
+    {
+      "bomRef": "2 Nephi 26:5",
+      "source": "Psalm 71:20",
+      "category": "wrong-sense",
+      "sharedText": "the depths of the earth",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "The sense is opposed. Psalm 71:20 is a promise of rescue — 'shalt bring me up again from the depths of the earth' — and 26:5 has the depths of the earth swallowing the killers of the prophets. The nearer image is Korah at Numbers 16:32, where the earth opens her mouth and swallows them up, and that is recorded as composite on the Hosea 10:8 row."
+    },
+    {
+      "bomRef": "2 Nephi 26:6",
+      "source": "Deuteronomy 31:17",
+      "category": "common-vocabulary",
+      "sharedText": "shall be kindled against them",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "'Anger kindled against' is one of the KJV's commonest formulas of judgment — eleven verses have 'the anger of the LORD was kindled' alone. Deuteronomy 31:17 has 'my anger shall be kindled against them in that day', which matches Nephi's tense; but the link at this verse is to Isaiah 5:25, whose participial 'the anger of the LORD kindled' is a KJV singleton and which Hardy cross-references here alongside the stubble."
+    },
+    {
+      "bomRef": "2 Nephi 26:6",
+      "source": "Numbers 12:9",
+      "category": "common-vocabulary",
+      "sharedText": "the anger of the Lord",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "Four words of the same formula, from the episode of Miriam's leprosy. Superseded by the Isaiah 5:25 row at this verse."
+    },
+    {
+      "bomRef": "2 Nephi 26:9",
+      "source": "2 Kings 10:30",
+      "category": "wrong-sense",
+      "sharedText": "of the fourth generation",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "A real rarity pointed at the wrong verse, and worth the entry. 2 Kings 10:30 is the Lord's reward to Jehu — 'thy children of the fourth generation shall sit on the throne of Israel' — a dynastic promise with no bearing on Nephi's four generations of righteousness before destruction. The formula Nephi is using is the Decalogue's 'unto the third and fourth generation' (Exodus 20:5, Numbers 14:18, Deuteronomy 5:9), which he inverts from a reach of punishment into a span of reprieve, and which is catalogued as a link at this verse. Note that Exodus 20 returns at 26:32."
+    },
+    {
+      "bomRef": "2 Nephi 26:10",
+      "source": "Ecclesiastes 8:12",
+      "category": "formulaic",
+      "sharedText": "I know that it shall",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "Connective. Qoheleth's subject is the prosperity of sinners; Nephi's is the certainty of a foreseen destruction. The link at this verse is to Isaiah 52:3."
+    },
+    {
+      "bomRef": "2 Nephi 26:12",
+      "source": "John 20:31",
+      "category": "better-source-identified",
+      "sharedText": "that Jesus is the Christ",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "A six-word run and a real one: John 20:31 is the Fourth Gospel's statement of purpose, 'that ye might believe that Jesus is the Christ, the Son of God', and 26:12 twice says that Jews and Gentiles must be convinced 'that Jesus is the Christ'. But the clause is the New Testament's standard confession and appears at Acts 9:22, 17:3, 18:5, 18:28 and 1 John 5:1; the distinctive word in Nephi's sentence is 'very', which points at Acts 9:22 and John 7:26, and the link is filed there. Recorded here because a reader who knows Frederick's work on Johannine language in the Book of Mormon might expect John 20:31 to be claimed at this verse, and this catalogue declines to claim it."
+    },
+    {
+      "bomRef": "2 Nephi 26:12",
+      "source": "Matthew 18:7",
+      "category": "formulaic",
+      "sharedText": "it must needs be that",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "'It must needs be' is one of the Book of Mormon's own commonest connectives and appears throughout 2 Nephi 25-30. Matthew 18:7's subject is offences. Covered in principle by the standing exclusion at 1 Nephi 1:5."
+    },
+    {
+      "bomRef": "2 Nephi 26:13",
+      "source": "2 Corinthians 13:4",
+      "category": "formulaic",
+      "sharedText": "by the power of",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "'By the power of God' is a KJV commonplace. The link at this verse is to Revelation 14:6's fourfold list of nations, kindreds, tongues and peoples."
+    },
+    {
+      "bomRef": "2 Nephi 26:14",
+      "source": "1 Samuel 11:11",
+      "category": "formulaic",
+      "sharedText": "came to pass that they",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "Narrative boilerplate; Saul's relief of Jabesh-gilead. Covered by the standing exclusion at 1 Nephi 2:1."
+    },
+    {
+      "bomRef": "2 Nephi 26:14",
+      "source": "Isaiah 29:3",
+      "category": "better-source-identified",
+      "sharedText": "(none at this verse)",
+      "streams": [
+        "scholarship"
+      ],
+      "reason": "Hardy cross-references Isaiah 29:3-5 at 26:14, which introduces the prophecy ('But behold I prophesy unto you concerning the last days') without quoting anything. The wording begins in the next verse and runs through three: Isaiah 29:3's camp, siege and forts at 26:15, Isaiah 29:4's voice out of the ground at 26:16, and Isaiah 29:5's chaff and instant at 26:18. CONVENTIONS §6a: the links sit where the wording is and this entry sends the reader from his verse to all three. This is not drift in our extraction — his reference is a chapter-level pointer placed at the head of a passage, which is what a study edition's apparatus is for."
+    },
+    {
+      "bomRef": "2 Nephi 26:23",
+      "source": "1 Corinthians 11:23",
+      "category": "formulaic",
+      "sharedText": "unto you that the Lord",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "Connective. Paul is delivering the institution of the supper; Nephi is asserting that the Lord God worketh not in darkness — a clause whose real relative is John 3:19, catalogued at 26:10."
+    },
+    {
+      "bomRef": "2 Nephi 26:30",
+      "source": "Isaiah 50:4",
+      "category": "formulaic",
+      "sharedText": "the Lord God hath given",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "Five words of formula. Isaiah 50:4 is the servant's tongue of the learned, and this book transcribes it at 2 Nephi 7:4 — which makes the match worth naming and rejecting rather than passing over, since a reader may suspect the transcription is being reused. It is not: 26:30's source is 1 Corinthians 13."
+    },
+    {
+      "bomRef": "2 Nephi 26:33",
+      "source": "Job 34:28",
+      "category": "formulaic",
+      "sharedText": "to come unto him and",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "Connective, though Job 34:28's 'cry of the poor' is thematically adjacent to 26:20's grinding upon the face of the poor. The shared words carry none of that, and the invitation formula in 26:33 is Matthew 11:28's."
+    },
+    {
+      "bomRef": "2 Nephi 27:1",
+      "source": "Isaiah 29:1",
+      "category": "insufficient-verbal",
+      "sharedText": "(none)",
+      "streams": [
+        "manual"
+      ],
+      "reason": "Recorded as a deliberate absence rather than a rejected candidate, because it is the most informative fact about this chapter's relation to its source. 2 Nephi 27 is an expansion of Isaiah 29 and it begins at Isaiah 29:6. Isaiah 29:3-5 were used in the previous chapter at 2 Nephi 26:15-18. Isaiah 29:1-2 — 'Woe to Ariel, to Ariel, the city where David dwelt! add ye year to year; let them kill sacrifices. Yet I will distress Ariel …' — are used nowhere in the Book of Mormon, and they are the only two verses of the oracle that name its subject and tie it to Jerusalem and the temple cult. In their place 27:1 supplies a wholly non-biblical frame: 'in the last days, or in the days of the Gentiles'. The oracle's geography is removed and its addressee replaced, and at 27:3 the surviving occurrence of Ariel is itself replaced by Zion. A reader collating the two chapters will look for Isaiah 29:1-2 and should be told that the omission is systematic."
+    },
+    {
+      "bomRef": "2 Nephi 27:2",
+      "source": "Isaiah 30:30",
+      "category": "better-source-identified",
+      "sharedText": "with the flame of",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "Isaiah 30:30 has 'the flame of a devouring fire' with the indefinite article; Isaiah 29:6 has 'the flame of devouring fire' without it, which is the Book of Mormon's form, and 29:6 supplies the whole of the rest of the verse. Recorded because Isaiah 30 is a neighbouring oracle with a similar storm-theophany and a reader might reasonably wonder whether both are in play. On the evidence only 29:6 is."
+    },
+    {
+      "bomRef": "2 Nephi 27:12",
+      "source": "Deuteronomy 19:15",
+      "category": "better-source-identified",
+      "sharedText": "witnesses",
+      "streams": [
+        "manual"
+      ],
+      "reason": "Deuteronomy 19:15 is the origin of the law of witnesses and the obvious place to key 27:12's three witnesses. The verbal link is at 27:14 and it is to the New Testament form of the law, not Deuteronomy's: 27:14 has 'in the mouth of' (Matthew 18:16, 2 Corinthians 13:1) rather than Deuteronomy's 'at the mouth of', and establishes a 'word' rather than Deuteronomy's 'matter'. Recorded so that a reader who expects Deuteronomy at the witnesses verse is sent to the mediation argument two verses on."
+    },
+    {
+      "bomRef": "2 Nephi 27:13",
+      "source": "Isaiah 29:4",
+      "category": "better-source-identified",
+      "sharedText": "speak as if it were from the dead",
+      "streams": [
+        "scholarship"
+      ],
+      "reason": "Hardy cross-references Isaiah 29:4 at 27:13, and the reference is right about the book and wrong about the verse for this catalogue's purpose. 27:13 says only that 'the words of the faithful should speak as if it were from the dead', which paraphrases Isaiah's ghost-voice without reproducing a phrase of it. The verbal link to Isaiah 29:4 — speaking out of the ground, speech low out of the dust, a voice as of one that hath a familiar spirit, a whisper out of the dust — is at 2 Nephi 26:16, where all four clauses stand in Isaiah's order and where the catalogue files it (CONVENTIONS §6a). This is not drift in our extraction: 27:13 genuinely alludes to the same verse, and a study edition is right to point a reader there. The register sends him to 26:16 for the wording."
+    },
+    {
+      "bomRef": "2 Nephi 27:22",
+      "source": "Revelation 5:2",
+      "category": "insufficient-verbal",
+      "sharedText": "(sealed book; no shared wording)",
+      "streams": [
+        "manual"
+      ],
+      "reason": "Revelation 5:1-5 is the Bible's other great sealed book — written within and on the back, sealed with seven seals, with none in heaven or earth worthy to open it until the Lion of Judah prevails — and it is the passage a reader of 2 Nephi 27 is most likely to think of. It is declined here because there is no verbal contact at all: the Book of Mormon's book is sealed by God's power and reserved to his own due time, not opened by a worthy one, and none of Revelation's distinctive vocabulary (loose the seals, prevailed to open, worthy) appears. The conceptual row filed at this verse is to Daniel 12:4 and 12:9 instead, on the ground that Daniel supplies the sealing, the withholding and the appointed time together — but that row is graded moderate and carries a whyNot, and Revelation 5 remains the strongest alternative to it."
+    },
+    {
+      "bomRef": "2 Nephi 27:28",
+      "source": "Isaiah 32:15",
+      "category": "better-source-identified",
+      "sharedText": "and the fruitful field",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "A seven-word run, and the longest non-Isaiah-29 match in the chapter. Isaiah 32:15 has the wilderness becoming a fruitful field and the fruitful field 'counted for a forest'; 2 Nephi 27:28 has Lebanon turned into a fruitful field and the fruitful field 'esteemed as a forest', which is Isaiah 29:17's wording exactly, together with 'a very little while' which Isaiah 32 lacks. The shared run is the phrase the two Isaiah verses share with each other."
+    },
+    {
+      "bomRef": "2 Nephi 28:2",
+      "source": "Revelation 1:19",
+      "category": "formulaic",
+      "sharedText": "the things which shall be",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "The n-gram stream's top candidate for the verse and pure connective tissue: a relative pronoun, an auxiliary and a participle. Revelation 1:19 is John's commission to write what he has seen; 28:2 is about the worth of a book to a remnant of Israel. Nothing beyond the five function words is shared, and 'the things which' is among the commonest openings in the KJV."
+    },
+    {
+      "bomRef": "2 Nephi 28:3",
+      "source": "Jeremiah 30:8",
+      "category": "formulaic",
+      "sharedText": "for it shall come to pass in that day",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "A nine-word run and worth nothing, which is CONVENTIONS §9 in one line — the longest run in the chapter is its emptiest. 'It shall come to pass in that day' is the KJV's standard prophetic formula and Jeremiah 30:8 goes on to break a yoke off Israel's neck, which has no contact with churches contending over the Lord's name. The real link at 28:3 is Isaiah 44:5, which the same stream ranked below this."
+    },
+    {
+      "bomRef": "2 Nephi 28:6",
+      "source": "Luke 20:38",
+      "category": "wrong-sense",
+      "sharedText": "he is not a God of",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "A genuinely tempting match and exactly inverted. Luke 20:38 is Jesus proving the resurrection from the burning bush: 'For he is not a God of the dead, but of the living.' 28:6 is a false teacher's syllogism: 'for this day he is not a God of miracles: he hath done his work.' The five shared words are identical and the argument they carry is opposite — Luke's clause is a denial made in order to affirm, and Nephi's is a denial made in order to deny. The Book of Mormon's own source for the formula is nearer to hand and is not Luke: 2 Nephi 27:23, four chapters earlier and in the Lord's own voice, reads 'I am God; and I am a God of miracles', which 28:6 contradicts word for word. Registered rather than passed over because the shared run is long, the vocabulary is content-bearing, and only reading both whole verses shows the reversal."
+    },
+    {
+      "bomRef": "2 Nephi 28:7",
+      "source": "Ecclesiastes 8:15",
+      "category": "better-source-identified",
+      "sharedText": "to eat, and to drink, and to be merry",
+      "streams": [
+        "scholarship"
+      ],
+      "reason": "Hardy cross-references Ecclesiastes 8:15 here alongside Isaiah 22:13, Luke 12:19 and 1 Corinthians 15:32, and for a study edition tracing the sentiment that is right. For a verbal catalogue it is superseded. Ecclesiastes 8:15 has infinitives — 'to eat, and to drink, and to be merry' — where 28:7 has Luke 12:19's imperatives, 'eat, drink, and be merry', and the KJV's only occurrence of that string is Luke's. Ecclesiastes also lacks the second half of the sentence entirely; it commends mirth as a good under the sun rather than as a consequence of tomorrow's death. The links are filed at Luke 12:19 and 1 Corinthians 15:32."
+    },
+    {
+      "bomRef": "2 Nephi 28:8",
+      "source": "Proverbs 26:27",
+      "category": "insufficient-verbal",
+      "sharedText": "diggeth a pit",
+      "streams": [
+        "manual"
+      ],
+      "reason": "Considered and declined. 'Dig a pit for thy neighbor' looks like a proverb and there are three KJV verses that dig one — Psalm 57:6, Jeremiah 18:20 and 18:22, all in the perfect ('they have digged a pit') and all about enemies plotting against the speaker, not about a neighbour. Proverbs 26:27's 'Whoso diggeth a pit shall fall therein' is the closest in sense but shares only the verb and its object, and its point is the digger's own downfall, which 28:8 does not make. The clause is more likely a free formation on Exodus 21:33's law of the open pit than a borrowing from any of them, and no rarity count supports a link."
+    },
+    {
+      "bomRef": "2 Nephi 28:12",
+      "source": "Isaiah 2:12-14",
+      "category": "insufficient-verbal",
+      "sharedText": "lifted up",
+      "streams": [
+        "scholarship"
+      ],
+      "reason": "Hardy cross-references Isaiah 2:12-14 at this verse, and this is the shape the 2 Nephi brief warns about rather than drift: Isaiah 2 is transcribed in this same book at 2 Nephi 12, so the reader is being sent from Nephi's exposition to Nephi's own transcription of the text he is expounding. The verbal contact will not carry a link. The one distinctive phrase in Isaiah 2:12, 'proud and lofty', is a KJV singleton and does not appear at 28:12; what appears is 'lifted up', which occurs in 137 KJV verses, and 'puffed up', which is Pauline (six verses, five of them in 1 Corinthians) and not Isaiah's at all. The thematic relation is real — pride brought low is Isaiah 2's subject and 28:12-15's — and it is discharged here rather than manufactured into a figural link. A reader wanting Isaiah 2:12-14 in this book should be sent to 2 Nephi 12:12-14, where it is collated verse by verse."
+    },
+    {
+      "bomRef": "2 Nephi 28:15",
+      "source": "Revelation 8:13",
+      "category": "insufficient-verbal",
+      "sharedText": "Woe, woe, woe",
+      "streams": [
+        "manual"
+      ],
+      "reason": "The 1830's 'wo, wo, wo be unto them' is the KJV's only threefold woe in form, Revelation 8:13's 'Woe, woe, woe, to the inhabiters of the earth', and the resemblance is sharpened by 28:16 going on to speak of the Lord visiting 'the inhabitants of the earth'. It is registered rather than linked because the shared material is one interjection repeated, which is a rhetorical figure available to anyone writing a woe-oracle, and because Revelation 8:13's woes are three specific coming trumpets rather than an intensifier. The real borrowing in 28:15 is Luke 10:15's 'thrust down to hell', which is where the link sits."
+    },
+    {
+      "bomRef": "2 Nephi 28:16",
+      "source": "Jeremiah 14:14",
+      "category": "better-source-identified",
+      "sharedText": "a thing of nought",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "'A thing of nought' occurs in Jeremiah 14:14 and in Isaiah 29:21, and the n-gram stream offered both. Isaiah wins outright: 28:16 reproduces nine consecutive words of Isaiah 29:21 — 'turn aside the just for a thing of nought' — where Jeremiah shares only the four-word phrase, embedded in a sentence about prophets who prophesy lies in the LORD's name. The chapter has also been quoting Isaiah 29 since verse 9. The link is filed at Isaiah 29:21."
+    },
+    {
+      "bomRef": "2 Nephi 28:24",
+      "source": "Job 12:5",
+      "category": "better-source-identified",
+      "sharedText": "him that is at ease",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "The n-gram stream's only candidate for the verse and the wrong one. Job 12:5's 'him that is at ease' is the comfortable man whose thought despises the lamp of one ready to slip — a proverb about contempt, not about complacency, and Job's clause is the subject of the scorn rather than its object. 28:24 is a woe pronounced on the man at ease, and the words 'at ease in Zion' occur in exactly one KJV verse, Amos 6:1, which supplies the woe-formula as well as the ease. The link is filed there."
+    },
+    {
+      "bomRef": "2 Nephi 28:26",
+      "source": "1 Corinthians 1:24",
+      "category": "common-vocabulary",
+      "sharedText": "the power of God and the",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "'The power of God' occurs in thirteen KJV verses and the six-word run here is that phrase plus a conjunction and an article. 1 Corinthians 1:24 makes Christ the power of God to the called; 28:26 denies the power of God and the gift of the Holy Ghost together. The genuine New Testament contact in this verse is 'the gift of the Holy Ghost', confined to Acts 2:38 and 10:45, and the link is filed at the first of those."
+    },
+    {
+      "bomRef": "2 Nephi 28:26",
+      "source": "Isaiah 29:13",
+      "category": "better-source-identified",
+      "sharedText": "the precepts of men",
+      "streams": [
+        "scholarship"
+      ],
+      "reason": "Hardy cross-references Isaiah 29:13 here, correctly — 'hearkeneth unto the precepts of men' is the KJV singleton 'taught by the precept of men' in Nephi's own idiom. The link is filed at 28:14, the phrase's first occurrence in this chapter, where the evidence for the mediation is: the KJV has a singular 'precept' and this book's own transcription of the verse at 2 Nephi 27:25 has the plural 'precepts', which is what 28:14, 28:26 and 28:31 all read. ADJUDICATING §4 governs the repeat — within one book a phrase is adjudicated at first use — and this entry sends the reader from Hardy's verse to ours."
+    },
+    {
+      "bomRef": "2 Nephi 28:31",
+      "source": "Jeremiah 17:5",
+      "category": "better-source-identified",
+      "sharedText": "cursed is he that putteth his trust in man, or maketh flesh his arm",
+      "streams": [
+        "machine-ngram",
+        "scholarship"
+      ],
+      "reason": "Hardy cross-references Jeremiah 17:5 here and the quotation is real — 'maketh flesh his arm' occurs in exactly one KJV verse and is reproduced exactly. But it is not a fresh borrowing. 2 Nephi 4:34, in this same book and in the same narrator's voice, already reads 'cursed is he that putteth his trust in man, or maketh flesh his arm' word for word, and the link is adjudicated there with its full argument: Jeremiah's two singletons ('trusteth in man', 'maketh flesh his arm') fused with 2 Chronicles 32:8's 'arm of flesh', and Jeremiah 17:7's blessing performed in the verse before the curse is quoted. ADJUDICATING §4 governs: within one book, later occurrences are the narrator using his own formula, adjudicated at first use and registered here. What 28:31 adds is not Jeremiah's — 'or shall hearken unto the precepts of men' is Isaiah 29:13's clause again, in the plural form this chapter uses throughout, and it belongs with the link at 28:14."
+    },
+    {
+      "bomRef": "2 Nephi 28:31",
+      "source": "Proverbs 28:25",
+      "category": "better-source-identified",
+      "sharedText": "he that putteth his trust in",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "Proverbs 28:25 and Isaiah 57:13 were the n-gram stream's two candidates, both for the six-word run 'he that putteth his trust in'. That formula is the KJV's own commonest way of saying it, and in both proposed verses the trust is placed in the LORD and the outcome is blessing — the opposite polarity to Nephi's curse. Their real relevance is that they supply the idiom into which Jeremiah 17:5's 'cursed be the man that trusteth in man' has been reworded, which is recorded in the note at 2 Nephi 4:34 where that verse is adjudicated."
+    },
+    {
+      "bomRef": "2 Nephi 28:32",
+      "source": "Jeremiah 31:32",
+      "category": "formulaic",
+      "sharedText": "unto them, saith the Lord",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "Five words of prophetic boilerplate — a prepositional phrase and the KJV's commonest attribution formula. Jeremiah 31:32 concerns the broken Sinai covenant; 28:32 is a woe on the Gentiles with an offer of mercy. Covered in principle by the standing formulaic exclusions and listed only because it was the sole candidate the stream returned for the chapter's last verse, which is worth knowing when reading the Isaiah 65:2 echo filed there on manual evidence alone."
+    },
+    {
+      "bomRef": "2 Nephi 29:3",
+      "source": "n/a — no KJV source exists",
+      "category": "insufficient-verbal",
+      "sharedText": "Bible",
+      "streams": [
+        "manual"
+      ],
+      "reason": "Registered as a deliberate negative finding, because this is the most quoted verse in the chapter and the temptation is to catalogue it. 'A Bible, a Bible, we have got a Bible, and there cannot be any more Bible' quotes nothing. The word 'Bible' does not occur in the King James Version at all — not once, in either Testament — so the sentence that gives 2 Nephi 29 its popular name has no biblical source and cannot have one. Nor is the surrounding rhetoric borrowed: the trebled noun, the possessive boast and the inference drawn from it are the Book of Mormon's own composition. What IS borrowed in this chapter arrives on either side of verse 3 — Isaiah 29:14 and Isaiah 11:11 at verse 1, Isaiah 5:26 and 49:22 at verse 2, Luke 24:25 at verse 4 — so the chapter's centre is precisely the point at which it stops quoting. Worth stating plainly: a reader who assumes the famous line must be scriptural in origin is wrong, and the exclusion register is where that is recorded."
+    },
+    {
+      "bomRef": "2 Nephi 29:5",
+      "source": "Isaiah 49:25",
+      "category": "insufficient-verbal",
+      "sharedText": "I will contend with him that contendeth with thee",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "The stream reached for Isaiah 49's promise that the Lord will save the children of those who oppress Zion, which is thematically close to 'I will return all these things upon your own heads' and shares no wording with it. Isaiah 49 is quoted at length elsewhere in this book (Jacob at 2 Nephi 6:6-7, 2 Nephi 6:16-18), which makes the association natural and still does not make it verbal. The link at 29:5 is filed at Joel 3:7, whose 'upon your own head' is one of the KJV's three."
+    },
+    {
+      "bomRef": "2 Nephi 29:7",
+      "source": "Esther 10:1",
+      "category": "better-source-identified",
+      "sharedText": "the isles of the sea",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "'The isles of the sea' occurs in exactly two KJV verses and Esther 10:1 is the other one — Ahasuerus laying tribute on the land and on the isles of the sea. It is excluded on sense, not on rarity: Esther's isles are a revenue district and 29:7's are a place where the Lord remembers a people. Isaiah 24:15's isles, where the name of the LORD God of Israel is glorified, are the only KJV isles that could be meant, and Hardy cross-references that verse here. Recorded because a phrase confined to two verses will always draw the machine to both, and the register should say why one was taken."
+    },
+    {
+      "bomRef": "2 Nephi 29:7",
+      "source": "Leviticus 19:2",
+      "category": "formulaic",
+      "sharedText": "I the LORD your God",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "The divine self-identification formula, which the KJV uses dozens of times and Leviticus alone uses as a refrain through the whole Holiness Code. Five words of it are shared with 29:7 and nothing else is; Leviticus 19:2 commands holiness, 29:7 asserts that God created all men. Covered in principle by the standing formulaic exclusions."
+    },
+    {
+      "bomRef": "2 Nephi 29:8",
+      "source": "Deuteronomy 19:15",
+      "category": "better-source-identified",
+      "sharedText": "at the mouth of two witnesses… shall the matter be established",
+      "streams": [
+        "manual"
+      ],
+      "reason": "This was the obvious source to reach for and it is the wrong one to file the link at. The two-witness rule is Deuteronomy's — 17:6 and 19:15 — and it is unquestionably the law 29:8 is reasoning from. But the KJV's Deuteronomy says 'at the mouth of two witnesses, or at the mouth of three witnesses, shall the matter be established', with no 'testimony' anywhere in it, while 29:8 says 'the testimony of two nations' twice. 'The testimony of two' occurs in exactly one KJV verse, John 8:17, where Christ cites the same law against the Pharisees in an argument about whether one witness can establish anything. The link is filed at John 8:17 with the Deuteronomy verses as composite, and the mediation is recorded as OT-via-NT on that evidence."
+    },
+    {
+      "bomRef": "2 Nephi 29:9",
+      "source": "Hebrews 13:8",
+      "category": "better-source-identified",
+      "sharedText": "the same yesterday, to-day, and forever",
+      "streams": [
+        "manual"
+      ],
+      "reason": "Adjudicated at 2 Nephi 27:23, where the formula first enters this book, and recorded there in recurrenceRefs. “yesterday, and to day, and for ever” occurs in exactly one KJV verse; by 29:9 Nephi is using his own settled formula — the corpus has already printed it without Hebrews' second conjunction at 1 Nephi 10:18 and at 27:23 — so this is not a fresh borrowing (ADJUDICATING §4). What IS particular to 29:9 belongs on the record even so: Hebrews 13:8 is a statement about a person, and 29:9 makes it a statement about a practice, the premise for saying revelation has not stopped — “because that I have spoken one word, ye need not suppose that I cannot speak another.” That inverts the verse's usual devotional use, and Hebrews' own next verse warns against being “carried about with divers and strange doctrines”, so the sentence used here to argue for more scripture sits, in its source, beside a caution against novelty. Collapsed by the dispatching session, which the chapter-29 pass could not do itself: it wrote the link and flagged it, because chapter 27 was being adjudicated in parallel and an exclusion pointing at an adjudication that might not exist is worse than a link that might be redundant."
+    },
+    {
+      "bomRef": "2 Nephi 29:11",
+      "source": "Acts 17:31",
+      "category": "better-source-identified",
+      "sharedText": "he will judge the world",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "Acts 17:31 — 'he hath appointed a day, in the which he will judge the world in righteousness' — shares four words with 29:11's 'I will judge the world' and is a real candidate, since Paul on the Areopagus is also arguing to Gentiles about a God who is not confined to one nation. It is superseded rather than dismissed. 29:11 judges the world specifically 'out of the books which shall be written… according to that which is written', which is Revelation 20:12's assize: 'the dead were judged out of those things which were written in the books, according to their works' occurs in exactly one KJV verse. Acts has the judgment and Revelation has the books, and the books are what the verse is about."
+    },
+    {
+      "bomRef": "2 Nephi 29:11",
+      "source": "Revelation 20:13",
+      "category": "better-source-identified",
+      "sharedText": "every man according to their works",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "Not a rejection but a redirection: Revelation 20:13 is genuinely present at 29:11 and is recorded as composite on the Revelation 20:12 link rather than as a link of its own, because 20:12 supplies the books and 20:13 only the measure. Note also that Revelation 20:13's 'judged every man according to their works' has already been adjudicated in this book at 2 Nephi 28:23, where the same pair of Revelation verses is used for the judgment of the damned; ADJUDICATING §4's rule about repeats within a book is why it is not argued again here."
+    },
+    {
+      "bomRef": "2 Nephi 29:14",
+      "source": "Genesis 9:16",
+      "category": "common-vocabulary",
+      "sharedText": "everlasting covenant",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "'Everlasting covenant' occurs in fifteen KJV verses and Genesis 9:16's is the rainbow given to Noah and every living creature — the opposite of the particular covenant 29:14 invokes, which is with Abraham and his seed. The stream ranked it twice for the chapter. The link is filed at Genesis 17:7, on substance rather than on wording, and its `kjvSpecific` is set to 'no' for exactly the reason this exclusion gives: the covenant vocabulary here is too widely distributed to identify any English version, let alone any one verse."
+    },
+    {
+      "bomRef": "2 Nephi 29:14",
+      "source": "Numbers 25:11",
+      "category": "formulaic",
+      "sharedText": "the children of Israel",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "A four-word run consisting of the KJV's commonest noun phrase. Numbers 25:11 is Phinehas turning away wrath; 29:14 is the house of Israel gathered home. Covered by the standing formulaic exclusions and listed only because the stream returned it among the chapter's top candidates, which is a useful measure of how little the machine had to offer for a chapter whose real borrowings are almost all in verses 1, 2 and 11."
+    },
+    {
+      "bomRef": "2 Nephi 30:2",
+      "source": "Acts 13:48",
+      "category": "formulaic",
+      "sharedText": "of the Lord: and as many",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "A six-word run straddling a clause boundary, made of an attribution formula and a quantifier. The association is tempting for a better reason than the wording — Acts 13:46-48 is Paul turning from the Jews to the Gentiles, which is 30:2's subject exactly — but Acts's 'as many as were ordained to eternal life believed' is a statement about election and 30:2's 'as many of the Gentiles as will repent' is a statement about condition. Nothing verbal survives the comparison. Registered rather than passed over because the thematic pull is real and a careful reader might accept it on that pull alone."
+    },
+    {
+      "bomRef": "2 Nephi 30:2",
+      "source": "Isaiah 12:6",
+      "category": "formulaic",
+      "sharedText": "the Holy One of Israel",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "'The Holy One of Israel' is the Book of Mormon's standing title for Christ and occurs in some thirty KJV verses, most of them in Isaiah. Isaiah 12:6 is one of them and is also transcribed in this book at 2 Nephi 22:6, which is why the stream ranked it; neither fact makes it the source of an epithet the record uses continuously. Covered by the standing formulaic exclusions."
+    },
+    {
+      "bomRef": "2 Nephi 30:3",
+      "source": "Jeremiah 8:13",
+      "category": "formulaic",
+      "sharedText": "and the things that I have given them shall pass",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "The stream's top candidate for the verse and pure connective tissue. Jeremiah 8:13 is the surely-consuming of Judah's vine and fig tree; 30:3 is a book coming forth to the Gentiles and being carried to a remnant. No content word is shared, and the run consists of a relative clause and an auxiliary. The two other candidates for this verse, Ezekiel 12:28 and Exodus 32:34, are of the same kind and are covered by the same reasoning."
+    },
+    {
+      "bomRef": "2 Nephi 30:6",
+      "source": "Psalm 106:10",
+      "category": "formulaic",
+      "sharedText": "from the hand of",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "'From the hand of' is one of the KJV's commonest prepositional formulae and it is doing nothing here beyond joining a blessing to its giver. Psalm 106:10 saves Israel from the hand of him that hated them. The two other candidates the stream returned for this verse, 1 Samuel 6:9 and Job 2:10, are the same kind of match on 'the hand of God' and are covered here. The real borrowing at 30:6 is Acts 9:18's falling scales, which no stream proposed."
+    },
+    {
+      "bomRef": "2 Nephi 30:8",
+      "source": "Joshua 1:1",
+      "category": "formulaic",
+      "sharedText": "it came to pass that the Lord",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "The narrative formula, covered by the standing exclusion filed at 1 Nephi 2:1. Listed only because it was the sole candidate the stream returned for a verse whose actual source is Revelation 14:6, identified manually — a clean illustration of CONVENTIONS §9: the machine offered boilerplate and missed a four-item list matching one of Revelation's seven orderings exactly."
+    },
+    {
+      "bomRef": "2 Nephi 30:9",
+      "source": "Proverbs 18:20",
+      "category": "formulaic",
+      "sharedText": "with the fruit of his mouth",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "The stream's second candidate for a verse whose first candidate scored 22.71 and is right. Proverbs 18:20's 'A man's belly shall be satisfied with the fruit of his mouth' shares a construction with Isaiah 11:4's 'with the rod of his mouth' and nothing else; the sense — being fed by one's own speech — is unrelated to smiting the earth. Registered because the phrase looks distinctive in isolation and is not."
+    },
+    {
+      "bomRef": "2 Nephi 30:13",
+      "source": "Isaiah 65:25",
+      "category": "better-source-identified",
+      "sharedText": "the lion shall eat straw like the",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "The most instructive exclusion in the chapter. Isaiah 65:25 is the same vision by the same prophet — 'The wolf and the lamb shall feed together, and the lion shall eat straw like the bullock… They shall not hurt nor destroy in all my holy mountain' — and it is exactly what a writer working from memory would be expected to conflate with Isaiah 11:6-9. The Book of Mormon does not conflate them. 30:13 reads 'straw like the ox', which is Isaiah 11:7's word, where 65:25 has 'bullock'; and it keeps the cow, the bear and their young ones lying down together, which 65:25 drops entirely. The stream ranked 65:25 here and again at 30:15, and it is excluded at both on the readings rather than on rank. That the two Book of Mormon witnesses to Isaiah 11 both avoid the parallel oracle is part of the collation result argued at 30:9."
+    },
+    {
+      "bomRef": "2 Nephi 30:15",
+      "source": "Habakkuk 2:14",
+      "category": "better-source-identified",
+      "sharedText": "as the waters cover the sea",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "'As the waters cover the sea' occurs in exactly two KJV verses, Isaiah 11:9 and Habakkuk 2:14, and Habakkuk is excluded on the clause it governs. Habakkuk reads 'the earth shall be filled with the knowledge of the glory of the LORD'; Isaiah 11:9 and 2 Nephi 30:15 both read 'the earth shall be full of the knowledge of the LORD' — 'full' not 'filled', and no 'glory of'. Two divergences in one clause, both going the same way. Registered because Habakkuk 2:14 is the more familiar form of the sentence in devotional English and is the version a reader is likelier to have by heart."
+    },
+    {
+      "bomRef": "2 Nephi 30:17",
+      "source": "1 Corinthians 3:13",
+      "category": "better-source-identified",
+      "sharedText": "shall be made manifest… it shall be revealed",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "A genuine two-phrase overlap and still the wrong source. 1 Corinthians 3:13 has both 'shall be made manifest' and 'it shall be revealed', which is why the stream reached it, but its subject is every man's work tried by fire on the day of judgment, and it lacks the word the Book of Mormon's clause turns on: 'secret'. 'Nothing is secret' occurs in exactly one KJV verse, Luke 8:17, and Luke pairs 'secret' with 'made manifest' exactly as 30:17 does — where Mark 4:22 crosses the terms and Matthew 10:26 uses neither. The link is filed at Luke 8:17 with Ephesians 5:11-13 as composite for the works of darkness."
+    },
+    {
+      "bomRef": "2 Nephi 30:17",
+      "source": "1 John 2:10",
+      "category": "formulaic",
+      "sharedText": "in the light, and there is",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "Six words of which five are function words, spanning a clause boundary in both texts. 1 John 2:10 is about abiding in the light without occasion of stumbling; 30:17's 'in the light' belongs to works of darkness being made manifest, which is Ephesians 5:13's antithesis and not John's. A textbook case of a contiguous window closing across a seam."
+    },
+    {
+      "bomRef": "2 Nephi 30:18",
+      "source": "Daniel 11:43",
+      "category": "formulaic",
+      "sharedText": "shall have power over",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "Five words of which four are auxiliary and preposition. Daniel 11:43 gives the king of the north power over the treasures of gold and silver of Egypt; 30:18 takes power away from Satan over the hearts of men. Only the construction is shared, and it is a common one. The verse's real source is Revelation 20:3, whose 'deceive the nations no more' occurs in exactly one KJV verse and which supplies the bounded term that 30:18 keeps while declining to say how long it is."
+    },
+    {
+      "bomRef": "2 Nephi 31:8",
+      "source": "Matthew 3:16",
+      "category": "better-source-identified",
+      "sharedText": "descending ... upon him ... dove",
+      "streams": [
+        "scholarship"
+      ],
+      "reason": "Hardy's apparatus cross-references all four baptism accounts at this verse — Matthew 3:16, Mark 1:10, Luke 3:22, John 1:32 — which is the right thing for a study edition to do and leaves the catalogue's question unanswered. The wording answers it. 'The Holy Ghost descended' occurs in exactly one KJV verse, Luke 3:22; Matthew 3:16 reads 'the Spirit of God descending', Mark 1:10 'the Spirit like a dove descending', John 1:32 'the Spirit descending from heaven'. All three name the agent as Spirit, not Holy Ghost, and Matthew and Mark both place the participle before the dove where the Book of Mormon and Luke place it after the noun. Matthew 3:16 is additionally excluded on its own account: its distinctive material — the heavens opened unto him, the lighting upon him — is entirely absent here, though Matthew 3:14-15 IS the source at 31:5. The link is at Luke 3:22. Mark 1:10 and John 1:32 are excluded on the same evidence and are not given separate entries."
+    },
+    {
+      "bomRef": "2 Nephi 31:10",
+      "source": "Deuteronomy 10:13",
+      "category": "common-vocabulary",
+      "sharedText": "keep the commandments of",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "A six-word run and a Deuteronomic commonplace: 'keep the commandments of the LORD' recurs through Deuteronomy, Joshua, Kings and Chronicles, and 'keep the commandments' is used some sixty times in the KJV. 2 Nephi 31:10 has 'keep the commandments of the Father', which is the Johannine rather than the Deuteronomic object and belongs with John 15:10. The verse's link is to John 21:22, on the singleton 'follow thou me'."
+    },
+    {
+      "bomRef": "2 Nephi 31:12",
+      "source": "Judges 9:48",
+      "category": "wrong-sense",
+      "sharedText": "what ye have seen me do",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "The machine's top-scoring candidate for the verse at rarity 2.00, and the model case of the trap ADJUDICATING §4 names. Judges 9:48 is Abimelech on mount Zalmon, cutting a bough with an axe and laying it on his shoulder, telling his men 'What ye have seen me do, make haste, and do as I have done' — after which they burn a thousand men and women alive in the tower of Shechem. 2 Nephi 31:12 is the Son of God saying 'follow me, and do the things which ye have seen me do'. The five-word run is exact and the referent could hardly be more opposed: an imitation that leads to a massacre against an imitation that leads to salvation. There is also no reason to think the Book of Mormon knows Judges 9 — nothing else in 2 Nephi touches it — whereas the imitation-of-Christ language of the verse is fully accounted for by John 13:15 and by the chapter's own 'he having set the example before them' at 31:9."
+    },
+    {
+      "bomRef": "2 Nephi 31:13",
+      "source": "Exodus 14:24",
+      "category": "formulaic",
+      "sharedText": "fire and of the",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "Proposed at both 31:13 and 31:14 at rarity 1.50, and it is the window closing one word early. Exodus 14:24 has the LORD looking through 'the pillar of fire and of the cloud'; 2 Nephi 31:13 has 'the baptism of fire and of the Holy Ghost'. The shared string is a preposition, a noun, a conjunction and an article, and the word that decides the sense is the one on the far side of the window in each case — cloud there, Holy Ghost here. The real background of the phrase is Matthew 3:11 and Luke 3:16, both of which the Book of Mormon inverts (Holy Ghost first, then fire, in the KJV; fire first here), and that inversion is registered on the 1 Corinthians 13:1 link at this verse rather than given a row of its own, because it holds at 31:13, 31:14 and 31:17 alike and is Nephi's settled form rather than a fresh borrowing at each occurrence."
+    },
+    {
+      "bomRef": "2 Nephi 31:13",
+      "source": "Isaiah 31:1",
+      "category": "formulaic",
+      "sharedText": "unto the Holy One of Israel",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "A standing exclusion for this chapter, carrying forward the one filed at 2 Nephi 9:11. 'The Holy One of Israel' is Isaiah's signature title and Nephi's adopted name for God; it will match Isaiah 31:1, 30:15, 41:14, 43:3, 49:7 and a dozen others indifferently, and the choice among them is arbitrary. The machine proposes Isaiah 31:1 here only because that verse happens to carry the preposition as well. Passed over in silence wherever else it occurs in chapters 31-33."
+    },
+    {
+      "bomRef": "2 Nephi 31:17",
+      "source": "John 18:8",
+      "category": "formulaic",
+      "sharedText": "I have told you that I",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "Six words at rarity 2.14, and every one of them is grammar. John 18:8 is Jesus in Gethsemane — 'I have told you that I am he: if therefore ye seek me, let these go their way' — and the run breaks at exactly the point where the sense would begin, on 'am he' against the Book of Mormon's 'have seen'. Nothing in 2 Nephi 31 is doing anything with the arrest narrative. The verse's substance is Acts 2:38, registered as a recurrence on the link at 31:11, together with the Matthew 7 gate at 31:9."
+    },
+    {
+      "bomRef": "2 Nephi 31:18",
+      "source": "Acts 10:47",
+      "category": "common-vocabulary",
+      "sharedText": "have received the Holy Ghost",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "Real content words, too widely distributed to point anywhere. 'Received the Holy Ghost' appears at Acts 8:17, 10:47, 19:2 and in substance at 2:38, and 2 Nephi 31 has been talking about receiving the Holy Ghost since 31:12. Acts 10:47 is proposed rather than any of the others only because it shares the perfect tense. If any Acts verse stands behind 31:18 it is 2:38, which is linked at 31:11 and which this verse is recapitulating along with Matthew 7:14 — the recapitulation is why the verse has no link of its own."
+    },
+    {
+      "bomRef": "2 Nephi 31:19",
+      "source": "John 4:35",
+      "category": "formulaic",
+      "sharedText": "behold, I say unto you",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "Covered in principle by the standing formulaic exclusion at 1 Nephi 1:5 and noted here only because the machine proposes it twice in these three chapters (31:19 and 32:9). 'Behold, I say unto you' is one of the Book of Mormon's commonest discourse markers and one of the KJV's; the harvest saying of John 4:35 has no other contact with either verse."
+    },
+    {
+      "bomRef": "2 Nephi 32:2",
+      "source": "1 Corinthians 13:1",
+      "category": "better-source-identified",
+      "sharedText": "speak with the tongue of angels",
+      "streams": [
+        "manual"
+      ],
+      "reason": "Not a rejection of the source but of a second row for it. 'With the tongues of men and of angels' occurs in exactly one KJV verse, 1 Corinthians 13:1, and that is unquestionably where the tongue of angels comes from — but the borrowing was made at 2 Nephi 31:13 and repeated at 31:14, and 32:2-3 are Nephi quoting himself, explicitly: 'Do ye not remember that I said unto you...' A reader who meets the phrase four times in two chapters of one sitting is meeting one borrowing, and ADJUDICATING §4 adjudicates it at first use. The link is at 31:13 and this verse is registered there in recurrenceRefs, along with 32:3."
+    },
+    {
+      "bomRef": "2 Nephi 32:3",
+      "source": "2 Chronicles 32:8",
+      "category": "formulaic",
+      "sharedText": "upon the words of",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "The stream's top candidate for the chapter's most famous sentence, and it is four words of preposition and article. 2 Chronicles 32:8 has the people of Judah resting themselves 'upon the words of Hezekiah king of Judah'; 2 Nephi 32:3 has 'feast upon the words of Christ'. The verb is what makes Nephi's sentence and it is not shared. Nor is there any biblical source for the feasting: 'feast upon' in this sense occurs nowhere in the KJV, and the nearest scriptural images — Jeremiah 15:16's eating of the words, Ezekiel 3:1-3's scroll, Amos 8:11's famine of hearing the words of the LORD — share the metaphor of consuming scripture but not one word of the phrasing. This is recorded at length because 32:3 is the verse a reader is most likely to expect a link at, and the honest answer is that the most quoted sentence in the chapter appears to be Nephi's own."
+    },
+    {
+      "bomRef": "2 Nephi 32:5",
+      "source": "Matthew 18:19",
+      "category": "formulaic",
+      "sharedText": "again I say unto you, that if ye",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "A seven-word run and the longest in the chapter, which is exactly why it is worth an entry: length alone decides nothing (ADJUDICATING §4). Every word is discourse frame — an adverb, a speech formula, a conjunction, a pronoun — and the two verses diverge at the first content word, Matthew's 'shall agree on earth' against Nephi's 'will enter in by the way'. Galatians 5:2 is proposed at the same verse for the same reason and fails the same way. The verse's real source is John 16:13, on the 1830 'shew'."
+    },
+    {
+      "bomRef": "2 Nephi 32:6",
+      "source": "Philemon 1:16",
+      "category": "formulaic",
+      "sharedText": "in the flesh, and",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "Four words in which the only content word is 'flesh', a term the KJV uses several hundred times. Philemon 1:16 concerns Onesimus as a brother beloved both in the flesh and in the Lord; 2 Nephi 32:6 concerns Christ manifesting himself in the flesh. The Leviticus 13:3 and Leviticus 14:8 candidates at the same verse are of the same kind and are covered here rather than separately. Where 32:6 does have a source it is Deuteronomy 8:1, which the stream did not rank at all."
+    },
+    {
+      "bomRef": "2 Nephi 32:7",
+      "source": "Matthew 10:17",
+      "category": "wrong-sense",
+      "sharedText": "of men, for they will",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "Rarity 2.00 and the top candidate for the verse, produced by a clause boundary falling in the same place in two unrelated sentences. Matthew 10:17 is 'beware of men: for they will deliver you up to the councils' — a warning about persecution. 2 Nephi 32:7 is 'the stiff-neckedness of men: for they will not search knowledge' — a lament about incuriosity. The shared string spans the colon in both and the agreement is punctuational rather than lexical. Nothing in 32:7 is about persecution and nothing in Matthew 10 is about knowledge."
+    },
+    {
+      "bomRef": "2 Nephi 32:9",
+      "source": "Ephesians 5:20",
+      "category": "common-vocabulary",
+      "sharedText": "the Father in the name of",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "Proposed here and again at 33:12 at rarity 2.02, and it is the commonest liturgical construction in the New Testament: Ephesians 5:20, John 14:13, 15:16, 16:23, 16:26, Colossians 3:17 and others all address the Father in a name. Ephesians 5:20 is about giving thanks and has no other contact with either verse. Where the construction does carry a source in this chapter it is John 16:23 — 'ask the Father in my name' occurs in exactly one KJV verse — and that is registered as a composite on the Luke 18:1 link rather than given a row here."
+    },
+    {
+      "bomRef": "2 Nephi 32:9",
+      "source": "Numbers 10:14",
+      "category": "wrong-sense",
+      "sharedText": "in the first place",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "'In the first place' occurs in exactly one KJV verse, Numbers 10:14, which makes it the kind of candidate a rarity search will always surface and a reader might well accept. It should not be. Numbers 10:14 is a marching order — the standard of the camp of Judah went in the first place, meaning first in the column — where the phrase is spatial and describes a position in a line. Nephi's 'save in the first place ye shall pray unto the Father' is temporal and means before anything else. The KJV singleton and the Book of Mormon idiom are homographs, not the same phrase, and the second is ordinary English of the 1820s needing no source at all. The model case of CONVENTIONS §5's wrong-sense category, and a warning that an absolute rarity is evidence only once the sense has been checked."
+    },
+    {
+      "bomRef": "2 Nephi 33:1",
+      "source": "Exodus 4:10",
+      "category": "insufficient-verbal",
+      "sharedText": "not mighty in speaking / I am not eloquent",
+      "streams": [
+        "manual"
+      ],
+      "reason": "The typological expectation is strong and the wording will not bear it, which is the shape of the Exodus 2:2 'goodly' entry from the pilot. 'Neither am I mighty in writing, like unto speaking' invites Moses' protest at the bush — 'I am not eloquent ... I am slow of speech, and of a slow tongue' — and Nephi is a figure the book elsewhere assimilates to Moses at length (1 Nephi 17). But the terms are opposed in the one place it matters: Moses' deficiency is in SPEAKING and Nephi's is in WRITING, with speaking named as the thing he does well. The KJV supplies no phrase here. 2 Corinthians 10:10 is the closer conceptual parallel — Paul's letters weighty, his bodily presence weak — and it too is inverted, since Paul is strong on the page and weak in person and Nephi is the reverse. Neither is written as a link; the exclusion records that both were considered and that the inversion in each case is total."
+    },
+    {
+      "bomRef": "2 Nephi 33:2",
+      "source": "Isaiah 29:21",
+      "category": "better-source-identified",
+      "sharedText": "a thing of nought",
+      "streams": [
+        "manual"
+      ],
+      "reason": "'A thing of nought' occurs in exactly four KJV verses (Isaiah 29:21, Isaiah 41:12, Jeremiah 14:14, Amos 6:13), and Isaiah 29:21 is the one a reader will reach for, because 2 Nephi 27 is an expansion of Isaiah 29 and reproduces that very clause at 27:32. But that is the point: the phrase is already inside this book, at 27:32 and again at 28:16, before it reaches 33:2. By the time Nephi writes his colophon it is his own idiom, and ADJUDICATING §4 adjudicates a repeat within a book at first use. No link is written here; 27:32 and 28:16 hold it."
+    },
+    {
+      "bomRef": "2 Nephi 33:4",
+      "source": "Exodus 24:12",
+      "category": "formulaic",
+      "sharedText": "which I have written",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "Proposed at 33:4 and again at 33:5, and it is four words of relative clause. Exodus 24:12 has the LORD promising Moses tables of stone 'and a law, and commandments which I have written'; the antecedent is the Decalogue and the writer is God. In 33:4 and 33:5 the antecedent is Nephi's book and the writer is Nephi. There is a genuine and much better link two words away in 33:3, where 'what I have written' occurs in exactly one KJV verse, John 19:22, and that is where the row sits. Recorded because a reader who notices Exodus 24:12 should be told the catalogue preferred the Johannine singleton and why."
+    },
+    {
+      "bomRef": "2 Nephi 33:4",
+      "source": "Jeremiah 10:5",
+      "category": "wrong-sense",
+      "sharedText": "them to do good",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "Four words and the sense is inverted by the negative that precedes them. Jeremiah 10:5 is about idols — 'they cannot do evil, neither also is it in them to do good' — a mockery of wooden gods who can do nothing at all. 2 Nephi 33:4 is about scripture: 'it persuadeth them to do good'. The subject in Jeremiah is incapable by nature and the subject in Nephi is efficacious; the shared string is the residue of a negated clause meeting an affirmative one. The Isaiah 44:7 candidate at the same verse ('people and the things') is of the same order and is covered here."
+    },
+    {
+      "bomRef": "2 Nephi 33:5",
+      "source": "Leviticus 4:3",
+      "category": "formulaic",
+      "sharedText": "sin according to the",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "The window closes exactly one word early, in both directions. Leviticus 4:3 reads 'do sin according to the sin of the people'; 2 Nephi 33:5 reads 'it speaketh harsh against sin, according to the plainness of the truth'. In Leviticus the string is a single grammatical unit; in Nephi a clause boundary falls inside it, between 'sin' and 'according'. The 1830 'harsh' where 1920 reads 'harshly' is noted here rather than on a link, since the verse has none — the adverbless construction is the first edition's and is one of a series of such regularizations 1920 made across these three chapters."
+    },
+    {
+      "bomRef": "2 Nephi 33:9",
+      "source": "Matthew 7:13",
+      "category": "better-source-identified",
+      "sharedText": "enter into the narrow gate, and walk in the straight path",
+      "streams": [
+        "manual"
+      ],
+      "reason": "The Matthew 7:13-14 gate is unquestionably behind this verse, with the same transposition of the adjectives that runs through chapter 31 — narrow gate and straight path, where the KJV has a strait gate and a narrow way. No link is written here because the borrowing was adjudicated at 2 Nephi 31:9, where the transposition is argued in full, and 33:9 is registered there in recurrenceRefs. A reader who arrives at 33:9 expecting the Sermon on the Mount is sent to 31:9. The 1 Kings 22:30 ('and enter into the') and Ecclesiastes 11:9 ('and walk in the') candidates that the machine proposed for this verse are connective noise and are not given entries."
+    },
+    {
+      "bomRef": "2 Nephi 33:11",
+      "source": "John 10:21",
+      "category": "formulaic",
+      "sharedText": "are not the words of",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "Five words at rarity 1.50 and every one of them structural. John 10:21 is the crowd's verdict on Jesus — 'These are not the words of him that hath a devil' — and 2 Nephi 33:11 is 'And if they are not the words of Christ, judge ye'. The construction is a negated copula with a genitive of source, which any two texts arguing about whose words something is will produce independently. There is a faint thematic rhyme (both verses ask whether words come from God or from a devil, and 33:5 has just invoked 'the spirit of the Devil'), and it is not enough: no distinctive vocabulary is shared and John 10:21 is a bystanders' aside, not a formula. The verse's link is Matthew 24:30, on 'with power and great glory'."
+    },
+    {
+      "bomRef": "2 Nephi 33:12",
+      "source": "1 Corinthians 5:5",
+      "category": "common-vocabulary",
+      "sharedText": "may be saved in",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "Four words, three of them function words, and the nouns that follow diverge completely: 1 Corinthians 5:5 has the spirit saved 'in the day of the Lord Jesus' after a man is delivered to Satan for the destruction of the flesh; 2 Nephi 33:12 has 'many of us, if not all, may be saved in his kingdom'. Saving and salvation are among the commonest words in both corpora. The Ephesians 5:20 candidate at the same verse is covered by the entry filed at 2 Nephi 32:9."
+    },
+    {
+      "bomRef": "2 Nephi 33:13",
+      "source": "1 Corinthians 1:11",
+      "category": "formulaic",
+      "sharedText": "which are of the house of",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "Six words, the chapter's longest machine run, and it is a genitive formula that the KJV uses of any household or lineage — the house of Chloe here, the house of Israel there. 1 Corinthians 1:11 concerns contentions reported to Paul by Chloe's people and has no contact with a farewell to the house of Israel. This is the clean illustration of ADJUDICATING §4's first trap in these three chapters: the longest run in the dossier for chapter 33 is worth nothing, while the verse's real finding — 'the voice of one crying', in the New Testament's form and not Isaiah's — the stream did not propose at all. The 2 Timothy 1:15 and 1 Corinthians 3:1 candidates at the same verse are of the same kind."
+    },
+    {
+      "bomRef": "2 Nephi 33:14",
+      "source": "Psalm 33:5",
+      "category": "common-vocabulary",
+      "sharedText": "of the goodness of",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "Four words of which one is a content word. 'The goodness of the LORD' and 'the goodness of God' are distributed across Psalms, Romans and the prophets; Psalm 33:5 is proposed only because it is the highest-scoring of many. 2 Nephi 33:14's 'partake of the goodness of God' has the distinctive verb, and 'partake' does not appear in Psalm 33:5 or in any of the alternatives."
+    },
+    {
+      "bomRef": "2 Nephi 33:15",
+      "source": "Acts 5:29",
+      "category": "insufficient-verbal",
+      "sharedText": "obey",
+      "streams": [
+        "manual"
+      ],
+      "reason": "Written up because it is the verse a reader will propose for the last four words Nephi writes. 'I must obey' has the ring of scripture and Acts 5:29 — 'We ought to obey God rather than men' — is the passage that ring comes from. But the sentence shares one word with it, the modal is different (must, not ought), the contrast with human authority that gives Acts 5:29 its whole force is absent, and the object of Nephi's obedience is a specific command to write rather than a general principle. There is no KJV source for 'I must obey'. The catalogue's judgment is that the last clause of the Book of Nephi is his own, and that is worth recording as a finding rather than leaving as a silence."
+    },
+    {
+      "bomRef": "2 Nephi 8:10",
+      "source": "Exodus 14:21-22",
+      "category": "better-source-identified",
+      "sharedText": "hath dried the sea … made the depths of the sea a way",
+      "streams": [
+        "scholarship"
+      ],
+      "reason": "This verse is a word-for-word transcription of Isaiah 51:10, and its wording is that verse's. Hardy's cross-reference points at what ISAIAH is alluding to — the crossing of the Red Sea, which Isaiah 51:10 recalls as the drying of the great deep — which is a fact about the Hebrew prophet's sources, not about the Book of Mormon's. Registered rather than linked, because a catalogue of dependence that let a source's own allusions in through the transcription would end by crediting the Book of Mormon with every text Isaiah ever echoed."
+    },
+    {
+      "bomRef": "2 Nephi 10:21",
+      "source": "Isaiah 11:11",
+      "category": "insufficient-verbal",
+      "sharedText": "isles of the sea",
+      "streams": [
+        "scholarship"
+      ],
+      "reason": "Hardy cross-references Isaiah 11:11 here, and the verse will not carry it — which is worth the register entry, because the mismatch is the interesting part. Jacob builds an exegesis on a plural: “as it sayeth ISLES, there must needs be more than this”. But Isaiah 11:11 reads “the ISLANDS of the sea” in the KJV, and so does this book's own transcription of that verse at 2 Nephi 21:11 — the word he expounds is not in the text he is expounding. “Isles of the sea” is Isaiah 24:15's phrase, and the link at this verse is to 24:15 on those words. What Hardy is pointing at is the doctrine of the gathering from the isles, which is Isaiah 11:11's subject; what Jacob quotes is Isaiah 24:15's wording. Flagged for Wilson: whether the catalogue should record a case where a writer's argument turns on a word his cited source does not use is a question about scope, not about this row."
+    },
+    {
+      "bomRef": "2 Nephi 20:26",
+      "source": "Exodus 14:16-26",
+      "category": "better-source-identified",
+      "sharedText": "as his rod was upon the sea",
+      "streams": [
+        "scholarship"
+      ],
+      "reason": "This verse is a word-for-word transcription of Isaiah 10:26, and its wording is that verse's. Hardy's cross-reference points at what ISAIAH is alluding to — Moses' rod stretched over the sea — which is a fact about the Hebrew prophet's sources, not about the Book of Mormon's. Registered rather than linked, because a catalogue of dependence that let a source's own allusions in through the transcription would end by crediting the Book of Mormon with every text Isaiah ever echoed."
+    },
+    {
+      "bomRef": "2 Nephi 20:26",
+      "source": "Judges 7:24-25",
+      "category": "better-source-identified",
+      "sharedText": "the slaughter of Midian at the rock of Oreb",
+      "streams": [
+        "scholarship"
+      ],
+      "reason": "This verse is a word-for-word transcription of Isaiah 10:26, and its wording is that verse's. Hardy's cross-reference points at what ISAIAH is alluding to — Gideon's defeat of Midian and the death of Oreb at the rock — which is a fact about the Hebrew prophet's sources, not about the Book of Mormon's. Registered rather than linked, because a catalogue of dependence that let a source's own allusions in through the transcription would end by crediting the Book of Mormon with every text Isaiah ever echoed."
+    },
+    {
+      "bomRef": "2 Nephi 26:6",
+      "source": "Malachi 4:1",
+      "category": "better-source-identified",
+      "sharedText": "the day that cometh shall burn them up",
+      "streams": [
+        "scholarship"
+      ],
+      "reason": "Hardy keys Malachi 4:1 to both 26:4 and 26:6, and the wording is at 26:4 — “all they that are proud, and that do wickedly, the day that cometh shall burn them up”, which is Malachi's sentence almost entire. 26:6 has the visitation and the destructions but none of Malachi's words. The link is at 26:4 and cites him there (CONVENTIONS §6a: the link goes where the wording is, and the register sends the reader from his verse to ours)."
+    },
+    {
+      "bomRef": "2 Nephi 31:8",
+      "source": "John 1:32",
+      "category": "better-source-identified",
+      "sharedText": "descending ... upon him ... dove",
+      "streams": [
+        "scholarship"
+      ],
+      "reason": "Hardy's apparatus cross-references all four baptism accounts at this verse — Matthew 3:16, Mark 1:10, Luke 3:22, John 1:32 — which is the right thing for a study edition to do and leaves the catalogue's question unanswered. The wording answers it. 'The Holy Ghost descended' occurs in exactly one KJV verse, Luke 3:22; Matthew 3:16 reads 'the Spirit of God descending', Mark 1:10 'the Spirit like a dove descending', John 1:32 'the Spirit descending from heaven'. All three name the agent as Spirit, not Holy Ghost, and Matthew and Mark both place the participle before the dove where the Book of Mormon and Luke place it after the noun. Matthew 3:16 is additionally excluded on its own account: its distinctive material — the heavens opened unto him, the lighting upon him — is entirely absent here, though Matthew 3:14-15 IS the source at 31:5. The link is at Luke 3:22. Mark 1:10 and John 1:32 are excluded on the same evidence and are not given separate entries."
+    },
+    {
+      "bomRef": "2 Nephi 31:8",
+      "source": "Mark 1:10",
+      "category": "better-source-identified",
+      "sharedText": "descending ... upon him ... dove",
+      "streams": [
+        "scholarship"
+      ],
+      "reason": "Hardy's apparatus cross-references all four baptism accounts at this verse — Matthew 3:16, Mark 1:10, Luke 3:22, John 1:32 — which is the right thing for a study edition to do and leaves the catalogue's question unanswered. The wording answers it. 'The Holy Ghost descended' occurs in exactly one KJV verse, Luke 3:22; Matthew 3:16 reads 'the Spirit of God descending', Mark 1:10 'the Spirit like a dove descending', John 1:32 'the Spirit descending from heaven'. All three name the agent as Spirit, not Holy Ghost, and Matthew and Mark both place the participle before the dove where the Book of Mormon and Luke place it after the noun. Matthew 3:16 is additionally excluded on its own account: its distinctive material — the heavens opened unto him, the lighting upon him — is entirely absent here, though Matthew 3:14-15 IS the source at 31:5. The link is at Luke 3:22. Mark 1:10 and John 1:32 are excluded on the same evidence and are not given separate entries."
     }
   ]
 }

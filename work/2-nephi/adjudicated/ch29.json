@@ -317,41 +317,6 @@
         ]
       }
     ],
-    "29:9": [
-      {
-        "source": "Hebrews 13:8",
-        "type": "quotation",
-        "subtype": "close-verbal",
-        "confidence": "high",
-        "text": "Jesus Christ the same yesterday, and to day, and for ever.",
-        "evidence": {
-          "vocabulary": 5,
-          "syntax": 5,
-          "sequence": 5,
-          "context": 4,
-          "rarity": 5,
-          "attestation": 0
-        },
-        "kjvSpecific": "yes",
-        "mediation": "direct-NT",
-        "recurrenceRefs": [
-          "1 Nephi 10:18",
-          "2 Nephi 27:23"
-        ],
-        "provenance": {
-          "route": "Hebrews 13:8 → KJV → Book of Mormon",
-          "other": "“yesterday, and to day, and for ever” occurs in exactly one KJV verse, Hebrews 13:8. The Book of Mormon prints it without the second conjunction — 'the same yesterday, to-day, and forever' — at 1 Nephi 10:18, at 2 Nephi 27:23 and here, so the formula is fixed in this corpus before 29:9 reaches it.",
-          "significance": "Hebrews 13:8 is a statement about a person; 29:9 makes it a statement about a practice. The immutability Hebrews asserts of Christ is here the premise for saying that revelation has not stopped — 'because that I have spoken one word, ye need not suppose that I cannot speak another' — which inverts the usual devotional use of the verse. Recovering Hebrews 13 sharpens that: its own next verse warns against being 'carried about with divers and strange doctrines', so the sentence Nephi uses to argue for more scripture sits, in its source, beside a caution against novelty."
-        },
-        "note": "A KJV singleton, reproduced with one conjunction dropped, and the argument it carries is entirely the Book of Mormon's own. FLAGGED, and not quietly: 2 Nephi 27:23 has the identical formula earlier in this same book, and ADJUDICATING §4 says a repeat within one book is registered as an exclusion pointing at the first use rather than linked afresh. It is written as a link here because chapter 27 was adjudicated in a parallel pass and this adjudicator cannot verify that the link exists there to point at; an exclusion referring a reader to an adjudication that may not have been made is worse than a link that may be redundant. The dispatching session should collapse this to an exclusion at 29:9 if 2 Nephi 27:23 carries the Hebrews 13:8 row. 1 Nephi 10:18 has the phrase in a different book and is recorded in recurrenceRefs for the same reason.",
-        "bibliography": [],
-        "status": "novel",
-        "citationsPending": true,
-        "streams": [
-          "manual"
-        ]
-      }
-    ],
     "29:11": [
       {
         "source": "Revelation 20:12",

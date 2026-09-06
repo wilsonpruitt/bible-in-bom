@@ -4,7 +4,9 @@
     "source": "Matthew 3:16",
     "category": "better-source-identified",
     "sharedText": "descending ... upon him ... dove",
-    "streams": ["scholarship"],
+    "streams": [
+      "scholarship"
+    ],
     "reason": "Hardy's apparatus cross-references all four baptism accounts at this verse — Matthew 3:16, Mark 1:10, Luke 3:22, John 1:32 — which is the right thing for a study edition to do and leaves the catalogue's question unanswered. The wording answers it. 'The Holy Ghost descended' occurs in exactly one KJV verse, Luke 3:22; Matthew 3:16 reads 'the Spirit of God descending', Mark 1:10 'the Spirit like a dove descending', John 1:32 'the Spirit descending from heaven'. All three name the agent as Spirit, not Holy Ghost, and Matthew and Mark both place the participle before the dove where the Book of Mormon and Luke place it after the noun. Matthew 3:16 is additionally excluded on its own account: its distinctive material — the heavens opened unto him, the lighting upon him — is entirely absent here, though Matthew 3:14-15 IS the source at 31:5. The link is at Luke 3:22. Mark 1:10 and John 1:32 are excluded on the same evidence and are not given separate entries."
   },
   {
@@ -12,7 +14,9 @@
     "source": "Judges 9:48",
     "category": "wrong-sense",
     "sharedText": "what ye have seen me do",
-    "streams": ["machine-ngram"],
+    "streams": [
+      "machine-ngram"
+    ],
     "reason": "The machine's top-scoring candidate for the verse at rarity 2.00, and the model case of the trap ADJUDICATING §4 names. Judges 9:48 is Abimelech on mount Zalmon, cutting a bough with an axe and laying it on his shoulder, telling his men 'What ye have seen me do, make haste, and do as I have done' — after which they burn a thousand men and women alive in the tower of Shechem. 2 Nephi 31:12 is the Son of God saying 'follow me, and do the things which ye have seen me do'. The five-word run is exact and the referent could hardly be more opposed: an imitation that leads to a massacre against an imitation that leads to salvation. There is also no reason to think the Book of Mormon knows Judges 9 — nothing else in 2 Nephi touches it — whereas the imitation-of-Christ language of the verse is fully accounted for by John 13:15 and by the chapter's own 'he having set the example before them' at 31:9."
   },
   {
@@ -20,7 +24,9 @@
     "source": "Exodus 14:24",
     "category": "formulaic",
     "sharedText": "fire and of the",
-    "streams": ["machine-ngram"],
+    "streams": [
+      "machine-ngram"
+    ],
     "reason": "Proposed at both 31:13 and 31:14 at rarity 1.50, and it is the window closing one word early. Exodus 14:24 has the LORD looking through 'the pillar of fire and of the cloud'; 2 Nephi 31:13 has 'the baptism of fire and of the Holy Ghost'. The shared string is a preposition, a noun, a conjunction and an article, and the word that decides the sense is the one on the far side of the window in each case — cloud there, Holy Ghost here. The real background of the phrase is Matthew 3:11 and Luke 3:16, both of which the Book of Mormon inverts (Holy Ghost first, then fire, in the KJV; fire first here), and that inversion is registered on the 1 Corinthians 13:1 link at this verse rather than given a row of its own, because it holds at 31:13, 31:14 and 31:17 alike and is Nephi's settled form rather than a fresh borrowing at each occurrence."
   },
   {
@@ -28,7 +34,9 @@
     "source": "Isaiah 31:1",
     "category": "formulaic",
     "sharedText": "unto the Holy One of Israel",
-    "streams": ["machine-ngram"],
+    "streams": [
+      "machine-ngram"
+    ],
     "reason": "A standing exclusion for this chapter, carrying forward the one filed at 2 Nephi 9:11. 'The Holy One of Israel' is Isaiah's signature title and Nephi's adopted name for God; it will match Isaiah 31:1, 30:15, 41:14, 43:3, 49:7 and a dozen others indifferently, and the choice among them is arbitrary. The machine proposes Isaiah 31:1 here only because that verse happens to carry the preposition as well. Passed over in silence wherever else it occurs in chapters 31-33."
   },
   {
@@ -36,7 +44,9 @@
     "source": "John 18:8",
     "category": "formulaic",
     "sharedText": "I have told you that I",
-    "streams": ["machine-ngram"],
+    "streams": [
+      "machine-ngram"
+    ],
     "reason": "Six words at rarity 2.14, and every one of them is grammar. John 18:8 is Jesus in Gethsemane — 'I have told you that I am he: if therefore ye seek me, let these go their way' — and the run breaks at exactly the point where the sense would begin, on 'am he' against the Book of Mormon's 'have seen'. Nothing in 2 Nephi 31 is doing anything with the arrest narrative. The verse's substance is Acts 2:38, registered as a recurrence on the link at 31:11, together with the Matthew 7 gate at 31:9."
   },
   {
@@ -44,7 +54,9 @@
     "source": "Acts 10:47",
     "category": "common-vocabulary",
     "sharedText": "have received the Holy Ghost",
-    "streams": ["machine-ngram"],
+    "streams": [
+      "machine-ngram"
+    ],
     "reason": "Real content words, too widely distributed to point anywhere. 'Received the Holy Ghost' appears at Acts 8:17, 10:47, 19:2 and in substance at 2:38, and 2 Nephi 31 has been talking about receiving the Holy Ghost since 31:12. Acts 10:47 is proposed rather than any of the others only because it shares the perfect tense. If any Acts verse stands behind 31:18 it is 2:38, which is linked at 31:11 and which this verse is recapitulating along with Matthew 7:14 — the recapitulation is why the verse has no link of its own."
   },
   {
@@ -52,7 +64,9 @@
     "source": "John 4:35",
     "category": "formulaic",
     "sharedText": "behold, I say unto you",
-    "streams": ["machine-ngram"],
+    "streams": [
+      "machine-ngram"
+    ],
     "reason": "Covered in principle by the standing formulaic exclusion at 1 Nephi 1:5 and noted here only because the machine proposes it twice in these three chapters (31:19 and 32:9). 'Behold, I say unto you' is one of the Book of Mormon's commonest discourse markers and one of the KJV's; the harvest saying of John 4:35 has no other contact with either verse."
   },
   {
@@ -60,7 +74,29 @@
     "source": "Deuteronomy 10:13",
     "category": "common-vocabulary",
     "sharedText": "keep the commandments of",
-    "streams": ["machine-ngram"],
+    "streams": [
+      "machine-ngram"
+    ],
     "reason": "A six-word run and a Deuteronomic commonplace: 'keep the commandments of the LORD' recurs through Deuteronomy, Joshua, Kings and Chronicles, and 'keep the commandments' is used some sixty times in the KJV. 2 Nephi 31:10 has 'keep the commandments of the Father', which is the Johannine rather than the Deuteronomic object and belongs with John 15:10. The verse's link is to John 21:22, on the singleton 'follow thou me'."
+  },
+  {
+    "bomRef": "2 Nephi 31:8",
+    "source": "Mark 1:10",
+    "category": "better-source-identified",
+    "sharedText": "descending ... upon him ... dove",
+    "streams": [
+      "scholarship"
+    ],
+    "reason": "Hardy's apparatus cross-references all four baptism accounts at this verse — Matthew 3:16, Mark 1:10, Luke 3:22, John 1:32 — which is the right thing for a study edition to do and leaves the catalogue's question unanswered. The wording answers it. 'The Holy Ghost descended' occurs in exactly one KJV verse, Luke 3:22; Matthew 3:16 reads 'the Spirit of God descending', Mark 1:10 'the Spirit like a dove descending', John 1:32 'the Spirit descending from heaven'. All three name the agent as Spirit, not Holy Ghost, and Matthew and Mark both place the participle before the dove where the Book of Mormon and Luke place it after the noun. Matthew 3:16 is additionally excluded on its own account: its distinctive material — the heavens opened unto him, the lighting upon him — is entirely absent here, though Matthew 3:14-15 IS the source at 31:5. The link is at Luke 3:22. Mark 1:10 and John 1:32 are excluded on the same evidence and are not given separate entries."
+  },
+  {
+    "bomRef": "2 Nephi 31:8",
+    "source": "John 1:32",
+    "category": "better-source-identified",
+    "sharedText": "descending ... upon him ... dove",
+    "streams": [
+      "scholarship"
+    ],
+    "reason": "Hardy's apparatus cross-references all four baptism accounts at this verse — Matthew 3:16, Mark 1:10, Luke 3:22, John 1:32 — which is the right thing for a study edition to do and leaves the catalogue's question unanswered. The wording answers it. 'The Holy Ghost descended' occurs in exactly one KJV verse, Luke 3:22; Matthew 3:16 reads 'the Spirit of God descending', Mark 1:10 'the Spirit like a dove descending', John 1:32 'the Spirit descending from heaven'. All three name the agent as Spirit, not Holy Ghost, and Matthew and Mark both place the participle before the dove where the Book of Mormon and Luke place it after the noun. Matthew 3:16 is additionally excluded on its own account: its distinctive material — the heavens opened unto him, the lighting upon him — is entirely absent here, though Matthew 3:14-15 IS the source at 31:5. The link is at Luke 3:22. Mark 1:10 and John 1:32 are excluded on the same evidence and are not given separate entries."
   }
 ]

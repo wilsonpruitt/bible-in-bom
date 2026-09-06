@@ -1,0 +1,876 @@
+{
+  "chapter": 27,
+  "adjudicated": "2026-09-05",
+  "adjudicator": "Opus",
+  "links": {
+    "27:2": [
+      {
+        "source": "Isaiah 29:6",
+        "type": "quotation",
+        "subtype": "close-verbal",
+        "confidence": "certain",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 3
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "provenance": {
+          "route": "Isaiah 29 → KJV → Book of Mormon",
+          "other": "“flame of devouring fire” occurs in exactly one KJV verse, Isaiah 29:6; Isaiah 30:30 has 'the flame of a devouring fire' with the article. Isaiah 29:6 reads 'Thou shalt be visited of the LORD of hosts with thunder, and with earthquake, and great noise, with storm and tempest, and the flame of devouring fire.'",
+          "significance": "The expansion of Isaiah 29 begins here, at v. 6, and not at v. 1 — verses 1-5 have already been used in the previous chapter, and vv. 1-2, the only ones naming Ariel and the city where David dwelt, are used nowhere. So the first thing 2 Nephi 27 does with Isaiah 29 is start in the middle of it, at the point where the oracle stops being about a named city and becomes about a day."
+        },
+        "note": "Every content word is Isaiah's. The two departures are grammatical and both are the same kind: 'Thou shalt be visited' becomes 'they shall be visited', and 'with' is supplied before 'a great noise' and before 'storm' where the KJV omits it. The first shifts an address into a report, which is what 27:1's new framing requires; the second regularises Isaiah's asyndeton. Note the 1830 verse division: the Book of Mormon's chapter 27 opens with an entirely non-biblical verse before the quotation starts.",
+        "bibliography": [],
+        "status": "consensus",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ],
+        "text": "Thou shalt be visited of the LORD of hosts with thunder, and with earthquake, and great noise, with storm and tempest, and the flame of devouring fire."
+      }
+    ],
+    "27:3": [
+      {
+        "source": "Isaiah 29:7",
+        "type": "quotation",
+        "subtype": "extended",
+        "confidence": "certain",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 4
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Isaiah 29:8"
+        ],
+        "provenance": {
+          "route": "Isaiah 29 → KJV → Book of Mormon",
+          "other": "Two whole verses of Isaiah in one verse of the Book of Mormon, and the machine's longest run in the chapter, eighteen words, falls here. Isaiah 29:7-8: 'the multitude of all the nations that fight against Ariel, even all that fight against her and her munition, and that distress her, shall be as a dream of a night vision. It shall even be as when an hungry man dreameth …' “a dream of a night vision” occurs in exactly one KJV verse, Isaiah 29:7.",
+          "significance": "The one substitution is the whole point. Isaiah's besieged city is Ariel — a cult-name for Jerusalem, glossed by v. 1 as 'the city where David dwelt' — and the Book of Mormon replaces it with Zion: 'all the nations that fight against Zion, and that distress her'. Isaiah's own v. 8 already ends on 'mount Zion', so the substitution can be read as harmonisation; but it is also the move that lets the oracle be about a city that does not yet exist rather than one that has already fallen. The dropped clause, 'and her munition', goes with the fortification: a Zion without walls has none.",
+          "alternative": "None; the passage has no other source."
+        },
+        "note": "Hardy cross-references Isaiah 29:7 here. Besides Ariel/Zion, the departures are all of the same kind — Isaiah's similes are turned into second comparisons ('even as unto a hungry man, which dreameth' for 'as when an hungry man dreameth'), and the relative 'which' replaces 'when' twice. Everything else, including 'his soul hath appetite' and 'the multitude of all the nations', stands verbatim.",
+        "bibliography": [
+          "Hardy MSI at 2 Ne 27.3 (Isaiah 29:7)"
+        ],
+        "status": "consensus",
+        "streams": [
+          "machine-ngram",
+          "scholarship",
+          "manual"
+        ],
+        "text": "And the multitude of all the nations that fight against Ariel, even all that fight against her and her munition, and that distress her, shall be as a dream of a night vision."
+      }
+    ],
+    "27:4": [
+      {
+        "source": "Isaiah 29:9",
+        "type": "quotation",
+        "subtype": "close-verbal",
+        "confidence": "certain",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "provenance": {
+          "route": "Isaiah 29 → KJV → Book of Mormon",
+          "other": "“drunken, but not with wine” occurs in exactly two KJV verses, Isaiah 29:9 and 51:21 — and the second of those is transcribed in this book at 2 Nephi 8:21, so the phrase has already appeared in 2 Nephi once before this chapter reaches it.",
+          "significance": "Isaiah 29:9 describes a condition in the third person — 'they are drunken, but not with wine' — after two second-person imperatives. The Book of Mormon makes the whole verse second person: 'ye shall be drunken, but not with wine; ye shall stagger'. That change turns a description into an accusation, and the added opening, 'for behold, all ye that do iniquity', supplies the addressee Isaiah leaves unnamed. The tense also moves from present to future, which is required by 27:1's relocation of the whole oracle to the last days."
+        },
+        "note": "Isaiah's four imperatives — stay yourselves, wonder, cry ye out, cry — survive as 'stay yourselves and wonder, for ye shall cry out, and cry'. The only added material is the vocative. This is the clearest short example in the chapter of what the expansion does: it does not paraphrase Isaiah, it re-points him, changing person and tense while leaving the words alone.",
+        "bibliography": [],
+        "status": "consensus",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ],
+        "text": "Stay yourselves, and wonder; cry ye out, and cry: they are drunken, but not with wine; they stagger, but not with strong drink."
+      }
+    ],
+    "27:5": [
+      {
+        "source": "Isaiah 29:10",
+        "type": "quotation",
+        "subtype": "close-verbal",
+        "confidence": "certain",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "provenance": {
+          "route": "Isaiah 29 → KJV → Book of Mormon",
+          "other": "“spirit of deep sleep” occurs in exactly one KJV verse, Isaiah 29:10: 'For the LORD hath poured out upon you the spirit of deep sleep, and hath closed your eyes: the prophets and your rulers, the seers hath he covered.'",
+          "significance": "This is the most consequential single departure in the chapter and it is one clause long. In Isaiah, God closes their eyes and covers the prophets, the rulers and the seers: three objects of one divine verb, and the blinding is God's act. The Book of Mormon keeps the pouring out of the spirit of deep sleep and keeps the covering of the seers, but between them it substitutes 'For behold, ye have closed your eyes, and ye have rejected the Prophets, and your rulers' — the people close their own eyes and reject their own prophets, and only the covering of the seers is left to God, now with a stated cause, 'because of your iniquities'. Isaiah's hardening is transferred from God to the hardened, and the divine act is made a consequence rather than a cause. The theology of 2 Nephi 2 — that men are free to act and not to be acted upon — is being written back into Isaiah's sentence.",
+          "alternative": "None. The wording is Isaiah's throughout; only the syntax of agency changes."
+        },
+        "note": "The catalogue treats this as a quotation because every phrase is Isaiah's, but the row's value is the departure rather than the borrowing. Note that the change is invisible to any measure of verbal overlap: the shared vocabulary is nearly total and the sense is reversed, which is the mirror image of the wrong-sense exclusions in the register. It is also the reason a chapter like this cannot be run through collate-isaiah.py — a word-level collation would report 'closed your eyes' as agreement.",
+        "bibliography": [],
+        "status": "consensus",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ],
+        "text": "For the LORD hath poured out upon you the spirit of deep sleep, and hath closed your eyes: the prophets and your rulers, the seers hath he covered."
+      }
+    ],
+    "27:6": [
+      {
+        "source": "Isaiah 29:11",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "certain",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 4
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Isaiah 29:10"
+        ],
+        "recurrenceRefs": [
+          "2 Nephi 27:15",
+          "2 Nephi 27:19"
+        ],
+        "provenance": {
+          "route": "Isaiah 29 → KJV → Book of Mormon",
+          "other": "“the words of a book that is sealed” occurs in exactly one KJV verse, Isaiah 29:11. The Book of Mormon divides the phrase across two verses: 'the words of a book' here, 'the book shall be sealed' at 27:7.",
+          "significance": "Isaiah 29:11 is a simile — the vision has become to you AS the words of a sealed book — and the Book of Mormon deletes the comparison. What was a figure for incomprehension becomes an actual book that God 'shall bring forth unto you', and the next twenty verses are about its physical delivery, its witnesses, and the man who will read it. The single most important thing 2 Nephi 27 does to Isaiah 29 is to literalise its metaphor. The second half of the verse, 'they shall be the words of them which have slumbered', has no counterpart in v. 11 at all; it reaches back to v. 10's spirit of deep sleep and forward to 26:16's voice out of the dust, and identifies the sleepers as the dead whose record the book is.",
+          "alternative": "Daniel 12:4 and 12:9 supply a sealed book of the end from the other direction and are catalogued at 27:22."
+        },
+        "note": "Hardy cross-references Isaiah 29:11-12 at this verse. That is a chapter-level pointer at the head of the passage: v. 11's simile is here, but the dialogue of vv. 11-12 — 'Read this, I pray thee', 'I cannot; for it is sealed', 'I am not learned' — is at 27:15-19, and those rows carry the verbal links (CONVENTIONS §6a). The compound 'them which have slumbered' is the Book of Mormon's own and is one of the passages where the expansion adds rather than re-points.",
+        "bibliography": [
+          "Hardy MSI at 2 Ne 27.6 (Isaiah 29:11-12)"
+        ],
+        "status": "consensus",
+        "streams": [
+          "machine-ngram",
+          "scholarship",
+          "manual"
+        ],
+        "text": "And the vision of all is become unto you as the words of a book that is sealed, which men deliver to one that is learned, saying, Read this, I pray thee: and he saith, I cannot; for it is sealed:"
+      }
+    ],
+    "27:11": [
+      {
+        "source": "Luke 12:3",
+        "type": "allusion",
+        "subtype": "conceptual",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 2,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Matthew 10:27"
+        ],
+        "provenance": {
+          "route": "Luke 12:3 → KJV → Book of Mormon",
+          "other": "“upon the housetops” occurs in exactly four KJV verses; two are the saying about secrets made public, Matthew 10:27 ('preach ye upon the housetops') and Luke 12:3 ('shall be proclaimed upon the housetops'). Neither uses the verb 'read', which is the Book of Mormon's.",
+          "significance": "Luke 12:3's saying is precisely about the reversal of concealment: what was spoken in darkness shall be heard in the light, what was said in closets proclaimed on the housetops. 2 Nephi 27 is a chapter about a book that is sealed, hidden, kept from the eyes of the world, and then read; the housetop is the image the gospels use for the end of that concealment, and the Book of Mormon supplies it at the exact point where the sealed words are finally unsealed. The verb changes from proclaiming to reading because the thing revealed is a text."
+        },
+        "note": "27:7-14 is the part of this chapter with no Isaiah counterpart at all, and this is one of the few clauses in it that has any biblical wording. Graded moderate: two words, and the source cannot be narrowed between Matthew and Luke — though Luke's 'proclaimed' is nearer the passive construction than Matthew's imperative 'preach ye'.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "Therefore whatsoever ye have spoken in darkness shall be heard in the light; and that which ye have spoken in the ear in closets shall be proclaimed upon the housetops."
+      }
+    ],
+    "27:14": [
+      {
+        "source": "2 Corinthians 13:1",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "OT-via-NT",
+        "composite": [
+          "Matthew 18:16",
+          "Deuteronomy 19:15"
+        ],
+        "provenance": {
+          "route": "Deuteronomy 19:15 → Matthew 18:16 / 2 Corinthians 13:1 → KJV → Book of Mormon",
+          "other": "“mouth of two or three witnesses” occurs in exactly two KJV verses, Matthew 18:16 and 2 Corinthians 13:1, both quoting Deuteronomy 19:15. The three differ in two words that decide this case: Deuteronomy has 'AT the mouth of two witnesses … shall THE MATTER be established'; the New Testament pair has 'IN the mouth of two or three witnesses … every WORD be established'.",
+          "significance": "The Book of Mormon reads 'in the mouth of as many witnesses as seemeth him good, will he establish his word', and it has the New Testament form on both discriminating points: the preposition is 'in', not 'at', and the thing established is a word, not a matter. This is the chapter's mediation result and it matters beyond the verse, because the three witnesses of 27:12 are the doctrine the whole passage exists to install — so the law of witnesses enters the Book of Mormon in the form Paul and Matthew give it rather than the form Deuteronomy gives it.",
+          "alternative": "Deuteronomy 19:15 alone, which is where mediation-check.py's single decisive point falls; but the word it finds decisive is 'witnesses', which all three verses share, and the tool's alignment does not reach the preposition or the object. The reading here is by eye and the discriminants are named above."
+        },
+        "note": "The replacement of 'two or three' by 'as many witnesses as seemeth him good' is the Book of Mormon's own, and it does work: it licenses the three witnesses of 27:12 and the eight who would follow, without binding the number. Note that the borrowing sits in the stretch of this chapter — vv. 7 to 14 — that has no Isaiah 29 counterpart, so where the expansion leaves Isaiah it reaches for the New Testament.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "This is the third time I am coming to you. In the mouth of two or three witnesses shall every word be established."
+      }
+    ],
+    "27:15": [
+      {
+        "source": "Isaiah 29:11",
+        "type": "quotation",
+        "subtype": "close-verbal",
+        "confidence": "certain",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 4
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "recurrenceRefs": [
+          "2 Nephi 27:6"
+        ],
+        "provenance": {
+          "route": "Isaiah 29 → KJV → Book of Mormon",
+          "other": "“Read this, I pray thee” occurs in exactly two KJV verses, Isaiah 29:11 and 29:12, where it is said twice — once to the learned man and once to the unlearned. 2 Nephi 27:15 keeps it in the first of the two positions.",
+          "significance": "Isaiah's 'which men deliver to one that is learned' is a passive impersonal; the Book of Mormon supplies a chain of named agents — the Lord God says to the man to whom he delivers the book, take these words and deliver them to another, that HE may shew them to the learned. Two deliveries where Isaiah has one, and the words that go to the learned are specifically 'these words which are not sealed'. Isaiah's scene is a figure for a nation that cannot read its own vision; the Book of Mormon's is a procedure, with a custodian, an intermediary, and a restriction on what may be shown.",
+          "alternative": "None."
+        },
+        "note": "The added reply is the largest single expansion in the chapter: Isaiah's learned man says only 'I cannot; for it is sealed', and the Book of Mormon has him first say 'Bring hither the book, and I will read them' — a demand Isaiah does not record and which 27:16 then motivates as being made 'because of the glory of the world, and to get gain'. So a refusal has become a negotiation, and a motive has been assigned to it.",
+        "bibliography": [
+          "Hardy MSI at 2 Ne 27.6 (Isaiah 29:11-12)"
+        ],
+        "status": "consensus",
+        "streams": [
+          "machine-ngram",
+          "scholarship",
+          "manual"
+        ],
+        "text": "And the vision of all is become unto you as the words of a book that is sealed, which men deliver to one that is learned, saying, Read this, I pray thee: and he saith, I cannot; for it is sealed:"
+      },
+      {
+        "source": "James 4:13",
+        "type": "echo",
+        "subtype": "possible",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 2,
+          "sequence": 2,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "recurrenceRefs": [
+          "2 Nephi 26:20",
+          "2 Nephi 26:29"
+        ],
+        "provenance": {
+          "route": "James 4:13 → KJV → Book of Mormon",
+          "other": "“get gain” occurs in exactly one KJV verse, James 4:13. This is its third occurrence in two chapters of 2 Nephi.",
+          "significance": "The phrase was adjudicated at 2 Nephi 26:20, where it names the motive of churchmen who preach their own learning. Its reappearance here, in 27:16, attaches the same motive to the learned man of Isaiah 29:11 — so the figure Isaiah uses for incapacity is re-read as a figure for venality, and the section's standing term for religion practised for money is what performs the re-reading."
+        },
+        "note": "The occurrence is in 27:16, which is a continuation of the sentence begun here and has no independent biblical content; the row is filed at 27:15 with the Isaiah quotation it comments on. The argument for James 4:13 as the source is made at 26:20 and is not restated.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "Go to now, ye that say, To day or to morrow we will go into such a city, and continue there a year, and buy and sell, and get gain:"
+      }
+    ],
+    "27:17": [
+      {
+        "source": "Isaiah 29:11",
+        "type": "quotation",
+        "subtype": "close-verbal",
+        "confidence": "certain",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 4
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "recurrenceRefs": [
+          "2 Nephi 27:15"
+        ],
+        "provenance": {
+          "route": "Isaiah 29 → KJV → Book of Mormon",
+          "other": "Isaiah 29:11 ends 'and he saith, I cannot; for it is sealed'. 2 Nephi 27:17 reads 'And the man shall say, I cannot bring the book, for it is sealed.' “I cannot; for it is sealed” occurs in exactly one KJV verse, Isaiah 29:11.",
+          "significance": "The speaker has changed. In Isaiah the words 'I cannot; for it is sealed' are the learned man's refusal to read; in the Book of Mormon they are the unlearned custodian's refusal to hand the book over, and the learned man's 'I cannot read it' is given a verse of its own at 27:18. So Isaiah's one refusal has been split into two, redistributed between two speakers, and given two different reasons — the book cannot be brought because it is sealed, and it cannot be read because the reader is not able. Everything the expansion adds to this passage follows from that split."
+        },
+        "note": "A three-word clause reproduced exactly ('for it is sealed') with a new object supplied for the verb. The row is worth separating from 27:15's because the reassignment of the line is the interpretive act, and a reader collating the two chapters by eye will otherwise see only that the words are Isaiah's.",
+        "bibliography": [
+          "Hardy MSI at 2 Ne 27.6 (Isaiah 29:11-12)"
+        ],
+        "status": "consensus",
+        "streams": [
+          "machine-ngram",
+          "scholarship",
+          "manual"
+        ],
+        "text": "And the vision of all is become unto you as the words of a book that is sealed, which men deliver to one that is learned, saying, Read this, I pray thee: and he saith, I cannot; for it is sealed:"
+      }
+    ],
+    "27:19": [
+      {
+        "source": "Isaiah 29:12",
+        "type": "quotation",
+        "subtype": "close-verbal",
+        "confidence": "certain",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 4
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "recurrenceRefs": [
+          "2 Nephi 27:6"
+        ],
+        "provenance": {
+          "route": "Isaiah 29 → KJV → Book of Mormon",
+          "other": "“I am not learned” occurs in exactly one KJV verse, Isaiah 29:12: 'And the book is delivered to him that is not learned, saying, Read this, I pray thee: and he saith, I am not learned.' The Book of Mormon has both of the verse's distinctive phrases, 'him that is not learned' and 'I am not learned'.",
+          "significance": "Isaiah 29:11-12 is a pair of failures: the learned man cannot read because the book is sealed, the unlearned man cannot read because he is unlearned, and the point is that the vision reaches nobody. The Book of Mormon accepts the second failure and then overturns it — 27:20 has God answer 'thou shalt read the words which I shall give unto thee'. The unlearned man's disqualification becomes his qualification, and Isaiah's closed circle is opened at the one place the KJV leaves an opening: Isaiah records the unlearned man's objection but not, as with the learned man, a reason why the reading is impossible.",
+          "alternative": "None."
+        },
+        "note": "The chapter's most consequential quotation, and the one that carries the Book of Mormon's account of its own translator. Two of Isaiah 29:12's clauses stand verbatim; the delivery is redirected — 'the Lord God will deliver again the book' rather than 'the book is delivered' — so that God, not 'men', is the agent throughout the scene.",
+        "bibliography": [
+          "Hardy MSI at 2 Ne 27.6 (Isaiah 29:11-12)"
+        ],
+        "status": "consensus",
+        "streams": [
+          "machine-ngram",
+          "scholarship",
+          "manual"
+        ],
+        "text": "And the book is delivered to him that is not learned, saying, Read this, I pray thee: and he saith, I am not learned."
+      }
+    ],
+    "27:20": [
+      {
+        "source": "Matthew 9:28",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "recurrenceRefs": [
+          "2 Nephi 27:21",
+          "2 Nephi 27:29"
+        ],
+        "provenance": {
+          "route": "Matthew 9:28 → KJV → Book of Mormon",
+          "other": "“I am able to do” occurs in exactly one KJV verse, Matthew 9:28: 'and Jesus saith unto them, Believe ye that I am able to do this? They said unto him, Yea, Lord.' The Book of Mormon completes it as 'mine own work', a phrase that occurs in no KJV verse.",
+          "significance": "The verse Matthew puts those words in is the healing of two blind men — 'the blind men came to him: and Jesus saith unto them, Believe ye that I am able to do this?' — and nine verses later this chapter arrives at Isaiah 29:18, 'the eyes of the blind shall see out of obscurity and out of darkness'. So the one place in the King James Bible where Christ says 'I am able to do' is a restoration of sight, quoted twice inside an expansion of the one chapter of Isaiah that ends in the restoration of sight. Neither text says this. The catalogue proposes that the sentence God speaks over the unlearned reader at 27:20-21 is Christ's question to the blind, answered."
+        },
+        "note": "'I am able to do mine own work' is the hinge of the chapter's central scene — it is what disqualifies the learned and licenses the unlearned — and it is said twice, here and at 27:21. The n-gram stream found the string and ranked it low; nothing in the dossier connects it to the blindness that the chapter is heading toward, and that connection is this catalogue's. Graded high rather than certain because the completion of the clause is not Matthew's and the four shared words are common individually.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ],
+        "text": "And when he was come into the house, the blind men came to him: and Jesus saith unto them, Believe ye that I am able to do this? They said unto him, Yea, Lord."
+      }
+    ],
+    "27:22": [
+      {
+        "source": "Daniel 12:4",
+        "type": "allusion",
+        "subtype": "conceptual",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 2,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Daniel 12:9"
+        ],
+        "provenance": {
+          "route": "Daniel 12:4 → KJV → Book of Mormon",
+          "other": "“seal the book” occurs in exactly one KJV verse, Daniel 12:4 — 'shut up the words, and seal the book, even to the time of the end' — and “sealed till the time of the end” in exactly one, Daniel 12:9. Isaiah 29:11 has a book that IS sealed but no instruction to seal one.",
+          "significance": "Isaiah 29 supplies this chapter's sealed book but not the act of sealing it, and not the reserving of its contents to an appointed time. Those are Daniel's: 'seal up the book again, and hide it up unto me, that I may preserve the words which thou hast not read, until I shall see fit in mine own wisdom, to reveal all things unto the children of men' is Daniel 12:4 and 12:9 in substance — words closed up and sealed till the time of the end — expressed without a phrase of Daniel's being reproduced. The chapter takes its book from Isaiah and its eschatology of sealing from Daniel."
+        },
+        "note": "Typed conceptual and graded moderate because there is almost no shared wording: 'seal' and 'book' are the whole verbal contact, and the Book of Mormon's 'mine own due time' at 27:21 is not Daniel's 'the time of the end'. The row is proposed on the strength of the whole apparatus arriving together — a book sealed by command, a portion withheld, a fixed time of disclosure — which the KJV assembles nowhere else. Flagged as a deliberate risk under CONVENTIONS §0a.",
+        "whyNot": "Nothing verbal survives. A writer with Isaiah 29:11's sealed book in front of him and any general knowledge of apocalyptic could produce this sentence without Daniel; and Revelation 5:1-5, with its book sealed and none worthy to open it, is an equally good conceptual home.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "But thou, O Daniel, shut up the words, and seal the book, even to the time of the end: many shall run to and fro, and knowledge shall be increased."
+      }
+    ],
+    "27:23": [
+      {
+        "source": "Hebrews 13:8",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "Hebrews 13:8 → KJV → Book of Mormon",
+          "other": "“the same yesterday” occurs in exactly one KJV verse, Hebrews 13:8: 'Jesus Christ the same yesterday, and to day, and for ever.' The 1830 prints 'the same yesterday, to-day, and forever', hyphenating what the KJV sets as two words and closing up 'for ever'.",
+          "significance": "Hebrews 13:8 is a statement about Christ's constancy set among practical exhortations; the Book of Mormon makes it a premise in an argument about miracles — 'I am God; and I am a God of miracles; and I will shew unto the world that I am the same yesterday, to-day, and forever'. The inference the verse wants is that a God who worked miracles anciently must work them now, which is Moroni 7:22 and Mormon 9:9's argument in full. Hebrews' unchangeableness has been made an argument for continuing revelation, which is the doctrine this whole chapter exists to establish."
+        },
+        "note": "A KJV singleton reproduced with the name removed, because in the Book of Mormon's sentence the speaker is the one Hebrews names. The orthographic detail cuts against CONVENTIONS §8's usual direction: here the 1830 modernises the KJV's spacing rather than preserving it, as it does with 'marvelous' at 25:17 and 'rumors' at 25:12. The first edition is not uniformly closer to the King James text than later ones.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "Jesus Christ the same yesterday, and to day, and for ever.",
+        "recurrenceRefs": [
+          "1 Nephi 10:18",
+          "2 Nephi 29:9"
+        ]
+      }
+    ],
+    "27:25": [
+      {
+        "source": "Isaiah 29:13",
+        "type": "quotation",
+        "subtype": "extended",
+        "confidence": "certain",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 4
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Matthew 15:8"
+        ],
+        "provenance": {
+          "route": "Isaiah 29 → KJV → Book of Mormon",
+          "other": "“precept of men” occurs in exactly one KJV verse, Isaiah 29:13. The verse is quoted in the New Testament at Matthew 15:8-9 and Mark 7:6-7 in a markedly different form: 'This people draweth nigh unto me with their mouth, and honoureth me with their lips; but their heart is far from me … teaching for doctrines the commandments of men.'",
+          "significance": "The mediation test settles cleanly and in Isaiah's favour. The Book of Mormon reads 'this people draw near unto me with their mouth, and with their lips do honor me, but have removed their hearts far from me, and their fear towards me is taught by the precepts of men'. Three of its clauses exist only in the Old Testament form: 'draw near' rather than the gospels' 'draweth nigh'; 'have removed their heart[s] far from me', which the gospels reduce to 'their heart is far from me'; and the whole final clause about fear taught by precept, which the gospels replace with worship taught for doctrine. This matters because Isaiah 29:13 is one of the most familiar Old Testament verses in the New, and the Book of Mormon does not have the familiar form. It has the Hebrew Bible's."
+        },
+        "note": "mediation-check.py reports divergences pointing both ways and flags the verse as a possible composite; one of its two Isaiah points and its single Matthew point should both be discounted. The 'Matthew' point is an artifact — the tool records the Book of Mormon as lacking 'do honour me' when the 1830 reads 'do honor me', an American spelling the normalizer does not fold. Corrected, every discriminating clause favours Isaiah. The Book of Mormon's departures from Isaiah are the plural 'hearts', the plural 'precepts', 'towards' for 'toward', and the omission of Isaiah's 'Wherefore the Lord said' — none of which is a synoptic reading. Hardy cross-references Isaiah 29:13 here.",
+        "bibliography": [
+          "Hardy MSI at 2 Ne 27.25 (Isaiah 29:13)"
+        ],
+        "status": "consensus",
+        "streams": [
+          "machine-ngram",
+          "scholarship",
+          "manual"
+        ],
+        "text": "Wherefore the Lord said, Forasmuch as this people draw near me with their mouth, and with their lips do honour me, but have removed their heart far from me, and their fear toward me is taught by the precept of men:"
+      }
+    ],
+    "27:26": [
+      {
+        "source": "Isaiah 29:14",
+        "type": "quotation",
+        "subtype": "extended",
+        "confidence": "certain",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 3
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "recurrenceRefs": [
+          "2 Nephi 25:17",
+          "2 Nephi 29:1"
+        ],
+        "provenance": {
+          "route": "Isaiah 29 → KJV → Book of Mormon",
+          "other": "“marvellous work and a wonder” occurs in exactly one KJV verse, Isaiah 29:14. The 1830 spells it with the KJV's double l here — 'a marvellous work among this people; yea, a marvellous work, and a wonder' — where at 2 Nephi 25:17, in Nephi's own exposition, the same 1830 prints 'marvelous'.",
+          "significance": "The clause has now entered the book twice, and the two entries differ in exactly the ways one would expect of quotation and paraphrase. At 25:17 it is third person ('he will proceed to do'), the KJV's 'even' is replaced by 'and', the spelling is modernised, and it is applied to the restoration of Israel. Here it is first person as Isaiah has it, the spelling is the KJV's, and it is applied to the book. The catalogue can therefore exhibit a single KJV verse being handled two ways within two chapters by the same writer, which is a better piece of evidence about method than either occurrence alone.",
+          "alternative": "None."
+        },
+        "note": "Two departures from Isaiah beyond 'yea' for 'even': 'their wise and learned' for 'their wise men', and 'their prudent' for 'their prudent men'. Both drop the KJV's 'men', and the first substitutes 'learned' — which is the word the preceding ten verses have been about, the learned man who could not read the sealed book. The quotation has been edited to point at the scene the expansion built.",
+        "bibliography": [],
+        "status": "consensus",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ],
+        "text": "Therefore, behold, I will proceed to do a marvellous work among this people, even a marvellous work and a wonder: for the wisdom of their wise men shall perish, and the understanding of their prudent men shall be hid."
+      }
+    ],
+    "27:27": [
+      {
+        "source": "Isaiah 29:15",
+        "type": "quotation",
+        "subtype": "extended",
+        "confidence": "certain",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Isaiah 29:16"
+        ],
+        "provenance": {
+          "route": "Isaiah 29 → KJV → Book of Mormon",
+          "other": "“esteemed as the potter” occurs in exactly one KJV verse, Isaiah 29:16. Two whole verses of Isaiah stand here, and the machine's rarity scores for both, 22.23 and 36.50 on runs of twenty-nine words, are the highest in the chapter.",
+          "significance": "The one substantive insertion is a repair. Isaiah 29:15-16 runs the mockers' speech and the prophet's rebuttal together without marking the transition — 'they say, Who seeth us? and who knoweth us? Surely your turning of things upside down shall be esteemed as the potter's clay' — so that the KJV's 'Surely' is ambiguous between the two voices. The Book of Mormon inserts 'And they also say' before it, assigning the clause to the mockers, and then adds 'But behold, I will shew unto them, saith the Lord of Hosts, that I know all their works' to mark the answer. An obscurity in the King James English has been resolved by adding a speech tag, which is a reading of the KJV and not of the Hebrew."
+        },
+        "note": "Apart from the two insertions, the passage is verbatim across nearly sixty words, including the two rhetorical questions about the work and the thing framed. This is the longest continuous agreement in the chapter and is well above Skousen's threshold, though the passage is not one of his 36.",
+        "bibliography": [],
+        "status": "consensus",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ],
+        "text": "Woe unto them that seek deep to hide their counsel from the LORD, and their works are in the dark, and they say, Who seeth us? and who knoweth us?"
+      }
+    ],
+    "27:28": [
+      {
+        "source": "Isaiah 29:17",
+        "type": "quotation",
+        "subtype": "extended",
+        "confidence": "certain",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 4
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "provenance": {
+          "route": "Isaiah 29 → KJV → Book of Mormon",
+          "other": "“a very little while” with Lebanon and the fruitful field occurs in exactly one KJV verse, Isaiah 29:17; Isaiah 32:15 has the fruitful field and the forest in a different frame ('counted for a forest'). The machine's longest run here is twenty-five words.",
+          "significance": "Isaiah 29:17 is a rhetorical question — 'Is it not yet a very little while …?' — whose force is that the reversal is imminent. The Book of Mormon turns it into a negated statement inside a divine speech: 'I will shew unto the children of men, that it is not yet a very little while, and Lebanon shall be turned into a fruitful field'. Read as English the sense is nearly inverted: Isaiah asks whether the time is not short, and the Book of Mormon asserts that it is not yet short. The words are the same and the grammar has done something to them, which is the most instructive small departure in the chapter."
+        },
+        "note": "Hardy cross-references Isaiah 29:17 here. Whether the change is deliberate is not decidable from the text: turning a KJV rhetorical question into a statement is what this chapter does at 27:4 and 27:5 as well, and in those places the sense survives. Here it does not obviously survive, and the catalogue records that rather than smoothing it. 1830 and 1920 agree; there is no variant to appeal to.",
+        "bibliography": [
+          "Hardy MSI at 2 Ne 27.28 (Isaiah 29:17)"
+        ],
+        "status": "consensus",
+        "streams": [
+          "machine-ngram",
+          "scholarship",
+          "manual"
+        ],
+        "text": "Is it not yet a very little while, and Lebanon shall be turned into a fruitful field, and the fruitful field shall be esteemed as a forest?"
+      }
+    ],
+    "27:29": [
+      {
+        "source": "Isaiah 29:18",
+        "type": "quotation",
+        "subtype": "extended",
+        "confidence": "certain",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "recurrenceRefs": [
+          "2 Nephi 27:20"
+        ],
+        "provenance": {
+          "route": "Isaiah 29 → KJV → Book of Mormon",
+          "other": "“out of obscurity” occurs in exactly one KJV verse, Isaiah 29:18. The verse stands here verbatim apart from the 1830's misprint 'darknesss'.",
+          "significance": "Isaiah 29:18's 'the words of the book' is a figure completed by v. 11's simile; in the Book of Mormon it has a referent, because vv. 6-22 of this chapter have spent sixteen verses producing an actual book for the deaf to hear. And the blindness healed here is what makes sense of 27:20's borrowing from Matthew 9:28: the one KJV verse in which Christ says 'I am able to do' is a healing of blind men, and it is quoted eleven verses before Isaiah promises that the eyes of the blind shall see."
+        },
+        "note": "A whole verse reproduced with no departure of substance. It is catalogued rather than passed over because it is the terminus of the chapter's argument — the book that could not be read is now read, and the eyes that were closed at 27:5 are opened here — and because the closing of those eyes at 27:5 was the chapter's largest departure from Isaiah. The 1830's trebled s in 'darknesss' is a compositor's error corrected by 1920.",
+        "bibliography": [],
+        "status": "consensus",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ],
+        "text": "And in that day shall the deaf hear the words of the book, and the eyes of the blind shall see out of obscurity, and out of darkness."
+      }
+    ],
+    "27:30": [
+      {
+        "source": "Isaiah 29:19",
+        "type": "quotation",
+        "subtype": "close-verbal",
+        "confidence": "certain",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 5,
+          "context": 4,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "provenance": {
+          "route": "Isaiah 29 → KJV → Book of Mormon",
+          "other": "Isaiah 29:19 reads 'The meek also shall increase their joy in the LORD'. 2 Nephi 27:30 reads 'and the meek also shall increase, and their joy shall be in the Lord'. “the poor among men shall rejoice” occurs in exactly one KJV verse, Isaiah 29:19.",
+          "significance": "A transitive verb has been made intransitive and the object turned into a new clause, so that the meek increase in number rather than in joy, and the joy is predicated separately. That is a reading of an ambiguous English sentence rather than a slip: the KJV's 'shall increase their joy' can be parsed as it stands, but 'the meek shall increase' is the more natural English if the words are heard rather than construed. The second half of the verse, 'the poor among men shall rejoice in the Holy One of Israel', is verbatim."
+        },
+        "note": "One of the small syntactic departures that a mechanical collation would report as a word-order variant and that is in fact a change of meaning. The Book of Mormon's version has the meek multiplying, which fits the chapter's restoration theme and does not fit Isaiah's clause.",
+        "bibliography": [],
+        "status": "consensus",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ],
+        "text": "The meek also shall increase their joy in the LORD, and the poor among men shall rejoice in the Holy One of Israel."
+      }
+    ],
+    "27:31": [
+      {
+        "source": "Isaiah 29:20",
+        "type": "quotation",
+        "subtype": "close-verbal",
+        "confidence": "certain",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 5,
+          "context": 4,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "provenance": {
+          "route": "Isaiah 29 → KJV → Book of Mormon",
+          "other": "Isaiah 29:20's three clauses — the terrible one brought to nought, the scorner consumed, all that watch for iniquity cut off — stand verbatim. Isaiah's opening 'For' is replaced by fourteen words of the Book of Mormon's own: 'For assuredly as the Lord liveth, they shall see that'. “the scorner is consumed” occurs in exactly one KJV verse, Isaiah 29:20.",
+          "significance": "The inserted oath does two things. It converts Isaiah's assertion into something promised to witnesses — 'they shall see that' — which continues the chapter's preoccupation with seeing, from the closed eyes of 27:5 to the opened eyes of 27:29 to the three witnesses who 'shall behold it' at 27:12. And 'as the Lord liveth' is the oath formula that 2 Nephi 25:20 borrowed from Jeremiah 16:14, two chapters earlier and in the same writer's exposition."
+        },
+        "note": "Isaiah's 'the terrible one' is singular here and the same chapter's 'the terrible ones' plural at 29:5 went to 2 Nephi 26:18 with the pronoun changed. Both survive unaltered in number, which is a small check that the two halves of Isaiah 29 were handled independently rather than harmonised.",
+        "bibliography": [],
+        "status": "consensus",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ],
+        "text": "For the terrible one is brought to nought, and the scorner is consumed, and all that watch for iniquity are cut off:"
+      }
+    ],
+    "27:32": [
+      {
+        "source": "Isaiah 29:21",
+        "type": "quotation",
+        "subtype": "extended",
+        "confidence": "certain",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "provenance": {
+          "route": "Isaiah 29 → KJV → Book of Mormon",
+          "other": "Isaiah 29:21 stands entire and word for word: 'That make a man an offender for a word, and lay a snare for him that reproveth in the gate, and turn aside the just for a thing of nought.' The Book of Mormon's only change is 'and they that make' for 'That make', supplying the relative's antecedent. The machine's longest run in the chapter, thirty words, is here. “an offender for a word” occurs in exactly one KJV verse, Isaiah 29:21.",
+          "significance": "A verse with no departure at all is evidence in its own right. It shows that where the expansion leaves Isaiah alone it leaves him completely alone, which is what makes the departures elsewhere — the agency reversal at 27:5, the speech tag at 27:27, the intransitive verb at 27:30 — legible as choices rather than as the noise of loose recollection."
+        },
+        "note": "Reproduced verbatim across thirty words, so this passage is above Skousen's sixteen-word threshold; it is not among his 36 and nothing here should be taken to imply that it is. Recorded chiefly as the control case for the chapter's other rows.",
+        "bibliography": [],
+        "status": "consensus",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ],
+        "text": "That make a man an offender for a word, and lay a snare for him that reproveth in the gate, and turn aside the just for a thing of nought."
+      }
+    ],
+    "27:33": [
+      {
+        "source": "Isaiah 29:22",
+        "type": "quotation",
+        "subtype": "extended",
+        "confidence": "certain",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "provenance": {
+          "route": "Isaiah 29 → KJV → Book of Mormon",
+          "other": "Isaiah 29:22 stands entire, with 'the LORD' rendered 'the Lord' and 'thus saith' retained: 'Therefore thus saith the Lord, who redeemed Abraham, concerning the house of Jacob, Jacob shall not now be ashamed, neither shall his face now wax pale.' “neither shall his face now wax pale” occurs in exactly one KJV verse, Isaiah 29:22.",
+          "significance": "Isaiah's phrase 'who redeemed Abraham' is one of the Old Testament's few references to a redemption of Abraham himself, and the Book of Mormon keeps it without comment — as it keeps 'wax pale', a KJV idiom for shame that no modern version retains. Where 2 Nephi 27 has an argument to make it makes it; where Isaiah is simply concluding, the expansion goes silent and copies."
+        },
+        "note": "Verbatim. This verse and the two that follow close the chapter as a plain transcription of Isaiah 29:22-24, which is the reverse of how the chapter opened — 27:1 is wholly non-biblical and 27:7-14 has no Isaiah at all. The expansion is front-loaded, and the finding is that the additions cluster precisely around the sealed book.",
+        "bibliography": [],
+        "status": "consensus",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ],
+        "text": "Therefore thus saith the LORD, who redeemed Abraham, concerning the house of Jacob, Jacob shall not now be ashamed, neither shall his face now wax pale."
+      }
+    ],
+    "27:34": [
+      {
+        "source": "Isaiah 29:23",
+        "type": "quotation",
+        "subtype": "extended",
+        "confidence": "certain",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "provenance": {
+          "route": "Isaiah 29 → KJV → Book of Mormon",
+          "other": "“the work of mine hands” occurs in exactly one KJV verse, Isaiah 29:23. The Book of Mormon reads 'the work of my hands', substituting the possessive that stands before a consonant for the KJV's pre-vocalic 'mine'.",
+          "significance": "The my/mine alternation is a live feature of early modern English that the King James translators observe by rule — 'mine hands' before a vowel or h, 'my hands' elsewhere — and the 1830 Book of Mormon does not observe it here. That is a small but real datum about the route: the borrowing has passed through a nineteenth-century hand for which the rule is no longer productive, which is exactly what CONVENTIONS §8 says the first edition is evidence for."
+        },
+        "note": "Otherwise verbatim, including 'sanctify the Holy One of Jacob' — a title the KJV uses only here — and 'shall fear the God of Israel'. The row is graded certain on the wording and the note carries the orthographic observation, which is worth having across the corpus and is not by itself an argument about anything larger.",
+        "bibliography": [],
+        "status": "consensus",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ],
+        "text": "But when he seeth his children, the work of mine hands, in the midst of him, they shall sanctify my name, and sanctify the Holy One of Jacob, and shall fear the God of Israel."
+      }
+    ],
+    "27:35": [
+      {
+        "source": "Isaiah 29:24",
+        "type": "quotation",
+        "subtype": "extended",
+        "confidence": "certain",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "provenance": {
+          "route": "Isaiah 29 → KJV → Book of Mormon",
+          "other": "“erred in spirit” occurs in exactly one KJV verse, Isaiah 29:24. The Book of Mormon reproduces the verse entire, with the 1830 misprint 'understandding'.",
+          "significance": "Isaiah 29 ends on instruction: those who erred come to understanding, those who murmured learn doctrine. Placed at the end of 2 Nephi 27 it closes the arc the chapter opened at 27:5, where the people had closed their own eyes and rejected the prophets — the last word of the expansion is that the erring are taught, which is what the sealed book was for."
+        },
+        "note": "Verbatim, and the chapter's last verse. With 27:32, 27:33 and 27:34 it forms an unbroken transcription of Isaiah 29:21-24 running to the end of both chapters, so the expansion and its source finish together.",
+        "bibliography": [],
+        "status": "consensus",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ],
+        "text": "They also that erred in spirit shall come to understanding, and they that murmured shall learn doctrine."
+      }
+    ]
+  }
+}

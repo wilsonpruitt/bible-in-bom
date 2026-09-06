@@ -153,15 +153,20 @@
           "route": "Isaiah 2 → KJV → Book of Mormon",
           "significance": "Part of a continuous transcription of Isaiah 2 as 2 Nephi 12. The quotation is not the finding; the departures are, and they are listed in the note and registered individually in data/isaiah-collation.json."
         },
-        "note": "1 departure(s) from the KJV: adds “yea come for ye have all gone astray every one to his wicked ways”.",
+        "note": "1 departure(s) from the KJV: adds “yea come for ye have all gone astray every one to his wicked ways”. The added clause is Isaiah's own, from fifty-one chapters later: “ye have all gone astray, every one to his wicked ways” against Isaiah 53:6's “all we like sheep have gone astray; we have turned every one to his own way”. The verse the KJV ends on an invitation is here given a reason, and the reason is supplied from the Servant song. Hardy cross-references Isaiah 53:6 at this verse.",
         "variants": [
           "2-nephi-12:5-a"
         ],
-        "bibliography": [],
+        "bibliography": [
+          "Hardy MSI at 2 Ne 12.5 (Isaiah 53:6)"
+        ],
         "status": "consensus",
-        "citationsPending": true,
         "streams": [
-          "manual"
+          "manual",
+          "scholarship"
+        ],
+        "composite": [
+          "Isaiah 53:6"
         ]
       }
     ],

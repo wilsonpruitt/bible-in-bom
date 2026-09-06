@@ -226,15 +226,20 @@
           "route": "Isaiah 51 → KJV → Book of Mormon",
           "significance": "Part of a continuous transcription of Isaiah 51 as 2 Nephi 8. The quotation is not the finding; the departures are, and they are listed in the note and registered individually in data/isaiah-collation.json."
         },
-        "note": "1 departure(s) from the KJV: KJV “is” → “I have written”.",
+        "note": "1 departure(s) from the KJV: KJV “is” → “I have written”. The departure is the finding, and it is not a paraphrase: KJV Isaiah 51:7 has “the people in whose heart IS my law”, and this reads “in whose heart I HAVE WRITTEN my law”, which is Jeremiah 31:33's “I will put my law in their inward parts, and write it in their hearts”. A transcription of one prophet takes up another's verb at the one word where it leaves its exemplar. Hardy's apparatus cross-references Jeremiah 31:33 at this verse.",
         "variants": [
           "2-nephi-8:7-a"
         ],
-        "bibliography": [],
+        "bibliography": [
+          "Hardy MSI at 2 Ne 8.7 (Jeremiah 31:33)"
+        ],
         "status": "consensus",
-        "citationsPending": true,
         "streams": [
-          "manual"
+          "manual",
+          "scholarship"
+        ],
+        "composite": [
+          "Jeremiah 31:33"
         ]
       }
     ],

@@ -1,0 +1,102 @@
+[
+  {
+    "bomRef": "2 Nephi 29:3",
+    "source": "n/a — no KJV source exists",
+    "category": "insufficient-verbal",
+    "sharedText": "Bible",
+    "streams": [
+      "manual"
+    ],
+    "reason": "Registered as a deliberate negative finding, because this is the most quoted verse in the chapter and the temptation is to catalogue it. 'A Bible, a Bible, we have got a Bible, and there cannot be any more Bible' quotes nothing. The word 'Bible' does not occur in the King James Version at all — not once, in either Testament — so the sentence that gives 2 Nephi 29 its popular name has no biblical source and cannot have one. Nor is the surrounding rhetoric borrowed: the trebled noun, the possessive boast and the inference drawn from it are the Book of Mormon's own composition. What IS borrowed in this chapter arrives on either side of verse 3 — Isaiah 29:14 and Isaiah 11:11 at verse 1, Isaiah 5:26 and 49:22 at verse 2, Luke 24:25 at verse 4 — so the chapter's centre is precisely the point at which it stops quoting. Worth stating plainly: a reader who assumes the famous line must be scriptural in origin is wrong, and the exclusion register is where that is recorded."
+  },
+  {
+    "bomRef": "2 Nephi 29:5",
+    "source": "Isaiah 49:25",
+    "category": "insufficient-verbal",
+    "sharedText": "I will contend with him that contendeth with thee",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "The stream reached for Isaiah 49's promise that the Lord will save the children of those who oppress Zion, which is thematically close to 'I will return all these things upon your own heads' and shares no wording with it. Isaiah 49 is quoted at length elsewhere in this book (Jacob at 2 Nephi 6:6-7, 2 Nephi 6:16-18), which makes the association natural and still does not make it verbal. The link at 29:5 is filed at Joel 3:7, whose 'upon your own head' is one of the KJV's three."
+  },
+  {
+    "bomRef": "2 Nephi 29:7",
+    "source": "Esther 10:1",
+    "category": "better-source-identified",
+    "sharedText": "the isles of the sea",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "'The isles of the sea' occurs in exactly two KJV verses and Esther 10:1 is the other one — Ahasuerus laying tribute on the land and on the isles of the sea. It is excluded on sense, not on rarity: Esther's isles are a revenue district and 29:7's are a place where the Lord remembers a people. Isaiah 24:15's isles, where the name of the LORD God of Israel is glorified, are the only KJV isles that could be meant, and Hardy cross-references that verse here. Recorded because a phrase confined to two verses will always draw the machine to both, and the register should say why one was taken."
+  },
+  {
+    "bomRef": "2 Nephi 29:7",
+    "source": "Leviticus 19:2",
+    "category": "formulaic",
+    "sharedText": "I the LORD your God",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "The divine self-identification formula, which the KJV uses dozens of times and Leviticus alone uses as a refrain through the whole Holiness Code. Five words of it are shared with 29:7 and nothing else is; Leviticus 19:2 commands holiness, 29:7 asserts that God created all men. Covered in principle by the standing formulaic exclusions."
+  },
+  {
+    "bomRef": "2 Nephi 29:8",
+    "source": "Deuteronomy 19:15",
+    "category": "better-source-identified",
+    "sharedText": "at the mouth of two witnesses… shall the matter be established",
+    "streams": [
+      "manual"
+    ],
+    "reason": "This was the obvious source to reach for and it is the wrong one to file the link at. The two-witness rule is Deuteronomy's — 17:6 and 19:15 — and it is unquestionably the law 29:8 is reasoning from. But the KJV's Deuteronomy says 'at the mouth of two witnesses, or at the mouth of three witnesses, shall the matter be established', with no 'testimony' anywhere in it, while 29:8 says 'the testimony of two nations' twice. 'The testimony of two' occurs in exactly one KJV verse, John 8:17, where Christ cites the same law against the Pharisees in an argument about whether one witness can establish anything. The link is filed at John 8:17 with the Deuteronomy verses as composite, and the mediation is recorded as OT-via-NT on that evidence."
+  },
+  {
+    "bomRef": "2 Nephi 29:11",
+    "source": "Acts 17:31",
+    "category": "better-source-identified",
+    "sharedText": "he will judge the world",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "Acts 17:31 — 'he hath appointed a day, in the which he will judge the world in righteousness' — shares four words with 29:11's 'I will judge the world' and is a real candidate, since Paul on the Areopagus is also arguing to Gentiles about a God who is not confined to one nation. It is superseded rather than dismissed. 29:11 judges the world specifically 'out of the books which shall be written… according to that which is written', which is Revelation 20:12's assize: 'the dead were judged out of those things which were written in the books, according to their works' occurs in exactly one KJV verse. Acts has the judgment and Revelation has the books, and the books are what the verse is about."
+  },
+  {
+    "bomRef": "2 Nephi 29:11",
+    "source": "Revelation 20:13",
+    "category": "better-source-identified",
+    "sharedText": "every man according to their works",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "Not a rejection but a redirection: Revelation 20:13 is genuinely present at 29:11 and is recorded as composite on the Revelation 20:12 link rather than as a link of its own, because 20:12 supplies the books and 20:13 only the measure. Note also that Revelation 20:13's 'judged every man according to their works' has already been adjudicated in this book at 2 Nephi 28:23, where the same pair of Revelation verses is used for the judgment of the damned; ADJUDICATING §4's rule about repeats within a book is why it is not argued again here."
+  },
+  {
+    "bomRef": "2 Nephi 29:14",
+    "source": "Genesis 9:16",
+    "category": "common-vocabulary",
+    "sharedText": "everlasting covenant",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "'Everlasting covenant' occurs in fifteen KJV verses and Genesis 9:16's is the rainbow given to Noah and every living creature — the opposite of the particular covenant 29:14 invokes, which is with Abraham and his seed. The stream ranked it twice for the chapter. The link is filed at Genesis 17:7, on substance rather than on wording, and its `kjvSpecific` is set to 'no' for exactly the reason this exclusion gives: the covenant vocabulary here is too widely distributed to identify any English version, let alone any one verse."
+  },
+  {
+    "bomRef": "2 Nephi 29:14",
+    "source": "Numbers 25:11",
+    "category": "formulaic",
+    "sharedText": "the children of Israel",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "A four-word run consisting of the KJV's commonest noun phrase. Numbers 25:11 is Phinehas turning away wrath; 29:14 is the house of Israel gathered home. Covered by the standing formulaic exclusions and listed only because the stream returned it among the chapter's top candidates, which is a useful measure of how little the machine had to offer for a chapter whose real borrowings are almost all in verses 1, 2 and 11."
+  },
+  {
+    "bomRef": "2 Nephi 29:9",
+    "source": "Hebrews 13:8",
+    "category": "better-source-identified",
+    "sharedText": "the same yesterday, to-day, and forever",
+    "streams": [
+      "manual"
+    ],
+    "reason": "Adjudicated at 2 Nephi 27:23, where the formula first enters this book, and recorded there in recurrenceRefs. “yesterday, and to day, and for ever” occurs in exactly one KJV verse; by 29:9 Nephi is using his own settled formula — the corpus has already printed it without Hebrews' second conjunction at 1 Nephi 10:18 and at 27:23 — so this is not a fresh borrowing (ADJUDICATING §4). What IS particular to 29:9 belongs on the record even so: Hebrews 13:8 is a statement about a person, and 29:9 makes it a statement about a practice, the premise for saying revelation has not stopped — “because that I have spoken one word, ye need not suppose that I cannot speak another.” That inverts the verse's usual devotional use, and Hebrews' own next verse warns against being “carried about with divers and strange doctrines”, so the sentence used here to argue for more scripture sits, in its source, beside a caution against novelty. Collapsed by the dispatching session, which the chapter-29 pass could not do itself: it wrote the link and flagged it, because chapter 27 was being adjudicated in parallel and an exclusion pointing at an adjudication that might not exist is worse than a link that might be redundant."
+  }
+]
