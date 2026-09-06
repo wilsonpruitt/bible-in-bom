@@ -91,6 +91,15 @@ def main() -> None:
         if f.exists():
             try: names[json.loads(f.read_text())["name"]] = s
             except Exception: pass
+    # A slug with no data file used to leave `names` empty, and an empty `names`
+    # means "audit everything" — so asking for one un-bootstrapped book silently
+    # audited the whole corpus and reported its totals as that book's. Found
+    # 2026-09-06 on Mosiah, which reported 35 suspects before it had a data file
+    # and 13 after. Same shape as the "0 Hardy rows" trap: a number that looks
+    # like an answer.
+    if args.slugs and not names:
+        sys.exit(f"no data file for {', '.join(args.slugs)} — run tools/bootstrap-book.py first "
+                 f"(auditing without one would silently scan every book)")
 
     # Verse order per book, so a "window" means neighbouring verses.
     order = {}
