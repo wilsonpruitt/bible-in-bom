@@ -159,6 +159,40 @@ def main() -> None:
                     if span in bom_norm:
                         if present == "a": in_a = True
                         else: in_b = True
+            # An OMISSION is evidence too, and the first version of this tool
+            # could not see it. Where one candidate has words the other lacks and
+            # the Book of Mormon ALSO lacks them, that favours the candidate that
+            # omits — provided the Book of Mormon is demonstrably tracking this
+            # stretch of the verse, which we test by requiring the words on both
+            # sides of the gap to be present. Found on the Jacob 1:7 pass: Psalm
+            # 95:8 reads "as in the provocation, AND AS IN the day of temptation",
+            # Hebrews 3:8 drops "and as", and Jacob drops it too.
+            if not in_a and not in_b and is_insertion:
+                span, side = (an, "a") if an else (bn, "b")
+                # Rarity is the wrong bar here. "and as" is two stopwords, and
+                # dropping them is still a real difference between two renderings
+                # of one sentence. What protects against noise is not the span's
+                # rarity but the FLANKING test below: the Book of Mormon must be
+                # reproducing the words on either side of the gap, so the omission
+                # is demonstrably at this point and not just a short verse missing
+                # common words.
+                if span and span not in bom_flat:
+                    src_words = [norm(w) for w in (a if side == "a" else b)]
+                    lo = i1 if side == "a" else j1
+                    hi = i2 if side == "a" else j2
+                    before = src_words[lo - 1] if lo > 0 else None
+                    after = src_words[hi] if hi < len(src_words) else None
+                    present = [w for w in (before, after) if w is not None]
+                    flanked = (bool(present)
+                               and all(w in bom_norm for w in present)
+                               # at least one flank must be a content word, or the
+                               # "match" is just function words either side of a gap
+                               and any(w not in stop for w in present))
+                    if flanked:
+                        # The side WITHOUT the span is the one the BoM agrees with.
+                        if side == "a": in_b = True
+                        else: in_a = True
+
             if in_a and not in_b:
                 verdict, mark = f"BoM has {base}'s form", "  ◀── DECISIVE"
                 decisive.append((base, av, other, bv))

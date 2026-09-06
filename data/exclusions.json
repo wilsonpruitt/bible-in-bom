@@ -2937,6 +2937,557 @@
         "machine-ngram"
       ],
       "reason": "'Stand before' God or a king is among the commonest constructions in the KJV. Daniel 11:16 is about the king of the north and says the opposite — 'none shall stand before him' — so even the polarity is wrong."
+    },
+    {
+      "bomRef": "Jacob 1:2",
+      "source": "2 Chronicles 7:14",
+      "category": "formulaic",
+      "sharedText": "people which are called",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "A four-word run of KJV relative-clause boilerplate. 2 Chronicles 7:14 is the Solomonic promise to a people 'called by my name'; Jacob 1:2 is a colophon distinguishing one record from another. Nothing but the relative construction is shared."
+    },
+    {
+      "bomRef": "Jacob 1:7",
+      "source": "Psalm 33:5",
+      "category": "common-vocabulary",
+      "sharedText": "of the goodness of",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "'Partake of the goodness of God' has no KJV source. 'The goodness of God' occurs in exactly two KJV verses, Psalm 52:1 and Romans 2:4, and neither is being drawn on: Psalm 52:1 taunts a mighty man, and Romans 2:4's goodness leads to repentance rather than being partaken of. Psalm 33:5's 'the goodness of the LORD' is a different phrase filling the earth. The partaking in Jacob 1:7 belongs to the Hebrews 3 argument catalogued at that verse ('partakers of the heavenly calling', 3:1; 'partakers of Christ', 3:14), not to any goodness verse."
+    },
+    {
+      "bomRef": "Jacob 1:7",
+      "source": "1 Kings 20:39",
+      "category": "better-source-identified",
+      "sharedText": "by any means he",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "The four-word run is real but the governing phrase is 'lest by any means', which occurs in exactly three KJV verses and all three are Pauline (1 Corinthians 8:9, 2 Corinthians 11:3, Galatians 2:2). 1 Kings 20:39 has 'if by any means he be missing' in a parable about a guarded prisoner. Superseded by the Hebrews 3:8 link at this verse, which carries the Pauline phrase in its provenance."
+    },
+    {
+      "bomRef": "Jacob 1:8",
+      "source": "Deuteronomy 4:25",
+      "category": "common-vocabulary",
+      "sharedText": "to provoke him to anger",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "'Provoke him to anger' occurs in exactly six KJV verses and the wider formula ('provoked the LORD to anger', 'provoke me to anger') runs through Deuteronomy, Judges, Kings and Jeremiah in dozens of places. It is the standard Deuteronomistic idiom for apostasy and points at no particular verse. Deuteronomy 4:25's specific content — graven images made by a settled generation — is not in view at Jacob 1:8."
+    },
+    {
+      "bomRef": "Jacob 1:9",
+      "source": "1 Samuel 18:23",
+      "category": "wrong-sense",
+      "sharedText": "to be a king",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "The shared string is four common words split across a clause boundary in the KJV: David's 'to be a king's son in law' is not 'to be a king'. The candidate is an artifact of the possessive. The real background of Jacob 1:9 is 2 Chronicles 6:5, whose 'man to be a ruler over' is a KJV singleton, plus the Samuel anointing formula of 1 Samuel 9:16 — both carried on the accepted link."
+    },
+    {
+      "bomRef": "Jacob 1:11",
+      "source": "2 Chronicles 1:8",
+      "category": "common-vocabulary",
+      "sharedText": "reign in his stead",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "A tempting candidate, and worth the entry. 'Reign in his stead' in that exact form occurs in exactly one KJV verse — 2 Chronicles 1:8, Solomon on succeeding David — which looks like a singleton and which is thematically apt, since Jacob 1:15 goes on to David and Solomon. But the singleton is an accident of tense: 'reigned in his stead' occurs in exactly 63 KJV verses, the regnal formula of Genesis 36, Kings and Chronicles, and Jacob 1:11 is using the formula, not the one verse that happens to inflect it as an infinitive. Recorded here rather than as a link because no single source can be named; the phrase belongs in the Index Verborum."
+    },
+    {
+      "bomRef": "Jacob 1:13",
+      "source": "1 Kings 12:31",
+      "category": "wrong-sense",
+      "sharedText": "the people which were not",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "Five words, and the sense is opposed at the point that matters. 1 Kings 12:31's clause is 'priests of the lowest of the people, which were not of the sons of Levi' — a negation about priestly descent, marking Jeroboam's illegitimacy. Jacob 1:13's is 'the people which were not Lamanites, were Nephites' — a definition of an ethnonym. The run ends exactly where the two sentences diverge."
+    },
+    {
+      "bomRef": "Jacob 1:15",
+      "source": "2 Chronicles 36:20",
+      "category": "formulaic",
+      "sharedText": "the reign of the",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "Pure connective tissue; 'the reign of the' is how the KJV dates anything. 2 Chronicles 36:20 concerns the Babylonian deportation and shares no content word with the second Nephite king."
+    },
+    {
+      "bomRef": "Jacob 1:19",
+      "source": "Proverbs 4:23",
+      "category": "wrong-sense",
+      "sharedText": "with all diligence",
+      "streams": [
+        "manual"
+      ],
+      "reason": "The strongest-looking candidate in the verse and it should be declined. 'With all diligence' occurs in exactly one KJV verse, Proverbs 4:23 — 'Keep thy heart with all diligence; for out of it are the issues of life' — and a KJV singleton is normally decisive evidence in this catalogue. But the singleton is adverbial boilerplate attached to an unrelated imperative: Proverbs guards an inward heart, Jacob teaches an outward people the word of God. Nothing else of Proverbs 4 is present, and the phrase is ordinary English of the period independent of the KJV. Filed as the model of a singleton that proves nothing."
+    },
+    {
+      "bomRef": "Jacob 1:19",
+      "source": "1 Thessalonians 2:9",
+      "category": "formulaic",
+      "sharedText": "we would not be",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "Four words of connective negation. Paul's 'we would not be chargeable unto any of you' and Jacob's 'we would not be found spotless' share only the auxiliary construction, and the same run appears at Genesis 42:21. What is genuinely borrowed in Jacob's clause is 2 Peter 3:14's 'found … without spot', catalogued as a link."
+    },
+    {
+      "bomRef": "Jacob 3:1",
+      "source": "Proverbs 30:12",
+      "category": "better-source-identified",
+      "sharedText": "that are pure in",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "The chapter's top machine candidate, and genuinely tempting: Proverbs 30:12 is the only KJV verse that sets purity against filthiness in one sentence — “a generation that are pure in their own eyes, and yet is not washed from their filthiness” — and purity against filthiness is exactly the opposition Jacob 3:1-3 is built on. It is declined because the shared four words break across incompatible constructions (Proverbs has pure in one's own EYES, Jacob pure in HEART) and because the real source of the phrase is a KJV singleton: “pure in heart” occurs once in the Bible, at Matthew 5:8, which is catalogued as a link at this verse. “Filthiness” is a fifteen-verse word and is in any case the Book of Mormon's own leading term in this passage rather than a borrowing."
+    },
+    {
+      "bomRef": "Jacob 3:4",
+      "source": "Isaiah 57:13",
+      "category": "common-vocabulary",
+      "sharedText": "shall possess the land",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "“Possess the land” is Deuteronomic boilerplate, drawn here by both Isaiah 57:13 and Amos 2:10 at identical scores, which is itself the sign that no one verse is in view. The Book of Mormon's own formula is “the land of your inheritance”, used continuously from 1 Nephi onward, and the threat that an enemy will possess it is the standard covenant curse rather than a citation. Nothing distinctive is shared with either candidate."
+    },
+    {
+      "bomRef": "Jacob 3:5",
+      "source": "Psalm 78:5",
+      "category": "formulaic",
+      "sharedText": "our fathers that they should",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "A five-word run and the highest n-gram score at the verse, produced entirely by a relative clause of commandment-transmission that the KJV uses everywhere (compare Nehemiah 9:23, which the same stream returned at the same verse for the same reason). Psalm 78:5 is about a testimony established in Jacob — the patriarch — which is likely why it scored, and that is a coincidence of the speaker's name. The verse's real sources are Ezekiel 16:52 and 1 Samuel 24:17, both catalogued. Worth noting for the record that 1830 reads “our fathers” where 1920 prints “our father”, so the string the machine matched exists only in the first edition."
+    },
+    {
+      "bomRef": "Jacob 3:6",
+      "source": "2 Chronicles 12:7",
+      "category": "common-vocabulary",
+      "sharedText": "will not destroy them but",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "Scored 2.00 and is the closest the machine came to a real find at this verse, because the sense as well as the string is parallel: God sees a people's conduct and therefore “I will not destroy them, but I will grant them some deliverance”. Declined because “not destroy them” occurs in three KJV verses (2 Kings 13:23, 2 Chronicles 12:7, and by paraphrase Isaiah 65:8) and the relenting formula is common well beyond those, while the conditions could hardly be less alike — Rehoboam's princes humbling themselves before Shishak, against Lamanite monogamy. The argument of Jacob 3:5-6, obedience answered by mercy and a future blessing, is catalogued instead at 3:5 against Genesis 22:16-18."
+    },
+    {
+      "bomRef": "Jacob 3:7",
+      "source": "Ezekiel 16:45",
+      "category": "better-source-identified",
+      "sharedText": "their husbands and their",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "A real curiosity rather than a link, and it deserves the space. Ezekiel 16 IS a source in this chapter — 16:52 supplies the KJV singleton behind “are more righteous than you” seven verses earlier — so a second contact seven verses further up the same chapter looks like corroboration. It is not. Ezekiel 16:45's sisters “lothed their husbands and their children”; Jacob 3:7's Lamanites love theirs. The polarity is exactly inverted, the shared words are three function-heavy ones, and the wording Jacob actually uses is Titus 2:4's, whose two halves (“love their husbands”, “love their children”) are each KJV singletons. Filed here because a reader who has just accepted the Ezekiel 16 link at 3:5 is precisely the reader who would accept this one."
+    },
+    {
+      "bomRef": "Jacob 3:8",
+      "source": "Psalm 51:7",
+      "category": "insufficient-verbal",
+      "sharedText": "whiter than",
+      "streams": [
+        "manual"
+      ],
+      "reason": "Proposed by us, not by the machine, and rejected in order to state the point plainly rather than leave it implied. “Whiter than” occurs in exactly two KJV verses: Psalm 51:7 (“wash me, and I shall be whiter than snow”) and Lamentations 4:7 (the Nazarites “whiter than milk”). Psalm 51 is attractive because it is David's psalm after Bathsheba and this is a sermon on sexual sin, so a chastity sermon reaching for whiteness might be expected to reach there. But Jacob 3:8 completes the comparison with “than yours” and applies it to skin, and no KJV verse compares the complexions of two peoples. The right catalogue entry for the passage is what has a source and what does not: the venue clause “before the throne of God” has one (Revelation 7:15, and see the link at this verse), and the racial vocabulary of 3:5-9 has none. Handled as at 1 Nephi 12:23 — the language is the Book of Mormon's own and is not catalogued as scriptural."
+    },
+    {
+      "bomRef": "Jacob 3:9",
+      "source": "Ephesians 6:17",
+      "category": "common-vocabulary",
+      "sharedText": "which is the word of God",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "A six-word run and the second-highest score at the verse, and it means nothing: “the word of God” is among the commonest phrases in the KJV, and the relative that attaches it here is a relative clause, not a citation. Ephesians 6:17's referent is the sword of the Spirit; Jacob's is a commandment about how to speak of the Lamanites. The verse's identifying phrase is the singleton at its head, “commandment I give unto you” (John 13:34), which is catalogued."
+    },
+    {
+      "bomRef": "Jacob 3:13",
+      "source": "Nehemiah 5:11",
+      "category": "wrong-sense",
+      "sharedText": "hundredth part",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "“Hundredth part” occurs in exactly one KJV verse, and a singleton is normally the strongest evidence this catalogue has — which is why the entry is worth writing. Nehemiah 5:11 is a rate of interest: the nobles are to restore “the hundredth part of the money, and of the corn, the wine, and the oil, that ye exact of them”. Jacob 3:13's hundredth part is a measure of how little of a record fits on a plate, and it is a Book of Mormon formula with its own life — Words of Mormon 1:5, Helaman 3:14, 3 Nephi 5:8, Ether 15:33 — introduced here at its first use. A rare phrase in an unrelated sense, and the model case for why frequency alone never decides."
+    },
+    {
+      "bomRef": "Jacob 6:1",
+      "source": "1 Kings 13:32",
+      "category": "common-vocabulary",
+      "sharedText": "shall surely come to pass",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "A genuine KJV singleton — 'surely come to pass' occurs in exactly one verse — and therefore exactly the kind of candidate CONVENTIONS §5 says must be written up rather than passed over. It is still nothing. 1 Kings 13:32 is the man of God's oracle against the altar at Bethel and the high places of Samaria; Jacob 6:1 says that Zenos's allegory of the olive tree 'must surely come to pass'. Nothing is shared but a formula for the certainty of prophecy, and the singleton is an artifact of the KJV's preference for 'shall surely come to pass' over the commoner 'shall come to pass' (which it uses several hundred times). A rarity count is evidence about a phrase, not about a link, and this is the case that shows the difference."
+    },
+    {
+      "bomRef": "Jacob 6:2",
+      "source": "Isaiah 42:13",
+      "category": "wrong-sense",
+      "sharedText": "the Lord shall go forth",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "Scored second in the verse at 2.00 and the sense is opposed at the subject. Isaiah 42:13 has the LORD himself going forth 'as a mighty man' to stir up jealousy and prevail against his enemies; Jacob 6:2 has 'the servants of the Lord' going forth in his power to nourish and prune. The shared four words are a possessive plus a verb of motion, and the agreement disappears the moment the next word is read: Isaiah's warrior against Jacob's gardeners. The verse's real borrowing is the ten-word run from Isaiah 11:11 that the same stream also found."
+    },
+    {
+      "bomRef": "Jacob 6:2",
+      "source": "Leviticus 25:3",
+      "category": "insufficient-verbal",
+      "sharedText": "prune … vineyard",
+      "streams": [
+        "manual"
+      ],
+      "reason": "Recorded because the rarity is real and tempting. 'Prune' occurs in exactly three KJV verses — Leviticus 25:3, 25:4 and Isaiah 5:6 — and Leviticus 25:3-4 is the only place the KJV puts the verb next to a vineyard, which is what Jacob 6:2 does ('to nourish and prune his vineyard'). But Leviticus 25 is sabbath-year legislation about when a farmer may and may not work his land, with no eschatology, no servants and no house of Israel, and the collocation is what any English writer would produce who needed a verb for vineyards. The proximate model is Jacob 5, where the Lord of the vineyard prunes and digs and nourishes for seventy-seven verses; Isaiah 5:6's unpruned vineyard is recorded with the Isaiah 5:7 link at 6:3 as the KJV background that actually bears."
+    },
+    {
+      "bomRef": "Jacob 6:3",
+      "source": "Matthew 8:12",
+      "category": "better-source-identified",
+      "sharedText": "shall be cast out into",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "Five words, and the sixth decides against it. Matthew 8:12 casts the children of the kingdom out 'into outer darkness'; Jacob 6:3 casts the cursed out 'into their own place'. The completion is not Matthew's and the image is not Matthew's — darkness against a location. The phrase Jacob is using is his own book's: Zenos at Jacob 5:77 has the bad branches 'cast away into its own place', four verses before Jacob begins speaking, and the reader met it minutes ago. This is the within-a-book repeat that ADJUDICATING §4 says to adjudicate at first use and register here. If a Bible source is wanted for 'his own place' the KJV offers four verses, of which Acts 1:25 (Judas going 'to his own place') is the only judicial one; four occurrences will not identify a source."
+    },
+    {
+      "bomRef": "Jacob 6:4",
+      "source": "Isaiah 65:2",
+      "category": "better-source-identified",
+      "sharedText": "stretched forth … hands … all the day … people",
+      "streams": [
+        "manual"
+      ],
+      "reason": "The obvious source and the wrong one, and saying so is the chapter's principal finding rather than a rejection. Isaiah 65:2 is the Old Testament verse behind Jacob 6:4's outstretched hands, but the Book of Mormon does not have Isaiah's English. Isaiah reads 'I have spread out my hands all the day unto a rebellious people'; Jacob reads 'he stretches forth his hands unto them, all the day long: and they are a stiffnecked, and a gainsaying people'. 'Stretched forth my hands' is a KJV singleton at Romans 10:21 and 'gainsaying people' is a KJV singleton at Romans 10:21; Isaiah has neither expression. The link is therefore filed at Romans 10:21 with mediation OT-via-NT, and Isaiah 65:2 is carried there as a composite. Note that tools/mediation-check.py could not resolve this pair, because the Book of Mormon shifts Paul's first person into the third and a word-level aligner then sees the Book of Mormon agreeing with neither; the rarity counts settle it without ambiguity."
+    },
+    {
+      "bomRef": "Jacob 6:4",
+      "source": "Deuteronomy 28:32",
+      "category": "common-vocabulary",
+      "sharedText": "them all the day long",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "The top-ranked machine candidate in the verse at 1.41, and it is a phrase, not a link. 'All the day long' occurs in thirteen KJV verses, eight of them in the Psalms, and Deuteronomy 28:32 uses it of parents whose eyes fail with longing for children sold into slavery. The five-word run only reaches six words because Jacob's pronoun 'them' happens to precede it as Deuteronomy's does. A textbook case of CONVENTIONS §9: rare-looking boilerplate outscoring the real source, which in this verse is Romans 10:21 and which the n-gram stream did not return at all, because the Book of Mormon's change of person breaks every contiguous window."
+    },
+    {
+      "bomRef": "Jacob 6:5",
+      "source": "Job 22:2",
+      "category": "wrong-sense",
+      "sharedText": "unto God as he",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "Four words spanning a clause boundary in both texts and joining nothing. Jacob's 'cleave unto God as he cleaveth unto you' ends one clause at 'God' and begins a comparison at 'as he'; Eliphaz's 'Can a man be profitable unto God, as he that is wise may be profitable unto himself' does the same at the same words, and the sense is a rhetorical denial that God gains anything from human righteousness — the opposite of the reciprocity Jacob is asserting. The verse's real source is Acts 11:23, the KJV's one verse joining purpose of heart to cleaving, which the n-gram stream did not rank."
+    },
+    {
+      "bomRef": "Jacob 6:6",
+      "source": "Psalm 95:7",
+      "category": "better-source-identified",
+      "sharedText": "to day if ye will hear his voice, harden not your heart(s)",
+      "streams": [
+        "machine-ngram",
+        "manual"
+      ],
+      "reason": "The Psalm is the ultimate source and not the proximate one, and the whole of the case is a plural. 'Harden not your hearts' occurs in exactly three KJV verses — Hebrews 3:8, 3:15 and 4:7 — and in no Old Testament verse; Psalm 95:8 reads the singular, 'Harden not your heart'. Jacob 6:6 has the plural, so the twelve-word run is the epistle's rendering of the Psalm and not the Psalm. Among the three Hebrews verses, 4:7 is the one where the quotation from David terminates at 'hearts' with no 'as in the provocation' following, which is where Jacob's also stops; 3:8 and 3:15 both continue. Filed as a quotation at Hebrews 4:7 with Hebrews 3:15 and Psalm 95:7 as composites, mediation OT-via-NT. Note that tools/mediation-check.py returned no decisive divergence here: the KJV's versification splits the sentence between Psalm 95:7 and 95:8, so a comparison run against 95:7 never sees the singular that decides the question."
+    },
+    {
+      "bomRef": "Jacob 6:7",
+      "source": "Matthew 3:10",
+      "category": "better-source-identified",
+      "sharedText": "hewn down, and cast into the fire",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "Matthew 3:10, Matthew 7:19 and Luke 3:9 are the three KJV verses carrying this seven-word run, and the n-gram stream ranked all three identically at 1.12 because on the run alone they are indistinguishable. A second rarity breaks the tie. Jacob 6:7 also has 'bring forth evil fruit', which is a KJV singleton at Matthew 7:18 — the verse standing immediately before Matthew 7:19. Neither Matthew 3:10 nor Luke 3:9 has a neighbour supplying 'evil fruit'; both read 'bringeth not forth good fruit'. So the source is the Sermon on the Mount, not the Baptist's preaching, and the difference is substantive: Matthew 3:10 and Luke 3:9 threaten the Pharisees with an axe at the root, while Matthew 7:15-20 is teaching a congregation to recognise false prophets by their fruit, which is the subject Jacob 6:8 turns to in the next breath. Filed at Matthew 7:19 with 7:18 as composite; Luke 3:9 is excluded on the same reasoning."
+    },
+    {
+      "bomRef": "Jacob 6:8",
+      "source": "1 Corinthians 1:24",
+      "category": "common-vocabulary",
+      "sharedText": "the power of God and the",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "Top-ranked in the verse at 1.15 and it is a list joint. Jacob 6:8 is running a series — 'the good word of Christ, and the power of God, and the gift of the Holy Ghost' — so 'the power of God, and the' is the seam between two items and carries no content. 1 Corinthians 1:24 has the phrase inside a genuine christological claim ('Christ the power of God, and the wisdom of God') that Jacob does not make. The verse's real borrowings are 1 Thessalonians 5:19, whose 'quench … the Spirit' is a KJV singleton, and Acts 2:38 / 10:45 for 'the gift of the Holy Ghost'; the phrase 'plan of redemption' that the sentence is actually arguing for occurs in no KJV verse at all."
+    },
+    {
+      "bomRef": "Jacob 7:3",
+      "source": "Joshua 7:5",
+      "category": "wrong-sense",
+      "sharedText": "the hearts of the people",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "A genuine rarity — 'hearts of the people' occurs in exactly one KJV verse — and therefore exactly the kind of candidate a careful reader accepts. The sense is opposed. At Ai the hearts of the people 'melted, and became as water' in defeat; Sherem 'did lead away many hearts' by persuasion. Joshua's idiom is courage failing, the Book of Mormon's is allegiance transferred, and nothing else in the two verses touches. A singleton is not by itself an argument."
+    },
+    {
+      "bomRef": "Jacob 7:4",
+      "source": "2 Timothy 1:8",
+      "category": "common-vocabulary",
+      "sharedText": "according to the power of",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "'According to the power' occurs in three KJV verses and the construction 'according to the power of X' is ordinary KJV English. The apparent piquancy — Paul's 'according to the power of God' against Sherem's 'according to the power of the Devil' — is a coincidence of a common frame taking the two commonest objects, not an inversion of a source. 2 Timothy 1:8 is about suffering for the gospel and has nothing to do with eloquence or flattery."
+    },
+    {
+      "bomRef": "Jacob 7:11",
+      "source": "Luke 14:24",
+      "category": "formulaic",
+      "sharedText": "I say unto you, that none of",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "Seven words, and the string 'I say unto you, that none of' occurs in exactly one KJV verse, so the n-gram stream ranked it first in the verse at 2.03. It is still boilerplate: 'I say unto you that' is the Book of Mormon's standard preface and 'none of' is the ordinary negative quantifier. Luke 14:24 is the close of the parable of the great supper and concerns bidden guests tasting a meal; the shared material stops at the join. The real source of Jacob 7:11 is John 5:39, adjudicated at this verse."
+    },
+    {
+      "bomRef": "Jacob 7:16",
+      "source": "James 4:14",
+      "category": "better-source-identified",
+      "sharedText": "on the morrow, for",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "Tempting for the wrong verse. James 4:14 joins ignorance of the morrow to the brevity of life — 'what is your life? It is even a vapour' — and the chapter does return to the brevity of life at 7:26. But at 7:16 the shared string is only the connective 'on the morrow, for', and Sherem is not ignorant of his morrow; he is announcing it. Where the chapter does take up the figure, at 7:26, the image is a dream and the verb is 'passed away', which is Psalm 90:9's and Job 20:8's, not James's vapour. Recorded there as the declined alternative."
+    },
+    {
+      "bomRef": "Jacob 7:17",
+      "source": "Numbers 17:8",
+      "category": "formulaic",
+      "sharedText": "and it came to pass that on the morrow",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "The longest n-gram run in the chapter, nine words, and 'that on the morrow' occurs in exactly one KJV verse — which is precisely the trap. The run is the Book of Mormon's universal narrative connective plus a date. Numbers 17:8 is Aaron's rod budding in the tabernacle; the Book of Mormon verse is a crowd assembling to hear a dying man recant. There is no contact beyond the join. Covered in principle by the standing connective exclusion at 1 Nephi 2:1 and recorded here only because the rarity score invites acceptance."
+    },
+    {
+      "bomRef": "Jacob 7:15",
+      "source": "2 Samuel 1:2",
+      "category": "better-source-identified",
+      "sharedText": "that he fell to the earth",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "The machine ranked this first in the verse on a seven-word run, but 2 Samuel 1:2's man falls to the earth and does obeisance to David — a deliberate act of homage, with his clothes rent and earth on his head. Sherem is struck down. The KJV's one instance of an involuntary collapse under divine power is Acts 9:4, 'and he fell to the earth', which occurs in exactly one KJV verse and which the surrounding narrative (nourished for many days, then confession) confirms. Adjudicated to Acts 9:4 at this verse."
+    },
+    {
+      "bomRef": "Jacob 7:20",
+      "source": "Genesis 25:17",
+      "category": "better-source-identified",
+      "sharedText": "and he gave up the ghost",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "'Gave up the ghost' occurs in ten KJV verses, so the phrase cannot pick its own source; the stream chose Genesis 25:17 because 'and he gave up the ghost' with the conjunction occurs in exactly one KJV verse. But Genesis 25:17 is a genealogical formula for Ishmael dying old and full of days, gathered to his people. Sherem dies under judgment immediately after confessing that he lied unto God, which is the sequence of Acts 5:4-5. Adjudicated to Acts 5:5 at this verse."
+    },
+    {
+      "bomRef": "Jacob 7:21",
+      "source": "Acts 20:3",
+      "category": "formulaic",
+      "sharedText": "as he was about to",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "'As he was about to' occurs in exactly one KJV verse, which is why it scored 1.50 and led the verse — and it is pure temporal connective. Acts 20:3 is Paul changing his travel plans to avoid a Jewish ambush before sailing for Syria; the Book of Mormon has a man about to die. Neither the subject, the action, nor the setting touches. The verse's real contact is with Acts 5:11, adjudicated here."
+    },
+    {
+      "bomRef": "Jacob 7:27",
+      "source": "Ezekiel 20:17",
+      "category": "wrong-sense",
+      "sharedText": "I make an end of",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "'I make an end of' occurs in exactly one KJV verse, and the sense is opposed in the most consequential way. In Ezekiel 20:17 God does NOT make an end — 'neither did I make an end of them in the wilderness' — so the KJV's only instance of the phrase is a negation, and the object is a people spared destruction. Jacob makes an end of his writing. The colophon idiom is the Book of Mormon's own (compare 1 Nephi 9:5, Enos 1:26) and needs no biblical source."
+    },
+    {
+      "bomRef": "Jacob 4:1",
+      "source": "Numbers 33:56",
+      "category": "formulaic",
+      "sharedText": "to pass that I",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "The top-ranked candidate for the verse is four words of narrative hinge inside 'it came to pass, that I, Jacob'. Covered by the standing exclusion for KJV connective formulae; recorded here only because it was the chapter's highest-scoring machine proposal and a reader of the dossier will wonder why nothing came of it."
+    },
+    {
+      "bomRef": "Jacob 4:3",
+      "source": "Isaiah 5:1-7",
+      "category": "better-source-identified",
+      "sharedText": "(none — no verbal contact)",
+      "streams": [
+        "scholarship"
+      ],
+      "reason": "Hardy's appendix is indexed in this project at Jacob 4:3, but the row cannot belong there: Jacob 4:3 is about engraving on plates and receiving a record with joy, and shares no word with the song of the vineyard. Isaiah 5:1-7, Luke 13:6-9 and Romans 11:17-24 are the three biblical vineyard-and-planting passages behind the allegory of the olive tree, which begins at Jacob 5:3 ('I will liken thee, O house of Israel, like unto a tame olive tree'). This looks like a one-chapter slip in our transcription of Hardy (4:3 for 5:3), not a claim of his about this verse; it is recorded as an exclusion so the Hardy coverage check does not report a phantom gap, and flagged for Wilson. The verse's actual source is Hebrews 13:17, catalogued as a link."
+    },
+    {
+      "bomRef": "Jacob 4:3",
+      "source": "Luke 13:6-9",
+      "category": "better-source-identified",
+      "sharedText": "(none — no verbal contact)",
+      "streams": [
+        "scholarship"
+      ],
+      "reason": "See the Isaiah 5:1-7 entry at this verse. The parable of the barren fig tree in the vineyard belongs to the allegory in Jacob 5, not to Jacob 4:3."
+    },
+    {
+      "bomRef": "Jacob 4:3",
+      "source": "Romans 11:17-24",
+      "category": "better-source-identified",
+      "sharedText": "(none — no verbal contact at this verse)",
+      "streams": [
+        "scholarship"
+      ],
+      "reason": "See the Isaiah 5:1-7 entry at this verse. Romans 11's grafted olive tree is the source of the allegory in Jacob 5 and has no contact with 4:3. Note that Romans 11 IS a source in this chapter, but at 4:8 (the doxology of 11:33), 4:14 (blindness and stumbling, 11:7-11) and 4:18 (the mystery of 11:25), all catalogued as links; the branches and the grafting are not among them."
+    },
+    {
+      "bomRef": "Jacob 4:4",
+      "source": "1 Corinthians 9:15",
+      "category": "formulaic",
+      "sharedText": "written these things that",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "Four words of ordinary epistolary construction, and Paul's sentence runs the other way — he has written these things so that they should NOT be done for him. Jacob's 'for this intent have we written these things' has its purpose clause fulfilled, not disclaimed."
+    },
+    {
+      "bomRef": "Jacob 4:4",
+      "source": "Romans 16:4",
+      "category": "formulaic",
+      "sharedText": "but also all the",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "Four function words. The n-gram stream ranks it because the run is unbroken, which is precisely the failure mode CONVENTIONS §9 describes."
+    },
+    {
+      "bomRef": "Jacob 4:5",
+      "source": "Matthew 4:1",
+      "category": "wrong-sense",
+      "sharedText": "the wilderness to be",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "A real trap rather than noise, because both verses put a beloved son in a wilderness to be tested, and Jacob 4:5 is expressly building a typology between a father's sacrifice of his son and God's. But the shared words belong to different clauses on either side: Matthew has Jesus led up into the wilderness TO BE TEMPTED of the devil, and Jacob has Abraham in the wilderness, TO BE OBEDIENT unto the commands of God. The tester differs, the tested differs, and the infinitive that follows differs; the four-word run is an artifact of English word order. The typology Jacob is actually drawing is Hebrews 11:17's, catalogued as a link at this verse."
+    },
+    {
+      "bomRef": "Jacob 4:5",
+      "source": "Deuteronomy 8:20",
+      "category": "common-vocabulary",
+      "sharedText": "be obedient unto the",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "'Be obedient unto' is ordinary KJV idiom (compare Titus 2:9, 'Exhort servants to be obedient unto their own masters'), and Deuteronomy 8:20 is about the nations perishing for disobedience — the opposite pole of Jacob's sentence, which is about Abraham's obedience being accounted for righteousness."
+    },
+    {
+      "bomRef": "Jacob 4:5",
+      "source": "Acts 27:25",
+      "category": "formulaic",
+      "sharedText": "even as it was",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "Four function words, and Paul's 'even as it was told me' is about a shipwreck. The clause that matters in Jacob 4:5 is what follows those four words — 'accounted unto Abraham' — which is Galatians 3:6's and is catalogued as a link."
+    },
+    {
+      "bomRef": "Jacob 4:7",
+      "source": "Isaiah 41:23",
+      "category": "formulaic",
+      "sharedText": "that we may know that",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "A five-word purpose clause of the commonest kind. Isaiah 41:23 is the LORD's taunt to the idols; nothing in Jacob's confession of weakness and grace touches it."
+    },
+    {
+      "bomRef": "Jacob 4:8",
+      "source": "Deuteronomy 34:6",
+      "category": "better-source-identified",
+      "sharedText": "no man knoweth of his",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "Five words, and a genuine KJV singleton — 'no man knoweth of his' occurs only at Deuteronomy 34:6 — which makes this the most tempting rejection in the chapter. It fails on the noun. Deuteronomy 34:6 is about the burial of Moses: 'no man knoweth of his SEPULCHRE unto this day', a fact about one grave in Moab. Jacob 4:8 is about the unknowability of God's ways, 'no man knoweth of his WAYS, save it be revealed unto him', which is a claim about God, not about a location. The sentence's real source stands two clauses earlier and supplies the whole thought: Romans 11:33, 'how unsearchable are his judgments, and his ways past finding out', where 'how unsearchable' and 'the depth of the riches' are each KJV singletons. The Deuteronomy run is the accident of a very common four-word opening plus one preposition."
+    },
+    {
+      "bomRef": "Jacob 4:8",
+      "source": "1 Corinthians 4:1",
+      "category": "insufficient-verbal",
+      "sharedText": "of the mysteries of",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "'Mysteries of God' is a KJV singleton at 1 Corinthians 4:1, which is why the stream ranks it, but Jacob does not have that phrase — he has 'the depths of the mysteries of Him', where the pronoun blocks the match and the governing noun is 'depths', which is Romans 11:33's. Paul's verse is about stewards of the mysteries, a claim about office; Jacob's is about their unsearchability."
+    },
+    {
+      "bomRef": "Jacob 4:9",
+      "source": "John 1:10",
+      "category": "better-source-identified",
+      "sharedText": "and the world was",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "'The world was made' is a KJV singleton at John 1:10, and the verse is about creation, so the proposal is not frivolous. But Jacob's four words are not a clause: 'if God, being able to speak, and the world was' is a conditional whose apodosis is the bare verb 'was', where John's runs 'the world was made by him, and the world knew him not'. The construction Jacob is imitating is Psalm 33:9's 'For he spake, and it was done; he commanded, and it stood fast' — speaking paired with commanding, which is exactly the inference the rest of his verse draws — with Hebrews 11:3 supplying the doctrine that the worlds were framed by the word. Both are catalogued as a link at this verse. Recorded at length because a Johannine reading of Jacob 4:9 is the kind of thing this catalogue will be asked about."
+    },
+    {
+      "bomRef": "Jacob 4:10",
+      "source": "Acts 20:34",
+      "category": "formulaic",
+      "sharedText": "ye yourselves know that",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "An appeal-to-the-audience formula. Paul's is about working with his own hands at Miletus; Jacob's introduces God's wisdom, justice and mercy. The verse's link is Psalm 145:9, on the singleton 'over all his works' in the same sentence."
+    },
+    {
+      "bomRef": "Jacob 4:11",
+      "source": "1 Corinthians 9:24",
+      "category": "wrong-sense",
+      "sharedText": "that ye may obtain",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "Paul's 'so run, that ye may obtain' is about the prize in a footrace and the effort that wins it; Jacob's 'that ye may obtain a resurrection' is about what the atonement confers. The four words are identical and the theology is opposed at the point that matters — earning against receiving. The Pauline material genuinely present in this verse is 2 Corinthians 5:20, 1 Corinthians 15:20-23, Philippians 3:10, Colossians 1:27 and 1 Timothy 3:16, all catalogued."
+    },
+    {
+      "bomRef": "Jacob 4:15",
+      "source": "1 Peter 3:4",
+      "category": "formulaic",
+      "sharedText": "spirit which is in",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "Four words spanning a clause boundary in 1 Peter ('a meek and quiet spirit, which is in the sight of God'), where 'which is in' introduces a location and not, as in Jacob, an indwelling."
+    },
+    {
+      "bomRef": "Jacob 4:16",
+      "source": "Revelation 1:11",
+      "category": "better-source-identified",
+      "sharedText": "and the last and",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "The KJV's formula is 'the first and the last' (Isaiah 44:6, Revelation 1:11, 1:17, 2:8, 22:13) and Jacob 4:16 reads 'the great, and the last, and the only sure foundation'. The substitution of 'great' for 'first' is deliberate and is the one word of the sentence that is Jacob's own; taking Revelation as the source would credit the borrowing with the very word it does not have. The verse's source is Isaiah 28:16, on the KJV singleton 'sure foundation', which Hardy also gives and which is catalogued as a link."
+    },
+    {
+      "bomRef": "Jacob 4:17",
+      "source": "1 Peter 2:7",
+      "category": "better-source-identified",
+      "sharedText": "the head of the corner",
+      "streams": [
+        "manual"
+      ],
+      "reason": "1 Peter 2:7 is the fifth New Testament quotation of Psalm 118:22 and shares 'is made the head of the corner' with Jacob 4:17, so it belongs among the candidates. It is displaced on the verb: 1 Peter reads 'the stone which the builders DISALLOWED', where Jacob 4:15 and 4:17 both read 'reject'. Acts 4:11, which Hardy also lists, is displaced the same way — it reads 'was SET AT NOUGHT of you builders'. Only Matthew 21:42, Mark 12:10 and Luke 20:17 give 'rejected', which is why the link at 4:17 names the Synoptic form specifically. Note that 1 Peter 2:6-8 is nevertheless the New Testament's fullest fusion of the three stone texts (Isaiah 28:16, Psalm 118:22, Isaiah 8:14), the same fusion Jacob performs across 4:15-17; it is recorded as a composite at 4:15 rather than as a source here."
     }
   ]
 }

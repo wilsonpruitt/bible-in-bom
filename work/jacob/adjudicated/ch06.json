@@ -1,0 +1,613 @@
+{
+  "chapter": 6,
+  "adjudicated": "2026-09-05",
+  "adjudicator": "Opus",
+  "links": {
+    "6:1": [
+      {
+        "source": "Romans 11:24",
+        "type": "allusion",
+        "subtype": "conceptual",
+        "confidence": "high",
+        "text": "For if thou wert cut out of the olive tree which is wild by nature, and wert graffed contrary to nature into a good olive tree: how much more shall these, which be the natural branches, be graffed into their own olive tree?",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 2,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 3
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Romans 11:17",
+          "Romans 11:25"
+        ],
+        "recurrenceRefs": [
+          "1 Nephi 10:12",
+          "1 Nephi 10:14",
+          "1 Nephi 15:13"
+        ],
+        "provenance": {
+          "route": "Romans 11:17-25 → KJV → Book of Mormon",
+          "other": "'Good olive tree' occurs in exactly one KJV verse, Romans 11:24, where it stands against 'the olive tree which is wild by nature'. 'Tame olive tree' occurs in none. The wild/tame antithesis that governs Jacob 5 and is named here is Paul's wild/good antithesis with one term reworded.",
+          "significance": "This verse is the seam. Jacob has just transcribed seventy-seven verses of Zenos and now, in his own voice, tells the reader what the allegory was: the house of Israel likened unto a tame olive tree. The Bible has exactly one olive-tree allegory of branches broken off, a wild stock grafted in, and the natural branches grafted back, and it is Romans 11 — already catalogued behind 1 Nephi 10:12 and quoted outright at 1 Nephi 15:13. What Jacob 6:1 adds is the word 'tame', which is not in the KJV: Paul's opposite of 'wild by nature' is 'good', a moral term, and the Book of Mormon has replaced it with a husbandman's term. The allegory is thereby moved out of Paul's argument about merit and into the vineyard, where Jacob 5 needs it."
+        },
+        "note": "The argument for Romans 11 behind the Book of Mormon's olive tree was made at 1 Nephi 10:12 and completed at 15:13 with the KJV singleton 'the fulness of the Gentiles'; it is not restated here. What this verse contributes is the label. Jacob attributes the allegory to Zenos, a prophet the Bible does not contain, and the figure he attributes to him is the one figure of its kind the Bible does contain. The link is recorded at Jacob 6:1 rather than across Jacob 5 because 6:1 is where the text itself names the tree.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "6:2": [
+      {
+        "source": "Isaiah 11:11",
+        "type": "quotation",
+        "subtype": "close-verbal",
+        "confidence": "certain",
+        "text": "And it shall come to pass in that day, that the Lord shall set his hand again the second time to recover the remnant of his people, which shall be left, from Assyria, and from Egypt, and from Pathros, and from Cush, and from Elam, and from Shinar, and from Hamath, and from the islands of the sea.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 1
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "provenance": {
+          "route": "Isaiah 11:11 → KJV → Book of Mormon",
+          "other": "'Set his hand again the second time to recover' occurs in exactly one KJV verse. The Book of Mormon reproduces ten consecutive words of it and drops only 'the remnant of' before 'his people'.",
+          "significance": "Isaiah 11:11 is the verse the Book of Mormon uses as its own timetable, and it is used here to date the allegory. Zenos ended with a final pruning and burning; Jacob says when that is: the day of Isaiah's second gathering. The elision matters. Isaiah recovers 'the remnant of his people, which shall be left' — a survivors' clause, and a small number — while Jacob recovers 'his people' entire. The verse also stands one line below Isaiah 11:10's ensign to the Gentiles and one above 11:12's gathering of the outcasts of Israel from the four corners of the earth, which is the scattering Jacob 5 has spent seventy-seven verses undoing."
+        },
+        "note": "'And in the day that he shall set his hand again the second time to recover his people, is the day, yea, even the last time, that the servants of the Lord shall go forth in his power, to nourish and prune his vineyard.' A ten-word run out of a KJV singleton, which on the project's standard (CONVENTIONS §2) is a quotation whatever its length; note that it falls well below Skousen's sixteen-word threshold and is not among his. Isaiah 11 is quoted whole at 2 Nephi 21 and this clause is reused at 2 Nephi 25:17 ('restore his people') and 2 Nephi 29:1 ('recover my people'); Jacob's 'recover' is Isaiah's own verb, so this is the closest of the three to the KJV. The second half of the verse leaves Isaiah for Zenos: 'nourish and prune his vineyard' is Jacob 5's vocabulary, not the KJV's.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "6:3": [
+      {
+        "source": "Malachi 4:1",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "text": "For, behold, the day cometh, that shall burn as an oven; and all the proud, yea, and all that do wickedly, shall be stubble: and the day that cometh shall burn them up, saith the LORD of hosts, that it shall leave them neither root nor branch.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 1
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "provenance": {
+          "route": "Malachi 4:1 → KJV → Book of Mormon",
+          "other": "'Root nor branch' occurs in exactly one KJV verse. 'Burned with fire' occurs in seventeen and carries nothing by itself; the link rests on the pairing of the burning with the roots and branches across Jacob 6:3-4, which is the pairing Malachi 4:1 makes in a single sentence.",
+          "significance": "Malachi's burning day leaves the wicked 'neither root nor branch'. Jacob's next sentence says that God 'remembereth the house of Israel, both roots and branches'. The two halves of Malachi 4:1 are here in Malachi's order with the second one reversed, and the reversal is the point: the verse that in the KJV describes total extirpation is turned into the ground of mercy. Malachi 4:2 then supplies what Jacob 6:4 goes on to say — the sun of righteousness arising with healing — so the reversal is not against Malachi but with him, one verse further down. This is metalepsis in the strict sense: the mercy of Jacob 6:4 is legible as mercy only if the reader recovers what Malachi 4:1 does to the roots and branches of the proud."
+        },
+        "note": "'And how cursed are they which shall be cast out into their own place! And the world shall be burned with fire.' Read with 6:4 as one movement. The burning belongs to Zenos — Jacob 5:77 has the vineyard burned — but the roots-and-branches formula is not in Jacob 5 and is not ordinary English; it is Malachi's, inverted. Held at high rather than certain because 'both roots and branches' is a reversal rather than a reproduction, and a reversal can always be an accident of a common image.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      },
+      {
+        "source": "Isaiah 5:7",
+        "type": "echo",
+        "subtype": "conceptual",
+        "confidence": "moderate",
+        "text": "For the vineyard of the LORD of hosts is the house of Israel, and the men of Judah his pleasant plant: and he looked for judgment, but behold oppression; for righteousness, but behold a cry.",
+        "evidence": {
+          "vocabulary": 2,
+          "syntax": 1,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 1
+        },
+        "kjvSpecific": "no",
+        "mediation": "direct-OT",
+        "composite": [
+          "Isaiah 5:6"
+        ],
+        "provenance": {
+          "route": "Isaiah 5:1-7 → KJV → Book of Mormon",
+          "other": "Isaiah 5:7 is the only KJV verse that states the equation the whole of Jacob 5-6 assumes: the vineyard is the house of Israel. 'Prune' occurs in exactly three KJV verses (Leviticus 25:3, 25:4, Isaiah 5:6); Isaiah 5:6 is the vineyard that shall not be pruned.",
+          "significance": "Jacob 6:1 says the tree is the house of Israel; Jacob 6:2-3 says the vineyard is where the servants labour. The KJV states that identification once, in the song of the vineyard, and it states it as an indictment — the vineyard brought forth wild grapes and will be laid waste and not pruned. Zenos's allegory is Isaiah 5 with the verdict suspended: the vineyard is pruned again and again rather than abandoned. Jacob 6:3's blessed labourers and cursed outcasts are the sentence Isaiah 5:5-6 passed, reopened."
+        },
+        "note": "No wording is reproduced, and none is claimed. The link is recorded because the identification Jacob works from — vineyard equals house of Israel — has exactly one biblical source, and because the pruning vocabulary of 6:2 has its only vineyard-side KJV occurrence in the same passage. Proposed under CONVENTIONS §0a as worth a reader's attention.",
+        "whyNot": "The vineyard-as-Israel figure is common enough in Jewish and Christian usage that a nineteenth-century writer need not have been reading Isaiah 5 to reach it, and the proximate model is in any case Jacob 5, which the text has just quoted at length. Nothing verbal survives.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "6:4": [
+      {
+        "source": "Romans 10:21",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "text": "But to Israel he saith, All day long I have stretched forth my hands unto a disobedient and gainsaying people.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "OT-via-NT",
+        "composite": [
+          "Isaiah 65:2"
+        ],
+        "provenance": {
+          "route": "Isaiah 65:2 → Romans 10:21 → KJV → Book of Mormon",
+          "mt": "Isaiah 65:2 KJV: 'I have spread out my hands all the day unto a rebellious people, which walketh in a way that was not good, after their own thoughts.'",
+          "other": "'Stretched forth my hands' occurs in exactly one KJV verse, Romans 10:21. 'Gainsaying people' occurs in exactly one KJV verse, Romans 10:21. 'Gainsaying' occurs in three (Acts 10:29, Romans 10:21, Jude 1:11) and in only one of them is it an adjective for Israel. Isaiah 65:2, the verse Paul is quoting, has neither word: it reads 'spread out' and 'rebellious'.",
+          "significance": "This is the chapter's principal finding and it is a clean mediation result. Jacob 6:4 says God 'stretches forth his hands unto them, all the day long: and they are a stiffnecked, and a gainsaying people'. Both of the distinctive expressions are KJV singletons at Romans 10:21, and neither is available from Isaiah, which is the Old Testament verse Paul is quoting. The Book of Mormon has the New Testament's rendering of an Old Testament text. What follows from that is more interesting than the fact itself. Romans 10:21 is the last verse of Paul's argument that Israel has heard and refused; the very next sentence is 'Hath God cast away his people? God forbid' (11:1), and eleven verses later Paul is at the olive tree. Jacob 6 runs the same three moves in the same order — the allegory, the outstretched hands to a gainsaying people, and the conclusion that God has not cast them off — but arrives at Paul's stretched-out hands after the olive tree rather than before it. The chapter reads as Romans 10:21-11:24 rearranged around a longer allegory."
+        },
+        "note": "'And he stretches forth his hands unto them, all the day long: and they are a stiffnecked, and a gainsaying people.' Note that tools/mediation-check.py could not decide this one and reported no decisive divergence: the Book of Mormon shifts Paul's first person into the third ('he stretches forth his hands' for 'I have stretched forth my hands'), which defeats a word-level aligner, and the tool therefore saw the Book of Mormon agreeing with neither candidate at every point. Adjudicated by eye against the rarity counts instead, which are unambiguous. Two independent KJV singletons from the same verse, plus 'all the day long', which is a hybrid: Romans has 'All day long', Isaiah has 'all the day', and the Book of Mormon's form is the one thirteen other KJV verses use. 'Stiffnecked' replaces Paul's 'disobedient' and is the Pentateuch's word for the same people (Exodus 32:9 and eight others). Held at high rather than certain only because no continuous clause survives the change of person.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "6:5": [
+      {
+        "source": "Acts 11:23",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "Who, when he came, and had seen the grace of God, was glad, and exhorted them all, that with purpose of heart they would cleave unto the Lord.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 5,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "Acts 11:23 → KJV → Book of Mormon",
+          "other": "'Purpose of heart' occurs in exactly one KJV verse. 'Cleave unto' occurs in thirteen, but Acts 11:23 is the only KJV verse that joins the two — purpose of heart and cleaving — and it joins them in Jacob's order, the purpose first and the cleaving after.",
+          "significance": "Barnabas at Antioch, exhorting a congregation of new Gentile believers to hold fast, is the KJV's one model for the sentence Jacob is writing. The context is worth recovering. Acts 11 is the chapter in which the church discovers that God has granted repentance to the Gentiles, which is precisely the discovery Zenos's allegory dramatizes and Jacob 6:4 has just affirmed — that God remembers the whole tree. So the exhortation Jacob addresses to the natural branches is worded out of the exhortation Luke gives to the grafted ones. Note also what Jacob adds and the KJV does not have: 'as he cleaveth unto you'. In the Bible, cleaving is what Israel does to the Lord, never what the Lord does to Israel; Deuteronomy and Joshua use the verb thirteen times and always in that direction. Jacob makes it reciprocal, which is a theological move made by reversing a preposition."
+        },
+        "note": "'That ye would repent, and come with full purpose of heart, and cleave unto God as he cleaveth unto you.' The KJV singleton plus the verb it governs, in order. The Deuteronomic cleaving formula (Deuteronomy 11:22, 30:20, Joshua 23:8) supplies the idiom's background but not the collocation with purpose of heart, which is Acts 11:23's alone.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      },
+      {
+        "source": "Acts 26:25",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "text": "But he said, I am not mad, most noble Festus; but speak forth the words of truth and soberness.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "Acts 26:25 → KJV → Book of Mormon",
+          "other": "'Soberness' occurs in exactly one KJV verse. The collocation 'words of … soberness' occurs there and nowhere else.",
+          "significance": "Paul says it to Festus, who has just shouted that much learning has made him mad. The words of soberness are a defence against the charge of raving. Jacob uses the phrase at the one point in his book where he most needs that defence: he has just read out seventy-seven verses of an allegory about a man and some olive branches, and he opens his application with 'I beseech of you in words of soberness'. Whether or not the borrowing is deliberate, the KJV supplies that phrase for exactly one rhetorical situation, and Jacob is in it."
+        },
+        "note": "A one-word KJV rarity carrying a two-word phrase. Held at moderate: 'soberness' is a natural English word and the Book of Mormon writer need not have had Acts 26 open. What raises it above coincidence is that the phrase's single KJV home is a plea not to be thought mad, and this is the sentence in which Jacob asks to be taken seriously.",
+        "whyNot": "Two words. 'Soberness' is rare in the KJV but not rare in the English of 1830, and 'words of soberness' could be assembled without any source at all.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "6:6": [
+      {
+        "source": "Hebrews 4:7",
+        "type": "quotation",
+        "subtype": "close-verbal",
+        "confidence": "certain",
+        "text": "Again, he limiteth a certain day, saying in David, To day, after so long a time; as it is said, To day if ye will hear his voice, harden not your hearts.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 2
+        },
+        "kjvSpecific": "yes",
+        "mediation": "OT-via-NT",
+        "composite": [
+          "Hebrews 3:15",
+          "Psalm 95:7"
+        ],
+        "provenance": {
+          "route": "Psalm 95:7-8 → Hebrews 4:7 → KJV → Book of Mormon",
+          "mt": "Psalm 95:7-8 KJV: 'To day if ye will hear his voice, Harden not your heart, as in the provocation, and as in the day of temptation in the wilderness.'",
+          "other": "'Harden not your hearts', plural, occurs in exactly three KJV verses — Hebrews 3:8, 3:15 and 4:7 — and in no Old Testament verse. Psalm 95:8 reads the singular, 'Harden not your heart'. The Book of Mormon's twelve-word run therefore cannot come from the Psalm.",
+          "significance": "A decisive mediation result on a single letter. Every English word Jacob 6:6 uses is in Psalm 95:7-8 except the 's' on 'hearts', and that 's' is the New Testament's. The choice between the three Hebrews verses is decidable too, and by the same method: Hebrews 3:8 and 3:15 both continue 'as in the provocation', and Hebrews 4:7 is the one place in the Bible where the quotation from the Psalm stops exactly where Jacob's stops, at 'harden not your hearts', with nothing after it. What the reader recovers by going back is Hebrews' argument about the word 'To day' — that God 'limiteth a certain day' and that the day is still open, which is the whole burden of Jacob 6:5's 'while his arm of mercy is extended towards you in the light of the day' in the sentence immediately before."
+        },
+        "note": "'Yea, to-day if ye will hear his voice, harden not your hearts.' Twelve consecutive words. Below Skousen's threshold and not among his quotations, and catalogued here as a quotation on the criteria of CONVENTIONS §2. Note that tools/mediation-check.py returned no decisive divergence for this verse, because the KJV's versification puts 'To day if ye will hear his voice' at the end of Psalm 95:7 and 'Harden not your heart' at the beginning of 95:8, so a comparison against 95:7 alone never sees the singular that settles it; the rarity count does. The 1830 hyphenation 'to-day' matches the KJV's two-word 'To day' more closely than the modern edition's 'today' does — a small instance of CONVENTIONS §8.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      },
+      {
+        "source": "Ezekiel 18:31",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "Cast away from you all your transgressions, whereby ye have transgressed; and make you a new heart and a new spirit: for why will ye die, O house of Israel?",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 5,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Ezekiel 33:11"
+        ],
+        "provenance": {
+          "route": "Ezekiel 18:31 → KJV → Book of Mormon",
+          "other": "'Why will ye die' occurs in exactly three KJV verses: Jeremiah 27:13, where the death in question is by sword, famine and pestilence for refusing to serve Babylon, and Ezekiel 18:31 and 33:11, where it closes a call to repent. Only the Ezekiel pair is addressed to 'the house of Israel', which is the subject of Jacob 6 from its first verse.",
+          "significance": "Ezekiel 18:31 pairs the question with the command to 'make you a new heart', and Jacob 6:6 pairs it with 'harden not your hearts'. The heart is the hinge in both. Ezekiel 33:11 supplies the reason the question is asked at all — 'I have no pleasure in the death of the wicked' — which is the mercy Jacob has just asserted at 6:4-5, so both Ezekiel passages are doing work here even though only one supplies the wording's setting."
+        },
+        "note": "'For why will ye die?' Five words, and they arrive at the end of a sentence whose first twelve came from Hebrews 4:7. Jacob has stitched a New Testament exhortation to an Old Testament one and the join is invisible. Ezekiel rather than Jeremiah on the addressee: Jeremiah 27:13 threatens Zedekiah's court with a specific political death, while Ezekiel asks the house of Israel why it will not repent, and Jacob 6 is asking the second question.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "6:7": [
+      {
+        "source": "Hebrews 6:5",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "text": "And have tasted the good word of God, and the powers of the world to come,",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Hebrews 6:6",
+          "Hebrews 6:8"
+        ],
+        "provenance": {
+          "route": "Hebrews 6:5-8 → KJV → Book of Mormon",
+          "other": "'The good word of God' occurs in exactly one KJV verse.",
+          "significance": "The singleton is only the door. Recover the four verses around it and Jacob 6:7 turns out to be Hebrews 6:5-8 in Hebrews' own order. Hebrews: they have tasted the good word of God (6:5); if they shall fall away it is impossible to renew them to repentance (6:6); the ground that drinks the rain and bears herbs receives blessing (6:7); but that which beareth thorns and briers 'is rejected, and is nigh unto cursing; whose end is to be burned' (6:8). Jacob: 'after that ye have been nourished by the good word of God all the day long, will ye bring forth evil fruit, that ye must be hewn down and cast into the fire?' The rare phrase, the falling away, the well-watered ground that bears the wrong thing, and the burning — four elements, one sequence, one paragraph of Hebrews. That the Book of Mormon reaches for Matthew 7's wording for the burning rather than Hebrews' own is what keeps this an allusion rather than a quotation."
+        },
+        "note": "'After that ye have been nourished by the good word of God all the day long.' The KJV's one occurrence of the phrase, with Hebrews' 'tasted' replaced by 'nourished', which is Jacob 5's verb and the allegory's — the good word of God is thereby fed to the reader the way the servants fed the tree. 'All the day long' repeats from 6:4 and carries Romans 10:21's outstretched hands forward into the reproach. Held at high, not certain, because the phrase is short and the surrounding correspondence is structural rather than verbal.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      },
+      {
+        "source": "Matthew 7:19",
+        "type": "quotation",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "Every tree that bringeth not forth good fruit is hewn down, and cast into the fire.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 1
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Matthew 7:18"
+        ],
+        "provenance": {
+          "route": "Matthew 7:18-19 → KJV → Book of Mormon",
+          "other": "'Hewn down, and cast into the fire' occurs in exactly three KJV verses: Matthew 3:10, Matthew 7:19 and Luke 3:9. The seven-word run alone cannot choose among them. 'Bring forth evil fruit' occurs in exactly one KJV verse, Matthew 7:18, which stands immediately before Matthew 7:19 — and Jacob 6:7 has both. Neither Matthew 3:10 nor Luke 3:9 has a neighbouring verse with 'evil fruit'; both read 'bringeth not forth good fruit' and stop.",
+          "significance": "A source chosen by a second rarity rather than by the long run, which is the method CONVENTIONS §9 recommends when the n-gram stream offers a tie. The consequence is not trivial. Matthew 3:10 and Luke 3:9 are John the Baptist threatening the Pharisees with an axe already laid to the root; Matthew 7:18-19 is the Sermon on the Mount teaching a congregation how to tell false prophets by their fruit. Jacob 6:7-8 goes on to ask whether his hearers will 'reject the words of the prophets', so the Sermon's setting — how to judge a prophet — is the one his paragraph is in."
+        },
+        "note": "'Will ye bring forth evil fruit, that ye must be hewn down and cast into the fire?' The singleton at Matthew 7:18 and the seven-word run at 7:19, adjacent in the KJV and adjacent here. The machine ranked Matthew 3:10 and Luke 3:9 equal with Matthew 7:19, having nothing to break the tie; the tie breaks on 'evil fruit'. Recorded as a quotation on the seven-word run, well below Skousen's threshold and not among his.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "6:8": [
+      {
+        "source": "1 Thessalonians 5:19",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "Quench not the Spirit.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 1
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Acts 2:38"
+        ],
+        "provenance": {
+          "route": "1 Thessalonians 5:19 → KJV → Book of Mormon",
+          "other": "'Quench' occurs in thirty-one KJV verses, almost all of them literal — fire, coals, thirst, the smoking flax — and in exactly one of them is the object the Spirit. 'The gift of the Holy Ghost' occurs in exactly two, Acts 2:38 and Acts 10:45.",
+          "significance": "Jacob 6:8 is a list of five refusals and every item on it is a New Testament phrase: the good word of Christ (Hebrews 6:5's phrase with Christ for God), the power of God, the gift of the Holy Ghost, the quenching of the Spirit, and the plan of redemption. The last is the only one that is not KJV at all — 'plan of redemption' occurs in no KJV verse — and it is the one Jacob is actually arguing for. So the sentence recruits four biblical phrases to lend their weight to a fifth that is the Book of Mormon's own coinage."
+        },
+        "note": "'And quench the Holy Spirit.' The KJV forbids quenching the Spirit once; Jacob turns the prohibition into an accusation and expands 'the Spirit' to 'the Holy Spirit'. Note the two Acts phrases in the same breath: 'the gift of the Holy Ghost' is Peter's at Pentecost (Acts 2:38) and again at Cornelius's house (10:45), which are the two moments the New Testament reports the gift being given.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      },
+      {
+        "source": "Proverbs 14:9",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "text": "Fools make a mock at sin: but among the righteous there is favour.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "provenance": {
+          "route": "Proverbs 14:9 → KJV → Book of Mormon",
+          "other": "'Make a mock' occurs in exactly one KJV verse. The KJV elsewhere uses 'mock' as a verb with a direct object ('they mocked him'); the idiom 'make a mock at' is Proverbs 14:9's alone.",
+          "significance": "The KJV's only mocker of this construction is a fool, and the thing he mocks is sin. Jacob's mocker mocks the remedy for sin. The substitution is exact and it inverts the proverb: Proverbs warns against treating transgression lightly, and Jacob against treating the atonement lightly, so the sentence borrows the KJV's contempt for moral levity and redirects it at unbelief. Proverbs 14:9's second clause, 'but among the righteous there is favour', is also the reward Jacob 6:3 promised the diligent labourers, though nothing verbal survives of it."
+        },
+        "note": "'And make a mock of the great plan of redemption, which hath been laid for you?' The KJV has one mocker of this construction and he is a fool, and what he mocks is sin. Jacob's mocker mocks the remedy — the substitution is exact and inverted, and it converts a proverb about moral levity into a charge of blasphemy. Held at moderate: three words, and 'make a mock of' had independent currency in nineteenth-century English, so the phrase could arrive without Proverbs. What argues for the source is the KJV's own restriction of the idiom to a single verse about sin.",
+        "whyNot": "Three words, and Jacob's preposition is 'of' where Proverbs has 'at'. The idiom was live in ordinary English and needs no biblical source.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "6:9": [
+      {
+        "source": "Daniel 12:2",
+        "type": "allusion",
+        "subtype": "conceptual",
+        "confidence": "moderate",
+        "text": "And many of them that sleep in the dust of the earth shall awake, some to everlasting life, and some to shame and everlasting contempt.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 2,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "uncertain",
+        "mediation": "direct-OT",
+        "recurrenceRefs": [
+          "Jacob 6:11"
+        ],
+        "provenance": {
+          "route": "Daniel 12:2 → KJV → Book of Mormon",
+          "other": "'Shame and everlasting contempt' occurs in exactly one KJV verse. A sweep of text/kjv.json for verses holding both a rising of the dead and shame returns three candidates, of which only Daniel 12:2 makes the resurrection issue in shame; Psalm 109:28 and 1 Corinthians 15:34 are unrelated.",
+          "significance": "Daniel 12:2 is the Old Testament's one two-outcome resurrection: some awake to everlasting life and some to shame. Jacob 6:9-11 has both halves and keeps Daniel's order — 'the resurrection which is in Christ, will bring you to stand with shame and awful guilt before the bar of God' at 6:9, and 'until ye shall obtain eternal life' at 6:11. The pair is what carries the link; either half alone would be nothing. Daniel supplies the structure and the New Testament supplies the courtroom, since the resurrection is 'in Christ', which is Paul's phrase and not Daniel's."
+        },
+        "note": "Proposed on the argument rather than the wording, in the manner CONVENTIONS §0a licenses. Nothing is reproduced: Jacob has 'shame' where Daniel has 'shame and everlasting contempt', and 'eternal life' where Daniel has 'everlasting life'. What is worth recording is that the KJV joins resurrection to shame exactly once, and that Jacob's two outcomes are Daniel's two outcomes in Daniel's sequence. Note also that 'the bar of God' occurs in no KJV verse; the KJV's forensic image is the judgment seat (Romans 14:10, 2 Corinthians 5:10), and the bar is the Book of Mormon's own furniture, carried through to 6:13.",
+        "whyNot": "Two words in common across three verses of Jacob, and 'shame' is the obvious English for the affect being described. A writer imagining a last judgment would reach for shame without Daniel's help, and the resurrection-to-life half of the pair is a New Testament commonplace.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "6:10": [
+      {
+        "source": "Revelation 20:10",
+        "type": "quotation",
+        "subtype": "close-verbal",
+        "confidence": "certain",
+        "text": "And the devil that deceived them was cast into the lake of fire and brimstone, where the beast and the false prophet are, and shall be tormented day and night for ever and ever.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 2
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Revelation 14:11",
+          "Matthew 3:12"
+        ],
+        "provenance": {
+          "route": "Revelation 20:10 + Revelation 14:11 → KJV → Book of Mormon",
+          "other": "The exact phrase 'lake of fire and brimstone' occurs in exactly one KJV verse, and it is Revelation 20:10 — not 19:20, which reads 'a lake of fire burning with brimstone', and not 21:8, which reads 'the lake which burneth with fire and brimstone'. 'Ascendeth up for ever and ever' likewise occurs in exactly one KJV verse, Revelation 14:11, of the smoke of the tormented. 'Unquenchable' occurs in two, Matthew 3:12 and Luke 3:17, both of the chaff.",
+          "significance": "Two KJV singletons from two different chapters of Revelation, fused into one sentence, and the fusion supplies what neither verse has alone. Revelation 20:10 has the lake but the smoke is not mentioned; Revelation 14:11 has the smoke ascending for ever but no lake. Jacob 6:10 has 'that lake of fire and brimstone, whose flames are unquenchable, and whose smoke ascendeth up forever and ever'. Recover the contexts and the borrowing is pointed: Revelation 20:10 is where the devil goes, with the beast and the false prophet, and Revelation 14:11 is the torment of those who worshipped the beast. Jacob 6:8 has just listed his hearers' offences as a refusal to hear the prophets and a mockery of redemption — the mirror image of false prophecy and false worship — and 6:10 sends them where Revelation sends the originals. The addition 'which lake of fire and brimstone, is endless torment' then glosses the borrowed image with a term the KJV does not use: 'endless torment' occurs in no KJV verse."
+        },
+        "note": "'That ye must go away into that lake of fire and brimstone, whose flames are unquenchable, and whose smoke ascendeth up forever and ever?' Five words from one singleton, five from another, plus the Baptist's 'unquenchable'. Catalogued as a quotation on the two exact runs; both are far below Skousen's sixteen-word threshold and neither is among his. The demonstrative 'that lake' is worth noticing — it treats the image as already known to the audience, which within the book's own chronology it is not.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "6:11": [
+      {
+        "source": "Matthew 7:14",
+        "type": "quotation",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "Because strait is the gate, and narrow is the way, which leadeth unto life, and few there be that find it.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 2
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Matthew 7:13",
+          "Luke 13:24"
+        ],
+        "provenance": {
+          "route": "Matthew 7:13-14 + Luke 13:24 → KJV → Book of Mormon",
+          "other": "'Narrow is the way' occurs in exactly one KJV verse, Matthew 7:14. 'Enter in at the strait gate' occurs in exactly one KJV verse, and it is Luke 13:24 — Matthew 7:13 reads 'Enter ye in at the strait gate', with the pronoun. Jacob 6:11 has Luke's clause without the pronoun and Matthew's narrow way, so the verse takes one phrase from each.",
+          "significance": "The chapter has already reached into Matthew 7 once, at 6:7, for the tree that brings forth evil fruit and is hewn down — Matthew 7:18-19. Here it returns four verses earlier in the same discourse for the gate. That is a second visit to one page of the KJV within five verses, and it is the kind of local concentration that argues the source was open rather than remembered. The Luke reading is the interesting half: Luke 13:24's imperative is 'Strive to enter in', and Luke adds what Matthew does not, that many will seek to enter and shall not be able — which is the urgency Jacob 6:11 puts in 'O then, my beloved brethren, repent ye'."
+        },
+        "note": "'And enter in at the straight gate, and continue in the way which is narrow, until ye shall obtain eternal life.' Note the 1830 reading, which is evidence in the strong sense of CONVENTIONS §8: the first edition prints 'straight', the homophone, where the KJV has 'strait' — a spelling that could only arise from a text taken by ear rather than copied by eye — and the 1920 edition silently corrected it back to the KJV's 'strait'. The direction of that change is the same as at 1 Nephi 1:20: a later edition moving the text toward its source. 'Until ye shall obtain eternal life' answers Matthew 7:14's 'which leadeth unto life', and closes the Daniel 12:2 pair opened at 6:9.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "6:12": [
+      {
+        "source": "2 Samuel 7:20",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "text": "And what can David say more unto thee? for thou, Lord GOD, knowest thy servant.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 3,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "provenance": {
+          "route": "2 Samuel 7:20 → KJV → Book of Mormon",
+          "other": "'Say more' occurs in exactly one KJV verse. The parallel at 1 Chronicles 17:18 reads 'What can David speak more to thee', not 'say', so the Chronicler's version does not supply the phrase. 'Be wise' occurs in eighteen KJV verses and identifies nothing on its own.",
+          "alternative": "The imperative half of the verse could stand behind Psalm 2:10, 'Be wise now therefore, O ye kings', which is the KJV's nearest vocative use; but 'be wise' is far too widely distributed to argue from.",
+          "significance": "The one KJV occurrence of the phrase is David's answer to Nathan's oracle — the promise that God will build David a house and establish his seed for ever, which is the Old Testament's charter for the permanence of Israel. David, told that his house will stand, has nothing to add. Jacob has just spent a chapter and an allegory arguing that the house of Israel will be recovered, and he closes with David's sentence. If the borrowing is deliberate it is the most economical thing in the chapter: eight syllables that place Jacob in the posture of a man who has been handed a promise too large to comment on. If it is not deliberate, the coincidence is still worth the reader's time."
+        },
+        "note": "'O be wise: what can I say more?' Four words against a KJV singleton, with the first person for David's third. Held at moderate because the sentence is short and idiomatic and could be composed without a source; what tells in its favour is that the KJV, for all its length, says it once, and says it at the one moment most like Jacob's. Note the 1830 punctuation — a colon, not the modern semicolon — which reads the two halves as one movement rather than two commands.",
+        "whyNot": "Four common words in an order English produces naturally. A rhetorical question of this shape needs no precedent, and the resemblance to 2 Samuel 7:20 may be nothing more than the KJV's own idiomatic ordinariness showing through.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "6:13": [
+      {
+        "source": "2 Corinthians 13:11",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "text": "Finally, brethren, farewell. Be perfect, be of good comfort, be of one mind, live in peace; and the God of love and peace shall be with you.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "2 Corinthians 13:11 → KJV → Book of Mormon",
+          "other": "'Farewell' occurs in exactly four KJV verses (Luke 9:61, Acts 18:21, Acts 23:30, 2 Corinthians 13:11) and in only one of them is it a writer's own sign-off. The collocation 'Finally … farewell' occurs there and nowhere else.",
+          "significance": "The KJV has one farewell that is a closing rather than a departure, and it closes a letter written to a congregation that had questioned the writer's standing. Jacob 6:13 uses both of its words in Paul's order — 'Finally, I bid you farewell' — at the end of a chapter that has been defending the seriousness of his message since 6:5's 'words of soberness'. The valediction is not decoration; it is the form a disputed apostle's letter takes when it ends."
+        },
+        "note": "'Finally, I bid you farewell, until I shall meet you before the pleasing bar of God.' Two words, but their KJV pairing is unique and their position — the last sentence — is the same. Held at moderate because 'finally' and 'farewell' are ordinary English and their co-occurrence at the end of a discourse is natural. Note that Jacob's actual last word in the book is not this one: Jacob 7:27 closes with 'brethren, adieu', which is French and in no English Bible. The 'pleasing bar of God' is likewise the Book of Mormon's own, continuing 6:9's bar; the KJV's forensic furniture is the judgment seat.",
+        "whyNot": "Two common words. A discourse that ends with a farewell is not thereby quoting Paul, and nothing else in the verse is 2 Corinthians'.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ]
+  }
+}
