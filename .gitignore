@@ -13,3 +13,5 @@ work/*/candidates-raw.jsonl
 # Never commit the author's prose. See tools/parse-frederick.py.
 text/frederick-raw.txt
 text/frederick-*.txt
+.vercel
+.env*
