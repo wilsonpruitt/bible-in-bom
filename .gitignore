@@ -8,3 +8,8 @@ __pycache__/
 tsconfig.tsbuildinfo
 next-env.d.ts
 work/*/candidates-raw.jsonl
+
+# Purchased, copyrighted monograph — text extracted for citation-mining only.
+# Never commit the author's prose. See tools/parse-frederick.py.
+text/frederick-raw.txt
+text/frederick-*.txt

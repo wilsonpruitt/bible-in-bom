@@ -1,10 +1,11 @@
+import { INK, P } from "./palette";
 import type { LinkType, Confidence, Link } from "./types";
 
 // House palette — Wroot Press cream + ink. Brass takes its own accent: the
 // warm metal tone of "the plates of brass," Nephi's name for the record of
 // earlier scripture his family carries and quotes throughout — sibling to
 // Catena's oxblood, Loci's gold, Topographia's map-blue.
-export const ACCENT = "#8a6b1f";
+export const ACCENT = P.accent;
 
 // The chip's visual grammar encodes the *kind* of link; its ink encodes
 // *confidence*. Border style is the type's signature: solid quotation, dashed
@@ -45,11 +46,11 @@ export const ORDER: LinkType[] = ["quotation", "allusion", "echo", "figural"];
 // Confidence is decoupled from type — an echo can be quite certain while
 // being less verbally explicit than a quotation. Five levels, not three.
 export const CONFIDENCE_INK: Record<Confidence, string> = {
-  certain: "#5c4813",
-  high: "#8a6b1f",
-  moderate: "#a68a3f",
-  low: "#c2b07a",
-  contested: "#b0523f",
+  certain: INK.certain,
+  high: INK.high,
+  moderate: INK.moderate,
+  low: INK.low,
+  contested: INK.contested,
 };
 
 export const CONFIDENCE_LABEL: Record<Confidence, string> = {

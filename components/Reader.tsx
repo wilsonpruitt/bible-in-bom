@@ -1,5 +1,6 @@
 "use client";
 
+import { P } from "@/lib/palette";
 import { useState, useMemo, useEffect, type CSSProperties } from "react";
 import Link from "next/link";
 import type { Book, Link as LinkT, LinkType } from "@/lib/types";
@@ -155,14 +156,14 @@ export default function Reader({ book }: { book: Book }) {
   return (
     <div style={S.root}>
       <style>{`
-        .brass-passage:hover { background: rgba(138,107,31,0.05) !important; }
-        .brass-home-link:hover { color: #f5f0e8 !important; }
+        .brass-passage:hover { background: ${P.wash05} !important; }
+        .brass-home-link:hover { color: ${P.page} !important; }
         .brass-type-btn:hover { transform: translateX(1px); }
-        .brass-ch-btn:hover { background: rgba(138,107,31,0.10) !important; }
-        .brass-chip:hover { background: rgba(138,107,31,0.10) !important; }
+        .brass-ch-btn:hover { background: ${P.wash10} !important; }
+        .brass-chip:hover { background: ${P.wash10} !important; }
         @media (max-width: 800px) {
           .brass-layout { flex-direction: column !important; }
-          .brass-sidebar { position: relative !important; width: 100% !important; max-height: none !important; border-right: none !important; border-bottom: 1px solid #d4c9b5 !important; }
+          .brass-sidebar { position: relative !important; width: 100% !important; max-height: none !important; border-right: none !important; border-bottom: 1px solid ${P.rule} !important; }
           .brass-main { padding: 20px 16px !important; }
           .brass-prow { flex-direction: column !important; gap: 12px !important; }
           .brass-margin { width: 100% !important; flex-direction: row !important; flex-wrap: wrap !important; align-items: center !important; padding-top: 0 !important; }
@@ -190,17 +191,17 @@ export default function Reader({ book }: { book: Book }) {
                 const matches = matchingChapters === null || matchingChapters.has(ch);
                 const faded = matchingChapters !== null && !matches;
                 let bg = "transparent";
-                let color = "#4a3d30";
-                let borderColor = "#c9b99a";
+                let color = P.ink;
+                let borderColor = P.edge;
                 if (isActive) {
                   bg = ACCENT;
-                  color = "#f5f0e8";
+                  color = P.page;
                   borderColor = ACCENT;
                 } else if (faded) {
-                  color = "#c8bfae";
-                  borderColor = "#e8e0d0";
+                  color = P.inkGhost;
+                  borderColor = P.edgeFaint;
                 } else if (matchingChapters !== null && matches) {
-                  bg = "rgba(138,107,31,0.10)";
+                  bg = P.wash10;
                   color = ACCENT;
                   borderColor = ACCENT;
                 }
@@ -245,7 +246,7 @@ export default function Reader({ book }: { book: Book }) {
                     onClick={() => toggleType(t)}
                     style={{
                       ...S.typeBtn,
-                      background: active ? "rgba(138,107,31,0.10)" : "transparent",
+                      background: active ? P.wash10 : "transparent",
                       borderLeft: `4px solid ${active ? ACCENT : "transparent"}`,
                       fontWeight: active ? 600 : 400,
                     }}
@@ -261,7 +262,7 @@ export default function Reader({ book }: { book: Book }) {
                         {meta.glyph || "Aa"}
                       </span>
                     </span>
-                    <span style={{ flex: 1, color: active ? ACCENT : "#4a3d30" }}>
+                    <span style={{ flex: 1, color: active ? ACCENT : P.ink }}>
                       {meta.label}
                     </span>
                     <span style={S.typeCount}>{typeCounts[t]}</span>
@@ -283,9 +284,9 @@ export default function Reader({ book }: { book: Book }) {
                     onClick={() => setActiveSource(active ? null : b)}
                     style={{
                       ...S.sourceBtn,
-                      background: active ? "rgba(138,107,31,0.10)" : "transparent",
+                      background: active ? P.wash10 : "transparent",
                       borderLeft: `3px solid ${active ? ACCENT : "transparent"}`,
-                      color: active ? ACCENT : "#4a3d30",
+                      color: active ? ACCENT : P.ink,
                       fontWeight: active ? 600 : 400,
                     }}
                   >
@@ -367,7 +368,7 @@ export default function Reader({ book }: { book: Book }) {
                     style={{
                       ...S.passage,
                       opacity: passageMatches ? 1 : 0.32,
-                      background: flashId === p.id ? "rgba(138,107,31,0.13)" : undefined,
+                      background: flashId === p.id ? P.wash13 : undefined,
                       transition: "opacity 0.3s, background 0.5s ease",
                       scrollMarginTop: 24,
                     }}
@@ -404,7 +405,7 @@ export default function Reader({ book }: { book: Book }) {
                                   border: `1.5px ${meta.borderStyle} ${ink}`,
                                   color: ink,
                                   opacity: dim ? 0.3 : 1,
-                                  background: open ? "rgba(138,107,31,0.10)" : "transparent",
+                                  background: open ? P.wash10 : "transparent",
                                 }}
                               >
                                 {meta.glyph && (
@@ -529,12 +530,12 @@ export default function Reader({ book }: { book: Book }) {
 const S: Record<string, CSSProperties> = {
   root: {
     fontFamily: "'Crimson Pro', 'Georgia', serif",
-    background: "#f5f0e8",
+    background: P.page,
     minHeight: "100vh",
-    color: "#2c2418",
+    color: P.inkStrong,
   },
   header: {
-    background: "#2c2418",
+    background: P.band,
     padding: "44px 24px 36px",
     textAlign: "center",
     position: "relative",
@@ -543,7 +544,7 @@ const S: Record<string, CSSProperties> = {
     position: "absolute",
     top: 20,
     left: 24,
-    color: "#d4b463",
+    color: P.accentOnBand,
     textDecoration: "none",
     fontFamily: "'Cormorant Garamond', Georgia, serif",
     fontSize: 13,
@@ -552,7 +553,7 @@ const S: Record<string, CSSProperties> = {
     transition: "color 0.15s",
   },
   headerOrnament: {
-    color: "#d4b463",
+    color: P.accentOnBand,
     fontSize: 13,
     letterSpacing: 10,
     marginBottom: 14,
@@ -561,15 +562,15 @@ const S: Record<string, CSSProperties> = {
     fontFamily: "'Cormorant Garamond', serif",
     fontSize: 52,
     fontWeight: 700,
-    color: "#f5f0e8",
+    color: P.page,
     margin: 0,
     letterSpacing: 14,
   },
-  titleRule: { width: 80, height: 1, backgroundColor: "#d4b463", margin: "14px auto" },
+  titleRule: { width: 80, height: 1, backgroundColor: P.accentOnBand, margin: "14px auto" },
   subtitle: {
     fontFamily: "'Cormorant Garamond', serif",
     fontSize: 19,
-    color: "#d4b463",
+    color: P.accentOnBand,
     margin: 0,
     fontStyle: "italic",
     letterSpacing: 2,
@@ -581,7 +582,7 @@ const S: Record<string, CSSProperties> = {
     flexShrink: 0,
     padding: "20px 16px",
     borderRight: "1px solid #d4c9b5",
-    background: "#eee9df",
+    background: P.fill,
     position: "sticky",
     top: 0,
     maxHeight: "100vh",
@@ -591,7 +592,7 @@ const S: Record<string, CSSProperties> = {
     fontFamily: "'Cormorant Garamond', serif",
     fontSize: 15,
     fontWeight: 600,
-    color: "#4a3d30",
+    color: P.ink,
     background: "none",
     border: "none",
     cursor: "pointer",
@@ -634,7 +635,7 @@ const S: Record<string, CSSProperties> = {
     fontFamily: "'Cormorant Garamond', serif",
     fontSize: 13,
     fontWeight: 600,
-    color: "#4a3d30",
+    color: P.ink,
     letterSpacing: 1,
     textTransform: "uppercase",
     marginBottom: 8,
@@ -658,11 +659,11 @@ const S: Record<string, CSSProperties> = {
     padding: "5px 12px",
     border: "none",
     borderRadius: 4,
-    background: "rgba(138,107,31,0.08)",
+    background: P.wash08,
     cursor: "pointer",
     fontFamily: "'Crimson Pro', serif",
     fontSize: 12,
-    color: "#8a5a4e",
+    color: P.warnDeep,
     width: "100%",
     textAlign: "center",
   },
@@ -682,7 +683,7 @@ const S: Record<string, CSSProperties> = {
     border: "1px solid #c9b99a",
     borderRadius: 4,
     background: "transparent",
-    color: "#4a3d30",
+    color: P.ink,
     fontFamily: "'Crimson Pro', serif",
     fontSize: 13,
     transition: "all 0.15s",
@@ -692,8 +693,8 @@ const S: Record<string, CSSProperties> = {
     padding: "5px 10px",
     border: "1px solid #c9b99a",
     borderRadius: 4,
-    background: "#fdfbf7",
-    color: "#4a3d30",
+    background: P.panel,
+    color: P.ink,
     fontFamily: "'Cormorant Garamond', serif",
     fontSize: 16,
     fontWeight: 600,
@@ -716,11 +717,11 @@ const S: Record<string, CSSProperties> = {
   howTo: {
     marginTop: 16,
     padding: 12,
-    background: "rgba(138,107,31,0.07)",
+    background: P.wash07,
     borderRadius: 6,
     fontSize: 12,
     lineHeight: 1.6,
-    color: "#6b5d4e",
+    color: P.inkSoft,
     borderLeft: `3px solid ${ACCENT}`,
   },
   main: { flex: 1, padding: "32px 40px", minWidth: 0 },
@@ -730,7 +731,7 @@ const S: Record<string, CSSProperties> = {
     fontFamily: "'Cormorant Garamond', serif",
     fontSize: 24,
     fontWeight: 600,
-    color: "#4a3d30",
+    color: P.ink,
     letterSpacing: 2,
   },
   passage: { marginBottom: 26, padding: "8px 12px", borderRadius: 6 },
@@ -751,7 +752,7 @@ const S: Record<string, CSSProperties> = {
     fontWeight: 600,
     letterSpacing: 1,
     textTransform: "uppercase",
-    color: "#b09a86",
+    color: P.neutral,
     marginBottom: 3,
   },
   expansions: { marginTop: 14, display: "flex", flexDirection: "column", gap: 8 },
@@ -760,7 +761,7 @@ const S: Record<string, CSSProperties> = {
     fontFamily: "'Cormorant Garamond', serif",
     fontSize: 13,
     fontWeight: 600,
-    color: "#8a7a6a",
+    color: P.inkMuted,
     letterSpacing: 1,
     flexShrink: 0,
   },
@@ -771,13 +772,13 @@ const S: Record<string, CSSProperties> = {
     fontWeight: 600,
     letterSpacing: 1,
     textTransform: "uppercase",
-    color: "#b09a86",
+    color: P.neutral,
     flexShrink: 0,
   },
   scriptureText: {
     fontSize: 17,
     lineHeight: 1.85,
-    color: "#2c2418",
+    color: P.inkStrong,
     margin: 0,
     fontFamily: "'Crimson Pro', serif",
     fontWeight: 300,
@@ -803,7 +804,7 @@ const S: Record<string, CSSProperties> = {
     marginTop: 8,
     marginBottom: 4,
     padding: "12px 16px",
-    background: "rgba(122,110,90,0.06)",
+    background: P.paperShade,
     borderLeft: "3px solid",
     borderRadius: "0 4px 4px 0",
   },
@@ -820,14 +821,14 @@ const S: Record<string, CSSProperties> = {
     fontWeight: 600,
     letterSpacing: 0.5,
   },
-  altSource: { fontSize: 12, fontWeight: 400, fontStyle: "italic", color: "#8a7a6a" },
+  altSource: { fontSize: 12, fontWeight: 400, fontStyle: "italic", color: P.inkMuted },
   sourceKind: {
     fontFamily: "'Cormorant Garamond', Georgia, serif",
     fontSize: 11,
     fontWeight: 600,
     letterSpacing: 1,
     textTransform: "uppercase",
-    color: "#8a7a6a",
+    color: P.inkMuted,
   },
   sourceText: {
     fontFamily: "'Crimson Pro', Georgia, serif",
@@ -844,14 +845,14 @@ const S: Record<string, CSSProperties> = {
     fontWeight: 600,
     letterSpacing: 1,
     textTransform: "uppercase",
-    color: "#8a7a6a",
+    color: P.inkMuted,
     marginBottom: 3,
   },
   sourceNote: {
     fontFamily: "'Crimson Pro', Georgia, serif",
     fontSize: 13.5,
     lineHeight: 1.6,
-    color: "#6b5d4e",
+    color: P.inkSoft,
     margin: "10px 0 0",
     fontWeight: 400,
   },
@@ -866,8 +867,8 @@ const S: Record<string, CSSProperties> = {
     fontSize: 11,
     fontWeight: 600,
     letterSpacing: 0.5,
-    color: "#6b5d4e",
-    background: "rgba(138,107,31,0.10)",
+    color: P.inkSoft,
+    background: P.wash10,
     border: "1px solid rgba(138,107,31,0.25)",
     borderRadius: 3,
     padding: "2px 8px",
@@ -886,13 +887,13 @@ const S: Record<string, CSSProperties> = {
     fontFamily: "'Crimson Pro', Georgia, serif",
     fontSize: 11.5,
     fontStyle: "italic",
-    color: "#a09080",
+    color: P.inkFaint,
     margin: "10px 0 0",
   },
   empty: {
     textAlign: "center",
     padding: "80px 24px",
-    color: "#a09080",
+    color: P.inkFaint,
     fontStyle: "italic",
     fontSize: 16,
   },
@@ -901,8 +902,8 @@ const S: Record<string, CSSProperties> = {
     padding: "20px",
     borderTop: "1px solid #d4c9b5",
     fontSize: 11,
-    color: "#a09080",
+    color: P.inkFaint,
     letterSpacing: 0.5,
-    background: "#eee9df",
+    background: P.fill,
   },
 };

@@ -1,3 +1,4 @@
+import { P } from "@/lib/palette";
 import type { Metadata } from "next";
 import type { ReactNode } from "react";
 
@@ -26,7 +27,7 @@ export default function RootLayout({ children }: { children: ReactNode }) {
       <head>
         <script defer src="/_vercel/insights/script.js"></script>
       </head>
-      <body style={{ margin: 0, background: "#f5f0e8" }}>{children}</body>
+      <body style={{ margin: 0, background: P.page }}>{children}</body>
     </html>
   );
 }

@@ -1,3 +1,4 @@
+import { P } from "@/lib/palette";
 import Link from "next/link";
 import { BOOKS, getBook } from "@/data/books";
 
@@ -25,16 +26,16 @@ const ALL_BOOKS: { slug: string; name: string }[] = [
 
 export default function Home() {
   return (
-    <div style={{ minHeight: "100vh", background: "#f5f0e8", color: "#2c2418" }}>
+    <div style={{ minHeight: "100vh", background: P.page, color: P.inkStrong }}>
       <header
         style={{
-          background: "#2c2418",
-          color: "#f5f0e8",
+          background: P.band,
+          color: P.page,
           padding: "64px 24px 56px",
           textAlign: "center",
         }}
       >
-        <div style={{ color: "#d4b463", letterSpacing: 10, marginBottom: 16, fontSize: 14 }}>
+        <div style={{ color: P.accentOnBand, letterSpacing: 10, marginBottom: 16, fontSize: 14 }}>
           ⚒ ⚒ ⚒
         </div>
         <h1
@@ -48,12 +49,12 @@ export default function Home() {
         >
           BRASS
         </h1>
-        <div style={{ width: 80, height: 1, background: "#d4b463", margin: "16px auto" }} />
+        <div style={{ width: 80, height: 1, background: P.accentOnBand, margin: "16px auto" }} />
         <p
           style={{
             fontFamily: "'Cormorant Garamond', Georgia, serif",
             fontStyle: "italic",
-            color: "#d4b463",
+            color: P.accentOnBand,
             fontSize: 19,
             letterSpacing: 2,
             margin: 0,
@@ -71,7 +72,7 @@ export default function Home() {
           fontFamily: "'Crimson Pro', Georgia, serif",
         }}
       >
-        <p style={{ fontSize: 17, lineHeight: 1.75, color: "#4a3d30" }}>
+        <p style={{ fontSize: 17, lineHeight: 1.75, color: P.ink }}>
           A Wroot Press critical catalogue. <em>Brass</em> takes its name from the
           plates of brass — Nephi&rsquo;s family&rsquo;s own name for the record of
           earlier scripture they carried out of Jerusalem and quoted from for the
@@ -93,7 +94,7 @@ export default function Home() {
             fontWeight: 600,
             letterSpacing: 3,
             textTransform: "uppercase",
-            color: "#8a7a6a",
+            color: P.inkMuted,
           }}
         >
           The Books
@@ -112,7 +113,7 @@ export default function Home() {
                   style={{
                     display: "block",
                     padding: "16px 24px",
-                    background: "#eee9df",
+                    background: P.fill,
                     border: "1px solid #e0d8c5",
                     borderRadius: 6,
                     opacity: 0.45,
@@ -124,7 +125,7 @@ export default function Home() {
                       fontSize: 22,
                       fontWeight: 600,
                       letterSpacing: 3,
-                      color: "#2c2418",
+                      color: P.inkStrong,
                     }}
                   >
                     {b.name.toUpperCase()}
@@ -139,7 +140,7 @@ export default function Home() {
                 style={{
                   display: "block",
                   padding: "20px 24px",
-                  background: "#eee9df",
+                  background: P.fill,
                   border: "1px solid #d4c9b5",
                   borderRadius: 6,
                   textDecoration: "none",
@@ -153,7 +154,7 @@ export default function Home() {
                     fontSize: 28,
                     fontWeight: 600,
                     letterSpacing: 4,
-                    color: "#2c2418",
+                    color: P.inkStrong,
                   }}
                 >
                   {built.name.toUpperCase()}
@@ -163,7 +164,7 @@ export default function Home() {
                     style={{
                       fontFamily: "'Cormorant Garamond', serif",
                       fontStyle: "italic",
-                      color: "#8a7a6a",
+                      color: P.inkMuted,
                       fontSize: 15,
                       marginTop: 4,
                       letterSpacing: 1,
@@ -172,7 +173,7 @@ export default function Home() {
                     {built.subtitle}
                   </div>
                 )}
-                <div style={{ fontSize: 12, color: "#a89a86", marginTop: 6 }}>
+                <div style={{ fontSize: 12, color: P.inkFaint, marginTop: 6 }}>
                   {count} biblical {count === 1 ? "connection" : "connections"} adjudicated
                 </div>
               </Link>
@@ -184,7 +185,7 @@ export default function Home() {
           style={{
             marginTop: 48,
             fontSize: 12,
-            color: "#8a7a6a",
+            color: P.inkMuted,
             textAlign: "center",
             letterSpacing: 1,
           }}
