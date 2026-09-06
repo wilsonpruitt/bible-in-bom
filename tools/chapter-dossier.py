@@ -26,6 +26,23 @@ ROOT = Path(__file__).resolve().parent.parent
 PUNCT_ONLY = re.compile(r"^[^\w]*$")
 
 
+# Classic OCR confusions in the 1920 column of the OpenScripture data. A pair
+# differing only by one of these is almost certainly a scanning artifact, not an
+# edition's reading — the Jacob 2 pass reported "confidence" → "confldence" at
+# 2:35 as a variant and had to say in its note that it was not one. Flagged
+# rather than suppressed: the adjudicator should see it and know what it is.
+OCR_PAIRS = [("i", "l"), ("l", "i"), ("rn", "m"), ("m", "rn"), ("c", "e"),
+             ("e", "c"), ("O", "0"), ("0", "O"), ("1", "l"), ("l", "1")]
+
+
+def looks_like_ocr(a: str, b: str) -> bool:
+    a, b = a.strip(), b.strip()
+    if not a or not b or len(a) != len(b) or a.lower() == b.lower():
+        return False
+    diffs = [(x, y) for x, y in zip(a, b) if x != y]
+    return len(diffs) == 1 and tuple(diffs[0]) in [p for p in OCR_PAIRS if len(p[0]) == 1]
+
+
 def substantive(row: dict) -> bool:
     a = (row.get("1830") or "").strip()
     b = (row.get("1920") or "").strip()
@@ -123,7 +140,9 @@ def main() -> None:
         for row in variants.get(ref, []):
             a = row.get("1830") or "(nothing)"
             b = row.get("1920") or "(deleted)"
-            out.append(f"- *variant* 1830 `{a}` → 1920 `{b}`")
+            flag = "  ⚠ likely OCR artifact in the 1920 column, not a reading" \
+                if looks_like_ocr(row.get("1830") or "", row.get("1920") or "") else ""
+            out.append(f"- *variant* 1830 `{a}` → 1920 `{b}`{flag}")
         if variants.get(ref):
             out.append("")
         for cand in sorted(kept.get(ref, []), key=score, reverse=True):

@@ -252,6 +252,36 @@ def walk_verses_and_footnotes(
     return dict(bible_refs), dict(bom_refs), warnings
 
 
+def apply_corrections(refs: dict) -> tuple[dict, int]:
+    """
+    Move rows the verse-walker mis-attributed.
+
+    The walker checkpoints against page headers and can land a footnote one
+    chapter early when a chapter turns over mid-page. Corrections live in
+    data/hardy-corrections.json with their evidence, so a re-parse does not
+    silently undo a checked fix.
+    """
+    path = ROOT / "data" / "hardy-corrections.json"
+    if not path.exists():
+        return refs, 0
+    moved = 0
+    for m in json.loads(path.read_text()).get("moves", []):
+        src, dst = m["from"], m["to"]
+        if src not in refs:
+            continue
+        keep = [r for r in refs[src] if r not in m["refs"]]
+        take = [r for r in refs[src] if r in m["refs"]]
+        if not take:
+            continue
+        refs[dst] = refs.get(dst, []) + [r for r in take if r not in refs.get(dst, [])]
+        if keep:
+            refs[src] = keep
+        else:
+            del refs[src]
+        moved += len(take)
+    return refs, moved
+
+
 def main() -> None:
     ap = argparse.ArgumentParser()
     ap.add_argument("--book", default="1 Nephi", help="Book of Mormon book name, our convention")
@@ -272,6 +302,9 @@ def main() -> None:
     bom_text = load_bom_text(args.book)
 
     bible_refs, bom_refs, warnings = walk_verses_and_footnotes(pieces, bom_text, args.book)
+    bible_refs, moved = apply_corrections(bible_refs)
+    if moved:
+        print(f"applied {moved} correction(s) from data/hardy-corrections.json")
 
     def validate_and_write(raw: dict[str, list[str]], filename: str, label: str) -> tuple[int, int, list[str]]:
         clean: dict[str, list[str]] = {}

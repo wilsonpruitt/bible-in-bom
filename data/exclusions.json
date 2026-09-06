@@ -3488,6 +3488,126 @@
         "manual"
       ],
       "reason": "1 Peter 2:7 is the fifth New Testament quotation of Psalm 118:22 and shares 'is made the head of the corner' with Jacob 4:17, so it belongs among the candidates. It is displaced on the verb: 1 Peter reads 'the stone which the builders DISALLOWED', where Jacob 4:15 and 4:17 both read 'reject'. Acts 4:11, which Hardy also lists, is displaced the same way — it reads 'was SET AT NOUGHT of you builders'. Only Matthew 21:42, Mark 12:10 and Luke 20:17 give 'rejected', which is why the link at 4:17 names the Synoptic form specifically. Note that 1 Peter 2:6-8 is nevertheless the New Testament's fullest fusion of the three stone texts (Isaiah 28:16, Psalm 118:22, Isaiah 8:14), the same fusion Jacob performs across 4:15-17; it is recorded as a composite at 4:15 rather than as a source here."
+    },
+    {
+      "bomRef": "Jacob 2:2",
+      "source": "Hebrews 13:7",
+      "category": "better-source-identified",
+      "sharedText": "unto you the word of God",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "The top-ranked machine candidate for this verse, and genuinely tempting: Hebrews 13:7 is about leaders 'which have the rule over you, who have spoken unto you the word of God', which is exactly Jacob's situation as he comes up into the temple to 'declare unto you the word of God'. But the six-word run is the KJV's ordinary phrase for preaching and occurs across the New Testament, and the verse's real borrowing is elsewhere in the same sentence: 'magnify mine office' is a KJV singleton at Romans 11:13, and it is a claim about the speaker's office, which is what Hebrews 13:7 only made this candidate look like."
+    },
+    {
+      "bomRef": "Jacob 2:6",
+      "source": "Jeremiah 44:9",
+      "category": "common-vocabulary",
+      "sharedText": "the wickedness of your",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "Jeremiah 44:9 rehearses the wickedness of fathers, kings and wives in a chapter about idolatry in Egypt; the four shared words are a possessive construction the KJV uses continuously. Nothing in Jacob 2:6 points at Jeremiah 44 in particular, and the verse's one distinctive string, 'before the presence of', points at Jude 1:24 instead."
+    },
+    {
+      "bomRef": "Jacob 2:11",
+      "source": "Numbers 22:20",
+      "category": "insufficient-verbal",
+      "sharedText": "the word which I shall",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "Worth writing up because the thematic pull is real and misleading. Numbers 22:20 is God telling Balaam that he may go, 'but yet the word which I shall say unto thee, that shalt thou do' — a prophet constrained to speak only what he is given, which is precisely Jacob's plea at 2:9-11 that he speaks under 'the strict commandment which I have received from God'. The typological expectation is that a reluctant prophet under compulsion is being drawn as Balaam. The wording will not bear it: 'the word which I shall give thee' is the KJV's standard commissioning formula (Exodus 25:16, Jeremiah 1:7), Jacob's verb is 'give' where Balaam's is 'say', and no other element of the Balaam narrative appears anywhere in the chapter."
+    },
+    {
+      "bomRef": "Jacob 2:12",
+      "source": "Deuteronomy 11:11",
+      "category": "formulaic",
+      "sharedText": "is a land of",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "'Is a land of' is the KJV's standard formula for describing territory and appears in dozens of verses. Deuteronomy 11:11's subject is rain and topography; Jacob's is a land abounding in gold and silver. The four words carry nothing."
+    },
+    {
+      "bomRef": "Jacob 2:17",
+      "source": "Acts 3:22",
+      "category": "wrong-sense",
+      "sharedText": "of your brethren, like unto",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "A five-word run shared with both Acts 3:22 and Acts 7:37, and the highest-scoring candidate at this verse — but the sense is opposed at the only point that matters. In Acts the phrase is Deuteronomy 18:15's messianic promise: God will raise up a prophet 'of your brethren, like unto me', where 'like unto' governs Moses and the whole weight of the clause is that one man will resemble one other man. Jacob 2:17 reads 'Think of your brethren, like unto yourselves', where 'brethren' means the poor of the congregation and 'like unto yourselves' is an appeal to common humanity against a claim of superiority. The word-run is an artifact of two different uses of 'like unto' colliding after the same two nouns. Note that the Deuteronomy-via-Acts pairing is a real and important link elsewhere in this catalogue (1 Nephi 22:20); it is not one here."
+    },
+    {
+      "bomRef": "Jacob 2:18",
+      "source": "Matthew 3:2",
+      "category": "better-source-identified",
+      "sharedText": "ye for the kingdom of",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "The run is an accident of 'ye' abutting 'for the kingdom of'; Matthew 3:2 is John's 'Repent ye: for the kingdom of heaven is at hand', where 'for' is a conjunction and the kingdom is 'of heaven', not 'of God'. The verse's actual source is the seek-the-kingdom saying, Matthew 6:33 or Luke 12:31, catalogued as a link at this verse."
+    },
+    {
+      "bomRef": "Jacob 2:20",
+      "source": "1 Corinthians 2:9",
+      "category": "wrong-sense",
+      "sharedText": "the things which God hath",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "The highest-scoring candidate at this verse and the polarity is wrong. Paul's clause is 'the things which God hath prepared for them that love him' — the unseen, unimagined future reward. Jacob's is 'the things which God hath given you', the present wealth his hearers are proud of and are being rebuked for. The shared five words are a relative clause with a common verb; the two sentences are about opposite kinds of possession."
+    },
+    {
+      "bomRef": "Jacob 2:22",
+      "source": "2 Kings 3:14",
+      "category": "formulaic",
+      "sharedText": "were it not that I",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "'Were it not that I' is a KJV conditional formula shared with Deuteronomy 32:27 and 2 Kings 3:14 alike, and 'I make an end of' (Ezekiel 20:17) is narrative boilerplate the Book of Mormon uses continuously. Neither Elisha's refusal to look at Jehoram nor Ezekiel's sparing of Israel in the wilderness has any contact with Jacob's transition from pride to unchastity."
+    },
+    {
+      "bomRef": "Jacob 2:25",
+      "source": "Daniel 9:15",
+      "category": "better-source-identified",
+      "sharedText": "people forth out of the land of",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "The longest machine run in the chapter (seven words) and a real echo, but of a formula rather than of this verse. 'Brought thy people forth out of the land of Egypt with a mighty hand' is the KJV's standing exodus recital and stands in Daniel 9:15, Exodus 32:11, Deuteronomy 9:26 and elsewhere in nearly identical words, so Daniel has no claim to be the source. The verse's demonstrable borrowings are Exodus 6:6, whose 'stretched out arm' Jacob renders 'the power of mine arm' and whose 'rid you' he has already used at 2:16, and Jeremiah 23:5's 'righteous Branch'; both are catalogued as links here."
+    },
+    {
+      "bomRef": "Jacob 2:27",
+      "source": "Genesis 2:24",
+      "category": "insufficient-verbal",
+      "sharedText": "(none)",
+      "streams": [
+        "manual"
+      ],
+      "reason": "The expected source for a law of one wife, and it is not the source. Genesis 2:24 and its four New Testament quotations (Matthew 19:5, Mark 10:7-8, 1 Corinthians 6:16, Ephesians 5:31) were put through tools/mediation-check.py against Jacob 2:27, and the result is that the test cannot run: Jacob reproduces none of the wording the candidates share — no 'leave his father and his mother', no 'cleave', no 'one flesh', no 'twain' — so there is nothing at which the OT and NT forms could be shown to diverge. The finding is worth recording precisely because it is negative. The chapter that legislates monogamy does not argue it from the one-flesh text, and its actual English ('save it be one wife') belongs to the three Pastoral verses on the qualifications of bishops and deacons, catalogued as a link at this verse. A reader who assumes Genesis 2:24 stands behind Jacob 2:27 is importing a connection the text declines to make."
+    },
+    {
+      "bomRef": "Jacob 2:27",
+      "source": "Joshua 1:5",
+      "category": "formulaic",
+      "sharedText": "there shall not any man",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "A five-word run with a high rarity score and no content. Joshua 1:5 promises that no man will be able to stand before Joshua; Jacob 2:27 forbids any man to have more than one wife. The shared string is a universal negative subject, and the continuation ('be able to stand' against 'among you have') diverges at the sixth word."
+    },
+    {
+      "bomRef": "Jacob 2:31",
+      "source": "Obadiah 1:13",
+      "category": "formulaic",
+      "sharedText": "of my people in the",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "The top-scoring candidate at this verse on n-gram rarity (2.00) and entirely worthless: the five words are a prepositional chain, and Obadiah 1:13 is about Edom entering the gate of Jerusalem in the day of its calamity. The verse's real source is the doubled seeing-and-hearing formula of Exodus 3:7, which the machine stream cannot see because Jacob splits it across a clause boundary and substitutes his own nouns."
     }
   ]
 }
