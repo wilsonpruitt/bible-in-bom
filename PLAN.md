@@ -114,6 +114,58 @@ New tools: `collate-isaiah.py`, `build-isaiah-adjudication.py`,
 `frederick-refs.json`. Schema addition:
 `Link.recurrenceRefs`.
 
+## 6b. Agent passes — the harness (set up 2026-09-05, NOT yet run)
+
+The pilot established the pattern; this is the machinery for repeating it 197
+more times. Nothing has been dispatched.
+
+**Runbook:** `ADJUDICATING.md` — the procedure, written after 1 Nephi so the
+method is the thing that scales rather than the person. `CONVENTIONS.md` still
+governs judgment; `ADJUDICATING.md` governs the loop.
+
+**Agent:** `.claude/agents/adjudicator.md`, one per chapter, model Opus (§9).
+It reads the conventions, the runbook, and two worked chapters, then runs the
+loop and reports. It does not commit — the dispatching session reviews.
+
+**New verification tools.** These were done by ad hoc heredoc during the pilot,
+which is exactly what must not happen at scale:
+- `kjv-rarity.py` — how many KJV verses contain a phrase. A third of the
+  pilot's links rest on a singleton, and the claim is free to check. Normalizes
+  curly apostrophes (the bug that hid Exodus 3:18 during the pilot).
+- `mediation-check.py` — diffs an OT verse against its NT quotation and reports
+  which form the Book of Mormon has. This is the mechanism behind all sixteen
+  OT-via-NT rows. It ignores single common words after a false "decisive" on
+  22:20, so pronouns still need a human eye.
+- `lint-adjudication.py` — the gate that matters. Every reference must resolve
+  against the KJV; `text` must be the actual wording of `source`; every
+  "occurs in exactly N KJV verses" claim is verified; bibliography entries must
+  cite a source we hold; attribution verbs are flagged for review. **It found a
+  real error in hand-written pilot work on its first run** (1 Nephi 17:8 claimed
+  a singleton for "I shall shew thee", which occurs in two — the singleton is
+  "which I shall shew thee"). 1 Nephi now passes with 0 errors.
+- `bootstrap-book.py` — a book from nothing to ready in one command, and
+  reports what a pass will face (chapters, Hardy rows, Frederick verses).
+
+**Estimated burn for the rest of the corpus** (Wilson's hard stop #6):
+
+| | chapters | tokens |
+| --- | --- | --- |
+| hand-adjudicated | 197 | 7.9M – 11.8M |
+| collated Isaiah/Malachi blocks | 20 | 0.1M – 0.2M |
+| **total** | **217** | **8.0M – 12.0M** |
+
+Rate is the pilot's own: 1 Nephi's 22 chapters cost roughly 1.0M tokens in one
+session, and a dispatched agent adds start-up reading. Alma alone is 63
+chapters and about a third of the whole job. **The twenty transcription
+chapters are nearly free** — `collate-isaiah.py` does 2 Nephi 12-24 (Isaiah
+2-14), 2 Nephi 7-8, 3 Nephi 22 and 24-25, Mosiah 14 mechanically, and those
+are the chapters that would otherwise be the most expensive to hand-write.
+
+**Recommended order, cheapest proof first:** the four one-chapter books (Enos,
+Omni, Words of Mormon, Jarom — ~4 chapters, under 200k) to check agent output
+against the pilot's standard, then Jacob (7), then 2 Nephi (17 hand + 16
+collated), then the long books.
+
 ## 7. Pilot acceptance test ("definitive" for 1 Nephi means all of these)
 1. Pipeline recovers the confirmable Skousen KJV-quotation row(s) in 1 Nephi — currently just 1 Nephi 20–21 ~ Isaiah 48–49 (recovered ✓, see §4 note on KJQ availability).
 2. Every Hardy appendix row for 1 Nephi is either a Link or a reasoned exclusion.
