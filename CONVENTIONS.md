@@ -257,6 +257,44 @@ goes wrong — 23 invented attributions across an otherwise decent pilot.
 `apply-adjudication.py` still requires that an uncited link be either `novel` or
 `citationsPending`, so that the unsourced set stays countable.
 
+## 6a. Our reading governs; Hardy is pointed to, not deferred to
+
+*Wilson's ruling, 2026-09-05, after the Jacob pass.*
+
+**The catalogue's own reading is the reading.** Where our judgment and Hardy's
+cross-reference apparatus differ, we publish ours and we say where his points.
+He is a study edition's apparatus, not an authority the catalogue is obliged to
+reproduce, and three of his rows in Jacob alone turned out to be mis-keyed in
+our extract of him — which is a fact about our parser, but it makes the general
+point: an apparatus is evidence, not a verdict.
+
+In practice:
+
+- **Cite him wherever he genuinely bears.** A Hardy row on a link we made
+  independently is worth having and worth naming; it is most of what gets a row
+  off `citationsPending`, and `hardy-coverage.py` still requires every row of
+  his to be a link or a reasoned exclusion (PLAN §7.2). Pointing to him is the
+  default, not the exception.
+- **Where he keys a reference to a verse and the wording is elsewhere, put the
+  link where the wording is** and file a `better-source-identified` exclusion at
+  his verse saying where it went. Jacob 5:3 is the model: he keys Isaiah 5:1-7
+  and Romans 11:17-24 to the verse that introduces the allegory, which is right
+  for a chapter-level cross-reference and wrong for a verbal one, so the links
+  sit at 5:41 and 5:7 and the register sends a reader from 5:3 to both.
+- **Where his row has no verbal contact at all, say so and decide on our own
+  evidence.** He may be recording a thematic association a study edition wants
+  its reader to have; we are cataloguing dependence. Discharge the row honestly
+  — a `figural` link with a `whyNot`, or an exclusion that gives the reason —
+  and do not manufacture a verbal case to justify his reference. Jacob 3:5's
+  Genesis 22:1-18 is the standing example.
+- **`status` follows the evidence, not the citation.** A link we found and he
+  happens to corroborate is still ours; use `novel` or `majority` on our own
+  assessment and let `bibliography` record that he cross-references it.
+
+The one thing unchanged is §6's hard limit. Preferring our reading never
+licenses misdescribing his: "Hardy cross-references X here" is a fact,
+"Hardy identifies X as the source" is a claim about his work.
+
 ## 7. Mediation
 
 Decide, don't default. The interesting cases are OT sources that also appear in

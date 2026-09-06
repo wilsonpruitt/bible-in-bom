@@ -17,11 +17,11 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 
 
-def run(*cmd):
+def run(*cmd, allow_fail=False):
     print(f"  $ {' '.join(str(c) for c in cmd)}")
     r = subprocess.run([sys.executable, *[str(c) for c in cmd]],
                        capture_output=True, text=True, cwd=ROOT)
-    if r.returncode:
+    if r.returncode and not allow_fail:
         print(r.stdout); print(r.stderr, file=sys.stderr)
         sys.exit(f"failed: {' '.join(str(c) for c in cmd)}")
     return r.stdout
@@ -81,6 +81,11 @@ def main() -> None:
     print(f"  Frederick verses touched:  {f}")
     print("  chapters by verse count:",
           ", ".join(f"{c}({n})" for c, n in sorted(per_ch.items())))
+    print("\n4. auditing Hardy's verse attribution for this book")
+    print("   (the walker mis-keyed four rows in Jacob and one in 1 Nephi;")
+    print("    never dispatch agents against an unaudited apparatus)")
+    print(run(ROOT / "tools" / "audit-hardy.py", slug, allow_fail=True).rstrip() or "   (no rows)")
+
     print(f"\nNext: add `{slug}` to data/books.ts, then dispatch one adjudicator "
           f"per chapter (see ADJUDICATING.md).")
 

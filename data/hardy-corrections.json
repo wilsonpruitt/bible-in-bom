@@ -1,5 +1,5 @@
 {
-  "note": "Verse-attribution corrections to data/hardy-refs.json, applied by tools/parse-hardy.py after parsing so they survive a re-run. parse-hardy walks verses against page-boundary checkpoints and can mis-attribute a footnote when a chapter turns over mid-page, or drift inside a very long chapter; both are limits of the method (see its docstring). THREE such errors were found in Jacob alone by the adjudicating agents — see the moves below — against none yet found in 1 Nephi, whose 62 rows were each checked against the text during that book's passes. The walker needs an audit before Mosiah and Alma, whose chapters are longer and more numerous than Jacob's. Each entry records its evidence, because a correction to a scholarly apparatus must be checkable.",
+  "note": "Verse-attribution corrections to data/hardy-refs.json, applied by tools/parse-hardy.py after parsing so they survive a re-run. parse-hardy walks verses against page-boundary checkpoints and can mis-attribute a footnote when a chapter turns over mid-page, or drift inside a very long chapter; both are limits of the method (see its docstring). THREE such errors were found in Jacob alone by the adjudicating agents — see the moves below — against none yet found in 1 Nephi, whose 62 rows were each checked against the text during that book's passes. The walker needs an audit before Mosiah and Alma, whose chapters are longer and more numerous than Jacob's. Each entry records its evidence, because a correction to a scholarly apparatus must be checkable. Rows reviewed and judged NOT drift are listed under `reviewed_not_drift` so a later audit does not re-litigate them.",
   "moves": [
     {
       "from": "Jacob 4:3",
@@ -13,12 +13,12 @@
     },
     {
       "from": "Jacob 5:4",
-      "to": "Jacob 5:47",
+      "to": "Jacob 6:4",
       "refs": [
         "Isaiah 65:2",
         "Romans 10:21"
       ],
-      "reason": "Found by the Jacob 5 pass. Jacob 5:4 is the master pruning and digging about a decaying tree; it has no hand in it. Jacob 5:47 is 'I have stretched forth mine hand almost all the day long', which is what Isaiah 65:2 ('I have spread out my hands all the day') and Romans 10:21 ('All day long I have stretched forth my hands') are cross-references to. A 43-verse drift inside the longest chapter in the Book of Mormon — a different failure from the 4:3 slip, and the reason the walker needs auditing rather than patching."
+      "reason": "Found by the Jacob 5 pass, corrected by tools/audit-hardy.py. Jacob 5:4 is the master pruning a decaying tree; it has no hand in it. Both Jacob 5:47 ('I have stretched forth mine hand almost all the day long') and Jacob 6:4 ('he stretches forth his hands unto them all the day long … a stiffnecked and a gainsaying people') use the sentence, and the row was first moved to 5:47 on the Jacob 5 agent's evidence. 6:4 is the right home: it keeps the verse number, which is this parser's drift signature, and it alone carries 'gainsaying', the second of Romans 10:21's two KJV singletons. Isaiah 65:2 reads 'spread out my hands … rebellious people' and supplies neither."
     },
     {
       "from": "Jacob 5:2",
@@ -27,6 +27,34 @@
         "Isaiah 11:11"
       ],
       "reason": "Found by the Jacob 5 pass. Jacob 5:2 is the bare summons 'Hearken O ye House of Israel'. Jacob 6:2 reads 'in the day that he shall set his hand again the second time to recover his people', which is Isaiah 11:11's 'the Lord shall set his hand again the second time to recover the remnant of his people' almost verbatim. A one-chapter slip, the same shape as Jacob 4:3 → 5:3."
+    },
+    {
+      "from": "Jacob 5:6",
+      "to": "Jacob 6:6",
+      "refs": [
+        "Psalm 95:7-8"
+      ],
+      "reason": "Found by tools/audit-hardy.py's chapter-shift test. Jacob 5:6 is about young and tender branches. Jacob 6:6 reads 'Yea, to-day if ye will hear his voice, harden not your hearts', which is Psalm 95:7-8 almost verbatim. Verse number preserved, chapter one early — the same signature as 4:3→5:3 and 5:2→6:2."
+    },
+    {
+      "from": "1 Nephi 21:16",
+      "to": "1 Nephi 20:16",
+      "refs": [
+        "Isaiah 48:16"
+      ],
+      "reason": "Found by tools/audit-hardy.py. Hardy keys each verse of the transcribed Isaiah blocks to its source (20:3→Isa 48:3, 20:6→48:6, 20:10→48:10, 21:7→49:7, 21:20→49:20, 21:24→49:24), so 1 Nephi 20 answers to Isaiah 48 and 21 to Isaiah 49. A row reading '21:16 → Isaiah 48:16' breaks that pattern; 1 Nephi 20:16 reproduces Isaiah 48:16 nearly word for word. This is the FIRST drift found in 1 Nephi, and it corrects my statement in the Jacob commit that 1 Nephi showed none — that was said of rows checked one at a time during adjudication, which is not an audit."
+    }
+  ],
+  "reviewed_not_drift": [
+    {
+      "ref": "1 Nephi 22:26",
+      "cite": "Isaiah 49:22-26",
+      "reason": "tools/audit-hardy.py flags this because 1 Nephi 21:26 scores higher — but 1 Nephi 21 IS Isaiah 49, so a high score there is the transcription matching itself, not evidence of drift. 1 Nephi 22 is Nephi's exposition of the chapter he has just read out, and a cross-reference from 22:26 back to the Isaiah passage it expounds is exactly what a study edition should carry. Reviewed 2026-09-05; left where Hardy keys it."
+    },
+    {
+      "ref": "Jacob 3:5",
+      "cite": "Genesis 22:1-18",
+      "reason": "Low verbal overlap and no better candidate anywhere in the book, which is the audit's signature for a THEMATIC cross-reference rather than a mis-key. Hardy is pointing a reader from the Lamanite promise to the Abrahamic one; we are cataloguing dependence. Discharged per CONVENTIONS §6a as a figural link with a whyNot at Jacob 3:5, on our own evidence, with his row cited as the cross-reference it is."
     }
   ]
 }

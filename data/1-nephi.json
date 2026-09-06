@@ -12653,11 +12653,13 @@
             "1-nephi-20:16-c",
             "1-nephi-20:16-d"
           ],
-          "bibliography": [],
+          "bibliography": [
+            "Hardy MSI at 1 Ne 20.16 (Isaiah 48:16)"
+          ],
           "status": "consensus",
-          "citationsPending": true,
           "streams": [
-            "manual"
+            "manual",
+            "scholarship"
           ]
         }
       ]
@@ -13522,11 +13524,9 @@
             "route": "Isaiah 49 → KJV → Book of Mormon",
             "significance": "Part of a continuous transcription of Isaiah 49 as 1 Nephi 21. The quotation is not the finding; the departures are, and they are listed in the note and registered individually in data/isaiah-collation.json."
           },
-          "note": "Reproduces the KJV verse word for word.",
+          "note": "Reproduces the KJV verse word for word. (A Hardy citation formerly stood here reading “Isaiah 48:16” — an artifact of the verse-walker's drift, corrected 2026-09-05; the row belongs at 1 Nephi 20:16 and is cited there. See data/hardy-corrections.json.)",
           "variants": [],
-          "bibliography": [
-            "Hardy MSI at 1 Nephi 21:16 (Isaiah 48:16)"
-          ],
+          "bibliography": [],
           "status": "consensus",
           "streams": [
             "scholarship",
@@ -13534,7 +13534,8 @@
           ],
           "composite": [
             "Isaiah 48:16"
-          ]
+          ],
+          "citationsPending": true
         }
       ]
     },
