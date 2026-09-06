@@ -117,11 +117,21 @@ The pilot's best rows share a shape. Aim for it, and do not manufacture it.
 - **The window closes one word early.** 2 Timothy 2:4's "hath chosen him to be a"
   is a six-word run whose next word is `soldier`, not `ruler`. Always read the
   candidate's whole verse.
-- **A repeat is not a fresh borrowing.** Once the book has adopted a phrase
-  (`scattered upon all the face of the earth`, `great shall be the fall of it`),
-  later occurrences are the book using its own formula. Adjudicate at first use;
-  record later ones in `recurrenceRefs` and, if the machine proposes them again,
-  as a `better-source-identified` exclusion pointing at the first.
+- **A repeat is not a fresh borrowing — WITHIN a book.** Once a narrator has
+  adopted a phrase (`scattered upon all the face of the earth`, `great shall be
+  the fall of it`), later occurrences in the same book are him using his own
+  formula. Adjudicate at first use; record later ones in `recurrenceRefs` and,
+  if the machine proposes them again, as a `better-source-identified` exclusion
+  pointing at the first.
+
+  **Across a book boundary, write the link.** *Ratified 2026-09-05 after the
+  Omni pass raised it.* A new book is a new authorial voice, the reader page is
+  per-book, and a reader of Omni who is shown nothing at 1:15 has simply been
+  told there is no borrowing there. So give the row, set `recurrenceRefs` back
+  to its first adjudication, and let the note say the argument was made there
+  rather than restating it. The exclusion form is for repeats a reader would
+  meet twice in one sitting; the link form is for the same phrase re-entering
+  in a different hand.
 - **Check the pronoun.** `hardness of THEIR hearts` is Mark 3:5 and `hardness of
   YOUR hearts` is Matthew 19:8, and 1 Nephi uses each in its correct grammatical
   setting. `mediation-check.py` deliberately ignores single common words to avoid

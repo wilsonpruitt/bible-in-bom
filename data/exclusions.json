@@ -2477,6 +2477,466 @@
         "manual"
       ],
       "reason": "'Dwell safely' is a covenant-blessing formula in some fifteen KJV verses (Leviticus 25:18-19, Deuteronomy 12:10, Jeremiah 23:6, 32:37, Ezekiel 34:25-28 and others) and identifies no source. The verse's catalogued borrowing is 'all nations, kindreds, tongues, and people', which is Revelation 14:6's and is adjudicated at 5:18."
+    },
+    {
+      "bomRef": "Words of Mormon 1:1",
+      "source": "1 Samuel 30:15",
+      "category": "formulaic",
+      "sharedText": "into the hands of my",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "Top-ranked machine candidate at 1:1 and 1:2 on a five-word run. 'Deliver ... into the hands of' is KJV narrative boilerplate in scores of verses, and the Amalekite servant's oath to David has nothing to do with a scribe handing a record to his son. Covered in principle by the standing formulaic exclusion; listed here only because it topped two consecutive verses and would tempt a reader who trusted the ranking."
+    },
+    {
+      "bomRef": "Words of Mormon 1:4",
+      "source": "1 Kings 13:32",
+      "category": "common-vocabulary",
+      "sharedText": "surely come to pass",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "'Shall surely come to pass' is prophetic-fulfilment idiom, and the KJV distributes the components widely; 1 Kings 13:32 is a saying against the altar at Bethel and shares no context with Mormon's remark that prophecies of Christ have been fulfilled. The four-word run is the whole of the evidence."
+    },
+    {
+      "bomRef": "Words of Mormon 1:5",
+      "source": "Nehemiah 5:11",
+      "category": "wrong-sense",
+      "sharedText": "the hundredth part of the",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "A genuinely tempting candidate: 'hundredth part' occurs in exactly one KJV verse, so the rarity is maximal and the machine's four-word run is real. But Nehemiah 5:11 is Nehemiah ordering the nobles to restore lands, houses and 'the hundredth part of the money, and of the corn, the wine, and the oil' they had been exacting in usury — a rate of interest, not a fraction of a record. Words of Mormon uses the phrase for the proportion of his people's history Mormon can fit on the plates. Nothing but the arithmetic is shared. Note that the 1830 reads 'a hundredth part' and 1920 'the hundredth part', so the later text moves toward Nehemiah's article and away from Nehemiah's meaning; the change is editorial tidying and not a borrowing. The Book of Mormon's own formula at Jacob 3:13 precedes this verse and is the proximate model; the colophon parallel with John 21:25 is catalogued at 1:5 at low confidence."
+    },
+    {
+      "bomRef": "Words of Mormon 1:7",
+      "source": "1 John 3:20",
+      "category": "better-source-identified",
+      "sharedText": "knoweth all things",
+      "streams": [
+        "manual"
+      ],
+      "reason": "'Knoweth all things' occurs in exactly one KJV verse, and it is not the one Words of Mormon 1:7 is using. 1 John 3:20 is pastoral consolation — 'if our heart condemn us, God is greater than our heart, and knoweth all things' — where omniscience is a comfort to a self-accusing conscience. Words of Mormon 1:7 means foreknowledge: 'the Lord knoweth all things which is to come', set against 'I do not know all things', in a sentence about a purpose withheld from the writer. That is Acts 15:18's sense, and the Book of Mormon has already fused Acts 15:18 with Deuteronomy 29:29 at 1 Nephi 9:5-6 in exactly this pairing; the proximate model is its own earlier text. The singleton is recorded here so that a later reader who runs the rarity check does not conclude it was missed."
+    },
+    {
+      "bomRef": "Words of Mormon 1:8",
+      "source": "2 Timothy 3:7",
+      "category": "insufficient-verbal",
+      "sharedText": "come to the knowledge of",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "The highest-scoring machine candidate in the chapter (rarity 2.00, five-word run) and the wrong one. 'Come to the knowledge of the truth' is a Pastorals formula shared by 1 Timothy 2:4 and 2 Timothy 3:7; Words of Mormon 1:8 has 'come to the knowledge of God', which is a different object and a common enough collocation (Proverbs 2:5, Hosea 4:1, Colossians 1:10). The borrowing in this verse is 'delightsome', from Malachi 3:12, which the n-gram stream cannot see because it is one word."
+    },
+    {
+      "bomRef": "Words of Mormon 1:13",
+      "source": "Isaiah 9:20",
+      "category": "wrong-sense",
+      "sharedText": "of his own arm",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "A four-word run with real rarity, and the sense is opposed at the level of horror. Isaiah 9:20 describes famine in a divided Israel: 'they shall eat every man the flesh of his own arm'. Words of Mormon 1:13 has King Benjamin fighting 'with the strength of his own arm'. The shared string is an accident of the possessive; the arm is being devoured in one text and swung in the other. The verse's catalogued link is to Hezekiah's 'arm of flesh' speech at 2 Chronicles 32:8, which supplies the antithesis 1:13-14 actually runs on."
+    },
+    {
+      "bomRef": "Words of Mormon 1:17",
+      "source": "1 Kings 14:24",
+      "category": "formulaic",
+      "sharedText": "in the land and they did",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "The chapter's longest machine run — six words, rarity 1.20, ranked first at this verse — and worthless, which is the standing lesson about the n-gram stream (CONVENTIONS §9). 1 Kings 14:24 reads 'And there were also sodomites in the land: and they did according to all the abominations of the nations'; the agreement is entirely in the connective seam between two clauses. The real borrowings at 1:17 are 'use sharpness' (2 Corinthians 13:10, a KJV singleton), 'the word of God with' (Acts 4:31, a KJV singleton) and the split 'reign in righteousness' of Isaiah 32:1, none of which the stream ranked first."
+    },
+    {
+      "bomRef": "Words of Mormon 1:17",
+      "source": "Acts 7:51",
+      "category": "common-vocabulary",
+      "sharedText": "stiffnecked",
+      "streams": [
+        "manual"
+      ],
+      "reason": "'Stiffnecked' occurs in nine KJV verses, seven of them in the Pentateuch's golden-calf and land-possession material, and it is one of the Book of Mormon's most frequent inherited adjectives. Stephen's 'Ye stiffnecked and uncircumcised in heart' is the nearest in rhetorical setting — a prophet rebuking a people — but 'stiffneckedness' is an abstract noun in no KJV verse, and nothing else of Acts 7:51 is present. No source can be identified from the word alone; it belongs in the Index Verborum, not the catalogue."
+    },
+    {
+      "bomRef": "Words of Mormon 1:18",
+      "source": "Mark 12:30",
+      "category": "better-source-identified",
+      "sharedText": "with all thy soul, and with all thy strength",
+      "streams": [
+        "manual"
+      ],
+      "reason": "Recorded so the mediation test is visible in the register and not only in the link. The Shema reaches Words of Mormon 1:18 in the Old Testament's KJV form, not the Gospels'. Deuteronomy 6:5 reads 'with all thy might'; Mark 12:30 and Luke 10:27 read 'with all thy strength' at the same point of the same sentence; Words of Mormon 1:18 has 'the might of his body'. `tools/mediation-check.py` returns one decisive divergence and it favours Deuteronomy. Given how heavily this chapter otherwise draws on the New Testament — Matthew or Mark at 1:15, 2 Peter at 1:16, Acts, Philippians, Revelation and 2 Corinthians elsewhere — the one place it could have taken a Gospel form and did not is worth naming."
+    },
+    {
+      "bomRef": "Omni 1:2",
+      "source": "Judges 2:14",
+      "category": "common-vocabulary",
+      "sharedText": "into the hands of their enemies",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "The top-ranked machine candidate for this verse and again for 1:6 and 1:7, with a six-word run. 'Hand of their enemies' occurs in nine KJV verses (Judges 2:14, 2:18, 8:34, 2 Kings 21:14, Nehemiah 9:27, Psalm 106:41-42, Jeremiah 20:5 and others), always in the Deuteronomistic cycle of apostasy and deliverance, and the Book of Mormon uses the phrase continuously from 1 Nephi onward. Nothing selects Judges 2:14 over the rest, and the cycle it belongs to is the book's own narrative default. One entry covers the recurrence at 1:6 and 1:7."
+    },
+    {
+      "bomRef": "Omni 1:2",
+      "source": "2 Corinthians 12:11",
+      "category": "formulaic",
+      "sharedText": "I ought to have",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "A four-word run of ordinary modal English, and the senses do not touch — Paul says the Corinthians ought to have commended him, Omni says he has not kept the commandments as he ought to have done. 'As I ought' occurs in two KJV verses, Ephesians 6:20 and Colossians 4:4, and both are about speaking boldly, not about failing to keep the law; 2 Corinthians 12:11 is selected only by the auxiliary 'to have'. Recorded because the run is long enough that a careful reader might pause over it."
+    },
+    {
+      "bomRef": "Omni 1:7",
+      "source": "Acts 15:14",
+      "category": "wrong-sense",
+      "sharedText": "did visit",
+      "streams": [
+        "manual"
+      ],
+      "reason": "A tempting case, and the reason the register exists. “did visit” occurs in exactly one KJV verse — Acts 15:14, James at the Jerusalem council: 'Simeon hath declared how God at the first did visit the Gentiles, to take out of them a people for his name.' A KJV singleton matching a Book of Mormon phrase word for word normally carries a link. Here it must not. Acts 15:14 is the KJV's warmest statement of divine visitation as election: God visits in order to take a people for himself. Omni 1:7 reads 'the Lord did visit them in great judgment', where the visitation destroys the more wicked part of the Nephites and the taking-out is what happens to the survivors afterwards ('he did spare the righteous'). The verb is the same and the theology is inverted. 'Visit' in the punitive sense is thoroughly biblical (Exodus 32:34, Jeremiah 6:15, Hosea 8:13, 'I will visit their sins upon them'), so the Book of Mormon's usage is at home in the KJV without needing Acts 15:14 at all — it simply happens to have hit the one verse where the auxiliary matches. Compare the Proverbs 12:10 entry: string match real, sense opposed."
+    },
+    {
+      "bomRef": "Omni 1:12",
+      "source": "Judges 3:4",
+      "category": "formulaic",
+      "sharedText": "would hearken unto the",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "'Hearken unto the voice of the LORD' is the Deuteronomic obedience formula and appears in some thirty KJV verses (Deuteronomy 13:18, 15:5, 28:1-2, 1 Samuel 15:22, Jeremiah 38:20 and many more); Judges 3:4 is one of them and is selected only by the accident of the auxiliary 'would'. Omni uses the formula twice in two verses (1:12, 1:13) as a way of specifying who left with Mosiah, which is a partitive use no biblical verse supplies. Covered here for both."
+    },
+    {
+      "bomRef": "Omni 1:13",
+      "source": "Job 42:9",
+      "category": "formulaic",
+      "sharedText": "did according as the Lord",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "'And it came to pass that he did according as the Lord had commanded him' is narrative boilerplate the Book of Mormon uses scores of times, and the KJV has the same construction throughout the Pentateuch (Exodus 7:6, 12:28, 39:32, Numbers 20:27) as well as at Job 42:9. The candidate was ranked first for this verse on a five-word run; it identifies nothing. Standing exclusion at 1 Nephi 2:1 covers the class, and this entry is filed only because the run was the chapter's longest."
+    },
+    {
+      "bomRef": "Omni 1:16",
+      "source": "Psalm 107:23",
+      "category": "common-vocabulary",
+      "sharedText": "great waters",
+      "streams": [
+        "manual"
+      ],
+      "reason": "'Across the great waters' invites Psalm 107:23-30, the KJV's set piece on a sea crossing delivered by the Lord, and the temptation is real because the verse is about a divinely conducted ocean voyage. But 'great waters' occurs in sixteen KJV verses (Psalm 29:3, 77:19, 93:4, Isaiah 43:16, Jeremiah 51:13, Ezekiel 17:5 among them) and the Book of Mormon has adopted it as its standard term for the Atlantic crossing from 1 Nephi 13:12 onward. The catalogued source for this verse's divine conduct is Isaiah 63:12-14, adjudicated at 1:13, whose 'brought them up out of the sea' half is what Omni 1:16 supplies."
+    },
+    {
+      "bomRef": "Omni 1:18",
+      "source": "1 Corinthians 10:11",
+      "category": "formulaic",
+      "sharedText": "and they are written",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "A four-word run in a colophon's bookkeeping clause — 'they are written, but not in these plates'. Paul's 'they are written for our admonition' is a statement about the purpose of scripture; Amaleki's is a statement about which plate a genealogy is on. Nothing beyond the words is shared."
+    },
+    {
+      "bomRef": "Omni 1:24",
+      "source": "Ecclesiastes 7:15",
+      "category": "formulaic",
+      "sharedText": "seen in the days of",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "'I have seen in the days of king Benjamin' against 'All things have I seen in the days of my vanity'. The candidate ranked first for the verse on a five-word run and is pure connective English; 'in the days of' plus a regnal name is the KJV's ordinary dating formula (Genesis 26:1, Ruth 1:1, Isaiah 1:1, Matthew 2:1). Noted because the fuller run 'seen in the days of' is genuinely uncommon, and because Ecclesiastes 7:15's 'a just man that perisheth' sits close to Omni 1:25's 'a just man before the Lord' — a coincidence of two adjacent verses that could easily be over-read."
+    },
+    {
+      "bomRef": "Omni 1:25",
+      "source": "Isaiah 12:6",
+      "category": "better-source-identified",
+      "sharedText": "the Holy One of Israel",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "'The Holy One of Israel' occurs in thirty KJV verses, twenty-five of them in Isaiah, and is a Book of Mormon fixed title from 1 Nephi 19:14 onward — the book uses it more often than the Bible does. Isaiah 12:6 is selected here only by the length of the surrounding run. Adjudicated at first use in 1 Nephi; later occurrences, including Omni 1:25 and 1:26, are the book using its own formula and are recorded as recurrence, not as fresh borrowing."
+    },
+    {
+      "bomRef": "Omni 1:26",
+      "source": "1 Samuel 26:16",
+      "category": "wrong-sense",
+      "sharedText": "as the Lord liveth, ye",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "A five-word run and the closest KJV parallel to Omni's clause, which makes it worth the entry. 1 Samuel 26:16 is David shouting across the ravine at Abner: 'As the LORD liveth, ye are worthy to die, because ye have not kept your master, the LORD's anointed.' Omni 1:26 is 'as the Lord liveth, ye will be saved'. The oath formula is identical and the sentence it swears is the exact opposite — a death sentence for failing to guard an anointed king against a promise of salvation for coming unto the anointed one. The oath itself ('as the LORD liveth') is one of the commonest formulas in the KJV, some forty verses, so no source is identifiable; but the reversal is worth recording, and it is the reason the Matthew 10:22 link at this verse notes the conversion of a conditional promise into a sworn outcome."
+    },
+    {
+      "bomRef": "Omni 1:27",
+      "source": "Jeremiah 30:3",
+      "category": "insufficient-verbal",
+      "sharedText": "return to the land",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "A typological expectation the wording will not bear. Omni 1:27-28 is a party going up into the wilderness 'to return to the land of Nephi … to possess the land of their inheritance', which reads as a return-from-exile and pulls hard toward Jeremiah 30:3 ('I will cause them to return to the land that I gave to their fathers, and they shall possess it') and Amos 2:10 ('to possess the land of the Amorite'). But 'the land of their inheritance' occurs in no KJV verse at all — it is a Book of Mormon coinage — and 'return to the land' plus 'possess the land' are the two commonest ways the KJV says the thing. Worse, the sense is opposed: the biblical return is commanded by God and succeeds, while Omni's expedition is undertaken by a stiffnecked leader against no divine instruction and ends with all but fifty of them dead. Compare the Exodus 2:2 'goodly' entry — the typology is pulling, the vocabulary is not."
+    },
+    {
+      "bomRef": "Omni 1:28",
+      "source": "Psalm 24:8",
+      "category": "wrong-sense",
+      "sharedText": "strong and mighty",
+      "streams": [
+        "manual"
+      ],
+      "reason": "“strong and mighty” occurs in exactly one KJV verse: Psalm 24:8, 'Who is this King of glory? The LORD strong and mighty, the LORD mighty in battle.' A singleton would ordinarily be strong evidence. It cannot be here: the KJV's one bearer of the phrase is the Lord entering his gates in triumph, and Omni's is an unnamed expedition leader whose strength is paired with a stiff neck, who starts a quarrel among his own men, and who gets all but fifty of them killed in the wilderness. Isaiah 28:2's 'a mighty and strong one' inverts the word order and is a destroying storm sent in judgement, which is closer in tone but further in wording. Recorded at length because the rarity count alone would license a link, and should not."
+    },
+    {
+      "bomRef": "Omni 1:28",
+      "source": "Acts 7:51",
+      "category": "common-vocabulary",
+      "sharedText": "stiffnecked",
+      "streams": [
+        "manual"
+      ],
+      "reason": "'Stiffnecked' occurs in nine KJV verses — Exodus 32:9, 33:3, 33:5, 34:9, Deuteronomy 9:6, 9:13, 10:16, 2 Chronicles 30:8, and Acts 7:51, which is Stephen quoting the Exodus formula back at the council. Because an Old Testament source here has a New Testament quotation, the verse was put through tools/mediation-check.py against Exodus 33:5 and Acts 7:51: no decisive divergence, because the two share only the single word and the Book of Mormon's surrounding clause matches neither. Every KJV occurrence describes a PEOPLE; Omni 1:28 is the only place in either corpus where one man is called 'a stiffnecked man'. The individualising is the Book of Mormon's own, and no source verse can be identified."
+    },
+    {
+      "bomRef": "Omni 1:30",
+      "source": "Ezekiel 20:17",
+      "category": "formulaic",
+      "sharedText": "I make an end",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "'And I make an end' is the closing formula of four of the five scribal hands in this chapter (1:3, 1:9, 1:11, 1:30) and is the book's own colophon convention, not a borrowing. The KJV's 'neither did I make an end of them in the wilderness' (Ezekiel 20:17) means to destroy utterly; Omni's means to stop writing."
+    },
+    {
+      "bomRef": "Jarom 1:1",
+      "source": "Hebrews 13:22",
+      "category": "insufficient-verbal",
+      "sharedText": "a few words",
+      "streams": [
+        "manual"
+      ],
+      "reason": "'I, Jarom, write a few words' against Hebrews 13:22's 'I have written a letter unto you in few words' (and Ephesians 3:3's 'as I wrote afore in few words'). The temptation is real: “in few words” occurs in exactly two KJV verses, both Pauline apologies for brevity, and Jarom's colophon is doing the same rhetorical work — excusing a short text to readers who might have expected more. But 'a few words' is ordinary English, Jarom's is not the KJV's prepositional idiom, and nothing else in the verse touches Hebrews. The brevity topos is catalogued where it has wording behind it, at 1:14."
+    },
+    {
+      "bomRef": "Jarom 1:2",
+      "source": "Deuteronomy 18:15",
+      "category": "insufficient-verbal",
+      "sharedText": "(none — thematic only: the prophets have already revealed what a later writer need not repeat)",
+      "streams": [
+        "scholarship"
+      ],
+      "reason": "Hardy's study edition lists Jarom 1:2 in the recurrence chain at 1 Nephi 10:5, whose biblical row is Deuteronomy 18:15-18 — so the apparatus points at this verse for the prophet-like-unto-Moses material, and the question has to be asked. It was: tools/mediation-check.py was run on Jarom 1:2 against Deuteronomy 18:15 and Acts 3:22 and returned no decisive point for either form. Jarom has none of Deuteronomy's 'raise up unto thee a Prophet ... like unto me; unto him ye shall hearken', none of Acts 3:22's 'him shall ye hear in all things', and nothing of Acts 3:23's 'cut off from among the people'. What Jarom 1:2 actually shares with 1 Nephi 10:5 is a theme — 'what could I write more than my fathers have written? For have not they revealed the plan of salvation?' — and 'the plan of salvation' is in no KJV verse at all. The Book of Mormon's Acts 3 form of the Deuteronomy 18 passage is adjudicated at 1 Nephi 22:20; there is nothing of it here to adjudicate."
+    },
+    {
+      "bomRef": "Jarom 1:2",
+      "source": "Matthew 18:7",
+      "category": "formulaic",
+      "sharedText": "it must needs be that",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "The chapter's highest-scoring machine candidate (rarity 2.00, a five-word run) and worthless. 'It must needs be' is KJV connective idiom (Matthew 18:7, Mark 13:7, Acts 17:3, 2 Samuel 14:14) and a Book of Mormon tic; Matthew 18:7's subject is offences and Jarom's is the size of the plates. Covered in principle by the standing exclusion at 1 Nephi 1:5, listed here only because it heads the dossier for this chapter."
+    },
+    {
+      "bomRef": "Jarom 1:3",
+      "source": "Isaiah 6:10",
+      "category": "insufficient-verbal",
+      "sharedText": "heart / ears / eyes as organs of incapacity",
+      "streams": [
+        "manual"
+      ],
+      "reason": "Jarom's fourfold catalogue of hardened hearts, deaf ears, blind minds and stiff necks pulls hard toward Isaiah 6:10 and its New Testament citations (Matthew 13:15, Acts 28:27, John 12:40), which is the Bible's standing text for exactly this list. It will not bear the weight. Isaiah's organs are fat, heavy and shut and the New Testament's are gross, dull and closed; Jarom's are hard, deaf, blind and stiff, and not one of Isaiah's or Acts' predicates survives. Worth recording as a trap: tools/mediation-check.py run on Jarom 1:3 against Isaiah 6:10 and Acts 28:27 reports one 'decisive' point favouring Acts — that the Book of Mormon has 'should' where Isaiah has nothing — which is an auxiliary in an unrelated clause and not evidence of anything. The verse's real sources are the three catalogued at 1:3: Mark 3:5, Ephesians 4:18 and Acts 7:51."
+    },
+    {
+      "bomRef": "Jarom 1:4",
+      "source": "Romans 9:6",
+      "category": "formulaic",
+      "sharedText": "for they are not all",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "Top machine candidate for the verse (rarity 1.50). Romans 9:6 is 'they are not all Israel, which are of Israel'; Jarom is 'they are not all stiffnecked'. The shared string is four function words plus 'all', and the two sentences are doing different work — Paul is narrowing a covenant people, Jarom is excepting part of one from a charge. The verse's catalogued borrowing is 2 Corinthians 13:14."
+    },
+    {
+      "bomRef": "Jarom 1:5",
+      "source": "Luke 1:80",
+      "category": "common-vocabulary",
+      "sharedText": "waxed strong",
+      "streams": [
+        "manual"
+      ],
+      "reason": "'The people of Nephi had waxed strong in the land'. “Waxed strong” occurs in exactly three KJV verses (2 Samuel 3:1, Luke 1:80, Luke 2:40) and every one of them has an individual as its subject — David's house, John the Baptist, Jesus — where Jarom's subject is a nation. The KJV's idiom for a people growing strong in a land is Exodus 1:7's 'waxed exceeding mighty', which is the register the chapter is in and which the catalogue reaches at 1:8 through Genesis 47:27. No source is identifiable behind two ordinary words."
+    },
+    {
+      "bomRef": "Jarom 1:7",
+      "source": "Acts 24:7",
+      "category": "wrong-sense",
+      "sharedText": "away out of our",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "A four-word run and a near-miss of the kind that makes the n-gram stream unreliable: Jarom has 'swept them away out of our lands', Acts 24:7 has 'took him away out of our hands'. The agreement ends one letter before it would mean something. Acts 24:7 is Tertullus complaining to Felix that a Roman tribune removed a prisoner from Jewish custody; Jarom is describing the expulsion of an invading army from Nephite territory. Nothing connects the two but the preposition string."
+    },
+    {
+      "bomRef": "Jarom 1:8",
+      "source": "Job 41:26",
+      "category": "insufficient-verbal",
+      "sharedText": "the arrow / the quiver / the dart / the javelin",
+      "streams": [
+        "manual"
+      ],
+      "reason": "Jarom's weapon list is tempting on rarity alone: “the dart” occurs in exactly one KJV verse (Job 41:26) and 'the quiver' in two (Job 39:23, Isaiah 22:6), so three of Jarom's four items cluster in the whirlwind speeches of Job. But the items are the ordinary furniture of ancient warfare, no syntax is shared, and the sense in Job is opposed: Job 41:26-29 is a catalogue of weapons that fail — 'darts are counted as stubble' — against Leviathan, where Jarom's list is the reason 'they did not prosper against us'. The verse's catalogued borrowing is the craft formula of 2 Chronicles 2:14, into which the weapons are the continuation."
+    },
+    {
+      "bomRef": "Jarom 1:9",
+      "source": "John 15:10",
+      "category": "better-source-identified",
+      "sharedText": "keep my commandments, ye shall",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "Highest-scoring candidate for the verse (rarity 2.00, two overlapping five-word windows) and superseded. John 15:10's apodosis is 'ye shall abide in my love'; Jarom's is 'ye shall prosper in the land', which is the Nephite land-promise. That promise is adjudicated at its first occurrence, 1 Nephi 2:20, against 1 Kings 2:3 and Joshua 1:7, and Jarom quotes it as a word already spoken 'unto our fathers' — mediation OT-via-earlier-BoM, not a fresh borrowing from John."
+    },
+    {
+      "bomRef": "Jarom 1:12",
+      "source": "Judges 1:32",
+      "category": "formulaic",
+      "sharedText": "of the land for they did",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "A six-word window (rarity 1.64) made entirely of function words spanning a clause boundary in both texts — the model case for CONVENTIONS §9's warning that a long run means nothing on its own. Judges 1:32 is the Asherites failing to drive out the Canaanites. The verse's real borrowing, Acts 2:37's “pricked in their heart”, scored nothing in the machine stream at all."
+    },
+    {
+      "bomRef": "Jarom 1:15",
+      "source": "1 Samuel 30:15",
+      "category": "formulaic",
+      "sharedText": "deliver ... into the hands of my",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "'I deliver these plates into the hands of my son Omni' against the Amalekite servant's 'nor deliver me into the hands of my master'. 'Into the hands of' is KJV boilerplate in scores of verses and is almost always hostile — delivering a person to an enemy — where Jarom's is a bequest. The colophon's transmission formula has no biblical source; it is the Book of Mormon's own, running from 1 Nephi 6 to Omni 1:1."
+    },
+    {
+      "bomRef": "Enos 1:1",
+      "source": "Genesis 14:20",
+      "category": "formulaic",
+      "sharedText": "and blessed be the",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "'And blessed be the name of my God' is the KJV's standard doxological formula (Job 1:21, Psalm 113:2, Daniel 2:20 for the name; Genesis 14:20 and 1 Samuel 25:32 for the opening). No one verse is in view, and Melchizedek's blessing of Abram shares nothing with a colophon."
+    },
+    {
+      "bomRef": "Enos 1:3",
+      "source": "Job 20:5",
+      "category": "wrong-sense",
+      "sharedText": "and the joy of the",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "The machine's best-scoring candidate for the verse, and the sense is inverted. Job 20:5 is Zophar on the brevity of the wicked man's happiness — 'the joy of the hypocrite but for a moment' — where Enos has 'the joy of the saints' as the substance of a father's teaching. The shared words are an article, a preposition and a noun of the widest possible distribution; the genitive that follows is what carries the meaning, and the two are opposites. The real sources at this verse are Luke 9:44 for the sinking of the words and Proverbs 4:21 for the heart they sink into."
+    },
+    {
+      "bomRef": "Enos 1:4",
+      "source": "Psalm 95:11",
+      "category": "better-source-identified",
+      "sharedText": "rest",
+      "streams": [
+        "scholarship"
+      ],
+      "reason": "Hardy's apparatus gives this book exactly one Bible row, at Enos 1:4, naming Psalm 95:6 and Psalm 95:11. Psalm 95:6 is accepted as a link at this verse and is plainly right: 'kneel before the LORD our maker' is a KJV singleton and 'our maker' occurs nowhere else in the KJV. Psalm 95:11 is a different matter. Enos 1:4 contains no rest-language of any kind; it is about hunger, kneeling, crying and a raised voice. The psalm's rest surfaces later and twice — 'my soul did rest' at 1:17 and 'the place of my rest' at 1:27 — and both are catalogued there. The row is therefore accounted for rather than rejected: Hardy hangs the whole Psalm 95 contact on the verse where it is clearest to a reader, and this catalogue hangs each half where its wording actually is. The mediation between Psalm 95:11 and its three Hebrews citations could not be decided; tools/mediation-check.py finds no point of divergence that Enos reproduces."
+    },
+    {
+      "bomRef": "Enos 1:9",
+      "source": "Acts 22:17",
+      "category": "formulaic",
+      "sharedText": "it came to pass that when i",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "A seven-word run, and worth naming only because the content is tempting: Acts 22:17 is Paul at prayer in the temple falling into a trance, which is close to the kind of thing Enos 1:9 reports. But the seven words are entirely the KJV's narrative hinge, the formula covered by the standing exclusion at 1 Nephi 2:1, and nothing after 'when I' agrees. Paul is come again to Jerusalem; Enos has heard words in a forest."
+    },
+    {
+      "bomRef": "Enos 1:10",
+      "source": "John 17:8",
+      "category": "common-vocabulary",
+      "sharedText": "i have given unto them",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "Five words, all function words or the commonest of verbs. John 17:8's object is 'the words which thou gavest me'; Enos 1:10's is a land. The verse's genuine borrowing is the retribution clause at its end, 'upon their own heads', which is a KJV singleton at Ezekiel 11:21 and is catalogued as a link."
+    },
+    {
+      "bomRef": "Enos 1:14",
+      "source": "Matthew 24:24",
+      "category": "wrong-sense",
+      "sharedText": "that if it were possible they",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "A six-word run and the chapter's most seductive false positive. 'There shall arise false Christs' is a KJV singleton and the run 'that if it were possible, they' is nearly one, so the string evidence looks strong. The sense will not carry it. In Matthew the clause is a limit on what deception can achieve — the elect cannot in fact be deceived — and 'if it were possible' is the evangelist's own concessive, marking an impossibility. In Enos it is inside the Lamanites' oath and marks their intention: they would destroy the records if they could. The KJV clause denies the possibility it names; Enos's asserts it. Compare the Proverbs 12:10 entry at 1 Nephi 1:20, the model case for this category."
+    },
+    {
+      "bomRef": "Enos 1:20",
+      "source": "2 Kings 1:8",
+      "category": "better-source-identified",
+      "sharedText": "girt with a girdle of leather about his loins",
+      "streams": [
+        "manual"
+      ],
+      "reason": "A real temptation and a wrong one. Enos 1:20's 'a short skin girded about their loins' looks like the KJV's one description of a prophet's dress — Elijah 'an hairy man, and girt with a girdle of leather about his loins', both phrases KJV singletons — and John the Baptist wears the same at Matthew 3:4. But the verse's other clauses settle the source elsewhere. 'Dwelling in tents' is a KJV singleton at Genesis 25:27 and the bow is Genesis 27:3's, so the sentence already holds two singletons from the Esau material, to which Genesis 25:25's 'hairy garment' supplies the skin. The Esau reading also explains why the description is there at all: Enos, son of Jacob, is describing the brother-people. Elijah's girdle explains the clothing and nothing else."
+    },
+    {
+      "bomRef": "Enos 1:21",
+      "source": "Numbers 31:30",
+      "category": "formulaic",
+      "sharedText": "flocks of all manner",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "'All manner of' is the KJV's standard distributive and appears well over a hundred times. Numbers 31:30 is the Midianite spoil divided among the Levites; Enos 1:21 is an agricultural inventory. The only content word shared is 'flocks'."
+    },
+    {
+      "bomRef": "Enos 1:22",
+      "source": "2 Peter 3:16",
+      "category": "wrong-sense",
+      "sharedText": "hard to be understood",
+      "streams": [
+        "manual"
+      ],
+      "reason": "'Hard to be understood' is a KJV singleton, which is exactly why it needs an entry rather than silence. But 2 Peter 3:16 says it of Paul's epistles — writings that the unlearned wrest to their own destruction — while Enos says it of a people: 'the people were a stiff-necked people, hard to understand.' The KJV's difficulty is textual and Enos's is pastoral, and the grammatical construction differs too (passive infinitive against active). Recorded because a careful reader meeting a KJV singleton is entitled to expect it to have been considered."
+    },
+    {
+      "bomRef": "Enos 1:23",
+      "source": "Luke 12:31",
+      "category": "formulaic",
+      "sharedText": "of god and all these things",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "The highest-scoring machine candidate in the chapter, at 2.33, and worthless. The run spans a clause boundary in both texts: Enos's 'the power of God' ends one item of a list and 'all these things' begins the next sentence, while Luke's 'the kingdom of God' is followed by the promise that all these things shall be added. The verse's real borrowing is four words later — 'great plainness of speech', a KJV singleton at 2 Corinthians 3:12 — which the n-gram stream ranked below this. A clean illustration of CONVENTIONS §9: the stream is a recall floor, not a ranking."
+    },
+    {
+      "bomRef": "Enos 1:27",
+      "source": "Habakkuk 2:1",
+      "category": "wrong-sense",
+      "sharedText": "he will say unto me",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "Five words, and the situations are opposed. Habakkuk climbs his watchtower to hear what God will say to him and 'what I shall answer when I am reproved'; he expects a rebuke and is bracing for it. Enos expects a welcome, and what he reports God will say is 'Come unto me ye blessed'. The verse's sources are John 14:2 and Matthew 25:34, both of which supply the speech itself."
+    },
+    {
+      "bomRef": "Enos 1:27",
+      "source": "Daniel 11:16",
+      "category": "common-vocabulary",
+      "sharedText": "shall stand before him",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "'Stand before' God or a king is among the commonest constructions in the KJV. Daniel 11:16 is about the king of the north and says the opposite — 'none shall stand before him' — so even the polarity is wrong."
     }
   ]
 }

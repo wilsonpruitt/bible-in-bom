@@ -34,6 +34,16 @@ def words(s): return WORD.findall(s)
 def norm(w):  return w.lower().replace("’", "'")
 
 
+def doc_freq(kjv) -> dict:
+    """Verses containing each word type — the measure that decides a single-word test."""
+    from collections import Counter
+    df = Counter()
+    for t in kjv.values():
+        for w in {norm(x) for x in words(t)}:
+            df[w] += 1
+    return df
+
+
 def common_words(kjv, top=120) -> set[str]:
     """
     The most frequent word TYPES in the KJV, derived rather than hand-listed.
@@ -74,6 +84,15 @@ def main() -> None:
         sys.exit(f"not in text/kjv.json: {', '.join(missing)}")
 
     stop = common_words(kjv)
+    df = doc_freq(kjv)
+    # An INSERTION (one candidate has a word, the other has nothing) is much weaker
+    # evidence than a REPLACE, because the word may be in the Book of Mormon verse
+    # for its own reasons. The Jarom 1:3 pass reported "should" as decisive between
+    # Isaiah 6:10 and Acts 28:27 on exactly that footing. So a lone inserted word
+    # only counts if it is genuinely rare. 150 keeps every word the pilot's real
+    # findings turned on (kindreds 8, vapour 4, smooth 6, ruler 82, worship 102)
+    # and rejects should (690) and will (2855).
+    RARE_ENOUGH = 150
     bom_norm = set(map(norm, words(bom)))
     bom_flat = " ".join(map(norm, words(bom)))
 
@@ -100,18 +119,46 @@ def main() -> None:
             av, bv = " ".join(a[i1:i2]) or "(nothing)", " ".join(b[j1:j2]) or "(nothing)"
             an = " ".join(norm(w) for w in a[i1:i2])
             bn = " ".join(norm(w) for w in b[j1:j2])
+            # An INSERTION and a REPLACE are different strengths of evidence and
+            # need different bars.
+            #
+            #   replace  — both candidates word the same slot, differently, and the
+            #              Book of Mormon picked one. The alternative was on offer
+            #              and was not taken, so even a moderately common word
+            #              decides: "might" (439 verses) against "strength" (232)
+            #              at Words of Mormon 1:18 is a real finding.
+            #   insert   — one candidate has a word, the other has nothing. The word
+            #              may be in the Book of Mormon verse for its own reasons,
+            #              so it only counts if it is rare. "should" (690 verses)
+            #              produced a false decisive between Isaiah 6:10 and Acts
+            #              28:27 on the Jarom pass; this is the guard against it.
+            is_insertion = not an or not bn
+
             def informative(span: str) -> bool:
                 toks = span.split()
-                return bool(toks) and any(t not in stop for t in toks)
+                if not toks:
+                    return False
+                if any(t not in stop for t in toks) is False:
+                    return False
+                if is_insertion:
+                    return any(df.get(t, 0) <= RARE_ENOUGH for t in toks if t not in stop)
+                return True
 
             in_a = bool(an) and an in bom_flat and informative(an)
             in_b = bool(bn) and bn in bom_flat and informative(bn)
             # A single differing word is the cleanest kind of test.
             # A single differing word is the cleanest kind of test — but only if the
             # word is distinctive enough that its presence means something.
-            if not in_a and not in_b and (i2 - i1) == 1 and (j2 - j1) == 1:
-                if an not in stop and bn not in stop:
-                    in_a, in_b = an in bom_norm, bn in bom_norm
+            if not in_a and not in_b and (i2 - i1) <= 1 and (j2 - j1) <= 1:
+                insertion = not an or not bn
+                for span, present in ((an, "a"), (bn, "b")):
+                    if not span or span in stop:
+                        continue
+                    if insertion and df.get(span, 0) > RARE_ENOUGH:
+                        continue          # a common word inserted proves nothing
+                    if span in bom_norm:
+                        if present == "a": in_a = True
+                        else: in_b = True
             if in_a and not in_b:
                 verdict, mark = f"BoM has {base}'s form", "  ◀── DECISIVE"
                 decisive.append((base, av, other, bv))
