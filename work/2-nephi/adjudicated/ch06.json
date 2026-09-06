@@ -1,0 +1,539 @@
+{
+ "chapter": 6,
+ "adjudicated": "2026-09-05",
+ "adjudicator": "Opus",
+ "links": {
+  "6:2": [
+   {
+    "source": "Hebrews 5:4",
+    "type": "allusion",
+    "subtype": "close-verbal",
+    "confidence": "high",
+    "evidence": {
+     "vocabulary": 4,
+     "syntax": 3,
+     "sequence": 4,
+     "context": 5,
+     "rarity": 4,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "composite": [
+     "Hebrews 5:10"
+    ],
+    "provenance": {
+     "route": "Hebrews 5:4, 5:10 → KJV → Book of Mormon",
+     "other": "'Called of God' occurs in exactly two KJV verses, Hebrews 5:4 and 5:10, and they are eight verses apart in one argument about priestly appointment. The second of the two is the one that couples the phrase with an order: 'Called of God an high priest after the order of Melchisedec.' 'His holy order' as such is in no KJV verse.",
+     "significance": "Jacob opens by stating his credentials in the only KJV vocabulary that exists for stating them. Recover the context and Hebrews 5 is arguing that no man takes the honour to himself — 'no man taketh this honour unto himself, but he that is called of God, as was Aaron' — which is precisely the disclaimer Jacob needs, since his commission came through his brother Nephi, the man the same sentence goes on to describe as the one 'unto whom ye look as a king'. The KJV passage that supplies his warrant is the passage that separates a called priesthood from a royal one, and Jacob's sentence has both a priest and a king in it."
+    },
+    "note": "'Having been called of God, and ordained after the manner of his holy order, and having been consecrated by my brother, Nephi.' Two of the three verbs are Hebrews 5's. The phrase 'called of God' is a KJV rarity — two verses, both in this one argument — and the second of them attaches it to an order ('after the order of Melchisedec'), which is what Jacob's next clause does with 'after the manner of his holy order'. The substitution is worth noting: Hebrews names the order after a man, Melchizedek, and Jacob names it after God ('his holy order'), which is the move Alma 13 will later make explicit. Below Skousen's sixteen-word threshold and not one of his passages.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "manual"
+    ],
+    "text": "And no man taketh this honour unto himself, but he that is called of God, as was Aaron."
+   }
+  ],
+  "6:3": [
+   {
+    "source": "Acts 20:34",
+    "type": "allusion",
+    "subtype": "conceptual",
+    "confidence": "moderate",
+    "evidence": {
+     "vocabulary": 3,
+     "syntax": 4,
+     "sequence": 4,
+     "context": 5,
+     "rarity": 5,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "composite": [
+     "Acts 20:18",
+     "Acts 20:20",
+     "Acts 20:31"
+    ],
+    "provenance": {
+     "route": "Acts 20:18-35 (Paul at Miletus) → KJV → Book of Mormon",
+     "other": "'Ye yourselves know' occurs in exactly one KJV verse, Acts 20:34. The rest of the contact is with the same speech: 'Ye know, from the first day' (20:18), 'have taught you publickly, and from house to house' (20:20), 'I ceased not to warn every one night and day with tears' (20:31).",
+     "significance": "The genre is the finding as much as the wording. Acts 20 is the KJV's one full-dress farewell address by a minister to a congregation he has taught at length and is anxious for, and every structural beat of it is in 2 Nephi 6:2-3: the speaker's credentials, the appeal to what the hearers themselves already know, the record of tireless past teaching, and the anxiety for their souls going forward. Jacob is not quoting Paul; he is delivering Paul's speech. The same template runs again at Jacob 2:2-3, which is what makes it a habit of this speaker rather than an accident of one sentence."
+    },
+    "note": "'Ye yourselves know that it ever has been. For I have exhorted you with all diligence; and I have taught you the words of my father.' 'Ye yourselves know' is a KJV singleton and it sits at Miletus, in the middle of Paul's farewell to the Ephesian elders — a speech Jacob's exordium reproduces beat for beat, down to 'I have taught you' (Acts 20:20) and the ceaseless warning of 20:31 behind 'exhorted you with all diligence'. The n-gram stream found the singleton and could not see the speech around it, which is the ordinary case (CONVENTIONS §9).",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "machine-ngram",
+     "manual"
+    ],
+    "text": "Yea, ye yourselves know, that these hands have ministered unto my necessities, and to them that were with me."
+   },
+   {
+    "source": "Romans 1:20",
+    "type": "echo",
+    "subtype": "probable",
+    "confidence": "moderate",
+    "evidence": {
+     "vocabulary": 4,
+     "syntax": 3,
+     "sequence": 3,
+     "context": 3,
+     "rarity": 5,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "provenance": {
+     "route": "Romans 1:20 → KJV → Book of Mormon",
+     "other": "'From the creation of the world' occurs in exactly one KJV verse, Romans 1:20. The near neighbours read differently — 'since the beginning of the world' (John 9:32), 'from the foundation of the world' (Matthew 13:35 and eight others).",
+     "significance": "Paul's clause is about what has been legible without a text since the world was made; Jacob's is about what has been written since then — 'all things which are written from the creation of the world'. The borrowing turns Romans' argument from general revelation into an inventory of scripture, which is the move the whole chapter needs, since Jacob is about to read Isaiah and claim it can be likened to a people who were not in it."
+    },
+    "note": "'I have spoken unto you concerning all things which are written from the creation of the world.' A KJV singleton, and the Book of Mormon's phrase is Paul's exactly; but it is five words and the sense has been reversed from the unwritten to the written, so this is recorded as an echo rather than an allusion.",
+    "whyNot": "Five words, and 'from the creation of the world' is unremarkable English for 'since the beginning'. Nothing else in 6:3 has any contact with Romans 1, and the sense Paul gives the phrase — knowledge available without scripture — is the opposite of Jacob's.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "machine-ngram"
+    ],
+    "text": "For the invisible things of him from the creation of the world are clearly seen, being understood by the things that are made, even his eternal power and Godhead; so that they are without excuse:"
+   }
+  ],
+  "6:6": [
+   {
+    "source": "Isaiah 49:22",
+    "type": "quotation",
+    "subtype": "explicit",
+    "confidence": "certain",
+    "evidence": {
+     "vocabulary": 5,
+     "syntax": 5,
+     "sequence": 5,
+     "context": 5,
+     "rarity": 5,
+     "attestation": 4
+    },
+    "kjvSpecific": "yes",
+    "mediation": "uncertain",
+    "recurrenceRefs": [
+     "1 Nephi 21:22"
+    ],
+    "provenance": {
+     "route": "Isaiah 49:22 → KJV → Book of Mormon",
+     "other": "'Set up my standard' occurs in exactly one KJV verse, and so does 'carried upon their shoulders'; both are this one. Word-for-word identical to the KJV apart from Jacob's own framing clause 'And now, these are the words'. It is also word-for-word identical to 1 Nephi 21:22, where the same verse stands inside a continuous transcription of Isaiah 49.",
+     "significance": "This is Isaiah 49 entering the book a second time, and in a different voice. 1 Nephi 21 transcribes the chapter; here Jacob reads out five of its verses in order to argue from them, announces that he is doing so ('I will read you the words of Isaiah', 6:4), and then glosses them for eleven verses. The catalogue records the second entry as a link rather than a repeat because a new book is a new hand and the reader page is per-book (ADJUDICATING §4)."
+    },
+    "note": "Jacob's quotation of Isaiah 49:22 is verbatim, with only 'And now, these are the words' prefixed as the citation formula — an explicit quotation in the strict sense, announced as such two verses earlier. The interest of the block is not that it is accurate but that its five verses are accurate in slightly different directions: see 6:7, 6:16 and 6:18, where the departures from the KJV and the departures from 1 Nephi 21 do not line up.",
+    "bibliography": [
+     "Hardy MSI at 2 Ne 6.7 (Isaiah 49:22-23, keyed to the second verse of the pair)"
+    ],
+    "status": "consensus",
+    "streams": [
+     "machine-ngram",
+     "manual"
+    ],
+    "text": "Thus saith the Lord GOD, Behold, I will lift up mine hand to the Gentiles, and set up my standard to the people: and they shall bring thy sons in their arms, and thy daughters shall be carried upon their shoulders."
+   }
+  ],
+  "6:7": [
+   {
+    "source": "Isaiah 49:23",
+    "type": "quotation",
+    "subtype": "explicit",
+    "confidence": "certain",
+    "evidence": {
+     "vocabulary": 5,
+     "syntax": 5,
+     "sequence": 5,
+     "context": 5,
+     "rarity": 5,
+     "attestation": 4
+    },
+    "kjvSpecific": "yes",
+    "mediation": "uncertain",
+    "recurrenceRefs": [
+     "1 Nephi 21:23",
+     "2 Nephi 6:13"
+    ],
+    "provenance": {
+     "route": "Isaiah 49:23 → KJV → Book of Mormon",
+     "other": "Two departures from the KJV. KJV 'with their face toward the earth' → 'with their faces towards the earth'. 1 Nephi 21:23 has already changed 'toward' to 'towards' but keeps the singular 'face', so 2 Nephi 6:7 agrees with the earlier Book of Mormon reading in one word and departs from both texts in the other. 'Nursing fathers' occurs in exactly one KJV verse, this one.",
+     "significance": "The pluralised 'faces' is a small thing that does exactly what Jacob's gloss will do at 6:13: it distributes a singular collective image across a plurality of individual actors. Isaiah's kings and queens bow with one face; Jacob's do it with their own faces each, and eleven verses later the dust of Isaiah's promise is being licked by named opponents. The verse is being prepared for the use it is about to be put to."
+    },
+    "note": "Verbatim from the KJV except 'faces towards' for 'face toward'. Worth holding beside 6:13, where Jacob quotes this same verse back in his own exposition and reverses it — 'lick up the dust of thy feet', said to Zion about her attendants, becomes 'they that fight against Zion... shall lick up the dust of their feet'.",
+    "bibliography": [
+     "Hardy MSI at 2 Ne 6.7 (Isaiah 49:23)"
+    ],
+    "status": "consensus",
+    "streams": [
+     "machine-ngram",
+     "manual"
+    ],
+    "text": "And kings shall be thy nursing fathers, and their queens thy nursing mothers: they shall bow down to thee with their face toward the earth, and lick up the dust of thy feet; and thou shalt know that I am the LORD: for they shall not be ashamed that wait for me."
+   }
+  ],
+  "6:9": [
+   {
+    "source": "1 Timothy 3:16",
+    "type": "allusion",
+    "subtype": "close-verbal",
+    "confidence": "high",
+    "evidence": {
+     "vocabulary": 4,
+     "syntax": 4,
+     "sequence": 3,
+     "context": 5,
+     "rarity": 5,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "provenance": {
+     "route": "1 Timothy 3:16 → KJV → Book of Mormon",
+     "other": "'Manifest in the flesh' occurs in exactly one KJV verse, 1 Timothy 3:16 — 'God was manifest in the flesh, justified in the Spirit, seen of angels, preached unto the Gentiles, believed on in the world, received up into glory.' The 1830 keeps the KJV's 'shewn' three times in this verse, which 1920 modernized to 'shown'.",
+     "significance": "The KJV's one sentence for incarnation is a creedal formula, and Jacob uses it of 'the Lord God, the Holy One of Israel' — Isaiah's title, from the chapter he has just read — rather than of 'God' flatly. Recover 1 Timothy's context and the six clauses that follow the borrowed one are a précis of the rest of Jacob's paragraph: seen of angels (6:9, 'according to the words of the angel'), preached unto the Gentiles (6:12), believed on in the world (6:14, 'when they shall believe in him'). The verse Jacob takes four words from is the outline of what he says next."
+    },
+    "note": "'That the Lord God, the Holy One of Israel, should manifest himself unto them in the flesh.' The phrase is a KJV singleton and the doctrinal weight of the sentence rests on it. What Jacob changes is the voice: 1 Timothy has the passive 'God was manifest in the flesh', and Jacob makes it reflexive and volitional — the Holy One 'should manifest himself' — and then repeats the reflexive twice more in the same verse and again at 6:14. That is not the KJV's grammar, and it is the chapter's characteristic move (compare 6:14, where Isaiah's 'the Lord shall set his hand' becomes 'the Messiah will set himself').",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "manual"
+    ],
+    "text": "And without controversy great is the mystery of godliness: God was manifest in the flesh, justified in the Spirit, seen of angels, preached unto the Gentiles, believed on in the world, received up into glory."
+   },
+   {
+    "source": "Matthew 20:19",
+    "type": "allusion",
+    "subtype": "close-verbal",
+    "confidence": "high",
+    "evidence": {
+     "vocabulary": 4,
+     "syntax": 3,
+     "sequence": 4,
+     "context": 5,
+     "rarity": 5,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "composite": [
+     "Mark 10:34",
+     "Luke 18:33"
+    ],
+    "provenance": {
+     "route": "Matthew 20:19 → KJV → Book of Mormon",
+     "other": "'To scourge, and to crucify' occurs in exactly one KJV verse, Matthew 20:19: it is the only place in the Bible where scourging and crucifixion stand in a single clause as a pair of announced future acts. The synoptic parallels break the pair — Mark 10:34 has 'shall scourge him... and shall kill him', Luke 18:33 'shall scourge him, and put him to death'. mediation-check.py reports 'scourge' as decisive for Mark against Matthew's 'deliver', but that is an alignment artifact: Matthew has 'scourge' too, four words later, and it is the pairing with 'crucify' that only Matthew supplies.",
+     "significance": "Matthew 20:19 is the passion prediction that specifies who does the scourging: 'shall deliver him to the Gentiles to mock, and to scourge, and to crucify him.' Jacob is in the middle of a gloss on a prophecy about the Gentiles — the verse he has just read promises that kings and queens will nurse Israel — and three verses later he will bless the Gentiles who repent. The KJV verse he reaches for to describe the crucifixion is the one that hands Jesus to the Gentiles to be crucified, which is the tension the whole exposition is managing."
+    },
+    "note": "'They should scourge him and crucify him.' The two verbs occur together in exactly one KJV verse and Jacob has them in Matthew's order, with the pronoun distributed to each verb in the manner of Mark 10:34 and Luke 18:33 ('shall scourge him... and shall'). So the pairing is Matthew's and the syntax is the other two synoptics'; the composite records both. Below Skousen's sixteen-word threshold and not one of his passages.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "machine-ngram",
+     "manual"
+    ],
+    "text": "And shall deliver him to the Gentiles to mock, and to scourge, and to crucify him: and the third day he shall rise again."
+   }
+  ],
+  "6:10": [
+   {
+    "source": "2 Chronicles 36:13",
+    "type": "allusion",
+    "subtype": "close-verbal",
+    "confidence": "high",
+    "evidence": {
+     "vocabulary": 5,
+     "syntax": 4,
+     "sequence": 3,
+     "context": 5,
+     "rarity": 5,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-OT",
+    "composite": [
+     "2 Chronicles 36:17",
+     "2 Chronicles 36:20"
+    ],
+    "provenance": {
+     "route": "2 Chronicles 36:13 → KJV → Book of Mormon",
+     "other": "'Stiffened' occurs in exactly one KJV verse in any form — 2 Chronicles 36:13, of Zedekiah: 'but he stiffened his neck, and hardened his heart from turning unto the LORD God of Israel.' It is a KJV hapax. 'Hardened their hearts' is likewise a singleton (1 Samuel 6:6, of Pharaoh and the Egyptians), but only 2 Chronicles 36:13 has the two verbs together, and only it has 'stiffened' at all. The KJV's usual idiom is 'hardened their necks' (2 Kings 17:14, Nehemiah 9:16-17, Jeremiah 19:15) or 'stiffnecked' (nine verses); Jacob has neither.",
+     "significance": "This is the chapter's strongest find and it is a matter of one word. The only man in the King James Bible who stiffens his neck is Zedekiah, in whose first year Lehi's family left Jerusalem (1 Nephi 1:4), and the verses immediately after his are the content of Jacob's preceding sentence: 36:17, the Chaldees who 'slew their young men with the sword', and 36:20, 'them that had escaped from the sword carried he away to Babylon' — which is 6:8's 'have been slain and carried away captive' — followed at 36:22-23 by Cyrus's decree, which is 6:9's 'they should return again'. Jacob is glossing Isaiah, but the paragraph he glosses it with is walking down 2 Chronicles 36: the slaying, the captivity, the return, and then the hardened heart and stiffened neck that caused all three. The metalepsis is that the words the KJV uses for the last king of Judah refusing Jeremiah are the words Jacob uses for Jerusalem refusing the Messiah. The same verse the same way — twice, six centuries apart, in the vocabulary of one hapax."
+    },
+    "note": "'After that they have hardened their hearts and stiffened their necks against the Holy One of Israel.' 'Stiffened' is a King James hapax legomenon and it belongs to Zedekiah at 2 Chronicles 36:13, where it stands beside 'hardened his heart' in the same clause — the same pair Jacob has, pluralised from one king to a people. The KJV has an ordinary idiom available for this ('hardened their necks', four verses; 'stiffnecked', nine) and Jacob does not use it. Read the surrounding paragraph and the borrowing is not isolated: 6:8-9's slaying, captivity and return are 2 Chronicles 36:17, 36:20 and 36:22-23 in order. Invisible to the n-gram stream, which proposed only Jeremiah 46:21's 'come upon them and' for this verse.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "manual"
+    ],
+    "text": "And he also rebelled against king Nebuchadnezzar, who had made him swear by God: but he stiffened his neck, and hardened his heart from turning unto the LORD God of Israel."
+   }
+  ],
+  "6:13": [
+   {
+    "source": "Isaiah 49:23",
+    "type": "allusion",
+    "subtype": "paraphrase",
+    "confidence": "certain",
+    "evidence": {
+     "vocabulary": 5,
+     "syntax": 4,
+     "sequence": 5,
+     "context": 5,
+     "rarity": 5,
+     "attestation": 1
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-OT",
+    "composite": [
+     "Acts 13:51"
+    ],
+    "recurrenceRefs": [
+     "2 Nephi 6:7",
+     "1 Nephi 21:23"
+    ],
+    "provenance": {
+     "route": "Isaiah 49:23, quoted at 2 Nephi 6:7 and re-applied → KJV → Book of Mormon",
+     "other": "'Lick up the dust' occurs in exactly one KJV verse, Isaiah 49:23. Separately, 'the dust of their feet' — the third-person form Jacob substitutes for Isaiah's 'thy feet' — occurs in exactly one KJV verse, Acts 13:51, where Paul and Barnabas shake it off against those who rejected them and turn to the Gentiles.",
+     "significance": "This is what an exposition does that a transcription cannot, and it is why the chapter was adjudicated by hand. Isaiah's promise is addressed to Zion in the second person and is unambiguously a blessing: your attendants will bow so low that they lick the dust at your feet. Jacob keeps the KJV's singular idiom and changes one pronoun, and it becomes a curse on a third party — 'they that fight against Zion... shall lick up the dust of their feet'. Grammatically 'their feet' now most naturally means the enemies' own feet, so the humiliation is reflexive: they eat their own dust. Whether the shift is deliberate or a slip of the pronoun, the sentence Jacob produces is not the sentence he read out six verses earlier, and the same operation is run on the second half of the verse ('they shall not be ashamed that wait for me' becomes 'the people of the Lord shall not be ashamed. For the people of the Lord are they which wait for him'), where second-person address is converted to third-person definition."
+    },
+    "note": "Jacob quotes Isaiah 49:23 at 6:7 and takes it apart at 6:13. Both of its distinctive clauses come back — the KJV singleton 'lick up the dust' and 'they shall not be ashamed... that wait for me' — and both are turned from address into exposition, with 'thy feet' becoming 'their feet' and 'me' becoming 'him'. The 1830's 'they which wait for him' preserves the relative pronoun of the KJV's 'they... that wait for me'; 1920 changed 'which' to 'who', which is the direction of travel through most of this chapter. Recorded as an allusion rather than a quotation because nothing is reproduced as a clause; the whole point is that the clauses have been rebuilt.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "machine-ngram",
+     "manual"
+    ],
+    "text": "And kings shall be thy nursing fathers, and their queens thy nursing mothers: they shall bow down to thee with their face toward the earth, and lick up the dust of thy feet; and thou shalt know that I am the LORD: for they shall not be ashamed that wait for me."
+   }
+  ],
+  "6:14": [
+   {
+    "source": "Isaiah 11:11",
+    "type": "allusion",
+    "subtype": "close-verbal",
+    "confidence": "high",
+    "evidence": {
+     "vocabulary": 4,
+     "syntax": 4,
+     "sequence": 4,
+     "context": 5,
+     "rarity": 5,
+     "attestation": 3
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-OT",
+    "recurrenceRefs": [
+     "2 Nephi 21:11"
+    ],
+    "provenance": {
+     "route": "Isaiah 11:11 → KJV → Book of Mormon",
+     "other": "'Second time to recover' occurs in exactly one KJV verse, Isaiah 11:11. The bare 'again the second time' occurs in six, and is unremarkable; it is the infinitive that makes the count absolute. 2 Nephi 21:11 transcribes Isaiah 11:11 in full later in this same book.",
+     "significance": "The substitution is the finding. Isaiah 11:11 has 'the Lord shall set his hand again the second time to recover the remnant of his people'; Jacob has 'the Messiah will set himself again the second time, to recover them'. The hand becomes the person. In Isaiah the second recovery is an act God performs; in Jacob it is a second coming God undergoes, and the verse is immediately continued with 'he will manifest himself unto them in power and great glory' — which is the synoptic parousia, not Isaiah's regathering from Assyria and Egypt. A restoration oracle has been read as an advent oracle by deleting one noun."
+    },
+    "note": "'The Messiah will set himself again the second time, to recover them.' Hardy cross-references Isaiah 11:11 here, and the wording bears him out: 'second time to recover' is a KJV singleton. What the catalogue adds is the shape of the change — 'set his hand' → 'set himself' — which is the same reflexive move the chapter makes at 6:9 with 1 Timothy 3:16's passive. Note that Isaiah 11 is transcribed in full at 2 Nephi 21, so this is the chapter re-entering as argument in the same book that will later reproduce it as text; recurrenceRefs points there.",
+    "bibliography": [
+     "Hardy MSI at 2 Ne 6.14 (Isaiah 11:11)"
+    ],
+    "status": "majority",
+    "streams": [
+     "machine-ngram",
+     "manual"
+    ],
+    "text": "And it shall come to pass in that day, that the Lord shall set his hand again the second time to recover the remnant of his people, which shall be left, from Assyria, and from Egypt, and from Pathros, and from Cush, and from Elam, and from Shinar, and from Hamath, and from the islands of the sea."
+   },
+   {
+    "source": "Matthew 24:30",
+    "type": "allusion",
+    "subtype": "strong-verbal",
+    "confidence": "high",
+    "evidence": {
+     "vocabulary": 4,
+     "syntax": 3,
+     "sequence": 3,
+     "context": 5,
+     "rarity": 4,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "composite": [
+     "Luke 21:27"
+    ],
+    "provenance": {
+     "route": "Matthew 24:30 / Luke 21:27 → KJV → Book of Mormon",
+     "other": "'Power and great glory' occurs in exactly two KJV verses, Matthew 24:30 and Luke 21:27, and both are the parousia of the Son of man in the synoptic apocalypse. Nothing in Jacob's clause discriminates between them, since the four words are identical in both and he keeps neither the cloud nor the sign.",
+     "significance": "Jacob has just rewritten Isaiah 11:11's second recovery as the Messiah's second coming, and the phrase he completes the sentence with is the KJV's phrase for exactly that event. The two halves of 6:14 are an Isaiah restoration oracle and a synoptic advent oracle welded at the caesura, and the weld is what makes the reading possible: 'again the second time, to recover them; wherefore, he will manifest himself unto them in power and great glory.' The next clause — 'unto the destruction of their enemies' — belongs to neither and is Jacob's own."
+    },
+    "note": "'He will manifest himself unto them in power and great glory.' Four words shared with the two KJV verses that have them, both describing the coming of the Son of man; the immediately preceding clause is Isaiah 11:11 (see the link above), so the composite is doing real work here rather than hedging. Recorded as an allusion, not a quotation — four words is short, and Jacob keeps none of the surrounding apocalyptic furniture.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "manual"
+    ],
+    "text": "And then shall appear the sign of the Son of man in heaven: and then shall all the tribes of the earth mourn, and they shall see the Son of man coming in the clouds of heaven with power and great glory."
+   }
+  ],
+  "6:15": [
+   {
+    "source": "Luke 21:11",
+    "type": "allusion",
+    "subtype": "conceptual",
+    "confidence": "moderate",
+    "evidence": {
+     "vocabulary": 3,
+     "syntax": 2,
+     "sequence": 3,
+     "context": 5,
+     "rarity": 4,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "composite": [
+     "Matthew 24:7",
+     "Isaiah 29:6"
+    ],
+    "provenance": {
+     "route": "Luke 21:11 / Matthew 24:7 (the earthquakes, famines and pestilences) + Isaiah 29:6 (the fire and tempest) → KJV → Book of Mormon",
+     "other": "'Famines, and pestilences' occurs in exactly two KJV verses, Matthew 24:7 and Luke 21:11, and both list them beside earthquakes — which is Jacob's triad. 'Great earthquakes' is a Luke 21:11 singleton. Isaiah 29:6 supplies the other half: 'with thunder, and with earthquake, and great noise, with storm and tempest, and the flame of devouring fire.' Isaiah 29:6 is itself transcribed later in this book, at 2 Nephi 27:2.",
+     "significance": "Jacob's six-item list is welded from the two KJV catalogues of eschatological disaster, and it keeps the item each of them has that the other does not: fire and tempest from Isaiah 29, famine and pestilence from the synoptic apocalypse, earthquake from both. The sixth item, 'bloodsheds', is in no KJV list at all. Having just quoted a synoptic advent at 6:14, he supplies its judgments from Isaiah as well as from Luke — which is the chapter's method throughout: Isaiah read through the Gospels and the Gospels supplied from Isaiah."
+    },
+    "note": "'Both by fire, and by tempest, and by earthquakes, and by bloodsheds, and by pestilence, and by famine.' No single KJV verse has this list, and the machine stream proposed nothing at all for the verse. The two verses that come closest are Luke 21:11 and Isaiah 29:6, and between them they account for five of the six items; the pairing 'famines, and pestilences' is a two-verse KJV rarity and both of those verses are the synoptic apocalypse. Proposed under CONVENTIONS §0a: the individual words are common and the case rests on the composition of the list rather than on any string.",
+    "whyNot": "Every item in the list is ordinary KJV disaster vocabulary, and lists of judgments are a biblical commonplace — Ezekiel's 'sword, famine, pestilence' triad alone recurs more than a dozen times. Nothing here is a verbal run, and a reader who declined the whole row would be within their rights.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "manual"
+    ],
+    "text": "And great earthquakes shall be in divers places, and famines, and pestilences; and fearful sights and great signs shall there be from heaven."
+   }
+  ],
+  "6:16": [
+   {
+    "source": "Isaiah 49:24",
+    "type": "quotation",
+    "subtype": "explicit",
+    "confidence": "certain",
+    "evidence": {
+     "vocabulary": 5,
+     "syntax": 5,
+     "sequence": 5,
+     "context": 5,
+     "rarity": 5,
+     "attestation": 4
+    },
+    "kjvSpecific": "yes",
+    "mediation": "OT-via-earlier-BoM",
+    "recurrenceRefs": [
+     "1 Nephi 21:24"
+    ],
+    "provenance": {
+     "route": "Isaiah 49:24, by way of the reading already at 1 Nephi 21:24 → KJV → Book of Mormon",
+     "other": "'Lawful captive' occurs in exactly one KJV verse, this one. Two departures, pulling opposite ways: the KJV's 'Shall the prey be taken' is prefixed with 'For' in both Book of Mormon passages and in no English Bible, which is a shared non-KJV reading; but 1 Nephi 21:24 reads 'the lawful captives delivered' in the plural, and 2 Nephi 6:16 has the KJV's singular 'captive'.",
+     "significance": "This is the one verse of the block where mediation can be argued rather than guessed, and the answer is mixed. The prefixed 'For' is an agreement in error — a reading neither text could have got from the KJV — which is the classic signature of one Book of Mormon passage standing behind another, so mediation is recorded as OT-via-earlier-BoM. But the singular 'captive' is an agreement with the KJV against 1 Nephi 21, which the same hypothesis cannot explain. Two verses later, at 6:18, the pattern reverses again. Whatever the relation between the two Isaiah 49 passages is, it is not simple copying in either direction."
+    },
+    "note": "Isaiah 49:24 quoted with one added word. 'For shall the prey be taken from the mighty' agrees with 1 Nephi 21:24 against every English Bible; 'the lawful captive delivered' agrees with the KJV against 1 Nephi 21:24's plural. The mediation field records the first of those and the note records the second, because the two cannot both be right and the catalogue should say so rather than pick.",
+    "bibliography": [
+     "Hardy MSI at 2 Ne 6.18 (Isaiah 49:24-26, keyed as a block to the last verse of the three)"
+    ],
+    "status": "consensus",
+    "streams": [
+     "machine-ngram",
+     "manual"
+    ],
+    "text": "Shall the prey be taken from the mighty, or the lawful captive delivered?"
+   }
+  ],
+  "6:17": [
+   {
+    "source": "Isaiah 49:25",
+    "type": "quotation",
+    "subtype": "extended",
+    "confidence": "certain",
+    "evidence": {
+     "vocabulary": 5,
+     "syntax": 4,
+     "sequence": 5,
+     "context": 5,
+     "rarity": 5,
+     "attestation": 4
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-OT",
+    "composite": [
+     "Isaiah 9:6",
+     "Isaiah 10:21"
+    ],
+    "recurrenceRefs": [
+     "1 Nephi 21:25"
+    ],
+    "provenance": {
+     "route": "Isaiah 49:25 → KJV → Book of Mormon",
+     "other": "'Captives of the mighty' occurs in exactly one KJV verse, and so do 'the prey of the terrible' and 'contendeth with thee'; all three are this one. Three departures: an interpolation of thirteen words — 'for the Mighty God shall deliver his covenant people. For thus saith the Lord' — in place of the KJV's single 'for'; 'him that contendeth' → 'them that contendeth', which leaves a plural subject with a singular verb; and the omission of the KJV's closing clause 'and I will save thy children', which 1 Nephi 21:25 keeps. 'The mighty God' is not this verse's phrase: it occurs in seven KJV verses, of which Isaiah 9:6 ('his name shall be called Wonderful, Counsellor, The mighty God') and Isaiah 10:21 ('the remnant of Jacob, unto the mighty God') are the two in Isaiah, and both are transcribed later in this book at 2 Nephi 19:6 and 20:21.",
+     "significance": "The interpolation is the whole finding, and it does two things at once. It supplies a subject — the KJV's 'for' leaves the deliverance to the bare first person, and Jacob names the deliverer 'the Mighty God', which is the messianic title of Isaiah 9:6 imported into Isaiah 49. And it re-opens the quotation formula: 'For thus saith the Lord' is inserted mid-verse, so that the second half of Isaiah 49:25 is re-announced as a fresh oracle. Set that beside the omission of 'and I will save thy children' and the shape of the edit is clear: the children of Zion have been replaced by 'his covenant people', which is the term Jacob has been using since 6:13, and the verse has been re-aimed from a mother's family to a covenant body."
+    },
+    "note": "Isaiah 49:25 with the largest departure in the chapter. Where the KJV reads 'shall be delivered: for I will contend with him that contendeth with thee, and I will save thy children', Jacob reads 'shall be delivered: for the Mighty God shall deliver his covenant people. For thus saith the Lord: I will contend with them that contendeth with thee' — thirteen words interpolated, the KJV's final clause dropped, and 'him' pluralised to 'them' while the verb stays singular. 1 Nephi 21:25 has none of this and reproduces the KJV exactly, so the two Book of Mormon witnesses to Isaiah 49:25 are not the same text. Hardy cross-references Isaiah 49:25 at this verse.",
+    "bibliography": [
+     "Hardy MSI at 2 Ne 6.17 (Isaiah 49:25)"
+    ],
+    "status": "consensus",
+    "streams": [
+     "machine-ngram",
+     "manual"
+    ],
+    "text": "But thus saith the LORD, Even the captives of the mighty shall be taken away, and the prey of the terrible shall be delivered: for I will contend with him that contendeth with thee, and I will save thy children."
+   }
+  ],
+  "6:18": [
+   {
+    "source": "Isaiah 49:26",
+    "type": "quotation",
+    "subtype": "extended",
+    "confidence": "certain",
+    "evidence": {
+     "vocabulary": 5,
+     "syntax": 5,
+     "sequence": 5,
+     "context": 5,
+     "rarity": 5,
+     "attestation": 4
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-OT",
+    "composite": [
+     "Isaiah 60:16"
+    ],
+    "recurrenceRefs": [
+     "1 Nephi 21:26"
+    ],
+    "provenance": {
+     "route": "Isaiah 49:26 → KJV → Book of Mormon",
+     "other": "'With their own blood' and 'all flesh shall know' are each KJV singletons, both in this verse. 'The mighty One of Jacob' occurs in exactly two, Isaiah 49:26 and Isaiah 60:16, whose second half is verbally identical to this one's. The significant reading is a small conjunction: the KJV has 'with their own flesh; AND they shall be drunken', 1 Nephi 21:26 drops the 'and', and 2 Nephi 6:18 restores it — an agreement with the KJV against the earlier Book of Mormon passage. The 1830's 'Saviour' is the KJV spelling; 1920 changed it to 'Savior'.",
+     "significance": "Two verses after 6:16, where the shared 'For' argued that 1 Nephi 21 stood behind this quotation, the conjunction argues the other way: 2 Nephi 6:18 has a KJV reading that 1 Nephi 21:26 does not have, so it cannot have been copied from it here. Taken with 6:7's 'faces', which departs from both, the block's five verses agree with the KJV, with 1 Nephi 21, and with neither, in no consistent pattern. That is a real result about the two Isaiah 49 passages and it is only visible because the catalogue collates the second one against the first rather than treating it as a repeat."
+    },
+    "note": "Isaiah 49:26 essentially verbatim, and the closing title — 'the Mighty One of Jacob' — is capitalised in the 1830 where the KJV has 'the mighty One'. The verse carries three of the chapter's KJV singletons in eighteen words. Its interest is textual rather than exegetical: it restores a conjunction that 1 Nephi 21:26 had dropped, which is the counter-evidence to the mediation argued at 6:16, and the provenance note sets the two side by side.",
+    "bibliography": [
+     "Hardy MSI at 2 Ne 6.18 (Isaiah 49:24-26)"
+    ],
+    "status": "consensus",
+    "streams": [
+     "machine-ngram",
+     "manual"
+    ],
+    "text": "And I will feed them that oppress thee with their own flesh; and they shall be drunken with their own blood, as with sweet wine: and all flesh shall know that I the LORD am thy Saviour and thy Redeemer, the mighty One of Jacob."
+   }
+  ]
+ }
+}

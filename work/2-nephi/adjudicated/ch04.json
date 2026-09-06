@@ -1,0 +1,1130 @@
+{
+  "chapter": 4,
+  "adjudicated": "2026-09-05",
+  "adjudicator": "Opus",
+  "links": {
+    "4:4": [
+      {
+        "source": "Leviticus 22:3",
+        "text": "Say unto them, Whosoever he be of all your seed among your generations, that goeth unto the holy things, which the children of Israel hallow unto the LORD, having his uncleanness upon him, that soul shall be cut off from my presence: I am the LORD.",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 3,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "recurrenceRefs": [
+          "1 Nephi 2:20",
+          "1 Nephi 2:21",
+          "1 Nephi 4:14"
+        ],
+        "provenance": {
+          "route": "Leviticus 22:3 → KJV → Book of Mormon",
+          "other": "“cut off from my presence” occurs in exactly one KJV verse, Leviticus 22:3. The Book of Mormon's own covenant formula elsewhere reads otherwise — 1 Nephi 2:21 has “cut off from the presence of the Lord” — so the Levitical wording enters here and not at the formula's first statement.",
+          "significance": "The promise half of the covenant (“ye shall prosper in the land”) has no KJV phrase behind it at all; the threat half does, and it is a purity law. Leviticus 22:3 cuts off a priest who approaches the holy things with uncleanness upon him. Lehi's grandchildren are not priests and the sanction is territorial, not cultic — but the sentence that carries God's severity into the Book of Mormon's central covenant is a sentence about a man barred from the altar."
+        },
+        "note": "Lehi states the land-covenant in its standard Book of Mormon form, and the negative clause departs from the form used at its first statement. 1 Nephi 2:21 and 1 Nephi 4:14 have “the presence of the Lord”; 2 Nephi 4:4 has “from my presence”, first person, which is Leviticus 22:3's phrasing and no other KJV verse's. The positive clause has no KJV parallel — “prosper in the land” occurs in exactly 0 KJV verses — so the borrowing is one-sided: the blessing is the book's own idiom and the curse is the King James Bible's.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "4:5": [
+      {
+        "source": "Proverbs 22:6",
+        "text": "Train up a child in the way he should go: and when he is old, he will not depart from it.",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 3
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "provenance": {
+          "route": "Proverbs 22:6 → KJV → Book of Mormon",
+          "other": "Both halves are KJV singletons: “in the way he should go” occurs in exactly one KJV verse and “will not depart from it” occurs in exactly one KJV verse, and it is the same verse.",
+          "significance": "Proverbs 22:6 is a maxim about the durability of early training; Lehi turns it into a warrant for a deathbed blessing that will outlive him, and immediately extends it past the child to the grandchild — “that the cursing may be taken from you, and be answered upon the heads of your parents” (4:6). The proverb promises that formation holds; Lehi is betting that a blessing can be laid down now and collected generations later, which is more than the proverb says and depends on it having said that much."
+        },
+        "note": "“If ye are brought up in the right way that ye should go, ye will not depart from it.” The whole of Proverbs 22:6 is here in order, with the KJV's two distinctive runs intact and only the person changed (he → ye). The 1830 reading is the evidential one: it adds “right” and “that”, and the 1920 edition deleted both, so the modern text reads “brought up in the way ye should go” and is nearer the KJV than the first edition was. That is the same direction of drift recorded at 1 Nephi 1:20 (CONVENTIONS §8) — a later editor tidying the Book of Mormon back toward its source — and it means the borrowing is visible in 1830 despite the tidying, not because of it.",
+        "bibliography": [
+          "Hardy MSI at 2 Ne 4.5 (Proverbs 22:6)"
+        ],
+        "status": "consensus",
+        "streams": [
+          "machine-ngram",
+          "scholarship",
+          "manual"
+        ]
+      }
+    ],
+    "4:12": [
+      {
+        "source": "Genesis 49:33",
+        "text": "And when Jacob had made an end of commanding his sons, he gathered up his feet into the bed, and yielded up the ghost, and was gathered unto his people.",
+        "type": "figural",
+        "subtype": "type-scene",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 2,
+          "syntax": 3,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 1,
+          "attestation": 1
+        },
+        "kjvSpecific": "no",
+        "mediation": "direct-OT",
+        "composite": [
+          "Genesis 49:1",
+          "Genesis 49:28"
+        ],
+        "recurrenceRefs": [
+          "2 Nephi 1:1",
+          "2 Nephi 3:1"
+        ],
+        "provenance": {
+          "route": "Genesis 49 → KJV → Book of Mormon",
+          "other": "“made an end of” is formulaic — it occurs in exactly 38 KJV verses — so this link rests on the shape of the scene and not on its wording. Genesis 49:33 happens to be one of the 38, and is the one that closes a deathbed blessing. Note that with the pronoun attached, “he died, and was buried” occurs in exactly one KJV verse — 2 Chronicles 35:24, Josiah — but that is an artifact of how often the formula takes a named subject instead, and the exclusion register discharges it at this verse.",
+          "significance": "Chapters 1-4 of 2 Nephi are a Genesis 49 in full: the father calls his sons, blesses them in birth order, gives the longest and strangest oracle to Joseph (2 Nephi 3, on the Joseph who was carried into Egypt), and then dies. What the Book of Mormon adds is the generation below — Lehi blesses the children of Laman and Lemuel, not Laman and Lemuel — because unlike Jacob he is blessing sons he has already lost. The form is Jacob's; the pathos is the alteration."
+        },
+        "note": "“After Lehi had spake unto all his household, according to the feelings of his heart … he waxed old. And it came to pass that he died, and was buried.” The verbal contact is thin by design: “died, and was buried” occurs in exactly 8 KJV verses and is a chronicler's formula, and “he waxed old” occurs in exactly 0. The case is structural. Genesis 49:33 is the KJV's model for the sentence that ends a patriarchal blessing scene — the blessings finished, the sons dismissed, the patriarch dead in the same breath — and 2 Nephi 1-4 has spent four chapters assembling exactly that scene, down to the Joseph oracle in the emphatic position. Catalogued figural rather than as an allusion because no clause is borrowed; the argument is that the frame is.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "4:13": [
+      {
+        "source": "Luke 15:13",
+        "text": "And not many days after the younger son gathered all together, and took his journey into a far country, and there wasted his substance with riotous living.",
+        "type": "echo",
+        "subtype": "possible",
+        "confidence": "low",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 2,
+          "context": 3,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "uncertain",
+        "mediation": "direct-NT",
+        "composite": [
+          "Luke 15:28"
+        ],
+        "provenance": {
+          "route": "Luke 15:13 → KJV → Book of Mormon",
+          "other": "“not many days after” occurs in exactly one KJV verse, Luke 15:13; the nearest other reading is Acts 1:5's “not many days hence”.",
+          "significance": "If the phrase is borrowed it brings its parable with it, and the parable is about brothers: the younger goes off with the inheritance and the elder “was angry, and would not go in” (Luke 15:28). 2 Nephi 4:13 is the verse where the elder brothers become angry with the younger who has the birthright, and the family will divide permanently within the chapter. That is the whole plot of Luke 15 read from the elder brother's side."
+        },
+        "note": "“Not many days after his death, Laman and Lemuel, and the sons of Ishmael, were angry with me.” The phrase is a KJV singleton, which is why it is recorded at all; the reading it supports is that the sentence which opens the Book of Mormon's permanent fraternal breach opens with the words that open the parable of the two brothers, and pairs them with the elder brother's anger from the end of it.",
+        "whyNot": "“Not many days after” is ordinary narrative connective tissue and its singleton status is an accident of how rarely the KJV needs that transition, not a mark of distinctiveness — the count measures the King James translators' habits, not Luke's vocabulary. Nothing else in the verse touches Luke 15, and the anger is not at 15:13 but fifteen verses later. Recorded at low confidence as a reading worth having on the record, not as a claim of dependence.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "4:15": [
+      {
+        "source": "Romans 15:4",
+        "text": "For whatsoever things were written aforetime were written for our learning, that we through patience and comfort of the scriptures might have hope.",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "Romans 15:4 → KJV → Book of Mormon",
+          "other": "“written for our learning” occurs in exactly one KJV verse, Romans 15:4.",
+          "significance": "Romans 15:4 is the KJV's charter for reading old scripture in a new situation: whatsoever things were written aforetime were written for our learning, that we through patience and comfort of the scriptures might have hope. Nephi applies it to his own act of writing — he transcribes the plates of brass so that his children may learn — and the psalm that follows immediately is a demonstration of what he means, a lament assembled almost entirely out of the scriptures he has just said he ponders. The verse that licenses the borrowing is itself borrowed."
+        },
+        "note": "“And my heart pondereth them, and writeth them for the learning and the profit of my children.” The KJV's phrase for the purpose of written scripture appears here as the purpose of Nephi's own plates, with “our” replaced by “my children” and “profit” added — the latter is Paul's word two chapters earlier in the same argument and 2 Timothy 3:16's (“profitable for doctrine”). This is the chapter's hinge: verse 15 states a theory of scripture-reading, and verses 16-35 enact it.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      },
+      {
+        "source": "Luke 2:19",
+        "text": "But Mary kept all these things, and pondered them in her heart.",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 3,
+          "context": 3,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "recurrenceRefs": [
+          "2 Nephi 4:16"
+        ],
+        "provenance": {
+          "route": "Luke 2:19 → KJV → Book of Mormon",
+          "other": "“pondered them in her heart” occurs in exactly one KJV verse, Luke 2:19. The KJV uses the verb “ponder” of a person only here and at Luke 2:19's echo in Proverbs 4:26 (“ponder the path of thy feet”); Nephi has both idioms in this chapter, the heart at 4:15-16 and the path at 4:33.",
+          "significance": "Mary's pondering is the KJV's one image of a person holding revelation privately because it cannot yet be spoken, and it stands three verses after the shepherds have told everyone. Nephi's is the same posture with the same reason: at 4:25 he has seen things “too great for man” and was “bidden that I should not write them”. The psalm is what a person does with a revelation they are not permitted to publish."
+        },
+        "note": "“My heart pondereth them”, and at 4:16 “my heart pondereth continually upon the things which I have seen and heard.” The KJV's collocation of pondering with the heart is Luke 2:19's alone, and the Book of Mormon has it twice in two verses. Adjudicated at first use; 4:16 is the same borrowing continued and is registered in recurrenceRefs rather than given a second row.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "4:16": [
+      {
+        "source": "Acts 4:20",
+        "text": "For we cannot but speak the things which we have seen and heard.",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "Acts 4:20 → KJV → Book of Mormon",
+          "other": "“the things which we have seen and heard” occurs in exactly one KJV verse, Acts 4:20. The bare pair “seen and heard” occurs in exactly 5.",
+          "significance": "Acts 4:20 is Peter and John before the Sanhedrin, refusing an order to stop speaking: we cannot but speak the things which we have seen and heard. Nephi's sentence is the same words under the opposite constraint — he cannot speak them (4:25, “I was bidden that I should not write them”), so he ponders them instead. The apostles' defiance becomes the prophet's silence, and the verse is the pivot into a psalm that is 4:16's suppressed speech finding an outlet."
+        },
+        "note": "“My heart pondereth continually upon the things which I have seen and heard.” The five-word run is a KJV singleton and Nephi keeps it whole, changing only the person. Its force is the change of situation: in Acts the phrase is the reason a man must speak, here it is the content of what a man keeps to himself.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "4:17": [
+      {
+        "source": "Romans 7:24",
+        "text": "O wretched man that I am! who shall deliver me from the body of this death?",
+        "type": "quotation",
+        "subtype": "close-verbal",
+        "confidence": "certain",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 4
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Romans 7:18",
+          "Romans 7:23"
+        ],
+        "recurrenceRefs": [
+          "2 Nephi 4:18",
+          "2 Nephi 4:27",
+          "2 Nephi 4:31"
+        ],
+        "provenance": {
+          "route": "Romans 7:24 → KJV → Book of Mormon",
+          "other": "“O wretched man that I am” occurs in exactly one KJV verse, Romans 7:24, reproduced here word for word. The 1830 spellings elsewhere in the verse — “shewing”, “marvellous” — are the KJV's and were modernized in 1920.",
+          "significance": "Recover Romans 7:24's second half and the whole shape of the psalm appears: “who shall deliver me from the body of this death?” Nephi asks that question four times over the next fifteen verses — “because of my flesh” (4:17, 4:27), “my flesh waste away” (4:26), “wilt thou redeem my soul? wilt thou deliver me?” (4:31) — and Romans 7 supplies the terms of each. Romans 7:18, “in me (that is, in my flesh,) dwelleth no good thing”; 7:23, “the law of sin which is in my members”, warring and “bringing me into captivity”. The psalm of Nephi is Romans 7:14-25 in the first person, and it resolves the way Paul resolves it, by turning from the flesh to a rock outside it (4:30, 4:35)."
+        },
+        "note": "Six words of Romans 7:24, verbatim and in order, from the only KJV verse in which they occur. This is the exclamation the whole psalm is built to make, and it is not decoration: what follows it in Nephi — flesh, iniquity, sin that besets, the desire to rejoice defeated by groaning — is what follows it in Paul, read backwards up the chapter. Note that the borrowing is a New Testament borrowing placed in the mouth of a writer the text dates to about 570 BC, and that the surrounding sentence is the Book of Mormon's own; Nephi does not quote Romans, he speaks in it.",
+        "bibliography": [],
+        "status": "majority",
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ],
+        "citationsPending": true
+      }
+    ],
+    "4:18": [
+      {
+        "source": "Hebrews 12:1",
+        "text": "Wherefore seeing we also are compassed about with so great a cloud of witnesses, let us lay aside every weight, and the sin which doth so easily beset us, and let us run with patience the race that is set before us,",
+        "type": "quotation",
+        "subtype": "close-verbal",
+        "confidence": "certain",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 3
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "recurrenceRefs": [
+          "2 Nephi 4:28",
+          "2 Nephi 4:29",
+          "2 Nephi 4:33"
+        ],
+        "provenance": {
+          "route": "Hebrews 12:1 → KJV → Book of Mormon",
+          "other": "“which doth so easily beset” occurs in exactly one KJV verse, Hebrews 12:1. “Encompassed about” occurs in exactly 0 KJV verses; the KJV reads “compassed about”, which occurs in exactly 5, one of them Hebrews 12:1 itself. So the Book of Mormon has the singleton clause exactly and the common clause inexactly, which is the signature of quotation from memory rather than transcription.",
+          "significance": "Hebrews 12 is not merely quarried here, it is followed. 12:1 gives 2 Nephi 4:18 the sin that so easily besets; 12:12's drooping hands and feeble knees give 4:28-29 their “no longer droop” and “do not slacken my strength”; 12:13's “make straight paths” gives 4:33 “wilt thou make my path straight before me”. Three verses of one paragraph, in the source's order, spread across the psalm's turn from despair to petition — which is the turn Hebrews 12 itself makes. The catalogue's 1 Nephi 4:2 entry found the same habit with Hebrews 11: the Book of Mormon uses a chapter of Hebrews as an index and works down it."
+        },
+        "note": "“The sins which doth so easily beset me.” The clause is Hebrews 12:1's, singular for plural and me for us, and even the KJV's ungrammatical singular verb survives — “the sins which DOTH so easily beset” — which is the tell, since a writer composing freely would have written “do”. The 1920 edition left it standing. “Encompassed about” in the same sentence is Hebrews 12:1's “compassed about” loosened; the pairing of the two clauses is Hebrews' and nobody else's.",
+        "bibliography": [],
+        "status": "majority",
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ],
+        "citationsPending": true
+      }
+    ],
+    "4:19": [
+      {
+        "source": "2 Timothy 1:12",
+        "text": "For the which cause I also suffer these things: nevertheless I am not ashamed: for I know whom I have believed, and am persuaded that he is able to keep that which I have committed unto him against that day.",
+        "type": "allusion",
+        "subtype": "paraphrase",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "recurrenceRefs": [
+          "2 Nephi 4:34"
+        ],
+        "provenance": {
+          "route": "2 Timothy 1:12 → KJV → Book of Mormon",
+          "other": "“I know whom I have believed” occurs in exactly one KJV verse, 2 Timothy 1:12. The Book of Mormon substitutes “trusted” for “believed” and adds the preposition: “I know in whom I have trusted.”",
+          "significance": "The substitution is the interesting part, because it sets up the end of the psalm. 2 Timothy's verb is belief; Nephi's is trust, and trust is what 4:34 will spend a whole verse on — “I have trusted in thee, and I will trust in thee forever … cursed is he that putteth his trust in man.” The verse that steadies him in the middle of the lament is Paul's confidence with Jeremiah's vocabulary dropped into it, sixteen verses before Jeremiah arrives."
+        },
+        "note": "“Nevertheless, I know in whom I have trusted.” The KJV has this sentence once, in a chapter about not being ashamed under affliction, and the Book of Mormon's “nevertheless” answers 2 Timothy 1:12's “nevertheless I am not ashamed” in the same position. Catalogued as paraphrase rather than quotation because the governing verb is changed; the syntax, the concessive, and the argumentative function are unaltered.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "4:20": [
+      {
+        "source": "Lamentations 3:2",
+        "text": "He hath led me, and brought me into darkness, but not into light.",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Lamentations 3:1",
+          "Lamentations 3:4"
+        ],
+        "recurrenceRefs": [
+          "2 Nephi 4:21",
+          "2 Nephi 4:22",
+          "2 Nephi 4:23",
+          "2 Nephi 4:24",
+          "2 Nephi 4:25",
+          "2 Nephi 4:33"
+        ],
+        "provenance": {
+          "route": "Lamentations 3:1-16 → KJV → Book of Mormon",
+          "other": "“He hath led me” occurs in exactly one KJV verse, Lamentations 3:2, and “he hath filled me with” occurs in exactly one KJV verse, Lamentations 3:15 — the two openings of 2 Nephi 4:20 and 4:21. Both are within fourteen verses of each other in one passage.",
+          "significance": "Lamentations 3:1-16 is the KJV's only sustained first-person catalogue of what God has done TO a man, sixteen verses of “He hath led me”, “He hath filled me”, “he hath hedged me about”, “he hath made my chain heavy”. 2 Nephi 4:20-25 is six verses of the same anaphora with the sign reversed: he hath led me THROUGH mine afflictions, he hath PRESERVED me, he hath filled me WITH HIS LOVE, he hath heard my cry. The psalm of Nephi answers Lamentations 3 in Lamentations 3's own grammar — and then at 4:33 it goes back for the one clause it has not yet used, “he hath hedged me about, that I cannot get out” (3:7), and turns it into a petition: “hedge not up my way, but the ways of mine enemy.” This is the chapter's largest single borrowing and no word of it is more than four words long."
+        },
+        "note": "“My God hath been my support; he hath led me through mine afflictions in the wilderness.” The opening formula is a KJV singleton and its source is the great lament, where the same words mean the opposite — “He hath led me, and brought me into darkness, but not into light.” The following five verses continue the anaphora, and each turns the affliction into mercy. Recorded at 4:20 as the first instance of a structural borrowing that runs to 4:25 and returns at 4:33; the individual verses are registered in recurrenceRefs rather than given rows of their own, except 4:21, where the second KJV singleton makes an independent case.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      },
+      {
+        "source": "Isaiah 51:10",
+        "text": "Art thou not it which hath dried the sea, the waters of the great deep; that hath made the depths of the sea a way for the ransomed to pass over?",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "recurrenceRefs": [
+          "2 Nephi 8:10"
+        ],
+        "provenance": {
+          "route": "Isaiah 51:10 → KJV → Book of Mormon",
+          "other": "“The waters of the great deep” occurs in exactly one KJV verse, Isaiah 51:10.",
+          "significance": "Isaiah 51:10 asks whether it was not the arm of the LORD that dried the sea and made the depths a way for the ransomed to pass over — an Exodus verse used to argue that the ransomed will come again. Nephi, who crossed an ocean, claims it as autobiography: the waters of the great deep are not a figure for him. And the chapter he is quoting is one he will transcribe entire four chapters later, at 2 Nephi 8:10. The catalogue can therefore watch the same verse enter the book twice — once as Nephi's own words about his own voyage, and once as Isaiah's, quoted as Isaiah's."
+        },
+        "note": "“He hath preserved me upon the waters of the great deep.” The phrase is a KJV singleton and the source is Isaiah 51, which 2 Nephi 8 transcribes in full; recurrenceRefs points there. The borrowing is not a repetition of the transcription — it comes first in the book — but the reverse: Nephi speaks in Isaiah's words before he sets down Isaiah's chapter, which is what a writer does with a text he has by heart rather than one he is copying.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "4:21": [
+      {
+        "source": "Lamentations 3:15",
+        "text": "He hath filled me with bitterness, he hath made me drunken with wormwood.",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 5,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Lamentations 3:4"
+        ],
+        "recurrenceRefs": [
+          "2 Nephi 4:20"
+        ],
+        "provenance": {
+          "route": "Lamentations 3:15 → KJV → Book of Mormon",
+          "other": "“He hath filled me with” occurs in exactly one KJV verse, Lamentations 3:15, where the object is bitterness.",
+          "significance": "The substitution is a single word and it reverses the passage: he hath filled me with bitterness becomes he hath filled me with his love. And the consequence Nephi draws — “even unto the consuming of my flesh” — is Lamentations 3:4's, “my flesh and my skin hath he made old”. The love does to Nephi's body what the wrath did to the poet's. That is not a softening of Lamentations; it is a claim that the same experience, physically, can be read either way, which is precisely the argument 4:26-29 goes on to have with itself."
+        },
+        "note": "“He hath filled me with his love, even unto the consuming of my flesh.” The formula is a KJV singleton with one word changed, and the change is from bitterness to love. Given a row of its own rather than folded into the Lamentations 3 structural link at 4:20 because the singleton makes it independently demonstrable, and because the wasting of the flesh in the second clause reaches back to a different verse of the same passage.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "4:23": [
+      {
+        "source": "Psalm 40:1",
+        "text": "I waited patiently for the LORD; and he inclined unto me, and heard my cry.",
+        "type": "echo",
+        "subtype": "probable",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Psalm 22:2"
+        ],
+        "provenance": {
+          "route": "Psalm 40:1 → KJV → Book of Mormon",
+          "other": "“Heard my cry” occurs in exactly one KJV verse, Psalm 40:1. The night half of Nephi's antithesis is closer to Job 4:13 and Genesis 46:2, where “visions of the night” occurs in exactly 2 KJV verses; Nephi has “visions in the night time”, and “in the night time” occurs in exactly 0.",
+          "significance": "Nephi's antithesis is day and night, cry and vision: heard my cry by day, gave me knowledge by visions in the night. The KJV's own day-and-night lament is Psalm 22:2 — “O my God, I cry in the day time, but thou hearest not; and in the night season, and am not silent” — where both halves fail. Nephi's verse is that structure with both halves answered. Whether or not Psalm 22 is in view, Psalm 40:1's “he inclined unto me, and heard my cry” is the KJV's one sentence for a cry that got through, and it is the sentence Nephi has."
+        },
+        "note": "“He hath heard my cry by day, and he hath given me knowledge by visions in the night time.” Recorded on the strength of the singleton alone, and kept at echo because the rest of the verse has no KJV wording behind it — the night clause is Nephi's own, formed on the KJV's “visions of the night” but not reproducing it. The verse belongs to the “He hath” sequence begun at 4:20 out of Lamentations 3, so what is borrowed here is a psalm's answer set inside a lament's grammar.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "4:24": [
+      {
+        "source": "Matthew 4:11",
+        "text": "Then the devil leaveth him, and, behold, angels came and ministered unto him.",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Acts 13:46"
+        ],
+        "recurrenceRefs": [
+          "2 Nephi 4:25",
+          "2 Nephi 4:27",
+          "2 Nephi 4:33"
+        ],
+        "provenance": {
+          "route": "Matthew 4:11 → KJV → Book of Mormon",
+          "other": "“Angels came and ministered” occurs in exactly one KJV verse, Matthew 4:11; Mark 1:13's parallel reads “the angels ministered unto him”, without the verb of arrival. “Waxed bold” in the first clause occurs in exactly one KJV verse, Acts 13:46.",
+          "significance": "Matthew 4:11 is the last verse of the temptation: “Then the devil leaveth him, and, behold, angels came and ministered unto him.” The next verse of Nephi's psalm takes the exceeding high mountain from Matthew 4:8, and four verses later he asks why he should “give way to temptations, that the evil one have place in my heart” (4:27). The psalm of Nephi describes its author's spiritual life in the vocabulary of Christ's temptation in the wilderness — the mountain, the tempter, the ministering angels — and does so in reverse order, taking the consolation first and the mountain second, which is how a man remembers a trial he has survived rather than how an evangelist narrates one."
+        },
+        "note": "“And by day have I waxed bold in mighty prayer before him; yea, my voice have I sent upon high; and angels came down and ministered unto me.” Two KJV singletons in one sentence. “Waxed bold” is Paul and Barnabas turning to the Gentiles; “angels came and ministered” is the end of the temptation narrative, with “down” inserted and “him” made “me”. Note that the 1830 “sent upon high” was repunctuated to “sent up on high” in 1920 — the first edition's reading is the harder one and the modern text has smoothed it.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "4:25": [
+      {
+        "source": "Matthew 4:8",
+        "text": "Again, the devil taketh him up into an exceeding high mountain, and sheweth him all the kingdoms of the world, and the glory of them;",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Revelation 21:10",
+          "Revelation 17:3"
+        ],
+        "recurrenceRefs": [
+          "2 Nephi 4:24",
+          "1 Nephi 11:1"
+        ],
+        "provenance": {
+          "route": "Matthew 4:8 → KJV → Book of Mormon",
+          "other": "“Exceeding high mountain” occurs in exactly one KJV verse, Matthew 4:8. “Carried me away in the spirit” occurs in exactly 2, Revelation 17:3 and 21:10, both of them John being taken to see something. Nephi's sentence fuses the two: carried away in the spirit, to an exceeding high mountain.",
+          "significance": "The two sources pull in opposite directions and the verse holds both. In Matthew the exceeding high mountain is where the devil takes Jesus to show him the kingdoms of the world; in Revelation the spirit carries John to a great and high mountain to show him the holy city. Nephi's own mountain vision at 1 Nephi 11 was a revelation, so the Revelation sense governs — but the phrase he reaches for is Matthew's, from the temptation whose ministering angels he has just borrowed in the previous verse. The result is a mountain that is simultaneously the tempter's and the angel's, in a psalm whose subject is exactly that ambiguity.",
+          "alternative": "Ezekiel 40:2, “brought me … and set me upon a very high mountain”, is the OT analogue and could stand behind the vision-taking; it lacks the KJV's “exceeding”."
+        },
+        "note": "“Upon the wings of his spirit hath my body been carried away upon exceeding high mountains.” The mountain phrase is a KJV singleton from Matthew 4:8, the being-carried phrase belongs to Revelation's two verses, and the wings are the Psalter's (“the wings of the wind”, three KJV verses). Note the 1830 “mine eyes hath beheld”, a plural subject with a singular verb, corrected to “have” in 1920 — the kind of KJV-adjacent grammar the first edition preserves and later editions tidy.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      },
+      {
+        "source": "2 Corinthians 12:4",
+        "text": "How that he was caught up into paradise, and heard unspeakable words, which it is not lawful for a man to utter.",
+        "type": "allusion",
+        "subtype": "conceptual",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "2 Corinthians 12:2"
+        ],
+        "provenance": {
+          "route": "2 Corinthians 12:2-4 → KJV → Book of Mormon",
+          "other": "“Not lawful for a man to utter” occurs in exactly one KJV verse, 2 Corinthians 12:4. Nephi does not reproduce the clause; he reproduces its content — “too great for man; therefore I was bidden that I should not write them”.",
+          "significance": "2 Corinthians 12:2-4 is the KJV's one first-person account of being taken up and forbidden to report it, and it is also the KJV's one passage that worries about the body during such a taking: “whether in the body, I cannot tell; or whether out of the body, I cannot tell.” Nephi settles that question in the affirmative and in the same breath — “hath MY BODY been carried away” — and then, like Paul, declines to say what he saw. The psalm's boast and its refusal to boast are Paul's, from the passage where boasting is the explicit problem."
+        },
+        "note": "“Mine eyes hath beheld great things; yea, even too great for man; therefore I was bidden that I should not write them.” No clause is reproduced, which is why this is not catalogued as a quotation; what is reproduced is a distinctive and rare configuration — rapture, uncertainty about the body, and an express prohibition on reporting the content — which the KJV has in one place. Set beside the Matthew 4:8 link on the same verse, this is the second New Testament vision-narrative in a single sentence.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "4:28": [
+      {
+        "source": "Ephesians 4:27",
+        "text": "Neither give place to the devil.",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "recurrenceRefs": [
+          "2 Nephi 4:27"
+        ],
+        "provenance": {
+          "route": "Ephesians 4:27 → KJV → Book of Mormon",
+          "other": "“Give place to the devil” occurs in exactly one KJV verse, Ephesians 4:27; the bare verb “give place” occurs in exactly 4, of which the other three are spatial or concessive (Isaiah 49:20, Matthew 9:24, Romans 12:19).",
+          "significance": "Ephesians 4:26-27 is the KJV's one command against nursing anger: let not the sun go down upon your wrath, neither give place to the devil. Both halves are in Nephi's two verses. 4:27 ends “Why am I angry because of mine enemy?” and 4:29 begins “Do not anger again”; between them stands “give place no more for the enemy of my soul”. The Book of Mormon has taken the Ephesians pairing of anger with the devil's foothold and made a psalm-stanza of it, which is what it also does to Hebrews 12 and Lamentations 3 in this chapter."
+        },
+        "note": "“Rejoice O my heart, and give place no more for the enemy of my soul.” The KJV's idiom for yielding ground to the adversary is Ephesians 4:27's and no other verse's, and the previous verse has already used it in the other direction — “that the evil one HAVE PLACE in my heart”. Adjudicated at 4:28 where the verb matches; 4:27's noun phrase is the same borrowing anticipated and is registered in recurrenceRefs.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      },
+      {
+        "source": "Isaiah 52:1",
+        "text": "Awake, awake; put on thy strength, O Zion; put on thy beautiful garments, O Jerusalem, the holy city: for henceforth there shall no more come into thee the uncircumcised and the unclean.",
+        "type": "echo",
+        "subtype": "possible",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 4,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "uncertain",
+        "mediation": "direct-OT",
+        "composite": [
+          "Isaiah 51:9"
+        ],
+        "recurrenceRefs": [
+          "2 Nephi 8:9",
+          "2 Nephi 8:24"
+        ],
+        "provenance": {
+          "route": "Isaiah 51:9 / 52:1 → KJV → Book of Mormon",
+          "other": "“Put on thy strength” occurs in exactly one KJV verse, Isaiah 52:1. Nephi does not reproduce it; what he shares with Isaiah is the imperative “Awake” addressed to a self or a city, and the strength that follows it in the next verse (“Do not slacken my strength”, 4:29).",
+          "significance": "Isaiah 51:9 and 52:1 are the double summons — Awake, awake, put on strength — and 2 Nephi 8 transcribes both, at 8:9 and 8:24, four chapters after this verse. Nephi's “Awake, my soul!” is the same imperative turned inward: he addresses to himself what Isaiah addresses to the arm of the LORD and to Zion. That inward turn is the psalm's whole method, and this is where it is most visible."
+        },
+        "note": "“Awake, my soul! No longer droop in sin.” The KJV has no “awake, my soul”; the nearest is Psalm 57:8, “Awake up, my glory”. What makes Isaiah the likelier background is that Nephi is a writer who transcribes Isaiah 51-52 in this same book and whose next verse asks not to have his strength slackened, against Isaiah's “put on thy strength”.",
+        "whyNot": "No clause is shared. The imperative “awake” is common enough in the KJV that a self-address could be formed without any particular source, and the strength language is separated by a verse. Recorded because the specific Isaiah chapters are demonstrably in this author's hands, not because the wording compels it.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "4:30": [
+      {
+        "source": "Psalm 89:26",
+        "text": "He shall cry unto me, Thou art my father, my God, and the rock of my salvation.",
+        "type": "quotation",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 4,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "2 Samuel 22:47"
+        ],
+        "recurrenceRefs": [
+          "2 Nephi 4:35"
+        ],
+        "provenance": {
+          "route": "Psalm 89:26 → KJV → Book of Mormon",
+          "other": "“Rock of my salvation” occurs in exactly 2 KJV verses, 2 Samuel 22:47 and Psalm 89:26. Only Psalm 89:26 has the full eight-word run the Book of Mormon has — “my God, and the rock of my salvation” — 2 Samuel reading “the God of the rock of my salvation”. The choice between the two is therefore decidable, and it falls to the Psalm.",
+          "significance": "Psalm 89:26 is God speaking about David: “He shall cry unto me, Thou art my father, my God, and the rock of my salvation.” Nephi's verse is the cry the Psalm predicts, delivered — “cry unto the Lord, and say … my God, and the rock of my salvation” — including the verb “cry” that Psalm 89:26 uses to introduce it. He has taken a third-person prophecy about what the anointed son will say and performed it in the first person."
+        },
+        "note": "Eight consecutive words of Psalm 89:26, and the two-verse rarity of the core phrase is resolved by the full run: 2 Samuel 22:47 has “the God of the rock”, which is not what Nephi has. The verse's other half is Isaiah 12:1's (separate row). At 4:35 the same formula returns as “the rock of my righteousness”, which occurs in exactly 0 KJV verses — Nephi varying a borrowed phrase once he has established it, which is how the catalogue distinguishes a source from a habit.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      },
+      {
+        "source": "Isaiah 12:1",
+        "text": "And in that day thou shalt say, O LORD, I will praise thee: though thou wast angry with me, thine anger is turned away, and thou comfortedst me.",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "recurrenceRefs": [
+          "2 Nephi 22:1"
+        ],
+        "provenance": {
+          "route": "Isaiah 12:1 → KJV → Book of Mormon",
+          "other": "“O LORD, I will praise thee” occurs in exactly one KJV verse, Isaiah 12:1.",
+          "significance": "Isaiah 12 is the song sung after the deliverance of Isaiah 11, and 2 Nephi transcribes it at chapter 22 — eighteen chapters after Nephi uses its opening line as his own. The catalogue can watch the same words function twice in one book: here as Nephi's private vow of praise in the middle of a lament, there as Isaiah's public song quoted as scripture. The first use is the more interesting one, because Isaiah 12:1 continues “though thou wast angry with me, thine anger is turned away” — and Nephi's psalm is at this exact point turning away from its own anger (4:27, “Why am I angry because of mine enemy?”; 4:29, “Do not anger again”)."
+        },
+        "note": "“Cry unto the Lord, and say, O Lord, I will praise thee forever.” The five-word run is a KJV singleton and it arrives with its formula of address intact, including the “and say” that introduces it in Isaiah. The word “forever” is Nephi's addition. recurrenceRefs points to 2 Nephi 22:1, where the same verse is transcribed in full as part of the Isaiah block — later in the book, so this is not a repetition of the transcription but its anticipation.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "4:31": [
+      {
+        "source": "Psalm 31:15",
+        "text": "My times are in thy hand: deliver me from the hand of mine enemies, and from them that persecute me.",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 3,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Psalm 49:15",
+          "1 Samuel 17:37",
+          "Psalm 31:14"
+        ],
+        "provenance": {
+          "route": "Psalm 31:15 → KJV → Book of Mormon",
+          "other": "“Hand of mine enemies” occurs in exactly one KJV verse, Psalm 31:15; the Book of Mormon has the plural, “hands of mine enemies”, which occurs in exactly 0. “Deliver me out of the hand” occurs in exactly one KJV verse, 1 Samuel 17:37 (David and Goliath), which supplies the “out of” the Psalm lacks. “Redeem my soul” in the same sentence occurs in exactly one KJV verse, Psalm 49:15.",
+          "significance": "The verse is a three-part fusion and each part comes from a different kind of deliverance: Psalm 49:15 redeems a soul from the power of the grave, Psalm 31:15 delivers a body from persecutors, 1 Samuel 17:37 delivers a boy from a giant. Nephi's enemies in this chapter are his brothers (4:13), and the David verse is the one where a younger brother is about to fight a battle his elder brothers would not. Note too that Psalm 31:14, the verse immediately before the one borrowed, reads “I trusted in thee, O LORD: I said, Thou art my God” — which is 2 Nephi 4:34's opening almost exactly. The psalm is being read, not remembered in fragments."
+        },
+        "note": "“O Lord, wilt thou redeem my soul? Wilt thou deliver me out of the hands of mine enemies?” Two KJV singletons in two clauses, from two different Psalms, with the preposition of a third verse. The plural “hands” is the only departure and it is the sort of change a writer makes without noticing. Catalogued as an allusion rather than a quotation because no single source verse survives whole.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "4:32": [
+      {
+        "source": "Matthew 16:18",
+        "text": "And I say also unto thee, That thou art Peter, and upon this rock I will build my church; and the gates of hell shall not prevail against it.",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "Matthew 16:18 → KJV → Book of Mormon",
+          "other": "“Gates of hell” occurs in exactly one KJV verse, Matthew 16:18. The Old Testament's nearest equivalent is Isaiah 38:10's “gates of the grave”, which is a different image — death's door, not hell's.",
+          "significance": "Matthew 16:18 promises that the gates of hell shall not prevail against the church. Nephi asks for something narrower and stranger: that they be shut continually BEFORE ME, personally, and he gives as the ground of the request his own broken heart. The public promise made to Peter is being claimed as a private one, and in the same breath the petitioner asks that the other gate — righteousness's — not be shut. Two gates, one verse, from two different scriptures, and the whole prayer is about which of them is open."
+        },
+        "note": "“May the gates of hell be shut continually before me.” A KJV singleton, and one that on the text's own chronology could not have been available: the phrase belongs to a promise made at Caesarea Philippi in the first century AD. The 1830 punctuation makes the whole verse a question; 1920 changed the first mark to an exclamation and the second to an exclamation as well, which converts a plea into an assertion. The first edition's reading is the anxious one and is the running text here.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      },
+      {
+        "source": "Psalm 118:19",
+        "text": "Open to me the gates of righteousness: I will go into them, and I will praise the LORD:",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Psalm 118:20"
+        ],
+        "provenance": {
+          "route": "Psalm 118:19 → KJV → Book of Mormon",
+          "other": "“Gates of righteousness” occurs in exactly one KJV verse, Psalm 118:19.",
+          "significance": "Psalm 118:19 is a petition to have the gates opened — “Open to me the gates of righteousness: I will go into them, and I will praise the LORD” — and its next verse says who may enter: “This gate of the LORD, into which the righteous shall enter.” Nephi's request is the same petition put negatively, which is the request of a man who has just called himself wretched: not open them to me, but do not shut them against me. And the Psalm's promised response, “I will praise the LORD”, is what he has already said two verses earlier at 4:30. He has taken Psalm 118's vow of praise first and made its condition into a plea afterwards."
+        },
+        "note": "“O Lord, wilt thou not shut the gates of thy righteousness before me?” The phrase is a KJV singleton, with “thy” inserted so that the gates are God's rather than the abstract quality's. Paired in a single sentence with the gates of hell from Matthew 16:18 — one gate asked to stay shut and one asked to stay open — which is a construction neither source supplies and which is the verse's own contribution.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      },
+      {
+        "source": "Psalm 34:18",
+        "text": "The LORD is nigh unto them that are of a broken heart; and saveth such as be of a contrite spirit.",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 1
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "provenance": {
+          "route": "Psalm 34:18 → KJV → Book of Mormon",
+          "other": "This is decidable and it does not go the way a reader expects. “Broken heart” occurs in exactly one KJV verse, Psalm 34:18. “Contrite spirit” occurs in exactly 2, Psalm 34:18 and Isaiah 66:2. “Contrite heart” occurs in exactly one, Psalm 51:17 — and Psalm 51:17 assigns the adjectives the other way round: “a broken spirit: a broken and a contrite heart”. The Book of Mormon reads “my heart is broken and my spirit is contrite”, which is Psalm 34:18's assignment and not Psalm 51:17's.",
+          "significance": "The famous verse is Psalm 51:17 and the commonplace phrase in later devotional English is “a broken and a contrite heart”, which is Psalm 51's. Nephi does not have it. He has the pairing exactly as Psalm 34:18 distributes it, in Psalm 34:18's order, and Psalm 34:18 is a verse of consolation rather than of sacrifice — the LORD is NIGH unto them that are of a broken heart. That is why the clause functions in 2 Nephi 4:32 as a ground of confidence (“because that my heart is broken”) rather than as an offering, which is how Psalm 51 uses it. The catalogue's usual finding is that the Book of Mormon has the more famous verse; here it has the less famous one, and correctly."
+        },
+        "note": "“Because that my heart is broken and my spirit is contrite.” Two nouns, two adjectives, and the whole question is which goes with which. Psalm 51:17 pairs broken with spirit and contrite with heart; Psalm 34:18 pairs broken with heart and contrite with spirit; 2 Nephi 4:32 has Psalm 34:18's arrangement. The choice is not stylistic — it decides which Psalm is in view, and with it whether the clause is an offering made or a promise claimed. Psalm 51:17 is filed in the exclusion register at this verse as a better-source-identified displacement.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "4:33": [
+      {
+        "source": "Isaiah 61:10",
+        "text": "I will greatly rejoice in the LORD, my soul shall be joyful in my God; for he hath clothed me with the garments of salvation, he hath covered me with the robe of righteousness, as a bridegroom decketh himself with ornaments, and as a bride adorneth herself with her jewels.",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "provenance": {
+          "route": "Isaiah 61:10 → KJV → Book of Mormon",
+          "other": "“Robe of righteousness” occurs in exactly one KJV verse, Isaiah 61:10.",
+          "significance": "Isaiah 61:10 is a verse of completed joy: “I will greatly rejoice in the LORD … for he hath clothed me with the garments of salvation, he hath covered me with the robe of righteousness, as a bridegroom decketh himself.” It is in the past tense and it is a boast. Nephi turns it into a question — wilt thou encircle me around in the robe of thy righteousness? — and asks for it as a man who has just described himself as encompassed about by sin (4:18). The two encirclings are the psalm's argument in miniature: he is surrounded by one thing and asks to be surrounded by another, and the second word is the KJV's, from the chapter Isaiah's servant reads in the synagogue at Luke 4:18."
+        },
+        "note": "“O Lord, wilt thou encircle me around in the robe of thy righteousness?” The phrase is a KJV singleton and is the only borrowed element; “encircle me around” is the Book of Mormon's own and has no KJV counterpart. Note the deliberate answer to 4:18's “I am encompassed about” — the psalm asks to be re-clothed in the same figure that names its problem.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      },
+      {
+        "source": "1 Corinthians 10:13",
+        "text": "There hath no temptation taken you but such as is common to man: but God is faithful, who will not suffer you to be tempted above that ye are able; but will with the temptation also make a way to escape, that ye may be able to bear it.",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "recurrenceRefs": [
+          "2 Nephi 4:18",
+          "2 Nephi 4:27"
+        ],
+        "provenance": {
+          "route": "1 Corinthians 10:13 → KJV → Book of Mormon",
+          "other": "“A way to escape” occurs in exactly one KJV verse, 1 Corinthians 10:13; “make a way” occurs in exactly 2, of which the other is Isaiah 43:19's way in the wilderness. The Book of Mormon has both halves of the singleton, redistributed: “wilt thou make a way for mine escape”.",
+          "significance": "1 Corinthians 10:13 is the KJV's one promise about temptation: God is faithful, who will not suffer you to be tempted above that ye are able, but will with the temptation also make a way to escape. It is the answer to the question 2 Nephi 4:27 asks — “why should I give way to temptations?” — and it is the answer 2 Nephi 4:18 needs, since Nephi is there “encompassed about, because of the temptations and the sins”. Nephi asks for the escape in Paul's words six verses after naming the problem in Hebrews'. The interesting alteration is “before mine enemies”: Paul's escape is from a temptation, Nephi's is from persons, and the psalm has been sliding between the two since 4:27 paired “temptations” with “mine enemy” in one breath."
+        },
+        "note": "“O Lord, wilt thou make a way for mine escape before mine enemies?” The one KJV verse that puts making, way and escape together is 1 Corinthians 10:13, and it is the verse about temptation, which is the psalm's declared subject at 4:18 and 4:27. That the machine streams proposed nothing at all for this verse is worth noting — CONVENTIONS §9's point about contiguous windows: the source's words are here but redistributed across a clause boundary, and an n-gram cannot see it.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      },
+      {
+        "source": "Hosea 2:6",
+        "text": "Therefore, behold, I will hedge up thy way with thorns, and make a wall, that she shall not find her paths.",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Lamentations 3:7"
+        ],
+        "recurrenceRefs": [
+          "2 Nephi 4:20"
+        ],
+        "provenance": {
+          "route": "Hosea 2:6 → KJV → Book of Mormon",
+          "other": "“Hedge up thy way” occurs in exactly one KJV verse, Hosea 2:6. The verb in this sense occurs in only three KJV verses at all — Job 3:23, Lamentations 3:7 and Matthew 21:33 — and Lamentations 3:7's “he hath hedged me about, that I cannot get out” belongs to the passage already standing behind 2 Nephi 4:20-25.",
+          "significance": "Both KJV sources hedge a way as a punishment. Hosea 2:6 is God blocking the adulterous wife's road so that “she shall not find her paths”; Lamentations 3:7 is the same act done to the man of sorrows. 2 Nephi 4:33 asks God to do it — but to somebody else: “hedge not up my way, but the ways of mine enemy.” This is the psalm's most exact reversal of a source, and it closes the Lamentations 3 borrowing that opened at 4:20. Having spent six verses turning Lamentations' catalogue of divine affliction into a catalogue of mercy, Nephi comes to the one clause he cannot convert, and disposes of it by redirecting it."
+        },
+        "note": "“Hedge not up my way, but the ways of mine enemy.” The KJV's idiom for divinely obstructing a road is Hosea 2:6's, and the Book of Mormon has it verb, particle and noun. What the verse does with it is the finding: it is a prayer that a punishment scripture pronounces on the speaker's own type — an unfaithful spouse in Hosea, an afflicted penitent in Lamentations — be applied instead to his enemies. Read with the Lamentations 3 link at 4:20, the psalm has now used four separate verses of Lamentations 3:1-16, all of them inverted.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      },
+      {
+        "source": "Hebrews 12:13",
+        "text": "And make straight paths for your feet, lest that which is lame be turned out of the way; but let it rather be healed.",
+        "type": "echo",
+        "subtype": "probable",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Hebrews 12:12"
+        ],
+        "recurrenceRefs": [
+          "2 Nephi 4:18",
+          "2 Nephi 4:28",
+          "2 Nephi 4:29"
+        ],
+        "provenance": {
+          "route": "Hebrews 12:1-13 → KJV → Book of Mormon",
+          "other": "“Make straight paths” occurs in exactly one KJV verse, Hebrews 12:13; “make his paths straight” occurs in exactly 3, all of them the Isaiah 40:3 citation in the Gospels. The Book of Mormon has the singular, “make my path straight”, which occurs in exactly 0.",
+          "significance": "This is the third and last stop on a route through one chapter. Hebrews 12:1's sin that so easily besets is 2 Nephi 4:18; Hebrews 12:12's hands that hang down and feeble knees are 2 Nephi 4:28-29's “no longer droop” and “do not slacken my strength”; Hebrews 12:13's make straight paths is 2 Nephi 4:33. Three verses of Hebrews 12 in the source's order across fifteen verses of the psalm, tracking the same movement Hebrews makes — from the weight of sin, through exhaustion, to a straightened path. The catalogue found the identical habit with Hebrews 11 behind 1 Nephi 2 and 1 Nephi 4: a chapter of Hebrews used as an index and worked down."
+        },
+        "note": "“Wilt thou make my path straight before me?” Taken alone the clause is unremarkable and would belong in the exclusion register — the words are common and the Gospels' Isaiah citation is the more famous phrasing. What makes it a link is position. Hebrews 12:1 is quoted at 4:18 on the strength of a KJV singleton, and Hebrews 12:12's two images of exhaustion appear at 4:28-29 in the same order; a third contact eleven verses further on, from the very next verse of the source, is not independent evidence but it is not coincidence either.",
+        "whyNot": "No rare wording. The claim rests entirely on the sequence, and a reader who thinks the 4:28-29 correspondence with Hebrews 12:12 is generic — drooping and slackening are natural enough figures for discouragement — will reasonably decline the whole chain and read this clause as psalm-idiom.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "4:34": [
+      {
+        "source": "Jeremiah 17:5",
+        "text": "Thus saith the LORD; Cursed be the man that trusteth in man, and maketh flesh his arm, and whose heart departeth from the LORD.",
+        "type": "quotation",
+        "subtype": "close-verbal",
+        "confidence": "certain",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 4
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "2 Chronicles 32:8",
+          "Jeremiah 17:7",
+          "Proverbs 28:25"
+        ],
+        "recurrenceRefs": [
+          "2 Nephi 4:19"
+        ],
+        "provenance": {
+          "route": "Jeremiah 17:5 → KJV → Book of Mormon",
+          "other": "“Maketh flesh his arm” occurs in exactly one KJV verse, Jeremiah 17:5, and is reproduced here word for word. “Trusteth in man” occurs in exactly one KJV verse, the same one. The other half of Nephi's sentence, “the arm of flesh”, occurs in exactly one KJV verse, 2 Chronicles 32:8 — Hezekiah on the wall telling Judah that Sennacherib has an arm of flesh and they have the LORD. The formula that replaces Jeremiah's “cursed be the man that trusteth” is “he that putteth his trust in”, which is the KJV's own idiom at Proverbs 28:25 and Isaiah 57:13.",
+          "significance": "Recover Jeremiah 17 and the verse Nephi has NOT quoted is the one he has just performed. Jeremiah 17:5 curses the man who trusts in man; 17:7 blesses “the man that trusteth in the LORD, and whose hope the LORD is”. 2 Nephi 4:34 opens with the blessing — “O Lord, I have trusted in thee, and I will trust in thee forever” — and then quotes the curse. Nephi supplies both halves of the Jeremiah oracle, in reverse order, with himself standing in the blessed half. And the sentence is made possible by the two KJV singletons for an arm of flesh being fused: Jeremiah's man who makes flesh his arm, and Hezekiah's enemy who has one."
+        },
+        "note": "The final clause is Jeremiah 17:5 verbatim in its rarest element — “maketh flesh his arm” — with the curse formula reworded from “cursed be the man that trusteth in man” to “cursed is he that putteth his trust in man”, which substitutes the KJV's own commonest trust-idiom (Proverbs 28:25, Isaiah 57:13) for Jeremiah's participle. The doubling in the verse is worth noting: the sentence is said once with “the arm of flesh” from 2 Chronicles 32:8 and then again with Jeremiah's own “maketh flesh his arm”, as though the writer reached the second and better wording on the second attempt and kept both. The 1830 dash after the first “arm of flesh” marks the seam; 1920 removed it.",
+        "bibliography": [
+          "Hardy MSI at 2 Ne 4.34 (Jeremiah 17:5)"
+        ],
+        "status": "consensus",
+        "streams": [
+          "machine-ngram",
+          "scholarship",
+          "manual"
+        ]
+      }
+    ],
+    "4:35": [
+      {
+        "source": "James 1:5",
+        "text": "If any of you lack wisdom, let him ask of God, that giveth to all men liberally, and upbraideth not; and it shall be given him.",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 2
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Matthew 7:7"
+        ],
+        "provenance": {
+          "route": "James 1:5 → KJV → Book of Mormon",
+          "other": "“Let him ask of God” occurs in exactly one KJV verse, James 1:5, and “give to all men liberally” occurs in exactly 0 — the KJV reads “that giveth to all men liberally”, which the Book of Mormon compresses to “God will give liberally to him that asketh”, folding in Matthew 7:7's “ask, and it shall be given you”.",
+          "significance": "James 1:5 is not a neutral choice of proof text. It is the verse the 1838 history names as the occasion of Joseph Smith's first prayer — “If any of you lack wisdom, let him ask of God” — and here it stands at the close of the psalm of Nephi, paired with James 4:3 on asking amiss. Whatever one makes of that, the catalogue's job is to record that the Book of Mormon's most personal chapter ends by quoting the two James verses on prayer that frame its own account of its origin, and that it quotes them together, from opposite ends of a short epistle."
+        },
+        "note": "“I know that God will give liberally to him that asketh.” The three elements — God, giving liberally, and the asker — occur together in one KJV verse. Nephi rearranges rather than reproduces, which is why this is catalogued as allusion; the giveaway is “liberally”, a KJV adverb that appears in this sense only in James 1:5.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      },
+      {
+        "source": "James 4:3",
+        "text": "Ye ask, and receive not, because ye ask amiss, that ye may consume it upon your lusts.",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "James 4:3 → KJV → Book of Mormon",
+          "other": "“Ask amiss” occurs in exactly one KJV verse, James 4:3. The construction “if I ask not amiss” is the Book of Mormon's negation of it.",
+          "significance": "James 4:3 supplies the condition James 1:5 omits: ye ask, and receive not, because ye ask amiss, that ye may consume it upon your lusts. Nephi has put the two together and made the second into a proviso on the first — “my God will give me, if I ask not amiss” — which is a piece of exegesis, not a borrowing. Two verses three chapters apart in James, one about the generosity of God and one about the corruption of the asker, are here reconciled into a single sentence, and the reconciliation is exactly the psalm's problem: a man who has just called himself wretched asking for something and doubting his own motive in asking.",
+          "alternative": "“Amiss” is not a rare word in itself, but in the sense of a defective request the KJV has it only here."
+        },
+        "note": "“My God will give me, if I ask not amiss.” The clause is James 4:3 with the negative supplied, and it sits in the same sentence as James 1:5. The close of the psalm then returns to the rock of 4:30 with the noun changed — “the rock of my righteousness”, which occurs in exactly 0 KJV verses, and “mine everlasting God”, whose KJV form “the everlasting God” occurs in exactly 3. Nephi ends on a phrase he has made rather than one he has taken, which after thirty-five verses of borrowing is itself worth recording.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,114 @@
+[
+ {
+  "bomRef": "2 Nephi 6:4",
+  "source": "1 Corinthians 4:6",
+  "category": "formulaic",
+  "sharedText": "for your sakes that ye",
+  "streams": ["machine-ngram"],
+  "reason": "A five-word run of pure connective tissue joining a purpose clause to its subject. Paul is warning the Corinthians not to be puffed up over their teachers; Jacob is saying he speaks Isaiah's words so his hearers may glorify God. The only content word shared is 'sakes', and 'for your sakes' is ordinary KJV English. Nothing in 6:4 has any further contact with 1 Corinthians 4."
+ },
+ {
+  "bomRef": "2 Nephi 6:5",
+  "source": "Numbers 11:20",
+  "category": "formulaic",
+  "sharedText": "unto you because that ye",
+  "streams": ["machine-ngram"],
+  "reason": "A textbook case of CONVENTIONS §9: rare boilerplate scoring high. The run is four words of subordinating conjunction and pronoun, and it scored 2.00 only because 'because that ye' is an uncommon way for the KJV to say 'because you'. Numbers 11:20 is quail coming out of Israel's nostrils; 6:5 is Isaiah's words being likened to the house of Israel. There is no shared content word at all. Note that the 1830's 'because that ye are of the House of Israel' is itself the reason for the match, and 1920 deleted the 'that' — so in the modern text this candidate does not exist."
+ },
+ {
+  "bomRef": "2 Nephi 6:5",
+  "source": "1 Corinthians 1:11",
+  "category": "formulaic",
+  "sharedText": "are of the house of",
+  "streams": ["machine-ngram"],
+  "reason": "'Of the house of' is one of the commonest constructions in the KJV and 'the house of Israel' alone runs to well over a hundred verses. 1 Corinthians 1:11's house is Chloe's household in Corinth. There is no candidate here, and the phrase is covered in principle by the standing formulaic exclusions."
+ },
+ {
+  "bomRef": "2 Nephi 6:9",
+  "source": "John 19:6",
+  "category": "better-source-identified",
+  "sharedText": "him and crucify him",
+  "streams": ["machine-ngram"],
+  "reason": "The n-gram stream's highest-ranked candidate for the verse, and it is the wrong one. John 19:6 is the crowd's shout before Pilate — 'Crucify him, crucify him' — so the four-word run is an artifact of a doubled imperative, and the sense is a demand rather than a prediction. Jacob's clause is a prediction, and it pairs scourging with crucifixion; that pairing occurs in exactly one KJV verse, Matthew 20:19 ('to mock, and to scourge, and to crucify him'), where the syntax is also future. The link is filed there, with Mark 10:34 and Luke 18:33 as composite for the distributed pronoun."
+ },
+ {
+  "bomRef": "2 Nephi 6:9",
+  "source": "Jeremiah 44:14",
+  "category": "wrong-sense",
+  "sharedText": "that they should return",
+  "streams": ["machine-ngram"],
+  "reason": "The four words match and the subject matter is genuinely adjacent — both verses concern whether exiles from Jerusalem will return to Judah — which is what makes this worth registering rather than passing over. But the sense is exactly opposed. Jeremiah 44:14 is a denial: of the remnant gone down to Egypt, 'none... shall escape or remain, that they should return into the land of Judah... for none shall return but such as shall escape.' Jacob's clause is an affirmation, that the Lord 'hath shewn unto me that they should return again'. A parallel that reverses its source's polarity and shares no distinctive vocabulary is not a link; the return Jacob has in view is 2 Chronicles 36:22-23, which the rest of the paragraph is walking through (see the 6:10 link)."
+ },
+ {
+  "bomRef": "2 Nephi 6:9",
+  "source": "Philemon 1:16",
+  "category": "formulaic",
+  "sharedText": "in the flesh and",
+  "streams": ["machine-ngram"],
+  "reason": "Four words, three of which are the preposition, article and conjunction. Philemon 1:16 concerns Onesimus as a brother 'both in the flesh, and in the Lord'. The real contact in 6:9 is the KJV singleton 'manifest in the flesh' (1 Timothy 3:16), where the link is filed; this candidate is the tail of that phrase running into the next clause."
+ },
+ {
+  "bomRef": "2 Nephi 6:10",
+  "source": "1 Samuel 6:6",
+  "category": "better-source-identified",
+  "sharedText": "hardened their hearts",
+  "streams": ["manual"],
+  "reason": "A genuine KJV singleton and therefore a real temptation: 'hardened their hearts' occurs in exactly one verse, 1 Samuel 6:6, where the Philistine priests ask why Israel should harden its heart 'as the Egyptians and Pharaoh hardened their hearts'. Jacob has the phrase exactly. It is nonetheless not the source, because he has a second and rarer phrase in the same clause — 'stiffened their necks' — and 'stiffened' is a King James hapax, occurring only at 2 Chronicles 36:13, which happens to be the one verse in the Bible that puts stiffening the neck and hardening the heart in a single sentence. A source that accounts for both phrases displaces one that accounts for the commoner of them, and 2 Chronicles 36 also accounts for the captivity and return of 6:8-9. Recorded here because the singleton would otherwise look decisive to anyone who checked only the first phrase."
+ },
+ {
+  "bomRef": "2 Nephi 6:10",
+  "source": "Jeremiah 46:21",
+  "category": "formulaic",
+  "sharedText": "come upon them and the",
+  "streams": ["machine-ngram"],
+  "reason": "Five words of connective tissue; 'come upon them' alone is in more than thirty KJV verses. Jeremiah 46:21 concerns Egypt's hired men fleeing like fatted bullocks. This was the only candidate the machine offered for 6:10, which is the chapter's strongest verse — a clean illustration of the n-gram stream being a recall floor and not a ranking (CONVENTIONS §9)."
+ },
+ {
+  "bomRef": "2 Nephi 6:11",
+  "source": "Job 13:25",
+  "category": "wrong-sense",
+  "sharedText": "driven to and fro",
+  "streams": ["manual"],
+  "reason": "'Driven to and fro' is a KJV singleton, which is normally the strongest evidence this catalogue can produce, and it is being declined anyway. Job 13:25 is Job's protest at being pursued by God: 'Wilt thou break a leaf driven to and fro? and wilt thou pursue the dry stubble?' The image is of a man too slight to be worth God's attention. Jacob's clause is about the scattering of a nation — 'after they are driven to and fro... they shall be scattered, and smitten, and hated' — a corporate judgment, not a complaint of divine over-attention, and 'to and fro' with a verb of driving is unremarkable English for aimless movement. The singleton is a fact about KJV word-frequency, not evidence of dependence, and this entry exists so that the count is on record where a later reader will find it."
+ },
+ {
+  "bomRef": "2 Nephi 6:11",
+  "source": "Isaiah 24:22",
+  "category": "wrong-sense",
+  "sharedText": "they shall be gathered together",
+  "streams": ["machine-ngram"],
+  "reason": "Five words, and both verses concern the fate of a punished people, so the candidate deserves an answer. But Isaiah 24:22's gathering is an imprisonment — 'they shall be gathered together, as prisoners are gathered in the pit, and shall be shut up in the prison' — and Jacob's is the opposite, a merciful regathering 'to the lands of their inheritance' after scattering. The whole force of the phrase is reversed by its object, and 'gathered together' is common KJV usage."
+ },
+ {
+  "bomRef": "2 Nephi 6:11",
+  "source": "2 Timothy 3:7",
+  "category": "common-vocabulary",
+  "sharedText": "come to the knowledge of",
+  "streams": ["machine-ngram"],
+  "reason": "The phrase is Pastoral-Epistles idiom and appears in three verses in that shape (2 Timothy 3:7, 1 Timothy 2:4, Hebrews 10:26), always followed by 'the truth'. Jacob's object is different — 'the knowledge of their Redeemer' — and the construction is too widely distributed to point at any one of them. Registered rather than passed over because 2 Timothy 3:7 headed the machine list for this verse."
+ },
+ {
+  "bomRef": "2 Nephi 6:13",
+  "source": "Acts 13:51",
+  "category": "better-source-identified",
+  "sharedText": "the dust of their feet",
+  "streams": ["machine-ngram"],
+  "reason": "A partial exclusion, filed for clarity rather than to reject the verse outright. 'The dust of their feet' — with the third-person possessive Jacob uses — occurs in exactly one KJV verse, Acts 13:51, and Luke's context is suggestive: Paul and Barnabas shake the dust off against those who rejected them and turn to the Gentiles, which is the sequence of Jacob's own paragraph. But the governing verb decides it. Jacob's is 'lick up the dust', which is a KJV singleton at Isaiah 49:23 — the verse he quoted six verses earlier and is here glossing. The link is therefore filed at Isaiah 49:23 with Acts 13:51 recorded as composite, since the pronoun Jacob substitutes is the one Acts has."
+ },
+ {
+  "bomRef": "2 Nephi 6:17",
+  "source": "Job 34:20",
+  "category": "wrong-sense",
+  "sharedText": "the mighty shall be taken away",
+  "streams": ["machine-ngram"],
+  "reason": "Six consecutive words, which is a long run and would be persuasive in isolation. It is an artifact of the window closing one word early on either side (ADJUDICATING §4). Job 34:20 says 'the mighty shall be taken away without hand' — the mighty are the ones removed, by death. Isaiah 49:25, which Jacob is quoting verbatim here, says 'the captives OF the mighty shall be taken away' — the mighty are the captors, and it is their prisoners who are removed. The genitive inverts the whole sentence. Displaced by Isaiah 49:25, which accounts for twenty-five consecutive words of the verse."
+ },
+ {
+  "bomRef": "2 Nephi 6:17",
+  "source": "Psalm 132:5",
+  "category": "better-source-identified",
+  "sharedText": "for the mighty God",
+  "streams": ["machine-ngram"],
+  "reason": "Tempting because the next verse ends with 'the Mighty One of Jacob', and Psalm 132:5 has 'an habitation for the mighty God of Jacob' — apparently the same title, and with the same preposition Jacob uses. But the two halves come from different places and neither is the Psalm's. 'The Mighty One of Jacob' at 6:18 is Isaiah 49:26's own phrase, standing where the KJV verse being quoted puts it, and the KJV has it in exactly two verses (Isaiah 49:26, 60:16) — the Psalm's 'the mighty God of Jacob' is a third and distinct formula. The interpolated 'the Mighty God' at 6:17 is absolute, with no 'of Jacob' attached, which is Isaiah 9:6's and Isaiah 10:21's usage, and both of those Isaiah chapters are transcribed later in this same book. The link records Isaiah 9:6 and 10:21 as composite; the Psalm is superseded."
+ }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "bomRef": "2 Nephi 5:2",
+    "source": "1 Kings 19:10",
+    "category": "better-source-identified",
+    "sharedText": "seek my life / take away my life",
+    "streams": [
+      "manual"
+    ],
+    "reason": "The obvious candidate, and it loses on word order. 1 Kings 19:10 and 19:14 read “they seek my life, to take it away”, and the Elijah setting is inviting for a chapter in which a prophet flees into the wilderness from those who want him dead; 1 Kings 19:4 even has “take away my life” exactly, of Elijah asking to die. But the Book of Mormon's clause is “seek to take away my life”, which is Psalm 31:13's “they devised to take away my life” — the KJV's only occurrence of that order — and it is a conspiracy verse, which 5:2-4 is and 1 Kings 19 is not. The link is at 5:2 to the Psalm. Recorded also because tools/mediation-check.py, run on 1 Kings 19:10 against its New Testament quotation at Romans 11:3, returns a decisive verdict for Romans on the ground that the Book of Mormon lacks the contiguous string “to take it away”. That verdict is an artifact of contiguous matching: the Book of Mormon has all four of those words, reordered, and Romans 11:3 has none of them. Neither candidate wins; a third verse does."
+  },
+  {
+    "bomRef": "2 Nephi 5:10",
+    "source": "Luke 2:39",
+    "category": "better-source-identified",
+    "sharedText": "all things according to the law",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "Top of the machine ranking for this verse, and not worthless: “all things according to the law” is a KJV singleton and Luke 2:39 reads “the law of the Lord” where the Book of Mormon reads “the law of Moses”. It is carried into the 5:10 link as a composite rather than dismissed. What it cannot do is account for the verse, whose three-noun list and appeal to the law of Moses and immediate promise of prospering are all 1 Kings 2:3's."
+  },
+  {
+    "bomRef": "2 Nephi 5:15",
+    "source": "Daniel 5:4",
+    "category": "better-source-identified",
+    "sharedText": "of gold, and of silver",
+    "streams": [
+      "manual"
+    ],
+    "reason": "A genuine trap and worth registering. “Of gold, and of silver” is a KJV singleton, and its verse gives the same six-material catalogue this one gives — “the gods of gold, and of silver, of brass, of iron, of wood, and of stone” — in a comparable polysyndeton. But Daniel 5:4 is Belshazzar's feast, the materials are the substance of idols rather than of workmanship, and nothing else in 2 Nephi 5:15-16 touches Daniel. The catalogue's list belongs with Exodus 31:4-5, where the identical metals are what a sanctuary craftsman is filled with the spirit of God to work in, and where the Book of Mormon's five-word run “work in all manner of” is the KJV's only occurrence."
+  },
+  {
+    "bomRef": "2 Nephi 5:16",
+    "source": "2 Chronicles 2:14",
+    "category": "insufficient-verbal",
+    "sharedText": "(no distinctive run)",
+    "streams": [
+      "manual"
+    ],
+    "reason": "The verse a reader would expect behind a temple built by a founder who works metals: Huram sent to Solomon, “skilful to work in gold, and in silver, in brass, in iron, in stone, and in timber … also to grave any manner of graving.” The materials overlap almost completely and not one phrase does — 2 Chronicles has no “work in all manner of”, no “after the manner of”, and its polysyndeton drops the repeated preposition after the second item, where both Exodus 31:4 and the Book of Mormon keep it. 1 Chronicles 29:2's “all manner of precious stones … in abundance” is the closest KJV wording to 5:16's “so many precious things” and shares nothing distinctive either. Registered so that the absence is on record: the temple movement of this chapter has real KJV wording behind it, and it is the tabernacle's, not the temple's."
+  },
+  {
+    "bomRef": "2 Nephi 5:20",
+    "source": "Leviticus 20:17",
+    "category": "formulaic",
+    "sharedText": "they shall be cut off",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "“Cut off” in the Levitical sense is excision from the people for a named offence, and the KJV uses the formula dozens of times; Leviticus 20:17 scored on it here only because the pronoun and number happen to match. The Book of Mormon's phrase is completed by “from the presence of the Lord”, which is Genesis 4:16's and is linked as such."
+  },
+  {
+    "bomRef": "2 Nephi 5:21",
+    "source": "Genesis 4:15",
+    "category": "insufficient-verbal",
+    "sharedText": "(no verbal contact)",
+    "streams": [
+      "manual"
+    ],
+    "reason": "The reading every reader of this verse arrives at, and the catalogue declines it at the level of wording while granting everything else. The Cain frame is genuinely in the chapter — it was argued at 1 Nephi 2:21 and reaches 5:20 through that verse, and the sequence here is Genesis 4's in order: a brother's murderous anger, a curse, a going out from the presence of the LORD, and a mark by which the cursed are afterwards known. But Genesis 4:15 shares not one word with 2 Nephi 5:21. Its mark is set to protect Cain from being killed, not to make him unenticing; the KJV's noun is “mark” and the Book of Mormon's is “skin”; and no KJV verse anywhere joins blackness of skin to a divine curse. What the chapter takes from Genesis 4 it takes at 5:20 and takes verbally; what it does at 5:21 it does without the KJV."
+  },
+  {
+    "bomRef": "2 Nephi 5:21",
+    "source": "Jeremiah 13:23",
+    "category": "wrong-sense",
+    "sharedText": "skin / change",
+    "streams": [
+      "manual"
+    ],
+    "reason": "The one KJV verse in which the colour of skin is the subject of a theological argument, and it argues the opposite of this one. “Can the Ethiopian change his skin, or the leopard his spots? then may ye also do good, that are accustomed to do evil” makes skin the emblem of what cannot be altered, precisely in order to say that the moral condition is the thing at issue and is as fixed. 2 Nephi 5:21 has God altering skin as the sign of a moral condition. No wording is shared beyond the noun. Registered because the search for a KJV background to “a skin of blackness” ends here or nowhere, and it ends nowhere."
+  },
+  {
+    "bomRef": "2 Nephi 5:21",
+    "source": "Numbers 12:10",
+    "category": "insufficient-verbal",
+    "sharedText": "(no verbal contact)",
+    "streams": [
+      "manual"
+    ],
+    "reason": "A type-scene pulling hard toward a link the wording will not bear, and it deserves saying why. Numbers 12 is the KJV's one story in which elder siblings challenge a younger brother's sole authority — “Hath the LORD indeed spoken only by Moses? hath he not spoken also by us?” — and are punished by a change in the skin of one of them. That is the plot of 2 Nephi 5:3 and 5:21 in two verses of Numbers. But the punishment runs the other way (Miriam “became leprous, white as snow”, where the Book of Mormon's curse is a darkening), it falls on the sibling who spoke and not on a posterity, it is lifted after seven days, and not a word of Numbers 12 appears in 2 Nephi 5. Compare CONVENTIONS §5's Exodus 2:2 entry: a typological expectation is not evidence."
+  },
+  {
+    "bomRef": "2 Nephi 5:24",
+    "source": "Proverbs 19:15",
+    "category": "common-vocabulary",
+    "sharedText": "an idle",
+    "streams": [
+      "manual"
+    ],
+    "reason": "“An idle” is a KJV singleton only because the KJV normally writes “idle” without an article, and Proverbs 19:15's “an idle soul shall suffer hunger” is a proverb about individual sloth, not a description of a people. Two words, one of them a determiner. The verse's real KJV content is the pairing of mischief with subtilty, which is Acts 13:10's and is linked there."
+  },
+  {
+    "bomRef": "2 Nephi 5:26",
+    "source": "Exodus 29:9",
+    "category": "common-vocabulary",
+    "sharedText": "consecrate / priest's office",
+    "streams": [
+      "manual"
+    ],
+    "reason": "The natural candidate for a consecration of brothers to the priesthood, and it cannot be narrowed. “Consecrate” occurs in twenty-eight KJV verses and “the priest's office” in twenty-three, most of them in the same handful of Exodus and Leviticus chapters, and “priests and teachers” occurs in none. There is no phrase here to attach to a verse. Worth registering for a second reason: 2 Nephi 5:26 consecrates Jacob and Joseph, who are Nephi's brothers and not Levites, four verses after 5:10 says the people keep the law of Moses in all things. The KJV's only warrant for a non-Levitical consecration is Judges 17:5 and 1 Kings 12:31, both of them narrated as offences, and the Book of Mormon borrows nothing from either. The departure is silent, and it is not made with the KJV's words."
+  },
+  {
+    "bomRef": "2 Nephi 5:26",
+    "source": "Isaiah 32:13",
+    "category": "common-vocabulary",
+    "sharedText": "the land of my people",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "Top-ranked by the machine for this verse on a four-word run. Isaiah 32:13 is a judgment oracle — thorns and briers coming up on the land — with no relation to a consecration of priests. Connective agreement of the kind CONVENTIONS §5 says may be passed over; recorded only because it heads the dossier's list here and a reader consulting it would meet it first."
+  },
+  {
+    "bomRef": "2 Nephi 5:30",
+    "source": "1 Samuel 29:6",
+    "category": "common-vocabulary",
+    "sharedText": "good in my sight",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "“Good in my sight” occurs in two KJV verses, 1 Samuel 29:6 and 29:9, both of them Achish the Philistine assuring David of his standing. The Book of Mormon's “many things upon them which are good in my sight” is God's own approval of a record, and the idiom is ordinary biblical English (“right in the sight of the LORD”, “evil in the sight of the LORD”) that the KJV distributes across the whole canon. No link."
+  }
+]

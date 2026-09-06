@@ -1,0 +1,122 @@
+[
+  {
+    "bomRef": "2 Nephi 1:1",
+    "source": "Matthew 13:3",
+    "category": "common-vocabulary",
+    "sharedText": "spake many things unto them",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "A genuine KJV singleton — 'spake many things unto them' occurs only at Matthew 13:3 — and therefore a real temptation, which is why it is registered rather than passed over. It is declined because the words are the Book of Mormon's own narrative frame rather than a borrowing: Nephi is introducing a speech, and Matthew is introducing the parable of the sower. Nothing in the two contexts touches, and the verse's actual borrowing is in the clause immediately after it, Mark 5:19's 'how great things the Lord'. A singleton that is pure reporting formula is still a formula."
+  },
+  {
+    "bomRef": "2 Nephi 1:2",
+    "source": "Romans 12:1",
+    "category": "wrong-sense",
+    "sharedText": "the mercies of God",
+    "streams": [
+      "manual"
+    ],
+    "reason": "'The mercies of God' is a KJV singleton, at Romans 12:1, and it stands verbatim in 2 Nephi 1:2 — which on rarity alone would make a strong row. It is declined on sense. Paul's phrase is the ground of an appeal ('I beseech you therefore, brethren, by the mercies of God, that ye present your bodies a living sacrifice'): the mercies are what obligates the hearer. Lehi's phrase names an event — 'the mercies of God in sparing their lives, that they were not swallowed up in the sea' — and obligates nobody. The construction differs too: Paul's is instrumental, Lehi's is possessive. This is the register's standard case, a rare phrase that means something else, and it is filed at length because rarity is exactly the evidence that would otherwise have carried it."
+  },
+  {
+    "bomRef": "2 Nephi 1:5",
+    "source": "Deuteronomy 11:12",
+    "category": "common-vocabulary",
+    "sharedText": "a land which the Lord",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "Deuteronomy 11:8-12 is the standing scriptural background for every land-of-promise sentence in this book, and the machine's proposal is not absurd. But 'a land which the LORD thy God careth for' shares only its opening article and relative pronoun with 'a land which the Lord God hath covenanted with me', and the distinctive content of Deuteronomy 11:12 — the eyes of the LORD upon it from the beginning of the year to the end — is nowhere in 2 Nephi 1. The land-promise idiom is diffused across Genesis, Deuteronomy and Joshua and cannot be pinned to one verse here."
+  },
+  {
+    "bomRef": "2 Nephi 1:9",
+    "source": "2 Kings 9:10",
+    "category": "wrong-sense",
+    "sharedText": "there shall be none to",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "A six-word run, and the highest-ranked candidate the machine offered for this verse. 2 Kings 9:10 is the prophecy of Jezebel's death: 'the dogs shall eat Jezebel in the portion of Jezreel, and there shall be none to bury her.' The shared string is a negative-existential construction whose sense in the source is the denial of burial and in the Book of Mormon the promise of undisturbed tenure. The construction is what matched; the completing infinitive — 'bury' against 'molest' — is what decides it. The verse's own link is filed at Ezekiel 34:28."
+  },
+  {
+    "bomRef": "2 Nephi 1:10",
+    "source": "Romans 1:20",
+    "category": "wrong-sense",
+    "sharedText": "from the creation of the world",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "A six-word run and a KJV singleton, which makes this the hardest exclusion in the chapter. Romans 1:20 reads 'For the invisible things of him from the creation of the world are clearly seen, being understood by the things that are made' — the phrase is adverbial there, modifying how long God's attributes have been perceptible, and the argument it serves is that the heathen are without excuse. 2 Nephi 1:10 has 'all men knowing the great and marvellous works of the Lord from the creation of the world', where the phrase names the content of a knowledge that was given rather than inferred, and the argument is that a people who received revelation are more culpable than one that did not. The two verses are making opposite arguments about the same words. Registered rather than accepted, but a reader who wanted to take it as an allusion would not be behaving unreasonably, and the verse's accepted link (Revelation 15:3) does not exclude it."
+  },
+  {
+    "bomRef": "2 Nephi 1:13",
+    "source": "Isaiah 29:10",
+    "category": "better-source-identified",
+    "sharedText": "deep sleep",
+    "streams": [
+      "manual"
+    ],
+    "reason": "Tempting for a reason that has nothing to do with the phrase: Isaiah 29 is the chapter 2 Nephi 27 expands, so any contact with it in this book earns a second look, and 29:10's 'the LORD hath poured out upon you the spirit of deep sleep, and hath closed your eyes' is thematically apt for sons who will not wake. Declined because 'deep sleep' occurs in ten KJV verses and because the chapter's demonstrable source for the whole awake-and-arise complex is Isaiah 51:17-52:2, which supplies two singletons in the same sentence. The Isaiah 29 contact this verse's neighbour does have is at 1:23, 'out of obscurity', and it is filed there as a link."
+  },
+  {
+    "bomRef": "2 Nephi 1:16",
+    "source": "Psalm 19:9",
+    "category": "better-source-identified",
+    "sharedText": "the judgments of the Lord",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "The machine's best candidate for this verse. 'The judgments of the LORD are true and righteous altogether' shares four words, but Psalm 19:9 is praising the judgments as an object of delight and Lehi is enjoining them as a rule of conduct — 'remember to observe the statutes and the judgments'. The pairing with 'statutes' is what identifies the source, and it points to 1 Kings 2:3, two verses after the verse this chapter quotes verbatim at 1:14. Superseded, not merely weak."
+  },
+  {
+    "bomRef": "2 Nephi 1:17",
+    "source": "Job 20:22",
+    "category": "wrong-sense",
+    "sharedText": "in the fulness of his",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "A five-word run whose next word decides it. Job 20:22 reads 'In the fulness of his sufficiency he shall be in straits' — Zophar on the prosperity of the wicked, where the fulness belongs to the man and is about to fail him. 2 Nephi 1:17 has 'the fulness of his wrath', where the fulness belongs to God and is about to arrive. The genitive construction is all that matches, and it is one of the KJV's commonest. The verse's link is at Matthew 19:8."
+  },
+  {
+    "bomRef": "2 Nephi 1:18",
+    "source": "Jeremiah 16:4",
+    "category": "common-vocabulary",
+    "sharedText": "by the sword, and by famine",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "Jeremiah pairs sword and famine, usually with pestilence, more than twenty times, and Jeremiah 16:4 has no better claim to the phrase than a dozen of its neighbours. The Book of Mormon's 'visited by sword, and by famine' is that stock pair and identifies no verse. What is not stock in 2 Nephi 1:18 is the clause about the devil's will and captivity, which is filed as a link to 2 Timothy 2:26."
+  },
+  {
+    "bomRef": "2 Nephi 1:20",
+    "source": "John 15:10",
+    "category": "better-source-identified",
+    "sharedText": "keep my commandments, ye shall",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "Six words shared with 'If ye keep my commandments, ye shall abide in my love', and the temptation is real because the Book of Mormon's sentence is a conditional promise in the same syntax. It is declined because the verse announces its own source — 'and he hath said' — and what was said is 1 Nephi 2:20-21, where the catalogue placed 1 Kings 2:3. The apodosis is what separates them: John promises abiding in love, 1 Kings 2:3 promises prospering, and the Book of Mormon promises prospering in the land. Superseded by the OT-via-earlier-BoM row at this verse."
+  },
+  {
+    "bomRef": "2 Nephi 1:27",
+    "source": "Matthew 18:7",
+    "category": "formulaic",
+    "sharedText": "it must needs be that",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "Registered only because the dossier ranked it second in the chapter. 'It must needs be that' is a KJV connective the Book of Mormon uses continuously, and Matthew 18:7's subject is the inevitability of offences. No content word is shared. Covered in principle by the standing exclusion filed at 1 Nephi 2:1."
+  },
+  {
+    "bomRef": "2 Nephi 1:28",
+    "source": "2 Kings 10:6",
+    "category": "wrong-sense",
+    "sharedText": "if ye will hearken unto",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "The chapter's most instructive machine failure. A six-word run, top-ranked for the verse, and its source is Jehu's letter to the elders of Samaria: 'If ye be mine, and if ye will hearken unto my voice, take ye the heads of the men your master's sons.' The Book of Mormon clause is a father's condition for leaving a blessing to his sons; the KJV clause is a usurper's condition for the decapitation of seventy of them. The shared string is a conditional formula that occurs across Deuteronomy and Samuel and cannot identify a source; the accepted reading of 2 Nephi 1:28-29 is Genesis 27:36, filed at 1:29. Recorded at length because it is the kind of hit that looks strongest exactly where it is worth least (ADJUDICATING §4)."
+  }
+]

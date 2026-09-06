@@ -68,6 +68,22 @@ def main() -> None:
     book = json.loads((ROOT / "data" / f"{args.slug}.json").read_text())
     name = book["name"]
 
+    # Lint the CHAPTER FILES, not the merged book. data/<slug>.json is only as
+    # fresh as the last apply, and during a dispatched run it is whatever some
+    # other agent last merged — so linting it can pass a chapter whose file has
+    # since changed, or fail one on another chapter's rows. The work files are
+    # what the pass is actually producing. (Falls back to the merged book for a
+    # book with no chapter files, e.g. one imported whole.)
+    work = ROOT / "work" / args.slug / "adjudicated"
+    if any(work.glob("ch*.json")):
+        by_ref = {p["ref"]: p for p in book["pericopes"]}
+        pericopes = []
+        for path in sorted(work.glob("ch*.json")):
+            for ref, links in json.loads(path.read_text())["links"].items():
+                base = by_ref.get(ref, {"ref": ref, "ch": int(ref.split(":")[0])})
+                pericopes.append({**base, "links": links})
+        book = {**book, "pericopes": pericopes}
+
     errors, warns = [], []
 
     def err(where, msg): errors.append(f"{where}: {msg}")

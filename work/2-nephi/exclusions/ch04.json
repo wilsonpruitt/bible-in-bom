@@ -1,0 +1,202 @@
+[
+  {
+    "bomRef": "2 Nephi 4:3",
+    "source": "Genesis 31:28",
+    "category": "formulaic",
+    "sharedText": "my sons and my daughters",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "Ranked first by the n-gram stream at 4:3, 4:5 and 4:9 on the same five-word run. Lehi is addressing a mixed company of grandchildren and has no other way to say so; Genesis 31:28 is Laban complaining that Jacob stole away without letting him kiss his children goodbye. No contact beyond the phrase, and the phrase is unavoidable."
+  },
+  {
+    "bomRef": "2 Nephi 4:3",
+    "source": "Psalm 5:1",
+    "category": "wrong-sense",
+    "sharedText": "give ear ... my words",
+    "streams": [
+      "manual"
+    ],
+    "reason": "Tempting because “give ear to my words” occurs in exactly one KJV verse and Lehi says “give ear unto my words”. But Psalm 5:1 is a petition addressed upward — Give ear to my words, O LORD, consider my meditation — and Lehi is addressing children downward, which is the Deuteronomy 32:1 posture, not the Psalm's. Neither source is close enough to name: “give ear” with “words” is standard KJV summons-language across Deuteronomy, Job, Psalms and Isaiah, and the singleton count reflects the KJV's preference for “the words of my mouth” rather than any distinctiveness in Psalm 5."
+  },
+  {
+    "bomRef": "2 Nephi 4:4",
+    "source": "1 Kings 9:6",
+    "category": "formulaic",
+    "sharedText": "will not keep my commandments",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "Covenant boilerplate. The conditional-obedience formula is the KJV's standard Deuteronomic construction and appears in dozens of verses; nothing in 1 Kings 9:6 (turning to serve other gods) is present at 2 Nephi 4:4. The verse's one identifiable borrowing is Leviticus 22:3's “cut off from my presence”; see the accepted link."
+  },
+  {
+    "bomRef": "2 Nephi 4:4",
+    "source": "John 15:10",
+    "category": "formulaic",
+    "sharedText": "keep my commandments ye shall",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "The five-word run is the accident of a shared conditional. John 15:10's apodosis is abiding in love, not prospering in a land, and the Book of Mormon's covenant formula is established four books earlier at 1 Nephi 2:20 without any Johannine element."
+  },
+  {
+    "bomRef": "2 Nephi 4:5",
+    "source": "Joel 2:14",
+    "category": "wrong-sense",
+    "sharedText": "leave a blessing",
+    "streams": [
+      "manual"
+    ],
+    "reason": "A genuine KJV singleton — “leave a blessing” occurs in exactly one KJV verse — and therefore exactly the kind of count that can carry a bad link. But Joel 2:14's subject is God, who may repent and leave a blessing BEHIND HIM in the form of a meat offering and a drink offering restored to the temple; Lehi's subject is a dying man leaving a blessing UPON his grandchildren. The idiom is ordinary English for a deathbed bequest and needs no source. The real borrowing in the verse is Proverbs 22:6, which occupies its whole second half."
+  },
+  {
+    "bomRef": "2 Nephi 4:6",
+    "source": "Matthew 21:43",
+    "category": "wrong-sense",
+    "sharedText": "be taken from you",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "The stream's only proposal for this verse. In Matthew the thing taken from you is the kingdom of God and the taking is the judgment; in 2 Nephi 4:6 the thing taken is a curse and the taking is the mercy. The senses are opposed and the shared run is a passive construction with no distinctive vocabulary in it."
+  },
+  {
+    "bomRef": "2 Nephi 4:10",
+    "source": "Genesis 23:3",
+    "category": "formulaic",
+    "sharedText": "spake unto the sons of",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "Connective narrative. Abraham speaking to the sons of Heth about a burying place has no contact with Lehi speaking to the sons of Ishmael, beyond a construction the KJV uses whenever anyone addresses a named lineage."
+  },
+  {
+    "bomRef": "2 Nephi 4:12",
+    "source": "2 Chronicles 35:24",
+    "category": "formulaic",
+    "sharedText": "he died, and was buried",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "“Died, and was buried” occurs in exactly 8 KJV verses and is the chronicler’s standard closing formula (Judges alone has three). With the pronoun attached the count collapses to one — 2 Chronicles 35:24 is the only KJV verse reading “he died, and was buried”, which is exactly 2 Nephi 4:12’s wording — and that is precisely the trap this register exists for: the singleton is an artifact of the other seven verses naming their subject (Rachel, Jair, Elon, Abdon), not a mark of distinctiveness. Josiah’s death by arrows at Megiddo has no contact with Lehi’s. The verse does carry a link, but it is a figural one to the whole shape of Genesis 49 rather than to any verse’s wording; see the accepted link."
+  },
+  {
+    "bomRef": "2 Nephi 4:14",
+    "source": "Matthew 13:3",
+    "category": "wrong-sense",
+    "sharedText": "spake many things unto them",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "A five-word run and the highest-scoring candidate for the verse, but Matthew 13:3's “many things” are parables and the clause introduces the sower. 2 Nephi 4:14 is a bibliographic aside about which of Nephi's two sets of plates hold which sayings. The Book of Mormon uses “spake many things unto them” at 2 Nephi 1:1 as well, in the same narrative sense; it is the book's own formula."
+  },
+  {
+    "bomRef": "2 Nephi 4:14",
+    "source": "2 Peter 2:22",
+    "category": "formulaic",
+    "sharedText": "unto them according to the",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "Pure connective tissue spanning a clause boundary in both texts. The candidate is a good illustration of CONVENTIONS §9: the n-gram stream is a recall floor and a rare-looking run of function words is worth nothing."
+  },
+  {
+    "bomRef": "2 Nephi 4:16",
+    "source": "Psalm 1:2",
+    "category": "insufficient-verbal",
+    "sharedText": "delight ... meditate",
+    "streams": [
+      "manual"
+    ],
+    "reason": "The obvious background for “my soul delighteth in the Scriptures; and my heart pondereth them”, and it will not bear weight. Psalm 1:2 has delight and meditation and the law; 2 Nephi 4:15-16 has delight and pondering and the scriptures, and shares not one phrase with it — the KJV never says “delighteth in the scriptures”, and its verb here is meditate, not ponder. This is the chapter's central discipline: psalm-idiom is not a psalm. The two identifiable sources at these verses are Romans 15:4 and Luke 2:19, both KJV singletons, and both are accepted."
+  },
+  {
+    "bomRef": "2 Nephi 4:22",
+    "source": "Psalm 35:4",
+    "category": "insufficient-verbal",
+    "sharedText": "confounded ... enemies",
+    "streams": [
+      "manual"
+    ],
+    "reason": "“He hath confounded mine enemies, unto the causing of them to quake before me” sits inside the Lamentations 3 anaphora of 4:20-25 and reads like a Psalm, which is why it is registered here rather than passed over. But it matches no Psalm in particular: the KJV's confounding of enemies is spread across Psalm 35:4, 40:14, 70:2, 71:13, 83:17 and Jeremiah, and “quake” occurs in 22 KJV verses, almost all of them of the earth or the mountains rather than of persons. No source is identifiable and none is claimed."
+  },
+  {
+    "bomRef": "2 Nephi 4:23",
+    "source": "Job 4:13",
+    "category": "insufficient-verbal",
+    "sharedText": "visions of the night",
+    "streams": [
+      "manual"
+    ],
+    "reason": "“Visions of the night” occurs in exactly 2 KJV verses, Job 4:13 and Genesis 46:2, and 2 Nephi 4:23 reads “visions in the night time” — a different preposition and a different noun, and “in the night time” occurs in exactly 0 KJV verses. Genesis 46:2 is the more resonant of the two (God speaking to Israel in the visions of the night as he goes down into Egypt, which is where this chapter began at 4:1), and that resonance is exactly why it is filed here rather than linked. The verse's accepted link is Psalm 40:1's “heard my cry”, which is a singleton and does not need the night half to stand."
+  },
+  {
+    "bomRef": "2 Nephi 4:25",
+    "source": "Psalm 18:10",
+    "category": "better-source-identified",
+    "sharedText": "wings",
+    "streams": [
+      "manual"
+    ],
+    "reason": "“Upon the wings of his spirit” invites Psalm 18:10's “he did fly upon the wings of the wind”, and “wings of the wind” occurs in exactly 3 KJV verses (2 Samuel 22:11, Psalm 18:10, Psalm 104:3). But the noun is changed, and the sentence's identifiable sources are elsewhere: the exceeding high mountain is Matthew 4:8's KJV singleton and the being carried away in the spirit is Revelation's. The wings are the Psalter's idiom generally, and the Book of Mormon's substitution of spirit for wind is what makes them unattributable to any one verse."
+  },
+  {
+    "bomRef": "2 Nephi 4:26",
+    "source": "Psalm 23:4",
+    "category": "insufficient-verbal",
+    "sharedText": "valley",
+    "streams": [
+      "manual"
+    ],
+    "reason": "“My soul linger in the valley of sorrow” pulls hard toward Psalm 23:4, where “the valley of the shadow” occurs in exactly one KJV verse, and toward Psalm 84:6's valley of Baca. Neither reads “valley of sorrow”, which is in no KJV verse at all. Note also that the verse's most conspicuous word, “condescension”, is not in the KJV: “his condescension” occurs in exactly 0 KJV verses, and the word appears nowhere in the King James Bible. The verse is written in scriptural cadence out of non-scriptural vocabulary, which is worth recording as the counter-example to the rest of the chapter."
+  },
+  {
+    "bomRef": "2 Nephi 4:30",
+    "source": "Micah 3:11",
+    "category": "formulaic",
+    "sharedText": "the LORD and say",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "Four function words across a clause boundary; Micah 3:11 is an oracle against venal priests. Jeremiah 31:7's “and say, O LORD” is the same accident. The verse's two real sources are Isaiah 12:1 and Psalm 89:26, both accepted, and both were also in the stream's list — which is the stream working correctly, buried in noise."
+  },
+  {
+    "bomRef": "2 Nephi 4:32",
+    "source": "Psalm 51:17",
+    "category": "better-source-identified",
+    "sharedText": "broken ... contrite",
+    "streams": [
+      "manual"
+    ],
+    "reason": "The verse a reader will expect, and the wrong one. Psalm 51:17 reads “a broken spirit: a broken and a contrite heart”; 2 Nephi 4:32 reads “my heart is broken and my spirit is contrite”. The adjectives are swapped. Psalm 34:18 — “them that are of a broken heart … such as be of a contrite spirit” — has the Book of Mormon's assignment exactly, and “broken heart” occurs in exactly one KJV verse, which is Psalm 34:18. The link is therefore filed at Psalm 34:18, and the difference is not cosmetic: Psalm 51 makes the broken heart a sacrifice offered, Psalm 34 makes it the condition God draws near to, and 2 Nephi 4:32 uses it as a ground of confidence in a petition. Later Book of Mormon occurrences of the pair (3 Nephi 9:20, 12:19, Moroni 6:2) should be checked against this distinction rather than assumed to follow Psalm 51."
+  },
+  {
+    "bomRef": "2 Nephi 4:33",
+    "source": "Romans 14:13",
+    "category": "common-vocabulary",
+    "sharedText": "stumblingblock ... way",
+    "streams": [
+      "manual"
+    ],
+    "reason": "“Wilt thou not place a stumbling block in my way?” is close to Romans 14:13's “put a stumblingblock … in his brother's way”, and closer still in sense to Leviticus 19:14. But “stumblingblock” occurs in exactly 13 KJV verses and is one of the KJV's standard moral nouns; no single verse is identifiable, and the three clauses on either side of this one each rest on a KJV singleton (Isaiah 61:10, 1 Corinthians 10:13, Hosea 2:6), which is what a borrowed clause looks like in this verse and what this clause does not look like."
+  },
+  {
+    "bomRef": "2 Nephi 4:34",
+    "source": "Isaiah 57:13",
+    "category": "better-source-identified",
+    "sharedText": "he that putteth his trust in",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "Isaiah 57:13 and Proverbs 28:25 both carry the six-word run “he that putteth his trust in”, and Psalm 73:28 the shorter “put my trust in”. They supply the Book of Mormon's formula but not its content: in all three the trust is in the LORD and the outcome is blessing, whereas 2 Nephi 4:34 curses the man who trusts in man. The source is Jeremiah 17:5, from which the verse takes “maketh flesh his arm” verbatim — a KJV singleton — with the curse reworded into the commoner idiom. Proverbs 28:25 is retained in the accepted link's composite as the donor of the wording; Isaiah 57:13 and Psalm 73:28 are discharged here."
+  },
+  {
+    "bomRef": "2 Nephi 4:35",
+    "source": "Psalm 63:4",
+    "category": "insufficient-verbal",
+    "sharedText": "I will lift up my",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "The stream's top proposal for the verse and a near miss: Psalm 63:4 lifts up hands, 2 Nephi 4:35 lifts up a voice, and “lift up my voice” occurs in exactly 0 KJV verses. The verse's identifiable borrowings are James 1:5 and James 4:3, neither of which the stream saw."
+  }
+]

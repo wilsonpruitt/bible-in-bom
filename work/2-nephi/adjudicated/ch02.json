@@ -1,0 +1,797 @@
+{
+ "chapter": 2,
+ "adjudicated": "2026-09-05",
+ "adjudicator": "Opus",
+ "links": {
+  "2:3": [
+   {
+    "source": "Galatians 4:4",
+    "type": "allusion",
+    "subtype": "close-verbal",
+    "confidence": "high",
+    "text": "But when the fulness of the time was come, God sent forth his Son, made of a woman, made under the law,",
+    "evidence": {
+     "vocabulary": 4,
+     "syntax": 3,
+     "sequence": 3,
+     "context": 5,
+     "rarity": 5,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "recurrenceRefs": [
+     "2 Nephi 2:26"
+    ],
+    "provenance": {
+     "route": "Galatians 4:4 → KJV → Book of Mormon",
+     "other": "Ephesians 1:10 is the only other KJV verse with the idiom, in the plural (“the fulness of times”). The Book of Mormon form recurs at 2 Nephi 2:26, adjudicated here at first use per ADJUDICATING §4.",
+     "significance": "Recover Galatians 4:4's context and the borrowing acquires the next three verses of this chapter. Paul's sentence does not stop at the Son's coming: he is “made under the law, to redeem them that were under the law, that we might receive the adoption of sons.” Lehi's next two verses are the law's failure to justify (v. 5) and redemption through the Messiah (v. 6), and the whole discourse is addressed to a son. The phrase carries its own sequel into the chapter."
+    },
+    "note": "Lehi tells Jacob he has beheld that “in the fulness of time, he cometh to bring salvation unto men.” “The fulness of the time” occurs in exactly one KJV verse, Galatians 4:4, and the only other place the idiom appears at all is Ephesians 1:10's “the dispensation of the fulness of times.” The Book of Mormon's “the fulness of time” matches neither exactly — it drops Galatians' second article and keeps its singular against Ephesians' plural — which is what a remembered phrase looks like rather than a copied one. What settles it is that Galatians' clause and Lehi's do the same work: both name the arrival of the Son as the moment redemption becomes available, and both immediately turn to the law.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "manual"
+    ]
+   }
+  ],
+  "2:4": [
+   {
+    "source": "Hebrews 13:8",
+    "type": "quotation",
+    "subtype": "close-verbal",
+    "confidence": "certain",
+    "text": "Jesus Christ the same yesterday, and to day, and for ever.",
+    "evidence": {
+     "vocabulary": 5,
+     "syntax": 4,
+     "sequence": 4,
+     "context": 4,
+     "rarity": 5,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "provenance": {
+     "route": "Hebrews 13:8 → KJV → Book of Mormon",
+     "other": "1830 “to-day” → 1920 “today”; 1830 “spirit” → current “Spirit”.",
+     "significance": "Hebrews predicates the sameness of Jesus Christ; Lehi predicates it of the spirit, and uses it to license something Hebrews does not — access across a dispensation. Jacob is “blessed even as they unto whom he shall minister in the flesh” because what is the same yesterday and to-day cannot prefer one century to another. That is an argument from Hebrews 13:8 to a conclusion Hebrews never draws, and it is the load-bearing premise for a book in which people six hundred years early see Christ."
+    },
+    "note": "“The same yesterday” occurs in exactly one KJV verse. Lehi reproduces the predicate whole — “the spirit is the same, yesterday, to-day, and forever” — dropping only the conjunction before “to-day.” It falls well below Skousen's sixteen-word threshold and is not one of his thirty-six, but a five-word run from a KJV singleton is not a coincidence of ordinary English. The 1830 reading is evidence twice over: it hyphenates “to-day,” which stands nearer the KJV's two-word “to day” than the modern text's “today,” and it sets “spirit” in lower case where the current edition capitalises it. Lower case makes the sentence a claim about the manner of Christ's ministering; upper case makes it a claim about the Holy Ghost. The first edition shows the borrowing, and the borrowed sentence in Hebrews is about Christ.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "manual"
+    ]
+   }
+  ],
+  "2:5": [
+   {
+    "source": "Romans 3:20",
+    "type": "allusion",
+    "subtype": "close-verbal",
+    "confidence": "high",
+    "text": "Therefore by the deeds of the law there shall no flesh be justified in his sight: for by the law is the knowledge of sin.",
+    "evidence": {
+     "vocabulary": 4,
+     "syntax": 4,
+     "sequence": 3,
+     "context": 5,
+     "rarity": 4,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "OT-via-NT",
+    "composite": [
+     "Galatians 2:16",
+     "Psalm 143:2"
+    ],
+    "provenance": {
+     "mt": "Psalm 143:2, “in thy sight shall no man living be justified” — “no man living be justified” occurs in exactly one KJV verse.",
+     "route": "Psalm 143:2 → Romans 3:20 (KJV) → Book of Mormon",
+     "alternative": "Galatians 2:16, the only other KJV verse with “no flesh be justified”; it lacks Romans' second clause.",
+     "significance": "Romans 3:20b, “for by the law is the knowledge of sin,” is the sentence 2 Nephi 2:13 turns into a conditional: “if ye shall say there is no law, ye shall also say there is no sin.” Lehi takes Paul's two clauses and makes them the two ends of his discourse — the first at v. 5, the second inverted into a reductio eight verses later. Recovering the source verse whole is what shows that vv. 5 and 13 are one argument."
+    },
+    "note": "“No flesh be justified” occurs in exactly two KJV verses, Romans 3:20 and Galatians 2:16, and both are Paul rewriting Psalm 143:2. tools/mediation-check.py returns a decisive result: the Psalm reads “no man living be justified” and the New Testament reads “no flesh,” and Lehi has “no flesh.” The Old Testament verse behind this sentence reaches the Book of Mormon in its Pauline dress, not its own. Between the two Pauline forms, Romans is the better fit — Lehi writes bare “by the law,” which is Romans 3:20's second clause, not Galatians' “by the works of the law” — and Romans 3:20 alone supplies both halves of what Lehi goes on to argue.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "manual"
+    ]
+   }
+  ],
+  "2:6": [
+   {
+    "source": "John 1:14",
+    "type": "quotation",
+    "subtype": "close-verbal",
+    "confidence": "certain",
+    "text": "And the Word was made flesh, and dwelt among us, (and we beheld his glory, the glory as of the only begotten of the Father,) full of grace and truth.",
+    "evidence": {
+     "vocabulary": 5,
+     "syntax": 3,
+     "sequence": 3,
+     "context": 4,
+     "rarity": 5,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "recurrenceRefs": [
+     "2 Nephi 2:29"
+    ],
+    "provenance": {
+     "route": "John 1:14 → KJV → Book of Mormon",
+     "other": "The chapter quarries the Johannine prologue at both ends: John 1:14 here, and John 1:13's “the will of the flesh” — itself a KJV singleton — at v. 29. Two consecutive verses of John, twenty-three verses apart in Lehi.",
+     "significance": "John predicates the phrase of the Word made flesh and dwelt among us; Lehi predicates it of the Holy Messiah through whom “redemption cometh in and through.” The suppressed correspondence is the incarnation itself — John's grace and truth are full in a body, and Lehi's next sentence is that the Messiah “offereth himself a sacrifice.” The verse he takes the words from is the verse that makes the sacrifice possible."
+    },
+    "note": "“Full of grace and truth” occurs in exactly one KJV verse. Five words reproduced without change from a singleton, applied to the same person the singleton applies them to. Below Skousen's sixteen-word threshold and not among his thirty-six.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "manual"
+    ]
+   }
+  ],
+  "2:7": [
+   {
+    "source": "Psalm 34:18",
+    "type": "allusion",
+    "subtype": "close-verbal",
+    "confidence": "high",
+    "text": "The LORD is nigh unto them that are of a broken heart; and saveth such as be of a contrite spirit.",
+    "evidence": {
+     "vocabulary": 5,
+     "syntax": 3,
+     "sequence": 4,
+     "context": 5,
+     "rarity": 5,
+     "attestation": 1
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-OT",
+    "provenance": {
+     "route": "Psalm 34:18 → KJV → Book of Mormon",
+     "other": "“Contrite spirit” occurs in exactly two KJV verses, Psalm 34:18 and Isaiah 66:2. Only Psalm 34:18 has both halves of Lehi's phrase, and only in the KJV's English — the noun assignment that makes the identification possible is a translator's choice, not the Hebrew's.",
+     "alternative": "Psalm 51:17, excluded at this verse as better-source-identified.",
+     "significance": "Psalm 34:18 is a promise about proximity: the LORD is *nigh unto* the broken-hearted. Lehi is arguing the opposite direction — that no flesh can dwell in God's presence except through the Messiah (v. 8) — and he grounds the exception on the one verse in the KJV where God comes near to precisely the people he has just named. The atonement in v. 7 answers the ends of the law for those to whom, in the source verse, God was already close."
+    },
+    "note": "The received identification of “a broken heart and a contrite spirit” is Psalm 51:17, and it is wrong on the KJV's own words. “Broken heart” occurs in exactly one KJV verse, and it is Psalm 34:18 — which also contains “contrite spirit,” in that order, on either side of a clause boundary. Psalm 51:17 has “a broken spirit” and “a broken and a contrite heart”: the right adjectives attached to the wrong nouns. Lehi's pairing is Psalm 34:18's exactly, and it is invisible to a contiguous n-gram window by construction (CONVENTIONS §9), which is why the machine proposed nothing here.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "manual"
+    ]
+   }
+  ],
+  "2:8": [
+   {
+    "source": "Acts 26:23",
+    "type": "allusion",
+    "subtype": "close-verbal",
+    "confidence": "high",
+    "text": "That Christ should suffer, and that he should be the first that should rise from the dead, and should shew light unto the people, and to the Gentiles.",
+    "evidence": {
+     "vocabulary": 4,
+     "syntax": 4,
+     "sequence": 3,
+     "context": 5,
+     "rarity": 5,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "provenance": {
+     "route": "Acts 26:23 → KJV → Book of Mormon",
+     "significance": "Recover the setting and the borrowing becomes an argument about Lehi's own position. Acts 26:23 is Paul before Agrippa, saying that he preaches “none other things than those which the prophets and Moses did say should come” — that Christ should suffer and be the first that should rise. Paul's claim is that a pre-Christian prophet could have said this; Lehi is a pre-Christian prophet saying it, in Paul's words. The catalogue can only note the circularity: the verse that licenses the anachronism is the verse the anachronism borrows from."
+    },
+    "note": "“The first that should rise” occurs in exactly one KJV verse. Lehi reproduces it whole and stops where the source's next words are “from the dead,” which his own clause has already supplied as “the resurrection of the dead.” The n-gram stream ranked this verse first for 2:8 and was right, which is not the usual outcome.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "machine-ngram",
+     "manual"
+    ]
+   },
+   {
+    "source": "John 10:18",
+    "type": "allusion",
+    "subtype": "close-verbal",
+    "confidence": "high",
+    "text": "No man taketh it from me, but I lay it down of myself. I have power to lay it down, and I have power to take it again. This commandment have I received of my Father.",
+    "evidence": {
+     "vocabulary": 4,
+     "syntax": 3,
+     "sequence": 4,
+     "context": 5,
+     "rarity": 5,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "composite": [
+     "John 10:17"
+    ],
+    "provenance": {
+     "route": "John 10:17-18 → KJV → Book of Mormon",
+     "other": "The flesh/spirit antithesis Lehi builds around John's verbs is not John's; it is Romans 1:3-4's “according to the flesh … according to the spirit of holiness, by the resurrection from the dead.” The sentence fuses a Johannine saying with a Pauline frame.",
+     "significance": "John's point in 10:18 is that no man takes Christ's life from him. Lehi's whole sentence is about what no flesh can do — dwell in God's presence — and he answers it with the one thing Christ can do that no man can do to him. The two impossibilities are made to answer each other, which neither text does alone."
+    },
+    "note": "“Layeth down his life according to the flesh, and taketh it again by the power of the spirit.” “Power to lay it down” occurs in exactly one KJV verse, and “take it again” in exactly two, John 10:17 and 10:18, both of the same saying. Lehi has all three of its elements — laying down, taking again, and the power by which it is done — in John's order.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "manual"
+    ]
+   }
+  ],
+  "2:9": [
+   {
+    "source": "Revelation 14:4",
+    "type": "allusion",
+    "subtype": "close-verbal",
+    "confidence": "high",
+    "text": "These are they which were not defiled with women; for they are virgins. These are they which follow the Lamb whithersoever he goeth. These were redeemed from among men, being the firstfruits unto God and to the Lamb.",
+    "evidence": {
+     "vocabulary": 4,
+     "syntax": 3,
+     "sequence": 2,
+     "context": 4,
+     "rarity": 5,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "composite": [
+     "1 Corinthians 15:20"
+    ],
+    "provenance": {
+     "route": "Revelation 14:4 → KJV → Book of Mormon",
+     "other": "1830 “first fruits” → 1920 “firstfruits”. “First fruits unto God” as two words occurs in no KJV verse at all.",
+     "significance": "Revelation 14:4 calls the hundred and forty and four thousand the firstfruits, redeemed from among men. Lehi transfers the title to the one who redeems them, and does it in the next breath after saying he is “the first that should rise.” Recovering the source inverts the referent: in Revelation the firstfruits are the saved, in Lehi they are the saviour, and the phrase carries the crowd of the redeemed silently along with it into a verse about intercession “for all the children of men.”"
+    },
+    "note": "“Firstfruits unto God” occurs in exactly one KJV verse. The doctrine Lehi is stating — Christ the firstfruits of the resurrection — is 1 Corinthians 15:20-23's, but 1 Corinthians never writes the phrase this way; Revelation does, once. So the argument comes from one book and the words from another. The 1830 reading is the evidence for the borrowing being verbal at all: it prints “first fruits” as two words, and 1920 closed it to “firstfruits,” which is the KJV's own form — a later edition moving the text toward its source (CONVENTIONS §8).",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "manual"
+    ]
+   },
+   {
+    "source": "Hebrews 7:25",
+    "type": "allusion",
+    "subtype": "close-verbal",
+    "confidence": "moderate",
+    "text": "Wherefore he is able also to save them to the uttermost that come unto God by him, seeing he ever liveth to make intercession for them.",
+    "evidence": {
+     "vocabulary": 3,
+     "syntax": 3,
+     "sequence": 3,
+     "context": 5,
+     "rarity": 5,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "OT-via-NT",
+    "provenance": {
+     "mt": "Isaiah 53:12, “and made intercession for the transgressors”.",
+     "route": "Isaiah 53:12 → Hebrews 7:25 (KJV) → Book of Mormon",
+     "other": "The two other KJV verses with “make intercession”, Jeremiah 7:16 and 27:18, both read “make intercession *to*” and mean praying to God rather than for men — the opposed sense.",
+     "significance": "Hebrews 7:25 grounds the intercession in Christ's not dying: he ever liveth, therefore he ever intercedes. Lehi has just made him “the first that should rise” and “the first fruits unto God”; the suppressed premise that lets v. 9 follow v. 8 is exactly Hebrews' — the resurrection is what makes the intercession permanent."
+    },
+    "note": "“Make intercession for” occurs in exactly one KJV verse. The Old Testament locus for a redeemer's intercession is Isaiah 53:12, but it reads “made intercession for the transgressors” — past tense, of a completed act — while Lehi has “shall make intercession,” which is Hebrews' continuous form and Hebrews' whole point (“he ever liveth to make intercession”). tools/mediation-check.py found no decisive divergence between Isaiah 53:12 and Hebrews 7:25 at any point Lehi reproduces, because it ignores single common words; the verb form is the discrimination, and it is caught by eye, so the mediation call here is weaker than the one at v. 5.",
+    "whyNot": "The mediation-check tool returns no decisive divergence here, and the case for Hebrews over Isaiah 53:12 rests on a single verb form (“make” against “made”) that the tool is built to ignore. A reader who thinks Lehi is simply generalising Isaiah's servant would not be refuted by anything in this verse.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "manual"
+    ]
+   }
+  ],
+  "2:13": [
+   {
+    "source": "1 Corinthians 15:13",
+    "type": "figural",
+    "subtype": "structural",
+    "confidence": "moderate",
+    "text": "But if there be no resurrection of the dead, then is Christ not risen:",
+    "evidence": {
+     "vocabulary": 1,
+     "syntax": 4,
+     "sequence": 4,
+     "context": 5,
+     "rarity": 2,
+     "attestation": 0
+    },
+    "kjvSpecific": "no",
+    "mediation": "direct-NT",
+    "composite": [
+     "1 Corinthians 15:19"
+    ],
+    "provenance": {
+     "route": "1 Corinthians 15:13-19 → KJV → Book of Mormon (form, not wording)",
+     "other": "Romans 3:20's second clause, “by the law is the knowledge of sin,” supplies the chain's first link and is catalogued at v. 5.",
+     "significance": "Paul's reductio defends one doctrine by showing that its denial takes everything else down with it. Lehi runs the identical machine on the denial of law, and gets a conclusion Paul never draws — not that preaching is vain but that nothing exists. Read the two together and the Book of Mormon's argument for agency turns out to be built on the shape of Paul's argument for the resurrection, which is also the doctrine Lehi has just asserted in vv. 8-9. The form is borrowed from the passage whose content he has already used."
+    },
+    "note": "Verse 13 is a sorites: seven conditionals chained head to tail — no law, no sin; no sin, no righteousness; no righteousness, no happiness; and so down to “we are not, neither the earth.” The KJV has one passage of that shape, 1 Corinthians 15:13-19, where Paul runs the same figure from the same kind of premise (“if there be no resurrection of the dead”) through the same escalating consequences to the same terminal absurdity, and lands on the word Lehi's chain also lands on: Paul's “we are of all men most miserable,” Lehi's “no punishment nor misery.” The verbal contact is almost nil and the structural contact is exact, which is what the figural type is for.",
+    "whyNot": "No clause and no distinctive phrase is shared; the case is entirely one of argumentative form, and reductio by chained conditionals is not a figure the KJV invented. A reader could hold that Lehi arrived at it independently and lose nothing.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "manual"
+    ]
+   }
+  ],
+  "2:14": [
+   {
+    "source": "Exodus 20:11",
+    "type": "allusion",
+    "subtype": "close-verbal",
+    "confidence": "high",
+    "text": "For in six days the LORD made heaven and earth, the sea, and all that in them is, and rested the seventh day: wherefore the LORD blessed the sabbath day, and hallowed it.",
+    "evidence": {
+     "vocabulary": 4,
+     "syntax": 4,
+     "sequence": 3,
+     "context": 5,
+     "rarity": 4,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "uncertain",
+    "composite": [
+     "Acts 4:24",
+     "Nehemiah 9:6"
+    ],
+    "provenance": {
+     "route": "Exodus 20:11 or Acts 4:24 → KJV → Book of Mormon",
+     "other": "1830 “all things that in them is” → 1920 “are”.",
+     "alternative": "Acts 4:24 reproduces Exodus 20:11's clause verbatim; tools/mediation-check.py reports no decisive divergence at any point Lehi reproduces, so this verse cannot settle its own mediation and the field is recorded as uncertain rather than guessed (CONVENTIONS §7).",
+     "significance": "Exodus 20:11 is the sabbath commandment's reason clause — God made all that in them is, and rested. Lehi uses it to establish that God “hath created all things” in order to divide those things into “things to act, and things to be acted upon,” which is a distinction the source text does not contain and which the whole doctrine of agency in this chapter rests on. The creation formula is being made to carry a metaphysics."
+    },
+    "note": "“All that in them is” occurs in exactly two KJV verses, Exodus 20:11 and Acts 4:24, which is a creation formula and its New Testament citation. The 1830 text is what makes this a link rather than a coincidence: it reads “all things that in them **is**,” preserving the KJV's singular verb after a plural subject — a concord no one writes by accident in 1830 — and 1920 corrected it to “are.” The borrowing is plain in the first edition and invisible in the modern one, which is the 1 Nephi 1:20 pattern running the other way (CONVENTIONS §8). The “all things that” Lehi adds is Nehemiah 9:6's, from the same family of creation doxologies.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "manual"
+    ]
+   },
+   {
+    "source": "Romans 15:4",
+    "type": "echo",
+    "subtype": "conceptual",
+    "confidence": "moderate",
+    "text": "For whatsoever things were written aforetime were written for our learning, that we through patience and comfort of the scriptures might have hope.",
+    "evidence": {
+     "vocabulary": 3,
+     "syntax": 2,
+     "sequence": 2,
+     "context": 4,
+     "rarity": 4,
+     "attestation": 0
+    },
+    "kjvSpecific": "uncertain",
+    "mediation": "direct-NT",
+    "provenance": {
+     "route": "Romans 15:4 → KJV → Book of Mormon",
+     "significance": "Romans 15:4 is the verse that authorises reading old scripture as addressed to oneself. Lehi applies it in the opposite direction — not to a reader receiving what was written aforetime, but to a writer producing what will be read afterward — and the chapter he is writing is one that quotes, by this catalogue's count, from Genesis, Psalms, Isaiah, John, Romans, Galatians, Hebrews, Luke and Revelation. The verse about scripture's afterlife is being used at the moment scripture is being made."
+    },
+    "note": "“For our learning” occurs in exactly one KJV verse; Lehi writes “for your profit and learning,” which is that phrase with the pronoun turned outward and “profit” added. The phrase “profit and learning” occurs in no KJV verse. What supports the echo is not the two words but their office: Romans 15:4 is a statement about why written scripture is preserved for later readers, and Lehi is a writer telling his sons why he is telling them this, three verses before he says he speaks “according to the things which I have read … according to that which is written.”",
+    "whyNot": "Two words, one of them added. “Learning” in this construction is ordinary enough English that a reader could decline the echo without straining, and 1 Corinthians 10:11 (“written for our admonition”) is the same idea in different words.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "manual"
+    ]
+   }
+  ],
+  "2:15": [
+   {
+    "source": "Genesis 2:19",
+    "type": "allusion",
+    "subtype": "close-verbal",
+    "confidence": "high",
+    "text": "And out of the ground the LORD God formed every beast of the field, and every fowl of the air; and brought them unto Adam to see what he would call them: and whatsoever Adam called every living creature, that was the name thereof.",
+    "evidence": {
+     "vocabulary": 4,
+     "syntax": 3,
+     "sequence": 4,
+     "context": 5,
+     "rarity": 5,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-OT",
+    "provenance": {
+     "route": "Genesis 2:19 → KJV → Book of Mormon",
+     "other": "“Beasts of the field, and the fowls of the air” in the plural occurs in no KJV verse. Daniel 2:38 has the plural pairing but reads “fowls of the heaven”, and is excluded at this verse.",
+     "significance": "Everything Lehi's Eden is made of comes from Genesis 2 and 3, never from Genesis 1: the beasts of the field and fowls of the air from 2:19, the tree of life from 2:9, the serpent's words from 3:4-5, the expulsion from 3:23-24. That is the J account, not the P account — the garden narrative rather than the six days — and it is the account in which a command is given, broken, and punished. A chapter arguing that opposition must exist could not have been built on Genesis 1, where nothing is forbidden."
+    },
+    "note": "“Beast of the field, and every fowl of the air” occurs in exactly one KJV verse, and it is not in Genesis 1. This is worth stating flatly, because it is the chapter's cleanest test of which creation account Lehi is working from: Genesis 1 pairs “fowl of the air” with “beast of the earth” (1:30) and “beast of the earth after his kind” (1:25), and never with “beast of the field.” Genesis 2:19 is the only verse in the Bible that pairs the two Lehi pairs, and it is a creation verse — God forms them out of the ground and brings them to Adam. Lehi's plural (“the beasts … the fowls”) occurs in no KJV verse; he has generalised the source's distributive singulars.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "manual"
+    ]
+   },
+   {
+    "source": "Genesis 2:9",
+    "type": "allusion",
+    "subtype": "close-verbal",
+    "confidence": "moderate",
+    "text": "And out of the ground made the LORD God to grow every tree that is pleasant to the sight, and good for food; the tree of life also in the midst of the garden, and the tree of knowledge of good and evil.",
+    "evidence": {
+     "vocabulary": 3,
+     "syntax": 2,
+     "sequence": 3,
+     "context": 5,
+     "rarity": 2,
+     "attestation": 1
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-OT",
+    "provenance": {
+     "route": "Genesis 2:9 → KJV → Book of Mormon",
+     "other": "“Forbidden fruit” occurs in no KJV verse. It is one of two phrases in this chapter's Eden and demonology that have no scriptural warrant at all; the other is “the father of all lies” at v. 18.",
+     "significance": "Lehi's opposition is “the forbidden fruit in opposition to the tree of life” — but in Genesis 2:9 the two trees in the midst of the garden are the tree of life and the tree of *knowledge of good and evil*, and it is knowledge, not prohibition, that names the second one. Substituting “forbidden” for “knowledge of good and evil” moves the antithesis from what the tree gives to what the law says about it, which is precisely the move the chapter needs: v. 5's law, v. 13's “if ye shall say there is no law.” The unscriptural adjective is doing the argument's work."
+    },
+    "note": "“The tree of life” occurs in exactly six KJV verses and cannot identify a source on its own, but the frame decides it: Lehi is naming what God created in Eden, and Genesis 2:9 is the verse that plants it there. The interesting half of this verse is the other term of Lehi's antithesis. “Forbidden fruit” occurs in no KJV verse — none. The KJV's serpent speaks of “the fruit of the tree which is in the midst of the garden” (Genesis 3:3) and God of “the tree of the knowledge of good and evil” (2:17); the adjective “forbidden” is nowhere applied to it. Lehi uses the phrase three times in five verses (15, 18, 19) as though it were the received scriptural name. It is instead the received *English* name, which by 1830 had been Milton's for a hundred and sixty years — “the Fruit / Of that Forbidden Tree” in the second line of Paradise Lost.",
+    "whyNot": "Six KJV verses contain “the tree of life” and the identification rests on context rather than rarity; a reader could reasonably hold that Lehi is drawing on a general scriptural commonplace rather than Genesis 2:9 in particular.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "manual"
+    ]
+   }
+  ],
+  "2:17": [
+   {
+    "source": "Isaiah 14:12",
+    "type": "allusion",
+    "subtype": "close-verbal",
+    "confidence": "high",
+    "text": "How art thou fallen from heaven, O Lucifer, son of the morning! how art thou cut down to the ground, which didst weaken the nations!",
+    "evidence": {
+     "vocabulary": 4,
+     "syntax": 3,
+     "sequence": 3,
+     "context": 5,
+     "rarity": 4,
+     "attestation": 3
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-OT",
+    "recurrenceRefs": [
+     "2 Nephi 24:12"
+    ],
+    "provenance": {
+     "route": "Isaiah 14:12 → KJV → Book of Mormon",
+     "other": "Luke 10:18 (“I beheld Satan as lightning fall from heaven”) is the New Testament verse that made this reading standard, but it reads “fall” and not “fallen” and shares no other wording; the KJV form Lehi has is Isaiah's.",
+     "significance": "Isaiah 14:12 is a taunt-song against the king of Babylon, and in Isaiah's own frame no angel falls in it; the Latin name Lucifer and the reading of the verse as Satan's fall are reception, not exegesis. Lehi does not read it as Isaiah wrote it — he reads it as the Christian tradition read it, and says he is doing so “according to that which is written.” The link records a case where what stands behind the Book of Mormon is not a biblical verse alone but a biblical verse's interpretive history. Isaiah 14 then brackets the whole discourse: its verse 12 opens Lehi's account of the devil here, and its verse 15 closes it at v. 29."
+    },
+    "note": "“Fallen from heaven” occurs in exactly two KJV verses: Isaiah 14:12 and Job 1:16, where it is fire and not a person. Isaiah is the only candidate. What raises this above an ordinary allusion is that Lehi flags the citation himself — “according to the things which I have read … according to that which is written” — and this book transcribes Isaiah 14 in full at 2 Nephi 24, where verse 12 reads “How art thou fallen from heaven, O Lucifer, son of the morning!” The catalogue can therefore point to the text Lehi says he has read, inside the same book, in the same words.",
+    "bibliography": [
+     "Hardy MSI at 2 Ne 2.17 (Isaiah 14:12)"
+    ],
+    "status": "majority",
+    "streams": [
+     "manual"
+    ]
+   }
+  ],
+  "2:18": [
+   {
+    "source": "Revelation 20:2",
+    "type": "quotation",
+    "subtype": "close-verbal",
+    "confidence": "certain",
+    "text": "And he laid hold on the dragon, that old serpent, which is the Devil, and Satan, and bound him a thousand years,",
+    "evidence": {
+     "vocabulary": 5,
+     "syntax": 5,
+     "sequence": 4,
+     "context": 4,
+     "rarity": 5,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "provenance": {
+     "route": "Revelation 20:2 → KJV → Book of Mormon",
+     "other": "Revelation 12:9, the only other KJV verse with the phrase, reads “called the Devil” and is displaced by a single word. The other epithet Lehi gives him in the same sentence, “the father of all lies,” occurs in no KJV verse at all; John 8:44 says only that the devil “is a liar, and the father of it.”",
+     "significance": "Genesis 3 never says the serpent is the devil. Revelation is where the identification is made, and Lehi makes it in Revelation's exact words in the same sentence in which he quotes Genesis 3:4-5. So the Eden narrative reaches this chapter with its interpretation already attached: the words of the temptation are Genesis's, and the name of the tempter is the Apocalypse's. That is the chapter's demonology in one verse — an Old Testament story read through the last book of the New."
+    },
+    "note": "“That old serpent” occurs in exactly two KJV verses, Revelation 12:9 and 20:2, and the two are distinguished by one word: 12:9 reads “that old serpent, **called** the Devil,” 20:2 reads “that old serpent, **which is** the Devil.” Lehi has “that old serpent, which is the Devil.” Seven consecutive words from the later of the two, and the discrimination is decisive. Below Skousen's sixteen-word threshold and not among his thirty-six.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "machine-ngram",
+     "manual"
+    ]
+   },
+   {
+    "source": "Genesis 3:4",
+    "type": "quotation",
+    "subtype": "close-verbal",
+    "confidence": "certain",
+    "text": "And the serpent said unto the woman, Ye shall not surely die:",
+    "evidence": {
+     "vocabulary": 5,
+     "syntax": 4,
+     "sequence": 5,
+     "context": 5,
+     "rarity": 5,
+     "attestation": 3
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-OT",
+    "composite": [
+     "Genesis 3:5"
+    ],
+    "provenance": {
+     "route": "Genesis 3:4-5 → KJV → Book of Mormon",
+     "other": "1830 reads “he sayeth unto Eve” where the KJV has “the serpent said unto the woman”; Genesis does not name her Eve until 3:20, after the expulsion sentence. Lehi names her at the temptation.",
+     "significance": "“Ye shall be as gods” is the KJV's plural for a Hebrew word the same translators render “God” thousands of times, and Genesis 3:22 endorses the serpent on the point — “the man is become as one of us.” Lehi's singular closes that off: to be as God is one thing, definite, and the serpent's offer becomes a straightforward lie rather than a half-truth. The change is small, it is the kind of thing a translator's marginal alternative would license, and it converts the chapter's tempter into “the father of all lies” two clauses earlier."
+    },
+    "note": "“Ye shall not surely die” occurs in exactly one KJV verse, and “knowing good and evil” in exactly one, Genesis 3:5. Lehi has the serpent's whole speech in order — “Partake of the forbidden fruit, and ye shall not die, but ye shall be as God, knowing good and evil” — with two departures that both matter. He drops “surely,” which is the word Genesis 3:4 uses to contradict God's “thou shalt surely die” of 2:17, so the retort loses its grip on the thing it retorts to. And he reads “as God” where the KJV reads “as gods,” singularising a plural the KJV had left standing. Nothing in Romans 5 or 1 Corinthians 15 reproduces any of this wording; the temptation reaches the Book of Mormon straight out of Genesis 3, unmediated.",
+    "bibliography": [
+     "Hardy MSI at 2 Ne 2.18 (Genesis 3:4-5)"
+    ],
+    "status": "consensus",
+    "streams": [
+     "manual"
+    ]
+   }
+  ],
+  "2:19": [
+   {
+    "source": "Genesis 3:23",
+    "type": "quotation",
+    "subtype": "close-verbal",
+    "confidence": "certain",
+    "text": "Therefore the LORD God sent him forth from the garden of Eden, to till the ground from whence he was taken.",
+    "evidence": {
+     "vocabulary": 5,
+     "syntax": 4,
+     "sequence": 5,
+     "context": 5,
+     "rarity": 5,
+     "attestation": 3
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-OT",
+    "composite": [
+     "Genesis 3:24"
+    ],
+    "provenance": {
+     "route": "Genesis 3:23-24 → KJV → Book of Mormon",
+     "other": "“To till the ground” occurs in exactly two KJV verses, Genesis 2:5 and 3:23. 1830 “driven out from the garden” → 1920 “of”.",
+     "significance": "Genesis 3:23 sends Adam to till the ground “from whence he was taken” — the expulsion returns him to his own material, and the clause is a sentence of mortality. Lehi drops that clause and writes “to till the earth,” then immediately: “And they have brought forth children; yea, even the family of all the earth.” The word he substituted becomes the word the next verse turns on. Genesis's ground is what Adam is made of and goes back to; Lehi's earth is what gets populated. One noun changes the expulsion from a punishment into the beginning of a family."
+    },
+    "note": "Eight consecutive words, “from the garden of Eden, to till the,” and the highest n-gram score in the chapter. Lehi conflates the two halves of Genesis's expulsion: the verb is 3:24's (“So he drove out the man” — “they were driven out”), the destination and purpose are 3:23's. Two 1830 readings bear. The first edition reads “driven out **from** the garden of Eden,” which is Genesis 3:23's preposition; 1920 changed it to “of,” which is in neither Genesis verse — a later edition moving away from the source, and the borrowing is plainer in the first edition than in the current text (CONVENTIONS §8). The second is Lehi's substantive change, kept in every edition: “to till the **earth**” for Genesis's “to till the ground.”",
+    "bibliography": [
+     "Hardy MSI at 2 Ne 2.19 (Genesis 3:23-24)"
+    ],
+    "status": "consensus",
+    "streams": [
+     "manual"
+    ]
+   }
+  ],
+  "2:25": [
+   {
+    "source": "1 Corinthians 15:22",
+    "type": "figural",
+    "subtype": "conceptual",
+    "confidence": "moderate",
+    "text": "For as in Adam all die, even so in Christ shall all be made alive.",
+    "evidence": {
+     "vocabulary": 1,
+     "syntax": 3,
+     "sequence": 2,
+     "context": 5,
+     "rarity": 2,
+     "attestation": 0
+    },
+    "kjvSpecific": "no",
+    "mediation": "direct-NT",
+    "composite": [
+     "Romans 5:12"
+    ],
+    "provenance": {
+     "route": "1 Corinthians 15:22 → KJV → Book of Mormon (form and doctrine, not wording)",
+     "other": "Romans 5:12 (“by one man sin entered into the world, and death by sin”) is the other candidate for the frame and shares no more wording than this one.",
+     "significance": "Paul's antithesis makes Adam the entry of death and Christ the entry of life. Lehi keeps the form and reverses the valuation of its first member: Adam's fall is not what has to be undone but what makes there be anyone to redeem — “Adam fell, that men might be.” Set the two side by side and the Book of Mormon's most quoted sentence turns out to be 1 Corinthians 15:22 with the minus sign taken off Adam. The chapter has already prepared the reversal at vv. 22-23, where an unfallen Adam would have had no children and no joy; what is a catastrophe in Paul is a precondition in Lehi."
+    },
+    "note": "“Adam fell, that men might be; and men are, that they might have joy” shares with 1 Corinthians 15:22 exactly one word, Adam, and the entire shape of the sentence: a two-membered antithesis in which what Adam did is stated in order to be capped by what follows from it. This is the verse where the chapter's Pauline frame and its Genesis vocabulary finally have to be told apart, and the answer is that they never touch. Every phrase of Lehi's Eden — vv. 15, 18, 19, 22 — comes from the KJV of Genesis 2-3 with no New Testament wording anywhere in it, because neither Romans 5 nor 1 Corinthians 15 reproduces Genesis's language at all; and every doctrinal move Lehi makes about the fall comes from Paul with none of Genesis's wording. The two run in parallel through this chapter and are joined only here, in a sentence that has the wording of neither.",
+    "whyNot": "One shared word. The link is asserted on the strength of a doctrinal argument's shape, and a reader who thinks Lehi reached this by reasoning from Genesis 3 alone has nothing in the verse to contradict him. It is recorded because the negative half of the finding — that no Pauline *wording* mediates the Eden material anywhere in this chapter — is worth stating at the verse where a reader would most expect it to.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "manual"
+    ]
+   }
+  ],
+  "2:27": [
+   {
+    "source": "Deuteronomy 30:19",
+    "type": "allusion",
+    "subtype": "close-verbal",
+    "confidence": "high",
+    "text": "I call heaven and earth to record this day against you, that I have set before you life and death, blessing and cursing: therefore choose life, that both thou and thy seed may live:",
+    "evidence": {
+     "vocabulary": 4,
+     "syntax": 4,
+     "sequence": 4,
+     "context": 5,
+     "rarity": 5,
+     "attestation": 3
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-OT",
+    "provenance": {
+     "route": "Deuteronomy 30:19 → KJV → Book of Mormon",
+     "other": "Deuteronomy 30:15 has the same figure with different pairs (“life and good, and death and evil”). “Eternal life” is not Deuteronomy's; Moses' life is “that both thou and thy seed may live” in the land, and the eschatological reading is imported.",
+     "significance": "Moses calls heaven and earth to record because the choice he sets is one a nation makes once, in a land, with its length of days at stake. Lehi rescales it twice over: the choosing party becomes each man severally (“men are free according to the flesh”), and the stakes become eternal life and eternal death. The clause of Deuteronomy 30:19 he does not take is the one about seed and land. What survives the transfer is the bare structure of a set choice — which is exactly what the chapter needs, since a choice that is genuinely set before you is the practical form of “an opposition in all things.”"
+    },
+    "note": "“Choose life” occurs in exactly one KJV verse. Lehi has Deuteronomy's whole structure: a choice set before the hearer, stated as two opposed pairs, with the imperative to choose the better — “free to choose liberty and eternal life … or to choose captivity and death.” Moses' pairs are life/death and blessing/cursing; Lehi's are liberty-and-eternal-life against captivity-and-death, which is Moses' first pair with the second collapsed into it. Hardy cross-references Deuteronomy 30:19 at v. 28, where the wording is only “choose eternal life”; the verbal contact is at v. 27, so the link sits here and the register sends a reader from 2:28 (CONVENTIONS §6a).",
+    "bibliography": [
+     "Hardy MSI at 2 Ne 2.28 (Deuteronomy 30:19)"
+    ],
+    "status": "majority",
+    "streams": [
+     "manual"
+    ]
+   }
+  ],
+  "2:28": [
+   {
+    "source": "1 Timothy 2:5",
+    "type": "allusion",
+    "subtype": "close-verbal",
+    "confidence": "moderate",
+    "text": "For there is one God, and one mediator between God and men, the man Christ Jesus;",
+    "evidence": {
+     "vocabulary": 3,
+     "syntax": 3,
+     "sequence": 2,
+     "context": 5,
+     "rarity": 5,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "provenance": {
+     "route": "1 Timothy 2:5 → KJV → Book of Mormon",
+     "other": "1830 “the great mediation of all men” (2:27) → 1920 “the great Mediator of all men”. Hebrews' three uses attach the word to a covenant rather than to men.",
+     "significance": "1 Timothy 2:5's mediator is *one*, and the verse's force is exclusive — one God, one mediator, and no other. Lehi's is “the great mediator,” and he sets him against a rival: the devil of vv. 27 and 29, who also proposes a choice and also has power to captivate. The source verse's monotheistic arithmetic becomes, in Lehi, the ground of a two-sided choice, which the source verse does not offer and the chapter's whole doctrine of opposition requires."
+    },
+    "note": "“One mediator between God and men” occurs in exactly one KJV verse, and “mediator” in the KJV is confined to it, to Galatians 3:19-20 (of Moses and the law) and to Hebrews 8:6, 9:15 and 12:24 (of the new covenant). Lehi's “the great mediator”, whom his sons are to look to and whose commandments they are to hearken to, is the Pauline figure and not the Mosaic one. The 1830 reading at v. 27 is the evidence that the term was under strain: the first edition prints “the great **mediation** of all men”, an abstract noun where the sense wants a person, and 1920 changed it to “Mediator” — moving the text toward 1 Timothy 2:5's noun (CONVENTIONS §8).",
+    "whyNot": "The shared material is a single title. “Mediator” is the standard English theological term for the office by 1830 and is not confined to any one KJV verse's influence; the identification of 1 Timothy 2:5 in particular rests on the phrase's construction with “men”, which the 1830 text carries at v. 27 and the current text still does.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "manual"
+    ]
+   }
+  ],
+  "2:29": [
+   {
+    "source": "John 1:13",
+    "type": "allusion",
+    "subtype": "close-verbal",
+    "confidence": "high",
+    "text": "Which were born, not of blood, nor of the will of the flesh, nor of the will of man, but of God.",
+    "evidence": {
+     "vocabulary": 4,
+     "syntax": 3,
+     "sequence": 3,
+     "context": 5,
+     "rarity": 5,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "recurrenceRefs": [
+     "2 Nephi 2:6"
+    ],
+    "provenance": {
+     "route": "John 1:13 → KJV → Book of Mormon",
+     "significance": "John 1:13 is about how one comes to be a child of God: not by any human willing. Lehi's sentence is about how one comes to be the devil's: by one's own willing. Recovering the source turns the borrowing into a deliberate asymmetry — the will of the flesh cannot produce the new birth but is entirely sufficient to produce the captivity. Lehi has taken the one thing John says human will cannot do and named the one thing it can."
+    },
+    "note": "“The will of the flesh” occurs in exactly one KJV verse. Lehi opposes it to “the will of his Holy Spirit” in the preceding clause, and the pairing of a fleshly will against a divine one is John 1:13's own construction — born “not of the will of the flesh … but of God.” This is the second of two links in this chapter to consecutive verses of the Johannine prologue; John 1:14 stands behind 2:6.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "machine-ngram",
+     "manual"
+    ]
+   },
+   {
+    "source": "Isaiah 14:15",
+    "type": "allusion",
+    "subtype": "close-verbal",
+    "confidence": "moderate",
+    "text": "Yet thou shalt be brought down to hell, to the sides of the pit.",
+    "evidence": {
+     "vocabulary": 3,
+     "syntax": 3,
+     "sequence": 3,
+     "context": 5,
+     "rarity": 4,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-OT",
+    "recurrenceRefs": [
+     "2 Nephi 2:17",
+     "2 Nephi 24:15"
+    ],
+    "provenance": {
+     "route": "Isaiah 14:15 → KJV → Book of Mormon",
+     "alternative": "Matthew 11:23 has the identical clause; mediation-check.py reports no decisive divergence, and the case for Isaiah rests on recurrence within the discourse rather than on wording.",
+     "significance": "Isaiah 14 brackets Lehi's account of the devil. Verse 12 opens it — the angel “fallen from Heaven” at 2:17 — and verse 15 closes it here, thirteen verses later. But the two ends are not used the same way. In Isaiah, being brought down to hell is what happens *to* Lucifer; in Lehi it is what Lucifer does to you, “that he may reign over you in his own kingdom.” The taunt-song's sentence on the tyrant becomes the tyrant's own instrument, and the kingdom Isaiah's king lost is the kingdom Lehi's devil rules."
+    },
+    "note": "“Brought down to hell” occurs in exactly two KJV verses, Isaiah 14:15 and Matthew 11:23, which is Christ applying Isaiah's taunt to Capernaum. tools/mediation-check.py finds no decisive divergence between them at any point Lehi reproduces, so this verse cannot settle its own source on wording. Recurrence settles it instead: Lehi has already quoted Isaiah 14:12 at v. 17, naming it as something he has read, and this book transcribes the whole chapter at 2 Nephi 24. Isaiah 14 is a text demonstrably in front of him; Matthew is not established anywhere in the discourse.",
+    "whyNot": "No wording distinguishes Isaiah 14:15 from Matthew 11:23 here, and the argument is entirely one of which text the discourse has established. A reader who declines the recurrence argument is left with a genuine two-way tie.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "manual"
+    ]
+   }
+  ],
+  "2:30": [
+   {
+    "source": "Luke 10:42",
+    "type": "allusion",
+    "subtype": "close-verbal",
+    "confidence": "high",
+    "text": "But one thing is needful: and Mary hath chosen that good part, which shall not be taken away from her.",
+    "evidence": {
+     "vocabulary": 4,
+     "syntax": 4,
+     "sequence": 3,
+     "context": 5,
+     "rarity": 5,
+     "attestation": 3
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "provenance": {
+     "route": "Luke 10:42 → KJV → Book of Mormon",
+     "other": "The attribution formula is Lehi's own; the KJV contains no prophetic saying about a good part. See CONVENTIONS §3a on availability: the anachronism is the finding, not an objection to it.",
+     "significance": "This is the chapter's purest instance of the inverted availability criterion, and it is worth the whole verse. Recover Luke 10:42 and what Mary chose was to sit at Jesus' feet and hear his word instead of serving — and Lehi, in the last days of his probation, says he has chosen it, at the end of a chapter in which he has done nothing but talk while his sons sat and listened. The commendation of hearing over doing is spoken by a dying man to the sons who must now do. Luke's next clause, “which shall not be taken away from her,” is answered in Lehi's next: “the everlasting welfare of your souls.” Neither text says any of this. The link says it — and it says it on a saying that, on the book's own chronology, no one had yet spoken."
+    },
+    "note": "“Good part” occurs in exactly one KJV verse, and the phrase there is “chosen that good part” — the whole of Lehi's “I have chosen the good part,” with the demonstrative traded for an article. Four words from a singleton, in the same construction with the same verb. What makes the row is the clause Lehi attaches to it: “according to the words of the prophet.” The words are not a prophet's. They are Jesus' at Bethany, about Mary, in a Gospel, and no prophet in the KJV says anything of the kind.",
+    "bibliography": [
+     "Hardy MSI at 2 Ne 2.30 (Luke 10:42)"
+    ],
+    "status": "majority",
+    "streams": [
+     "manual"
+    ]
+   }
+  ]
+ }
+}

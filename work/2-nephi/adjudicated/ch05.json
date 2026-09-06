@@ -1,0 +1,660 @@
+{
+  "chapter": 5,
+  "adjudicated": "2026-09-05",
+  "adjudicator": "Opus",
+  "links": {
+    "5:2": [
+      {
+        "source": "Psalm 31:13",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "recurrenceRefs": [
+          "1 Nephi 7:16",
+          "1 Nephi 7:19",
+          "2 Nephi 5:4",
+          "2 Nephi 5:19"
+        ],
+        "provenance": {
+          "route": "Psalm 31:13 → KJV → Book of Mormon",
+          "other": "“to take away my life” occurs in exactly one KJV verse, Psalm 31:13. The near neighbours are 1 Kings 19:4, where Elijah asks God to take away his own life, and 1 Kings 19:10 and 19:14, where the clause is inverted — “they seek my life, to take it away.” Only the Psalm has the Book of Mormon's word order, and only the Psalm has it as the design of many against one.",
+          "significance": "Psalm 31:13 is a conspiracy verse: “I have heard the slander of many: fear was on every side: while they took counsel together against me, they devised to take away my life.” Recover that context and the three elements of 2 Nephi 5:2-4 are already assembled in it — the slander (Nephi's “all the words which they murmured against me”, which he declines to write down), the taking of counsel together (5:3's speech in the brothers' own mouths), and the design on the life. The Psalm continues, at 31:22, “I said in my haste, I am cut off from before thine eyes”, which is the sentence the chapter passes on the brothers at 5:20 in the KJV's other idiom. The catalogue does not press that second contact into a link, but the Psalm is plainly in the room."
+        },
+        "note": "“Insomuch that they did seek to take away my life.” Five words verbatim from the KJV's only occurrence of the clause, repeated at 5:4 and again at 5:19 — three times in one chapter, which is the pattern of a phrase the writer has to hand rather than one he reaches for. Well below Skousen's sixteen-word threshold and not one of his quotations. The clause entered the corpus at 1 Nephi 7:16 and 7:19, where it was adjudicated to Genesis 37:20 on the strength of the plot rather than the words; the words are Psalm 31:13's, and this is the first place in a new book where they carry the sentence on their own.",
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "bibliography": [],
+        "text": "For I have heard the slander of many: fear was on every side: while they took counsel together against me, they devised to take away my life."
+      }
+    ],
+    "5:3": [
+      {
+        "source": "Genesis 37:20",
+        "type": "quotation",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 1
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Genesis 37:8"
+        ],
+        "recurrenceRefs": [
+          "1 Nephi 7:16"
+        ],
+        "provenance": {
+          "route": "Genesis 37:8, 37:20 → KJV → Book of Mormon",
+          "other": "“let us slay him” occurs in exactly one KJV verse, Genesis 37:20. Genesis 37:8 supplies the other half of the sentence in the KJV's own idiom — “Shalt thou indeed reign over us? or shalt thou indeed have dominion over us?” — though the Book of Mormon's verb is “rule”, which is not Genesis's word here.",
+          "significance": "The Joseph cycle has been running since 1 Nephi 3:2 and was made a genealogy at 1 Nephi 5:14; 2 Nephi 3 has just spent a whole chapter on Joseph who was sold into Egypt. Here the cycle reaches the pit, and the Book of Mormon does what Genesis does not: it puts the two speeches together. Genesis 37:8 is the brothers' objection to the dream, thirteen verses before Genesis 37:20 is their plan for the dreamer; 2 Nephi 5:3 runs them into a single sentence, resentment of rule and resolution to kill, with the grievance Genesis leaves to the narrator — “it belongeth unto us, which are the elder brethren” — stated by the brothers themselves."
+        },
+        "note": "“Our younger brother thinketh to rule over us … wherefore, now let us slay him.” Four words verbatim from the KJV's sole occurrence, and in the setting that produced them: elder brothers, a younger brother who presumes to rule, a resolution to kill. 1 Nephi 7:16 gave the plan of Genesis 37:20 without reproducing any of its wording; this verse reproduces the wording, which is why it is catalogued as a quotation despite running to only four words and falling far below Skousen's threshold.",
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "bibliography": [],
+        "text": "Come now therefore, and let us slay him, and cast him into some pit, and we will say, Some evil beast hath devoured him: and we shall see what will become of his dreams."
+      },
+      {
+        "source": "Acts 7:27",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 1
+        },
+        "kjvSpecific": "yes",
+        "mediation": "OT-via-NT",
+        "composite": [
+          "Exodus 2:14",
+          "Acts 7:35"
+        ],
+        "recurrenceRefs": [
+          "1 Nephi 2:22",
+          "1 Nephi 3:29",
+          "1 Nephi 16:37"
+        ],
+        "provenance": {
+          "mt": "Exodus 2:14 — “Who made thee a prince and a judge over us?”",
+          "route": "Exodus 2:14 → Acts 7:27, 7:35 → KJV → Book of Mormon",
+          "other": "“a ruler and a judge” occurs in exactly two KJV verses, Acts 7:27 and Acts 7:35; “a prince and a judge” occurs in exactly one, Exodus 2:14, which is the same question in the KJV's Old Testament form. The Book of Mormon's noun has been “ruler” at 1 Nephi 2:22, 3:29 and 16:37, and is “ruler” twice more in this chapter, at 5:3 and 5:19.",
+          "significance": "The formula crosses a book boundary here and does so in the mouths that Stephen wrote it for. 1 Nephi 16:37 was the sneer as a capital charge — “our brother Nephi, who hath taken it upon him to be our ruler and our teacher” — and 2 Nephi 5:3 is the same charge with the clause Acts leaves implicit made explicit: not merely that he is not their ruler but that the office belongs by right to the elder. That is the exact grievance of Acts 7:27's “he that did his neighbour wrong thrust him away”, and the whole point of Stephen's speech is that the refused man was the appointed one, which 5:19 goes on to say in as many words."
+        },
+        "note": "“For behold, we will not that he shall be our ruler.” The noun identifies the New Testament form of a question the Old Testament asks with “prince” (Exodus 2:14). Not a reproduced clause but a redeployment, and the fourth in the corpus; the argument for the mediation was made at 1 Nephi 2:22 and is not restated here. What is new is that the sneer and its answer are now split across one chapter, 5:3 against 5:19, which is Acts 7:27 against Acts 7:35.",
+        "status": "consensus",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "bibliography": [],
+        "text": "But he that did his neighbour wrong thrust him away, saying, Who made thee a ruler and a judge over us?"
+      }
+    ],
+    "5:5": [
+      {
+        "source": "Matthew 2:13",
+        "type": "echo",
+        "subtype": "probable",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 4,
+          "context": 4,
+          "rarity": 3,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Matthew 2:12",
+          "Matthew 2:14"
+        ],
+        "provenance": {
+          "route": "Matthew 2:12-14 → KJV → Book of Mormon",
+          "other": "“flee into” occurs in exactly three KJV verses, Exodus 9:20, Matthew 2:13 and Matthew 24:16. “warned of God” occurs in exactly three, Matthew 2:12, Matthew 2:22 and Hebrews 11:7. Matthew 2 is the only chapter in the Bible that holds both.",
+          "significance": "The sequence is Matthew's and not the Old Testament's: a divine warning, a departure from those who mean to kill, a flight, and the taking of a household along. Matthew 2:13 gives the reason as “Herod will seek the young child to destroy him”, which is what 5:2 and 5:4 have just said twice. The Exodus frame the book usually reaches for supplies a flight from Egypt; Matthew supplies a flight of one family out of a hostile kindred, which is the shape of this chapter."
+        },
+        "note": "“The Lord did warn me, that I, Nephi, should depart from them, and flee into the wilderness.” Warn, depart, flee, take the family: four verbs in Matthew's order, and the KJV keeps “warned of God” and “flee into” to three verses each, two of the first and one of the second being Matthew 2. 1 Nephi 2:2-4 told the same story of Lehi without any of this vocabulary, which is what makes the wording here worth noticing.",
+        "whyNot": "No clause is reproduced, and each of the four verbs is ordinary English. The case rests on the sequence and on two moderately rare collocations, not on verbal volume; a reader who declines it is declining a pattern, not a quotation.",
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "bibliography": [],
+        "text": "And when they were departed, behold, the angel of the Lord appeareth to Joseph in a dream, saying, Arise, and take the young child and his mother, and flee into Egypt, and be thou there until I bring thee word: for Herod will seek the young child to destroy him."
+      }
+    ],
+    "5:10": [
+      {
+        "source": "1 Kings 2:3",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Luke 2:39",
+          "Deuteronomy 28:15"
+        ],
+        "provenance": {
+          "route": "1 Kings 2:3 → KJV → Book of Mormon",
+          "other": "1 Kings 2:3 is the only KJV verse that holds statutes, commandments, judgments and the law of Moses together, and the only KJV verse that holds the law of Moses and prospering together. “all things according to the law” occurs in exactly one KJV verse, Luke 2:39, which supplies the Book of Mormon's “in all things, according to the law of Moses” in the KJV's own words with a different genitive.",
+          "significance": "This is the chapter's hinge, and it decides 5:16. 1 Kings 2:3 is David's dying charge to Solomon: keep the statutes and the commandments and the judgments as it is written in the law of Moses, “that thou mayest prosper in all that thou doest.” 2 Nephi 5:10-11 keeps them and prospers, in that order and in that causal relation, and six verses later builds a temple after the manner of Solomon's. The Solomon of 5:16 is not fetched from 1 Kings 6; he is already present at 5:10, in the verse where a founder is told what to keep in order to prosper and to build. Recover the rest of the charge and the fit is closer still: what David is preparing Solomon for at 1 Kings 2:3 is the throne and the house, and what 2 Nephi 5 is narrating is a man who takes the second and refuses the first (5:18)."
+        },
+        "note": "“And we did observe to keep the judgments, and the statutes, and the commandments of the Lord, in all things, according to the law of Moses.” Three of the four nouns of 1 Kings 2:3 and its concluding appeal to the law of Moses, followed immediately by its promised outcome — the KJV's clause is “that thou mayest prosper”, and 5:11 is “we did prosper exceedingly.” Deuteronomy supplies the same triad repeatedly but never with the law of Moses attached, and Deuteronomy 28:15's “to observe to do all his commandments and his statutes” is the source of the Book of Mormon's verb “observe” rather than of the list; that verse returns at 5:20-21 for the other half of its sentence.",
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "bibliography": [],
+        "text": "And keep the charge of the LORD thy God, to walk in his ways, to keep his statutes, and his commandments, and his judgments, and his testimonies, as it is written in the law of Moses, that thou mayest prosper in all that thou doest, and whithersoever thou turnest thyself:"
+      }
+    ],
+    "5:11": [
+      {
+        "source": "Genesis 39:23",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Genesis 39:2",
+          "Genesis 39:3"
+        ],
+        "provenance": {
+          "route": "Genesis 39:2-3, 39:23 → KJV → Book of Mormon",
+          "other": "“made it to prosper” occurs in exactly one KJV verse, Genesis 39:23. “The LORD was with” occurs in eighteen and cannot identify a source on its own; what narrows it is the pairing with prospering, which the KJV makes four times and three of them in Genesis 39. Genesis 26:12 offers the other candidate frame — Isaac sows in the land of those who envied him and receives a hundredfold — but its wording (“sowed in that land”) is not the Book of Mormon's.",
+          "significance": "Genesis 39 is what happens to Joseph after the pit. The Book of Mormon quoted the pit four verses earlier at 5:3 and now takes the sequel from eleven verses on in the same story: the brothers plot, the younger brother is separated from them, and the refrain of the separated life is that the LORD was with him and made what he did prosper. Nephi's people are named at 5:9 and prosper at 5:11 in Joseph's formula; the brothers are named Lamanites at 5:14 and cursed at 5:21. Genesis never says the two halves belong together — it simply narrates them in order, which is what this chapter does."
+        },
+        "note": "“And the Lord was with us; and we did prosper exceedingly: for we did sow seed, and we did reap again in abundance.” The KJV's collocation of the LORD's presence with prospering is concentrated in Genesis 39, where it is the whole account of Joseph in exile, and “made it to prosper” is that chapter's own singleton. The 1830 text has “prosper exceedingly” twice in three verses (5:11, 5:13), which is the refrain doing what a refrain does.",
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "bibliography": [],
+        "text": "The keeper of the prison looked not to any thing that was under his hand; because the LORD was with him, and that which he did, the LORD made it to prosper."
+      }
+    ],
+    "5:15": [
+      {
+        "source": "Exodus 31:5",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Exodus 31:3",
+          "Exodus 31:4",
+          "Exodus 35:31"
+        ],
+        "provenance": {
+          "route": "Exodus 31:3-5 → KJV → Book of Mormon",
+          "other": "“work in all manner of” occurs in exactly one KJV verse, Exodus 31:5. “in all manner of workmanship” occurs in exactly three, Exodus 31:3, 31:5 and 35:31, all of them the commissioning of Bezalel. Exodus 31:4's list — “to work in gold, and in silver, and in brass” — is the KJV's other contribution; 2 Chronicles 2:14's longer list of the same metals for Solomon's temple has none of the Book of Mormon's syntax.",
+          "significance": "This is the finding the temple verse depends on. 5:15 and 5:16 are one movement — teach the people to work in metals, then build a sanctuary — and the KJV passage that moves that way is Exodus 31, where the spirit of God fills a craftsman with wisdom and knowledge and all manner of workmanship so that the tabernacle can be made. So the sanctuary of 5:16 is named for Solomon and worded from Moses: the label comes from 1 Kings and the language comes from the tabernacle texts. That is a coherent thing for this book to do — 5:10 has just said the people keep the law of Moses — but it is not what a reader of 5:16 would predict."
+        },
+        "note": "“And that they should work in all manner of wood, and of iron, and of copper, and of brass, and of steel, and of gold, and of silver.” The five-word run is a KJV singleton and belongs to Bezalel, whose commission is to work in gold and silver and brass, to cut stones and carve timber, in all manner of workmanship. The Book of Mormon's list adds copper and steel, neither of which the KJV names as a worked metal in a sanctuary context, and reverses the KJV's order by putting wood first — which is Exodus 31:5's order of operations rather than 31:4's list.",
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ],
+        "bibliography": [],
+        "text": "And in cutting of stones, to set them, and in carving of timber, to work in all manner of workmanship."
+      }
+    ],
+    "5:16": [
+      {
+        "source": "1 Kings 6:2",
+        "type": "figural",
+        "subtype": "structural",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 1,
+          "syntax": 1,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 1,
+          "attestation": 1
+        },
+        "kjvSpecific": "no",
+        "mediation": "direct-OT",
+        "composite": [
+          "1 Kings 6:14"
+        ],
+        "provenance": {
+          "route": "1 Kings 6 → (as a named referent, not a quoted text) → Book of Mormon",
+          "other": "Neither “the temple of Solomon” nor “after the manner of the temple” occurs in any KJV verse. The KJV's own designation is “the house which king Solomon built for the LORD” (1 Kings 6:2) and “the house of the LORD”; “Solomon's temple” is the phrase of later English usage, not of the translation the rest of this chapter is following. 1 Chronicles 29:2's “all manner of precious stones … in abundance” is the closest KJV wording to 5:16's “so many precious things”, and shares no distinctive run with it.",
+          "significance": "The verse names its source instead of using it, and that is the observation worth publishing. Everything verbal in the temple-building movement comes from Exodus 31 (see 5:15); 1 Kings 6-7 contributes the proper noun and nothing else — no cubits, no cedar, no cherubim, no “house of the LORD”. What the verse does with the name is argue from it in the negative: the temple is like Solomon's in manner of construction and unlike it in materials, which is a comparison a reader could only make from the outside of 1 Kings, from the general reputation of Solomon's temple for gold and precious stones rather than from its text."
+        },
+        "note": "“I did construct it after the manner of the temple of Solomon, save it were not built of so many precious things.” Catalogued as figural because there is nothing here to test: the KJV does not use the phrase “the temple of Solomon”, and the verse borrows no clause, measurement or furnishing from 1 Kings 6-7. What it borrows is a reputation. The link is recorded so that a reader who comes to this verse expecting 1 Kings is told plainly where the chapter's temple language actually comes from, which is Exodus 31 one verse earlier.",
+        "whyNot": "No verbal contact of any kind with 1 Kings 6-7, and the designation the verse uses is not the KJV's. If the standard is dependence on a text rather than reference to a building, this row does not meet it, and it would be withdrawn if the catalogue decided that a named referent without wording is not a link.",
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "bibliography": [],
+        "text": "And the house which king Solomon built for the LORD, the length thereof was threescore cubits, and the breadth thereof twenty cubits, and the height thereof thirty cubits."
+      }
+    ],
+    "5:18": [
+      {
+        "source": "Judges 8:23",
+        "type": "allusion",
+        "subtype": "conceptual",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 1
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Judges 8:22",
+          "1 Samuel 8:5",
+          "1 Samuel 8:7"
+        ],
+        "provenance": {
+          "route": "Judges 8:22-23 → KJV → Book of Mormon",
+          "other": "“Rule thou over us” occurs in exactly one KJV verse, Judges 8:22, and “I will not rule over you” in exactly one, Judges 8:23. “make us a king” occurs in exactly one, 1 Samuel 8:5. Those three verses are the whole KJV inventory of a people offering rule to a deliverer and of a deliverer or prophet resisting it.",
+          "significance": "Two episodes stand behind the verse and they say opposite things, which is why the Book of Mormon's version is worth reading closely. Gideon refuses because “the LORD shall rule over you”, and the refusal is honoured; Israel demands a king in 1 Samuel 8 and the demand is a rejection of God, granted in anger. 2 Nephi 5:18 takes Gideon's answer and 1 Samuel's grammar — the people “would that I should be their King”, as Israel would — and then does what neither passage does: Nephi neither rules as king nor stands aside, but “did do for them according to that which was in my power.” Read against 5:3, the refusal is also an answer to the brothers: the office they killed for is the office he declines."
+        },
+        "note": "“And it came to pass that they would that I should be their King. But I, Nephi, was desirous that they should have no King.” The KJV has exactly one scene of a people pressing rule on the man who delivered them and exactly one refusal of it, and they are adjacent verses. The Book of Mormon reproduces no clause from either, but the shape — offer, refusal, continued rule in fact if not in name — is Judges 8:22-23's and nothing else in the KJV's. The 1830 text capitalizes “King” at both occurrences, as the KJV does not; 1920 lowercases it.",
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "bibliography": [],
+        "text": "And Gideon said unto them, I will not rule over you, neither shall my son rule over you: the LORD shall rule over you."
+      }
+    ],
+    "5:19": [
+      {
+        "source": "Acts 7:35",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 1
+        },
+        "kjvSpecific": "yes",
+        "mediation": "OT-via-NT",
+        "composite": [
+          "Exodus 2:14",
+          "Acts 7:27"
+        ],
+        "recurrenceRefs": [
+          "1 Nephi 2:22",
+          "1 Nephi 3:29",
+          "1 Nephi 16:37",
+          "2 Nephi 5:3"
+        ],
+        "provenance": {
+          "mt": "Exodus 2:14 — “Who made thee a prince and a judge over us?”",
+          "route": "Exodus 2:14 → Acts 7:35 → KJV → Book of Mormon",
+          "other": "“a ruler and a judge” occurs in exactly two KJV verses, Acts 7:27 and Acts 7:35, against exactly one for the Old Testament's “a prince and a judge” at Exodus 2:14; and Acts 7:35 is the only KJV verse in which the refused man is said to have been sent as ruler nonetheless. The Book of Mormon's noun has been “ruler” at every occurrence since 1 Nephi 2:22.",
+          "significance": "This is metalepsis of a strict kind, and it runs across sixteen verses. Acts 7:35 is Stephen's answer to Acts 7:27: “This Moses whom they refused, saying, Who made thee a ruler and a judge? the same did God send to be a ruler and a deliverer.” 2 Nephi 5:3 is the refusal, in the brothers' mouths and with the elder-brother grievance stated; 2 Nephi 5:19 is the answer, in the same terms and the same order — the man they refused had been their ruler all along, by the Lord's word, “until the time that they sought to take away my life.” Neither text says the Lamanite separation is the Exodus rejection of Moses. The pairing says it, and it says it in the noun."
+        },
+        "note": "“The words of the Lord had been fulfilled unto my brethren, which he spake concerning them, that I should be their ruler and their teacher.” The promise of 1 Nephi 2:22 declared fulfilled, and the mediation argued there governs here: the KJV Old Testament asks the question with “prince”, Acts with “ruler”, and the Book of Mormon has read “ruler” throughout. What this verse adds is Acts 7:35's structure — refusal answered by vindication — laid over 5:3 and 5:19 as the frame of the whole separation. The verse ends with the chapter's third use of Psalm 31:13's clause (see 5:2).",
+        "status": "consensus",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "bibliography": [],
+        "text": "This Moses whom they refused, saying, Who made thee a ruler and a judge? the same did God send to be a ruler and a deliverer by the hand of the angel which appeared to him in the bush."
+      }
+    ],
+    "5:20": [
+      {
+        "source": "Joshua 1:18",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Deuteronomy 28:15"
+        ],
+        "provenance": {
+          "route": "Joshua 1:18 → KJV → Book of Mormon",
+          "other": "“hearken unto thy words” occurs in exactly one KJV verse, Joshua 1:18, and this is its first appearance anywhere in the Book of Mormon. Deuteronomy 28:15 supplies the same condition in the covenant's own formula — “if thou wilt not hearken unto the voice of the LORD thy God” — with the second person pointed at God rather than at a man.",
+          "significance": "Joshua 1:18 is the oath the tribes swear to Moses's successor: whoever rebels against thy commandment and will not hearken unto thy words shall be put to death. The Book of Mormon takes that sentence and changes only the penalty — not death but being cut off from the presence of the Lord — which is precisely the substitution the covenant curse makes at Deuteronomy 28. Note what this does to the succession question the chapter is arguing: 1 Nephi 2:21 conditioned the sentence on rebellion against Nephi, and 5:20 restates it as failure to hearken to his words, which is Joshua's wording for the authority of the man who takes the prophet's place."
+        },
+        "note": "“That inasmuch as they will not hearken unto thy words, they shall be cut off from the presence of the Lord.” The chapter presents this as a quotation of what the Lord had said to Nephi, and the 1 Nephi wording it points back to (2:21) reads “rebel against thee”, not “hearken unto thy words”. The new clause is a KJV singleton, and its verse contains “rebel against thy commandment” as well — so the restatement is not a slip of memory but a second borrowing from the same verse of Joshua. The n-gram stream ranked Joshua 1:18 first here, which is one of the few places in this chapter where it was right.",
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ],
+        "bibliography": [],
+        "text": "Whosoever he be that doth rebel against thy commandment, and will not hearken unto thy words in all that thou commandest him, he shall be put to death: only be strong and of a good courage."
+      },
+      {
+        "source": "Genesis 4:16",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 1
+        },
+        "kjvSpecific": "yes",
+        "mediation": "OT-via-earlier-BoM",
+        "recurrenceRefs": [
+          "1 Nephi 2:21",
+          "1 Nephi 8:36"
+        ],
+        "provenance": {
+          "route": "Genesis 4:16 → KJV → 1 Nephi 2:21 → 2 Nephi 5:20",
+          "other": "“From the presence of the LORD/Lord” occurs in exactly eight KJV verses; Genesis 4:16 is the only one where the departure is a sentence passed on a brother. The argument was made at 1 Nephi 2:21 and is not remade here.",
+          "significance": "The mediation is the point of the row. 2 Nephi 5:20 is not reaching for Genesis; it is declaring a Book of Mormon prophecy fulfilled, and the words it repeats are the words 1 Nephi 2:21 had already taken from Cain. What follows in the next verse — a curse, and a mark set on the cursed so that others may know them — is the rest of Genesis 4, arriving in the Book of Mormon's own vocabulary rather than the KJV's. So the Cain frame reaches this chapter through the corpus, not through the Bible, and the chapter's most consequential sentence sits inside it."
+        },
+        "note": "“And behold, they were cut off from his presence.” The clause is quoted from 1 Nephi 2:21 rather than from Genesis, which is what the fulfilment formula around it says it is doing: “the word of the Lord was fulfilled which he spake unto me.” Recorded as OT-via-earlier-BoM for that reason, with the Genesis 4:16 case argued at its first occurrence.",
+        "status": "consensus",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "bibliography": [],
+        "text": "And Cain went out from the presence of the LORD, and dwelt in the land of Nod, on the east of Eden."
+      }
+    ],
+    "5:21": [
+      {
+        "source": "Deuteronomy 28:20",
+        "type": "allusion",
+        "subtype": "conceptual",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 3,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "OT-via-earlier-BoM",
+        "composite": [
+          "Deuteronomy 28:15",
+          "Deuteronomy 28:45"
+        ],
+        "recurrenceRefs": [
+          "1 Nephi 2:23"
+        ],
+        "provenance": {
+          "route": "Deuteronomy 28:15-45 → KJV → 1 Nephi 2:23 → 2 Nephi 5:21",
+          "other": "“The LORD shall send upon thee cursing” occurs in exactly one KJV verse, Deuteronomy 28:20, which is also the KJV's only use of “cursing” as the thing sent upon a people. “curses shall come upon thee” occurs in exactly two, Deuteronomy 28:15 and 28:45, both conditioned on not hearkening — which is the condition 5:20 has just stated. “a sore curse” and “a sore cursing” occur in no KJV verse; the phrase is 1 Nephi 2:23's.",
+          "significance": "Deuteronomy 28 is the chapter's silent structure, and it is present in both directions. 5:10 keeps the statutes and the commandments and prospers, which is Deuteronomy 28:1-14; 5:20-21 will not hearken and the cursing comes, which is Deuteronomy 28:15-68. The Book of Mormon's innovation is not the curse but its medium: Deuteronomy's curses are botch and blindness and madness, agricultural failure and exile, and none of them is a change of appearance."
+        },
+        "note": "“And he had caused the cursing to come upon them, yea, even a sore cursing, because of their iniquity.” The noun “cursing”, the causal “because of”, and the coming-upon are Deuteronomy 28's, and the condition attached in 5:20 is Deuteronomy 28:15's. But the intensifier is the corpus's own: “a sore curse” is 1 Nephi 2:23, not a KJV phrase, and this verse inflects it to “a sore cursing” to match Deuteronomy's noun. Recorded as mediated through 1 Nephi 2:23 for that reason.",
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "bibliography": [],
+        "text": "The LORD shall send upon thee cursing, vexation, and rebuke, in all that thou settest thine hand unto for to do, until thou be destroyed, and until thou perish quickly; because of the wickedness of thy doings, whereby thou hast forsaken me."
+      },
+      {
+        "source": "Zechariah 7:12",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Isaiah 50:7",
+          "Ezekiel 3:9",
+          "1 Samuel 6:6"
+        ],
+        "provenance": {
+          "route": "Zechariah 7:12 (sense) + Isaiah 50:7 (wording) → KJV → Book of Mormon",
+          "other": "“like a flint” occurs in exactly one KJV verse, Isaiah 50:7. “as an adamant” occurs in exactly two, Ezekiel 3:9 and Zechariah 7:12, and only Zechariah's is a hardened heart. “hardened their hearts” occurs in exactly one KJV verse, 1 Samuel 6:6, of the Egyptians and Pharaoh.",
+          "significance": "The verse is built from two KJV places that mean opposite things, and the second is one the Book of Mormon transcribes in full two chapters later. Isaiah 50:7 is the servant's steadfastness — “therefore have I set my face like a flint, and I know that I shall not be ashamed” — and 2 Nephi 7:7 reproduces it verbatim. Here the same simile is turned into the figure for a heart that will not hear, which is Zechariah 7:12's adamant. So the chapter's curse verse borrows the resolve of the servant and assigns it to the rebels; a reader who has the whole book in view meets the phrase again, sixty verses on, doing the opposite work. Whether that is design or reuse the catalogue cannot say, but the collision is exact and the KJV offers the simile nowhere else."
+        },
+        "note": "“They had hardened their hearts against him, that they had become like unto a flint.” Two rare KJV collocations in one clause. The hardened heart made mineral is Zechariah 7:12's “they made their hearts as an adamant stone, lest they should hear the law, and the words which the LORD of hosts hath sent … by the former prophets”, which is the sense exactly, down to the refusal being of a prophet's words (5:20). The mineral itself is Isaiah 50:7's flint, the KJV's only one, and Ezekiel 3:9 is the verse that joins flint to adamant. “Hardened their hearts” is itself a singleton, and it is Pharaoh's.",
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "bibliography": [],
+        "text": "Yea, they made their hearts as an adamant stone, lest they should hear the law, and the words which the LORD of hosts hath sent in his spirit by the former prophets: therefore came a great wrath from the LORD of hosts."
+      },
+      {
+        "source": "Acts 7:20",
+        "text": "In which time Moses was born, and was exceeding fair, and nourished up in his father’s house three months:",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 2,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Malachi 3:12"
+        ],
+        "recurrenceRefs": [
+          "2 Nephi 5:3",
+          "2 Nephi 5:19"
+        ],
+        "provenance": {
+          "route": "Acts 7:20 → KJV → Book of Mormon (1830)",
+          "other": "“exceeding fair” occurs in exactly one KJV verse, Acts 7:20, of the infant Moses. “delightsome” occurs in exactly one KJV verse, Malachi 3:12, and 2 Nephi 5:21 is the word's first appearance in the Book of Mormon. The first is visible only in the earlier editions: 1830 and 1920 both read “exceeding fair and delightsome”, and the current text reads “exceedingly”, which breaks the phrase — no KJV verse has “exceedingly fair”. Against that, no KJV verse contains “skin of blackness”, or “a skin of” in any form, or any phrase making blackness of skin a thing God causes — see the exclusions filed at this verse.",
+          "significance": "Two KJV singletons meet in one clause, and one of them belongs to a speech this chapter has already used twice. Acts 7:20 is the third borrowing from Stephen in 2 Nephi 5, after Acts 7:27 at 5:3 and Acts 7:35 at 5:19, and it is the verse where Moses is born “exceeding fair” — the beauty that moves Pharaoh's daughter to save him, in the KJV's only use of the phrase. 2 Nephi 5:21 takes it for the appearance that is about to be removed. So the chapter's most consequential sentence is built, at the level of its adjectives, out of the same Acts 7 that supplies its account of rejected leadership; and Malachi's “delightsome”, the KJV's only occurrence, is a promise of restoration (“all nations shall call you blessed”) borrowed to name what a curse takes away. The verbs of the curse itself borrow nothing. That is the honest result of the search on this verse: where readers most want to know whether the Book of Mormon is following the KJV's English, the answer is that it is, for the condition being lost, and is not, for the thing imposed."
+        },
+        "note": "“As they were white, and exceeding fair and delightsome.” Two adjectival phrases, each a KJV singleton, in eight words; the odds of that pairing arising without the KJV are poor. The link rests on the running text and is invisible in the current edition, which reads “exceedingly” and so breaks the contact with Acts 7:20; 1830 and 1920 both read “exceeding”, so this is a modern correction away from the KJV rather than the 1920 revision — the sort of case CONVENTIONS §8 exists for. Nothing else in the clause is traceable: the KJV joins skin to blackness only at Job 30:30 and Lamentations 4:8 and 5:10, in none of which it is inflicted (Leviticus 13:31 has both words, of hair in a plague-spot), and Jeremiah 13:23's Ethiopian is an emblem of what cannot be changed rather than of what God changes.",
+        "whyNot": "“Exceeding” as an intensifier is ordinary KJV usage and “fair” is a common word; the singleton is a collocation, not a distinctive lexeme, and a reader may hold that the two words met by accident. The Acts 7 context (an infant's beauty) has no relation to a people's complexion except through the metalepsis argued above.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "5:23": [
+      {
+        "source": "Ezra 9:2",
+        "type": "allusion",
+        "subtype": "conceptual",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 2,
+          "sequence": 3,
+          "context": 4,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "uncertain",
+        "mediation": "direct-OT",
+        "composite": [
+          "Deuteronomy 28:18",
+          "Daniel 2:43"
+        ],
+        "provenance": {
+          "route": "Ezra 9:2 → KJV → Book of Mormon",
+          "other": "“mingled themselves” occurs in exactly one KJV verse, Ezra 9:2, where “the holy seed have mingled themselves with the people of those lands”; “mingle themselves with the seed” occurs in exactly one, Daniel 2:43. “Cursed shall be” occurs in exactly two, Deuteronomy 28:17 and 28:18, both of them covenant curses on what a body and a land produce. The Book of Mormon's verb, “mixeth”, occurs in no KJV verse at all.",
+          "significance": "Ezra 9 is the KJV's one passage in which intermarriage defiles a seed rather than merely a household, and it is a priest's confession, not a divine oracle; Daniel 2:43 is the one place where mingled seed is prophesied and its result is that “they shall not cleave one to another.” 2 Nephi 5:23 does what neither does: it extends the curse of 5:21 forward by descent, so that the mark is inherited through marriage. Deuteronomy 28's “cursed shall be the fruit of thy body” is the formula for that, and this verse is its application to a specific other people."
+        },
+        "note": "“And cursed shall be the seed of him that mixeth with their seed: for they shall be cursed even with the same cursing.” The formula is Deuteronomy 28:17-18's, the seed-mingling is Ezra 9:2's, and the verb belongs to neither — the KJV never writes “mixeth”, and where it mixes seed at all (Leviticus 19:19's mingled seed of a field) the subject is agriculture. Recorded at moderate: the sense is Ezra's and the wording is only partly the KJV's.",
+        "whyNot": "No clause is reproduced from any of the three candidates, and the idea of a curse passing by intermarriage is common enough in English religious usage that it need not come from a particular verse.",
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "bibliography": [],
+        "text": "For they have taken of their daughters for themselves, and for their sons: so that the holy seed have mingled themselves with the people of those lands: yea, the hand of the princes and rulers hath been chief in this trespass."
+      }
+    ],
+    "5:24": [
+      {
+        "source": "Acts 13:10",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 1
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "recurrenceRefs": [
+          "1 Nephi 13:27"
+        ],
+        "provenance": {
+          "route": "Acts 13:10 → KJV → Book of Mormon",
+          "other": "“full of all subtilty” occurs in exactly one KJV verse and “subtilty and all mischief” in exactly one, both of them Acts 13:10. The KJV pairs the two nouns nowhere else: “mischief” is spread over forty-nine KJV verses and “subtilty” over six, and they meet only here. The 1830 text spells the second word “subtlety”, which is not the KJV's spelling in this verse; 1 Nephi 13:27 took its clause from the other end of the same verse.",
+          "significance": "Acts 13:10 is Paul's sentence on Elymas the sorcerer, and what follows it is a curse of darkness: “thou shalt be blind, not seeing the sun for a season. And immediately there fell on him a mist and a darkness.” 2 Nephi 5:24 stands three verses after a divine darkening of a people, and reaches for the KJV verse whose sequel is exactly that — an opposer of the Lord's messengers, named full of subtilty and mischief, struck in the body so that others may see it. The metalepsis is uncomfortable and it is the point: the chapter's account of the curse is worded, at its last stage, out of the New Testament's one story of a man cursed with darkness for resisting a missionary. Note that Acts 13:11 supplies “a mist and a darkness”, which is the phrase 1 Nephi's “mist of darkness” has already drawn on from 2 Peter 2:17."
+        },
+        "note": "“They did become an idle people, full of mischief and subtlety, and did seek in the wilderness for beasts of prey.” The pairing is a KJV singleton and the Book of Mormon has been to this verse before, taking “pervert the right ways of the Lord” at 1 Nephi 13:27. Across a book boundary the row is written again rather than cross-referenced, because the clause borrowed is a different one. The rest of the verse has no KJV wording: “beasts of prey” is in no KJV verse, and the idleness that hunts rather than sows is the chapter's own inversion of 5:11 — the two peoples divide as Genesis 25:27 divides Esau, “a cunning hunter, a man of the field”, from Jacob dwelling in tents, though not a word of that verse is here.",
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "bibliography": [],
+        "text": "And said, O full of all subtilty and all mischief, thou child of the devil, thou enemy of all righteousness, wilt thou not cease to pervert the right ways of the Lord?"
+      }
+    ],
+    "5:25": [
+      {
+        "source": "Joshua 23:13",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 1
+        },
+        "kjvSpecific": "yes",
+        "mediation": "OT-via-earlier-BoM",
+        "composite": [
+          "2 Peter 1:13"
+        ],
+        "recurrenceRefs": [
+          "1 Nephi 2:24"
+        ],
+        "provenance": {
+          "route": "Joshua 23:13 → KJV → 1 Nephi 2:24 → 2 Nephi 5:25",
+          "other": "“Scourges in your sides” occurs in exactly one KJV verse, Joshua 23:13, and the argument for it was made at 1 Nephi 2:24. “stir you up by putting you in remembrance” occurs in exactly one KJV verse, 2 Peter 1:13; 2 Peter 3:1 has the same idiom again. The Book of Mormon's purpose clause has moved between its two occurrences: 1 Nephi 2:24 reads “to stir them up in the ways of remembrance”, and 2 Nephi 5:25 reads “to stir them up in remembrance of me”, which is 2 Peter's construction rather than the first version's.",
+          "significance": "The verse is a fulfilment quotation, and the interesting thing is what changed in the quoting. Everything else is 1 Nephi 2:24 repeated — a scourge unto thy seed, stirring up, the condition of not remembering — but the awkward “in the ways of remembrance” has been smoothed into the KJV's own idiom for the purpose of a reminder, which the KJV has only in 2 Peter. A prophecy is being reported as fulfilled and is quietly improved in transmission, toward the New Testament."
+        },
+        "note": "“They shall be a scourge unto thy seed, to stir them up in remembrance of me.” Joshua 23:13's doctrine of the useful enemy, taken not from Joshua but from 1 Nephi 2:24, where it was given to Lehi as a prophecy and is here reported as the Lord's word to Nephi. Recorded as OT-via-earlier-BoM for that reason. The one departure from 1 Nephi 2:24 is the purpose clause, which now runs in 2 Peter 1:13's construction.",
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "bibliography": [],
+        "text": "Know for a certainty that the LORD your God will no more drive out any of these nations from before you; but they shall be snares and traps unto you, and scourges in your sides, and thorns in your eyes, until ye perish from off this good land which the LORD your God hath given you."
+      }
+    ]
+  }
+}

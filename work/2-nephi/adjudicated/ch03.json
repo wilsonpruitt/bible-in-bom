@@ -1,0 +1,614 @@
+{
+ "chapter": 3,
+ "adjudicated": "2026-09-05",
+ "adjudicator": "Opus",
+ "links": {
+  "3:1": [
+   {
+    "source": "Genesis 35:18",
+    "type": "figural",
+    "subtype": "type-scene",
+    "confidence": "moderate",
+    "evidence": {
+     "vocabulary": 1,
+     "syntax": 1,
+     "sequence": 3,
+     "context": 5,
+     "rarity": 3,
+     "attestation": 0
+    },
+    "kjvSpecific": "no",
+    "mediation": "direct-OT",
+    "composite": [
+     "Genesis 35:16",
+     "Genesis 44:20"
+    ],
+    "provenance": {
+     "route": "Genesis 35:16-18 -> KJV -> Book of Mormon",
+     "other": "'Last born' occurs in no KJV verse; the KJV's word for this position is 'youngest', which it uses seventeen times, ten of them of Benjamin in Genesis 42-44. 'Son of my sorrow' is likewise absent, being the KJV's marginal gloss on Benoni rather than its text.",
+     "significance": "Lehi has been playing Jacob since 2 Nephi 1, and the sequence of blessings ends where Jacob's family began: with a last son borne in his mother's extremity. In Genesis the child of that labour is named twice over, Benoni by the dying mother and Benjamin by the father, and the second name cancels the first - sorrow renamed as the right hand. 2 Nephi 3 does the same operation with the other name from Rachel's two sons: the last-born of the affliction is called Joseph, and the whole chapter that follows is an argument that the name is a promise. Lehi's two youngest are Jacob and Joseph, which puts Rachel's grandson's name on the elder and her son's on the younger; the naming runs backwards through Genesis, and the chapter's business is to make that name do work."
+    },
+    "note": "'Thou wast born in the wilderness of mine afflictions; yea, in the days of my greatest sorrow, did thy mother bear thee.' There is almost no shared wording here and the link is offered as form, not diction: the KJV has one birth answering this description, Rachel's at Genesis 35:16-18, where a last son is borne in hard labour on a journey and named for his mother's sorrow. The chapter that follows is entirely about what a name inherited from Joseph obliges, so a first verse shaped by the KJV's one naming-in-sorrow is doing more than setting a scene. Note that the tie is to the wrong son of Rachel - the Genesis scene produces Benjamin, and Lehi's verse produces Joseph - which is why this is filed as figural and at moderate rather than higher.",
+    "whyNot": "No phrase of Genesis 35:16-18 survives into 2 Nephi 3:1. 'Last born', 'wilderness of mine afflictions' and 'my greatest sorrow' are all outside the KJV's vocabulary for this scene, and a reader who wants the resemblance to be nothing more than the common circumstance of a youngest child born in hardship can have that reading; nothing in the wording forbids it.",
+    "bibliography": [],
+    "status": "novel",
+    "streams": [
+     "manual"
+    ],
+    "text": "And it came to pass, as her soul was in departing, (for she died) that she called his name Benoni: but his father called him Benjamin."
+   }
+  ],
+  "3:5": [
+   {
+    "source": "Acts 2:30",
+    "type": "allusion",
+    "subtype": "close-verbal",
+    "confidence": "certain",
+    "evidence": {
+     "vocabulary": 5,
+     "syntax": 4,
+     "sequence": 5,
+     "context": 5,
+     "rarity": 5,
+     "attestation": 1
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "recurrenceRefs": [
+     "2 Nephi 3:4",
+     "2 Nephi 3:6",
+     "2 Nephi 3:7",
+     "2 Nephi 3:11",
+     "2 Nephi 3:12",
+     "2 Nephi 3:14",
+     "2 Nephi 3:18",
+     "2 Nephi 3:19",
+     "2 Nephi 3:21"
+    ],
+    "provenance": {
+     "route": "Psalm 132:11 -> Acts 2:30 -> KJV -> Book of Mormon",
+     "mt": "Psalm 132:11 - 'The LORD hath sworn in truth unto David; he will not turn from it; Of the fruit of thy BODY will I set upon thy throne.' Acts 2:30 quotes this verse and renders it 'of the fruit of his LOINS'.",
+     "other": "'Fruit of his loins' occurs in exactly one KJV verse, Acts 2:30, and 'fruit of thy loins' in none. The refrain that organizes this whole chapter therefore has one biblical parent, and it is a New Testament one.",
+     "significance": "Acts 2:30 is Peter at Pentecost, and it says that God swore to David that of the fruit of his loins he would raise up Christ. 2 Nephi 3:5 takes that sentence entire - the fruit of his loins, the raising up, the sworn promise - and then, in the same breath, refuses its predicate: 'not the Messiah, but a branch which was to be broken off.' The one KJV verse in which a promise about the fruit of a patriarch's loins produces the Messiah is the verse this chapter borrows in order to promise something else. The metalepsis is exact and it is a disavowal: recover Acts 2:30's context and the disclaimer 'not the Messiah' turns out to be answering the source rather than merely qualifying the claim. The phrase then repeats twenty-odd times in twenty-five verses, so the whole chapter is spoken in a diction that arrives from Peter's Pentecost sermon."
+    },
+    "note": "'And he obtained a promise of the Lord, that out of the fruit of his loins, the Lord God would raise up a righteous branch unto the House of Israel; not the Messiah.' Two elements of Acts 2:30 stand together here in Acts's order: 'of the fruit of his loins' - a KJV singleton - and 'he would raise up'. Acts supplies the syntax of a sworn dynastic promise fulfilled in an offspring raised up out of a named ancestor's loins, and 2 Nephi 3 keeps the frame while changing the referent from Christ to a branch. The borrowing is well below Skousen's sixteen-word threshold and is not one of his long quotations; its force is rarity, not length.",
+    "bibliography": [],
+    "status": "novel",
+    "streams": [
+     "machine-ngram",
+     "manual"
+    ],
+    "text": "Therefore being a prophet, and knowing that God had sworn with an oath to him, that of the fruit of his loins, according to the flesh, he would raise up Christ to sit on his throne;"
+   },
+   {
+    "source": "Jeremiah 23:5",
+    "type": "allusion",
+    "subtype": "strong-verbal",
+    "confidence": "high",
+    "evidence": {
+     "vocabulary": 4,
+     "syntax": 4,
+     "sequence": 4,
+     "context": 4,
+     "rarity": 5,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-OT",
+    "composite": [
+     "Jeremiah 33:15"
+    ],
+    "provenance": {
+     "route": "Jeremiah 23:5 -> KJV -> Book of Mormon",
+     "other": "'Righteous Branch' occurs in exactly one KJV verse. Jeremiah 33:15 has the same figure in the other order, 'the Branch of righteousness to grow up unto David'; no other verse joins the adjective to the noun.",
+     "significance": "Jeremiah 23:5's righteous Branch is raised unto David and is a king who reigns; it is one of the Old Testament's principal messianic texts and was read as such throughout the Christian tradition. 2 Nephi 3:5 borrows the phrase and immediately withholds the identification - 'not the Messiah, but a branch which was to be broken off' - so the verse is built out of two of the most explicitly messianic sentences in the KJV, Acts 2:30 and Jeremiah 23:5, and spends its second half denying that it means what they mean. That double borrowing-and-refusal is the verse's whole rhetorical shape."
+    },
+    "note": "'The Lord God would raise up a righteous branch unto the House of Israel.' Jeremiah 23:5 is the KJV's one 'righteous Branch', and it is raised up, as here. The substitution is the argument: Jeremiah raises the Branch unto David, 2 Nephi raises it unto the house of Israel, and the messianic sense that attaches to the phrase everywhere else is then explicitly declined. Lehi is speaking a few years after Jeremiah on the book's own chronology, which makes this the rare case where an availability objection does not arise; what remains a finding is that the wording is the KJV's English and not a translator's independent choice.",
+    "bibliography": [],
+    "status": "novel",
+    "streams": [
+     "manual"
+    ],
+    "text": "Behold, the days come, saith the LORD, that I will raise unto David a righteous Branch, and a King shall reign and prosper, and shall execute judgment and justice in the earth."
+   },
+   {
+    "source": "Romans 11:17",
+    "type": "echo",
+    "subtype": "conceptual",
+    "confidence": "moderate",
+    "evidence": {
+     "vocabulary": 3,
+     "syntax": 2,
+     "sequence": 2,
+     "context": 4,
+     "rarity": 3,
+     "attestation": 0
+    },
+    "kjvSpecific": "uncertain",
+    "mediation": "direct-NT",
+    "composite": [
+     "Romans 11:19",
+     "Romans 11:20",
+     "Genesis 49:22"
+    ],
+    "provenance": {
+     "route": "Romans 11:17-20 -> KJV -> Book of Mormon",
+     "other": "'Broken off' occurs in five KJV verses; three are Romans 11:17, 19 and 20, all of branches broken from the olive tree, and one is Isaiah 27:11, of withered boughs. Genesis 49:22, the blessing this chapter is expounding, calls Joseph 'a fruitful bough, even a fruitful bough by a well; whose branches run over the wall'.",
+     "significance": "A branch that is broken off yet remembered in the covenant is Romans 11's argument in miniature - the natural branches broken off, and God able to graff them in again. What the Book of Mormon does with it is unusual: in Romans the branches are broken off for unbelief and their breaking is a warning, while here the breaking is the promise itself, the mechanism by which Joseph's seed is carried away and preserved. The figure is inverted rather than borrowed."
+    },
+    "note": "'A branch which was to be broken off; nevertheless, to be remembered in the covenants of the Lord.' The verbal contact is two words, and they are the two words Romans 11 uses three times for the severed branches of Israel. The reason for recording it at moderate rather than dismissing it is context: this clause sits between a messianic Branch drawn from Jeremiah 23:5 and a covenant-remembrance, which is precisely Romans 11's subject matter, and the chapter being expounded calls Joseph a bough with branches. Genesis supplies the image, Romans the verb.",
+    "whyNot": "'Broken off' is ordinary English and Romans 11's sense is the reverse of this verse's: there the branches are broken off in judgment, here in promise. A reader may reasonably hold that the Book of Mormon has simply continued Genesis 49:22's arboreal figure without any New Testament help.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": false,
+    "streams": [
+     "manual"
+    ],
+    "text": "And if some of the branches be broken off, and thou, being a wild olive tree, wert graffed in among them, and with them partakest of the root and fatness of the olive tree;"
+   }
+  ],
+  "3:6": [
+   {
+    "source": "Acts 3:22",
+    "type": "allusion",
+    "subtype": "close-verbal",
+    "confidence": "high",
+    "evidence": {
+     "vocabulary": 4,
+     "syntax": 5,
+     "sequence": 5,
+     "context": 5,
+     "rarity": 5,
+     "attestation": 2
+    },
+    "kjvSpecific": "yes",
+    "mediation": "OT-via-NT",
+    "composite": [
+     "Deuteronomy 18:15",
+     "Acts 7:37"
+    ],
+    "recurrenceRefs": [
+     "2 Nephi 3:7",
+     "2 Nephi 3:9",
+     "1 Nephi 22:20",
+     "1 Nephi 10:4"
+    ],
+    "provenance": {
+     "route": "Deuteronomy 18:15 -> Acts 3:22 -> KJV -> Book of Mormon",
+     "mt": "Deuteronomy 18:15 - 'The LORD THY God WILL RAISE UP UNTO THEE A PROPHET from the midst of thee, of thy brethren, like unto me; unto him ye shall hearken.'",
+     "other": "'Truly said' occurs in exactly one KJV verse, Acts 3:22 ('For Moses truly said unto the fathers'). Acts 7:37, the only other place the Deuteronomy 18 prophecy is quoted, reads 'which said unto the children of Israel' and has no 'truly'. The three occurrences of the formula in this chapter - 'Joseph truly saw our day' (3:5), 'For Joseph truly testified, saying' (3:6), 'Yea, Joseph truly said' (3:7) - therefore all track Acts 3:22 and not Acts 7:37.",
+     "significance": "Two things arrive together and they arrive from the same verse. First the citation formula: Acts 3:22 is the KJV's only 'X truly said', and 2 Nephi 3 uses it three times in three verses with Joseph substituted for Moses. Second the syntax: Deuteronomy 18:15 is subject-first, 'The LORD thy God will raise up unto thee a Prophet'; Acts 3:22 fronts the object, 'A prophet shall the Lord your God raise up unto you'; and 2 Nephi 3:6 reads 'A seer shall the Lord my God raise up'. The inversion is Peter's, not Moses's. Recover the context and the substitution is the finding: Peter at Solomon's porch is arguing that Deuteronomy's prophet-like-Moses is Jesus, and 2 Nephi 3 lifts both his formula and his word order in order to make Joseph the prophesier and a seer, not a prophet, the thing prophesied. The chapter thereby claims the Book of Mormon's own authorizing text in the very sentence Peter used to claim it for Christ."
+    },
+    "note": "'For Joseph truly testified, saying: A seer shall the Lord my God raise up, which shall be a choice seer unto the fruit of my loins.' This is Acts 3:22 with three substitutions and no change of shape: 'Joseph truly testified' for 'Moses truly said', 'a seer' for 'a prophet', 'my God' for 'your God'. Deuteronomy 18:15 cannot be the proximate source, because Deuteronomy neither inverts the clause nor has 'truly'; both belong to Peter's quotation of it. 1 Nephi 22:20 already reproduced twenty-six continuous words of this same verse, so the Book of Mormon has been working from Acts 3:22 rather than Deuteronomy 18 since the first book - what 2 Nephi 3 adds is the redeployment of the formula onto Joseph. Below Skousen's sixteen-word threshold: the run here is six words, and the case rests on the inversion and the singleton 'truly said'.",
+    "bibliography": [],
+    "status": "novel",
+    "streams": [
+     "manual"
+    ],
+    "text": "For Moses truly said unto the fathers, A prophet shall the Lord your God raise up unto you of your brethren, like unto me; him shall ye hear in all things whatsoever he shall say unto you."
+   }
+  ],
+  "3:9": [
+   {
+    "source": "Acts 3:22",
+    "type": "allusion",
+    "subtype": "close-verbal",
+    "confidence": "high",
+    "evidence": {
+     "vocabulary": 4,
+     "syntax": 4,
+     "sequence": 4,
+     "context": 5,
+     "rarity": 5,
+     "attestation": 2
+    },
+    "kjvSpecific": "yes",
+    "mediation": "OT-via-NT",
+    "composite": [
+     "Acts 7:37",
+     "Deuteronomy 18:15",
+     "Deuteronomy 18:18"
+    ],
+    "recurrenceRefs": [
+     "2 Nephi 3:6",
+     "1 Nephi 22:20"
+    ],
+    "provenance": {
+     "route": "Deuteronomy 18:15 -> Acts 3:22 / Acts 7:37 -> KJV -> Book of Mormon",
+     "mt": "Deuteronomy 18:15 reads 'raise up UNTO THEE a Prophet'; Deuteronomy 18:18, 'I will raise THEM up a Prophet from among their brethren, LIKE UNTO THEE'.",
+     "other": "'Raise up unto you' occurs in exactly two KJV verses, Acts 3:22 and Acts 7:37, and in neither of the Deuteronomy verses they quote. 'Raise up unto thee' occurs in exactly one, Deuteronomy 18:15. 2 Nephi 3:9 has the Acts form.",
+     "significance": "This is the mediation test decided on a single pronoun. Deuteronomy addresses Israel as 'thee'; Acts, quoting it to a crowd, has 'unto you'; and 2 Nephi 3:9 - 'whom I have said I would raise up unto you' - takes the plural. The verse also converts Acts's 'like unto me', spoken by Moses of a coming prophet, into 'like unto Moses', spoken of a coming seer, which turns Peter's comparison inside out: in Acts the point is that the new figure resembles Moses, and here the point is that the new figure resembles Moses while explicitly not being the prophet Moses foretold. The chapter is running Deuteronomy 18 through Acts and then diverting it from the Messiah to the seer."
+    },
+    "note": "'And he shall be great like unto Moses, whom I have said I would raise up unto you, to deliver my people, O house of Israel.' Three words settle the route. 'Raise up unto you' is Acts's; Deuteronomy 18:15 reads 'unto thee' and is the only KJV verse that does. Having established the seer at 3:6 in Acts 3:22's inverted syntax, the chapter now measures him against Moses in Acts 3:22's pronoun. The clause 'to deliver my people' is not in either source and comes from the Exodus material that governs 3:10 and 3:17.",
+    "bibliography": [],
+    "status": "novel",
+    "streams": [
+     "manual"
+    ],
+    "text": "For Moses truly said unto the fathers, A prophet shall the Lord your God raise up unto you of your brethren, like unto me; him shall ye hear in all things whatsoever he shall say unto you."
+   }
+  ],
+  "3:10": [
+   {
+    "source": "Exodus 3:10",
+    "type": "echo",
+    "subtype": "conceptual",
+    "confidence": "moderate",
+    "evidence": {
+     "vocabulary": 3,
+     "syntax": 2,
+     "sequence": 3,
+     "context": 5,
+     "rarity": 1,
+     "attestation": 0
+    },
+    "kjvSpecific": "no",
+    "mediation": "direct-OT",
+    "composite": [
+     "Exodus 3:8"
+    ],
+    "provenance": {
+     "route": "Exodus 3:8-10 -> KJV -> Book of Mormon",
+     "other": "'Out of the land of Egypt' occurs in eighty-one KJV verses and identifies nothing on its own; the rarity here is zero and the link rests entirely on the commissioning scene. Exodus 3:8 has 'to deliver them out of the hand of the Egyptians', which is the KJV's nearest use of 'deliver' for this act.",
+     "significance": "Where the chapter's other Moses material is verbally precise, this verse is not, and saying so matters: 2 Nephi 3:10 is the one sentence in the passage that could have been written by anyone who knew the story at second hand. Its function is structural rather than allusive - it holds the place of the first Moses so that 3:11 can set the seer beside him."
+    },
+    "note": "'And Moses will I raise up, to deliver thy people out of the land of Egypt.' The commissioning of Moses in Exodus 3 is unmistakably in view, but nothing in the wording is distinctive: every content word here is KJV commonplace, and 'out of the land of Egypt' appears in eighty-one verses. The link is recorded because the verse is doing real work in the argument - it supplies the Moses whom 3:9 has just invoked and 3:17 will rewrite - not because the diction points anywhere in particular.",
+    "bibliography": [],
+    "status": "novel",
+    "streams": [
+     "manual"
+    ],
+    "text": "Come now therefore, and I will send thee unto Pharaoh, that thou mayest bring forth my people the children of Israel out of Egypt."
+   }
+  ],
+  "3:12": [
+   {
+    "source": "Ezekiel 37:19",
+    "type": "allusion",
+    "subtype": "conceptual",
+    "confidence": "high",
+    "evidence": {
+     "vocabulary": 3,
+     "syntax": 2,
+     "sequence": 5,
+     "context": 5,
+     "rarity": 5,
+     "attestation": 1
+    },
+    "kjvSpecific": "uncertain",
+    "mediation": "direct-OT",
+    "composite": [
+     "Ezekiel 37:16",
+     "Ezekiel 37:17"
+    ],
+    "provenance": {
+     "route": "Ezekiel 37:16-19 -> KJV -> Book of Mormon",
+     "other": "'The stick of Joseph' and 'shall be one in mine hand' are each KJV singletons, both in Ezekiel 37:19. Ezekiel 37:16 is the only KJV verse that commands writing upon a thing for Judah and writing upon another thing for Joseph.",
+     "significance": "Ezekiel 37:16-19 is the only place in the Bible where a record for Judah and a record for Joseph are made and then joined, and 2 Nephi 3:12 is that passage with one substitution: sticks become writings. The substitution is itself an interpretation, and it is the interpretation on which the Book of Mormon's account of its own status depends - the book is the stick of Joseph, the Bible the stick of Judah, and their joining in Ezekiel's hand becomes their growing together on the page. What Ezekiel does not supply is the purpose clause. In Ezekiel the two sticks are joined to end the division of the kingdoms; here they are joined 'unto the confounding of false doctrines, and laying down of contentions, and establishing peace', which is a controversy about doctrine and not a reunion of tribes. The source is transposed from politics to polemic."
+    },
+    "note": "'The fruit of my loins shall write; and the fruit of the loins of Judah shall write; and that which shall be written by the fruit of thy loins, and also that which shall be written by the fruit of the loins of Judah, shall grow together.' Judah and Joseph, each with a written thing, brought into one: there is one such passage in the KJV. The shared vocabulary is thin - 'write', 'Judah', 'Joseph' - and the machine streams did not propose it, because the agreement is with a sequence of images across four verses rather than with any contiguous run of words. That is exactly the blindness CONVENTIONS section 9 describes. Confidence is high on the strength of the configuration; kjvSpecific is left uncertain because no phrase of Ezekiel's English survives to be tested.",
+    "bibliography": [],
+    "status": "novel",
+    "streams": [
+     "manual"
+    ],
+    "text": "Say unto them, Thus saith the Lord GOD; Behold, I will take the stick of Joseph, which is in the hand of Ephraim, and the tribes of Israel his fellows, and will put them with him, even with the stick of Judah, and make them one stick, and they shall be one in mine hand."
+   },
+   {
+    "source": "Matthew 13:30",
+    "type": "echo",
+    "subtype": "possible",
+    "confidence": "moderate",
+    "evidence": {
+     "vocabulary": 3,
+     "syntax": 2,
+     "sequence": 1,
+     "context": 1,
+     "rarity": 5,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "provenance": {
+     "route": "Matthew 13:30 -> KJV -> Book of Mormon",
+     "other": "'Grow together' occurs in exactly one KJV verse, Matthew 13:30, in the parable of the tares: 'Let both grow together until the harvest.'",
+     "significance": "Ezekiel 37:19 says the two sticks 'shall be one in mine hand'. 2 Nephi 3:12 declines that verb and reaches instead for the KJV's one instance of 'grow together', which belongs to the wheat and the tares. The consequence is that the sentence describing the union of two true records is worded out of the parable about the coexistence of the true crop and the false one until they are separated by fire - and the very next clause is 'unto the confounding of false doctrines'. Whether that is design or diction, the catalogue's business is to record that the phrase has one home in the KJV and that its home is a parable about telling the false from the true."
+    },
+    "note": "Recorded because 'grow together' is a KJV singleton and the writer's English has to come from somewhere; the substitution of it for Ezekiel's 'shall be one in mine hand' is a real choice at a load-bearing point in the sentence. The catalogue takes the risk of proposing it under CONVENTIONS section 0a rather than filing it as a coincidence.",
+    "whyNot": "The senses are not merely different but nearly opposed. Matthew 13:30 lets wheat and tares grow together precisely so that they may be separated at harvest; 2 Nephi 3:12 has two records grow together into one testimony. Nothing else of the parable is present - no harvest, no tares, no reapers - and 'grow together' is available as ordinary English without any parable behind it. A cautious reader should decline this link, and the exclusion register would have been the other defensible home for it.",
+    "bibliography": [],
+    "status": "novel",
+    "streams": [
+     "manual"
+    ],
+    "text": "Let both grow together until the harvest: and in the time of harvest I will say to the reapers, Gather ye together first the tares, and bind them in bundles to burn them: but gather the wheat into my barn."
+   }
+  ],
+  "3:13": [
+   {
+    "source": "Hebrews 11:34",
+    "type": "quotation",
+    "subtype": "close-verbal",
+    "confidence": "certain",
+    "evidence": {
+     "vocabulary": 5,
+     "syntax": 5,
+     "sequence": 5,
+     "context": 4,
+     "rarity": 5,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "recurrenceRefs": [
+     "2 Nephi 3:21"
+    ],
+    "provenance": {
+     "route": "Hebrews 11:34 -> KJV -> Book of Mormon",
+     "other": "'Out of weakness' occurs in exactly one KJV verse, and the full clause 'out of weakness were made strong' likewise. Both are Hebrews 11:34.",
+     "significance": "Hebrews 11:34 is in the roll of the faithful, and the men it describes as made strong out of weakness are judges and warriors who by faith 'waxed valiant in fight, turned to flight the armies of the aliens'. 2 Nephi 3:13 applies the clause to a seer whose strength is a book, and 3:21 completes the transfer - 'the weakness of their words will I make strong in their faith' - so that Hebrews' martial vocabulary of strength out of weakness is spent entirely on writing and reading. The metalepsis is the pivot: recover Hebrews 11 and the whole point of the chapter is that faith is what turns the weak into the strong, which is exactly the warrant 2 Nephi 3:19-21 needs for a record that speaks 'according to the simpleness of their words'. 1 Nephi 4:2 already drew on Hebrews 11:29, so this is the same chapter of Hebrews being worked a second time."
+    },
+    "note": "'And out of weakness he shall be made strong.' Seven words against the KJV's 'out of weakness were made strong', with the tense and number adjusted to a single future figure. The phrase exists nowhere else in the Bible. This is short of Skousen's sixteen-word threshold and is not one of his long quotations; it is catalogued as a quotation on the strength of the singleton, on the same principle as 1 Nephi 1:14.",
+    "bibliography": [],
+    "status": "novel",
+    "streams": [
+     "manual"
+    ],
+    "text": "Quenched the violence of fire, escaped the edge of the sword, out of weakness were made strong, waxed valiant in fight, turned to flight the armies of the aliens."
+   }
+  ],
+  "3:15": [
+   {
+    "source": "Luke 1:59",
+    "type": "allusion",
+    "subtype": "close-verbal",
+    "confidence": "high",
+    "evidence": {
+     "vocabulary": 5,
+     "syntax": 4,
+     "sequence": 3,
+     "context": 4,
+     "rarity": 5,
+     "attestation": 1
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "composite": [
+     "Luke 1:60",
+     "Luke 1:61"
+    ],
+    "recurrenceRefs": [
+     "2 Nephi 3:24"
+    ],
+    "provenance": {
+     "route": "Luke 1:59-61 -> KJV -> Book of Mormon",
+     "other": "'After the name of his father' occurs in exactly one KJV verse, Luke 1:59. No other verse in the Bible names a child after his father in those words.",
+     "significance": "Luke 1:59-61 is the KJV's one scene of naming a son after his father, and it is a scene in which the naming is refused: they would have called him Zacharias after the name of his father, and his mother said 'Not so; but he shall be called John', and the neighbours objected that there is none of thy kindred that is called by this name. 2 Nephi 3:15 asserts, of the promised seer, exactly what Luke 1 denies of the forerunner - 'his name shall be called after me; and it shall be after the name of his father'. Recover the context and the borrowing turns into a reversal: the words that in the KJV introduce a broken naming-custom are used here to guarantee an unbroken one. The pairing with 3:24's 'great in the sight of God', which is Luke 1:15's singleton phrase about the same child, means the chapter's closing description of the latter-day figure is assembled out of the KJV's account of John the Baptist."
+    },
+    "note": "'And his name shall be called after me; and it shall be after the name of his father.' The second clause is Luke 1:59 word for word, and it is the only place those words stand in the KJV. The first clause reaches the other way, to Genesis 48:6's 'shall be called after' - see the separate row - so the sentence fuses the KJV's two singleton naming formulae, one from the Joseph blessing this chapter is expounding and one from the naming of John. The machine stream proposed both verses and ranked Lamentations 1:21 above them; see the exclusion register.",
+    "bibliography": [],
+    "status": "novel",
+    "streams": [
+     "machine-ngram",
+     "manual"
+    ],
+    "text": "And it came to pass, that on the eighth day they came to circumcise the child; and they called him Zacharias, after the name of his father."
+   },
+   {
+    "source": "Genesis 48:6",
+    "type": "allusion",
+    "subtype": "close-verbal",
+    "confidence": "moderate",
+    "evidence": {
+     "vocabulary": 4,
+     "syntax": 3,
+     "sequence": 2,
+     "context": 5,
+     "rarity": 5,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-OT",
+    "composite": [
+     "Genesis 48:16"
+    ],
+    "provenance": {
+     "route": "Genesis 48:6 -> KJV -> Book of Mormon",
+     "other": "'Shall be called after' occurs in exactly one KJV verse, Genesis 48:6. Genesis 48:16, four verses further on, has Jacob's 'let my name be named on them' over Joseph's sons.",
+     "significance": "Genesis 48 is Jacob adopting Joseph's two sons and ruling how the later issue shall be named, and Genesis 48:16 asks that his own name be named on them. 2 Nephi 3 is Lehi doing the same thing at the end of his life to his own last son, and 3:15's promise that a descendant's name shall be called after Joseph's is Genesis 48's naming provision projected forward. The chapter is not alluding to Genesis 48 in passing; it is performing it."
+    },
+    "note": "'His name shall be called after me.' Four words that stand in one KJV verse, and that verse is in the chapter immediately before the Joseph blessing this passage expounds. The confidence is moderate rather than high because 'shall be called after' is unremarkable English and Genesis 48:6's clause continues 'the name of their brethren in their inheritance', which the Book of Mormon does not take; what raises it above a coincidence is that the whole speech is a deathbed disposition of Joseph's inheritance, which is Genesis 48's subject.",
+    "bibliography": [],
+    "status": "novel",
+    "streams": [
+     "machine-ngram",
+     "manual"
+    ],
+    "text": "And thy issue, which thou begettest after them, shall be thine, and shall be called after the name of their brethren in their inheritance."
+   }
+  ],
+  "3:16": [
+   {
+    "source": "Genesis 45:7",
+    "type": "allusion",
+    "subtype": "conceptual",
+    "confidence": "moderate",
+    "evidence": {
+     "vocabulary": 3,
+     "syntax": 2,
+     "sequence": 2,
+     "context": 5,
+     "rarity": 4,
+     "attestation": 0
+    },
+    "kjvSpecific": "uncertain",
+    "mediation": "direct-OT",
+    "composite": [
+     "Genesis 45:5"
+    ],
+    "recurrenceRefs": [
+     "2 Nephi 3:3",
+     "2 Nephi 3:23"
+    ],
+    "provenance": {
+     "route": "Genesis 45:7 -> KJV -> Book of Mormon",
+     "other": "'Preserve you a posterity' occurs in exactly one KJV verse, Genesis 45:7; 'to preserve' in only two, Genesis 45:5 and 45:7, both in the same speech.",
+     "significance": "The KJV's language of preserving a seed belongs to Joseph in Egypt and to almost no one else: it is what he says to his brothers when he discloses himself, that God sent him before them to preserve a posterity in the earth. 2 Nephi 3 puts that sentence in the Lord's mouth as a promise made to Joseph rather than an explanation offered by him - 'I will preserve thy seed forever' - and the chapter's two other promises of non-destruction (3:3, 3:23) run on the same idea. The chapter is thus quoting Joseph's own theology of his exile back at his descendants: the preservation that Genesis 45 explains retrospectively is here guaranteed in advance."
+    },
+    "note": "'For the Lord hath said unto me, I will preserve thy seed forever.' Only 'preserve' and the idea of a seed survive verbally, and 'preserve' with a posterity as its object is nearly confined in the KJV to Genesis 45:5-7. The link is at moderate: the wording is too thin to prove dependence, but the sentence is a compressed statement of the one speech in the Bible where Joseph accounts for his own captivity as the preserving of a seed, and this chapter is about nothing else.",
+    "whyNot": "Nothing but a single common verb is shared. A reader may hold that 'I will preserve thy seed' needs no source at all, and the covenant language of Genesis 17 or 2 Samuel 7 would serve the sense equally.",
+    "bibliography": [],
+    "status": "novel",
+    "streams": [
+     "manual"
+    ],
+    "text": "And God sent me before you to preserve you a posterity in the earth, and to save your lives by a great deliverance."
+   }
+  ],
+  "3:17": [
+   {
+    "source": "Exodus 4:16",
+    "type": "allusion",
+    "subtype": "strong-verbal",
+    "confidence": "certain",
+    "evidence": {
+     "vocabulary": 5,
+     "syntax": 3,
+     "sequence": 5,
+     "context": 5,
+     "rarity": 5,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-OT",
+    "composite": [
+     "Exodus 4:10",
+     "Exodus 4:17",
+     "Exodus 31:18"
+    ],
+    "recurrenceRefs": [
+     "2 Nephi 3:18"
+    ],
+    "provenance": {
+     "route": "Exodus 4:10-17 (with Exodus 31:18) -> KJV -> Book of Mormon",
+     "other": "'Spokesman' occurs in exactly one KJV verse, Exodus 4:16. 'Slow of speech' and 'not eloquent' are each singletons at Exodus 4:10, and 'take this rod' a singleton at Exodus 4:17. 'Written with the finger' occurs in two verses, Exodus 31:18 and Deuteronomy 9:10.",
+     "significance": "Every element of this verse is drawn from one page of Exodus, and taken together they reproduce the whole logic of Moses's commissioning: the rod that does signs, the mouth that cannot speak, the brother appointed as spokesman, and the law written by God's own finger. What the Book of Mormon changes is the answer to the objection. In Exodus, Moses pleads that he is slow of speech and God replies 'I will be with thy mouth, and teach thee what thou shalt say' (4:12), giving Aaron only as a concession. In 2 Nephi 3:17 the Lord makes the disability a decree - 'I will not loose his tongue, that he shall speak much: for I will not make him mighty in speaking' - and the spokesman is not a concession but the design. The metalepsis runs against the source: recover Exodus 4 and this verse is God refusing to do for the latter-day Moses what he offered to do for the first.",
+     "alternative": "Mark 7:35, 'the string of his tongue was loosed', is the KJV's only loosing of a tongue and may stand behind 'I will not loose his tongue'; it is recorded here rather than as a separate row because the surrounding sentence is Exodus 4 throughout and Mark supplies at most one verb."
+    },
+    "note": "'I will give power unto him in a rod; and I will give judgment unto him in writing. Yet I will not loose his tongue, that he shall speak much: for I will not make him mighty in speaking. But I will write unto him my law, by the finger of mine own hand; and I will make a spokesman for him.' Four singletons of Exodus 4 and one of Exodus 31 stand in five clauses: the rod of 4:17, the impeded speech of 4:10, the spokesman of 4:16 - a word found nowhere else in the KJV - and the finger that writes the law of 31:18. The machine's top candidate for this verse was Revelation 11:3 on the run 'and I will give power unto'; see the exclusion register. Note also that the verse denies of its Moses exactly what Acts 7:22 asserts of the first one, that he 'was mighty in words and in deeds'; the reply comes at 3:24.",
+    "bibliography": [],
+    "status": "novel",
+    "streams": [
+     "manual"
+    ],
+    "text": "And he shall be thy spokesman unto the people: and he shall be, even he shall be to thee instead of a mouth, and thou shalt be to him instead of God."
+   }
+  ],
+  "3:19": [
+   {
+    "source": "Isaiah 29:4",
+    "type": "allusion",
+    "subtype": "strong-verbal",
+    "confidence": "high",
+    "evidence": {
+     "vocabulary": 4,
+     "syntax": 3,
+     "sequence": 4,
+     "context": 5,
+     "rarity": 5,
+     "attestation": 1
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-OT",
+    "recurrenceRefs": [
+     "2 Nephi 3:20",
+     "2 Nephi 26:16",
+     "2 Nephi 27:9"
+    ],
+    "provenance": {
+     "route": "Isaiah 29:4 -> KJV -> Book of Mormon",
+     "other": "'Whisper out of the dust' occurs in exactly one KJV verse. 'Out of the dust' occurs in five, of which Isaiah 29:4 is the only one in which anything speaks from it; the other four raise the poor out of it or wash things from it. 'From the dust' is a singleton at Isaiah 52:2, but there it is dust to be shaken off - see the exclusion register.",
+     "significance": "Isaiah 29:4 is a threat: Ariel is brought down, and her speech comes low out of the dust like a familiar spirit's, the voice of a city reduced to a ghost. 2 Nephi 3:19 takes that image and makes it a promise - a buried people crying repentance to their brethren out of the ground - so a prophecy of humiliation becomes a prophecy of publication. The transformation is the whole argument of 2 Nephi 26-27, where Isaiah 29 is expanded at length and the speech from the dust is identified with the book itself; 3:19 is where the reading enters the text, six chapters before the exposition that will defend it. Note the necromantic register Isaiah supplies and the Book of Mormon does not repeat: 'as of one that hath a familiar spirit' is left behind, which is a discriminating omission, since a record speaking from the earth is otherwise open to precisely that charge."
+    },
+    "note": "'And it shall be as if the fruit of thy loins had cried unto them from the dust: for I know their faith.' The KJV has one passage in which speech comes out of the dust, and this is a paraphrase of it rather than a quotation - the borrowed element is the image plus the preposition, not a run of words. 'Cried' replaces Isaiah's 'whisper' and 'be low', which raises the volume of the source considerably and is consistent with the use the chapter is making of it. 3:20 continues the figure: 'And they shall cry from the dust'.",
+    "bibliography": [],
+    "status": "novel",
+    "streams": [
+     "manual"
+    ],
+    "text": "And thou shalt be brought down, and shalt speak out of the ground, and thy speech shall be low out of the dust, and thy voice shall be, as of one that hath a familiar spirit, out of the ground, and thy speech shall whisper out of the dust."
+   }
+  ],
+  "3:24": [
+   {
+    "source": "Acts 7:22",
+    "type": "allusion",
+    "subtype": "strong-verbal",
+    "confidence": "moderate",
+    "evidence": {
+     "vocabulary": 4,
+     "syntax": 3,
+     "sequence": 3,
+     "context": 4,
+     "rarity": 4,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "composite": [
+     "Luke 24:19"
+    ],
+    "recurrenceRefs": [
+     "2 Nephi 3:17"
+    ],
+    "provenance": {
+     "route": "Acts 7:22 -> KJV -> Book of Mormon",
+     "other": "“mighty in” occurs in exactly 13 KJV verses, but only two of them join words to deeds: Acts 7:22, of Moses ('mighty in words and in deeds'), and Luke 24:19, of Jesus ('a prophet mighty in deed and word'). The Book of Mormon's own order, “in word and in deed”, occurs in exactly 0 KJV verses, so the borrowing is of the collocation and not of a run.",
+     "significance": "Acts 7:22 is Stephen's Moses, mighty in words and in deeds - a description Exodus 4:10 flatly contradicts, since the Moses of Exodus is not eloquent and is slow of speech. 2 Nephi 3 has already taken Stephen's side of that contradiction apart at 3:17, where the Lord declares that he will not make the latter-day Moses 'mighty in speaking'. Seven verses later a different figure appears who is 'mighty among them, which shall do much good, both in word and in deed'. The chapter has distributed Acts 7:22 across two people: the seer gets the deeds and the writing and is denied the words, and this one gets both. Stephen's sermon is also where Deuteronomy 18's prophecy stands at 7:37, so the chapter's Moses material and its 'mighty in word and deed' material come from the same fifteen verses of Acts."
+    },
+    "note": "'And there shall raise up one, mighty among them, which shall do much good, both in word and in deed.' The pairing of might in word with might in deed is Acts 7:22's formula for Moses, which matters here because this chapter is an argument about a second Moses and has just spent 3:17 denying him one half of it. The link is at moderate: the phrase order differs from both New Testament verses and the elements are ordinary, so the case rests on the collocation and on the chapter's demonstrable interest in Stephen's Moses.",
+    "whyNot": "'Word and deed' is a commonplace of English devotional prose independent of any verse, and neither Acts 7:22 nor Luke 24:19 is reproduced in order or wording. A reader may take the resemblance as idiom rather than allusion.",
+    "bibliography": [],
+    "status": "novel",
+    "streams": [
+     "manual"
+    ],
+    "text": "And Moses was learned in all the wisdom of the Egyptians, and was mighty in words and in deeds."
+   },
+   {
+    "source": "Luke 1:15",
+    "type": "echo",
+    "subtype": "possible",
+    "confidence": "moderate",
+    "evidence": {
+     "vocabulary": 4,
+     "syntax": 3,
+     "sequence": 2,
+     "context": 3,
+     "rarity": 5,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "recurrenceRefs": [
+     "2 Nephi 3:15",
+     "2 Nephi 3:8"
+    ],
+    "provenance": {
+     "route": "Luke 1:15 -> KJV -> Book of Mormon",
+     "other": "'Great in the sight' occurs in exactly one KJV verse, Luke 1:15, of John the Baptist: 'For he shall be great in the sight of the Lord.' The Book of Mormon has 'great in the sight of God' rather than 'of the Lord'.",
+     "significance": "Taken with 3:15, this is the second singleton from Luke 1 in one chapter, and both belong to the same episode - the annunciation and naming of John. Luke 1:15 promises that the forerunner shall be great in the sight of the Lord; Luke 1:59 records the attempt to name him after his father. 2 Nephi 3 takes the first for its final figure and the second for its seer, so the chapter's account of the latter-day instruments is worded, at two of its most emphatic points, out of the KJV's account of the man sent to prepare the way. That is a coherent choice of source for a chapter about forerunners, and it is worth naming even though neither borrowing is long."
+    },
+    "note": "'And do that thing which is great in the sight of God.' Four words that stand in one KJV verse, with 'God' for 'the Lord'. Compare 3:8's 'I will make him great in mine eyes', which reaches for the same idea without the phrase. The machine's top proposal for this verse was Luke 12:26's 'do that thing which is least'; the shared run is longer and the sense is the opposite, and it is filed in the exclusion register.",
+    "whyNot": "The substitution of 'God' for 'the Lord' breaks the run, and greatness in God's sight is an unremarkable thing to say. A reader may reasonably hold that the four-word agreement is coincidence rather than borrowing.",
+    "bibliography": [],
+    "status": "novel",
+    "streams": [
+     "machine-ngram",
+     "manual"
+    ],
+    "text": "For he shall be great in the sight of the Lord, and shall drink neither wine nor strong drink; and he shall be filled with the Holy Ghost, even from his mother’s womb."
+   }
+  ]
+ }
+}

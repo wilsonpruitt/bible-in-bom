@@ -1,0 +1,106 @@
+[
+  {
+    "bomRef": "2 Nephi 9:6",
+    "source": "Daniel 8:12",
+    "category": "formulaic",
+    "sharedText": "by reason of transgression",
+    "streams": ["machine-ngram"],
+    "reason": "The machine's top proposal for the verse, and it is a coincidence of connective phrasing. Daniel 8:12 concerns the host given against the daily sacrifice in the little-horn vision; 2 Nephi 9:6 concerns the fall of Adam. 'By reason of' is KJV connective tissue and 'transgression' is one of the commonest theological nouns in the corpus. The real borrowing in this verse is Romans 5:12, which the n-gram stream did not propose at all — a clean instance of CONVENTIONS §9: contiguous windows rank rare boilerplate above the true source."
+  },
+  {
+    "bomRef": "2 Nephi 9:9",
+    "source": "Numbers 12:14",
+    "category": "wrong-sense",
+    "sharedText": "shut out from the",
+    "streams": ["machine-ngram"],
+    "reason": "Five words, and the noun that follows them is what matters. Numbers 12:14 shuts Miriam out from the camp for seven days as a leprosy quarantine; 2 Nephi 9:9 shuts the damned out from the presence of God for ever. The shared string breaks exactly where the sense begins, which is the trap ADJUDICATING §4 names — the window closes one word early. The verse's real sources are 2 Corinthians 11:14 and John 8:44, both linked."
+  },
+  {
+    "bomRef": "2 Nephi 9:11",
+    "source": "Isaiah 30:15",
+    "category": "formulaic",
+    "sharedText": "the Lord God, the Holy One of Israel",
+    "streams": ["machine-ngram"],
+    "reason": "A standing exclusion for this chapter and, so far as the machine stream is concerned, for Jacob's whole discourse. 'The Holy One of Israel' is Isaiah's signature title — it occurs some two dozen times in Isaiah — and Jacob uses it fourteen times in 2 Nephi 9 alone (9:11, 9:12, 9:15, 9:18 twice, 9:19, 9:23, 9:24, 9:25, 9:26, 9:40, 9:41, 9:51). It is his adopted formula for God, not a fresh borrowing at each occurrence, and it will match Isaiah 30:15, 41:14, 43:3, 49:7 and a dozen others indifferently. The n-gram stream proposes it at 9:20 and 9:24; it is passed over in silence everywhere else in the chapter. The same applies to 'for the Lord God hath spoken it' (Isaiah 21:17, 22:25, 25:8 and others), which the stream flags at 9:24."
+  },
+  {
+    "bomRef": "2 Nephi 9:13",
+    "source": "Revelation 16:3",
+    "category": "wrong-sense",
+    "sharedText": "living soul",
+    "streams": ["manual"],
+    "reason": "One of only three KJV verses containing 'living soul', so it will surface on any rarity search behind 2 Nephi 9:13's 'they are living souls'. But Revelation 16:3 is the second vial poured on the sea, where 'every living soul died in the sea' — the phrase there means a marine creature and the verb is death. Jacob's living souls are resurrected men who cannot die again. The sense is not merely different, it is opposite. The link at this verse is to 1 Corinthians 15:45, with Genesis 2:7 behind it."
+  },
+  {
+    "bomRef": "2 Nephi 9:16",
+    "source": "Matthew 13:41",
+    "category": "formulaic",
+    "sharedText": "his angels and they shall",
+    "streams": ["machine-ngram"],
+    "reason": "A five-word run spanning a clause boundary in both texts, and the agreement is grammatical rather than lexical: 'his angels' followed by a plural future. Matthew 13:41 has the Son of man sending forth his angels to gather; 2 Nephi 9:16 has the devil's angels going away into fire. The angels belong to opposite parties. Matthew 25:41, where the angels are the devil's and the fire is everlasting, is the source and is linked."
+  },
+  {
+    "bomRef": "2 Nephi 9:18",
+    "source": "Titus 3:8",
+    "category": "formulaic",
+    "sharedText": "they which have believed in",
+    "streams": ["machine-ngram"],
+    "reason": "Five words of the commonest possible construction — a relative pronoun, a perfect tense of 'believe', and a preposition. Titus 3:8 is about maintaining good works; the phrase there is 'they which have believed in God might be careful to maintain good works', and the run is broken by the object. Nothing distinctive is shared. The verse's real sources are Hebrews 12:2 and Matthew 25:34."
+  },
+  {
+    "bomRef": "2 Nephi 9:19",
+    "source": "Revelation 21:8",
+    "category": "better-source-identified",
+    "sharedText": "fire and brimstone, which is",
+    "streams": ["machine-ngram"],
+    "reason": "The stream proposes Revelation 21:8 at 9:19 and again at 9:26 because both share 'fire and brimstone which is'. But Revelation 21:8's lake 'burneth with fire and brimstone' and is glossed as 'the second death', while Jacob's is 'a lake of fire and brimstone, which is endless torment' — the genitive construction and the torment are Revelation 20:10's and 14:11's, which are linked at 9:16 where the phrase first enters. 9:19 and 9:26 are Jacob repeating his own formula within one chapter (ADJUDICATING §4), and are registered as recurrences on that link rather than given rows of their own."
+  },
+  {
+    "bomRef": "2 Nephi 9:24",
+    "source": "Isaiah 21:17",
+    "category": "formulaic",
+    "sharedText": "of Israel hath spoken it",
+    "streams": ["machine-ngram"],
+    "reason": "'For the LORD God of Israel hath spoken it' is a prophetic subscript formula, not a source. It stands at Isaiah 21:17, 22:25, 24:3, 25:8 and elsewhere, and Jacob uses his own version of it four times in this chapter. See the standing exclusion at 9:11. The borrowings in 9:24 are Mark 16:16 and Matthew 10:22, with John 1:12 on Frederick's reading."
+  },
+  {
+    "bomRef": "2 Nephi 9:36",
+    "source": "Luke 10:15",
+    "category": "better-source-identified",
+    "sharedText": "thrust down to hell",
+    "streams": ["machine-ngram"],
+    "reason": "A true match to a KJV singleton, and the stream is right that the phrase is here — but it is the same phrase Jacob used two verses earlier at 9:34, of the liar rather than the whoremonger, inside one continuous series of woes. A narrator who has adopted a formula is not borrowing afresh each time he uses it within a single chapter (ADJUDICATING §4). The link is adjudicated at 9:34, where the phrase first enters, and 9:36 is carried there in recurrenceRefs."
+  },
+  {
+    "bomRef": "2 Nephi 9:41",
+    "source": "John 10:3",
+    "category": "insufficient-verbal",
+    "sharedText": "(none — 'porter'/'door' against 'keeper'/'gate')",
+    "streams": ["manual"],
+    "reason": "Recorded because it is the tempting one in this chapter and because declining it is a judgment a reader may want to reverse. 2 Nephi 9:41 adds to Matthew's strait gate a detail Matthew has not got: 'the keeper of the gate is the Holy One of Israel: and he employeth no servant there'. John 10 is the KJV's one passage about a gatekeeper and a fold — 'to him the porter openeth' (10:3), 'I am the door of the sheep' (10:7) — and it is hard to read Jacob's explicit denial of a servant without hearing it as an answer to John's porter. But there is no verbal contact whatever: the KJV says porter and door, never keeper and gate, and the words Jacob does share with John here ('open', 'sheep' is absent, 'there is none other way') come from Matthew 7 and Acts 4:12 respectively. A figural link built on a resemblance this unanchored would be manufacturing evidence for a hunch. The hunch is recorded here instead, with the condition that would withdraw the objection: any KJV passage pairing a gate with a keeper would change the judgment, and there is none."
+  },
+  {
+    "bomRef": "2 Nephi 9:47",
+    "source": "Ezekiel 47:21",
+    "category": "formulaic",
+    "sharedText": "unto you according to the",
+    "streams": ["machine-ngram"],
+    "reason": "Pure connective tissue. Ezekiel 47:21 divides the land among the tribes; 2 Nephi 9:47 asks whether the preacher should speak plainly. The five words are a preposition, a pronoun and a comparative particle, and they carry no content in either place. Covered in principle by the standing exclusion at 1 Nephi 1:5."
+  },
+  {
+    "bomRef": "2 Nephi 9:49",
+    "source": "Isaiah 45:13",
+    "category": "formulaic",
+    "sharedText": "in righteousness and I will",
+    "streams": ["machine-ngram"],
+    "reason": "Five words, of which four are function words and one is a noun Jacob uses eleven times in this chapter. Isaiah 45:13 concerns Cyrus raised up in righteousness to build the city; 2 Nephi 9:49 concerns Jacob's own delight in righteousness and his praise of God's name. There is no shared subject, image or argument, only the accident that both sentences turn from a prepositional phrase to a first-person future."
+  },
+  {
+    "bomRef": "2 Nephi 9:44",
+    "source": "Acts 13:51",
+    "category": "better-source-identified",
+    "sharedText": "shook off the dust",
+    "streams": ["manual"],
+    "reason": "The dust-shaking of Acts 13:51 (and Matthew 10:14, Mark 6:11, Luke 9:5) is the gesture a reader is likeliest to reach for behind 'I take off my garments, and I shake them before you'. It is the wrong one: those passages shake dust from the feet, and Jacob shakes garments. The KJV has exactly one verse where a preacher shakes his clothing and disclaims his hearers' blood in the same breath — Acts 18:6 — and the blood is the decisive half of Jacob's sentence ('am rid of your blood'). The link is filed there, with Acts 20:26 as a composite."
+  }
+]
