@@ -1,74 +1,72 @@
 /**
  * Brass — the single source of truth for colour.
  *
- * The fork inherited Catena's sepia palette, in which every value was written
- * as a raw hex literal at some sixty sites across three files. That made a
- * palette change a find-and-replace and a palette *iteration* impossible, so
- * the values live here now and the components reference them.
+ * The fork inherited Catena's sepia palette, in which every value carried a
+ * brown tint: the grounds, the rules, the ink, the muted text. The accent is
+ * brass, so when everything else is also brown the accent has nothing to be
+ * brass *against*, and the whole page reads as one muddy hue.
  *
- * Revised 2026-09-05 (brighter, at Wilson's request). The move is to lift the
- * grounds toward white and let the brass supply the colour, rather than
- * tinting everything and ending up muddy. Two rules held the revision honest:
+ * Revised 2026-09-05 (twice, at Wilson's request: first brighter, then less
+ * brown — the second is the real fix). **Every ground and every ink is now
+ * neutral. Brass is the only chromatic thing on the page.** That is what makes
+ * it read as metal rather than as mud, and it is why the accent could stay at
+ * essentially the same depth while the page stopped looking brown.
  *
- *  1. INK STAYS DARK. Body text and the accent are load-bearing for contrast
- *     against a page that is now much lighter, so `ink` went slightly deeper
- *     and `accent` gained saturation without gaining lightness. Brightening
- *     the accent itself would have cost roughly 1.5:1 of contrast ratio.
- *  2. The bright feeling comes from `page`, `panel`, `rule` and the accent
- *     washes — the large areas — not from the text.
+ * Contrast was computed, not eyeballed. Ratios against `page` are noted per
+ * token; anything marked "decorative" must never carry text.
  */
 
 export const P: Record<string, string> = {
-  // Grounds, lightest first.
-  panel: "#ffffff",      // insets, source panels, the select
-  page: "#fbf8f1",       // the page itself — was #f5f0e8
-  fill: "#f6f1e6",       // soft blocks — was #eee9df
-  band: "#33291a",       // the dark header band — was #2c2418, warmed
-  inkStrong: "#332a1c",  // emphatic text (titles, verse refs) — same weight as `band`, different job
+  // Grounds — neutral, a hair off pure white so the panels can be whiter still.
+  panel: "#ffffff",
+  page: "#fbfbfa",
+  fill: "#f2f3f4",
+  band: "#1e2126",      // the header band: near-black, faintly cool
 
-  // Ink.
-  ink: "#3b3126",        // body text — was #4a3d30, deepened for the lighter page
-  inkSoft: "#6a5c4b",    // secondary prose — was #6b5d4e
-  inkMuted: "#7d6e5a",   // labels, counts — was #8a7a6a
-  inkFaint: "#a2917c",   // disabled, deselected — was #a09080 / #a89a86 / #a08c78
-  inkGhost: "#bdb09a",   // faded-out chapters — was #c8bfae
+  // Ink — neutral greys, no brown.
+  inkStrong: "#16181c", // titles, verse refs
+  ink: "#23272e",       // body text                     14.5:1
+  inkSoft: "#4b525c",   // secondary prose                7.6:1
+  inkMuted: "#6c7480",  // labels, counts                 4.6:1
+  inkFaint: "#9aa2ad",  // disabled, deselected           2.5:1  decorative
+  inkGhost: "#c3c9d0",  // faded-out chapters                    decorative
 
-  // Rules and edges.
-  rule: "#e4dac6",       // section rules — was #d4c9b5
-  edge: "#d7c8a6",       // button borders — was #c9b99a
-  edgeFaint: "#efe8d9",  // faded borders — was #e8e0d0 / #e0d8c5
+  // Rules and edges — neutral, so they read as structure and not as stain.
+  rule: "#e5e7ea",
+  edge: "#d2d7dd",
+  edgeFaint: "#eef0f2",
 
-  // Brass.
-  accent: "#96731a",     // the working accent — was #8a6b1f, more saturated
-  accentOnBand: "#e6c775", // gold on the dark band — was #d4b463, brighter
-  accentSoft: "#c2b07a",
+  // Brass. The one colour, kept deep enough to carry text.
+  accent: "#8a6a0f",       // working accent                4.9:1
+  accentSoft: "#b8902a",   // decorative rules, chips              decorative
+  accentOnBand: "#e8c66a", // gold on the dark band         9.8:1 against band
 
-  // Accent washes, in ascending weight.
-  wash05: "rgba(150,115,26,0.06)",
-  wash07: "rgba(150,115,26,0.08)",
-  wash08: "rgba(150,115,26,0.09)",
-  wash10: "rgba(150,115,26,0.12)",
-  wash13: "rgba(150,115,26,0.16)",
-  wash25: "rgba(150,115,26,0.28)",
+  // Accent washes, ascending weight. Neutralised from the old brown wash.
+  wash05: "rgba(138,106,15,0.05)",
+  wash07: "rgba(138,106,15,0.07)",
+  wash08: "rgba(138,106,15,0.08)",
+  wash10: "rgba(138,106,15,0.10)",
+  wash13: "rgba(138,106,15,0.14)",
+  wash25: "rgba(138,106,15,0.26)",
 
-  // Contested / counter-evidence reds.
-  warn: "#b0523f",
-  warnSoft: "#d4a89a",
-  warnDeep: "#8a5a4e",
-  neutral: "#b09a86",
-  paperShade: "rgba(122,110,90,0.05)",
+  // Counter-evidence. A cleaner red than the old brick-brown #b0523f.
+  warn: "#b3402c",       //                                 5.5:1
+  warnSoft: "#e0a99e",
+  warnDeep: "#8c3626",
+  neutral: "#9aa2ad",
+  paperShade: "rgba(35,39,46,0.04)",
 };
 
 /**
- * The confidence ramp. Darkest ink is the most certain link, so the reader can
- * see how sure the catalogue is without reading a label. Brightened with the
- * rest of the palette, but the top of the ramp stays deep: a `certain` link
- * should look settled, and settled means dark.
+ * The confidence ramp. Darkest ink is the most certain link, so a reader sees
+ * how sure the catalogue is without reading a label. It inks the link's own
+ * text, so every step has to stay readable — `low` is the faintest the ramp
+ * can go and still be read (3.1:1), not the faintest that looked right.
  */
 export const INK = {
-  certain: "#63500f",
-  high: P.accent,
-  moderate: "#b0913c",
-  low: "#c9b478",
-  contested: P.warn,
+  certain: "#5f4a08",   // 8.2:1
+  high: P.accent,       // 4.9:1
+  moderate: "#9d7c26",  // 3.8:1
+  low: "#ab8c42",       // 3.1:1
+  contested: P.warn,    // 5.5:1
 };

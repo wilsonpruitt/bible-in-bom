@@ -1,3 +1,4 @@
+import { P } from "@/lib/palette";
 import { ImageResponse } from "next/og";
 
 // Social-share card for Brass. Mirrors the landing header: ink ground, brass
@@ -8,11 +9,11 @@ export const alt = "Brass — The Bible in the Book of Mormon · Wroot Press";
 export const size = { width: 1200, height: 630 };
 export const contentType = "image/png";
 
-const INK = "#2c2418";
-const CREAM = "#f5f0e8";
-const BRONZE = "#8a6b1f";
-const GOLD = "#d4b463";
-const MUTE = "#a08c78";
+const INK = P.band;
+const CREAM = P.page;
+const BRONZE = P.accent;
+const GOLD = P.accentOnBand;
+const MUTE = P.inkFaint;
 
 // Subset Cormorant Garamond to just the glyphs the card uses.
 async function cormorant(text: string, weight: 600 | 700) {

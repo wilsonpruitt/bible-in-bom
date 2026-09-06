@@ -114,7 +114,7 @@ export default function Home() {
                     display: "block",
                     padding: "16px 24px",
                     background: P.fill,
-                    border: "1px solid #e0d8c5",
+                    border: `1px solid ${P.edgeFaint}`,
                     borderRadius: 6,
                     opacity: 0.45,
                   }}
@@ -141,7 +141,7 @@ export default function Home() {
                   display: "block",
                   padding: "20px 24px",
                   background: P.fill,
-                  border: "1px solid #d4c9b5",
+                  border: `1px solid ${P.rule}`,
                   borderRadius: 6,
                   textDecoration: "none",
                   color: "inherit",
