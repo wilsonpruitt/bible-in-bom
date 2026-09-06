@@ -25,7 +25,16 @@ def bookchap(ref: str):
     return (m.group(1).strip(), m.group(2)) if m else (ref, "")
 
 
-def main(slug="1-nephi", name="1 Nephi", tolerance=1):
+def main(slug=None, name=None, tolerance=None):
+    import argparse
+    ap = argparse.ArgumentParser(description=__doc__)
+    ap.add_argument("slug", nargs="?", default=slug or "1-nephi")
+    ap.add_argument("--name", default=name)
+    ap.add_argument("--tolerance", type=int, default=tolerance if tolerance is not None else 1,
+                    help="how many verses a Link may sit from the verse Hardy keys the row to")
+    args = ap.parse_args()
+    slug, tolerance = args.slug, args.tolerance
+    name = args.name or json.loads((ROOT / "data" / f"{slug}.json").read_text())["name"]
     hardy = json.loads((ROOT / "data" / "hardy-refs.json").read_text())
     book = json.loads((ROOT / "data" / f"{slug}.json").read_text())
     exc = json.loads((ROOT / "data" / "exclusions.json").read_text())["exclusions"]

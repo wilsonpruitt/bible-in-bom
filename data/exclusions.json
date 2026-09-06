@@ -3320,36 +3320,6 @@
       "reason": "The top-ranked candidate for the verse is four words of narrative hinge inside 'it came to pass, that I, Jacob'. Covered by the standing exclusion for KJV connective formulae; recorded here only because it was the chapter's highest-scoring machine proposal and a reader of the dossier will wonder why nothing came of it."
     },
     {
-      "bomRef": "Jacob 4:3",
-      "source": "Isaiah 5:1-7",
-      "category": "better-source-identified",
-      "sharedText": "(none — no verbal contact)",
-      "streams": [
-        "scholarship"
-      ],
-      "reason": "Hardy's appendix is indexed in this project at Jacob 4:3, but the row cannot belong there: Jacob 4:3 is about engraving on plates and receiving a record with joy, and shares no word with the song of the vineyard. Isaiah 5:1-7, Luke 13:6-9 and Romans 11:17-24 are the three biblical vineyard-and-planting passages behind the allegory of the olive tree, which begins at Jacob 5:3 ('I will liken thee, O house of Israel, like unto a tame olive tree'). This looks like a one-chapter slip in our transcription of Hardy (4:3 for 5:3), not a claim of his about this verse; it is recorded as an exclusion so the Hardy coverage check does not report a phantom gap, and flagged for Wilson. The verse's actual source is Hebrews 13:17, catalogued as a link."
-    },
-    {
-      "bomRef": "Jacob 4:3",
-      "source": "Luke 13:6-9",
-      "category": "better-source-identified",
-      "sharedText": "(none — no verbal contact)",
-      "streams": [
-        "scholarship"
-      ],
-      "reason": "See the Isaiah 5:1-7 entry at this verse. The parable of the barren fig tree in the vineyard belongs to the allegory in Jacob 5, not to Jacob 4:3."
-    },
-    {
-      "bomRef": "Jacob 4:3",
-      "source": "Romans 11:17-24",
-      "category": "better-source-identified",
-      "sharedText": "(none — no verbal contact at this verse)",
-      "streams": [
-        "scholarship"
-      ],
-      "reason": "See the Isaiah 5:1-7 entry at this verse. Romans 11's grafted olive tree is the source of the allegory in Jacob 5 and has no contact with 4:3. Note that Romans 11 IS a source in this chapter, but at 4:8 (the doxology of 11:33), 4:14 (blindness and stumbling, 11:7-11) and 4:18 (the mystery of 11:25), all catalogued as links; the branches and the grafting are not among them."
-    },
-    {
       "bomRef": "Jacob 4:4",
       "source": "1 Corinthians 9:15",
       "category": "formulaic",
@@ -3608,6 +3578,176 @@
         "machine-ngram"
       ],
       "reason": "The top-scoring candidate at this verse on n-gram rarity (2.00) and entirely worthless: the five words are a prepositional chain, and Obadiah 1:13 is about Edom entering the gate of Jerusalem in the day of its calamity. The verse's real source is the doubled seeing-and-hearing formula of Exodus 3:7, which the machine stream cannot see because Jacob splits it across a clause boundary and substitutes his own nouns."
+    },
+    {
+      "bomRef": "Jacob 5:1",
+      "source": "Joshua 1:1",
+      "category": "formulaic",
+      "sharedText": "and it came to pass that the",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "Standing exclusion for the whole of Jacob 5. The allegory is built on a small set of refrains that recur dozens of times across seventy-seven verses: 'and it came to pass that the Lord of the vineyard sayeth unto his servant', 'it grieveth me that I should lose this tree', 'lay it up against the season, unto mine own self', 'let us go down into the vineyard, that we may labor'. The n-gram stream ranks Joshua 1:1 ('and it came to pass after the death of Moses') first or near-first at eleven separate verses of this chapter on runs of six and seven words, all of them connective. Nothing in that class is adjudicated here; see the standing exclusion at 1 Nephi 1:5 and 2:1 for the same decision in the pilot."
+    },
+    {
+      "bomRef": "Jacob 5:2",
+      "source": "Isaiah 11:11",
+      "category": "insufficient-verbal",
+      "sharedText": "O house of Israel",
+      "streams": [
+        "scholarship"
+      ],
+      "reason": "Hardy's cross-reference apparatus files Isaiah 11:11 at this verse, and the recovery it announces — the Lord setting his hand 'again the second time to recover the remnant of his people' — is unquestionably the theology of the second grafting at Jacob 5:52-68. But there is no verbal contact at 5:2, whose only shared material is the vocative 'O house of Israel'. The wording Isaiah 11:11 answers to stands two chapters later at Jacob 6:2, 'in the day that he shall set his hand again the second time to recover his people', where the phrase 'the second time to recover' is a KJV singleton; that is where the link belongs and it is left for the adjudication of Jacob 6."
+    },
+    {
+      "bomRef": "Jacob 5:3",
+      "source": "Matthew 7:24",
+      "category": "wrong-sense",
+      "sharedText": "I will liken",
+      "streams": [
+        "manual"
+      ],
+      "reason": "'I will liken thee, O House of Israel, like unto a tame olive tree' contains a genuine KJV singleton: 'I will liken' occurs in exactly one verse of the Authorized Version, Matthew 7:24, 'I will liken him unto a wise man, which built his house upon a rock'. The count is real and the temptation is real, but the sense is not shared at any level — Matthew's clause introduces a simile about obedience and building, Zenos's introduces an extended allegory about a tree — and the formula 'I will liken X unto Y' is ordinary English independent of any verse. A singleton that is a singleton only because the KJV happens to prefer 'whereunto shall I liken' elsewhere is a fact about the concordance, not evidence of dependence."
+    },
+    {
+      "bomRef": "Jacob 5:4",
+      "source": "Isaiah 65:2",
+      "category": "better-source-identified",
+      "sharedText": "(none at this verse)",
+      "streams": [
+        "scholarship"
+      ],
+      "reason": "Hardy's apparatus files Isaiah 65:2 and Romans 10:21 at Jacob 5:4, which in our text reads only 'I will prune it, and dig about it, and nourish it'. There is no stretched-forth hand here. The sentence the two references answer to is at Jacob 5:47, 'I have stretched forth mine hand almost all the day long', and that is where the link is catalogued — with the mediation decided, since the Book of Mormon has Romans 10:21's 'stretched forth' and not Isaiah 65:2's 'spread out'. Recorded as an exclusion at 5:4 so that the Hardy row is accounted for at the verse where his apparatus places it."
+    },
+    {
+      "bomRef": "Jacob 5:6",
+      "source": "Psalm 95:7",
+      "category": "insufficient-verbal",
+      "sharedText": "(none)",
+      "streams": [
+        "scholarship"
+      ],
+      "reason": "Hardy's apparatus files Psalm 95:7-8 at this verse. Jacob 5:6 reads 'after many days, it began to put forth somewhat a little, young and tender branches; but behold, the main top thereof began to perish', and Psalm 95:7-8 reads 'To day if ye will hear his voice, harden not your heart, as in the provocation'. There is no shared vocabulary, no shared figure, and no shared syntax; the only connection available is thematic — a people given time and failing to use it — which is the theme of the whole allegory and not of this verse. Recorded rather than passed over because it is a scholarship-stream row and every such row must end as a link or a reasoned exclusion."
+    },
+    {
+      "bomRef": "Jacob 5:13",
+      "source": "1 Kings 6:6",
+      "category": "wrong-sense",
+      "sharedText": "nethermost",
+      "streams": [
+        "manual"
+      ],
+      "reason": "'The nethermost part of my vineyard' is one of the chapter's structural terms — it recurs at 5:14, 5:19, 5:20, 5:38, 5:39 and 5:52 and carries the allegory's whole New World application — and 'nethermost' is a KJV singleton, at 1 Kings 6:6. But the singleton is architectural: it names the lowest of the three storeys of side chambers around Solomon's temple. Nothing in the Book of Mormon's use is spatial in that sense, nothing in 1 Kings is horticultural, and no other word of either context is shared. This is the model case for the register: an absolute rarity count that establishes only that the writer knew an English word the KJV happens to use once."
+    },
+    {
+      "bomRef": "Jacob 5:17",
+      "source": "Genesis 1:4",
+      "category": "common-vocabulary",
+      "sharedText": "that it was good",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "The n-gram stream ranks Genesis 1:4 first at both 5:17 and 5:20 on 'he beheld that it was good' against 'And God saw the light, that it was good'. The temptation is a real one, since the creation refrain is among the most recognisable formulas in the KJV and an allegory about a maker inspecting his work could plausibly reach for it. It is declined because the refrain in Genesis 1 is 'God saw that it was good' seven times over and the shared string is the four commonest words in it; the Book of Mormon's verb is 'beheld', which Genesis 1 never uses, and the object is fruit, not a completed act of creation. Nothing distinguishes this from ordinary approving English."
+    },
+    {
+      "bomRef": "Jacob 5:21",
+      "source": "Matthew 13:8",
+      "category": "insufficient-verbal",
+      "sharedText": "good ground",
+      "streams": [
+        "manual"
+      ],
+      "reason": "Jacob 5:21-25 turns on the quality of ground — 'the poorest spot in all the land of thy vineyard', 'this spot of ground was poorer than the first', 'this have I planted in a good spot of ground' — and the parable of the sower is the obvious KJV background for a planting whose outcome varies with the soil. It is declined because the sower's distinctions are wayside, stony places, thorns and good ground, and none of the first three appears here, while 'good ground' by itself is four words of common English. Jacob 5's variable is the owner's choice of site, not the seed's fortune, and the surprise of the passage is the opposite of Matthew 13's: here the poorest ground bears much fruit and the best ground fails."
+    },
+    {
+      "bomRef": "Jacob 5:41",
+      "source": "Luke 19:41",
+      "category": "insufficient-verbal",
+      "sharedText": "wept",
+      "streams": [
+        "manual"
+      ],
+      "reason": "'And it came to pass that the Lord of the vineyard wept' is the emotional centre of the allegory and has no counterpart in any of its three sources — Isaiah 5's owner is angry, Luke 13's is impatient, Romans 11's does not appear as a character. Luke 19:41, where Jesus beholds the city and weeps over it two chapters before telling the parable of the wicked husbandmen, is the nearest KJV analogue and the sequence is suggestive. It is declined because 'wept' occurs in seventy-two KJV verses and nothing else is shared; the tear is recorded in the note at 5:41 as the Book of Mormon's own addition to Isaiah 5:4 rather than as a borrowing."
+    },
+    {
+      "bomRef": "Jacob 5:49",
+      "source": "Genesis 11:3",
+      "category": "wrong-sense",
+      "sharedText": "go to let us",
+      "streams": [
+        "manual"
+      ],
+      "reason": "'Let us go to, and hew down the trees of the vineyard' uses an idiom the KJV has at Genesis 11:3, 11:4 and 11:7 ('Go to, let us make brick', 'Go to, let us build us a city', 'Go to, let us go down, and there confound their language') and at James 4:13 and 5:1. The Babel verses are the closest in form, and the third of them is even a divine 'let us go down'. Declined as an idiom rather than an allusion: the Book of Mormon uses 'go to' six times in this chapter (5:49, 5:52, 5:61, 5:62, 5:71) in every register, including the servant's speech, which is what an inherited interjection looks like and not what a Babel allusion would look like."
+    },
+    {
+      "bomRef": "Jacob 5:53",
+      "source": "John 14:13",
+      "category": "formulaic",
+      "sharedText": "will I do that the",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "A five-word run of pure connective tissue — 'And this will I do, that the tree may not perish' against 'that will I do, that the Father may be glorified in the Son'. No content word is shared. Recorded only because the machine ranked it first at this verse."
+    },
+    {
+      "bomRef": "Jacob 5:54",
+      "source": "Numbers 11:17",
+      "category": "formulaic",
+      "sharedText": "I will take of the",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "'I will take of the branches of this tree' against 'I will take of the spirit which is upon thee'. Five connective words and a shared partitive construction; the subject of Numbers 11:17 is the distribution of Moses's spirit to the seventy elders and shares nothing else with the grafting instruction."
+    },
+    {
+      "bomRef": "Jacob 5:63",
+      "source": "Revelation 1:11",
+      "category": "better-source-identified",
+      "sharedText": "the first and the last",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "The n-gram stream ranks Revelation 1:11 highest at this verse on 'the first and the last', which is a real six-word agreement and a phrase Revelation makes into a divine title (1:11, 1:17, 2:8, 22:13). It is superseded. Jacob 5:63 reads 'begin at the last, that they may be first, and that the first may be last', which is Matthew 20:16's antithesis, not Revelation's self-designation; and the same verse's 'begin at the last' answers Matthew 20:8's 'beginning from the last unto the first', a KJV singleton from the parable that already supplied this chapter's name for God at 5:8. Revelation's phrase is a title for a person; the Book of Mormon's is an order of operations."
+    },
+    {
+      "bomRef": "Jacob 5:68",
+      "source": "Genesis 2:24",
+      "category": "better-source-identified",
+      "sharedText": "they shall be one",
+      "streams": [
+        "manual"
+      ],
+      "reason": "'They shall be one' occurs in exactly two KJV verses and Genesis 2:24 is one of them. It is superseded by Ezekiel 37:19, the other, where the phrase describes two separated portions of Israel — the stick of Joseph and the stick of Judah — made one in the Lord's hand. Genesis's 'one flesh' is a marriage formula and cannot carry the sense Jacob 5:67-68 needs, which is the reunification of branches that were divided and dispersed."
+    },
+    {
+      "bomRef": "Jacob 5:77",
+      "source": "Jeremiah 38:23",
+      "category": "better-source-identified",
+      "sharedText": "to be burned with fire",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "The machine proposes Jeremiah 38:23 at the allegory's last verse on 'to be burned with fire' — Zedekiah told that he shall cause Jerusalem to be burned with fire. The five-word run is real but the phrase is common KJV judgment language, and the verse it stands in has been reached by a different route: 5:77's controlling source is Matthew 13:47-50, whose 'gathered the good into vessels, but cast the bad away' supplies two singletons to the same sentence, and whose burning at 'the end of this world' (Matthew 13:40, 13:49) supplies the clause Jeremiah is being proposed for."
+    },
+    {
+      "bomRef": "Jacob 5:3",
+      "source": "Isaiah 5:1-7",
+      "category": "better-source-identified",
+      "sharedText": "(the vineyard song)",
+      "streams": [
+        "scholarship"
+      ],
+      "reason": "Hardy keys Isaiah 5:1-7 to Jacob 5:3, the verse that introduces the allegory — 'I will liken thee, O House of Israel, like unto a tame olive tree, which a man took and nourished in his vineyard'. That is the right place for a cross-reference to a whole chapter's governing image, and 5:3 itself reproduces no wording from it. The catalogue places the link where the verbal evidence is: Jacob 5:41 quotes Isaiah 5:4's 'what could have been done more', a KJV singleton, converting its passive to a first-person active. Recorded here so Hardy's row is discharged at his own verse and a reader who looks for it at 5:3 is sent to 5:41."
+    },
+    {
+      "bomRef": "Jacob 5:3",
+      "source": "Romans 11:17-24",
+      "category": "better-source-identified",
+      "sharedText": "(the olive tree)",
+      "streams": [
+        "scholarship"
+      ],
+      "reason": "As with Isaiah 5:1-7 above: Hardy keys Paul's olive tree to the verse that introduces the allegory, and the catalogue places it at Jacob 5:7, where the branches are broken off and the wild are grafted in, with recurrenceRefs back to 1 Nephi 10:12, 10:14 and 15:13 where the Romans 11 claim was first argued. Note the limit the Jacob 5 pass registered and that the 1 Nephi rows did not: the KJV spells the verb 'graff' at all four places in Romans 11, and Jacob 5 spells it 'graft' twenty-two times and 'graff' never, in 1830 as in every later edition. The allegory is Paul's; the orthography is not."
     }
   ]
 }

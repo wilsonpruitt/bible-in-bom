@@ -1,11 +1,32 @@
 {
-  "note": "Verse-attribution corrections to data/hardy-refs.json, applied by tools/parse-hardy.py after parsing so they survive a re-run. parse-hardy walks verses against page-boundary checkpoints and can land a footnote one chapter early when a chapter turns over mid-page; that is a known limit of the method (see its docstring). Each entry records the evidence, because a correction to a scholarly apparatus must be checkable.",
+  "note": "Verse-attribution corrections to data/hardy-refs.json, applied by tools/parse-hardy.py after parsing so they survive a re-run. parse-hardy walks verses against page-boundary checkpoints and can mis-attribute a footnote when a chapter turns over mid-page, or drift inside a very long chapter; both are limits of the method (see its docstring). THREE such errors were found in Jacob alone by the adjudicating agents — see the moves below — against none yet found in 1 Nephi, whose 62 rows were each checked against the text during that book's passes. The walker needs an audit before Mosiah and Alma, whose chapters are longer and more numerous than Jacob's. Each entry records its evidence, because a correction to a scholarly apparatus must be checkable.",
   "moves": [
     {
       "from": "Jacob 4:3",
       "to": "Jacob 5:3",
-      "refs": ["Isaiah 5:1-7", "Luke 13:6-9", "Romans 11:17-24"],
+      "refs": [
+        "Isaiah 5:1-7",
+        "Luke 13:6-9",
+        "Romans 11:17-24"
+      ],
       "reason": "Found by the Jacob 4 adjudication pass. Jacob 4:3 is about engraving words on plates and has no contact with a vineyard or an olive tree. Jacob 5:3 is 'I will liken thee, O House of Israel, like unto a tame olive tree, which a man took and nourished in his vineyard' — which is what Isaiah 5:1-7 (the vineyard song), Luke 13:6-9 (the barren fig tree in a vineyard) and Romans 11:17-24 (the olive tree) are cross-references to. A one-chapter slip; Hardy's neighbouring rows at 4:16 and 4:17 are correctly placed, so this is not a systematic offset."
+    },
+    {
+      "from": "Jacob 5:4",
+      "to": "Jacob 5:47",
+      "refs": [
+        "Isaiah 65:2",
+        "Romans 10:21"
+      ],
+      "reason": "Found by the Jacob 5 pass. Jacob 5:4 is the master pruning and digging about a decaying tree; it has no hand in it. Jacob 5:47 is 'I have stretched forth mine hand almost all the day long', which is what Isaiah 65:2 ('I have spread out my hands all the day') and Romans 10:21 ('All day long I have stretched forth my hands') are cross-references to. A 43-verse drift inside the longest chapter in the Book of Mormon — a different failure from the 4:3 slip, and the reason the walker needs auditing rather than patching."
+    },
+    {
+      "from": "Jacob 5:2",
+      "to": "Jacob 6:2",
+      "refs": [
+        "Isaiah 11:11"
+      ],
+      "reason": "Found by the Jacob 5 pass. Jacob 5:2 is the bare summons 'Hearken O ye House of Israel'. Jacob 6:2 reads 'in the day that he shall set his hand again the second time to recover his people', which is Isaiah 11:11's 'the Lord shall set his hand again the second time to recover the remnant of his people' almost verbatim. A one-chapter slip, the same shape as Jacob 4:3 → 5:3."
     }
   ]
 }
