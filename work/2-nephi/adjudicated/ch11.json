@@ -1,0 +1,196 @@
+{
+  "chapter": 11,
+  "adjudicated": "2026-09-05",
+  "adjudicator": "Opus",
+  "links": {
+    "11:1": [
+      {
+        "source": "John 14:8",
+        "type": "echo",
+        "subtype": "possible",
+        "confidence": "low",
+        "evidence": {
+          "vocabulary": 2,
+          "syntax": 2,
+          "sequence": 1,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "John 14:9"
+        ],
+        "recurrenceRefs": [
+          "2 Nephi 11:2",
+          "2 Nephi 11:3"
+        ],
+        "provenance": {
+          "route": "John 14:8-9 -> KJV -> Book of Mormon",
+          "other": "“sufficeth” occurs in exactly one KJV verse, John 14:8. The 1830 reads “for the things which I have written, sufficeth me”, with the singular verb after a plural subject; the modern text keeps it.",
+          "significance": "If the echo is real, the metalepsis is exact. The KJV's one “sufficeth” is Philip asking to be shown the Father — “shew us the Father, and it sufficeth us” — and being told that having seen the Son is having seen him. Nephi's next two verses are entirely about who has seen: Isaiah “verily saw my Redeemer, even as I have seen him”, and Jacob “also hath seen him as I have seen him.” The word that closes the record of Jacob's sermon is, in the KJV, the word of a disciple asking whether seeing is enough."
+        },
+        "note": "Proposed under CONVENTIONS 0a on the strength of an absolute rarity and nothing else. The interest is the company the word keeps: a chapter about a sufficiency of eyewitnesses opens with the KJV's only sufficiency word, and closes the thought at 11:3 with the number of witnesses required to establish a matter.",
+        "whyNot": "One word, and it is a perfectly ordinary word of the period that needs no biblical source. The syntax is unrelated — Philip's “it sufficeth us” is a clause, Nephi's is a predicate on “the things which I have written” — and John 14 has no other contact with the chapter. A reader who declines this loses nothing.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "Philip saith unto him, Lord, shew us the Father, and it sufficeth us."
+      }
+    ],
+    "11:2": [
+      {
+        "source": "Isaiah 42:1",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 2,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "recurrenceRefs": [
+          "2 Nephi 4:15",
+          "2 Nephi 4:16",
+          "2 Nephi 11:4",
+          "2 Nephi 11:5",
+          "2 Nephi 11:6"
+        ],
+        "provenance": {
+          "route": "Isaiah 42:1 -> KJV -> Book of Mormon",
+          "other": "“my soul delighteth” occurs in exactly one KJV verse, Isaiah 42:1: “Behold my servant, whom I uphold; mine elect, in whom my soul delighteth; I have put my spirit upon him.” The phrase is Nephi's refrain — four times in this eight-verse chapter (11:2, 11:4, 11:5 twice, 11:6) and earlier at 2 Nephi 4:15-16.",
+          "significance": "This is the chapter's principal finding and it is a piece of metalepsis in the strict sense. The one KJV verse in which a soul delights is the first Servant Song, and the soul that delights is God's, and what it delights in is the Servant. Nephi announces at 11:2 that he is about to write more of the words of Isaiah, and he announces it in the phrase Isaiah gives to God about the Servant. Then at 11:4 he says what his soul delights in: “proving unto my people the truth of the coming of Christ” — that is, the Servant. The refrain and its object come from the same verse, and neither text says so."
+        },
+        "note": "Nephi's signature formula, and it is a KJV singleton lifted from the verse that opens the Servant Songs — the body of Isaiah he is about to transcribe from chapter 12 onward. The machine stream proposed nothing for this verse, and could not: the phrase is four common words and the argument is entirely in the rarity of their combination. Flagged for Wilson: the refrain's first occurrence in the book is at 2 Nephi 4:15-16, adjudicated by another agent in this run without this source, so by ADJUDICATING 4 the row arguably belongs there and this one should be the recurrence. The link is written here because this is the chapter where the phrase does its work.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "Behold my servant, whom I uphold; mine elect, in whom my soul delighteth; I have put my spirit upon him: he shall bring forth judgment to the Gentiles."
+      }
+    ],
+    "11:3": [
+      {
+        "source": "Deuteronomy 19:15",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 3
+        },
+        "kjvSpecific": "yes",
+        "mediation": "OT-via-NT",
+        "composite": [
+          "2 Corinthians 13:1",
+          "Matthew 18:16"
+        ],
+        "provenance": {
+          "route": "Deuteronomy 19:15 via 2 Corinthians 13:1 / Matthew 18:16 -> KJV -> Book of Mormon",
+          "other": "The two forms differ on one noun. Deuteronomy 19:15 ends “shall the MATTER be established”; the New Testament citations end “every WORD be established” — “every word be established” occurs in exactly one KJV verse, 2 Corinthians 13:1, with Matthew 18:16's “every word may be established” beside it. 2 Nephi 11:3 reads “I will establish my WORD.” The Book of Mormon has the New Testament's noun. Against that, “three” standing alone as a sufficient number is Deuteronomy's — the New Testament always has “two or three”, which occurs in exactly four KJV verses, and Nephi has “by the words of three”. Note that mediation-check.py reports one decisive point for Deuteronomy on the word “witnesses”; that is an artifact of the alignment, which matched “witnesses” from Nephi's following sentence (“God sendeth more witnesses”) against a gap. The real divergence is matter/word, and it goes the other way.",
+          "significance": "Deuteronomy 19:15 is a rule of criminal evidence: no man is convicted on one witness. The New Testament keeps the rule but changes what is being established from a matter to a word, and Nephi takes the New Testament's version and applies it to a text — his own. He has just named exactly three seers of the Redeemer (Isaiah at 11:2, Jacob and himself at 11:3), which is Deuteronomy's number; and then he exceeds his own rule in the next clause, “Nevertheless, God sendeth more witnesses.” The 1830 volume opens with a page headed The Testimony of Three Witnesses, which is the same rule put to the same use."
+        },
+        "note": "The chapter's one Hardy row, and it is a mediation case that turns on a single word. Deuteronomy supplies the three witnesses, the New Testament supplies “establish my word” against Deuteronomy's “establish the matter”, and the Book of Mormon has both. Hardy cross-references all three verses here — Deuteronomy 19:15, Matthew 18:16 and 2 Corinthians 13:1 — without adjudicating between them; the finding is that the sentence does not have to choose, because it has taken the number from one and the object from the other.",
+        "bibliography": [
+          "Hardy MSI at 2 Ne 11.3 (Deut 19.15; Matt 18.16; 2 Cor 13.1)"
+        ],
+        "status": "majority",
+        "streams": [
+          "scholarship",
+          "manual"
+        ],
+        "text": "One witness shall not rise up against a man for any iniquity, or for any sin, in any sin that he sinneth: at the mouth of two witnesses, or at the mouth of three witnesses, shall the matter be established."
+      }
+    ],
+    "11:4": [
+      {
+        "source": "Hebrews 10:1",
+        "type": "echo",
+        "subtype": "conceptual",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 2,
+          "syntax": 2,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 2,
+          "attestation": 0
+        },
+        "kjvSpecific": "no",
+        "mediation": "direct-NT",
+        "composite": [
+          "Colossians 2:17",
+          "Romans 5:14"
+        ],
+        "provenance": {
+          "route": "Hebrews 10:1 / Colossians 2:17, with Romans 5:14's construction -> KJV -> Book of Mormon",
+          "other": "The KJV has no word “type” and no verb “typify”. Where the Book of Mormon says “the typifying of him”, the KJV says “a shadow of good things to come” (Hebrews 10:1), “a shadow of things to come; but the body is of Christ” (Colossians 2:17), and “the figure of him that was to come” (Romans 5:14). Romans 5:14 is the only one with the genitive of the person, which is the construction 2 Nephi 11:4 uses.",
+          "significance": "The claim of 11:4 — that the law of Moses was given for the purpose of proving Christ, and that everything given from the beginning of the world typifies him — is Hebrews' argument about the law compressed into one sentence, with Colossians' body/shadow and Romans' figure/fulfilment behind it. What is not from the KJV is the vocabulary. The Book of Mormon reaches for a technical term of Christian typology that the KJV does not contain, in a verse whose whole business is naming the practice, and the term it reaches for is the post-biblical one."
+        },
+        "note": "Filed as an echo and no higher, because the wording is not the KJV's — that is the point of the row. The concept is Hebrews 10:1 and Colossians 2:17 exactly; the word is not, and the mismatch is evidence worth cataloguing about how the book's theological vocabulary relates to its scriptural one.",
+        "whyNot": "No distinctive shared phrase at all. A reader may fairly say that a book arguing the law points to Christ needs no particular verse behind it, and that “typifying” is nineteenth-century theological English rather than a rendering of anything in Hebrews.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "For the law having a shadow of good things to come, and not the very image of the things, can never with those sacrifices which they offered year by year continually make the comers thereunto perfect."
+      }
+    ],
+    "11:7": [
+      {
+        "source": "1 Corinthians 15:13",
+        "type": "allusion",
+        "subtype": "structural",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "1 Corinthians 15:14",
+          "Galatians 4:4"
+        ],
+        "recurrenceRefs": [
+          "2 Nephi 2:13",
+          "2 Nephi 2:3"
+        ],
+        "provenance": {
+          "route": "1 Corinthians 15:13-17 -> KJV -> Book of Mormon",
+          "other": "“if there be no” occurs in exactly four KJV verses: 1 Samuel 11:3, Acts 25:11, 1 Corinthians 14:28 and 1 Corinthians 15:13. Only 1 Corinthians 15 uses it to open a chain of consequences — “if there be no resurrection of the dead, then is Christ not risen: and if Christ be not risen, then is our preaching vain” — which is the form 2 Nephi 11:7 takes twice over. The closing clause, “he cometh in the fulness of his own time”, rests on “the fulness of the time”, which occurs in exactly one KJV verse, Galatians 4:4, adjudicated at 2 Nephi 2:3.",
+          "significance": "Paul reasons from the denial of the resurrection down to the collapse of the preaching; Nephi reasons from the denial of Christ down to the collapse of creation itself — “if there be no God, we are not, for there could have been no creation.” Lehi had already run the same figure at 2 Nephi 2:13, and this is the son doing the father's argument in the father's borrowed form. Recover 1 Corinthians 15's context and the borrowing is apt: Paul's chain exists to establish that Christ is risen, and Nephi's exists to establish that Christ will come."
+        },
+        "note": "A structural allusion rather than a verbal one: the shared material is a chained conditional, the KJV's four “if there be no” verses, and the reductio that ends by asserting the antecedent (“But there is a God, and he is Christ” answers Paul's “But now is Christ risen”). The n-gram stream proposed Daniel 2:28 and 1 Samuel 17:46 here on “but there is a God”; both are excluded.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "But if there be no resurrection of the dead, then is Christ not risen:"
+      }
+    ]
+  }
+}

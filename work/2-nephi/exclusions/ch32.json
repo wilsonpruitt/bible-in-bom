@@ -1,0 +1,58 @@
+[
+  {
+    "bomRef": "2 Nephi 32:2",
+    "source": "1 Corinthians 13:1",
+    "category": "better-source-identified",
+    "sharedText": "speak with the tongue of angels",
+    "streams": ["manual"],
+    "reason": "Not a rejection of the source but of a second row for it. 'With the tongues of men and of angels' occurs in exactly one KJV verse, 1 Corinthians 13:1, and that is unquestionably where the tongue of angels comes from — but the borrowing was made at 2 Nephi 31:13 and repeated at 31:14, and 32:2-3 are Nephi quoting himself, explicitly: 'Do ye not remember that I said unto you...' A reader who meets the phrase four times in two chapters of one sitting is meeting one borrowing, and ADJUDICATING §4 adjudicates it at first use. The link is at 31:13 and this verse is registered there in recurrenceRefs, along with 32:3."
+  },
+  {
+    "bomRef": "2 Nephi 32:3",
+    "source": "2 Chronicles 32:8",
+    "category": "formulaic",
+    "sharedText": "upon the words of",
+    "streams": ["machine-ngram"],
+    "reason": "The stream's top candidate for the chapter's most famous sentence, and it is four words of preposition and article. 2 Chronicles 32:8 has the people of Judah resting themselves 'upon the words of Hezekiah king of Judah'; 2 Nephi 32:3 has 'feast upon the words of Christ'. The verb is what makes Nephi's sentence and it is not shared. Nor is there any biblical source for the feasting: 'feast upon' in this sense occurs nowhere in the KJV, and the nearest scriptural images — Jeremiah 15:16's eating of the words, Ezekiel 3:1-3's scroll, Amos 8:11's famine of hearing the words of the LORD — share the metaphor of consuming scripture but not one word of the phrasing. This is recorded at length because 32:3 is the verse a reader is most likely to expect a link at, and the honest answer is that the most quoted sentence in the chapter appears to be Nephi's own."
+  },
+  {
+    "bomRef": "2 Nephi 32:5",
+    "source": "Matthew 18:19",
+    "category": "formulaic",
+    "sharedText": "again I say unto you, that if ye",
+    "streams": ["machine-ngram"],
+    "reason": "A seven-word run and the longest in the chapter, which is exactly why it is worth an entry: length alone decides nothing (ADJUDICATING §4). Every word is discourse frame — an adverb, a speech formula, a conjunction, a pronoun — and the two verses diverge at the first content word, Matthew's 'shall agree on earth' against Nephi's 'will enter in by the way'. Galatians 5:2 is proposed at the same verse for the same reason and fails the same way. The verse's real source is John 16:13, on the 1830 'shew'."
+  },
+  {
+    "bomRef": "2 Nephi 32:7",
+    "source": "Matthew 10:17",
+    "category": "wrong-sense",
+    "sharedText": "of men, for they will",
+    "streams": ["machine-ngram"],
+    "reason": "Rarity 2.00 and the top candidate for the verse, produced by a clause boundary falling in the same place in two unrelated sentences. Matthew 10:17 is 'beware of men: for they will deliver you up to the councils' — a warning about persecution. 2 Nephi 32:7 is 'the stiff-neckedness of men: for they will not search knowledge' — a lament about incuriosity. The shared string spans the colon in both and the agreement is punctuational rather than lexical. Nothing in 32:7 is about persecution and nothing in Matthew 10 is about knowledge."
+  },
+  {
+    "bomRef": "2 Nephi 32:9",
+    "source": "Numbers 10:14",
+    "category": "wrong-sense",
+    "sharedText": "in the first place",
+    "streams": ["machine-ngram"],
+    "reason": "'In the first place' occurs in exactly one KJV verse, Numbers 10:14, which makes it the kind of candidate a rarity search will always surface and a reader might well accept. It should not be. Numbers 10:14 is a marching order — the standard of the camp of Judah went in the first place, meaning first in the column — where the phrase is spatial and describes a position in a line. Nephi's 'save in the first place ye shall pray unto the Father' is temporal and means before anything else. The KJV singleton and the Book of Mormon idiom are homographs, not the same phrase, and the second is ordinary English of the 1820s needing no source at all. The model case of CONVENTIONS §5's wrong-sense category, and a warning that an absolute rarity is evidence only once the sense has been checked."
+  },
+  {
+    "bomRef": "2 Nephi 32:9",
+    "source": "Ephesians 5:20",
+    "category": "common-vocabulary",
+    "sharedText": "the Father in the name of",
+    "streams": ["machine-ngram"],
+    "reason": "Proposed here and again at 33:12 at rarity 2.02, and it is the commonest liturgical construction in the New Testament: Ephesians 5:20, John 14:13, 15:16, 16:23, 16:26, Colossians 3:17 and others all address the Father in a name. Ephesians 5:20 is about giving thanks and has no other contact with either verse. Where the construction does carry a source in this chapter it is John 16:23 — 'ask the Father in my name' occurs in exactly one KJV verse — and that is registered as a composite on the Luke 18:1 link rather than given a row here."
+  },
+  {
+    "bomRef": "2 Nephi 32:6",
+    "source": "Philemon 1:16",
+    "category": "formulaic",
+    "sharedText": "in the flesh, and",
+    "streams": ["machine-ngram"],
+    "reason": "Four words in which the only content word is 'flesh', a term the KJV uses several hundred times. Philemon 1:16 concerns Onesimus as a brother beloved both in the flesh and in the Lord; 2 Nephi 32:6 concerns Christ manifesting himself in the flesh. The Leviticus 13:3 and Leviticus 14:8 candidates at the same verse are of the same kind and are covered here rather than separately. Where 32:6 does have a source it is Deuteronomy 8:1, which the stream did not rank at all."
+  }
+]

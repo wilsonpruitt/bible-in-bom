@@ -1,0 +1,1155 @@
+{
+  "chapter": 25,
+  "adjudicated": "2026-09-05",
+  "adjudicator": "Opus",
+  "links": {
+    "25:2": [
+      {
+        "source": "John 19:40",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 2,
+          "context": 3,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "recurrenceRefs": [
+          "2 Nephi 25:1",
+          "2 Nephi 25:5",
+          "2 Nephi 25:6"
+        ],
+        "provenance": {
+          "route": "John 19:40 → KJV → Book of Mormon",
+          "other": "“manner of the Jews” occurs in exactly one KJV verse, John 19:40. The near neighbours are Galatians 2:14's “manner of the Gentiles” and Esther's “manner of the women”, neither of which supplies this collocation.",
+          "significance": "The one place the King James Bible speaks of the manner of the Jews, it is speaking of how they bury a body: 'as the manner of the Jews is to bury'. Nephi uses the phrase four times in six verses of a manner he refuses to teach his children, and eleven verses later he reaches the sepulchre himself — 'after that he is laid in a Sepulcher for the space of three days'. Recovering John's context turns the chapter's refrain into an anticipation of its climax: the manner of the Jews that Nephi will not teach is, in the KJV, the manner in which they buried Jesus."
+        },
+        "note": "The chapter's governing phrase, repeated at 25:1 ('the manner of prophesying among the Jews'), 25:2, 25:5 and 25:6. Its exact form here — 'concerning the manner of the Jews' — is a KJV singleton at John 19:40, which the n-gram stream found for four separate verses of this chapter because Nephi keeps returning to it. The link is graded moderate rather than high because the four words are ordinary and the syntactic frames differ: John's is a comparison ('as the manner of the Jews is to bury'), Nephi's a topic ('taught them many things concerning the manner of the Jews'). What carries it is the absolute rarity plus the density of repetition.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ],
+        "text": "Then took they the body of Jesus, and wound it in linen clothes with the spices, as the manner of the Jews is to bury."
+      },
+      {
+        "source": "Romans 13:12",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 2,
+          "context": 4,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Ephesians 5:11"
+        ],
+        "provenance": {
+          "route": "Romans 13:12 → KJV → Book of Mormon",
+          "other": "“works of darkness” occurs in exactly two KJV verses, Romans 13:12 and Ephesians 5:11. Both are Pauline and both are imperatives to have done with them — 'cast off the works of darkness', 'have no fellowship with the unfruitful works of darkness'.",
+          "significance": "Paul's phrase is always paired with its opposite: the armour of light at Romans 13:12, the reproof of Ephesians 5:11. Nephi pairs it instead with a coinage of his own on the same pattern — 'their works were works of darkness, and their doings were doings of abominations' — so the borrowed phrase generates the sentence's parallelism, and the second half is built by analogy on the first."
+        },
+        "note": "'For their works were works of darkness, and their doings were doings of abominations.' The phrase is Pauline and rare; the doubling is not Paul's. Note that this is the sentence Nephi gives as his reason for not teaching the manner of the Jews, so a Pauline judgment on the works of darkness is doing the argumentative work in a chapter that has just claimed to write plainly for Jewish readers.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "The night is far spent, the day is at hand: let us therefore cast off the works of darkness, and let us put on the armour of light."
+      }
+    ],
+    "25:4": [
+      {
+        "source": "Isaiah 51:4",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 3,
+          "attestation": 3
+        },
+        "kjvSpecific": "yes",
+        "mediation": "OT-via-earlier-BoM",
+        "composite": [
+          "Psalm 78:1"
+        ],
+        "recurrenceRefs": [
+          "2 Nephi 8:4"
+        ],
+        "provenance": {
+          "route": "Isaiah 51:4 → KJV → 2 Nephi 8:4 → 2 Nephi 25:4",
+          "other": "“give ear, O my people” occurs in exactly one KJV verse, Psalm 78:1. The paired imperatives in Isaiah's order — hearken, then give ear, with 'my people' attached to the first — are Isaiah 51:4's, and that verse is transcribed in this same book at 2 Nephi 8:4.",
+          "significance": "This is the first sentence of Nephi's exposition and it opens by quoting the block he has just transcribed. Isaiah 51:4 promises that 'a law shall proceed from me, and I will make my judgment to rest for a light of the people'; Nephi borrows its summons and substitutes his own prophecy for Isaiah's law, then explains in the same breath why he has to — 'because that the words of Isaiah are not plain unto you'. The borrowing is an argument about authority: he addresses his people in the words with which Isaiah addressed his."
+        },
+        "note": "'Wherefore hearken, O my people, which are of the House of Israel, and give ear unto my words.' The pair of imperatives, in this order and with the vocative between them, is Isaiah 51:4's — a verse this book transcribes at 2 Nephi 8:4, sixteen chapters earlier, in Jacob's hand. Psalm 78:1's 'Give ear, O my people' supplies the exact vocative Nephi uses and is the KJV's only instance of it, so the sentence is best read as a fusion: Isaiah's sequence with the Psalm's address. Hardy cross-references Isaiah 51:4 at this verse. Mediation is set to OT-via-earlier-BoM because the proximate model is the transcription at 8:4 rather than the Bible directly — Nephi's whole point in 25:1-6 is that he is speaking about words already written down in his record.",
+        "bibliography": [
+          "Hardy MSI at 2 Ne 25.4 (Isaiah 51:4)"
+        ],
+        "status": "majority",
+        "streams": [
+          "scholarship",
+          "manual"
+        ],
+        "text": "Hearken unto me, my people; and give ear unto me, O my nation: for a law shall proceed from me, and I will make my judgment to rest for a light of the people."
+      },
+      {
+        "source": "Revelation 19:10",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 2,
+          "sequence": 2,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "Revelation 19:10 → KJV → Book of Mormon",
+          "other": "“spirit of prophecy” occurs in exactly one KJV verse, Revelation 19:10, where it appears in a definition: 'the testimony of Jesus is the spirit of prophecy'.",
+          "significance": "Recover the definition and Nephi's criterion becomes a syllogism. Isaiah's words are plain, he says, 'unto all they that are filled with the spirit of prophecy'; the KJV's only account of what that spirit is says it is the testimony of Jesus; and the rest of the chapter is Nephi's testimony of Jesus offered as the thing that makes Isaiah plain. The verse Nephi does not quote supplies the premise the argument needs, which is what Hays means by metalepsis."
+        },
+        "note": "'Nevertheless they are plain unto all they that are filled with the spirit of prophecy.' Three common words, but their combination is a KJV singleton and it comes from the one place in the Bible that defines the phrase. This is a case where the rarity, not the volume, carries the link: 'spirit of prophecy' is a term of art in Revelation 19:10 and Nephi uses it as one, as the name of the qualification that lets a reader understand Isaiah. Below Skousen's sixteen-word threshold by a long way, and not one of his 36.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "And I fell at his feet to worship him. And he said unto me, See thou do it not: I am thy fellowservant, and of thy brethren that have the testimony of Jesus: worship God: for the testimony of Jesus is the spirit of prophecy."
+      }
+    ],
+    "25:10": [
+      {
+        "source": "Jeremiah 39:9",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "recurrenceRefs": [
+          "1 Nephi 1:13"
+        ],
+        "provenance": {
+          "route": "Jeremiah 39:9 → KJV → Book of Mormon",
+          "other": "“carried away captive into Babylon” occurs in exactly one KJV verse, Jeremiah 39:9 — Nebuzaradan deporting the remnant left in the city. Modern versions do not preserve the phrase ('carried into exile', 'took into exile').",
+          "significance": "1 Nephi opened on Lehi prophesying that Jerusalem would be destroyed and its inhabitants 'carried away captive into Babylon'; 2 Nephi 25:10 closes the loop by reporting that it happened. The same five-word KJV singleton stands at both ends of Nephi's record of the prophecy and of its fulfilment, which is a structural use of a borrowed phrase rather than an incidental one."
+        },
+        "note": "The phrase was adjudicated at 1 Nephi 1:13, where it is the strongest single piece of evidence in the pilot chapter. It re-enters here at the head of a new book and in a different rhetorical setting — no longer Lehi's vision but Nephi's retrospective proof that prophecy is verified by event — so the row is written rather than excluded (ADJUDICATING §4: a repeat across a book boundary gets the link). The argument for the source is made at 1 Nephi 1:13 and is not restated. Note the 1830 'save it be those which are carried away captive', where 1920 reads 'those who'.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ],
+        "text": "Then Nebuzaradan the captain of the guard carried away captive into Babylon the remnant of the people that remained in the city, and those that fell away, that fell to him, with the rest of the people that remained."
+      }
+    ],
+    "25:12": [
+      {
+        "source": "John 1:14",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "John 1:14 → KJV → Book of Mormon",
+          "other": "“only begotten of the Father” occurs in exactly one KJV verse, John 1:14. John elsewhere writes 'his only begotten Son' (3:16) and 'the only begotten Son' (1:18, 3:18); the genitive with 'of the Father' is unique to the prologue.",
+          "significance": "John 1:14's clause is the incarnation itself — 'the Word was made flesh, and dwelt among us' — and Nephi's sentence keeps the pairing: the only begotten of the Father 'shall manifest himself unto them in the flesh'. The title and the flesh travel together out of the same verse, which is why the second half of the sentence reaches 1 Timothy 3:16 rather than a second Johannine phrase."
+        },
+        "note": "'When the day cometh that the only begotten of the Father, yea, even the Father of heaven and of earth, shall manifest himself unto them in the flesh.' The title is John's prologue in its rarest form. What Nephi then does with it is not John's: he glosses 'the Father' as 'the Father of heaven and of earth' and makes the only begotten and the Father the same person, a modalism the Gospel of John does not license. The borrowed phrase is exact and the theology it is put to is the Book of Mormon's own.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ],
+        "text": "And the Word was made flesh, and dwelt among us, (and we beheld his glory, the glory as of the only begotten of the Father,) full of grace and truth."
+      },
+      {
+        "source": "1 Timothy 3:16",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "1 Timothy 3:16 → KJV → Book of Mormon",
+          "other": "“manifest in the flesh” occurs in exactly one KJV verse, 1 Timothy 3:16, 'God was manifest in the flesh'. The reading is KJV-specific in the strong sense: it follows the Textus Receptus's ΘΣ where the critical text reads ὅς, and modern versions print 'He was manifested' or 'who was manifested'.",
+          "significance": "1 Timothy 3:16's 'God was manifest in the flesh' is the King James Bible's most explicit statement that the one made flesh is God, and it is a reading that the Greek manuscripts do not support and modern translations do not print. Nephi's sentence makes the same identification in the same words — the only begotten who is 'even the Father of heaven and of earth' manifesting himself in the flesh — so the Book of Mormon's high christology here is worded out of a verse whose high christology is a feature of the King James text in particular."
+        },
+        "note": "'Shall manifest himself unto them in the flesh.' The verb and its complement are 1 Timothy 3:16's, reflexively adapted. This is one of the clearer places in the chapter where kjvSpecific means more than 'the English is the KJV's': the sense the Book of Mormon takes over — God, not a relative pronoun, as the subject of 'was manifest' — is present in the KJV and absent from the critical text behind modern versions.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "And without controversy great is the mystery of godliness: God was manifest in the flesh, justified in the Spirit, seen of angels, preached unto the Gentiles, believed on in the world, received up into glory."
+      },
+      {
+        "source": "Matthew 24:6",
+        "type": "echo",
+        "subtype": "probable",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 3,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "uncertain",
+        "mediation": "direct-NT",
+        "composite": [
+          "Mark 13:7"
+        ],
+        "provenance": {
+          "route": "Matthew 24:6 → KJV → Book of Mormon",
+          "other": "“wars and rumours of wars” occurs in exactly two KJV verses, Matthew 24:6 and Mark 13:7, both in the Olivet discourse. The two are not distinguishable here: Nephi has neither Matthew's 'see that ye be not troubled' nor Mark's 'be ye not troubled'.",
+          "significance": "The phrase is the opening of the synoptic apocalypse, and Nephi puts it where the synoptics do — immediately before the rejection of the Messiah and the destruction of Jerusalem, which is 25:12-14's whole sequence. What is borrowed is not just a collocation but its position in an eschatological programme."
+        },
+        "note": "'But, behold, they shall have wars, and rumors of wars.' Worth recording against CONVENTIONS §8 in the negative: the 1830 reads 'rumors', the modernized spelling, where the KJV has 'rumours'. The first edition is not uniformly more KJV-like than later ones, and a spelling argument for the borrowing is not available at this verse — the case rests entirely on the collocation, which is why kjvSpecific is 'uncertain' rather than 'yes'. The Olivet source cannot be narrowed between Matthew and Mark.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "And ye shall hear of wars and rumours of wars: see that ye be not troubled: for all these things must come to pass, but the end is not yet."
+      },
+      {
+        "source": "Mark 3:5",
+        "type": "echo",
+        "subtype": "probable",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 4,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "recurrenceRefs": [
+          "1 Nephi 2:18",
+          "1 Nephi 7:8",
+          "1 Nephi 17:30"
+        ],
+        "provenance": {
+          "route": "Mark 3:5 → KJV → Book of Mormon",
+          "other": "“hardness of their hearts” occurs in exactly one KJV verse, Mark 3:5. Matthew 19:8 and Mark 10:5 read 'the hardness of your hearts', and Ephesians 4:18 'the blindness of their heart'; the pronoun and the plural together are Mark 3:5's.",
+          "significance": "Mark 3:5 is Jesus looking round on the synagogue 'with anger, being grieved for the hardness of their hearts' before healing on the sabbath — a rejection scene. Nephi uses the phrase in the sentence that predicts the rejection of the Messiah, so the phrase arrives with its own occasion attached."
+        },
+        "note": "The formula recurs through 1 Nephi and was adjudicated there; the row is repeated at this verse because it opens a new book and because the setting is now the rejection of Christ rather than the murmuring of brothers (ADJUDICATING §4). The pronoun test matters and Nephi passes it: 'their', not 'your', which is Mark 3:5's form and not Matthew 19:8's.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ],
+        "text": "And when he had looked round about on them with anger, being grieved for the hardness of their hearts, he saith unto the man, Stretch forth thine hand. And he stretched it out: and his hand was restored whole as the other."
+      }
+    ],
+    "25:13": [
+      {
+        "source": "Malachi 4:2",
+        "type": "quotation",
+        "subtype": "close-verbal",
+        "confidence": "certain",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 4
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "provenance": {
+          "route": "Malachi 4:2 → KJV → Book of Mormon",
+          "other": "“healing in his wings” occurs in exactly one KJV verse, Malachi 4:2. The image is the winged sun-disc; the KJV's 'wings' translates a noun that also means the skirts of a garment, and the phrase as such exists in English because of this verse.",
+          "significance": "In Malachi the Sun of righteousness 'arises' — a sunrise — and the healing is in the wings of the rising disc. Nephi transfers the verb of rising to the resurrection: 'after that he is laid in a Sepulcher for the space of three days, he shall rise from the dead, with healing in his wings.' Nothing in Malachi is about resurrection and nothing in the resurrection accounts is about wings; the reading is produced by the pun that the KJV's 'arise' makes available, and the Book of Mormon commits to it. Malachi 4 is quoted entire later in this corpus at 3 Nephi 25, which makes this the phrase's first, unmarked appearance.",
+          "alternative": "None. No other KJV verse offers the phrase."
+        },
+        "note": "Four words reproduced exactly from the only KJV verse that contains them, embedded in a sentence about the third day. The borrowing is a quotation by the project's standard (CONVENTIONS §2) even though it falls far below Skousen's sixteen-word threshold, and it is not one of his 36. Hardy cross-references Malachi 4:2 here.",
+        "bibliography": [
+          "Hardy MSI at 2 Ne 25.13 (Malachi 4:2)"
+        ],
+        "status": "consensus",
+        "streams": [
+          "machine-ngram",
+          "scholarship",
+          "manual"
+        ],
+        "text": "But unto you that fear my name shall the Sun of righteousness arise with healing in his wings; and ye shall go forth, and grow up as calves of the stall."
+      },
+      {
+        "source": "Luke 1:46",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "Luke 1:46 → KJV → Book of Mormon",
+          "other": "“doth magnify” occurs in exactly one KJV verse, Luke 1:46, the opening of the Magnificat: 'My soul doth magnify the Lord.'",
+          "significance": "Nephi's clause substitutes one term of Mary's and keeps the rest: 'my heart doth magnify his holy name' for 'my soul doth magnify the Lord'. The substituted noun is not idle — the previous clause of the same verse has already used 'my soul' ('my soul delighted to prophesy concerning him'), so the sentence works through both halves of Mary's line and gives the second one the Psalter's 'holy name'. The Magnificat is a woman's response to being told she will bear the Messiah; Nephi's is a prophet's response to having seen him. Both are songs of a person who has been let in early."
+        },
+        "note": "The n-gram stream did not find this, because 'doth magnify his holy name' shares only two words with Luke 1:46 in a row. It is nonetheless a KJV singleton, and it sits in the verse of 2 Nephi 25 that is most saturated with New Testament language — the crucifixion, the sepulchre, the third day, the rising, the name believed on. Compare Hays on metalepsis: the source is not named and the reader who recovers it gets the Magnificat's posture as well as its words.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "And Mary said, My soul doth magnify the Lord,"
+      },
+      {
+        "source": "John 8:56",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "John 8:56 → KJV → Book of Mormon",
+          "other": "“to see my day” occurs in exactly one KJV verse, John 8:56: 'Your father Abraham rejoiced to see my day: and he saw it, and was glad.'",
+          "significance": "John 8:56 is the New Testament's single warrant for the claim that a patriarch centuries before the incarnation saw Christ's day — the exact claim the Book of Mormon makes on every page and makes here in the first person: 'for I have seen his day'. Recover the context and the borrowing turns out to be doing constitutional work for the book. It is not that Nephi echoes a Johannine phrase; it is that the one verse licensing pre-Christian sight of Christ is the verse his sentence is made of, and the sentence is his warrant for prophesying of Christ at all.",
+          "alternative": "Amos 8:9-10 and Joel 2 supply 'the day of the LORD', but not the possessive with 'seen'."
+        },
+        "note": "'Wherefore, my soul delighted to prophesy concerning him, for I have seen his day.' Three common words whose combination is a KJV singleton, in the chapter where Nephi is arguing for the legitimacy of his own prophecy against Isaiah's obscurity. The 1830 'delighted' was changed to 'delighteth' in 1920, which flattens the sentence's tense sequence: in the first edition the delight is past, contemporaneous with the seeing.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "Your father Abraham rejoiced to see my day: and he saw it, and was glad."
+      },
+      {
+        "source": "Mark 9:31",
+        "type": "echo",
+        "subtype": "probable",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 4,
+          "rarity": 3,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "Mark 9:31 → KJV → Book of Mormon",
+          "other": "“after that he is” occurs in exactly two KJV verses, Leviticus 25:48 and Mark 9:31. Only Mark's continues into a death and a rising: 'they shall kill him; and after that he is killed, he shall rise the third day.'",
+          "significance": "Mark 9:31 is the second passion prediction, and its syntax is a temporal subordination that puts the killing in a subordinate clause and the rising in the main one. Nephi's sentence has the identical shape with one term replaced — 'after that he is laid in a Sepulcher for the space of three days, he shall rise from the dead' — so the Book of Mormon's passion prediction is built on the frame of a synoptic one, with the interval moved out of the main clause and into the subordinate."
+        },
+        "note": "The shared string is short and the shared structure is what carries the row: subordinate clause of burial or death, main clause of rising, a three-day interval attached. Graded moderate because the frame is a natural way to say the thing and 'rise from the dead' is common; graded no lower because the two verses agree in syntax as well as content and Mark 9:31 is one of only two KJV verses with the subordinator.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ],
+        "text": "For he taught his disciples, and said unto them, The Son of man is delivered into the hands of men, and they shall kill him; and after that he is killed, he shall rise the third day."
+      }
+    ],
+    "25:14": [
+      {
+        "source": "John 1:12",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 2
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "recurrenceRefs": [
+          "2 Nephi 25:13",
+          "2 Nephi 9:24"
+        ],
+        "provenance": {
+          "route": "John 1:12 → KJV → Book of Mormon",
+          "other": "“believe on his name” occurs in exactly one KJV verse, John 1:12. 1 John 3:23 has 'believe on the name of his Son Jesus Christ' and John 2:23 'believed in his name'; the exact form is the prologue's.",
+          "significance": "Two elements of John 1:12 arrive together here — 'as many as' and 'believe on his name' — and John's verse holds them in the same relation: 'as many as received him, to them gave he power to become the sons of God, even to them that believe on his name'. What Nephi drops is the promise: John's clause exists to give the believers power to become sons of God, and Nephi's gives them nothing but the fact of the manifestation, with the destruction of Jerusalem in the next breath."
+        },
+        "note": "'And hath manifested himself unto his people, unto as many as will believe on his name.' The verse before it uses the phrase too ('all they that shall believe on his name, shall be saved in the Kingdom of God'), but 25:14 is where the second Johannine element joins it, so the link sits here and 25:13 is recorded as a recurrence. Frederick treats the same phrase at 2 Nephi 9:24 as reaching back to John 1:11-12; that discussion is cited on its own verse and is not an attribution about this one.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "But as many as received him, to them gave he power to become the sons of God, even to them that believe on his name:"
+      },
+      {
+        "source": "Acts 5:39",
+        "type": "echo",
+        "subtype": "probable",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 2,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Acts 23:9"
+        ],
+        "provenance": {
+          "route": "Acts 5:39 → KJV → Book of Mormon",
+          "other": "“fight against God” occurs in exactly two KJV verses, Acts 5:39 and Acts 23:9, both of them Pharisaic warnings against opposing a movement that may be divine.",
+          "significance": "Acts 5:39 is Gamaliel telling the Sanhedrin to leave the apostles alone 'lest haply ye be found even to fight against God'. Nephi's clause — 'wo unto them that fight against God and the people of his church' — supplies the apodosis Gamaliel leaves implied and attaches the church to it, so the warning that a Pharisee gives about the persecution of the church becomes a woe pronounced on it."
+        },
+        "note": "Three words, but the pairing with 'the people of his church' in a sentence about the destruction of Jerusalem after the resurrection puts the borrowing in Acts's own setting rather than a generic one. Graded moderate: the phrase is short and could be independently formed.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "But if it be of God, ye cannot overthrow it; lest haply ye be found even to fight against God."
+      }
+    ],
+    "25:16": [
+      {
+        "source": "Psalm 24:4",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 3,
+          "sequence": 2,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "provenance": {
+          "route": "Psalm 24:4 → KJV → Book of Mormon",
+          "other": "“clean hands, and a pure heart” occurs in exactly one KJV verse, Psalm 24:4. Job 17:9 has 'he that hath clean hands' and Psalm 51:10 'create in me a clean heart', but the pair is Psalm 24:4's alone.",
+          "significance": "Psalm 24 is the temple-entrance liturgy: who shall ascend into the hill of the LORD, and the answer is he that hath clean hands and a pure heart. Nephi is describing the day the Jews 'shall believe in Christ, and worship the father in his name' — an act of worship — and he supplies the psalm's entrance requirement as its condition. The inversion of the pair to 'pure hearts, and clean hands' is the sort of reversal that argues for memory rather than transcription."
+        },
+        "note": "A KJV singleton reproduced with its terms exchanged and pluralized. The inversion is worth recording rather than smoothing over: the Book of Mormon's order puts the heart first, which is where its argument is — the verse is about being persuaded to believe, not about ritual fitness. Note that the psalm's question is about who may stand in a holy place, and Nephi's sentence is about who may worship the Father in Christ's name.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "He that hath clean hands, and a pure heart; who hath not lifted up his soul unto vanity, nor sworn deceitfully."
+      },
+      {
+        "source": "John 4:23",
+        "type": "echo",
+        "subtype": "possible",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 3
+        },
+        "kjvSpecific": "uncertain",
+        "mediation": "direct-NT",
+        "composite": [
+          "John 1:12"
+        ],
+        "recurrenceRefs": [
+          "Jacob 4:5"
+        ],
+        "provenance": {
+          "route": "John 4:23 → KJV → Book of Mormon",
+          "other": "“worship the Father in” occurs in exactly one KJV verse, John 4:23, where the clause completes as 'in spirit and in truth'. The Book of Mormon completes it as 'in his name', a form Frederick observes is not found in John.",
+          "significance": "The whole of John 4:21-24 is about the abolition of a place of worship in favour of a manner of it — neither in this mountain nor at Jerusalem, but in spirit and in truth. The Book of Mormon keeps the structure and changes the manner: not in spirit and in truth but in his name. If the echo is real, it is a substitution at the exact point where John's saying makes its claim.",
+          "alternative": "The four shared words are common and the distinctive half of each clause is absent from the other, so independent formation cannot be ruled out."
+        },
+        "note": "The one verse in this chapter that a scholar we hold has actually discussed. Frederick, working through the clauses of D&C 20:29, takes 'worship the Father in his name' to be 'likely building upon John 1:12 (and may be alluding to John 2:23)', observes that the phrase itself is not found in John, and reports that it occurs in exactly two Book of Mormon verses — this one and Jacob 4:5, which he quotes in full. He is proposing a source for the D&C clause, not compiling an index of Book of Mormon intertexts, so his bearing on this verse is that he has weighed its phrase and located John 1:12 behind it. This catalogue records John 4:23 as the verbal source and John 1:12 as composite, and grades the row moderate on Frederick's own qualification: the Book of Mormon's completion of the clause is not biblical.",
+        "bibliography": [
+          "Frederick 2016: ch. 4 — on the D&C 20:29 clause 'worship the Father in his name', which he traces to John 1:12 and possibly John 2:23, noting that the phrase is not found in John and appears in only two Book of Mormon verses, 2 Nephi 25:16 and Jacob 4:5."
+        ],
+        "status": "minority",
+        "streams": [
+          "scholarship",
+          "manual"
+        ],
+        "text": "But the hour cometh, and now is, when the true worshippers shall worship the Father in spirit and in truth: for the Father seeketh such to worship him."
+      }
+    ],
+    "25:17": [
+      {
+        "source": "Isaiah 11:11",
+        "type": "quotation",
+        "subtype": "close-verbal",
+        "confidence": "certain",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 4
+        },
+        "kjvSpecific": "yes",
+        "mediation": "OT-via-earlier-BoM",
+        "recurrenceRefs": [
+          "2 Nephi 21:11",
+          "2 Nephi 29:1"
+        ],
+        "provenance": {
+          "route": "Isaiah 11:11 → KJV → 2 Nephi 21:11 → 2 Nephi 25:17",
+          "other": "“set his hand again the second time” occurs in exactly one KJV verse, Isaiah 11:11, and this book has already transcribed that verse at 2 Nephi 21:11, where the wording is the KJV's throughout.",
+          "significance": "The interesting word is the one Nephi changes. Isaiah 11:11 says the Lord will set his hand again the second time 'to recover the remnant of his people'; the transcription at 2 Nephi 21:11 keeps 'recover'; Nephi's exposition here reads 'to restore his people from their lost and fallen state'. So the same writer has the verse in front of him in one form and quotes it in another, and the substitution moves the promise from a geographical regathering — Assyria, Egypt, Pathros, Cush, the islands of the sea — to a soteriological one. The catalogue can watch the shift happen across four chapters of a single book."
+        },
+        "note": "An eight-word run from a KJV singleton, quoted without attribution inside Nephi's own prophecy sixteen verses after he says he will prophesy in his own plainness. Because the book contains the transcription at 21:11, mediation is OT-via-earlier-BoM rather than direct-OT: the proximate model is the Isaiah block this record already carries. Hardy cross-references Isaiah 11:11 at this verse and points the reader in the same direction.",
+        "bibliography": [
+          "Hardy MSI at 2 Ne 25.17 (Isaiah 11:11)"
+        ],
+        "status": "consensus",
+        "streams": [
+          "machine-ngram",
+          "scholarship",
+          "manual"
+        ],
+        "text": "And it shall come to pass in that day, that the Lord shall set his hand again the second time to recover the remnant of his people, which shall be left, from Assyria, and from Egypt, and from Pathros, and from Cush, and from Elam, and from Shinar, and from Hamath, and from the islands of the sea."
+      },
+      {
+        "source": "Isaiah 29:14",
+        "type": "quotation",
+        "subtype": "close-verbal",
+        "confidence": "certain",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 4
+        },
+        "kjvSpecific": "yes",
+        "mediation": "OT-via-earlier-BoM",
+        "recurrenceRefs": [
+          "2 Nephi 27:26",
+          "2 Nephi 29:1"
+        ],
+        "provenance": {
+          "route": "Isaiah 29:14 → KJV → Book of Mormon",
+          "other": "“marvellous work and a wonder” occurs in exactly one KJV verse, Isaiah 29:14, and “will proceed to do a” likewise. The whole of Isaiah 29 is expanded two chapters later at 2 Nephi 27, where 27:26 reproduces this clause with the KJV's own spelling, 'marvellous'.",
+          "significance": "Nephi announces the marvellous work here, in his own voice and in the first person of God changed to the third — 'he will proceed to do a marvelous work' for Isaiah's 'I will proceed'. Two chapters later the same clause returns inside the expansion of Isaiah 29 with the first person restored. The catalogue can therefore show the phrase entering the book twice by two different routes, once as exposition and once as prophecy, which is the pattern the whole of 2 Nephi 25-30 follows.",
+          "alternative": "None; the clause has no other KJV home."
+        },
+        "note": "An unmarked quotation of Isaiah 29:14 seven verses before the chapter ends and ten before the expansion of Isaiah 29 begins. Worth a note under CONVENTIONS §8: the 1830 spells the word 'marvelous' here, in Nephi's exposition, and 'marvellous' at 27:26 inside the Isaiah material — the KJV form is preserved where the text is quoting and modernized where it is paraphrasing. That may be no more than compositorial, and it is offered as an observation rather than an argument; but the distribution is the right way round to be interesting. Hardy cross-references Isaiah 29:14 at this verse.",
+        "bibliography": [
+          "Hardy MSI at 2 Ne 25.17 (Isaiah 29:14)"
+        ],
+        "status": "consensus",
+        "streams": [
+          "machine-ngram",
+          "scholarship",
+          "manual"
+        ],
+        "text": "Therefore, behold, I will proceed to do a marvellous work among this people, even a marvellous work and a wonder: for the wisdom of their wise men shall perish, and the understanding of their prudent men shall be hid."
+      }
+    ],
+    "25:18": [
+      {
+        "source": "John 12:48",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "John 12:48 → KJV → Book of Mormon",
+          "other": "“judge him in the last day” occurs in exactly one KJV verse, John 12:48: 'He that rejecteth me, and receiveth not my words, hath one that judgeth him: the word that I have spoken, the same shall judge him in the last day.'",
+          "significance": "John 12:48 is a saying about rejection — the one who rejects Christ is judged by the words he refused — and Nephi's sentence is about exactly that: words brought forth to convince 'them of the true Messiah, who was rejected by them', which 'words shall judge them at the last day'. Both the rejection and the judging word come from the same verse, and Nephi has taken over John's whole mechanism, not a phrase of it."
+        },
+        "note": "Nephi pluralizes ('judge them at the last day' for 'judge him in the last day') because his subject is the Jews rather than a single hearer, and substitutes 'at' for 'in'. What makes the row strong is not the run but the fact that the surrounding argument is John 12:48's argument: the words that were rejected become the judge.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "He that rejecteth me, and receiveth not my words, hath one that judgeth him: the word that I have spoken, the same shall judge him in the last day."
+      },
+      {
+        "source": "Matthew 11:3",
+        "type": "allusion",
+        "subtype": "conceptual",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 2,
+          "sequence": 2,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Matthew 11:13"
+        ],
+        "recurrenceRefs": [
+          "2 Nephi 25:16",
+          "2 Nephi 25:28"
+        ],
+        "provenance": {
+          "route": "Matthew 11:3 → KJV → Book of Mormon",
+          "other": "“look for another” occurs in exactly one KJV verse, Matthew 11:3, John the Baptist's question from prison: 'Art thou he that should come, or do we look for another?' Ten verses later, at Matthew 11:13, comes the KJV's only instance of “the prophets and the law” in that order — the phrase 2 Nephi 25:28 uses.",
+          "significance": "Matthew 11:3 is the New Testament's one verse about whether to keep looking for another Messiah, and 2 Nephi 25:16-18 is a passage about exactly that: 'look not forward any more for another Messiah', 'they need not look forward any more for a Messiah to come'. Recover the context and the borrowing supplies the doubt Nephi is answering — the question is the Baptist's, asked of Jesus himself, and Nephi's whole argument is the answer Jesus gave. The second half of Matthew 11 then reappears at 25:28 in the reversed 'the prophets and the law', which is why the two verses are catalogued together."
+        },
+        "note": "The agreement is split across intervening words — 'look not forward any more for another Messiah' — which is precisely the shape the contiguous n-gram stream cannot see (CONVENTIONS §9), and neither occurrence appears in the dossier. Graded moderate rather than high because the three shared words are common and the split is wide; graded no lower because the phrase is a KJV singleton, the sense is identical, and the same chapter of Matthew supplies a second singleton ten verses later at 2 Nephi 25:28. Flagged as a case where a chapter-level rather than a verse-level borrowing is being proposed.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "And said unto him, Art thou he that should come, or do we look for another?"
+      }
+    ],
+    "25:19": [
+      {
+        "source": "Mark 1:1",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 3
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Acts 8:37",
+          "2 Corinthians 1:19"
+        ],
+        "provenance": {
+          "route": "Mark 1:1 → KJV → Book of Mormon",
+          "other": "“Jesus Christ, the Son of God” occurs in exactly one KJV verse, Mark 1:1. Acts 8:37 has the same words without the comma in the eunuch's confession, 'I believe that Jesus Christ is the Son of God', and Acts 8:37 is itself absent from the earliest Greek manuscripts and from every modern critical text — it is a Textus Receptus reading that the King James Bible prints and the Revised Version onwards relegate to a footnote.",
+          "significance": "The name is given here as a prophecy delivered by an angel six hundred years in advance: 'his name shall be Jesus Christ the Son of God.' In the New Testament the same full title is never spoken by Jesus of himself; it is a formula of the confessing church, at the head of Mark's gospel and in the mouth of a convert being baptized. So the Book of Mormon's angel announces the Messiah's name in the words the church later used to confess him, and one of the two verses that supply those words is a verse that exists in English Bibles because of the Textus Receptus."
+        },
+        "note": "Frederick has this verse. In a note on the Book of Mormon's christological titles he observes that nowhere in the New Testament does Jesus himself say 'I am Jesus Christ, the Son of God', lists the third-person renditions at Mark 1:1, Acts 8:37 and 2 Corinthians 1:19, and remarks that the phrase 'Jesus Christ, Son of God' becomes much more prominent in the Book of Mormon, giving 2 Nephi 25:19 first in his list. He is arguing about first-person divine speech, not proposing a source; but his three verses are the three the wording could come from, and the catalogue takes Mark 1:1 as the source because it alone has the words in Nephi's order and apposition.",
+        "bibliography": [
+          "Frederick 2016: n. 62 — lists Mark 1:1, Acts 8:37 and 2 Corinthians 1:19 as the New Testament's third-person renditions of 'Jesus Christ, the Son of God', and names 2 Nephi 25:19 first among the Book of Mormon verses where the title becomes prominent."
+        ],
+        "status": "minority",
+        "streams": [
+          "scholarship",
+          "manual"
+        ],
+        "text": "The beginning of the gospel of Jesus Christ, the Son of God;"
+      }
+    ],
+    "25:20": [
+      {
+        "source": "Acts 4:12",
+        "type": "quotation",
+        "subtype": "paraphrase",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "Acts 4:12 → KJV → Book of Mormon",
+          "other": "“none other name under heaven” occurs in exactly one KJV verse, Acts 4:12. The Book of Mormon moves one word — 'none other name given under heaven' for 'none other name under heaven given among men' — and changes 'we must be saved' to 'man can be saved'.",
+          "significance": "Acts 4:12 is Peter's answer to the Sanhedrin after healing the lame man: the name that saves is the name of the Jesus they crucified. Nephi's sentence has reached the same place by a different road — he has just sworn by the God who brought Israel out of Egypt, raised the serpent and struck the rock, and the oath lands on the conclusion that none of those deliverances is the name that saves. The three Mosaic miracles are set up in order to be superseded by Peter's sentence."
+        },
+        "note": "The chapter's rhetorical climax, and its most sustained borrowing: eight of Acts 4:12's words in Acts's order with one transposition. The modal change is doing work — Peter's 'whereby we must be saved' is a claim about the apostles' own necessity, Nephi's 'whereby man can be saved' a universal one — and the substitution of 'man' for 'men' generalizes it further. Hardy cross-references the three Mosaic episodes at this verse (Numbers 21, Exodus 17, Numbers 20) and not the clause that closes it; the Exodus material is catalogued in its own rows below.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ],
+        "text": "Neither is there salvation in any other: for there is none other name under heaven given among men, whereby we must be saved."
+      },
+      {
+        "source": "Jeremiah 16:14",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Jeremiah 16:15",
+          "Jeremiah 23:7"
+        ],
+        "provenance": {
+          "route": "Jeremiah 16:14 → KJV → Book of Mormon",
+          "other": "“the Lord liveth, that brought up” occurs in exactly two KJV verses, Jeremiah 16:14 and 16:15, and the oath formula recurs at Jeremiah 23:7-8. Elsewhere the KJV's oath is bare — 'as the LORD liveth' — without the relative clause naming the exodus.",
+          "significance": "Jeremiah 16:14-15 is a prophecy that this very oath will fall out of use: the days come when it shall no more be said 'The LORD liveth, that brought up the children of Israel out of the land of Egypt', but 'The LORD liveth, that brought up the children of Israel from the land of the north'. The formula is scripture's own example of an oath superseded by a greater deliverance. Nephi swears by the superseded form, recites the exodus miracles it names, and then supersedes them himself — 'there is none other name given under heaven … save it be this Jesus Christ'. Jeremiah's structure is reproduced with a christological rather than a second-exodus filling.",
+          "alternative": "1 Kings 8:16 and Deuteronomy 6:21 supply 'brought up … out of the land of Egypt' without the oath."
+        },
+        "note": "'And as the Lord God liveth, that brought Israel up out of the land of Egypt.' Nephi says it twice in one verse, framing the whole sentence, which is Jeremiah 16's own doubling. The row was not in the dossier: the agreement is split by the word 'Israel' where Jeremiah has 'the children of Israel', which closes the contiguous window.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "Therefore, behold, the days come, saith the LORD, that it shall no more be said, The LORD liveth, that brought up the children of Israel out of the land of Egypt;"
+      },
+      {
+        "source": "Numbers 21:8",
+        "type": "allusion",
+        "subtype": "paraphrase",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 4
+        },
+        "kjvSpecific": "no",
+        "mediation": "direct-OT",
+        "composite": [
+          "Numbers 21:9",
+          "John 3:14"
+        ],
+        "provenance": {
+          "route": "Numbers 21:8-9 → KJV → Book of Mormon",
+          "other": "“bitten” occurs in three KJV verses, two of them Numbers 21:8 and 21:9. The Book of Mormon's 'poisonous serpents' is not the KJV's word: Numbers 21:6 has 'fiery serpents', and 'poisonous' occurs nowhere in the KJV.",
+          "significance": "The elevation verb is the tell. Numbers has Moses 'set it upon a pole' and the bitten man 'looketh upon it'; John 3:14 has Moses 'lifted up the serpent in the wilderness'. Nephi has neither exactly — 'the serpent which he did raise up before them' — but 'raise up' is nearer John's vertical language than Numbers', and the response, 'if they would cast their eyes unto the serpent', is nearer Numbers' looking. The sentence appears to hold both, which is what one would expect of a Christ-centred retelling of Numbers 21.",
+          "alternative": "John 3:14 alone. mediation-check.py returns one decisive point for Numbers over John, but the point it finds is only that the Book of Mormon lacks John's 'even so must the Son of man be lifted up', which the sentence has no room for; the verb is not decided by the tool and is not decided here."
+        },
+        "note": "Hardy cross-references Numbers 21:4-9 at this verse and the reference is exact. The catalogue records mediation as direct-OT because the narrative detail is Numbers' and John supplies none of it, but the finding worth having is the one the mediation test could not settle: 'raise up' is not Numbers' word for what Moses did. The Book of Mormon's own 'poisonous' for the KJV's 'fiery' is the other departure, and it points away from close dependence on the wording of Numbers 21 in either direction.",
+        "bibliography": [
+          "Hardy MSI at 2 Ne 25.20 (Numbers 21:4-9)"
+        ],
+        "status": "consensus",
+        "streams": [
+          "scholarship",
+          "manual"
+        ],
+        "text": "And the LORD said unto Moses, Make thee a fiery serpent, and set it upon a pole: and it shall come to pass, that every one that is bitten, when he looketh upon it, shall live."
+      },
+      {
+        "source": "Exodus 17:6",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 4
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Numbers 20:11"
+        ],
+        "provenance": {
+          "route": "Exodus 17:6 → KJV → Book of Mormon",
+          "other": "“smite the rock” occurs in exactly one KJV verse, Exodus 17:6 — the Lord's instruction at Horeb, 'thou shalt smite the rock, and there shall come water out of it'. Numbers 20:8 has 'speak ye unto the rock' and 20:11 'he smote the rock', so the imperative form belongs to Exodus alone.",
+          "significance": "Hardy cross-references both Exodus 17 and Numbers 20 here, and the choice between them matters theologically: at Horeb the striking is commanded, at Meribah it is the disobedience that keeps Moses out of the land. The Book of Mormon takes the commanded form — God 'gave him power that he should smite the rock' — so the episode enters as a delegation of divine power and not as a sin, which is what the argument of the verse requires."
+        },
+        "note": "A KJV singleton in the sequence of three Mosaic miracles that Nephi swears by. Note that the sequence is Nephi's, not scripture's: healing by the serpent (Numbers 21), then water from the rock (Exodus 17), which reverses the biblical order and puts the christological type first. The catalogue prefers Exodus 17:6 over Hardy's alternative Numbers 20:2-13 on the wording, and records Numbers 20:11 as composite.",
+        "bibliography": [
+          "Hardy MSI at 2 Ne 25.20 (Exodus 17:1-7; Numbers 20:2-13)"
+        ],
+        "status": "majority",
+        "streams": [
+          "scholarship",
+          "manual"
+        ],
+        "text": "Behold, I will stand before thee there upon the rock in Horeb; and thou shalt smite the rock, and there shall come water out of it, that the people may drink. And Moses did so in the sight of the elders of Israel."
+      }
+    ],
+    "25:23": [
+      {
+        "source": "Ephesians 2:8",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 2
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Ephesians 2:5"
+        ],
+        "provenance": {
+          "route": "Ephesians 2:8 → KJV → Book of Mormon",
+          "other": "“by grace are ye saved” occurs in exactly one KJV verse, Ephesians 2:8; Ephesians 2:5 has the same clause with the pronoun and verb reversed, 'by grace ye are saved'. Nephi's 'it is by grace that we are saved' turns the second person into the first.",
+          "significance": "Ephesians 2:8-9 exists to exclude works — 'not of works, lest any man should boast' — and 2 Nephi 25:23 is the Book of Mormon's most argued-over sentence precisely because it appends a clause Paul's argument forbids: 'after all that we can do'. The borrowing is exact and the qualification is the Book of Mormon's own, so the verse is a case where recovering the source sharpens a disagreement rather than dissolving it."
+        },
+        "note": "'For we know that it is by grace that we are saved, after all that we can do.' The Pauline half is a KJV singleton reproduced with a change of person; the appended half has no biblical source at all, and the interest of the row is the seam. The catalogue takes no view on how the sentence should be construed, only on where its first half comes from.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "For by grace are ye saved through faith; and that not of yourselves: it is the gift of God:"
+      },
+      {
+        "source": "2 Corinthians 5:20",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Romans 5:10"
+        ],
+        "provenance": {
+          "route": "2 Corinthians 5:20 → KJV → Book of Mormon",
+          "other": "“reconciled to God” occurs in exactly two KJV verses, Romans 5:10 and 2 Corinthians 5:20. Only 2 Corinthians has it as an appeal made by a writer to his readers: 'we pray you in Christ's stead, be ye reconciled to God'.",
+          "significance": "Nephi describes his own labour in the terms Paul uses for his: 'we labor diligently to write, to persuade our children … to be reconciled to God' against 'we are ambassadors for Christ, as though God did beseech you by us: we pray you in Christ's stead, be ye reconciled to God'. Both are writers describing the persuading of an audience toward the same act, and the Book of Mormon's verb — persuade — is the one Paul's ambassadorship implies."
+        },
+        "note": "The link is at the level of the sentence's whole design rather than a long run: persuasion, the writer's labour, and the phrase 'reconciled to God' as its object. Graded moderate because three of the four words are common and Romans 5:10 cannot be excluded.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "Now then we are ambassadors for Christ, as though God did beseech you by us: we pray you in Christ’s stead, be ye reconciled to God."
+      }
+    ],
+    "25:25": [
+      {
+        "source": "1 Corinthians 15:22",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Romans 7:4",
+          "Galatians 2:19"
+        ],
+        "provenance": {
+          "route": "1 Corinthians 15:22 → KJV → Book of Mormon",
+          "other": "“made alive” occurs in exactly one KJV verse, 1 Corinthians 15:22: 'For as in Adam all die, even so in Christ shall all be made alive.' “dead to the law” occurs in exactly two, Romans 7:4 and Galatians 2:19.",
+          "significance": "Nephi's antithesis — 'the law hath become dead unto us, and we are made alive in Christ' — reverses Paul's terms. In Romans 7:4 it is the believer who becomes dead to the law; here it is the law that becomes dead to the believer. The predicate has changed sides, and the second half then supplies 1 Corinthians 15:22's 'in Christ … made alive' to complete the pair. The result is a Pauline sentence that Paul does not write."
+        },
+        "note": "Two Pauline formulas fused in one clause, each of them rare and each of them altered. The alteration is the argument for reading this as dependence rather than coincidence: an independent writer producing 'the law hath become dead unto us' would not so exactly invert a phrase that exists in the KJV in only two places.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "For as in Adam all die, even so in Christ shall all be made alive."
+      }
+    ],
+    "25:27": [
+      {
+        "source": "2 Corinthians 3:11",
+        "type": "allusion",
+        "subtype": "conceptual",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 2,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 3,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "2 Corinthians 3:7",
+          "2 Corinthians 3:14",
+          "Galatians 5:14"
+        ],
+        "provenance": {
+          "route": "2 Corinthians 3:7-14 → KJV → Book of Mormon",
+          "other": "“done away” occurs in five KJV verses, three of them in 2 Corinthians 3 (vv. 7, 11, 14), which is the KJV's one sustained argument that the Mosaic law is what is done away. “the law is fulfilled” occurs in exactly one KJV verse, Galatians 5:14.",
+          "significance": "2 Corinthians 3 is the New Testament chapter that calls the law 'the ministration of death, written and engraven in stones' and says three times that it is done away. Nephi's verse says the same in the same phrase — 'when the law had ought to be done away' — but reaches it by an opposite route: Paul's point is that the glory of the old covenant was always temporary, Nephi's that the law must be kept until Christ fulfils it and the children must be taught its deadness meanwhile. The borrowed phrase carries Paul's conclusion into an argument for continued observance."
+        },
+        "note": "'And after that, the law is fulfilled in Christ, that they need not harden their hearts against him, when the law had ought to be done away.' Two Pauline phrases in one sentence: 'done away', which is 2 Corinthians 3's refrain, and 'the law is fulfilled in', which is a KJV singleton at Galatians 5:14 (where it completes as 'in one word', not 'in Christ'). Graded moderate because neither phrase alone would carry a row and because the 1830's syntax here is rough — 'when the law had ought to be done away', with 1920 deleting 'had'.",
+        "whyNot": "'Done away' is not distinctive enough on its own, and a writer arguing that the law of Moses ends in Christ would reach for it without a source. The row rests on the co-occurrence with Galatians 5:14's frame and on the fact that 2 Corinthians 3 is the passage the whole of 2 Nephi 25:24-27 is arguing with.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ],
+        "text": "For if that which is done away was glorious, much more that which remaineth is glorious."
+      }
+    ],
+    "25:28": [
+      {
+        "source": "Matthew 11:13",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "recurrenceRefs": [
+          "2 Nephi 25:18"
+        ],
+        "provenance": {
+          "route": "Matthew 11:13 → KJV → Book of Mormon",
+          "other": "“the prophets and the law” occurs in exactly one KJV verse, Matthew 11:13. The reverse order, “law and the prophets”, occurs in five and is the Bible's normal idiom; the inversion is what identifies the source.",
+          "significance": "Matthew 11:13 — 'For all the prophets and the law prophesied until John' — is the verse that makes the whole of the old covenant a body of prophecy pointing forward, which is 2 Nephi 25's thesis about itself. And it stands ten verses after Matthew 11:3, the Baptist's 'do we look for another?', which this chapter has already used at 25:16 and 25:18. Two KJV singletons from one short chapter of Matthew, both of them about whether the Messiah has come, are distributed across Nephi's argument that his people must stop looking for another.",
+          "alternative": "Luke 16:16, 'The law and the prophets were until John', is the synoptic parallel but has the usual order."
+        },
+        "note": "'For by denying him, ye also deny the Prophets and the law.' The order is the tell. Every other KJV occurrence puts the law first; only Matthew 11:13 reverses it, and Nephi reverses it too, in a sentence about denial that Matthew's is about fulfilment. Taken with Matthew 11:3 at 25:18, the row proposes that Matthew 11 is a source for this chapter rather than a source for a phrase in it.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ],
+        "text": "For all the prophets and the law prophesied until John."
+      },
+      {
+        "source": "Exodus 33:5",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 3,
+          "context": 4,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Exodus 32:9",
+          "Deuteronomy 9:6"
+        ],
+        "provenance": {
+          "route": "Exodus 33:5 → KJV → Book of Mormon",
+          "other": "“ye are a stiffnecked people” occurs in exactly one KJV verse, Exodus 33:5, though 'stiffnecked people' without the direct address occurs in six.",
+          "significance": "Exodus 33:5 is the Lord refusing to go up in the midst of Israel — 'lest I consume thee in the way' — after the golden calf. Nephi's use of the vocative comes at the point where he says his words 'shall stand as a testimony against you', which is the same movement from address to indictment. The address is Moses relaying God's words to Israel; Nephi's is a prophet relaying his own to his brethren, and he takes the form of address with him."
+        },
+        "note": "The exact second-person form is a KJV singleton; the phrase in general is not, which is why this is moderate rather than high. Nephi uses it in the same chapter that reaches Acts 7:51's setting at 25:12's 'stiffness of their necks', so the Exodus vocabulary of a stiff neck is running through the chapter and is not confined to this verse.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ],
+        "text": "For the LORD had said unto Moses, Say unto the children of Israel, Ye are a stiffnecked people: I will come up into the midst of thee in a moment, and consume thee: therefore now put off thy ornaments from thee, that I may know what to do unto thee."
+      }
+    ],
+    "25:29": [
+      {
+        "source": "Mark 12:30",
+        "type": "allusion",
+        "subtype": "paraphrase",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "OT-via-NT",
+        "composite": [
+          "Deuteronomy 6:5",
+          "Luke 10:27"
+        ],
+        "provenance": {
+          "route": "Deuteronomy 6:5 → Mark 12:30 → KJV → Book of Mormon",
+          "other": "Deuteronomy 6:5 gives three faculties — heart, soul, might. The synoptic form gives four and drops 'might': Mark 12:30 and Luke 10:27 have heart, soul, mind, strength, and “with all thy mind” occurs in exactly three KJV verses, all of them synoptic (Matthew 22:37, Mark 12:30, Luke 10:27).",
+          "significance": "This is the chapter's clearest mediation result and it is a fusion rather than a choice. The Book of Mormon's triad is 'might, mind, and strength', to which it adds 'your whole soul'. 'Might' is Deuteronomy's word and is absent from every synoptic version; 'mind' is the synoptics' word and is absent from Deuteronomy; 'strength' is likewise synoptic. So the verse cannot be derived from either form alone — it has the Hebrew Bible's faculty and the Greek gospel's two together, in a sequence that follows neither. What the catalogue can say is that the presence of 'mind' rules out dependence on the Old Testament KJV by itself, and that is the finding."
+        },
+        "note": "mediation-check.py, run on Deuteronomy 6:5 against Mark 12:30, returns one decisive point for Deuteronomy — the Book of Mormon has 'might', which Mark lacks. That result is correct and misleading, because the tool aligns one divergence at a time and cannot report that the other two terms of the triad are Mark's. Read whole, the sentence is a conflation, and it is recorded here as OT-via-NT because the New Testament form is the one that contributes the terms Deuteronomy could not have supplied. Compare the pilot's mediation rows at 1 Nephi 22:20, where a single word settled the question; here no single word does, and the finding is the fusion itself. Flagged for Wilson: the schema has no value for 'both forms conflated', and OT-via-NT is the nearest available.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "And thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind, and with all thy strength: this is the first commandment."
+      },
+      {
+        "source": "John 6:37",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "John 6:37 → KJV → Book of Mormon",
+          "other": "“in no wise cast out” occurs in exactly one KJV verse, John 6:37: 'him that cometh to me I will in no wise cast out'. The 1830 prints it as one word, 'nowise', which 1920 keeps.",
+          "significance": "John 6:37's promise is unconditional — anyone who comes is not cast out — and its ground is the Father's giving. Nephi attaches the same promise to a condition he has just spelled out: bow down, worship with might, mind, strength and whole soul, 'and if ye do this, ye shall in nowise be cast out'. The clause that in John secures the believer against his own inadequacy becomes, in Nephi, the reward of a completed obedience. That is the same reshaping Frederick describes at 2 Nephi 9:24, where John's binary condition becomes one item in a list of requirements."
+        },
+        "note": "A KJV singleton closing the chapter's final exhortation. The reference to Frederick here is to a reading he gives of a different verse (9:24), offered as a comparison in the catalogue's own voice; he says nothing about 25:29.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "All that the Father giveth me shall come to me; and him that cometh to me I will in no wise cast out."
+      }
+    ]
+  }
+}

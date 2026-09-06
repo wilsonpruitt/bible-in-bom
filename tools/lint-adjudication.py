@@ -21,10 +21,15 @@ Usage:
   python3.11 tools/lint-adjudication.py 1-nephi
   python3.11 tools/lint-adjudication.py 1-nephi --chapter 17
 """
-import argparse, json, re, sys
+import argparse, importlib.util, json, re, sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
+
+_spec = importlib.util.spec_from_file_location("rarity", ROOT / "tools" / "kjv-rarity.py")
+_rarity = importlib.util.module_from_spec(_spec)
+_spec.loader.exec_module(_rarity)
+phrase_pattern = _rarity.phrase_pattern
 
 # Sources we actually hold. A bibliography entry that does not begin with one of
 # these is either a citation to something nobody can check or an invention.
@@ -130,7 +135,9 @@ def main() -> None:
                 if claimed is None:
                     try: claimed = int(count)
                     except ValueError: continue
-                pat = r"\s+".join(re.escape(w) for w in norm(phrase).split())
+                # Same matcher the adjudicator ran (tools/kjv-rarity.py): the gate
+                # must not count differently from the tool that produced the claim.
+                pat = phrase_pattern(phrase)
                 try:
                     rx = re.compile(pat, re.I)
                 except re.error:

@@ -71,3 +71,25 @@ python3.11 tools/lint-adjudication.py 2-nephi --chapter <N>
 Both must return zero errors before you report. `hardy-coverage.py` runs after
 the merge, not per chapter — but every Hardy row keyed to your chapter must end
 as a link or as an exclusion you wrote, so account for them all.
+
+## Multi-chapter passes (the second batch)
+
+Chapters 1-6 and 9 were done one agent per chapter, at 160k tokens each,
+because a dispatched agent pays its whole start-up — conventions, runbook,
+schema, worked examples — before it reads a verse. Wilson's ruling, 2026-09-05:
+**the rest of 2 Nephi runs three chapters to an agent.** Read once, adjudicate
+three.
+
+If you have been given several chapters:
+
+- **Do them in order, and finish one before starting the next.** One file per
+  chapter, `ch<NN>.json`, and one exclusion file per chapter. Never one file for
+  the batch.
+- **Run both gates after each chapter**, not once at the end, so a fault is
+  found next to the chapter that caused it.
+- **Do not let the chapters bleed.** A phrase adjudicated in the first of your
+  chapters is a `recurrenceRefs` back to it in the second, not a fresh argument
+  (ADJUDICATING §4). That rule is easier to apply well with three chapters in
+  one head, which is part of why the batch is shaped this way.
+- **Report per chapter**, in the same form as before, and keep the whole report
+  under 25 lines even when it covers three chapters.

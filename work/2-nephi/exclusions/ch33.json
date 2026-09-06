@@ -1,0 +1,90 @@
+[
+  {
+    "bomRef": "2 Nephi 33:1",
+    "source": "Exodus 4:10",
+    "category": "insufficient-verbal",
+    "sharedText": "not mighty in speaking / I am not eloquent",
+    "streams": ["manual"],
+    "reason": "The typological expectation is strong and the wording will not bear it, which is the shape of the Exodus 2:2 'goodly' entry from the pilot. 'Neither am I mighty in writing, like unto speaking' invites Moses' protest at the bush — 'I am not eloquent ... I am slow of speech, and of a slow tongue' — and Nephi is a figure the book elsewhere assimilates to Moses at length (1 Nephi 17). But the terms are opposed in the one place it matters: Moses' deficiency is in SPEAKING and Nephi's is in WRITING, with speaking named as the thing he does well. The KJV supplies no phrase here. 2 Corinthians 10:10 is the closer conceptual parallel — Paul's letters weighty, his bodily presence weak — and it too is inverted, since Paul is strong on the page and weak in person and Nephi is the reverse. Neither is written as a link; the exclusion records that both were considered and that the inversion in each case is total."
+  },
+  {
+    "bomRef": "2 Nephi 33:2",
+    "source": "Isaiah 29:21",
+    "category": "better-source-identified",
+    "sharedText": "a thing of nought",
+    "streams": ["manual"],
+    "reason": "'A thing of nought' occurs in exactly four KJV verses (Isaiah 29:21, Isaiah 41:12, Jeremiah 14:14, Amos 6:13), and Isaiah 29:21 is the one a reader will reach for, because 2 Nephi 27 is an expansion of Isaiah 29 and reproduces that very clause at 27:32. But that is the point: the phrase is already inside this book, at 27:32 and again at 28:16, before it reaches 33:2. By the time Nephi writes his colophon it is his own idiom, and ADJUDICATING §4 adjudicates a repeat within a book at first use. No link is written here; 27:32 and 28:16 hold it."
+  },
+  {
+    "bomRef": "2 Nephi 33:4",
+    "source": "Exodus 24:12",
+    "category": "formulaic",
+    "sharedText": "which I have written",
+    "streams": ["machine-ngram"],
+    "reason": "Proposed at 33:4 and again at 33:5, and it is four words of relative clause. Exodus 24:12 has the LORD promising Moses tables of stone 'and a law, and commandments which I have written'; the antecedent is the Decalogue and the writer is God. In 33:4 and 33:5 the antecedent is Nephi's book and the writer is Nephi. There is a genuine and much better link two words away in 33:3, where 'what I have written' occurs in exactly one KJV verse, John 19:22, and that is where the row sits. Recorded because a reader who notices Exodus 24:12 should be told the catalogue preferred the Johannine singleton and why."
+  },
+  {
+    "bomRef": "2 Nephi 33:4",
+    "source": "Jeremiah 10:5",
+    "category": "wrong-sense",
+    "sharedText": "them to do good",
+    "streams": ["machine-ngram"],
+    "reason": "Four words and the sense is inverted by the negative that precedes them. Jeremiah 10:5 is about idols — 'they cannot do evil, neither also is it in them to do good' — a mockery of wooden gods who can do nothing at all. 2 Nephi 33:4 is about scripture: 'it persuadeth them to do good'. The subject in Jeremiah is incapable by nature and the subject in Nephi is efficacious; the shared string is the residue of a negated clause meeting an affirmative one. The Isaiah 44:7 candidate at the same verse ('people and the things') is of the same order and is covered here."
+  },
+  {
+    "bomRef": "2 Nephi 33:5",
+    "source": "Leviticus 4:3",
+    "category": "formulaic",
+    "sharedText": "sin according to the",
+    "streams": ["machine-ngram"],
+    "reason": "The window closes exactly one word early, in both directions. Leviticus 4:3 reads 'do sin according to the sin of the people'; 2 Nephi 33:5 reads 'it speaketh harsh against sin, according to the plainness of the truth'. In Leviticus the string is a single grammatical unit; in Nephi a clause boundary falls inside it, between 'sin' and 'according'. The 1830 'harsh' where 1920 reads 'harshly' is noted here rather than on a link, since the verse has none — the adverbless construction is the first edition's and is one of a series of such regularizations 1920 made across these three chapters."
+  },
+  {
+    "bomRef": "2 Nephi 33:9",
+    "source": "Matthew 7:13",
+    "category": "better-source-identified",
+    "sharedText": "enter into the narrow gate, and walk in the straight path",
+    "streams": ["manual"],
+    "reason": "The Matthew 7:13-14 gate is unquestionably behind this verse, with the same transposition of the adjectives that runs through chapter 31 — narrow gate and straight path, where the KJV has a strait gate and a narrow way. No link is written here because the borrowing was adjudicated at 2 Nephi 31:9, where the transposition is argued in full, and 33:9 is registered there in recurrenceRefs. A reader who arrives at 33:9 expecting the Sermon on the Mount is sent to 31:9. The 1 Kings 22:30 ('and enter into the') and Ecclesiastes 11:9 ('and walk in the') candidates that the machine proposed for this verse are connective noise and are not given entries."
+  },
+  {
+    "bomRef": "2 Nephi 33:11",
+    "source": "John 10:21",
+    "category": "formulaic",
+    "sharedText": "are not the words of",
+    "streams": ["machine-ngram"],
+    "reason": "Five words at rarity 1.50 and every one of them structural. John 10:21 is the crowd's verdict on Jesus — 'These are not the words of him that hath a devil' — and 2 Nephi 33:11 is 'And if they are not the words of Christ, judge ye'. The construction is a negated copula with a genitive of source, which any two texts arguing about whose words something is will produce independently. There is a faint thematic rhyme (both verses ask whether words come from God or from a devil, and 33:5 has just invoked 'the spirit of the Devil'), and it is not enough: no distinctive vocabulary is shared and John 10:21 is a bystanders' aside, not a formula. The verse's link is Matthew 24:30, on 'with power and great glory'."
+  },
+  {
+    "bomRef": "2 Nephi 33:12",
+    "source": "1 Corinthians 5:5",
+    "category": "common-vocabulary",
+    "sharedText": "may be saved in",
+    "streams": ["machine-ngram"],
+    "reason": "Four words, three of them function words, and the nouns that follow diverge completely: 1 Corinthians 5:5 has the spirit saved 'in the day of the Lord Jesus' after a man is delivered to Satan for the destruction of the flesh; 2 Nephi 33:12 has 'many of us, if not all, may be saved in his kingdom'. Saving and salvation are among the commonest words in both corpora. The Ephesians 5:20 candidate at the same verse is covered by the entry filed at 2 Nephi 32:9."
+  },
+  {
+    "bomRef": "2 Nephi 33:13",
+    "source": "1 Corinthians 1:11",
+    "category": "formulaic",
+    "sharedText": "which are of the house of",
+    "streams": ["machine-ngram"],
+    "reason": "Six words, the chapter's longest machine run, and it is a genitive formula that the KJV uses of any household or lineage — the house of Chloe here, the house of Israel there. 1 Corinthians 1:11 concerns contentions reported to Paul by Chloe's people and has no contact with a farewell to the house of Israel. This is the clean illustration of ADJUDICATING §4's first trap in these three chapters: the longest run in the dossier for chapter 33 is worth nothing, while the verse's real finding — 'the voice of one crying', in the New Testament's form and not Isaiah's — the stream did not propose at all. The 2 Timothy 1:15 and 1 Corinthians 3:1 candidates at the same verse are of the same kind."
+  },
+  {
+    "bomRef": "2 Nephi 33:14",
+    "source": "Psalm 33:5",
+    "category": "common-vocabulary",
+    "sharedText": "of the goodness of",
+    "streams": ["machine-ngram"],
+    "reason": "Four words of which one is a content word. 'The goodness of the LORD' and 'the goodness of God' are distributed across Psalms, Romans and the prophets; Psalm 33:5 is proposed only because it is the highest-scoring of many. 2 Nephi 33:14's 'partake of the goodness of God' has the distinctive verb, and 'partake' does not appear in Psalm 33:5 or in any of the alternatives."
+  },
+  {
+    "bomRef": "2 Nephi 33:15",
+    "source": "Acts 5:29",
+    "category": "insufficient-verbal",
+    "sharedText": "obey",
+    "streams": ["manual"],
+    "reason": "Written up because it is the verse a reader will propose for the last four words Nephi writes. 'I must obey' has the ring of scripture and Acts 5:29 — 'We ought to obey God rather than men' — is the passage that ring comes from. But the sentence shares one word with it, the modal is different (must, not ought), the contrast with human authority that gives Acts 5:29 its whole force is absent, and the object of Nephi's obedience is a specific command to write rather than a general principle. There is no KJV source for 'I must obey'. The catalogue's judgment is that the last clause of the Book of Nephi is his own, and that is worth recording as a finding rather than leaving as a silence."
+  }
+]

@@ -1,0 +1,592 @@
+{
+  "chapter": 28,
+  "adjudicated": "2026-09-05",
+  "adjudicator": "Opus",
+  "links": {
+    "28:3": [
+      {
+        "source": "Isaiah 44:5",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "One shall say, I am the LORD’s; and another shall call himself by the name of Jacob; and another shall subscribe with his hand unto the LORD, and surname himself by the name of Israel.",
+        "evidence": { "vocabulary": 5, "syntax": 5, "sequence": 4, "context": 3, "rarity": 5, "attestation": 3 },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "provenance": {
+          "route": "Isaiah 44:5 → KJV → Book of Mormon",
+          "other": "“I am the LORD’s” occurs in exactly one KJV verse, Isaiah 44:5, and Isaiah 44 is not among the chapters this book transcribes. The construction is reproduced with its syntax intact: Isaiah's “One shall say… and another shall call himself” becomes “the one shall say unto the other… and the other shall say”.",
+          "significance": "The metalepsis inverts the source. In Isaiah 44 the sentence is a promise of blessing on Jacob's seed — the outpoured Spirit makes people claim the LORD by name, subscribe with the hand, surname themselves Israel — and it is the happy outcome of the chapter. 2 Nephi 28 gives the identical sentence to rival churches “built up, and not unto the Lord”, so that the KJV's one verse for freely claiming God's name becomes the formula of sectarian contention. The 1830's doubled “Behold, I, I am the Lord's” is not in Isaiah; it is the stammer of the claim being made twice at once by two parties, which is the whole point of the verse."
+        },
+        "note": "The distinctive element is a KJV singleton and it is quoted exactly. What the verse does with it is the finding: Isaiah 44:5 describes people gladly avowing the LORD, and 28:3 puts the avowal in the mouths of churches the verse has just said are not built unto Him. Nothing in Isaiah 44 licenses that reading, and the Book of Mormon has not supplied a bridge — it has simply taken the sentence and turned it. Note that the run “for it shall come to pass in that day” which the n-gram stream ranked first here is Jeremiah 30:8's connective boilerplate and is excluded.",
+        "bibliography": ["Hardy MSI at 2 Ne 28.3 (Isaiah 44:5)"],
+        "status": "majority",
+        "streams": ["machine-ngram", "scholarship", "manual"]
+      }
+    ],
+    "28:4": [
+      {
+        "source": "Acts 2:4",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "text": "And they were all filled with the Holy Ghost, and began to speak with other tongues, as the Spirit gave them utterance.",
+        "evidence": { "vocabulary": 4, "syntax": 3, "sequence": 3, "context": 5, "rarity": 5, "attestation": 0 },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "recurrenceRefs": ["2 Nephi 28:26"],
+        "provenance": {
+          "route": "Acts 2:4 → KJV → Book of Mormon",
+          "other": "“gave them utterance” occurs in exactly one KJV verse, Acts 2:4. “Utterance” at all is a rare KJV word and in every other instance it is something asked for or given to a preacher (Ephesians 6:19, Colossians 4:3, 1 Corinthians 1:5, 2 Corinthians 8:7); Acts 2:4 is the only verse where the Spirit is its subject in this construction.",
+          "significance": "Nephi's charge is that the priests “teach with their learning, and deny the Holy Ghost, which giveth utterance”. Recover the source and the antithesis is exact: Pentecost is the one scene in the Bible where men speak without their learning because the Spirit gives the utterance, and the crowd's charge against them is that they are unlearned Galileans. To teach with learning and deny the Spirit's utterance is, in the terms of Acts 2, to be the mockers rather than the apostles. The chapter returns to the same page of Acts at 28:26, where what is denied is “the gift of the Holy Ghost” (Acts 2:38)."
+        },
+        "note": "Three words carry this, but they are the KJV's only three of their kind, and they arrive attached to the Holy Ghost in a clause about teaching — which is Acts 2's subject exactly. Nephi has taken the participial tag that identifies the Spirit at Pentecost and used it as an appositive definition: the Holy Ghost is “the Holy Ghost, which giveth utterance”, as though naming the office these teachers deny. The link is well below Skousen's sixteen-word threshold for a quotation and is catalogued as an allusion accordingly.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": ["manual"]
+      }
+    ],
+    "28:5": [
+      {
+        "source": "2 Timothy 3:5",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "text": "Having a form of godliness, but denying the power thereof: from such turn away.",
+        "evidence": { "vocabulary": 4, "syntax": 3, "sequence": 3, "context": 5, "rarity": 5, "attestation": 0 },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "2 Timothy 3:1-5 → KJV → Book of Mormon",
+          "other": "“denying the power” occurs in exactly one KJV verse, 2 Timothy 3:5. No KJV verse reads “deny the power” in any inflection other than this one.",
+          "significance": "2 Timothy 3:1-5 is the KJV's set-piece catalogue of last-days corruption, and 2 Nephi 28 is a catalogue of the same shape: Paul's “lovers of their own selves, covetous, boasters, proud… heady, highminded” against Nephi's pride, puffed-up hearts, fine sanctuaries and fine clothing. Paul's list ends with the very charge Nephi makes here, and Paul's frame — “in the last days perilous times shall come” — is the frame 28:3 has already set with “in that day”. Recovering the source therefore supplies not one phrase but the genre of the whole chapter: the reader who hears 2 Timothy 3 behind 28:5 is being asked to read verses 12-15 as its expansion."
+        },
+        "note": "“They deny the power of God” reproduces the KJV's one occurrence of the phrase, and does so where Paul does — at the end of a list of last-days sins whose members Nephi has been reciting since verse 3. The form-of-godliness half is not quoted, but 28:3's churches “built up, and not unto the Lord” is what it describes. The verse then goes further than Paul in a way worth recording: Paul's men keep the form and deny the power; Nephi's say outright “there is no God to-day”, which is the position of the fool in Psalm 14:1 — the psalm the chapter will quote at verse 11, though it will quote it in Romans's words rather than the psalm's.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": ["manual"]
+      }
+    ],
+    "28:7": [
+      {
+        "source": "Luke 12:19",
+        "type": "quotation",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "And I will say to my soul, Soul, thou hast much goods laid up for many years; take thine ease, eat, drink, and be merry.",
+        "evidence": { "vocabulary": 5, "syntax": 5, "sequence": 5, "context": 5, "rarity": 5, "attestation": 4 },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "recurrenceRefs": ["2 Nephi 28:8"],
+        "provenance": {
+          "route": "Luke 12:19 → KJV → Book of Mormon",
+          "other": "“eat, drink, and be merry” occurs in exactly one KJV verse, Luke 12:19. Isaiah 22:13 and 1 Corinthians 15:32 both read “let us eat and drink”, without the merriment; Ecclesiastes 8:15 has “to eat, and to drink, and to be merry”, which is a different construction. The Book of Mormon has Luke's three imperatives in Luke's order and Luke's punctuation.",
+          "significance": "The rich fool is the point. Luke 12:19 is spoken by a man whose barns are full and who is dead by verse 20 — “Thou fool, this night thy soul shall be required of thee” — and Luke's application is “so is he that layeth up treasure for himself, and is not rich toward God”. That is precisely Nephi's indictment two verses later: fine sanctuaries, fine clothing, robbing the poor. The chapter then draws on the same chapter of Luke again at 28:8 (Luke 12:48's few stripes), so the two sayings the false teachers use to excuse themselves are both taken from the one Lucan discourse that exists to condemn them."
+        },
+        "note": "The saying is usually traced to Isaiah 22:13, and Isaiah is indeed behind it — but not for these words. “Eat, drink, and be merry” is the rich fool's sentence and no one else's in the KJV; Isaiah's people say “let us eat and drink”. The second half of the verse comes from elsewhere again: see the 1 Corinthians 15:32 link, where the mediation is decided. What 28:7 has done is fuse the Lucan parable's clause with the Pauline clause, which is why the composite reads more fluently than either source.",
+        "bibliography": ["Hardy MSI at 2 Ne 28.7 (Isaiah 22:13, Ecclesiastes 8:15, Luke 12:19, 1 Corinthians 15:32)"],
+        "status": "majority",
+        "streams": ["machine-ngram", "scholarship"]
+      },
+      {
+        "source": "1 Corinthians 15:32",
+        "type": "quotation",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "If after the manner of men I have fought with beasts at Ephesus, what advantageth it me, if the dead rise not? let us eat and drink; for to morrow we die.",
+        "evidence": { "vocabulary": 5, "syntax": 4, "sequence": 4, "context": 5, "rarity": 5, "attestation": 4 },
+        "kjvSpecific": "yes",
+        "mediation": "OT-via-NT",
+        "composite": ["Isaiah 22:13"],
+        "recurrenceRefs": ["2 Nephi 28:8"],
+        "provenance": {
+          "route": "Isaiah 22:13 → 1 Corinthians 15:32 → KJV → Book of Mormon",
+          "other": "“for to morrow we die” occurs in exactly one KJV verse, 1 Corinthians 15:32. “for to morrow we shall die” occurs in exactly one KJV verse, Isaiah 22:13. The two differ by a single auxiliary and the Book of Mormon has Paul's form, without “shall”.",
+          "significance": "Paul quotes Isaiah 22:13 as the slogan of people who do not believe in resurrection — “if the dead rise not, let us eat and drink; for to morrow we die” — and Nephi's speakers add the clause Paul's do not: “and it shall be well with us.” Recover Paul's context and the addition is the joke. 1 Corinthians 15 is the resurrection chapter; the sentence Nephi's easy believers borrow is the one Paul frames as what you would say only if there were no resurrection at all. Their “it shall be well with us” is thus staked on the very thing their slogan denies."
+        },
+        "note": "This is the chapter's cleanest mediation result. Isaiah 22:13 and 1 Corinthians 15:32 differ at exactly one word — Isaiah's “shall” — and the Book of Mormon lacks it, which is Paul's form. `mediation-check.py` returned no decisive divergence on this pair, for two reasons worth recording: the 1830 prints “to-morrow” hyphenated against the KJV's two words, so the tool's alignment breaks at that token, and “shall” is a common word the tool suppresses to avoid false positives (ADJUDICATING §4). The comparison is therefore made by eye, and it is not close. Nephi's speakers say Paul's sentence, not Isaiah's.",
+        "bibliography": ["Hardy MSI at 2 Ne 28.7 (Isaiah 22:13, Ecclesiastes 8:15, Luke 12:19, 1 Corinthians 15:32)"],
+        "status": "majority",
+        "variants": [],
+        "streams": ["machine-ngram", "scholarship", "manual"]
+      }
+    ],
+    "28:8": [
+      {
+        "source": "Luke 12:48",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "text": "But he that knew not, and did commit things worthy of stripes, shall be beaten with few stripes. For unto whomsoever much is given, of him shall be much required: and to whom men have committed much, of him they will ask the more.",
+        "evidence": { "vocabulary": 5, "syntax": 4, "sequence": 4, "context": 5, "rarity": 5, "attestation": 0 },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "recurrenceRefs": ["2 Nephi 28:7"],
+        "provenance": {
+          "route": "Luke 12:47-48 → KJV → Book of Mormon",
+          "other": "“beaten with few stripes” occurs in exactly one KJV verse, Luke 12:48; its companion “beaten with many stripes” occurs in exactly one KJV verse, Luke 12:47. No other KJV passage counts stripes.",
+          "significance": "The two sayings this verse and the last put in the mouths of the wicked come from one chapter of Luke, twenty-nine verses apart: the rich fool's “eat, drink, and be merry” (12:19) and the unfaithful steward's few stripes (12:48). That is not two borrowings but one, from a single discourse whose subject is exactly the security these speakers are claiming — Luke 12 runs from the barns to the thief in the night to the servant beaten at his lord's return. And Luke 12:48's punchline is the sentence Nephi's speakers have carefully not quoted: “unto whomsoever much is given, of him shall be much required.” The false doctrine is built by stopping the verse one clause early."
+        },
+        "note": "“God will beat us with a few stripes, and at last we shall be saved” is Luke 12:48 turned into a doctrine of limited liability. In Luke the few stripes are the lighter of two sentences on servants who are both beaten; the point of the pair is that ignorance mitigates but does not acquit. Nephi's speakers hear it as an assurance. That the verse also supplies “beat” and “stripes” as a collocation found nowhere else in the KJV is what makes this a verbal borrowing and not a shared idea. Compare Hays on metalepsis: the argument here lives in the half of Luke 12:48 that has been suppressed.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": ["manual"]
+      },
+      {
+        "source": "Isaiah 29:21",
+        "type": "allusion",
+        "subtype": "paraphrase",
+        "confidence": "moderate",
+        "text": "That make a man an offender for a word, and lay a snare for him that reproveth in the gate, and turn aside the just for a thing of nought.",
+        "evidence": { "vocabulary": 3, "syntax": 2, "sequence": 3, "context": 4, "rarity": 3, "attestation": 0 },
+        "kjvSpecific": "uncertain",
+        "mediation": "uncertain",
+        "recurrenceRefs": ["2 Nephi 27:32", "2 Nephi 28:16"],
+        "provenance": {
+          "route": "Isaiah 29:21 → 2 Nephi 27:32 → 2 Nephi 28:8",
+          "other": "Isaiah 29:21 is transcribed in this book at 2 Nephi 27:32, where its wording is identical to the KJV's. The clause here is a paraphrase rather than a quotation and no rarity count supports it on its own.",
+          "significance": "The chapter is an exposition of Isaiah 29 and it uses the source twice over: paraphrased into the sins it catalogues at verse 8, and quoted outright at verse 16. Read that way, “take the advantage of one because of his words” is Isaiah's “make a man an offender for a word” restated as a maxim of the wicked instead of a charge against them — the same move the chapter makes at 28:3 with Isaiah 44:5."
+        },
+        "note": "“Take the advantage of one because of his words” has no KJV wording behind it, but it restates Isaiah 29:21's first clause exactly in sense, and Isaiah 29:21 is demonstrably in view eight verses later where it is quoted verbatim. The link is offered as the paraphrase half of that quotation, not as independent evidence; a reader who declines it loses nothing at 28:16.",
+        "whyNot": "The verbal contact is a paraphrase and nothing more — no shared distinctive word survives. If 28:16 did not quote Isaiah 29:21 outright this row would not be worth writing, and it should be read as a pointer to that verse rather than as a link standing on its own evidence.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": ["manual"]
+      }
+    ],
+    "28:9": [
+      {
+        "source": "Isaiah 29:15",
+        "type": "quotation",
+        "subtype": "close-verbal",
+        "confidence": "certain",
+        "text": "Woe unto them that seek deep to hide their counsel from the LORD, and their works are in the dark, and they say, Who seeth us? and who knoweth us?",
+        "evidence": { "vocabulary": 5, "syntax": 5, "sequence": 5, "context": 5, "rarity": 5, "attestation": 4 },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "recurrenceRefs": ["2 Nephi 27:27"],
+        "provenance": {
+          "route": "Isaiah 29:15 → KJV → Book of Mormon (this book's own transcription of the verse is at 2 Nephi 27:27)",
+          "other": "“seek deep to hide” occurs in exactly one KJV verse, Isaiah 29:15, and “their works are in the dark” occurs in exactly one KJV verse, the same one. Both are reproduced here, the second with tense adjusted to the prophecy's future: “their works shall be in the dark”.",
+          "significance": "This is the shape the whole of Nephi's exposition takes, and it is worth stating once here. 2 Nephi 27 has just transcribed Isaiah 29 at length; 2 Nephi 28 then preaches from it, and the borrowed clauses arrive without quotation formula, as Nephi's own words about the churches of the last days. Isaiah's target was Jerusalem's counsellors hiding policy from the LORD; Nephi's is teachers hiding counsel from Him while claiming His name. The recovered context supplies the taunt the Book of Mormon does not repeat — “Who seeth us? and who knoweth us?” — which is the unspoken premise of the “no God to-day” of verse 5."
+        },
+        "note": "Two KJV singletons in one clause, in the source's order, with only the verb tense moved. There is no question of dependence. The interest is entirely in the route: the verse Nephi is quoting has already been given in full four chapters earlier at 2 Nephi 27:27, and the 27 text reads “seek deep to hide their counsel from the Lord. And their works are in the dark” — so the plural “counsels” here is the expositor's own, not the transcription's and not the KJV's. That single letter is the only thing separating Nephi's sermon from his scripture, which is a fair emblem of how this chapter works.",
+        "bibliography": ["Hardy MSI at 2 Ne 28.9 (Isaiah 29:15)"],
+        "status": "consensus",
+        "streams": ["machine-ngram", "scholarship", "manual"]
+      }
+    ],
+    "28:10": [
+      {
+        "source": "Genesis 4:10",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "text": "And he said, What hast thou done? the voice of thy brother’s blood crieth unto me from the ground.",
+        "evidence": { "vocabulary": 5, "syntax": 4, "sequence": 4, "context": 5, "rarity": 5, "attestation": 0 },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": ["Revelation 17:6"],
+        "provenance": {
+          "route": "Genesis 4:10 + Revelation 17:6 → KJV → Book of Mormon",
+          "other": "“crieth unto me from the ground” occurs in exactly one KJV verse, Genesis 4:10; “from the ground” in the sense of blood crying occurs nowhere else (its three other KJV occurrences are Ezekiel's temple measurements). “the blood of the saints” occurs in exactly one KJV verse, Revelation 17:6.",
+          "significance": "The verse fuses the Bible's first murder with its last, and the fusion is set up by the chapter itself. Revelation 17:6's blood of the saints belongs to “the woman drunken with the blood of the saints” — the great whore — and eight verses later 28:18 names “the whore of all the earth”. So the blood that cries from Abel's ground in verse 10 is, by verse 18, in the cup of Revelation's harlot. Neither source says this. Reading 28:10 and 28:18 as one sentence says it, and that is the argument for taking the composite seriously rather than treating the two phrases as unrelated borrowings."
+        },
+        "note": "A ten-word verse resting on two KJV singletons pulled from opposite ends of the canon. Genesis supplies the crying blood and the ground; Revelation supplies whose blood it is. The Book of Mormon's own contribution is “against them”, which Genesis leaves implicit and which turns a cry into an accusation — and which is what makes the clause a prophecy of judgment rather than a lament. Hebrews 12:24, where Christ's blood “speaketh better things than that of Abel”, is the passage the New Testament usually reaches for here and is conspicuously not in view: this verse wants Abel's cry unanswered.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": ["manual"]
+      }
+    ],
+    "28:11": [
+      {
+        "source": "Romans 3:12",
+        "type": "quotation",
+        "subtype": "close-verbal",
+        "confidence": "certain",
+        "text": "They are all gone out of the way, they are together become unprofitable; there is none that doeth good, no, not one.",
+        "evidence": { "vocabulary": 5, "syntax": 5, "sequence": 5, "context": 4, "rarity": 5, "attestation": 2 },
+        "kjvSpecific": "yes",
+        "mediation": "OT-via-NT",
+        "composite": ["Psalm 14:3"],
+        "provenance": {
+          "route": "Psalm 14:3 → Romans 3:12 → KJV → Book of Mormon",
+          "mt": "Psalm 14:3 הַכֹּל סָר, 'the whole has turned aside' — which is what the KJV renders 'all gone aside'.",
+          "lxx": "Psalm 13:3 LXX πάντες ἐξέκλιναν, quoted at Romans 3:12; the KJV renders the Greek 'all gone out of the way' and the Hebrew 'all gone aside'.",
+          "other": "“all gone out of the way” occurs in exactly one KJV verse, Romans 3:12. “all gone aside” occurs in exactly one KJV verse, Psalm 14:3. The Book of Mormon has Romans's.",
+          "significance": "Romans 3:10-18 is Paul's chain of Old Testament indictments, and Psalm 14:1 — “The fool hath said in his heart, There is no God” — is its opening text. 2 Nephi 28 has been working the same psalm since verse 5, where the false teachers say “there is no God to-day”; at verse 11 it reaches the psalm's third verse and takes it in Paul's English rather than the psalm's. What the reader recovers is that the chapter's charge is Romans 3's charge: not that some are wicked but that all have gone out of the way, which is why verse 14 has to except “a few, which are the humble followers of Christ”."
+        },
+        "note": "The chapter's decisive mediation result and one of the clearest in the book. `mediation-check.py` on Psalm 14:3 against Romans 3:12 reports one decisive point: the Book of Mormon reads “out of the way”, which is Romans's rendering of the Greek, and not “aside”, which is the KJV's rendering of the Hebrew at the psalm the verse is otherwise following. Psalm 53:3, the doublet psalm, reads “every one of them is gone back” and is likewise excluded. The second clause confirms it structurally without confirming it verbally: Psalm 14:3 has “become filthy”, Romans 3:12 “become unprofitable”, and the Book of Mormon has “become corrupted”, which is neither — a paraphrase of Paul's abstraction rather than the psalm's concrete word.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": ["machine-ngram", "manual"]
+      }
+    ],
+    "28:13": [
+      {
+        "source": "Proverbs 22:22",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "moderate",
+        "text": "Rob not the poor, because he is poor: neither oppress the afflicted in the gate:",
+        "evidence": { "vocabulary": 4, "syntax": 4, "sequence": 3, "context": 5, "rarity": 5, "attestation": 0 },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": ["Psalm 10:2"],
+        "provenance": {
+          "route": "Proverbs 22:22 → KJV → Book of Mormon",
+          "other": "“Rob not the poor” occurs in exactly one KJV verse, Proverbs 22:22; no other KJV verse joins the verb 'rob' to 'the poor' in any inflection. “The wicked in his pride doth persecute the poor” occurs in exactly one KJV verse, Psalm 10:2, and is the only KJV verse holding pride, persecution and the poor together.",
+          "significance": "The Book of Mormon supplies the reason Proverbs withholds. Proverbs 22:22 forbids robbing the poor “because he is poor”; 28:13 says these rob the poor “because of their fine sanctuaries… because of their fine clothing”, so the causal clause is kept and its content replaced, turning a prohibition into an account of motive. Psalm 10:2 then supplies the frame the verse ends on — the wicked persecuting the poor out of pride — which is why “because in their pride, they are puffed up” closes a sentence that began with robbery."
+        },
+        "note": "“They rob the poor” twice, with a causal clause each time, against the KJV's one verse that says exactly “Rob not the poor, because…”. The inversion of the imperative into an indictment is the borrowing's whole method, and it is the method of 28:3 and 28:9 as well. The Psalm 10:2 half is weaker verbally but supplies the two elements Proverbs lacks and 28:13 has: persecution, and pride as its motive. Confidence is held at moderate because both sources are proverbial denunciations of a very common biblical kind, and a reader who prefers to call this the shared idiom of prophetic social criticism rather than a borrowing has a case.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": ["manual"]
+      }
+    ],
+    "28:14": [
+      {
+        "source": "Isaiah 53:6",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "moderate",
+        "text": "All we like sheep have gone astray; we have turned every one to his own way; and the LORD hath laid on him the iniquity of us all.",
+        "evidence": { "vocabulary": 4, "syntax": 3, "sequence": 3, "context": 4, "rarity": 4, "attestation": 4 },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "provenance": {
+          "route": "Isaiah 53:6 → KJV → Book of Mormon",
+          "other": "“have gone astray” occurs in exactly two KJV verses, Psalm 119:176 and Isaiah 53:6; only Isaiah 53:6 has it of a whole people, and only there is it 'all'. Isaiah 53 is not among the chapters transcribed in this book.",
+          "significance": "The recovered context does the work. Isaiah 53:6 is the verse where the general straying is answered — “the LORD hath laid on him the iniquity of us all” — so the sentence Nephi borrows to say the churches have all gone astray is the sentence that says the straying has been carried by the Servant. The exception clause follows immediately: “save it be a few, which are the humble followers of Christ.” Isaiah's 'all' admits no exception and Nephi's does, which is the one substantive change, and it is made in favour of the very figure Isaiah 53:6 introduces."
+        },
+        "note": "Four words, but they are the four that open the most quoted verse of Isaiah 53 and they are used of the same subject: a whole people gone astray, each in his own way. The Book of Mormon drops Isaiah's simile — no sheep here — which is why this is catalogued as an allusion rather than a quotation, and why confidence is moderate rather than high. Note also the pairing with the second link on this verse: 28:14 reaches Isaiah 53 and Isaiah 29 in one sentence, which is a fair description of what the chapter is doing throughout.",
+        "bibliography": ["Hardy MSI at 2 Ne 28.14 (Isaiah 53:6, Isaiah 29:13)"],
+        "status": "majority",
+        "streams": ["scholarship", "manual"]
+      },
+      {
+        "source": "Isaiah 29:13",
+        "type": "quotation",
+        "subtype": "close-verbal",
+        "confidence": "certain",
+        "text": "Wherefore the Lord said, Forasmuch as this people draw near me with their mouth, and with their lips do honour me, but have removed their heart far from me, and their fear toward me is taught by the precept of men:",
+        "evidence": { "vocabulary": 5, "syntax": 5, "sequence": 5, "context": 5, "rarity": 5, "attestation": 4 },
+        "kjvSpecific": "yes",
+        "mediation": "OT-via-earlier-BoM",
+        "recurrenceRefs": ["2 Nephi 27:25", "2 Nephi 28:26", "2 Nephi 28:31"],
+        "provenance": {
+          "route": "Isaiah 29:13 → 2 Nephi 27:25 → 2 Nephi 28:14",
+          "other": "“taught by the precept of men” occurs in exactly one KJV verse, Isaiah 29:13, and the KJV's noun there is singular. This book's own transcription of the verse, at 2 Nephi 27:25, reads “taught by the precepts of men” — plural. 28:14, 28:26 and 28:31 all read the plural.",
+          "significance": "This is the mediation the book has been promising since CONVENTIONS §7 predicted it: not OT-via-NT but OT-via-earlier-Book-of-Mormon. The proximate model for 28:14 is not the KJV's Isaiah 29:13 but 2 Nephi 27:25, which had already pluralised the precept, and the plural then propagates through the sermon — 28:26 and 28:31 both have 'precepts of men', and so does the false teachers' invitation at 28:5, “hear ye our precept”, which is the singular restored to the mouths of the men doing the teaching. A reader who recovers the context recovers the mechanism: the expositor is quoting his own scripture, and quoting it in the form his book gave it."
+        },
+        "note": "A KJV singleton quoted exactly except in number, and the number is the finding. The KJV has 'precept', 2 Nephi 27:25 has 'precepts', and every occurrence in this chapter has 'precepts' — which locates the proximate source inside the Book of Mormon rather than in the Bible. That is a small thing to hang a mediation call on, and it is the only evidence there is, so it is stated rather than assumed: nothing else in 28:14 distinguishes the two possible routes. Hardy cross-references Isaiah 29:13 at this verse and at 28:26; the transcription he would send a reader to is at 27:25.",
+        "bibliography": ["Hardy MSI at 2 Ne 28.14 (Isaiah 53:6, Isaiah 29:13)"],
+        "status": "majority",
+        "streams": ["scholarship", "manual"]
+      }
+    ],
+    "28:15": [
+      {
+        "source": "Luke 10:15",
+        "type": "quotation",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "And thou, Capernaum, which art exalted to heaven, shalt be thrust down to hell.",
+        "evidence": { "vocabulary": 5, "syntax": 4, "sequence": 4, "context": 5, "rarity": 5, "attestation": 2 },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": ["Matthew 11:23"],
+        "recurrenceRefs": ["2 Nephi 24:15"],
+        "provenance": {
+          "route": "Luke 10:15 → KJV → Book of Mormon",
+          "other": "“thrust down to hell” occurs in exactly one KJV verse, Luke 10:15. “brought down to hell” occurs in exactly two, Isaiah 14:15 and Matthew 11:23 — Matthew's being the synoptic parallel to Luke 10:15 and Isaiah's being the taunt over Lucifer which this book transcribes at 2 Nephi 24:15.",
+          "significance": "The discrimination is threefold and it all falls one way. Of the three KJV sentences that send someone down to hell, the Book of Mormon has the one that says 'thrust' — not Matthew's 'brought', and not Isaiah 14:15's 'brought', although Isaiah 14:15 stands transcribed in this same book eight chapters earlier at 2 Nephi 24:15 and was therefore the nearest form to hand. Recover Luke 10:15 and the reason is visible: Capernaum is condemned for being 'exalted to heaven', which is the sin of 28:15 exactly — the wise, the learned and the rich 'puffed up in the pride of their hearts'. Exaltation is what makes the thrusting apt, and Isaiah 14:15's proud king would have served the theme but not the syntax."
+        },
+        "note": "Five words, a KJV singleton, and a real choice made between three near-identical candidates one of which is inside this book. That is what makes the row worth more than its length. The verse's other distinctive feature, the triple “wo, wo, wo”, is not from Luke: it belongs with Revelation 8:13's threefold woe on the inhabiters of the earth, which 28:16 goes on to name — but the wording there is too slight to catalogue and it is registered as an exclusion rather than a link.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": ["machine-ngram", "manual"]
+      }
+    ],
+    "28:16": [
+      {
+        "source": "Isaiah 29:21",
+        "type": "quotation",
+        "subtype": "close-verbal",
+        "confidence": "certain",
+        "text": "That make a man an offender for a word, and lay a snare for him that reproveth in the gate, and turn aside the just for a thing of nought.",
+        "evidence": { "vocabulary": 5, "syntax": 5, "sequence": 5, "context": 5, "rarity": 5, "attestation": 4 },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "recurrenceRefs": ["2 Nephi 27:32", "2 Nephi 28:8"],
+        "provenance": {
+          "route": "Isaiah 29:21 → KJV → Book of Mormon (transcribed in this book at 2 Nephi 27:32)",
+          "other": "“turn aside the just for a thing of nought” occurs in exactly one KJV verse, Isaiah 29:21, and is reproduced here word for word, in the 1830's spelling 'nought' which 1920 modernised to 'naught'. 2 Nephi 27:32's transcription of the same verse is identical to the KJV, so — unlike 28:14 — nothing here distinguishes the biblical route from the internal one.",
+          "significance": "The clause is turned from a participle into a woe. Isaiah 29:21 is the tail of a list describing 'all that watch for iniquity'; Nephi makes it the subject of “Wo unto them that…”, which is the formula of Isaiah 29:15 that he has already borrowed at 28:9. So the exposition reassembles Isaiah 29 out of order: 29:15's woe-formula at verse 9, 29:21's offence at verse 16, 29:13's precepts at verse 14. What a reader recovers is that 2 Nephi 28 is not commenting on Isaiah 29 verse by verse but preaching from it, taking its clauses as they serve."
+        },
+        "note": "Nine words verbatim from a KJV singleton, which by any measure is a quotation. The verse then adds “and revile against that which is good, and say that it is of no worth”, restating Isaiah's 'thing of nought' as a valuation the wicked make rather than a price they accept — a gloss, and the kind of gloss the brief expects where an expositor handles a text his book has transcribed. The n-gram stream also offered Jeremiah 14:14 for 'a thing of nought'; it is excluded in favour of Isaiah 29:21, whose whole clause is here.",
+        "bibliography": ["Hardy MSI at 2 Ne 28.16 (Isaiah 29:21)"],
+        "status": "consensus",
+        "streams": ["machine-ngram", "scholarship", "manual"]
+      },
+      {
+        "source": "Revelation 14:18",
+        "type": "echo",
+        "subtype": "possible",
+        "confidence": "moderate",
+        "text": "And another angel came out from the altar, which had power over fire; and cried with a loud cry to him that had the sharp sickle, saying, Thrust in thy sharp sickle, and gather the clusters of the vine of the earth; for her grapes are fully ripe.",
+        "evidence": { "vocabulary": 3, "syntax": 1, "sequence": 2, "context": 4, "rarity": 5, "attestation": 0 },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "Revelation 14:18 → KJV → Book of Mormon",
+          "other": "“fully ripe” occurs in exactly one KJV verse, Revelation 14:18. The Book of Mormon uses 'ripe in iniquity' as a standing formula elsewhere; the intensifier 'fully' is what points at Revelation.",
+          "significance": "Revelation 14:18-20 is the vintage of wrath: the grapes fully ripe are gathered and trodden in the winepress outside the city. 28:16's sentence has the same two movements in the same order — the Lord 'will speedily visit the inhabitants of the earth', and 'in that day that they are fully ripe in iniquity, they shall perish'. Ripeness in Revelation is not a metaphor for wickedness but the signal that the harvest may begin, and that is the logic of Nephi's clause: the destruction waits on the ripening, which is also why 28:17 can offer the escape of repentance."
+        },
+        "note": "Two words, and it would not be worth a row except that they are the KJV's only two of their kind and they arrive attached to the same idea — a judgment held until a crop is ready. 'Fully ripe in iniquity' is a Book of Mormon formula rather than a biblical phrase, so what is being catalogued is where the formula got its intensifier, not a quotation. Confidence is moderate and the reader who prefers to treat 'fully ripe' as ordinary English rather than a borrowing should.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": ["manual"]
+      }
+    ],
+    "28:18": [
+      {
+        "source": "Matthew 7:27",
+        "type": "quotation",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "And the rain descended, and the floods came, and the winds blew, and beat upon that house; and it fell: and great was the fall of it.",
+        "evidence": { "vocabulary": 5, "syntax": 4, "sequence": 3, "context": 4, "rarity": 5, "attestation": 1 },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "recurrenceRefs": ["1 Nephi 11:36", "2 Nephi 28:28"],
+        "provenance": {
+          "route": "Matthew 7:27 → KJV → Book of Mormon",
+          "other": "“great was the fall of it” occurs in exactly one KJV verse, Matthew 7:27; Luke's parallel at 6:49 reads 'the ruin of that house was great', which is a different sentence. The clause was adjudicated at its first Book of Mormon occurrence, 1 Nephi 11:36.",
+          "significance": "The phrase re-enters here in a new hand and with a new referent. At 1 Nephi 11:36 the great and spacious building falls; here it is 'that great and abominable church, the whore of all the earth' that must tumble, and ten verses later 28:28 returns to the same parable from the other end — the house on the rock and the house on the sandy foundation. So the chapter opens and closes its account of the false church with the two halves of Matthew 7:24-27, the fall first and the foundations after. Recovering Matthew's context supplies the criterion Nephi's verse withholds: what distinguishes the two houses is not what they profess but whether they do the sayings."
+        },
+        "note": "Across a book boundary the link is written rather than excluded (ADJUDICATING §4): a reader of 2 Nephi shown nothing at 28:18 has been told there is no borrowing here. The argument for the KJV singleton was made at 1 Nephi 11:36 and is not restated. What is new at 28:18 is the object — the whore of all the earth, whose blood-drunkenness at Revelation 17:6 has already been drawn on eight verses earlier at 28:10 — and the modal, 'great must be the fall thereof', which converts Matthew's narrative past into prophetic necessity.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": ["manual"]
+      }
+    ],
+    "28:19": [
+      {
+        "source": "Jude 1:6",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "text": "And the angels which kept not their first estate, but left their own habitation, he hath reserved in everlasting chains under darkness unto the judgment of the great day.",
+        "evidence": { "vocabulary": 4, "syntax": 3, "sequence": 3, "context": 5, "rarity": 5, "attestation": 0 },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "recurrenceRefs": ["2 Nephi 28:22"],
+        "provenance": {
+          "route": "Jude 1:6 → KJV → Book of Mormon",
+          "other": "“everlasting chains” occurs in exactly one KJV verse, Jude 1:6. 2 Peter 2:4's parallel reads 'chains of darkness', which is a different phrase; no other KJV verse binds anyone in chains that are everlasting.",
+          "significance": "In Jude the everlasting chains hold the fallen angels, and the devil is not the jailer but a fellow prisoner — reserved, like them, unto the judgment of the great day. 28:19 hands him the chains: 'the Devil will grasp them with his everlasting chains', and 28:22 repeats the grasp with 'his awful chains'. The metalepsis is a reversal of role rather than of sense. What Jude says is being kept for the devil's own judgment becomes, in Nephi's sentence, the instrument he uses on others — which is why 28:23 can put 'the Devil, and all that have been seized therewith' in one dock together before the throne of God. Jude's arrangement is restored at the end of the paragraph."
+        },
+        "note": "The possessive is the whole finding: Jude's chains belong to the judgment and Nephi's belong to the devil. A borrowing that changes the owner of the rarest phrase in its source is doing something, and what it is doing here is set right three verses later, where the chained devil stands before the throne with those he chained. The 'kingdom of the Devil' that opens the verse has no KJV wording behind it — the KJV's nearest is Matthew 12:26's 'how shall then his kingdom stand' — and is not catalogued.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": ["manual"]
+      }
+    ],
+    "28:23": [
+      {
+        "source": "Revelation 20:13",
+        "type": "quotation",
+        "subtype": "extended",
+        "confidence": "certain",
+        "text": "And the sea gave up the dead which were in it; and death and hell delivered up the dead which were in them: and they were judged every man according to their works.",
+        "evidence": { "vocabulary": 5, "syntax": 4, "sequence": 5, "context": 5, "rarity": 5, "attestation": 0 },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": ["Revelation 20:10", "Revelation 20:14", "Revelation 21:8"],
+        "provenance": {
+          "route": "Revelation 20:10-15 + 21:8 → KJV → Book of Mormon",
+          "other": "“judged every man according to their works” occurs in exactly one KJV verse, Revelation 20:13. “death and hell” occurs in exactly two, Revelation 20:13 and 20:14. “lake of fire and brimstone” occurs in exactly one, Revelation 20:10. The trailing relative clause 'which is endless torment' answers Revelation 21:8's 'which is the second death', the only other KJV sentence that closes a lake-of-fire with a 'which is' gloss.",
+          "significance": "The verse walks Revelation 20:10-15 in Revelation's order and compresses six verses into one: the devil cast into the lake of fire and brimstone (20:10), the dead standing before God (20:12), death and hell delivering up their dead and every man judged according to his works (20:13), death and hell themselves cast into the lake (20:14). Nephi's addition is to make the seized share the sentence of the seizer — 'death, and hell, and the Devil, and all that have been seized therewith' stand in one rank — which collapses Revelation's careful sequence of separate judgments into a single arraignment. The 'which is endless torment' that replaces 'which is the second death' is the one place the verse declines its source's word, and it declines the word that would have made the torment finite."
+        },
+        "note": "Four Revelation verses in one sentence, three of them identifiable by KJV singletons, in the source's sequence. This is the densest borrowing in the chapter and the most nearly mechanical: the only substantive rearrangement is the merging of Revelation 20:13's judged dead with 20:14's condemned death-and-hell, so that the personified powers are judged alongside the people. The n-gram stream found the lake of fire from both Revelation 20:10 and 21:8 and could not order them; the ordering is supplied by the phrase 'judged according to their works', which is 20:13's and fixes the passage.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": ["machine-ngram", "manual"]
+      }
+    ],
+    "28:24": [
+      {
+        "source": "Amos 6:1",
+        "type": "quotation",
+        "subtype": "close-verbal",
+        "confidence": "certain",
+        "text": "Woe to them that are at ease in Zion, and trust in the mountain of Samaria, which are named chief of the nations, to whom the house of Israel came!",
+        "evidence": { "vocabulary": 5, "syntax": 5, "sequence": 5, "context": 5, "rarity": 5, "attestation": 0 },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "recurrenceRefs": ["2 Nephi 28:21", "2 Nephi 28:25"],
+        "provenance": {
+          "route": "Amos 6:1 → KJV → Book of Mormon",
+          "other": "“at ease in Zion” occurs in exactly one KJV verse, Amos 6:1, and the whole woe-formula is reproduced with only the number changed from plural to singular: 'Woe to them that are at ease in Zion' becomes 'wo be unto him that is at ease in Zion'.",
+          "significance": "Amos 6 is the oracle against complacency, and its next verses are an inventory of luxury — beds of ivory, lambs out of the flock, wine in bowls, chief ointments — 'but they are not grieved for the affliction of Joseph'. 2 Nephi 28 has already made that inventory its own at verse 13, with the fine sanctuaries and fine clothing, and has already put the complacent slogan in the mouth at verse 21: 'All is well in Zion; yea, Zion prospereth, all is well.' So the woe at verse 24 is not a new thought but the naming of the source the sermon has been drawing on for a dozen verses. Recover Amos 6 and the phrase 'at ease in Zion' brings the whole indictment of a prosperous religion with it."
+        },
+        "note": "A KJV singleton reproduced entire, with the person shifted from plural to singular because the run of woes at 28:24-29 addresses individuals. The verse is nine words long and every one of them is Amos's. Worth recording that the n-gram stream's proposal here was Job 12:5's 'him that is at ease', which shares the idiom and nothing else — Job's phrase describes the comfortable man who despises the slipping, and the excluded entry says so; Amos's is the only KJV verse that puts the ease in Zion, which is the word 28:21 and 28:25 both need.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": ["manual"]
+      }
+    ],
+    "28:25": [
+      {
+        "source": "Jeremiah 6:14",
+        "type": "echo",
+        "subtype": "conceptual",
+        "confidence": "moderate",
+        "text": "They have healed also the hurt of the daughter of my people slightly, saying, Peace, peace; when there is no peace.",
+        "evidence": { "vocabulary": 2, "syntax": 3, "sequence": 3, "context": 5, "rarity": 4, "attestation": 0 },
+        "kjvSpecific": "uncertain",
+        "mediation": "direct-OT",
+        "composite": ["Jeremiah 8:11"],
+        "provenance": {
+          "route": "Jeremiah 6:14 / 8:11 → KJV → Book of Mormon",
+          "other": "“Peace, peace; when there is no peace” occurs in exactly two KJV verses, Jeremiah 6:14 and 8:11, in both cases as the cry of prophets and priests who deal falsely. No word of it survives in 2 Nephi 28:25; what survives is the form — a false reassurance quoted in order to be cursed.",
+          "significance": "Jeremiah's is the Bible's model of the sentence 28:25 is written to condemn: a slogan of well-being, put in the mouth of the religious professionals, quoted by the prophet as evidence against them. 'Wo be unto him that crieth, All is well' is that sentence with the slogan translated. What recovering Jeremiah 6:14 supplies is the object of the cry — the hurt of the daughter of my people, healed slightly — which is exactly the injury 28:13 named and 28:21 said the devil uses to lull."
+        },
+        "note": "There is no verbal contact and the row is written as an echo on that understanding. The case for it is that 'All is well' occupies, in Nephi's sermon, the precise structural position 'Peace, peace' occupies in Jeremiah's — the quoted lie of the leaders — and that the surrounding verses have been quoting Amos and Isaiah for the same purpose. A reader who declines it loses nothing else in the chapter.",
+        "whyNot": "Not one word is shared. 'All is well' is ordinary English and needs no source; the Book of Mormon may simply have coined the slogan it wanted. The link is a claim about a rhetorical convention, not about wording, and is filed at moderate for that reason rather than being urged.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": ["manual"]
+      }
+    ],
+    "28:26": [
+      {
+        "source": "Acts 2:38",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "text": "Then Peter said unto them, Repent, and be baptized every one of you in the name of Jesus Christ for the remission of sins, and ye shall receive the gift of the Holy Ghost.",
+        "evidence": { "vocabulary": 4, "syntax": 3, "sequence": 3, "context": 4, "rarity": 4, "attestation": 0 },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "recurrenceRefs": ["2 Nephi 28:4"],
+        "provenance": {
+          "route": "Acts 2:38 → KJV → Book of Mormon",
+          "other": "“the gift of the Holy Ghost” occurs in exactly two KJV verses, Acts 2:38 and Acts 10:45, both in Luke's account of Pentecost and its extension to the Gentiles. Acts 2:38 is the promise; Acts 10:45 is the astonishment that it reached the uncircumcised.",
+          "significance": "The chapter began its indictment at 28:4 with the Holy Ghost 'which giveth utterance', which is Acts 2:4, and ends it here with 'the gift of the Holy Ghost', which is Acts 2:38 — the opening and the close of the one Pentecost sermon. Recover that and what the false teachers are denying is not an abstraction but a specific offer: Peter's, made to the men who had just crucified Christ, on the terms 28:32 restates almost exactly — repent and come unto me, and I will be merciful. Acts 10:45's Gentiles are the other half of the frame, and 28:32's woe is pronounced on the Gentiles."
+        },
+        "note": "A four-word KJV phrase confined to two verses of one book, paired in the same clause with 'the power of God', and set opposite the same chapter's Acts 2:4 allusion at verse 4. Confidence is moderate rather than high because 'the gift of the Holy Ghost' had become a fixed theological term long before 1830 and need not be quoted from Acts to be used; the argument for the link is the pairing with 28:4, not the phrase alone. Hardy cross-references Isaiah 29:13 at this verse for 'the precepts of men'; that clause is adjudicated at 28:14, where the plural first appears, and the register sends a reader there.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": ["machine-ngram", "manual"]
+      }
+    ],
+    "28:28": [
+      {
+        "source": "Matthew 7:24",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "text": "Therefore whosoever heareth these sayings of mine, and doeth them, I will liken him unto a wise man, which built his house upon a rock:",
+        "evidence": { "vocabulary": 4, "syntax": 4, "sequence": 5, "context": 5, "rarity": 5, "attestation": 1 },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": ["Matthew 7:26", "Luke 6:49"],
+        "recurrenceRefs": ["1 Nephi 8:26", "2 Nephi 28:18"],
+        "provenance": {
+          "route": "Matthew 7:24-27 → KJV → Book of Mormon, with Luke 6:49 supplying the foundation",
+          "other": "“built his house upon a rock” occurs in exactly one KJV verse, Matthew 7:24. “upon the sand” occurs in exactly two, Matthew 7:26 and Revelation 13:1. The Book of Mormon's 'sandy foundation' is in no KJV verse at all — 'sandy' does not occur in the KJV — and fuses Matthew's sand with Luke 6:49's house built 'without a foundation'.",
+          "significance": "The two houses are made to turn on hearing rather than on building. In Matthew the wise man is the one who hears the sayings and does them; in 28:28 the man on the rock 'receiveth it with gladness' and the man on the sandy foundation 'trembleth, lest he shall fall'. That substitution — doing replaced by receiving — is what the verse is for, since the whole run of woes from 28:27 concerns people who say 'we have received, and we need no more'. Recovering Matthew 7 supplies the criterion these speakers have exempted themselves from, and 28:30's 'unto him that receiveth, I will give more' answers it in Matthew's own economy of increase."
+        },
+        "note": "The parable is the chapter's frame — 28:18 took its collapse and 28:28 takes its foundations — and the coinage 'sandy foundation' is the evidence that it is being handled rather than quoted: the word 'sandy' is nowhere in the KJV, so the phrase is a fusion of Matthew's 'upon the sand' with Luke's 'without a foundation'. Written as a link rather than excluded because this is a different book from 1 Nephi 8:26, where the parable's foolish builder was first adjudicated (ADJUDICATING §4); the argument for the KJV singleton was made there.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": ["manual"]
+      }
+    ],
+    "28:30": [
+      {
+        "source": "Isaiah 28:10",
+        "type": "quotation",
+        "subtype": "close-verbal",
+        "confidence": "certain",
+        "text": "For precept must be upon precept, precept upon precept; line upon line, line upon line; here a little, and there a little:",
+        "evidence": { "vocabulary": 5, "syntax": 4, "sequence": 3, "context": 5, "rarity": 5, "attestation": 4 },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": ["Isaiah 28:13"],
+        "provenance": {
+          "route": "Isaiah 28:10 and 28:13 → KJV → Book of Mormon",
+          "other": "“line upon line” occurs in exactly two KJV verses, Isaiah 28:10 and 28:13; “precept upon precept” occurs in exactly two, the same pair; “here a little, and there a little” occurs in exactly two, the same pair again. Isaiah 28 is not among the chapters transcribed in this book — 2 Nephi 12-24 covers Isaiah 2-14 — so this is the KJV direct.",
+          "significance": "The order is reversed and the polarity with it. Both KJV verses put precept first and line second; the Book of Mormon puts line first, and drops the doubling that makes Isaiah's phrase a taunt. That matters because in Isaiah the words are mockery — the drunkards of Ephraim jeering at the prophet's babbling, and at 28:13 the LORD giving them exactly that, 'that they might go, and fall backward, and be broken, and snared, and taken'. 2 Nephi 28:30 takes the mocked stammer and makes it the method of revelation itself, blessed rather than punitive: 'blessed are they that hearken unto my precepts.' A reader who recovers Isaiah 28 finds a verse of judgment converted into a promise, which is the largest single reversal in the chapter."
+        },
+        "note": "Three of the KJV's rarest formulae, each confined to the same two verses, reproduced together — dependence is not deniable. Two things are the Book of Mormon's own: the reversal of line and precept, and the removal of Isaiah's repetitions, which flattens 'precept upon precept, precept upon precept' into a single measured pair. The result reads as an orderly pedagogy rather than a drunken jeer. Note that the chapter has used 'precepts of men' three times as a term of abuse (28:14, 26, 31) before arriving here at 'my precepts' as the Lord's own word — the same noun turned, which is the sermon's closing move.",
+        "bibliography": ["Hardy MSI at 2 Ne 28.30 (Isaiah 28:10-13)"],
+        "status": "consensus",
+        "streams": ["machine-ngram", "scholarship", "manual"]
+      },
+      {
+        "source": "Matthew 25:29",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "For unto every one that hath shall be given, and he shall have abundance: but from him that hath not shall be taken away even that which he hath.",
+        "evidence": { "vocabulary": 5, "syntax": 4, "sequence": 4, "context": 5, "rarity": 5, "attestation": 0 },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": ["Matthew 13:12"],
+        "provenance": {
+          "route": "Matthew 25:29 → KJV → Book of Mormon, with Matthew 13:12 fused",
+          "other": "“shall be taken away even that which he hath” occurs in exactly one KJV verse, Matthew 25:29. “taken away even that he hath” — without the relative — occurs in exactly one KJV verse, Matthew 13:12. The Book of Mormon reads 'taken away even that which they have', which is 25:29's relative construction; but 'I will give more' answers 13:12's 'he shall have more abundance', where 25:29 has only 'abundance'.",
+          "significance": "The saying arrives immediately after Isaiah 28:10, and the join is the point. Isaiah's line-upon-line is a method of giving revelation in instalments; Matthew's logion is the rule governing who receives instalments at all. Put together they answer the boast of 28:29 — 'we have received the word of God, and we need no more' — with the parable's arithmetic: the servant who declines increase loses the principal. Recover Matthew 25 and the man who says he has enough is the servant who buried the talent, whose defence was that he already had what he was given."
+        },
+        "note": "`mediation-check.py` on Matthew 13:12 against Matthew 25:29 returns no decisive divergence, because the words that separate them — 'which', 'more' — are the common words the tool suppresses. Decided by eye, and the answer is a fusion rather than a choice: the long clause is 25:29's, relative pronoun included, and the short one before it ('I will give more') is 13:12's. That is honest to the evidence and it is the reason both are recorded, with 25:29 as the source because the singleton is longer and exact. The verse also ends with an 1830 dash that 1920 removed, marking the seam where Nephi stops quoting and the chapter turns to its final curse.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": ["machine-ngram", "manual"]
+      }
+    ],
+    "28:32": [
+      {
+        "source": "Isaiah 65:2",
+        "type": "echo",
+        "subtype": "probable",
+        "confidence": "moderate",
+        "text": "I have spread out my hands all the day unto a rebellious people, which walketh in a way that was not good, after their own thoughts;",
+        "evidence": { "vocabulary": 3, "syntax": 3, "sequence": 4, "context": 5, "rarity": 2, "attestation": 0 },
+        "kjvSpecific": "uncertain",
+        "mediation": "uncertain",
+        "composite": ["Romans 10:21"],
+        "provenance": {
+          "route": "Isaiah 65:2, possibly via Romans 10:21 → KJV → Book of Mormon",
+          "other": "“spread out my hands all the day” occurs in exactly one KJV verse, Isaiah 65:2; Romans 10:21 quotes it as 'All day long I have stretched forth my hands'. The Book of Mormon has neither verb — it reads 'lengthen out mine arm' and 'mine arm is lengthened out all the day long' — and 'all the day long' occurs in thirteen KJV verses, so it cannot discriminate.",
+          "significance": "Both source and quotation are addressed to a people who will not have the offer: Isaiah's 'rebellious', Paul's 'disobedient and gainsaying'. 28:32's Gentiles 'will deny me' and the arm is lengthened out to them anyway. What makes the echo worth recording despite its weak wording is that Romans 10:21 stands at the end of Paul's argument about Israel and the Gentiles, which is the argument the next chapter of 2 Nephi will take up outright — so a reader who hears Romans 10 here is being prepared for 2 Nephi 29."
+        },
+        "note": "This is the chapter's one undecided mediation. `mediation-check.py` on Isaiah 65:2 against Romans 10:21 reports no decisive divergence, and correctly: the Book of Mormon reproduces neither candidate's verb and neither candidate's object, keeping only the posture of an outstretched limb held out all day to people who refuse. 'Mine arm' rather than 'my hands' may point instead at the refrain of Isaiah 9-10, 'his hand is stretched out still', which this book transcribes at 2 Nephi 19:12, 19:17, 19:21 and 20:4 — but that phrase is a threat of continuing judgment, not an offer of mercy, and the sense here is Isaiah 65:2's. Recorded as an echo at moderate, mediation left uncertain rather than guessed.",
+        "whyNot": "No distinctive wording is shared with either candidate. The only phrase in common with anything, 'all the day long', is in thirteen KJV verses and settles nothing. The row rests on the situation — a limb held out all day to a refusing people — which is a real and rare configuration in the KJV but is not a verbal borrowing, and a reader may reasonably decline it.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": ["manual"]
+      }
+    ]
+  }
+}

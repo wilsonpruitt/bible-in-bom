@@ -1,0 +1,50 @@
+[
+  {
+    "bomRef": "2 Nephi 11:1",
+    "source": "Jeremiah 13:11",
+    "category": "formulaic",
+    "sharedText": "have I caused to",
+    "streams": ["machine-ngram"],
+    "reason": "A standing exclusion for this chapter. Nephi's editorial formula 'only these things have I caused to be written' is his own, and it will match any KJV causative. Jeremiah 13:11 has 'so have I caused to cleave unto me the whole house of Israel'. Exodus 24:12 ('which I have written'), Psalm 102:18 ('be written for the') and 2 Corinthians 4:18 ('for the things which') are proposed at the same verse on the same kind of connective tissue and are covered here."
+  },
+  {
+    "bomRef": "2 Nephi 11:2",
+    "source": "Job 4:8",
+    "category": "wrong-sense",
+    "sharedText": "even as I have seen",
+    "streams": ["machine-ngram"],
+    "reason": "A five-word run and a complete accident of English. Job 4:8 is Eliphaz beginning a proverb — 'Even as I have seen, they that plow iniquity, and sow wickedness, reap the same' — where the clause governs what follows. 2 Nephi 11:2 has 'he verily saw my Redeemer, even as I have seen him', where it governs what precedes and the object is a person. The stream proposes the same string again at 11:3. Nephi's seeing-language belongs with Job 19:25-26, which is linked at 2 Nephi 9:4 in Jacob's sermon, not with Job 4."
+  },
+  {
+    "bomRef": "2 Nephi 11:3",
+    "source": "2 Corinthians 6:16",
+    "category": "wrong-sense",
+    "sharedText": "God hath said, I will",
+    "streams": ["machine-ngram"],
+    "reason": "The highest-ranked candidate in the chapter, and it is a speech-introduction formula. 2 Corinthians 6:16 quotes Leviticus 26:12 on God dwelling among his people; 2 Nephi 11:3 quotes the law of witnesses. Hebrews 13:5 ('hath said, I will never leave thee') is the same shape and the same non-event. The verse's real sources are Deuteronomy 19:15 and its New Testament citations, which the stream did propose in part — 2 Chronicles 29:15 and Hosea 6:5 both matched on 'by the words of', which is Nephi's phrase for the three witnesses, but neither KJV verse has anything to do with witnesses."
+  },
+  {
+    "bomRef": "2 Nephi 11:4",
+    "source": "Matthew 13:35",
+    "category": "common-vocabulary",
+    "sharedText": "things which have been",
+    "streams": ["machine-ngram"],
+    "reason": "Four words of relative-clause filler. Matthew 13:35 has 'things which have been kept secret from the foundation of the world'; 2 Nephi 11:4 has 'all things which have been given of God from the beginning of the world'. The near-agreement of the two temporal phrases is worth noting and does not survive inspection: 'from the foundation of the world' and 'from the beginning of the world' are both common KJV formulas (the latter in Isaiah 64:4, Matthew 24:21, Acts 15:18 and Ephesians 3:9), and neither points at a source. Revelation 18:14, Ephesians 6:6 and 2 Samuel 6:12 are proposed at the same verse on strings of the same kind."
+  },
+  {
+    "bomRef": "2 Nephi 11:7",
+    "source": "Daniel 2:28",
+    "category": "wrong-sense",
+    "sharedText": "But there is a God",
+    "streams": ["machine-ngram"],
+    "reason": "Five words, and the sense is unrelated in both directions. Daniel 2:28 is 'But there is a God in heaven that revealeth secrets' — an answer to the Chaldeans who could not recover the king's dream; 1 Samuel 17:46, proposed alongside it, is David telling Goliath 'that all the earth may know that there is a God in Israel'. Both assert God's existence against a rival claim of power. 2 Nephi 11:7 asserts it as the conclusion of a chained reductio — 'For if there be no Christ, there be no God... But there is a God, and he is Christ' — and the form of that argument, not the assertion, is what is borrowed; the link is written at 1 Corinthians 15:13."
+  },
+  {
+    "bomRef": "2 Nephi 11:7",
+    "source": "Job 20:22",
+    "category": "wrong-sense",
+    "sharedText": "in the fulness of his",
+    "streams": ["machine-ngram"],
+    "reason": "Five words across a phrase that is doing nothing in the KJV verse. Job 20:22 is Zophar on the wicked man: 'In the fulness of his sufficiency he shall be in straits.' Romans 15:29, proposed with it, has 'in the fulness of the blessing of the gospel of Christ'. 2 Nephi 11:7's 'he cometh in the fulness of his own time' is the temporal sense, which in the KJV is Galatians 4:4's 'the fulness of the time' — a singleton, adjudicated at 2 Nephi 2:3 and recorded here as a composite rather than a second row."
+  }
+]

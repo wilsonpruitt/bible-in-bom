@@ -1,0 +1,122 @@
+[
+  {
+    "bomRef": "2 Nephi 25:4",
+    "source": "John 15:27",
+    "category": "formulaic",
+    "sharedText": "been with me from",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "A five-word run of connective tissue spanning a clause boundary. John 15:27's subject is apostolic witness 'from the beginning'; Nephi's is the plainness that has been with him 'from the time that I came out from Jerusalem'. The shared words are a temporal preposition and a pronoun."
+  },
+  {
+    "bomRef": "2 Nephi 25:4",
+    "source": "1 Samuel 29:3",
+    "category": "formulaic",
+    "sharedText": "which hath been with me",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "Achish vouching for David to the Philistine lords. No content word is shared beyond the auxiliary and the pronoun, and the n-gram score of 1.50 is an artifact of the phrase's low frequency rather than its distinctiveness — the trap CONVENTIONS §9 names."
+  },
+  {
+    "bomRef": "2 Nephi 25:4",
+    "source": "1 Corinthians 1:11",
+    "category": "wrong-sense",
+    "sharedText": "which are of the house of",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "A six-word run, and the longest match the machine found for this verse, but the houses are unrelated: Paul's is the household of Chloe, whose members reported the Corinthian factions; Nephi's is the House of Israel. The formula 'which are of the house of' is a KJV commonplace of genealogy and household."
+  },
+  {
+    "bomRef": "2 Nephi 25:5",
+    "source": "1 Corinthians 9:13",
+    "category": "formulaic",
+    "sharedText": "of the things of the",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "Pure connective. Nephi's verse repeats 'the things of the Jews' four times in one sentence, which is what raised the score; Paul is discussing priestly maintenance from the temple."
+  },
+  {
+    "bomRef": "2 Nephi 25:13",
+    "source": "Acts 19:8",
+    "category": "wrong-sense",
+    "sharedText": "for the space of three",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "A genuine KJV singleton — “for the space of three” occurs in exactly one KJV verse — and it is the wrong one. Acts 19:8 continues 'months', of Paul disputing in the Ephesian synagogue; Nephi continues 'days', of Christ in the sepulchre. This is the trap ADJUDICATING §4 names as the window closing one word early, and it is worth the register entry precisely because the rarity count is real and would tempt an adjudicator who did not read the whole verse. The link at this verse is to Mark 9:31, which supplies the frame with the interval attached."
+  },
+  {
+    "bomRef": "2 Nephi 25:13",
+    "source": "Mark 12:25",
+    "category": "better-source-identified",
+    "sharedText": "shall rise from the dead",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "'Rise from the dead' is common in the gospels, and Mark 12:25's subject is the marital status of the resurrected, not a passion prediction. Superseded by the Mark 9:31 row at the same verse, which shares the whole temporal frame and not just the verb."
+  },
+  {
+    "bomRef": "2 Nephi 25:14",
+    "source": "1 Chronicles 20:1",
+    "category": "formulaic",
+    "sharedText": "came to pass that after the",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "Narrative boilerplate of the kind covered by the standing exclusion at 1 Nephi 2:1. The Chronicler's verse is the siege of Rabbah."
+  },
+  {
+    "bomRef": "2 Nephi 25:20",
+    "source": "Exodus 32:34",
+    "category": "formulaic",
+    "sharedText": "of which I have spoken",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "Connective. The coincidence is faintly interesting — Exodus 32:34 is the aftermath of the golden calf and this chapter draws twice on that complex (Exodus 33:5 at 25:28, Exodus 17:6 here) — but nothing in the shared words points at it, and the phrase is a KJV commonplace."
+  },
+  {
+    "bomRef": "2 Nephi 25:23",
+    "source": "1 John 2:18",
+    "category": "formulaic",
+    "sharedText": "we know that it is",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "Five words of connective tissue. 1 John 2:18's subject is the many antichrists as evidence that it is the last time; the link at this verse is to Ephesians 2:8, which supplies the clause the connective introduces."
+  },
+  {
+    "bomRef": "2 Nephi 25:27",
+    "source": "Romans 4:19",
+    "category": "wrong-sense",
+    "sharedText": "the deadness",
+    "streams": [
+      "manual"
+    ],
+    "reason": "A tempting one, and it should be recorded as declined rather than passed over. “the deadness” occurs in exactly one KJV verse, Romans 4:19, and 2 Nephi 25:27 uses the noun twice in a single sentence — 'the deadness of the law', 'by knowing the deadnes of the law' (1830 spelling). But Romans 4:19's deadness is Sarah's womb, a physical incapacity that Abraham's faith overlooks, and Romans 4 is not arguing that the law is dead; it is arguing that Abraham was justified before the law existed. Nothing but the bare noun is shared, and the noun is an ordinary English abstraction from a common adjective. The Pauline material this verse is actually working with is 2 Corinthians 3, which is catalogued as a link at the same verse."
+  },
+  {
+    "bomRef": "2 Nephi 25:28",
+    "source": "Ezekiel 12:28",
+    "category": "formulaic",
+    "sharedText": "which I have spoken",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "Connective, and the same string already excluded at 25:20. Ezekiel's oracle concerns the delay of prophecy, which is thematically adjacent to Nephi's insistence that his words will stand — but the four shared words are a KJV commonplace and carry none of that."
+  },
+  {
+    "bomRef": "2 Nephi 25:29",
+    "source": "Isaiah 12:6",
+    "category": "common-vocabulary",
+    "sharedText": "the Holy One of Israel",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "'The Holy One of Israel' occurs in 31 KJV verses, 25 of them in Isaiah, and it is 2 Nephi's habitual title for Christ — the book has already transcribed a dozen of those Isaiah verses at chapters 12-24, including Isaiah 12:6 at 2 Nephi 22:6. No single occurrence can be identified as the source of Nephi's use, and the machine's selection of Isaiah 12:6 is arbitrary among 31. Recorded here once as a standing note for the title throughout 2 Nephi 25-33."
+  }
+]

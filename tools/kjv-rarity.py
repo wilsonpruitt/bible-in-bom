@@ -19,6 +19,11 @@ Matching is case-insensitive and ignores the KJV's curly apostrophes, which
 is what bit the pilot at Exodus 3:18 ("three days' journey" fails to match a
 straight apostrophe). Whitespace in the query is treated as flexible, so a
 phrase spanning a line break in your notes still matches.
+
+It also ignores INTRA-CLAUSE punctuation — commas, semicolons, colons, dashes —
+because the KJV punctuates the same clause differently in parallel passages, and
+matching on whitespace alone turned that into false evidence. It does NOT match
+across a sentence boundary: . ! ? end a phrase.
 """
 import argparse, json, re, sys
 from pathlib import Path
@@ -34,8 +39,31 @@ def norm(s: str) -> str:
     return s.replace("’", "'").replace("‘", "'")
 
 
+# Between two words of a phrase, allow any run of non-alphanumerics — which is
+# to say, IGNORE PUNCTUATION. The KJV commas the same clause differently in
+# parallel passages, and matching on whitespace alone turns that into false
+# evidence: "Holy Ghost and with fire" returned ONE verse (Luke 3:16) because
+# Matthew 3:11 reads "Holy Ghost, and with fire", and "ask and it shall be
+# given you" returned NONE because Matthew 7:7 has a comma. A false singleton
+# is the worst output this tool can produce — it is the strongest evidence the
+# catalogue recognizes — and the lint recomputed with the same function, so it
+# would have certified the claim rather than caught it. Found 2026-09-05 by the
+# 2 Nephi 31-33 pass.
+# ...but NOT across a sentence boundary. Allowing that traded one false positive
+# for another: "path in the" then matched Psalm 142:3's "knewest my path. In the
+# way", which is two sentences and not the phrase at all. The separator admits
+# commas, semicolons, colons and dashes, and refuses . ! ?
+PHRASE_SEP = r"[^A-Za-z0-9.!?]+"
+WORDS = re.compile(r"[A-Za-z0-9']+")
+
+
+def phrase_pattern(query: str) -> str:
+    """The regex for a word sequence, indifferent to the punctuation between."""
+    return PHRASE_SEP.join(re.escape(w) for w in WORDS.findall(norm(query)))
+
+
 def search(kjv, query: str, as_regex: bool):
-    pat = query if as_regex else r"\s+".join(re.escape(w) for w in norm(query).split())
+    pat = query if as_regex else phrase_pattern(query)
     rx = re.compile(pat, re.I)
     return [(ref, text) for ref, text in kjv.items() if rx.search(norm(text))]
 

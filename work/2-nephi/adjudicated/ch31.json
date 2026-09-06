@@ -1,0 +1,391 @@
+{
+  "chapter": 31,
+  "adjudicated": "2026-09-05",
+  "adjudicator": "Opus",
+  "links": {
+    "31:3": [
+      {
+        "source": "Revelation 22:5",
+        "type": "echo",
+        "subtype": "possible",
+        "confidence": "moderate",
+        "text": "And there shall be no night there; and they need no candle, neither light of the sun; for the Lord God giveth them light: and they shall reign for ever and ever.",
+        "evidence": { "vocabulary": 3, "syntax": 3, "sequence": 2, "context": 2, "rarity": 5, "attestation": 0 },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "Revelation 22:5 → KJV → Book of Mormon",
+          "other": "“the Lord God giveth” occurs in exactly one KJV verse, Revelation 22:5. The collocation is otherwise unattested: elsewhere God gives light by a verb of shining or by a luminary, not by this construction.",
+          "significance": "Nephi's account of how revelation works — God condescends to human language and human understanding — is phrased in the words of the last verse but one of the Christian canon, where the light that replaces sun and candle is God himself. If the borrowing is real, the metalepsis is that the accommodation Nephi describes as a pedagogy is, in its source, the eschatological end of all mediation."
+        },
+        "note": "“For the Lord God giveth light unto the understanding: for he speaketh unto men according to their language, unto their understanding.” The subject-verb pair is a KJV singleton and the object in both places is light, but Revelation's light is the New Jerusalem's illumination and Nephi's is intellectual. That gap is why this is an echo at moderate and not an allusion: the wording is distinctive, the sense is transferred. Recorded because the string is rare enough that a reader who finds it will want to know we saw it and what we made of it.",
+        "whyNot": "Four words, one of them the divine title Nephi uses constantly, and the sense of “light” is metaphorical here and literal there. A reader could reasonably call this coincidence of a common theological idiom.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": ["machine-ngram"]
+      }
+    ],
+    "31:4": [
+      {
+        "source": "John 1:29",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "certain",
+        "text": "The next day John seeth Jesus coming unto him, and saith, Behold the Lamb of God, which taketh away the sin of the world.",
+        "evidence": { "vocabulary": 5, "syntax": 5, "sequence": 5, "context": 5, "rarity": 5, "attestation": 3 },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": ["John 1:21", "John 1:33"],
+        "provenance": {
+          "route": "John 1:29 → KJV → Book of Mormon",
+          "other": "“taketh away the sin of the world” occurs in exactly one KJV verse, John 1:29. The Book of Mormon pluralizes to “sins”, which is the one departure; “Lamb of God” is John's title, occurring only at John 1:29 and 1:36 in the whole Bible.",
+          "significance": "The whole verse is built out of John 1 and out of nothing else. “That Prophet” is the Baptist's interrogators' phrase at John 1:21 and 1:25 — the only place in the KJV where the definite Prophet is put as a question — but John there DENIES being that prophet, and Nephi assigns him the title anyway. The baptizer who says “I am not” in the source is “that Prophet which the Lord showed unto me” in the borrowing, which is a small, deliberate-looking correction of the Fourth Gospel by the book that quotes it."
+        },
+        "note": "The verse names three things that all come from one chapter: the prophet who baptizes, the Lamb of God, and the taking away of the world's sin. John 1:29 supplies the last two in a single clause and is the only KJV verse that does. The pluralizing of “sin” to “sins” is the sort of variation that recurs across the corpus and does not weaken the identification — the six-word run around it is exact. Hardy cross-references John 1:29 at this verse.",
+        "bibliography": ["Hardy MSI at 2 Ne 31.4 (John 1:29)"],
+        "status": "consensus",
+        "streams": ["manual", "machine-ngram", "scholarship"]
+      }
+    ],
+    "31:5": [
+      {
+        "source": "Matthew 3:15",
+        "type": "quotation",
+        "subtype": "explicit",
+        "confidence": "certain",
+        "text": "And Jesus answering said unto him, Suffer it to be so now: for thus it becometh us to fulfil all righteousness. Then he suffered him.",
+        "evidence": { "vocabulary": 5, "syntax": 4, "sequence": 5, "context": 5, "rarity": 5, "attestation": 3 },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": ["Matthew 3:14"],
+        "recurrenceRefs": ["2 Nephi 31:6"],
+        "provenance": {
+          "route": "Matthew 3:14-15 → KJV → Book of Mormon",
+          "other": "“fulfil all righteousness” occurs in exactly one KJV verse, Matthew 3:15; “have need to be baptized” occurs in exactly one KJV verse, Matthew 3:14. Both are absent from Mark, Luke and John, which report the baptism without the exchange.",
+          "significance": "This is the mediation decision the chapter turns on, and it is settled by two singletons a verse apart. All four Gospels report the baptism; only Matthew reports the argument about it, and Nephi's argument is Matthew's argument run backwards. In Matthew the Baptist protests that HE has need to be baptized of Jesus; in 2 Nephi it is the reader who has need, “how much more … being unholy”. The a fortiori is Nephi's own, but the two clauses he reasons from are the only two clauses in the Bible where anyone discusses whether Jesus should be baptized at all."
+        },
+        "note": "“Should have need to be baptized by water, to fulfil all righteousness.” Two KJV singletons, from consecutive verses of one Gospel, in one sentence. Both fall well below Skousen's sixteen-word threshold and neither is one of his 36 quoted passages; taken together they are nevertheless a quotation in this catalogue's sense, because a phrase that occurs once in the Bible and appears here in its source's grammatical form is not a coincidence of common diction. The chapter then presses “fulfil all righteousness” again at 31:6 as the question it will answer for the next twelve verses, which is a use of the phrase Matthew does not make. Hardy cross-references Matthew 3:15 here.",
+        "bibliography": ["Hardy MSI at 2 Ne 31.5 (Matthew 3:15)"],
+        "status": "consensus",
+        "streams": ["manual", "machine-ngram", "scholarship"]
+      }
+    ],
+    "31:7": [
+      {
+        "source": "Philippians 2:8",
+        "type": "allusion",
+        "subtype": "conceptual",
+        "confidence": "high",
+        "text": "And being found in fashion as a man, he humbled himself, and became obedient unto death, even the death of the cross.",
+        "evidence": { "vocabulary": 4, "syntax": 4, "sequence": 5, "context": 5, "rarity": 4, "attestation": 0 },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "Philippians 2:7-8 → KJV → Book of Mormon",
+          "other": "“he humbled himself” occurs in exactly two KJV verses, 2 Chronicles 12:12 and Philippians 2:8; only the second has a subject who humbles himself and is thereby obedient. The pairing of self-humbling with obedience, in that order, is Philippians 2:8's alone.",
+          "significance": "Nephi's answer to his own question at 31:6 — in what did the baptism fulfil all righteousness? — is the Philippians hymn. “According to the flesh, he humbleth himself before the Father, and witnesseth unto the Father that he would be obedient.” Paul's sequence is being found in fashion as a man, then humbling, then obedience; Nephi's is according to the flesh, then humbling, then obedience. Recover Philippians 2 and the obedience in question is obedience unto death: the baptism is being read as a rehearsal of the crucifixion, which is exactly what the descent “down into the water” at 31:13 will make explicit."
+        },
+        "note": "The three elements are Paul's and they arrive in Paul's order. What makes the link more than a shared commonplace is that the tense is wrong for a commonplace: Nephi puts it in the present (“he humbleth himself”, “witnesseth”), which is the tense of an exposition of a text rather than of a narration of an event. He is not telling the story of the baptism, he is reading it, and the grid he reads it on is the kenosis of Philippians 2. Frederick does not treat this verse.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": ["manual"]
+      }
+    ],
+    "31:8": [
+      {
+        "source": "Luke 3:22",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "And the Holy Ghost descended in a bodily shape like a dove upon him, and a voice came from heaven, which said, Thou art my beloved Son; in thee I am well pleased.",
+        "evidence": { "vocabulary": 5, "syntax": 4, "sequence": 4, "context": 5, "rarity": 5, "attestation": 3 },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "recurrenceRefs": ["2 Nephi 31:15"],
+        "provenance": {
+          "route": "Luke 3:22 → KJV → Book of Mormon",
+          "other": "“the Holy Ghost descended” occurs in exactly one KJV verse, Luke 3:22. The other three accounts name the agent differently — Matthew 3:16 “the Spirit of God descending”, Mark 1:10 “the Spirit like a dove descending”, John 1:32 “the Spirit descending from heaven” — so the noun alone decides between them.",
+          "significance": "Hardy's apparatus offers all four Gospels here, which is right for a study edition and leaves the interesting question unasked. The wording answers it: the Book of Mormon has Luke's noun and Luke's word order, subject then verb then the manner then “upon him”, where Matthew and Mark both put the participle before the dove. And Luke is the only account in which a voice from heaven follows in the same verse, which is the account this chapter needs, because from 31:11 onward it is going to give the Father and the Son speaking voices of their own."
+        },
+        "note": "“After that he was baptized with water, the Holy Ghost descended upon him in the form of a dove.” The four accounts diverge and the choice is decidable. “Holy Ghost” is Luke's; Matthew, Mark and John all read “Spirit”. The one departure is “in the form of a dove” for Luke's “in a bodily shape like a dove”, which flattens Luke's oddest phrase into an idiom no Gospel uses — a simplification, not a different source. Note the 1830 “after that he was baptized”, with the conjunction 1920 deleted, which is the KJV's own construction and is one of several places in this chapter where the first edition preserves a Jacobean joint that the modern text has smoothed away.",
+        "bibliography": ["Hardy MSI at 2 Ne 31.8 (Matthew 3:16, Mark 1:10, Luke 3:22, John 1:32)"],
+        "status": "novel",
+        "streams": ["manual", "scholarship"]
+      }
+    ],
+    "31:9": [
+      {
+        "source": "Matthew 7:13",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "Enter ye in at the strait gate: for wide is the gate, and broad is the way, that leadeth to destruction, and many there be which go in thereat:",
+        "evidence": { "vocabulary": 4, "syntax": 3, "sequence": 4, "context": 5, "rarity": 5, "attestation": 0 },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": ["Matthew 7:14"],
+        "recurrenceRefs": ["2 Nephi 31:17", "2 Nephi 31:18", "2 Nephi 33:9"],
+        "provenance": {
+          "route": "Matthew 7:13-14 → KJV → Book of Mormon",
+          "other": "“Enter ye in at the strait gate” occurs in exactly one KJV verse, Matthew 7:13; “strait is the gate” and “narrow is the way” each occur in exactly one KJV verse, Matthew 7:14. Luke 13:24's parallel reads “Strive to enter in at the strait gate” and lacks the narrow way altogether.",
+          "significance": "The Book of Mormon does not merely borrow Matthew's pair of images, it swaps the adjectives between them. Matthew has a STRAIT gate and a NARROW way; 2 Nephi 31:9 has “the straightness of the path, and the narrowness of the gate”. The two epithets have changed places. That is worth recording because it is precisely the mistake a writer makes when reciting a familiar text from memory rather than copying it, and because it feeds the chapter's later and more consequential slide: 1830 spells the path “straight” at 31:18 and 31:19, not KJV “strait”, so the constricted gate of Matthew has become a path that is not crooked. A homophone has changed the doctrine."
+        },
+        "note": "Matthew 7:13-14 is the only KJV passage that holds gate, way, narrowness and entering together, and the chapter returns to it four times (31:9, 31:17, 31:18, and again in Nephi's farewell at 33:9). The adjectives are transposed at every occurrence, consistently — this is Nephi's own settled form of the saying, not a slip at one verse. The 1830 orthography carries the argument here and is the reason this catalogue runs on the first edition: “straightness of the path” in 1830, against the KJV's “strait is the gate”, is visible evidence of how the saying was heard.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": ["manual"]
+      }
+    ],
+    "31:10": [
+      {
+        "source": "John 21:22",
+        "type": "quotation",
+        "subtype": "explicit",
+        "confidence": "high",
+        "text": "Jesus saith unto him, If I will that he tarry till I come, what is that to thee? follow thou me.",
+        "evidence": { "vocabulary": 5, "syntax": 5, "sequence": 5, "context": 3, "rarity": 5, "attestation": 0 },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "John 21:22 → KJV → Book of Mormon",
+          "other": "“follow thou me” occurs in exactly one KJV verse, John 21:22. The bare “Follow me” is common — Matthew 4:19, 8:22, 9:9, 19:21, Mark 2:14, Luke 5:27, John 1:43, 21:19 — but the emphatic pronoun is John's, once.",
+          "significance": "Nephi introduces the words with the same present tense he used at 31:7 — 1830 “he saith unto the children of men”, which 1920 changed to “said”. He is quoting a living voice, not reporting a past one. And the source is the last command in the Fourth Gospel, spoken to Peter after the resurrection and immediately after Peter has been told how he will die: “follow thou me” is, in John, an instruction to follow as far as a martyr's death. Nephi's next clause — “save we shall be willing to keep the commandments of the Father” — makes willingness the test, which is the Johannine sense of the phrase and not the Synoptic one."
+        },
+        "note": "Three words, and a KJV singleton. Everything about the setting supports the identification: the chapter has just used John 1 at 31:4, the pronoun is emphatic in exactly the way John's is, and the demand that follows is a demand about the will. The 1830 present tense (“saith”, corrected to “said” in 1920) is worth noting on its own — the first edition presents this as speech continuing into the reader's present, which the modern text closes off.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": ["manual"]
+      }
+    ],
+    "31:11": [
+      {
+        "source": "Acts 2:38",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "Then Peter said unto them, Repent, and be baptized every one of you in the name of Jesus Christ for the remission of sins, and ye shall receive the gift of the Holy Ghost.",
+        "evidence": { "vocabulary": 5, "syntax": 4, "sequence": 5, "context": 5, "rarity": 4, "attestation": 0 },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "recurrenceRefs": ["2 Nephi 31:12", "2 Nephi 31:17"],
+        "provenance": {
+          "route": "Acts 2:38 → KJV → Book of Mormon",
+          "other": "Acts 2:38 is the only KJV verse that puts repentance, baptism, a name, and the receiving of the Holy Ghost in one sentence in that order. Acts 10:48 and 19:5 have baptism in a name without the repentance; Mark 1:4 has repentance and baptism without the Spirit.",
+          "significance": "Acts 2:38 is the formula Nephi is expounding for the whole chapter, and 31:11-12 splits it in two and gives each half a speaker. The Father says the first half — “Repent ye, repent ye, and be baptized” — and the Son says the second — “to him will the Father give the Holy Ghost”. Peter's single sentence at Pentecost has been dramatized into a dialogue between two persons of the Godhead. Then 31:17 reassembles it: “the gate … is repentance, and baptism by water; and then cometh a remission of your sins by fire, and by the Holy Ghost”, which restores even Peter's “remission of sins”, the one element the dialogue had dropped."
+        },
+        "note": "The chapter's structural debt, not merely a verbal one. Every clause of Acts 2:38 appears in 2 Nephi 31 and the sequence is never disturbed: repent, be baptized, in a name, receive the Holy Ghost, remission of sins. What the Book of Mormon adds is the substitution of “my beloved Son” for Peter's “Jesus Christ”, which is the voice of the Father speaking and could not have said the name any other way — a coherence the borrowing did not have to have.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": ["manual"]
+      }
+    ],
+    "31:12": [
+      {
+        "source": "John 14:26",
+        "type": "allusion",
+        "subtype": "conceptual",
+        "confidence": "moderate",
+        "text": "But the Comforter, which is the Holy Ghost, whom the Father will send in my name, he shall teach you all things, and bring all things to your remembrance, whatsoever I have said unto you.",
+        "evidence": { "vocabulary": 4, "syntax": 3, "sequence": 4, "context": 5, "rarity": 3, "attestation": 0 },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "recurrenceRefs": ["2 Nephi 32:5"],
+        "provenance": {
+          "route": "John 14:26 → KJV → Book of Mormon",
+          "other": "John 14:26 is the KJV's one verse in which the Son speaks, in the first person, of the Father giving the Holy Ghost in the Son's name. Luke 11:13's “give the Holy Spirit to them that ask him” has the Father giving but not the name and not the Spirit as Ghost.",
+          "significance": "The link matters because of what Nephi does with it two chapters later. John 14:26's Comforter “shall teach you all things”; 2 Nephi 32:5 promises that if you receive the Holy Ghost “it will shew unto you all things what ye should do”. The Son's speech at 31:12 sets up the pneumatology that chapter 32 exists to defend, and both ends of it are John 14."
+        },
+        "note": "“He that is baptized in my name, to him will the Father give the Holy Ghost, like unto me.” Three elements of John 14:26 — the Father as giver, the Holy Ghost as gift, the Son's name as the channel — with the Book of Mormon's own addition, “like unto me”, which glosses the Greek Paraclete's sense of another of the same kind without using the word Comforter. Moderate rather than high because no run of KJV wording is reproduced: the case rests on the configuration of the clause, not its diction.",
+        "whyNot": "Every content word here is common. A reader who thinks Acts 2:38's “ye shall receive the gift of the Holy Ghost” accounts for the whole verse has a simpler explanation, and the Acts link is already made at 31:11.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": ["manual"]
+      }
+    ],
+    "31:13": [
+      {
+        "source": "1 Corinthians 13:1",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "Though I speak with the tongues of men and of angels, and have not charity, I am become as sounding brass, or a tinkling cymbal.",
+        "evidence": { "vocabulary": 4, "syntax": 3, "sequence": 3, "context": 4, "rarity": 5, "attestation": 0 },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "recurrenceRefs": ["2 Nephi 31:14", "2 Nephi 32:2", "2 Nephi 32:3"],
+        "provenance": {
+          "route": "1 Corinthians 13:1 → KJV → Book of Mormon",
+          "other": "“with the tongues of men and of angels” occurs in exactly one KJV verse, 1 Corinthians 13:1. Angelic speech appears nowhere else in the Bible as a tongue that a human being might speak.",
+          "significance": "Paul names the tongue of angels in order to dismiss it — it is the first and highest of the gifts he says are nothing without charity. Nephi takes it as the promised outcome of baptism and builds two chapters on it: 31:14 has it again as “a new tongue”, and 2 Nephi 32:2-3 makes it the engine of the whole argument, since angels speak by the Holy Ghost and therefore speak the words of Christ. Recover 1 Corinthians 13 and the rhetorical direction is exactly reversed. What Paul offers as the most impressive thing a Christian could have and still be nothing, Nephi offers as evidence that something has happened. Nephi's own answer to Paul arrives, unremarked, at 33:7-9, where he says three times over that he has charity."
+        },
+        "note": "“Then can ye speak with the tongue of Angels.” The singular for Paul's plural and the dropping of “of men” are the only changes; the phrase has no other biblical home. The verse also carries “with full purpose of heart”, where “purpose of heart” occurs in exactly one KJV verse, Acts 11:23, and the sense there — Barnabas exhorting converts that with purpose of heart they would cleave unto the Lord — is the sense here. Note that the baptism of fire and the Holy Ghost in this verse inverts the order of both Matthew 3:11 and Luke 3:16, which read Holy Ghost first and fire second; the inversion holds at 31:14 and 31:17 as well, so it is Nephi's form of the phrase.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": ["manual"]
+      }
+    ],
+    "31:14": [
+      {
+        "source": "2 Peter 2:21",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "For it had been better for them not to have known the way of righteousness, than, after they have known it, to turn from the holy commandment delivered unto them.",
+        "evidence": { "vocabulary": 4, "syntax": 5, "sequence": 5, "context": 5, "rarity": 5, "attestation": 0 },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "2 Peter 2:21 → KJV → Book of Mormon",
+          "other": "“better for them not to have known” occurs in exactly one KJV verse, 2 Peter 2:21. Mark 14:21's “good were it for that man if he had never been born” is the nearest competitor and shares neither the construction nor the verb of knowing.",
+          "significance": "2 Peter 2:21 is about apostates who have escaped the pollutions of the world through the knowledge of Christ and are again entangled — precisely the case Nephi is putting, of one who has received the baptism of fire and then denies. The source supplies not only the sentence but the situation, and it supplies the escape clause too: Peter's apostate turns “from the holy commandment”, which is why Nephi's condition is stated as having “witnessed unto the Father that ye are willing to keep my commandments”. The whole of 31:14 is 2 Peter 2:20-21 with baptism written into it."
+        },
+        "note": "“And after this, should deny me, it would have been better for you, that ye had not known me.” The construction is the KJV's exactly — the counterfactual comparative, the perfect infinitive of knowing — with Peter's third person changed to the second because the Son is speaking directly. Peter's object is “the way of righteousness”; Nephi's is the person, “me”, which is a compression appropriate to a speaker who is himself that way. The 1830 “after that ye have repented” at the head of the verse again keeps the conjunction 1920 dropped.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": ["manual"]
+      }
+    ],
+    "31:15": [
+      {
+        "source": "Matthew 24:13",
+        "type": "quotation",
+        "subtype": "explicit",
+        "confidence": "certain",
+        "text": "But he that shall endure unto the end, the same shall be saved.",
+        "evidence": { "vocabulary": 5, "syntax": 5, "sequence": 5, "context": 4, "rarity": 5, "attestation": 0 },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": ["Matthew 10:22", "Mark 13:13"],
+        "recurrenceRefs": ["2 Nephi 31:16", "2 Nephi 31:20", "2 Nephi 33:4"],
+        "provenance": {
+          "route": "Matthew 10:22 + Matthew 24:13 → KJV → Book of Mormon",
+          "other": "“endureth to the end” occurs in exactly one KJV verse, Matthew 10:22. “the same shall be saved” occurs in exactly two KJV verses, Matthew 24:13 and Mark 13:13, both of which read “he that shall endure unto the end”. No KJV verse reads as 2 Nephi 31:15 does.",
+          "significance": "The most instructive single sentence in the chapter, because the Book of Mormon's form of it exists nowhere in the Bible. “He that endureth to the end, the same shall be saved” fuses Matthew 10:22's protasis with Matthew 24:13's apodosis. Two verses of one Gospel, sixteen chapters apart, joined at the comma. This is the signature of a text recalled rather than transcribed — the memory holds the shorter and more idiomatic half of each — and it is a cleaner instance of conflation than anything the mediation tests in 1 Nephi produced, because both halves are checkable KJV rarities and the seam between them is visible. That the Father is the speaker makes it sharper still: the voice from heaven quotes the Son, in a form the Son is never recorded as using."
+        },
+        "note": "The catalogue's decision to name Matthew 24:13 as the source rather than Mark 13:13 is a coin toss on the wording alone, since the two are identical in the shared clause; Matthew is preferred only because the other half of the conflation is unambiguously Matthew's, at 10:22, and because the chapter has already used Matthew 3 twice and Matthew 7 once. Mark 13:13 is carried in the composite and a reader is entitled to prefer it. What is not a coin toss is that neither Gospel supplies the whole sentence.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": ["manual", "machine-ngram"]
+      }
+    ],
+    "31:16": [
+      {
+        "source": "Matthew 16:16",
+        "type": "echo",
+        "subtype": "probable",
+        "confidence": "moderate",
+        "text": "And Simon Peter answered and said, Thou art the Christ, the Son of the living God.",
+        "evidence": { "vocabulary": 4, "syntax": 3, "sequence": 2, "context": 3, "rarity": 4, "attestation": 0 },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "Matthew 16:16 → KJV → Book of Mormon",
+          "other": "“the Son of the living God” occurs in exactly two KJV verses, Matthew 16:16 and John 6:69. Both are confessions by Peter; the title is used by no one else in the Bible.",
+          "significance": "Nephi's argument at 31:16 is that endurance means “following the example of the Son of the living God”, and the two KJV verses that supply the title are both moments where Peter identifies who Jesus is. Matthew's is followed at once by the first passion prediction and by Peter being told that if any man will come after Christ he must take up his cross and follow — which is the doctrine of 31:16, in its source, three verses later."
+        },
+        "note": "A title, not a clause, so this is recorded as an echo. It earns a row because the title is genuinely restricted — two verses, one speaker — and because the phrase arrives in this chapter at the exact point where following the Son's example is being made the condition of salvation. Between Matthew 16:16 and John 6:69 there is nothing in the wording to choose; Matthew is named because 2 Nephi 31 is otherwise a Matthean chapter.",
+        "whyNot": "Six words of confessional formula, and the Book of Mormon uses divine titles freely and often without a source. If the chapter did not lean on Matthew elsewhere this would be an exclusion.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": ["manual"]
+      }
+    ],
+    "31:19": [
+      {
+        "source": "Isaiah 63:1",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "text": "Who is this that cometh from Edom, with dyed garments from Bozrah? this that is glorious in his apparel, travelling in the greatness of his strength? I that speak in righteousness, mighty to save.",
+        "evidence": { "vocabulary": 4, "syntax": 3, "sequence": 2, "context": 4, "rarity": 5, "attestation": 0 },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "provenance": {
+          "route": "Isaiah 63:1 → KJV → Book of Mormon",
+          "other": "“mighty to save” occurs in exactly one KJV verse, Isaiah 63:1. Zephaniah 3:17's “he is mighty; he will save” is the nearest thing to a rival and is not the same phrase.",
+          "significance": "The one place in the King James Bible where God is called mighty to save is the opening of the winepress oracle, where the figure comes from Edom in dyed garments because he has trodden the peoples in his anger and his raiment is stained with their blood. Nephi, urging his readers to rely wholly on the merits of Him who is mighty to save, has reached for a title whose context is judgment rather than mercy — and the same book will make the connection explicit later, at Doctrine and Covenants 133's expansion of the same oracle. Whether the resonance is intended or not, it is the sort of thing metalepsis is a name for: the epithet promises salvation and its home verse describes what salvation costs those on the other side of it."
+        },
+        "note": "Three words, one KJV verse, and they arrive in a sentence about relying on merits, which is where the chapter's argument moves from what a convert does to what Christ has done. Isaiah 63 is not otherwise used in 2 Nephi's non-transcribed chapters, so this is not the residue of a nearby block quotation. Note also the 1830 “after that ye have got into this straight and narrow path” — 1830 “got”, 1920 “gotten”, and 1830 “straight” for the KJV's “strait”, on which see 31:9.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": ["manual"]
+      }
+    ],
+    "31:20": [
+      {
+        "source": "Philippians 3:14",
+        "type": "echo",
+        "subtype": "possible",
+        "confidence": "low",
+        "text": "I press toward the mark for the prize of the high calling of God in Christ Jesus.",
+        "evidence": { "vocabulary": 3, "syntax": 2, "sequence": 2, "context": 4, "rarity": 4, "attestation": 0 },
+        "kjvSpecific": "uncertain",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "Philippians 3:13-14 → KJV → Book of Mormon",
+          "other": "“press toward” occurs in exactly one KJV verse, Philippians 3:14, and the KJV has no instance of “press forward” at all. The verb of pressing on toward a goal is Paul's and, in the King James Bible, only Paul's.",
+          "significance": "If the echo stands, it stands with 31:7's Philippians 2:8: the chapter would be reaching into Philippians for both its Christology and its ethic of perseverance, taking the humbling from chapter 2 and the pressing on from chapter 3. Paul's context is his own incompleteness — “not as though I had already attained” — which is precisely the question Nephi has just asked at 31:19, “I would ask, If all is done? Behold, I say unto you, Nay.”"
+        },
+        "note": "Recorded at low confidence because the case is a real one and the wording will not quite carry it. Nephi's question at 31:19 and Paul's disclaimer at Philippians 3:13 are the same move, and the verb that answers both is a pressing forward; but “press forward” is not the KJV's phrase, and an author who wanted Paul's idiom had it available and did not use it.",
+        "whyNot": "The preposition is wrong and it is the only word that would have made this decidable. “Press forward” is ordinary nineteenth-century English and needs no source; the thematic parallel with Philippians 3:13 is the whole of the argument, and thematic parallels of this kind are cheap.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": ["manual"]
+      }
+    ],
+    "31:21": [
+      {
+        "source": "Acts 4:12",
+        "type": "quotation",
+        "subtype": "close-verbal",
+        "confidence": "certain",
+        "text": "Neither is there salvation in any other: for there is none other name under heaven given among men, whereby we must be saved.",
+        "evidence": { "vocabulary": 5, "syntax": 5, "sequence": 5, "context": 5, "rarity": 5, "attestation": 0 },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "Acts 4:12 → KJV → Book of Mormon",
+          "other": "“none other name under heaven” occurs in exactly one KJV verse, Acts 4:12. The whole construction — a negated existential, a name, “under heaven”, and a relative clause of being saved — has no other biblical occurrence.",
+          "significance": "The chapter that began by expounding Peter's Pentecost sermon ends by quoting Peter before the Sanhedrin, and the two Acts sermons are consecutive: Acts 2:38 at 31:11 and Acts 4:12 at 31:21. Peter's speech in Acts 4 is a defence of having healed in a name, delivered under interrogation; Nephi's is a summary of a doctrine, delivered as a farewell. What both share is that the name is the only thing at issue. Nephi's one addition is “way” — “there is none other way nor name” — which reaches back to Matthew 7's way at 31:9 and forward to “this is the way” in the same sentence, welding Peter's exclusive name to Matthew's narrow road."
+        },
+        "note": "Ten words in sequence, one departure. Acts 4:12 reads “given among men, whereby we must be saved”; 2 Nephi 31:21 reads “given under heaven, whereby man can be saved in the Kingdom of God”. The Book of Mormon relocates “under heaven” from its adjectival position after “name” and drops “among men”, but keeps the negated existential, the name, the relative clause and the passive of salvation. Below Skousen's sixteen-word threshold and not among his 36; catalogued as a quotation for the reasons in CONVENTIONS §2.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": ["manual"]
+      },
+      {
+        "source": "Matthew 28:19",
+        "type": "quotation",
+        "subtype": "explicit",
+        "confidence": "certain",
+        "text": "Go ye therefore, and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghost:",
+        "evidence": { "vocabulary": 5, "syntax": 5, "sequence": 5, "context": 5, "rarity": 5, "attestation": 0 },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "Matthew 28:19 → KJV → Book of Mormon",
+          "other": "“in the name of the Father, and of the Son, and of the Holy Ghost” occurs in exactly one KJV verse, Matthew 28:19 — twelve consecutive words with one biblical home.",
+          "significance": "The chapter's last sentence closes the frame it opened at 31:5. It began with Matthew 3, the baptism of Jesus, and it ends with Matthew 28, the command to baptize everyone else; the first and last words about baptism in the First Gospel are the first and last words about baptism in Nephi's exposition of the doctrine of Christ. And the triadic formula is what lets Nephi's final clause do its work: having named the three, he adds “which is one God, without end”, a gloss Matthew does not offer and which turns a baptismal formula into a creedal statement."
+        },
+        "note": "Twelve words verbatim, and this one clears Skousen's sixteen-word threshold only if the surrounding clause is counted, so it is worth saying plainly that on his measure it does not — the run is twelve. It is nonetheless the longest exact KJV run in the chapter and the identification is not disputable. The interest is in the appended “which is one God, without end”: the modalist-sounding gloss is the Book of Mormon's own, and the 1830 text has it with no punctuation to soften it.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": ["manual", "machine-ngram"]
+      }
+    ]
+  }
+}

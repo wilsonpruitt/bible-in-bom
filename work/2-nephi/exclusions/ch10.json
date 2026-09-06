@@ -1,0 +1,122 @@
+[
+  {
+    "bomRef": "2 Nephi 10:3",
+    "source": "Romans 9:8",
+    "category": "formulaic",
+    "sharedText": "they which are the",
+    "streams": ["machine-ngram"],
+    "reason": "A standing exclusion for this chapter. 'They which are' is the 1830 text's ordinary relative construction — the 1920 edition rewrote it to 'those who are' at 10:3, 10:16 twice, 10:19, 10:21 and 10:22 — and it will match any KJV verse using the same relative. Romans 9:8, Mark 12:43 ('all they which have', proposed at 10:22) and Luke 8:10 are all instances of this and none is a borrowing. The same applies to 'it must needs be' (Matthew 18:7) and 'and now, behold, the Lord' (Joshua 14:10)."
+  },
+  {
+    "bomRef": "2 Nephi 10:3",
+    "source": "1 Kings 13:18",
+    "category": "wrong-sense",
+    "sharedText": "angel spake unto me",
+    "streams": ["machine-ngram"],
+    "reason": "Four words, and the KJV verse is the lying prophet of Bethel: 'an angel spake unto me by the word of the LORD... But he lied unto him.' 2 Nephi 10:3's parenthesis is the angel of 2 Nephi 6:9 telling Jacob the Messiah's name. The one KJV verse where an angel speaks to a man in these words is the one where the claim is false, which makes the string match actively misleading rather than merely empty."
+  },
+  {
+    "bomRef": "2 Nephi 10:7",
+    "source": "Leviticus 26:36",
+    "category": "common-vocabulary",
+    "sharedText": "the lands of their",
+    "streams": ["machine-ngram"],
+    "reason": "The machine's run stops one word short of the noun that matters. Leviticus 26:36 has 'in the lands of their ENEMIES' — the curse of exile; 2 Nephi 10:7 has 'unto the lands of their INHERITANCE' — the promise of return. 'Lands of their inheritance' is in no KJV verse at all, which is why the window closes early (ADJUDICATING 4). Malachi 4:1 ('the day cometh that'), Exodus 10:6 and Galatians 1:16 are proposed at the same verse on connective strings and are covered by the standing exclusion at 10:3."
+  },
+  {
+    "bomRef": "2 Nephi 10:8",
+    "source": "Luke 1:15",
+    "category": "wrong-sense",
+    "sharedText": "shall be great in",
+    "streams": ["machine-ngram"],
+    "reason": "The top-ranked candidate for the verse and it is a coincidence of five common words. Luke 1:15 is Gabriel on John the Baptist, 'he shall be great in the sight of the Lord'; 2 Nephi 10:8 is 'the nations of the Gentiles shall be great in the eyes of me'. Luke 1:15 is a real source elsewhere in this book (2 Nephi 3:24, on being filled with the Spirit from the womb), which makes the false positive here worth registering rather than passing over. The verse's actual sources are Isaiah 11:11-12, which the n-gram stream did not propose at all."
+  },
+  {
+    "bomRef": "2 Nephi 10:9",
+    "source": "Luke 22:25",
+    "category": "wrong-sense",
+    "sharedText": "the kings of the Gentiles",
+    "streams": ["machine-ngram"],
+    "reason": "A genuine four-word run whose sense is exactly opposed. Luke 22:25: 'The kings of the Gentiles exercise lordship over them; and they that exercise authority upon them are called benefactors' — a warning against Gentile rule. 2 Nephi 10:9: 'the kings of the Gentiles shall be nursing fathers unto them' — a promise that Gentile rule will nurse Israel. The verse's source is Isaiah 49:23, where the phrase 'nursing fathers' and 'nursing mothers' are both KJV singletons; 'kings of the Gentiles' is Jacob's own gloss on Isaiah's unspecified 'kings', not a borrowing from Luke."
+  },
+  {
+    "bomRef": "2 Nephi 10:10",
+    "source": "Psalm 41:2",
+    "category": "common-vocabulary",
+    "sharedText": "shall be blessed upon the",
+    "streams": ["machine-ngram"],
+    "reason": "Five words, and the fifth diverges: Psalm 41:2 has 'blessed upon the EARTH' of the man who considers the poor; 2 Nephi 10:10 has 'blessed upon the LAND', the land being the subject of the whole passage. The construction is ordinary KJV blessing-formula English and points at no particular verse."
+  },
+  {
+    "bomRef": "2 Nephi 10:11",
+    "source": "Numbers 32:22",
+    "category": "formulaic",
+    "sharedText": "and this land shall be",
+    "streams": ["machine-ngram"],
+    "reason": "Five words of pure land-promise boilerplate. Numbers 32:22 is the Reubenites' conditional possession of Gilead; 2 Nephi 10:11 is the land of liberty. Nothing after the shared string agrees. The theological warrant behind 10:11-14 is 1 Samuel 8, which is linked at 10:11, and 'land of liberty' is in no KJV verse."
+  },
+  {
+    "bomRef": "2 Nephi 10:15",
+    "source": "Ezekiel 7:27",
+    "category": "formulaic",
+    "sharedText": "I will do unto them",
+    "streams": ["machine-ngram"],
+    "reason": "Proposed at both 10:15 and 10:17, which is a sign it has caught Jacob's own repeated clause ('that I will do unto them while they are in the flesh') rather than a source. Ezekiel 7:27 has 'I will do unto them after their way', a judgment formula; the Book of Mormon's clause is a promise about timing. Common connective phrasing in both."
+  },
+  {
+    "bomRef": "2 Nephi 10:16",
+    "source": "Numbers 5:3",
+    "category": "better-source-identified",
+    "sharedText": "both male and female",
+    "streams": ["machine-ngram"],
+    "reason": "The string is real but the source is not. Numbers 5:3 puts male and female lepers out of the camp; it has no bond and free and no Jew and Gentile. 2 Nephi 10:16 gives all three pairs in the order of Galatians 3:28, where 'male nor female' is a KJV singleton and 'bond nor free' occurs in only two verses. The link is written at Galatians 3:28, with 1 Corinthians 12:13 recorded as the source of the substituted first pair."
+  },
+  {
+    "bomRef": "2 Nephi 10:18",
+    "source": "Lamentations 1:21",
+    "category": "formulaic",
+    "sharedText": "they shall be like unto",
+    "streams": ["machine-ngram"],
+    "reason": "Five words of comparison boilerplate. Lamentations 1:21 says the enemies 'shall be like unto me' in ruin; 2 Nephi 10:18 says the Gentiles 'shall be like unto a father' to Lehi's seed. Opposite valence, no other contact."
+  },
+  {
+    "bomRef": "2 Nephi 10:21",
+    "source": "Esther 10:1",
+    "category": "better-source-identified",
+    "sharedText": "upon the isles of the sea",
+    "streams": ["machine-ngram"],
+    "reason": "The longest run the machine found in the chapter — six words, and 'isles of the sea' occurs in only two KJV verses — but Esther 10:1 is the extent of Ahasuerus's tribute, 'upon the land, and upon the isles of the sea', with no covenant content whatever. The other of the two is Isaiah 24:15, 'glorify ye the LORD... in the isles of the sea', which is where the link is written, with Isaiah 49:1's 'Listen, O isles' as a composite because Jacob had transcribed Isaiah 49 four chapters earlier. Note the crux recorded there: the verse Jacob is actually expounding, Isaiah 11:11, reads 'islands of the sea' in the KJV and in the Book of Mormon's own transcription at 2 Nephi 21:11 — so the plural he builds an argument on is not the plural his source gives him."
+  },
+  {
+    "bomRef": "2 Nephi 10:22",
+    "source": "Ezekiel 45:8",
+    "category": "formulaic",
+    "sharedText": "the house of Israel according to",
+    "streams": ["machine-ngram"],
+    "reason": "Six words, and every one of them is a fixed KJV collocation. 'The house of Israel' occurs well over a hundred times and 'according to' is connective. Ezekiel 45:8 is about the division of the land among the tribes; 2 Nephi 10:22 is about branches led away 'according to his will and pleasure'. The verse's source is Romans 11:17-20, on 'broken off', which the n-gram stream missed."
+  },
+  {
+    "bomRef": "2 Nephi 10:23",
+    "source": "Deuteronomy 24:5",
+    "category": "wrong-sense",
+    "sharedText": "cheer up",
+    "streams": ["manual"],
+    "reason": "Registered because the rarity is startling and the sense is absurd. 'Cheer up' is a KJV singleton, and the one verse is the newlywed's exemption from military service: 'he shall be free at home one year, and shall cheer up his wife which he hath taken.' 2 Nephi 10:23's 'Therefore cheer up your hearts' has nothing to do with it, and the idiom had passed into ordinary nineteenth-century English by any route. The model case for CONVENTIONS 5's warning that a rarity count is evidence about a phrase, not about a link."
+  },
+  {
+    "bomRef": "2 Nephi 10:24",
+    "source": "Titus 2:11",
+    "category": "better-source-identified",
+    "sharedText": "the grace of God that",
+    "streams": ["machine-ngram"],
+    "reason": "Five words, and the fifth is the hinge. Titus 2:11 is 'the grace of God that BRINGETH SALVATION hath appeared to all men' — grace appearing; 2 Nephi 10:24 is 'the grace of God that YE ARE SAVED' — grace saving. The saving formula is Ephesians 2:8's, 'by grace are ye saved', a KJV singleton in that exact form, and the link is written there. Titus 2:11 remains the machine's best guess for the chapter and is worth recording as a near miss."
+  },
+  {
+    "bomRef": "2 Nephi 10:25",
+    "source": "2 Samuel 21:3",
+    "category": "wrong-sense",
+    "sharedText": "the atonement, that ye may",
+    "streams": ["machine-ngram"],
+    "reason": "A five-word run across the most theologically loaded word in the verse, and it is a coincidence. 2 Samuel 21:3 is David asking the Gibeonites what blood-price will make atonement for Saul's slaughter of them; 2 Nephi 10:25 is a benediction about deliverance from everlasting death 'by the power of the atonement'. The English 'make the atonement, that ye may' and 'the atonement, that ye may' are the same words doing unrelated work. The verse's sources are Philippians 3:10 and 2 Peter 1:3-11."
+  }
+]
