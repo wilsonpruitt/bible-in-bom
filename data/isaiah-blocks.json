@@ -1,0 +1,112 @@
+{
+  "note": "The transcribed Isaiah blocks: chapters that are continuous quotation and are collated mechanically rather than hand-written (PLAN.md §5, ADJUDICATING.md §5). `spill` names the KJV chapter a block continues into when the Book of Mormon's chapter division outruns the KJV's. Blocks NOT listed here are expositions that quote — 2 Nephi 6, 27 and 30 among them — and those are adjudicated by hand, because the argument there is in what the expositor does with the text.",
+  "blocks": [
+    {
+      "slug": "1-nephi",
+      "ch": 20,
+      "book": "Isaiah",
+      "kjvChapter": 48
+    },
+    {
+      "slug": "1-nephi",
+      "ch": 21,
+      "book": "Isaiah",
+      "kjvChapter": 49
+    },
+    {
+      "slug": "2-nephi",
+      "ch": 7,
+      "book": "Isaiah",
+      "kjvChapter": 50
+    },
+    {
+      "slug": "2-nephi",
+      "ch": 8,
+      "book": "Isaiah",
+      "kjvChapter": 51,
+      "spill": {
+        "book": "Isaiah",
+        "chapter": 52
+      },
+      "note": "2 Nephi 8 runs Isaiah 51:1-23 and then Isaiah 52:1-2; Jacob's quotation crosses the KJV chapter division."
+    },
+    {
+      "slug": "2-nephi",
+      "ch": 12,
+      "book": "Isaiah",
+      "kjvChapter": 2
+    },
+    {
+      "slug": "2-nephi",
+      "ch": 13,
+      "book": "Isaiah",
+      "kjvChapter": 3
+    },
+    {
+      "slug": "2-nephi",
+      "ch": 14,
+      "book": "Isaiah",
+      "kjvChapter": 4
+    },
+    {
+      "slug": "2-nephi",
+      "ch": 15,
+      "book": "Isaiah",
+      "kjvChapter": 5
+    },
+    {
+      "slug": "2-nephi",
+      "ch": 16,
+      "book": "Isaiah",
+      "kjvChapter": 6
+    },
+    {
+      "slug": "2-nephi",
+      "ch": 17,
+      "book": "Isaiah",
+      "kjvChapter": 7
+    },
+    {
+      "slug": "2-nephi",
+      "ch": 18,
+      "book": "Isaiah",
+      "kjvChapter": 8
+    },
+    {
+      "slug": "2-nephi",
+      "ch": 19,
+      "book": "Isaiah",
+      "kjvChapter": 9
+    },
+    {
+      "slug": "2-nephi",
+      "ch": 20,
+      "book": "Isaiah",
+      "kjvChapter": 10
+    },
+    {
+      "slug": "2-nephi",
+      "ch": 21,
+      "book": "Isaiah",
+      "kjvChapter": 11
+    },
+    {
+      "slug": "2-nephi",
+      "ch": 22,
+      "book": "Isaiah",
+      "kjvChapter": 12
+    },
+    {
+      "slug": "2-nephi",
+      "ch": 23,
+      "book": "Isaiah",
+      "kjvChapter": 13
+    },
+    {
+      "slug": "2-nephi",
+      "ch": 24,
+      "book": "Isaiah",
+      "kjvChapter": 14
+    }
+  ]
+}
