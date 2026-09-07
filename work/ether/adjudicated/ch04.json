@@ -1,0 +1,708 @@
+{
+  "chapter": 4,
+  "adjudicated": "2026-09-07",
+  "adjudicator": "Opus",
+  "links": {
+    "4:1": [
+      {
+        "source": "John 12:32",
+        "type": "echo",
+        "subtype": "probable",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 2,
+          "sequence": 2,
+          "context": 4,
+          "rarity": 3,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "John 12:34",
+          "John 3:14"
+        ],
+        "recurrenceRefs": [
+          "1 Nephi 11:33",
+          "3 Nephi 27:14",
+          "Ether 4:19"
+        ],
+        "text": "And I, if I be lifted up from the earth, will draw all men unto me.",
+        "provenance": {
+          "route": "John 12:32-34 → KJV → 3 Nephi 27:14 → Book of Mormon",
+          "other": "“lifted up upon the cross” occurs in exactly 0 KJV verses; the KJV's idiom is John's absolute “lifted up”, at 3:14 (“even so must the Son of man be lifted up”), 8:28, 12:32 (“if I be lifted up from the earth”) and 12:34, where “must be lifted up” occurs in exactly one KJV verse. The cross is never the object of the verb in the KJV; the Book of Mormon supplies it.",
+          "alternative": "The proximate model is almost certainly not the Fourth Gospel directly but 3 Nephi 27:14, where the risen Christ says “my Father sent me that I might be lifted up upon the cross … that I might draw all men unto me” — John 12:32's two halves, in John's order, already fused into this exact Book of Mormon phrase. Our `mediation` enum has no value for an NT source reaching a verse through an earlier Book of Mormon passage (`OT-via-earlier-BoM` covers only the Old Testament case), so this is recorded as `direct-NT` and the intra-corpus route is stated here. Flagged for the conventions, not invented around.",
+          "significance": "The chapter uses “lifted up” twice and in opposite directions: at 4:1 the brother of Jared's record waits until Christ “should be lifted up upon the cross”, and at 4:19 the faithful “shall be lifted up to dwell in the kingdom prepared for them from the foundation of the world”. That double sense is John 12:32's own — the crowd at 12:34 hears the exaltation and Jesus is speaking of a death, and the evangelist glosses it at 12:33, “this he said, signifying what death he should die”. Ether 4 splits John's one verb across the two ends of the chapter and lets each end take one of its meanings."
+        },
+        "note": "Moroni dates the embargo on the sealed record by the crucifixion: the writings were “forbidden to come unto the children of men, until after that he should be lifted up upon the cross”. The phrase is not the King James Bible's — the KJV never puts the cross after the verb — but the verb is unmistakably John's, and the Book of Mormon has already welded the two together at 3 Nephi 27:14, where the Lord quotes John 12:32 in full (“lifted up upon the cross … draw all men unto me”). What Ether 4 adds is the pairing with 4:19's exaltation sense, which recovers the ambiguity John 12:32-34 is built on. A moderate call: the wording is the Book of Mormon's own by this point in the corpus, and the argument is about where that wording came from.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "4:5": [
+      {
+        "source": "Daniel 12:4",
+        "type": "allusion",
+        "subtype": "conceptual",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 2,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 3,
+          "attestation": 1
+        },
+        "kjvSpecific": "uncertain",
+        "mediation": "direct-OT",
+        "composite": [
+          "Daniel 12:9",
+          "Revelation 10:4",
+          "Isaiah 29:11"
+        ],
+        "recurrenceRefs": [
+          "2 Nephi 27:7",
+          "2 Nephi 27:10",
+          "Ether 3:27"
+        ],
+        "text": "But thou, O Daniel, shut up the words, and seal the book, even to the time of the end: many shall run to and fro, and knowledge shall be increased.",
+        "provenance": {
+          "route": "Daniel 12:4, 12:9 → KJV → Book of Mormon",
+          "other": "“seal up” occurs in exactly two KJV verses, Daniel 9:24 and Revelation 10:4. Daniel 12:4 has “seal the book, even to the time of the end” and 12:9 “the words are closed up and sealed till the time of the end”. “the interpretation thereof”, the other half of Ether 4:5, occurs in exactly 16 KJV verses, of which 11 are Daniel and 3 are the Joseph cycle of Genesis 40-41 — it is the King James Bible's phrase for the reading of a sealed or hidden text.",
+          "significance": "Ether 4:5 does something no biblical sealing does: it seals the interpretation with the record, and seals up the interpreters as physical objects. Daniel and Revelation both seal words; the interpreter in Daniel is a person, and in Revelation there is no interpreter at all, only a Lamb worthy to open. Recover the context and the difference is the point — the Book of Mormon's sealed book is unreadable not because its meaning is withheld but because its reading instrument is locked away with it, which is the condition Ether 4:6-7 makes contingent on repentance rather than on a heavenly opening."
+        },
+        "note": "“He commanded me that I should seal them up; and he also hath commanded that I should seal up the interpretation thereof; wherefore I have sealed up the interpreters.” Two KJV vocabularies meet in one sentence: the sealing-until-the-end of Daniel 12:4 and 12:9, and the Danielic “interpretation thereof”. Neither supplies a clause, which is why this is an allusion at moderate confidence rather than anything stronger — but the combination of the two, in a verse about a book withheld for a set time, is not likely to be accidental in a chapter that goes on to name the book of Revelation outright at 4:16. Isaiah 29:11's sealed book is the source the Book of Mormon itself has already worked at length (2 Nephi 27), and it is carried here as a composite rather than as the head because Isaiah's man cannot read the book for being unlearned, where Ether 4:5-6 is about a seal with a release condition, which is Daniel's shape.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "4:7": [
+      {
+        "source": "Exodus 20:11",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 3,
+          "context": 3,
+          "rarity": 5,
+          "attestation": 1
+        },
+        "kjvSpecific": "yes",
+        "mediation": "OT-via-earlier-BoM",
+        "composite": [
+          "Genesis 2:4",
+          "Acts 4:24"
+        ],
+        "recurrenceRefs": [
+          "Mosiah 13:19",
+          "2 Nephi 2:14",
+          "3 Nephi 9:15",
+          "Alma 11:39",
+          "Mormon 9:11"
+        ],
+        "text": "For in six days the LORD made heaven and earth, the sea, and all that in them is, and rested the seventh day: wherefore the LORD blessed the sabbath day, and hallowed it.",
+        "provenance": {
+          "route": "Exodus 20:11 → KJV Decalogue → Mosiah 13:19 → Book of Mormon creation formula → Ether 4:7",
+          "other": "“all that in them is” occurs in exactly two KJV verses, Exodus 20:11 and Acts 4:24, and Acts 4:24 is itself reciting the fourth commandment. tools/mediation-check.py returns no decisive divergence between them: the two verses read identically at every point Ether 4:7 reproduces, so this verse cannot settle its own mediation on internal evidence. What settles it is the corpus — Mosiah 13:19 quotes Exodus 20:11 whole and in Decalogue context (“for in six days the Lord made heaven and earth, and the sea, and all that in them is”), and every later occurrence is a creation formula descending from it.",
+          "significance": "The 1830 reading is the evidence. Exodus 20:11's “all that in them is” takes a singular verb because its subject is “all”. The Book of Mormon pluralises the subject to “all things” and keeps the singular verb anyway — “all things that in them is” — at 2 Nephi 2:14, 3 Nephi 9:15, Alma 11:39, Mormon 9:11 and here. A verb that has stopped agreeing with its own subject is a fossil of the clause it was lifted from. The 1920 edition corrected Ether 4:7 to “are”, which is better English and moves the text away from its source; CONVENTIONS §8's point exactly, and running in the opposite direction from the 1 Nephi 1:20 case."
+        },
+        "note": "“Jesus Christ, the Son of God, the Father of the heavens and of the earth, and all things that in them is.” The divine title is built from two KJV phrases: Genesis 2:4's “the heavens and of the earth” (a seven-word run, and the machine's top candidate here) and the Decalogue's merism for the created order. The Decalogue half is the load-bearing one, because it comes with a grammatical fingerprint. Neither the reading nor the borrowing is visible in a modern edition, where the verb agrees; in 1830 the clause is Exodus 20:11's with one word inserted into it. Mediation is recorded as OT-via-earlier-BoM rather than direct-OT because the formula is by this point the Book of Mormon's own standing title for the creator, first set down as an actual Exodus quotation at Mosiah 13:19.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "4:8": [
+      {
+        "source": "Galatians 1:8",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Galatians 1:9",
+          "Revelation 22:18",
+          "Revelation 22:19"
+        ],
+        "text": "But though we, or an angel from heaven, preach any other gospel unto you than that which we have preached unto you, let him be accursed.",
+        "provenance": {
+          "route": "Galatians 1:8-9 → KJV → Book of Mormon",
+          "other": "“let him be accursed” occurs in exactly two KJV verses, Galatians 1:8 and 1:9, and they are the same sentence said twice — “As we said before, so say I now again”. Ether 4:8 also says it twice, once for contending against the word and once for denying these things.",
+          "significance": "Recover the context and the borrowed formula brings its subject with it. Galatians 1:8-9 curses anyone who preaches “any other gospel”; it is the New Testament's one anathema against tampering with a received message, and it is doubled for emphasis. Ether 4:8 doubles it in the same way, and ten verses later the chapter tells its reader to “believe in my Gospel” (4:18). Set beside Revelation 22:18-19, the other canon-guarding curse and the closing words of the book Ether 4:16 names by its author, the chapter turns out to be framed at both ends by the two places in the King James Bible where a text curses those who will not have it: Paul's at the seal, John's at the unsealing."
+        },
+        "note": "“He that will contend against the word of the Lord, let him be accursed; and he that shall deny these things, let him be accursed.” The formula is Paul's and only Paul's — the KJV has it in two verses, both in Galatians 1, and reserves “Anathema” for the other such curse at 1 Corinthians 16:22. The doubling is Paul's too. What is transferred with it is a whole rhetorical situation: an apostle defending a message against those who would set it aside, in the opening paragraph of the letter, before any argument has been made. Moroni is doing exactly that here, at the point where he seals a record and forbids its rejection. Below Skousen's sixteen-word threshold and not one of his quotations; the case rests on the rarity of a four-word formula and on the closeness of the situations, not on length.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "4:9": [
+      {
+        "source": "Joel 3:16",
+        "type": "echo",
+        "subtype": "possible",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 2,
+          "sequence": 3,
+          "context": 4,
+          "rarity": 3,
+          "attestation": 0
+        },
+        "kjvSpecific": "uncertain",
+        "mediation": "direct-OT",
+        "composite": [
+          "Hebrews 12:26",
+          "Hebrews 12:27",
+          "Hebrews 12:29"
+        ],
+        "text": "The LORD also shall roar out of Zion, and utter his voice from Jerusalem; and the heavens and the earth shall shake: but the LORD will be the hope of his people, and the strength of the children of Israel.",
+        "provenance": {
+          "route": "Joel 3:16 → KJV → Book of Mormon",
+          "other": "“the earth shall shake” occurs in exactly two KJV verses, Ezekiel 38:20 and Joel 3:16. Only Joel's has the divine voice as the cause — “the LORD also shall roar out of Zion, and utter his voice from Jerusalem; and the heavens and the earth shall shake” — which is the construction Ether 4:9 uses, “and at my word, the earth shall shake”.",
+          "alternative": "Hebrews 12:26-29 does the same work in the New Testament and does it in the same order as Ether 4:9: a voice that shakes the earth (12:26), the removing of what is shaken (12:27), and “our God is a consuming fire” (12:29) — against Ether's shaking, passing away, and “even so as by fire”. Hebrews reaches it by quoting Haggai 2:6 rather than Joel, so no single verse can be named as the source, and the head of this link is given to the phrase that actually matches.",
+          "significance": "Three verses of the Lord's speech in this chapter (4:8-10) are a demonstration of authority interposed between the curse and the promise, and each clause of 4:9 has a scriptural warrant behind it — opened and shut heavens, a shaken earth, an ending by fire. The point of assembling them here is jurisdictional: the speaker who sealed the record at 4:5 is establishing that the seal is not a librarian's."
+        },
+        "note": "“At my command the heavens are opened and are shut; and at my word, the earth shall shake; and at my command, the inhabitants thereof shall pass away, even so as by fire.” No clause here is a quotation and the case is cumulative rather than verbal. The one phrase rare enough to point anywhere is “the earth shall shake”, in two KJV verses, and the one of those that construes the shaking as the effect of a divine utterance is Joel 3:16 — which is the construction Ether 4:9 repeats twice over with “at my word” and “at my command”. Recorded at moderate under CONVENTIONS §0a as worth putting on the table; a reader who prefers the Hebrews 12:26-29 sequence, which matches the whole verse's order but no single verse's words, is given it in the provenance.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "4:11": [
+      {
+        "source": "1 Corinthians 12:7",
+        "type": "allusion",
+        "subtype": "conceptual",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 2,
+          "sequence": 2,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "1 Corinthians 12:3"
+        ],
+        "recurrenceRefs": [
+          "Ether 4:18",
+          "Moroni 10:8",
+          "Moroni 10:17"
+        ],
+        "text": "But the manifestation of the Spirit is given to every man to profit withal.",
+        "provenance": {
+          "route": "1 Corinthians 12:7 → KJV → Book of Mormon",
+          "other": "“the manifestation of the Spirit” occurs in exactly one KJV verse, 1 Corinthians 12:7. The Book of Mormon's plural, “the manifestations of my spirit”, occurs in exactly 0 KJV verses; the singular collocation is Paul's alone.",
+          "significance": "Read forward and this is the first term of a set. Ether 4:11 promises the manifestation of the Spirit to whoever believes the record; 4:18 promises “signs shall follow them that believe in my name”; and Moroni, the same editor, closes the book by working straight through 1 Corinthians 12's list of gifts at Moroni 10:8-17, where the gifts “are given by the manifestations of the spirit of God” — the same pluralised form of the Pauline singleton that Ether 4:11 uses. The chapter that seals a book and the chapter that hands the reader a test of it are using the same Pauline vocabulary for what a believer is given, seven chapters apart."
+        },
+        "note": "“Him will I visit with the manifestations of my spirit; and he shall know and bear record.” The collocation is a KJV singleton and belongs to the opening of Paul's discussion of spiritual gifts, where “the manifestation of the Spirit is given to every man to profit withal” — given to every man, which is the universality Ether 4:11 also insists on (“he that believeth these things which I have spoken”). Two words carry the link and the syntax is not Paul's, so this is an allusion at moderate rather than anything higher. What raises it above coincidence is that the same verse pairs the manifestation with bearing record, and that seven verses later the chapter quotes Mark 16:17 on signs following believers: Ether 4 is describing a gifts-economy in the New Testament's terms.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "4:12": [
+      {
+        "source": "John 12:44",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "John 12:45",
+          "John 12:49"
+        ],
+        "text": "Jesus cried and said, He that believeth on me, believeth not on me, but on him that sent me.",
+        "provenance": {
+          "route": "John 12:44-49 → KJV → Book of Mormon",
+          "other": "“the Father which sent me” occurs in exactly one KJV verse, John 12:49 — five verses after John 12:44, in the same speech. The KJV's usual form is the bare “him that sent me”, which occurs in exactly 17 verses; John 12:49 is the only place the Father is named inside the phrase.",
+          "significance": "The Book of Mormon reads John 12:44 in the negative. John: “He that believeth on me, believeth not on me, but on him that sent me.” Ether: “He that will not believe my words, will not believe me … and he that will not believe me, will not believe the Father which sent me.” Turning a saying about belief into a saying about refusal is what the whole chapter is doing — 4:8 curses the denier, 4:10 answers the man who says the Lord does not speak, 4:15 names the veil of unbelief — and John 12 is the right place to get it from, because John 12:37-40 is itself the Gospel's set-piece on those who “believed not on him” and had their eyes blinded and their heart hardened."
+        },
+        "note": "Two rare things at once. The clause “the Father which sent me” is a King James singleton belonging to John 12:49, and the sentence it sits in is John 12:44's chain of belief run backwards through refusal. Ether 4:12 keeps John's structure — believing (or not believing) the messenger is believing (or not believing) the sender — and keeps the Johannine habit of a three-term chain, adding “my disciples” at 4:10 as the first link, which is John 13:20's move. Note that the 1830 reads “the Father which sent me”, matching John 12:49's relative pronoun exactly; the 1920 modernised it to “who”, erasing the fingerprint.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      },
+      {
+        "source": "John 14:6",
+        "type": "allusion",
+        "subtype": "paraphrase",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "John 8:12",
+          "John 9:5",
+          "John 1:4"
+        ],
+        "text": "Jesus saith unto him, I am the way, the truth, and the life: no man cometh unto the Father, but by me.",
+        "provenance": {
+          "route": "John 14:6 with John 8:12 → KJV → Book of Mormon",
+          "other": "“I am the way, the truth, and the life” occurs in exactly one KJV verse, John 14:6. “the light of the world” occurs in exactly three, Matthew 5:14 and John 8:12 and 9:5, of which the two Johannine ones are self-predications in the mouth of Jesus. “the truth of the world” occurs in exactly 0 KJV verses — the genitive is the Book of Mormon's own addition.",
+          "significance": "The chapter's editor is fusing two of John's “I am” sayings into one triad and then attaching a single genitive to all three of them. In John, “of the world” belongs only to the light; here it governs light, life and truth together, so that Christ is not the truth to whom the world may come but the truth of the world itself. That is a stronger claim than either Johannine verse makes, and it is made by a grammatical move rather than by an argument."
+        },
+        "note": "“For behold, I am the Father, I am the light, and the life, and the truth of the world.” Three of the four terms of John 14:6's “I am” saying are here — the truth and the life, with the way replaced by the light of John 8:12 — in a self-predication formula that is otherwise the Fourth Gospel's alone. The replacement is not arbitrary: John 1:4 has already put light and life in apposition (“in him was life; and the life was the light of men”), so the Book of Mormon's triad is assembled out of John's own stock. What is not John's is the closing genitive, which occurs in no KJV verse and which quietly universalises all three predicates at once.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "4:14": [
+      {
+        "source": "Matthew 25:34",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 4,
+          "context": 4,
+          "rarity": 3,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "recurrenceRefs": [
+          "Ether 4:19"
+        ],
+        "text": "Then shall the King say unto them on his right hand, Come, ye blessed of my Father, inherit the kingdom prepared for you from the foundation of the world:",
+        "provenance": {
+          "route": "Matthew 25:34 → KJV → Book of Mormon",
+          "other": "“from the foundation of the world” occurs in exactly six KJV verses. What narrows Ether 4:14 to Matthew 25:34 is the dative of advantage attached to it: “the kingdom prepared for you” occurs in exactly one KJV verse, and Ether 4:14 has “the Father hath laid up for you, from the foundation of the world”. No other KJV occurrence of the phrase says that something was set aside *for* an addressee.",
+          "significance": "The verse is addressed to “O ye house of Israel”, and it is Matthew 25:34 that supplies its grammar — the sentence in which the King welcomes the blessed of his Father into what was prepared for them before the world began. Ether 4:14 says the same thing has been laid up for Israel and withheld, “and it hath not come unto you, because of unbelief”. The chapter then closes at 4:19 by quoting the rest of Matthew 25:34 as the promise for whoever is found faithful, so the sheep-and-goats verse frames the second half of this chapter: withheld at 4:14, granted at 4:19."
+        },
+        "note": "“It shall be made manifest unto you how great things the Father hath laid up for you, from the foundation of the world.” The prepositional phrase is common enough in the KJV to prove nothing on its own; the combination with a beneficiary and with the Father as the one who did the laying up is Matthew 25:34's and nothing else's. Moderate rather than high because the verbal overlap is a formula plus a syntactic pattern rather than a clause — the strong version of this link is at 4:19, which reproduces six consecutive words of the same verse, and this row is best read with that one.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "4:15": [
+      {
+        "source": "Mark 16:14",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "recurrenceRefs": [
+          "Ether 4:10",
+          "Ether 4:18"
+        ],
+        "text": "Afterward he appeared unto the eleven as they sat at meat, and upbraided them with their unbelief and hardness of heart, because they believed not them which had seen him after he was risen.",
+        "provenance": {
+          "route": "Mark 16:14 → KJV → Book of Mormon",
+          "other": "“unbelief and hardness of heart” occurs in exactly one KJV verse, Mark 16:14, and so does “hardness of heart” on its own — the other KJV instances are “hardness of your hearts” (Matthew 19:8) and “hardness of your heart” (Mark 10:5), which the possessive keeps distinct. Ether 4:15 has both terms in Mark's order inside one clause: “that veil of unbelief which doth cause you to remain in your awful state of wickedness, and hardness of heart, and blindness of mind”.",
+          "significance": "This is the finding of the chapter, because it is not one verse but a route. Ether 4 works down the last paragraph of Mark in order: Mark 16:14's unbelief and hardness of heart at Ether 4:15, Mark 16:16 quoted almost whole at Ether 4:18, Mark 16:17's signs following believers in the same verse. Recover Mark 16:14's context and the reason for the choice appears — the risen Christ upbraids the eleven for not believing the witnesses who had seen him, which is precisely the offence Ether 4:10 defines (“he that believeth not my words, believeth not my disciples”) and precisely the situation Moroni is writing into, a record whose readers must believe witnesses they cannot check. Mark's longer ending, the passage whose own canonicity has been argued over since Eusebius, is the scaffolding of the Book of Mormon's charter for believing a sealed book."
+        },
+        "note": "Two of the three terms in Ether 4:15's diagnosis are a King James singleton, and they belong to the resurrection appearance in which unbelief of a testimony is rebuked. The third term, blindness of mind, is not Mark's — it comes from 2 Corinthians 3:14, catalogued separately at this verse — so 4:15 fuses the two New Testament passages about a mind that cannot see what it is being shown. The order matters more than the wording: this is the first of three contacts with Mark 16:14-17 inside four verses, and the last of them (4:18) is a seventeen-word reproduction. A link that would be arguable in isolation is not arguable once the sequence is in view.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      },
+      {
+        "source": "2 Corinthians 3:14",
+        "type": "allusion",
+        "subtype": "conceptual",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 2,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "2 Corinthians 3:15",
+          "2 Corinthians 3:16",
+          "Matthew 27:51",
+          "Romans 11:25"
+        ],
+        "text": "But their minds were blinded: for until this day remaineth the same vail untaken away in the reading of the old testament; which vail is done away in Christ.",
+        "provenance": {
+          "route": "2 Corinthians 3:13-16 → KJV → Book of Mormon",
+          "other": "“the vail is upon their heart” occurs in exactly one KJV verse, 2 Corinthians 3:15. “veil of unbelief” and “blindness of mind” each occur in exactly 0 KJV verses; both are the Book of Mormon's coinages, and each is one KJV term away from 2 Corinthians 3:14, whose two halves are “their minds were blinded” and “the same vail untaken away”. The KJV spells Paul's word *vail* throughout 2 Corinthians 3 and spells the temple curtain *veil* at Matthew 27:51; the 1830 reads *veil*, which is the spelling of the verse that supplies the verb.",
+          "significance": "Paul's veil has a removal condition — “when it shall turn to the Lord, the vail shall be taken away” (3:16) — and it lies over Israel reading its own covenant. Ether 4:15 keeps the condition, keeps the addressee (“O house of Israel”), and changes the verb: Paul's veil is *taken away* by God, and this one the house of Israel must *rend*. That verb is Matthew 27:51's, where the temple veil is rent from the top downward at the crucifixion. The Book of Mormon has taken Paul's image of covenant blindness and made the reader do to it what the death of Christ did to the temple curtain — and then, in the same sentence, promises that “the Father hath remembered the covenant which he made unto your fathers”, which is what a rent veil in Paul is for."
+        },
+        "note": "“When ye shall rend that veil of unbelief … and blindness of mind, then shall the great and marvellous things which have been hid up from the foundation of the world … then shall ye know that the Father hath remembered the covenant.” Four elements of 2 Corinthians 3:13-16 arrive together: a veil, minds blinded, Israel as the one who cannot see, and a stated condition on which the veil comes off. None of them is a quotation, which is why the evidence scores put vocabulary above syntax, but the cluster is not available anywhere else in the King James Bible, and Romans 11:25's blindness happening to Israel “until the fulness of the Gentiles be come in” is the same argument in the same apostle's hand — which matters here because Ether 4:13-14 has just addressed the Gentiles first and Israel second. The verb “rend” is imported from the passion narrative and does the theological work Paul's passive would not.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      },
+      {
+        "source": "Psalm 34:18",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 2,
+          "sequence": 2,
+          "context": 4,
+          "rarity": 4,
+          "attestation": 1
+        },
+        "kjvSpecific": "yes",
+        "mediation": "OT-via-earlier-BoM",
+        "composite": [
+          "Isaiah 66:2",
+          "Psalm 51:17"
+        ],
+        "recurrenceRefs": [
+          "2 Nephi 2:7",
+          "3 Nephi 9:20",
+          "3 Nephi 12:19",
+          "Moroni 6:2"
+        ],
+        "text": "The LORD is nigh unto them that are of a broken heart; and saveth such as be of a contrite spirit.",
+        "provenance": {
+          "route": "Psalm 34:18 → KJV → 3 Nephi 9:20 → Book of Mormon formula → Ether 4:15",
+          "other": "“broken heart” occurs in exactly one KJV verse, Psalm 34:18, which also supplies “contrite spirit” — a phrase occurring in exactly two verses, Psalm 34:18 and Isaiah 66:2. Psalm 51:17, the verse usually named for this idea, crosses the terms the other way: “a broken spirit: a broken and a contrite heart”. The Book of Mormon consistently follows Psalm 34:18's assignment, heart broken and spirit contrite, never Psalm 51:17's.",
+          "significance": "The distribution is the argument. Psalm 34:18 is the only KJV verse that pairs a broken heart with a contrite spirit in that order, and every Book of Mormon occurrence of the phrase — 2 Nephi 2:7, 3 Nephi 9:20, 3 Nephi 12:19, Moroni 6:2, and here — reproduces the pairing exactly. A text drawing loosely on a familiar biblical idea would be expected to drift into Psalm 51:17's more famous crossing at least once in five tries. It never does."
+        },
+        "note": "“When ye shall call upon the Father in my name, with a broken heart and a contrite spirit.” The phrase is by Ether 4 an established Book of Mormon formula, set down in the risen Lord's own mouth at 3 Nephi 9:20 (“ye shall offer for a sacrifice unto me a broken heart and a contrite spirit”) and repeated in the Nephite Beatitudes at 12:19, which is why mediation is recorded as OT-via-earlier-BoM rather than direct-OT: the proximate model is the corpus's own, and Ether 4:15 is the Lord quoting himself to a later editor. Behind the formula stands one KJV verse and not the obvious one — the pairing is Psalm 34:18's, not Psalm 51:17's, and the Book of Mormon never once confuses them.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      },
+      {
+        "source": "Matthew 13:35",
+        "type": "echo",
+        "subtype": "possible",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 4,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "recurrenceRefs": [
+          "Ether 4:13",
+          "Ether 4:14",
+          "Ether 4:19"
+        ],
+        "text": "That it might be fulfilled which was spoken by the prophet, saying, I will open my mouth in parables; I will utter things which have been kept secret from the foundation of the world.",
+        "provenance": {
+          "route": "Matthew 13:35 → KJV → Book of Mormon",
+          "other": "“kept secret from the foundation” occurs in exactly one KJV verse, Matthew 13:35. Of the six KJV verses carrying “from the foundation of the world”, it is the only one in which what dates from the foundation is something concealed — the others concern a prepared kingdom (Matthew 25:34), shed blood (Luke 11:50), finished works (Hebrews 4:3) and a book of life (Revelation 13:8, 17:8).",
+          "significance": "The chapter uses the formula three times and takes a different KJV verse each time: hidden things at 4:15 (Matthew 13:35), things laid up for an addressee at 4:14 and a prepared kingdom at 4:19 (Matthew 25:34). Matthew 13:35's own context is Jesus explaining why he teaches in parables — a deliberate withholding from those outside, quoting Psalm 78:2 — which is the doctrine Ether 4 is built on: 4:13 has the knowledge “hid up because of unbelief”, and 4:7 releases it only to those who exercise faith. The parable theory of Matthew 13 is being applied to a physical book."
+        },
+        "note": "“The great and marvellous things which have been hid up from the foundation of the world.” The formula is too common in the KJV to identify a source by itself, but only one of its six occurrences concerns concealed things, and that verse's concealment is the same kind Ether 4 is describing — teaching withheld from those who will not receive it. An echo rather than an allusion because the shared wording is a stock phrase and the distinctive word differs (Matthew's “kept secret”, the Book of Mormon's “hid up”); the case is that the chapter selects the right verse from a set of six on three separate occasions. Note that 1830 reads *marvellous*, the KJV spelling, which the 1920 edition modernised.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "4:16": [
+      {
+        "source": "Revelation 1:1",
+        "type": "allusion",
+        "subtype": "explicit",
+        "confidence": "certain",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 2
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Revelation 1:19",
+          "Revelation 10:4"
+        ],
+        "recurrenceRefs": [
+          "1 Nephi 14:20",
+          "1 Nephi 14:27"
+        ],
+        "text": "The Revelation of Jesus Christ, which God gave unto him, to shew unto his servants things which must shortly come to pass; and he sent and signified it by his angel unto his servant John:",
+        "provenance": {
+          "route": "Revelation 1:1 → KJV → Book of Mormon",
+          "other": "“his servant John” occurs in exactly one KJV verse, Revelation 1:1 — “he sent and signified it by his angel unto his servant John”. The Book of Mormon's “my servant John” makes the possessive first-person because the speaker is the one whose Revelation it is, which is the correction Revelation 1:1's own opening clause invites: “The Revelation of Jesus Christ, which God gave unto him”.",
+          "significance": "This is the chapter's one uncontestable citation, and it is a citation of a title page. Ether 4:16 does not allude to Revelation; it names the book, its author, its commissioning, and its future publication — “my revelations which I have caused to be written by my servant John, be unfolded in the eyes of all the people”. Set that beside the sealing at 4:5 and the chapter's shape becomes Revelation's: a book written, sealed, and opened at a time the writer does not choose. 1 Nephi 14:27 has already named him — “the name of the Apostle of the Lamb was John, according to the word of the angel” — so the corpus has been pointing at this verse since its fourteenth chapter."
+        },
+        "note": "The whole of the link is in three words that occur together in one King James verse, and they are three words the chapter uses to identify a text rather than to borrow from it. Revelation 1:1's chain of transmission — God to Jesus Christ to an angel to his servant John — is compressed into a single first-person clause in which the second link speaks and the fourth is named. What follows in Ether 4:16 is the promise the sealed record and the Apocalypse share: that the withheld writing will be “unfolded in the eyes of all the people”. Certain, and cited rather than echoed; the interest of the row is in what the naming licenses the rest of the chapter to do.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      },
+      {
+        "source": "Revelation 22:10",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Revelation 1:3",
+          "Daniel 12:4"
+        ],
+        "recurrenceRefs": [
+          "Ether 4:5"
+        ],
+        "text": "And he saith unto me, Seal not the sayings of the prophecy of this book: for the time is at hand.",
+        "provenance": {
+          "route": "Revelation 22:10 → KJV → Book of Mormon",
+          "other": "“the time is at hand” occurs in exactly two KJV verses, Revelation 1:3 and Revelation 22:10, which is to say it occurs at the opening and the closing of the same book — the book Ether 4:16 has just named in its own first half.",
+          "significance": "The metalepsis is sharp enough to be worth stating flatly. Revelation 22:10 reads “Seal not the sayings of the prophecy of this book: for the time is at hand” — the clause Ether 4:16 borrows is, in its source, the reason a book must *not* be sealed. Ether 4:5 seals a book; Ether 4:16 announces that the seal comes off, and gives as its warrant the exact five words with which the angel forbade John to seal. Recover the context and the chapter has arranged itself as the inverse of Revelation's ending: John is told the time is at hand, so do not seal; Moroni seals, and tells his reader that when he sees these things he will know the time is at hand. Daniel 12:4, carried as a composite, is the third term — Daniel is told to seal *until* the time of the end, which is the position the Book of Mormon occupies between the two."
+        },
+        "note": "Within a single verse the chapter names the book of Revelation and then quotes the clause from its last chapter that governs whether such a book may be sealed. That the same five words also close Revelation 1:3 makes the phrase the Apocalypse's own signature rather than a stray idiom, and the second half of Ether 4:16 (“when ye see these things, ye shall know that the time is at hand”) puts it in a knowledge-clause, exactly as Revelation 1:3 puts it in a blessing-clause and 22:10 in a command-clause. The Book of Mormon's sealed record is being positioned inside a canon-closing text's own vocabulary about sealing.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      },
+      {
+        "source": "Luke 21:31",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Mark 13:29"
+        ],
+        "text": "So likewise ye, when ye see these things come to pass, know ye that the kingdom of God is nigh at hand.",
+        "provenance": {
+          "route": "Luke 21:31 → KJV → Book of Mormon",
+          "other": "“when ye see these things” occurs in exactly one KJV verse, Luke 21:31 — “So likewise ye, when ye see these things come to pass, know ye that the kingdom of God is nigh at hand.” Its Markan parallel reads “when ye shall see these things come to pass” (Mark 13:29), so the Book of Mormon's clause without “shall” follows Luke's wording and not Mark's.",
+          "significance": "Ether 4:16 fuses the two ends of the New Testament: an apocalyptic discourse's rule for reading the signs, and the Apocalypse's own clause about the time being at hand. Luke 21:31 supplies the structure — see these things, therefore know — and Revelation 22:10 supplies what is to be known. What Ether 4:16 substitutes for “the kingdom of God is nigh” is the publication of the sealed record, so the sign whose appearance signals the end is, in this chapter, the unsealing of this book."
+        },
+        "note": "“Remember, when ye see these things, ye shall know that the time is at hand.” A five-word King James singleton in the same clause-shape as its source: a temporal clause of seeing, then a main clause of knowing that something is at hand. Ether 4:16 has already used Revelation's words for the second half, so the sentence is a splice, and the seam is visible — Luke's “nigh at hand” about the kingdom becomes Revelation's “at hand” about the time. Moderate rather than high because the shared string, though rare, is ordinary English and the composition is the Book of Mormon's; the argument is that this verse reaches for two different eschatological formulas in one sentence and gets both of them from the King James Bible.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "4:18": [
+      {
+        "source": "Mark 16:16",
+        "type": "quotation",
+        "subtype": "explicit",
+        "confidence": "certain",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 2
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "recurrenceRefs": [
+          "3 Nephi 11:33",
+          "3 Nephi 11:34",
+          "Mormon 9:23"
+        ],
+        "text": "He that believeth and is baptized shall be saved; but he that believeth not shall be damned.",
+        "provenance": {
+          "route": "Mark 16:16 → KJV → Book of Mormon",
+          "other": "“shall be damned” occurs in exactly one KJV verse, Mark 16:16. The reproduced run is seventeen words — “he that believeth, and is baptized, shall be saved; but he that believeth not, shall be damned” — against a KJV verse of nineteen, the only differences being an added comma-bound “and” and nothing else.",
+          "significance": "The verse Ether 4:18 reproduces whole is the one that stands three verses after the unbelief-and-hardness-of-heart of 4:15 and immediately before the signs of 4:17 in Mark's own numbering. It is also the verse in the KJV New Testament with the most contested textual standing: Mark 16:9-20 is absent from the two oldest Greek codices and was known to be doubtful long before 1830, so a nineteenth-century printed English Bible is the only text from which this sentence could have been received as the plain word of the risen Christ. The Book of Mormon's charter for baptism, given in the Lord's voice, is a quotation of the longer ending of Mark."
+        },
+        "note": "A seventeen-word reproduction of a nineteen-word verse, in the Lord's own mouth, and above the threshold Skousen uses to define a quotation — though this passage is not one of his identified set and nothing here should be read as claiming it is. Mormon 9:23 quotes the same verse and 3 Nephi 11:33-34 gives its content in other words, so Ether 4:18 is the corpus's third pass at it; what distinguishes this one is that it comes attached to Mark 16:17 in the same sentence and to Mark 16:14 three verses earlier, which is a reading of Mark's ending as a unit rather than three separate borrowings.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      },
+      {
+        "source": "Mark 16:17",
+        "type": "quotation",
+        "subtype": "close-verbal",
+        "confidence": "certain",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 1
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "recurrenceRefs": [
+          "Mormon 9:24",
+          "Moroni 10:8"
+        ],
+        "text": "And these signs shall follow them that believe; In my name shall they cast out devils; they shall speak with new tongues;",
+        "provenance": {
+          "route": "Mark 16:17 → KJV → Book of Mormon",
+          "other": "“signs shall follow them that believe” occurs in exactly one KJV verse, Mark 16:17. The Book of Mormon adds four words to it — “signs shall follow them that believe in my name” — which are Mark's next four words read across his semicolon: “them that believe; In my name shall they cast out devils”.",
+          "significance": "The addition is the finding. Mark 16:17 puts the signs after a full stop's worth of punctuation and makes “in my name” the instrument of the exorcisms that follow; Ether 4:18 pulls the phrase back across the clause boundary and attaches it to the believing instead, so that what is qualified is the faith rather than the miracle. Mormon 9:24, by the same editor's father, keeps Mark's own division. Two members of the same editorial family quote one verse and divide it differently."
+        },
+        "note": "Six consecutive words of a King James singleton, in the same sentence as the seventeen-word reproduction of Mark 16:16, which is why this is catalogued as a quotation despite its length. The interest is in the join: Ether 4:18 reads Mark's semicolon away and produces “them that believe in my name”, a phrase that exists in the KJV only as two clauses meeting. It is the sort of thing that happens when a text is being recalled as a running sentence rather than copied from a page, and it is evidence about how this chapter's biblical material was carried.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "4:19": [
+      {
+        "source": "Matthew 25:34",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "recurrenceRefs": [
+          "Ether 4:14",
+          "Ether 4:1"
+        ],
+        "text": "Then shall the King say unto them on his right hand, Come, ye blessed of my Father, inherit the kingdom prepared for you from the foundation of the world:",
+        "provenance": {
+          "route": "Matthew 25:34 → KJV → Book of Mormon",
+          "other": "“the kingdom prepared for you” occurs in exactly one KJV verse, Matthew 25:34. Ether 4:19 changes only the pronoun — “the kingdom prepared for them from the foundation of the world” — and in 1830 the pronoun is plural throughout the verse (“they shall be lifted up … prepared for them”), which the 1920 edition changed to “he … him” to agree with the singular “he that is found faithful”.",
+          "significance": "The book of Ether ends its editor's charter on the sheep-and-goats verse, and takes both halves of it: the kingdom prepared, and the preparation dated from the foundation of the world. Read with 4:14, which said the same thing was “laid up for you” and had not come because of unbelief, the chapter turns Matthew 25:34 into its own frame — the identical promise withheld from the unbelieving at 4:14 and granted to the faithful at 4:19. And the verb by which the faithful arrive is “lifted up”, the verb that at 4:1 named the crucifixion; the last sentence of the chapter closes the ambiguity John 12:32 opened in its first."
+        },
+        "note": "“They shall be lifted up to dwell in the kingdom prepared for them from the foundation of the world.” Six consecutive words of a King James singleton, altered at one pronoun, in the closing sentence of Moroni's editorial charge. The choice of source is not neutral: Matthew 25:34 is the sentence of acceptance in the last judgment scene, spoken by the King to those on his right hand, and Ether 4:19 gives it to whoever “is found faithful unto my name, at the last day”. The 1830 plural is worth recording — the first edition lets the promise be corporate where the modern text makes it individual, and the 1920 correction is a grammatical tidy that costs the verse its congregation.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ]
+  }
+}

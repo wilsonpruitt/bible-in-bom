@@ -1,0 +1,122 @@
+[
+  {
+    "bomRef": "Ether 15:2",
+    "source": "2 Chronicles 20:13",
+    "category": "common-vocabulary",
+    "sharedText": "their wives and their children",
+    "streams": ["machine-ngram"],
+    "reason": "The highest-ranked candidate at this verse and a five-word run, and it is the King James Bible's ordinary way of naming a population. 2 Chronicles 20:13 is Judah standing before the LORD with their little ones to pray for deliverance; Ether 15:2 is Coriantumr counting two millions of his own dead. The Book of Mormon uses the enumeration constantly, including twice more in this chapter (15:15, and 'men, women and children' in the same verse), so no single KJV verse is in view. Nothing else of 2 Chronicles 20 is present."
+  },
+  {
+    "bomRef": "Ether 15:3",
+    "source": "Jeremiah 26:19",
+    "category": "common-vocabulary",
+    "sharedText": "repent of the evil which he had done",
+    "streams": ["machine-ngram"],
+    "reason": "A six-word run and the top-scoring candidate in the chapter, and it is the Book of Mormon's own idiom rather than Jeremiah's. Ether 2:15 already reads 'the brother of Jared repented him of the evil which he had done', thirteen chapters earlier in the same book, so 15:3 is repeating a formula the book set for itself at its beginning. The KJV verse is also the wrong shape: in Jeremiah 26:19 it is the LORD who 'repented him of the evil which he had pronounced', a withdrawn judgment, not a man repenting of what he did. The real link at this verse is to Psalm 77:2, where the soul refuses to be comforted; see the adjudication there."
+  },
+  {
+    "bomRef": "Ether 15:11",
+    "source": "Revelation 16:16",
+    "category": "insufficient-verbal",
+    "sharedText": "(a hill with a Hebrew name where the nations are gathered for the last battle)",
+    "streams": ["manual"],
+    "reason": "Written out because every reader who knows Revelation will propose it. Ether 15:11-15 gathers an entire people to a named hill for a battle nobody survives, and Revelation 16:16 gathers the kings of the earth 'into a place called in the Hebrew tongue Armageddon' — har megiddo, the hill of Megiddo, a Hebrew hill-name for the same event. The typological fit is as close as it gets. The wording is not there at all: Ether has 'the hill Ramah' and Revelation has 'Armageddon', and the two share no English word. The apocalyptic gathering IS catalogued in this chapter, one verse later and on verbal grounds, against Revelation 20:8, whose 'gather them together to battle' is a KJV singleton; a reader who came here for Armageddon should go to Ether 15:12. Ramah's own KJV background is adjudicated at 15:11 against Jeremiah 31:15."
+  },
+  {
+    "bomRef": "Ether 15:12",
+    "source": "Ezekiel 34:6",
+    "category": "formulaic",
+    "sharedText": "upon all the face of the",
+    "streams": ["machine-ngram"],
+    "reason": "A six-word run, and 'upon all the face' is technically a KJV singleton — which is exactly the failure mode CONVENTIONS §9 warns about, rare boilerplate scoring high. The KJV's phrase is 'upon all the face of the earth' (scattered sheep); the Book of Mormon's is 'upon all the face of the land', which is its standing formula for the whole territory and which it uses hundreds of times across the corpus. Ezekiel 34's shepherds and flock are nowhere in Ether 15. This entry covers the same match at 15:14 and 15:15."
+  },
+  {
+    "bomRef": "Ether 15:14",
+    "source": "Numbers 12:3",
+    "category": "formulaic",
+    "sharedText": "which were upon the face of the",
+    "streams": ["machine-ngram"],
+    "reason": "The longest shared run at this verse, seven words, and pure connective tissue on both sides. Numbers 12:3 is the parenthesis about Moses being meeker than all the men upon the face of the earth; Ether 15:14 is four years spent conscripting everyone left alive. The shared string is a relative clause and a locative formula, and the Book of Mormon writes it as reflexively as the KJV does. Covered in part by the Ezekiel 34:6 entry above; recorded separately because the run is long enough to tempt."
+  },
+  {
+    "bomRef": "Ether 15:14",
+    "source": "Acts 13:20",
+    "category": "formulaic",
+    "sharedText": "the space of four",
+    "streams": ["machine-ngram"],
+    "reason": "'For the space of' is the King James Bible's standard duration formula and it appears at Acts 13:20, 19:8, 19:10, 20:31 and elsewhere with whatever numeral the context requires. Nothing connects the four hundred and fifty years of the judges to the Jaredites' four years of mustering except the word 'four'. This entry covers every 'space of' candidate in the chapter except 15:27, which is filed separately because its numeral matches."
+  },
+  {
+    "bomRef": "Ether 15:15",
+    "source": "Deuteronomy 3:6",
+    "category": "wrong-sense",
+    "sharedText": "men, women and children",
+    "streams": ["machine-ngram"],
+    "reason": "This one deserves the argument, because 'men women and children' is a KJV SINGLETON and the singleton is an extermination verse: 'we utterly destroyed them ... utterly destroying the men, women, and children, of every city.' A chapter about the extermination of a nation, using the KJV's one phrase for the extermination of a population, looks decisive. It is not, on two grounds. First, the Book of Mormon uses the phrase eight times, three of them in Ether alone (6:3 of the Jaredites crossing the sea by shining stones, 14:31, and here), so it is a house idiom and not a borrowing. Second, the sense inverts: Deuteronomy's men, women and children are the slaughtered inhabitants of a captured city, and Ether's are the army — 'both men, women and children being armed with weapons of war, having shields, and breast-plates, and head-plates.' The horror of Ether 15:15 is precisely that the noncombatants of the KJV formula have become combatants. Recorded rather than linked, but a reader who wants to press it has the counts here."
+  },
+  {
+    "bomRef": "Ether 15:17",
+    "source": "Numbers 17:8",
+    "category": "formulaic",
+    "sharedText": "and it came to pass that on the morrow",
+    "streams": ["machine-ngram"],
+    "reason": "Nine words, the longest run in the chapter, and every one of them boilerplate. 'And it came to pass' is covered by the standing exclusion at 1 Nephi 1:5; 'on the morrow' is the KJV's ordinary next-day marker and Ether 15 uses it six times (15:8, 15:17, 15:21, 15:23, 15:24, 15:26, 15:29). Aaron's budded rod has nothing to do with the second day of a war of annihilation. This entry covers the same string at 15:29 (Amos 7:2) and the 'on the morrow' matches at Acts 23:32 and Acts 10:23."
+  },
+  {
+    "bomRef": "Ether 15:18",
+    "source": "2 Corinthians 2:1",
+    "category": "wrong-sense",
+    "sharedText": "would not come again to",
+    "streams": ["machine-ngram"],
+    "reason": "A five-word run and the second-rarest candidate in the chapter, and the coincidence is entirely in the auxiliary verbs. Paul has determined not to make another visit to Corinth 'in heaviness', a decision about pastoral timing; Coriantumr writes to the man who is exterminating his people begging him not to come again to battle and offering him the kingdom. Both sentences say 'would not come again to' because both are about declining a second arrival, and there the resemblance stops — no content word is shared, and nothing else of 2 Corinthians 2 is anywhere near Ether 15."
+  },
+  {
+    "bomRef": "Ether 15:19",
+    "source": "Joshua 7:5",
+    "category": "better-source-identified",
+    "sharedText": "the hearts of the people",
+    "streams": ["machine-ngram"],
+    "reason": "A five-word run, and Joshua 7:5's 'the hearts of the people melted, and became as water' after the rout at Ai is a real defeat-of-a-nation verse, so the proposal is not silly. But the shared string is a generic possessive, the melting is absent from Ether, and the verse's actual borrowings are elsewhere and much rarer: 'the blindness of their minds' from Ephesians 4:18, whose 'the blindness of' is a KJV singleton, and 'the hardness of their hearts' from Mark 3:5, likewise a singleton, both catalogued at 15:19 along with the Genesis 6:3 formula behind 'the spirit of the Lord had ceased striving'. Joshua 7:5 is superseded."
+  },
+  {
+    "bomRef": "Ether 15:22",
+    "source": "Isaiah 51:21",
+    "category": "better-source-identified",
+    "sharedText": "drunken, but not with wine",
+    "streams": ["manual"],
+    "reason": "The nearest paraphrase of Ether 15:22's sense in the whole KJV — men drunk on something that is not wine — and it occurs in exactly two verses, Isaiah 29:9 and 51:21, both of them oracles about a people staggering under judgment. It loses to Isaiah 49:26 on syntax and on corpus history. Ether reads 'drunken with anger, even as a man which is drunken with wine', which is the construction 'drunken with X, as with wine'; Isaiah 29:9 and 51:21 have no 'as with' comparison, and Isaiah 49:26 does — 'drunken with their own blood, as with sweet wine'. Isaiah 49:26 is also the verse the Book of Mormon has already quoted twice (1 Nephi 21:26, 2 Nephi 6:18) and interpreted once, at 1 Nephi 22:13, as a prophecy of a people warring among themselves until its own sword falls on its own head. See the link at 15:22."
+  },
+  {
+    "bomRef": "Ether 15:27",
+    "source": "Acts 5:7",
+    "category": "wrong-sense",
+    "sharedText": "the space of three hours",
+    "streams": ["machine-ngram"],
+    "reason": "'space of three hours' is a KJV SINGLETON, which is why it ranked, and it is one of the cleanest illustrations in this book of why a singleton is not by itself an argument. The KJV verse is the interval between Ananias's death and Sapphira walking in, a piece of narrative clock-work in a story about lying to the Holy Ghost; Ether 15:27 is the length of the last engagement of a war, after which fifty-nine men faint from blood loss. The rarity is arithmetical — the KJV measures duration with 'the space of' constantly (Acts 13:20, 19:8, 20:31, James 5:17) and simply had occasion to write 'hours' once. No content word beyond the numeral is shared."
+  },
+  {
+    "bomRef": "Ether 15:29",
+    "source": "Amos 9:4",
+    "category": "formulaic",
+    "sharedText": "the sword and it",
+    "streams": ["machine-ngram"],
+    "reason": "A four-word run straddling a clause boundary in both texts, which is the signature of a false positive. Amos 9:4 is the LORD commanding the sword to slay the exiles; Ether 15:29 has the last survivors fighting again with the sword. 'The sword' is the most heavily used weapon-noun in both books — 'fall by the sword' alone occurs in twenty-four KJV verses — and it cannot point at a source. The Amos 7:2 candidate at the same verse is covered by the Numbers 17:8 entry above."
+  },
+  {
+    "bomRef": "Ether 15:31",
+    "source": "1 Samuel 5:4",
+    "category": "insufficient-verbal",
+    "sharedText": "(a headless body raised on its hands before falling)",
+    "streams": ["manual"],
+    "reason": "A manual temptation, and typologically it is a strong one. 'Shiz raised upon his hands and fell; and after that he had struggled for breath, he died' is one of the strangest sentences in the Book of Mormon, and the King James Bible has one image close to it: Dagon in 1 Samuel 5:4, fallen on his face before the ark with his head and both the palms of his hands cut off upon the threshold — a beheaded figure and its hands, on the ground, in a scene about a god who cannot stand. The wording will not carry it. Ether shares nothing with 1 Samuel 5:4 but the word 'hands', and its verbs, 'raised upon' and 'struggled for breath', are not KJV language at all: 'struggled' is a KJV singleton and it is Rebekah's twins in the womb (Genesis 25:22), and 'for breath' occurs nowhere. Recorded so that a reader who sees Dagon is told the catalogue saw him and declined."
+  },
+  {
+    "bomRef": "Ether 15:32",
+    "source": "2 Samuel 1:2",
+    "category": "better-source-identified",
+    "sharedText": "fell to the earth",
+    "streams": ["manual"],
+    "reason": "'Fell to the earth' occurs in exactly three KJV verses, Joshua 7:6, 2 Samuel 1:2 and Acts 9:4, and the coincidence that one of the three sits four verses from the singleton this chapter does borrow — 'leaned upon his', 2 Samuel 1:6 — makes it look like a second draw on the same page. It is not. 2 Samuel 1:2's man falls to the earth to do obeisance before David; Ether 15:32's Coriantumr falls unconscious from blood loss and 'became as if he had no life'. The senses are unrelated and the phrase is common. The genuine 2 Samuel 1 borrowing is catalogued at 15:30, and the closest wording to 'as if he had no life' is 1 Nephi 4:7's Laban 'fallen to the earth' drunk before his beheading, which is inside the corpus and is discussed there."
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "bomRef": "Mormon 9:25",
+    "source": "Mark 16:15-18",
+    "category": "better-source-identified",
+    "sharedText": "(none — the quoted span ends at 9:24)",
+    "streams": ["scholarship"],
+    "reason": "Hardy's apparatus records Mark 16:15-18 at Mormon 9:25 with the observation that the wording exactly matches. The reference is right and the keying is his convention, not our parser's error: he attaches a cross-reference for a quoted span to the last verse of the span, and the span here is 9:22-25 — Moroni introduces the quotation at 9:22 with a speech formula and does not close the reported speech until 9:25. But 9:25 itself contains no Mark 16 wording at all. It reads 'whosoever shall believe in my name, doubting nothing, unto him will I confirm all my words, even unto the ends of the earth', which is Moroni's own extension of the promise and whose one rare phrase, 'doubting nothing', is a King James singleton from Acts 10:20 and is adjudicated at 9:21 with John 16:23. So the links are filed where the wording is (CONVENTIONS §6a, second bullet): Mark 16:15 at Mormon 9:22, Mark 16:16 at 9:23, and Mark 16:17 and 16:18 both at 9:24. Each of those four rows cites Hardy at 9.25 and says what his apparatus does. A reader who comes to 9:25 looking for Mark 16 is sent to the three verses above it."
+  },
+  {
+    "bomRef": "Mormon 9:11",
+    "source": "Nehemiah 9:6",
+    "category": "better-source-identified",
+    "sharedText": "the earth and all things that",
+    "streams": ["machine-ngram"],
+    "reason": "A six-word run and the highest-ranked candidate the machine produced for this verse. Nehemiah 9:6 is a creation doxology and the resemblance is real, but its clause is 'the earth, and all things that are therein', with the relative and the plural verb, while Mormon 9:11 reads 'all things that in them is' — the KJV's own inverted construction with the singular verb, which occurs at Exodus 20:11 and Acts 4:24 and nowhere else. The 1830 preserves the singular; the 1920 corrected it to 'are' and in doing so erased the quotation. So the verse's creation clause is adjudicated against Exodus 20:11 with Acts 4:24 as the undecidable alternative, and Nehemiah 9:6 is displaced by a form that matches at the one point where the KJV's English is peculiar."
+  },
+  {
+    "bomRef": "Mormon 9:10",
+    "source": "Luke 20:38",
+    "category": "better-source-identified",
+    "sharedText": "is not a god of",
+    "streams": ["machine-ngram"],
+    "reason": "'A god which is not a God of miracles' against 'he is not a God of the dead, but of the living'. The five shared words are the whole of the case, and the predicate nouns are unrelated. What makes the candidate worth an entry rather than silence is that Luke 20 really is in play in this passage — but one verse later and by a different route. Mormon 9:11's 'the God of Abraham, and the God of Isaac, and the God of Jacob' carries the New Testament punctuation of the divine title found at Luke 20:37 and its three Synoptic parallels and at no Old Testament verse, and Mormon 9:8 tracks Mark 12:24. So the Synoptic resurrection controversy is behind this stretch of the chapter, and the machine has picked the wrong verse of it. 'God of miracles' occurs in no KJV verse and is the Book of Mormon's own phrase, established at 2 Nephi 27:23 and denied by the opponents of 2 Nephi 28:6; the syntax 'is not a God of X' needs no source."
+  },
+  {
+    "bomRef": "Mormon 9:21",
+    "source": "Ephesians 5:20",
+    "category": "better-source-identified",
+    "sharedText": "the Father in the name of",
+    "streams": ["machine-ngram"],
+    "reason": "The machine ranked Ephesians 5:20 at 9:6, 9:21 and 9:27 on the strength of 'the Father in the name of', which in Ephesians is part of 'giving thanks always for all things unto God and the Father in the name of our Lord Jesus Christ' — a thanksgiving formula, not a petition formula. Mormon 9:21 and 9:27 are both about asking, and the KJV's asking formula is John's: 'whatsoever ye shall ask the Father in my name' at John 16:23, where 'shall ask the Father' occurs in exactly one KJV verse. That link is adjudicated at 9:21 and cross-referenced at 9:27. This entry covers the Ephesians 5:20 candidate at all three verses; it is not listed again."
+  },
+  {
+    "bomRef": "Mormon 9:23",
+    "source": "Proverbs 28:18",
+    "category": "formulaic",
+    "sharedText": "shall be saved but he that",
+    "streams": ["machine-ngram"],
+    "reason": "A six-word run in a verse that reproduces the whole of Mark 16:16 word for word, seventeen consecutive words with nothing altered. Proverbs 28:18 shares the connective spine ('shall be saved: but he that is perverse') and nothing else; it is not about baptism, belief or damnation. Recorded only because a six-word run inside a verbatim quotation of another verse is the clearest possible demonstration of what CONVENTIONS §9 says about the n-gram stream — it is a recall floor, not a ranking, and it will happily rank a proverb second inside a sentence that is already a complete quotation of something else."
+  },
+  {
+    "bomRef": "Mormon 9:26",
+    "source": "Psalm 106:2",
+    "category": "insufficient-verbal",
+    "sharedText": "of the lord who can",
+    "streams": ["machine-ngram"],
+    "reason": "Genuinely tempting, and it has to be written out. Mormon 9:26 is a chain of five rhetorical questions about the works of the Lord — 'who can stand against the works of the Lord? Who can deny his sayings?' — and Psalm 106:2 is the Bible's own rhetorical question of that shape: 'Who can utter the mighty acts of the LORD? who can shew forth all his praise?' The shape matches and the sense does not: the Psalm's question is a confession of inadequate praise, and Moroni's is a threat to opponents. The shared string is five connective words. The verse's real borrowing is at its end, where 'all ye that are despisers of the works of the Lord, for ye shall wonder and perish' takes Acts 13:41 in its Septuagint form against Habakkuk 1:5's Hebrew one, and that link is adjudicated here. Psalm 106:2 supplies neither the accusation nor the rare words."
+  },
+  {
+    "bomRef": "Mormon 9:17",
+    "source": "Genesis 2:7",
+    "category": "insufficient-verbal",
+    "sharedText": "man was created of the dust of the earth",
+    "streams": ["manual"],
+    "reason": "The expectation pulls hard here — the verse names the creation of the heavens and the earth, the creation of man from dust, and the working of miracles, in that order, so a reader will supply Genesis 1-2 without being asked. The wording will not bear it. Genesis 2:7 reads 'the LORD God formed man of the dust of the GROUND'; 'the dust of the ground' occurs in exactly one KJV verse and 'of the dust of the earth' occurs in exactly one, which is Job 14:19 and is about erosion. Mormon 9:17 has neither of the KJV's collocations joined to the KJV's verb: 'man was created of the dust of the earth'. Nor does 'by his word the heaven and the earth should be' reproduce any of the three candidate creation-by-word verses — Psalm 33:6 ('by the word of the LORD were the heavens made'), Hebrews 11:3 ('the worlds were framed by the word of God') and 2 Peter 3:5 ('by the word of God the heavens were of old') — although 2 Peter 3 is demonstrably open elsewhere in this chapter (9:2, 9:6), which is why the case was tested rather than assumed. Recorded so that a reader who sees Genesis here is told the catalogue saw it too and declined it; the doctrine is common to every English Bible and no verse of any of them is being followed."
+  },
+  {
+    "bomRef": "Mormon 9:31",
+    "source": "Galatians 1:8",
+    "category": "formulaic",
+    "sharedText": "than that which we have",
+    "streams": ["machine-ngram"],
+    "reason": "Five connective words, 'than that which we have', shared between Moroni's 'that ye may learn to be more wise than that which we have been' and Paul's 'preach any other gospel unto you than that which we have preached unto you'. Nothing content-bearing is shared: Galatians 1:8 anathematises anyone who alters the gospel, Mormon 9:31 asks not to be condemned for the imperfections of the record. The 1830 grammar of the Book of Mormon clause ('more wise than that which we have been', where a modern hand would write 'than we have been') is what produced the run, and the 1920 edition deleted the relative — so the match exists only in the first edition and is an artifact of its syntax, not of a source."
+  },
+  {
+    "bomRef": "Mormon 9:2",
+    "source": "Revelation 6:14",
+    "category": "better-source-identified",
+    "sharedText": "as a scroll",
+    "streams": ["manual"],
+    "reason": "'As a scroll' occurs in exactly two KJV verses, Isaiah 34:4 and Revelation 6:14, and Revelation is the better-known of the two and stands in a chapter this book has already used at Mormon 5:22. It is nonetheless not the source. Revelation reads 'the heaven departed as a scroll when it is rolled together', with the participial clause trailing after the noun; Isaiah reads 'the heavens shall be rolled together as a scroll', with the participle before it, and Mormon 9:2 has Isaiah's order exactly as Mormon 5:23 does. The same displacement was recorded at 5:23 and the two occurrences agree, which is what makes the reading settled rather than incidental. Revelation 6:14 is retained as `composite` on the Isaiah row rather than as a source."
+  },
+  {
+    "bomRef": "Mormon 9:33",
+    "source": "(no biblical source)",
+    "category": "insufficient-verbal",
+    "sharedText": "(the Hebrew and the reformed Egyptian)",
+    "streams": ["manual"],
+    "reason": "Recorded as a negative finding because a reader will look. Mormon 9:32-34, the passage on the characters, the reformed Egyptian, the altered Hebrew and the prepared means of interpretation, is the most-discussed paragraph in the chapter and it has no King James contact whatever — not a phrase, not a collocation, not a formula. Every other verse of Mormon 9 that makes a claim about God, judgment, miracle or prayer is built out of borrowed English, and the three verses that make a claim about the plates themselves are built out of none. That contrast is worth recording in the register precisely because it is invisible to the catalogue's positive apparatus, which can only list what it found."
+  }
+]

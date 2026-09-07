@@ -1,0 +1,538 @@
+{
+  "chapter": 6,
+  "adjudicated": "2026-09-07",
+  "adjudicator": "Opus",
+  "links": {
+    "6:3": [
+      {
+        "source": "2 Corinthians 4:6",
+        "type": "allusion",
+        "subtype": "extended",
+        "confidence": "high",
+        "text": "For God, who commanded the light to shine out of darkness, hath shined in our hearts, to give the light of the knowledge of the glory of God in the face of Jesus Christ.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "2 Corinthians 4:7",
+          "Genesis 1:3",
+          "John 1:5"
+        ],
+        "recurrenceRefs": [
+          "Ether 3:4",
+          "Ether 6:2",
+          "Ether 6:10"
+        ],
+        "provenance": {
+          "route": "2 Corinthians 4:6-7 → KJV → Book of Mormon",
+          "other": "“shine out of darkness” occurs in exactly one KJV verse, 2 Corinthians 4:6. “the light shineth in darkness” occurs in exactly one KJV verse, John 1:5. The Genesis creation supplies the light but not the verb: Genesis 1:3 has 'Let there be light', and 'to give light' at Genesis 1:15 and 1:17 is of luminaries set in a firmament, not of light put inside a container.",
+          "significance": "The metalepsis is one verse further on than the borrowing. 2 Corinthians 4:6 is Paul reciting the first day of creation as a figure for illumination; 4:7 then says where that light is kept — 'But we have this treasure in earthen vessels, that the excellency of the power may be of God, and not of us.' Ether 6:2-3 does the thing Paul says figuratively: sixteen stones lit by the finger of the Lord are put into vessels, one in each end, and the vessels give light. Recover the source's next sentence and the Jaredite barges are Paul's earthen vessels carrying a light whose excellency is demonstrably not of the men who made them — which is exactly the argument Ether 3 has just made, where the brother of Jared supplies the stones and can supply nothing else. Neither text says this. The link says it.",
+          "alternative": "Genesis 1:2-4 alone, read without the epistle. It accounts for light-in-darkness and for the ordering of the chapter, but not for the verb 'caused ... to shine' or for the vessels."
+        },
+        "note": "'And thus the Lord caused stones to shine in darkness, to give light unto men, women and children, that they might not cross the great waters in darkness.' Four elements stand in 2 Corinthians 4:6 in this order and in no other KJV verse: God as the agent, a commanding or causing, light made to shine out of darkness, and a purpose clause 'to give the light'. The Book of Mormon has 'caused ... to shine in darkness, to give light'. Well below Skousen's sixteen-word threshold and not one of his passages; the case rests on the singleton plus the sequence, and on the fact that the preceding verse has already supplied the vessels of 4:7. Ether 6:10's 'they did have light continually, whether it was above the water or under the water' closes the same argument at the far end of the voyage.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "6:5": [
+      {
+        "source": "Genesis 8:1",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "And God remembered Noah, and every living thing, and all the cattle that was with him in the ark: and God made a wind to pass over the earth, and the waters asswaged;",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Genesis 7:18"
+        ],
+        "recurrenceRefs": [
+          "Ether 2:17",
+          "Ether 2:20",
+          "Ether 6:7"
+        ],
+        "provenance": {
+          "route": "Genesis 7:18 / 8:1 → KJV → Book of Mormon",
+          "other": "“the face of the waters” occurs in exactly two KJV verses, Genesis 1:2 and Genesis 7:18 — the Spirit of God moving over the deep, and the ark riding the flood. “made a wind to pass” occurs in exactly one KJV verse, Genesis 8:1. There is no third biblical place where God sends a wind across floodwaters carrying a vessel.",
+          "significance": "The Book of Mormon has fused the flood's two wind-and-water verses and reversed the function of one of them. In Genesis 8:1 the wind is the end of the ordeal — it passes over the earth and the waters assuage — and in Genesis 7:18 the ark simply goes where the water takes it. In Ether 6:5-8 the same wind is the ordeal and the engine at once: it never ceases to blow, it drives the vessels under, and it is the only reason they arrive. The Jaredite crossing is Noah's flood with the wind moved from the last day to all 344 of them, which is why Ether can say both that they were buried in the deep and that they were never off course."
+        },
+        "note": "'The Lord God caused that there should a furious wind blow upon the face of the waters, towards the promised land; and thus they were tossed upon the waves of the sea before the wind.' Two Genesis flood phrases in one clause, and the chapter names the source itself two verses later — 6:7's vessels are 'tight like unto the ark of Noah'. The 1830 reads 'that there should a furious wind blow', which 1920 corrected to 'should be'; the first edition's uncorrected syntax is not KJV grammar and is worth recording against any account that treats the borrowing as smooth. Ether 2:17 has already built the barge out of Genesis 6-7 and cross-refers forward to this passage.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "6:7": [
+      {
+        "source": "Psalm 107:28",
+        "type": "allusion",
+        "subtype": "extended",
+        "confidence": "high",
+        "text": "Then they cry unto the LORD in their trouble, and he bringeth them out of their distresses.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 4,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 3,
+          "attestation": 0
+        },
+        "kjvSpecific": "uncertain",
+        "mediation": "direct-OT",
+        "composite": [
+          "Psalm 107:23",
+          "Psalm 107:25",
+          "Psalm 107:26",
+          "Psalm 107:30"
+        ],
+        "recurrenceRefs": [
+          "Ether 6:3",
+          "Ether 6:5",
+          "Ether 6:6",
+          "Ether 6:9",
+          "Ether 6:12"
+        ],
+        "provenance": {
+          "route": "Psalm 107:23-32 → KJV → Book of Mormon",
+          "other": "Individually the phrases are ordinary — “cry unto the Lord” occurs in exactly seven KJV verses, two of them this psalm's own refrain at 107:19 and 107:28 — so no single count carries the row. What carries it is that “desired haven” occurs in exactly one KJV verse, Psalm 107:30, and that the psalm is the only KJV passage that runs the whole sequence.",
+          "significance": "Psalm 107:23-30 is the Bible's one set-piece of ordinary seafarers in a storm, and Ether 6:3-12 reproduces its programme in order: they that go down to the sea in ships and do business in great waters (6:3-4, crossing the great waters, provisioning, setting forth); he raiseth the stormy wind, which lifteth up the waves thereof (6:5); they mount up to the heaven, they go down again to the depths (6:6, the mountain waves and the burial in the depths of the sea); then they cry unto the LORD in their trouble, and he bringeth them out of their distresses (6:7); he maketh the storm a calm (6:8, the wind that never ceases but no longer drowns them); so he bringeth them unto their desired haven (6:12, the shore of the promised land); and the psalm's answering command, oh that men would praise the LORD for his goodness (6:9, praising all the day long, not ceasing at night). Recover the psalm and the barges are not a miracle story but a liturgy: the Jaredite crossing is the third of Psalm 107's four deliverances performed as narrative."
+        },
+        "note": "'When they were buried in the deep ... they did cry unto the Lord, and he did bring them forth again upon the top of the waters.' The clause is Psalm 107:28's two halves in Psalm 107:28's order — cry, and be brought out — and the chapter around it walks the psalm's other six stations without repeating any of its distinctive nouns. That is why this is filed as an extended allusion at moderate verbal volume rather than as a quotation: the debt is to a paragraph's structure, and the individual strings would not survive a rarity test on their own. Registered here rather than at 6:5 or 6:12 because 6:7 is the one verse where the psalm's actual grammar surfaces. Note that 6:7's other borrowing, the ark of Noah, is adjudicated at 6:5.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "6:9": [
+      {
+        "source": "Psalm 68:32",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "text": "Sing unto God, ye kingdoms of the earth; O sing praises unto the Lord; Selah:",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 4,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Psalm 68:22"
+        ],
+        "recurrenceRefs": [
+          "Ether 6:6"
+        ],
+        "provenance": {
+          "route": "Psalm 68:22, 68:32 → KJV → Book of Mormon",
+          "other": "“sing praises unto the Lord” occurs in exactly two KJV verses, Psalm 27:6 and Psalm 68:32. “depths of the sea” occurs in exactly three KJV verses, Psalm 68:22, Isaiah 51:10 and Micah 7:19. Psalm 68 is the only KJV chapter that holds both.",
+          "significance": "The two halves of the Jaredite deliverance are two verses of one psalm. Psalm 68:22 is the KJV's only promise that God will bring his people back out of the sea's depths — 'I will bring again from Bashan, I will bring my people again from the depths of the sea' — and Psalm 68:32 is the summons to sing praises that answers it. Ether 6:6 has the people buried in the depths of the sea and Ether 6:9 has them singing praises unto the Lord; the psalm supplies both clauses and supplies them in that order. This is the same shape as the Psalm 107 reading at 6:7 and does not compete with it: a chapter about being drowned and saved reaches for the two psalms in which that is the plot."
+        },
+        "note": "'And they did sing praises unto the Lord; yea, the brother of Jared did sing praises unto the Lord, and he did thank and praise the Lord all the day long.' The clause is repeated twice in one verse, which is what raises it above the general devotional register — the Book of Mormon rarely doubles a phrase this way without a source behind it. Moderate rather than high because the collocation is two verses wide and 'all the day long' is spread across thirteen KJV verses, none of which fits; the psalm's proximity to 6:6's depths of the sea is doing as much work as the phrase itself.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "6:10": [
+      {
+        "source": "Jonah 1:17",
+        "type": "allusion",
+        "subtype": "conceptual",
+        "confidence": "moderate",
+        "text": "Now the LORD had prepared a great fish to swallow up Jonah. And Jonah was in the belly of the fish three days and three nights.",
+        "evidence": {
+          "vocabulary": 2,
+          "syntax": 1,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "OT-via-NT",
+        "composite": [
+          "Matthew 12:40"
+        ],
+        "recurrenceRefs": [
+          "1 Nephi 18:20",
+          "Alma 36:10",
+          "Ether 6:7"
+        ],
+        "provenance": {
+          "route": "Jonah 1:17, worded from Matthew 12:40 → KJV → Book of Mormon",
+          "other": "“whale” occurs in exactly three KJV verses: Job 7:12, Ezekiel 32:2 and Matthew 12:40. Jonah 1:17 does not contain it — the KJV's Jonah has 'a great fish' — so the English word for the animal that swallowed Jonah reaches a reader of the King James Bible only through the Gospel of Matthew. “monster” occurs in no KJV verse at all in the singular. `mediation-check.py` on Ether 6:10 against Jonah 1:17 and Matthew 12:40 reports no decisive divergence, because the candidates share no clause the Book of Mormon reproduces; the mediation here is argued from the single noun and not from the tool.",
+          "significance": "This is a denial that only means something if the reader knows what is being denied. Ether 6:7 has just put men inside a sealed vessel, buried them in the deep, had them cry unto the Lord and brought them up again on top of the water — the Jonah plot with the fish removed. Ether 6:10 then removes the fish explicitly: no monster of the sea could break them, neither whale that could mar them. The KJV has one swallowing sea-creature and one man delivered out of the deep after crying to God, and the Jaredite crossing takes the deliverance while ruling out the mechanism. Whether it is deliberate or not, the sentence is legible as an anti-Jonah, and the word it uses to rule the whale out is a word the King James Old Testament never applies to Jonah's fish.",
+          "alternative": "Job 7:12 and Ezekiel 32:2, the KJV's other two whales, are both metaphors for a watched or hunted power and neither is a threat to a vessel. Genesis 1:21's 'great whales' are created goods, not hazards."
+        },
+        "note": "'And thus they were driven forth; and no monster of the sea could break them, neither whale that could mar them.' There is no verbal borrowing — the row is filed on one noun and on the shape of the surrounding narrative, which is why it is moderate and conceptual rather than close-verbal. It is recorded because a reader who has watched Ether 6:7 rehearse Jonah 2 will read 6:10 as an answer to it, and because the mediation is a genuine finding in its own right: the Book of Mormon's word for Jonah's fish is not in the Book of Jonah.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "6:12": [
+      {
+        "source": "Psalm 51:1",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "Have mercy upon me, O God, according to thy lovingkindness: according unto the multitude of thy tender mercies blot out my transgressions.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 3,
+          "context": 3,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "OT-via-earlier-BoM",
+        "composite": [
+          "Psalm 145:9",
+          "Psalm 69:16"
+        ],
+        "recurrenceRefs": [
+          "1 Nephi 1:20",
+          "1 Nephi 8:8",
+          "Alma 26:37"
+        ],
+        "provenance": {
+          "route": "Psalm 51:1 / 69:16 → KJV → 1 Nephi 1:20 → Book of Mormon",
+          "other": "“multitude of thy tender mercies” occurs in exactly two KJV verses, Psalm 51:1 and Psalm 69:16; “tender mercies” alone occurs in exactly eleven, so the qualifier is what identifies the source. The 'over' of 'his tender mercies over them' is Psalm 145:9's preposition — 'his tender mercies are over all his works' — which is the verse adjudicated behind 1 Nephi 1:20 and again at Alma 26:37.",
+          "significance": "Two psalms have been welded, and the weld is where the corpus's own usage shows. Psalm 51:1 gives 'the multitude of his tender mercies'; Psalm 145:9 gives the preposition that governs them. Nothing in the KJV puts a multitude of tender mercies over anybody. But 1 Nephi 1:20 does — 'the tender mercies of the Lord is over all them whom he hath chosen' — and Ether 6:12 is that formula with Psalm 51's quantifier restored to it. So the psalm reaches Moroni's abridgement of Ether by way of the plates of Nephi, and the sentence records a landing on the promised land in the exact terms in which the corpus's first chapter recorded a deliverance to one.",
+          "alternative": "Direct dependence on Psalm 51:1 without the Nephite intermediary. It accounts for the quantifier but not for 'over', which is Psalm 145:9's word and 1 Nephi 1:20's."
+        },
+        "note": "'They bowed themselves down upon the face of the land, and did humble themselves before the Lord, and did shed tears of joy before the Lord, because of the multitude of his tender mercies over them.' A six-word run from a two-verse KJV collocation, and the whole of the corpus's signature formula on either side of it. 1 Nephi 1:20 reads 'is over all' in the 1830 against the KJV's 'are' and was corrected to 'are' in 1920; Ether 6:12's construction is unaffected by that variant, which is worth saying, since it means the two passages agree on the preposition and not on the grammar. Neither 'tears of joy' nor 'the face of the land' is in the KJV at all.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "6:17": [
+      {
+        "source": "Micah 6:8",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "He hath shewed thee, O man, what is good; and what doth the LORD require of thee, but to do justly, and to love mercy, and to walk humbly with thy God?",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 2,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 1
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "recurrenceRefs": [
+          "Ether 6:30",
+          "Alma 41:14"
+        ],
+        "provenance": {
+          "route": "Micah 6:8 → KJV → Book of Mormon",
+          "other": "“walk humbly” occurs in exactly one KJV verse, Micah 6:8. The Book of Mormon substitutes 'before the Lord' for Micah's 'with thy God'; 'walk humbly before' is in no KJV verse.",
+          "significance": "The substitution is the finding. Micah 6:8's preposition is 'with' — the whole point of the verse in its own context is that what the LORD requires is not sacrifice offered up to him but a manner of going along beside him, and 6:6-7 has just refused burnt offerings, calves of a year old, thousands of rams and a firstborn child. Ether 6:17 changes 'with thy God' to 'before the Lord' and thereby converts a companionship into a posture. It matters where the chapter puts it: the sentence sits between a genealogy and a request for a king, and Ether 6:30 repeats it of Orihah at the moment he becomes one. The KJV's single walking-humbly verse becomes the Jaredite test for monarchy, and the book of Ether will spend twenty-two chapters recording kings who fail it."
+        },
+        "note": "'And they were taught to walk humbly before the Lord; and they were also taught from on high.' A KJV singleton in a two-word run, which is short, but the phrase has no rival source and is not connective tissue — it is a coined idiom belonging to one prophetic sentence. Far below Skousen's sixteen-word threshold and not one of his passages. Recorded here and cross-referenced rather than repeated at 6:30, where the same phrase returns to describe the first Jaredite king; the recurrence inside one chapter is itself part of the argument, since it frames the kingship request at 6:22-27 on both sides.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "6:18": [
+      {
+        "source": "Genesis 9:1",
+        "type": "figural",
+        "subtype": "structural",
+        "confidence": "moderate",
+        "text": "And God blessed Noah and his sons, and said unto them, Be fruitful, and multiply, and replenish the earth.",
+        "evidence": {
+          "vocabulary": 2,
+          "syntax": 2,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 1,
+          "attestation": 0
+        },
+        "kjvSpecific": "no",
+        "mediation": "direct-OT",
+        "composite": [
+          "Genesis 9:19",
+          "Genesis 1:28"
+        ],
+        "recurrenceRefs": [
+          "Ether 1:33",
+          "Ether 2:1",
+          "Ether 6:5",
+          "Ether 6:15"
+        ],
+        "provenance": {
+          "route": "Genesis 8-11 as a sequence → KJV → Book of Mormon",
+          "other": "“be fruitful and multiply” occurs in exactly five KJV verses, three of them in the flood narrative's frame (Genesis 8:17, 9:1) and its creation counterpart (Genesis 1:22, 1:28). “overspread” occurs in exactly one KJV verse, Genesis 9:19, of the whole earth peopled from Noah's three sons — but the Book of Mormon reads 'spread', not 'overspread', so the singleton is context and not evidence. “till the earth” occurs in no KJV verse; the KJV's idiom is 'till the ground' (Genesis 2:5, 3:23), so Ether's phrase is a variation on Genesis's and not a quotation of it.",
+          "significance": "Ether 6 is running the back half of Genesis in order, and this is the verse where the order becomes visible rather than the wording. Genesis 7-11 goes: the ark on the face of the waters, the wind, the landing, worship on the new ground, begetting sons and daughters, the earth overspread from three brothers, then Babel and the first kingdom. Ether 6 goes: barges on the face of the waters (6:5), the wind (6:5-8), the landing (6:12), worship on the new ground (6:12), begetting sons and daughters (6:15-16), spreading and multiplying on the face of the land (6:18), then the demand for a king (6:22). Hardy's apparatus points Ether 1:33 to Genesis 11:1-9 and Ether 2:1 to Genesis 10:8-9, which is the same movement one chapter earlier and in the same order; this chapter is the Jaredites doing the Genesis 8-11 sequence a second time, on the far side of a second flood."
+        },
+        "note": "'They began to spread upon the face of the land, and to multiply and to till the earth; and they did wax strong in the land.' Filed as figural because there is almost nothing verbal to test — 'multiply' is the only content word shared with Genesis 9:1, and the Book of Mormon's 'till the earth' is not the KJV's phrase. What the row records is a sequence, and it is registered because the sequence has already been established for this book by Hardy's own cross-references at 1:33 and 2:1 and by the flood links at 2:17 and 6:5. A reader should be told the catalogue saw the Genesis pattern here; a reader should also be told it will not bear a verbal argument.",
+        "whyNot": "No distinctive shared wording. 'Be fruitful, and multiply' is not reproduced; 'replenish the earth' is not reproduced; 'overspread' is not reproduced. Every element of the case is positional. Withdraw the row if the Genesis 8-11 sequence at 6:5, 6:12 and 6:15 is judged to be a general flood-and-settlement pattern rather than this chapter of Genesis in particular.",
+        "bibliography": [
+          "Hardy MSI at Ether 1.33 (Genesis 11:1-9), Ether 2.1 (Genesis 10:8-9), and Ether 13.2 (Genesis 8:13-14)"
+        ],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "6:19": [
+      {
+        "source": "1 Samuel 8:5",
+        "type": "allusion",
+        "subtype": "conceptual",
+        "confidence": "moderate",
+        "text": "And said unto him, Behold, thou art old, and thy sons walk not in thy ways: now make us a king to judge us like all the nations.",
+        "evidence": {
+          "vocabulary": 2,
+          "syntax": 2,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "uncertain",
+        "mediation": "direct-OT",
+        "composite": [
+          "1 Samuel 8:6",
+          "1 Samuel 8:22"
+        ],
+        "recurrenceRefs": [
+          "Mosiah 29:2",
+          "Ether 6:22",
+          "Ether 6:23",
+          "Ether 6:24"
+        ],
+        "provenance": {
+          "route": "1 Samuel 8:1-22 → KJV → Book of Mormon",
+          "other": "“make us a king” occurs in exactly one KJV verse, 1 Samuel 8:5; “give us a king” occurs in exactly one KJV verse, 1 Samuel 8:6; “hearken unto their voice” occurs in exactly two, 1 Samuel 8:9 and 8:22. None of the three is reproduced at Ether 6:19-24 — the Book of Mormon writes 'anoint one of their sons to be a king over them' and 'suffer them that they may have a king'. What is reproduced is the sequence.",
+          "significance": "1 Samuel 8 is the corpus's most heavily worked political chapter — 'the voice of the people' from 8:7 is adjudicated at Mosiah 7:9, Mosiah 29:2, Alma 2:7, Helaman 1:5 and Helaman 5:2 — and Ether 6 is the one place it is used without that phrase. The situation is nevertheless 1 Samuel 8:1-6 step for step: an old ruler at the end of his life (6:19, 'began to be old, and saw that he must soon go down to the grave'; 1 Samuel 8:1, 8:5), a gathering, a question about what the people will desire (6:19), the desire named as a king drawn from the ruler's own sons (6:22; 1 Samuel 8:5), the request found grievous by the man asked (6:23; 1 Samuel 8:6), and the request granted anyway (6:24; 1 Samuel 8:22). Mosiah 29:2 is the same scene with the phrase; Ether 6 is the same scene without it. That the Jaredite version has no 'voice of the people' in it is worth noticing rather than explaining away: the Jaredites are at the start of the sequence 1 Samuel 8 begins and Mosiah 29 ends, and Ether's remaining chapters will supply the captivity."
+        },
+        "note": "'The brother of Jared began to be old, and saw that he must soon go down to the grave; wherefore he saith unto Jared, Let us gather together our people, that we may number them, that we may know of them what they will desire of us before we go down to our graves.' No clause is reproduced and the row is conceptual for that reason; it is entered at 6:19 rather than 6:22 because this is where the biblical premise is set — a ruler who is old, and a people about to be asked what they want. The 1830 reads 'he saith unto Jared' where 1920 reads 'said', which is the KJV's historic present and one of several places in this chapter where the first edition sounds more like the source than the current text does. “go down to the grave” occurs in exactly two KJV verses, 1 Kings 2:6 and Job 21:13; neither is a plausible source and both are recorded here only to show the phrase was tested.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "6:22": [
+      {
+        "source": "Judges 9:8",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "The trees went forth on a time to anoint a king over them; and they said unto the olive tree, Reign thou over us.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Judges 8:22",
+          "Judges 8:23"
+        ],
+        "recurrenceRefs": [
+          "2 Nephi 5:18",
+          "Mosiah 19:5",
+          "Mosiah 19:20",
+          "Mosiah 29:3",
+          "Ether 6:25",
+          "Ether 6:26",
+          "Ether 6:27"
+        ],
+        "provenance": {
+          "route": "Judges 9:8 → KJV → Book of Mormon",
+          "other": "“anoint a king” occurs in exactly one KJV verse, Judges 9:8. “a king over them” occurs in exactly two, Judges 9:8 and Revelation 9:11. The Book of Mormon's clause at 6:22 is 'anoint one of their sons to be a king over them', which contains both. “rule thou over us” occurs in exactly one KJV verse, Judges 8:22, and “I will not rule over you” in exactly one, Judges 8:23 — the offer of monarchy and its refusal, already adjudicated in this corpus at 2 Nephi 5:18 and Mosiah 29:3.",
+          "significance": "The KJV anoints a king over a people exactly once, and it is a fable told against monarchy. Jotham's trees ask the olive, the fig and the vine to reign over them and each declines — 'Should I leave my fatness ... my sweetness ... my wine?' — until only the bramble is left, and the bramble accepts with a threat of fire. Ether 6:25-27 is that fable as narrative: the firstborn refuses, all the brothers refuse, all the sons of Jared refuse, and the crown is finally taken by the one candidate who will have it. Recover Judges 9 and the reader gets the sequel for nothing — Abimelech, the son who did accept, murders seventy brothers on one stone and dies under a millstone at Thebez, which is the passage this catalogue has already adjudicated at Mosiah 19:5 and 19:20. Ether 6:23 says the thing leads into captivity; the source says it ends in fire between the bramble and the men of Shechem, and the book of Ether ends with both."
+        },
+        "note": "'The people desired of them that they should anoint one of their sons to be a king over them.' Two KJV singletons inside a single seven-word clause, and both belong to the same verse of Jotham's parable. What makes the row high rather than moderate is that the verses immediately following reproduce the parable's structure and not just its opening: a series of candidates, each declining, until one accepts. 6:25's 'he refused and would not be their king' and 6:26's 'they chose all the brothers of Pagag, and they would not' have no KJV wording behind them, but Judges 9:9-15 is the only biblical passage that has that plot. The 1830 reads 'first born' as two words at 6:25 where 1920 has 'firstborn'; the KJV at Exodus 11:5 spells it both ways in one verse, so the first edition is the closer typographical match without the reading changing.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "6:23": [
+      {
+        "source": "Revelation 13:10",
+        "type": "quotation",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "He that leadeth into captivity shall go into captivity: he that killeth with the sword must be killed with the sword. Here is the patience and the faith of the saints.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "recurrenceRefs": [
+          "Mosiah 23:21",
+          "Ether 6:22"
+        ],
+        "provenance": {
+          "route": "Revelation 13:10 → KJV → Book of Mormon",
+          "other": "“leadeth into captivity” occurs in exactly one KJV verse, Revelation 13:10; the bare “into captivity” occurs in exactly thirty-eight and is formulaic. The distinctive element is the present-tense participle with an unstated object — not led into captivity, but leadeth into captivity — which is what the Book of Mormon has: 'Surely, this thing leadeth into captivity.'",
+          "significance": "The chapter of the Bible the phrase comes from is a chapter about a king. Revelation 13 is the beast to whom the dragon gives 'his power, and his seat, and great authority', whom all the world wonders after and worships, who is given a mouth speaking great things and power over all kindreds and tongues and nations; verse 10 is the sentence that tells the saints what to do about it. So the brother of Jared's objection to monarchy — three words long, and the shortest political argument in the Book of Mormon — is worded out of the one KJV verse that answers a demand for a king with a warning about captivity, in the one chapter of the Bible that describes a king as a beast. Neither text says this. The link says it, and the book of Ether then spends chapters 7 through 11 proving the brother of Jared right, with Jaredite kings living out their reigns in captivity in their own kingdoms.",
+          "alternative": "Deuteronomy 28:41 and its kin, the covenant curses in which sons and daughters go into captivity. They supply the doctrine and none of the wording; the participial construction is not in them."
+        },
+        "note": "'But the brother of Jared said unto them, Surely, this thing leadeth into captivity.' Three words reproduced exactly from a KJV singleton, which is far below Skousen's sixteen-word threshold and not one of his passages — the row rests entirely on the rarity of the construction and on the aptness of the source's context. Catalogued as a quotation rather than an allusion because what is shared is a complete predicate lifted intact, not a distinctive vocabulary redeployed. The corpus has used this verse once already, at Mosiah 23:21, where it supplied 'the patience and the faith'; between them the two rows account for the first clause and the last clause of one verse of the Apocalypse, and both arrive in passages about a people about to be put in bondage. The 1830 reads 'But the brother of Jared said' where 1920 reads 'And'; the adversative is the stronger reading and the objection lands harder in the first edition.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "6:26": [
+      {
+        "source": "Judges 9:9",
+        "type": "figural",
+        "subtype": "type-scene",
+        "confidence": "moderate",
+        "text": "But the olive tree said unto them, Should I leave my fatness, wherewith by me they honour God and man, and go to be promoted over the trees?",
+        "evidence": {
+          "vocabulary": 1,
+          "syntax": 1,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "no",
+        "mediation": "direct-OT",
+        "composite": [
+          "Judges 9:11",
+          "Judges 9:13",
+          "Judges 9:15"
+        ],
+        "recurrenceRefs": [
+          "Ether 6:22",
+          "Ether 6:25",
+          "Ether 6:27",
+          "2 Nephi 5:18"
+        ],
+        "provenance": {
+          "route": "Judges 9:8-15 → KJV → Book of Mormon",
+          "other": "No shared wording; the row is entirely structural. Judges 9:8-15 and Ether 6:25-27 are, as far as this catalogue has found, the only two passages in either book in which a crown is offered to a series of candidates who decline it one after another before it is finally taken.",
+          "significance": "Jotham's fable is a theory of who ends up ruling: the good candidates all have something better to do, so the office falls to the one with nothing to lose, and the bramble's acceptance speech is a threat — 'let fire come out of the bramble, and devour the cedars of Lebanon'. Ether 6:25-27 supplies the same sequence and then withholds the fable's verdict. Pagag refuses; his brothers refuse; the sons of Jared refuse; Orihah accepts, and Orihah turns out to be the best king the Jaredites ever have, walking humbly before the Lord at 6:30 and reigning in righteousness. The Book of Mormon has taken the shape of Judges 9 and reversed its conclusion, exactly as 2 Nephi 5:18 took Gideon's refusal and had Nephi neither accept nor refuse. What the fable's polarity does predict is the rest of the book: Orihah's line produces Corihor, Shule, Noah and the captivity that Ether 7 begins.",
+          "alternative": "That the refusal sequence is native narrative and not biblical at all. The chapter has a plain reason of its own for the refusals — the brother of Jared has just told them that a king leads to captivity — and a writer who had never read Judges 9 could construct 6:25-27 out of 6:23 alone."
+        },
+        "note": "'And it came to pass that they chose all the brothers of Pagag, and they would not.' Entered at 6:26 because this is the verse that makes it a series rather than a single refusal, and filed as figural because there is no verbal contact whatever: Judges 9's declining candidates give reasons and quote their own produce, and the Book of Mormon's give none — 'they would not' is the whole speech. The row exists to record that the catalogue saw the type-scene and to say on what terms it is offered. Read with the 6:22 link, where the wording actually is: “anoint a king” occurs in exactly one KJV verse and it is the first verse of this fable, which is what raises 6:26 from a resemblance to a plausible continuation of a borrowing already in progress.",
+        "whyNot": "Nothing verbal survives. The case is the sequence and the sequence alone, and 6:23 supplies an internal motive for the refusals that makes a source unnecessary. Withdraw if the 6:22 link to Judges 9:8 is rejected, since without it there is no reason to expect Judges 9 in this chapter at all.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "6:30": [
+      {
+        "source": "1 Samuel 12:24",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "text": "Only fear the LORD, and serve him in truth with all your heart: for consider how great things he hath done for you.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 3,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "uncertain",
+        "composite": [
+          "Mark 5:19",
+          "Luke 8:39"
+        ],
+        "recurrenceRefs": [
+          "1 Nephi 7:11",
+          "Mosiah 27:16",
+          "Alma 10:7",
+          "Alma 62:50",
+          "Ether 6:17"
+        ],
+        "provenance": {
+          "route": "1 Samuel 12:24, in the wording of Mark 5:19 → KJV → Book of Mormon",
+          "other": "“how great things” occurs in exactly five KJV verses: 1 Samuel 12:24, Mark 5:19, Mark 5:20, Luke 8:39 and Acts 9:16. Only the first is Old Testament and only the first is about a nation remembering a deliverance. `mediation-check.py` on Ether 6:30 against 1 Samuel 12:24 and Mark 5:19 reports no decisive divergence — the two candidates share no clause the Book of Mormon reproduces in a form that separates them — but at the one slot inside the shared clause where they do differ, 1 Samuel's 'he' against Mark's 'the Lord', the Book of Mormon reads 'the Lord'. So the wording is the gospel's and the situation is Samuel's, and the tool cannot break the tie.",
+          "significance": "1 Samuel 12 is Samuel's farewell address at the making of the monarchy: the king has just been confirmed, Samuel is old, and 12:24 is the standing instruction he leaves the nation — remember what God did for your fathers, now that you have a king. Ether 6:29-30 is that scene without the speech. Jared and his brother die; Orihah, newly anointed, walks humbly before the Lord, remembers how great things the Lord had done for his father, and teaches his people how great things the Lord had done for their fathers. The one KJV verse in which 'how great things' means a national deliverance to be recited after a coronation is the verse that stands behind the first Jaredite king's first recorded act. The catalogue has read the same verse this way at Mosiah 27:16, in another chapter about a king's sons.",
+          "alternative": "Mark 5:19 alone, and with it Luke 8:39. The definite article is Mark's, the verse is far the more famous home of the idiom, and the corpus uses it at 1 Nephi 7:11 and Alma 10:7. What Mark cannot supply is the plural fathers and the post-coronation setting: the Gerasene demoniac is told to tell his friends what was done for him, one man, in his own house. Recorded as `uncertain` rather than forced, per CONVENTIONS §7."
+        },
+        "note": "'Orihah did walk humbly before the Lord, and did remember how great things the Lord had done for his father, and also taught his people how great things the Lord had done for their fathers.' The machine stream ranked Mark 5:19 first in the chapter and it is the right idiom but arguably the wrong verse: what Ether 6:30 does is what 1 Samuel 12:24 commands and what Mark 5:19 does not, namely tell a people to remember a deliverance granted to their fathers under a new king. Filed at moderate because the tie cannot be broken on wording, and the mediation is left `uncertain` for the same reason — see `provenance.other`, which records what the tool actually returned. The verse's other half is the Micah 6:8 phrase adjudicated at 6:17; the two borrowings arrive together, and together they make the founding king of the Jaredites a man defined by the KJV's one command to walk humbly and the KJV's one Old Testament command to remember how great things.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ]
+  }
+}

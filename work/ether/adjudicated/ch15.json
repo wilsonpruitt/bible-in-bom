@@ -1,0 +1,506 @@
+{
+  "chapter": 15,
+  "adjudicated": "2026-09-07",
+  "adjudicator": "Opus",
+  "links": {
+    "15:3": [
+      {
+        "source": "Psalm 77:2",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Jeremiah 31:15",
+          "Genesis 37:35"
+        ],
+        "recurrenceRefs": [
+          "Ether 15:11",
+          "Ether 15:16"
+        ],
+        "provenance": {
+          "route": "Psalm 77:2 → KJV → Book of Mormon",
+          "other": "“refused to be comforted” occurs in exactly three KJV verses: Genesis 37:35 (Jacob for Joseph), Psalm 77:2, and Jeremiah 31:15 (Rachel for her children). Only Psalm 77:2 makes the soul the subject of the refusal — “my soul refused to be comforted” — against Ether's “his soul mourned, and refused to be comforted”. Jeremiah 31:15 is quoted at Matthew 2:18, which reads “would not be comforted”; tools/mediation-check.py finds that divergence decisive for the Old Testament form, so wherever in the trio the phrase came from, it did not come through Matthew.",
+          "alternative": "Jeremiah 31:15, which supplies the chapter's other two elements (see the link at 15:11) but not the soul as subject.",
+          "significance": "Recover Psalm 77 and the metalepsis is exact. It is the psalm of a man who cannot be comforted and who therefore *remembers*: “I will remember the works of the LORD” (77:11), “I have considered the days of old” (77:5), “I call to remembrance my song in the night” (77:6). Ether 15:3 puts the remembering in the same clause as the refusal — Coriantumr “began to remember the words which had been spoken by the mouth of all the prophets” and his soul “refused to be comforted”. The difference is where the remembering leads. Psalm 77 ends by recalling the Red Sea and the flock led by Moses and Aaron; the memory is a comfort withheld only for a night. Coriantumr remembers the prophets and finds that what he remembers is his own destruction, “fulfilled, thus far, every whit”. The psalm's structure is borrowed and its consolation removed."
+        },
+        "note": "“And his soul mourned, and refused to be comforted.” This is the hinge of the chapter: the king who has killed two million people repents, four verses before the killing resumes and finishes the nation. The KJV gives the sentence its words. “refused to be comforted” belongs to three verses of the Bible and to no other English idiom of grief, and the one of the three that attaches the refusal to the soul rather than to the mourner is Psalm 77:2. The verse also carries “every whit”, which occurs in exactly four KJV verses (Deuteronomy 13:16, 1 Samuel 3:18, John 7:23, John 13:10) and which the Book of Mormon has used once before at 1 Nephi 4:19 — in the other beheading scene this chapter is going to reproduce. Below Skousen's sixteen-word threshold, and not a quotation: five words, but five words the King James Bible almost never says.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "In the day of my trouble I sought the Lord: my sore ran in the night, and ceased not: my soul refused to be comforted."
+      }
+    ],
+    "15:11": [
+      {
+        "source": "Jeremiah 31:15",
+        "type": "allusion",
+        "subtype": "conceptual",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 1,
+          "sequence": 2,
+          "context": 5,
+          "rarity": 3,
+          "attestation": 0
+        },
+        "kjvSpecific": "uncertain",
+        "mediation": "direct-OT",
+        "composite": [
+          "Matthew 2:18"
+        ],
+        "recurrenceRefs": [
+          "Ether 15:3",
+          "Ether 15:16",
+          "Ether 15:17"
+        ],
+        "provenance": {
+          "route": "Jeremiah 31:15 → KJV → Book of Mormon",
+          "other": "The name is spelled Ramah in the KJV Old Testament and Rama in the KJV New Testament (Matthew 2:18); the Book of Mormon's hill is Ramah. Ramah as a place name is common in the KJV and proves nothing by itself — the argument here is the cluster, not the name. What is testable is that both of the other elements Jeremiah 31:15 supplies appear in this chapter in the Old Testament's wording: “refused to be comforted” at 15:3 (Matthew reads “would not be comforted”), and “lamentation” at 15:16.",
+          "significance": "Jeremiah 31:15 holds four things in one sentence: Ramah, a lamentation, weeping for children, and a refusal to be comforted ‘because they were not’. Ether 15 holds all four, distributed — Coriantumr's soul refusing comfort at 15:3, the hill Ramah at 15:11, the howling and lamentation for the slain at 15:16 and again at 15:17, and at 15:2 the reason for all of it, two millions slain ‘and also their wives and their children’. This is metalepsis in Hays's sense working across a chapter rather than within a phrase: the fragmentary echoes are unremarkable one at a time, and the verse they all came from is the Bible's single sentence about a mother at Ramah who will not be comforted because her children are not. The chapter is Jeremiah 31:15 acted out at national scale, and the verse itself is never quoted."
+        },
+        "note": "“The army of Coriantumr did pitch their tents by the hill Ramah; and it was that same hill where my father Mormon did hide up the records unto the Lord.” The name is doing two jobs. Internally it identifies the Jaredite battlefield with Cumorah, where Mormon will lose his own nation (Mormon 6:11) — the same hill, twice emptied. Externally it is a KJV place name, and the KJV verse that made Ramah famous is the one where a voice is heard in Ramah, lamentation and bitter weeping, and the weeper refuses to be comforted because the children are not. Ether 15 has already used that verse's refusal at 15:3 and will use its lamentation at 15:16. A reader may reasonably decline this: Ramah is a real toponym with a plain Hebrew sense, and no single verse of Ether 15 quotes Jeremiah. The catalogue records it because the three elements are the three elements of one biblical sentence and they occur nowhere else together.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "Thus saith the LORD; A voice was heard in Ramah, lamentation, and bitter weeping; Rahel weeping for her children refused to be comforted for her children, because they were not."
+      }
+    ],
+    "15:12": [
+      {
+        "source": "Revelation 20:8",
+        "type": "allusion",
+        "subtype": "conceptual",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 2,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "uncertain",
+        "mediation": "direct-NT",
+        "composite": [
+          "Revelation 16:16"
+        ],
+        "recurrenceRefs": [
+          "Ether 15:11",
+          "Ether 15:14",
+          "Ether 15:15"
+        ],
+        "provenance": {
+          "route": "Revelation 20:8 → KJV → Book of Mormon",
+          "other": "“gather them together to battle” is a KJV singleton, Revelation 20:8. The nearest competitor, “gathered together to battle”, occurs in exactly two KJV verses, 2 Samuel 23:9 and 1 Chronicles 11:13, both of them ordinary Philistine musters. The Book of Mormon's clause is “they did gather together all the people”, resumed at 15:14 as “four years, gathering together the people” and completed at 15:15 as “when they were all gathered together … they did march forth one against another, to battle”.",
+          "significance": "Revelation 20:8's gathering is the last one in the Bible: Gog and Magog fetched from the four quarters of the earth, ‘the number of whom is as the sand of the sea’, mustered for a battle that ends the world's history rather than a war. Ether 15:12-15 is the only muster in the Book of Mormon with that shape — not an army raised but a population collected, everyone left alive on the face of the land, four years spent doing it, women and children included, and no survivor contemplated on either side. The scale is what makes the echo audible: nobody gathers *all the people* to a battle except at the end of the world."
+        },
+        "note": "“They did gather together all the people, upon all the face of the land, which had not been slain, save it were Ether.” The apocalyptic register the chapter has been reaching for since 15:2 arrives here, and its KJV home is Revelation. The verbal contact is modest and I record it as such — the shared run is ‘gather’ plus ‘together’ plus ‘to battle’ spread over four verses, not a clause — but the collocation belongs to exactly one verse of the King James Bible, and the situation belongs to exactly one biblical episode. Note what the chapter does with the hill: Revelation 16:16 gathers its armies ‘into a place called in the Hebrew tongue Armageddon’, a Hebrew name for a hill; Ether 15:11 gathers its armies at a hill with a Hebrew name.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "And shall go out to deceive the nations which are in the four quarters of the earth, Gog, and Magog, to gather them together to battle: the number of whom is as the sand of the sea."
+      }
+    ],
+    "15:16": [
+      {
+        "source": "Jeremiah 25:36",
+        "type": "allusion",
+        "subtype": "conceptual",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 2,
+          "sequence": 2,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Ezekiel 27:32",
+          "Jeremiah 7:29"
+        ],
+        "recurrenceRefs": [
+          "Ether 15:17",
+          "Ether 15:22"
+        ],
+        "provenance": {
+          "route": "Jeremiah 25:36 → KJV → Book of Mormon",
+          "other": "“an howling” occurs in exactly two KJV verses, Jeremiah 25:36 and Zephaniah 1:10, and ‘howling’ in any form in exactly five. “take up a lamentation” occurs in exactly six KJV verses — Jeremiah 7:29 and Ezekiel 26:17, 27:2, 27:32, 28:12 and 32:2 — and every one of the six is a prophetic dirge raised over a nation or a king under sentence. The Book of Mormon fuses the two: ‘they took up a howling and a lamentation’.",
+          "significance": "Jeremiah 25 is the chapter of the cup of the LORD's fury, and it is the chapter Ether 15 is living inside. The nations drink and ‘be moved, and be mad, because of the sword that I will send among them’ (25:16); they are told to ‘drink ye, and be drunken … and fall, and rise no more, because of the sword’ (25:27); the howling of 25:36 follows; and at 25:33 ‘the slain of the LORD shall be at that day from one end of the earth even unto the other: they shall not be lamented, neither gathered, nor buried’. Ether 15 supplies each in turn — the drunkenness at 15:22, the falling by the sword and rising no more at 15:23, the howling here — and Moroni has already reported at 14:22 that there was none left to bury the dead. The one thing Jeremiah 25:33 denies the slain is lamentation, and the lamentation is the one thing Ether 15 gives them."
+        },
+        "note": "“They took up a howling and a lamentation for the loss of the slain of their people; and so great were their cries, their howlings and lamentations, that it did rend the air exceedingly.” Both nouns are KJV prophetic-dirge vocabulary and neither is ordinary English for grief: taking *up* a lamentation is the formula that opens an oracle against a nation, six times in Jeremiah and Ezekiel, and 'an howling' is the noun in only two verses. What the Book of Mormon has done is put the oracle in the mouths of the condemned. In Jeremiah and Ezekiel the prophet takes up the lamentation over Tyre or Pharaoh or Jerusalem; here the doomed army raises it over itself, twice, on two successive nights, and then goes back to the field in the morning. ‘Rend the air’ is not biblical — the KJV rends garments and hearts (Joel 2:13) — and I do not claim it.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "A voice of the cry of the shepherds, and an howling of the principal of the flock, shall be heard: for the LORD hath spoiled their pasture."
+      }
+    ],
+    "15:19": [
+      {
+        "source": "Genesis 6:3",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 1
+        },
+        "kjvSpecific": "yes",
+        "mediation": "OT-via-earlier-BoM",
+        "recurrenceRefs": [
+          "1 Nephi 7:14",
+          "2 Nephi 26:11",
+          "Mormon 5:16",
+          "Moroni 8:28"
+        ],
+        "provenance": {
+          "route": "Genesis 6:3 → KJV → 2 Nephi 26:11 → Ether 15:19",
+          "other": "“strive with man” occurs in exactly one KJV verse, Genesis 6:3. But Genesis reads ‘My spirit’, in God's own mouth, and Ether 15:19 reads ‘the spirit of the Lord’ in the third person — which is the form already fixed inside the Book of Mormon at 1 Nephi 7:14, 2 Nephi 26:11, Mormon 5:16 and Moroni 8:28. 2 Nephi 26:11 is the proximate model and it is nearly exact: ‘for the spirit of the Lord will not always strive with man. And when the spirit ceaseth to strive with man, then cometh speedy destruction.’ Ether 15:19 has both halves — the ceasing, and then ‘that they might be destroyed’.",
+          "alternative": "Direct dependence on Genesis 6:3. Possible, but it does not account for the third-person ‘spirit of the Lord’ or for the destruction clause, both of which 2 Nephi 26:11 supplies and Genesis does not.",
+          "significance": "Genesis 6:3 is the sentence God says immediately before the Flood — the announcement that the restraint on human violence is being lifted, and the last words before ‘the earth was filled with violence’ and every living thing is destroyed. The Book of Ether opened from the other end of that same story, at the tower after the waters (Ether 1:33, 13:2), and it closes by pronouncing the Flood's own formula over a second annihilation. The Jaredites came out of the world's first universal destruction and go into their own by the same sentence."
+        },
+        "note": "“The spirit of the Lord had ceased striving with them.” The clause has one biblical home, and it is the verse God speaks with the Flood in view. What makes this a mediation case rather than a plain Genesis borrowing is the wording: Genesis has ‘My spirit shall not always strive with man’, and the Book of Mormon has been saying ‘the spirit of the Lord’ since 1 Nephi 7:14, with 2 Nephi 26:11 stating the whole rule — cessation, then speedy destruction — in the form Ether 15:19 reproduces. So the source is Genesis and the model is Nephi. Moroni is writing the last chapter of a book whose own scriptures have already made Genesis 6:3 into a law of national history, and he applies the law.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "And the LORD said, My spirit shall not always strive with man, for that he also is flesh: yet his days shall be an hundred and twenty years."
+      },
+      {
+        "source": "Ephesians 4:18",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 3,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Mark 3:5",
+          "Romans 1:28"
+        ],
+        "provenance": {
+          "route": "Ephesians 4:18 → KJV → Book of Mormon",
+          "other": "“the blindness of” occurs in exactly one KJV verse, Ephesians 4:18 (‘the blindness of their heart’); Ether 15:19 has ‘the blindness of their minds’. “hardness of their hearts” likewise occurs in exactly one KJV verse, Mark 3:5. Ether 15:19 has both nouns in one clause, and Ephesians 4:19 continues ‘who being past feeling have given themselves over unto lasciviousness’, which is the giving-up the Book of Mormon's ‘they were given up unto’ reproduces; compare Romans 1:28, ‘God gave them over to a reprobate mind’.",
+          "significance": "Ether 15:19 swaps Paul's organs. Ephesians 4:18 darkens the understanding and blinds the *heart*; the Book of Mormon hardens the *hearts* and blinds the *minds*, taking Mark 3:5's phrase for the one and Ephesians' for the other and crossing them. The effect is to make the two KJV singletons into a single formula for a nation that can no longer be reached, which is precisely the state Genesis 6:3 has just been invoked to describe in the same verse."
+        },
+        "note": "“They were given up unto the hardness of their hearts, and the blindness of their minds, that they might be destroyed.” Two phrases, each of which the King James Bible uses once. Neither is a natural English collocation and both are Pauline in origin — Ephesians 4:18 for the blindness, Mark 3:5 for the hardness — and the passive ‘given up’ is the verb of Romans 1:24-28, where God's abandonment of a people to its own mind is itself the judgment. The verse is doing in six words what Romans 1 does in five: the destruction is not an event that befalls them, it is the handing-over.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ],
+        "text": "Having the understanding darkened, being alienated from the life of God through the ignorance that is in them, because of the blindness of their heart:"
+      }
+    ],
+    "15:22": [
+      {
+        "source": "Isaiah 49:26",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 5,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "OT-via-earlier-BoM",
+        "composite": [
+          "Jeremiah 25:27",
+          "Isaiah 51:21"
+        ],
+        "recurrenceRefs": [
+          "1 Nephi 4:7",
+          "1 Nephi 21:26",
+          "1 Nephi 22:13",
+          "2 Nephi 6:18"
+        ],
+        "provenance": {
+          "route": "Isaiah 49:26 → KJV → 1 Nephi 21:26 / 2 Nephi 6:18 / 1 Nephi 22:13 → Ether 15:22",
+          "other": "“drunken with” occurs in exactly three KJV verses: Isaiah 49:26 (‘drunken with their own blood, as with sweet wine’), Lamentations 3:15 (‘drunken with wormwood’) and Revelation 17:6 (‘drunken with the blood of the saints’). Only Isaiah 49:26 has the full construction Ether 15:22 uses — drunken with a thing that is not wine, followed by an ‘as with’ comparison to wine. Isaiah 49:26 is quoted verbatim twice earlier in the Book of Mormon, at 1 Nephi 21:26 and 2 Nephi 6:18, and glossed at 1 Nephi 22:13: ‘they shall war among themselves, and the sword of their own hands shall fall upon their own heads, and they shall be drunken with their own blood.’ “drunken with wine” is not a KJV phrase at all; in the Book of Mormon it occurs exactly twice, at 1 Nephi 4:7 and here.",
+          "alternative": "Direct dependence on Isaiah 49:26, or on Isaiah 29:9 / 51:21 (‘drunken, but not with wine’). The Isaiah 29/51 idiom is the nearer paraphrase of the *sense*; Isaiah 49:26 is the nearer match of the *syntax*, and it is the verse the Book of Mormon has already made its own.",
+          "significance": "1 Nephi 22:13 is the Book of Mormon's own reading of Isaiah 49:26, and it reads it as mutual annihilation: a people who war among themselves until their own sword falls on their own heads and they are drunk with their own blood. Ether 15 is that reading executed. The men are drunken — with anger, not wine; they fight until every one of them has fallen by the sword (15:23), the last two by each other's hand; and three times in the chapter (15:9, 15:27, 15:29) a man faints ‘with the loss of blood’. Isaiah's oracle promised that oppressors would be made to consume themselves; the Jaredites do it. The second echo is nearer home. The Book of Mormon says ‘drunken with wine’ in exactly one other place — 1 Nephi 4:7, of Laban, lying in the street before Nephi takes his sword and smites off his head. Eight verses later this chapter's survivor smites off the head of Shiz. The book's first killing and its last are both introduced by the same phrase."
+        },
+        "note": "“They were drunken with anger, even as a man which is drunken with wine.” The simile is not decorative; it is the King James Bible's own figure for a nation under judgment, and the Book of Mormon has spent four earlier passages establishing it. The syntax is Isaiah 49:26's — drunken with X, as with wine — and the substance Isaiah names is blood, which is what this chapter's men keep losing. Note the direction of the borrowing: the proximate model is not the KJV Isaiah but the Book of Mormon's own Isaiah, quoted at 1 Nephi 21:26 and interpreted at 1 Nephi 22:13 as a prophecy of a people destroying itself by its own sword. Ether 15 is where that interpretation is cashed.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "And I will feed them that oppress thee with their own flesh; and they shall be drunken with their own blood, as with sweet wine: and all flesh shall know that I the LORD am thy Saviour and thy Redeemer, the mighty One of Jacob."
+      }
+    ],
+    "15:26": [
+      {
+        "source": "1 Samuel 28:19",
+        "type": "figural",
+        "subtype": "type-scene",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 2,
+          "syntax": 1,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 2,
+          "attestation": 0
+        },
+        "kjvSpecific": "no",
+        "mediation": "direct-OT",
+        "composite": [
+          "1 Samuel 28:20",
+          "1 Samuel 28:25"
+        ],
+        "recurrenceRefs": [
+          "Ether 15:28",
+          "Ether 15:30"
+        ],
+        "provenance": {
+          "route": "1 Samuel 28:19-25 → KJV → Book of Mormon",
+          "other": "There is almost no shared wording and I do not claim any: ‘on the morrow’ is KJV boilerplate the Book of Mormon uses five times in this chapter alone. The contact is the scene — a doomed king, told he will die tomorrow, with no strength left in him because he has not eaten, made to eat a meal and then rising to go out to the battle that kills him.",
+          "significance": "The Saul-at-Gilboa reading is what holds this end of the chapter together, and its verbal evidence sits four verses later at 15:30, where ‘leaned upon his sword’ reproduces the KJV's only occurrence of ‘leaned upon his’ — 2 Samuel 1:6, Saul on Mount Gilboa leaning on his spear. Read backwards from there, 15:26 is the night before Gilboa: 1 Samuel 28:20 has Saul with ‘no strength in him; for he had eaten no bread all the day’, 28:22-25 has him eat, 28:25 has them rise and go away that night, and 28:19 has the sentence ‘to morrow shalt thou and thy sons be with me’. Ether 15:26 compresses all of it into eleven words, and 15:28 supplies the missing half of 28:20 — ‘when the men of Coriantumr had received sufficient strength, that they could walk’."
+        },
+        "note": "“They ate and slept, and prepared for death on the morrow.” The sentence has no scriptural wording in it, which is why this is filed as figural and at moderate rather than high. What it has is a scriptural scene, and only one: the King James Bible's single night-before-the-last-battle, where a king who already knows the verdict is fed a meal he does not want and goes out in the morning to die. I record it because the chapter's next mention of a leaning king (15:30) is verbally Saul's, and because a reader who has seen that will want to know whether the catalogue noticed the meal. It did.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "Moreover the LORD will also deliver Israel with thee into the hand of the Philistines: and to morrow shalt thou and thy sons be with me: the LORD also shall deliver the host of Israel into the hand of the Philistines."
+      }
+    ],
+    "15:28": [
+      {
+        "source": "Psalm 95:11",
+        "type": "allusion",
+        "subtype": "conceptual",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 2,
+          "context": 4,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "uncertain",
+        "composite": [
+          "Hebrews 3:11",
+          "Hebrews 4:3"
+        ],
+        "recurrenceRefs": [
+          "Ether 15:30"
+        ],
+        "provenance": {
+          "route": "Psalm 95:11 → KJV → Book of Mormon, or Psalm 95:11 → Hebrews 3:11 / 4:3 → KJV → Book of Mormon; the verse cannot settle it",
+          "other": "“sware in my wrath” occurs in exactly two KJV verses, Psalm 95:11 and Hebrews 3:11, and Hebrews 4:3 has ‘As I have sworn in my wrath’ — so the collocation of swearing and wrath belongs, in the whole King James Bible, to one oath quoted three times. tools/mediation-check.py on Ether 15:28 against Psalm 95:11 and Hebrews 3:11 reports no decisive divergence: the two candidates differ only at ‘Unto whom’/‘So’ and ‘should’/‘shall’, and Ether 15:28 reproduces neither point. Mediation is therefore recorded as uncertain rather than guessed. The one straw, and it is only a straw, blows the other way from the default: Ether reads ‘swore’, and the KJV's ‘sware’ is the Old Testament and Hebrews 3:11 form while Hebrews 4:3's is ‘sworn’.",
+          "alternative": "That there is no dependence at all and ‘swore in his wrath’ is ordinary narrative English. Possible; against it, the King James Bible never once uses the collocation for a human oath.",
+          "significance": "The oath in Psalm 95 has exactly one content: that they shall not enter into my rest. It is the sentence on the wilderness generation, the whole nation excluded from the land for unbelief, and Hebrews takes it up twice to argue that a rest remains for the people of God. Ether 15:28 gives the oath to Shiz, who swears in his wrath that he will kill Coriantumr or die, and thereby denies rest to the only men left alive — his own, who had just ‘received sufficient strength, that they could walk’ and were ‘about to flee for their lives’. The chapter grants rest once, two verses later: ‘when Coriantumr had leaned upon his sword, that he rested a little, he smote off the head of Shiz.’ The only man who enters into rest in Ether 15 does so leaning on a sword, and uses it to behead the man who swore."
+        },
+        "note": "“He swore in his wrath that he would slay Coriantumr, or he would perish by the sword.” In the King James Bible, swearing in wrath is not something men do. The collocation occurs twice and is God's, both times, and both times it is the same oath — the exclusion of a whole generation from rest. Putting it in Shiz's mouth at the moment when the last survivors could have walked away is the chapter's sharpest single stroke, and it is the reason his men do not get to flee. I leave mediation open: the OT verse and its NT quotation are worded too nearly alike at the points Ether reproduces for this verse to decide between them, and I would rather say so than pick.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "Unto whom I sware in my wrath that they should not enter into my rest."
+      }
+    ],
+    "15:30": [
+      {
+        "source": "2 Samuel 1:6",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Judges 5:26"
+        ],
+        "recurrenceRefs": [
+          "1 Nephi 4:7",
+          "1 Nephi 4:18",
+          "1 Nephi 4:19",
+          "Ether 9:27",
+          "Ether 15:5"
+        ],
+        "provenance": {
+          "route": "2 Samuel 1:6 → KJV → Book of Mormon, with Judges 5:26 fused in the second clause",
+          "other": "“leaned upon his” occurs in exactly one KJV verse, 2 Samuel 1:6 — ‘behold, Saul leaned upon his spear; and, lo, the chariots and horsemen followed hard after him’, the Amalekite's report of the end of Saul on Mount Gilboa. “smote off” occurs in exactly two KJV verses, Judges 5:26, where Jael smites off Sisera's head after his army has been destroyed to the last man, and Matthew 26:51, where a disciple smites off an ear; only Judges 5:26 is a beheading, and it too is a killing done by the survivor of an annihilation to a commander too spent to resist. “with his own sword”, which Shiz demands at 15:5, occurs nowhere in the KJV and three times in the Book of Mormon before this verse: 1 Nephi 4:18, 4:19 and Ether 9:27.",
+          "significance": "The verse is an inclusio for the whole Book of Mormon. Its first killing is 1 Nephi 4: Laban lying in the street ‘drunken with wine’ (4:7), and Nephi taking the man's own sword and smiting off his head (4:18-19). Its last killing is this one: men ‘drunken with anger, even as a man which is drunken with wine’ (15:22), and Coriantumr smiting off the head of Shiz. ‘Drunken with wine’ occurs in the Book of Mormon at those two places and nowhere else, and ‘smote off’ a head at those two places and nowhere else. Recover 2 Samuel 1 and a third layer opens: the man leaning on his weapon in that chapter is a king at the end of his people, who asks to be killed and is, and whose death is reported to the man who will inherit what is left. Coriantumr will be the one carried to a new people (Omni 1:21). Ether 15:30 makes him Saul and Jael at once — the doomed king leaning on the weapon, and the hand that takes the head."
+        },
+        "note": "“When Coriantumr had leaned upon his sword, that he rested a little, he smote off the head of Shiz.” Two of the KJV's rarest verbs of violence in eighteen words. ‘Leaned upon his’ is a King James singleton and belongs to Saul on Gilboa, wounded and about to die; ‘smote off’ is used twice, and the beheading of the two is Jael's of Sisera in the Song of Deborah, after the army that was to have destroyed Israel has itself been destroyed to a man. The chapter has taken the last posture of one doomed king and the last stroke of one annihilated general and put them in the same sentence, in the same hand. Under Skousen's threshold and not a quotation; four words, but four words that the King James Bible spends only three verses on.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "And the young man that told him said, As I happened by chance upon mount Gilboa, behold, Saul leaned upon his spear; and, lo, the chariots and horsemen followed hard after him."
+      }
+    ],
+    "15:33": [
+      {
+        "source": "John 21:25",
+        "type": "allusion",
+        "subtype": "conceptual",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 2,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 3,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "John 21:24"
+        ],
+        "recurrenceRefs": [
+          "Jacob 3:13",
+          "Words of Mormon 1:5",
+          "Helaman 3:14",
+          "3 Nephi 5:8",
+          "3 Nephi 26:6"
+        ],
+        "provenance": {
+          "route": "John 21:25 → KJV → Jacob 3:13 / 3 Nephi 5:8 and the corpus formula → Ether 15:33",
+          "other": "“the hundredth part” occurs in exactly one KJV verse, Nehemiah 5:11, where it is a rate of interest on money and has nothing to do with writing; the King James Bible's actual too-much-to-write formula is John 21:25. Inside the Book of Mormon the fraction is a house idiom by the time Moroni uses it — Jacob 3:13, Words of Mormon 1:5, Helaman 3:14, 3 Nephi 5:8 and 3 Nephi 26:6 — and 3 Nephi 5:8 is the one that keeps John's own verb: ‘this book cannot contain even a hundredth part’, against John's ‘the world itself could not contain the books’.",
+          "alternative": "That the formula is wholly internal to the Book of Mormon and owes the KJV nothing. Against that: the KJV has a formula of exactly this shape in exactly one place, and it stands in exactly this position, at the close of a book, one verse before the last.",
+          "significance": "The mediation enum has no value for this shape — a New Testament source reaching a verse through earlier Book of Mormon passages rather than through the Bible — so the route is written out here instead. ‘direct-NT’ records where the phrase came from and understates how it arrived. What John 21:24-25 supplies is not the fraction but the colophon: a witness named, his record declared finished and true, the remainder declared unwritable, and Amen. Ether 15:33-34 is that colophon exactly — the record finished, the hundredth part unwritten, the last words of the witness, Amen — with the difference that Moroni is quoting a colophon inside a colophon, since these are Ether's last words reported by Moroni at the end of Moroni's own abridgement."
+        },
+        "note": "“He finished his record; (and the hundredth part I have not written,) and he hid them in a manner that the people of Limhi did find them.” The parenthesis is Moroni's, and it is the fifth time the Book of Mormon has said it. Its biblical model is the last sentence of John's Gospel, the one place in the King James Bible where a writer closes by saying that what he has left out would not fit — and the Book of Mormon's nearest form of it, 3 Nephi 5:8, keeps John's verb, 'contain'. The link is filed at moderate because the wording has been through the corpus rather than coming straight off the page: Moroni is writing in a formula his own scriptures gave him. That the formula reaches the reader at the end of the last book Moroni abridged, four verses from the end of Jaredite history, is the point of putting it here at all.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "And there are also many other things which Jesus did, the which, if they should be written every one, I suppose that even the world itself could not contain the books that should be written. Amen."
+      }
+    ],
+    "15:34": [
+      {
+        "source": "Hebrews 11:5",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Colossians 1:13"
+        ],
+        "provenance": {
+          "route": "Hebrews 11:5 → KJV → Book of Mormon",
+          "other": "“translated” occurs in exactly two KJV verses: Hebrews 11:5, where Enoch ‘was translated that he should not see death’, and Colossians 1:13, where God ‘hath translated us into the kingdom of his dear Son’. “was translated” is a KJV singleton, Hebrews 11:5. Both of the KJV's two verses stand inside Ether 15:34's one sentence — the translation that avoids death, and the being translated into a kingdom — and the sentence ends ‘if it so be that I am saved in the kingdom of God’. In the Book of Mormon ‘translated’ appears four other times (Mosiah 8:12, 28:11, 28:13) and always means rendering a language; this is the only occurrence in the Enoch sense in the whole book.",
+          "significance": "Hebrews 11:5 does not only supply the verb. It says that before his translation Enoch ‘had this testimony, that he pleased God’ — and Ether 15:34 is a testimony, introduced as ‘the last words which are written by Ether’, the closing witness of a prophet who has watched his nation destroy itself from a cave. The whole of Hebrews 11 is the chapter of witnesses who died without receiving the promises, and the Book of Mormon has quarried it before at 1 Nephi 2 and 1 Nephi 4:2. Ether's last sentence takes Hebrews 11's one man who did not die, and declines to care which of the two he gets."
+        },
+        "note": "“Whether the Lord will that I be translated, or that I suffer the will of the Lord in the flesh: It mattereth not.” The King James Bible uses ‘translated’ twice, and Ether's closing sentence contains both uses — Enoch's escape from death and Colossians' being carried into a kingdom — with ‘the kingdom of God’ four words later. Nothing else in the Book of Mormon uses the word this way. For a book that has just annihilated a civilization, the last word is a shrug about the writer's own body, and it is a KJV shrug: the only two verses in the English Bible that could have furnished it, both used at once.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "By faith Enoch was translated that he should not see death; and was not found, because God had translated him: for before his translation he had this testimony, that he pleased God."
+      },
+      {
+        "source": "Philippians 1:22",
+        "type": "allusion",
+        "subtype": "conceptual",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 4,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 2,
+          "attestation": 0
+        },
+        "kjvSpecific": "uncertain",
+        "mediation": "direct-NT",
+        "composite": [
+          "Philippians 1:24",
+          "2 Corinthians 12:3"
+        ],
+        "provenance": {
+          "route": "Philippians 1:21-24 → KJV → Book of Mormon",
+          "other": "“in the flesh” occurs in 28 KJV verses and settles nothing on its own; the case is the structure, not the phrase. Philippians 1:21-24 is the King James Bible's one passage in which a writer sets two possible ends for himself side by side — departing, or abiding ‘in the flesh’ — declares himself ‘in a strait betwixt two’, and refuses to prefer either. 2 Corinthians 12:2-3 supplies the other half of the form, ‘whether in the body, or out of the body, I cannot tell: God knoweth’, and it is the KJV's account of a man caught up to the third heaven, which is the state Ether's first alternative names.",
+          "significance": "Read against Philippians the indifference formula changes character. Paul cannot choose because both outcomes are good and one of them serves the church; Ether cannot choose because there is no church left — his people are dead to the last man but one, and his record is hidden in a rock for strangers to find. ‘It mattereth not’ is Paul's strait betwixt two with nothing on either side of it but God. Compare the other closing testimonies in the corpus: Moroni 10:34 knows exactly what is coming and describes it in detail; Ether 15:34, which is the older book and the earlier civilization, ends by saying the question is not worth asking."
+        },
+        "note": "“Whether the Lord will that I be translated, or that I suffer the will of the Lord in the flesh: It mattereth not, if it so be that I am saved in the kingdom of God. Amen.” The sentence is built on a Pauline form — whether X or Y, it makes no difference, so long as the one thing that matters holds — and Paul uses it twice about precisely this question, at Philippians 1:21-24 about staying in the flesh or departing, and at 2 Corinthians 12:2-3 about being in the body or out of it. ‘Suffer the will of the Lord in the flesh’ is Philippians 1:24's ‘to abide in the flesh’ with the resignation made explicit. I record it at moderate: the vocabulary is common and the argument rests on the shape of the sentence rather than on a rare phrase.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "But if I live in the flesh, this is the fruit of my labour: yet what I shall choose I wot not."
+      }
+    ]
+  }
+}

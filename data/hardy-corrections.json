@@ -51,6 +51,14 @@
         "Malachi 4:2"
       ],
       "reason": "Found by tools/audit-hardy.py's chapter-shift test on 3 Nephi (keyed here scores 0.00 word-overlap, 25:2 scores 0.82). Page 509 carries three footnotes keyed '2': 'a 2 ATV Sun of righteousness (= Mal 4.2); cf. 2 Ne 26.9; Ether 9.22', 'b 2 P calves of the stall (= Mal 4.2); cf. 1 Ne 22.24', both on 25:2 ('unto you that fear my name, shall the Son of Righteousness arise with healing in his wings'); and 'c 2 The phrases from Mal 4.1-2 that appear in the small plates...', which is 26:2's own note ('These scriptures... the Father commanded that I should give unto you') and correctly stays there. The walker's fn_chapter picker takes max(cands) with no footnote before it to anchor last_fn, so the page's first '2' note lands on the later of the two candidate chapters instead of the earlier — the same failure shape as the Jacob rows above, but triggered by a same-page chapter turnover rather than a wrong page bound. Malachi 4:1-2 (footnote c) is left at 26:2, where it belongs."
+    },
+    {
+      "from": "Moroni 7:1",
+      "to": "Moroni 6:1",
+      "refs": [
+        "Matthew 3:8"
+      ],
+      "reason": "Found by tools/audit-hardy.py's chapter-shift test (keyed here scores 0.00 word-overlap, 6:1 scores 0.40). Footnote 'a 1' reads 'That is, actions in keeping with their worthiness; cf. Mt 3.8; Alma 5.36; 9.30' and appears on the same printed page as chapter 7's own opening ('7 And now I, Moroni, write a few of the words...'), so the walker's fn_chapter picker took the later of the two candidate chapters for the ambiguous marker '1' — the same same-page chapter-turnover failure as the 3 Nephi 25/26 row above. The note's own words settle it: Moroni 6:1 reads 'they were not baptized, save they brought forth fruit meet that they were worthy of it', which is Matthew 3:8's 'Bring forth therefore fruits meet for repentance' almost verbatim; Moroni 7:1 is an introduction to a sermon and has no fruit, worthiness, or baptism in it at all."
     }
   ],
   "reviewed_not_drift": [
@@ -156,6 +164,12 @@
       "from": "Isaiah 17:7",
       "to": "Isaiah 7:17",
       "reason": "The note reads “Isa 17.7 reads ‘from Judah, even the king’” — but those are Isaiah 7:17's words (“the LORD shall bring upon thee … from the day that Ephraim departed from Judah; even the king of Assyria”), and Isaiah 17:7 is about a man looking to his Maker. 2 Nephi 17 IS Isaiah 7, so a note on its verse 17 comparing the KJV of the same verse is what the apparatus is doing throughout this block. Digits transposed, in the printed note or in the text extraction; the note's own quotation settles which verse is meant. Found 2026-09-05 by tools/audit-hardy.py, which scored the keyed verse at 0.12 against the cited one."
+    },
+    {
+      "ref": "Ether 13:11",
+      "from": "Jeremiah 15:16",
+      "to": "Jeremiah 16:15",
+      "reason": "The printed note reads 'That is, the lost tribes; see Jer 15.16; 31.8.' Jeremiah 15:16 is 'Thy words were found, and I did eat them' — no gathering, no north, no exile theme at all. Jeremiah 16:15 is 'brought up the children of Israel from the land of the north', which is exactly the lost-tribes gathering the note describes and pairs naturally with 31:8's 'from the north country'. Digits transposed (15.16 for 16.15), same class as the 2 Nephi 17:17 case above. Found by the Ether 13 adjudication pass, checked directly against text/hardy-msi-raw.txt."
     }
   ]
 }

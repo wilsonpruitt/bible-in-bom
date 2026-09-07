@@ -1,0 +1,594 @@
+{
+  "chapter": 3,
+  "adjudicated": "2026-09-07",
+  "adjudicator": "Opus",
+  "links": {
+    "3:9": [
+      {
+        "source": "2 Chronicles 25:19",
+        "type": "allusion",
+        "subtype": "conceptual",
+        "confidence": "moderate",
+        "text": "Thou sayest, Lo, thou hast smitten the Edomites; and thine heart lifteth thee up to boast: abide now at home; why shouldest thou meddle to thine hurt, that thou shouldest fall, even thou, and Judah with thee?",
+        "evidence": {
+          "vocabulary": 2,
+          "syntax": 2,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 3,
+          "attestation": 0
+        },
+        "kjvSpecific": "uncertain",
+        "mediation": "OT-via-earlier-BoM",
+        "composite": [
+          "2 Kings 14:10"
+        ],
+        "recurrenceRefs": [
+          "Mosiah 11:19",
+          "Mosiah 11:5",
+          "Mosiah 12:12"
+        ],
+        "provenance": {
+          "route": "2 Chronicles 25:19 (= 2 Kings 14:10) → KJV → Mosiah 11:19 → Mormon 3:9",
+          "other": "“boast in their own strength” is in no KJV verse; “in their own strength” occurs in exactly 0 KJV verses. The phrase is the Book of Mormon's own, and it occurs in exactly two Book of Mormon verses — Mosiah 11:19 and this one — which is the fact this row rests on. “the blood of their brethren” likewise occurs in no KJV verse, and of its five Book of Mormon occurrences two are Mosiah 11:19 and Mormon 3:9. The KJV end of the chain is the one already catalogued at Mosiah 11:19: “thine heart lifteth thee up to boast”, which occurs in exactly one KJV verse, 2 Chronicles 25:19.",
+          "significance": "This is the clearest case in the chapter of CONVENTIONS §7's `OT-via-earlier-BoM`, and it is available because Mormon is the abridger of Mosiah. Mosiah 11:19 reads: after 'this great victory' Noah's people 'were lifted up in the pride of their hearts; they did boast in their own strength' and 'did delight in blood, and the shedding of the blood of their brethren.' Mormon 3:9 reads: after 'this great thing which my people, the Nephites, had done, they began to boast in their own strength' and swore to 'avenge themselves of the blood of their brethren.' Two rare non-biblical collocations, in the same order, in the only two verses of the book that carry either. Whatever the Bible is doing here, it reaches Mormon 3 through a Book of Mormon page Mormon himself cut down; the narrator is quoting his own abridgement of a wicked king's army against his own. The 2 Chronicles material is what stands behind that page — Amaziah told, after smiting Edom, that his heart lifts him up to boast and that he will fall — and it is the same warning delivered at one further remove."
+        },
+        "note": "The chapter's turn. Two victories (3:7, 3:8) produce the boast, and the boast produces the oath of vengeance that costs Mormon his command four verses later. The verbal case is not with the KJV at all: neither 'boast in their own strength' nor 'the blood of their brethren' is a King James phrase, and the two of them appear together in exactly one other place in the Book of Mormon, Mosiah 11:19, where they describe Noah's soldiers after a victory of their own. The catalogue has already put 2 Chronicles 25:19 behind that verse; this row records that Mormon 3:9 reaches it by way of Mosiah rather than directly, which is why the mediation is `OT-via-earlier-BoM` and why `kjvSpecific` is 'uncertain' — there is no KJV English here to be specific to. Well below Skousen's sixteen-word threshold and not a candidate for any quotation list.",
+        "whyNot": "The whole weight is on a two-phrase coincidence with one other Book of Mormon verse, and a writer describing a second army boasting after a second victory has reason to reuse his own words without any of it being citation. A reader may take Mosiah 11:19 and Mormon 3:9 as two applications of a house style rather than a chain.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      },
+      {
+        "source": "Judges 7:2",
+        "type": "echo",
+        "subtype": "conceptual",
+        "confidence": "moderate",
+        "text": "And the LORD said unto Gideon, The people that are with thee are too many for me to give the Midianites into their hands, lest Israel vaunt themselves against me, saying, Mine own hand hath saved me.",
+        "evidence": {
+          "vocabulary": 1,
+          "syntax": 1,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "no",
+        "mediation": "direct-OT",
+        "recurrenceRefs": [
+          "Mormon 3:11",
+          "Mosiah 11:19"
+        ],
+        "provenance": {
+          "route": "Judges 7:2 → KJV → Book of Mormon",
+          "other": "“vaunt themselves” occurs in exactly one KJV verse and “mine own hand hath saved me” occurs in exactly one KJV verse, both of them Judges 7:2. Not a word of either survives into Mormon 3:9; what survives is the proposition.",
+          "significance": "Judges 7:2 is the only verse in the Bible in which God states a policy about the boast of self-sufficiency: he will not give the victory while the army is large enough to claim it. The policy runs one way in Judges — God shrinks Gideon's force to three hundred so that the deliverance cannot be misread — and Mormon 3 runs it the other way and to the end. The Nephites win twice, boast, and are then deprived not of soldiers but of their commander: Mormon resigns at 3:11 for exactly the reason Gideon's army was cut down. Recover Judges 7 and the resignation stops looking like a private moral protest and starts looking like the withdrawal Judges 7:2 threatens."
+        },
+        "note": "No verbal contact, which is why this is an echo and why `kjvSpecific` is 'no'. It earns a row on the strength of the proposition being unique: the KJV says once, and only here, that a victory may be withheld to prevent a people saying that their own hand saved them, and Mormon 3:9 is a people saying it after two victories. The Leviticus 26:8 row at Mosiah 11:19 is the model for this kind of entry — a covenant statement about battlefield arithmetic standing behind a Nephite boast with none of its words surviving.",
+        "whyNot": "Nothing verbal at all. Boasting after a victory needs no source, and 'their own strength' is Zeniff's phrase at Mosiah 10:11 before it is anybody's in the KJV.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "3:10": [
+      {
+        "source": "Matthew 23:22",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "And he that shall swear by heaven, sweareth by the throne of God, and by him that sitteth thereon.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Matthew 5:34",
+          "Matthew 5:35"
+        ],
+        "recurrenceRefs": [
+          "3 Nephi 12:34",
+          "3 Nephi 12:36",
+          "Mormon 3:14"
+        ],
+        "provenance": {
+          "route": "Matthew 23:22 → KJV → Book of Mormon; the same prohibition also reaches Mormon through his own abridgement at 3 Nephi 12:34-36",
+          "other": "“swear by heaven” occurs in exactly one KJV verse and “sweareth by the throne” occurs in exactly one KJV verse, both Matthew 23:22; “the throne of God” occurs in exactly six. Matthew 5:34 has heaven and the throne in apposition — 'neither by heaven; for it is God's throne' — one object of the oath named twice. Matthew 23:22 has them coordinated as two things a man swears by. Mormon 3:10 reads 'swear by the heavens, and also by the throne of God', which is Matthew 23:22's coordination and not Matthew 5:34's apposition. tools/mediation-check.py returns no genuine discrimination between the two verses, because both of its 'decisive' points are places where the Book of Mormon simply has neither continuation; the syntax is the discriminator, not the tool.",
+          "alternative": "Matthew 5:34-35, via 3 Nephi 12:34-36, which Mormon abridged himself.",
+          "significance": "Metalepsis in Hays's sense, and the Book of Mormon has arranged the recovery for the reader four verses later. 3:14 says the Nephites 'had sworn by all that had been forbidden them' — naming a prohibition without quoting it, which only works if the prohibition can be recovered. It can be recovered twice over: from Matthew, where the two oaths of Mormon 3:10 are the two Jesus singles out, and from the Book of Mormon's own 3 Nephi 12:34-36, where the risen Christ forbids swearing by heaven and by the head in the record Mormon compiled. So the man recording the oath is the man who copied out its prohibition, and the chapter's hinge — his refusal to lead — falls in the verse after the oath. Note also what they swear to do: the oath-taking Matthew 23 attacks is casuistry about which oaths bind, and this oath binds its takers to a war of revenge."
+        },
+        "note": "'And they did swear by the heavens, and also by the throne of God, that they would go up to battle against their enemies.' Of all the things in the King James Bible a man might swear by, these are the two the New Testament names together in a single verse, and that verse is the only one in the Bible with either phrase: 'he that shall swear by heaven, sweareth by the throne of God'. The Book of Mormon's coordination — by the heavens, *and also* by the throne — follows Matthew 23:22's two-object construction rather than Matthew 5:34's identification of heaven *with* the throne, which is the reason the row is keyed here and not to the Sermon. Well short of a reproduced clause and therefore an allusion, not a quotation; it is nowhere near Skousen's threshold and should not be read alongside his list.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "3:11": [
+      {
+        "source": "Isaiah 55:4",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "text": "Behold, I have given him for a witness to the people, a leader and commander to the people.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "recurrenceRefs": [
+          "Mormon 3:16",
+          "Alma 43:44",
+          "Alma 47:19",
+          "2 Nephi 9:50",
+          "2 Nephi 26:25"
+        ],
+        "provenance": {
+          "route": "Isaiah 55:4 → KJV → Book of Mormon",
+          "other": "“commander” occurs in exactly one KJV verse, and “a leader and commander” occurs in exactly one KJV verse: Isaiah 55:4, which also supplies the third of Mormon's three terms, 'a witness to the people'. Isaiah 55 is not among the chapters transcribed into the Book of Mormon, but it is demonstrably in the book's repertoire: Isaiah 55:1 is quoted at 2 Nephi 9:50 and again at 2 Nephi 26:25.",
+          "significance": "Isaiah 55:4 is the everlasting-covenant offer of the Davidic figure: 'I have given him for a witness to the people, a leader and commander to the people.' Three offices, given. Mormon 3 disposes of all three across five verses and in Isaiah's own vocabulary. At 3:11 he 'did utterly refuse from this time forth, to be a commander and a leader of this people' — Isaiah's pair, reversed. At 3:16 he keeps the remaining office and empties it: 'I did stand as an idle witness.' The reversal of order is what a writer does when the phrase is in his ear rather than under his eye, and the retention of 'witness' is what makes the group of three, rather than the pair alone, the thing being answered. Recover Isaiah 55 further and the convergence tightens: the chapter's invitation, 'Ho, every one that thirsteth, come ye to the waters', is the passage the Book of Mormon quotes at 2 Nephi 26:25 in the form 'Come unto me all ye ends of the earth' — which is the formula framing this very chapter at 3:2 and 3:22. Isaiah 55 supplies both the invitation Mormon repeats and the office he refuses."
+        },
+        "note": "'I, Mormon, did utterly refuse from this time forth, to be a commander and a leader of this people.' The King James Bible uses the word 'commander' once, in Isaiah 55:4, where it stands beside 'leader' and beside 'witness' — and Mormon uses all three words of himself inside six verses, the first two in the sentence of refusal and the third at 3:16. That is the argument. It is filed at moderate rather than high because of a fact that has to be stated against it: the Book of Mormon has the pair already, at Alma 43:44 ('their chief leader and commander') and Alma 47:19 ('their leader and their chief commander'), as an ordinary Nephite military title. What that shows, though, is that the pair entered the book's vocabulary from the one KJV verse that has it; what is peculiar to Mormon 3 is that the third term arrives too, and arrives attached to the refusal.",
+        "whyNot": "'Leader and commander' is a standing Book of Mormon title (Alma 43:44, Alma 47:19), so its appearance here may be house vocabulary rather than a reach for Isaiah, and 'witness' at 3:16 is a word Mormon has independent reason to use of a man who has stopped fighting and is still writing. The row withdraws if a reader takes the Alma occurrences to have severed the phrase from Isaiah 55:4 for this writer.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "3:12": [
+      {
+        "source": "Romans 8:39",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "text": "Nor height, nor depth, nor any other creature, shall be able to separate us from the love of God, which is in Christ Jesus our Lord.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 2,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "recurrenceRefs": [
+          "Mormon 3:13"
+        ],
+        "provenance": {
+          "route": "Romans 8:39 → KJV → Book of Mormon",
+          "other": "“the love of God which” occurs in exactly one KJV verse, Romans 8:39 — 'the love of God, which is in Christ Jesus our Lord'. Mormon 3:12 has 'the love of God which was in me'. The relative clause is the whole of the contact: 'the love of God' by itself is common enough (1 John especially), and it is the 'which is in …' that is Pauline and singular.",
+          "significance": "Romans 8:35-39 is the passage that lists what cannot separate a believer from the love of God, and ends by locating that love in Christ. Mormon 3:12 relocates it: 'the love of God which was in me', with which he loved a people who would not have it. The verse then does something Romans 8 does not contemplate — it reports the love failing of its object: 'nevertheless, it was without faith, because of the hardness of their hearts.' Read with Romans 8:39 recovered, Mormon's sentence concedes the apostle's point exactly and turns it: nothing separates Mormon from the love of God, and it is his people, not the love, that the separation runs through."
+        },
+        "note": "'I had loved them, according to the love of God which was in me, with all my heart.' The relative clause is Paul's and no one else's in the King James Bible. The rest of the verse is not: 'with all my heart' is Psalmic and constant, 'all the day long' is Psalmic and constant, and 'the hardness of their hearts' is a Book of Mormon commonplace seventeen verses over (see the register at this verse) even though it happens to be a KJV singleton at Mark 3:5. Filed at moderate because a four-word relative clause is a thin thread to hang a chapter of Romans on, and because 'which was in me' is a natural enough English continuation that a writer could arrive at it without Paul.",
+        "whyNot": "Four words, one of which ('which') is a function word, and the Book of Mormon uses 'the love of God' freely elsewhere. A reader may hold that the phrase is the ordinary way to say the thing in English and that Romans 8 is not in view at all.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "3:13": [
+      {
+        "source": "Judges 2:18",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "And when the LORD raised them up judges, then the LORD was with the judge, and delivered them out of the hand of their enemies all the days of the judge: for it repented the LORD because of their groanings by reason of them that oppressed them and vexed them.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Judges 2:16",
+          "Judges 2:19"
+        ],
+        "recurrenceRefs": [
+          "Mormon 3:11",
+          "Mormon 3:15"
+        ],
+        "provenance": {
+          "route": "Judges 2:16-19 → KJV → Book of Mormon",
+          "other": "“delivered them out of the hand of their enemies” occurs in exactly one KJV verse, Judges 2:18. The shorter “delivered them out of the hand” occurs in exactly four (Joshua 9:26, Judges 2:16, Judges 2:18, Ezekiel 34:27), of which only Judges 2:18 continues 'of their enemies'. Mormon 3:13 pluralizes the KJV's singular hand — 'out of the hands of their enemies' — which is the Book of Mormon's usual habit with this idiom and does not disturb the identification.",
+          "significance": "Judges 2:16-19 is the Bible's one abstract statement of the judges cycle, written as a summary rather than a story: the LORD raises up a deliverer, delivers them out of the hand of their enemies, and 'when the judge was dead, they returned, and corrupted themselves more than their fathers'. Mormon 3:13 is that summary spoken by the deliverer, in the first person, with the count attached — 'thrice have I delivered them … and they have repented not.' Recover Judges 2 and the shape of the chapter is given: the cycle's only exit, in Judges, is the death of the judge, and Mormon 3 finds the other exit. He does not die; he resigns (3:11) and then declines to fight (3:16), which is a thing no judge in Judges does. The 'thrice' is the counting Judges does across twelve chapters compressed into one clause by a man who can see the end of the series."
+        },
+        "note": "'And thrice have I delivered them out of the hands of their enemies, and they have repented not of their sins.' The phrase is Judges 2:18's and no other verse's in the King James Bible, and it arrives in exactly the setting Judges 2 built it for: a deliverer speaking of repeated deliverances that produced no repentance. What is Mormon's own is the arithmetic. Judges never numbers the cycle; Mormon does, and the number is what makes the following verses possible — a fourth deliverance is not refused in anger but declared to have been earned three times over and spent.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "3:14": [
+      {
+        "source": "2 Peter 1:11",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "For so an entrance shall be ministered unto you abundantly into the everlasting kingdom of our Lord and Saviour Jesus Christ.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 3,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "2 Peter 3:18",
+          "2 Peter 2:20"
+        ],
+        "recurrenceRefs": [
+          "Mormon 3:10",
+          "3 Nephi 12:34"
+        ],
+        "provenance": {
+          "route": "2 Peter 1:11 (or 3:18) → KJV → Book of Mormon",
+          "other": "“our Lord and Saviour” occurs in exactly two KJV verses, 2 Peter 1:11 and 2 Peter 3:18; “Lord and Saviour Jesus Christ” occurs in exactly three, those two and 2 Peter 2:20, which lacks the possessive. The title is 2 Peter's alone in the King James Bible — no Gospel, no letter of Paul, no other catholic epistle uses it — and it is a hapax in the Book of Mormon, occurring in exactly one verse of the whole book, this one. The two verses with 'our' cannot be told apart by tools/mediation-check.py, which is expected: the phrase is identical in both. The 1830 spelling 'Saviour' is the KJV's and was changed to 'Savior' by 1920 (CONVENTIONS §8) — the first edition shows the borrowing more plainly than the current text does.",
+          "significance": "The interesting context is the one whose wording the Book of Mormon does not quite have. 2 Peter 2:20 uses the same title of people who 'having escaped the pollutions of the world through the knowledge of the Lord and Saviour Jesus Christ, are again entangled therein and overcome' — and concludes 'the latter end is worse with them than the beginning.' That is Mormon 3 in one sentence: a people delivered three times (3:13), returned to the thing they were delivered from, and cut off (3:15). Whether or not 2 Peter 2 is the verse in the writer's ear, the title he chose for the oath belongs, in the KJV, to the one epistle that uses it chiefly of apostates."
+        },
+        "note": "'And when they had sworn by all that had been forbidden them, by our Lord and Saviour Jesus Christ.' The title is 2 Peter's signature and nothing else's in the King James Bible, and this is the only place in the Book of Mormon it appears — a hapax in both corpora at once, which is the strongest form the rarity argument takes. It is worth noting what the sentence uses it for. The Nephites swear by the name; the clause 'by all that had been forbidden them' points back to the prohibition catalogued at 3:10, so the verse names a divine title, the oath it consecrates, and the fact that the oath is forbidden, in that order. Short of a reproduced clause, so an allusion rather than a quotation.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "3:15": [
+      {
+        "source": "Romans 12:19",
+        "type": "quotation",
+        "subtype": "explicit",
+        "confidence": "certain",
+        "text": "Dearly beloved, avenge not yourselves, but rather give place unto wrath: for it is written, Vengeance is mine; I will repay, saith the Lord.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 4
+        },
+        "kjvSpecific": "yes",
+        "mediation": "OT-via-NT",
+        "composite": [
+          "Deuteronomy 32:35",
+          "Hebrews 10:30"
+        ],
+        "recurrenceRefs": [
+          "Mormon 8:20",
+          "Mormon 3:9",
+          "Mormon 3:14"
+        ],
+        "provenance": {
+          "mt": "Deuteronomy 32:35 MT: לִָי נָקָם וְשִׁלֵּם — 'vengeance and recompence are mine', which is the KJV's 'To me belongeth vengeance and recompence' and not the Book of Mormon's clause.",
+          "route": "Deuteronomy 32:35 → Romans 12:19 → KJV → Book of Mormon",
+          "other": "“vengeance is mine” occurs in exactly one KJV verse and “avenge not yourselves” occurs in exactly one KJV verse, both of them Romans 12:19; “belongeth unto me” occurs in exactly one KJV verse, Hebrews 10:30. tools/mediation-check.py returns one decisive point against Deuteronomy 32:35 (the Book of Mormon has Romans's 'is mine, I will repay, saith' where Deuteronomy has 'and recompence, their foot shall slide in due time, for') and two against Hebrews 10:30 (it has 'Vengeance is mine' where Hebrews has 'Vengeance belongeth unto me', and 'repay' where Hebrews has 'recompense'). The Old Testament verse the Lord is quoting is not the form he quotes it in.",
+          "alternative": "Hebrews 10:30, which quotes the same Deuteronomy verse in a different English and which the Book of Mormon does reach — but at Mormon 8:20, not here.",
+          "significance": "Metalepsis, and the sharpest instance in the book, because the suppressed half of the verse is the half the narrative has spent fourteen verses breaking. Romans 12:19 reads in full: 'Dearly beloved, avenge not yourselves, but rather give place unto wrath: for it is written, Vengeance is mine; I will repay, saith the Lord.' The Lord quotes the proof-text and withholds the commandment it was cited to prove. He does not have to supply it: the Nephites have sworn twice, at 3:9 and again at 3:14, that they would 'avenge themselves of the blood of their brethren', which is the exact thing Romans 12:19 forbids in the words Romans 12:19 forbids it in. So the verse is constructed so that a reader who knows the whole of Romans 12:19 hears the sentence the people are being condemned by, and a reader who does not hears only a promise of divine vengeance — which reads, wrongly, as though God were siding with the oath. The chapter's whole moral turn is in the unquoted clause. Note also that Mormon 8:20, Moroni quoting the same complex, supplies what 3:15 leaves out at the other end: 'Man shall not smite, neither shall he judge: for judgement is mine, saith the Lord; and vengeance is mine also, and I will repay' — the prohibition restored, and with it Hebrews 10:30's second clause, 'The Lord shall judge his people'. Between the two verses the Book of Mormon has the whole of the New Testament's double citation; neither verse has it alone."
+        },
+        "note": "'Vengeance is mine, and I will repay.' Six words reproduced exactly from Romans 12:19, in a verse where Hardy's apparatus cross-references Deuteronomy 32:35 as well — and the mediation is decidable, which is why this row matters more than its length suggests. Deuteronomy 32:35 in the KJV reads 'To me belongeth vengeance and recompence'; Hebrews 10:30 reads 'Vengeance belongeth unto me, I will recompense'; only Romans 12:19 reads 'Vengeance is mine; I will repay', and that is what the Book of Mormon has, down to the verb. So the Lord, speaking to Mormon in the fourth century, quotes an Old Testament song in the English of a first-century apostle's citation of it, and not in the English of the song. That is the finding, and CONVENTIONS §3a's inverted availability criterion is what makes it a finding rather than an objection. Six words is well below Skousen's sixteen-word threshold and this is not one of his thirty-six; it is catalogued as a quotation on the 1 Nephi 1:14 principle, that a complete clause reproduced from a verse identifiable by absolute rarity is a quotation whatever its length.",
+        "bibliography": [
+          "Hardy MSI at Morm 3.15 (Deuteronomy 32:35, Romans 12:19)"
+        ],
+        "status": "majority",
+        "streams": [
+          "scholarship",
+          "manual"
+        ]
+      }
+    ],
+    "3:16": [
+      {
+        "source": "Acts 22:15",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "For thou shalt be his witness unto all men of what thou hast seen and heard.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Matthew 20:6",
+          "Matthew 20:3"
+        ],
+        "recurrenceRefs": [
+          "Mormon 3:11",
+          "Mormon 3:21"
+        ],
+        "provenance": {
+          "route": "Acts 22:15 → KJV → Book of Mormon",
+          "other": "“his witness unto all men” occurs in exactly one KJV verse, Acts 22:15, which continues 'of what thou hast seen and heard'. The bare pair 'seen and heard' occurs in exactly five KJV verses (Luke 7:22, John 3:32, Acts 4:20, Acts 22:15, 1 John 1:3), of which only Acts 22:15 attaches it to a commission to witness before a universal audience. For the second half of the composite: “here all the day idle” and “stand ye here” each occur in exactly one KJV verse, Matthew 20:6, and “standing idle” in exactly two, Matthew 20:3 and 20:6.",
+          "significance": "The verse is built out of two New Testament commissions and negates both. Acts 22:15 is Ananias's charge to the newly blinded Paul: 'thou shalt be his witness unto all men of what thou hast seen and heard' — a commission whose whole content is activity, going, speaking. Mormon takes the content entire ('an idle witness to manifest unto the world the things which I saw and heard') and drains it: he is a witness unto all the world of what he saw and heard, and he does it by standing still. The adjective supplies the second text. In the King James Bible, standing idle is what the unhired labourers of Matthew 20 do, and the householder's question to them — 'Why stand ye here all the day idle?' — is the only KJV sentence that puts 'stand', 'here' and 'idle' together, exactly as Mormon does when he says he 'did stand as an idle witness'. Both texts are about being sent, and Mormon 3:16 is the verse in which the Book of Mormon's compiler stops being sent and starts only recording."
+        },
+        "note": "'I did stand as an idle witness to manifest unto the world the things which I saw and heard.' The clause reproduces the substance of Acts 22:15 with the KJV's singular phrase for it — witness, unto all men or the world, of what was seen and heard — and then inserts a word that belongs, in the King James Bible, to men who have not been hired. This is the counterpart of 3:11: there Mormon refuses the two active offices of Isaiah 55:4, here he keeps the third and qualifies it out of force. 'Manifest unto the world' has no KJV parallel, so the borrowing is at the level of the commission's terms rather than a run of words, which is why this is an allusion.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "3:17": [
+      {
+        "source": "Jeremiah 30:3",
+        "type": "allusion",
+        "subtype": "conceptual",
+        "confidence": "moderate",
+        "text": "For, lo, the days come, saith the LORD, that I will bring again the captivity of my people Israel and Judah, saith the LORD: and I will cause them to return to the land that I gave to their fathers, and they shall possess it.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "recurrenceRefs": [
+          "Mormon 3:18",
+          "Mormon 3:19"
+        ],
+        "provenance": {
+          "route": "Jeremiah 30:3 → KJV → Book of Mormon",
+          "other": "“return to the land” occurs in exactly one KJV verse, Jeremiah 30:3 — 'I will cause them to return to the land that I gave to their fathers, and they shall possess it.' “land of your inheritance” occurs in exactly 0 KJV verses; the possessive is the Book of Mormon's own way of saying what Jeremiah says with a relative clause.",
+          "significance": "Jeremiah 30 is the Book of Consolation, and 30:3 is its thesis: the days come when the LORD will bring again the captivity of Israel and Judah and cause them to return to the land. Mormon 3:17 addresses the same restoration from the far side of a different dispersion and to a doubled audience — 'unto you, Gentiles, and also unto you, house of Israel' — which is the move the chapter then makes twice more, at 3:18 and 3:19, where a single promise is administered by two sets of twelve. Recover Jeremiah 30:3 and what Mormon has added is visible: Jeremiah's return is a return of the captivity to one land; Mormon's is a work that 'shall commence' among Gentiles who are told to prepare for it."
+        },
+        "note": "'When the work shall commence, that ye shall be about to prepare to return to the land of your inheritance.' The one KJV verse with 'return to the land' is the one KJV verse whose subject is exactly this — a restoration to an inherited land promised to a scattered people — and the Book of Mormon's substitution of 'of your inheritance' for Jeremiah's 'that I gave to their fathers' says the same thing more briefly. Filed at moderate: four words, of which three are function words, and restoration language is thick enough throughout Isaiah and Jeremiah that a reader may reasonably decline to key it to one verse.",
+        "whyNot": "The shared string is short and largely functional, and 'the land of your inheritance' is a standing Book of Mormon phrase with no KJV original, so the verse may be reaching for the prophetic restoration idiom in general rather than Jeremiah 30:3 in particular.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "3:18": [
+      {
+        "source": "Matthew 19:28",
+        "type": "allusion",
+        "subtype": "conceptual",
+        "confidence": "high",
+        "text": "And Jesus said unto them, Verily I say unto you, That ye which have followed me, in the regeneration when the Son of man shall sit in the throne of his glory, ye also shall sit upon twelve thrones, judging the twelve tribes of Israel.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 2,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 4
+        },
+        "kjvSpecific": "uncertain",
+        "mediation": "direct-NT",
+        "composite": [
+          "Luke 22:30"
+        ],
+        "recurrenceRefs": [
+          "1 Nephi 12:9",
+          "1 Nephi 12:10",
+          "Mormon 3:19"
+        ],
+        "provenance": {
+          "route": "Matthew 19:28 / Luke 22:30 → KJV → Book of Mormon; the doctrine reaches Mormon already formed at 1 Nephi 12:9-10",
+          "other": "“judging the twelve tribes” occurs in exactly two KJV verses, Matthew 19:28 and Luke 22:30, and there is no third. tools/mediation-check.py finds no decisive divergence between them: every point at which the two differ — Matthew's 'twelve thrones' and 'in the regeneration', Luke's 'eat and drink at my table' — is a point the Book of Mormon reproduces from neither. Matthew is named as `source` only because it is the fuller of the two; the catalogue cannot choose between them from this verse and does not pretend to.",
+          "alternative": "Luke 22:30, indistinguishable on the evidence of this verse.",
+          "significance": "1 Nephi 12:9-10 already has the whole doctrine, and has it in the doubled form Mormon 3:18-19 uses: 'the twelve apostles of the Lamb … shall judge the twelve tribes of Israel; wherefore, the twelve ministers of thy seed, shall be judged of them', and 'these twelve ministers … shall judge thy seed.' Mormon 3:18-19 restates it exactly, two courts, the Nephite twelve judged by the Jerusalem twelve. So the proximate model is not the Gospel but a Book of Mormon page a thousand years earlier in the book's own chronology, and the Gospel verse stands behind that. The schema's `mediation` vocabulary has no value for this — `OT-via-earlier-BoM` names an Old Testament source, and this source is a Gospel — so the field records `direct-NT` and the route is written out here. Flagged rather than fudged (CONVENTIONS, preamble); the same gap recurs at 3:20 and 3:21."
+        },
+        "note": "'Unto you, twelve tribes of Israel, which shall be judged according to your works, by the twelve whom Jesus chose to be his disciples in the land of Jerusalem.' The promise that the twelve will judge the twelve tribes is made twice in the New Testament and nowhere else in the Bible, and Mormon 3:18 makes it a third time with the referent specified — 'in the land of Jerusalem' — because the next verse needs to distinguish that bench from the other one. Confidence is high on the dependence and `kjvSpecific` is 'uncertain' rather than 'yes' precisely because the Book of Mormon has none of the wording that would identify an English version: it keeps the proposition and drops 'thrones', 'regeneration', 'table' and every other discriminating word. Hardy cross-references both Gospel verses here; the row is his in the sense that the apparatus points at it, and the argument about which of the two, and about the 1 Nephi 12 route, is the catalogue's.",
+        "bibliography": [
+          "Hardy MSI at Morm 3.18 (Matthew 19:28, Luke 22:30)"
+        ],
+        "status": "majority",
+        "streams": [
+          "scholarship",
+          "manual"
+        ]
+      }
+    ],
+    "3:20": [
+      {
+        "source": "2 Corinthians 5:10",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "For we must all appear before the judgment seat of Christ; that every one may receive the things done in his body, according to that he hath done, whether it be good or bad.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Romans 14:10",
+          "Ecclesiastes 12:14"
+        ],
+        "recurrenceRefs": [
+          "3 Nephi 27:14",
+          "3 Nephi 27:15",
+          "Mormon 6:21",
+          "Mormon 3:22",
+          "Ether 12:38"
+        ],
+        "provenance": {
+          "route": "2 Corinthians 5:10 + Romans 14:10 → KJV → Book of Mormon; the composite is already made at 3 Nephi 27:14-15",
+          "other": "“judgment seat of Christ” occurs in exactly two KJV verses, Romans 14:10 and 2 Corinthians 5:10, and the Book of Mormon has both of their distinctive halves. tools/mediation-check.py reports divergences pointing both ways, which CONVENTIONS §7 treats as a finding rather than a failure: the Book of Mormon has 2 Corinthians's 'must' against Romans's 'shall', and 2 Corinthians's tail about receiving according to what is done, whether good or bad; but it has Romans's verb 'stand' against 2 Corinthians's 'appear'. “stand before the judgment seat” occurs in exactly one KJV verse, Romans 14:10; “we must all appear” occurs in exactly one, 2 Corinthians 5:10. The verse is a fusion of the two and is catalogued as one.",
+          "alternative": "Romans 14:10, which supplies the verb and cannot be dropped from the account.",
+          "significance": "The chapter's last movement turns from a war to an assize, and it does so in the vocabulary of the two Pauline verses that have a judgment seat in them, plus the Old Testament verse that supplies the final clause — Ecclesiastes 12:14, 'For God shall bring every work into judgment, with every secret thing, whether it be good, or whether it be evil.' What makes the row more than a catalogue of parallels is that the Book of Mormon has made this exact composite once already, in the record Mormon himself abridged: 3 Nephi 27:14, where the risen Christ says men shall 'stand before me, to be judged of their works, whether they be good or whether they be evil', and 27:15, 'that they may be judged according to their works.' Mormon 3:20 is that sentence with 'the judgement seat of Christ' substituted for 'before me' — the abridger writing in the third person about the judge who had used the first. As at 3:18, the proximate model is earlier Book of Mormon text and the ultimate sources are New Testament, and the `mediation` enum has no term for that combination. CONVENTIONS §8 in the unusual direction. The KJV spells it 'judgment seat'; the 1830 edition spells it 'judgement seat' here and at 3:22, and the 1920 edition changed it back to 'judgment', i.e. back toward the source. The 1830's spelling is the compositor's British habit overriding the KJV's, which is a useful control on §8's usual argument: first-edition orthography is evidence of the KJV where it agrees with the KJV and evidence of the printing house where it does not."
+        },
+        "note": "'Ye must all stand before the judgement seat of Christ … and ye must stand to be judged of your works, whether they be good or evil.' Two KJV verses have a judgment seat of Christ and this sentence has something from each: 2 Corinthians's 'must all' and its clause about works and their quality, Romans's verb 'stand'. That is not indecision on our part — mediation-check finds decisive points in both directions, which is what a fusion looks like from underneath. The third element, 'whether they be good or evil', is Ecclesiastes 12:14's formula for the judgment of every work, and the Book of Mormon's own 3 Nephi 27:14 has it in Ecclesiastes's doubled form ('whether they be good or whether they be evil') where Mormon 3:20 contracts it. Filed as allusion and not quotation: no complete clause of either Pauline verse is reproduced. One 1830 point, and it runs the other way from CONVENTIONS §8's usual argument: the KJV spells it 'judgment seat', the first edition spells it 'judgement seat' here and at 3:22, and 1920 changed it back toward the source. First-edition orthography is evidence of the KJV where it agrees with the KJV and evidence of the printing house where it does not.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "3:21": [
+      {
+        "source": "John 7:26",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "text": "But, lo, he speaketh boldly, and they say nothing unto him. Do the rulers know indeed that this is the very Christ?",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 2,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "recurrenceRefs": [
+          "2 Nephi 26:12"
+        ],
+        "provenance": {
+          "route": "John 7:26 → KJV → 2 Nephi 26:12 → Mormon 3:21",
+          "other": "“the very Christ” occurs in exactly one KJV verse, John 7:26 — 'Do the rulers know indeed that this is the very Christ?' The nearest other reading is Acts 9:22, 'proving that this is very Christ', without the article. In the Book of Mormon the phrase occurs in exactly two verses, 2 Nephi 26:12 and this one.",
+          "significance": "John 7:26 is a question asked in Jerusalem by the crowd about the Jerusalem authorities: do the rulers know that this is the very Christ? It is left unanswered in John, and it is answered here — 'that Jesus, whom they slew, was the very Christ' — by a witness on the other side of the world at the end of his nation. The Book of Mormon has already staked the phrase for this purpose: 2 Nephi 26:12 is about 'the convincing of the Jews, that Jesus is the very Christ', which is Mormon 3:21's subject exactly, so the proximate model is again earlier Book of Mormon text and the KJV verse stands behind it. Mormon then adds a term John's crowd could not have used: 'and the very God'."
+        },
+        "note": "The King James Bible says 'the very Christ' once. Mormon 3:21 says it of the man 'whom they slew', which is the second of the verse's two borrowings (see the Acts 5:30 row). Filed at moderate rather than high because the phrase is short and because 2 Nephi 26:12 has it already in the same application, so a reader may fairly hold that Mormon is reusing his own book's idiom and never touching John. That the idiom got into his book from John 7:26 is the part that is not in doubt.",
+        "whyNot": "Three words, one of them 'the', and the Book of Mormon's own 2 Nephi 26:12 supplies the whole phrase in the same context of convincing the Jews. The row records the KJV origin of a Book of Mormon formula more than a fresh reach for John.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      },
+      {
+        "source": "Acts 5:30",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "text": "The God of our fathers raised up Jesus, whom ye slew and hanged on a tree.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "recurrenceRefs": [
+          "Mormon 3:16",
+          "Mormon 3:18"
+        ],
+        "provenance": {
+          "route": "Acts 5:30 → KJV → Book of Mormon",
+          "other": "“whom ye slew” occurs in exactly three KJV verses — Judges 8:18 (Gideon to Zebah and Zalmunna), Matthew 23:35 (Zacharias slain between the temple and the altar) and Acts 5:30. Only Acts 5:30 has Jesus as its object: 'The God of our fathers raised up Jesus, whom ye slew and hanged on a tree.' Mormon 3:21 turns the pronoun — 'Jesus, whom they slew' — because he is writing to a later audience about the Jews rather than addressing them.",
+          "significance": "Acts 5:30 is Peter before the Sanhedrin, and the clause is a charge delivered to the faces of the men charged. Mormon 3:21 keeps the charge and changes its grammatical person, which changes what it is for: 'the Jews, the covenant people of the Lord, shall have other witness besides that which they saw and heard, that Jesus, whom they slew, was the very Christ.' The accusation has become the content of a testimony offered to the accused, and the verse says outright that this record is that other witness. Note the phrase immediately before it — 'the covenant people of the Lord' — which is not an accusation at all, and which the verse holds together with 'whom they slew' in a single clause."
+        },
+        "note": "Three KJV verses have 'whom ye slew' and only one is about Jesus. What Mormon does with it is the argument: Peter's second-person accusation becomes a third-person description inside a sentence whose purpose is to give the accused a further witness, and the same sentence calls them 'the covenant people of the Lord'. Filed at moderate — three words, and the shift of person removes the one feature that made Acts 5:30 an accusation — but the collocation of the slaying with the title 'the very Christ' in the same clause is not a thing English arrives at by itself.",
+        "whyNot": "'Whom they slew' is a natural English relative clause and the Book of Mormon says elsewhere, without any Acts vocabulary, that the Jews crucified Christ. The row rests on the KJV rarity of the exact string in the second person and on nothing else verbal.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "3:22": [
+      {
+        "source": "Isaiah 45:22",
+        "type": "allusion",
+        "subtype": "conceptual",
+        "confidence": "moderate",
+        "text": "Look unto me, and be ye saved, all the ends of the earth: for I am God, and there is none else.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 2,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 3,
+          "attestation": 0
+        },
+        "kjvSpecific": "no",
+        "mediation": "OT-via-earlier-BoM",
+        "composite": [
+          "Isaiah 55:1"
+        ],
+        "recurrenceRefs": [
+          "3 Nephi 27:20",
+          "2 Nephi 26:25",
+          "Alma 5:50",
+          "2 Nephi 33:10",
+          "Mormon 3:2"
+        ],
+        "provenance": {
+          "route": "Isaiah 45:22 (with Isaiah 55:1) → KJV → 2 Nephi 26:25 / Alma 5:50 / 3 Nephi 27:20 → Mormon 3:22",
+          "other": "“be ye saved all the ends of the earth” occurs in exactly one KJV verse, Isaiah 45:22. The bare “all the ends of the earth” occurs in exactly seven, which is why no rarity argument can be built on the phrase alone — and why this row is keyed on the imperative-plus-vocative construction rather than on the words. In the Book of Mormon the vocative is a formula: 'all ye ends of the earth' occurs in exactly eight verses (2 Nephi 26:25, 33:10, 33:13, 3 Nephi 27:20, Alma 5:50, Ether 4:18, Moroni 7:34 and this one), and 'ends of the earth' in twenty-three. The two that matter here are 2 Nephi 26:25 ('Come unto me all ye ends of the earth') and 3 Nephi 27:20 ('Repent, all ye ends of the earth, and come unto me and be baptized in my name').",
+          "significance": "The chapter is bracketed by the two halves of a commandment Mormon transcribed from the risen Christ. At 3:2 the Lord tells him to cry 'repent ye, and come unto me and be ye baptized'; at 3:22 Mormon himself would 'persuade all ye ends of the earth to repent'. 3 Nephi 27:20 has both in one sentence — 'Repent, all ye ends of the earth, and come unto me and be baptized in my name' — and 3 Nephi is the record Mormon abridged. Behind that stands Isaiah 45:22, the KJV's one universal imperative addressed to the ends of the earth, and beside it Isaiah 55:1, which the Book of Mormon fuses with it at 2 Nephi 26:25 ('Come unto me all ye ends of the earth, buy milk and honey without money'). That is the same Isaiah 55 chapter whose fourth verse stands behind Mormon's refusal at 3:11: the prophet who declines to be the people's leader and commander closes by issuing, in his own voice, the invitation from the chapter that named those offices."
+        },
+        "note": "'I would that I could persuade all ye ends of the earth to repent and prepare to stand before the judgement seat of Christ.' The vocative is Isaiah's and the imperative is Isaiah's, but the route is not: 'all ye ends of the earth' is one of the Book of Mormon's standing formulas, in eight verses across five books, and the version Mormon is closest to is 3 Nephi 27:20, from the pages he abridged himself. This is what CONVENTIONS §7 means by `OT-via-earlier-BoM`, and the mediation is recorded accordingly. `kjvSpecific` is 'no': every English Bible renders Isaiah 45:22's vocative much the same way, and there is no distinctive King James wording here to test.",
+        "whyNot": "The phrase is a Book of Mormon formula in eight other verses — and its Isaianic origin, though not in doubt, was settled long before Mormon 3. A reader may reasonably hold that this verse alludes to nothing and simply uses the book's standing formula for a universal address.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ]
+  }
+}

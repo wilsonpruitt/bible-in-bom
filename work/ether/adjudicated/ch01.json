@@ -1,0 +1,439 @@
+{
+  "chapter": 1,
+  "adjudicated": "2026-09-07",
+  "adjudicator": "Opus",
+  "links": {
+    "1:6": [
+      {
+        "source": "Luke 3:23",
+        "type": "figural",
+        "subtype": "structural",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 2,
+          "syntax": 4,
+          "sequence": 5,
+          "context": 4,
+          "rarity": 3,
+          "attestation": 0
+        },
+        "kjvSpecific": "uncertain",
+        "mediation": "direct-NT",
+        "composite": [
+          "Luke 3:38",
+          "1 Chronicles 6:33"
+        ],
+        "recurrenceRefs": [
+          "Ether 1:32"
+        ],
+        "provenance": {
+          "route": "Luke 3:23-38 → KJV → Book of Mormon",
+          "other": "The English Bible has two ascending genealogies and they are formally distinct. The Chronicler's is appositional and verbless — 1 Chronicles 6:33-38, 'Heman a singer, the son of Joel, the son of Shemuel', running up to 'the son of Levi, the son of Israel'; Ezra 7:1-5 is the same shape. Luke 3:23-38 is the only one built on a repeated relative clause, and “which was the son of” occurs in exactly 16 KJV verses, every one of them in that pericope. Ether 1:6-32 is neither: it is a chain of finite clauses, 'and Moron was the son of Ethem', twenty-five of them. “was the son of” occurs in exactly 23 KJV verses and no KJV passage repeats it as a chain.",
+          "significance": "What Ether 1 shares with Luke 3 is not wording but direction, and direction is the rarer thing. Every genealogy in the Hebrew Bible that means to establish descent runs forward and begets: Genesis 5, Genesis 11:10-26, Ruth 4:18-22, the whole first nine chapters of Chronicles. Luke alone reverses the current and runs from the man in front of the reader back through thirty-odd names to the boundary of the world — Adam, and the son of God. Ether 1 does exactly that, from the writer of the record back through thirty names to Jared, and then over the edge of the record into Genesis 11. Moroni's frame makes the point himself at 1:3-5: the part of the account that runs from Adam to the tower is 'had among the Jews' and he will not copy it, so his list stops precisely where Luke's keeps going. Two ascending genealogies, one running up into Genesis and the other running up out of it, meeting at the great tower.",
+          "alternative": "A writer producing a backwards list of invented names needs no model at all, and the Chronicler supplies the ascending 'son of' chain without the Lukan relative clause. What tips the balance is 1:32, where the chain switches into Luke's exact formula at the one name Luke's own genealogy contains."
+        },
+        "note": "'He that wrote this record was Ether, and he was a descendant of Coriantor.' From here to 1:32 the chapter is a single ascending genealogy of thirty names, and the ascent is the argument. The KJV's genealogies overwhelmingly beget forward; the two that climb are the Chronicler's appositional lists and Luke 3:23-38, and only Luke's climbs as its whole rhetorical point — to plant a named man at the end of a chain and then walk the chain back to the origin of things. Ether 1 takes the same walk and stops one generation short of Genesis, handing the reader to Genesis 11 at 1:33. Recorded as structural because there is almost no shared wording to weigh: the case rests on form, direction and terminus, which is what the `figural` category is for.",
+        "whyNot": "Genealogy is a form, not a text, and a list of fathers can be written backwards by anyone who wants to reach a founder. Nothing here is verbally distinctive except at 1:32, and a reader who called this the Chronicler's ascending chain with a different verb would be taking a defensible line.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "And Jesus himself began to be about thirty years of age, being (as was supposed) the son of Joseph, which was the son of Heli,"
+      }
+    ],
+    "1:32": [
+      {
+        "source": "Luke 3:37",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 5,
+          "sequence": 3,
+          "context": 3,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "recurrenceRefs": [
+          "Ether 1:6"
+        ],
+        "provenance": {
+          "route": "Luke 3:37 → KJV → Book of Mormon",
+          "other": "“which was the son of Jared” occurs in exactly one KJV verse, and “the son of Jared” occurs in exactly one KJV verse — the same one. The 1830 reading is 'and Kib was the son of Orihah, which was the son of Jared'; 1920 changed 'which' to 'who', which erases the agreement, so the six-word run is visible in the first edition and not in the current text (CONVENTIONS §8).",
+          "significance": "Twenty-five verses of this genealogy read 'X was the son of Y' with a finite verb. At the last link in the chain, and only there, the sentence changes gear into the appositive relative — 'Orihah, which was the son of Jared' — which is Luke 3's formula and no one else's in the English Bible. The clause it produces is a KJV singleton, and the name it lands on is the name that made it one. Luke's Jared is the antediluvian son of Mahalaleel and father of Enoch, five generations before the flood; Ether's Jared is the man who walks away from Babel after it. The two lists share a formula, a name, and a direction of travel, and they use them at opposite ends of the same primeval history — Luke passing Jared on the way up to Adam, Ether stopping at Jared because that is where the Jewish record he declines to copy takes over.",
+          "alternative": "The clause could be produced mechanically: any ascending genealogy in KJV English that contains a Jared will generate 'the son of Jared'. That is the honest deflation, and it is why this is moderate rather than high."
+        },
+        "note": "'And Kib was the son of Orihah, which was the son of Jared.' The genealogy's closing clause is the one place it abandons its own formula for Luke's, and the clause that results is a KJV singleton. Note also which names Ether's chain shares with Luke's: Seth at 1:10, Levi at 1:20, and Jared here — three of the antediluvian and Levitical names Luke 3 walks through. Individually each is unremarkable; the switch of syntax at the shared name is what makes the verse worth a row. Well below Skousen's sixteen-word threshold for a quotation and not offered as one.",
+        "whyNot": "Six words, of which five are function words, and the sixth is a proper name the Book of Mormon needs here for its own narrative reasons. A reader could call the agreement an accident of English word order in any 'son of' chain.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ],
+        "text": "Which was the son of Mathusala, which was the son of Enoch, which was the son of Jared, which was the son of Maleleel, which was the son of Cainan,"
+      }
+    ],
+    "1:33": [
+      {
+        "source": "Genesis 11:9",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "certain",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 3,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 5
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Genesis 11:7",
+          "Genesis 11:8"
+        ],
+        "provenance": {
+          "route": "Genesis 11:7-9 → KJV → Book of Mormon",
+          "other": "“confound the language” occurs in exactly one KJV verse, Genesis 11:9; “confound their language” occurs in exactly one KJV verse, Genesis 11:7. Ether 1:33 has the definite form, 'the Lord confounded the language of the people', which is 11:9's construction with 'of all the earth' replaced by 'of the people'. Genesis 11:9's own scattering clause reads 'scatter them abroad upon the face of all the earth'; Ether does not follow it — see the exclusion register at this verse.",
+          "significance": "This is the seam where the Book of Mormon opens onto Genesis and says so. Moroni has just declined to transcribe the record from Adam to the tower because it 'is had among the Jews' (1:3), which is a claim that the reader already owns the previous chapter of this story; the verse then supplies the join in the previous chapter's own words. Read for metalepsis (Hays 2016 on the figure) the borrowing carries more than the event: Genesis 11's tower is a monument built so that its builders should not be scattered, and the scattering is the judgment on it. Ether 1:33 takes the scattering as its starting condition and spends the rest of the chapter obtaining, for one family, an exemption from every clause of it — their language is not confounded (1:35-37), and their dispersion becomes a directed journey to an inheritance (1:38-43)."
+        },
+        "note": "'From the great tower, at the time the Lord confounded the language of the people, and swear in his wrath that they should be scattered upon all the face of the earth; and according to the word of the Lord the people were scattered.' Both halves of Genesis 11:9 are here in Genesis's order — the confounding of the language, then the scattering — and the first half uses the KJV's own collocation, which appears nowhere else in the Bible. The link is not in doubt; what the catalogue can add is where the wording stops following Genesis, which is at the scattering clause.",
+        "bibliography": [
+          "Hardy MSI at Ether 1.33 (Genesis 11:1-9)"
+        ],
+        "status": "consensus",
+        "streams": [
+          "scholarship",
+          "manual"
+        ],
+        "text": "Therefore is the name of it called Babel; because the LORD did there confound the language of all the earth: and from thence did the LORD scatter them abroad upon the face of all the earth."
+      },
+      {
+        "source": "Psalm 95:11",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 5,
+          "sequence": 4,
+          "context": 4,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "provenance": {
+          "route": "Psalm 95:11 → KJV → Book of Mormon",
+          "other": "“sware in my wrath” occurs in exactly two KJV verses, Psalm 95:11 and Hebrews 3:11, and Hebrews 3 is quoting the psalm. tools/mediation-check.py returns one decisive divergence: the psalm continues 'that they should not enter into my rest' and Hebrews turns it into direct speech, 'They shall not enter into my rest.' Ether 1:33 reads 'that they should be scattered', which is the psalm's subordinate 'that they should' and not Hebrews' 'they shall'. The 1830 text reads 'and swear in his wrath'; 1920 emended to 'swore', which moves away from the KJV's 'sware' rather than toward it, so the first edition is the closer witness here even though its verb is ungrammatical.",
+          "significance": "Genesis 11 has no oath in it. The LORD deliberates ('Go to, let us go down') and acts, but he does not swear, and no biblical account of Babel says he did. Ether 1:33 supplies one, and supplies it in the words of the one oath in the Psalter that the New Testament made famous — the oath of Psalm 95 barring the wilderness generation from the land: 'Unto whom I sware in my wrath that they should not enter into my rest.' Recover that context and the chapter's shape appears. An oath of exclusion from rest is placed over the whole scattered earth, and the ten verses that follow are a sustained petition to be let out from under it, answered at 1:42-43 with a land 'choice above all the land of the earth' received 'for our inheritance'. The psalm's oath is what Jared's brother is crying against, and the promise of an inheritance is its reversal."
+        },
+        "note": "'And swear in his wrath that they should be scattered upon all the face of the earth.' The oath is an addition to the Genesis narrative, not a report of it, and its wording is Psalm 95:11's. The construction is the psalm's throughout — the verb 'sware', the phrase 'in my/his wrath', and the subordinate result clause 'that they should' — with only the content of the clause changed, from exclusion from rest to dispersion over the earth. Since Psalm 95:11 is quoted twice in Hebrews (3:11, 4:3), the mediation is worth stating: the Book of Mormon has the Old Testament form.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ],
+        "text": "Unto whom I sware in my wrath that they should not enter into my rest."
+      }
+    ],
+    "1:34": [
+      {
+        "source": "Genesis 11:7",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 2
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "recurrenceRefs": [
+          "Ether 1:35",
+          "Ether 1:36",
+          "Ether 1:37"
+        ],
+        "provenance": {
+          "route": "Genesis 11:7 → KJV → Book of Mormon",
+          "other": "“confound their language” occurs in exactly one KJV verse. Genesis 11:7's purpose clause reads 'that they may not understand one another’s speech'; Ether 1:34 reads 'that we may not understand our words', which is the same clause with the persons turned round and 'speech' exchanged for 'words'.",
+          "significance": "The petition is framed as a negation of the divine sentence clause by clause, in the sentence's own vocabulary: Genesis's 'confound' becomes 'not confound us', Genesis's 'that they may not understand' becomes 'that we may not understand'. Jared is not asking for a general mercy; he is asking that one clause of Genesis 11:7 be suspended for two men, and he asks it in the words of the verse. The narrative then grants it in the same words twice over — 'therefore he did not confound the language of Jared' (1:35), 'that they were not confounded' (1:37) — so that the whole intercession is conducted inside a single borrowed clause."
+        },
+        "note": "'Cry unto the Lord, that he will not confound us that we may not understand our words.' The verb and its purpose clause are Genesis 11:7's and nothing else's in the KJV, taken over with the pronouns reversed. Note that the request is grammatically awkward in the Book of Mormon — 'that he will not confound us that we may not understand' asks God not to do the thing that would produce the result — which is what one gets by negating the head of a KJV sentence and leaving its subordinate clause standing. The awkwardness is itself evidence of the borrowing.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "Go to, let us go down, and there confound their language, that they may not understand one another’s speech."
+      },
+      {
+        "source": "Luke 1:28",
+        "type": "echo",
+        "subtype": "probable",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 2,
+          "sequence": 2,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "recurrenceRefs": [
+          "1 Nephi 1:1",
+          "Mosiah 1:13"
+        ],
+        "provenance": {
+          "route": "Luke 1:28 → KJV → Book of Mormon",
+          "other": "“highly favoured” occurs in exactly one KJV verse. As at 1 Nephi 1:1 and Mosiah 1:13, the 1830 text spells it 'favored' without the KJV's -our-, so the first edition does not preserve the King James orthography here.",
+          "significance": "The corpus has used 'highly favored of the Lord' as a standing epithet since Nephi's first sentence, and it is normally collective — a favored people, a favored nation, revocable if they transgress (the Mosiah 1:13 row makes that case). Ether 1:34 is the one place it returns to Luke's own usage: it is said of a single man, once, at the moment before God speaks to him directly and grants him a request. Gabriel says it to Mary immediately before telling her what God will do through her; Moroni says it of the brother of Jared immediately before the Lord hears him, has compassion on him, and speaks. The formula lands back on the situation it was minted for.",
+          "alternative": "The proximate model is arguably not Luke at all but the Book of Mormon's own formula, running from 1 Nephi 1:1 through Mosiah, Alma and here. The `mediation` enum has no value for a New Testament source reaching a verse through an earlier Book of Mormon passage — only `OT-via-earlier-BoM` exists — so this row is recorded as `direct-NT` following the Mosiah 1:13 precedent, and the real route is stated here: Luke 1:28 → KJV → 1 Nephi 1:1 → the corpus formula → Ether 1:34."
+        },
+        "note": "'Being a man highly favored of the Lord.' The two-word phrase is a KJV singleton and its one occurrence is the angel's greeting. By Ether it is settled Book of Mormon idiom rather than a fresh borrowing, which is why this stays an echo — but it is worth a row rather than an exclusion because the usage here is singular and personal, unlike the collective uses that dominate the corpus, and because a new book is a new hand (ADJUDICATING §4 on repeats across a book boundary). What the KJV says once to one woman on the eve of an annunciation, Ether says of one man on the eve of a theophany.",
+        "whyNot": "An adverb and a participle, and the corpus has used them scores of times without any of those uses being an allusion to Luke. A reader who filed this under the standing formula and pointed back to 1 Nephi 1:1 would be following the register's own practice elsewhere.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "And the angel came in unto her, and said, Hail, thou that art highly favoured, the Lord is with thee: blessed art thou among women."
+      }
+    ],
+    "1:38": [
+      {
+        "source": "Hebrews 11:8",
+        "type": "allusion",
+        "subtype": "conceptual",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 1
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "recurrenceRefs": [
+          "1 Nephi 2:3",
+          "1 Nephi 4:2"
+        ],
+        "provenance": {
+          "route": "Hebrews 11:8 → KJV → Book of Mormon",
+          "other": "“receive for an inheritance” occurs in exactly one KJV verse, and “not knowing whither” occurs in exactly one KJV verse — both Hebrews 11:8. The KJV has 'receive' near 'inheritance' in eight verses, but seven of them are the tribal allotments of Numbers and Joshua; the collocation with a call to depart is Hebrews'.",
+          "significance": "Hebrews 11:8 has three moving parts — a call to go out, a destination not known, and a land to be received afterwards for an inheritance — and Ether 1:38 has all three in one sentence: 'cry unto him whither we shall go... let us be faithful unto the Lord, that we may receive it for our inheritance.' The interesting thing is what the borrowing changes. Abraham 'went out, not knowing whither he went'; Jared's instruction is to find out whither first. Hebrews makes ignorance the proof of faith; Ether 1 makes inquiry the practice of it, and the chapter is built out of four successive inquiries (1:34, 1:36, 1:38, 1:40). The verse keeps Hebrews' vocabulary of inheritance and faith and reverses its point about not knowing.",
+          "alternative": "Hebrews 11:8-9 is already the model for a departure narrative at 1 Nephi 2:3 and for a Red Sea recital at 1 Nephi 4:2, so the proximate model here may be the corpus's own established use of Hebrews 11 rather than Hebrews 11 itself. The `mediation` enum has no value for an NT source reaching a verse via an earlier Book of Mormon passage; `direct-NT` is recorded and the alternative route is stated here."
+        },
+        "note": "'Go and inquire of the Lord whether he will drive us out of the land... cry unto him whither we shall go... let us be faithful unto the Lord, that we may receive it for our inheritance.' Two KJV singletons stand behind that sentence and both are in the same verse of Hebrews. Note that this is the third time the Book of Mormon builds a migration on Hebrews 11 — 1 Nephi 2 on 11:8-9, 1 Nephi 4:2 on 11:29, and now the Jaredite departure — which is a recurrence worth more than any one of the three: Hebrews 11 is functioning in this corpus as an index to the Old Testament departures it wants to retell.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "By faith Abraham, when he was called to go out into a place which he should after receive for an inheritance, obeyed; and he went out, not knowing whither he went."
+      },
+      {
+        "source": "Joel 2:14",
+        "type": "echo",
+        "subtype": "probable",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 4,
+          "context": 4,
+          "rarity": 2,
+          "attestation": 0
+        },
+        "kjvSpecific": "uncertain",
+        "mediation": "direct-OT",
+        "composite": [
+          "Jonah 3:9"
+        ],
+        "recurrenceRefs": [
+          "Ether 1:36"
+        ],
+        "provenance": {
+          "route": "Joel 2:13-14 and Jonah 3:9 → KJV → Book of Mormon",
+          "other": "“who knoweth” occurs in exactly 12 KJV verses; eight are Job, Ecclesiastes or Proverbs asking whether anything can be known, and only Joel 2:14 uses it of God's possible relenting. Its twin is Jonah 3:9, 'Who can tell if God will turn and repent, and turn away from his fierce anger, that we perish not?' — not the same words but the same formula. “turn away his anger” as such stands in no KJV verse; the KJV's idiom is 'turn away his fierce anger' or 'turn away thy wrath'.",
+          "significance": "Ether 1:36 and 1:38 reproduce the two halves of the biblical formula of hopeful uncertainty in the biblical order. Jared's first petition is that God 'will turn away his anger' from their friends; his second opens 'And who knoweth but the Lord will carry us forth into a land which is choice.' Joel 2:13-14 runs the same two clauses in the same sequence — God is 'slow to anger, and repenteth him of the evil', therefore 'Who knoweth if he will return and repent, and leave a blessing behind him' — and Jonah 3:9 fuses them into one sentence. The formula is the Old Testament's way of intercession that does not presume, and it is exactly the posture the chapter gives to Jared: four petitions, each phrased as a possibility rather than a claim."
+        },
+        "note": "'And who knoweth but the Lord will carry us forth into a land which is choice above all the earth.' Taken alone this is two common words. What lifts it is the pairing with 1:36 two verses earlier — 'it may be that he will turn away his anger' — which puts the relenting-of-anger clause and the 'who knoweth' clause in the order Joel 2:13-14 has them and Jonah 3:9 compresses. The chapter's whole intercession is conducted in this register, and Joel and Jonah are where the KJV keeps it.",
+        "whyNot": "No distinctive wording at all: 'who knoweth' is common, 'it may be that' is common, and neither of the two candidate sources shares a rare phrase with the verse. The case is entirely a sequence argument over two verses, and a reader who declined it would be right that nothing here would survive a verbal test.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "Who knoweth if he will return and repent, and leave a blessing behind him; even a meat offering and a drink offering unto the LORD your God?"
+      }
+    ],
+    "1:41": [
+      {
+        "source": "Genesis 11:3",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Genesis 11:4",
+          "Genesis 11:7"
+        ],
+        "recurrenceRefs": [
+          "Ether 1:33"
+        ],
+        "provenance": {
+          "route": "Genesis 11:3-7 → KJV → Book of Mormon",
+          "other": "“Go to, let us” occurs in exactly three KJV verses — Genesis 11:3, 11:4 and 11:7, the whole of the tower narrative and nothing else. As a bare interjection followed by a comma the idiom stands in only five KJV verses altogether: those three, plus Judah's proposition at Genesis 38:16 and the king of Syria's dispatch at 2 Kings 5:5. James's 'Go to now' (4:13, 5:1) is the other New Testament survival. 'Go to and gather together thy flocks' is the phrase's only occurrence in the Book of Mormon.",
+          "significance": "Genesis 11's own irony is that the builders and their judge use the same words. 'Go to, let us make brick'; 'Go to, let us build us a city and a tower'; and then, from heaven, 'Go to, let us go down, and there confound their language.' The interjection is the tower story's signature and it belongs to both parties in it. Ether 1:41 gives it a fourth outing — the Lord, speaking to the one man at Babel whose language was not confounded, opening his commission with the builders' own phrase. Everything the builders resolved to do with it is now undone by it: they said 'Go to' to keep from being scattered, and the Lord says 'Go to' to send this family out. Whether the writer heard the echo or not, the KJV places that interjection in exactly one story, and this is a scene in that story."
+        },
+        "note": "'Go to and gather together thy flocks, both male and female, of every kind.' The divine speech that begins the Jaredite migration opens with the interjection that opens each of the three resolutions in Genesis 11, and with no other KJV passage. The form differs — Ether has 'Go to' plus an imperative rather than 'Go to, let us', which is the construction of Genesis 38:16 and 2 Kings 5:5 — but the setting is Genesis 11's, eight verses after the chapter has quoted Genesis 11:9 outright. Note that the phrase never recurs anywhere else in the Book of Mormon; it appears once, in the one episode where the KJV's own use of it would be audible.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "And they said one to another, Go to, let us make brick, and burn them thoroughly. And they had brick for stone, and slime had they for morter."
+      },
+      {
+        "source": "Genesis 6:19",
+        "type": "allusion",
+        "subtype": "conceptual",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 2,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 3,
+          "attestation": 0
+        },
+        "kjvSpecific": "uncertain",
+        "mediation": "direct-OT",
+        "composite": [
+          "Genesis 6:20",
+          "Genesis 6:21"
+        ],
+        "provenance": {
+          "route": "Genesis 6:19-21 → KJV → Book of Mormon",
+          "other": "Genesis 6:19-21 is the KJV's one inventory for a vessel-borne survival: living creatures 'male and female' (6:19), 'after their kind' three times over (6:20), and food 'gather[ed] to thee' (6:21). Ether 1:41 has the same four elements in the same order — gather, flocks, 'both male and female', 'of every kind', and 'the seed of the earth of every kind'. The exact string “both male and female” occurs in exactly one KJV verse, but that verse is Numbers 5:3 and its sense is opposed; see the exclusion register.",
+          "significance": "Ether 1 sits on the seam between Genesis 11 and Genesis 6-8 and takes from both. The chapter has just quoted the tower narrative; the commission that follows is the flood narrative's. Two chapters later the Jaredites will cross the sea in eight sealed, unsteerable, air-holed vessels driven by wind — an ark, told eight times over — and the loading order here is Noah's before the barges exist. The effect is to make one family's exit from Babel into a second flood deliverance: the world's languages are destroyed behind them, and they go out with their beasts by kind and their seed to begin again."
+        },
+        "note": "'Gather together thy flocks, both male and female, of every kind; and also of the seed of the earth of every kind, and thy families.' No single phrase here is Genesis 6's, which is why this is moderate and why kjvSpecific is uncertain — 'male and female' and 'kind' are the wording of every English Bible at this passage. The argument is the inventory: creatures by sex, creatures by kind, seed for planting, and the household, in Genesis's own order and for the same purpose. Nothing else in the KJV lists those four things together as a command to load.",
+        "whyNot": "The elements are what any migration would need, and a writer preparing a sea crossing might arrive at flocks, seed and families without a source. What keeps the row is the order and the fact that the chapter is demonstrably reading Genesis 11 four verses earlier.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ],
+        "text": "And of every living thing of all flesh, two of every sort shalt thou bring into the ark, to keep them alive with thee; they shall be male and female."
+      }
+    ],
+    "1:42": [
+      {
+        "source": "Micah 2:13",
+        "type": "echo",
+        "subtype": "possible",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 4,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Micah 2:12"
+        ],
+        "provenance": {
+          "route": "Micah 2:12-13 → KJV → Book of Mormon",
+          "other": "“the head of them” occurs in exactly one KJV verse, Micah 2:13, where it is the LORD who is at the head. “down into the valley” occurs in exactly two KJV verses, Isaiah 63:14 and Joel 3:2, neither of which is in play here.",
+          "significance": "Micah 2:12-13 is the Old Testament's compressed exodus oracle: a flock gathered out of confinement, a breaker going up before them, a gate broken through, a king passing before them and the LORD at their head. Ether 1:41-42 has the same four moves in the same sequence — gather the flocks (1:41), a human leader 'at the head of them' going down into the valley, and the Lord saying 'I will go before thee' into the land. What has happened between the two texts is a swap: in Micah the king passes before the people and the LORD is at their head; in Ether the man is at the head of them and the Lord goes before. The roles are exchanged and the pair is kept intact, which is a more interesting relation than simple borrowing and is the reason for the row."
+        },
+        "note": "'Thou shalt go at the head of them down into the valley, which is northward. And there will I meet thee, and I will go before thee into a land.' The phrase 'at the head of them' has one home in the KJV and it is the verse where the LORD leads a gathered flock out through a broken gate. Micah's oracle and Ether's commission share the flock, the leader at the head, the going-before, and the movement out of a place where the people had been penned — and Ether 1:41 supplies the gathering of the flock immediately before. Recorded as an echo rather than an allusion because four common words are all the verbal contact there is.",
+        "whyNot": "'The head of them' is a KJV singleton by arithmetic rather than by distinctiveness — it is an ordinary English phrase the KJV simply had little occasion to write — and it is doing different grammatical work in the two verses. A reader who called the resemblance a shared situation rather than a borrowing would have the better of the verbal argument.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ],
+        "text": "The breaker is come up before them: they have broken up, and have passed through the gate, and are gone out by it: and their king shall pass before them, and the LORD on the head of them."
+      }
+    ],
+    "1:43": [
+      {
+        "source": "Genesis 12:2",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 2
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Genesis 12:1",
+          "Genesis 22:17"
+        ],
+        "provenance": {
+          "route": "Genesis 12:1-2 → KJV → Book of Mormon",
+          "other": "“a great nation and I will bless thee” occurs in exactly one KJV verse. “make of thee a great nation” occurs in exactly three KJV verses — Genesis 12:2, Genesis 46:3 and Exodus 32:10 — of which only Genesis 12:2 attaches the blessing clause. Genesis 12:1-3 is quoted in the New Testament at Acts 7:3 and Galatians 3:8; tools/mediation-check.py against Acts 7:3 shows no contest, because Stephen's quotation stops at 'the land which I shall shew thee' and never reaches the great-nation promise that Ether 1:43 reproduces. The mediation is Old Testament by default rather than by a decided divergence, and it is recorded that way.",
+          "significance": "This is the chapter's largest claim and it is made entirely by placement. In the King James Bible, Genesis 11 and Genesis 12 are one continuous movement: the tower is confounded, the peoples are scattered, Terah's family leaves Ur, and the LORD says to Abram, get thee out, and I will make of thee a great nation, and I will bless thee. Ether 1 occupies exactly that hinge. It quotes Genesis 11:9 at 1:33, spends nine verses obtaining an exemption from the scattering, and then closes at 1:43 with the promise of Genesis 12:2 given to a second man leaving the same city in the same generation. The Jaredite migration is not merely analogous to Abraham's call; it is narrated in its words, at its point in the story, as though Genesis 12 had two recipients. And the promise is enlarged in the telling — 'there shall be none greater than the nation which I will raise up unto me of thy seed' outbids Genesis 12:2, which promises greatness but not primacy."
+        },
+        "note": "'And there will I bless thee and thy seed, and raise up unto me of thy seed... a great nation. And there shall be none greater than the nation which I will raise up unto me of thy seed.' The Abrahamic promise is here in Genesis's own terms and in Genesis's order — depart (1:42), a land to be shown (1:42), blessing, seed, a great nation (1:43) — and 1:38 has already supplied the inheritance from Hebrews 11:8. The 1830 reading 'and they which shall go with thee' preserves the KJV's relative 'which' for persons, which 1920 removed. Held at high rather than certain because the individual clauses are the common currency of the patriarchal promises (Genesis 17:7, 22:17, 26:3-4 all supply pieces of it) and no single string is long enough to fix Genesis 12:2 alone; the sequence and the narrative position are what do that.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ],
+        "text": "And I will make of thee a great nation, and I will bless thee, and make thy name great; and thou shalt be a blessing:"
+      }
+    ]
+  }
+}

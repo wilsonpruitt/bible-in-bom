@@ -1,0 +1,509 @@
+{
+  "chapter": 10,
+  "adjudicated": "2026-09-07",
+  "adjudicator": "Opus",
+  "links": {
+    "10:2": [
+      {
+        "source": "Genesis 5:4",
+        "type": "allusion",
+        "subtype": "structural",
+        "confidence": "moderate",
+        "text": "And the days of Adam after he had begotten Seth were eight hundred years: and he begat sons and daughters:",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 3,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Genesis 11:11"
+        ],
+        "recurrenceRefs": [
+          "Ether 10:14",
+          "Ether 10:16",
+          "Ether 10:29"
+        ],
+        "provenance": {
+          "route": "Genesis 5:4 (and the Genesis 5 / Genesis 11 genealogical formula) → KJV → Book of Mormon",
+          "other": "“And he begat sons and daughters” occurs in exactly two KJV verses, Genesis 5:4 and 2 Chronicles 24:3. Dropping the leading conjunction, “begat sons and daughters” occurs in eighteen, and seventeen of those eighteen are the two genealogies of Genesis 5 (Adam to Noah) and Genesis 11 (Shem to Terah); the remaining two are 2 Chronicles 24:3 and Jeremiah 29:6. The phrase is, in the King James Bible, almost the private property of the primeval genealogies.",
+          "significance": "Genesis 11 is the chapter the book of Ether begins from — the confusion of tongues and the scattering, which Ether 1:33 rehearses. Genesis 11:10-26 is what immediately follows the tower: the surviving genealogy, generation after generation, each man living so many years and begetting sons and daughters. Ether 10 is that same list resumed on the other side of the ocean. The Jaredite dynastic chapter is not merely set after Babel; it is written in the formula the King James Bible uses for the descendants of Babel, so that the Jaredite kings take their place in the sentence-shape reserved in scripture for the sons of Shem."
+        },
+        "note": "'And he did walk in the ways of the Lord, and he begat sons and daughters.' The formula returns at 10:14 ('he begat sons and daughters in captivity'), 10:16 and 10:29, four times in one chapter, and it is doing the same structural work Genesis 5 and 11 do: it marks the passage of a generation and licenses the narrative to move on. Filed as an allusion rather than a quotation because no single verse can be named as the source — the argument is about a formula with seventeen occurrences in two chapters of Genesis, not about Genesis 5:4 in particular, which is cited here as the formula's first instance. What makes the row worth writing is where the formula is used: 10:14 fuses it with captivity ('he begat sons and daughters in captivity'), which is a thing Genesis 5 and 11 never say, and the chapter's last dynastic movement (10:30-31) is nothing but this formula run through four generations of prisoners.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "10:5": [
+      {
+        "source": "Matthew 23:4",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "For they bind heavy burdens and grievous to be borne, and lay them on men’s shoulders; but they themselves will not move them with one of their fingers.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 3,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "Matthew 23:4 → KJV → Book of Mormon",
+          "other": "“men's shoulders” occurs in exactly one KJV verse, Matthew 23:4. “grievous to be borne” occurs in exactly two, Matthew 23:4 and Luke 11:46, which are the same saying in the two gospels. Ether 10:5 has both phrases, and the only KJV verse that has both is Matthew 23:4. Running the two gospel forms against the Book of Mormon returns two decisive points, both for Matthew: Luke has ‘ye lade men with burdens’ where Matthew and Ether have the burden laid on shoulders, and Luke drops the shoulders altogether.",
+          "significance": "Matthew 23:4 is the second of the woes against the scribes and Pharisees, and its charge is precisely hypocrisy of imposition: they bind the burden and 'will not move them with one of their fingers'. Ether 10:5-7 takes that sentence out of the synagogue and puts it in a treasury. Riplakish lays on men's shoulders what is grievous to be borne, and the next two verses say exactly what Matthew's finger-clause implies — the burden purchases the burden-layer's own comfort: an exceeding beautiful throne, many spacious buildings, and fine gold refined by prisoners. The metalepsis is that Matthew's woe supplies the moral verdict the Jaredite chronicle never pronounces in its own voice; Ether 10:8 simply reports that the people rebelled and killed him."
+        },
+        "note": "'He did have many wives and concubines, and did lay that upon men's shoulders which was grievous to be borne; yea, he did tax them with heavy taxes.' Two KJV phrases, one of them a singleton, drawn from a single verse and reassembled around a relative pronoun: Matthew's 'lay them on men's shoulders' and 'grievous to be borne' become 'lay that upon men's shoulders which was grievous to be borne'. The shared run is well under Skousen's sixteen-word threshold and this is not one of his passages; what carries it is the rarity, not the length. The transposition is itself evidence of use rather than coincidence — the clauses are in Matthew's order but joined by a construction Matthew does not have.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      },
+      {
+        "source": "Deuteronomy 17:17",
+        "type": "figural",
+        "subtype": "conceptual",
+        "confidence": "moderate",
+        "text": "Neither shall he multiply wives to himself, that his heart turn not away: neither shall he greatly multiply to himself silver and gold.",
+        "evidence": {
+          "vocabulary": 1,
+          "syntax": 1,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 2,
+          "attestation": 0
+        },
+        "kjvSpecific": "no",
+        "mediation": "direct-OT",
+        "provenance": {
+          "route": "Deuteronomy 17:16-17 → KJV → Book of Mormon",
+          "other": "“multiply wives” occurs in exactly one KJV verse, Deuteronomy 17:17. But the Book of Mormon's own phrase is 'many wives and concubines', which occurs in no KJV verse at all; 'many wives' occurs in three (Judges 8:30 of Gideon, 1 Chronicles 7:4, 2 Chronicles 11:23 of Rehoboam), and none of them is Deuteronomy. There is no verbal contact here, and the row is filed on the catalogue of offences rather than on any phrase.",
+          "significance": "Deuteronomy 17:14-20 is the law of the king: he shall not multiply horses, nor wives, nor 'greatly multiply to himself silver and gold', and he shall write himself a copy of the law that his heart be not lifted up above his brethren. Riplakish's régime in 10:5-7 is that list read as an indictment — many wives and concubines, heavy taxation, spacious buildings, and fine gold refined in prison — and the chapter has already announced the Deuteronomic verdict in the same sentence ('did not do that which was right in the sight of the Lord'). Read against Deuteronomy 17, the forty-two years and the rebellion that ends them are not a political accident but the sanction the law attaches to the offence."
+        },
+        "note": "Filed because a reader who knows Deuteronomy 17 will see it here and the catalogue should say whether it saw it too. The chapter is a king-list judged by a Deuteronomic standard, and the specific sins it charges to its worst king are the specific things Deuteronomy 17:16-17 forbids a king. But the wording is not Deuteronomy's at any point, so this is a figural row and nothing more: the evidence is the coincidence of a catalogue, not of an English phrase.",
+        "whyNot": "No verbal contact whatever. 'Many wives and concubines' is Solomon's profile in 1 Kings 11:3 rather than Deuteronomy's diction, and a chronicler describing a bad ancient king has few other sins available; polygamy, taxation and monumental building are what tyranny looks like in almost any source. A reader may reasonably decline the row and read Ether 10:5 as an independent catalogue of vices.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      },
+      {
+        "source": "2 Kings 16:2",
+        "type": "figural",
+        "subtype": "structural",
+        "confidence": "moderate",
+        "text": "Twenty years old was Ahaz when he began to reign, and reigned sixteen years in Jerusalem, and did not that which was right in the sight of the LORD his God, like David his father.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 2,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "2 Chronicles 28:1",
+          "2 Kings 22:2"
+        ],
+        "recurrenceRefs": [
+          "Ether 10:13",
+          "Ether 10:16",
+          "Ether 10:17",
+          "Ether 10:19"
+        ],
+        "provenance": {
+          "route": "The Deuteronomistic regnal-evaluation formula (2 Kings / 2 Chronicles) → KJV → Book of Mormon",
+          "other": "“that which was right in the sight of the Lord” occurs in exactly fifteen KJV verses, every one of them in 2 Kings or 2 Chronicles and every one of them an evaluation of a reigning king. The negative form Ether 10:5 uses, “did not that which was right”, occurs in exactly two, 2 Kings 16:2 and 2 Chronicles 28:1, which are the two accounts of Ahaz. The chapter's other formula, 'did that which was good in the sight of the Lord' (10:17, 10:19), occurs in no KJV verse: the King James Bible's regnal verdicts are 'right' or 'evil', never 'good'.",
+          "significance": "The formula is the machinery by which Kings turns a chronicle into a theodicy: reign-length, succession, and one clause saying whether the reign was approved. Ether 10 has adopted the whole apparatus — nine kings evaluated in thirty-four verses, alternating good and wicked, each verdict attached to a consequence in the next sentence. What the row records is that a book which claims to predate the Israelite monarchy entirely writes its own monarchy in the monarchy's own retrospective idiom. The variation is the interesting part: 'good in the sight of the Lord' is not a King James regnal formula, and its two KJV occurrences (Deuteronomy 6:18, Malachi 2:17) are not regnal at all, so at 10:17 and 10:19 the chapter is improvising on a form it otherwise reproduces exactly."
+        },
+        "note": "Adjudicated at 10:5, the formula's first appearance in the chapter and the one that reproduces a King James clause verbatim. It recurs at 10:13 (in the substitute form 'did not reign in righteousness'), 10:16 ('did that which was right in the sight of the Lord', the fifteen-verse formula exactly), and 10:17 and 10:19 in the non-biblical 'good' variant. 2 Kings 16:2 is named as source because it is one of only two verses carrying the negative form Ether 10:5 has, not because Ahaz is in view; like the Genesis 36 king-list row at Ether 7:3, this is a borrowing of a genre's connective tissue rather than of a verse, and it is filed figural for that reason.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "10:10": [
+      {
+        "source": "2 Chronicles 10:4",
+        "type": "allusion",
+        "subtype": "conceptual",
+        "confidence": "moderate",
+        "text": "Thy father made our yoke grievous: now therefore ease thou somewhat the grievous servitude of thy father, and his heavy yoke that he put upon us, and we will serve thee.",
+        "evidence": {
+          "vocabulary": 2,
+          "syntax": 2,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 3,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Numbers 11:17",
+          "1 Kings 12:4"
+        ],
+        "provenance": {
+          "route": "2 Chronicles 10:3-4 (parallel at 1 Kings 12:3-4) → KJV → Book of Mormon",
+          "other": "“ease thou somewhat the grievous” occurs in exactly one KJV verse, 2 Chronicles 10:4; the parallel at 1 Kings 12:4 reads 'make thou the grievous service ... lighter'. Ether's word is 'ease'. “the burden of the people” occurs in exactly one KJV verse, Numbers 11:17, where the seventy elders are to bear it with Moses.",
+          "significance": "1 Kings 12 / 2 Chronicles 10 is the King James Bible's one narrative about taxation and succession, and Ether 10:5-10 distributes its roles across two reigns. Riplakish is Solomon and Rehoboam at once — spacious buildings, forced labour, a heavy yoke — and 10:8's rebellion is 1 Kings 12:18-19 with the outcome carried to its end: Rehoboam escapes in his chariot, Riplakish is killed. Morianton then does what Rehoboam refused to do, eases the burden, and receives what Rehoboam lost. Recovering the Chronicles context makes 10:11 the sting of the row: the king who granted the petition Rehoboam denied is nevertheless 'cut off from the presence of the Lord', so the Jaredite chronicle grants the political lesson of the schism narrative and then withholds its theological reward."
+        },
+        "note": "'He did ease the burden of the people, in the which he did gain favor in the eyes of the people.' The verbal contact is one word, and it is the word on which the two King James accounts of the same speech differ: Kings has the people ask Rehoboam to make the yoke 'lighter', Chronicles has them ask him to 'ease' it. Ether has Chronicles' verb. Set against that, 'the burden of the people' is a King James singleton belonging to Numbers 11:17, a verse about sharing a burden rather than lifting one; the phrase is listed as composite because it is where the English comes from, not because Numbers 11 is in view.",
+        "whyNot": "The whole weight of the source identification rests on a single common verb. 'Ease' is an unremarkable word for the action being described, and a writer with no text in front of him would very likely reach for it. What keeps the row at moderate rather than lower is the narrative sequence around it — heavy taxes, corvée, rebellion, a new king who lightens the load and is acclaimed — which is 1 Kings 12 in order.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      },
+      {
+        "source": "1 Samuel 9:16",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "text": "To morrow about this time I will send thee a man out of the land of Benjamin, and thou shalt anoint him to be captain over my people Israel, that he may save my people out of the hand of the Philistines: for I have looked upon my people, because their cry is come unto me.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 3,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "provenance": {
+          "route": "1 Samuel 9:16 → KJV → Book of Mormon",
+          "other": "“anoint him to be” occurs in exactly one KJV verse, 1 Samuel 9:16, where the LORD tells Samuel to anoint Saul 'to be captain over my people Israel'. Every other King James anointing is phrased otherwise — 'anointed him king', 'anointed David king over Israel', 'anoint unto me him whom I name unto thee'.",
+          "significance": "The one King James verse with this construction is careful about its noun. Israel had demanded a king (1 Samuel 8:5, which the catalogue adjudicates at Ether 6:19); what God authorises Samuel to anoint is a captain, and the withholding of the word 'king' is the point of the sentence. Ether 10:10 supplies the word: 'they did anoint him to be their king'. The Jaredite people, having been warned in Ether 6:23 that kings lead into captivity, perform the anointing 1 Samuel 9:16 declines to name and get, four verses of chronicle later, the captivity of 10:30-31. Ether 6 borrows Israel's demand; Ether 10 completes it with the formula Israel's own text would not use."
+        },
+        "note": "'And they did anoint him to be their king.' A four-word run that occurs once in the King James Bible, in the commission to anoint Saul, and it arrives at the end of a verse whose other borrowing (the eased burden) is also from the monarchy narratives. The strength of the row is that the Book of Mormon's substitution is the one substitution the King James verse is structured to refuse; the weakness is that four short words is a small thing to hang it on, and 'anoint him to be their king' is an obvious way to say what the sentence says.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "10:12": [
+      {
+        "source": "Deuteronomy 8:13",
+        "type": "allusion",
+        "subtype": "conceptual",
+        "confidence": "moderate",
+        "text": "And when thy herds and thy flocks multiply, and thy silver and thy gold is multiplied, and all that thou hast is multiplied;",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 3,
+          "attestation": 0
+        },
+        "kjvSpecific": "uncertain",
+        "mediation": "direct-OT",
+        "composite": [
+          "Deuteronomy 8:12"
+        ],
+        "recurrenceRefs": [
+          "Ether 10:28"
+        ],
+        "provenance": {
+          "route": "Deuteronomy 8:12-14 → KJV → Book of Mormon",
+          "other": "The individual pairs are widely distributed — “gold and in silver” occurs in four KJV verses, all of them craft inventories — so the row rests on the catalogue rather than on a phrase. Deuteronomy 8:12-13 is the King James Bible's warning-list in this order: houses built and dwelt in, herds and flocks multiplied, silver and gold multiplied, 'and all that thou hast is multiplied'.",
+          "significance": "Deuteronomy 8 supplies both halves of this chapter's economy and it supplies them in Deuteronomy's order. The mineral wealth of 10:23 is Deuteronomy 8:9, and the accumulation of 10:12 is Deuteronomy 8:12-13; what stands between them in Deuteronomy is 8:11, 'beware that thou forget not the LORD thy God', and what follows is 8:14, 'then thine heart be lifted up, and thou forget the LORD thy God, which brought thee forth out of the land of Egypt, from the house of bondage'. Ether 10 says the first half aloud at 10:28 — 'never could be a people more blessed ... and more prospered by the hand of the Lord' — and then, without a word of comment, gives 10:30-31: the kingdom taken away, and four generations who dwelt in captivity all their days. The house of bondage is the term Deuteronomy uses and the outcome Ether narrates."
+        },
+        "note": "'The people became exceeding rich under his reign, both in buildings, and in gold, and in silver, and in raising grain, and in flocks, and herds.' The machine ranked Exodus 35:32, Exodus 31:4 and 2 Chronicles 2:7 here for the run 'in gold, and in silver, and in', and all three are craftsmen's commissions with brass as the third metal; Ether's third item is grain, and its fourth and fifth are flocks and herds, which is Deuteronomy's list and not Exodus's. The clinching consideration is that the chapter uses the Exodus craft vocabulary eleven verses later, at 10:23 and 10:27, where 'work' and 'brass' actually appear — so the two sources are both present in the chapter and each sits where its own words are.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "10:13": [
+      {
+        "source": "Isaiah 32:1",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "text": "Behold, a king shall reign in righteousness, and princes shall rule in judgment.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 2,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "provenance": {
+          "route": "Isaiah 32:1 → KJV → Book of Mormon",
+          "other": "“reign in righteousness” occurs in exactly one KJV verse, Isaiah 32:1: 'Behold, a king shall reign in righteousness, and princes shall rule in judgment.' The unqualified phrase “shall reign in” occurs in three (Isaiah 24:23, Isaiah 32:1, Romans 5:17), only one of which has a human king as its subject.",
+          "significance": "Isaiah 32:1 is the King James Bible's single sentence defining what a good reign is, and Isaiah 32:2 tells what such a king is for: 'a man shall be as an hiding place from the wind, and a covert from the tempest; as rivers of water in a dry place, as the shadow of a great rock in a weary land'. Ether 10:13 negates the sentence — Kim 'did not reign in righteousness' — and the next verse gives Isaiah 32:2's inverse: not shelter but captivity, and a man who begets sons and daughters in prison and dies there. The chapter has, in three words, measured a Jaredite king against the only standard the King James Bible states positively for kingship, and recorded the shortfall."
+        },
+        "note": "'Kim did not reign in righteousness, wherefore he was not favored of the Lord.' A three-word King James singleton, and the chapter's one departure from the Kings-and-Chronicles evaluation formula it uses everywhere else (10:5, 10:16, 10:17, 10:19). That departure is the argument: where the chapter wants the standard formula it uses the standard formula, and here it reaches instead for the prophetic phrase, which is what the reader should notice. Filed at moderate because three words are three words, and a writer could compose 'reign in righteousness' without Isaiah.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "10:16": [
+      {
+        "source": "1 Chronicles 29:28",
+        "type": "echo",
+        "subtype": "conceptual",
+        "confidence": "moderate",
+        "text": "And he died in a good old age, full of days, riches, and honour: and Solomon his son reigned in his stead.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 4,
+          "context": 4,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "provenance": {
+          "route": "1 Chronicles 29:28 → KJV → Book of Mormon",
+          "other": "“good old age” occurs in exactly four KJV verses: Genesis 15:15 and 25:8 (Abraham), Judges 8:32 (Gideon), and 1 Chronicles 29:28 (David). Only one of the four attaches the phrase to a royal succession — 1 Chronicles 29:28, 'and he died in a good old age, full of days, riches, and honour: and Solomon his son reigned in his stead'. “king in his stead” occurs in four KJV verses, all of them 2 Kings or 2 Chronicles.",
+          "significance": "1 Chronicles 29:28 is the King James Bible's model royal death: long life, wealth, honour, and an uncontested succession to a son the father himself had made king. Ether 10:16 assembles the same four elements for Levi — the kingdom obtained, the reign approved, the good old age, and a son anointed king in his stead — and it does so immediately after 10:14-15, two verses of dynastic imprisonment. Reading David's death notice into it makes the chapter's alternation legible: the chronicle is not merely listing good and bad kings, it is placing the King James Bible's best royal ending next to its own account of a king who spent forty-two years in captivity."
+        },
+        "note": "'He did live to a good old age, and begat sons and daughters; and he also begat Corom, whom he anointed king in his stead.' The machine ranked Judges 8:32 for 'a good old age', which is Gideon's death notice, and Gideon is displaced here on the succession: Judges 8:33-9:5 is a succession by fratricide and Ether 10:16-17 is a peaceful one to a son who then also does what is good in the sight of the Lord. 1 Chronicles 29:28 is the King James verse that puts 'good old age' and a son succeeding into one sentence.",
+        "whyNot": "'Good old age' is a natural English phrase and the chapter is full of long-lived kings (10:4, 10:13); a chronicler saying a man died old and left a successor need have no verse in mind. There is no distinctive shared wording beyond the four-word phrase itself, and the succession language differs — Chronicles has the son reign in his stead, Ether has the father anoint him.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "10:19": [
+      {
+        "source": "Genesis 10:9",
+        "type": "allusion",
+        "subtype": "conceptual",
+        "confidence": "high",
+        "text": "He was a mighty hunter before the LORD: wherefore it is said, Even as Nimrod the mighty hunter before the LORD.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 2,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "uncertain",
+        "mediation": "direct-OT",
+        "composite": [
+          "Genesis 25:27"
+        ],
+        "recurrenceRefs": [
+          "Ether 2:1"
+        ],
+        "provenance": {
+          "route": "Genesis 10:8-9 → KJV → Book of Mormon",
+          "other": "“mighty hunter” occurs in exactly one KJV verse, Genesis 10:9, where it occurs twice. “great hunter”, which is Ether's phrase, occurs in none. The noun 'hunter' is confined in the King James Bible to Nimrod (Genesis 10:9) and to Esau, 'a cunning hunter, a man of the field' (Genesis 25:27); it is not otherwise a description the Bible gives a man, and it is never elsewhere given a king.",
+          "significance": "Nimrod is not an incidental figure for this book. Genesis 10:8-10 makes him the first man to be mighty in the earth and gives him Babel as the beginning of his kingdom, which is where the Jaredites come from; the Jaredite migration in Ether 2:1 passes through 'the valley which was northward ... called Nimrod, being called after the mighty hunter'. So when Ether 10:19 says of a righteous king that he 'also himself became a great hunter', it is reaching back past nine chapters to the one name the record has already borrowed from Genesis 10. The metalepsis runs both ways. Recover Genesis 10 and Lib's hunting is a Babel inheritance surfacing in a good reign; read Ether 10:19-21 forward and the inheritance has been domesticated — Nimrod hunted before the LORD and founded a kingdom, Lib hunts to feed the people and sets aside the land southward as a game preserve."
+        },
+        "note": "'And Lib also himself became a great hunter.' The wording is not the King James Bible's — 'great' for 'mighty' — and that is why the row is an allusion rather than a quotation; what carries it is that the King James Bible has exactly one hunter-king, that the book of Ether has already named him and named a valley after him, and that the sentence's redundant 'also himself' marks the clause as an addition the chronicle wanted to make rather than a detail it needed. The immediate occasion is the destruction of the poisonous serpents of Ether 9:31-33, which reopens the land southward; hunting is what the reopening is for.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "10:22": [
+      {
+        "source": "James 4:13",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "Go to now, ye that say, To day or to morrow we will go into such a city, and continue there a year, and buy and sell, and get gain:",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 3,
+          "sequence": 4,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "James 4:13 → KJV → Book of Mormon",
+          "other": "“buy and sell” occurs in exactly one KJV verse and “get gain” occurs in exactly one KJV verse, and it is the same verse: James 4:13, 'ye that say, To day or to morrow we will go into such a city, and continue there a year, and buy and sell, and get gain'. Ether 10:22 has both. The Book of Mormon's third term, 'traffic', is King James vocabulary too — 'traffick' occurs in five verses, of which 1 Kings 10:15 (Solomon's revenue from the spice merchants) and Ezekiel 28:5 ('by thy traffick hast thou increased thy riches, and thine heart is lifted up because of thy riches') are the commercial ones.",
+          "significance": "James 4:14 is the next sentence: 'Whereas ye know not what shall be on the morrow. For what is your life? It is even a vapour, that appeareth for a little time, and then vanisheth away.' The two King James singletons that make up Ether 10:22 are lifted from the one biblical passage whose entire point is that a trading people does not know how long it has. They are placed at the head of the chapter's prosperity sequence, six verses before 'never could be a people more blessed than were they' — and nine verses before the kingdom is taken away, in a book that ends with the extinction of the nation. Nothing in Ether says this. James 4:14 says it, and the borrowing puts it there.",
+          "alternative": "Ezekiel 28:5, of Tyre: 'By thy great wisdom and by thy traffick hast thou increased thy riches, and thine heart is lifted up because of thy riches.' This supplies 'traffick' and the theological verdict, but neither of the two singletons, and it cannot account for 'buy and sell' or 'get gain'."
+        },
+        "note": "'They were exceeding industrious, and they did buy and sell, and traffic one with another, that they might get gain.' Two King James singletons from a single verse, in that verse's order, with the Book of Mormon's own word inserted between them. The run is short and well below Skousen's threshold; what makes it a strong row is that neither phrase has any other King James home, and that James 4:13 is the Bible's only sentence about buying, selling and getting gain as one continuous activity. Ezekiel 28:5 is recorded as an alternative because its rebuke of Tyre's traffick and lifted-up heart is the closest Old Testament analogue, and because the chapter's other main source, Deuteronomy 8:14, uses the same 'heart be lifted up'.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "10:23": [
+      {
+        "source": "Deuteronomy 8:9",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "A land wherein thou shalt eat bread without scarceness, thou shalt not lack any thing in it; a land whose stones are iron, and out of whose hills thou mayest dig brass.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Deuteronomy 8:7"
+        ],
+        "recurrenceRefs": [
+          "Ether 10:28"
+        ],
+        "provenance": {
+          "route": "Deuteronomy 8:7-9 → KJV → Book of Mormon",
+          "other": "“whose stones are iron” occurs in exactly one KJV verse and “dig brass” occurs in exactly one KJV verse, and it is the same verse: Deuteronomy 8:9, 'a land whose stones are iron, and out of whose hills thou mayest dig brass'. It is the only place in the King James Bible where metal is dug out of the ground at all.",
+          "significance": "Deuteronomy 8:7-10 is the description of the promised land, and mineral wealth is its last item before the warning that follows: eat and be full, bless the LORD for the good land, and then 'beware that thou forget not'. Ether 10:23 takes the one King James verse that puts iron and brass under the hills of a promised land, and Ether 10:28 takes its conclusion — 'they were in a land that was choice above all lands, for the Lord had spoken it'. What the chapter does not take is Deuteronomy 8:11-14, and it does not need to: the reader who recovers the context has already been told what comes after the mining, and Ether 10:30 supplies it without argument."
+        },
+        "note": "'They did work in all manner of ore ... and they did dig it out of the earth; wherefore they did cast up mighty heaps of earth for to get ore, of gold, and of silver, and of iron, and of copper.' The machine offered Daniel 11:43 and Exodus 31:5 for the metal-list runs, and both are inventories; neither has anything dug. Deuteronomy 8:9 is the King James Bible's only mining verse, it names two of Ether's four metals as the products of that mining, and it is the promised-land passage this chapter reaches for again five verses later. Note that Ether's fourth metal is copper, which does not appear in Deuteronomy 8:9 — nor, as a mined metal, anywhere in the King James Bible.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      },
+      {
+        "source": "Exodus 35:32",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "text": "And to devise curious works, to work in gold, and in silver, and in brass,",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 3,
+          "context": 3,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Exodus 31:4",
+          "Exodus 35:35"
+        ],
+        "recurrenceRefs": [
+          "Ether 10:27"
+        ],
+        "provenance": {
+          "route": "Exodus 31:3-5 and 35:31-35 (the commission of Bezaleel) → KJV → Book of Mormon",
+          "other": "“curious works” occurs in exactly one KJV verse, Exodus 35:32, 'And to devise curious works, to work in gold, and in silver, and in brass'; its near-twin at Exodus 31:4 reads 'cunning works'. “in gold, and in silver, and in” occurs in four KJV verses, three of which (Exodus 31:4, Exodus 35:32, 2 Chronicles 2:7) are commissions to a named master craftsman. Exodus 35:35 supplies 'to work all manner of work'.",
+          "significance": "Exodus 31 and 35 are the King James Bible's account of Bezaleel, filled with the spirit of God 'in wisdom, and in understanding, and in knowledge, and in all manner of workmanship', to devise curious works for the tabernacle. It is sacred manufacture, commissioned for one building, and it is the vocabulary Ether 10:23-27 uses for a secular boom — ore, metals, cloth, ploughs, and weapons of war. The chapter that names no temple and no priesthood describes its industry entirely in the diction the King James Bible reserves for building the sanctuary, and the last item on the list (10:27, 'all manner of weapons of war ... all manner of work of exceeding curious workmanship') is the one thing Bezaleel was never commissioned to make."
+        },
+        "note": "'And they did work in all manner of ore ... and they did work all manner of fine work', continued at 10:27, 'they did work all manner of work of exceeding curious workmanship'. Three separate Bezaleel formulae — working in gold and in silver, curious work, and all manner of work — in five verses of a chapter about commerce. Adjudicated here at their first occurrence; 10:27, where 'curious' and 'all manner of work' both appear and the machine ranked Exodus 35:35, is recorded in recurrenceRefs rather than given its own row. Filed at moderate because each formula on its own is common enough that a reader may take the cluster as the ordinary King James way to describe skilled making.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "10:24": [
+      {
+        "source": "Exodus 39:28",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "text": "And a mitre of fine linen, and goodly bonnets of fine linen, and linen breeches of fine twined linen,",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 3,
+          "rarity": 3,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Exodus 28:42",
+          "Exodus 26:1"
+        ],
+        "provenance": {
+          "route": "Exodus 26-39 (the tabernacle and the priestly vestments) → KJV → Book of Mormon",
+          "other": "“fine twined linen” occurs in exactly twenty KJV verses, and every one of them is in Exodus 26-39: the curtains, the veil, the hangings of the court, the ephod, the breastplate, and the linen breeches. The phrase has no other home in the King James Bible — it never appears in a description of ordinary clothing, wealth, or trade. Exodus 39:28 is the verse that makes the breeches of it, and Exodus 28:42 says what they are for: 'linen breeches to cover their nakedness', which is a King James singleton.",
+          "significance": "The two halves of Ether 10:24 are the two halves of Exodus 28:42 and 39:28, and in the same relation: fine twined linen, and the covering of nakedness. In Exodus the covering is priestly and the nakedness is a ritual danger — the breeches are ordered so that the priests 'bear not iniquity, and die'. Ether 10:24 has the phrase supply clothes for a whole trading population, 'that they might clothe themselves from their nakedness', which is the language of Genesis 3:21 doing the work of an economy. The recovery is that the chapter has dressed a commercial nation in the fabric the King James Bible manufactures only for the sanctuary and its priests."
+        },
+        "note": "'And they did have silks, and fine twined linen; and they did work all manner of cloth, that they might clothe themselves from their nakedness.' Twenty occurrences is too many to name a verse, so the row is filed on the phrase's exclusive location rather than on Exodus 39:28 in particular; 39:28 is named because it is the occurrence that puts fine twined linen into a garment whose stated purpose, four chapters earlier, is covering nakedness. Set beside 10:23's Bezaleel formulae, the tabernacle vocabulary in this chapter is not one phrase but a register.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      },
+      {
+        "source": "Revelation 18:12",
+        "type": "echo",
+        "subtype": "conceptual",
+        "confidence": "moderate",
+        "text": "The merchandise of gold, and silver, and precious stones, and of pearls, and fine linen, and purple, and silk, and scarlet, and all thyine wood, and all manner vessels of ivory, and all manner vessels of most precious wood, and of brass, and iron, and marble,",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 2,
+          "sequence": 4,
+          "context": 4,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "uncertain",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "Revelation 18:11-13 → KJV → Book of Mormon",
+          "other": "“and silk” occurs in exactly two KJV verses, Ezekiel 16:13 and Revelation 18:12; 'silk' in any form occurs in four (adding Proverbs 31:22 and Ezekiel 16:10), and Ether's plural 'silks' occurs in none. Of the two, only Revelation 18:12 is a list of merchandise, and only Revelation 18:12 also contains gold, silver, fine linen, brass and iron — five of the six commodities Ether 10:23-24 names.",
+          "significance": "Revelation 18 is the fall of Babylon, and 18:11-13 is its cargo manifest, recited by merchants who weep because no man buys their merchandise any more. The book of Ether is, by its own account, the record of the people who came out of Babel (Ether 1:33). Ether 10:22-24 gives that people its commercial summit — buying, selling, getting gain, working every metal, wearing silk and fine linen — and the passage sits six verses before the kingdom is taken away and four generations pass their lives in captivity, in a book that will end with the nation destroyed to the last man. If the register of Revelation 18 is in play here, the chapter has written Babel's descendants a Babylon inventory and put it immediately before the fall.",
+          "alternative": "Ezekiel 16:13, 'thy raiment was of fine linen, and silk, and broidered work', which pairs silk with fine linen in one clause as Ether does, and ends 'thou didst prosper into a kingdom' — but it is a bridal adornment, not commerce."
+        },
+        "note": "'And they did have silks, and fine twined linen.' Silk is a King James rarity and its only merchant-catalogue occurrence is Revelation 18:12, whose surrounding list matches Ether 10:23-24 commodity for commodity in a different order. The reading is offered as the chapter's largest risk and is filed as an echo at moderate for that reason: the argument is the coincidence of a whole catalogue plus one rare word, not of a phrase. It is recorded separately from the Exodus row above because the verse's two nouns point to two different places in the King James Bible, and the catalogue should say so rather than choose.",
+        "whyNot": "No shared run of more than two words, and the order of the commodities does not match. A people that mines metals and weaves cloth will produce a list resembling any other such list, and Revelation 18:12's distinctive items — pearls, thyine wood, ivory, marble, the souls of men — are all absent from Ether. Ezekiel 16:13, the other 'and silk' verse, is at least as good a home for silk beside fine linen and gold and silver, though it is not a merchant's list.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      }
+    ]
+  }
+}

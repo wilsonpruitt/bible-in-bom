@@ -1,0 +1,478 @@
+{
+  "chapter": 8,
+  "adjudicated": "2026-09-07",
+  "adjudicator": "Opus",
+  "links": {
+    "8:2": [
+      {
+        "source": "Esther 5:3",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "text": "Then said the king unto her, What wilt thou, queen Esther? and what is thy request? it shall be even given thee to the half of the kingdom.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 2,
+          "context": 4,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "uncertain",
+        "composite": [
+          "Mark 6:23"
+        ],
+        "recurrenceRefs": [
+          "Ether 8:3"
+        ],
+        "provenance": {
+          "route": "Esther 5:3 → KJV → Book of Mormon, possibly through Mark 6:23, which is itself an allusion to Esther",
+          "other": "“the half of the kingdom” occurs in exactly three KJV verses, Esther 5:3, 5:6 and 7:2, and nowhere else; “half of my kingdom” occurs in exactly one, Mark 6:23. Ether 8:2 and 8:3 read “the half of the kingdom”, which is the Esther article, not Mark's possessive.",
+          "alternative": "mediation-check.py on Ether 8:2 against Esther 5:3 and Mark 6:23 reports no decisive divergence: the two candidates do not differ at any point Ether actually reproduces, so this verse cannot settle its own route and mediation is left uncertain. What can be said is that the four words Ether has are Esther's exact form, and that the chapter's narrative — a royal feast, a dancing daughter, and a man's head asked as the price — is Mark's. If the phrase came in through Mark 6:23 it was corrected back toward Mark's own Old Testament model on the way.",
+          "significance": "The half-kingdom offer is the KJV's formula for a king who has bound himself in advance to a request he has not yet heard, and in both of its biblical settings the request that follows is a death. Esther asks for Haman; Herodias's daughter asks for John's head. Ether 8 splits the formula in two and uses both halves: the half-kingdom is what Jared extorts at 8:2, and the head is what his daughter extorts at 8:10. Read metaleptically, the chapter has taken a single biblical bargain apart and distributed it across a father and a daughter, so that the reader who recovers either source recovers the other."
+        },
+        "note": "'He did flatter much people, because of his cunning words, until he had gained the half of the kingdom' — repeated at 8:3, 'when he had gained the half of the kingdom'. The phrase is not generic English: 'the half of the kingdom' is Esther's, three times over, and its only other KJV appearance is Mark 6:23's 'unto the half of my kingdom', which is the Herod feast this chapter is about to reproduce in detail. Ether inverts the transaction. In Esther and in Mark the half-kingdom is offered by a king to a woman he wishes to please; here it is taken from a king by a son who flatters a crowd. The 1830 reads 'much people' where 1920 reads 'many people'; the KJV's own idiom is 'much people' (Mark 6:34, in the same chapter as the feast), so the first edition is the more KJV-sounding of the two. Well below Skousen's sixteen-word threshold and not among his quotations.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "8:7": [
+      {
+        "source": "Matthew 4:8",
+        "type": "allusion",
+        "subtype": "paraphrase",
+        "confidence": "moderate",
+        "text": "Again, the devil taketh him up into an exceeding high mountain, and sheweth him all the kingdoms of the world, and the glory of them;",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 2,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 3,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Luke 4:6"
+        ],
+        "provenance": {
+          "route": "Matthew 4:8 → KJV → Book of Mormon",
+          "other": "“kingdoms of the world” occurs in four KJV verses, two of them the temptation (Matthew 4:8, Luke 4:5); “the glory of them” occurs in exactly two, and both are the temptation (Matthew 4:8, Luke 4:6). The pairing of kingdom with glory-of-the-world is therefore the devil's offer and almost nothing else.",
+          "alternative": "1 John 2:16's 'the pride of life' and Psalm 62:10's 'set not your heart upon them' are the other places the KJV warns against exactly this appetite, but neither supplies the two nouns together. Note also that Ether 3:25 already produced a temptation-scene candidate ('shewed unto him all', Luke 4:5) which this catalogue excluded as wrong-sense at that verse; the phrase lands here instead, where the sense fits.",
+          "significance": "Metalepsis in the strict sense: the missing half of the source is what the verse is about. Matthew 4:8-9 is not merely a list of what Jared wants, it is a transaction — the kingdoms and the glory are offered, by the devil, at the price of worship. Ether 8 spends the next nine verses showing how that price is paid: the oaths of 8:14 are sworn by heaven, earth and the swearers' own heads, and 8:16 says outright that they 'were kept up by the power of the devil'. The chapter's diagnosis of Jared is that he accepted the offer Christ refused, and the diagnosis is made by lending him the wording of the offer."
+        },
+        "note": "'He had set his heart upon the kingdom, and upon the glory of the world.' Matthew 4:8 has 'all the kingdoms of the world, and the glory of them'; Ether has the same two nouns in the same order with 'of the world' moved from the first to the second. The redistribution is what keeps this an allusion rather than a quotation — no clause survives intact — but the lexical stock is the temptation's and the KJV puts that stock nowhere else. What makes the case more than word-counting is that the chapter goes on to name the devil as the sponsor of the arrangement at 8:16 and 8:25, which is Matthew 4's speaker.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "8:10": [
+      {
+        "source": "Matthew 14:8",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "text": "And she, being before instructed of her mother, said, Give me here John Baptist’s head in a charger.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 1
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Mark 6:24",
+          "Mark 6:25",
+          "Mark 6:23"
+        ],
+        "recurrenceRefs": [
+          "Ether 8:12"
+        ],
+        "provenance": {
+          "route": "Matthew 14:6-11 / Mark 6:21-28 → KJV → Book of Mormon",
+          "other": "“the head of John” occurs in exactly two KJV verses (Mark 6:24, 6:25) and “in a charger” in exactly four, all of them this one story; the KJV has no other narrative in which a head is named as the price of a dance. Ether's 'bring unto me the head of my father, the king' has no KJV phrase-level match — 'bring me the head' occurs in exactly zero KJV verses — so the borrowing here is of the plot, not of a formula.",
+          "alternative": "The mother's part is redistributed. In Matthew 14:8 the girl is 'before instructed of her mother' and asks for what her mother wants; in Ether the daughter instructs the father and asks for the father's own enemy. Judith 12-13 is the other ancient beauty-and-a-head story, but it is outside the KJV canon and its head is taken, not asked for.",
+          "significance": "The suppressed correspondence is the identity of the victim. In the Gospels the head asked for is a prophet's, and the girl asks for it on her mother's account; in Ether the head asked for is the asker's own grandfather's, and she asks for it on her father's. The Book of Mormon has taken the most notorious murder-by-banquet in the New Testament and made it worse in exactly one respect — the killing is now inside the family — which is the point the chapter needs, because what is being founded here is not a single murder but a hereditary institution of them."
+        },
+        "note": "'I will dance before him, and I will please him, that he will desire me to wife; wherefore … then shall ye say, I will give her if ye will bring unto me the head of my father, the king.' Four elements of Matthew 14:6-11 arrive in the source's order: a girl who dances, a man pleased by the dance, a promise made on the strength of it, and a head demanded as payment. The verbal contact is concentrated at 8:11 (see the Matthew 14:6 entry there); what 8:10 supplies is the sequence, and the sequence is not otherwise available in the KJV. Note that Ether tells the plan before it happens and then narrates it again at 8:11-12, so the chapter runs the Gospel scene twice — a duplication that is itself evidence, since it is the plan and not merely the event that has to be borrowed.",
+        "bibliography": [],
+        "status": "majority",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "8:11": [
+      {
+        "source": "Matthew 14:6",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "But when Herod’s birthday was kept, the daughter of Herodias danced before them, and pleased Herod.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 1
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Mark 6:22"
+        ],
+        "provenance": {
+          "route": "Matthew 14:6 → KJV → Book of Mormon",
+          "other": "“danced before” occurs in exactly two KJV verses: 2 Samuel 6:14, where David dances before the LORD, and Matthew 14:6. “and pleased” occurs in exactly two, Matthew 14:6 and Mark 6:22, and both are this story. Only Matthew 14:6 has both, and Ether 8:11 has both. “danced before him” as a string occurs in exactly zero KJV verses, so the pronoun is Ether's own.",
+          "alternative": "Mark 6:22 supplies the same two verbs but separates them ('came in, and danced, and pleased Herod'); Matthew's 'danced before them, and pleased Herod' is the form Ether reproduces, and Matthew is also the only one of the two to use the preposition.",
+          "significance": "The other KJV verse that says 'danced before' is 2 Samuel 6:14, David before the ark — the one dance in scripture that is worship. Set the two occurrences side by side and the King James phrase turns out to cover the whole range: a man dancing before God with all his might, and a girl dancing before a king to get a man killed. Ether 8 takes the second and makes it the founding act of the Jaredite secret combinations, so that the institution which will destroy two civilisations begins, in the KJV's own vocabulary, as the inverse of David's worship."
+        },
+        "note": "'The daughter of Jared danced before him, that she pleased him, insomuch that he desired her to wife.' Against Matthew 14:6: 'the daughter of Herodias danced before them, and pleased Herod.' The frame is reproduced slot for slot — the-daughter-of-X danced before Y and pleased Y — with every referent substituted, which is precisely why this is catalogued as an allusion and not a quotation under CONVENTIONS §2: no clause survives with its own words intact, only with its own shape. It is well below Skousen's sixteen-word threshold and is not one of his quotations. The rarity is what carries it: the KJV uses 'danced before' twice in the whole Bible and 'pleased' after a dance once, and Ether has the one verse that contains both, in a chapter that has just asked for a head and is about to get it.",
+        "bibliography": [],
+        "status": "majority",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "8:13": [
+      {
+        "source": "Judges 15:12",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "text": "And they said unto him, We are come down to bind thee, that we may deliver thee into the hand of the Philistines. And Samson said unto them, Swear unto me, that ye will not fall upon me yourselves.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 2,
+          "context": 3,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "provenance": {
+          "route": "Judges 15:12 → KJV → Book of Mormon",
+          "other": "“swear unto me that ye will” occurs in exactly one KJV verse, Judges 15:12, though 'swear unto me' alone occurs in six. “his kinsfolks” occurs in exactly two KJV verses, 1 Kings 16:11 and 2 Kings 10:11, and in both the kinsfolk of a royal house are the ones being exterminated — the opposite of the role Akish's kinsfolk play here, which is why that coincidence is registered rather than catalogued (see the exclusion at 8:13).",
+          "alternative": "Genesis 21:23, Joshua 2:12 and 1 Samuel 30:15 are the other KJV oath-extractions, and each is a request for mercy from someone with the upper hand. Judges 15:12 is preferred on the six-word run, which is a KJV singleton.",
+          "significance": "The suppressed half of Judges 15:12 is what the oath is for. Samson makes his own tribesmen swear before he lets them bind him, and the content of the oath is that they will not kill him themselves — an oath extracted to guarantee a life. Akish uses the same formula on his own kindred to guarantee deaths, and the penalty clause at 8:14 makes the reversal explicit: whoever breaks this oath forfeits the head that Samson's oath was protecting."
+        },
+        "note": "'Will ye swear unto me that ye will be faithful unto me in the thing which I shall desire of you?' The six-word run 'swear unto me that ye will' is a KJV singleton, and its one home is Samson's demand of the men of Judah. The machine stream ranked this candidate first for the verse, which is unusual — the n-gram stream is a recall floor and rare boilerplate normally crowds the top (CONVENTIONS §9) — and here the run is not boilerplate: it is an oath formula with a person, a clause of content, and a specified beneficiary, all of which Ether keeps. What Ether adds is the secrecy: Samson states the terms of his oath in the same breath, and Akish will not state his until the swearing is done.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "8:14": [
+      {
+        "source": "Matthew 5:36",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "text": "Neither shalt thou swear by thy head, because thou canst not make one hair white or black.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Matthew 5:34",
+          "Matthew 5:35",
+          "Matthew 5:37",
+          "James 5:12"
+        ],
+        "provenance": {
+          "route": "Matthew 5:34-37 → KJV → Book of Mormon",
+          "other": "“by thy head” and “swear by thy head” each occur in exactly one KJV verse, Matthew 5:36. “neither by the earth” occurs in exactly one, James 5:12, and 'by the earth' in exactly two, Matthew 5:35 and James 5:12. Swearing by heaven and by earth is therefore available in two places; swearing by one's head is available in one, and Ether has it.",
+          "alternative": "James 5:12 gives heaven and earth in the same breath and is the other KJV prohibition of oaths, but it has no head, and it is the head that carries this verse. Matthew 23:16-22, the other oath passage, swears by the temple, the gold, the altar and heaven — none of which is here.",
+          "significance": "Matthew 5:34-36 forbids swearing by heaven, by the earth, by Jerusalem, and by your head, and gives a reason for each: heaven is God's throne, earth his footstool, Jerusalem the great King's city, and your head is not yours — 'thou canst not make one hair white or black.' Ether 8:14 collects three of the four, drops only the one a Jaredite could not use, and then supplies the missing reason itself: the head sworn by is forfeit, 'should lose his head.' The oath Jesus forbids because a man has no power over his own head is here sworn precisely by staking the head, and the head staked is duly collected: at Ether 9:5 the men bound by this oath 'obtained the head of his father-in-law, as he sat upon his throne'. Matthew 5:37's verdict on all such oaths, 'whatsoever is more than these cometh of evil', is what Ether 8:16 restates as doctrine: the oaths 'were kept up by the power of the devil'."
+        },
+        "note": "'They all sware unto him, by the God of Heaven, and also by the Heavens, and also by the earth, and by their heads.' Four objects of swearing in one clause, three of which are Matthew 5:34-36's in Matthew's own order — heaven, earth, head — with the fourth, Jerusalem, dropped, which is the only one of the four that a Jaredite oath in the New World could not plausibly use. 'By thy head' is a KJV singleton and it is not a natural English idiom that a writer would arrive at independently; the earth-and-heaven pair is available in James 5:12 as well, but the head is available in one verse only. That the chapter should build its oath out of the Sermon on the Mount's prohibition of oaths is the finding: this is the KJV's most explicit condemnation of swearing, quarried for the wording of the most consequential oath in the Book of Mormon. The machine streams did not see it — the shared material is three two-word phrases distributed across a long clause, which contiguous windows cannot reach (CONVENTIONS §9).",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "8:15": [
+      {
+        "source": "John 8:44",
+        "type": "quotation",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "Ye are of your father the devil, and the lusts of your father ye will do. He was a murderer from the beginning, and abode not in the truth, because there is no truth in him. When he speaketh a lie, he speaketh of his own: for he is a liar, and the father of it.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 4,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 1
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "recurrenceRefs": [
+          "Ether 8:25"
+        ],
+        "provenance": {
+          "route": "John 8:44 → KJV → Book of Mormon",
+          "other": "“a murderer from the beginning” occurs in exactly one KJV verse, John 8:44. So does “father the devil”, and so does “the father of it”, the phrase Ether reworks at 8:25 into 'the father of all lies'.",
+          "alternative": "1 John 3:12 is the KJV's other verse about Cain as a killer — 'not as Cain, who was of that wicked one, and slew his brother' — and it supplies the theology Ether 8:15 wants, Cain as the devil's man. But it supplies none of the words. Genesis 4:8 supplies the murder and none of the words either.",
+          "significance": "In John 8:44 the murderer from the beginning is the devil, and the sentence is Jesus telling opponents who their father is. Ether 8:15 hands the predicate to Cain instead — 'handed down even from Cain, who was a murderer from the beginning' — and then, ten verses later at 8:25, hands it back to the devil, 'that same liar which hath caused man to commit murder from the beginning'. The chapter has split John 8:44's two charges, murderer and liar, between the first human killer and his sponsor, and the split is what lets the chapter claim an unbroken chain of transmission from Eden to the Jaredites to Moroni's own Gentile readers. Whether 'who' at 8:15 refers to Cain or past Cain to the devil is left unresolved by the grammar, and the ambiguity is productive: John 8:44 is the verse that makes both readings the same reading."
+        },
+        "note": "'Which had been handed down even from Cain, who was a murderer from the beginning.' Five words reproduced exactly from a KJV singleton, in a clause whose subject has been changed from the devil to Cain. Catalogued as a quotation on the CONVENTIONS §2 rule rather than on length — it is far below Skousen's sixteen-word threshold and is not one of his thirty-six — because a complete predicate is reproduced verbatim from a verse that is unmistakably its source. The 1830 variant in this verse is elsewhere ('the oaths which was given by them of old', corrected to 'were' in 1920) and does not bear on the judgment. Note what the borrowing does to the chronology: a first-century sentence about the devil, spoken in the temple, is used to date the origin of Jaredite oath-craft to Cain, and the Book of Mormon's own doctrine of secret combinations — carried forward at Helaman 6:26-30 and back to 2 Nephi 2:18 — depends on it.",
+        "bibliography": [],
+        "status": "majority",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "8:22": [
+      {
+        "source": "Genesis 4:10",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "text": "And he said, What hast thou done? the voice of thy brother’s blood crieth unto me from the ground.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 1
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Revelation 6:10"
+        ],
+        "recurrenceRefs": [
+          "Ether 8:24"
+        ],
+        "provenance": {
+          "route": "Genesis 4:10 → KJV → Book of Mormon",
+          "other": "“blood crieth” occurs in exactly one KJV verse, Genesis 4:10, and “crieth unto me” in exactly two, of which the other (Exodus 22:27) is about a pledged garment. “from the ground” occurs in four, three of them Ezekiel's temple measurements. On the New Testament side, “avenge our blood” and “How long, O Lord” are each KJV singletons, and both are Revelation 6:10.",
+          "alternative": "mediation-check.py against Hebrews 12:24, the New Testament's one re-use of Abel's crying blood, returns a decisive result for Genesis: Ether has 'crieth … from the ground', not 'the blood of sprinkling, that speaketh better things than that of Abel'. So the Genesis form is direct, even though the second half of the verse is drawing on Revelation.",
+          "significance": "Two crying-blood passages stand at the two ends of the Christian canon, and Ether 8:22 fuses them. Genesis 4:10 is God's question to the first murderer; Revelation 6:9-10 is the martyrs under the altar asking how long before their blood is avenged, and receiving the answer that they must wait. Ether takes Abel's ground and Revelation's saints and adds the clause that neither source states outright — 'and yet he avengeth them not' — which is Revelation 6:10's unanswered 'How long' turned into a proposition. Recover both contexts and the verse is claiming that the delay of judgment on a nation that shelters secret combinations is the same delay the martyrs are told to endure: not indifference, but a stay."
+        },
+        "note": "'The blood of his saints, which shall be shed by them, shall always cry unto him from the ground for vengeance upon them, and yet he avengeth them not.' The spine is Genesis 4:10 — blood, crying, from the ground — in a chapter that has already named Cain at 8:15, so the Abel allusion arrives with its murderer already on the page. The saints and the vengeance are Revelation's: 'blood of the saints' is a KJV singleton at Revelation 17:6, and Revelation 6:10's martyrs cry for exactly the vengeance Ether says is withheld. The 1830 reads 'he avengeth them not' where 1920 reads 'avenge'; the 1830 form is the KJV's own third-person inflection and the later edition moved away from it, the reverse of the direction noted at 1 Nephi 1:20 (CONVENTIONS §8). The formula recurs two verses later — 'they cry from the dust for vengeance' — with 'ground' replaced by the Book of Mormon's own 'dust', which is Isaiah 29:4's word and the book's standing metaphor for its own voice.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "8:24": [
+      {
+        "source": "Mark 13:29",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "text": "So ye in like manner, when ye shall see these things come to pass, know that it is nigh, even at the doors.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 3,
+          "context": 4,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Matthew 24:33",
+          "Luke 21:31"
+        ],
+        "provenance": {
+          "route": "Mark 13:29 → KJV → Book of Mormon",
+          "other": "“when ye shall see these things” occurs in exactly one KJV verse, Mark 13:29; “see these things come” in exactly two, Mark 13:29 and Luke 21:31. Matthew 24:33 has the same sentence with 'all these things' and without 'come'. The six-word run Ether reproduces is therefore Mark's alone.",
+          "alternative": "Jeremiah 42:18's 'upon you, when ye shall' is a four-word run in a warning of judgment on a people who go down to Egypt, and it is the only Old Testament competitor; it has neither 'these things' nor the sign-recognition structure.",
+          "significance": "The suppressed half is the apodosis. In Mark 13:29 the sentence completes itself with 'know that it is nigh, even at the doors' — the sign means the end has arrived at the threshold. Ether 8:24 borrows the protasis and substitutes its own apodosis: when you see these things, 'awake to a sense of your awful situation'. The effect is to install the secret combination in the place the Olivet discourse reserves for the signs of the end, so that a Gentile nation which finds such a thing among itself is being told it is reading an eschatological sign, not a political problem."
+        },
+        "note": "'When ye shall see these things come among you, that ye shall awake to a sense of your awful situation.' Six words of Mark 13:29 in order, with 'to pass' replaced by 'among you' — a substitution that does real work, since it converts a sign observed at a distance into a condition found at home. The machine stream ranked this candidate first for the verse and was right, which is worth recording because it is not the usual pattern (CONVENTIONS §9). Confidence is held at moderate rather than high because the Olivet formula is common property across three Gospels and the Book of Mormon uses sign-recognition language freely; what points to Mark specifically is only the exact six-word string, and a writer reaching for the discourse from memory could land on it without meaning Mark.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "8:25": [
+      {
+        "source": "Genesis 3:13",
+        "type": "allusion",
+        "subtype": "conceptual",
+        "confidence": "moderate",
+        "text": "And the LORD God said unto the woman, What is this that thou hast done? And the woman said, The serpent beguiled me, and I did eat.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 2,
+          "sequence": 2,
+          "context": 5,
+          "rarity": 3,
+          "attestation": 2
+        },
+        "kjvSpecific": "uncertain",
+        "mediation": "uncertain",
+        "composite": [
+          "2 Corinthians 11:3",
+          "Revelation 12:9"
+        ],
+        "provenance": {
+          "route": "Genesis 3:13 → KJV → Book of Mormon, probably by way of 2 Nephi 2:18",
+          "other": "“beguiled” occurs in five KJV verses, of which two are the serpent's: Genesis 3:13, where Eve says 'The serpent beguiled me', and 2 Corinthians 11:3, 'as the serpent beguiled Eve through his subtilty'. The other three (Genesis 29:25, Numbers 25:18, Joshua 9:22) are Laban, Peor and the Gibeonites. 'First parents' is not a KJV phrase at all. The KJV-specificity is recorded as uncertain rather than yes for that reason: only one word of this link is King James English, 'beguiled', and at five KJV verses it is too widely distributed to fix a version; the phrase that carries the sense, 'our first parents', is not biblical English at all but the Book of Mormon's own, standing in thirteen of its verses from 1 Nephi 5:11 onward.",
+          "alternative": "mediation-check.py against Genesis 3:13 and 2 Corinthians 11:3 finds no decisive divergence — the two candidates do not differ at any word Ether reproduces — so this verse cannot settle its own route. The stronger consideration is internal. 2 Nephi 2:18 already reads 'that old serpent, which is the Devil, which is the father of all lies', and Ether 8:25 has 'the devil, which is the father of all lies; even that same liar which beguiled our first parents' — the same two clauses in the same order. Helaman 6:26-29 is closer still: 'that same being who did entice our first parents to partake of the forbidden fruit … that same being who did plot with Cain … and he hath brought it forth from the beginning of man', which is Ether 8:25's whole argument, in the same demonstrative construction ('that same being' / 'that same liar'), attached to the same three items — Eden, Cain, and the transmission of secret murder. 'Our first parents' is itself a Book of Mormon phrase and not a KJV one, standing in thirteen verses from 1 Nephi 5:11 onward. The proximate model is therefore the Book of Mormon's own editorial theology rather than either biblical verse directly, and mediation is recorded as uncertain for that reason. The epithet identifying the serpent as the devil is Revelation 12:9 and 20:2, not Genesis, so that identification also reaches Ether already made.",
+          "significance": "Hardy's apparatus cross-references Genesis 3:1-7 here, the temptation narrative itself; the verbal contact is six verses further on, at Genesis 3:13, which is the verse in which the deception is named as deception — and named by its victim. That matters for what Ether 8:25 is doing. The chapter is building a genealogy of the secret combination that runs devil → Eden → Cain → 'them of old' → the Jaredites → the Gentiles, and each stage is attested by a scriptural sentence rather than a narrative: 'beguiled' from Eve's confession, 'a murderer from the beginning' from John 8:44, 'the prophets, and stoned them' from Matthew 23:37. The verse is a chain of citations offered as a chain of custody."
+        },
+        "note": "'For it is built up by the devil, which is the father of all lies; even that same liar which beguiled our first parents.' The word that carries the link is 'beguiled', which the KJV gives to the serpent twice and to nobody else who matters. Ether generalises Eve's 'beguiled me' to 'beguiled our first parents', which is neither Genesis's singular nor Paul's 'Eve' — a widening that fits the chapter's argument, since what is at stake is the origin of a practice binding on all descendants and not the guilt of one person. Catalogued at moderate: the vocabulary is thin, one word plus a shared referent, and the proximate model is probably 2 Nephi 2:18 and Helaman 6:26-27 rather than either biblical verse (see provenance). Status is 'majority' rather than 'novel' because the association is Hardy's too — his apparatus cross-references Genesis 3 at this verse — and the catalogue's contribution is only to say where in Genesis 3 the wording is. Recorded partly to discharge Hardy's cross-reference to Genesis 3 at this verse, and to say where in Genesis 3 the wording actually is.",
+        "bibliography": [
+          "Hardy MSI at Ether 8.25 (Genesis 3:1-7, Genesis 4:1-12)"
+        ],
+        "status": "majority",
+        "citationsPending": false,
+        "streams": [
+          "manual"
+        ]
+      },
+      {
+        "source": "John 8:44",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "Ye are of your father the devil, and the lusts of your father ye will do. He was a murderer from the beginning, and abode not in the truth, because there is no truth in him. When he speaketh a lie, he speaketh of his own: for he is a liar, and the father of it.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 1
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "John 8:44 → KJV → Book of Mormon, with 2 Nephi 2:18 as the likely proximate model for 'the father of all lies'",
+          "other": "Three phrases of this one verse are KJV singletons: 'father the devil', 'a murderer from the beginning', and 'the father of it'. Ether 8:25 reproduces the first two and rewrites the third. 'Father of all lies' occurs in exactly zero KJV verses and in exactly two Book of Mormon verses, 2 Nephi 2:18 and here.",
+          "alternative": "Revelation 12:9 and 20:2 supply 'that old serpent, which is the Devil', and 2 Nephi 2:18 joins that epithet to 'the father of all lies'; the Book of Mormon's stock phrase is therefore a fusion made before Ether 8, and this verse inherits it. What Ether 8:25 adds on its own account is the murder half, which is John 8:44's and is already in play at 8:15.",
+          "significance": "John 8:44 charges the devil with two things in one breath — he was a murderer from the beginning, and he is a liar and the father of it — and Ether 8:25 is the only place in scripture, biblical or Book of Mormon, where both charges are laid in a single sentence and made the explanation of a political institution. The verse reads as an exposition of John 8:44 rather than a quotation of it: the lying accounts for Eden, the murder accounts for Cain, and the combination of the two accounts for a conspiracy that lies in order to kill. Read metaleptically, the suppressed context is Jesus telling his hearers whose children they are — which is exactly the accusation Moroni is about to level at the Gentile reader in 8:23-24."
+        },
+        "note": "The second draw on John 8:44 in ten verses (see 8:15). Here the verse supplies both of its predicates at once: 'built up by the devil, which is the father of all lies' answers 'he is a liar, and the father of it', and 'that same liar which hath caused man to commit murder from the beginning' answers 'he was a murderer from the beginning' — with one telling change, that the devil no longer murders but causes man to murder, which is what a doctrine of transmitted oaths requires. The recurrence is the argument for high confidence: a single distant echo of a famous verse proves little, but a chapter that uses the same verse twice, for two different links in the same chain of descent, is using it deliberately. Note also that 'that same liar' is repeated twice within the verse, a demonstrative anaphora with no antecedent in Ether — the antecedent is John 8:44.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      },
+      {
+        "source": "Matthew 23:37",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "O Jerusalem, Jerusalem, thou that killest the prophets, and stonest them which are sent unto thee, how often would I have gathered thy children together, even as a hen gathereth her chickens under her wings, and ye would not!",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Luke 13:34",
+          "Acts 7:52"
+        ],
+        "recurrenceRefs": [
+          "1 Nephi 1:20",
+          "Helaman 13:25",
+          "Helaman 13:33",
+          "3 Nephi 8:25"
+        ],
+        "provenance": {
+          "route": "Matthew 23:37 → KJV → Book of Mormon, but reaching Ether 8:25 through the Book of Mormon's own earlier uses of the formula (1 Nephi 1:20; Helaman 13:25, 13:33; 3 Nephi 8:25) rather than freshly from Matthew",
+          "other": "“killest the prophets” and “stonest them” each occur in exactly two KJV verses, Matthew 23:37 and Luke 13:34, and nowhere else. The word 'murdered' occurs in exactly zero KJV verses — the King James Bible has 'murder', 'murderer', 'murderers' and 'murders' but never the past participle — so Ether's 'murdered the prophets' is not a KJV phrase at all, and the substitution of 'murdered' for 'killest' is the Book of Mormon's own, made in a chapter whose subject is murder.",
+          "alternative": "Acts 7:52-58 is the serious competitor and should be recorded as such: Stephen's speech has the prophets persecuted and slain, calls his hearers 'murderers', and ends four verses later with 'cast him out of the city, and stoned him' — which supplies the third member of Ether's triad, 'cast them out', that Matthew 23:37 does not have. The catalogue prefers Matthew because the two-word sequence 'the prophets, and stoned them' matches Matthew's 'the prophets, and stonest them' exactly in order and in construction, while Acts 7:58's casting out and stoning are done to Stephen and in the reverse order.",
+          "significance": "MEDIATION, FLAGGED FOR WILSON. The route here is the shape the enum cannot express: a New Testament source reaching a verse through an earlier Book of Mormon passage. The triad is a fixed Book of Mormon formula before Ether 8 ever uses it — 1 Nephi 1:20, 'the prophets of old, whom they had cast out and stoned and slain'; Helaman 13:25, 'ye would not have slain the prophets; ye would not have stoned them, and cast them out'; Helaman 13:33 and 3 Nephi 8:25, both 'killed the prophets, and stoned them, and cast them out' — and Ether 8:25 is its last occurrence, in Moroni's editorial voice, with the whole record in front of him. Recorded as 'direct-NT' because the ultimate source is Matthew 23:37 and there is no enum value for the actual route; 'uncertain' would understate what is known, which is a great deal. Compare 1 Nephi 4:14, where this catalogue stretched 'OT-via-earlier-BoM' over the same shape and flagged the name as wrong; the two rows should be reconciled when the enum is fixed, and the value wanted in both places is 'via-earlier-BoM'. Metaleptically the borrowing is doing what the formula always does in this book: Matthew 23:37 is a lament over a city about to be destroyed for what it did to its prophets, and every Book of Mormon use of it stands next to a destruction — Jerusalem's at 1 Nephi 1, Zarahemla's at Helaman 13 and 3 Nephi 8, and here the Jaredites' and the Nephites' together, with the Gentile reader named as the next candidate."
+        },
+        "note": "'Which hath hardened the hearts of men, that they have murdered the prophets, and stoned them, and cast them out from the beginning.' Matthew 23:37 has 'thou that killest the prophets, and stonest them which are sent unto thee' — the noun, the conjunction and the second verb in Ether's order, from a phrase the KJV uses in two verses only. Ether changes the first verb to 'murdered', a word the King James Bible never uses, and adds a third member, 'cast them out'. Both changes are the Book of Mormon's own and both are older than this verse: the triad is standing formula by Helaman 13, and Moroni is reciting it rather than reaching for Matthew. That is the finding, and it is why the mediation field is flagged rather than answered — see provenance.significance. What the formula contributes to the chapter is its last link: the same devil who lied in Eden and taught Cain to kill is now the author of the killing of prophets, which is the Book of Mormon's standing indictment of the societies it watches collapse.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "8:26": [
+      {
+        "source": "Genesis 6:5",
+        "type": "echo",
+        "subtype": "possible",
+        "confidence": "low",
+        "text": "And God saw that the wickedness of man was great in the earth, and that every imagination of the thoughts of his heart was only evil continually.",
+        "evidence": {
+          "vocabulary": 2,
+          "syntax": 2,
+          "sequence": 2,
+          "context": 4,
+          "rarity": 3,
+          "attestation": 0
+        },
+        "kjvSpecific": "uncertain",
+        "mediation": "direct-OT",
+        "provenance": {
+          "route": "Genesis 6:5 → KJV → Book of Mormon, if at all",
+          "other": "“only evil continually” occurs in exactly one KJV verse, Genesis 6:5. “do good continually” occurs in exactly zero KJV verses and in five Book of Mormon verses (Mosiah 5:2, Alma 41:14, Alma 63:2, Ether 8:26, Moroni 7:13), two of them Moroni's own.",
+          "alternative": "Psalm 14:1 and 53:1, 'there is none that doeth good', are the other KJV sentences that make continual well-doing the thing humanity fails at, but neither has 'continually' and neither is antediluvian.",
+          "significance": "If the echo is real it closes the chapter where it opened. Ether 8 traces the secret combinations to Cain and to the devil who taught him, and Genesis 6:5 is the verdict that closes that same antediluvian sequence in Genesis — the wickedness of man was great, and the imagination of the thoughts of his heart was only evil continually, which is the sentence that brings the flood. Moroni ends by praying for the opposite of it, hearts free of Satan and men persuaded to do good continually, and the reader who hears Genesis 6:5 underneath hears what the alternative is."
+        },
+        "note": "'That satan may have no power upon the hearts of the children of men, but that they may be persuaded to do good continually.' The proposal is that this is Genesis 6:5 inverted: the hearts of men, and a moral quality held continually, with 'only evil' turned into 'good'. Recorded at low confidence and openly as a guess.",
+        "whyNot": "'Do good continually' is Moroni's own idiom and the Book of Mormon's before him — it stands at Mosiah 5:2, Alma 41:14, Alma 63:2 and Moroni 7:13, where Moroni uses it of that which is of God 'inviteth and enticeth to do good continually'. A phrase a writer uses five times across the book is his own vocabulary, and the simplest account of Ether 8:26 is that he reached for it here as he does elsewhere, with no Genesis behind it. Nothing but the adverb is shared with Genesis 6:5, and 'continually' is common in the KJV. A reader who declines this link is not making a mistake.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,182 @@
+[
+  {
+    "bomRef": "4 Nephi 1:1",
+    "source": "Acts 5:40",
+    "category": "formulaic",
+    "sharedText": "in the name of Jesus",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "A six-word run and the top-ranked candidate for the verse. “in the name of Jesus” is the King James formula for apostolic action and 4 Nephi 1:1 and 1:5 use it as such — baptized in the name of Jesus, miracles worked in nothing save the name of Jesus. Acts 5:40 is the Sanhedrin forbidding the apostles to speak in that name, which is a prohibition, not a practice; nothing else of the verse is present. The corpus uses the phrase continuously from 3 Nephi onward and cannot be borrowing it from the one verse the n-gram stream happened to rank."
+  },
+  {
+    "bomRef": "4 Nephi 1:2",
+    "source": "Ezekiel 34:6",
+    "category": "formulaic",
+    "sharedText": "upon all the face of the",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "A six-word run, and a standing exclusion covers it: 'upon all the face of the earth/land' is Book of Mormon connective tissue used at 1:2, 1:23 and 1:46 of this chapter alone. Ezekiel 34:6 is a scattering oracle and 4 Nephi 1:2 is a conversion notice; the shared words are a preposition, an article and a noun."
+  },
+  {
+    "bomRef": "4 Nephi 1:3",
+    "source": "Revelation 13:16",
+    "category": "wrong-sense",
+    "sharedText": "rich and poor ... free and bond",
+    "streams": [
+      "manual"
+    ],
+    "reason": "A tempting entry and it has to be written out, because a reader who finds it will assume the catalogue missed it. 4 Nephi 1:3 abolishes two social pairs in one clause — 'there were not rich and poor, bond and free' — and the King James Bible pairs those same two pairs in exactly one verse: “rich and poor” occurs in exactly three KJV verses, and Revelation 13:16 is the only one that continues 'free and bond'. But the order is inverted (the Book of Mormon's own “bond and free” occurs in exactly zero KJV verses), the context is opposed at the only point that matters — Revelation enumerates the categories in order to say the beast marks every one of them, 4 Nephi enumerates them in order to say they ceased to exist — and Revelation 13:16's actual subject, the mark in the right hand or forehead, has no counterpart here. The idea's real King James home is Galatians 3:28, where “bond nor free” is abolished and 'ye are all one in Christ Jesus'; that verse is recorded as a composite on the Acts 4:32 row and its 'all one' resurfaces at 1:17."
+  },
+  {
+    "bomRef": "4 Nephi 1:10",
+    "source": "Exodus 1:7",
+    "category": "insufficient-verbal",
+    "sharedText": "multiplied ... waxed exceeding",
+    "streams": [
+      "manual"
+    ],
+    "reason": "Typology pulls hard and the wording will not quite bear it. A covenant people multiplying rapidly in a land after a deliverance is Exodus 1:7 — 'the children of Israel were fruitful, and increased abundantly, and multiplied, and waxed exceeding mighty' — and 4 Nephi 1:10 reads 'did wax strong, and did multiply exceeding fast'. The elements are all there and none of them is contiguous: “waxed exceeding” occurs in exactly two KJV verses, Exodus 1:7 and Daniel 8:9, and the Book of Mormon has neither, splitting 'wax' onto 'strong' and 'exceeding' onto 'fast'. tools/mediation-check.py was run against the New Testament form, Acts 7:17 ('the people grew and multiplied in Egypt'), and returned one decisive point for Exodus on the strength of 'waxed exceeding' — but that is the very phrase the Book of Mormon does not reproduce, so the verdict decides between two candidates neither of which is demonstrably present. Recorded so that a reader who sees the Exodus pattern is told the catalogue saw it and declined it."
+  },
+  {
+    "bomRef": "4 Nephi 1:12",
+    "source": "1 Corinthians 7:5",
+    "category": "wrong-sense",
+    "sharedText": "fasting and prayer",
+    "streams": [
+      "manual"
+    ],
+    "reason": "The model case for this category in the chapter. “fasting and prayer” occurs in exactly one KJV verse and 4 Nephi 1:12 has it exactly: 'continuing in fasting and prayer'. A singleton match on a devotional phrase in a devotional verse looks decisive until the source verse is read. 1 Corinthians 7:5 is Paul on conjugal duty — 'Defraud ye not one the other, except it be with consent for a time, that ye may give yourselves to fasting and prayer; and come together again, that Satan tempt you not for your incontinency.' The phrase names a temporary abstention from marriage, and 'come together again' in that verse means resuming it. 4 Nephi 1:12 uses the same three words for a congregation's ordinary devotion and then says they were 'meeting together oft'. The collocation of fasting with prayer is unavoidable in English and the Book of Mormon uses it throughout; the singleton is an accident of the KJV's preferring 'prayer and fasting' everywhere else."
+  },
+  {
+    "bomRef": "4 Nephi 1:13",
+    "source": "Esther 3:8",
+    "category": "common-vocabulary",
+    "sharedText": "the people in all the",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "A five-word run made entirely of articles, a preposition and 'people'. Esther 3:8 is Haman denouncing a scattered people to Ahasuerus; 4 Nephi 1:13 is a peace notice. Nothing content-bearing is shared."
+  },
+  {
+    "bomRef": "4 Nephi 1:15",
+    "source": "Romans 8:39",
+    "category": "better-source-identified",
+    "sharedText": "the love of God which",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "The machine's proposal for the verse, on a four-word run, and it is superseded. “the love of God” occurs in exactly twelve KJV verses, so the phrase alone points nowhere; what the Book of Mormon adds is the verb, and “dwelleth the love of God” occurs in exactly one KJV verse, 1 John 3:17, where the love of God dwelling in a man is tested by whether he shares his goods with a brother in need. Romans 8:39's love of God is the love from which nothing can separate us — a different proposition, in a different grammatical relation, with no dwelling in it. The link is written at this verse to 1 John 3:17."
+  },
+  {
+    "bomRef": "4 Nephi 1:18",
+    "source": "Revelation 21:1",
+    "category": "wrong-sense",
+    "sharedText": "passed away and there was no",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "A six-word run and the highest-scoring candidate for the verse, and it is an artifact of two independent formulas colliding. 4 Nephi dates every paragraph by years that pass away and denies contention in every one of its golden-age verses, so 'passed away, and there was no contention' is simply those two habits meeting. Revelation 21:1's 'were passed away; and there was no more sea' is the dissolution of the first heaven and the first earth. The senses are not merely different but incompatible: in Revelation the passing away is the end of the old order and the beginning of the new, in 4 Nephi it is the calendar. Worth the entry because 4 Nephi 1:18 is also the verse in which the first generation from Christ passes away, which makes the eschatological reading momentarily attractive."
+  },
+  {
+    "bomRef": "4 Nephi 1:19",
+    "source": "1 Chronicles 19:1",
+    "category": "formulaic",
+    "sharedText": "died and his son ... in his stead",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "“in his stead” occurs in exactly seventy-three KJV verses and is the King James Bible's standing succession formula, almost always 'reigned in his stead'. 4 Nephi 1:19-21 and 1:47 use it four times for a succession of record-keepers rather than kings — 'kept it in his stead', 'kept the record in his stead' — which is a genuine adaptation of a regnal formula to a scribal one, and worth noticing, but it is not dependence on 1 Chronicles 19:1 or on any other single verse. This entry covers every 'in his stead' candidate in the chapter."
+  },
+  {
+    "bomRef": "4 Nephi 1:26",
+    "source": "James 4:13",
+    "category": "better-source-identified",
+    "sharedText": "get gain",
+    "streams": [
+      "manual"
+    ],
+    "reason": "“get gain” occurs in exactly one KJV verse, James 4:13, and 4 Nephi 1:26's 'churches unto themselves, to get gain' will attract the candidate. The catalogue adjudicated the phrase at Alma 11:20 and filed a standing exclusion there and at 3 Nephi 29:7; the reasoning is unchanged here. James 4:13 is about merchants presuming on tomorrow, and the Book of Mormon uses 'get gain' as a fixed idiom for priestcraft from 2 Nephi 26:29 onward. A reader of this verse is sent to Alma 11:20."
+  },
+  {
+    "bomRef": "4 Nephi 1:27",
+    "source": "Leviticus 6:5",
+    "category": "formulaic",
+    "sharedText": "unto him to whom it",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "A five-word run of function words. Leviticus 6:5 is restitution law — restoring a thing 'unto him to whom it appertaineth' — and 4 Nephi 1:27 is about administering what is sacred 'unto him to whom it had been forbidden'. The two clauses are opposite in force, one about restoring property to its owner and one about giving holy things to a man debarred from them, and share no content word."
+  },
+  {
+    "bomRef": "4 Nephi 1:30",
+    "source": "Acts 16:26",
+    "category": "better-source-identified",
+    "sharedText": "the prisons were rent in twain",
+    "streams": [
+      "manual"
+    ],
+    "reason": "A real borrowing, adjudicated elsewhere. 'The prisons were rent in twain' fuses Matthew 27:51's phrase with Acts 16's episode, and the argument is made in full at Alma 14:27, where prison walls fall on the men who built them; 3 Nephi 28:19 records it re-entering in Mormon's hand for these same three disciples. 4 Nephi 1:30 is Mormon narrating that episode a second time within a few pages, in the same hand, so the row is a cross-reference rather than a third link. A reader of this verse is sent to Alma 14:27 and 3 Nephi 28:19."
+  },
+  {
+    "bomRef": "4 Nephi 1:31",
+    "source": "Joshua 11:20",
+    "category": "better-source-identified",
+    "sharedText": "harden their hearts",
+    "streams": [
+      "manual"
+    ],
+    "reason": "“harden their hearts” occurs in exactly one KJV verse, Joshua 11:20, and “hardened their heart” occurs in exactly one KJV verse, John 12:40 — which is genuinely awkward here, because the rest of 4 Nephi 1:31 is drawn from John 7:1 and John 12:37 and the John 12:40 form would complete the set. The Book of Mormon's plural 'hearts' matches Joshua, not John, and hardening of hearts is standing Book of Mormon idiom under a standing exclusion filed at 3 Nephi 1:22 and 3 Nephi 21:6. The catalogue therefore declines to press the John 12:40 contact and says so on the link at this verse: mediation for the hardening clause specifically is left undecided rather than resolved by the company it keeps."
+  },
+  {
+    "bomRef": "4 Nephi 1:34",
+    "source": "Joshua 11:20",
+    "category": "better-source-identified",
+    "sharedText": "harden their hearts",
+    "streams": [
+      "manual"
+    ],
+    "reason": "The second occurrence in four verses, within one chapter; the standing exclusion at 3 Nephi 1:22 and the entry at 4 Nephi 1:31 cover it. Recorded so the register's coverage of the phrase in this chapter is complete."
+  },
+  {
+    "bomRef": "4 Nephi 1:46",
+    "source": "Genesis 41:56",
+    "category": "formulaic",
+    "sharedText": "over all the face of the",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "A six-word run and the same standing formula excluded at 1:2. Genesis 41:56 is the famine over all the face of the earth; the Book of Mormon uses the phrase for the spread of the Gadianton robbers. Nothing but the prepositional formula is shared."
+  },
+  {
+    "bomRef": "4 Nephi 1:47",
+    "source": "Daniel 12:12",
+    "category": "formulaic",
+    "sharedText": "three hundred and five",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "A four-word run and pure numeral. 4 Nephi dates by years from the coming of Christ in almost every verse, and 'three hundred and five' happens to coincide with the first four words of Daniel 12:12's 'thousand three hundred and five and thirty days'. The parallel is arithmetic, and the same reasoning was filed against 1 Chronicles 26:31 at Helaman 1:1. This entry covers every regnal- or year-numeral candidate in the chapter."
+  },
+  {
+    "bomRef": "4 Nephi 1:48",
+    "source": "Job 32:18",
+    "category": "insufficient-verbal",
+    "sharedText": "the spirit ... constraineth",
+    "streams": [
+      "manual"
+    ],
+    "reason": "'Ammaron, being constrained by the Holy Ghost' invites two candidates and takes neither. “constraineth” occurs in exactly two KJV verses: Job 32:18, 'the spirit within me constraineth me', which is Elihu compelled to speak, and 2 Corinthians 5:14, 'the love of Christ constraineth us'. Job's is the closer, pairing a spirit with the verb, but the Book of Mormon's participle is passive where Job's verb is active, the constraint in Job is toward speech where Ammaron's is toward concealment, and the corpus uses 'constrained by the Spirit' as its own idiom elsewhere. Two words in a different voice and an opposed action."
+  },
+  {
+    "bomRef": "4 Nephi 1:49",
+    "source": "Micah 5:8",
+    "category": "better-source-identified",
+    "sharedText": "remnant of the house of Jacob",
+    "streams": [
+      "manual"
+    ],
+    "reason": "“remnant of Jacob” occurs in exactly three KJV verses, Isaiah 10:21, Micah 5:7 and Micah 5:8, and “remnant of the house of” occurs in exactly three, none of them with Jacob. The formula reaches 4 Nephi through this corpus's own transcription of Micah 5:8, which is adjudicated at 3 Nephi 16:14, 3 Nephi 20:16 and 3 Nephi 21:12; by the time Ammaron hides the records it is settled Book of Mormon vocabulary for the covenant people's future. A reader of this verse is sent to 3 Nephi 20:16."
+  }
+]

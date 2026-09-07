@@ -1,0 +1,102 @@
+[
+  {
+    "bomRef": "Mormon 2:1",
+    "source": "1 Samuel 9:2",
+    "category": "better-source-identified",
+    "sharedText": "(the young leader of great stature)",
+    "streams": [
+      "manual"
+    ],
+    "reason": "‘And notwithstanding I being young, was large in stature, therefore the people of Nephi appointed me that I should be their leader.’ The King James Bible has a type-scene here — the young man of exceptional build who is made head of the nation's armies, Saul ‘higher than any of the people from his shoulders and upward’ (1 Samuel 9:2), David going out against the Philistine while Saul asks ‘whose son is this youth?’ (1 Samuel 17:55) — and the machine offered the second of those at Mormon 2:27 on the run ‘go forth against the’. Neither verse supplies a word of Mormon 2:1. The phrase the verse actually uses is not biblical at all: ‘large in stature’ is in no KJV verse, and it occurs three times in the Book of Mormon, at 1 Nephi 2:16 and 4:31 of Nephi and here of Mormon. The model is internal, and it is 1 Nephi 4:31 specifically — ‘a man large in stature, and also having received much strength of the Lord’ — because the other half of that self-description turns up twenty-five verses later at Mormon 2:26, in the negative. The borrowing is adjudicated there, at the Isaiah 14:10 row; a reader who arrives at 2:1 expecting Saul or David should be sent to it."
+  },
+  {
+    "bomRef": "Mormon 2:3",
+    "source": "2 Kings 12:6",
+    "category": "formulaic",
+    "sharedText": "that in the three",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "A four-word run that ranked twice in this chapter, at 2:3 and again at 2:16, and both times it is the Book of Mormon's regnal-style dating formula colliding with the KJV's. 2 Kings 12:6 dates the repair of the temple to ‘the three and twentieth year of king Jehoash’; Mormon 2:3 and 2:16 date battles to ‘the three hundred and twenty and seventh year’ and ‘the three hundred and forty and fifth year’. Mormon 2 dates itself this way seven times (2:2, 2:3, 2:9, 2:15, 2:16, 2:22, 2:28), which is by itself proof that the formula is the book's own habit and not a reach for the one KJV verse that shares four of its words. This entry covers every ‘in the three hundred and Nth year’ candidate in the chapter."
+  },
+  {
+    "bomRef": "Mormon 2:4",
+    "source": "1 Kings 21:15",
+    "category": "formulaic",
+    "sharedText": "take possession of the",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "The candidate scores on three overlapping four-word windows and two of them are ‘and it came to’ and ‘it came to pass’, which the standing exclusion at 1 Nephi 1:5 already covers. What is left is ‘take possession of the’, Jezebel telling Ahab to go down and take Naboth's vineyard now that Naboth is dead. Mormon 2:4 is an army occupying a city it will be driven out of in the same verse, and the same phrase returns at 2:27 for the recovery of the lands of inheritance; it is ordinary English for seizing property and points at nothing."
+  },
+  {
+    "bomRef": "Mormon 2:6",
+    "source": "Jeremiah 40:12",
+    "category": "formulaic",
+    "sharedText": "and came to the land of",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "A six-word run, and a travel formula on both ends. Jeremiah 40:12 is the scattered Jews returning to Judah under Gedaliah; Mormon 2:6 is a defeated army marching to the land of Joshua on the west seashore. ‘Came to the land of’ is how the KJV moves people between places and how the Book of Mormon does the same; nothing else of Jeremiah 40 is present. Worth noting only because this chapter really does draw on Jeremiah — three times, at 2:15 twice and 2:27 — and none of it is here."
+  },
+  {
+    "bomRef": "Mormon 2:7",
+    "source": "Romans 12:4",
+    "category": "wrong-sense",
+    "sharedText": "in one body",
+    "streams": [
+      "manual"
+    ],
+    "reason": "‘We did gather in our people as fast as it were possible, that we might get them together in one body.’ “in one body” occurs in exactly three KJV verses — Romans 12:4, Ephesians 2:16 and Colossians 3:15 — and all three are Paul's ecclesial figure, the church as a single body with many members, in Ephesians reconciled to God ‘by the cross’. Mormon 2:7 is a military concentration: an army gathering its scattered people into one place before the enemy arrives. The phrase is identical and the referent is opposed — Paul's one body is made out of people who were not one, Mormon's is a defensive formation. The same clause recurs at 2:21 with ‘as much as it were possible’ and the same reason applies."
+  },
+  {
+    "bomRef": "Mormon 2:8",
+    "source": "Exodus 1:7",
+    "category": "better-source-identified",
+    "sharedText": "the land was filled with",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "A five-word run and the highest-scoring candidate in the first half of the chapter, and it is the right string on the wrong scene. Exodus 1:7 is Israel multiplying in Egypt — ‘fruitful, and increased abundantly, and multiplied, and waxed exceeding mighty; and the land was filled with them’ — which is a blessing and the beginning of a nation. Mormon 2:8 is ‘the land was filled with robbers and with Lamanites’ followed by ‘blood and carnage spread throughout all the face of the land’, which is the end of one. The verse the wording and the scene both point at is Genesis 6:11, ‘the earth was filled with violence’, and the link is catalogued there; “filled with violence” occurs in exactly two KJV verses, Genesis 6:11 and 6:13."
+  },
+  {
+    "bomRef": "Mormon 2:12",
+    "source": "Acts 22:17",
+    "category": "formulaic",
+    "sharedText": "and it came to pass that when",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "An eight-word run, the longest in the chapter, and it is entirely ‘and it came to pass that when’ — the standing exclusion at 1 Nephi 1:5. The same window ranks again at 2:26 against Amos 7:2 with a nine-word run. Neither Paul's trance in the temple nor Amos's locusts has anything else in common with Mormon 2. Recorded once, at length, because a run this long looks like evidence and is not: the n-gram stream is a recall floor, not a ranking (CONVENTIONS §9), and in this chapter its two longest runs are both boilerplate while the two strongest links in the chapter — Nehemiah 4:14 at 2:23 and Isaiah 14:10 at 2:26 — scored nothing at all. This entry covers the Acts 22:17, Amos 7:2, Jeremiah 13:11, Genesis 40:16, Daniel 6:26, 2 Samuel 17:17, Revelation 10:8, 1 Samuel 13:11, Acts 27:39, Job 10:21 and Daniel 9:20 candidates in this chapter, all of which rank on connective boilerplate alone."
+  },
+  {
+    "bomRef": "Mormon 2:19",
+    "source": "Jeremiah 44:3",
+    "category": "better-source-identified",
+    "sharedText": "because of their wickedness",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "A four-word run that ranks at both 2:19 and 2:27, and it is a real content phrase, which is why it needs an entry rather than silence. Jeremiah 44:3 is the LORD's charge against the Judahites in Egypt — ‘Because of their wickedness which they have committed to provoke me to anger, in that they went to burn incense’ — a specific indictment of a specific idolatry. Mormon uses the phrase twice as the ground of his own grief, not of God's anger: ‘wo is me, because of their wickedness: for my heart has been filled with sorrow because of their wickedness’. The chapter's genuine Jeremiah contacts are elsewhere and are catalogued: Jeremiah 45:3 at this verse, for the lament, and Jeremiah 16:4 and 8:20 at 2:15. Jeremiah 44 is not among them."
+  },
+  {
+    "bomRef": "Mormon 2:23",
+    "source": "2 Chronicles 20:13",
+    "category": "better-source-identified",
+    "sharedText": "their wives, and their children",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "The machine's best candidate in the second half of the chapter, on a five-word run, and it is displaced by a better one. 2 Chronicles 20:13 is Judah standing before the LORD to pray before Jehoshaphat's battle, ‘with their little ones, their wives, and their children’ — a congregation, not a muster, and no one in it is told to fight. Mormon 2:23 is an exhortation to fight, and the KJV verse that exhorts men to fight for that list is Nehemiah 4:14, where “your wives, and your houses” occurs in exactly one KJV verse. The link is catalogued there, with the argument from the ‘houses … homes’ doublet."
+  },
+  {
+    "bomRef": "Mormon 2:26",
+    "source": "Deuteronomy 7:7",
+    "category": "wrong-sense",
+    "sharedText": "the LORD did not",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "Four words, and the senses are opposed on the point the verse turns on. Deuteronomy 7:7 explains why the LORD chose Israel although they were ‘the fewest of all people’: election is not a reward for strength. Mormon 2:26 explains why a Nephite army that had just stood against fifty thousand with thirty thousand, and driven them, was nonetheless finished — ‘the strength of the Lord was not with us: yea, we were left to ourselves’. Deuteronomy denies that numbers matter to a people God has chosen; Mormon reports what happens to a people God has stopped upholding. The verse's real sources are Isaiah 14:10 and, behind it, Judges 16, and they are catalogued at this verse."
+  }
+]

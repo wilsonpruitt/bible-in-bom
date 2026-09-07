@@ -1,0 +1,62 @@
+[
+  {
+    "bomRef": "Mormon 1:2",
+    "source": "Acts 8:23",
+    "category": "wrong-sense",
+    "sharedText": "I perceive that thou art",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "The second of the two KJV verses that read “I perceive that thou art” — the phrase occurs in exactly 2, John 4:19 and this one — and it ranked because a five-word run is a five-word run. It is the wrong one, and the register should say why rather than leave a reader to wonder whether we noticed it. Acts 8:23 is Peter's sentence of judgment on Simon Magus: 'For I perceive that thou art in the gall of bitterness, and in the bond of iniquity.' “gall of bitterness” occurs in exactly one KJV verse. Ammaron's clause is the opposite act — an old man commissioning a child he judges fit to keep the national record — and its grammar is different besides. John 4:19 completes the phrase with an article and a character noun, 'a prophet', which is exactly what Mormon 1:2 does with 'a sober child'; Acts 8:23 completes it with a prepositional phrase. The link is filed at this verse to John 4:19."
+  },
+  {
+    "bomRef": "Mormon 1:3",
+    "source": "1 Kings 15:33",
+    "category": "formulaic",
+    "sharedText": "twenty and four years",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "A four-word run and a genuine KJV singleton — “twenty and four years” occurs in exactly one KJV verse — which is precisely why it needs an entry rather than silence, since a singleton is the strongest evidence this catalogue normally has. Here the rarity is arithmetic and nothing else. The King James Bible states ages and reign-lengths in the 'twenty and four' pattern constantly and simply had occasion to write this particular numeral once, in a regnal notice for Baasha of Israel. Mormon 1:3 is Ammaron telling a ten-year-old when to come back for the plates. Nothing is shared but a number in the KJV's ordinary way of writing numbers, and the same standing objection covers 'about ten years of age' at 1:2 and 'fifteen years of age' at 1:15, where Luke 8:42's 'about twelve years of age' scores for the same reason."
+  },
+  {
+    "bomRef": "Mormon 1:7",
+    "source": "Genesis 2:6",
+    "category": "formulaic",
+    "sharedText": "the whole face of the",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "The highest-scoring candidate in the chapter at 2.00, and “the whole face of the” does occur in exactly one KJV verse. It is still nothing: Genesis 2:6 is the mist watering the whole face of the ground before there was rain, and Mormon 1:7 is a land covered with buildings. 'The face of the land' and 'all the face of the earth' are among the Book of Mormon's most heavily used narrative formulae, and the catalogue already carries standing exclusions for them at Helaman 11:18 and 3 Nephi 8:12 for Genesis 2:6, and at Alma 29:2, Helaman 11:32, Helaman 16:22, 3 Nephi 9:1 and 3 Nephi 21:24 for Ezekiel 34:6. This entry extends both to the book of Mormon, and covers 1:13's 'upon the face of the whole land' and 1:19's 'upon all the face of the land' (Ezekiel 34:6, rarity 1.35) without listing them separately."
+  },
+  {
+    "bomRef": "Mormon 1:11",
+    "source": "2 Chronicles 35:7",
+    "category": "wrong-sense",
+    "sharedText": "the number of thirty thousand",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "The strongest-looking candidate in the chapter by every mechanical measure — a six-word run, rarity 3.00, and “of thirty thousand” occurs in exactly one KJV verse — and it is the register's standard cautionary case. 2 Chronicles 35:7 is Josiah's passover: the king gives the people thirty thousand lambs and kids from his own substance, so that a nation which has forgotten the feast can keep it. Mormon 1:11 is a muster: the Nephites gather 'a great number of men, even to exceed the number of thirty thousand' and spend the year beating the Lamanites. The shared string is a numeral in the KJV's fixed idiom for stating a total, and the two things counted are a flock offered in worship and an army raised for war. Nothing else of 2 Chronicles 35 is present. Recorded at length because the machine ranked it first and a reader running the same search will find it first too."
+  },
+  {
+    "bomRef": "Mormon 1:16",
+    "source": "Ephesians 3:8",
+    "category": "common-vocabulary",
+    "sharedText": "that I should preach",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "A four-word run that scored at two separate verses in this chapter (1:16 and 1:17), which is usually a sign that the phrase is the writer's own connective habit rather than a borrowing — Mormon says 'I were forbidden that I should preach unto them' twice in consecutive verses. Ephesians 3:8 is Paul on the grace given him 'that I should preach among the Gentiles the unsearchable riches of Christ', which is the assertion of a commission; Mormon 1:16 is the withdrawal of one. The verse does have a real source proposed in this catalogue, but it is Ezekiel 3:26 and the case rests on the silencing, not on the infinitive."
+  },
+  {
+    "bomRef": "Mormon 1:19",
+    "source": "Revelation 9:21",
+    "category": "insufficient-verbal",
+    "sharedText": "sorceries",
+    "streams": [
+      "manual"
+    ],
+    "reason": "Worth an entry because a reader will look for a source for 'sorceries, and witchcrafts, and magics' and should be told the catalogue looked too. No KJV verse has the triad, and the KJV has no noun 'magics' at all. “sorceries” occurs in exactly 5 KJV verses (Isaiah 47:9, 47:12, Acts 8:11, Revelation 9:21, Revelation 18:23) and “witchcrafts” in exactly 3 (2 Kings 9:22, Micah 5:12, Nahum 3:4), and the two words never meet. The two closest situations are attractive and neither yields wording: Revelation 9:21, where a plagued people do not repent of their sorceries, and Micah 5:12, where the LORD cuts off witchcrafts and soothsayers from a people he is about to purge — Micah 5 being a chapter Hardy's apparatus does bring to bear later in this book, at Mormon 5:24 for Micah 5:8. A single shared noun in each case, and no syntax, so there is nothing to catalogue as dependence."
+  }
+]

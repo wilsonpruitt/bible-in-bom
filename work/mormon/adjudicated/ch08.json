@@ -1,0 +1,909 @@
+{
+  "chapter": 8,
+  "adjudicated": "2026-09-07",
+  "adjudicator": "Opus",
+  "links": {
+    "8:3": [
+      {
+        "source": "1 Kings 18:22",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "Then said Elijah unto the people, I, even I only, remain a prophet of the LORD; but Baal’s prophets are four hundred and fifty men.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 5,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "1 Kings 19:10",
+          "1 Kings 19:14"
+        ],
+        "provenance": {
+          "route": "1 Kings 18:22 (+ 19:10, 19:14) → KJV → Book of Mormon",
+          "other": "“I, even I only, remain” occurs in exactly one KJV verse, 1 Kings 18:22; “I, even I only, am left” occurs in exactly two, 1 Kings 19:10 and 19:14, both Elijah at Horeb. The bare doubling “I, even I” occurs in nineteen verses and is not by itself evidence; what is rare is the doubling followed by a verb of remaining and a word for aloneness, and in the KJV that construction belongs to Elijah alone.",
+          "significance": "The 1830 reading is the evidence. Moroni writes “I, even I remaineth alone”, which is Elijah's construction to the letter — pronoun doubled, verb of remaining, word for aloneness — and 1920 deleted the second “I”, so the current text reads “I even remain alone” and the borrowing is no longer visible on the page (CONVENTIONS §8). The 1920 edition simultaneously moved the verb from “remaineth” to “remain”, which is 1 Kings 18:22's form, so a single verse shows the later edition erasing one KJV feature while accidentally restoring another. Recover Elijah's context and the correspondence deepens: 1 Kings 19:10 continues “and they seek my life, to take it away”, and Moroni's next clause is “And whether they will slay me, I know not.” Elijah is wrong about being the last — seven thousand have not bowed to Baal — and the book will not extend Moroni the same consolation."
+        },
+        "note": "“and I, even I remaineth alone to write the sad tale of the destruction of my people … And whether they will slay me, I know not.” The KJV has one speaker who says he alone remains and that his enemies seek his life, and it is Elijah, twice at Horeb and once on Carmel. Moroni opens his own additions in Elijah's words, on the far side of a national extinction that Elijah's Israel was spared. Far below Skousen's sixteen-word threshold for a quotation, and not one of his thirty-six; the case rests on the construction, not on length.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "8:5": [
+      {
+        "source": "Luke 21:16",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "text": "And ye shall be betrayed both by parents, and brethren, and kinsfolks, and friends; and some of you shall they cause to be put to death.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 2,
+          "sequence": 3,
+          "context": 4,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Job 19:14"
+        ],
+        "provenance": {
+          "route": "Luke 21:16 → KJV → Book of Mormon (1830)",
+          "other": "“kinsfolks” occurs in exactly three KJV verses — 1 Kings 16:11, 2 Kings 10:11 and Luke 21:16 — and only Luke 21:16 also has “friends”. The alternative spelling “kinsfolk” occurs in exactly two, Job 19:14 and Luke 2:44, and Job 19:14 also has friends: “My kinsfolk have failed, and my familiar friends have forgotten me.”",
+          "alternative": "Job 19:14 is the other KJV verse pairing kinsfolk with friends, and Job's is the register of desolation Moroni is writing in. It is the better thematic fit and the worse verbal one: it has the singular-looking form, no killing, and its friends have forgotten rather than died.",
+          "significance": "The 1830 spelling decides it, and the 1920 correction reverses the decision. 1830 reads “all my kinsfolks”, which is Luke's spelling; 1920 normalised it to “kinsfolk”, which is Job's. A reader of the current text who checks a concordance is sent to Job; a reader of the first edition is sent to the Olivet Discourse — and the Olivet Discourse is the passage this whole chapter is built out of (see 8:26 and 8:30). Luke 21:16 promises that kinsfolk and friends will betray, and that some will be put to death; Moroni reports the outcome as a household inventory — father slain, all kinsfolks slain, friends none — and then, three verses on, prophesies the rest of the discourse to the Gentiles."
+        },
+        "note": "“Friends I have none, for I am alone: my father hath been slain in battle, and all my kinsfolks.” Two words that co-occur in one KJV verse of persecution and death, in the 1830 edition's spelling of the rarer of them. The link is not strong on syntax — Moroni is listing losses, Luke is listing betrayers — and it is recorded at moderate confidence for that reason. What raises it above coincidence is that the chapter goes on to quote the same discourse at length.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "8:7": [
+      {
+        "source": "Revelation 15:3",
+        "type": "echo",
+        "subtype": "probable",
+        "confidence": "moderate",
+        "text": "And they sing the song of Moses the servant of God, and the song of the Lamb, saying, Great and marvellous are thy works, Lord God Almighty; just and true are thy ways, thou King of saints.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 4,
+          "sequence": 2,
+          "context": 3,
+          "rarity": 4,
+          "attestation": 1
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Revelation 15:1"
+        ],
+        "recurrenceRefs": [
+          "1 Nephi 1:14",
+          "Mormon 8:34"
+        ],
+        "provenance": {
+          "route": "Revelation 15:3 → KJV → Book of Mormon",
+          "other": "“great and marvellous” occurs in exactly two KJV verses, Revelation 15:1 and Revelation 15:3, and 1830 preserves the KJV's double-l “marvellous” at both 8:7 and 8:34 where 1920 prints “marvelous” (CONVENTIONS §8).",
+          "significance": "Revelation 15:3 is already in this catalogue at 1 Nephi 1:14, where Lehi praises God in six words that Revelation labels the song of Moses. The formula returns at the other end of the book and it has been turned inside out: “great and marvellous is the destruction of my people”. The doxology of the redeemed, sung by those who have gotten the victory over the beast, is applied by the last Nephite to his own people's annihilation — and the immediately preceding words of Revelation 15:1 are “seven angels having the seven last plagues; for in them is filled up the wrath of God.” Moroni's next verse says exactly that: “it is the hand of the Lord which hath done it.”"
+        },
+        "note": "A two-word phrase is thin evidence and this is filed as an echo for that reason. It earns its place on three counts: the phrase belongs to one chapter of the KJV; the 1830 spelling is the KJV's; and the same chapter of Revelation is demonstrably in play at the head of the book. Moroni uses the phrase twice, at 8:7 of the destruction and at 8:34 of the things the Lord has shewn him.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "8:8": [
+      {
+        "source": "Isaiah 41:20",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "That they may see, and know, and consider, and understand together, that the hand of the LORD hath done this, and the Holy One of Israel hath created it.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 4,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "provenance": {
+          "route": "Isaiah 41:20 → KJV → Book of Mormon",
+          "other": "“the hand of the LORD hath done” occurs in exactly one KJV verse. Job 12:9 is the near miss and reads “wrought”, not “done”; Moroni has the Isaiah verb.",
+          "significance": "Recover the context and the sentence is doing something quite deliberate. Isaiah 41:18-20 is the promise of water in the wilderness — pools in the desert, cedar and myrtle planted in the waste — and the clause Moroni borrows is the conclusion drawn from that mercy: they are to see and know that the hand of the LORD hath done this. Moroni draws the identical conclusion from the identical formula about the extermination of his nation. The verse that certifies Israel's restoration certifies the Nephites' end, in the same words, and the fact that Moroni goes straight on to the Lamanite civil war — “no one knoweth the end of the war” — refuses the reader the consolation Isaiah's chapter supplies four verses later."
+        },
+        "note": "“And behold, it is the hand of the Lord which hath done it.” Six words tracking a KJV singleton, with the demonstrative changed from “this” to “it” because Moroni's antecedent is a destruction rather than a garden. This falls well below Skousen's sixteen-word threshold and is not one of his thirty-six quotations; it is catalogued as an allusion on the strength of the singleton alone.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "8:15": [
+      {
+        "source": "Matthew 6:22",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "The light of the body is the eye: if therefore thine eye be single, thy whole body shall be full of light.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 1
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Luke 11:34"
+        ],
+        "provenance": {
+          "route": "Matthew 6:22 → KJV → Book of Mormon",
+          "other": "“thine eye be single” occurs in exactly one KJV verse. The word “single” occurs in exactly two verses in the whole King James Bible, Matthew 6:22 and Luke 11:34, which are the two forms of one saying; there is no other single eye in scripture.",
+          "alternative": "Luke 11:34 has the same saying with “when thine eye is single”. Matthew's subjunctive is the commoner form of the tag in English usage and Matthew governs elsewhere in this chapter, but nothing in Moroni's wording chooses between them.",
+          "significance": "This is the metalepsis of the chapter's first half. Matthew 6:22 does not stand alone: it is wedged between “Lay not up for yourselves treasures upon earth” (6:19) and “Ye cannot serve God and mammon” (6:24), so in Matthew the single eye is specifically an eye that is not on money. Moroni makes it the condition on who may bring the plates to light, one verse after saying that “no one shall have them to get gain” (8:14) — and thirty verses later the chapter closes by indicting churches that sell forgiveness for money. The Sermon's eye supplies the whole moral architecture of the chapter, and Moroni cites only the eye."
+        },
+        "note": "“God will that it shall be done with an eye singled to his glory.” The 1830 participle “singled” is the edition's own, and 1920 changed it to “single”, i.e. corrected it back toward the King James wording it came from — the same direction of change recorded at 1 Nephi 1:20 (CONVENTIONS §8). The later edition makes the borrowing more visible, not less, which is worth having on the record alongside 8:3 and 8:5, where 1920 does the opposite.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "8:16": [
+      {
+        "source": "1 Timothy 2:4",
+        "type": "echo",
+        "subtype": "probable",
+        "confidence": "moderate",
+        "text": "Who will have all men to be saved, and to come unto the knowledge of the truth.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 4,
+          "sequence": 3,
+          "context": 3,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "1 Timothy 2:4 → KJV → Book of Mormon",
+          "other": "“come unto the knowledge” occurs in exactly one KJV verse. The wider Pastoral idiom is fixed — 2 Timothy 3:7 has “come to the knowledge of the truth”, Hebrews 10:26 “received the knowledge of the truth” — and its object is invariably the truth.",
+          "significance": "Moroni keeps the four-word run and swaps the object: the record shall “come unto the knowledge of the people”. In the KJV it is people who come to the knowledge of the truth; here it is the truth, in the form of a buried book, that comes to the knowledge of the people. The direction of the idiom is reversed, which is what a writer does with a phrase he knows rather than one he is copying."
+        },
+        "note": "A four-word run off a KJV singleton, in a verse otherwise made of Moroni's own light-out-of-darkness vocabulary. Recorded as an echo because a fixed idiom with its object changed is weak evidence of dependence on any one verse; recorded at all because the idiom is not common English and the KJV uses it once.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram"
+        ]
+      }
+    ],
+    "8:17": [
+      {
+        "source": "Matthew 5:22",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "certain",
+        "text": "But I say unto you, That whosoever is angry with his brother without a cause shall be in danger of the judgment: and whosoever shall say to his brother, Raca, shall be in danger of the council: but whosoever shall say, Thou fool, shall be in danger of hell fire.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 1
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "recurrenceRefs": [
+          "Mormon 8:21"
+        ],
+        "provenance": {
+          "route": "Matthew 5:22 → KJV → Book of Mormon",
+          "other": "“in danger of hell fire” occurs in exactly one KJV verse. The wider formula “shall be in danger of” occurs in exactly two, Matthew 5:21 and 5:22, which are consecutive verses of the same saying.",
+          "significance": "Matthew 5:22 escalates through three courts — the local judgment, the council, hell fire — and each is earned by a harder word said against a brother. Moroni transfers the whole apparatus to a reader's verdict on a book: “he that condemneth, let him be aware lest he shall be in danger of hell fire.” The unstated correspondence is that a reader who dismisses the record for its imperfections has said Raca to Moroni. Four verses later he redeploys the same danger idiom — “in danger to be hewn down and cast into the fire” — for those who deny the covenant, so the two halves of his warning to Gentile readers are both built out of the KJV's language of judicial peril."
+        },
+        "note": "Six words reproduced exactly from the only KJV verse that contains them, in the only sense the KJV gives them. Well below Skousen's sixteen-word threshold and not one of his thirty-six, so it is catalogued as an allusion rather than a quotation; the confidence is nevertheless certain, because a six-word singleton in a matching context is not a coincidence anyone can construct an alternative to. Note that the verse it sits in is Moroni's apology for the record's imperfections — the chapter's most-quoted line — which means the apology is armed with the Sermon on the Mount.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram"
+        ]
+      },
+      {
+        "source": "1 John 3:20",
+        "type": "allusion",
+        "subtype": "probable",
+        "confidence": "moderate",
+        "text": "For if our heart condemn us, God is greater than our heart, and knoweth all things.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 4,
+          "context": 3,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "1 John 3:20 → KJV → Book of Mormon",
+          "other": "“knoweth all things” occurs in exactly one KJV verse, and that verse also contains the verb “condemn”. Moroni's clause has both, in the same order: “God knoweth all things; therefore he that condemneth …”",
+          "significance": "The sense is inverted and the inversion is the point. In 1 John the omniscience is consolation — if your own heart condemns you, God knows more than your heart does, so do not despair. In Moroni it is threat — God knows more than you do, so do not condemn the book. The same two facts, God's total knowledge and the act of condemning, are held in the same sentence and turned to face the opposite way. A reader could reasonably decline the link on the ground that both are commonplace theological furniture, which is why the confidence is moderate; what argues for it is that the KJV puts them together exactly once."
+        },
+        "note": "“Nevertheless, God knoweth all things; therefore he that condemneth, let him be aware.” Two clauses of ordinary doctrine that happen to reproduce the pairing of a KJV singleton, in a verse already demonstrably quoting Matthew 5:22. Recurrence of source-density in a single verse is not proof, but it makes the second contact easier to credit than it would be standing alone.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "8:19": [
+      {
+        "source": "Matthew 7:2",
+        "type": "allusion",
+        "subtype": "paraphrase",
+        "confidence": "high",
+        "text": "For with what judgment ye judge, ye shall be judged: and with what measure ye mete, it shall be measured to you again.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 1
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Matthew 7:1",
+          "Matthew 16:27"
+        ],
+        "provenance": {
+          "route": "Matthew 7:1-2 → KJV → Book of Mormon",
+          "other": "“with what judgment ye judge” occurs in exactly one KJV verse. The reciprocal adverb that Moroni uses twice — judged “again”, smitten “again” — is Matthew's own: “it shall be measured to you again”.",
+          "significance": "Moroni does not quote the saying; he runs its grammar. Matthew 7:2 states a rule of reciprocal measure and Moroni conjugates it through three verbs in one verse — judgeth/judged, smiteth/smitten, works/wages — with the KJV's “again” carried through each time. Then, at 8:20, he supplies the scriptural warrant, and it is Paul rather than Jesus. The Sermon governs the form of the sentence and the epistle is cited for its authority, which is a fair description of how the whole chapter uses the New Testament."
+        },
+        "note": "“the same that judgeth rashly, shall be judged rashly again: for according to his works shall his wages be; therefore, he that smiteth, shall be smitten again of the Lord.” The passive-reciprocal construction with “again” is Matthew 7:2's, and the middle clause is the standing KJV formula for recompense (“reward every man according to his works”, Matthew 16:27). Moroni's addition is the adverb “rashly”, which narrows the Sermon's blanket prohibition on judging into a prohibition on judging hastily — a qualification the Sermon does not make and one the chapter needs, since Moroni spends the next twenty verses judging.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "8:20": [
+      {
+        "source": "Romans 12:19",
+        "type": "quotation",
+        "subtype": "explicit",
+        "confidence": "certain",
+        "text": "Dearly beloved, avenge not yourselves, but rather give place unto wrath: for it is written, Vengeance is mine; I will repay, saith the Lord.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 4
+        },
+        "kjvSpecific": "yes",
+        "mediation": "OT-via-NT",
+        "composite": [
+          "Deuteronomy 32:35",
+          "Hebrews 10:30"
+        ],
+        "provenance": {
+          "route": "Deuteronomy 32:35 → Romans 12:19 (with Hebrews 10:30) → KJV → Book of Mormon",
+          "other": "“Vengeance is mine; I will repay, saith the Lord” occurs in exactly one KJV verse. Deuteronomy 32:35, the passage Paul is quoting, reads “To me belongeth vengeance and recompence” — a phrase that occurs in exactly one KJV verse and is not the phrase Moroni has. Hebrews 10:30 quotes the same text a third way, “Vengeance belongeth unto me, I will recompense, saith the Lord.” tools/mediation-check.py returns Romans over Deuteronomy on one decisive point and Romans over Hebrews on two: the Book of Mormon has “is mine … I will repay”, not “belongeth” and not “recompense”.",
+          "significance": "Moroni writes “Behold what the Scripture saith”, which is a citation formula, and then cites — not the Song of Moses, but Paul's citation of the Song of Moses, in Paul's English, including Paul's “saith the Lord”, a tag Deuteronomy does not have. Romans 12:19 is itself introduced by “for it is written”. So a fourth-century Nephite quoting scripture reproduces a first-century epistle quoting a fourteenth-century-BC song, at one remove, in seventeenth-century English. This is the chapter's clearest instance of the criterion CONVENTIONS §3a says this corpus inverts: availability fails, and the failure is the finding. Hebrews is not displaced by Romans, it is doing separate work. Moroni claims two things for the Lord, judgement and vengeance, and Romans 12:19 supplies only vengeance; the pairing is Hebrews 10:30's, which follows “I will recompense, saith the Lord” with “And again, The Lord shall judge his people.” Moroni's verse is therefore composite in the strict sense: Romans for the words, Hebrews for the two-part claim, Deuteronomy behind both."
+        },
+        "note": "“Behold what the Scripture saith: Man shall not smite, neither shall he judge: for judgement is mine, saith the Lord; and vengeance is mine also, and I will repay.” Every distinctive word of the second half is Romans 12:19's, and the first half — a prohibition on private smiting and judging — is Romans 12:19's opening clause, “avenge not yourselves”, crossed with the Sermon's “judge not” that governed the preceding verse. The 1830 spelling “judgement” is the older English form and 1920 prints “judgment”; the KJV has “judgment” throughout, so here the first edition departs from the source and the later edition returns to it. This discharges all three references Hardy's apparatus cross-references at this verse.",
+        "bibliography": [
+          "Hardy MSI at Morm 8.20 (Deuteronomy 32:35; Romans 12:19; Hebrews 10:30)"
+        ],
+        "status": "majority",
+        "streams": [
+          "scholarship",
+          "manual"
+        ]
+      }
+    ],
+    "8:21": [
+      {
+        "source": "Matthew 3:10",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "And now also the axe is laid unto the root of the trees: therefore every tree which bringeth not forth good fruit is hewn down, and cast into the fire.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 1
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Matthew 7:19",
+          "Luke 3:9",
+          "Acts 19:27"
+        ],
+        "provenance": {
+          "route": "Matthew 3:10 (+ Acts 19:27) → KJV → Book of Mormon",
+          "other": "“hewn down, and cast into the fire” occurs in exactly three KJV verses: Matthew 3:10, Matthew 7:19 and Luke 3:9. “in danger to be” occurs in exactly two, Acts 19:27 and Acts 19:40, both from the Ephesus riot, where it is a term of legal exposure.",
+          "alternative": "Matthew 7:19 and Luke 3:9 carry the same seven-word run. Luke 3:9 is the Lukan form of the same Baptist sermon; Matthew 7:19 is the Sermon on the Mount's reuse of it. Nothing in the seven words chooses between the three, and the choice is made on context — see significance.",
+          "significance": "Context decides the source, and the recovered context is the argument. Moroni's condemned man is the one who says “the Lord will not remember his covenant which he hath made unto the house of Israel”. Matthew 3:9 — the verse immediately before the one Moroni's words come from — is “think not to say within yourselves, We have Abraham to our father: for I say unto you, that God is able of these stones to raise up children unto Abraham.” The Baptist is preaching against exactly one error, presumption about the covenant with Israel, and Moroni applies his sentence to exactly one error, presumption that the covenant with Israel has lapsed. The two are mirror images across the same verse, which is why Matthew 3:10 and not Matthew 7:19 is named as the source. Meanwhile the idiom Moroni welds to the front of it — “is in danger to be” — is not the Baptist's at all but the Ephesian town clerk's, the KJV's phrase for standing legally liable. Moroni has taken a courtroom formula from Acts and a fire from Matthew and made one sentence of them."
+        },
+        "note": "“the same is in danger to be hewn down and cast into the fire.” A seven-word run from a three-verse KJV phrase, fronted by a two-verse KJV legalism, and it is the second time in five verses Moroni has reached for the KJV's language of danger — 8:17 has “in danger of hell fire” from Matthew 5:22. Two different “in danger” idioms, from two different books, four verses apart, both put to the same use: warning a Gentile reader what a wrong verdict costs.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "8:23": [
+      {
+        "source": "Isaiah 29:4",
+        "type": "allusion",
+        "subtype": "conceptual",
+        "confidence": "moderate",
+        "text": "And thou shalt be brought down, and shalt speak out of the ground, and thy speech shall be low out of the dust, and thy voice shall be, as of one that hath a familiar spirit, out of the ground, and thy speech shall whisper out of the dust.",
+        "evidence": {
+          "vocabulary": 2,
+          "syntax": 1,
+          "sequence": 2,
+          "context": 5,
+          "rarity": 3,
+          "attestation": 2
+        },
+        "kjvSpecific": "no",
+        "mediation": "OT-via-earlier-BoM",
+        "recurrenceRefs": [
+          "2 Nephi 26:16",
+          "2 Nephi 33:13",
+          "Moroni 10:27",
+          "Mormon 8:26"
+        ],
+        "provenance": {
+          "route": "Isaiah 29:4 → KJV → 2 Nephi 26:16 / 33:13 → Book of Mormon (Mormon 8:23)",
+          "other": "“whisper out of the dust” occurs in exactly one KJV verse. Moroni does not have it. He has “from the dust will they cry unto the Lord”, which is nobody's KJV phrase — but it is very close to 2 Nephi 33:13, “as the voice of one crying from the dust”, and 2 Nephi 26:16 renders Isaiah 29:4 nearly whole (“their speech shall be low out of the dust … as one that hath a familiar spirit … whisper out of the dust”).",
+          "alternative": "Direct dependence on Isaiah 29:4. Against it: not one of Isaiah's distinctive words survives here — no ground, no whisper, no familiar spirit, no low speech — and Isaiah's voice speaks while Moroni's cries.",
+          "significance": "The mediation is the finding, and the verse announces it: “Search the prophecies of Isaiah. Behold, I cannot write them.” Moroni tells the reader where the source is and then declines to reproduce it, which is precisely the condition under which an earlier Book of Mormon rendering, rather than the Bible, becomes the proximate model. What he actually writes is Nephi's phrase, not Isaiah's, and he writes it again at 8:26 (“as if one should speak from the dead”) and once more in his own farewell at Moroni 10:27, where the two halves stand side by side — “like as one crying from the dead? yea, even as one speaking out of the dust”. Isaiah's necromantic image, which in Isaiah is a threat against Ariel, has by this point in the book become the standing Nephite figure for the record itself, and Moroni inherits it already transformed."
+        },
+        "note": "The verbal contact with Isaiah 29:4 is too slight to catalogue as dependence on the KJV, and kjvSpecific is set to 'no' for that reason. What the verse does have is an explicit instruction to go read Isaiah, a phrase that matches Nephi's rendering rather than Isaiah's, and a chain of BoM recurrences that ends in Moroni's own last chapter. This is the pattern CONVENTIONS §7 reserves 'OT-via-earlier-BoM' for, and Mormon 8 is where it can be seen operating on a writer who says out loud that he is not copying the source.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "8:24": [
+      {
+        "source": "1 Corinthians 13:2",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "And though I have the gift of prophecy, and understand all mysteries, and all knowledge; and though I have all faith, so that I could remove mountains, and have not charity, I am nothing.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 3,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 1
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Matthew 17:20"
+        ],
+        "provenance": {
+          "route": "1 Corinthians 13:2 → KJV → Book of Mormon",
+          "other": "“could remove mountains” occurs in exactly one KJV verse. The gospel sayings about faith and mountains do not use the verb: Matthew 17:20 has “ye shall say unto this mountain, Remove hence to yonder place”, and Mark 11:23 “Be thou removed, and be thou cast into the sea”. The transitive “remove mountains”, with the mountains as the object of a believer's power, is Paul's formulation and the King James Bible has it once.",
+          "significance": "Moroni's clause is “he knoweth their faith: for in his name could they remove mountains”, and Paul's is “though I have all faith, so that I could remove mountains, and have not charity, I am nothing.” The verb, the modal and the object are all Paul's; what Moroni drops is the whole point of the sentence he took them from. In 1 Corinthians 13 mountain-moving faith is the thing declared worthless without charity. Moroni cites it as proof that the three Nephites' faith was real. Read the two together and the omission is loud, because Moroni is a writer preoccupied with charity — it is what he ends the book on at Moroni 7 and 10 — and here he uses the one verse in scripture that subordinates faith to charity as a straightforward commendation of faith."
+        },
+        "note": "Three words off a KJV singleton, at the head of a roll-call of what faith accomplished. The wording is Paul's rather than the gospels', which is worth establishing because the gospel sayings are the ones a reader expects behind any sentence about faith and mountains, and they are not the ones in play.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      },
+      {
+        "source": "Hebrews 11:34",
+        "type": "allusion",
+        "subtype": "structural",
+        "confidence": "moderate",
+        "text": "Quenched the violence of fire, escaped the edge of the sword, out of weakness were made strong, waxed valiant in fight, turned to flight the armies of the aliens.",
+        "evidence": {
+          "vocabulary": 2,
+          "syntax": 3,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "no",
+        "mediation": "direct-NT",
+        "composite": [
+          "Hebrews 11:33",
+          "Acts 16:26",
+          "Mark 16:18",
+          "Daniel 3:17"
+        ],
+        "provenance": {
+          "route": "Hebrews 11:33-34 → KJV → Book of Mormon",
+          "other": "“stopped the mouths of lions” occurs in exactly one KJV verse and “quenched the violence of fire” occurs in exactly one KJV verse; they are consecutive clauses of one sentence. “the foundations of the prison” occurs in exactly one KJV verse, Acts 16:26. “take up serpents” occurs in exactly one KJV verse, Mark 16:18. Moroni reproduces none of these strings; he reproduces the list they make.",
+          "significance": "Hebrews 11:33-34 is the King James Bible's one catalogue of what faith did, built as a chain of bare participial clauses with no connective — subdued kingdoms, wrought righteousness, obtained promises, stopped the mouths of lions, quenched the violence of fire, escaped the edge of the sword. Moroni writes the same kind of chain, in the same order of escalation, for the three Nephites: mountains removed, the earth shaken, prisons tumbled, the fiery furnace survived, wild beasts and poisonous serpents harmless. Two of his five items are Hebrews' own two — the fire and the beasts — and Hebrews reaches them, as Moroni does, by way of Daniel 3 and Daniel 6 without naming either. The prisons are Acts 16:26 and the serpents are Mark 16:18, which Hardy's apparatus cross-references at Mormon 9:25, one chapter on; Moroni gets to the same promise a chapter early and by a different route."
+        },
+        "note": "A form-level link with almost no shared vocabulary, filed as an allusion rather than a figural link because the form in question is a specific KJV sentence and not a narrative type. kjvSpecific is 'no': nothing here is worded distinctively enough to test against an English version. What is being claimed is that the roll-call of faith's deeds is a genre the King James Bible supplies once, and that Moroni, introducing his list with “he knoweth their faith”, is writing in it.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "8:26": [
+      {
+        "source": "Matthew 24:50",
+        "type": "allusion",
+        "subtype": "structural",
+        "confidence": "high",
+        "text": "The lord of that servant shall come in a day when he looketh not for him, and in an hour that he is not aware of,",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 1
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Matthew 24:51"
+        ],
+        "recurrenceRefs": [
+          "Mormon 8:27",
+          "Mormon 8:28",
+          "Mormon 8:29",
+          "Mormon 8:31",
+          "Mormon 8:32"
+        ],
+        "provenance": {
+          "route": "Matthew 24:50-51 → KJV → Book of Mormon",
+          "other": "“come in a day when” occurs in exactly two KJV verses, Matthew 24:50 and Luke 12:46, which are the two forms of one parable. Matthew reads “shall come in a day when”; Luke reads “will come in a day when”. The Book of Mormon reads “it shall come in a day when”, six times over. tools/mediation-check.py declined to call this divergence — its aligner did not lock onto the auxiliary — but the two words are on the page.",
+          "alternative": "Luke 12:46 carries the same phrase. It is ruled out by the auxiliary and by the last word of the parable: Luke's servant gets his portion “with the unbelievers”, Matthew's “with the hypocrites” — a phrase that occurs in exactly one KJV verse — and Moroni's arraignment of the latter-day churches is addressed to “ye pollutions, ye hypocrites” at 8:38.",
+          "significance": "This is the chapter's largest borrowing and it is invisible to a word-count, because what Moroni takes from Matthew 24:50 is a sentence-frame and not a sentence. Six times in seven verses he begins “yea, it shall come in a day when …”, and the phrase he is repeating exists in the King James Bible in two verses only, both of them the parable of the servant whose lord delays. Recover that parable and the whole prophecy is already written: Matthew 24:48-49's wicked servant says “My lord delayeth his coming”, begins to smite his fellowservants and to eat and drink with the drunken; Moroni's day is one in which churches are built up for gain, leaders are lifted up in pride, and the poor and the needy are passed by. Matthew 24:51 sentences that servant to his portion with the hypocrites; Moroni calls them hypocrites outright. The anaphora is not decoration — it is the parable's verdict extended to a church, one clause at a time."
+        },
+        "note": "Filed at 8:26, the first of the six occurrences, and carried through 8:27, 8:28, 8:29, 8:31 and 8:32 in recurrenceRefs rather than repeated as six links. The n-gram stream proposed Matthew 24:50 at five of the six verses and ranked it as ordinary boilerplate, which is exactly the failure CONVENTIONS §9 describes: a two-verse KJV phrase used six times as a structural refrain reads to the machine as noise and to a reader as an argument.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      },
+      {
+        "source": "Luke 16:31",
+        "type": "echo",
+        "subtype": "possible",
+        "confidence": "moderate",
+        "text": "And he said unto him, If they hear not Moses and the prophets, neither will they be persuaded, though one rose from the dead.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 3,
+          "attestation": 0
+        },
+        "kjvSpecific": "uncertain",
+        "mediation": "direct-NT",
+        "composite": [
+          "Luke 16:30"
+        ],
+        "recurrenceRefs": [
+          "Mormon 8:23",
+          "Moroni 10:27"
+        ],
+        "provenance": {
+          "route": "Luke 16:30-31 → KJV → Book of Mormon",
+          "other": "“one rose from the dead” occurs in exactly one KJV verse, and the preceding verse has “if one went unto them from the dead”, which occurs in exactly one KJV verse. Moroni's clause is “even as if one should speak from the dead” — the same indefinite “one”, the same “from the dead”, the same conditional frame, with a verb of speech where Luke has verbs of going and rising.",
+          "alternative": "Isaiah 29:4's voice out of the ground, taken through 2 Nephi (see the link at 8:23), accounts for the dust and the speaking. It does not account for “from the dead”, which is Luke's phrase and not Isaiah's.",
+          "significance": "The two candidates are not rivals here; Moroni has fused them, and the fusion is what makes the sentence work. Abraham's answer to Dives is that people who will not hear Moses and the prophets will not be persuaded by a resurrection — and Moroni has just written, three verses earlier, “Search the prophecies of Isaiah”. He tells his readers to hear the prophets, predicts that they will not, and then describes his book arriving in a generation that says miracles are done away, “even as if one should speak from the dead”. Luke's parable supplies the reason the arrival will fail to persuade, in advance, and Moroni's chapter is a long attempt to persuade anyway."
+        },
+        "note": "Recorded as an echo because the verbal overlap is three ordinary words and the construction is common English. What lifts it is placement: the clause stands at the end of a sentence about a book that comes out of the earth to people who deny miracles, four words after a command to search the prophets, and Luke 16:31 is the one KJV verse that joins those two ideas.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "8:27": [
+      {
+        "source": "Revelation 6:10",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "text": "And they cried with a loud voice, saying, How long, O Lord, holy and true, dost thou not judge and avenge our blood on them that dwell on the earth?",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Revelation 16:6"
+        ],
+        "recurrenceRefs": [
+          "Mormon 8:41"
+        ],
+        "provenance": {
+          "route": "Revelation 6:9-10 (+ 16:6) → KJV → Book of Mormon",
+          "other": "“avenge our blood” occurs in exactly one KJV verse and “How long, O Lord” occurs in exactly one KJV verse — the same verse. “blood of saints” occurs in exactly one KJV verse, Revelation 16:6, of the martyrs whose blood the harlot has shed. Moroni's “the blood of saints shall cry unto the Lord” welds the noun of one to the appeal of the other.",
+          "significance": "Revelation 6:9-10 is the souls under the altar: martyrs who cry with a loud voice for their blood to be avenged and are told to rest a little season until the number of their fellowservants is fulfilled. Moroni is himself the last survivor of a slaughtered people, writing over their graves; the figure of crying, unavenged blood is not one he needed to borrow, and the reason to think he did is that both of Revelation's phrases turn up in the same two verses of his chapter — the cry at 8:27 and the avenging at 8:41 — and that they frame the prophecy exactly as Revelation's seals frame the plagues. The recovered context supplies what Moroni leaves out: the answer to “How long” is that they must wait until the tale of the martyrs is complete."
+        },
+        "note": "“it shall come in a day when the blood of saints shall cry unto the Lord, because of secret combinations and the works of darkness.” Two KJV singletons from one verse of Revelation, split across the chapter — the crying blood here, the avenging of it in the last verse — with Revelation 16:6's exact noun phrase supplying the subject. Machine candidate Isaiah 19:20 (“they shall cry unto the LORD because of the oppressors”) shares a longer contiguous run and is displaced; see the exclusion register.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      },
+      {
+        "source": "Romans 13:12",
+        "type": "echo",
+        "subtype": "possible",
+        "confidence": "moderate",
+        "text": "The night is far spent, the day is at hand: let us therefore cast off the works of darkness, and let us put on the armour of light.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 2,
+          "sequence": 2,
+          "context": 3,
+          "rarity": 3,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "Romans 13:12 → KJV → Book of Mormon",
+          "other": "“the works of darkness” occurs in exactly one KJV verse. Ephesians 5:11 has the nearest rival, “the unfruitful works of darkness”, which occurs in exactly one KJV verse of its own; the idiom is Pauline generally and the bare four-word form is Romans 13:12's alone.",
+          "significance": "Romans 13:12's clause sits under “the day is at hand”, and Moroni's sits inside “it shall come in a day when” — the anaphora he has taken from Matthew 24. Paul's works of darkness are to be cast off because the day is coming; Moroni's are what the coming day will find. The overlap is one phrase and the interest is that it is the eschatological-day frame in both."
+        },
+        "note": "A four-word KJV singleton in a verse whose main business is elsewhere (see the Revelation 6:10 link above). Recorded at moderate confidence and as an echo: the phrase is distinctive in the KJV but not distinctive in English, and 'secret combinations' — the words it is paired with — is the Book of Mormon's own idiom and has no biblical source at all.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "8:29": [
+      {
+        "source": "Acts 2:19",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "And I will shew wonders in heaven above, and signs in the earth beneath; blood, and fire, and vapour of smoke:",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "OT-via-NT",
+        "composite": [
+          "Joel 2:30"
+        ],
+        "provenance": {
+          "route": "Joel 2:30 → Acts 2:19 → KJV → Book of Mormon",
+          "other": "“vapour of smoke” occurs in exactly one KJV verse, Acts 2:19. Joel 2:30, the verse Peter is quoting, reads “pillars of smoke”, a phrase which occurs in exactly two KJV verses, Joel 2:30 and Song of Solomon 3:6. The Book of Mormon has “vapors of smoke”. tools/mediation-check.py reported no decisive divergence here, and it is wrong to do so: its tokeniser will not match the 1830 plural “vapors” against the KJV singular “vapour”, so the one word that settles the question was the one word it could not see. By eye the lexeme is decisive — Moroni has Peter's noun, not Joel's.",
+          "significance": "The King James translators rendered the same Hebrew word two ways, “pillars of smoke” at Joel 2:30 and “vapour of smoke” where Acts quotes it, and the Book of Mormon follows the New Testament rendering. That is a fact about English translation practice in 1611, not about Hebrew, and it is the kind of evidence this catalogue exists to record: the divergence Moroni reproduces cannot exist in any text older than the KJV's own committee. Note also what he does with it — Joel and Acts list the sign among the wonders that attend the Spirit's outpouring and the day of the Lord; Moroni lists it among the calamities that will attend the record's appearance, alongside wars and earthquakes from the Olivet Discourse in the next verse. Pentecost's signs have become the last days' disasters."
+        },
+        "note": "“there shall be heard of fires, and tempests, and vapors of smoke in foreign lands.” Three words tracking a KJV singleton, and the singleton is one half of a translational doublet whose other half stands in the Old Testament source. This is the clean mediation case in the chapter: the wording is available only from Acts, so the route runs through the New Testament even though the prophecy is Joel's.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "8:30": [
+      {
+        "source": "Matthew 24:7",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "For nation shall rise against nation, and kingdom against kingdom: and there shall be famines, and pestilences, and earthquakes, in divers places.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 2
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Matthew 24:6"
+        ],
+        "recurrenceRefs": [
+          "Mormon 8:26"
+        ],
+        "provenance": {
+          "route": "Matthew 24:6-7 → KJV → Book of Mormon",
+          "other": "“rumours of wars” occurs in exactly two KJV verses, Matthew 24:6 and Mark 13:7. “earthquakes in divers places” occurs in exactly two, Matthew 24:7 and Mark 13:8. Moroni has both, in the biblical order, in one clause.",
+          "alternative": "Mark 13:7-8 carries both phrases in the same order and cannot be excluded on wording alone. Matthew is preferred because the anaphora governing this whole passage — “it shall come in a day when” — comes from Matthew 24:50 and not from Mark, who has no parallel to the parable of the delaying lord.",
+          "significance": "1830 prints “earthquakes in diverse places” and 1920 prints “divers”, which is the King James spelling: the later edition moved the text back toward its source (CONVENTIONS §8). The direction matters, because “divers” and “diverse” were still one word in 1830 and had separated by 1920, so what looks like a modernisation is in fact a re-archaising, made to keep the phrase recognisable. That the borrowing had to be protected in this way is itself evidence that it was recognised."
+        },
+        "note": "“there shall also be heard of wars, and rumors of wars, and earthquakes in diverse places.” Two KJV two-verse phrases from consecutive verses of the Olivet Discourse, in sequence, with Matthew's connective structure. Moroni drops the famines and pestilences and keeps the wars and the earthquakes, which is what a writer addressing a people who have just destroyed themselves in war would keep.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "8:31": [
+      {
+        "source": "Acts 8:23",
+        "type": "quotation",
+        "subtype": "close-verbal",
+        "confidence": "certain",
+        "text": "For I perceive that thou art in the gall of bitterness, and in the bond of iniquity.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 2
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Acts 8:20"
+        ],
+        "provenance": {
+          "route": "Acts 8:23 → KJV → Book of Mormon",
+          "other": "“gall of bitterness” occurs in exactly one KJV verse and “bond of iniquity” occurs in exactly one KJV verse, and they are the same verse. The Book of Mormon reproduces eleven consecutive words of it, altering only the number of the second noun: “bonds of iniquity” for “bond of iniquity”.",
+          "significance": "This is the chapter's finest metalepsis and it is completed by the next verse. Acts 8:23 is Peter's sentence on Simon Magus, and what Simon has done — three verses earlier, at Acts 8:20 — is offer the apostles money for the gift of God: “Thy money perish with thee, because thou hast thought that the gift of God may be purchased with money.” Moroni pronounces Peter's sentence at 8:31 and then, at 8:32, names the crime: “it shall come in a day when there shall be churches built up that shall say, Come unto me, and for your money you shall be forgiven of your sins.” Neither verse says the word simony. The pair does. A reader who does not recover Acts 8 sees an ordinary denunciation of greedy churches; a reader who recovers it finds that the denunciation has been given the apostolic verdict on the first man who tried to buy the Holy Ghost, and that the verdict was pronounced before the charge was read."
+        },
+        "note": "The longest verbatim run in the chapter and the top-ranked machine candidate, at a rarity of 5.00 with an eight-word window — one of the rare cases where the n-gram stream put the strongest link in the chapter at the top of its own list. Eleven words is below Skousen's sixteen-word threshold for a quotation and this is not one of his thirty-six; it is catalogued as a quotation nonetheless, on the CONVENTIONS §2 ground that a complete clause reproduced from an identifiable single source is a quotation whatever its length.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "8:35": [
+      {
+        "source": "1 Corinthians 5:3",
+        "type": "allusion",
+        "subtype": "probable",
+        "confidence": "moderate",
+        "text": "For I verily, as absent in body, but present in spirit, have judged already, as though I were present, concerning him that hath so done this deed,",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 4,
+          "sequence": 3,
+          "context": 4,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Colossians 2:5"
+        ],
+        "provenance": {
+          "route": "1 Corinthians 5:3 → KJV → Book of Mormon",
+          "other": "“as though I were present” occurs in exactly one KJV verse and “present in spirit” occurs in exactly one KJV verse; they are the same verse. Colossians 2:5 has the same manoeuvre in different words — “though I be absent in the flesh, yet am I with you in the spirit”.",
+          "significance": "Paul's construction lets an absent apostle pass judgment on a congregation he cannot see, and 1 Corinthians 5:3 is where he uses it to deliver a sentence — “I have judged already … concerning him that hath so done this deed”. Moroni inverts the geometry and keeps the function. Paul is the one who is absent; Moroni's readers are. “Jesus Christ hath shewn you unto me, and I know your doing” supplies the vision that makes the absence immaterial, and what follows is a sentence on a congregation: pride, fine apparel, envying, polluted churches. The verse before it says the Lord has shewn him “great and marvellous things”; this one says what he was shewn was the reader."
+        },
+        "note": "“Behold, I speak unto you as if ye were present, and yet ye are not.” A one-verse KJV construction with the persons exchanged. The 1830 spelling “shewn” in the same verse is the King James form, modernised to “shown” in 1920 (CONVENTIONS §8), which is not evidence for this particular source but is evidence that the sentence around it is being written in King James English.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "8:38": [
+      {
+        "source": "James 5:3",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "Your gold and silver is cankered; and the rust of them shall be a witness against you, and shall eat your flesh as it were fire. Ye have heaped treasure together for the last days.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 1
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "James 5:2",
+          "1 Timothy 6:10"
+        ],
+        "recurrenceRefs": [
+          "Mormon 8:37",
+          "Mormon 8:41"
+        ],
+        "provenance": {
+          "route": "James 5:1-4 (+ 1 Timothy 6:10) → KJV → Book of Mormon",
+          "other": "“gold and silver is cankered” occurs in exactly one KJV verse. The bare noun “canker” occurs in exactly one KJV verse, 2 Timothy 2:17, where it is a spreading sore and has nothing to do with money; James 5:3 is the only place in the King James Bible where wealth cankers. “the love of money” occurs in exactly one KJV verse, 1 Timothy 6:10, and Moroni's 8:37 opens “ye do love money”.",
+          "significance": "The last five verses of the chapter follow James 5:1-4 point for point, and they follow it in order. James: weep, ye rich men (5:1); your riches are corrupted and your garments motheaten (5:2); your gold and silver is cankered (5:3); the hire of the labourers crieth, and the cries of them are entered into the ears of the Lord of sabaoth (5:4). Moroni: ye do love money and your substances and your fine apparel (8:37); ye sell yourselves for that which will canker (8:38); ye suffer the hungry and the needy to pass by (8:39); widows and orphans mourn and blood cries for vengeance (8:40); he will not suffer their cries any longer (8:41). The one word that will not come from anywhere else is “canker”, and the reason Moroni can use it as a verb of money is that James used it as a participle of gold."
+        },
+        "note": "“ye teachers, which sell yourselves for that which will canker.” Moroni verbs a word the KJV uses only twice, and only once of wealth. The wider dependence — a five-verse peroration tracking James 5:1-4 in sequence — is what makes the single word safe to build on; the link is filed here, where the rare word is, and 8:37 and 8:41 are carried in recurrenceRefs rather than given separate rows for the same argument.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "8:39": [
+      {
+        "source": "Matthew 25:43",
+        "type": "allusion",
+        "subtype": "conceptual",
+        "confidence": "moderate",
+        "text": "I was a stranger, and ye took me not in: naked, and ye clothed me not: sick, and in prison, and ye visited me not.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 3,
+          "attestation": 1
+        },
+        "kjvSpecific": "uncertain",
+        "mediation": "direct-NT",
+        "composite": [
+          "Matthew 25:42",
+          "Luke 10:31"
+        ],
+        "provenance": {
+          "route": "Matthew 25:42-45 (+ Luke 10:31) → KJV → Book of Mormon",
+          "other": "“naked, and ye clothed me not” occurs in exactly one KJV verse and “sick, and in prison” occurs in exactly one KJV verse — the same verse. Moroni shares the nouns and not the clauses: hungry, needy, naked, sick, afflicted. “passed by on the other side” occurs in exactly two KJV verses, Luke 10:31 and 10:32, the priest and the Levite.",
+          "significance": "The sheep-and-goats indictment is a list of omissions in the second person plural addressed to people about to be sentenced, and Moroni's is the same list, in the same grammar, addressed to the same kind of defendant — with one change that is worth noticing. In Matthew the failure is not to come to the destitute; in Moroni it is to let them come past you: “suffer the hungry, and the needy, and the naked, and the sick, and the afflicted to pass by you, and notice them not.” The direction of the passing-by is reversed from the Good Samaritan's, where it is the priest who passes by the wounded man. Moroni's rich do not travel; the poor file past their churches while they are adorning them."
+        },
+        "note": "Catalogued as an allusion at moderate confidence, and the confidence is honest: three of the five nouns are the commonest words in the Bible for the destitute, and neither of the two KJV singletons the source verse contains survives in Moroni's sentence. What carries it is the form — a numbered catalogue of neglected persons, in the second person, at a judgment — which the King James Bible supplies exactly once.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "8:40": [
+      {
+        "source": "Genesis 4:10",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "And he said, What hast thou done? the voice of thy brother’s blood crieth unto me from the ground.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 1
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "provenance": {
+          "route": "Genesis 4:10 → KJV → Book of Mormon",
+          "other": "“crieth unto me from the ground” occurs in exactly one KJV verse. tools/mediation-check.py against Hebrews 12:24, the New Testament's only other treatment of Abel's speaking blood, returns Genesis decisively: Hebrews has “the blood of sprinkling, that speaketh better things than that of Abel” and shares none of the words Moroni reproduces.",
+          "significance": "Moroni does not put the blood in a murdered brother's mouth but in the fathers' and husbands' of the widows and orphans he has just named, and he changes the addressee: in Genesis the blood cries unto God unprompted and God asks the question; here the blood cries “for vengeance upon your heads”, and the question — “why do ye build up your secret abominations to get gain?” — is Moroni's, put to the living. The recovered context makes the accusation specific rather than general. Cain's answer to God was that he did not know where his brother was; the latter-day churches' answer, at 8:39, is that they did not notice the poor going past."
+        },
+        "note": "“the blood of their fathers and their husbands to cry unto the Lord from the ground, for vengeance upon your heads.” The KJV joins crying blood to the ground in one verse only, and Moroni has it with the preposition changed from “unto me” to “unto the Lord” because he is speaking about God rather than as him. The verse also carries Exodus 22:22-24 in its widows and orphans; that strand is adjudicated at 8:41, where the sword arrives.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "8:41": [
+      {
+        "source": "Exodus 22:23",
+        "type": "allusion",
+        "subtype": "conceptual",
+        "confidence": "moderate",
+        "text": "If thou afflict them in any wise, and they cry at all unto me, I will surely hear their cry;",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "uncertain",
+        "mediation": "uncertain",
+        "composite": [
+          "Exodus 22:24",
+          "James 5:4",
+          "Deuteronomy 32:43"
+        ],
+        "recurrenceRefs": [
+          "Mormon 8:27",
+          "Mormon 8:40"
+        ],
+        "provenance": {
+          "route": "Exodus 22:22-24 → KJV → Book of Mormon, with Revelation 6:10, James 5:4 and Deuteronomy 32:41-43 all in contact and none of them isolable",
+          "other": "“cry at all unto me” occurs in exactly one KJV verse and “your wives shall be widows” occurs in exactly one KJV verse, the verse following. “the cries of them” occurs in exactly one KJV verse, James 5:4. “avenge the blood of his servants” occurs in exactly one KJV verse, Deuteronomy 32:43; Moroni's noun is not “servants” but “saints”, and “blood of saints” occurs in exactly one KJV verse, Revelation 16:6.",
+          "alternative": "James 5:4 for the cries and Revelation 6:10 / 16:6 for the avenged blood of saints; Deuteronomy 32:41-43 for the sword and the vengeance. Each accounts for part of the verse and none for all of it.",
+          "significance": "The mediation here is genuinely undecided and is recorded as such rather than defaulted. The sequence of the verse is Exodus 22:22-24's exactly — afflict the widow and the fatherless, they cry unto me, I will surely hear their cry, my wrath shall wax hot and I will kill you with the sword — and Moroni runs it in that order across 8:40-41, ending on a sword. But his cry is “the blood of the saints”, which is Revelation's phrase and not Exodus's, and his verb is “avengeth”, which puts Deuteronomy 32:43 in play; and Deuteronomy 32 is already the ultimate source of the quotation at 8:20, so the chapter would then open its judgment section on Deuteronomy 32:35 and close it on Deuteronomy 32:43, which is a satisfying frame and may be a wholly accidental one. tools/mediation-check.py reports Deuteronomy 32:43 over Revelation 19:2 as decisive; that verdict should not be relied on. It counted “servants” as a shared backbone word when Moroni reads “saints”, and it matched the “vengeance” of “sword of vengeance” against Deuteronomy's tail clause. This is the row a later pass should revisit."
+        },
+        "note": "“Behold, the sword of vengeance hangeth over you; and the time soon cometh that he avengeth the blood of the saints upon you, for he will not suffer their cries any longer.” Four sources are in contact with twenty-four words and the verse will not be assigned to one of them. Exodus 22:22-24 is named as the source because it alone supplies the whole sequence — oppressed widows, a cry, a hearing, a sword — and because Moroni has just spent 8:40 on the widows and the orphans. The wording of the cry is James's and the wording of the blood is Revelation's. Confidence is moderate and mediation is 'uncertain' on the CONVENTIONS §7 principle that a decision not actually made should not be written down as one.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      }
+    ]
+  }
+}

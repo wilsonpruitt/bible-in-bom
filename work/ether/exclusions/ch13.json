@@ -1,0 +1,143 @@
+[
+  {
+    "bomRef": "Ether 13:2",
+    "source": "Luke 1:3",
+    "category": "formulaic",
+    "sharedText": "of all things from the",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "The highest-scoring candidate in the verse on a five-word run, and it is a preface formula on both sides of the match. Luke 1:3 is a historian telling Theophilus he has had 'perfect understanding of all things from the very first'; Ether 13:2 is Moroni saying that Ether 'truly told them of all things, from the beginning of man'. Both are prefatory claims to comprehensive knowledge, which is why the words line up, and neither shares a distinctive term with the other — 'from the very first' and 'from the beginning of man' are different phrases. The verse's real borrowing is the flood clause, adjudicated at Genesis 8:8."
+  },
+  {
+    "bomRef": "Ether 13:3",
+    "source": "Ezekiel 41:9",
+    "category": "formulaic",
+    "sharedText": "was the place of the",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "“the place of the” occurs in exactly 22 KJV verses and Ezekiel 41:9 is a measurement of a side chamber's wall. Recorded only because it ranked first for a verse whose actual content — the New Jerusalem descending — is one of the most heavily biblical sentences in the book, and a reader should be able to see that the machine had nothing to do with finding it. The link is at Revelation 3:12."
+  },
+  {
+    "bomRef": "Ether 13:8",
+    "source": "2 Chronicles 33:2",
+    "category": "formulaic",
+    "sharedText": "the Lord like unto the",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "A five-word run made entirely of function words plus the divine name. “like unto the” occurs in exactly 17 KJV verses; 2 Chronicles 33:2 is Manasseh doing evil 'like unto the abominations of the heathen'. Ether 13:8 builds a holy city 'unto the Lord, like unto the Jerusalem of old'. The run crosses the comma that separates the two clauses in the Book of Mormon's own sentence, which is the standard failure mode of a contiguous-window matcher and is worth naming here because the same shape recurs throughout the war chapters."
+  },
+  {
+    "bomRef": "Ether 13:8",
+    "source": "Joshua 18:5",
+    "category": "insufficient-verbal",
+    "sharedText": "the house of Joseph shall",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "This one is worth writing out, because the sense is closer than the wording and a careful reader could take it. “the house of Joseph” occurs in exactly 11 KJV verses, and Joshua 18:5 is a land allotment: 'the house of Joseph shall abide in their coasts on the north.' Ether 13:8 is also a land allotment to the house of Joseph — 'the remnant of the house of Joseph shall be built upon this land; and it shall be a land of their inheritance'. So the two verses share a subject, a verb position and a subject matter. What they do not share is anything distinctive: Joshua is dividing Canaan into seven parts among the tribes that have not yet received one, and 'shall abide in their coasts' is not 'shall be built upon this land'. The Book of Mormon's phrase for the tribe is in any case its own — “the seed of Joseph” occurs in no KJV verse, and Ether 13:6-11 uses it four times."
+  },
+  {
+    "bomRef": "Ether 13:9",
+    "source": "Lamentations 1:21",
+    "category": "formulaic",
+    "sharedText": "and they shall be like unto",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "A six-word run and the second-ranked candidate for the verse, and it is a coincidence of connective tissue. Lamentations 1:21 ends 'thou wilt bring the day that thou hast called, and they shall be like unto me' — Zion wishing her enemies the treatment she has had. Ether 13:9's clause is 'and they shall be like unto the old', the new heaven and new earth compared to the ones they replace. Nothing but the comparative formula is shared. The verse's sources are Revelation 21:1 and 2 Corinthians 5:17, both adjudicated."
+  },
+  {
+    "bomRef": "Ether 13:9",
+    "source": "Isaiah 65:17",
+    "category": "better-source-identified",
+    "sharedText": "and a new earth",
+    "streams": [
+      "machine-ngram",
+      "manual"
+    ],
+    "reason": "Not a rejection of the source but a record of where it sits. Isaiah 65:17 is the ultimate origin of the new heaven and new earth and is retained as a composite on the link at 13:9; it is not the proximate source, because tools/mediation-check.py returns two decisive points against it. Isaiah reads the plural 'new heavens' and “a new heaven” occurs in exactly one KJV verse, Revelation 21:1; and Isaiah's second clause is 'the former shall not be remembered, nor come into mind', where the Book of Mormon has the passing-away that is Revelation's. 2 Peter 3:13, the other KJV verse with the phrase, fails the same singular/plural test. Filed here so that a reader who arrives at Ether 13:9 with Isaiah in hand is told the catalogue tested it and why it lost."
+  },
+  {
+    "bomRef": "Ether 13:10",
+    "source": "John 5:39",
+    "category": "better-source-identified",
+    "sharedText": "and they are they which",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "The most interesting rejected candidate in the chapter. “and they are they” occurs in exactly one KJV verse and “they are they which” occurs in exactly one, and both are John 5:39 — 'Search the scriptures; for in them ye think ye have eternal life: and they are they which testify of me.' Ether 13:10 and 13:11 use that exact construction twice in two verses, and 13:12 uses a third variation of it. So the machine is pointing at a genuine KJV singleton, twice. It is still the wrong verse. The construction Ether is running is the identification formula of Revelation 7:13-14 — 'These are they which came out of great tribulation, and have washed their robes, and made them white in the blood of the Lamb' — which supplies not only the syntax but the whitened garments, the Lamb's blood and the question the formula answers, all of which Ether 13:10 has and John 5:39 has none of. What John 5:39 contributes is a warning about the method: 'are they which' occurs in exactly 16 KJV verses and the four-word window happens to isolate the one where the preceding conjunction matches."
+  },
+  {
+    "bomRef": "Ether 13:10",
+    "source": "Revelation 12:11",
+    "category": "better-source-identified",
+    "sharedText": "the blood of the Lamb",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "“the blood of the Lamb” occurs in exactly two KJV verses, Revelation 7:14 and 12:11, and the machine proposed 12:11 at both 13:10 and 13:11. It is the wrong one of the two. Revelation 12:11 is a victory over the accuser — 'they overcame him by the blood of the Lamb, and by the word of their testimony' — with no garments and no washing in it. Revelation 7:14 has the garments made white, which is the clause Ether 13:10 and 13:11 are both using, and “white in the blood of the Lamb” occurs in exactly one KJV verse. The link is filed at 13:10 against Revelation 7:14 and the same phrase at 13:11 is that link's second occurrence in two verses."
+  },
+  {
+    "bomRef": "Ether 13:11",
+    "source": "Jeremiah 15:16",
+    "category": "better-source-identified",
+    "sharedText": "(the gathering from the north countries)",
+    "streams": [
+      "scholarship"
+    ],
+    "reason": "A citation in the printed study apparatus that cannot be right as printed, and the row is discharged here rather than by a manufactured link. The note attached to 'from the north countries' reads, on the page, 'That is, the lost tribes; see Jer 15.16; 31.8'. Jeremiah 31:8 is exactly what the note describes — 'I will bring them from the north country, and gather them from the coasts of the earth' — and is adjudicated as a link at this verse. Jeremiah 15:16 is 'Thy words were found, and I did eat them; and thy word was unto me the joy and rejoicing of mine heart', which has no northern gathering, no lost tribes and no verbal contact with Ether 13:11 anywhere in its context. The verse the note is plainly reaching for is Jeremiah 16:15, 'The LORD liveth, that brought up the children of Israel from the land of the north, and from all the lands whither he had driven them' — the same digits transposed. Checked against text/hardy-msi-raw.txt before filing, so this is a fault in the printed citation and not in our verse-walker; it is the same class as the 2 Nephi 17:17 citation already recorded in data/hardy-corrections.json. A separate and smaller point belongs to us: our extract of this note kept only its first reference and dropped '31.8', and the same truncation of a second book-less reference shows at Ether 13:7, where the page reads 'Gen 46.1–7; 49.33' and data/hardy-refs.json holds only the first."
+  },
+  {
+    "bomRef": "Ether 13:13",
+    "source": "Isaiah 28:19",
+    "category": "formulaic",
+    "sharedText": "by day and by night",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "“by day and by night” occurs in exactly one KJV verse, which is why it ranked, and the singleton is arithmetic rather than distinctive: the King James Bible says the same thing constantly as “day and night”, which occurs in exactly 28 KJV verses, and simply had occasion to double the preposition once. Ether 13:13 does not even reproduce the phrase — it reads 'he hid himself in the cavity of a rock by day, and by night he went forth', where the two prepositions belong to two different clauses and the run crosses the comma between them. Isaiah 28:19 is the overflowing scourge passing over morning by morning; nothing else of it is present."
+  },
+  {
+    "bomRef": "Ether 13:13",
+    "source": "1 Kings 19:9",
+    "category": "insufficient-verbal",
+    "sharedText": "(the prophet hidden in a rock)",
+    "streams": [
+      "manual"
+    ],
+    "reason": "Typology pulls hard and the wording will not bear it, on the model of the Exodus 2:2 'goodly' entry in 1 Nephi. Ether is rejected by his people, cast out, and lives in a rock while a king he has prophesied against destroys the nation; he comes out by night to watch and goes back in. That is close to Elijah at Horeb — 'he came thither unto a cave, and lodged there' — and closer still to Obadiah hiding a hundred prophets by fifty in a cave during Ahab's purge, 1 Kings 18:4, and to the Judges-era Israelites who 'made them the dens which are in the mountains, and caves' at Judges 6:2. But there is no shared wording at all. “cavity” occurs in no KJV verse; it is not a King James word, and the King James word for the thing is 'cave' or 'hole of the rock'. Recorded so that a reader who sees the hidden-prophet type is told the catalogue saw it and declined to catalogue it as dependence."
+  },
+  {
+    "bomRef": "Ether 13:20",
+    "source": "Jeremiah 25:3",
+    "category": "formulaic",
+    "sharedText": "the word of the Lord came",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "“the word of the LORD came” occurs in exactly 92 KJV verses and is the Bible's standard prophetic commissioning formula; Jeremiah 25:3 ranked only because it also happens to sit next to a regnal year, which Ether 13:20 does too ('And in the second year, the word of the Lord came to Ether'). Neither the year nor the formula is evidence. This entry covers the same candidate wherever it recurs in Ether 13-15."
+  },
+  {
+    "bomRef": "Ether 13:25",
+    "source": "Ezekiel 34:6",
+    "category": "formulaic",
+    "sharedText": "upon all the face of the",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "“upon all the face of” occurs in exactly one KJV verse, Ezekiel 34:6, and the singleton is worthless here: the KJV writes 'upon the face of the earth' constantly and doubled the quantifier once. The Book of Mormon uses 'upon all the face of the land' as its standing formula for a condition that has become general, and this chapter alone has it at 13:25, 13:26 and 13:31, which is why Ezekiel 34:6 ranked for three consecutive verses. This entry covers all of them. The scattered flock of Ezekiel 34 does bear on the Book of Mormon elsewhere and is adjudicated where it does."
+  },
+  {
+    "bomRef": "Ether 13:28",
+    "source": "Acts 19:8",
+    "category": "formulaic",
+    "sharedText": "for the space of three",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "“for the space of” occurs in exactly one KJV verse and “the space of two years” occurs in exactly one, so the machine ranked Acts 19:8 at 13:28 and Acts 19:10 at 13:31 — two adjacent verses of Acts against two verses of a Jaredite war. Both singletons are arithmetic. 'The space of' as a duration formula is spread across Acts 5:7, 19:8, 20:31 and James 5:17 and is ordinary King James English for an interval; the Book of Mormon uses it throughout its war narratives. Acts 19 is Paul in the school of Tyrannus. This entry covers both verses."
+  }
+]

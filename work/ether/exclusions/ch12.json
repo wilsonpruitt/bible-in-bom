@@ -1,0 +1,130 @@
+[
+  {
+    "bomRef": "Ether 12:3",
+    "source": "Exodus 17:12",
+    "category": "formulaic",
+    "sharedText": "until the going down of the sun",
+    "streams": ["machine-ngram"],
+    "reason": "A seven-word run and the top-scoring candidate in the chapter's opening, and it is a KJV time-expression. Ether 12:3 says Ether cried 'from the morning, even until the going down of the sun', a merism for a whole day of preaching; Exodus 17:12 says Moses' hands were steady until sundown while Israel fought Amalek. The phrase is the Bible's ordinary way of saying 'all day' (Deuteronomy 16:6, Joshua 8:29, 10:27, 2 Chronicles 18:34), and nothing else of Exodus 17 is present — no hands, no stone, no battle, no Aaron and Hur. The machine's second proposal here, 2 Samuel 24:15's 'from the morning even', is the other half of the same merism and is covered by this entry."
+  },
+  {
+    "bomRef": "Ether 12:7",
+    "source": "Matthew 18:7",
+    "category": "formulaic",
+    "sharedText": "it must needs be that",
+    "streams": ["machine-ngram"],
+    "reason": "Five contiguous words and a pure KJV logical connective. Matthew 18:7 uses it of the necessity of offences coming into the world; Ether 12:7 uses it of the necessity that some had faith before Christ showed himself. The Book of Mormon uses 'it must needs be' constantly (2 Nephi 2:11 is the famous one) and the construction carries no signal. Nothing of Matthew 18's woe-saying is present."
+  },
+  {
+    "bomRef": "Ether 12:8",
+    "source": "Matthew 28:19",
+    "category": "formulaic",
+    "sharedText": "the name of the Father",
+    "streams": ["machine-ngram"],
+    "reason": "Six shared words spanning 'glorified the name of the Father'. The real source of this verse is Hebrews 6:4, adjudicated as a link at 12:8 on the strength of a KJV singleton ('heavenly gift'); 'the name of the Father' is the commonest phrase in Christian English and Matthew 28:19's baptismal formula supplies none of the verse's content — no baptism, no nations, no teaching. Recorded because the run is long enough to tempt."
+  },
+  {
+    "bomRef": "Ether 12:14",
+    "source": "Acts 13:52",
+    "category": "better-source-identified",
+    "sharedText": "and with the Holy Ghost",
+    "streams": ["machine-ngram"],
+    "reason": "The machine's five-word run is real and the verse is wrong. Acts 13:52 says the disciples were 'filled with joy, and with the Holy Ghost' — no baptism, no fire. Ether 12:14's 'baptized with fire and with the Holy Ghost' is the Matthew 3:11 / Luke 3:16 saying, and it is adjudicated as a link at this verse against Matthew 3:11, with the note that the Book of Mormon has inverted the KJV's order of the two elements and that the proximate model is its own earlier form at 3 Nephi 9:20."
+  },
+  {
+    "bomRef": "Ether 12:16",
+    "source": "Revelation 19:20",
+    "category": "wrong-sense",
+    "sharedText": "wrought miracles",
+    "streams": ["manual"],
+    "reason": "This is the entry a reader running rarity counts will otherwise think we missed. 'Wrought miracles' occurs in exactly one KJV verse, which is the strongest kind of evidence this catalogue recognizes — and the verse is Revelation 19:20, where the miracles are the false prophet's, wrought before the beast, deceiving those who received the mark. Ether 12:16 reads 'all they which wrought miracles, wrought them by faith', which is the opposite valuation of the identical phrase. The rarity is an accident of the KJV's preferring 'did miracles', 'wrought signs' and 'shewed wonders' elsewhere; it is not evidence of contact. The genuine source of the verse's thought is Hebrews 11:33's 'wrought righteousness', within the catalogue already linked at 12:13."
+  },
+  {
+    "bomRef": "Ether 12:20",
+    "source": "Jeremiah 36:4",
+    "category": "formulaic",
+    "sharedText": "which he had spoken unto him",
+    "streams": ["machine-ngram"],
+    "reason": "A six-word run of pure relative-clause boilerplate. Jeremiah 36:4 is Baruch taking dictation; Ether 12:20 is the brother of Jared holding God to a promise. The only content word in common is 'spoken'. The Book of Mormon writes 'which he had spoken unto him' and its variants throughout, and no phrase of Jeremiah 36 beyond the connective appears."
+  },
+  {
+    "bomRef": "Ether 12:23",
+    "source": "Revelation 7:14",
+    "category": "formulaic",
+    "sharedText": "And I said unto him",
+    "streams": ["machine-ngram"],
+    "reason": "Five words of speech-frame. The coincidence is slightly more interesting than usual, because Revelation 7:14's answer concerns robes washed white in blood and Ether 12:38 will speak of garments unspotted with blood — but the two are fifteen verses apart, the shared string belongs to neither idea, and the garment material at 12:38 is adjudicated there against Acts 20:26 and Jude 1:23. The frame itself is the KJV's standard formula for a reported dialogue and carries no signal."
+  },
+  {
+    "bomRef": "Ether 12:26",
+    "source": "Ezekiel 39:10",
+    "category": "wrong-sense",
+    "sharedText": "that they shall take no",
+    "streams": ["machine-ngram"],
+    "reason": "Five words, scoring as highly as 2 Corinthians 12:9 in the same verse, and worthless. Ezekiel 39:10 says the Israelites shall take no wood out of the field because they will burn the weapons of Gog for fuel; Ether 12:26 says the meek shall take no advantage of Moroni's weakness. The shared string is the negative of an English verb of taking and stops exactly where the sense begins. The verse's real source, 2 Corinthians 12:9, is a link at 12:26 and rests on a KJV singleton."
+  },
+  {
+    "bomRef": "Ether 12:27",
+    "source": "Zechariah 1:9",
+    "category": "formulaic",
+    "sharedText": "unto me, I will shew",
+    "streams": ["machine-ngram"],
+    "reason": "Zechariah 1:9's angel says 'I will shew thee what these be'; Ether 12:27's Lord says 'if men come unto me, I will shew unto them their weakness'. The shared run straddles a clause boundary — the end of Moroni's 'come unto me' and the start of a new sentence — which is the signature of a false positive in a contiguous-window matcher. The machine's paired proposal of Psalm 101:2 ('O when wilt thou come unto me?') is the same accident and is covered here. The 1830 'shew' for 1920 'show' is evidence about the chapter's register, not about these verses."
+  },
+  {
+    "bomRef": "Ether 12:28",
+    "source": "Daniel 2:24",
+    "category": "formulaic",
+    "sharedText": "and I will shew unto the",
+    "streams": ["machine-ngram"],
+    "reason": "Six contiguous words, the longest run the machine found in this verse, and it is a bare announcement-of-disclosure formula: Daniel will shew the king the interpretation, the Lord will shew the Gentiles their weakness. Daniel 2 supplies no other element — no dream, no image, no wise men. The genuine source of Ether 12:28 is 1 Corinthians 13:13, whose triad is a KJV singleton and is adjudicated as a link here."
+  },
+  {
+    "bomRef": "Ether 12:28",
+    "source": "Jeremiah 2:13",
+    "category": "better-source-identified",
+    "sharedText": "the fountain of all righteousness",
+    "streams": ["manual"],
+    "reason": "'Fountain of living waters' occurs in exactly two KJV verses, Jeremiah 2:13 and 17:13, and a reader who sees 'the fountain of all righteousness' at Ether 12:28 will reach for them. The phrase is not Jeremiah's: it is the Book of Mormon's own, coined at 1 Nephi 2:9 where Lehi wishes Laman were like a river 'continually running into the fountain of all righteousness' — a verse whose source is Isaiah 48:18 and which is adjudicated in 1 Nephi 2. Ether 12:28 is using the book's internal formula, not the prophet's, and Jeremiah's fountain is in any case a thing forsaken rather than a thing arrived at."
+  },
+  {
+    "bomRef": "Ether 12:33",
+    "source": "1 John 2:15",
+    "category": "wrong-sense",
+    "sharedText": "loved the world",
+    "streams": ["manual"],
+    "reason": "Recorded so that the John 3:16 link at this verse is not read as careless. 'Love the world' in the Johannine letters is a prohibition — 'Love not the world, neither the things that are in the world. If any man love the world, the love of the Father is not in him' — and a reader alert to Johannine idiom will notice that Ether 12:33 predicates of Christ what 1 John forbids to Christians. The two senses of 'world' are different (the created order and its inhabitants versus the present age and its appetites) and the KJV keeps them apart by context, not by vocabulary. The verse's source is John 3:16, which is where the KJV says God loved the world."
+  },
+  {
+    "bomRef": "Ether 12:32",
+    "source": "2 Chronicles 6:20",
+    "category": "formulaic",
+    "sharedText": "thou hast said that thou",
+    "streams": ["machine-ngram"],
+    "reason": "The machine's top candidate at both 12:32 and 12:33, on five words of quotation-frame: Moroni twice says 'I remember that thou hast said that thou hast…', Solomon says 'the place whereof thou hast said that thou wouldest put thy name there'. The construction is how the KJV reports God's own prior speech and it is doing the same job in both texts, which is why it matches and why it means nothing. The paired proposal of Psalm 104:8 ('the place which thou hast founded') is the same accident and is covered here. Both verses have real sources — John 14:2 at 12:32, John 10:17-18 at 12:33 — and both are adjudicated as links."
+  },
+  {
+    "bomRef": "Ether 12:37",
+    "source": "John 20:29",
+    "category": "wrong-sense",
+    "sharedText": "because thou hast seen",
+    "streams": ["machine-ngram"],
+    "reason": "A genuinely tempting four-word run in a chapter about faith and sight, and the senses are opposed at the decisive point. John 20:29 is a rebuke: 'because thou hast seen me, thou hast believed: blessed are they that have not seen, and yet have believed' — seeing is the lesser condition. Ether 12:37 is a commendation: 'because thou hast seen thy weakness, thou shalt be made strong' — seeing is the qualifying act. The object differs too; Thomas sees the risen Christ, Moroni sees his own inadequacy. The chapter does engage John 20:29's problem, but it does so at 12:19, where those who saw with their eyes what they had beheld with an eye of faith 'were glad', and that verse is linked to John 8:56."
+  },
+  {
+    "bomRef": "Ether 12:39",
+    "source": "Numbers 14:14",
+    "category": "better-source-identified",
+    "sharedText": "face to face, and that",
+    "streams": ["machine-ngram"],
+    "reason": "The machine ranked Numbers 14:14 on 'face to face and that', where the 'and that' belongs to Moroni's next clause and to Numbers' list of things the nations have heard. 'Face to face' occurs in eleven KJV verses and identifies nothing on its own. The construction that does identify a source is 'face to face' immediately followed by an as-a-man simile, which occurs in exactly one KJV verse — Exodus 33:11, 'as a man speaketh unto his friend' — and Ether 12:39 has it, 'even as a man telleth another'. The link is filed at this verse against Exodus 33:11, with Deuteronomy 34:10 noted beside it."
+  },
+  {
+    "bomRef": "Ether 12:36",
+    "source": "Psalm 22:8",
+    "category": "formulaic",
+    "sharedText": "the Lord that he would",
+    "streams": ["machine-ngram"],
+    "reason": "Five words spanning 'I prayed unto the Lord that he would give unto the Gentiles grace'. Psalm 22:8 is the mockers' taunt at the cross, 'He trusted on the LORD that he would deliver him'. The shared string is the ordinary English frame for a petition and the two verses have opposite speakers — a prophet praying and enemies jeering. Nothing of Psalm 22 is present. The 'it came to pass that the Lord…' matches the machine also ranked in this verse and at 12:37 (Joshua 1:1) are covered by the standing connective exclusion at 1 Nephi 1:5."
+  }
+]

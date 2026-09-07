@@ -1,0 +1,74 @@
+[
+  {
+    "bomRef": "Mormon 6:1",
+    "source": "Esther 8:6",
+    "category": "insufficient-verbal",
+    "sharedText": "the destruction of my",
+    "streams": ["machine-ngram"],
+    "reason": "The highest-scoring candidate at the head of the chapter, and the pairing is genuinely affecting: Esther pleads “how can I endure to see the destruction of my kindred?” and Mormon opens “I finish my record concerning the destruction of my people, the Nephites.” But the shared run is four ordinary words and the fifth word diverges — Esther has “kindred”, Mormon has “people” — and the two sentences do opposite work. Esther's is a plea made while the destruction can still be stopped, and it is stopped; Mormon's is a colophon written after it has happened, in the past tense, by the man who watched. Nothing else of Esther 8 is present. Recorded because a reader who notices the phrase should be told the catalogue noticed it too."
+  },
+  {
+    "bomRef": "Mormon 6:2",
+    "source": "Acts 9:2",
+    "category": "better-source-identified",
+    "sharedText": "and desired of him",
+    "streams": ["machine-ngram"],
+    "reason": "A four-word run, and “desired of him” occurs in only two KJV verses (Acts 9:2 and 1 John 5:15), so the machine ranked it. But it is the opening of the same sentence whose main clause is Luke 1:74's — “desired of him that he would grant unto us that we might” — and the eight-word run there is a KJV singleton. The whole borrowing is adjudicated at Mormon 6:2 against Luke 1:74. Saul asking the high priest for letters to Damascus contributes nothing further; the verbal contact is the bare KJV idiom for making a request of a superior, which is what both sentences happen to be doing."
+  },
+  {
+    "bomRef": "Mormon 6:6",
+    "source": "Hebrews 10:31",
+    "category": "wrong-sense",
+    "sharedText": "fall into the hands of",
+    "streams": ["machine-ngram"],
+    "reason": "The second-highest-scoring candidate in the chapter and a real trap, because “fall into the hands of” occurs in exactly one KJV verse — Hebrews 10:31, “It is a fearful thing to fall into the hands of the living God” — and Mormon 6:6 is a fearful sentence about things falling into hands. The senses do not meet at any point. Hebrews is about a person falling under the judgment of God, which is the worst thing that can happen to an apostate; Mormon 6:6 is about sacred records falling under the custody of an enemy who would burn them, which is a logistical fear about objects. Nor is the phrase Mormon's borrowing: “fall into the hands” occurs six times in the Book of Mormon (Alma 43:10, 43:11, 56:50, 59:11, Mosiah 21:19 and here), five of them in the war chapters and every one of them about materiel or ground changing sides. It is this book's ordinary military idiom, and the KJV singleton is an accident of how rarely the KJV needed the plural."
+  },
+  {
+    "bomRef": "Mormon 6:7",
+    "source": "2 Chronicles 20:13",
+    "category": "formulaic",
+    "sharedText": "their wives and their children",
+    "streams": ["machine-ngram"],
+    "reason": "A five-word run and pure KJV boilerplate for a civilian population; the catalogue's standing exclusion on connective formulae covers it. Worth naming only because 2 Chronicles 20 is the Jehoshaphat narrative in which the assembled families do not have to fight at all — “ye shall not need to fight in this battle” — which is the exact inverse of Mormon 6:7, where the wives and children stand in the line and are killed. The inversion is interesting and it is not evidence: the phrase is Judahite muster language, and the verse's real borrowing is Hebrews 2:15's “fear of death”, adjudicated as a link at this verse."
+  },
+  {
+    "bomRef": "Mormon 6:8",
+    "source": "Judges 20:48",
+    "category": "insufficient-verbal",
+    "sharedText": "(the extermination of a kindred tribe)",
+    "streams": ["machine-ngram", "manual"],
+    "reason": "The machine matched four connective words, but the reason to write this up is typological, and it is the strongest typological pull in the chapter. Judges 19-21 is the Bible's one narrative of a whole tribe of Israel being hunted to near-extinction by its own brother tribes, ending with a remnant of six hundred men and a national lament — and Mormon 6 is the Book of Mormon's account of a whole branch of the house of Israel being hunted to extinction by its own brother nation, ending with a remnant of twenty-four and a lament. The wording will not carry it. Judges 20:48 shares nothing distinctive with Mormon 6:8; “smote them with the edge of the sword” does not appear in Mormon 6, whose weapons list at 6:9 is its own; and the surviving numbers, six hundred against twenty-four, are not in any relation. Filed here on the Exodus 2:2 “goodly” model (CONVENTIONS §5): the type is visible, the catalogue saw it, and it declined to catalogue it as dependence."
+  },
+  {
+    "bomRef": "Mormon 6:9",
+    "source": "Jeremiah 27:8",
+    "category": "wrong-sense",
+    "sharedText": "with the sword, and with the",
+    "streams": ["machine-ngram"],
+    "reason": "“with the sword and with the” occurs in exactly one KJV verse, Jeremiah 27:8, so a six-word run scores high; but the two lists are different kinds of list. Jeremiah's is the prophetic triad of judgments — sword, famine, pestilence — three agencies by which God consumes a nation that will not serve Babylon. Mormon's is an inventory of hardware: sword, bow, arrow, axe, “and with all manner of weapons of war.” Neither famine nor pestilence appears in Mormon 6, and no weapon appears in Jeremiah 27:8 but the sword. The shared string is the KJV's way of running any list at all. Note also that “weapons of war” is not available as evidence here: it occurs 44 times in the Book of Mormon, overwhelmingly in Alma, and is this book's own standing phrase. Its one genuinely relevant KJV occurrence, 2 Samuel 1:27, is taken up as part of the David-lament link adjudicated at Mormon 6:13."
+  },
+  {
+    "bomRef": "Mormon 6:11",
+    "source": "Romans 9:25",
+    "category": "formulaic",
+    "sharedText": "my people which were",
+    "streams": ["machine-ngram"],
+    "reason": "Proposed identically at 6:11 and 6:12 and covering both. A four-word run whose match is an artifact of 1830 grammar: the first edition writes “the ten thousand of my people which were hewn down” where 1920 writes “who”, and the relative pronoun is what makes the run. Romans 9:25 is Paul quoting Hosea on the calling of a people that were not a people — an oracle of inclusion — against a verse counting corpses from a hilltop. The same entry disposes of Ezekiel 45:5's “the ten thousand of”, also proposed at both verses: Ezekiel is measuring a Levitical land allotment in cubits, and Mormon is naming a military division. Neither is a source for the other; both are the KJV's ordinary way of attaching a number to a genitive."
+  },
+  {
+    "bomRef": "Mormon 6:10",
+    "source": "2 Chronicles 35:23",
+    "category": "insufficient-verbal",
+    "sharedText": "(the wounded commander of a last stand)",
+    "streams": ["manual"],
+    "reason": "Not proposed by any machine stream, and written up because it is the parallel a reader is most likely to arrive at unaided. Josiah is the last good king of Judah; he goes out to a battle he is warned against, is shot by archers, is carried wounded from the field, and dies — after which Jeremiah composes a lament for him and the lamentations become an ordinance in Israel (2 Chronicles 35:20-25). Mormon is the last righteous commander of the Nephites; he goes out to a battle he knows is the last, is wounded and left for dead among his ten thousand, survives, and composes the lament. The correspondence extends to the lamenting prophet being Jeremiah, whose 9:1 does stand behind Mormon 6:16. But there is no verbal contact: 2 Chronicles 35:23 reads “the archers shot at king Josiah; and the king said to his servants, Have me away; for I am sore wounded”, and Mormon 6:10 reads “I fell wounded in the midst; and they passed by me that they did not put an end to my life”. The only shared word is “wounded”. “Wounded in the midst” occurs in no KJV verse. The Megiddo–Cumorah reading is worth a reader's time and is not dependence; where the wording does bear, at “fallen … in the midst”, the source is 2 Samuel 1:25 and the link is at 6:13."
+  },
+  {
+    "bomRef": "Mormon 6:21",
+    "source": "1 Peter 4:6",
+    "category": "better-source-identified",
+    "sharedText": "be judged according to",
+    "streams": ["machine-ngram"],
+    "reason": "“judged according to” occurs in exactly two KJV verses, Acts 24:6 and 1 Peter 4:6, and the machine offered the latter. It is the wrong half of the phrase. Mormon 6:21 reads “to be judged according to your works”, and “according to your works” — second person plural — occurs in exactly one KJV verse, Revelation 2:23; 1 Peter 4:6 continues “according to men in the flesh”, which is not a judgment by works at all but a contrast between human and divine reckoning. tools/mediation-check.py run on Mormon 6:21 against Psalm 62:12 and Revelation 2:23 returns the point decisively: the Book of Mormon has “your works”, not the Psalm's “his work”. The clause is adjudicated as part of the composite link at Mormon 6:21. The same entry disposes of Ephesians 4:21's “so be that ye”, proposed at the same verse, which is the bare KJV conditional."
+  }
+]

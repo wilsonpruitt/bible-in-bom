@@ -1,0 +1,82 @@
+[
+  {
+    "bomRef": "Mormon 5:3",
+    "source": "Numbers 35:32",
+    "category": "wrong-sense",
+    "sharedText": "fled to the city",
+    "streams": ["machine-ngram"],
+    "reason": "The top-ranked candidate in the first half of the chapter, and “fled to the city” is a genuine KJV singleton, which is why it ranked. It is also the only reason it ranked. Numbers 35:32 is manslaughter law: a killer who has fled to a city of refuge may not buy his way home before the high priest dies. Mormon 5:3 is an army in retreat holding a fortified position — 'the Lamanites did come against us as we had fled to the city of Jordan'. Refuge is the one idea the two share and the Book of Mormon does not use the word or the institution; the city of Jordan is a garrison, not an asylum, and it is defended rather than dwelt in. A four-word run of the plainest possible English about running to a walled town."
+  },
+  {
+    "bomRef": "Mormon 5:6",
+    "source": "1 Kings 6:1",
+    "category": "formulaic",
+    "sharedText": "hundred and eightieth year",
+    "streams": ["machine-ngram"],
+    "reason": "A five-word run and pure dating formula. 1 Kings 6:1 dates the founding of the temple to the four hundred and eightieth year from the Exodus; Mormon 5:6 dates a Lamanite offensive to the three hundred and eightieth year from the sign of Christ's birth. The Book of Mormon dates in this manner throughout the book of Mormon — 4:7, 4:10, 4:16, 5:5, 6:5 — and the resemblance is that both books count years and both had occasion to write the ordinal 'eightieth'. This entry covers every 'in the Nth year' candidate in the chapter; they are not listed individually. Compare the standing exclusion at Helaman 1:1."
+  },
+  {
+    "bomRef": "Mormon 5:7",
+    "source": "Amos 2:14",
+    "category": "wrong-sense",
+    "sharedText": "flight … swift",
+    "streams": ["manual"],
+    "reason": "Worth the register because the wording is rarer than it looks and the sense is exactly inverted. “the flight” as an abstract noun occurs in exactly one KJV verse, Amos 2:14 — 'Therefore the flight shall perish from the swift, and the strong shall not strengthen his force, neither shall the mighty deliver himself' — and Mormon 5:7 uses the same abstract noun twice in one sentence and pairs it with swiftness both times: 'they whose flight were swifter than the Lamanites did escape, and they whose flight did not exceed the Lamanites, were swept down and destroyed'. Amos and Mormon are describing the same event, the rout of a nation's army, in the same rare grammatical form. But Amos's whole point is that speed will not save anyone — the flight perishes FROM the swift — and Mormon's whole point is that speed was precisely what saved the men who had it. A borrowing that reversed the proposition would have to show some other contact to be credible and there is none: no shared verb, no shared subject, nothing of Amos 2:14-16's catalogue of the strong, the mighty, the archer and the horseman. Recorded so a reader who notices the singleton is told the catalogue noticed it and declined it."
+  },
+  {
+    "bomRef": "Mormon 5:9",
+    "source": "Joshua 23:12",
+    "category": "insufficient-verbal",
+    "sharedText": "unto the remnant of these",
+    "streams": ["machine-ngram"],
+    "reason": "The most tempting exclusion in the chapter. “remnant of these” occurs in exactly one KJV verse, and the setting is not remote: Joshua 23 is a leader's farewell address warning a covenant people that if they turn aside the LORD will no longer drive out the nations before them, which is structurally what Mormon 5 is. But the referent of the remnant is opposed in the two texts, and it is the referent that does all the work. Joshua's 'remnant of these nations' is the surviving Canaanites, the foreign population Israel is forbidden to intermarry with; Mormon's 'remnant of these people' is his own destroyed nation's descendants, the audience the record is being written for and the object of the book's hope. One is what the covenant people must not cleave to; the other is what the covenant will be kept for. Beyond the four words there is no contact — no marriages, no driving out, no snares and scourges — and 'the remnant of' is in any case the Book of Mormon's standing term for the seed of Lehi, used at 5:12, 5:24, 7:1 and throughout 3 Nephi."
+  },
+  {
+    "bomRef": "Mormon 5:9",
+    "source": "Deuteronomy 28:20",
+    "category": "formulaic",
+    "sharedText": "because of the wickedness of",
+    "streams": ["machine-ngram"],
+    "reason": "The highest-scoring candidate in the chapter by rarity and it should not be accepted. “because of the wickedness of” does occur in exactly one KJV verse, Deuteronomy 28:20, but the count is an accident of the preposition: 'for the wickedness of' occurs repeatedly (Deuteronomy 9:4, 9:5, Jeremiah 12:4 and others) and the sense is identical. The pull here is thematic rather than verbal, and it is a real pull — Deuteronomy 28 is the curse chapter whose promised destruction, scattering and being 'a byword among all nations' is the plot of Mormon 5 — but the phrase Mormon actually writes is a subordinate clause of apology to his readers, 'that ye might not have too great sorrow because of the wickedness of this people', not a statement of divine cause. Where this chapter does borrow a covenant-curse chapter, it borrows Leviticus 26 and it borrows it distinctively; see the link at 5:20."
+  },
+  {
+    "bomRef": "Mormon 5:12",
+    "source": "Judges 19:25",
+    "category": "common-vocabulary",
+    "sharedText": "forth unto them and they",
+    "streams": ["machine-ngram"],
+    "reason": "A five-word run across a clause boundary in both texts and nothing else whatever. Judges 19:25 is the Levite putting his concubine out of the door at Gibeah; Mormon 5:12 is a statement that wickedness will not bring the record forth to its intended readers. The match is 'brought her forth unto them; and they' against 'will not bring them forth unto them; and they', which is the machine matching two pronouns and a preposition. Listed only because it ranked, and because a five-word run in a register that elsewhere treats five-word runs as evidence should be shown to have been looked at."
+  },
+  {
+    "bomRef": "Mormon 5:13",
+    "source": "Ezekiel 14:22",
+    "category": "insufficient-verbal",
+    "sharedText": "behold they shall come forth",
+    "streams": ["machine-ngram"],
+    "reason": "Ezekiel 14:22 is more interesting than the usual n-gram noise because it is about a remnant and a coming forth — 'behold, therein shall be left a remnant that shall be brought forth … behold, they shall come forth unto you, and ye shall see their way and their doings' — in a chapter about a land given to destruction, and Mormon 5:13 is about a record coming forth after a land has been destroyed. But Ezekiel's subject is people and Mormon's is plates, and the five shared words are 'behold they shall come forth', which is the ordinary King James way of announcing that anything is about to appear. The remnant theme in this chapter is adjudicated where it has wording behind it, at 5:24."
+  },
+  {
+    "bomRef": "Mormon 5:14",
+    "source": "Matthew 26:63",
+    "category": "better-source-identified",
+    "sharedText": "the Christ, the Son of",
+    "streams": ["machine-ngram"],
+    "reason": "The machine offered Matthew 26:63, where Caiaphas adjures Jesus 'by the living God' to say 'whether thou be the Christ, the Son of God' — which puts all of Mormon 5:14's elements on the page but distributes them differently. The Book of Mormon has the completed title 'the Son of the living God', which occurs in exactly two KJV verses, Matthew 16:16 and John 6:69, and not at Matthew 26:63, where 'the living God' belongs to the oath and not to the title. The link is adjudicated at 5:14 on John 20:31 for the purpose clause and Matthew 16:16 for the title; see there. Jeremiah 43:1, also proposed for this verse on 'the LORD their God', is the bare King James possessive formula and is passed over."
+  },
+  {
+    "bomRef": "Mormon 5:15",
+    "source": "Mark 6:6",
+    "category": "common-vocabulary",
+    "sharedText": "because of their unbelief",
+    "streams": ["machine-ngram"],
+    "reason": "Mark 6:6 is Jesus marvelling at Nazareth's unbelief; Mormon 5:15 is a prophecy that his people will become dark and loathsome 'because of their unbelief and idolatry'. The four words are shared and nothing else is: no marvelling, no mighty works, no city. Where the unbelief of Mormon 5 does have a plausible scriptural background it is Romans 11:20, 'because of unbelief they were broken off', and that is recorded not as a verbal link but as one point of contact inside the figural link on Romans 11 filed at 5:19. Ecclesiastes 2:12, also proposed here on 'even that which hath been', is connective boilerplate."
+  },
+  {
+    "bomRef": "Mormon 5:17",
+    "source": "1 Peter 2:25",
+    "category": "insufficient-verbal",
+    "sharedText": "(Christ as shepherd of a straying people)",
+    "streams": ["manual"],
+    "reason": "A typological expectation the wording will not bear, in the pattern of the Exodus 2:2 'goodly' entry in 1 Nephi. Mormon 5:17 says the Lamanites 'were once a delightsome people, and they had Christ for their Shepherd; yea, they were led even by God, the Father', and 1 Peter 2:25 says 'ye were as sheep going astray; but are now returned unto the Shepherd and Bishop of your souls' — the same figure of a people that had a shepherd and left him, with the direction of travel reversed. There is no shared wording beyond the noun. 'Shepherd' as a title for God or Christ is spread across Psalm 23:1, Psalm 80:1, Isaiah 40:11, Ezekiel 34, John 10:11, Hebrews 13:20 and 1 Peter 5:4, and nothing in Mormon 5:17 selects among them. Recorded because the verse invites the identification and the catalogue should be seen to have declined it."
+  }
+]

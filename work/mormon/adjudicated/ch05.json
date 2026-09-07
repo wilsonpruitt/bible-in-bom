@@ -1,0 +1,494 @@
+{
+  "chapter": 5,
+  "adjudicated": "2026-09-07",
+  "adjudicator": "Opus",
+  "links": {
+    "5:2": [
+      {
+        "source": "Ephesians 2:12",
+        "type": "echo",
+        "subtype": "possible",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 2,
+          "syntax": 2,
+          "sequence": 3,
+          "context": 4,
+          "rarity": 3,
+          "attestation": 0
+        },
+        "kjvSpecific": "uncertain",
+        "mediation": "direct-NT",
+        "recurrenceRefs": [
+          "Mormon 5:16"
+        ],
+        "provenance": {
+          "route": "Ephesians 2:12 → KJV → Book of Mormon",
+          "other": "Ephesians 2:12 strings three privatives in a row: 'without Christ … having no hope, and without God in the world'. The outer two are catalogued at Mormon 5:16, where both are KJV singletons; this entry records the middle one.",
+          "alternative": "'Without hope' is ordinary English and Mormon has just described an army fighting a war it cannot win. Taken by itself the phrase needs no source at all, and this row exists only because of what 5:16 does.",
+          "significance": "Mormon 5 has all three of Ephesians 2:12's negations and has them in the verse's own order — no hope at 5:2, without Christ and without God in the world at 5:16. Paul's three describe Gentiles before Christ, outside the commonwealth of Israel; Mormon distributes them across a chapter about the seed of Israel being put outside it. The 1830 reading is the sharper witness in a small way that cuts against the link and is recorded for that reason: 1830 has 'hopes' where Ephesians has the singular 'hope', and 1920 changed it to 'hope'. That is CONVENTIONS §8's pattern of a later edition correcting the text toward the KJV, and here it means the first edition is one letter further from the source than the reading a modern reader sees."
+        },
+        "note": "'But behold, I was without hopes, for I knew the judgements of the Lord which should come upon them.' On its own this would not be catalogued; three words of common English are not evidence. It is catalogued because fourteen verses later Mormon writes that his people 'are without Christ and God in the world', which fuses the first and third privatives of Ephesians 2:12 — and 'having no hope' is the one standing between them. Once 5:16 is established as certain, the opening of the chapter reads as the first of the three rather than as a coincidence, and a reader who reaches 5:16 will look back at 5:2. Proposed under the generative posture (CONVENTIONS §0a) with the objection recorded alongside it.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "That at that time ye were without Christ, being aliens from the commonwealth of Israel, and strangers from the covenants of promise, having no hope, and without God in the world:"
+      }
+    ],
+    "5:8": [
+      {
+        "source": "Luke 12:2",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 3
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Luke 12:3",
+          "Matthew 10:26",
+          "Matthew 10:27"
+        ],
+        "provenance": {
+          "route": "Luke 12:2-3 (or Matthew 10:26-27 — see below) → KJV → Book of Mormon",
+          "other": "The saying is a couplet and the Book of Mormon has collapsed it. “hid, that shall not be known” occurs in exactly three KJV verses (Matthew 10:26, Luke 8:17, Luke 12:2); “shall not be revealed” occurs in exactly two (Matthew 10:26, Luke 12:2); “upon the housetops” occurs in exactly four (Psalm 129:6, Zephaniah 1:5, Matthew 10:27, Luke 12:3). Mormon 5:8 has 'all things which are hid must be revealed upon the house tops', which takes the verb of the first line and the place of the second and puts them in one clause. No KJV verse says anything is revealed upon the housetops: Luke 12:3 has 'proclaimed', Matthew 10:27 has 'preach ye'.",
+          "significance": "Which synoptic is undecidable on the wording, and the tool says so. tools/mediation-check.py finds no divergence between Matthew 10:26 and Luke 12:2 that this verse touches — the two differ only in Matthew's opening 'Fear them not therefore' and in 'and' against 'neither', and Mormon has neither element. Between the second halves there is one weak discriminator: Mormon's construction is passive and future ('must be revealed'), which is Luke 12:3's shape ('shall be proclaimed') and not Matthew 10:27's imperative ('preach ye'). That, and Hardy's cross-reference, is why the row is filed on Luke; the Matthean parallel is carried in composite and the case should be read as synoptic rather than Lukan. The metalepsis is worth the recovery. In both gospels the saying is addressed to disciples told not to fear those who kill the body: whatever is whispered under threat of death will be shouted from the roofs. Mormon is a man who has watched his nation killed and is explaining why he will write the record down at all — 'I do not desire to harrow up the souls of men … but I, knowing that these things must surely be made known'. He quotes the fearless-speech saying as the reason he cannot keep silent about a slaughter he would rather not describe.",
+          "mt": "1830 prints 'house tops' as two words where the KJV has 'housetops'; 1920 prints 'house-tops'. The borrowing is not orthographic here and the split spelling is a small argument against a purely visual copy."
+        },
+        "note": "'And that all things which are hid must be revealed upon the house tops.' Fewer than sixteen words and so below Skousen's threshold for a King James quotation — this is not one of his 36 — but the contact is not in doubt: two distinctive elements of a two-verse synoptic saying are fused into a single clause, and the fusion is not in any Bible. The interest is in the compression. The gospel saying distinguishes what is hidden (which will be revealed) from what is spoken in secret (which will be proclaimed from the housetops); Mormon runs the two together so that the hidden thing itself goes up onto the roof. That is exactly what he is claiming about the record in his hands.",
+        "bibliography": [
+          "Hardy MSI at Morm 5.8 (Luke 12:2-3)"
+        ],
+        "status": "majority",
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ],
+        "text": "For there is nothing covered, that shall not be revealed; neither hid, that shall not be known."
+      }
+    ],
+    "5:14": [
+      {
+        "source": "John 20:31",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 1
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Matthew 16:16",
+          "John 6:69",
+          "1 John 5:1"
+        ],
+        "recurrenceRefs": [
+          "Mormon 5:12"
+        ],
+        "provenance": {
+          "route": "John 20:31 (the purpose clause) + Matthew 16:16 (the title) → KJV → Book of Mormon",
+          "other": "“Jesus is the Christ” occurs in exactly three KJV verses (John 20:31, 1 John 2:22, 1 John 5:1); “the Son of the living God” occurs in exactly two (Matthew 16:16, John 6:69). Mormon 5:14 has both at once — 'that Jesus is the Christ, the Son of the living God' — and that full string is in no KJV verse. John 20:31 reads 'the Son of God'; Matthew 16:16 reads 'Thou art the Christ'. The Book of Mormon has taken the predicate from one and the title from the other.",
+          "significance": "The frame is what makes this more than a fused epithet. John 20:31 is the colophon of a gospel, the sentence in which a writer stops narrating and says why he wrote: 'these are written, that ye might believe that Jesus is the Christ'. Mormon 5:12-14 is the colophon of a record — 'these things are written unto the remnant of the house of Jacob … and for this intent shall they go: that they may be persuaded that Jesus is the Christ' — and it states the Book of Mormon's own purpose in John's terms, two verses after stating that the record is written and hidden up. Recover John 20:31's context and the point of the echo is a claim about genre: this book is asking to be read as a gospel's closing sentence asks to be read. Note also the substitution John will not make: John writes 'the Son of God', and Mormon upgrades it to Peter's confession at Caesarea Philippi, the one place in the gospels where the title is given by revelation rather than by a narrator."
+        },
+        "note": "'That they may be persuaded that Jesus is the Christ, the Son of the living God.' Eight words of John's purpose clause with Peter's confession spliced into its second half. The verse is doing the same work John 20:31 does — explaining why a written record exists and what its readers are meant to conclude — and it is doing it in a chapter that has just said the record is 'to be hid up unto the Lord, that they may come forth in his own due time' (5:12). The machine stream reached John 20:31 on its own here, on an eight-word run, which is unusual; most of this chapter's links are invisible to it.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ],
+        "text": "But these are written, that ye might believe that Jesus is the Christ, the Son of God; and that believing ye might have life through his name."
+      }
+    ],
+    "5:16": [
+      {
+        "source": "Ephesians 2:12",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "certain",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 1
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "recurrenceRefs": [
+          "Mormon 5:2",
+          "Mormon 5:20"
+        ],
+        "provenance": {
+          "route": "Ephesians 2:12 → KJV → Book of Mormon",
+          "other": "“without Christ” occurs in exactly one KJV verse and “without God in the world” occurs in exactly one KJV verse, and it is the same verse. Ephesians 2:12 reads 'ye were without Christ, being aliens from the commonwealth of Israel, and strangers from the covenants of promise, having no hope, and without God in the world'. Mormon 5:16 reads 'they are without Christ and God in the world', which is the first phrase and the last with the thirteen intervening words and the second 'without' elided.",
+          "significance": "This is metalepsis in Hays's strict sense, and the suppressed material is the argument of the chapter. What Mormon 5:16 deletes from the middle of Ephesians 2:12 is 'aliens from the commonwealth of Israel, and strangers from the covenants of promise' — and Mormon 5 is about nothing else. Four verses later the covenant returns by name: 'then will the Lord remember the covenant which he made unto Abraham, and unto all the house of Israel' (5:20). A reader who recovers the elided clause finds the chapter's thesis sitting inside the verse it was cut out of. The transfer also inverts Paul. Ephesians 2:12 describes Gentiles in their former state, outside a commonwealth that belonged to somebody else; Mormon applies it word for word to the seed of Israel, and gives the blessing they lost to the Gentiles in the very next paragraph (5:19). Paul's next move, 'ye who sometimes were far off are made nigh by the blood of Christ', is the shape of Mormon's 5:20 — scattering, then remembrance."
+        },
+        "note": "'They are without Christ and God in the world.' Two King James singletons from a single verse, fused by dropping the thirteen words between them. Dependence is not seriously deniable: either phrase alone occurs once in the Bible, and both occur here in the source's order. The row matters as much for how it was found as for what it says. The n-gram stream did not propose Ephesians 2:12 anywhere in this chapter and could not have: the two phrases are separated in the source by a clause the Book of Mormon does not reproduce, so no contiguous window sees the agreement. This is the failure mode CONVENTIONS §9 records at Psalm 145:9 and it produced the strongest link in the chapter.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "That at that time ye were without Christ, being aliens from the commonwealth of Israel, and strangers from the covenants of promise, having no hope, and without God in the world:"
+      },
+      {
+        "source": "Genesis 6:3",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 1
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "provenance": {
+          "route": "Genesis 6:3 → KJV → Book of Mormon",
+          "other": "“not always strive” occurs in exactly one KJV verse. The bare verb “strive with” occurs in six, and none of the other five has a divine subject: Genesis 26:20 is herdsmen quarrelling over a well, Psalm 35:1 and Isaiah 41:11 are human adversaries, Isaiah 45:9 is the potsherd, Hosea 4:4 is striving with the priest. The Spirit of God striving with men, and ceasing to, is Genesis 6:3 alone.",
+          "significance": "Genesis 6:3 is the sentence God passes immediately before the Flood: the Spirit is withdrawn, a term of years is set, and then the race is destroyed. Mormon writes it in the perfect tense — 'hath already ceased to strive' — about a people whose destruction he has just finished narrating and will finish burying in the next chapter. The tense is the whole argument. Genesis 6:3 is a countdown; Mormon 5:16 reports that the countdown has already run out. Recover the context and the reader is told what comes next without being told, which is the point of the figure."
+        },
+        "note": "'For behold, the spirit of the Lord hath already ceased to strive with their fathers.' The idiom is Genesis 6:3's and no other verse's, and Mormon takes it at the exact moment in his narrative where Genesis takes it — after a long account of universal violence and immediately before the extinction of the people described. Note that he moves it back a generation: it is 'their fathers' the Spirit ceased to strive with, so that the destruction of the present generation is already a foregone thing when the chapter opens.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "And the LORD said, My spirit shall not always strive with man, for that he also is flesh: yet his days shall be an hundred and twenty years."
+      },
+      {
+        "source": "Psalm 35:5",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 3,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 2
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Psalm 1:4"
+        ],
+        "recurrenceRefs": [
+          "Mormon 5:18"
+        ],
+        "provenance": {
+          "route": "Psalm 35:5 (the phrase) + Psalm 1:4 (the verb) → KJV → Book of Mormon",
+          "other": "“chaff before the wind” occurs in exactly one KJV verse, Psalm 35:5. The participle Mormon attaches to it is not there: Psalm 35:5 has 'Let them BE as chaff before the wind'. “the wind driveth away” occurs in exactly one KJV verse, Psalm 1:4, 'like the chaff which the wind driveth away'. Mormon 5:16 has 'driven about as chaff before the wind' and 5:18 has 'as chaff is driven before the wind', which is the second psalm's verb inside the first psalm's phrase, twice.",
+          "significance": "Psalm 35:5 is a petition, not a description. The psalmist asks God to make his persecutors chaff before the wind and to send the angel of the LORD after them. Mormon reports the petition granted against his own nation, which puts the covenant people in the grammatical position the psalm reserves for its enemies — and Psalm 1:4, which supplies the verb, identifies the chaff as 'the ungodly'. Both psalms are prayers of the righteous about somebody else; Mormon 5:16 is a righteous man saying it of his own."
+        },
+        "note": "'And they are driven about as chaff before the wind.' A King James singleton, repeated two verses later in a variant form, with a participle drawn from the only other verse in the Bible where chaff and wind are put together this way. The repetition at 5:18 is what raises this above a stock simile: Mormon uses the phrase twice in three verses, in a chapter whose other borrowings are single and precise, and the second use extends it into a second figure — 'or as a vessel is tossed about upon the waves, without sail or anchor'.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ],
+        "text": "Let them be as chaff before the wind: and let the angel of the LORD chase them."
+      }
+    ],
+    "5:18": [
+      {
+        "source": "Hebrews 6:19",
+        "type": "echo",
+        "subtype": "possible",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 2,
+          "syntax": 1,
+          "sequence": 2,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "uncertain",
+        "mediation": "direct-NT",
+        "recurrenceRefs": [
+          "Mormon 5:2",
+          "Mormon 5:16"
+        ],
+        "provenance": {
+          "route": "Hebrews 6:19 → KJV → Book of Mormon",
+          "other": "“anchor” in the singular occurs in exactly one KJV verse, Hebrews 6:19: 'which hope we have as an anchor of the soul, both sure and stedfast'. The plural “anchors” occurs in exactly three, all of them in the shipwreck of Acts 27 (27:29, 27:30, 27:40), where they are ship's tackle and nothing else. So the King James Bible has exactly one anchor that means anything, and what it means is hope.",
+          "alternative": "A rudderless, anchorless ship is a commonplace figure for a people without direction and needs no scriptural source whatever; Mormon has spent his life on a continent and a page describing flight and drift, and 5:18's sail, anchor and steering are a single sustained image that reads as his own. Acts 27 is the more natural nautical background if one is wanted.",
+          "significance": "Read against Hebrews 6:19 the negation becomes an argument rather than a picture. Mormon opened the chapter 'without hopes' (5:2), reported his people 'without Christ and God in the world' at 5:16 from a verse whose third privative is 'having no hope', and here sets them adrift 'without sail or anchor'. In the King James Bible the anchor IS the hope, and it is 'sure and stedfast' precisely because it 'entereth into that within the veil' — it holds because it is fastened to something beyond the storm. A people cut off from the covenant has nothing on the far side to be fastened to. The chain is the reason the row is here; the single word is not."
+        },
+        "note": "'Or as a vessel is tossed about upon the waves, without sail or anchor, or without any thing wherewith to steer her.' One word of contact, and it is offered as a reading rather than as a demonstration. What makes it worth proposing is that the word is a King James singleton in the singular and that its one occurrence is the metaphor Mormon 5 has already used twice in the negative. Take the three privatives together — no hope, no Christ, no anchor — and the chapter is running one figure, not three. Take them apart and this row is a coincidence about a common noun. Recorded under CONVENTIONS §0a with the objection stated in full.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "Which hope we have as an anchor of the soul, both sure and stedfast, and which entereth into that within the veil;"
+      }
+    ],
+    "5:19": [
+      {
+        "source": "Romans 11:25",
+        "type": "figural",
+        "subtype": "structural",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 1,
+          "syntax": 1,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 1,
+          "attestation": 1
+        },
+        "kjvSpecific": "no",
+        "mediation": "direct-NT",
+        "composite": [
+          "Romans 11:11",
+          "Romans 11:20",
+          "Romans 11:26",
+          "Romans 11:27"
+        ],
+        "recurrenceRefs": [
+          "Mormon 5:15",
+          "Mormon 5:20"
+        ],
+        "provenance": {
+          "route": "Romans 11 → KJV → Book of Mormon (structural, not verbal)",
+          "other": "There is almost no shared wording and the row does not claim any. “because of unbelief” occurs in exactly three KJV verses (Romans 11:20, Hebrews 3:19, Hebrews 4:6), and Mormon 5:15's 'because of their unbelief and idolatry' is close to Romans 11:20's 'because of unbelief they were broken off' — but the phrase is too ordinary to carry a link on its own and is recorded here only as the one point of verbal contact in the sequence.",
+          "significance": "The argument, not the wording, is Paul's. Romans 11 runs: Israel stumbles through unbelief; the blessing passes to the Gentiles for a season; the Gentiles are warned not to boast, because the root bears them and not they the root; and when the fulness of the Gentiles is come in, God remembers his covenant. Mormon 5:15-21 runs the same four steps in the same order — scattered 'because of their unbelief' (5:15), 'the Lord hath reserved their blessing … for the Gentiles' (5:19), 'O ye Gentiles, how can ye stand' with a demand that they 'realize and know from whence their blessings come' (5:10, 5:22), and then 'will the Lord remember the covenant which he made unto Abraham' (5:20). Romans 11:18's 'boast not against the branches' and Mormon 5:10's 'realize and know from whence their blessings come' are the same warning to the same audience for the same reason."
+        },
+        "note": "'And behold, the Lord hath reserved their blessing, which they might have received in the land, for the Gentiles, which shall possess the land.' Filed as figural because there is no wording to test: the case is that Mormon 5:15-21 reproduces the four-step argument of Romans 11 in Romans's order, including the turn to second-person address of the Gentiles and the warning against forgetting whose root they are standing on. Confidence is moderate rather than high because a covenant book could reach this sequence from Leviticus 26 and Deuteronomy 28 without Paul, and 5:20 shows it drawing directly on Leviticus 26:42 for the last step. What Leviticus cannot supply is the middle two steps — the transfer of the blessing to the Gentiles and the reproof of Gentile presumption — and those are Romans 11's contribution to the chapter. Invisible to the machine streams by construction.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "For I would not, brethren, that ye should be ignorant of this mystery, lest ye should be wise in your own conceits; that blindness in part is happened to Israel, until the fulness of the Gentiles be come in."
+      }
+    ],
+    "5:20": [
+      {
+        "source": "Leviticus 26:42",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 2
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Leviticus 26:33",
+          "Leviticus 26:45"
+        ],
+        "recurrenceRefs": [
+          "Mormon 5:19"
+        ],
+        "provenance": {
+          "route": "Leviticus 26:42 → KJV → Book of Mormon",
+          "other": "“Then will I remember” occurs in exactly one KJV verse, Leviticus 26:42, where it governs the covenant with Jacob, Isaac and Abraham. “remember my covenant” occurs in exactly three (Genesis 9:15, Leviticus 26:42, Ezekiel 16:60); Genesis 9:15 is Noah's rainbow and Ezekiel 16:60 is Jerusalem's youth, so Leviticus 26:42 is the only one where the covenant remembered is the patriarchs'. Mormon 5:20 converts the person — 'then will the Lord remember the covenant which he made unto Abraham' — and keeps the construction and the ordering, Abraham last.",
+          "alternative": "Exodus 2:24, 'God remembered his covenant with Abraham, with Isaac, and with Jacob', is the other place the patriarchal covenant is remembered after affliction, and Luke 1:72's 'to remember his holy covenant' is the New Testament's form of the same idea.",
+          "significance": "tools/mediation-check.py was run on Leviticus 26:42 against Exodus 2:24 and Luke 1:72 and returned divergences pointing both ways, which the tool correctly refuses to resolve. Read out, the split is not evenly balanced. The two points favouring Leviticus are positive: Mormon has 'then will … remember' against Exodus's 'And God … remembered', and he has the Abraham-last ordering. The one point favouring Luke 1:72 is that Mormon lacks Leviticus's long triple list of patriarchs — an absence, and an absence explained by the sentence Mormon is writing, which needs one name and not three. Direct-OT is the call. What settles it beyond the phrase is the surrounding chapter: Leviticus 26 is the covenant-curse chapter, and its sequence is Mormon 5's sequence exactly — cities laid waste (26:31, 33), the people scattered among the heathen (26:33), the land enjoying her sabbaths while they are in their enemies' land (26:34), and then, at 26:42, remembrance. Mormon 5:5 burned the towns and cities, 5:20 scatters the people among the Gentiles, and 5:20 remembers the covenant. He is not quoting a verse; he is running a chapter."
+        },
+        "note": "'And after that they have been driven and scattered by the Gentiles, behold, then will the Lord remember the covenant which he made unto Abraham, and unto all the house of Israel.' A King James singleton construction in a third-person conversion, sitting at exactly the point of Leviticus 26 where the singleton sits — after the scattering and before the restoration. The link is worth more than its four shared words because what is borrowed is the hinge of a chapter, not a phrase from it: the whole force of Leviticus 26:42 is that the remembering comes AFTER the scattering and not instead of it, and Mormon builds his sentence on the same 'after … then'.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "Then will I remember my covenant with Jacob, and also my covenant with Isaac, and also my covenant with Abraham will I remember; and I will remember the land."
+      }
+    ],
+    "5:22": [
+      {
+        "source": "Revelation 6:17",
+        "type": "echo",
+        "subtype": "possible",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 2,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 4,
+          "rarity": 1,
+          "attestation": 0
+        },
+        "kjvSpecific": "uncertain",
+        "mediation": "direct-NT",
+        "composite": [
+          "Nahum 1:6",
+          "1 Samuel 6:20",
+          "Malachi 3:2"
+        ],
+        "recurrenceRefs": [
+          "Mormon 5:23"
+        ],
+        "provenance": {
+          "route": "Revelation 6:14-17 → KJV → Book of Mormon",
+          "other": "The wording proves nothing by itself: “able to stand” occurs in exactly ten KJV verses and “who can stand” in exactly three (Deuteronomy 9:2, Psalm 147:17, Nahum 1:6). Mormon's 'how can ye stand before the power of God' is the generic form of a question the King James Bible asks in several places, and Nahum 1:6, Malachi 3:2 and 1 Samuel 6:20 are all live alternatives.",
+          "alternative": "Nahum 1:6, 'Who can stand before his indignation?', is the closest single verse and would account for the sentence with no help from Revelation.",
+          "significance": "The reason to name Revelation 6:17 rather than Nahum is the next verse. Revelation 6:14-17 is the one passage in the Bible where the unanswerable question 'who shall be able to stand?' is set beside the heaven departing 'as a scroll when it is rolled together' — and Mormon 5:22-23 sets those two motifs side by side too, in adjacent sentences addressed to the same audience. The order is reversed (Revelation has the scroll then the question; Mormon has the question then the scroll), which is why this is an echo and not more. But 5:23's scroll is a demonstrable King James borrowing, and mediation-check.py shows its wording is Isaiah 34:4's rather than Revelation 6:14's. So the pair is worth stating precisely: the words at 5:23 come from Isaiah, and the company they keep at 5:22 comes from the chapter of Revelation that quotes Isaiah. That is a real distinction between a source and a setting, and it is the kind of thing the mediation field exists to catch."
+        },
+        "note": "'And then, O ye Gentiles, how can ye stand before the power of God, except ye shall repent and turn from your evil ways?' Filed at moderate on sequence rather than on vocabulary, and the vocabulary is frankly weak — ten KJV verses ask a version of this question. What is not weak is that the two images of Revelation 6:14-17, the rhetorical question about standing and the heavens rolled up as a scroll, occur in Mormon 5 within one verse of each other, and nowhere else in the book. The inverted order counts against it and is recorded.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "For the great day of his wrath is come; and who shall be able to stand?"
+      }
+    ],
+    "5:23": [
+      {
+        "source": "Isaiah 34:4",
+        "type": "quotation",
+        "subtype": "close-verbal",
+        "confidence": "certain",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 3
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Revelation 6:14"
+        ],
+        "recurrenceRefs": [
+          "Mormon 5:22"
+        ],
+        "provenance": {
+          "route": "Isaiah 34:4 → KJV → Book of Mormon",
+          "other": "“rolled together as a scroll” occurs in exactly one KJV verse, and “shall be rolled together” occurs in exactly one KJV verse; both are Isaiah 34:4. “as a scroll” occurs in exactly two, Isaiah 34:4 and Revelation 6:14, which is the New Testament's reuse of it and the reason mediation had to be tested rather than assumed.",
+          "alternative": "Revelation 6:14, 'the heaven departed as a scroll when it is rolled together', is the same image in the same Bible and is the passage a reader is likelier to know.",
+          "significance": "tools/mediation-check.py returns one decisive point and it is clean: Revelation adds 'when it is rolled together' as a trailing subordinate clause after 'as a scroll', and the Book of Mormon does not have it. Mormon has Isaiah's order — 'shall be rolled together as a scroll' — with the participle before the noun, which is Isaiah's syntax and not John's. So the phrasing is the Old Testament's, taken directly, in a chapter that has otherwise been drawing on the New Testament heavily (Ephesians 2:12 at 5:16, John 20:31 at 5:14, the synoptic saying at 5:8). The one substitution is the interesting residue: Isaiah rolls up THE HEAVENS, and Mormon rolls up THE EARTH. Isaiah 34 is a judgment on Edom in which the sky is dismantled over a land given to desolation; Mormon, standing on a continent that has just been emptied of its people, transfers the dissolution to the ground under it."
+        },
+        "note": "'Know ye not that he hath all power, and at his great command the earth shall be rolled together as a scroll?' Six words verbatim from a verse whose phrase occurs nowhere else in the Bible, with one noun changed. Well below Skousen's sixteen-word threshold and so not one of his King James quotations, but by CONVENTIONS §2 the completeness of the reproduced predicate and the absolute rarity of the phrase make quotation the right category regardless of length. The mediation is the finding here rather than the borrowing: with Revelation 6:14 available and better known, the text takes Isaiah's form.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ],
+        "text": "And all the host of heaven shall be dissolved, and the heavens shall be rolled together as a scroll: and all their host shall fall down, as the leaf falleth off from the vine, and as a falling fig from the fig tree."
+      },
+      {
+        "source": "1 Corinthians 3:16",
+        "type": "echo",
+        "subtype": "possible",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 4,
+          "sequence": 2,
+          "context": 3,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "1 Corinthians 6:16",
+          "1 Corinthians 6:19"
+        ],
+        "provenance": {
+          "route": "1 Corinthians 3:16 → KJV → Book of Mormon",
+          "other": "“Know ye not that ye are” occurs in exactly one KJV verse, 1 Corinthians 3:16, 'Know ye not that ye are the temple of God'. The shorter “Know ye not” occurs in seventeen, and thirteen of the seventeen are Paul's, eleven of those in 1 Corinthians alone (3:16, 5:6, 6:3, 6:9, 6:15, 6:16, 6:19, 9:24 and the rest). The formula is not rare; the completed six-word opening is.",
+          "alternative": "Mormon has used interrogative address before this chapter and 'know ye not' is available to any English writer who has read Paul at all — which, on this text's own account of itself, is not available to Mormon, but is the point of the catalogue rather than an argument against the row.",
+          "significance": "What is borrowed is a manner of arguing, not a proposition. Paul's 'know ye not' is the hammer of the diatribe: a rapid series of rhetorical questions, each assuming the answer, put to an audience being told it has forgotten what it already knows. Mormon uses it doubled — 'Know ye not that ye are in the hands of God? Know ye not that he hath all power' — in the only place in his book where he turns from narration to address the Gentile reader directly. The predicate is the interesting change. Paul completes the phrase with 'the temple of God'; Mormon completes it with 'in the hands of God', which turns Paul's assurance of indwelling into a warning about being held."
+        },
+        "note": "'Know ye not that ye are in the hands of God? Know ye not that he hath all power?' The six-word opening is a King James singleton and the doubling is Pauline in a way that a single instance would not be. Offered at moderate because the sense diverges sharply from 1 Corinthians 3:16 — Paul is reassuring the Corinthians that they are God's dwelling; Mormon is telling the Gentiles they are in God's grip — and because the phrase, unlike the chapter's other borrowings, is a piece of rhetorical furniture rather than an image. Its value is that it fixes the register of 5:22-24 as apostolic address rather than prophetic oracle, which is what the second-person turn at 5:24 then confirms.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ],
+        "text": "Know ye not that ye are the temple of God, and that the Spirit of God dwelleth in you?"
+      }
+    ],
+    "5:24": [
+      {
+        "source": "Micah 5:8",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 3
+        },
+        "kjvSpecific": "yes",
+        "mediation": "OT-via-earlier-BoM",
+        "composite": [
+          "Psalm 50:22",
+          "Psalm 7:2"
+        ],
+        "recurrenceRefs": [
+          "3 Nephi 20:16",
+          "3 Nephi 21:12",
+          "3 Nephi 16:15"
+        ],
+        "provenance": {
+          "route": "Micah 5:8 → 3 Nephi 20:16 (Jesus's citation) → Mormon 5:24, fused with Psalm 50:22",
+          "other": "Two sources, and the seam between them is visible. From Micah 5:8: “as a lion among the beasts” occurs in exactly one KJV verse and “none can deliver” occurs in exactly one KJV verse, both Micah 5:8; “remnant of Jacob” occurs in exactly three (Isaiah 10:21, Micah 5:7, Micah 5:8). From Psalm 50:22: “tear you in pieces” occurs in exactly one KJV verse. Mormon 5:24's closing clause is 'and tear you in pieces, and there is none to deliver' — 'tear you', second person, is Psalm 50:22's and cannot be Micah's, which has the third-person 'teareth in pieces'; and 'there is none to deliver' is one auxiliary from Psalm 50:22's 'there be none to deliver' and two words from Micah's 'none can deliver'.",
+          "significance": "The mediation is the finding, and it is checkable on one word. Micah 5:8 reads 'the remnant of Jacob shall BE AMONG the Gentiles'. 3 Nephi 20:16, where the risen Jesus recites Micah to the Nephites, reads 'then shall ye which are a remnant of the house of Jacob, GO FORTH AMONG them' — a substitution that belongs to that recitation and to no Bible; “go forth among” occurs in no KJV verse at all. Mormon 5:24 has 'a remnant of the seed of Jacob shall GO FORTH AMONG you'. The proximate model is therefore the Book of Mormon's own earlier citation and not the prophet, which is what mediation 'OT-via-earlier-BoM' is for, and it is the cleanest instance of it the catalogue has had outside 2 Nephi. Note that 3 Nephi 21:12 gives the same passage in Micah's own wording, 'shall be among the Gentiles' — so the book contains both forms and Mormon reproduced the one with the substitution. tools/mediation-check.py, run on Micah 5:8 against Psalm 50:22, returns one decisive point for Micah on the absence of 'there be'; that reading is an artifact of how the segments align, since Mormon's 'there is' is Psalm's construction with one auxiliary changed and not Micah's at all. The tool is right that the verse is composite and wrong about which side the last clause falls on. Recovering Psalm 50:22 pays: it is addressed to 'ye that forget God', and Mormon's demand of the Gentiles fourteen verses earlier was that they 'realize and know from whence their blessings come' (5:10).",
+          "alternative": "Micah 5:8 alone, taken direct from the Old Testament, accounts for the lion and the remnant and would be the default reading; it does not account for 'go forth among' or for the second-person 'tear you'."
+        },
+        "note": "'Lest a remnant of the seed of Jacob shall go forth among you as a lion, and tear you in pieces, and there is none to deliver.' Micah's oracle turned into a threat and aimed at the reader. Three things are happening at once. Micah's remnant is a promise to Israel about the nations; Mormon keeps the lion and the remnant and points them at the Gentiles he is addressing. Psalm 50:22 supplies the second person — 'lest I tear you in pieces' — and with it the psalm's premise, that the people being warned are people who have forgotten God. And the verb of motion is not Micah's but the Book of Mormon's own, taken from the risen Christ's recitation of Micah at 3 Nephi 20:16, which is why the mediation is filed through the earlier Book of Mormon text rather than direct-OT. Hardy's apparatus cross-references Micah 5:8 here; the psalm and the internal route are this catalogue's.",
+        "bibliography": [
+          "Hardy MSI at Morm 5.24 (Micah 5:8)"
+        ],
+        "status": "majority",
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ],
+        "text": "And the remnant of Jacob shall be among the Gentiles in the midst of many people as a lion among the beasts of the forest, as a young lion among the flocks of sheep: who, if he go through, both treadeth down, and teareth in pieces, and none can deliver."
+      }
+    ]
+  }
+}

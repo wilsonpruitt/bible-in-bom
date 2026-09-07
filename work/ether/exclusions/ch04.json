@@ -1,0 +1,98 @@
+[
+  {
+    "bomRef": "Ether 4:1",
+    "source": "Exodus 3:13",
+    "category": "formulaic",
+    "sharedText": "come unto the children of",
+    "streams": ["machine-ngram"],
+    "reason": "The chapter's top-ranked machine candidate and pure connective tissue. “the children of men” is one of the Book of Mormon's commonest phrases and “come unto” one of its commonest verbs; the run is an accident of their meeting. Exodus 3:13 is Moses asking God for a name to give Israel, and shares no content word with a verse about writings withheld from publication. Covered in principle by the standing exclusion at 1 Nephi 1:5 and listed here only because it heads the ranking for this chapter and a reader checking our work will meet it first."
+  },
+  {
+    "bomRef": "Ether 4:6",
+    "source": "1 Kings 22:14",
+    "category": "formulaic",
+    "sharedText": "the Lord saith unto me",
+    "streams": ["machine-ngram"],
+    "reason": "A five-word run scoring 2.00, and it is a speech-introduction formula in both texts. Micaiah is promising Ahab's messenger that he will say only what the LORD tells him; Moroni is introducing a divine oracle about when the sealed record goes to the Gentiles. The Book of Mormon uses “saith the Lord” and its variants continuously — three more times inside this chapter alone (4:7 twice, 4:8) — so no single KJV verse can be the source of the formula. Note also that the 1830's “For the Lord saith unto me” is present tense where the 1920 reads “said”, which is a variant worth having but bears on the editorial history, not on any borrowing."
+  },
+  {
+    "bomRef": "Ether 4:7",
+    "source": "Genesis 2:4",
+    "category": "better-source-identified",
+    "sharedText": "the heavens and of the earth",
+    "streams": ["machine-ngram"],
+    "reason": "The highest-scoring candidate at this verse — a seven-word run, rarity 3.00 — and it is genuinely present: “the Father of the heavens and of the earth” has Genesis 2:4's double genitive, which the KJV's more usual “heaven and earth” does not. But it is the smaller half of the verse's borrowing. The clause that follows, “and all things that in them is”, carries a grammatical fossil of Exodus 20:11 (the singular verb surviving a pluralised subject) that identifies its source beyond argument, and it is where the link is catalogued; Genesis 2:4 is recorded there as a composite. A reader who arrives at this verse through the machine ranking is sent to the Exodus 20:11 row."
+  },
+  {
+    "bomRef": "Ether 4:8",
+    "source": "Jeremiah 17:15",
+    "category": "common-vocabulary",
+    "sharedText": "the word of the Lord",
+    "streams": ["machine-ngram"],
+    "reason": "Two candidates rank at this verse on the same string, Jeremiah 17:15 and 1 Chronicles 10:13, and “the word of the LORD” occurs in exactly 255 KJV verses. It is the King James Bible's standing designation for a prophetic communication and cannot point at any one of them. This entry covers both. The real borrowing at 4:8 is “let him be accursed”, which occurs in two KJV verses and is catalogued to Galatians 1:8; the machine could not see it because Galatians 1:8's surrounding words are entirely different, which is CONVENTIONS §9's point about the n-gram stream being a recall floor."
+  },
+  {
+    "bomRef": "Ether 4:9",
+    "source": "1 Corinthians 3:15",
+    "category": "wrong-sense",
+    "sharedText": "so as by fire",
+    "streams": ["manual"],
+    "reason": "The most tempting rejection in the chapter and the reason this register exists. “so as by fire” occurs in exactly one KJV verse — 1 Corinthians 3:15, “he himself shall be saved; yet so as by fire” — and Ether 4:9 ends “the inhabitants thereof shall pass away, even so as by fire”. A four-word King James singleton reproduced with one word changed is normally decisive evidence, and here it is not, because the two verses use the fire for opposite purposes. Paul's fire tries a man's work, destroys the work, and lets the man through; the adverbial “yet” is doing the whole job, conceding a loss in order to affirm a salvation. Ether 4:9's fire is the instrument by which the inhabitants of the earth are removed, and its “even” intensifies a threat rather than qualifying a rescue. Nothing else of 1 Corinthians 3 is anywhere near this verse — no builders, no foundation, no gold and stubble, no day that declares it — and Ether 4:9's three clauses are otherwise a catalogue of cosmic authority (heavens opened and shut, earth shaken) with no soteriology in them at all. Recorded at length so that a reader who runs the rarity count and finds the singleton is told the catalogue found it too, and why it declined. The link at this verse is placed on Joel 3:16 instead, on the shaking."
+  },
+  {
+    "bomRef": "Ether 4:12",
+    "source": "Exodus 3:14",
+    "category": "wrong-sense",
+    "sharedText": "that I am",
+    "streams": ["machine-ngram"],
+    "reason": "The machine matched “that i am and” against “I AM THAT I AM: and”, and the temptation is real, because Ether 4:12 is a chain of divine self-predications (“I am the Father, I am the light, and the life”) and Exodus 3:14 is the one KJV verse where the divine name is a self-predication. But the shared words are not doing the same work. In Ether 4:12 “that I am” is the object of a verb of believing — “he that will not believe me, that I am” — an ellipsis for believing in the speaker's existence or identity; in Exodus 3:14 “THAT” is a relative and the phrase is a name given to Moses to repeat. The Book of Mormon's absolute “I am” self-predications in this verse are Johannine in form (see the John 14:6 row), not Mosaic, and the chapter shows no other contact with the burning bush."
+  },
+  {
+    "bomRef": "Ether 4:12",
+    "source": "Mark 10:18",
+    "category": "insufficient-verbal",
+    "sharedText": "(good comes from God alone)",
+    "streams": ["manual"],
+    "reason": "“For good cometh of none, save it be of me” states in the Lord's own voice what Mark 10:18 and Matthew 19:17 state as a question — “Why callest thou me good? there is none good but one, that is, God”. The proposition is the same and the phrase “none good but one” occurs in exactly two KJV verses, both of them that saying. It is excluded on two counts. There is no shared distinctive wording at all: “none” and “good” are the only common words and their syntax differs entirely. And the sense is inverted at the point that matters most — the synoptic saying deflects the title away from the speaker, and Ether 4:12 claims it for him. A Book of Mormon verse in which Christ says that all good comes of him is doing the opposite of the verse in which Christ declines to be called good. Recorded because a reader who knows the synoptic saying will think of it here."
+  },
+  {
+    "bomRef": "Ether 4:13",
+    "source": "Colossians 2:3",
+    "category": "better-source-identified",
+    "sharedText": "hid ... knowledge",
+    "streams": ["manual"],
+    "reason": "“The knowledge which is hid up because of unbelief” invites Colossians 2:3, “in whom are hid all the treasures of wisdom and knowledge”, and “the treasures of wisdom and knowledge” occurs in exactly one KJV verse. Two words in common is not enough, and the two hidings are of different kinds: Paul's knowledge is hidden *in Christ* as a location, permanently and by nature, while Ether 4:13's is hidden *from* a people, contingently, and released on repentance. The concealment language in this passage is adjudicated two verses later, at 4:15, where “hid up from the foundation of the world” has a real KJV background in Matthew 13:35's “kept secret from the foundation of the world” — a hiding that is likewise a withholding from those who will not receive, and that carries the parable theory the chapter is working with. A reader at 4:13 is sent there."
+  },
+  {
+    "bomRef": "Ether 4:15",
+    "source": "Isaiah 1:15",
+    "category": "formulaic",
+    "sharedText": "from you yea when ye",
+    "streams": ["machine-ngram"],
+    "reason": "A five-word run scoring 2.00 across a clause boundary, and every word of it is connective. Ether 4:15's “...from the foundation of the world from you; yea, when ye shall call upon the Father” and Isaiah 1:15's “I will hide mine eyes from you: yea, when ye make many prayers” happen to place the same three particles in the same order. There is a faint thematic overlap — both concern prayer that God will or will not hear — but Isaiah 1:15 refuses the prayers of bloody hands and Ether 4:15 promises to hear the broken-hearted, and the resemblance does not survive the second clause. A textbook case of the n-gram stream scoring rare boilerplate (CONVENTIONS §9)."
+  },
+  {
+    "bomRef": "Ether 4:17",
+    "source": "Ezekiel 34:6",
+    "category": "formulaic",
+    "sharedText": "upon all the face of the",
+    "streams": ["machine-ngram"],
+    "reason": "A six-word run and a stock KJV locution for extent — “upon all the face of the earth” at Genesis 1:29, 7:3, 8:9, 11:4 and elsewhere. Ezekiel 34:6 ranked only because its noun is “earth” and the surrounding words happen to align; the Book of Mormon's phrase is “upon all the face of the land”, which is its own standing formula, used dozens of times across the corpus. No contact with Ezekiel's scattered flock."
+  },
+  {
+    "bomRef": "Ether 4:18",
+    "source": "Isaiah 45:22",
+    "category": "better-source-identified",
+    "sharedText": "repent all ye ends of the earth, and come unto me",
+    "streams": ["manual"],
+    "reason": "The call that opens 4:18 looks Isaianic — “Look unto me, and be ye saved, all the ends of the earth” (Isaiah 45:22) is the KJV's one summons of the earth's ends to salvation, and the resemblance of shape is close. But “the ends of the earth” occurs in 28 KJV verses and “ye ends of the earth” in none of them, while the Book of Mormon has the vocative exactly, in the risen Lord's mouth, at 3 Nephi 9:22: “therefore repent, and come unto me ye ends of the earth, and be saved.” Ether 4:18 reproduces that sentence's three verbs in that order — repent, come unto me, be saved — with baptism inserted. The proximate model is the corpus's own, and the Isaiah verse stands behind 3 Nephi 9:22 rather than behind this one. Filed here rather than as a low-confidence link because the link that matters at 4:18 is the seventeen-word reproduction of Mark 16:16 in the second half of the verse."
+  },
+  {
+    "bomRef": "Ether 4:18",
+    "source": "Proverbs 28:18",
+    "category": "better-source-identified",
+    "sharedText": "shall be saved: but he that",
+    "streams": ["machine-ngram"],
+    "reason": "A six-word run, and “shall be saved but he” occurs in exactly two KJV verses — Proverbs 28:18 and Mark 16:16. The machine ranked both and they are not equivalent candidates: Proverbs shares a bare antithetical formula, Mark shares seventeen consecutive words including the singleton “shall be damned”. Recorded so the register shows the pair was seen and resolved, not that the second-ranked candidate went unexamined."
+  }
+]

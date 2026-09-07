@@ -1,0 +1,261 @@
+{
+  "chapter": 5,
+  "adjudicated": "2026-09-07",
+  "adjudicator": "Opus",
+  "links": {
+    "5:3": [
+      {
+        "source": "Acts 12:11",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "And when Peter was come to himself, he said, Now I know of a surety, that the LORD hath sent his angel, and hath delivered me out of the hand of Herod, and from all the expectation of the people of the Jews.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 1
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Genesis 15:13"
+        ],
+        "recurrenceRefs": [
+          "1 Nephi 5:8",
+          "Mosiah 7:14"
+        ],
+        "provenance": {
+          "route": "Acts 12:11 → KJV → Book of Mormon",
+          "other": "“know of a surety” occurs in exactly two KJV verses, Genesis 15:13 and Acts 12:11. Genesis 15:13 is an imperative spoken to Abram inside a vision; Acts 12:11 is a man's recognition, after the fact, that a divine manifestation he had taken for a vision was real. Ether 5:3 has neither grammatical frame — it is third-person future, ‘they shall know of a surety that these things are true’ — so the rarity count identifies the idiom and the sense decides between the two verses, which is the reverse of how the catalogue's earlier rows on this phrase were argued.",
+          "alternative": "The proximate model may not be Acts at all. The idiom has become the Book of Mormon's own by this point — it appears in ten verses of the 1830 text, including the two the catalogue has already adjudicated at 1 Nephi 5:8 and Mosiah 7:14 — so a reader may reasonably hold that Moroni took it from the book he was abridging rather than from the epistle behind it. The `mediation` enum has no value for a New Testament source reaching a verse through an earlier Book of Mormon passage (`OT-via-earlier-BoM` covers only the Old Testament case), so this row is filed `direct-NT` and the route is stated here instead of being encoded. It is flagged for the schema, not adjudicated around.",
+          "significance": "Recover Acts 12 and the borrowing acquires the exact epistemological problem the Three Witnesses have. Two verses earlier, Peter walking out of the prison ‘wist not that it was true which was done by the angel; but thought he saw a vision’ (12:9); at 12:11 he comes to himself and knows of a surety. That is the whole difficulty of a testimony given by men who were shown plates by an angel and afterwards had to say whether what they saw was an object or a vision — and the KJV idiom the verse reaches for is the one attached to precisely that transition. Whether the reach was deliberate or not, Acts 12:11 is the Bible's only sentence in which ‘of a surety’ names the moment a suspected vision is ruled real."
+        },
+        "note": "The plates ‘shall be shewn by the power of God’ to three, ‘wherefore, they shall know of a surety that these things are true’. The idiom belongs to two KJV verses and to no others, which is strong evidence on its own; what makes it more than a count is that Acts 12:11 is about the ratification of a doubted sighting and Genesis 15:13 is not. This is a weaker row than the catalogue's other two on the same phrase — 1 Nephi 5:8 and Mosiah 7:14 both reproduce Acts's first-person frame (‘Now I know of a surety that’) and Ether 5:3 does not, having only the bare idiom. Filed here rather than folded into those because Ether is a different book in a different hand (ADJUDICATING §4) and because the context is the one place in the corpus where Acts 12's own problem is also the verse's problem. Four words, far below Skousen's sixteen-word threshold and not among his thirty-six.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "5:4": [
+      {
+        "source": "Deuteronomy 19:15",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "certain",
+        "text": "One witness shall not rise up against a man for any iniquity, or for any sin, in any sin that he sinneth: at the mouth of two witnesses, or at the mouth of three witnesses, shall the matter be established.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 3
+        },
+        "kjvSpecific": "yes",
+        "mediation": "OT-via-NT",
+        "composite": [
+          "2 Corinthians 13:1",
+          "Matthew 18:16"
+        ],
+        "recurrenceRefs": [
+          "2 Nephi 11:3",
+          "2 Nephi 27:14"
+        ],
+        "provenance": {
+          "route": "Deuteronomy 19:15 via 2 Corinthians 13:1 → KJV → Book of Mormon",
+          "other": "“mouth of three witnesses” occurs in exactly one KJV verse, Deuteronomy 19:15, and Ether 5:4 reproduces six of its words unbroken — ‘the mouth of three witnesses shall’. One word inside that run is not Deuteronomy's. Deuteronomy reads AT the mouth; the Book of Mormon reads IN the mouth, which is the preposition of the two New Testament citations of the law: “mouth of two or three witnesses” occurs in exactly two KJV verses, Matthew 18:16 and 2 Corinthians 13:1. Between those two the auxiliary decides. 2 Corinthians has ‘shall every word be established’, Matthew ‘every word may be established’; Ether 5:4 has ‘shall these things be established’, with the auxiliary before the subject as in 2 Corinthians and no ‘may’. (`mediation-check.py` returns 2 Corinthians here too, but its decisive point is an artifact worth naming: it matches 2 Corinthians' ‘every word’ against the ‘and also his word’ further down the Book of Mormon verse, not against ‘these things’. The preposition and the auxiliary are the real evidence.)",
+          "significance": "Deuteronomy 19:15 is not a devotional verse; it is a rule of court, and its neighbours are the law of the avenger of blood and ‘life shall go for life, eye for eye, tooth for tooth’ (19:21). Recover that context and Moroni's sentence stops being a description of a spiritual experience and becomes the constitution of a legal record — which is what its own last clause says it is: ‘all this shall stand as a testimony against the world, at the last day.’ The Three Witnesses are not character references for a book; they are the statutory minimum for a prosecution, and the defendant is named. The New Testament preposition matters for the same reason rather than in spite of it: Matthew 18:16 and 2 Corinthians 13:1 are the two places where the Deuteronomic rule is applied outside a court, to the discipline of a community, and Moroni takes the law in the form the church already had it rather than in the form Moses gave it."
+        },
+        "note": "Six unbroken words of the KJV's one verse containing ‘mouth of three witnesses’, and the single word inside that run which is not Deuteronomy's is the New Testament's preposition. This is the cleanest mediation case in Ether and it turns, as these cases do, on one word: `at` would have made it direct-OT, `in` makes it OT-via-NT, and the auxiliary order then picks 2 Corinthians over Matthew. The object of the establishing is the Book of Mormon's own — ‘these things’, meaning the plates, where the law has ‘the matter’ and the epistles have ‘every word’. Nephi had already made the same fusion twice, at 2 Nephi 11:3 (‘by the words of three, God hath said, I will establish my word’) and 2 Nephi 27:14; what is new here is the length of the run, which is long enough that the choice of preposition can be measured rather than inferred, and the fact that the number three is no longer a legal minimum but a literal count of men. Dependence is not seriously deniable, hence `certain`, though at six words the passage sits well below Skousen's sixteen-word threshold and is not one of his thirty-six.",
+        "whyNot": "The one soft point is the dropped ‘two or’. Moroni has three witnesses and no more, so the omission is required by his sense and need not be a reach back past the epistles to Deuteronomy's own ‘three witnesses’. If it is adaptation rather than borrowing, the row reduces to a straightforward use of 2 Corinthians 13:1 and Deuteronomy drops to background — which would not change the mediation call, only the direction of it.",
+        "bibliography": [],
+        "status": "majority",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      },
+      {
+        "source": "1 John 5:7",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "text": "For there are three that bear record in heaven, the Father, the Word, and the Holy Ghost: and these three are one.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 1
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "1 John 5:8",
+          "1 John 5:9"
+        ],
+        "recurrenceRefs": [
+          "3 Nephi 11:27",
+          "3 Nephi 11:32"
+        ],
+        "provenance": {
+          "route": "1 John 5:7 (the Comma Johanneum) → KJV → Book of Mormon",
+          "other": "“bear record” occurs in exactly four KJV verses, and only 1 John 5:7 has three named divine subjects doing it: ‘there are three that bear record in heaven, the Father, the Word, and the Holy Ghost: and these three are one.’ Ether 5:4 has the same three with ‘the Son’ for ‘the Word’ — the substitution the catalogue already recorded at 3 Nephi 11:27, and the one the Comma's own trinitarian reading invites. The 1830 verb is worth the ink: ‘the Father, and the Son, and the Holy Ghost BEARETH record’, a singular under three subjects, which the 1920 edition changed to ‘bear’ — that is, back toward 1 John 5:7's own form. CONVENTIONS §8's second case, and the direction of the correction is the point.",
+          "significance": "This is the strongest kjvSpecific claim available anywhere in the corpus, because the source is itself a KJV-tradition reading: the heavenly witnesses of 1 John 5:7 are absent from every Greek manuscript before the fourteenth century, from the critical editions, and from the modern English versions, which read only ‘there are three that bear witness’. A text dependent on this sentence is dependent not on the KJV's English but on the KJV's canon. And the fit here is tighter than at 3 Nephi 11:27, where only the ‘are one’ clause was in play. 1 John 5:7-9 is a passage about witnesses counted in threes — three that bear record in heaven, three that bear witness in earth (5:8), and then ‘if we receive the witness of men, the witness of God is greater’ (5:9). Ether 5:4 is that argument executed: three men on earth see the plates (5:3), and their testimony is under-written by three bearing record in heaven. The chapter does not quote 5:9, but 5:9 is what the chapter is for."
+        },
+        "note": "‘And the testimony of three, and this work, in the which shall be shewn forth the power of God, and also his word, of which the Father, and the Son, and the Holy Ghost beareth record.’ The three divine subjects bearing record are the Comma Johanneum's, and the Comma is the KJV's alone. What lifts this above a formula — the Book of Mormon uses ‘bear record’ in twenty-six verses — is the count. Moroni does not say that God bears record; he says that three bear record, in a sentence whose first clause has just required three witnesses, and 1 John 5:7-8 is the one biblical passage that pairs a heavenly three with an earthly three for exactly that purpose. The 1830 singular ‘beareth’ is not the KJV's grammar and 1920 restored the KJV's, which is the first edition showing the seam and the later one closing it.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      },
+      {
+        "source": "Deuteronomy 31:26",
+        "type": "figural",
+        "subtype": "structural",
+        "confidence": "moderate",
+        "text": "Take this book of the law, and put it in the side of the ark of the covenant of the LORD your God, that it may be there for a witness against thee.",
+        "evidence": {
+          "vocabulary": 1,
+          "syntax": 1,
+          "sequence": 2,
+          "context": 5,
+          "rarity": 3,
+          "attestation": 0
+        },
+        "kjvSpecific": "no",
+        "mediation": "direct-OT",
+        "composite": [
+          "Deuteronomy 31:19",
+          "Deuteronomy 31:21"
+        ],
+        "provenance": {
+          "route": "Deuteronomy 31:19-26 → KJV → Book of Mormon",
+          "other": "“for a witness against” occurs in exactly one KJV verse, Deuteronomy 31:26, and “a witness against thee” occurs in exactly one, the same verse. Ether 5:4 does not use that wording — it reads ‘shall stand as a testimony against the world’ — so the singleton is context, not contact, and the row is filed figural on that account.",
+          "significance": "Deuteronomy 31 is the KJV's one procedure for a written record deposited now so that it can be produced later as evidence against the people who will not keep it. The book of the law goes in the side of the ark (31:26); the song is put in their mouths so that when the evils come it ‘shall testify against them as a witness’ (31:19, 21). Ether 5 is that procedure carried out at a different scale. A record is sealed up and made untouchable until the appointed time (5:1), produced by a fixed number of witnesses (5:3-4), and left to stand ‘as a testimony against the world, at the last day’. Moses' deposit is a witness against Israel at a future apostasy; Moroni's is a witness against the world at the judgment, and the enlargement is the whole distance between the two books."
+        },
+        "note": "The chapter's structure is Deuteronomy 31's, clause for clause and in order: write it, seal it, do not touch it, produce it by witnesses, let it testify against them later. No other biblical passage puts those five moves together, and Ether 5 does nothing else. The row is figural rather than verbal by design — it is offered as a reading of what the chapter is doing, and it is offered because a reader who notices the shape should be told the catalogue noticed it too and where it thinks the shape comes from.",
+        "whyNot": "There is almost no verbal contact. ‘Testimony against’ is not Deuteronomy's phrase — his is ‘witness against’, a KJV singleton at 31:26 — and the four KJV verses that do read ‘for a testimony against’ are the Synoptic dust-shaking sayings, which share nothing else with this verse. The row rests entirely on the shape, and CONVENTIONS §5's Exodus 2:2 case is the standing warning that a typology can pull harder than the wording will bear. A reader who declines it is declining a structure, not a reading of words, and that is a reasonable thing to decline. It is filed as a link rather than an exclusion because the structure runs through the whole chapter rather than one clause of it — 5:1's ‘touch them not’ included.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "5:5": [
+      {
+        "source": "John 14:6",
+        "type": "allusion",
+        "subtype": "probable",
+        "confidence": "moderate",
+        "text": "Jesus saith unto him, I am the way, the truth, and the life: no man cometh unto the Father, but by me.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 4,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "uncertain",
+        "mediation": "direct-NT",
+        "composite": [
+          "John 14:13"
+        ],
+        "provenance": {
+          "route": "John 14:6 (+ 14:13) → KJV → Book of Mormon",
+          "other": "“cometh unto the Father” occurs in exactly one KJV verse, John 14:6. The Book of Mormon's own habit is ‘come unto me’ (thirty-four verses of the 1830 text) or ‘come unto Christ’ (four); ‘come unto the Father’ occurs in the 1830 text exactly here, at Ether 5:5, and nowhere else. So the clause is a departure from Moroni's idiom as well as a reach outside it, which is the main reason for recording it at all. `kjvSpecific` is `uncertain` rather than `yes` because the modern versions render John 14:6 the same way — ‘no one comes to the Father except through me’ — and nothing in the phrasing is distinctively King James.",
+          "significance": "John 14:6 is the Bible's one sentence about coming unto the Father, and its whole content is that the coming requires a mediator: ‘no man cometh unto the Father, but by me.’ Ether 5:5 states the condition in the same order and supplies the mediator by name — repent, come unto the Father, in the name of Jesus — and seven verses further down John supplies the operative formula for the second half, ‘whatsoever ye shall ask in my name’ (14:13). What the recovery adds is the negative: John's sentence is exclusive, and Moroni's, read against it, quietly is too. ‘If it so be that they repent’ is the only door in the verse."
+        },
+        "note": "‘And if it so be that they repent and come unto the Father in the name of Jesus, they shall be received into the kingdom of God.’ Two things make this more than devotional boilerplate. The collocation ‘come unto the Father’ is unique in the Book of Mormon to this verse, against thirty-four instances of the book's usual ‘come unto me’ — a departure from formula is where a borrowing is most likely to show. And the KJV has exactly one verse for the collocation, John 14:6, which supplies not only the phrase but the structure of Moroni's sentence: approach to the Father, licensed by a name. Moderate rather than high because the wording is conjugated rather than reproduced and because ‘in the name of Jesus’ is Acts's formula as much as John's; a reasonable reader could take the whole verse as ordinary Christian idiom and decline the row.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "5:6": [
+      {
+        "source": "Revelation 20:12",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "And I saw the dead, small and great, stand before God; and the books were opened: and another book was opened, which is the book of life: and the dead were judged out of those things which were written in the books, according to their works.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 2
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "recurrenceRefs": [
+          "2 Nephi 29:11",
+          "3 Nephi 26:4",
+          "Mormon 9:13"
+        ],
+        "provenance": {
+          "route": "Revelation 20:12 → KJV → Book of Mormon",
+          "other": "“stand before God” occurs in exactly one KJV verse, Revelation 20:12: ‘And I saw the dead, small and great, stand before God; and the books were opened … and the dead were judged out of those things which were written in the books.’ The catalogue has filed the same verse repeatedly across the corpus — 2 Nephi 29:11, 3 Nephi 26:4, Mormon 9:13 among others — and in every case at the junction of a written record with the judgment, which is the junction Ether 5:6 makes.",
+          "significance": "Moroni answers a challenge to his authority by naming a place where it will be settled: ‘ye shall know that I have authority when ye shall see me, and we shall stand before God at the last day.’ The KJV has one sentence for standing before God, and in it the standing is done by the dead at an assize where books are opened and men are judged out of what is written in them. Moroni has spent five verses manufacturing exactly such a book — 5:4 has already said it ‘shall stand as a testimony against the world, at the last day’. So the verse that settles the question of his authority is the verse in which his record becomes an exhibit and his reader becomes a defendant, and the encounter he promises the reader is a summons rather than a reunion. That the same KJV verse recurs across the corpus wherever a written record meets the judgment is itself a finding: the Book of Mormon's theology of its own text is worked out in the vocabulary of Revelation 20:12."
+        },
+        "note": "Three words, and a KJV singleton — the only verse in the Bible where anyone stands before God. Rarity of that order does most of the work here, but the context does the rest: Revelation 20:12 is a judgment scene organized around opened books, and Ether 5 is a chapter about a book produced in evidence at the judgment. The two halves of Moroni's clause take the two halves of Revelation's — seeing him again, and standing before God — and the chapter's earlier ‘testimony against the world, at the last day’ has already set the scene up. The link is not new to this chapter; the catalogue has it across five books, and the recurrence is part of the argument rather than a reason to suppress the row.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      },
+      {
+        "source": "Acts 4:19",
+        "type": "echo",
+        "subtype": "possible",
+        "confidence": "moderate",
+        "text": "But Peter and John answered and said unto them, Whether it be right in the sight of God to hearken unto you more than unto God, judge ye.",
+        "evidence": {
+          "vocabulary": 2,
+          "syntax": 3,
+          "sequence": 2,
+          "context": 4,
+          "rarity": 3,
+          "attestation": 0
+        },
+        "kjvSpecific": "uncertain",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "Acts 4:19 → KJV → Book of Mormon",
+          "other": "“judge ye” occurs in exactly four KJV verses. Matthew 7:2 is not the idiom (‘with what judgment ye judge’) and Luke 12:57 is negated (‘why even of yourselves judge ye not what is right?’), which leaves two: Acts 4:19 and 1 Corinthians 10:15. Ether 5:6 has the bare imperative in final position, which is Acts 4:19's form; 1 Corinthians 10:15 takes an object, ‘judge ye what I say’.",
+          "alternative": "1 Corinthians 10:15 is the other reading and a reasonable one: an author inviting his readers to judge his own words is Moroni's rhetorical move exactly. The row goes to Acts 4:19 on syntax (bare final imperative) and on subject-matter (a contested claim of authority, Acts 4:7's ‘By what power, or by what name, have ye done this?’), not on the two shared words, which do not by themselves discriminate.",
+          "significance": "Acts 4:19 is spoken by two men whose right to say what they are saying has just been challenged by the council, and it answers the challenge by referring it past the challengers: ‘whether it be right in the sight of God to hearken unto you more than unto God, judge ye.’ Moroni's sentence does the same two things in the same order — refuses to argue the authority, hands the question to the reader, and then relocates the verdict to God's sight: ‘judge ye … and we shall stand before God at the last day.’ Recovering Acts 4 gives the sentence its posture: the writer is not defending a credential, he is declining to."
+        },
+        "note": "‘And now, if I have no authority for these things, judge ye, for ye shall know that I have authority when ye shall see me.’ Two words, so the row is an echo and nothing more; but the two words are rare enough to name their verses, the syntax picks one of them, and the situation — an authority publicly challenged, answered by referring the challenger to God — is that verse's situation. It sits immediately beside the Revelation 20:12 row and the two work together: the appeal is handed to the reader, and then withdrawn to a tribunal where the reader will also be standing.",
+        "whyNot": "‘Judge ye’ is two extremely ordinary English words and the KJV's four instances do not make the collocation distinctive so much as make it countable. Nothing else of Acts 4 is in the verse: no council, no name, no healing, no prohibition. A reader may fairly say that Moroni wrote a natural English imperative and that the resemblance to Acts 4:19 is an accident of a small sample, and the row is recorded at `moderate` because that reader is not obviously wrong.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ]
+  }
+}

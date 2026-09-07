@@ -1,0 +1,186 @@
+[
+ {
+  "bomRef": "Ether 9:3",
+  "source": "John 13:1",
+  "category": "better-source-identified",
+  "sharedText": "that he should depart out of",
+  "streams": ["machine-ngram"],
+  "reason": "A six-word run and one of the two highest-scoring candidates in the chapter. It is an accident of two different idioms colliding: John 13:1's clause is 'that he should depart out of this world unto the Father', of Jesus at the last supper knowing his hour is come, and the whole force of the sentence is in the words Ether does not share. Ether 9:3 is a man leaving a country. Nothing else of John 13 is anywhere near this verse, and the real borrowing in the sentence is the dream-warning that precedes the departure, which is Matthew 2:12's and is adjudicated as a link at this verse. Worth noting for completeness that 'depart out of the land' is itself a KJV singleton, at Deuteronomy 9:7, of the Exodus — but that verse is a rebuke about provoking the LORD in the wilderness and shares nothing else here either, so the phrase is filed as ordinary English rather than as a borrowing from either candidate."
+ },
+ {
+  "bomRef": "Ether 9:3",
+  "source": "Genesis 36:6",
+  "category": "insufficient-verbal",
+  "sharedText": "his sons and his daughters, and all his",
+  "streams": ["machine-ngram"],
+  "reason": "This one is genuinely tempting and deserves an entry rather than silence, because Genesis 36 is a live source for the book of Ether: the Edomite king-list at Genesis 36:31-39 is adjudicated at Ether 7:3 as the structural model for the Jaredite dynastic chronicle, so a second contact with the same chapter would be a real finding. It does not survive inspection. Genesis 36:6 is Esau moving his household away from Jacob, and the shared string is a family inventory — sons, daughters, household — that the King James Bible writes the same way every time it writes one (Genesis 46:7, Job 1:2, and so on). Ether's own clause continues 'and all his household', where Genesis has 'and all the persons of his house'; the one distinctive element of Genesis 36:6, that Esau departs 'from the face of his brother Jacob', has no counterpart here, and Omer departs from a son-in-law, not a brother. The chapter's use of Genesis 36 is the formula 'reigned in his stead', which is covered by the standing treatment at Ether 7:3."
+ },
+ {
+  "bomRef": "Ether 9:3",
+  "source": "Mark 14:32",
+  "category": "formulaic",
+  "sharedText": "came to a place which was",
+  "streams": ["machine-ngram"],
+  "reason": "A six-word run to Gethsemane, and pure narrative connective. 'They came to a place which was named Gethsemane' and 'came to a place which was called Ablom' share nothing but the King James way of introducing a place-name, and the two places have nothing to do with each other. This entry covers the same construction wherever it recurs in the Jaredite chapters."
+ },
+ {
+  "bomRef": "Ether 9:5",
+  "source": "Acts 15:12",
+  "category": "wrong-sense",
+  "sharedText": "audience",
+  "streams": ["manual"],
+  "reason": "Not a machine candidate, and recorded because it is the kind of coincidence that will tempt a later reader who runs a concordance. 'Gave audience' occurs in exactly one KJV verse, Acts 15:12, where the Jerusalem council keeps silence and gives audience to Barnabas and Paul — that is, listens to them. Ether 9:5 has Jared 'giving audience to his people' as he sits on his throne, which is the modern courtly sense: a monarch receiving petitioners. The two senses are not merely different, they are converse — in Acts the audience is the assembly, in Ether the audience is granted by the king. The phrase in Ether is nineteenth-century English that happens to have a King James homonym, and cataloguing it as a borrowing would misrepresent both texts."
+ },
+ {
+  "bomRef": "Ether 9:5",
+  "source": "Exodus 18:24",
+  "category": "common-vocabulary",
+  "sharedText": "his father in law",
+  "streams": ["machine-ngram"],
+  "reason": "A six-word run consisting almost entirely of a kinship term. 'Father in law' occurs across the Jethro narrative and Judges and Ruth; Exodus 18:24 is Moses taking Jethro's advice about delegating judgment, and Ether 9:5 is Akish having Jared beheaded. The candidate is an artifact of a four-word noun phrase being counted as four words."
+ },
+ {
+  "bomRef": "Ether 9:6",
+  "source": "1 Kings 8:39",
+  "category": "common-vocabulary",
+  "sharedText": "the hearts of all the",
+  "streams": ["machine-ngram"],
+  "reason": "1 Kings 8:39 is Solomon at the dedication of the temple, asking God to judge each man because 'thou only knowest the hearts of all the children of men'; Ether 9:6 says a secret society 'had corrupted the hearts of all the people'. The shared words are a quantifier and a body part. The interest of Ether 9:6, if it has one, is that it makes the corruption total in the way Genesis 6:5 does, and Genesis 6:5 is already adjudicated as a link elsewhere in this book (Ether 3:2)."
+ },
+ {
+  "bomRef": "Ether 9:10",
+  "source": "Joshua 7:5",
+  "category": "better-source-identified",
+  "sharedText": "the hearts of the people",
+  "streams": ["machine-ngram"],
+  "reason": "The chapter's most instructive machine miss. Joshua 7:5 was ranked here because it shares five words with the verse, but its hearts 'melted, and became as water' after the rout at Ai — that is, the people are afraid. Ether 9:10's hearts are won over, which is the opposite operation performed on the same organ. The real source is 2 Samuel 15:6, where Absalom 'stole the hearts of the men of Israel', a KJV singleton the n-gram stream could not see because Ether substitutes 'won' for 'stole' and 'of the people' for 'of the men of Israel', leaving no contiguous window long enough to score. A textbook case of CONVENTIONS §9: the true source is invisible to contiguous matching and a wrong-sense candidate ranks in its place."
+ },
+ {
+  "bomRef": "Ether 9:14",
+  "source": "Genesis 21:2",
+  "category": "better-source-identified",
+  "sharedText": "in his old age",
+  "streams": ["manual"],
+  "reason": "'Omer began to be old; nevertheless, in his old age he begat Emer.' The phrase is a KJV phrase — it occurs in exactly two verses, Genesis 21:2 and 21:7, both of the birth of Isaac — and it is a real borrowing, but it is not a fresh one. It is adjudicated at its first Jaredite occurrence, Ether 7:3, where the argument is set out in full and the recurrences at 7:7 and 7:26 are recorded. This is the fourth use within the same book and the same narrating hand, so under CONVENTIONS §4 it is Moroni using his own formula rather than reaching again for Genesis. Recorded here so that a reader working through chapter 9 verse by verse is sent to Ether 7:3 rather than shown nothing."
+ },
+ {
+  "bomRef": "Ether 9:14",
+  "source": "2 Chronicles 1:8",
+  "category": "better-source-identified",
+  "sharedText": "to reign in his stead",
+  "streams": ["machine-ngram"],
+  "reason": "The highest-scoring candidate in the chapter, returned three separate times (at 9:14, 9:21 and 9:22), and it is the regnal formula rather than a verse. 'Reigned in his stead' occurs in exactly sixty-three KJV verses; 2 Chronicles 1:8 ranked because it happens to have the infinitive form Ether uses, but nothing else of Solomon's prayer is present. The formula is adjudicated for the whole book at Ether 7:3, as a structural link to the Edomite king-list of Genesis 36:31-39 — the King James Bible's one unbroken chain of the formula outside the regnal histories of Israel and Judah, and the only one belonging to a people outside the covenant. This entry covers every occurrence of the formula in chapter 9: 9:6, 9:14, 9:21, 9:22, 9:25 and 9:27. They are not listed individually."
+ },
+ {
+  "bomRef": "Ether 9:15",
+  "source": "Acts 19:10",
+  "category": "formulaic",
+  "sharedText": "the space of two years",
+  "streams": ["machine-ngram"],
+  "reason": "A duration. Acts 19:10 measures Paul's teaching in the school of Tyrannus; Ether 9:15 measures how long Omer lived after abdicating. 'By the space of' is the King James way of expressing an interval and the Book of Mormon uses it continuously — 9:12 has 'for the space of many years' and 9:16 'in the space of sixty and two years' in the same run of verses. This entry covers all of them."
+ },
+ {
+  "bomRef": "Ether 9:16",
+  "source": "2 Chronicles 34:8",
+  "category": "formulaic",
+  "sharedText": "the land and the house",
+  "streams": ["machine-ngram"],
+  "reason": "A window that closes across a clause boundary. 2 Chronicles 34:8 has Josiah purging 'the land, and the house' — the house being the temple, which he then sends men to repair. Ether 9:16 reads 'take the curse from off the land, and the house of Emer did prosper', where 'the house' begins a new subject and means a dynasty. The match is between the end of one clause and the start of another and there is no contact of any kind between the two verses."
+ },
+ {
+  "bomRef": "Ether 9:17",
+  "source": "Daniel 11:43",
+  "category": "better-source-identified",
+  "sharedText": "of gold and of silver and",
+  "streams": ["machine-ngram"],
+  "reason": "A close call and worth recording as one. Daniel 11:43 is the only KJV verse with the string 'of gold and of silver and', which is exactly Ether 9:17's order of the metals, and it goes on to 'all the precious things of Egypt'. What decides against it is the construction of the third item: Ether has 'and of precious things', repeating the preposition, which is a King James singleton at 2 Chronicles 21:3 and is not Daniel's phrasing. Daniel also supplies no context — it is the king of the north's plunder in an apocalyptic campaign — where 2 Chronicles 21:3 supplies a father distributing wealth among royal sons in the verse before one of them kills all his brothers, which is the situation Ether 9 is in. The link is filed at 2 Chronicles 21:3."
+ },
+ {
+  "bomRef": "Ether 9:17",
+  "source": "Deuteronomy 8:7-13",
+  "category": "insufficient-verbal",
+  "sharedText": "(the prosperity catalogue)",
+  "streams": ["manual"],
+  "reason": "A typological expectation the wording will not bear, and the model for this kind of entry is the Exodus 2:2 'goodly' case in 1 Nephi. Everything about the position of Ether 9:16-20 says Deuteronomy 8: a people made rich in a land given them, a warning attached about forgetting the giver, and — twelve verses later — the two wilderness terrors of Deuteronomy 8:15, serpents and drought, arriving in that order. But the catalogue itself is not written in King James English at any point. 'Silks' occurs in no KJV verse; 'horses and asses' occurs in no KJV verse; 'useful', which Ether uses twice in 9:18-19, occurs in no KJV verse; and the animals of 9:19 include three that are not in any Bible. Deuteronomy 8:13's own terms are 'herds', 'flocks', 'silver' and 'gold' multiplied, and Ether shares only the two metals, which are shared with twenty-nine other KJV verses. The Deuteronomy 8 contact in this chapter is real and is adjudicated where it is verbal — at 9:31, on Deuteronomy 8:15's pairing of fiery serpents with drought, the only such pairing in the King James Bible. It is not adjudicated here, and a reader who feels the Deuteronomic shape of 9:16-20 is right about the shape and should be told the vocabulary does not support it."
+ },
+ {
+  "bomRef": "Ether 9:20",
+  "source": "Genesis 15:16",
+  "category": "better-source-identified",
+  "sharedText": "choice above all other lands; ripened in iniquity; the fulness of my wrath",
+  "streams": ["manual"],
+  "reason": "Ether 9:20 restates the land covenant in the terms the book established at Ether 2:8-12, where it is adjudicated: 'ripened in iniquity' answers to Genesis 15:16's 'the iniquity of the Amorites is not yet full', which is the link filed at Ether 2:10. None of the three signature phrases here is King James English on its own — 'choice above all other lands', 'fulness of my wrath' and 'pour out his blessings' each occur in no KJV verse — so there is nothing to adjudicate at this verse that has not been adjudicated at Ether 2. Recorded so that a reader stopping at 9:20, which is the chapter's theological centre, is sent to Ether 2:10 rather than shown an empty apparatus."
+ },
+ {
+  "bomRef": "Ether 9:24",
+  "source": "2 Chronicles 22:2",
+  "category": "common-vocabulary",
+  "sharedText": "forty and two years old",
+  "streams": ["machine-ngram"],
+  "reason": "A numeral. 'Forty and two years old' occurs in exactly one KJV verse and it is Ahaziah's age at accession; Ether 9:24 has Coriantum living to a hundred and forty-two. The King James Bible writes every number this way, so any Jaredite age will collide with some regnal notice, and the collision carries no information. The genuine reading of 9:24 — the three-part Abrahamic death sequence of Genesis 23:1, 25:1 and 25:7 — is filed as a link at this verse, and it would be unaffected if Coriantum had died at any other age."
+ },
+ {
+  "bomRef": "Ether 9:25",
+  "source": "Genesis 5:27",
+  "category": "formulaic",
+  "sharedText": "nine years and he",
+  "streams": ["machine-ngram"],
+  "reason": "Methuselah's age against Com's reign of forty-nine years. The shared string is a numeral and a conjunction. Genealogical arithmetic in King James English will always produce these; the entry stands for all of them in chapter 9."
+ },
+ {
+  "bomRef": "Ether 9:26",
+  "source": "Genesis 41:56",
+  "category": "formulaic",
+  "sharedText": "over all the face of",
+  "streams": ["machine-ngram"],
+  "reason": "'The famine was over all the face of the earth' against 'the people had spread again over all the face of the land'. The phrase is one the Book of Mormon uses continuously, and it is covered by the standing exclusion on connective boilerplate. Recorded here only because the coincidence is sharper than usual — Genesis 41:56 is about a famine and Ether 9 is four verses from one — and a reader might reasonably wonder. The famine link in this chapter is at 9:30, to Deuteronomy 11:17 and Acts 11:28, neither of which is Joseph's."
+ },
+ {
+  "bomRef": "Ether 9:29",
+  "source": "Genesis 37:24",
+  "category": "insufficient-verbal",
+  "sharedText": "cast into pits",
+  "streams": ["manual"],
+  "reason": "The King James Bible's pit is Joseph's — 'cast him into a pit' occurs in exactly one verse, Genesis 37:24, and 'into a pit' in exactly three, the other two being sabbath-day livestock. None of them holds a prophet, and Ether 9:29's pits do. The nearest King James situation is Jeremiah 38:6, where Jeremiah is let down into a miry dungeon and left, but the KJV calls it a dungeon and not a pit, and Ether shares no wording with it. The verse's real borrowing is its grammar rather than its furniture: 'and some of them they cast into pits' reproduces the resumptive construction of Luke 11:49, a King James singleton, and that is where the link is filed. Recorded because a reader who knows Genesis 37 will see a pit here and should be told the catalogue looked and declined."
+ },
+ {
+  "bomRef": "Ether 9:30",
+  "source": "Jeremiah 14:4",
+  "category": "better-source-identified",
+  "sharedText": "for there was no rain",
+  "streams": ["machine-ngram"],
+  "reason": "The best of the machine's proposals in the second half of the chapter and the one hardest to dismiss. Jeremiah 14 is headed 'the word of the LORD that came to Jeremiah concerning the dearth' — one of only seven KJV verses using that word — and 14:4-6 has no rain, ground that is chapt, and beasts wandering and failing for want of grass, which is close to Ether 9:30-31's drought and fleeing flocks. Two things decide against it. First, Ether's tense-and-preposition pattern is Deuteronomy's, not Jeremiah's: Jeremiah has 'no rain in the earth', Ether has 'no rain upon the face of the earth', and Deuteronomy 11:17's 'that there be no rain' with 'lest ye perish quickly' matches Ether's second clause ('destroyed exceeding fast') that Jeremiah has no counterpart for. Second, Jeremiah 14's animals fail and die where Ether's flee and are pursued, which is the Numbers 21 serpent material and not a drought motif at all. The drought link is filed at Deuteronomy 11:17 with 2 Chronicles 7:13; a later adjudicator who wants to reopen Jeremiah 14 should do it on 14:1's 'dearth', not on 14:4."
+ },
+ {
+  "bomRef": "Ether 9:33",
+  "source": "Ezra 3:13",
+  "category": "better-source-identified",
+  "sharedText": "the people could not",
+  "streams": ["machine-ngram"],
+  "reason": "Ezra 3:13 is the shout at the foundation of the second temple, so loud that 'the people could not discern the noise of the shout of joy from the noise of the weeping'. Ether 9:33's people cannot pass a road held by serpents. The shared four words are a negated modal and a subject. The verse's genuine source is Hosea 2:6 — 'hedge up' is a KJV singleton and Ether takes both halves of the construction — and the link is filed there."
+ },
+ {
+  "bomRef": "Ether 9:34",
+  "source": "Numbers 14:32",
+  "category": "wrong-sense",
+  "sharedText": "carcases ... fell",
+  "streams": ["manual"],
+  "reason": "Not a machine candidate; recorded because the collocation is distinctive enough to catch a reader's eye and the sense is inverted. In the King James Bible, carcases falling is a judgment formula about human beings: 'your carcases, they shall fall in this wilderness' (Numbers 14:32), quoted in the New Testament at Hebrews 3:17 of the generation that perished for unbelief. Ether 9:34's carcases are the beasts' — cattle that died on the flight south — and the people eat them. The direction of the horror is opposite: Numbers has a people whose own bodies are left in the desert, Ether has a people kept alive by bodies that are not theirs. There is also no verbal contact worth the name, since Ether spells it 'carcasses' and the construction is 'devour the carcasses of them which fell by the way'. The Numbers material that is genuinely in play in these verses is the serpent plague of Numbers 21:6-7, filed as a link at 9:31."
+ },
+ {
+  "bomRef": "Ether 9:34",
+  "source": "Exodus 32:1",
+  "category": "formulaic",
+  "sharedText": "when the people saw that",
+  "streams": ["machine-ngram"],
+  "reason": "A narrative hinge. Exodus 32:1's people see that Moses is delayed and make a calf; Ether 9:34's see that they must perish and repent. The two outcomes are opposite and the shared words are a clause opener the King James Bible uses whenever a crowd reacts to something."
+ },
+ {
+  "bomRef": "Ether 9:35",
+  "source": "Amos 7:2",
+  "category": "formulaic",
+  "sharedText": "and it came to pass that when they had",
+  "streams": ["machine-ngram"],
+  "reason": "A nine-word run and the longest in the chapter, and it is entirely 'and it came to pass' plus a temporal clause opener. Covered by the standing exclusion filed at 1 Nephi 2:1. The candidate is recorded only because its length will make it look important to anyone re-running the machine streams over this chapter. Numbers 25:1, ranked alongside it on 'and the people began to', is the same case and is covered by this entry."
+ }
+]

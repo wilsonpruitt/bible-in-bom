@@ -1,0 +1,122 @@
+[
+  {
+    "bomRef": "Ether 5:1",
+    "source": "Psalm 45:1",
+    "category": "formulaic",
+    "sharedText": "the things which I have",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "The chapter's top-ranked candidate at 5:1 and a five-word run, and it is pure connective tissue. Psalm 45:1's ‘I speak of the things which I have made touching the king’ and Moroni's ‘I have told you the things which I have sealed up’ share a relative-clause frame and not one content word: no speaking, no king, no sealing, no writing. The window is long only because ‘the things which I have’ is a shape English sentences fall into. This entry covers the same run wherever it recurs in the chapter."
+  },
+  {
+    "bomRef": "Ether 5:1",
+    "source": "Jeremiah 49:17",
+    "category": "formulaic",
+    "sharedText": "by it shall be",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "A window artifact, and instructive as one. Moroni writes ‘except by and by it shall be wisdom in God’, in which ‘by and’ ends one idiom and ‘by it shall be’ is not a phrase at all — the four-word run straddles the seam. Jeremiah 49:17 and 1 Kings 9:8 both read ‘every one that passeth by it shall be astonished’, where ‘by it’ means past the ruined house. The two ‘by’s are different words doing different jobs. Both candidates are excluded on the same ground and neither is listed twice."
+  },
+  {
+    "bomRef": "Ether 5:1",
+    "source": "Colossians 2:21",
+    "category": "insufficient-verbal",
+    "sharedText": "touch them not",
+    "streams": [
+      "manual"
+    ],
+    "reason": "‘Touch them not’ occurs in no KJV verse, and the typological pull here is strong enough to be worth resisting in writing. A holy object that may not be handled is 2 Samuel 6:6-7 — Uzzah putting forth his hand to the ark and dying for it — and a sealed record forbidden to the unauthorised is close enough to that story that a reader will think of it. But the wording will not carry any of it: 2 Samuel has ‘put forth his hand to the ark of God, and took hold of it’, with no prohibition uttered at all. Of the six KJV verses reading ‘touch not’, Colossians 2:21 is an ascetic slogan Paul is quoting in order to reject it, 2 Corinthians 6:17's object is ‘the unclean thing’, and 1 Chronicles 16:22 and Psalm 105:15 protect the Lord's anointed, i.e. persons; the remaining two, Lamentations 4:15 and Luke 11:46, are further off still. None is about a sacred artefact, and none shares a distinctive word with Ether 5:1. Recorded so that a reader who sees the ark here is told the catalogue saw it and declined it; compare the standing Exodus 2:2 ‘goodly’ entry, which is this failure mode's model case."
+  },
+  {
+    "bomRef": "Ether 5:1",
+    "source": "Luke 21:9",
+    "category": "common-vocabulary",
+    "sharedText": "by and by",
+    "streams": [
+      "manual"
+    ],
+    "reason": "‘By and by’ occurs in exactly four KJV verses — Matthew 13:21, Mark 6:25, Luke 17:7, Luke 21:9 — which is rare enough to tempt, and the idiom is unmistakably of the KJV's period, so it is real evidence for the register the Book of Mormon is writing in. It is not evidence for any one verse, and it points the wrong way besides. In all four KJV instances ‘by and by’ means *immediately* (‘the end is not by and by’; ‘give me by and by in a charger the head of John the Baptist’). Moroni's ‘except by and by it shall be wisdom in God’ requires the later English sense, *in due course*, which the KJV never has. The phrase is diagnostic of the 1830 text's idiom and not of a borrowing; it appears in five verses of the 1830 text (3 Nephi 27:11, Alma 32:42, 55:11, 55:14 and here). No source verse is identifiable and none should be proposed."
+  },
+  {
+    "bomRef": "Ether 5:3",
+    "source": "2 Corinthians 6:7",
+    "category": "common-vocabulary",
+    "sharedText": "by the power of God",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "Three machine candidates at 5:3 and one at 5:4 rest on this phrase alone — 2 Corinthians 6:7, 1 Peter 1:5, 2 Corinthians 13:4, and at 5:4 the six-word run against 1 Corinthians 1:24, where ‘the power of God and’ is a KJV singleton only because the next words are ‘the wisdom of God’. ‘By the power of God’ is a New Testament commonplace with no distinctive attachment, and the Book of Mormon uses it continuously. Nothing else of any of these verses is present: 1 Corinthians 1:24 is about the scandal of the cross to Jews and Greeks, 1 Peter 1:5 about being kept unto salvation. The rarity scores here are arithmetic, not evidence. This entry covers all four."
+  },
+  {
+    "bomRef": "Ether 5:4",
+    "source": "Matthew 24:3",
+    "category": "formulaic",
+    "sharedText": "shall these things be",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "Three synoptic candidates — Matthew 24:3, Mark 13:4, Luke 21:7 — all the same question at the head of the same discourse, ‘Tell us, when shall these things be?’ There the words are an interrogative asking about timing; in Ether 5:4 they are the subject and auxiliary of ‘shall these things be established’, which the catalogue adjudicates to Deuteronomy 19:15 by way of 2 Corinthians 13:1. The run is real and the parse is wrong, which is the same failure as the 5:1 ‘by it shall be’ entry: a contiguous window is blind to where the clause boundaries are. All three are excluded together."
+  },
+  {
+    "bomRef": "Ether 5:4",
+    "source": "2 John 1:9",
+    "category": "better-source-identified",
+    "sharedText": "the Father and the Son",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "2 John 1:9 and 1 John 2:22 both end with ‘the Father and the Son’ and both scored well here. They are superseded. Ether 5:4 does not name two persons but three — ‘the Father, and the Son, and the Holy Ghost beareth record’ — and the KJV has exactly one sentence in which three named divine persons bear record, 1 John 5:7, four chapters from one of these candidates and one chapter from the other. The link is filed at 5:4 to 1 John 5:7; 2 John 1:9's polemic about abiding in the doctrine of Christ and 1 John 2:22's about the antichrist share the two-person formula and nothing else. Luke 2:25's ‘and the Holy Ghost’ and Luke 12:53's ‘the son and the father’ are covered by the same reasoning and are not listed separately."
+  },
+  {
+    "bomRef": "Ether 5:4",
+    "source": "Mark 6:11",
+    "category": "better-source-identified",
+    "sharedText": "for a testimony against",
+    "streams": [
+      "manual"
+    ],
+    "reason": "‘For a testimony against’ occurs in exactly four KJV verses — Matthew 10:18, Mark 6:11, Mark 13:9, Luke 9:5 — and all four are the same saying: shake the dust off your feet, or be dragged before governors, ‘for a testimony against them’. The verbal contact with ‘shall stand as a testimony against the world’ is closer than anything Deuteronomy offers, so a reader working from strings alone would land here. It is the wrong place. The synoptic testimony is a gesture made by departing missionaries against a town that refused them; Ether 5:4's is a written record deposited to be produced at the last day, which is Deuteronomy 31:19-26's procedure and no one else's. The link is filed at 5:4 to Deuteronomy 31:26, figural and with its own whyNot, and this entry sends a reader who came for the string to the row that has the argument."
+  },
+  {
+    "bomRef": "Ether 5:5",
+    "source": "Ephesians 5:20",
+    "category": "wrong-sense",
+    "sharedText": "the Father in the name of",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "The highest-scoring candidate at 5:5 and a six-word run, and the senses do not touch. Ephesians 5:20 is about thanksgiving — ‘giving thanks always for all things unto God and the Father in the name of our Lord Jesus Christ’ — where ‘in the name of’ modifies the giving of thanks and the Father is its recipient. Ether 5:5 is about access: ‘if it so be that they repent and come unto the Father in the name of Jesus’, where the name licenses an approach that repentance has made possible. The shared string is the KJV's ordinary way of attaching a name to an act directed at the Father, which is why it is long; it identifies a construction, not a source. The catalogue's reading of the verse is filed to John 14:6, the KJV's one verse about coming unto the Father, where the exclusivity Ether 5:5 implies is stated outright."
+  },
+  {
+    "bomRef": "Ether 5:5",
+    "source": "John 3:5",
+    "category": "common-vocabulary",
+    "sharedText": "into the kingdom of God",
+    "streams": [
+      "manual"
+    ],
+    "reason": "‘Into the kingdom of God’ occurs in ten KJV verses, six of them the camel-and-the-needle saying in its three synoptic forms and its immediate repetitions. The verb is the difficulty as much as the count: nine of the ten read *enter* into the kingdom of God and the tenth (Matthew 21:31) *go* into it, while Ether 5:5 has *received* into the kingdom of God, which is in no KJV verse. Nothing points at John 3:5 or at any of the other nine. Recorded because the phrase is prominent enough in the verse that its absence from the link list would otherwise look like an oversight."
+  },
+  {
+    "bomRef": "Ether 5:6",
+    "source": "1 Samuel 20:29",
+    "category": "wrong-sense",
+    "sharedText": "and now if I have",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "A KJV singleton, a five-word run, and the top-scoring candidate in the verse — and a textbook instance of the trap CONVENTIONS §9 describes, where rare boilerplate outranks real evidence. ‘And now, if I have found favour in thine eyes’ is David's excuse, relayed by Jonathan, for missing Saul's table; the singleton status comes from the accident that the KJV's many ‘if I have found favour’ formulas are prefaced ‘and now’ exactly once. Ether 5:6's continuation is ‘if I have no authority for these things’ — a negation, a different verb, and a challenge rather than a petition. The next word after the run diverges and the sense diverges with it, which is the ‘window closes one word early’ failure (ADJUDICATING §4)."
+  },
+  {
+    "bomRef": "Ether 5:6",
+    "source": "John 16:16",
+    "category": "insufficient-verbal",
+    "sharedText": "ye shall see me",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "The most tempting rejection in the chapter, and it is rejected narrowly. ‘Ye shall see me’ occurs in exactly three KJV verses, John 16:16, 16:17 and 16:19, which are three recitals of one saying — ‘a little while, and ye shall not see me: and again, a little while, and ye shall see me’ — so the rarity is one saying, not three attestations. The thematic fit is genuine: a speaker who is about to be absent promises his hearers a future seeing at which their present perplexity will be resolved, and Moroni, writing from the far side of his own death, tells his reader ‘ye shall know that I have authority when ye shall see me’. But the words are four of the commonest in the language in their commonest order, John's saying is inseparable from its ‘a little while’ frame and Moroni has no trace of that frame, and John's promised seeing is a reunion in joy (16:22) where Moroni's is an appearance before God's judgment. What the verse actually reaches for at that point is Revelation 20:12's ‘stand before God’, a KJV singleton, and that is where the link is filed. Recorded here rather than passed over because a reader who hears John 16 in the sentence has heard something real, and should be told the catalogue heard it and weighed it."
+  }
+]

@@ -1,0 +1,386 @@
+{
+  "chapter": 1,
+  "adjudicated": "2026-09-07",
+  "adjudicator": "Opus",
+  "links": {
+    "1:1": [
+      {
+        "source": "Acts 4:20",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "text": "For we cannot but speak the things which we have seen and heard.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "1 John 1:3"
+        ],
+        "provenance": {
+          "route": "Acts 4:20 → KJV → Book of Mormon",
+          "other": "“things which we have seen and heard” occurs in exactly one KJV verse, Acts 4:20. The bare pair “seen and heard” occurs in exactly 5 — Luke 7:22, John 3:32, Acts 4:20, Acts 22:15 and 1 John 1:3 — and every one of them is a formula of eyewitness testimony, so the field is not wide; it is the relative clause that narrows it to one. Mormon's only departures are the person (“I” for “we”) and the inserted “both”.",
+          "significance": "Recover Acts 4:20 and it is not a preface but a refusal. Peter and John have been arrested, examined, and “commanded them not to speak at all nor teach in the name of Jesus” (4:18); “we cannot but speak the things which we have seen and heard” is their answer to a prohibition. Fifteen verses later Mormon writes “I did endeavor to preach unto this people, but my mouth was shut, and I were forbidden that I should preach unto them” (1:16) — and unlike the apostles he obeys, because the prohibition is God's rather than a council's. The book therefore opens with the KJV's classic sentence of a witness who will not be silenced and, within the same chapter, silences him. Whether or not that irony was intended, it is the shape the chapter has."
+        },
+        "note": "'And now I, Mormon, make a record of the things which I have both seen and heard, and call it the Book of Mormon.' The title sentence of the book is built on the KJV's sole occurrence of “things which we have seen and heard”, converted from a plural apostolic protest into a singular editorial warrant. 1 John 1:3 supplies the other half of the same idiom — “That which we have seen and heard declare we unto you” — and is a genuine alternative, but 1 John lacks the relative clause and the noun “things” that Mormon has. Moderate rather than high because six words is short and the formula is the New Testament's standing one for testimony; well below Skousen's sixteen-word threshold and not one of his thirty-six.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "1:2": [
+      {
+        "source": "John 4:19",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "text": "The woman saith unto him, Sir, I perceive that thou art a prophet.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 5,
+          "sequence": 4,
+          "context": 3,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "John 4:19 → KJV → Book of Mormon",
+          "other": "“perceive that thou art a” occurs in exactly one KJV verse, John 4:19. Drop the article and “I perceive that thou art” occurs in exactly 2, John 4:19 and Acts 8:23; Acts 8:23 is Peter telling Simon Magus he is in the gall of bitterness, and is filed in the exclusion register at this verse. Only John 4:19 supplies the frame the Book of Mormon actually uses, which is the identification of a person by a character noun — “a prophet”, “a sober child”.",
+          "significance": "The KJV has one sentence in which a speaker announces, on a first meeting, what another person is; and it is spoken upward, by a stranger who recognises a prophet. Mormon 1:2 runs it downward. The last living custodian of the national record meets a ten-year-old and tells him what he is, and the announcement is a commission: the next two verses hand the boy the plates and the hill. What John 4:19 supplies is the grammar of naming an office a person has not yet claimed — the Samaritan woman is right about Jesus before he says so, and Ammaron is right about Mormon before Mormon has done anything. The unstated correspondence is what each recognition costs the recogniser: the woman goes and tells her city (John 4:28-29), and the child she prefigures here will be forbidden to tell his (Mormon 1:16)."
+        },
+        "note": "'And Ammaron saith unto me, I perceive that thou art a sober child, and art quick to observe.' Six words of John 4:19 in order, from the only KJV verse that has them, with the predicate noun changed. The 1830 reading carries a second piece of evidence that the modern text has lost: 1830 has Ammaron “saith unto me”, the KJV's historic present and John 4:19's own verb, where 1920 reads “said” (CONVENTIONS §8). Moderate: the run is short, and a writer steeped in the KJV could reach “I perceive that thou art” without John in view. What holds it up is that he did not merely reach the clause, he reached the clause with its article and its following noun.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "1:7": [
+      {
+        "source": "Hosea 1:10",
+        "type": "echo",
+        "subtype": "possible",
+        "confidence": "moderate",
+        "text": "Yet the number of the children of Israel shall be as the sand of the sea, which cannot be measured nor numbered; and it shall come to pass, that in the place where it was said unto them, Ye are not my people, there it shall be said unto them, Ye are the sons of the living God.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 2,
+          "sequence": 2,
+          "context": 4,
+          "rarity": 2,
+          "attestation": 0
+        },
+        "kjvSpecific": "uncertain",
+        "mediation": "uncertain",
+        "composite": [
+          "Romans 9:27",
+          "Revelation 20:8"
+        ],
+        "provenance": {
+          "route": "Hosea 1:10 → KJV → Book of Mormon",
+          "other": "“as the sand of the sea” occurs in exactly 7 KJV verses: Genesis 32:12, Genesis 41:49, Psalm 78:27, Isaiah 10:22, Hosea 1:10, Romans 9:27 and Revelation 20:8. Worth noticing that the KJV's similes for a war host — Joshua 11:4, Judges 7:12, 1 Samuel 13:5 — all read “sea shore” or “sea side” instead, so the situation Mormon 1:7-8 is moving into belongs to one KJV family and the words he uses belong to another. Alma 2:27's sand-multitude, adjudicated in this catalogue, is the war-host family and Judges 7:12's.",
+          "significance": "Of the seven, four are covenant-census verses about Israel's increase, and two of those — Hosea 1:10 and its quotation at Romans 9:27 — turn the increase into its opposite. Romans 9:27 reads the sand of the sea and concludes “a remnant shall be saved”; Isaiah 10:22, which it is quoting, adds “the consumption decreed shall overflow with righteousness”. Mormon 1:7 is the last sentence in the Book of Mormon in which the Nephites are numerous, and the next verse begins the war that ends at Cumorah with twenty-four survivors. If the phrase is Hosea's, the metalepsis is exact and bleak: the KJV's promise that a countless people will be called the sons of the living God, said of a people about to be counted down to a remnant, by the man who will do the counting (Mormon 6:11-15)."
+        },
+        "note": "'The people were as numerous almost, as it were the sand of the sea.' Recorded as an echo, not an allusion, because the phrase occurs in 7 KJV verses and no single one of them is demonstrable here; the hedge “almost” is Mormon's own and belongs to no source. It earns a row rather than an exclusion for two reasons. The wording is not the KJV's wording for an army — those verses say sea shore — so the choice is not simply the nearest military simile to hand; and the covenant sense of the phrase is the one that fits a narrator whose whole book is about a numerous people becoming a remnant.",
+        "whyNot": "Seven KJV verses share the phrase and the Book of Mormon reproduces nothing else from any of them. A reader who takes “sand of the sea” as ordinary English for an uncountable multitude — which by 1830 it was — can decline this row without difficulty, and nothing in the verse compels Hosea over Genesis 32:12.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "1:13": [
+      {
+        "source": "1 Corinthians 12:10",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "To another the working of miracles; to another prophecy; to another discerning of spirits; to another divers kinds of tongues; to another the interpretation of tongues:",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "1 Corinthians 12:9",
+          "1 Corinthians 13:8"
+        ],
+        "provenance": {
+          "route": "1 Corinthians 12:9-10 and 13:8 → KJV → Book of Mormon",
+          "other": "“working of miracles” occurs in exactly one KJV verse, 1 Corinthians 12:10; “gifts of healing” occurs in exactly 2, 1 Corinthians 12:9 and 12:30. Those are the only KJV verses that treat miracle and healing as distributed gifts rather than as events, and 1 Corinthians 13:8 is the only KJV verse that says such gifts cease. Mormon 1:13-14 has all three terms — miracles, healing, gifts — and the verb, in two consecutive sentences.",
+          "significance": "1 Corinthians 12-13 is the KJV's only sustained account of spiritual gifts, and its one statement about their end is a consolation: they cease because “that which is perfect is come” (13:10), superseded by charity, which never faileth. Mormon 1:13-14 borrows the chapter's inventory and reverses its reason — the gifts cease not because something better has arrived but because of iniquity and unbelief — and the reversal is the argument of Mormon's own later writing. His son will reproduce Paul's list almost entire at Moroni 10:8-18, and Mormon's letter at Moroni 7:44-47 will end on charity in Paul's words; his own chapter at Mormon 9:7-25 will insist the gifts have not ceased. This verse is where that family argument starts, and it starts by describing the loss in the vocabulary of the chapter that catalogues the things lost."
+        },
+        "note": "'The work of miracles and of healing did cease' (1:13); 'and there were no gifts from the Lord' (1:14). Three Pauline technical terms in Paul's own pairing: the working of miracles and the gifts of healing stand side by side in 1 Corinthians 12:9-10 and nowhere else in the KJV, and “cease” is 13:8's verb for what happens to them. High rather than certain because no clause is reproduced — the contact is a vocabulary set and a proposition, not a run of words, and Mormon has “work” where Paul has “working”.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "1:14": [
+      {
+        "source": "1 Samuel 3:1",
+        "type": "figural",
+        "subtype": "type-scene",
+        "confidence": "moderate",
+        "text": "And the child Samuel ministered unto the LORD before Eli. And the word of the LORD was precious in those days; there was no open vision.",
+        "evidence": {
+          "vocabulary": 0,
+          "syntax": 0,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 0,
+          "attestation": 0
+        },
+        "kjvSpecific": "no",
+        "mediation": "direct-OT",
+        "provenance": {
+          "route": "1 Samuel 3 → KJV → Book of Mormon (form, not wording)",
+          "other": "“no open vision” occurs in exactly one KJV verse, 1 Samuel 3:1, and the Book of Mormon does not reproduce it or anything else from the chapter. The row is filed as figural for that reason.",
+          "significance": "1 Samuel 3 is the KJV's one narrative in which a dearth of revelation and the call of a child are the same event, told in that order: there was no open vision, and then the LORD called Samuel. Mormon 1:14-15 puts them in the same order in adjacent sentences — no gifts from the Lord, the Holy Ghost came upon none, 'And I, being fifteen years of age … I was visited of the Lord.' The chapter has already laid out the rest of the scene. An aged custodian who is about to pass out of the story hands the sacred things to a boy he has judged fit (1:2-4, and compare Ammaron's 'I perceive that thou art a sober child' with Eli's part in recognising who is speaking to Samuel); the boy is given a charge for a set later age; and the first thing the boy is eventually told to say is a word of judgment on the house he was raised in. What the type supplies that Mormon does not say is the outcome: Samuel's call ends the silence, and Mormon's does not."
+        },
+        "note": "'And there were no gifts from the Lord, and the Holy Ghost did not come upon any, because of their wickedness and unbelief.' There is no verbal contact with 1 Samuel 3 and none is claimed. What is claimed is that the Book of Mormon has, in nineteen verses, assembled every element of the KJV's boy-called-in-a-time-of-silence scene and assembled them in the KJV's order, and that a reader who knows 1 Samuel 3 reads Mormon 1:15 differently for it. Moderate: the elements are individually unremarkable and the chapter would read much as it does if 1 Samuel 3 did not exist.",
+        "whyNot": "A type-scene argument with no shared wording, in a chapter that already has better-evidenced links. The row would be withdrawn if it turned out that this sequence — a dearth of gifts, then a boy visited — is a standing Book of Mormon pattern with several instances, since a house formula is not an allusion.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "1:15": [
+      {
+        "source": "1 Peter 2:3",
+        "type": "allusion",
+        "subtype": "conceptual",
+        "confidence": "moderate",
+        "text": "If so be ye have tasted that the Lord is gracious.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 2,
+          "context": 4,
+          "rarity": 2,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "OT-via-NT",
+        "composite": [
+          "Psalm 34:8"
+        ],
+        "provenance": {
+          "route": "Psalm 34:8 → 1 Peter 2:3 → KJV → Book of Mormon",
+          "other": "“tasted” occurs in exactly 8 KJV verses, of which three are theological rather than literal: Hebrews 6:4-5 and 1 Peter 2:3. Running mediation-check.py on Psalm 34:8 against its New Testament quotation at 1 Peter 2:3 gives one decisive divergence, and the Book of Mormon takes 1 Peter's side of it: the psalm has the imperative 'O taste and see', 1 Peter the finite past 'ye have tasted', and Mormon 'I … tasted, and knew'. The predicate goes the other way — Mormon's 'the goodness of Jesus' is nearer the psalm's 'that the LORD is good' than 1 Peter's 'gracious' — so the verse has 1 Peter's grammar and the psalm's noun.",
+          "significance": "1 Peter 2:3 is not a free-standing sentence; it closes the clause that begins 'As newborn babes, desire the sincere milk of the word, that ye may grow thereby: if so be ye have tasted that the Lord is gracious.' Recover that and the KJV supplies exactly what Mormon 1:15 is describing and does not say — a first taste, in infancy, that is the beginning of growth rather than its end. He is fifteen, in a chapter where the gifts have just been withdrawn from everyone else, and the one verse he sounds like is the verse about beginners. 1 Peter is also written to 'strangers scattered' (1:1) facing a trial, which is the situation of every reader Mormon is writing for."
+        },
+        "note": "'Therefore I was visited of the Lord, and tasted, and knew of the goodness of Jesus.' The mediation is the finding here rather than the source: this is the psalm's most famous sentence arriving in the grammatical form its New Testament quotation gave it. Moderate, because the shared material is one verb plus a divergence of tense; a reader could reasonably say that 'taste' for religious experience is ordinary devotional English by 1830 and needs no source at all.",
+        "whyNot": "The decisive point the mediation tool returns rests on grammatical form, not on distinctive vocabulary, and its own backbone score is zero shared words. That is thin evidence for a route, even where the route is the interesting part.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      },
+      {
+        "source": "Isaiah 29:6",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "text": "Thou shalt be visited of the LORD of hosts with thunder, and with earthquake, and great noise, with storm and tempest, and the flame of devouring fire.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 2,
+          "context": 2,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "OT-via-earlier-BoM",
+        "recurrenceRefs": [
+          "2 Nephi 27:2"
+        ],
+        "provenance": {
+          "route": "Isaiah 29:6 → KJV → 2 Nephi 27:2 → Book of Mormon",
+          "other": "“visited of the Lord” occurs in exactly one KJV verse, Isaiah 29:6. The mediation is recorded through the earlier Book of Mormon text because Isaiah 29:6 is already quoted entire at 2 Nephi 27:2, where this catalogue adjudicates it as a certain quotation and where 'Thou shalt be visited' has already been changed to 'they shall be visited' — so the phrase exists inside Mormon's own record, in a third-person form nearer his own, as well as in Isaiah.",
+          "significance": "Isaiah 29 is the chapter the Book of Mormon reads as being about itself: the vision that becomes 'the words of a book that is sealed', the learned man who cannot read it and the unlearned man who is handed it (29:11-12), the marvellous work and a wonder (29:14). Mormon 1 is the chapter in which the sealing up begins — Ammaron hides the records unto the Lord (1:2), the boy who will finish the burying is chosen, and the boy has just been described as one who 'began to be learned somewhat after the manner of the learning of my people'. Against that, what the KJV's one visitation 'of the LORD' actually consists of is thunder, earthquake, storm and devouring fire on a city under siege. Mormon 1:15 gives the phrase its gracious sense; Mormon 6 gives it Isaiah's. The suggestion that the chapter is deliberately working Isaiah 29 is ours and is offered as a suggestion; the singleton is a fact."
+        },
+        "note": "'I was visited of the Lord.' Four words, but they are the KJV's only occurrence of the construction, and the Book of Mormon has demonstrably had that verse in front of it before (2 Nephi 27:2). Moderate rather than high because the sense at the point of contact is inverted — see whyNot — and because 'visit' in the sense of a divine coming is not confined to this verse in the KJV; it is the particular passive with 'of the Lord' that is.",
+        "whyNot": "Isaiah 29:6 is a threat. Ariel is besieged and will be visited with thunder and devouring fire; Mormon is visited and tastes the goodness of Jesus. A reader who applies the wrong-sense test that this register uses elsewhere — see the exclusion at Mormon 1:11 — could reasonably reject the row on that ground alone, and would be making the argument the catalogue itself usually makes. It is kept because the phrase is a singleton, because the source verse is one the Book of Mormon has already quoted, and because the judgment Isaiah threatens is the event this book ends with.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "1:16": [
+      {
+        "source": "Ezekiel 3:26",
+        "type": "allusion",
+        "subtype": "conceptual",
+        "confidence": "moderate",
+        "text": "And I will make thy tongue cleave to the roof of thy mouth, that thou shalt be dumb, and shalt not be to them a reprover: for they are a rebellious house.",
+        "evidence": {
+          "vocabulary": 2,
+          "syntax": 2,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 1,
+          "attestation": 0
+        },
+        "kjvSpecific": "uncertain",
+        "mediation": "direct-OT",
+        "composite": [
+          "Ezekiel 3:27",
+          "Ezekiel 3:15"
+        ],
+        "provenance": {
+          "route": "Ezekiel 3:15-27 → KJV → Book of Mormon",
+          "other": "“my mouth was shut” occurs in no KJV verse, so the contact is not a phrase and the row does not pretend otherwise. “rebellious house”, Ezekiel's standing name for this audience, occurs in exactly 12 KJV verses, every one of them in Ezekiel. “remained there astonished among them” occurs in exactly one KJV verse, Ezekiel 3:15, against Mormon 1:17's 'But I did remain among them' — suggestive, and no more than that, since only the verb is shared.",
+          "significance": "The King James Bible contains exactly one prophet whom God forbids to prophesy, and Ezekiel 3:26-27 is the passage: the tongue cleaves, the mouth is shut, the man is not to be a reprover, and the stated cause is that they are a rebellious house. Two things follow there that matter here. The silence is God's act, not the audience's — a prophet unheard is a commonplace, a prophet gagged by his own commission is not — and it is temporary: 'when I speak with thee, I will open thy mouth' (3:27). Mormon's mouth is opened on exactly those terms at Mormon 3:2, where the Lord says 'Cry unto this people'. The unstated correspondence is Ezekiel 3:15, which is what a silenced prophet does with the interval: he goes and sits where they sit and remains among them. Mormon 1:17 opens 'But I did remain among them', and it is the only reason the record exists."
+        },
+        "note": "'And I did endeavor to preach unto this people, but my mouth was shut, and I were forbidden that I should preach unto them: for behold they had wilfully rebelled against their God.' Four elements in Ezekiel's order and with Ezekiel's logic: the attempt to speak, the shut mouth, the divine prohibition, and rebellion given as its cause. The vocabulary is not borrowed — 'rebelled' against Ezekiel's 'rebellious house' is the whole of the lexical overlap — which is why this is moderate and not high. Note the 1830 grammar, 'I were forbidden', which 1920 corrected to 'I was'; it is not a KJV reading and does not bear on the source, but it is the reading of the running text.",
+        "whyNot": "No verbal run at all, and the notion of a prophet prevented from preaching is available without Ezekiel — Jeremiah 20:9, Amos 8:11-12 and 1 Samuel 3:1 all supply pieces of it. What confines the field to Ezekiel is the specific detail that God does the silencing and later lifts it, and a reader who thinks that detail is coincidence should decline the row.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "1:17": [
+      {
+        "source": "Mark 3:5",
+        "type": "quotation",
+        "subtype": "close-verbal",
+        "confidence": "certain",
+        "text": "And when he had looked round about on them with anger, being grieved for the hardness of their hearts, he saith unto the man, Stretch forth thine hand. And he stretched it out: and his hand was restored whole as the other.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 2
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "recurrenceRefs": [
+          "1 Nephi 2:18",
+          "1 Nephi 7:8",
+          "1 Nephi 17:53",
+          "2 Nephi 25:12",
+          "Jarom 1:3",
+          "Mosiah 13:32",
+          "Alma 13:4",
+          "Alma 30:46",
+          "Helaman 6:35",
+          "3 Nephi 7:16"
+        ],
+        "provenance": {
+          "route": "Mark 3:5 → KJV → Book of Mormon",
+          "other": "“hardness of their hearts” occurs in exactly one KJV verse, Mark 3:5. Check the pronoun before assuming it: “hardness of your hearts” occurs in exactly one KJV verse and it is Matthew 19:8, on divorce. Mormon has the third person and therefore Mark. Running mediation-check.py on the two returns no decisive divergence, because they diverge nowhere the Book of Mormon reproduces; the pronoun is the whole test and the tool ignores single common words by design (ADJUDICATING §4).",
+          "significance": "The catalogue has recorded this clause ten times before and the phrase itself needs no fresh argument; what is new is where Mormon puts it. In Mark 3:5 hardness of heart is the thing Jesus is grieved by and heals in spite of — the clause is a subordinate one, and the main verb is 'Stretch forth thine hand'. Mark 3:5 is the only KJV verse in which the hardness of their hearts and a healing stand in the same sentence. Mormon 1:13 has just reported that 'the work of miracles and of healing did cease', and four verses later gives the reason in the words of the verse where the healing happened anyway. The suppressed half of Mark 3:5 is the restored hand: the thing that no longer occurs. Ten previous narrators used the clause to explain why someone would not listen; Mormon is the first to use it to explain why the miracles stopped."
+        },
+        "note": "'Because of the hardness of their hearts; and because of the hardness of their hearts, the land was cursed for their sake.' Five words of Mark 3:5 unaltered and twice over, from the sole KJV home of the phrase, with the pronoun correct. Well below Skousen's sixteen-word threshold and not one of his thirty-six, but dependence is not deniable. The clause is by this point a Book of Mormon formula used in nine previous books; per ADJUDICATING §4 the row is written again because Mormon is a new book in a new hand, and the argument for the borrowing itself was made at 1 Nephi 2:18 and is not restated here.",
+        "bibliography": [],
+        "status": "majority",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      },
+      {
+        "source": "Genesis 3:17",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "text": "And unto Adam he said, Because thou hast hearkened unto the voice of thy wife, and hast eaten of the tree, of which I commanded thee, saying, Thou shalt not eat of it: cursed is the ground for thy sake; in sorrow shalt thou eat of it all the days of thy life;",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 4,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "OT-via-earlier-BoM",
+        "recurrenceRefs": [
+          "2 Nephi 1:7",
+          "Jacob 2:29",
+          "Helaman 13:17"
+        ],
+        "provenance": {
+          "route": "Genesis 3:17 → KJV → 2 Nephi 1:7 → Book of Mormon",
+          "other": "“cursed is the ground for thy sake” occurs in exactly one KJV verse, Genesis 3:17; “for thy sake” alone occurs in exactly 9 and cannot carry a link. The mediation is through the earlier Book of Mormon text rather than direct: Mormon's 'the land was cursed for their sake' is verbally nearer 2 Nephi 1:7's 'cursed shall be the land for their sakes' — land for ground, plural possessor — than it is to Genesis, and this catalogue adjudicates the Genesis borrowing there and at Jacob 2:29.",
+          "significance": "This is the sentence in which the Book of Mormon's central land doctrine is reported as executed. 2 Nephi 1:7 stated it as a condition of tenure, Genesis 3:17 supplied the words, and Samuel the Lamanite announced the curse as imminent at Helaman 13:17-23. Mormon 1:17 is the only place the book says flatly, in the past tense and without qualification, that it has now happened. What Genesis 3:17 contributes that the intervening statements do not is the content of a curse on ground: not destruction but withholding — the earth will no longer yield to the man who works it. The next sentence of Mormon 1 is about exactly that, treasure put into the ground and not given back."
+        },
+        "note": "'The land was cursed for their sake.' Six words against Genesis 3:17's 'cursed is the ground for thy sake', with the noun and the possessor changed; the shared material is the passive curse plus the 'for … sake' construction, which is why this is moderate rather than high. What earns the row at Mormon 1:17 rather than a silent cross-reference to 2 Nephi 1:7 is the pairing: the same sentence gives Mark 3:5's hardness of heart as the reason the land is cursed, so Eden's formula is being used to say that a people's disposition, not an act, has spoiled the ground under them.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "1:18": [
+      {
+        "source": "Matthew 6:19",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "text": "Lay not up for yourselves treasures upon earth, where moth and rust doth corrupt, and where thieves break through and steal:",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Matthew 6:20",
+          "Matthew 25:18"
+        ],
+        "recurrenceRefs": [
+          "Helaman 13:19"
+        ],
+        "provenance": {
+          "route": "Matthew 6:19-20 → KJV → Book of Mormon",
+          "other": "“treasures upon earth” occurs in exactly one KJV verse, Matthew 6:19, and so does “break through and steal”. “treasures in the earth” occurs in no KJV verse: the Book of Mormon's preposition is its own, and it is doing different work, since Matthew's treasure is laid up above ground where thieves can reach it and Mormon's is buried to keep them off. The nearest KJV verse for burying is Matthew 25:18, where the unprofitable servant 'digged in the earth, and hid his lord's money'.",
+          "significance": "Samuel the Lamanite built the curse of slippery treasures out of Matthew 6:19-20 — adjudicated at Helaman 13:19 — but he used only half the passage. He took the treasure and the losing of it and left the thieves behind, since Matthew's moth, rust and burglars were replaced by the ground itself. Mormon 1:18 is the report of that curse coming to pass, and it restores the missing half in the first clause: the reason anybody is burying treasure at all is that 'these Gaddianton robbers … did infest the land'. So the Sermon's two agents of loss are split across the two passages and the fulfilment supplies what the prophecy dropped. The result is a bleaker sentence than Matthew's. In Matthew you may lose earthly treasure to thieves; here you lose it to the thieves if you keep it and to the ground if you hide it, and the second loss is the Lord's doing."
+        },
+        "note": "'These Gaddianton robbers … did infest the land, insomuch that the inhabitants thereof began to hide up their treasures in the earth; and they became slippery, because the Lord had cursed the land.' Written as a full link rather than a back-reference because Mormon is a new book and a new narrator (ADJUDICATING §4), and because what is here is not the Helaman 13 borrowing repeated but its other half: the thieves of Matthew 6:19, absent from Samuel's oracle, present in the fulfilment. Moderate, on the same grounds as the Helaman row — the shared material is the noun and the antithesis, not a clause. Note the 1830 spelling 'Gaddianton', which 1920 regularised to 'Gadianton'.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,330 @@
+{
+  "chapter": 6,
+  "adjudicated": "2026-09-07",
+  "adjudicator": "Opus",
+  "links": {
+    "6:2": [
+      {
+        "source": "Luke 1:74",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "That he would grant unto us, that we being delivered out of the hand of our enemies might serve him without fear,",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 3,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "Luke 1:74 → KJV → Book of Mormon",
+          "other": "“that he would grant unto us” occurs in exactly one KJV verse, Luke 1:74; “grant unto us” occurs in exactly two, Luke 1:74 and Mark 10:37. The eight-word run “that he would grant unto us that we” is shared by these two sentences and by nothing else in either book: the string occurs nowhere else in the Book of Mormon.",
+          "significance": "Recover the context and the borrowing turns inside out. Luke 1:74 is the middle of the Benedictus, Zacharias's prophecy of what the covenant with Abraham was for: “that he would grant unto us, that we being delivered out of the hand of our enemies might serve him without fear.” Mormon's petition has the same eight words and reverses every term under them. The one who is asked to grant is not God but the king of the Lamanites; what is asked for is not deliverance out of the hand of the enemy but permission to assemble in front of him; and what it secures is not serving God without fear but, five verses later, waiting for him with “that awful fear of death which fills the breasts of all the wicked” (6:7). The Book of Mormon's last Nephite prayer is addressed to the enemy, and it is worded out of the KJV's prayer for rescue from enemies."
+        },
+        "note": "“And I, Mormon, wrote an epistle unto the king of the Lamanites, and desired of him that he would grant unto us that we might gather together our people unto the land of Camorah.” Eight consecutive words of Luke 1:74, in Luke's order, and Luke's construction all the way through: the subordinated “that he would grant unto us” followed by a second “that we … might”. Nothing in the diplomatic situation calls for this phrasing; “asked him to let us gather” would do the same work. The run is well below Skousen's sixteen-word threshold and is not one of his thirty-six, but on the pilot's standard (CONVENTIONS §2) a run this long from a KJV singleton is a link. Note that the machine stream did rank this first in the chapter, at rarity 3.17 — one of the few places in Mormon where the n-gram floor and the reading agree.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "6:4": [
+      {
+        "source": "Revelation 16:4",
+        "type": "echo",
+        "subtype": "possible",
+        "confidence": "moderate",
+        "text": "And the third angel poured out his vial upon the rivers and fountains of waters; and they became blood.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 1,
+          "sequence": 1,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "Revelation 16:4 → KJV → Book of Mormon",
+          "other": "“rivers and fountains” occurs in exactly one KJV verse, Revelation 16:4. “land of many waters” occurs in no KJV verse; “many waters” is common, and in Revelation 17:1 and 17:15 it is the seat of the whore and is glossed as “peoples, and multitudes, and nations, and tongues”.",
+          "significance": "The one place in the King James Bible where rivers and fountains are named together is the third bowl of Revelation 16, where they are turned to blood; twelve verses later, at Revelation 16:16, the kings of the earth are gathered “into a place called in the Hebrew tongue Armageddon” — a battlefield known by a name rather than a description, which is what the hill Camorah is about to become. Mormon's survey of the ground is dated, tactical and flat (“here we had hope to gain advantage over the Lamanites”), and eleven verses later the ground has flesh, bones and blood lying on it (6:15). Whether or not the phrase was chosen, the catalogue records that the Book of Mormon's Armageddon is described in the vocabulary of Revelation's."
+        },
+        "note": "“And it was in a land of many waters, rivers and fountains.” Two words of contact, and they are the two words that occur together in only one KJV verse. Set against that: this is an ordinary English pair for describing well-watered country, the syntax shares nothing with Revelation 16:4, and the Book of Mormon uses “many waters” eleven times without apocalyptic freight. Recorded at moderate because the rarity is real and the setting — the naming of the final battlefield — is where an apocalyptic phrase would matter most if it is one.",
+        "whyNot": "“Rivers and fountains” may simply be the natural English pairing for a watered landscape; its being a KJV singleton is at least partly an accident of how seldom the KJV describes terrain. There is no second point of contact with Revelation 16 anywhere in the chapter, and the Armageddon reading depends on a verse (16:16) that shares no wording with Mormon 6 at all.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "6:7": [
+      {
+        "source": "Hebrews 2:15",
+        "type": "allusion",
+        "subtype": "conceptual",
+        "confidence": "high",
+        "text": "And deliver them who through fear of death were all their lifetime subject to bondage.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 2,
+          "sequence": 1,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "recurrenceRefs": [
+          "Moroni 9:5"
+        ],
+        "provenance": {
+          "route": "Hebrews 2:15 → KJV → Book of Mormon",
+          "other": "“fear of death” occurs in exactly one KJV verse, Hebrews 2:15. It occurs in exactly two verses of the Book of Mormon: here and Moroni 9:5, in the letter Mormon writes to Moroni about this same war, where the Nephites are so angry that “it seemeth me that they have no fear of death”.",
+          "significance": "Hebrews 2:15 does not merely mention the fear of death; it defines it as the condition Christ came to end — “that through death he might destroy him that had the power of death … and deliver them who through fear of death were all their lifetime subject to bondage.” Mormon says of his people that they died in exactly that fear, and ten verses later says why: “how could ye have rejected that Jesus, who stood with open arms to receive you” (6:17). The KJV's only sentence about the fear of death is a sentence about being delivered from it, and Mormon's people are the case in which the deliverance was declined. That reading is what makes the aside “which fills the breasts of all the wicked” more than a moralising interjection: it is the diagnosis Hebrews gives."
+        },
+        "note": "“And with that awful fear of death which fills the breasts of all the wicked, did they await to receive them.” The definite article is the tell — “that awful fear of death”, as though naming something already known. What is already known is Hebrews 2:15, the only KJV verse in which the phrase appears, where the fear of death is a lifelong bondage rather than a battlefield emotion. Mormon generalises it in exactly Hebrews' direction: not fear felt by these men on this morning, but the standing condition of “all the wicked”. Two words is thin contact and the note rests on the singleton and on the theology it carries, not on volume.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "6:13": [
+      {
+        "source": "2 Samuel 1:25",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "How are the mighty fallen in the midst of the battle! O Jonathan, thou wast slain in thine high places.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "2 Samuel 1:19",
+          "2 Samuel 1:27"
+        ],
+        "recurrenceRefs": [
+          "Mormon 6:10",
+          "Mormon 6:19"
+        ],
+        "provenance": {
+          "route": "2 Samuel 1:19-27 → KJV → Book of Mormon",
+          "other": "“in the midst of the battle” occurs in exactly one KJV verse, 2 Samuel 1:25, and in no other verse of the Book of Mormon. “how are the mighty fallen” occurs in exactly three KJV verses, 2 Samuel 1:19, 1:25 and 1:27 — all three of them this one lament. “the weapons of war” occurs in exactly two, 2 Samuel 1:27 and Jeremiah 21:4.",
+          "significance": "David's elegy is the King James Bible's battlefield lament, and Mormon 6 is the Book of Mormon's. The correspondences are of position, not only of wording. David laments from outside a defeat he did not witness; Mormon laments from the top of the hill on the morning after one he survived. 2 Samuel 1:19 and 1:25 place the slain “upon thy high places” and Mormon 6:11 places the surviving twenty-four “from the top of the hill Camorah”, looking down at the ten thousand. David's refrain closes on “the weapons of war perished” and Mormon's roll-call opens with “all manner of weapons of war” (6:9). What the Book of Mormon does with the form is to break it: David names two dead men, Mormon names twenty-three and then, at 6:15, gives up naming and counts."
+        },
+        "note": "“And behold, the ten thousand of Gidgiddonah had fallen, and he also in the midst.” The two distinctive elements of 2 Samuel 1:25 are here, in its order — the falling, then the midst — split across a clause boundary rather than reproduced as a run, which is exactly the shape the n-gram stream cannot see (CONVENTIONS §9) and this candidate was not proposed by it. Three verses earlier Mormon says of himself “I fell wounded in the midst” (6:10), which is the same pairing again in the first person. Then the chapter repeats “had fallen” eleven times in three verses and closes the sequence with “ye are fallen” (6:18) and “how is it that ye could have fallen!” (6:19) — a refrain in the position David's refrain occupies. Adjudicated here rather than at 6:10 because 6:13 holds both elements in the KJV's order; the apostrophe half of the same lament is at 6:19.",
+        "whyNot": "“In the midst” alone is common KJV English and “fallen” is unavoidable in a battle narrative; the case rests on the two appearing together, twice, in a chapter that is generically an elegy, rather than on any reproduced clause. A reader who thinks the elegy form is simply what any lament over a defeat looks like can decline the whole row.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "6:15": [
+      {
+        "source": "Jeremiah 25:33",
+        "type": "allusion",
+        "subtype": "conceptual",
+        "confidence": "moderate",
+        "text": "And the slain of the LORD shall be at that day from one end of the earth even unto the other end of the earth: they shall not be lamented, neither gathered, nor buried; they shall be dung upon the ground.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 2,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "uncertain",
+        "mediation": "direct-OT",
+        "composite": [
+          "Jeremiah 16:4",
+          "Jeremiah 8:2"
+        ],
+        "provenance": {
+          "route": "Jeremiah 25:33 → KJV → Book of Mormon",
+          "other": "“dung upon the face of the earth” occurs in exactly two KJV verses, Jeremiah 8:2 and Jeremiah 16:4, and Jeremiah 25:33 has the same clause with “ground” for “face of the earth”; the three are one oracle repeated. “mother earth” occurs in no KJV verse and is the Book of Mormon's own phrase (2 Nephi 9:7, Mosiah 2:26); the nearest KJV sentence is Genesis 3:19, “dust thou art, and unto dust shalt thou return”.",
+          "significance": "The unburied corpse is not a detail of atrocity in the KJV, it is a covenant sanction — Deuteronomy 28:26 threatens it, and Jeremiah passes the sentence three times in the same words. What Jeremiah's formula holds together is precisely Mormon's list: not lamented, not gathered, not buried. Mormon's people are all three. They cannot be gathered because the twenty-four who could gather them are all that is left; they are not buried because there is no one to bury them; and the lamenting is done by one man, in the next verse, for a nation. Read against Jeremiah, the six verses of names in 6:13-15 are the burial the bodies did not get."
+        },
+        "note": "“Their flesh, and bones, and blood lay upon the face of the earth, being left by the hands of those who slew them, to moulder upon the land, and to crumble and to return to their mother earth.” No clause is reproduced, and the sentence's closing phrase is the Book of Mormon's own, not the KJV's. What is Jeremiah's is the whole configuration: corpses left where they fell, on the face of the earth, unlamented and unburied, as the terminal image of a judgment oracle — and Jeremiah is the prophet the chapter reaches for again in the very next verse (see 6:16). Recorded at moderate: the motif is Jeremiah's and the wording is Mormon's. 1830 reads “moulder”, modernized to “molder” in 1920, and “mouldering” likewise at 6:21 — the first edition keeps the KJV's spelling habits in a sentence that has no KJV wording in it.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "6:16": [
+      {
+        "source": "Jeremiah 9:1",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "Oh that my head were waters, and mine eyes a fountain of tears, that I might weep day and night for the slain of the daughter of my people!",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "OT-via-earlier-BoM",
+        "recurrenceRefs": [
+          "2 Nephi 26:7",
+          "1 Nephi 17:47"
+        ],
+        "provenance": {
+          "route": "Jeremiah 9:1 → KJV → 2 Nephi 26:7 → Mormon 6:16",
+          "other": "“the slain of” occurs in exactly four KJV verses — Isaiah 66:16, Jeremiah 9:1, Jeremiah 25:33 and Jeremiah 51:49 — and Jeremiah 9:1 is the only one that joins it to “my people”. “slain of my people” occurs in no KJV verse and in exactly two Book of Mormon verses: 2 Nephi 26:7 and here. “rent with anguish” occurs in no KJV verse and in exactly two Book of Mormon verses: 1 Nephi 17:47 and here.",
+          "significance": "This is the chapter's best case for a borrowing that has passed through the Book of Mormon before reaching its user. Jeremiah 9:1 supplies the figure — a prophet weeping over the slain of his own people, in a book that has just finished pronouncing their destruction. But the exact string Mormon uses, “the slain of my people”, is not Jeremiah's (his is “the slain of the daughter of my people”); it is Nephi's, at 2 Nephi 26:7, where it is spoken as prophecy of this very battle: “O the pain, and the anguish of my soul for the loss of the slain of my people! For I, Nephi, hath seen it, and it well nigh consumeth me.” Mormon's cry therefore lands on words already written for it six centuries earlier in the book he is abridging, and “my soul was rent with anguish” carries Nephi's other lament with it, the “rent with anguish” of 1 Nephi 17:47. Mormon's is the only lament in scripture that is a quotation of a vision of itself."
+        },
+        "note": "“And my soul was rent with anguish, because of the slain of my people: And I cried.” Two Book of Mormon strings meet here, both Nephi's, and behind them one KJV verse. The mediation is decidable on the wording: Jeremiah 9:1 reads “the slain of the daughter of my people”, 2 Nephi 26:7 reads “the slain of my people”, and Mormon 6:16 has Nephi's form, not Jeremiah's — so the proximate model is the earlier Book of Mormon verse and the ultimate source is Jeremiah. The pairing of soul, anguish and the slain runs through all three. Note also what follows in both books: Jeremiah 9:1 introduces a chapter of unburied bodies (9:22, “as dung upon the open field”), and Mormon 6:16 follows one (6:15).",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "6:17": [
+      {
+        "source": "Isaiah 65:2",
+        "type": "echo",
+        "subtype": "conceptual",
+        "confidence": "moderate",
+        "text": "I have spread out my hands all the day unto a rebellious people, which walketh in a way that was not good, after their own thoughts;",
+        "evidence": {
+          "vocabulary": 1,
+          "syntax": 1,
+          "sequence": 2,
+          "context": 5,
+          "rarity": 2,
+          "attestation": 0
+        },
+        "kjvSpecific": "no",
+        "mediation": "uncertain",
+        "composite": [
+          "Romans 10:21",
+          "Matthew 23:37"
+        ],
+        "provenance": {
+          "route": "Isaiah 65:2 / Romans 10:21 → KJV → Book of Mormon (route undecided)",
+          "alternative": "Matthew 23:37 (and its Book of Mormon reuse at 3 Nephi 10:4-6) is the other candidate for the rejected-gathering figure; 3 Nephi 9:14, “mine arm of mercy is extended towards you, and whosoever will come, him will I receive”, is the nearest Book of Mormon sentence and supplies the verb “receive”.",
+          "other": "“with open arms” occurs in no KJV verse, and in exactly one Book of Mormon verse — this one. “spread out my hands” occurs in exactly two KJV verses, Ezra 9:5 and Isaiah 65:2; “stretched forth my hands” occurs in exactly one, Romans 10:21.",
+          "significance": "The image of God standing with arms out toward a people who will not come is, in the King James Bible, Isaiah 65:2 and the verse of Paul that quotes it — and it is an image of rejection sustained over time, “all the day”, “all day long”. Mormon puts it in the past perfect and closes it: the arms were open, and the people who could have come are lying on the field. What the catalogue can say is that the figure is scriptural and the words are not."
+        },
+        "note": "“O ye fair ones, how could ye have rejected that Jesus, who stood with open arms to receive you!” There is no verbal contact to test — “open arms” is in no KJV verse and “fair ones” is in none either. What is here is the KJV's one recurring picture of a rejected embrace, which reaches English readers in two forms, Isaiah 65:2's spread-out hands and Romans 10:21's stretched-forth hands, with Matthew 23:37's hen and chickens as the Gospels' version of the same refusal. Recorded as an echo, and recorded honestly as undecided: see whyNot.",
+        "whyNot": "tools/mediation-check.py on Mormon 6:17 against Isaiah 65:2 and Romans 10:21 returns no decisive divergence — the Book of Mormon reproduces neither “spread out” nor “stretched forth”, neither “all the day” nor “all day long”, and neither “rebellious” nor “disobedient and gainsaying”. It has “open arms”, which is in neither. So the verse cannot settle its own mediation and the field is left uncertain (CONVENTIONS §7). A reader may reasonably hold that the source is not a text at all but a preaching commonplace, or that the proximate model is 3 Nephi 9:14 rather than any biblical verse; the row is kept because the figure is scriptural, not because the wording proves it.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "6:19": [
+      {
+        "source": "2 Samuel 1:24",
+        "type": "allusion",
+        "subtype": "structural",
+        "confidence": "moderate",
+        "text": "Ye daughters of Israel, weep over Saul, who clothed you in scarlet, with other delights, who put on ornaments of gold upon your apparel.",
+        "evidence": {
+          "vocabulary": 2,
+          "syntax": 4,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 2,
+          "attestation": 0
+        },
+        "kjvSpecific": "no",
+        "mediation": "direct-OT",
+        "recurrenceRefs": [
+          "Mormon 6:13"
+        ],
+        "provenance": {
+          "route": "2 Samuel 1:19-27 → KJV → Book of Mormon",
+          "other": "“sons and daughters” occurs in 26 KJV verses and carries no weight here; the rarity in this row is all borrowed from 6:13, where “in the midst of the battle” is a KJV singleton.",
+          "significance": "David's lament turns, at 1:24, from the dead to the living women who must now be told, and Mormon's turns the same way and finds nobody there. “O ye fair sons and daughters, ye fathers and mothers, ye husbands and wives” is a roll of every relation a survivor could be addressed in, and every one of them is on the ground. The apostrophe is what a lament does; the horror of Mormon 6 is that the apostrophe has no audience, which is also why the chapter's third and last “fallen” is a question — “how is it that ye could have fallen!” — where David's is a declaration."
+        },
+        "note": "The apostrophe half of the elegy adjudicated at 6:13. 2 Samuel 1:24 addresses the survivors by relation and 6:19 does the same at four times the length; the refrain that closes both is “fallen”, three times in David (1:19, 1:25, 1:27) and three times in Mormon (6:18, 6:19, with the roll of 6:13-15 behind them). Given separately from 6:13 rather than folded into it because a reader coming to this verse on its own is otherwise shown nothing, and because the vocative catalogue is where the Book of Mormon most visibly departs from its model. The argument for the elegy as a whole is at 6:13 and is not restated here.",
+        "whyNot": "No distinctive wording is shared with 2 Samuel 1:24 — not one phrase — and vocative laments over the dead are a form, not a text. This row stands or falls with 6:13.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "6:21": [
+      {
+        "source": "1 Corinthians 15:53",
+        "type": "quotation",
+        "subtype": "close-verbal",
+        "confidence": "certain",
+        "text": "For this corruptible must put on incorruption, and this mortal must put on immortality.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 1
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Romans 14:10",
+          "Revelation 2:23"
+        ],
+        "recurrenceRefs": [
+          "Enos 1:27",
+          "Mosiah 16:10",
+          "Alma 40:2",
+          "Mormon 3:20",
+          "Mormon 3:22"
+        ],
+        "provenance": {
+          "route": "1 Corinthians 15:53 → KJV → Book of Mormon",
+          "other": "“mortal must put on” and “must put on immortality” each occur in exactly one KJV verse, 1 Corinthians 15:53. “stand before the judgment seat” occurs in exactly one KJV verse, Romans 14:10; “judgment seat of Christ” in exactly two, Romans 14:10 and 2 Corinthians 5:10. “according to your works” occurs in exactly one KJV verse, Revelation 2:23.",
+          "significance": "1 Corinthians 15:53 is the second half of a sentence whose first half Mormon has already paraphrased, and its own next verse is the one the chapter needs: “So when this corruptible shall have put on incorruption, and this mortal shall have put on immortality, then shall be brought to pass the saying that is written, Death is swallowed up in victory.” Mormon does not quote it. He is standing over a field on which death has swallowed everything, addressing the dead, and he stops one verse short of the line that answers him. Recovering the suppressed verse is what the borrowing is for — this is metalepsis in Hays's sense, and it is the reason the resurrection chapter, of all chapters, is the one Mormon 6 ends on."
+        },
+        "note": "“The day soon cometh that your mortal must put on immortality, and these bodies which are now mouldering in corruption, must soon become incorruptible bodies.” Five words verbatim from 1 Corinthians 15:53 and a paraphrase of its first clause, in Paul's order. The route matters, because “put on immortality” is already a Book of Mormon formula — Enos 1:27, Mosiah 16:10 and Alma 40:2 all have it — and a reader could reasonably suppose Mormon is reusing the book's own phrase rather than the KJV's. The verb decides it. Paul reads “this mortal MUST put on immortality”; Enos and Mosiah read “shall”, Alma reads “does not”; Mormon 6:21 alone reads “must”, and alone restores the KJV's modal. This verse is in fresh contact with 1 Corinthians 15, not with the formula. The rest of the sentence fuses two further singletons: “stand before the judgment seat” is Romans 14:10's alone, and “according to your works”, in the second person plural, is Revelation 2:23's alone — tools/mediation-check.py against Psalm 62:12 (“according to his work”) returns Revelation 2:23 as decisive on exactly that word. Note finally that the judgment-seat formula enters this book at Mormon 3:20, where the catalogue adjudicates it against 2 Corinthians 5:10 — and 3:20's “ye must all stand” does take 2 Corinthians' “must all”. Mormon 6:21 has only “ye must stand”, without the “all”, which is Romans 14:10's clause and not 2 Corinthians'; the two verses of one book reach the same formula from its two KJV halves. What belongs to 6:21 is that fusion, and its welding onto the resurrection clause. 1830 reads “mouldering” and “judgement seat”, both altered in 1920.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ]
+  }
+}

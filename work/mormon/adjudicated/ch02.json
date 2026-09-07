@@ -1,0 +1,433 @@
+{
+  "chapter": 2,
+  "adjudicated": "2026-09-07",
+  "adjudicator": "Opus",
+  "links": {
+    "2:8": [
+      {
+        "source": "Genesis 6:11",
+        "type": "allusion",
+        "subtype": "conceptual",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 3,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Genesis 6:13",
+          "Genesis 6:3"
+        ],
+        "recurrenceRefs": [
+          "Mormon 2:13",
+          "Mormon 2:26",
+          "Ether 15:19"
+        ],
+        "provenance": {
+          "route": "Genesis 6:3, 6:11-13 → KJV → Book of Mormon",
+          "other": "“filled with violence” occurs in exactly two KJV verses, Genesis 6:11 and 6:13, and both are the indictment of the generation of the flood. The n-gram stream offered Exodus 1:7 for the same clause on a five-word run, “the land was filled with”, which is the right string attached to the wrong scene; it is displaced in the register at this verse.",
+          "significance": "This is the frame the whole chapter is built in, and it is laid down in three pieces rather than one. Genesis 6 is the King James Bible's single account of an entire population destroyed for having filled the land with violence, and Mormon 2 supplies its three load-bearing clauses in order. At 2:8 the land is filled — “the land was filled with robbers and with Lamanites … there was blood and carnage spread throughout all the face of the land”. At 2:13 the patience runs out in Genesis 6:3's own terms: “the Lord would not always suffer them to take happiness in sin” against “My spirit shall not always strive with man”, and “always strive” occurs in exactly one KJV verse. At 2:26 the withdrawal is complete — “the spirit of the Lord did not abide in us”. The Book of Mormon makes the same use of Genesis 6:3 at the other national extinction it narrates, and there it is explicit: Ether 15:19, “the spirit of the Lord had ceased striving with them”. Mormon wrote that sentence too."
+        },
+        "note": "“The land was filled with robbers and with Lamanites; and notwithstanding the great destruction which hung over my people, they did not repent of their evil doings.” No clause is reproduced and the link is proposed on the collocation and the setting: a land filled with violence, a destruction hanging over it, and a people who will not repent. What raises it above a common phrase is that the two other Genesis 6 clauses turn up in the same chapter at 2:13 and 2:26, and that this book has used Genesis 6:3 for exactly this purpose before. Far below Skousen's sixteen-word threshold; it is not a quotation and is not offered as one.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ],
+        "text": "The earth also was corrupt before God, and the earth was filled with violence."
+      }
+    ],
+    "2:13": [
+      {
+        "source": "Romans 2:4",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Romans 2:5"
+        ],
+        "recurrenceRefs": [
+          "Mormon 2:12"
+        ],
+        "provenance": {
+          "route": "Romans 2:4 → KJV → Book of Mormon",
+          "other": "“goodness of God” occurs in exactly two KJV verses: Psalm 52:1, where it “endureth continually”, and Romans 2:4, where it “leadeth thee to repentance”. Only Romans joins the phrase to repentance, and joining the phrase to repentance is what Mormon 2:13 does. “goodness and forbearance” occurs in exactly one KJV verse.",
+          "significance": "Romans 2:4 is a question — “despisest thou the riches of his goodness and forbearance and longsuffering; not knowing that the goodness of God leadeth thee to repentance?” — and Mormon 2:12-13 answers it in both halves. The triad comes first: at 2:12 Mormon rejoices, “knowing the mercies and the long suffering of the Lord”, which is Paul's second and third terms with “mercies” for “forbearance”. Then the conclusion, negated: their sorrowing was “not unto repentance, because of the goodness of God”. What the transfer does is move Paul's participle. In Romans it is the sinner who does not know; in Mormon 2 the historian knows, and watches the people despise the goodness anyway. Recover the next verse and you have the chapter's plot in advance: “after thy hardness and impenitent heart treasurest up unto thyself wrath against the day of wrath” (Romans 2:5), which is what 2:15's “day of grace was past” records as having happened."
+        },
+        "note": "“Their sorrowing was not unto repentance, because of the goodness of God.” The two content words Romans 2:4 puts together are the two words this clause puts together, and the preceding verse supplies the rest of Paul's triad in Paul's order. Nothing here reaches a reproduced clause, so it is catalogued as an allusion and not a quotation, and it is well below Skousen's sixteen-word threshold; the case is the collocation and the sequence, not the length. Note that 2:13 carries a second and independent New Testament source in the same sentence — see the 2 Corinthians 7:10 row — and that the two are not rivals: Romans supplies the goodness that ought to have led to repentance, Corinthians the sorrow that failed to be it.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "Or despisest thou the riches of his goodness and forbearance and longsuffering; not knowing that the goodness of God leadeth thee to repentance?"
+      },
+      {
+        "source": "2 Corinthians 7:10",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "2 Corinthians 7:9"
+        ],
+        "recurrenceRefs": [
+          "Mormon 2:12",
+          "Mormon 2:14"
+        ],
+        "provenance": {
+          "route": "2 Corinthians 7:9-10 → KJV → Book of Mormon",
+          "other": "“godly sorrow” occurs in exactly one KJV verse and “sorrow of the world” occurs in exactly one KJV verse, both of them 2 Corinthians 7:10; “sorrowed to repentance” occurs in exactly one KJV verse, 2 Corinthians 7:9, the verse before it.",
+          "significance": "Paul's antithesis, kept whole and renamed at one term. 2 Corinthians 7:9-10 runs: “Now I rejoice … that ye sorrowed to repentance … For godly sorrow worketh repentance to salvation not to be repented of: but the sorrow of the world worketh death.” Mormon 2:12-13 runs the same three moves in the same order and inverts each one. He rejoices — “my heart did begin to rejoice within me” — and then withdraws it: “this my joy was vain, for their sorrowing was not unto repentance”. Paul's other member then arrives under a new name: where Paul had “the sorrow of the world”, Mormon has “the sorrowing of the damned”. The renaming is the argument. Paul's world-sorrow “worketh death” as a spiritual outcome; Mormon's damned-sorrow works death in the next sentence and literally, at 2:14, where the sorrowing people “did curse God, and wish to die”. The metalepsis runs the other way too: to read “the sorrowing of the damned” as a considered phrase rather than an insult, a reader has to recover the verse that says what the alternative would have been."
+        },
+        "note": "“Their sorrowing was not unto repentance … but it was rather the sorrowing of the damned.” The sentence is built on the one KJV verse that distinguishes two kinds of sorrow by their outcome, and it keeps the distinction, the order, and the framing rejoicing while substituting for the name of the second kind. Three separate KJV singletons stand behind two verses of Mormon 2. Below Skousen's threshold and not one of his 36; it is an allusion, not a quotation.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "For godly sorrow worketh repentance to salvation not to be repented of: but the sorrow of the world worketh death."
+      }
+    ],
+    "2:14": [
+      {
+        "source": "Job 2:9",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Revelation 9:6",
+          "Job 2:10"
+        ],
+        "provenance": {
+          "route": "Job 2:9 (+ Revelation 9:6) → KJV → Book of Mormon",
+          "other": "“curse God” occurs in exactly one KJV verse, Job 2:9. The neighbouring verses of Job say something else each time — 1:5 has “cursed God in their hearts”, and 1:11 and 2:5 have “curse thee to thy face” — so the bare imperative is Job 2:9's alone. “desire to die” occurs in exactly one KJV verse, Revelation 9:6.",
+          "significance": "The Nephites take the advice Job refused. Job 2:9 is the King James Bible's only “curse God”, it is spoken by Job's wife, it is a two-part counsel — curse God, and die — and the point of the scene is that Job does not take it: “In all this did not Job sin with his lips” (2:10). Mormon 2:14 reports a whole nation doing what one man would not, and preserves the two-part shape: “they did curse God, and wish to die”. Then the sentence refuses to end there. “Nevertheless they would struggle with the sword for their lives” is the paradox of the fifth trumpet, where “men seek death, and shall not find it; and shall desire to die, and death shall flee from them” (Revelation 9:6). The KJV has exactly two places where people want to die and do not get to; Mormon 2:14 has both of them, in one verse, in that order."
+        },
+        "note": "“They did curse God, and wish to die. Nevertheless they would struggle with the sword for their lives.” Two words reproduced from a KJV singleton, with the singleton's own syntax — the imperative pair — carried across intact. The Book of Mormon changes “die” to “wish to die”, and in doing so moves from Job's scene into Revelation's, where wishing to die is precisely what is not granted. Short of a reproduced clause and so catalogued as an allusion, not a quotation; nowhere near Skousen's threshold.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ],
+        "text": "Then said his wife unto him, Dost thou still retain thine integrity? curse God, and die."
+      },
+      {
+        "source": "Psalm 34:18",
+        "type": "allusion",
+        "subtype": "conceptual",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 2,
+          "sequence": 3,
+          "context": 4,
+          "rarity": 4,
+          "attestation": 3
+        },
+        "kjvSpecific": "yes",
+        "mediation": "OT-via-earlier-BoM",
+        "composite": [
+          "Psalm 51:17",
+          "Isaiah 66:2"
+        ],
+        "recurrenceRefs": [
+          "2 Nephi 2:7",
+          "3 Nephi 9:20",
+          "3 Nephi 12:19",
+          "Ether 4:15",
+          "Moroni 6:2"
+        ],
+        "provenance": {
+          "route": "Psalm 34:18 → KJV → Book of Mormon (2 Nephi 2:7 onward) → Mormon 2:14",
+          "other": "“broken heart” occurs in exactly one KJV verse and “contrite spirit” occurs in exactly two, Psalm 34:18 and Isaiah 66:2; only Psalm 34:18 has both, in that order, which is the Book of Mormon's order. Psalm 51:17's pairing is different — “a broken and a contrite heart” — and does not produce the formula. mediation-check.py was run against 1 Peter 3:12, which quotes Psalm 34 in the New Testament, and confirms that is not the route: 1 Peter's quotation stops at Psalm 34:16, two verses short of this one, so no New Testament form of the sentence exists to be followed.",
+          "significance": "The proximate model is the book's own, and what Mormon does to it is the finding. “A broken heart and a contrite spirit” is a fixed formula here — five occurrences from 2 Nephi 2:7 to Moroni 6:2 — and Mormon himself is the editor who copied the two occurrences that matter most, where the risen Christ makes the phrase the terms of admission: “whoso cometh unto me with a broken heart and a contrite spirit, him will I baptize with fire and with the Holy Ghost” (3 Nephi 9:20), and “come unto me with a broken heart and a contrite spirit” (3 Nephi 12:19). Mormon 2:14 is that invitation negated and pluralised: “they did not come unto Jesus with broken hearts and contrite spirits”. It is the only place in the Book of Mormon where the formula appears in the plural, and the plural is what turns an offer made to a person into a verdict on a nation. The man who transcribed the invitation writes the refusal."
+        },
+        "note": "The wording is the Psalm's and the sentence is the book's. Catalogued at Psalm 34:18 because that is where the two phrases stand together in the KJV, but the route runs through the Book of Mormon's own formula — and specifically through 3 Nephi 9:20 and 12:19, which Mormon abridged, and which this verse contradicts clause for clause. The dependence on the Psalm is not in dispute; the confidence is set at moderate because what Mormon 2:14 is directly answering is 3 Nephi and not the Psalter.",
+        "bibliography": [],
+        "status": "consensus",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "The LORD is nigh unto them that are of a broken heart; and saveth such as be of a contrite spirit."
+      }
+    ],
+    "2:15": [
+      {
+        "source": "Jeremiah 16:4",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Jeremiah 8:2",
+          "2 Kings 9:37",
+          "Jeremiah 25:33"
+        ],
+        "provenance": {
+          "route": "Jeremiah 16:4 → KJV → Book of Mormon",
+          "other": "“dung upon the face of the” occurs in exactly three KJV verses: 2 Kings 9:37 (“of the field”, of Jezebel's carcase), Jeremiah 8:2 and Jeremiah 16:4 (both “of the earth”). Mormon 2:15 reads “as dung upon the face of the land”, and “as dung upon the face” occurs in exactly two KJV verses, 2 Kings 9:37 and Jeremiah 16:4. Of those two only Jeremiah 16:4 is about a whole nation's unburied war dead. Jeremiah 25:33 has the image without the phrase — “they shall be dung upon the ground”.",
+          "significance": "Take the rest of Jeremiah 16:4 and you have the rest of Mormon 2 and 4: “They shall die of grievous deaths; they shall not be lamented; neither shall they be buried … and they shall be consumed by the sword, and by famine; and their carcases shall be meat for the fowls of heaven, and for the beasts of the earth.” Mormon's people die by the sword, unburied, in numbers he counts in thousands. The one substitution is the book's standing one: Jeremiah's “earth” becomes “land”, the word this record uses for its own promised country. And the sentence Jeremiah 16:4 belongs to is a prohibition on mourning — the LORD forbids Jeremiah to lament the dead — which is worth recovering, because mourning is what Mormon has been doing since 2:11 and what he will not stop doing."
+        },
+        "note": "“I saw thousands of them hewn down in open rebellion against their God, and heaped up as dung upon the face of the land.” Six words from a phrase the KJV uses three times, with one noun changed, in the one context where the KJV itself uses it. “hewn down” occurs in exactly five KJV verses and is not decisive on its own (three of them are the axe at the root of the trees, Matthew 3:10, 7:19 and Luke 3:9, which is a different figure); the dung clause is what carries the link. Short of a reproduced clause and so an allusion, not a quotation.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ],
+        "text": "They shall die of grievous deaths; they shall not be lamented; neither shall they be buried; but they shall be as dung upon the face of the earth: and they shall be consumed by the sword, and by famine; and their carcases shall be meat for the fowls of heaven, and for the beasts of the earth."
+      },
+      {
+        "source": "Jeremiah 8:20",
+        "type": "echo",
+        "subtype": "possible",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 2,
+          "syntax": 2,
+          "sequence": 2,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "uncertain",
+        "mediation": "direct-OT",
+        "composite": [
+          "Jeremiah 8:2",
+          "Jeremiah 8:19",
+          "Jeremiah 8:18"
+        ],
+        "recurrenceRefs": [
+          "Mormon 2:19",
+          "Mormon 2:27"
+        ],
+        "provenance": {
+          "route": "Jeremiah 8:18-21 → KJV → Book of Mormon",
+          "other": "“harvest is past” occurs in exactly one KJV verse. The phrase Mormon 2:15 actually uses, ‘the day of grace’, is in no KJV verse at all and in no other Book of Mormon verse either — this is its single occurrence in the book, which is why no rarity count can carry the link and the case has to be made from the cluster.",
+          "alternative": "The other place the KJV bounds a season of salvation is 2 Corinthians 6:2, ‘now is the day of salvation’, quoting Isaiah 49:8; “day of salvation” occurs in exactly two KJV verses. mediation-check.py was run on Mormon 2:15 against Isaiah 49:8 and 2 Corinthians 6:2 and returns nothing usable: its single ‘decisive’ point is the word ‘Thus’, which in this verse belongs to the dating formula ‘And thus three hundred and forty and four years had passed away’ and has no bearing on anything. The Isaiah/Corinthians route is recorded here and declined.",
+          "significance": "The argument is a cluster, not a phrase. Three separate points of contact with one short passage of Jeremiah fall inside Mormon 2. Jeremiah 8:2 supplies the dung idiom in this very verse (see the Jeremiah 16:4 row, where 8:2 is one of only three KJV verses with the phrase). Jeremiah 8:20 supplies the figure of a season of rescue that has closed while the people are still alive to notice — ‘The harvest is past, the summer is ended, and we are not saved’ against ‘the day of grace was past with them’. And Jeremiah 8:19, ‘the voice of the cry of the daughter of my people because of them that dwell in a far country’, is tied for the highest-scoring machine candidate anywhere in this chapter, keyed at 2:27 to ‘my heart did sorrow because of this the great calamity of my people’. Jeremiah 8:18-9:1 is the King James Bible's set piece of a prophet who cannot save his people and will not stop grieving them — ‘When I would comfort myself against sorrow, my heart is faint in me’ — and that is Mormon's posture from 2:12 to 2:27 without interruption."
+        },
+        "note": "‘The day of grace was past with them, both temporally and spiritually.’ Proposed under the generative posture (CONVENTIONS §0a). The verbal contact with Jeremiah 8:20 alone is one word, ‘past’, and would not be worth recording; what makes it worth recording is that it stands in the same sentence as a phrase drawn from Jeremiah 8:2 and two lines above a machine-found contact with Jeremiah 8:19. The chapter reaches for one page of Jeremiah three times, and this is the middle instance.",
+        "whyNot": "One shared common word. ‘Day of grace’ is a preacher's phrase with a long life in English outside the Bible, and a writer could arrive at ‘the day of grace was past’ with no verse in mind at all. The cluster is the whole case; a reader who thinks the Jeremiah 8:2 contact at the other end of the verse is coincidence should decline this row with it.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ],
+        "text": "The harvest is past, the summer is ended, and we are not saved."
+      }
+    ],
+    "2:19": [
+      {
+        "source": "Jeremiah 45:3",
+        "type": "echo",
+        "subtype": "possible",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 3,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Jeremiah 45:5",
+          "Jeremiah 8:18"
+        ],
+        "recurrenceRefs": [
+          "Mormon 2:17",
+          "Mormon 2:18"
+        ],
+        "provenance": {
+          "route": "Jeremiah 45:3 → KJV → Book of Mormon",
+          "other": "“Woe is me” occurs in exactly seven KJV verses — Psalm 120:5, Isaiah 6:5, Jeremiah 4:31, 10:19, 15:10 and 45:3, and Micah 7:1 — four of them in Jeremiah. What narrows it to 45:3 is the continuation. Mormon 2:19 goes on ‘my heart has been filled with sorrow … all my days’; Jeremiah 45:3 goes on ‘for the LORD hath added grief to my sorrow; I fainted in my sighing, and I find no rest’. None of the other six pairs the cry with sorrow.",
+          "significance": "Recover the speaker and the placement becomes the argument. Jeremiah 45 is a four-verse oracle addressed not to the prophet but to Baruch, the scribe who wrote the book down — the King James Bible's one lament by a professional keeper of a record about the record he has had to keep. It ends with a personal exemption from the general ruin: ‘I will bring evil upon all flesh … but thy life will I give unto thee for a prey in all places whither thou goest’ (45:5). Mormon 2:19 sits two verses after Mormon has described going to the hill Shim, taking up the plates of Nephi and beginning to write (2:17), and one verse after he says what is on them: ‘a continual scene of wickedness and abominations … ever since I have been sufficient to behold the ways of man’ (2:18). Then the lament, and then the same personal exemption in the book's own idiom: ‘nevertheless, I know that I shall be lifted up at the last day’. Scribe, record, grief, exemption — in that order, in both places."
+        },
+        "note": "‘And wo is me, because of their wickedness: for my heart has been filled with sorrow because of their wickedness, all my days.’ Three common words and a structural coincidence, offered under CONVENTIONS §0a because the coincidence is unusually specific: of the seven KJV verses that say ‘Woe is me’, the one that pairs it with sorrow is also the only one spoken by a record-keeper, and it is placed where the Book of Mormon's own record-keeper has just described taking up his plates. The 1830 spells it ‘wo’, which is the first edition's usual form and not the KJV's; the spelling is not evidence either way here.",
+        "whyNot": "‘Woe is me’ is a stock cry with seven KJV homes and no distinctive vocabulary beyond it, and grief over a doomed people is the natural thing for Mormon to say at this point whether or not he has read Jeremiah 45. The reading rests entirely on the placement after 2:17-18, and a reader who thinks the placement is accident should decline the row.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ],
+        "text": "Thou didst say, Woe is me now! for the LORD hath added grief to my sorrow; I fainted in my sighing, and I find no rest."
+      },
+      {
+        "source": "John 11:24",
+        "type": "echo",
+        "subtype": "possible",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 4,
+          "rarity": 4,
+          "attestation": 1
+        },
+        "kjvSpecific": "yes",
+        "mediation": "uncertain",
+        "composite": [
+          "John 6:40",
+          "John 12:32"
+        ],
+        "recurrenceRefs": [
+          "1 Nephi 13:37",
+          "1 Nephi 16:2",
+          "Mosiah 23:22",
+          "Alma 13:29",
+          "Alma 36:3",
+          "Alma 38:5",
+          "3 Nephi 27:22"
+        ],
+        "provenance": {
+          "route": "John 11:24 (+ 6:40, 12:32) → KJV → Book of Mormon (1 Nephi 16:2 onward) → Mormon 2:19",
+          "other": "“at the last day” occurs in exactly five KJV verses, and all five are in John: 6:39, 6:40, 6:44, 6:54 and 11:24. Four of them read ‘raise him up at the last day’; only 11:24 puts the phrase after ‘I know that’ — ‘I know that he shall rise again in the resurrection at the last day’ — and “I know that he shall rise” occurs in exactly one KJV verse. Mormon 2:19 reads ‘I know that I shall be lifted up at the last day’. The verb is from John's other resurrection idiom, 12:32, ‘if I be lifted up from the earth’.",
+          "significance": "Two things worth separating. The phrase itself is house style: ‘lifted up at the last day’ occurs nine times in the Book of Mormon, from 1 Nephi 16:2 through Alma to 3 Nephi 27:22, so it reaches Mormon 2:19 as a formula the book had already fixed and not as a fresh reach for John. What is local to this verse is the frame — the confession ‘I know that’ in the mouth of a mourner, which is Martha's at Lazarus's grave and no one else's in the KJV, placed in the mouth of a man who has just said his heart has been filled with sorrow all his days.",
+          "alternative": "MEDIATION FLAGGED, and left undecided rather than forced. The schema's `mediation` vocabulary offers `OT-via-earlier-BoM` for a source the book reaches through its own earlier text, but it has no corresponding value for a NEW TESTAMENT source reached that way, which is what this is. `direct-NT` would assert a reach for John that the nine-fold internal formula makes unlikely; `OT-via-earlier-BoM` would misdescribe John as Old Testament. The field is therefore set `uncertain` and this note says what it would otherwise say: NT-via-earlier-BoM. CONVENTIONS §0's rule against inventing a sixth confidence level is taken to apply to the mediation vocabulary too. For Wilson: this will recur wherever a New Testament formula fixed early in the book is reused late, which in Mormon and Moroni is often."
+        },
+        "note": "‘Nevertheless, I know that I shall be lifted up at the last day.’ The five-word run is John's, exclusively; the sentence around it is the Book of Mormon's own, nine times over. Recorded at moderate confidence because the dependence on John is not in doubt and the directness of it is — the interesting question here is not whether the phrase comes from John but through what, and the answer is the book's own repertoire. See the mediation flag in `provenance.alternative`.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "Martha saith unto him, I know that he shall rise again in the resurrection at the last day."
+      }
+    ],
+    "2:23": [
+      {
+        "source": "Nehemiah 4:14",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Nehemiah 4:20"
+        ],
+        "recurrenceRefs": [
+          "Alma 43:45",
+          "Alma 43:47",
+          "Alma 46:12",
+          "Mormon 2:21"
+        ],
+        "provenance": {
+          "route": "Nehemiah 4:14 → KJV → Book of Mormon, fused with the book's own war formula from Alma 43:45",
+          "other": "“your wives, and your houses” occurs in exactly one KJV verse, Nehemiah 4:14: ‘fight for your brethren, your sons, and your daughters, your wives, and your houses’. The n-gram stream proposed 2 Chronicles 20:13 on a five-word run, ‘their wives, and their children’; that verse has the family list and no fighting in it, and it is displaced in the register at this verse.",
+          "significance": "The seam is visible in the English. Mormon 2:23 reads ‘fight for their wives, and their children, and their houses, and their homes’ — and houses and homes are the same thing, a redundancy no careful writer produces from a single model. The Book of Mormon's own war formula, set at Alma 43:45, is ‘fighting for their homes, and their liberties, their wives, and their children’: homes, wives, children. Nehemiah 4:14's is wives and houses. Mormon 2:23 contains every term of both lists, and the surplus word is Nehemiah's. The setting agrees at every point: two verses earlier, at 2:21, ‘we did fortify the city of Shem, and we did gather in our people’, which is Nehemiah 4 exactly — a wall going up under threat, a commander who calls the people together and tells them not to be afraid, ‘remember the LORD, which is great and terrible, and fight for’ what is theirs. What the borrowing then measures is a failure. Nehemiah's people finish the wall. Mormon's, at 2:24, are aroused ‘somewhat to vigor’, and the campaign ends four verses later with the strength of the Lord withdrawn."
+        },
+        "note": "‘And did urge them with great energy, that they would stand boldly before the Lamanites, and fight for their wives, and their children, and their houses, and their homes.’ A KJV singleton phrase, an imperative to fight, and a city being fortified against a besieger, all in three verses. The doublet ‘houses … homes’ is the evidence that this is a fusion rather than a straight borrowing: the Nephite formula and the Nehemiah verse were both in view, and both got written down. Below Skousen's sixteen-word threshold and not one of his 36.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ],
+        "text": "And I looked, and rose up, and said unto the nobles, and to the rulers, and to the rest of the people, Be not ye afraid of them: remember the LORD, which is great and terrible, and fight for your brethren, your sons, and your daughters, your wives, and your houses."
+      }
+    ],
+    "2:26": [
+      {
+        "source": "Isaiah 14:10",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "OT-via-earlier-BoM",
+        "composite": [
+          "Judges 16:17",
+          "Judges 16:20",
+          "1 Samuel 16:14"
+        ],
+        "recurrenceRefs": [
+          "2 Nephi 24:10",
+          "1 Nephi 4:31",
+          "1 Nephi 2:16",
+          "Mormon 2:1"
+        ],
+        "provenance": {
+          "route": "Isaiah 14:10 → KJV → 2 Nephi 24:10 → Mormon 2:26",
+          "other": "“become weak” occurs in exactly two KJV verses, Isaiah 14:10 and Judges 16:17. Isaiah 14:10 is the one that supplies the comparison as well: “like unto us” occurs in exactly one KJV verse and “become weak as” occurs in exactly one KJV verse, both of them Isaiah 14:10 — ‘Art thou also become weak as we? art thou become like unto us?’ Mormon 2:26 has ‘we had become weak, like unto our brethren’, which fuses Isaiah's two clauses into one. Judges 16:17's comparison is different, ‘be like any other man’, and “like any other man” occurs in exactly one KJV verse.",
+          "mt": "2 Nephi 24:10 reproduces Isaiah 14:10 word for word (the only difference is the capital on the second ‘Art’), so the wording itself cannot decide between the KJV and the Book of Mormon's own Isaiah block. The mediation call is made on availability rather than on the text: the book contains this sentence at 2 Nephi 24:10, and Mormon is the abridger of the record that contains it.",
+          "significance": "Two sources, doing two different jobs, and both worth having. Isaiah 14:10 gives the words: it is the taunt the dead kings raise over the king of Babylon as he comes down to them, and the whole force of it is a comparison — you are now like us. Mormon 2:26 keeps the comparison and changes its object: ‘we had become weak, like unto our brethren’, and ‘our brethren’ in this book means the Lamanites. What the sentence concedes is that nothing but the strength of the Lord had ever distinguished the two nations from each other, which is the thesis Mormon's abridgement argues from here to chapter 6. Judges 16 gives the situation: Samson is the KJV's one man whose strength is not his own, who loses it and does not notice — ‘he wist not that the LORD was departed from him’ (16:20) — and whose loss is stated as ‘I shall become weak, and be like any other man’ (16:17). Mormon's army wins the battle in the first half of this verse and loses the strength in the second, and does not find out until later. And there is a third layer, internal and pointed: 1 Nephi 4:31 describes Nephi as ‘a man large in stature, and also having received much strength of the Lord’. Both halves of that self-description are in Mormon 2 — ‘I being young, was large in stature’ at 2:1, and the strength of the Lord here, in the negative. ‘Large in stature’ is not a KJV phrase; it occurs three times in the Book of Mormon, twice of Nephi (1 Nephi 2:16, 4:31) and once of Mormon. The chapter gives its last general Nephi's body in verse 1 and takes Nephi's strength away in verse 26."
+        },
+        "note": "‘Nevertheless the strength of the Lord was not with us: yea, we were left to ourselves, that the spirit of the Lord did not abide in us; therefore we had become weak, like unto our brethren.’ Two KJV singletons and a two-verse phrase, all from one verse of Isaiah, compressed into one clause. Isaiah 14:10 asks its question in two parallel members and Mormon 2:26 answers with both members joined — become weak, like unto — which is the sort of compression that shows a source being used rather than a phrase being remembered. Judges 16 is catalogued as composite rather than as the source because it supplies the story and not the words; the strength that departs unnoticed is Samson's, but ‘like unto’ is Isaiah's. Below Skousen's threshold; an allusion, not a quotation.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ],
+        "text": "All they shall speak and say unto thee, Art thou also become weak as we? art thou become like unto us?"
+      }
+    ]
+  }
+}

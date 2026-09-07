@@ -1,0 +1,286 @@
+{
+ "chapter": 4,
+ "adjudicated": "2026-09-07",
+ "adjudicator": "Opus",
+ "links": {
+  "4:4": [
+   {
+    "source": "John 19:11",
+    "type": "echo",
+    "subtype": "conceptual",
+    "confidence": "low",
+    "text": "Jesus answered, Thou couldest have no power at all against me, except it were given thee from above: therefore he that delivered me unto thee hath the greater sin.",
+    "evidence": {
+     "vocabulary": 2,
+     "syntax": 3,
+     "sequence": 2,
+     "context": 4,
+     "rarity": 3,
+     "attestation": 0
+    },
+    "kjvSpecific": "uncertain",
+    "mediation": "direct-NT",
+    "provenance": {
+     "route": "John 19:11 → KJV → Book of Mormon",
+     "other": "“no power at all” occurs in exactly one KJV verse, John 19:11. The Book of Mormon does not reproduce it: “power over” occurs in thirteen KJV verses and is not distinctive.",
+     "alternative": "Alma 43:46-47, the Nephite prohibition on offensive war, states the same rule inside the corpus and may be all that Mormon 4:4 is applying.",
+     "significance": "John 19:11 is the King James Bible's one sentence on delegated power in a war of the strong against the weak: Pilate holds real authority over Jesus and holds it only on loan, and the sentence ends by assigning the guilt elsewhere — “he that delivered me unto thee hath the greater sin.” Mormon 4:4 performs the same division of blame in the opposite direction. The Lamanites do the killing; the guilt is the Nephites', because they went up. Recover John's context and the borrowed logic brings its verdict with it: the party that put the victim in the aggressor's hand is the party condemned."
+    },
+    "note": "“And it was because that the armies of the Nephites went up unto the Lamanites, that they began to be smitten: for were it not for that, the Lamanites could have had no power over them.” The sentence states a doctrine of conditional power — the enemy has power over the covenant people only because a condition has been met, and absent it he could have had none. The King James Bible states that doctrine once, at John 19:11, in the same construction: could have + no power + object + an exception clause carrying the whole cause (“except it were given thee from above”). What Mormon changes is the source of the grant. John's power comes from above; Mormon's is forfeited from below, by the Nephites' own aggression, which makes 4:4 a negative form of the same rule.",
+    "whyNot": "The evidence is a sentence shape, not a string. The KJV singleton — “no power at all” — is precisely what the Book of Mormon does not have, and “have power over” is common English and common KJV. The doctrine also has a home inside the corpus at Alma 43:46-47, so Mormon may be citing his own tradition rather than John's sentence. Recorded at low, and recorded at all because the KJV has no other verse where the possession of power over another is made to turn on a stated condition.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "manual"
+    ]
+   }
+  ],
+  "4:5": [
+   {
+    "source": "Deuteronomy 28:45",
+    "type": "echo",
+    "subtype": "strong-verbal",
+    "confidence": "moderate",
+    "text": "Moreover all these curses shall come upon thee, and shall pursue thee, and overtake thee, till thou be destroyed; because thou hearkenedst not unto the voice of the LORD thy God, to keep his commandments and his statutes which he commanded thee:",
+    "evidence": {
+     "vocabulary": 3,
+     "syntax": 3,
+     "sequence": 2,
+     "context": 5,
+     "rarity": 4,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-OT",
+    "provenance": {
+     "route": "Deuteronomy 28:45 → KJV → Book of Mormon",
+     "other": "“overtake thee” occurs in exactly three KJV verses, Deuteronomy 28:2, 28:15 and 28:45, all of them in the one chapter of covenant sanctions; “the judgments of God” occurs in exactly zero KJV verses, so the noun is the Book of Mormon's and the verb is Deuteronomy's.",
+     "significance": "Deuteronomy 28 is the King James Bible's one extended account of what happens to a covenant people that loses its covenant, and its horror is specifically domestic: at 28:53 the besieged “shalt eat the fruit of thine own body, the flesh of thy sons and of thy daughters.” Mormon 4 reaches that scene nine verses after borrowing the chapter's verb — women and children taken and sacrificed at 4:14, and again at 4:21. The metalepsis is not decorative. Deuteronomy 28 supplies the reason Mormon's narrative never gives in so many words: the destruction of a people's own children is what the curse looks like when it has run its length."
+    },
+    "note": "“But behold, the judgements of God will overtake the wicked.” Overtaking is what the King James curses do, and almost nothing else does: “overtake thee” occurs in exactly three KJV verses, Deuteronomy 28:2, 28:15 and 28:45, the blessings that overtake obedience and the curses that overtake disobedience “till thou be destroyed.” The collocation is not natural English — judgments in the KJV are executed, done, made manifest, but never overtake — which makes Deuteronomy 28 the available model. Mormon substitutes his own book's noun for Deuteronomy's “curses” and leaves the verb standing, in the chapter where the Nephite destruction becomes irreversible. The 1830 spelling “judgements”, modernized in 1920, is the KJV's own orthographic register though not its spelling of this word.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "manual"
+    ]
+   },
+   {
+    "source": "Isaiah 10:5",
+    "type": "figural",
+    "subtype": "conceptual",
+    "confidence": "moderate",
+    "text": "O Assyrian, the rod of mine anger, and the staff in their hand is mine indignation.",
+    "evidence": {
+     "vocabulary": 0,
+     "syntax": 0,
+     "sequence": 0,
+     "context": 5,
+     "rarity": 4,
+     "attestation": 0
+    },
+    "kjvSpecific": "no",
+    "mediation": "uncertain",
+    "composite": [
+     "Isaiah 10:6",
+     "Isaiah 10:12"
+    ],
+    "provenance": {
+     "route": "Isaiah 10:5-12 → (KJV, or 2 Nephi 20:5-12) → Book of Mormon",
+     "other": "“rod of mine anger” occurs in exactly one KJV verse, Isaiah 10:5. Mormon 4:5 reproduces none of it; the link is entirely at the level of doctrine.",
+     "alternative": "Habakkuk 1:6-13 teaches the same thing — the Chaldeans raised up to punish a people “more righteous than he” — and Mormon 4:5 gives nothing that decides between Isaiah and Habakkuk. Isaiah is preferred only because the Book of Mormon has Isaiah 10 inside itself and does not have Habakkuk anywhere.",
+     "significance": "Isaiah 10 is a two-stage oracle and Mormon 4:5 is its compression. Assyria is the rod of God's anger, sent against a hypocritical nation (10:6); Assyria is then punished for the arrogance with which it swung (10:12), “howbeit he meaneth not so, neither doth his heart think so” (10:7). The Book of Mormon says both stages in one clause — it is by the wicked that the wicked are punished — and then adds the instrument's own guilt in the next breath: “it is the wicked that stirreth up the hearts of the children of men unto bloodshed.” That is Isaiah's second stage, stated as a general law rather than as a sentence on one empire. It is also, in a chapter where the Lamanites are the rod, a refusal to let the rod be innocent."
+    },
+    "note": "The chapter's one aphorism — “it is by the wicked, that the wicked are punished” — shares no distinctive word with any KJV verse, and it is nonetheless a close paraphrase of one passage: Isaiah 10:5-12, where the wicked nation is the instrument of judgment on the wicked nation and is judged in turn. Mormon needs exactly this doctrine here, because his narrative has just made the Nephites the aggressors (4:4) and is about to make the Lamanites child-killers (4:14): neither side can be the righteous party, and the war has to be theologically legible anyway. Isaiah 10 is the King James Bible's solution to that problem and Mormon 4:5 states it as a maxim. Catalogued as figural because the wording is entirely the Book of Mormon's.",
+    "whyNot": "There is no verbal contact at all — not one shared distinctive word — and doctrines of this kind are recoverable from Isaiah 10, Habakkuk 1, Jeremiah 25:9 and Ezekiel 21 alike. A reader who declines this row is declining it on the strongest possible ground, that the catalogue is meant to record dependence and this records agreement. It is written because the chapter's argument is unintelligible without a precursor of this shape, and because 2 Nephi 20 puts one in the Book of Mormon's own hands.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "manual"
+    ]
+   }
+  ],
+  "4:9": [
+   {
+    "source": "1 Corinthians 10:11",
+    "type": "echo",
+    "subtype": "possible",
+    "confidence": "moderate",
+    "text": "Now all these things happened unto them for ensamples: and they are written for our admonition, upon whom the ends of the world are come.",
+    "evidence": {
+     "vocabulary": 3,
+     "syntax": 3,
+     "sequence": 3,
+     "context": 5,
+     "rarity": 4,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "provenance": {
+     "route": "1 Corinthians 10:11 → KJV → Book of Mormon",
+     "other": "“now all these things” occurs in exactly one KJV verse, 1 Corinthians 10:11. Within the Book of Mormon, “all these things had been done” occurs only here, so this is not a narrator's formula recurring.",
+     "significance": "1 Corinthians 10:1-11 recites the deaths of a covenant people in the wilderness — overthrown, destroyed of the destroyer — and stops to say why the recital exists: “they are written for our admonition, upon whom the ends of the world are come.” The sin the recital is warning against, named at 10:7 out of Exodus 32:6, is idolatry. Mormon 4 is a chapter of idolatry (4:14, 4:21) and of a covenant people overthrown, written by an abridger who has just addressed a future readership directly (Mormon 3:17-22) and told them why he is writing. If the phrase came from Paul, it came with Paul's whole editorial posture attached: this is the one place in the KJV where a writer counts the dead and then explains that the counting is for someone else's benefit."
+    },
+    "note": "“And now all these things had been done, and there had been thousands slain on both sides.” The opening four words are a KJV singleton — “now all these things” occurs in exactly one KJV verse — and the verse is 1 Corinthians 10:11, which makes the same move at the same point in the same kind of recital: a narrator breaking off a list of a covenant people's dead to say what the list is for. Mormon's clause takes the summing gesture without Paul's purpose clause, and then supplies the purpose clause himself in the chapters that follow. The borrowing, if it is one, is of a rhetorical position rather than of a doctrine.",
+    "whyNot": "Four words, all of them among the commonest in English narrative prose; a writer could produce “and now all these things” without ever having read 1 Corinthians. A count of one on a plain phrase is weaker evidence than a count of one on a marked phrase like “shedding of blood”, and the row rests on the coincidence of position — the same words doing the same job at the same seam in a recital — rather than on the count alone.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "machine-ngram",
+     "manual"
+    ]
+   }
+  ],
+  "4:11": [
+   {
+    "source": "Hebrews 9:22",
+    "type": "allusion",
+    "subtype": "close-verbal",
+    "confidence": "moderate",
+    "text": "And almost all things are by the law purged with blood; and without shedding of blood is no remission.",
+    "evidence": {
+     "vocabulary": 3,
+     "syntax": 2,
+     "sequence": 2,
+     "context": 4,
+     "rarity": 5,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "recurrenceRefs": [
+     "Alma 48:23",
+     "Alma 52:4",
+     "3 Nephi 3:10",
+     "3 Nephi 9:19",
+     "Mormon 7:4"
+    ],
+    "provenance": {
+     "route": "Hebrews 9:22 → KJV → Book of Mormon",
+     "other": "“shedding of blood” occurs in exactly one KJV verse, Hebrews 9:22. Thirteen Book of Mormon verses use it, and the argument for the borrowing was made where the corpus first takes it up; this row exists because Mormon is a new book and a new hand (ADJUDICATING §4).",
+     "significance": "Hebrews 9:22 is the sentence that makes bloodshed mean something: without it there is no remission. 3 Nephi 9:19 has already cancelled the sacrificial system in the Book of Mormon's own voice — “ye shall offer up unto me no more the shedding of blood” — so by the time Mormon 4:11 is written the phrase has been formally emptied of its Hebrews sense inside the corpus itself. What is left of it at 4:11 is a people who shed blood and take pleasure in it. Read with 3 Nephi 9:19 in view, the sentence describes the exact condition the atonement was said to end, resumed by a people three hundred years after they were told it had ended."
+    },
+    "note": "“Every heart was hardened, so that they delighted in the shedding of blood continually.” The noun phrase is a King James singleton, and its one home is the mechanism of atonement: “without shedding of blood is no remission.” The Book of Mormon has taken it over as its standard term for homicide and war — from Alma 26:24 through Alma 48:23, where the Nephite ideal is stated as not delighting in it, to Mormon 7:4, where Mormon commands his readers to “delight no more” in it. Mormon 4:11 is where that transfer is completed and inverted: the same verb Alma 48:23 negated and Mormon 7:4 will forbid is here affirmed, of everyone, continually. The row is written rather than filed as a repeat because Mormon is a new book with a new narrator, and because 4:11's collocation with “delighted” is what 48:23 and 7:4 are both measured against.",
+    "whyNot": "“Shedding of blood” is a natural English nominalization of a common KJV idiom — “whoso sheddeth man's blood”, “shed innocent blood” — and its singleton status may be an accident of the King James translators' phrasing rather than evidence that a writer had Hebrews 9:22 in front of him. The strength here is corpus-internal (the Alma 48:23 / Mormon 7:4 frame) more than it is Pauline.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "manual"
+    ]
+   }
+  ],
+  "4:12": [
+   {
+    "source": "Matthew 8:10",
+    "type": "allusion",
+    "subtype": "conceptual",
+    "confidence": "moderate",
+    "text": "When Jesus heard it, he marvelled, and said to them that followed, Verily I say unto you, I have not found so great faith, no, not in Israel.",
+    "evidence": {
+     "vocabulary": 3,
+     "syntax": 4,
+     "sequence": 3,
+     "context": 4,
+     "rarity": 4,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "composite": [
+     "Luke 7:9"
+    ],
+    "provenance": {
+     "route": "Matthew 8:10 (or Luke 7:9) → KJV → Book of Mormon",
+     "other": "“no, not in Israel” occurs in exactly two KJV verses, Matthew 8:10 and Luke 7:9; “so great faith” occurs in exactly two, the same pair. “So great” alone occurs in sixteen, which is why the frame and not the adjective carries the case.",
+     "alternative": "tools/mediation-check.py finds no divergence between Matthew 8:10 and Luke 7:9 at any point Mormon 4:12 reproduces — the shared clause is verbatim in both Gospels, and the two differ only in the narrative frame the Book of Mormon does not take. The Gospel cannot be identified from this verse.",
+     "significance": "Matthew 8:10 is followed immediately by 8:11-12: many shall come from the east and west and sit down with Abraham, “but the children of the kingdom shall be cast out into outer darkness.” The centurion pericope is the King James Bible's first scene of a people outside Israel measured against Israel and found greater, and its sequel is the expulsion of the insiders. Mormon 4:12 runs the same measurement on a people outside Israel — the children of Lehi, a branch of the house cut off from it — and finds them greater in wickedness; Mormon 5 and 6 then narrate their expulsion. The verse borrows the frame of Christ's astonishment and fills it with the opposite content, two chapters before the outcome Matthew 8:12 predicts for the children of the kingdom arrives for these ones."
+    },
+    "note": "“And there never had been so great wickedness among all the children of Lehi, nor even among all the house of Israel, according to the words of the Lord, as were among this people.” The sentence is built on a King James frame: a superlative quantity, measured against Israel, and the measurement coming out the surprising way. “No, not in Israel” occurs in exactly two KJV verses, Matthew 8:10 and its Lucan parallel, where Jesus marvels at a Gentile soldier and says “I have not found so great faith, no, not in Israel.” Mormon keeps the superlative, keeps Israel as the standard of comparison, keeps the negative construction — “nor even among all the house of Israel” for “no, not in Israel” — and reverses the quality being measured. The 1830 reading “as were among this people”, corrected to “was” in 1920, is the first edition's looser concord and does not bear on the source.",
+    "whyNot": "The KJV clause is not reproduced verbatim; what recurs is a comparative frame, and comparative frames are cheap. A reader could hold that “never so great X, nor even in Israel” is simply how a Hebraizing English writer would say this, with no Gospel in view. The row is written because the frame is not generic in the KJV itself — the centurion pericope is the only place the King James Bible measures anything against Israel in this construction.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "manual"
+    ]
+   }
+  ],
+  "4:18": [
+   {
+    "source": "Hosea 13:3",
+    "type": "echo",
+    "subtype": "conceptual",
+    "confidence": "moderate",
+    "text": "Therefore they shall be as the morning cloud and as the early dew that passeth away, as the chaff that is driven with the whirlwind out of the floor, and as the smoke out of the chimney.",
+    "evidence": {
+     "vocabulary": 3,
+     "syntax": 2,
+     "sequence": 2,
+     "context": 5,
+     "rarity": 4,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-OT",
+    "composite": [
+     "Hosea 6:4"
+    ],
+    "provenance": {
+     "route": "Hosea 13:3 → KJV → Book of Mormon",
+     "other": "“as the early dew” occurs in exactly two KJV verses, Hosea 6:4 and Hosea 13:3, and they are the King James Bible's only figure of a people vanishing like dew. The KJV has no phrase “dew before the sun”. Within the Book of Mormon, “as a dew” occurs only at Mormon 4:18.",
+     "alternative": "Exodus 16:14-21 is the one other KJV place where dew and sun meet — the dew lifts, the manna is left, and “when the sun waxed hot, it melted.” It supplies the physical picture and none of the theology; Hosea supplies the theology and not the sun.",
+     "significance": "Hosea 13 is the chapter in which Ephraim “offended in Baal, and died” and is answered with “I will be thy king: where is any other that may save thee?” Mormon 4 is a chapter in which a covenant people's children are being killed before idols and no deliverer appears. “Swept off” is the Book of Mormon's own covenant term for the removal of a nation from the land of promise (Ether 2:8-10), so the sentence already carries a legal sense; laying Hosea's dew on it supplies the reason the sweeping is happening. Read with Hosea in view, 4:18 is not a report of military attrition. It is the moment the narrator stops describing a war and starts describing an oracle being fulfilled."
+    },
+    "note": "“Began to be swept off by them even as a dew before the sun.” The image is not in the King James Bible in these words, but the figure behind it is, and it belongs to one prophet: “as the early dew” occurs in exactly two KJV verses, Hosea 6:4 and 13:3, both of them about a covenant people whose goodness or whose existence passes away like dew in the morning. Hosea 13:3 puts the dew in a series of evanescences — morning cloud, early dew, chaff driven with the whirlwind, smoke out of the chimney — which is exactly the register of Mormon's clause. The Book of Mormon substitutes the agent Hosea leaves implicit: Hosea's dew simply “passeth away”, Mormon's goes before the sun.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "manual"
+    ]
+   }
+  ],
+  "4:21": [
+   {
+    "source": "Psalm 106:38",
+    "type": "allusion",
+    "subtype": "close-verbal",
+    "confidence": "high",
+    "text": "And shed innocent blood, even the blood of their sons and of their daughters, whom they sacrificed unto the idols of Canaan: and the land was polluted with blood.",
+    "evidence": {
+     "vocabulary": 4,
+     "syntax": 3,
+     "sequence": 3,
+     "context": 5,
+     "rarity": 5,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-OT",
+    "composite": [
+     "Psalm 106:37"
+    ],
+    "recurrenceRefs": [
+     "Mormon 4:14"
+    ],
+    "provenance": {
+     "route": "Psalm 106:37-38 → KJV → Book of Mormon",
+     "other": "“sacrificed unto the idols” occurs in exactly one KJV verse, Psalm 106:38; “polluted with blood” occurs in exactly two, Psalm 106:38 and Hosea 6:8. “Sacrificed unto” alone occurs in ten, so it is the object, not the verb, that identifies the source. Ezekiel 16:20-21 and 2 Kings 17:17 describe the same practice and share none of the wording.",
+     "significance": "Psalm 106 is Israel's national confession, and four verses past the one Mormon borrows it states the outcome: “And he gave them into the hand of the heathen; and they that hated them ruled over them” (106:41). That is the plot of Mormon 4 through 6. But the Psalm assigns the child sacrifice to the covenant people themselves, and Mormon assigns it to their enemies — so the borrowing puts the Nephites in the position of the Psalm's murdered children rather than of its idolaters, while leaving the Psalm's verdict standing over them anyway. The land polluted with blood is the same land in both texts, and in both it is the covenant people who lose it. Recovering Psalm 106 is what turns 4:21 from an atrocity report into an indictment of the side being killed."
+    },
+    "note": "“Their women and their children were again sacrificed unto idols.” The King James Bible says this once. “Sacrificed unto the idols” occurs in exactly one KJV verse, Psalm 106:38, and the sentence there is the fullest biblical statement of what Mormon 4 reports twice: “they sacrificed their sons and their daughters unto devils, and shed innocent blood, even the blood of their sons and of their daughters, whom they sacrificed unto the idols of Canaan: and the land was polluted with blood.” Mormon drops the article and keeps everything else. The chapter's other elements come with it — the innocent blood of sons and daughters at 4:14 and 4:21, and at 4:11 a land of “blood and carnage” in which “every heart was hardened”, which is the Psalm's polluted land in the Book of Mormon's own idiom. The first occurrence at 4:14 (“did offer them up as sacrifices unto their idol gods”) is the same event in non-KJV wording; the link is placed here, where the wording is (CONVENTIONS §6a).",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "manual"
+    ]
+   }
+  ]
+ }
+}

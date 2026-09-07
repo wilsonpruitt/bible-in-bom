@@ -1,0 +1,538 @@
+{
+  "chapter": 11,
+  "adjudicated": "2026-09-07",
+  "adjudicator": "Opus",
+  "links": {
+    "11:1": [
+      {
+        "source": "Acts 26:20",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "But shewed first unto them of Damascus, and at Jerusalem, and throughout all the coasts of Judaea, and then to the Gentiles, that they should repent and turn to God, and do works meet for repentance.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "Acts 26:20 → KJV → Book of Mormon",
+          "other": "“should repent and turn” occurs in exactly one KJV verse, Acts 26:20. The bare pair “repent and turn” occurs in exactly four KJV verses — Ezekiel 14:6, Ezekiel 18:30, Jonah 3:9 and Acts 26:20 — and of the four only Acts carries the modal. Ether's continuation, “turn unto the Lord”, occurs in exactly four KJV verses (Deuteronomy 30:10, 2 Chronicles 15:4, Psalm 22:27, Joel 2:13) where Acts reads 'turn to God'; the substitution is the one point at which the Book of Mormon leaves the singleton.",
+          "significance": "Recover Acts 26 and the borrowing acquires a sequel. Acts 26:20 is Paul before Agrippa summarising his entire prophetic commission in one sentence; Acts 26:21 is what it cost him — 'For these causes the Jews caught me in the temple, and went about to kill me.' Ether 11:1 gives the Jaredite prophets that commission in that sentence, and Ether 11:2 gives them Acts 26:21: 'the prophets were rejected by the people … for the people sought to destroy them.' Two consecutive verses of Ether reproduce two consecutive verses of Acts in their order, the second of them (see 11:2) on a second KJV singleton."
+        },
+        "note": "'Many prophets, and prophesied of the destruction of that great people, except they should repent and turn unto the Lord, and forsake their murders and wickedness.' The five-word run is a KJV singleton and it opens the chapter, which matters because everything that follows in Ether 11 is the working out of a refusal to do what those five words ask. Below Skousen's sixteen-word threshold and so no candidate for his list, but the run is exact and its source is not in doubt: no other KJV verse puts 'should' in front of 'repent and turn'. The Jaredite prophets are given the terms of Paul's commission, and — as the next verse shows — its consequences.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "11:2": [
+      {
+        "source": "Luke 19:47",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "And he taught daily in the temple. But the chief priests and the scribes and the chief of the people sought to destroy him,",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "recurrenceRefs": [
+          "Ether 11:1"
+        ],
+        "provenance": {
+          "route": "Luke 19:47 → KJV → Book of Mormon",
+          "other": "“the people sought to destroy” occurs in exactly one KJV verse, Luke 19:47. The shorter “sought to destroy” occurs in exactly two, Esther 3:6 and Luke 19:47, and Esther's subject is Haman planning a pogrom, not a rejected prophet.",
+          "significance": "Luke 19:47 sits four verses after the lament over Jerusalem — 'they shall lay thee even with the ground, and thy children within thee … because thou knewest not the time of thy visitation' (19:44) — which is the King James Bible's fullest statement that a city's destruction follows from its refusal of the one sent to it. That is the whole argument of Ether 11, and the chapter has borrowed the sentence that stands next to it. The suppressed correspondence is what Luke gives as the reason the people cannot act: 'and could not find what they might do: for all the people were very attentive to hear him.' In Ether the restraint is not popular attention but a king — the prophets 'fled unto Com for protection' — and when the protecting king dies (11:4) his successor's brother kills them all (11:5)."
+        },
+        "note": "'And it came to pass that the prophets were rejected by the people, and they fled unto Com for protection, for the people sought to destroy them.' A second KJV singleton in consecutive verses, and the pair is the argument: 11:1 has Acts 26:20's commission and 11:2 has the persecution that Acts 26:21 reports as its result, in Luke's words rather than Paul's. Note what the Book of Mormon does to the grammar. In Luke the destroyers are 'the chief priests and the scribes and the chief of the people'; Ether drops the leadership and leaves the people, then inverts the Bible's usual arrangement by making the ruler the prophets' shelter. The verse is running on a KJV phrase and reversing the KJV's politics with it.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "11:4": [
+      {
+        "source": "Judges 8:32",
+        "type": "allusion",
+        "subtype": "conceptual",
+        "confidence": "moderate",
+        "text": "And Gideon the son of Joash died in a good old age, and was buried in the sepulchre of Joash his father, in Ophrah of the Abiezrites.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 3,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "recurrenceRefs": [
+          "Ether 6:22",
+          "Ether 6:26"
+        ],
+        "provenance": {
+          "route": "Judges 8:32 → KJV → Book of Mormon",
+          "other": "“a good old age” occurs in exactly four KJV verses: Genesis 15:15 (the promise to Abram), Genesis 25:8 (Abraham's death), Judges 8:32 (Gideon's) and 1 Chronicles 29:28 (David's).",
+          "significance": "Of the four, only Judges 8:32 is followed by what Ether 11:4 is followed by. Gideon dies in a good old age and is buried in his father's sepulchre; Judges 9 opens immediately with Abimelech murdering his seventy brethren to take the kingdom, and the land falls into a civil war that ends with a city burned and its ruler killed by a woman's millstone. Ether 11:4 reads: Com dies in a good old age, begets Shiblom, 'and the brother of Shiblom rebelled against him; and there began to be an exceeding great war in all the land.' The catalogue already reads Ether 6:22-26 out of Jotham's parable in Judges 9:8-9 — the speech that answers Abimelech's coup — so the book's Judges 9 material is on the record before this verse arrives at its first clause. The phrase is doing the work of a stage direction: it marks the end of the last good reign and the death that releases the fratricide."
+        },
+        "note": "'And he lived to a good old age, and begat Shiblom; and Shiblom reigned in his stead. And the brother of Shiblom rebelled against him.' The four-word run is not rare enough to fix a source by itself; what fixes it is the sequel. Three of the four KJV holders of the phrase close a patriarch's life with nothing following, and the fourth closes a judge's life and is followed at once by a brother-killing usurpation and a general war, which is what Ether 11:4 puts in its second half. Com's whole characterisation in 11:1-3 — blessed, sheltering prophets, dying old — is also Gideon's arc read charitably, and Ether has already mined Judges 9 for the coup that answers it.",
+        "whyNot": "Four verses is not a singleton, and Genesis 25:8's Abraham is by a wide margin the phrase's most familiar occurrence. The row rests on the sequence rather than on the phrase, and a reader who declines the Judges 9 reading of Ether 6 will want to decline this one too.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "11:5": [
+      {
+        "source": "Luke 11:50",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "That the blood of all the prophets, which was shed from the foundation of the world, may be required of this generation;",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 1
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Matthew 23:34"
+        ],
+        "provenance": {
+          "route": "Luke 11:50 → KJV → Book of Mormon",
+          "other": "“all the prophets which” occurs in exactly one KJV verse, Luke 11:50. tools/mediation-check.py run against the Matthean parallel, Matthew 23:35, is decisive for Luke: the Book of Mormon has Luke's 'prophets, which was shed from the foundation', not Matthew's 'righteous blood'. Where the two Synoptic forms of one woe diverge, Ether 11:5 has Luke's.",
+          "significance": "Luke 11:49-51 is Wisdom's oracle: 'I will send them prophets and apostles, and some of them they shall slay and persecute: that the blood of all the prophets, which was shed from the foundation of the world, may be required of this generation.' Ether 11:5-6 is that sentence executed and its bill presented in the next breath — the prophets are put to death, and 'there was great calamity in all the land: for they had testified that a great curse should come upon the land.' Luke's 'required of this generation' and Ether's great destruction are the same accounting, and Ether has kept Luke's causal order: the killing first, the reckoning immediately after."
+        },
+        "note": "'The brother of Shiblom did cause that all the prophets which prophesied of the destruction of the people, should be put to death.' The four-word run is a KJV singleton and it is the one place in the Bible where 'all the prophets' are counted as a body of the murdered. CONVENTIONS §8 bears directly: the 1830 text reads 'all the prophets which prophesied' and the 1920 edition corrected 'which' to 'who', which removes the string that identifies the source — the borrowing is legible in the first edition and invisible in the modern one. The chapter's method is now clear enough to name: 11:1 takes Acts 26:20, 11:2 takes Luke 19:47, 11:5 takes Luke 11:50, and the Jaredite decline is being narrated in the vocabulary the KJV reserves for a covenant people that kills the prophets sent to it.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "11:6": [
+      {
+        "source": "Daniel 12:1",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "text": "And at that time shall Michael stand up, the great prince which standeth for the children of thy people: and there shall be a time of trouble, such as never was since there was a nation even to that same time: and at that time thy people shall be delivered, every one that shall be found written in the book.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 2,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "uncertain",
+        "composite": [
+          "Matthew 24:21"
+        ],
+        "recurrenceRefs": [
+          "Ether 11:7"
+        ],
+        "provenance": {
+          "route": "Daniel 12:1 → KJV → Book of Mormon, possibly by way of Matthew 24:21",
+          "other": "“such as never” occurs in exactly one KJV verse, Daniel 12:1. tools/mediation-check.py against Matthew 24:21 — which is Daniel 12:1's own New Testament reuse — returns one decisive point, and it favours Daniel: the Book of Mormon has 'never', where Matthew reads 'such as was not since the beginning of the world'.",
+          "alternative": "Mediation is left `uncertain` on purpose. The decisive word is Daniel's; the sequence around it is Matthew's. Ether 11:7's 'famines and pestilences' is Matthew 24:7's phrase (see the row on that verse), and Matthew 24 puts its unparalleled tribulation after its famines and pestilences exactly as Ether 11:6-7 puts its unparalleled destruction after its. So one test points to direct dependence on Daniel and the other to an OT-via-NT route in which Matthew 24 supplies the frame and Daniel supplies the word; the evidence does not presently choose, and the enum's `OT-via-NT` would assert more than we can show.",
+          "significance": "Daniel 12:1's time of trouble ends in a deliverance: 'at that time thy people shall be delivered, every one that shall be found written in the book.' Ether takes the trouble and not the deliverance. What survives the Jaredite destruction is only the book itself — Ether writing in the cavity of a rock — and it is found by a people who are not his. The unstated half of the borrowing is the half Ether 11 cannot have."
+        },
+        "note": "'A great destruction among them, such an one as never had been upon the face of the earth', repeated at 11:7 as 'such an one as never had been known'. The unparalleled-calamity formula is common enough in substance — Exodus 9:18, Joel 2:2, Mark 13:19 — but only one KJV verse builds it on 'never', and that verse is Daniel 12:1. The doubling within two verses is what raises this above an echo: the writer has a form of words and uses it twice, and the form is a form the KJV supplies once.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      },
+      {
+        "source": "Jeremiah 8:2",
+        "type": "allusion",
+        "subtype": "conceptual",
+        "confidence": "moderate",
+        "text": "And they shall spread them before the sun, and the moon, and all the host of heaven, whom they have loved, and whom they have served, and after whom they have walked, and whom they have sought, and whom they have worshipped: they shall not be gathered, nor be buried; they shall be for dung upon the face of the earth.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 2,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "uncertain",
+        "mediation": "direct-OT",
+        "composite": [
+          "Jeremiah 8:1",
+          "Jeremiah 16:4"
+        ],
+        "provenance": {
+          "route": "Jeremiah 8:1-2 → KJV → Book of Mormon",
+          "other": "“dung upon the face of the earth” occurs in exactly two KJV verses, Jeremiah 8:2 and Jeremiah 16:4, and they are the Bible's two pictures of a nation's dead left lying unburied on open ground. “upon the face of the earth” by itself occurs in exactly twelve KJV verses and settles nothing.",
+          "significance": "Jeremiah 8:1 itemises whose bones are meant: 'the bones of the kings of Judah, and the bones of his princes, and the bones of the priests, and the bones of the prophets, and the bones of the inhabitants of Jerusalem.' The prophets are on the list. Ether 11:5 has just made the prophets into bones, and 11:6 is the sentence their killers earn: the land that took the prophets' bodies will be covered with everyone else's. Ether 14:21-23, where the dead are left unburied because there is nobody to bury them and 'the scent thereof went forth upon the face of the land', is where the promise is kept."
+        },
+        "note": "'And their bones should become as heaps of earth upon the face of the land, except they should repent of their wickedness.' The image is not a Book of Mormon invention and it is not generic: unburied bones lying on the surface of the ground is a specific covenant curse with a specific home in the KJV, Jeremiah 8:1-2 and its doublet at 16:4. Ether substitutes 'heaps of earth' for Jeremiah's 'dung' and 'land' for 'earth', so there is no run to quote; what carries the row is that the picture, the cause (a people that would not hear) and the position in the sentence are all Jeremiah's.",
+        "whyNot": "Not one distinctive string is shared. “heaps of earth” is in no KJV verse at all, and the phrase Ether does share, 'upon the face of the earth', is among the commonest in the Bible. This is a picture rather than a phrase, and a reader who requires verbal contact should decline it.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "11:7": [
+      {
+        "source": "Deuteronomy 28:15",
+        "type": "allusion",
+        "subtype": "conceptual",
+        "confidence": "high",
+        "text": "But it shall come to pass, if thou wilt not hearken unto the voice of the LORD thy God, to observe to do all his commandments and his statutes which I command thee this day; that all these curses shall come upon thee, and overtake thee:",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 3,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Psalm 106:25",
+          "Deuteronomy 28:21"
+        ],
+        "provenance": {
+          "route": "Deuteronomy 28:15 → KJV → Book of Mormon",
+          "other": "“hearken unto the voice of the Lord” occurs in exactly four KJV verses, Deuteronomy 15:5, 28:2, 28:15 and 30:10 — three of them in the blessing-and-curse chapter and its coda. The negative form the Book of Mormon actually uses, “hearkened not unto the voice”, occurs in exactly two KJV verses, 1 Samuel 2:25 and Psalm 106:25, and Psalm 106:25's clause — 'and hearkened not unto the voice of the LORD' — is Ether 11:7's word for word.",
+          "significance": "Deuteronomy 28:15 is not one curse among many; it is the protasis on which the whole catalogue of curses depends, and the pestilence, the sword and the consuming famine follow it at 28:21-25. Ether 2:8-12 has already put the Jaredites under a land covenant of exactly this Deuteronomic shape — serve the God of the land or be swept off. Ether 11:7 is that covenant's curse clause discharging, compressed from fourteen verses of Deuteronomy into one sentence and given in Deuteronomy's own order: the failure to hearken, then war, then famine and pestilence, then destruction."
+        },
+        "note": "'And they hearkened not unto the voice of the Lord, because of their wicked combinations; wherefore there began to be wars and contentions in all the land, and also many famines and pestilences.' The sentence has two sources and the machine test says so out loud: tools/mediation-check.py run on Deuteronomy 28:15 against Matthew 24:7 returns divergences pointing both ways — one decisive point for Deuteronomy on the conditional clause, two for Matthew on the disaster list. That is a composite, not an ambiguity, and the register carries a row for each half. This row is the frame: the covenant conditional, the causal 'wherefore', and the Deuteronomic logic by which not hearkening is itself the cause of the war. Compare Hays on thematic coherence — the chapter has been building a covenant argument since 11:1, and the Deuteronomy 28 frame is what the argument needs.",
+        "bibliography": [],
+        "status": "majority",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      },
+      {
+        "source": "Matthew 24:7",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "For nation shall rise against nation, and kingdom against kingdom: and there shall be famines, and pestilences, and earthquakes, in divers places.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 5,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Luke 21:11",
+          "Matthew 24:6",
+          "Matthew 24:21"
+        ],
+        "provenance": {
+          "route": "Matthew 24:7 → KJV → Book of Mormon",
+          "other": "“famines and pestilences” occurs in exactly two KJV verses, Matthew 24:7 and Luke 21:11, and both are the Olivet discourse. It is also a hapax in the Book of Mormon: Ether 11:7 is the only verse in the entire book where the pair occurs.",
+          "significance": "Matthew 24 runs wars and rumours of wars (24:6), then famines and pestilences (24:7), then a tribulation 'such as was not since the beginning of the world' (24:21). Ether 11:7 runs wars and contentions, then famines and pestilences, then 'a great destruction, such an one as never had been known upon the face of the earth' — three stages in one sentence in Matthew's order. The metalepsis is what stands immediately before the discourse. Matthew 23:34-37 is the woe on those who kill the prophets sent to them, ending 'O Jerusalem, Jerusalem, thou that killest the prophets'; the Olivet prediction of the city's fall follows it directly. Ether 11 has the same two things in the same relation: the prophets are put to death at 11:5, and the wars, famines and pestilences arrive at 11:7."
+        },
+        "note": "'Wars and contentions in all the land, and also many famines and pestilences, insomuch that there was a great destruction.' Two KJV verses hold 'famines and pestilences' and both are the same discourse; the Book of Mormon uses the pair once in 6,000 verses and uses it here. What makes the row more than a two-word coincidence is that the words arrive inside their source's sequence: Ether 11:5-7 kills the prophets, then gives wars, then famines and pestilences, then an unparalleled destruction, which is Matthew 23:34-24:21 in order. Taken with 11:1 (Acts 26:20), 11:2 (Luke 19:47) and 11:5 (Luke 11:50), the chapter's controlling register is the New Testament's judgment-on-a-prophet-killing-people material, laid over a Deuteronomy 28 frame — and the mediation test at 11:7 confirms the two are welded rather than alternatives.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "11:10": [
+      {
+        "source": "Psalm 109:8",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "Let his days be few; and let another take his office.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Psalm 109:16"
+        ],
+        "recurrenceRefs": [
+          "Ether 11:11"
+        ],
+        "provenance": {
+          "route": "Psalm 109:8 → KJV → Book of Mormon",
+          "other": "“his days be few” occurs in exactly one KJV verse, Psalm 109:8, and so does “let another take his office”. tools/mediation-check.py against Acts 1:20, where Peter cites this psalm of Judas, returns two decisive points for the psalm: the Book of Mormon has 'days' and 'few', where Acts reads 'habitation' and 'desolate'. Acts quotes the psalm's second clause only and drops the first — and the first is precisely the clause Ether has.",
+          "significance": "Psalm 109:8's two clauses arrive in Ether in order and one verse apart. 'Let his days be few' is Ether 11:10, 'and few were his days'; 'and let another take his office' is Ether 11:11, 'And Ethem, being a descendant of Ahah, did obtain the kingdom.' Psalm 109 is an imprecation against a man of blood — 109:16, 'he persecuted the poor and needy man, that he might even slay the broken in heart' — and Ether 11:10 has just said that Ahah 'did cause the shedding of much blood'. What the psalm prays for, Ether reports as having happened; the curse is delivered as an annal."
+        },
+        "note": "'And he did do all manner of iniquity in his days, in the which he did cause the shedding of much blood; and few were his days.' The clause is a KJV singleton in inverted order — Ether has 'few were his days' where the psalm has 'let his days be few' — which is what a borrowing looks like when a petition is turned into a report. The clinching evidence is the next verse. Psalm 109:8 is a two-clause line and the Book of Mormon has both clauses in sequence: the shortened reign at 11:10, the successor taking the office at 11:11. The mediation test is worth stating plainly, since Psalm 109:8 is one of the most heavily mediated verses in the Bible: Ether has the psalm's own form and not the New Testament's, and it has the half of the verse the New Testament never quotes.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      },
+      {
+        "source": "Daniel 11:21",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "And in his estate shall stand up a vile person, to whom they shall not give the honour of the kingdom: but he shall come in peaceably, and obtain the kingdom by flatteries.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "recurrenceRefs": [
+          "Ether 11:11",
+          "Ether 11:16",
+          "Ether 11:18",
+          "Ether 13:24"
+        ],
+        "provenance": {
+          "route": "Daniel 11:21 → KJV → Book of Mormon",
+          "other": "“obtain the kingdom” occurs in exactly one KJV verse, Daniel 11:21. Ether 11:10 is its first appearance anywhere in the Book of Mormon; the chapter then uses it three more times (11:11, 11:16, 11:18) and the book once more at 13:24.",
+          "significance": "The KJV's one man who obtains a kingdom is 'a vile person, to whom they shall not give the honour of the kingdom: but he shall come in peaceably, and obtain the kingdom by flatteries' — a usurper taking what was not granted him, in the chapter of Daniel that reads history as a sequence of kings displacing kings. Ether 11 is that chapter in miniature, and it uses the phrase as Daniel's context licenses: Moron regains by force a kingdom rebellion took from him (11:16), and an unnamed descendant of the brother of Jared overthrows Moron and takes it (11:18). The Jaredite king-list has borrowed Daniel 11's one verb for coming by a throne, and by the fourth use it has arrived at Daniel's sense."
+        },
+        "note": "'And it came to pass that Ahah, his son, did obtain the kingdom.' A three-word KJV singleton is not much on its own; four occurrences of it in nine verses, in a passage about thrones changing hands by war, is a different kind of evidence — the writer has a phrase for the transaction and the KJV supplies it once. The four uses also chart the chapter's decline: it enters on a lawful succession, and by 11:18 it describes a man with no claim at all overthrowing a king and putting him in captivity for life. ADJUDICATING §4 asks for the adjudication at first use, so the row sits at 11:10 and the register sends a reader from 11:18 back here.",
+        "whyNot": "The first use is a son succeeding his father, which is not Daniel 11:21's case, so if the borrowing is real the chapter took the phrase before it took the sense. A reader could hold that 'obtain the kingdom' is unremarkable English and that its single KJV occurrence is an accident of how rarely the KJV needs to say it.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "11:12": [
+      {
+        "source": "Amos 9:8",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "Behold, the eyes of the Lord GOD are upon the sinful kingdom, and I will destroy it from off the face of the earth; saving that I will not utterly destroy the house of Jacob, saith the LORD.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 1
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Deuteronomy 6:15"
+        ],
+        "recurrenceRefs": [
+          "Mosiah 12:8",
+          "Ether 11:21"
+        ],
+        "provenance": {
+          "route": "Amos 9:8 → KJV → Book of Mormon",
+          "other": "“from off the face of the earth” occurs in exactly five KJV verses: Genesis 7:4, Deuteronomy 6:15, 1 Kings 13:34, Jeremiah 28:16 and Amos 9:8. Only Amos 9:8 also carries 'utterly destroy', and only Amos 9:8 attaches an exception to the threat.",
+          "alternative": "The catalogue adjudicates the same clause at Mosiah 12:8, in Abinadi's mouth, as Deuteronomy 6:15 with the common idiom 'utterly destroy' welded onto it. That reading is sound for Abinadi and the phrase certainly carries Deuteronomy 6:15's exact six-word run. Amos 9:8 is preferred here because Ether 11:12 keeps all three of Amos's elements in one sentence — utter destruction, from off the face of the earth, and a stated exception — and because Amos 9:7 turns up again nine verses later at Ether 11:21.",
+          "significance": "Amos 9:8's exception is unconditional and it saves: 'saving that I will not utterly destroy the house of Jacob.' Ether 11:12's exception is conditional — 'except they repented of their iniquities' — and it is not met. The Jaredites are the case Amos rules out. Read with Ether 11:21, the pair Amos 9:7-8 appears to be open in front of this chapter: 9:8 supplies the destruction at 11:12, and 9:7's question about God bringing up other nations as he brought Israel supplies the substitute people at 11:21."
+        },
+        "note": "'They did prophesy that the Lord would utterly destroy them from off the face of the earth, except they repented of their iniquities.' Five KJV verses hold the six-word run and one of them holds the whole sentence-shape. ADJUDICATING §4 governs the relation to Mosiah 12:8: a phrase re-entering across a book boundary in a different hand gets the link rather than an exclusion, and Moroni abridging a Jaredite record is not Abinadi before Noah's priests. What the two rows disagree about is worth leaving on the record rather than harmonising — the Mosiah row reads a Deuteronomy verse plus an idiom, this one reads a single Amos verse that already contains both, and the tiebreak offered here is the return of Amos 9:7 at the end of the same chapter.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "11:13": [
+      {
+        "source": "Judges 2:17",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "text": "And yet they would not hearken unto their judges, but they went a whoring after other gods, and bowed themselves unto them: they turned quickly out of the way which their fathers walked in, obeying the commandments of the LORD; but they did not so.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 1
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Judges 2:18",
+          "Judges 2:19"
+        ],
+        "recurrenceRefs": [
+          "Ether 7:27",
+          "Ether 11:8"
+        ],
+        "provenance": {
+          "route": "Judges 2:17-19 → KJV → Book of Mormon",
+          "other": "“would not hearken unto their” occurs in exactly one KJV verse, Judges 2:17, where the object is 'judges' and Ether's is 'words'.",
+          "significance": "This catalogue already reads Ether 7:27 out of Judges 2:7-10 — the KJV's account of how a nation forgets, the generation that served the LORD all the days of Joshua and the generation after it that knew him not. Ether 11:8-13 turns out to be the rest of the same paragraph, in order. Judges 2:18, 'it repented the LORD because of their groanings by reason of them that oppressed them', stands behind Ether 11:8, 'the people began to repent of their iniquity; and inasmuch as they did, the Lord did have mercy on them'; Judges 2:17's refusal to hearken stands behind 11:13; and Judges 2:19's 'corrupted themselves more than their fathers' is the movement of the chapter as a whole, each reign worse than the last. What was found at Ether 7 as one verse's model is the template the book's decline is built on."
+        },
+        "note": "'The people hardened their hearts, and would not hearken unto their words; and the prophets mourned and withdrew from among the people.' The four-word run is a KJV singleton, and its verse is the pivot of the Judges cycle — the sentence that explains why deliverance never holds. The Book of Mormon has substituted 'words' for 'judges', which is the substitution Ether needs: the Jaredites have no judges, they have prophets, and it is the prophets' words that go unheard. The row is offered at moderate rather than high because the run alone would not carry it; what carries it is that the surrounding verses take the surrounding verses of Judges 2, and that the catalogue reached Judges 2 independently four chapters earlier.",
+        "whyNot": "The object of the verb is different, and refusal-to-hearken language is spread thickly through the prophets — Ezekiel 20:8's 'they rebelled against me, and would not hearken unto me' is nearly as close and has no Judges cycle behind it. The case is the chapter-length sequence, not the phrase.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "11:14": [
+      {
+        "source": "Jeremiah 22:3",
+        "type": "echo",
+        "subtype": "conceptual",
+        "confidence": "moderate",
+        "text": "Thus saith the LORD; Execute ye judgment and righteousness, and deliver the spoiled out of the hand of the oppressor: and do no wrong, do no violence to the stranger, the fatherless, nor the widow, neither shed innocent blood in this place.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 2,
+          "context": 5,
+          "rarity": 2,
+          "attestation": 0
+        },
+        "kjvSpecific": "uncertain",
+        "mediation": "direct-OT",
+        "composite": [
+          "Jeremiah 23:5"
+        ],
+        "recurrenceRefs": [
+          "Ether 9:21"
+        ],
+        "provenance": {
+          "route": "Jeremiah 22:3 → KJV → Book of Mormon (entering the book at Ether 9:21)",
+          "other": "“execute judgment” occurs in exactly eleven KJV verses, and in the royal ones it is invariably the king's covenant duty: Jeremiah 22:3 commands the house of David to 'Execute ye judgment and righteousness', and Jeremiah 23:5 promises a king who 'shall execute judgment and justice in the earth'. The KJV never once predicates the phrase of wickedness.",
+          "significance": "The formula enters Ether at 9:21, where Emer 'did execute judgement in righteousness, all his days' — which is Jeremiah 22:3's pairing intact. Ether 11:14 keeps the frame and substitutes its opposite: Ethem 'did execute judgement in wickedness all his days'. The Jaredite king-list is being scored against the Davidic job description, and this is the verse where the score turns over. ADJUDICATING §4's default would file a second use within one book as a repeat; it is written as a link because the second use is the argument — the phrase is not recurring, it is being inverted, and the inversion is only visible because the earlier verse said the other thing."
+        },
+        "note": "'Ethem did execute judgement in wickedness all his days.' CONVENTIONS §8 applies twice over. The 1830 text spells the word 'judgement'; the KJV spells it 'judgment' in all eleven of its occurrences, and the 1920 edition changed the Book of Mormon to match — a case where a later edition moved the text toward its source rather than away from it, and worth recording as such. The link itself is an echo and nothing stronger: eleven KJV verses is not rarity, and 'execute judgment' was ordinary legal English in 1830 independent of the Bible. What makes it worth a row is the antithesis with Ether 9:21 and the fact that the King James Bible reserves the phrase for the thing a righteous king does.",
+        "whyNot": "No rare string, no run longer than two words, and a phrase in general English use at the time of dictation. If Ether 9:21 did not exist the row would not be written.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "11:21": [
+      {
+        "source": "Amos 9:7",
+        "type": "figural",
+        "subtype": "conceptual",
+        "confidence": "moderate",
+        "text": "Are ye not as children of the Ethiopians unto me, O children of Israel? saith the LORD. Have not I brought up Israel out of the land of Egypt? and the Philistines from Caphtor, and the Syrians from Kir?",
+        "evidence": {
+          "vocabulary": 2,
+          "syntax": 2,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 3,
+          "attestation": 0
+        },
+        "kjvSpecific": "uncertain",
+        "mediation": "direct-OT",
+        "composite": [
+          "Deuteronomy 28:32"
+        ],
+        "recurrenceRefs": [
+          "Ether 11:12"
+        ],
+        "provenance": {
+          "route": "Amos 9:7 → KJV → Book of Mormon",
+          "other": "“another people” occurs in exactly three KJV verses, Deuteronomy 28:32, 1 Chronicles 16:20 and Psalm 105:13; “to possess the land” occurs in exactly seven, every one of them Deuteronomic or in Joshua and Judges. Neither phrase appears in Amos 9:7 — the contact here is conceptual, and the row says so.",
+          "significance": "Amos 9:7 is the one place in the King James Bible where God says the exodus was not unique: 'Have not I brought up Israel out of the land of Egypt? and the Philistines from Caphtor, and the Syrians from Kir?' Other nations get their own bringing-out, at the same hand, and it does not make them chosen. Ether 11:21 says exactly that about the land the Jaredites are about to forfeit — the Lord 'would send or bring forth another people to possess the land, by his power, after the manner which he brought their fathers.' The proposal is made because Amos 9:8, the very next verse, is the best source for Ether 11:12 nine verses earlier: if that row stands, this chapter has Amos 9:7-8 open in front of it and is taking the destruction from one verse and the replacement exodus from the other. Metaleptically the reading is heavy, because the 'another people' turns out to be Lehi's, and the Book of Mormon's own second exodus is thereby licensed by the verse that says God does this sort of thing for the Philistines too."
+        },
+        "note": "'That the Lord God would send or bring forth another people to possess the land, by his power, after the manner which he brought their fathers.' The Deuteronomic vocabulary is real but diffuse — 'possess the land' is Joshua's standing phrase and 'another people' sits, suggestively, in the curse chapter that stands behind Ether 11:7. What the verse actually asserts, though, is not a Deuteronomic dispossession but a second exodus for a second people, by the same power and after the same manner, and the KJV states that doctrine once. This is filed as `figural` because there is no wording to test, and at moderate because it is proposed on the strength of a neighbouring verse rather than on its own.",
+        "whyNot": "There is no verbal contact with Amos 9:7 whatsoever — not one distinctive shared word. The row rests entirely on the theology and on the adjacency of Amos 9:8 at 11:12, and it should be withdrawn if that row is withdrawn.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "11:22": [
+      {
+        "source": "2 Chronicles 36:16",
+        "type": "allusion",
+        "subtype": "conceptual",
+        "confidence": "moderate",
+        "text": "But they mocked the messengers of God, and despised his words, and misused his prophets, until the wrath of the LORD arose against his people, till there was no remedy.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 2,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "uncertain",
+        "mediation": "direct-OT",
+        "composite": [
+          "2 Chronicles 36:15"
+        ],
+        "provenance": {
+          "route": "2 Chronicles 36:15-16 → KJV → Book of Mormon",
+          "other": "“misused his prophets” occurs in exactly one KJV verse, 2 Chronicles 36:16, and so does “no remedy”. The Book of Mormon has neither string; the shared content is 'prophets' and 'words' against Chronicles' 'his prophets' and 'his words'.",
+          "significance": "2 Chronicles 36:15-16 is the King James Bible's own closing verdict on a nation, and the offence it names is this one and no other: God sent to them by his messengers, rising up betimes, 'but they mocked the messengers of God, and despised his words, and misused his prophets, until the wrath of the LORD arose against his people, till there was no remedy.' Nebuchadnezzar arrives in the next verse. Ether 11:22 occupies the same position exactly — it is the last thing said of the Jaredites before Ether is born and the terminal war begins, and it too puts the rejection of the prophets, not the murders and not the abominations, in the operative clause."
+        },
+        "note": "'And they did reject all the words of the prophets, because of their secret society and wicked abominations.' The verbal contact is thin and the row says so; what is not thin is the placement. Both sentences are one-line verdicts, both make prophet-rejection the ground of the sentence rather than one item in a list, and both stand immediately before the destroying army enters the narrative. The chapter has spent twenty-two verses assembling the KJV's prophet-rejection vocabulary — Acts 26:20, Luke 19:47, Luke 11:50, Judges 2:17 — and it closes on the frame of the verse the KJV uses to close a kingdom.",
+        "whyNot": "One shared content word. A reader could reasonably say that any summary of prophet-rejection will resemble 2 Chronicles 36:16 because 2 Chronicles 36:16 is the paradigm, and that resemblance to a paradigm is not dependence on a verse.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      }
+    ]
+  }
+}
