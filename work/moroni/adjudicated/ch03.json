@@ -1,0 +1,183 @@
+{
+  "chapter": 3,
+  "adjudicated": "2026-09-07",
+  "adjudicator": "Opus",
+  "links": {
+    "3:1": [
+      {
+        "source": "Acts 20:17",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "And from Miletus he sent to Ephesus, and called the elders of the church.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "James 5:14"
+        ],
+        "recurrenceRefs": [
+          "Alma 4:16"
+        ],
+        "provenance": {
+          "route": "Acts 20:17 → KJV → Book of Mormon",
+          "other": "'The elders of the church' occurs in exactly two KJV verses, Acts 20:17 and James 5:14, and in neither Testament anywhere else; the longer run 'called the elders of the church' is a KJV singleton at Acts 20:17. Inside the Book of Mormon the phrase occurs twice, at Alma 4:16 and here.",
+          "significance": "Moroni is writing the church-order appendix his father's book lacks, and the office he has to name first is one the Nephite record has barely used. He names it by borrowing the one clause in the King James Bible where a church's elders are summoned and addressed as such — Paul at Miletus, whose speech to those elders (Acts 20:28) is the New Testament's charge to men set over a flock. Recover that context and Moroni 3 acquires an apostolic farewell behind it, which is precisely the situation of the man writing: the last officer of a destroyed church setting down how its officers were made."
+        },
+        "note": "The 1830 reads 'the disciples, which were called the Elders of the church' — a relative clause whose four operative words reproduce the KJV singleton at Acts 20:17 in order. The verb is doing different work in each place (Paul 'called' the elders to him; Moroni's disciples 'were called' by that title), and that shift is the reason this is catalogued as an allusion rather than a quotation: the run is verbatim but the syntax has been repurposed. It sits well below Skousen's sixteen-word threshold and is not among his thirty-six. James 5:14 supplies the same four words and is not the source — see the register at this verse.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "3:2": [
+      {
+        "source": "Acts 6:6",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "Whom they set before the apostles: and when they had prayed, they laid their hands on them.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Acts 13:3",
+          "Acts 14:23"
+        ],
+        "recurrenceRefs": [
+          "Moroni 2:2"
+        ],
+        "provenance": {
+          "route": "Acts 6:6 → KJV → Book of Mormon",
+          "other": "'They laid their hands' occurs in exactly three KJV verses: 2 Chronicles 29:23, Mark 14:46 and Acts 6:6. Only Acts 6:6 is an ordination, and only Acts 6:6 puts prayer first. Acts 13:3 and 14:23 have the same order of operations in different words ('when they had fasted and prayed, and laid their hands on them'; 'when they had ordained them elders in every church, and had prayed').",
+          "significance": "Acts 6 is the New Testament's one narrated ordination to a subordinate office — the seven set over the tables so that the apostles may keep to prayer and the word. Moroni 3 is the Nephite church's rite for its two subordinate offices. The suppressed correspondence is that in Acts the men ordained this way are not the leaders; the rite is what the church does when authority has to be delegated downward, which is exactly the setting Moroni is describing and exactly the situation he is in."
+        },
+        "note": "The candidate list ranks 2 Chronicles 29:23 far above this verse, because 'laid their hands upon them' is a KJV singleton there and Acts reads 'on them' rather than 'upon them'. The ranking is wrong and the reason is sequence. mediation-check.py against Numbers 8:10 returns one decisive point and it is this one: Moroni's clause is 'After they had prayed … they laid their hands upon them', and 'when they had prayed, they laid their hands' is Acts 6:6's whole second half, word for word except the preposition. No other verse in the Bible subordinates prayer to the laying on of hands in that order. The preposition is worth flagging rather than explaining away: 'upon them' is the form of the sin-offering verse the machine preferred, so the clause may be carrying a word from the Levitical rite inside a sentence built on the apostolic one. On the internal route, Moroni 2:2 has the risen Christ authorise the same gesture two chapters earlier, so this ordinance is not being derived from Acts in the narrative's own terms; the wording still is.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "3:3": [
+      {
+        "source": "Luke 24:47",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "text": "And that repentance and remission of sins should be preached in his name among all nations, beginning at Jerusalem.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "recurrenceRefs": [
+          "3 Nephi 7:16"
+        ],
+        "provenance": {
+          "route": "Luke 24:47 → KJV → Book of Mormon",
+          "other": "'Repentance and remission of sins' occurs in exactly one KJV verse, Luke 24:47. The bare 'remission of sins' occurs in seven verses (Matthew 26:28, Mark 1:4, Luke 3:3, Luke 24:47, Acts 2:38, Acts 10:43, Romans 3:25), so it is the conjunction with 'repentance', not the phrase itself, that identifies the source.",
+          "significance": "Luke 24:47 is the risen Christ's commission, and what it commissions is preaching — 'should be preached in his name'. Moroni's ordination formula ordains a man 'to preach repentance and remission of sins through Jesus Christ'. The office is being defined by the content of the Emmaus-evening charge, so that a Nephite priest is made by being given the last instruction Luke's Jesus gives before the ascension. That the charge is 'among all nations' is the unstated half, and it is the half a book addressed to a future gentile readership would want."
+        },
+        "note": "Five words in order from the one KJV verse that has them, inside a sentence whose subject is preaching, which is Luke 24:47's subject. Acts 2:38 shares 'remission of sins' and 'the name of Jesus Christ' with this verse and scores on both, but it is a baptismal formula, not a commission to preach, and the distinctive run belongs to Luke; the register records the displacement. Below Skousen's threshold and not one of his thirty-six. The rest of the verse — 'by the endurance of faith on his name to the end' — is Moroni's own idiom, recurring at Moroni 8:3 and nowhere in the KJV.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "3:4": [
+      {
+        "source": "Romans 11:29",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "For the gifts and calling of God are without repentance.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 3,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "Romans 11:29 → KJV → Book of Mormon",
+          "other": "'The gifts and calling of God' occurs in exactly one KJV verse, Romans 11:29; 'gifts and calling' occurs nowhere else in the King James Bible, and the plural 'callings' occurs in the KJV not at all. 'Gifts and callings' occurs once in the Book of Mormon, here.",
+          "significance": "Romans 11:29 is the clause with which Paul refuses to let God's election of Israel be revoked — the gifts and calling are 'without repentance', that is, God does not change his mind about them. Moroni ordains 'according to the gifts and callings of God unto men', and if the Pauline context is recovered, the ordinance he is recording acquires the irrevocability of the verse it borrows: the offices of a church about to be annihilated are conferred under the one formula in scripture that says a divine calling is not withdrawn. Nothing in Moroni 3 says this. The four borrowed words do."
+        },
+        "note": "Not in the dossier's top twenty-four — the n-gram stream missed it, as CONVENTIONS §9 predicts it will when the shared run is short and the Book of Mormon has altered a word. The alteration is the pluralisation: Paul's singular 'calling' becomes 'callings', which is why no contiguous four-word window matched, and it is also the strongest evidence for dependence rather than coincidence, since 'callings' is not a King James word at all. 'Unto men' is Moroni's addition and turns Paul's abstract noun-phrase into a distribution of offices.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      },
+      {
+        "source": "1 Timothy 4:14",
+        "type": "figural",
+        "subtype": "structural",
+        "confidence": "low",
+        "text": "Neglect not the gift that is in thee, which was given thee by prophecy, with the laying on of the hands of the presbytery.",
+        "evidence": {
+          "vocabulary": 1,
+          "syntax": 1,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 1,
+          "attestation": 0
+        },
+        "kjvSpecific": "no",
+        "mediation": "uncertain",
+        "composite": [
+          "2 Timothy 1:6"
+        ],
+        "provenance": {
+          "route": "1 Timothy 4:14 (with 2 Timothy 1:6) → KJV → Book of Mormon, if at all",
+          "other": "Neither pastoral verse shares a distinctive string with Moroni 3. The contact is that 1 Timothy 4:14 holds all three elements of this chapter's rite in one sentence — a gift, a body of elders (presbytery), and the laying on of hands — and that 2 Timothy 1:6 states the same rite as a gift 'which is in thee by the putting on of my hands', against Moroni 3:4's 'by the power of the Holy Ghost, which was in them'.",
+          "significance": "If the correspondence is real, the whole of Moroni 3 is one New Testament sentence unfolded into an ordinance: 3:1 supplies the presbytery, 3:2 the laying on of hands, 3:4 the gift that is in them. That is the shape of a rubric derived from a text rather than described from practice."
+        },
+        "note": "Recorded because the pastoral epistles are where a reader will look for this chapter's background and the catalogue should say what it found there. Across three verses Moroni 3 assembles the elements 1 Timothy 4:14 holds in one, and the relative clause of Moroni 3:4 ('which was in them') stands where 2 Timothy 1:6 has 'which is in thee'. It is a structural correspondence and it is offered as no more than that.",
+        "whyNot": "There is no distinctive shared wording anywhere. 'Which was in them' is a KJV singleton only at 1 Peter 1:11, where it is connective tissue and not a source; 'gift' is universal; the KJV's 'presbytery' and 'putting on' appear nowhere in the Book of Mormon. The ordinance's shape is also supplied internally: Moroni 2:2 has the risen Christ authorise the laying on of hands to give the Holy Ghost two chapters earlier, so the sequence prayer-hands-gift needs no Pauline source to explain it. Withdraw this row if the verbal case at 3:1, 3:2 and 3:4 is judged sufficient on its own, which it may well be.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ]
+  }
+}

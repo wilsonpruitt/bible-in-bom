@@ -319,8 +319,18 @@ Decide, don't default. The interesting cases are OT sources that also appear in
 the New Testament: whether the Book of Mormon follows the OT-KJV or the NT-KJV
 form of a shared text is a real finding, and 1 Nephi 22:20 (Deuteronomy 18 via
 Acts 3:22 / 7:37) is the chapter where it must be got right. `OT-via-earlier-BoM`
-is for cases where an earlier Book of Mormon quotation, not the Bible, is the
-proximate model — expect these from 2 Nephi onward.
+is for cases where an earlier Book of Mormon quotation of an Old Testament
+source, not the Bible, is the proximate model — expect these from 2 Nephi
+onward. `NT-via-earlier-BoM` is the same shape for a New Testament source: an
+earlier Book of Mormon verse has already quoted it, and the later verse is
+worded from that earlier verse rather than freshly from the Bible. **Ratified
+2026-09-07** after the shape recurred independently across 3 Nephi, Mormon,
+Ether and Moroni (each book is one long chain of self-quotation by the time
+Moroni is writing) — earlier chapters worked around the gap with `direct-NT`
+or `uncertain` plus the real route spelled out in `provenance.route`/
+`alternative`; those rows were not wrong, just filed under the nearest
+available value, and are not being swept and relabeled. Use the real value
+going forward.
 
 ## 8. The 1830 running text is evidence, not just a text choice
 

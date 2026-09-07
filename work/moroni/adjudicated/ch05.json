@@ -1,0 +1,128 @@
+{
+  "chapter": 5,
+  "adjudicated": "2026-09-07",
+  "adjudicator": "Opus",
+  "links": {
+    "5:1": [
+      {
+        "source": "1 Corinthians 11:25",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "After the same manner also he took the cup, when he had supped, saying, This cup is the new testament in my blood: this do ye, as oft as ye drink it, in remembrance of me.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Matthew 26:27",
+          "Mark 14:23",
+          "Luke 22:17"
+        ],
+        "recurrenceRefs": [
+          "3 Nephi 18:8",
+          "Moroni 4:1"
+        ],
+        "provenance": {
+          "route": "1 Corinthians 11:25 → KJV → Book of Mormon",
+          "other": "“took the cup” occurs in exactly 4 KJV verses — Matthew 26:27, Mark 14:23, Luke 22:17 and 1 Corinthians 11:25 — which is to say in the institution narrative and nowhere else. “after the same manner” occurs in exactly 4 KJV verses, of which 1 Corinthians 11:25 is the only one at the Lord's table.",
+          "significance": "Recover the context of 1 Corinthians 11:25 and it is not narrative at all: Paul quotes the institution in the middle of correcting a congregation's practice — ‘when ye come together therefore into one place, this is not to eat the Lord's supper’ (11:20) — so the words are cited there as a rule of order, which is what makes them quotable as a rubric. Moroni 4-5 do exactly that and nothing else: two chapters of a dozen lines whose only business is to fix the wording, appended by a man who expects his church to be extinguished. The borrowing is of a genre as much as of a phrase, and the genre is Paul's, not the evangelists'."
+        },
+        "note": "‘Behold, they took the cup, and said.’ The whole narrative frame of the wine chapter is four words of the institution narrative. “took the cup” occurs in exactly 4 KJV verses, and all four are the same moment, so the run by itself chooses no source. The chapter's own heading does. Moroni 4:1 announced ‘the manner of their elders and priests administering’; Moroni 5:1 answers ‘The manner of administering the wine’, and the one KJV verse that introduces the cup by looking back to the manner of the bread is Paul's — ‘After the same manner also he took the cup.’ The pairing of the two chapters is therefore not merely liturgical convenience; it reproduces the sequencing device of 1 Corinthians 11:23-25, where the cup is given as a repetition of what was just done with the bread. The 1830 punctuation makes this plainer than the current text: the first edition closes the heading as its own sentence, where 1920 runs it into the narrative with a dash, so 1830 shows Moroni 4 and 5 as a matched pair of rubrics and the modern text shows two sentences.",
+        "whyNot": "The shared string is four words and they are the same four words in all four KJV institution accounts; ‘took the cup’ alone cannot identify a source, and the Pauline preference here rests on the ‘manner’ framing, which is an argument about the chapter's structure rather than about its wording. A reader who declines that argument still has a link to the institution narrative in general and should read this row at that level. Note also that the Book of Mormon has its own cup narrative at 3 Nephi 18:8-11, which Moroni 4:1 says the elders were obeying; ‘took the cup’ does not occur there, which is why this row points at the KJV rather than at 3 Nephi.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "5:2": [
+      {
+        "source": "1 Corinthians 11:25",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "After the same manner also he took the cup, when he had supped, saying, This cup is the new testament in my blood: this do ye, as oft as ye drink it, in remembrance of me.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 1
+        },
+        "kjvSpecific": "yes",
+        "mediation": "uncertain",
+        "composite": [
+          "Luke 22:19",
+          "1 Corinthians 11:24"
+        ],
+        "recurrenceRefs": [
+          "3 Nephi 18:7",
+          "3 Nephi 18:11",
+          "Moroni 4:3"
+        ],
+        "provenance": {
+          "route": "1 Corinthians 11:25 / Luke 22:20 → KJV → 3 Nephi 18:11 → Moroni 5:2. The schema has no value for a New Testament source reaching a verse through an earlier Book of Mormon passage — `OT-via-earlier-BoM` covers only Old Testament sources — so `mediation` is recorded as `uncertain` and the route is given here rather than forced into an enum that cannot hold it. Flagged for CONVENTIONS §7: the field wants a sixth value, `NT-via-earlier-BoM`, and this adjudicator has not invented one.",
+          "other": "“in remembrance of me” occurs in exactly 3 KJV verses — Luke 22:19, 1 Corinthians 11:24 and 1 Corinthians 11:25 — and the first two attach the command to the bread. Only 1 Corinthians 11:25 extends it to the drinking, and its clause “as oft as ye drink” occurs in exactly 1 KJV verse. Matthew and Mark have no remembrance command at all. “do it in remembrance” occurs in exactly 0 KJV verses; that exact wording is the Book of Mormon's own, at 3 Nephi 18:11.",
+          "significance": "1 Corinthians 11:25 is the hinge of a passage about eating and drinking unworthily, and Paul's remedy four verses later is that a man examine himself. Moroni's prayer takes the remembrance clause and leaves the examination behind: it asks not that the communicants be found worthy but that they be given the Spirit. The conditions Paul makes a test survive in the pair of prayers only as things the communicants are ‘willing’ to do, and only over the bread (Moroni 4:3); over the wine they are dropped. Read against its source, the wine prayer is the institution with Paul's warning removed."
+        },
+        "note": "‘to bless and sanctify this wine to the souls of all those who drink of it, that they may do it in remembrance of the blood of thy Son.’ A remembrance clause attached to the cup is a Pauline peculiarity, and nothing else in the KJV supplies it: “in remembrance of me” occurs in exactly 3 KJV verses and only 1 Corinthians 11:25 puts the remembrance with the drinking rather than with the bread. The sequence of the prayer is that verse's sequence — the cup, the drinking of it, the remembrance — and the fact that a wine prayer has a remembrance clause at all is a fact about Paul, since Matthew and Mark give the cup no such command. The proximate wording, however, is the Book of Mormon's own: ‘ye shall do it in remembrance of my blood’ stands at 3 Nephi 18:11, adjudicated in this catalogue to Luke 22:20 with 1 Corinthians 11:25 composite, and Moroni 5:2 is that sentence put into the third person and into a prayer. The link is written here rather than deferred because a new book is a new hand and a reader of Moroni is shown Moroni's page (ADJUDICATING §4).",
+        "whyNot": "Every distinctive word of this clause already stands at 3 Nephi 18:11, where the risen Christ institutes the ordinance that Moroni 4:1 says the elders administered ‘according to the commandments of Christ’. A reader could reasonably hold that Moroni 5:2 borrows from 3 Nephi and from nothing else, and that the Pauline contact is inherited rather than fresh. The row is kept because the prayer is demonstrably not a transcript of 3 Nephi 18:11 — see the Luke 22:20 row at this verse for the word where it moves back toward the KJV — and because the mediation cannot be recorded honestly in the present enum; see `provenance.route`.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      },
+      {
+        "source": "Luke 22:20",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "text": "Likewise also the cup after supper, saying, This cup is the new testament in my blood, which is shed for you.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 1
+        },
+        "kjvSpecific": "yes",
+        "mediation": "uncertain",
+        "composite": [
+          "Matthew 26:28",
+          "Mark 14:24"
+        ],
+        "recurrenceRefs": [
+          "3 Nephi 18:11"
+        ],
+        "provenance": {
+          "route": "1 Corinthians 11:25 / Luke 22:20 → KJV → 3 Nephi 18:11 → Moroni 5:2. The schema has no value for a New Testament source reaching a verse through an earlier Book of Mormon passage — `OT-via-earlier-BoM` covers only Old Testament sources — so `mediation` is recorded as `uncertain` and the route is given here rather than forced into an enum that cannot hold it. Flagged for CONVENTIONS §7: the field wants a sixth value, `NT-via-earlier-BoM`, and this adjudicator has not invented one.",
+          "other": "“which is shed for” occurs in exactly 3 KJV verses. Matthew 26:28 and Mark 14:24 read ‘shed for many’ — “shed for many” occurs in exactly 2 KJV verses — and Luke 22:20 reads ‘shed for you’, which occurs in exactly 1 KJV verse. “the new testament in my blood” occurs in exactly 2 KJV verses, Luke 22:20 and 1 Corinthians 11:25, and neither Moroni prayer uses it.",
+          "significance": "The one thing Luke 22:20 and 1 Corinthians 11:25 both say about the cup, and say in the same seven words, is that it is the new testament in the speaker's blood. Both Moroni prayers take everything around that clause and leave the clause itself. The covenant language is not lost: it is relocated to the bread, where the communicants ‘are willing to take upon them the name of thy Son’ (Moroni 4:3). So the pair redistributes the institution — covenant with the body, memory with the blood — where the KJV puts the covenant with the cup and, in Luke and Paul both, the memory with the bread. That inversion is the substantive departure of Moroni 4-5 from their source, and it is visible only when the two chapters are read as the single rubric they are."
+        },
+        "note": "‘in remembrance of the blood of thy Son, which was shed for them.’ The atonement clause of the wine prayer takes Luke's side of a split in the KJV institution accounts: “shed for you” occurs in exactly 1 KJV verse, Luke 22:20, against Matthew 26:28 and Mark 14:24's ‘shed for many’. The Book of Mormon takes that side twice. At 3 Nephi 18:11 the risen Christ says ‘my blood, which I have shed for you’, converting Luke's present passive into an active perfect a speaker on the far side of the crucifixion needs. Here the elders convert it again — into the third person, and back into the passive: ‘the blood of thy Son, which was shed for them’. The second conversion is the one worth noticing, because a prayer about the congregation did not require a passive at all; ‘which he hath shed for them’ would have followed 3 Nephi's grammar exactly and did not happen. What appears instead is the KJV's voice with Luke's preposition, which is some evidence that the prayer was set against its biblical source and not only copied from the Nephite one. Neither Matthew's ‘many’ nor his ‘for the remission of sins’ appears anywhere in either prayer.",
+        "whyNot": "The passive may be nothing more than what the third person made convenient, and the move from ‘you’ to ‘them’ is forced by the fact that the elders pray about the congregation rather than to it — so the grammatical argument for a fresh look at Luke 22:20 is suggestive, not decisive. What is not in doubt is that the clause is Lukan rather than Matthean in shape; what is arguable is whether Moroni 5:2 reaches Luke through 3 Nephi 18:11 alone. The mediation is recorded as `uncertain` for that reason and the route is spelled out in `provenance.route`.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ]
+  }
+}

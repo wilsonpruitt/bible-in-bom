@@ -358,3 +358,45 @@ Small, deferred items — none blocking Alma or any future book, all cheap to cl
 
   **Next:** 3 Nephi (30 chapters) — the Sermon at the Temple (12-14, Matthew's sermon reworked) and the Malachi/Isaiah transcriptions (20, 24-25) will need `collate-isaiah.py`-style mechanical handling, same as 2 Nephi's Isaiah blocks. Verify `--next-heading` for 3 Nephi's own Hardy parse against the raw text before trusting it, per the lesson above.
 
+## 10. The whole Book of Mormon is adjudicated (2026-09-07)
+
+3 Nephi (534 links, 465 verses), 4 Nephi (18 links, whole 1-chapter book),
+Mormon (133 links, 108 verses), Ether (253 links, 183 verses) and Moroni
+(144 links, 111 verses) all completed the same session, each chapter as one
+dispatched Opus agent, all launched in parallel per book. Every book's Hardy
+apparatus is 100% discharged (0 gaps), every chapter's gates return 0 errors.
+All 15 books are wired into `data/books.ts` and live at brass.wrootpress.com.
+
+Deployment priority overrode the read-through gate in §7 item 7 — Wilson has
+no working knowledge of the Book of Mormon to check against and said so
+explicitly; getting the site in front of his St Andrews collaborator matters
+more than a human pass he can't actually perform. Adjudication judgment calls
+that would have been parked for his ruling are now made and logged in the
+files themselves, not deferred.
+
+**Ratified rather than left open:** the `mediation` enum gained
+`NT-via-earlier-BoM` (lib/types.ts, CONVENTIONS.md §7) after the shape — an
+NT source reaching a verse through an earlier Book-of-Mormon quotation of it,
+not fresh from the Bible — recurred independently across 3 Nephi, Mormon,
+Ether and Moroni. Existing rows that worked around the gap with `direct-NT`
+or `uncertain` plus the real route in `provenance` were left as filed, not
+swept and relabeled; use the real value going forward.
+
+**Real fixes found along the way, not just findings:** two genuine bugs in
+`parse-hardy.py`'s verse walker (a footnote-paragraph misclassification that
+dropped verses silently, and a missing case for this edition's
+chapter-number-as-verse-1 convention), both verified against zero drift on
+every already-committed book before use; one further hand-corrected
+same-page footnote mis-key (3 Nephi 25/26, Malachi 4) and one printed-source
+digit transposition in Hardy's own apparatus (Ether 13:11, "Jer 15.16" for
+16:15) — same class as the pilot's own 2 Nephi 17:17 correction. A `.vercelignore`
+was needed before the site would deploy at all (`work/*/candidates-raw.jsonl`
+alone runs to hundreds of MB and isn't read by the built site).
+
+**What's left, if this becomes more than a first look:** the Skousen KJQ
+comparison (§4, still unobtainable), the italics question (§7), a handful of
+flagged "extends a within-book-repeat exception beyond its original scope"
+judgment calls scattered across the later books, and deciding whether to
+retrofit `NT-via-earlier-BoM` onto the rows that used a workaround for it.
+None of these block the site being live and correct as it stands.
+

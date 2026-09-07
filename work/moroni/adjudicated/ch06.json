@@ -1,0 +1,437 @@
+{
+  "chapter": 6,
+  "adjudicated": "2026-09-07",
+  "adjudicator": "Opus",
+  "links": {
+    "6:1": [
+      {
+        "source": "Matthew 3:8",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "Bring forth therefore fruits meet for repentance:",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 3,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 2
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Luke 3:8"
+        ],
+        "recurrenceRefs": [
+          "Alma 5:54"
+        ],
+        "provenance": {
+          "route": "Matthew 3:8, conflated with Luke 3:8 → KJV → Book of Mormon",
+          "other": "“fruits meet for repentance” occurs in exactly one KJV verse, Matthew 3:8; “worthy of repentance” occurs in exactly one KJV verse, Luke 3:8. The two are the Synoptic variants of one saying of John the Baptist, and “Bring forth therefore fruits” is the four words they share. Inside the Book of Mormon “fruit meet” occurs only here; Alma 5:54 has the Matthean form entire (“bring forth fruit meet for repentance”) and nothing else in the book has either.",
+          "significance": "Recover the context and the borrowed words are the Baptist's, spoken at the Jordan to men presenting themselves for baptism — the one place in the Gospels where a qualification is imposed on candidates before the water. Moroni 6:1 is imposing exactly that qualification on Nephite candidates, and it takes the words from the scene that invented the problem. The suppressed half is what follows in both Synoptics: the axe laid to the root, and the warning that descent from Abraham confers nothing. A church whose membership is about to be annihilated is defining membership by the saying that denies membership can be inherited."
+        },
+        "note": "'And they were not baptized, save they brought forth fruit meet that they were worthy of it.' The clause holds both Synoptic forms of one verse at once: 'fruit meet' is Matthew's word (KJV 'meet', for the Greek ἄξιος) and 'worthy' is Luke's rendering of the same word, and Moroni has them side by side in a sentence neither Gospel could produce alone. That conflation is the argument for the KJV rather than for Alma 5:54 as the proximate model — Alma reproduces Matthew's phrase intact and does not touch Luke's, so a writer copying Alma would have had no occasion to reach for 'worthy'. Well below Skousen's sixteen-word threshold and not among his thirty-six. Note also what the borrowing does to the grammar: the KJV's fruits are meet *for repentance*, an abstract standard; Moroni's are meet *that they were worthy of it*, i.e. of baptism, and the standard has been transferred from the disposition to the ordinance.",
+        "bibliography": [
+          "Hardy MSI at Moro 6.1 (Matthew 3:8)"
+        ],
+        "status": "majority",
+        "streams": [
+          "scholarship",
+          "manual"
+        ]
+      }
+    ],
+    "6:2": [
+      {
+        "source": "Psalm 34:18",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "The LORD is nigh unto them that are of a broken heart; and saveth such as be of a contrite spirit.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 3,
+          "sequence": 4,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "OT-via-earlier-BoM",
+        "composite": [
+          "Psalm 51:17",
+          "Isaiah 66:2"
+        ],
+        "recurrenceRefs": [
+          "2 Nephi 2:7",
+          "3 Nephi 9:20",
+          "3 Nephi 12:19",
+          "Ether 4:15"
+        ],
+        "provenance": {
+          "route": "Psalm 34:18 → KJV → 3 Nephi 9:20 → Moroni 6:2",
+          "other": "“a broken heart” occurs in exactly one KJV verse, Psalm 34:18, and “a contrite spirit” in exactly two, Psalm 34:18 and Isaiah 66:2. Psalm 34:18 is therefore the only verse in the King James Bible that pairs the two nouns in Moroni's order and in Moroni's grammar. Psalm 51:17 has both words but redistributed — 'a broken spirit: a broken and a contrite heart' — and mediation-check.py against Isaiah 66:2 returns the Psalm 34:18 form as decisive on the surviving backbone.",
+          "alternative": "Psalm 51:17, if the pairing is thought to come from the penitential psalm rather than from Psalm 34; the noun-adjective distribution is against it.",
+          "significance": "Psalm 34 is the psalm of the man who feigned madness before Abimelech and got away, and its promise is proximity — the LORD is *nigh* to the broken-hearted. Moroni's clause turns the promise into a threshold: what the psalm says God draws near to, the Nephite church requires before it will admit anyone. The nearness that was gratuitous in the source has become a condition in the borrowing."
+        },
+        "note": "The phrase is the Book of Mormon's settled baptismal formula and Moroni is at the end of a chain, not the start of one: 2 Nephi 2:7 has it first, and 3 Nephi 9:20 puts it in the mouth of the risen Christ as the sacrifice that replaces burnt offering — 'ye shall offer for a sacrifice unto me a broken heart and a contrite spirit'. Moroni 6:2 is a church-order rubric written by a man whose own record contains that commandment four chapters' distance away, so the proximate model is the Nephite Christ and not the psalter; the KJV wording behind both is Psalm 34:18's, unaltered. Catalogued here rather than passed over because Moroni is a new book in a new hand (ADJUDICATING §4), and a reader of Moroni 6 shown nothing at this verse would be told there is no borrowing in it.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "6:4": [
+      {
+        "source": "Hebrews 12:2",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "certain",
+        "text": "Looking unto Jesus the author and finisher of our faith; who for the joy that was set before him endured the cross, despising the shame, and is set down at the right hand of the throne of God.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "Hebrews 12:2 → KJV → Book of Mormon",
+          "other": "“author and finisher” occurs in exactly one KJV verse, Hebrews 12:2, and the pairing occurs nowhere else in English scripture. Inside the Book of Mormon “author and the finisher” occurs once, here.",
+          "significance": "Hebrews 12:1-2 is a race run 'with patience' by men 'compassed about with so great a cloud of witnesses'. Moroni 6 is a chapter of witnesses — the candidate witnesses to the church at 6:2, three witnesses condemn at 6:7 — and of members kept 'in the right way' and 'continually watchful'. Recover the context and the borrowed title supplies the metaphor the whole chapter is administering: the church's business is keeping people in a race whose finisher is Christ. The suppressed clause is the next one, that he 'endured the cross, despising the shame' — which is what Moroni's own situation asks of the last members of a church being destroyed."
+        },
+        "note": "Six words in order from a KJV singleton, altered only by an inserted article and a change of possessive: Hebrews' 'the author and finisher of our faith' becomes 'the author and the finisher of their faith'. Dependence is not seriously deniable; nothing else in English scripture calls Christ this. The 1830 reads 'who was the author and the finisher of their faith' — the extra 'the' is the first edition's and survives into the current text, so this is one of the rare places where 1830 is *further* from the KJV than a modern reader would guess. The surrounding clause 'relying alone upon the merits of Christ' has no KJV background at all: 'merit' in any form is not a King James word, and the sentence is therefore half borrowed diction and half a vocabulary the KJV does not possess. Well below Skousen's sixteen-word threshold and not among his thirty-six.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      },
+      {
+        "source": "1 Peter 4:7",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "But the end of all things is at hand: be ye therefore sober, and watch unto prayer.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 4,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "recurrenceRefs": [
+          "Alma 34:39"
+        ],
+        "provenance": {
+          "route": "1 Peter 4:7 → KJV → Alma 34:39 → Moroni 6:4",
+          "other": "“watch unto prayer” occurs in exactly one KJV verse, 1 Peter 4:7; the fuller “sober and watch” run is a singleton in the same verse. Inside the Book of Mormon “watchful unto prayer” occurs twice, at Alma 34:39 and here, and the adverb travels with it both times — Amulek's 'watchful unto prayer continually', Moroni's 'continually watchful unto prayer'.",
+          "significance": "1 Peter's clause is eschatological before it is devotional: the reason to watch unto prayer is that 'the end of all things is at hand'. Moroni is writing after the end of all things has in fact come for his nation. The catalogue's charge to keep members 'continually watchful unto prayer' is being recorded by the one survivor of the church that failed to be."
+        },
+        "note": "A KJV singleton reversed but intact. The catalogue adjudicated 1 Peter 4:7 at Alma 34:39, where Amulek uses it in an exhortation against temptation; here it has become an item in a church's standing duty of care toward new members, which is a different use of the same three words and the reason it is written as a fresh link rather than a repeat (ADJUDICATING §4 — a new book, a new hand). The word order is inverted in both Nephite occurrences, and the adverb 'continually' is common to both and absent from Peter, which suggests Moroni has the Alma passage in his ear rather than the epistle; the KJV wording behind either is Peter's. The schema has no mediation value for an NT source reaching a verse through an earlier Book of Mormon passage, so this row is marked direct-NT and the route field carries the argument.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      },
+      {
+        "source": "Hebrews 6:5",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "text": "And have tasted the good word of God, and the powers of the world to come,",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "1 Timothy 4:6"
+        ],
+        "recurrenceRefs": [
+          "Jacob 6:7"
+        ],
+        "provenance": {
+          "route": "Hebrews 6:5, with the verb of 1 Timothy 4:6 → KJV → Jacob 6:7 → Moroni 6:4",
+          "other": "“the good word of God” occurs in exactly one KJV verse, Hebrews 6:5, where the verb is 'tasted'. “nourished up” occurs in exactly three KJV verses, of which only 1 Timothy 4:6 nourishes anybody on words — 'nourished up in the words of faith and of good doctrine'. Inside the Book of Mormon 'nourished by the good word of God' occurs twice, at Jacob 6:7 and here, verbatim.",
+          "significance": "Hebrews 6:4-6 is the passage on those who, having tasted the good word of God, fall away and cannot be renewed to repentance — the New Testament's hardest saying about apostasy. Moroni 6 is a chapter whose next paragraph blots names out of the register. The good word by which members are nourished at 6:4 comes from the one KJV verse where tasting it does not guarantee that they stay."
+        },
+        "note": "The catalogue adjudicated Hebrews 6:5 at Jacob 6:7, which has this clause word for word, so the phrase enters the Book of Mormon long before Moroni and enters it already fused: the KJV's verb is 'tasted', not 'nourished', and the substitution is the Nephite formula's, not Moroni's. Written here rather than passed over because Moroni is a new book (ADJUDICATING §4), and downgraded to moderate because what Moroni is most plausibly reproducing is Jacob's sentence rather than Hebrews'. 1 Timothy 4:6 is offered as the source of the verb and no more than that — it is the only KJV verse that nourishes a person on words — and a reader who thinks 'nourished' is simply the natural English for feeding on a word should decline that half. The schema has no mediation value for an NT source reaching a verse through an earlier Book of Mormon passage; direct-NT plus the route field is doing that work.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "6:5": [
+      {
+        "source": "Acts 2:42",
+        "type": "figural",
+        "subtype": "structural",
+        "confidence": "moderate",
+        "text": "And they continued stedfastly in the apostles’ doctrine and fellowship, and in breaking of bread, and in prayers.",
+        "evidence": {
+          "vocabulary": 1,
+          "syntax": 1,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 2,
+          "attestation": 0
+        },
+        "kjvSpecific": "no",
+        "mediation": "direct-NT",
+        "composite": [
+          "Acts 2:46"
+        ],
+        "provenance": {
+          "route": "Acts 2:42 and 2:46 → KJV → Book of Mormon",
+          "other": "No distinctive string is shared. “continued stedfastly” is a KJV singleton at Acts 2:42 and does not appear in the Book of Mormon at all. What is shared is the inventory: habitual assembly, prayer, mutual speech, and the breaking of bread, in that order across Moroni 6:5-6 as across Acts 2:42 and 2:46.",
+          "significance": "Acts 2:41-47 is the New Testament's only sustained description of what a newly baptized church actually did, and it is introduced by a mass baptism and a count of those 'added unto them' — which is Moroni 6:1-4's subject, down to the taking of names. Moroni 6 reads as the Nephite answer to that paragraph, and the two verses stand at the same point in the same sequence."
+        },
+        "note": "Moroni 6:5-6 is not verbally dependent on Acts 2 and the row is offered as form, not wording. But the correspondence is unusually complete: Acts 2 moves baptism → those added were numbered → continuing in doctrine and fellowship → breaking of bread → prayers → daily assembly; Moroni 6 moves baptism → 'they were numbered among the people of the church' → meeting together oft → fasting and prayer → speaking one with another → meeting together oft to partake of bread and wine. Two paragraphs written to answer the same question could arrive independently at the same list of activities, which is why this is moderate rather than high; what they are less likely to do independently is arrive at it in the same order and in the same position after a baptismal narrative. 'To fast and to pray' is not from Acts 2, which never fasts; the nearest KJV settings are Acts 13:3 and 14:23, and 14:23 is already in this book's apparatus at Moroni 3:2.",
+        "whyNot": "There is not one distinctive shared word. Every element of the correspondence is a thing any assembling congregation does, and a writer describing a church at all would have to mention meeting, praying and the sacrament in some order. A reader who holds that the parallel is generated by the subject matter rather than by the text has nothing verbal to answer.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      },
+      {
+        "source": "Hebrews 10:25",
+        "type": "echo",
+        "subtype": "conceptual",
+        "confidence": "low",
+        "text": "Not forsaking the assembling of ourselves together, as the manner of some is; but exhorting one another: and so much the more, as ye see the day approaching.",
+        "evidence": {
+          "vocabulary": 1,
+          "syntax": 1,
+          "sequence": 2,
+          "context": 4,
+          "rarity": 3,
+          "attestation": 0
+        },
+        "kjvSpecific": "no",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "Hebrews 10:25 → KJV → Book of Mormon, if at all",
+          "other": "“assembling of ourselves” occurs in exactly one KJV verse, Hebrews 10:25. The word does not occur in Moroni 6, which says 'did meet together oft' instead; the only lexical contact is 'together' and the exhorting of 6:9.",
+          "significance": "Hebrews 10:25 is the one verse in the Bible that makes frequency of assembly a commandment and neglect of it a named fault. If it stands behind Moroni 6:5-6, then the repeated 'oft' — twice in two verses, and unusual emphasis for a chapter otherwise so compressed — is answering Hebrews' 'so much the more, as ye see the day approaching', and the church's diligence is being measured against an approaching end that Moroni, alone of all writers, has already watched arrive."
+        },
+        "note": "Recorded because Hebrews 10:25 is where a reader will look for this chapter's background and the catalogue should say what it found there. The doubled 'oft' at 6:5 and 6:6 is the feature that wants explaining: the chapter is otherwise terse, and it says twice in successive clauses that the church met together often, which is an emphasis rather than a description. Hebrews 10:25 is the only KJV verse that supplies a reason for that emphasis.",
+        "whyNot": "No shared wording of any kind. The KJV's 'assembling' and 'forsaking' are both absent, and 'meet together oft' is the Nephite formula already fixed at 3 Nephi 18:22, where the risen Christ commands it — which supplies the doubled 'oft' internally and leaves Hebrews with nothing to do. Withdraw this row if 3 Nephi 18:22 is judged sufficient, which it may well be.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "6:6": [
+      {
+        "source": "1 Corinthians 11:25",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "After the same manner also he took the cup, when he had supped, saying, This cup is the new testament in my blood: this do ye, as oft as ye drink it, in remembrance of me.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "1 Corinthians 11:23",
+          "1 Corinthians 11:26",
+          "Luke 22:19"
+        ],
+        "recurrenceRefs": [
+          "3 Nephi 18:22"
+        ],
+        "provenance": {
+          "route": "1 Corinthians 11:23-26 → KJV → Book of Mormon",
+          "other": "“as oft as” occurs in exactly two KJV verses, 2 Kings 4:8 and 1 Corinthians 11:25; only the Pauline one is sacramental. “in remembrance of me” occurs in exactly three, Luke 22:19 and 1 Corinthians 11:24 and 11:25 — the institution narrative and Paul's citation of it. “the Lord Jesus the same night” is a singleton at 1 Corinthians 11:23. Inside the Book of Mormon 'in remembrance of the Lord Jesus' occurs once, here.",
+          "significance": "1 Corinthians 11 is the only place in the New Testament where the Lord's Supper is legislated rather than narrated: Paul gives the words of institution in order to correct how a congregation is keeping them, and follows with unworthy partaking, self-examination and judgment. Moroni 6 has just given the words of institution itself, at chapters 4 and 5, and 6:6 is the rubric of frequency that Paul's chapter is arguing about. The suppressed half is 11:27-29 — that a man eat and drink damnation to himself, not discerning the Lord's body — which is precisely the anxiety governing 6:7's discipline two verses later."
+        },
+        "note": "'And they did meet together oft to partake of bread and wine, in remembrance of the Lord Jesus.' Three of Paul's distinctive markers are here in one clause: the adverb of frequency ('oft', which is 1 Corinthians 11:25's own word and not Luke's), the purpose ('in remembrance of'), and the title 'the Lord Jesus', which is 11:23's designation of the one who instituted the rite. The verse follows the two sacrament prayers of Moroni 4 and 5, so it is the frequency rubric appended to an institution formula — Paul's own arrangement. Against Luke 22:19, which supplies 'in remembrance of me' but nothing else, the 'oft' is decisive: Luke has no adverb of frequency. Against 3 Nephi 18:22, which fixes 'meet together oft' as the Nephite formula, the phrase 'in remembrance of the Lord Jesus' is what remains Pauline — 3 Nephi 18 has 'in remembrance of my body' and 'of my blood', never the title. Below Skousen's sixteen-word threshold and not among his thirty-six. The 1830 'bread and wine' is worth flagging: the KJV's element is 'the cup', and later Latter-day Saint practice replaced the wine, so the first edition preserves the sacramental substance Paul assumes.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "6:7": [
+      {
+        "source": "Matthew 18:16",
+        "type": "allusion",
+        "subtype": "conceptual",
+        "confidence": "moderate",
+        "text": "But if he will not hear thee, then take with thee one or two more, that in the mouth of two or three witnesses every word may be established.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 2,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 3,
+          "attestation": 0
+        },
+        "kjvSpecific": "uncertain",
+        "mediation": "OT-via-NT",
+        "composite": [
+          "Deuteronomy 19:15",
+          "Matthew 18:17"
+        ],
+        "provenance": {
+          "route": "Deuteronomy 19:15 → Matthew 18:16-17 → KJV → Book of Mormon",
+          "other": "“two or three witnesses” occurs in exactly four KJV verses, all of them New Testament citations of Deuteronomy: Matthew 18:16, 2 Corinthians 13:1, 1 Timothy 5:19, Hebrews 10:28. The Deuteronomic original reads 'at the mouth of two witnesses, or at the mouth of three witnesses' (Deuteronomy 19:15; compare 17:6). Moroni has neither form — he has three witnesses flat, with no 'two or', which is why the mediation is argued from sequence rather than from wording. mediation-check.py against Deuteronomy 19:15 and Matthew 18:16 returns no decisive point in either direction.",
+          "significance": "Matthew 18:15-17 is the New Testament's only procedure for excluding a member, and its last step is the church: 'tell it unto the church: but if he neglect to hear the church, let him be unto thee as an heathen man and a publican.' Moroni's witnesses are 'three witnesses of the church', and what follows non-repentance is that the offender is 'not numbered among the people of Christ' — Matthew's heathen man, in Nephite bookkeeping."
+        },
+        "note": "The verse runs Matthew 18's procedure in Matthew 18's order: offence, witnesses, the church, and on refusal to repent, exclusion. Where it departs is instructive. Moroni requires three witnesses and not Matthew's 'two or three', which is a hardening of the rule and cannot come from any KJV verse — every biblical formulation admits two. And the witnesses in Moroni are officers of the church who condemn 'before the elders', where in Matthew they are companions brought along by the offended party. So this is the Matthean procedure administered by an institution that Matthew's text does not yet have. Catalogued as an allusion at moderate rather than high precisely because the wording will not carry it: the case is sequence and setting, and a reader who thinks any church devising a discipline would arrive at witnesses and elders has a fair objection. Mediation is called OT-via-NT because the witness rule is Deuteronomy's and every English form of it that Moroni could be following is a New Testament one.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      },
+      {
+        "source": "Revelation 3:5",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "text": "He that overcometh, the same shall be clothed in white raiment; and I will not blot out his name out of the book of life, but I will confess his name before my Father, and before his angels.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 4,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Exodus 32:33"
+        ],
+        "recurrenceRefs": [
+          "Mosiah 26:36",
+          "Alma 1:24",
+          "Alma 6:3"
+        ],
+        "provenance": {
+          "route": "Revelation 3:5 → KJV → Mosiah 26:36 → Moroni 6:7",
+          "other": "“blot out his name” occurs in exactly two KJV verses, Deuteronomy 29:20 and Revelation 3:5; only Revelation's is a register of members. Exodus 32:33 has 'him will I blot out of my book'. Inside the Book of Mormon 'their names were blotted out' occurs four times — Mosiah 26:36, Alma 1:24, Alma 6:3 and here — and the catalogue adjudicated Revelation 3:5 at Mosiah 26:36.",
+          "significance": "Revelation 3:5 is a promise, not a threat: the overcomer is the one whose name will *not* be blotted out. Moroni's church performs the operation the risen Christ promises to withhold, which makes the borrowing an unusually exact piece of metalepsis — the phrase carries its own negation with it, and the reader who recovers Revelation 3:5 is being told what the Nephite elders' act imitates and what it cannot do. The register of the church is not the book of life; the same verb governs both."
+        },
+        "note": "This verse and 6:4 are a pair, and the pair is the argument. At 6:4 'their names were taken, that they might be remembered'; at 6:7 'their names were blotted out'. A register in which names are written and struck is the book of life of Revelation 3:5 and Exodus 32:33 made administrative, and the Book of Mormon has run the formula that way since Mosiah 26:36 — where Alma's revelation produces the identical sentence, 'the same were not numbered among the people of the church, and their names were blotted out'. Moroni 6:7 reproduces that Nephite sentence almost exactly, changing 'the church' to 'Christ'. So the proximate model is internal and the KJV wording behind it is Revelation's; the schema has no mediation value for that route and direct-NT with the route field is standing in. Written as a link rather than a cross-reference because Moroni is a new book (ADJUDICATING §4).",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "6:8": [
+      {
+        "source": "Matthew 18:21",
+        "type": "echo",
+        "subtype": "conceptual",
+        "confidence": "moderate",
+        "text": "Then came Peter to him, and said, Lord, how oft shall my brother sin against me, and I forgive him? till seven times?",
+        "evidence": {
+          "vocabulary": 2,
+          "syntax": 2,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 3,
+          "attestation": 0
+        },
+        "kjvSpecific": "uncertain",
+        "mediation": "direct-NT",
+        "composite": [
+          "Matthew 18:22",
+          "Luke 17:4"
+        ],
+        "provenance": {
+          "route": "Matthew 18:21-22, with Luke 17:4 → KJV → Book of Mormon",
+          "other": "“how oft” occurs in exactly three KJV verses, Job 21:17, Psalm 78:40 and Matthew 18:21; only Matthew's is about repeated forgiveness. “seventy times seven” is a KJV singleton at Matthew 18:22. Luke 17:4 states the same rule with the repetition attached to the offender's repentance — 'seven times in a day turn again to thee, saying, I repent; thou shalt forgive him' — which is Moroni's construction, where the frequency belongs to the repenting and not to the forgiving.",
+          "significance": "Matthew 18:21 is Peter's question about the limit of forgiveness and it comes four verses after the discipline procedure of 18:15-17. Moroni 6:8 is the answer to the same question and it comes one verse after his discipline procedure. The suppressed half is the parable that follows in Matthew, the servant forgiven a debt who will not forgive one — a story about a man restored to a community he then fails."
+        },
+        "note": "The row rests on adjacency, not on wording, and it is written because the adjacency is exact. Moroni 6:7 runs the procedure of Matthew 18:15-17 (see the link at that verse); Moroni 6:8 then supplies the qualification that in Matthew comes at 18:21-22 — that there is no limit on how often a penitent may be received back. 'As oft as they repented … they were forgiven' is Luke 17:4's construction rather than Matthew's, with the frequency attached to the repentance; the two Synoptic forms are as close together here as they were at 6:1, where Matthew and Luke's versions of the Baptist's saying were conflated in one clause. That recurring habit within a single chapter is the strongest thing this row has. 'With real intent' is not from either Gospel — it is the Nephite phrase fixed at 2 Nephi 31:13 and used four times in Moroni's own pages.",
+        "whyNot": "There is no distinctive shared string: 'as oft as' is Pauline in the KJV, not Matthean, and 'how oft', 'seventy times seven' and 'trespass against thee' are all absent from Moroni 6:8. The case is entirely that Moroni's two verses stand in the order Matthew's two paragraphs stand in, and a chapter on church discipline would in any case have to say both things.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "6:9": [
+      {
+        "source": "1 Corinthians 14:15",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "What is it then? I will pray with the spirit, and I will pray with the understanding also: I will sing with the spirit, and I will sing with the understanding also.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "1 Corinthians 12:11",
+          "1 Corinthians 14:26",
+          "1 Corinthians 14:40"
+        ],
+        "provenance": {
+          "route": "1 Corinthians 12 and 14 → KJV → Book of Mormon",
+          "other": "“pray with the spirit” occurs in exactly one KJV verse and “sing with the spirit” occurs in exactly one KJV verse, both of them 1 Corinthians 14:15, which is the only verse in the Bible that pairs praying and singing as things done by the Spirit. “severally as he will” occurs in exactly one KJV verse, 1 Corinthians 12:11 ('all these worketh that one and the selfsame Spirit, dividing to every man severally as he will'); “diversities of operations” occurs in exactly one KJV verse, 1 Corinthians 12:6; “decently and in order” occurs in exactly one KJV verse, 1 Corinthians 14:40.",
+          "significance": "1 Corinthians 12-14 is the New Testament's only regulation of a meeting conducted by the Spirit rather than by an order of service, and 14:26 is its inventory — 'when ye come together, every one of you hath a psalm, hath a doctrine, hath a tongue, hath a revelation'. Moroni's five verbs are that inventory turned into verbs. The unstated correspondence is Paul's whole anxiety, that a meeting run by the Spirit will run to disorder, answered in 14:40 by 'let all things be done decently and in order' — which is the clause Moroni's closing 'even so it was done' rewrites into obedience. In Corinth the Spirit's freedom was a problem to be governed; in Moroni it is the government."
+        },
+        "note": "'For as the power of the Holy Ghost led them whether to preach, or exhort, or to pray, or to supplicate, or to sing, even so it was done.' Praying and singing are the two items Paul pairs at 14:15 as done 'with the spirit', and they are the two items in Moroni's list of five that the KJV supplies with the same qualification; exhorting is Romans 12:8's word ('he that exhorteth, on exhortation'), while preaching and supplication belong to neither list and are Moroni's own. The framing clause is 1 Corinthians 12's rather than 14's: 'after the manner of the workings of the spirit' answers 'diversities of operations' (12:6) and 'the power of the Holy Ghost led them … even so it was done' answers the Spirit 'dividing to every man severally as he will' (12:11). What Moroni does with the material is invert its purpose. Paul writes chapters 12 and 14 to *restrain* a spirit-led meeting; Moroni reports a spirit-led meeting as the Nephite norm, with the same vocabulary and none of the anxiety. Below Skousen's sixteen-word threshold and not among his thirty-six.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ]
+  }
+}

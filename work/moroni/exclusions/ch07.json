@@ -1,0 +1,122 @@
+[
+  {
+    "bomRef": "Moroni 7:2",
+    "source": "1 Thessalonians 3:11",
+    "category": "formulaic",
+    "sharedText": "Father, and our Lord Jesus Christ",
+    "streams": ["machine-ngram"],
+    "reason": "The chapter's highest-ranked candidate outside the charity block, on a six-word run, and it is the King James Bible's standing epistolary salutation. 'God the Father and our Lord Jesus Christ' or a close variant of it stands at the head of Romans, 1 and 2 Corinthians, Galatians, Ephesians, Philippians, Colossians, both Thessalonian letters and the Pastorals; that 1 Thessalonians 3:11 is the verse the machine happened to rank says nothing about it. 1 Thessalonians 3:11 is a prayer that God would direct Paul's travel, and Moroni 7:2 is a preacher accounting for his warrant to speak. The genuine borrowing in this verse is the pairing of gift with grace and gift with calling, and it is adjudicated here against Ephesians 3:7 with Romans 11:29 as composite."
+  },
+  {
+    "bomRef": "Moroni 7:3",
+    "source": "Psalm 113:2",
+    "category": "formulaic",
+    "sharedText": "the Lord from this time forth",
+    "streams": ["machine-ngram"],
+    "reason": "A six-word run and pure liturgical boilerplate. 'From this time forth' is the KJV's ordinary formula for an unbroken future, at Psalm 113:2, 115:18, 121:8 and Isaiah 9:7 among others, and the run only reaches six words because the Book of Mormon's preceding noun happens to be 'the Lord'. The 1830 in any case reads 'from this time hence forth', which is not the KJV's phrase and which 1920 closed up to 'henceforth'. The real borrowing in Moroni 7:3 is 'enter into the rest of the Lord', adjudicated at this verse against Hebrews 4:3."
+  },
+  {
+    "bomRef": "Moroni 7:3",
+    "source": "James 3:17",
+    "category": "insufficient-verbal",
+    "sharedText": "peaceable",
+    "streams": ["manual"],
+    "reason": "Written out because the chapter demonstrably uses James 3 eight verses later and a reader who notices that will come back to look for James here. Moroni 7:3-4 calls its hearers 'the peaceable followers of Christ' and commends 'your peaceable walk with the children of men'; James 3:17-18 has wisdom from above that is 'first pure, then peaceable', and the fruit of righteousness sown in peace. The wording will not bear it. 'Peaceable' occurs in eight KJV verses spread across both testaments and is an ordinary English adjective; nothing else of James 3:17's list — pure, gentle, easy to be intreated, without partiality, without hypocrisy — appears anywhere in Moroni 7, and no clause is shared. The catalogue's judgment is that James enters this chapter at 7:11 through the fountain of James 3:11-12 and at 7:12 through James 1:13-17, and not here."
+  },
+  {
+    "bomRef": "Moroni 7:9",
+    "source": "Mark 8:36",
+    "category": "formulaic",
+    "sharedText": "a man, if he shall",
+    "streams": ["machine-ngram"],
+    "reason": "A five-word run consisting of an article, a noun, a conjunction, a pronoun and a modal — connective tissue of the kind covered by the standing exclusion at 1 Nephi 1:5, and ranked here only because the Book of Mormon's conditional happens to fall in the same order. Mark 8:36 asks what a man gains by winning the world and losing his soul; Moroni 7:9 is about praying without real intent of heart. The clause that carries this verse is 'it profiteth him nothing', which is 1 Corinthians 13:3's and which is adjudicated at 7:6, where it first occurs."
+  },
+  {
+    "bomRef": "Moroni 7:12",
+    "source": "1 John 3:8",
+    "category": "better-source-identified",
+    "sharedText": "of the devil, for the devil",
+    "streams": ["machine-ngram"],
+    "reason": "The machine's top-ranked candidate for the verse, at rarity 2.50, and it is a real candidate rather than noise: 1 John 3:8 is about the devil as the origin of sin, which is exactly Moroni 7:12's proposition. It is displaced on two grounds. First, the run is an artifact — 'devil for the devil' is the end of one clause abutting the start of the next, and the same six words would be produced by any sentence that named the devil twice across a full stop, which is what both texts do. Second, the verse's actual vocabulary is James's, not John's: 'every good gift' is a KJV singleton at James 1:17 and 'enticed' in the sense of temptation is a KJV singleton at James 1:14, and Moroni 7:12-13 has both, together with James's structure of a good origin and an evil one. 1 John 3:8 says the Son was manifested to destroy the works of the devil, which is nowhere in Moroni 7:12. The link is adjudicated at this verse against James 1:17 with James 1:13-14 as composite; the second, wordless contact with Matthew 12:35 is recorded as a separate echo. Moroni 7:17's 'is of the devil' ranks the same verse again and is covered by this entry."
+  },
+  {
+    "bomRef": "Moroni 7:13",
+    "source": "Deuteronomy 11:13",
+    "category": "formulaic",
+    "sharedText": "God, and to serve him",
+    "streams": ["machine-ngram"],
+    "reason": "A five-word run made of the Shema's standing verbs. 'To love the LORD your God, and to serve him' is the Deuteronomic formula proper, recurring at Deuteronomy 10:12, 11:13, 13:4, 30:20 and Joshua 22:5, so the run cannot point at any one of them, and Moroni 7:13's 'to love God, and to serve him' is that formula with the divine name generalized. The verse's argument — that whatever invites to do good is inspired of God — is James's, and is adjudicated one verse earlier. Hebrews 13:16 ranks on the same verse and on 7:16 for 'to do good and to', which is four ordinary words, and is covered here."
+  },
+  {
+    "bomRef": "Moroni 7:15",
+    "source": "Matthew 13:11",
+    "category": "common-vocabulary",
+    "sharedText": "it is given unto you to",
+    "streams": ["machine-ngram"],
+    "reason": "A six-word run at rarity 2.50 and the highest-scoring candidate for the verse. The construction is the KJV's ordinary way of conferring a capacity — compare Matthew 19:11, Mark 4:11, Luke 8:10, Philippians 1:29 — and what follows it decides the source: Matthew has 'to know the mysteries of the kingdom of heaven', Moroni has 'to judge, that ye may know good from evil'. Nothing of the parable-theory context comes across, and Moroni 7:15's point is the opposite of Matthew 13:11's, since Matthew's saying is about a knowledge withheld from outsiders and Moroni's is about a faculty given to everyone, which he says outright at 7:16. The genuine source for that universality is 1 Corinthians 12:7, adjudicated at 7:16."
+  },
+  {
+    "bomRef": "Moroni 7:15",
+    "source": "Hebrews 5:14",
+    "category": "insufficient-verbal",
+    "sharedText": "(discerning good and evil)",
+    "streams": ["manual"],
+    "reason": "Recorded because this is where a reader looking for the New Testament's doctrine of discernment will expect the catalogue to go. Hebrews 5:14 describes those 'who by reason of use have their senses exercised to discern both good and evil', which is precisely the faculty Moroni 7:15-16 is teaching. There is no verbal contact at all: Hebrews has 'discern both good and evil' and Moroni has 'know good from evil', which occurs in no KJV verse in that form; Hebrews' figure is strong meat and full age, and Moroni's is daylight and dark night. The chapter's real contact with Hebrews is elsewhere and is substantial — 7:3 (Hebrews 4:3), 7:29 (Hebrews 1:14) and 7:39 (Hebrews 6:9) — which is a reason to be careful here rather than a reason to add another row."
+  },
+  {
+    "bomRef": "Moroni 7:33",
+    "source": "Matthew 17:20",
+    "category": "insufficient-verbal",
+    "sharedText": "(faith and the power to do)",
+    "streams": ["manual"],
+    "reason": "'If ye will have faith in me, ye shall have power to do whatsoever thing is expedient in me' is a promise about faith and capacity, and the natural biblical comparisons are Matthew 17:20's mustard seed ('nothing shall be impossible unto you') and Mark 9:23's 'all things are possible to him that believeth'. Neither shares a word beyond 'faith'. The Book of Mormon's own phrase is 'whatsoever thing is expedient', which has no KJV parallel in this sense — the KJV's 'expedient' is Paul's word for what is lawful but unprofitable, at 1 Corinthians 6:12 and 10:23, which is nearly the opposite use. Ether 12:30 has already taken Matthew 17:20 where the wording actually supports it, at a moved mountain; nothing licenses a second row here."
+  },
+  {
+    "bomRef": "Moroni 7:34",
+    "source": "Isaiah 45:22",
+    "category": "better-source-identified",
+    "sharedText": "all ye ends of the earth ... that ye may be saved",
+    "streams": ["manual"],
+    "reason": "A genuine parallel that the catalogue declines to adjudicate as a link at this verse, and the reason is a route the schema cannot currently express. Moroni 7:34 reads 'And he hath said, Repent all ye ends of the earth, and come unto me and be baptized in my name' — presented as a quotation of Christ, and it is one: 3 Nephi 27:20 reads 'Repent, all ye ends of the earth, and come unto me and be baptized in my name', and Ether 4:18 has the same sentence again. The proximate model is therefore an earlier Book of Mormon passage rather than the Bible, and the `mediation` enum has no value for a New Testament or prophetic source reached through an earlier Book of Mormon quotation ('OT-via-earlier-BoM' covers only Old Testament sources), while `source` must resolve to a KJV verse. Flagged for Wilson as a conventions gap rather than forced into an ill-fitting value. Behind that chain stands Isaiah 45:22, 'Look unto me, and be ye saved, all the ends of the earth' — the one KJV verse in which the ends of the earth are addressed vocatively and offered salvation — and the catalogue has already adjudicated that link where the wording is at its strongest, at 2 Nephi 33:10 and 3 Nephi 9:22. A reader who arrives at Moroni 7:34 looking for Isaiah should be sent to those two verses and to 3 Nephi 27:20."
+  },
+  {
+    "bomRef": "Moroni 7:38",
+    "source": "Acts 4:12",
+    "category": "better-source-identified",
+    "sharedText": "no man can be saved ... in his name",
+    "streams": ["manual"],
+    "reason": "'For no man can be saved, according to the words of Christ, save they shall have faith in his name' is the Book of Mormon's standing use of Acts 4:12, 'there is none other name under heaven given among men, whereby we must be saved'. It is displaced not by a better source but by a better verse: the catalogue has adjudicated Acts 4:12 at 2 Nephi 25:20, 2 Nephi 31:21, Mosiah 3:17, Mosiah 5:8 and Alma 38:9, where the exclusive-name construction is reproduced far more fully than it is here. Moroni 7:38 keeps only 'saved' and 'name' and replaces the exclusivity of the name with the necessity of faith in it, which is the chapter's subject and not Peter's. Recorded so that a reader who knows the formula is told where its links are."
+  },
+  {
+    "bomRef": "Moroni 7:41",
+    "source": "2 Thessalonians 1:12",
+    "category": "formulaic",
+    "sharedText": "in him according to the",
+    "streams": ["machine-ngram"],
+    "reason": "Five words of which four are function words. The Book of Mormon's clause is 'this because of your faith in him according to the promise'; 2 Thessalonians 1:12's is 'ye in him, according to the grace of our God'. Nothing but the preposition chain is shared, and it is a chain English requires. The genuine link at this verse is Philippians 3:10's 'the power of his resurrection', a KJV singleton, adjudicated here."
+  },
+  {
+    "bomRef": "Moroni 7:44",
+    "source": "1 John 2:22",
+    "category": "better-source-identified",
+    "sharedText": "that Jesus is the Christ",
+    "streams": ["machine-ngram"],
+    "reason": "A six-word run and a correct identification of the predicate: 'Jesus is the Christ' is Johannine, not Pauline, and 1 John 2:22 is where the machine found it. It is not displaced so much as absorbed — the accepted link at this verse is 1 Corinthians 12:3 with 1 John 2:22 and 1 John 4:2 as composite, because what Moroni 7:44 does is put John's predicate inside Paul's mechanism ('confesses by the power of the Holy Ghost'), and neither source alone accounts for the clause. Filed separately here because a reader looking at the machine's ranking will see 1 John 2:22 at the top and should be told that the catalogue agrees about the phrase and disagrees about the sentence. 1 John 2:22's own subject is the antichrist who denies the messiahship; Moroni 7:44's is the man who confesses it, and the mechanism of confession is Paul's."
+  },
+  {
+    "bomRef": "Moroni 7:47",
+    "source": "1 Corinthians 13:13",
+    "category": "better-source-identified",
+    "sharedText": "endureth for ever",
+    "streams": ["manual"],
+    "reason": "'Charity is the pure love of Christ, and it endureth forever' looks like 1 Corinthians 13:13's 'now abideth faith, hope, charity' and echoes 13:7's 'endureth all things' and 13:8's 'charity never faileth'. All three are adjudicated one verse earlier, at 7:46, where the wording is verbatim: CONVENTIONS §6a puts the link where the wording is, and 7:46 already carries 13:2, 13:8 and 13:13 as one composite. What is left at 7:47 is the Book of Mormon's own definition — 'the pure love of Christ' occurs in no KJV verse and in no other Book of Mormon verse — which is the chapter's single most quoted sentence and is not a borrowing. The link filed at 7:47 is the Ecclesiastes 8:12 crux in the 1830's 'it shall be well with them'."
+  },
+  {
+    "bomRef": "Moroni 7:48",
+    "source": "1 John 2:28",
+    "category": "better-source-identified",
+    "sharedText": "that, when he shall appear, we",
+    "streams": ["machine-ngram"],
+    "reason": "The machine ranked 1 John 2:28 second for this verse on a six-word run, and the run is real: 'when he shall appear' occurs in exactly two KJV verses, 1 John 2:28 and 1 John 3:2, and both continue with 'we'. It is displaced by 1 John 3:2 on length alone — eighteen consecutive words are reproduced there against six here — and by continuation: 1 John 2:28 goes on to 'we may have confidence, and not be ashamed before him at his coming', which is nowhere in Moroni 7:48, while 1 John 3:2 goes on to 'we shall be like him; for we shall see him as he is', which Moroni has word for word. The two verses are six apart in the same epistle and the Book of Mormon is quoting the later one; recorded because the shorter run is genuinely ambiguous in isolation and a reader should be told which way the catalogue resolved it."
+  }
+]

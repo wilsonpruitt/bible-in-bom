@@ -1,0 +1,200 @@
+{
+ "chapter": 2,
+ "adjudicated": "2026-09-07",
+ "adjudicator": "Opus",
+ "links": {
+  "2:1": [
+   {
+    "source": "Acts 19:6",
+    "type": "allusion",
+    "subtype": "close-verbal",
+    "confidence": "high",
+    "text": "And when Paul had laid his hands upon them, the Holy Ghost came on them; and they spake with tongues, and prophesied.",
+    "evidence": {
+     "vocabulary": 4,
+     "syntax": 4,
+     "sequence": 3,
+     "context": 5,
+     "rarity": 5,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "composite": [
+     "Acts 8:17"
+    ],
+    "recurrenceRefs": [
+     "3 Nephi 18:36",
+     "Moroni 3:2"
+    ],
+    "provenance": {
+     "route": "Acts 19:6 (with Acts 8:17) → KJV → Book of Mormon",
+     "other": "“laid his hands upon them” occurs in exactly one KJV verse, Acts 19:6, where Paul's hand-laying is immediately followed by the coming of the Holy Ghost. The nearest competitor, Mark 10:16, reads ‘put his hands upon them’ and blesses children. The plural form “laid their hands on” occurs in exactly four KJV verses, of which Acts 8:17 and Acts 6:6 are the ordinations.",
+     "significance": "The scene this verse summarises is 3 Nephi 18:36, and there Christ ‘touched with his hand the disciples whom he had chosen, one by one’. Moroni is not copying that sentence; he is retelling it in the King James Bible's technical vocabulary for the same act. Touching becomes laying on of hands — which is to say that between 3 Nephi and Moroni the gesture has become an ordinance, and the words it acquires on the way are Luke's words for what Paul did at Ephesus."
+    },
+    "note": "‘As he laid his hands upon them.’ Moroni's heading for the ordinance uses the KJV's one exact form of the phrase, and uses it where the earlier Book of Mormon account of the same moment (3 Nephi 18:36) had said ‘touched with his hand … one by one’. Acts 19:6 is the KJV verse where that gesture and the reception of the Holy Ghost stand in one sentence, which is the whole content of this chapter; Acts 8:17 supplies the plural form that Moroni 2:3 and Moroni 3:2 then use for the disciples doing it in turn. Below Skousen's sixteen-word threshold and not one of his thirty-six extended quotations.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "machine-ngram",
+     "manual"
+    ]
+   },
+   {
+    "source": "Acts 1:2",
+    "type": "echo",
+    "subtype": "probable",
+    "confidence": "moderate",
+    "text": "Until the day in which he was taken up, after that he through the Holy Ghost had given commandments unto the apostles whom he had chosen:",
+    "evidence": {
+     "vocabulary": 3,
+     "syntax": 3,
+     "sequence": 2,
+     "context": 5,
+     "rarity": 4,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "uncertain",
+    "composite": [
+     "Luke 6:13"
+    ],
+    "recurrenceRefs": [
+     "3 Nephi 18:36",
+     "3 Nephi 12:1"
+    ],
+    "provenance": {
+     "route": "Acts 1:2 → KJV → 3 Nephi 18:36 → Moroni 2:1, or Acts 1:2 → KJV → Moroni 2:1 directly; the two cannot be separated on the wording",
+     "other": "“whom he had chosen” occurs in exactly two KJV verses, Psalm 105:26 (Moses and Aaron) and Acts 1:2. Only Acts 1:2 has the twelve, and only Acts 1:2 joins them to the Holy Ghost and to commandments given after the resurrection. Note the enum limitation: the mediation vocabulary has `OT-via-earlier-BoM` but no value for a New Testament source reaching a verse through an earlier Book of Mormon passage, which is the shape of this case, so it is recorded as `uncertain` and the route is written out.",
+     "significance": "Acts 1:2 is Luke's one-sentence summary of exactly the situation Moroni is heading: a risen Christ, before departing, giving commandments through the Holy Ghost to the apostles whom he had chosen. Moroni 2 is that sentence unpacked into an ordinance."
+    },
+    "note": "‘The twelve whom he had chosen.’ The phrase is already at 3 Nephi 18:36 (‘the disciples whom he had chosen’), so this verse's proximate model may be the earlier Book of Mormon passage rather than the Bible — which is why the confidence is moderate and the mediation is left open. What makes it worth recording anyway is that the KJV has the phrase twice and one of the two, Acts 1:2, is the verse where the chosen ones are apostles, the giving is post-resurrection, and the Holy Ghost is the medium. Every element of Moroni 2:1 is in it. Luke 6:13 supplies the numeral: ‘of them he chose twelve, whom also he named apostles’, and Moroni 2:2 ends ‘for thus do mine apostles’.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "machine-ngram",
+     "manual"
+    ]
+   }
+  ],
+  "2:2": [
+   {
+    "source": "Acts 8:19",
+    "type": "allusion",
+    "subtype": "strong-verbal",
+    "confidence": "high",
+    "text": "Saying, Give me also this power, that on whomsoever I lay hands, he may receive the Holy Ghost.",
+    "evidence": {
+     "vocabulary": 4,
+     "syntax": 5,
+     "sequence": 5,
+     "context": 5,
+     "rarity": 5,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "composite": [
+     "Acts 8:17",
+     "Acts 8:18"
+    ],
+    "recurrenceRefs": [
+     "3 Nephi 18:37"
+    ],
+    "provenance": {
+     "route": "Acts 8:17-19 → KJV → Book of Mormon. The catalogue already reads 3 Nephi 18:37 on the same passage; Moroni 2:2 is verbally closer to Acts 8:19 than 3 Nephi 18:37 is, so it reaches the Bible on its own account rather than through the earlier Book of Mormon verse.",
+     "other": "“this power that on” occurs in exactly one KJV verse, Acts 8:19, and “he may receive the Holy Ghost” occurs in exactly one KJV verse, the same one. “the Holy Ghost was given” occurs in exactly one KJV verse, Acts 8:18, which also supplies ‘the apostles' hands’ for this verse's closing ‘for thus do mine apostles’. Acts 8:14-19 is the King James Bible's only passage that speaks of a power to confer the Holy Ghost by touch as something transferable.",
+     "significance": "Metalepsis of the uncomfortable kind. Recover the context of the one KJV verse that frames the power this way and the speaker is Simon Magus, and the next verse is ‘Thy money perish with thee, because thou hast thought that the gift of God may be purchased with money’. Moroni 2:2 takes Simon's sentence, inverts its direction — the disciples do not receive the Spirit by hands laid on them, they give it by hands they lay — and puts it in Christ's mouth as a grant, conditioned on prayer in the Father's name rather than on money. The words a sorcerer used to ask for the power are the words in which it is lawfully given."
+    },
+    "note": "‘Ye shall have power that on him whom ye shall lay your hands, ye shall give the Holy Ghost.’ Set beside Acts 8:19, ‘Give me also this power, that on whomsoever I lay hands, he may receive the Holy Ghost’: the same four-part frame in the same order — power, the ‘that on…’ relative, the laying of hands, the Holy Ghost — with the recipient and the agent exchanged. It is not a reproduced clause and is far below Skousen's sixteen-word threshold, but the frame is a KJV singleton and the substitutions are systematic rather than incidental. 3 Nephi 18:37 promised these words and withheld them (‘the multitude heard not the words which he spake… I will shew unto you hereafter that this record is true’); Moroni 2 is the promised delivery, and what arrives is Acts 8. Note the 1830 reading ‘that on him whom ye shall lay your hands’, where 1920 deletes ‘that’ and reads ‘on whom ye shall lay your hands’: the first edition keeps the ‘power … that on’ construction that is Acts 8:19's alone, and the later edition erases it.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "manual"
+    ]
+   },
+   {
+    "source": "John 16:23",
+    "type": "allusion",
+    "subtype": "close-verbal",
+    "confidence": "high",
+    "text": "And in that day ye shall ask me nothing. Verily, verily, I say unto you, Whatsoever ye shall ask the Father in my name, he will give it you.",
+    "evidence": {
+     "vocabulary": 4,
+     "syntax": 4,
+     "sequence": 4,
+     "context": 4,
+     "rarity": 4,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "composite": [
+     "John 15:16",
+     "1 Peter 1:17"
+    ],
+    "recurrenceRefs": [
+     "3 Nephi 18:19",
+     "3 Nephi 18:20",
+     "Moroni 3:2"
+    ],
+    "provenance": {
+     "route": "John 16:23 fused with 1 Peter 1:17 → KJV → Book of Mormon",
+     "other": "“the Father in my name” occurs in exactly two KJV verses, John 15:16 and John 16:23, both of them promises made to the twelve in the upper room. “call on the Father” occurs in exactly one KJV verse, 1 Peter 1:17. tools/mediation-check.py run on the three returns divergences pointing both ways — the Book of Mormon has 1 Peter's verb (‘call on’, not ‘ask’) and John's object and outcome (‘the Father in my name … give it’) — which is the tool's signature for a composite rather than a choice between candidates.",
+     "significance": "John 16:23 is the promise; Moroni 2:2 is its discharge. What is asked for in John is unspecified (‘whatsoever ye shall ask’) and what is given is unspecified (‘he will give it you’); here the pronoun acquires a referent — the thing asked for and given is the Holy Ghost — and the promise made to the twelve at the supper is executed by twelve other men on another continent."
+    },
+    "note": "‘Ye shall call on the Father in my name, in mighty prayer; … and in my name shall ye give it.’ Two KJV verses hold ‘the Father in my name’ and John 16:23 is the one that continues ‘he will give it you’ — so John supplies not only the prayer formula but the bare ‘give it’ that Moroni's clause repeats with the agency reversed: in John the Father gives it, here the disciples do, in the same name. The verb is not John's, though. ‘Ask’ has become ‘call on’, which in the KJV is joined to ‘the Father’ only at 1 Peter 1:17, and the two are fused into one clause. Compare 3 Nephi 18:19-20, which had already put John 16:23 into Christ's mouth in the Book of Mormon (‘whatsoever ye shall ask the Father in my name, which is right … it shall be given unto you’); the phrasing there is John's alone, and the 1 Peter verb enters only here.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "machine-ngram",
+     "manual"
+    ]
+   }
+  ],
+  "2:3": [
+   {
+    "source": "Acts 8:17",
+    "type": "allusion",
+    "subtype": "close-verbal",
+    "confidence": "high",
+    "text": "Then laid they their hands on them, and they received the Holy Ghost.",
+    "evidence": {
+     "vocabulary": 4,
+     "syntax": 4,
+     "sequence": 4,
+     "context": 5,
+     "rarity": 4,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "composite": [
+     "Acts 8:16",
+     "Acts 10:44",
+     "Acts 11:15"
+    ],
+    "recurrenceRefs": [
+     "3 Nephi 19:13",
+     "Moroni 3:2"
+    ],
+    "provenance": {
+     "route": "Acts 8:16-17, with the verb of Acts 10:44 / 11:15 → KJV → Book of Mormon",
+     "other": "“laid their hands on” occurs in exactly four KJV verses (Mark 14:46, Acts 5:18, Acts 6:6, Acts 13:3); “the Holy Ghost fell” occurs in exactly two, Acts 10:44 and Acts 11:15; “fallen upon none” occurs in exactly one, Acts 8:16. Acts 8:16-17 is the only KJV place where the falling and the hand-laying belong to one narrative — ‘as yet he was fallen upon none of them … then laid they their hands on them, and they received the Holy Ghost’ — which is exactly the pair Moroni's clause holds. Acts 10:44 also shares ‘spake these words’ and the hearing: “spake these words” occurs in exactly four KJV verses.",
+     "significance": "Acts 8 and Acts 10 are the New Testament's two test cases for how the Spirit arrives, and they disagree: at Samaria it will not come until apostolic hands are laid on, at Caesarea it falls on the hearers with no hands at all and settles the question of the Gentiles. Moroni 2:3 writes the sentence in Acts 10's grammar — the Spirit is the subject and it falls — and gives it Acts 8's condition, hands. The verse resolves in one clause a tension the KJV leaves standing across two chapters."
+    },
+    "note": "‘And on as many as they laid their hands, fell the Holy Ghost.’ The inverted order, with the Holy Ghost after its verb, is the tell: the KJV writes ‘the Holy Ghost fell on’ twice, both in the Cornelius material, and writes the hand-laying that produces the Spirit at Acts 8:17. This clause has both, and it is the only new material in the verse — the rest of Moroni 2:3 restates 3 Nephi 18:36-37 almost phrase for phrase (‘the multitude heard not the words which he spake’ becomes ‘the multitude heard it not, but the disciples heard it’), so the Book of Mormon's own account supplies the frame and Acts supplies the sentence Moroni adds to it. The report-form and the reversed word order together make this a report of the ordinance working, on the model of the KJV's own reports.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "manual"
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,74 @@
+[
+  {
+    "bomRef": "Moroni 3:1",
+    "source": "James 5:14",
+    "category": "better-source-identified",
+    "sharedText": "the elders of the church",
+    "streams": ["machine-ngram"],
+    "reason": "James 5:14 is one of only two KJV verses containing 'the elders of the church' and so it is a real candidate, not noise. It is displaced by Acts 20:17 on two grounds. First, the longer run: Moroni 3:1 reads 'which were called the Elders of the church', and 'called the elders of the church' is a KJV singleton at Acts 20:17, whereas James has 'call for the elders of the church' — the preposition breaks the run. Second, sense: James 5:14 summons elders to anoint a sick man with oil, and Moroni 3 is an ordination rubric with no illness, no oil and no anointing in it. The link is adjudicated at this verse against Acts 20:17."
+  },
+  {
+    "bomRef": "Moroni 3:1",
+    "source": "Acts 9:19",
+    "category": "formulaic",
+    "sharedText": "the disciples which were",
+    "streams": ["machine-ngram"],
+    "reason": "'The disciples which were' is a KJV singleton, which is why it ranked, and the rarity is arithmetic — the KJV writes 'the disciples' constantly and simply had occasion to follow it with 'which were at Damascus' once. Acts 9:19 is Saul's convalescence after his blindness; Moroni 3:1 is a rubric heading. The relative pronoun is also the 1830's own habit, and the 1920 edition changed it here to 'who', which is a fact about Book of Mormon editing rather than about Acts."
+  },
+  {
+    "bomRef": "Moroni 3:1",
+    "source": "Ephesians 4:11",
+    "category": "insufficient-verbal",
+    "sharedText": "(teachers among the church's offices)",
+    "streams": ["manual"],
+    "reason": "Written out because this is where a reader will expect the catalogue to go and it declined. Ephesians 4:11 is the New Testament's list of the offices Christ gave the church, and Moroni 3 is a Nephite list of offices, so the expectation is strong. The wording will not bear it. Ephesians names apostles, prophets, evangelists, pastors and teachers; Moroni names priests and teachers, and 'priests and teachers' occurs in no KJV verse at all. Only the single word 'teachers' is shared, and the pair is in any case Nephite from 2 Nephi 5:26 and Mosiah onward, several hundred pages before this chapter. What Moroni 3 does borrow from the Pauline offices it borrows at 3:1 through Acts 20:17's 'elders of the church', not here."
+  },
+  {
+    "bomRef": "Moroni 3:2",
+    "source": "2 Chronicles 29:23",
+    "category": "wrong-sense",
+    "sharedText": "laid their hands upon them",
+    "streams": ["machine-ngram"],
+    "reason": "The model case for this chapter, and the machine's top-ranked candidate for the verse. 'Laid their hands upon them' is a KJV singleton at 2 Chronicles 29:23 and Moroni 3:2 reproduces all five words including the preposition, where the source adopted instead — Acts 6:6 — reads 'on them'. On string evidence alone the Chronicler wins outright. The sense is not merely different but opposed in the one respect that matters to a rite: in 2 Chronicles 29:23 the hands are laid on he goats brought for a sin offering, by a king and a congregation transferring guilt onto animals about to be killed. In Moroni 3:2 hands are laid on men, by officers of a church, conferring an office and the Holy Ghost. One gesture discharges guilt onto a victim; the other confers authority on a successor. Acts 6:6 supplies what actually identifies the verse — the subordination of prayer to the laying on of hands, in that order, which mediation-check.py returns as the single decisive divergence against Numbers 8:10 and which 2 Chronicles 29 does not have. The preposition remains unexplained and is flagged in the accepted link's note rather than argued away: it is possible that the sentence carries one word of the Levitical rite inside a clause built on the apostolic one."
+  },
+  {
+    "bomRef": "Moroni 3:3",
+    "source": "Acts 2:38",
+    "category": "better-source-identified",
+    "sharedText": "in the name of Jesus Christ ... remission of sins",
+    "streams": ["machine-ngram"],
+    "reason": "A genuine double contact: Acts 2:38 shares both 'in the name of Jesus Christ' (three KJV verses) and 'remission of sins' (seven KJV verses) with Moroni 3:3, and it is the highest-ranked candidate that touches the verse twice. It is displaced by Luke 24:47, which has the run neither of those phrases has on its own: 'repentance and remission of sins' is a KJV singleton at Luke 24:47, and Moroni's clause is 'to preach repentance and remission of sins'. Context decides the same way. Acts 2:38 is a baptismal instruction — repent, be baptised, receive the gift; Moroni 3:3 is an ordination charge, and what the ordinand is charged to do is preach, which is the verb of Luke 24:47. The link is adjudicated at this verse against Luke 24:47."
+  },
+  {
+    "bomRef": "Moroni 3:3",
+    "source": "Judges 18:19",
+    "category": "common-vocabulary",
+    "sharedText": "to be a priest",
+    "streams": ["machine-ngram"],
+    "reason": "'To be a priest' is a KJV singleton at Judges 18:19 and it is four ordinary words in the order English requires. The verse is the Danites' recruitment of Micah's household Levite to serve their stolen images, which is the Old Testament's least creditable ordination and shares nothing with Moroni 3:3 but the noun. Judges 6:31, Leviticus 25:49 and Exodus 21:16 rank on this verse for 'or if he be' and are pure connective tissue covered by the standing exclusion at 1 Nephi 1:5."
+  },
+  {
+    "bomRef": "Moroni 3:4",
+    "source": "Romans 15:13",
+    "category": "common-vocabulary",
+    "sharedText": "the power of the Holy Ghost",
+    "streams": ["machine-ngram"],
+    "reason": "'The power of the Holy Ghost' is a KJV singleton at Romans 15:13, and this is a case where the singleton is worthless as evidence because the receiving text owns the phrase. 'Power of the Holy Ghost' occurs in twenty-two Book of Mormon verses — 1 Nephi 10:17 and 10:19, 1 Nephi 13:37, 2 Nephi 26:13, 28:31, 32:3 and 33:1, Jacob 7:12-13, 3 Nephi 21:2, Alma 7:10 and the rest — spread across every major writer in the book. It is a house formula, and a formula used twenty-two times cannot be a borrowing from the one KJV verse that shares it. Romans 15:19 and Daniel 12:7 rank on the same verse for the shorter 'the power of the' and are covered by the same reasoning. This entry covers the phrase wherever it recurs in Moroni."
+  },
+  {
+    "bomRef": "Moroni 3:4",
+    "source": "Genesis 39:19",
+    "category": "formulaic",
+    "sharedText": "after this manner did",
+    "streams": ["machine-ngram"],
+    "reason": "A KJV singleton and pure narrative boilerplate. Genesis 39:19 is Potiphar's wife reporting the assault she invented; Moroni 3:4 is a summary formula closing a rubric. The Book of Mormon uses the construction independently at Jarom 1:11, and Moroni's chapters 2 through 6 each close with a variation of 'after this manner', which is the shape of the appendix, not a borrowing."
+  },
+  {
+    "bomRef": "Moroni 3:4",
+    "source": "1 Peter 1:11",
+    "category": "formulaic",
+    "sharedText": "which was in them",
+    "streams": ["machine-ngram"],
+    "reason": "'Which was in them' is a KJV singleton at 1 Peter 1:11, where it is a relative clause attached to 'the Spirit of Christ' in an argument about what the prophets foresaw of the sufferings and the glory. In Moroni 3:4 the same four words attach to 'the power of the Holy Ghost'. The resemblance is that both are relative clauses locating a divine agency inside people, which is what such a clause is for; there is no shared content word, since 'Spirit of Christ' and 'Holy Ghost' are different phrases. Noted rather than passed over in silence because the antecedents are close enough in kind that a reader might take the singleton for evidence. The pastoral-epistle version of the same construction, 2 Timothy 1:6's 'which is in thee', is treated instead in the low-confidence figural link filed at this verse."
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "bomRef": "Moroni 6:2",
+    "source": "Isaiah 66:2",
+    "category": "better-source-identified",
+    "sharedText": "a contrite spirit and",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "A four-word run and the joint top-scoring candidate in the chapter, and it loses to Psalm 34:18 on a decisive test. “a contrite spirit” occurs in exactly two KJV verses, Psalm 34:18 and Isaiah 66:2, but “a broken heart” occurs in exactly one, Psalm 34:18 — which is the only verse in the King James Bible that pairs the two nouns in Moroni's order and in Moroni's grammar. mediation-check.py against Isaiah 66:2 returns one decisive point on the surviving backbone and it goes to the Psalm: where Isaiah has 'poor', Psalm 34:18 has 'nigh unto them that are of a broken heart', and Moroni has the broken heart. Isaiah 66:2 also has 'trembleth at my word', which Moroni does not, and lacks the sacrificial framing that 3 Nephi 9:20 gives the Nephite formula. The link is at Moroni 6:2 on Psalm 34:18."
+  },
+  {
+    "bomRef": "Moroni 6:3",
+    "source": "2 Timothy 2:19",
+    "category": "better-source-identified",
+    "sharedText": "the name of Christ",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "“the name of Christ” occurs in exactly two KJV verses, 2 Timothy 2:19 and 1 Peter 4:14, which is why both ranked. Neither is the source, and the construction is the reason. Paul's man 'nameth the name of Christ'; Peter's is 'reproached for the name of Christ'; Moroni's converts 'took upon them the name of Christ', and 'take upon' is barely a King James construction at all — “take upon” occurs in exactly one KJV verse, 2 Corinthians 8:4, where what is taken upon oneself is 'the fellowship of the ministering to the saints' and not a name. It is the Book of Mormon's own covenant formula, fixed at Mosiah 5:8-12 where Benjamin's people are told they 'shall be called the children of Christ' and are covenanted by the name, and repeated at Alma 46:21, 4 Nephi 1:20 and — three chapters before this one — in the sacrament prayer at Moroni 4:3, 'that they are willing to take upon them the name of thy Son'. Moroni 6:3 is quoting his own baptismal liturgy, not an epistle. This entry covers 1 Peter 4:14 at the same verse."
+  },
+  {
+    "bomRef": "Moroni 6:3",
+    "source": "Matthew 24:13",
+    "category": "insufficient-verbal",
+    "sharedText": "unto the end",
+    "streams": [
+      "manual"
+    ],
+    "reason": "Written because a reader will supply it. 'Having a determination to serve him unto the end' looks like the endurance saying, and “endure unto the end” occurs in exactly two KJV verses, Matthew 24:13 and Mark 13:13 (with Matthew 10:22 reading 'endureth to the end'). But Moroni's verb is 'serve', not 'endure', and “unto the end” by itself occurs in twenty-two KJV verses, most of them temporal boundaries with no perseverance in them. The Nephite phrase for this is 'endure to the end' and Moroni uses it elsewhere (Moroni 3:3, 'by the endurance of faith on his name to the end'); here he does not. Nothing distinctive is shared. The 1830 reads 'unto the end' where 1920 reads 'to the end', which moves the phrase toward the KJV rather than away from it, and is worth noting for a later sweep — but a preposition is not a link."
+  },
+  {
+    "bomRef": "Moroni 6:4",
+    "source": "Romans 15:13",
+    "category": "better-source-identified",
+    "sharedText": "the power of the Holy Ghost",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "A six-word run, and “power of the Holy Ghost” is a KJV singleton at Romans 15:13 — on the face of it the strongest rarity in the chapter, and it appears twice in Moroni 6 (6:4 and 6:9). It is nonetheless not adjudicable here. The phrase is one of the Book of Mormon's most pervasive formulae: it occurs twenty-two times, from 1 Nephi 10:17 onward, and eight of those are in Moroni's own books. By the rule at ADJUDICATING §4 a formula is adjudicated at first use, and its first use is 1 Nephi 10:17, four books and six hundred years of narrated time before this verse. Romans 15:13 has nothing else in common with either Moroni verse — it is a benediction about abounding in hope — so what would be catalogued is the bare phrase, and the bare phrase belongs to whoever adjudicates 1 Nephi 10. FLAGGED AS A COVERAGE GAP: the catalogue currently has no link on Romans 15:13 anywhere, so a KJV singleton reproduced twenty-two times in the Book of Mormon is at present unrecorded. That is a decision for the corpus, not for this chapter."
+  },
+  {
+    "bomRef": "Moroni 6:4",
+    "source": "Genesis 24:48",
+    "category": "common-vocabulary",
+    "sharedText": "in the right way",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "The top-scoring candidate at this verse by n-gram rarity, with a five-word run, and it is worth nothing. “the right way” occurs in four KJV verses — Genesis 24:48 (Abraham's servant led to Rebekah), 1 Samuel 12:23, Psalm 107:7 and 2 Peter 2:15 — and none of them is about keeping a congregation in it. Genesis 24:48 ranked because 'in the right way' and 'the right way to' both matched a window; the next word in Genesis is 'to take my master's brother's daughter unto his son', which is the trap ADJUDICATING §4 names, the window closing one word early. Psalm 107:7 ('he led them forth by the right way') is the nearest in sense and shares nothing distinctive either. This entry also covers Proverbs 4:21 ('keep them in the'), Acts 4:13 ('that they had been'), Matthew 27:31 and 2 Chronicles 23:21 ('after that they had') at the same verse, all pure connective tissue."
+  },
+  {
+    "bomRef": "Moroni 6:5",
+    "source": "1 Corinthians 7:5",
+    "category": "wrong-sense",
+    "sharedText": "fasting and prayer",
+    "streams": [
+      "manual"
+    ],
+    "reason": "Not in the machine's list; raised by hand because “fasting and prayer” is a KJV singleton and Moroni 6:5 says the church met 'to fast and to pray'. The singleton is a coincidence of subject and the sense is opposed at the point that matters. 1 Corinthians 7:5 is about married couples abstaining from each other 'for a time, that ye may give yourselves to fasting and prayer; and come together again, that Satan tempt you not' — the fasting is private, temporary, and a concession, and Paul's 'come together' means the opposite of an assembly. Moroni's church fasts and prays in public and habitually. The nearest genuine KJV settings are the corporate ones, Acts 13:3 ('when they had fasted and prayed') and Acts 14:23 ('prayed with fasting'), and neither shares a distinctive run; Acts 14:23 already stands in this book's apparatus at Moroni 3:2. See the Acts 2:42 link at Moroni 6:5 for what the catalogue does propose here."
+  },
+  {
+    "bomRef": "Moroni 6:7",
+    "source": "Numbers 26:62",
+    "category": "wrong-sense",
+    "sharedText": "they were not numbered among the",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "The longest run in the chapter — six words, three overlapping windows, and the highest-scoring candidate the machine produced for Moroni 6. It is a wrong-sense match of the purest kind, and it fails twice over. First the sense. Numbers 26:62 and its companions (Numbers 1:47, 2:33) record that the Levites 'were not numbered among the children of Israel', and in Numbers that exclusion is a privilege: the Levites are left out of the military census because they have no inheritance to defend and are set apart for the tabernacle. Moroni 6:7's exclusion is excommunication — the offender is unrepentant, unconfessed, his name struck out, and he is put outside the people. One census omits the holiest tribe in Israel; the other expels the unrepentant. Second, and decisively, the phrase is not borrowed from Numbers at all: it is the Nephite disciplinary formula, and it arrives complete at Mosiah 26:36 — 'the same were not numbered among the people of the church, and their names were blotted out' — which is Moroni 6:7's sentence with one noun changed. Moroni is reproducing Alma's rule, not Moses' census. The links at Moroni 6:7 are Matthew 18:16 and Revelation 3:5."
+  },
+  {
+    "bomRef": "Moroni 6:7",
+    "source": "1 Timothy 5:19",
+    "category": "wrong-sense",
+    "sharedText": "before two or three witnesses",
+    "streams": [
+      "manual"
+    ],
+    "reason": "Raised by hand and genuinely tempting, because it is the only verse in the Bible that puts witnesses, elders and a formal accusation in one sentence — 'Against an elder receive not an accusation, but before two or three witnesses' — and Moroni 6:7 has 'three witnesses of the church did condemn them before the elders'. Even the preposition matches. The roles are nonetheless inverted at every position. In 1 Timothy the elder is the accused and the witness requirement exists to protect him from being charged lightly; in Moroni the elders are the tribunal and the witness requirement exists to convict a lay member before them. Paul's rule shields the officer from the congregation; Moroni's arms the officers against the offender. Moroni also has three witnesses flat where every biblical formulation admits two, which no KJV verse could have given him. The Matthew 18:15-17 sequence, which Moroni 6:7-8 follows step for step, accounts for the setting without the inversion, and the link is filed there. This entry also covers 2 Corinthians 13:1 and Hebrews 10:28 at the same verse."
+  },
+  {
+    "bomRef": "Moroni 6:7",
+    "source": "1 Corinthians 12:25",
+    "category": "formulaic",
+    "sharedText": "that there should be no",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "A five-word run of connective tissue and nothing else. 1 Corinthians 12:25 is 'that there should be no schism in the body'; Moroni 6:7 is 'that there should be no iniquity among them'. The subordinating formula is shared and the object is not, and the KJV writes it constantly — Ezra 9:14, which ranked alongside it here, has 'so that there should be no remnant nor escaping'. Covered in principle by the standing exclusion at 1 Nephi 1:5 and listed only because the Corinthian verse sits in a chapter this adjudication does draw on at Moroni 6:9, so a reader could reasonably wonder whether the catalogue saw it."
+  },
+  {
+    "bomRef": "Moroni 6:9",
+    "source": "Daniel 12:7",
+    "category": "wrong-sense",
+    "sharedText": "power of the holy",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "Ranked twice in this chapter, at 6:4 and 6:9, and it is a window that closes one word early — the trap ADJUDICATING §4 names. Daniel 12:7's phrase is 'to scatter the power of the holy people', where 'holy' modifies 'people' and the power in question is Israel's, being broken. Moroni's is 'the power of the Holy Ghost'. The words are the same and the grammar makes them different words. Nothing else of Daniel 12 is present. On the genuine KJV background of 'the power of the Holy Ghost', see the Romans 15:13 entry at Moroni 6:4."
+  }
+]

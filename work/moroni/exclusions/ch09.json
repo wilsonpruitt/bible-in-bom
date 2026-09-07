@@ -1,0 +1,90 @@
+[
+  {
+    "bomRef": "Moroni 9:2",
+    "source": "Jeremiah 1:18",
+    "category": "formulaic",
+    "sharedText": "for behold i have",
+    "streams": ["machine-ngram"],
+    "reason": "The chapter's opening machine proposal and pure connective boilerplate. 'For behold' is the Book of Mormon's commonest sentence-opener and Jeremiah 1:18 is God commissioning a prophet as a defenced city and brasen walls; Moroni 9:2 is a battle report naming three dead men. There is no shared content word. Filed only because it heads the dossier for this verse and a reader scanning the register should be told it was seen."
+  },
+  {
+    "bomRef": "Moroni 9:6",
+    "source": "Esther 9:24",
+    "category": "better-source-identified",
+    "sharedText": "the enemy of all",
+    "streams": ["machine-ngram"],
+    "reason": "A four-word run and 'the enemy of all' is in fact a KJV singleton at Esther 9:24 — but the fifth word decides it. Esther has 'the enemy of all the Jews', of Haman; Moroni 9:6 has 'the enemy of all righteousness', which is the KJV singleton at Acts 13:10 and by this point the Book of Mormon's standing title for the devil. The link is written at this verse to Acts 13:10. This is the trap ADJUDICATING §4 names — the window closing one word early — in its cleanest form: both candidates are singletons, and only reading the whole verse separates them."
+  },
+  {
+    "bomRef": "Moroni 9:6",
+    "source": "Matthew 11:29",
+    "category": "better-source-identified",
+    "sharedText": "rest our souls",
+    "streams": ["manual"],
+    "reason": "'Rest our souls in the kingdom of God' reaches for the KJV's rest-for-the-soul formula, which is a genuine link and is adjudicated elsewhere: Matthew 11:29 at Moroni 7:43 in this same book, and at Alma 37:34 where the Book of Mormon reproduces the whole Matthean clause ('meek and lowly in heart: for such shall find rest to their souls'). Moroni 9:6 has neither the meekness half nor either KJV preposition — Matthew's 'unto your souls', Jeremiah 6:16's 'for your souls' — and restructures the possessive to 'our'. mediation-check.py on Jeremiah 6:16 against Matthew 11:29 returned one 'decisive' point for Matthew, and it is worthless: the point is an absence, that Moroni does not reproduce Jeremiah's closing clause, which no reader would expect it to. Within one book a reader meets Moroni 7:43 first; this verse is sent there rather than given a second row."
+  },
+  {
+    "bomRef": "Moroni 9:9",
+    "source": "Judges 19:25",
+    "category": "insufficient-verbal",
+    "sharedText": "(the rape at Gibeah and the war that followed)",
+    "streams": ["manual"],
+    "reason": "The typological pull here is as strong as anywhere in the Book of Mormon and the wording will not carry it — the Exodus 2:2 'goodly' entry in 1 Nephi is the model for this kind of refusal. Judges 19-21 is scripture's one narrative in which the rape and death of a woman becomes the occasion of a nation's civil war and the near-extinction of one of its own tribes; Moroni 9:9-10 has the rape, torture and murder of captive women by the writer's own people, in a chapter whose subject is that people's extinction. Judges 19:30's 'there was no such deed done nor seen from the day that the children of Israel came up out of the land of Egypt' even stands in the same relation to its atrocity as Moroni 9:19's 'tongue cannot tell, neither can it be written' does to this one. But there is not a single distinctive shared word between the passages: Judges narrates, Moroni summarises, and the vocabulary of 9:9 ('chastity and virtue', 'most dear and precious above all things') is the Book of Mormon's own and has no KJV background — 'dear and precious' occurs in no KJV verse. Recorded so that a reader who sees the type is told the catalogue saw it and declined to catalogue it as dependence."
+  },
+  {
+    "bomRef": "Moroni 9:10",
+    "source": "Matthew 19:8",
+    "category": "better-source-identified",
+    "sharedText": "because of the hardness of",
+    "streams": ["machine-ngram"],
+    "reason": "The machine ranked Matthew 19:8 and Mark 3:5 equally at this verse and the pronoun decides between them. Matthew has 'the hardness of your hearts', spoken to Pharisees about themselves; Mark 3:5 has 'the hardness of their hearts', narrated of a third party. Moroni 9:10 is narration about a third party and takes Mark's form, as the Book of Mormon does consistently. mediation-check.py deliberately ignores single common words, so the pronoun had to be caught by eye (ADJUDICATING §4). The link is written at this verse to Mark 3:5."
+  },
+  {
+    "bomRef": "Moroni 9:10",
+    "source": "Genesis 9:13",
+    "category": "wrong-sense",
+    "sharedText": "for a token of",
+    "streams": ["machine-ngram"],
+    "reason": "A four-word run whose senses are as far apart as the register contains. 'For a token of' occurs in four KJV verses and every one of them is a sign of covenant or of divine mercy: the bow in the cloud (Genesis 9:13), the blood on the doorposts (Exodus 12:13), the frontlets of the Exodus (Exodus 13:16), Aaron's rod kept against the rebels (Numbers 17:10). Moroni 9:10's token is cannibalism performed 'for a token of bravery' — a sign given by men to other men, of courage, over a corpse. Nothing of the KJV's covenantal sense survives, and the phrase itself is ordinary English. Had one of the four verses been a token of atrocity this would be a link; none is."
+  },
+  {
+    "bomRef": "Moroni 9:15",
+    "source": "Deuteronomy 28:31",
+    "category": "wrong-sense",
+    "sharedText": "from before thy face",
+    "streams": ["machine-ngram"],
+    "reason": "An exact four-word match and a KJV singleton, which is the strongest kind of evidence this project has — and it is worth nothing here. Deuteronomy 28:31 is the covenant curse on livestock: 'thine ass shall be violently taken away from before thy face, and shall not be restored to thee'. 'Thy face' there is the owner's, and the phrase means in his sight, helplessly. Moroni 9:15's 'thy face' is God's, addressed in prayer, and the request is that sins be put out of it. The chapter-level temptation is real and should be named: Deuteronomy 28 is demonstrably in view four verses earlier, since 28:53-57 is a principal member of the cannibalism cluster behind Moroni 9:8, so a reader could argue that the writer's mind was in that chapter and the phrase came with it. But a shared preposition string in an unrelated clause is not evidence of that, and the singleton is an accident of how rarely the KJV needs the words. Psalm 51:9 is written at this verse instead, at low confidence."
+  },
+  {
+    "bomRef": "Moroni 9:18",
+    "source": "1 Kings 3:7",
+    "category": "insufficient-verbal",
+    "sharedText": "i am but a",
+    "streams": ["machine-ngram"],
+    "reason": "'I am but a' is a KJV singleton and the shape of the two sentences genuinely rhymes: a ruler confesses to God that he lacks what governing requires. Solomon says 'I am but a little child: I know not how to go out or come in'; Mormon says 'I am but a man, and I have but the strength of a man, and I cannot any longer enforce my commands.' But the fifth word is the whole content in each case, and they are opposites — Solomon's inadequacy is youth and inexperience, and the passage is a prayer answered with wisdom; Mormon's is the finite strength of an adult commander at the end of an army, and nothing answers it. 'Strength of a man' occurs in no KJV verse, and neither does 'cannot any longer'. Three function words in common is not a link, and the resemblance is of situation, which the catalogue does not catalogue by itself."
+  },
+  {
+    "bomRef": "Moroni 9:19",
+    "source": "Ezekiel 34:6",
+    "category": "better-source-identified",
+    "sharedText": "upon all the face of",
+    "streams": ["machine-ngram"],
+    "reason": "A five-word run and a KJV singleton, and it is the Book of Mormon's own standing formula rather than a fresh borrowing at this verse. 'Scattered upon all the face of the earth' is one of the phrases ADJUDICATING §4 names as adopted narrative furniture; Moroni 9:19 uses it of suffering rather than scattering ('the sufferings of our women and our children upon all the face of this land'), and 'this land' for 'the earth' is the corpus's own substitution. The borrowing is adjudicated at its first use; this occurrence is the writer using his inherited formula."
+  },
+  {
+    "bomRef": "Moroni 9:22",
+    "source": "2 Corinthians 5:11",
+    "category": "formulaic",
+    "sharedText": "unto god and i trust",
+    "streams": ["machine-ngram"],
+    "reason": "The chapter's second-highest scoring candidate and an artifact of English word order. The run only exists because 'made manifest unto God; and I trust also' in Paul happens to abut the same five words that 'I recommend thee unto God, and I trust in Christ' produces in Mormon, across a semicolon in one case and a comma in the other. Paul is defending the transparency of his ministry to the Corinthians; Mormon is committing his son to God before a battle. Nothing of 2 Corinthians 5 is present. The real link at 9:21-22 is the verb 'recommend', which the machine could not see because the Acts formula it belongs to is split across six Book of Mormon verses."
+  },
+  {
+    "bomRef": "Moroni 9:25",
+    "source": "John 20:20",
+    "category": "better-source-identified",
+    "sharedText": "the shewing his body",
+    "streams": ["manual"],
+    "reason": "The 1830 spelling 'shewing' is the KJV's and 1920 modernized it to 'showing', which is exactly the kind of evidence CONVENTIONS §8 asks to be flagged — and the referent is not a KJV verse. 'The shewing his body unto our fathers' points at 3 Nephi 11:14-15, where the risen Christ invites the Nephite multitude to thrust their hands into his side and feel the prints of the nails, which is the Book of Mormon's own reworking of John 20:20 and 20:27. The route to John therefore runs through 3 Nephi, and the link belongs there rather than here; Moroni 9:25 is Mormon reminding his son of an event in his own record. Noted so the orthographic evidence is not lost with the reference."
+  }
+]

@@ -1,0 +1,589 @@
+{
+  "chapter": 9,
+  "adjudicated": "2026-09-07",
+  "adjudicator": "Opus",
+  "links": {
+    "9:1": [
+      {
+        "source": "Deuteronomy 31:27",
+        "type": "allusion",
+        "subtype": "possible",
+        "confidence": "moderate",
+        "text": "For I know thy rebellion, and thy stiff neck: behold, while I am yet alive with you this day, ye have been rebellious against the LORD; and how much more after my death?",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 2,
+          "sequence": 2,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "provenance": {
+          "route": "Deuteronomy 31:27 → KJV → Book of Mormon",
+          "other": "“I am yet alive” occurs in exactly one KJV verse, Deuteronomy 31:27. The near neighbours are all interrogative or third-person — 'Is your father yet alive?' (Genesis 43:27), 'while the child was yet alive' (2 Samuel 12:21) — and none of them is a man saying it of himself.",
+          "significance": "Recover the context and the KJV's one first-person 'I am yet alive' is Moses, at the end of his life, handing over a written record and telling Israel that they rebel while he is with them and will be worse when he is gone: 'I know that after my death ye will utterly corrupt yourselves' (31:29). Moroni 9 is that verse's contents. Mormon writes 'that ye may know that I am yet alive', hands the sacred records to his son (9:24), forecasts the people's 'utter destruction' (9:22), and the twenty-four verses in between are the corruption Moses predicted for after his own death. The borrowing, if it is one, puts Mormon in Moses' chair at exactly the moment the succession is being made."
+        },
+        "note": "'I write unto you again, that ye may know that I am yet alive.' The phrase is a KJV singleton and its one occurrence is the Deuteronomic farewell — a dying leader's last written charge, whose subject is the people's corruption after his death. Mormon's letter is that same document: written, valedictory, and about the corruption. The verbal contact is four words and the phrase is natural English for a letter reporting survival, which is why this sits at moderate rather than higher; the contextual fit is what carries it. Compare Hays on metalepsis — the words are ordinary, the recovered setting is not.",
+        "whyNot": "'I am yet alive' is the plainest possible way to say the thing Mormon is saying, and a writer with no verse in mind would arrive at it. Nothing else of Deuteronomy 31 is verbally present.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "9:4": [
+      {
+        "source": "2 Corinthians 13:10",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "Therefore I write these things being absent, lest being present I should use sharpness, according to the power which the Lord hath given me to edification, and not to destruction.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Acts 4:31"
+        ],
+        "recurrenceRefs": [
+          "2 Nephi 1:26",
+          "Words of Mormon 1:17"
+        ],
+        "provenance": {
+          "route": "2 Corinthians 13:10 + Acts 4:31 → KJV → Book of Mormon (the same fusion already made at Words of Mormon 1:17)",
+          "other": "“Sharpness” occurs in exactly one KJV verse, 2 Corinthians 13:10, and “use sharpness” in that same one. The frame “the word of God with —” is also a KJV singleton, Acts 4:31's 'they spake the word of God with boldness'. Moroni 9:4 has both at once: 'I speak the word of God with sharpness'.",
+          "significance": "The one KJV verse that uses this word is a letter-writer explaining why he is severe on paper: Paul writes 'being absent' precisely so that he need not 'use sharpness' when present, and grounds the severity in a power given 'to edification, and not to destruction'. Mormon is in Paul's exact position — absent, writing, and weighing how hard to press — but the calculus has failed at both settings: sharpness makes them tremble and rage, no sharpness lets them harden. Paul's alternative between edification and destruction has collapsed into destruction only, which is the sentence Mormon reaches in the same verse: 'the spirit of the Lord hath ceased striving with them.'"
+        },
+        "note": "The chapter's single strongest verbal row and one the n-gram stream ranked below a Job verse. Two KJV singletons meet in one clause — Acts 4:31's frame for speaking the word of God 'with' something, and 2 Corinthians 13:10's 'sharpness' — and the same pair was already fused at Words of Mormon 1:17 ('they did speak the word of God, with power and with authority; and they did use much sharpness'). Moroni 9:4 is a different book and a different hand's letter, so the row is written here rather than deferred (ADJUDICATING §4); the argument for the fusion was made at Words of Mormon and is not restated. What is new here is that Moroni 9:4 supplies the negative half Paul's verse implies and never states — 'when I use no sharpness' — and reports that it fails too.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      },
+      {
+        "source": "Genesis 6:3",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "And the LORD said, My spirit shall not always strive with man, for that he also is flesh: yet his days shall be an hundred and twenty years.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "OT-via-earlier-BoM",
+        "recurrenceRefs": [
+          "2 Nephi 26:11",
+          "Ether 2:15",
+          "Ether 15:19",
+          "Mormon 5:16"
+        ],
+        "provenance": {
+          "route": "Genesis 6:3 → KJV → 2 Nephi 26:11 → Mormon 5:16 → Moroni 9:4",
+          "other": "“Strive with man” occurs in exactly one KJV verse, Genesis 6:3. The Book of Mormon's own form is fixed at 2 Nephi 26:11 — 'the Spirit of the Lord will not always strive with man' — and Moroni 9:4's proximate model is Mormon 5:16, 'the Spirit of the Lord hath already ceased to strive with them', which is the same writer saying the same thing about the same people one book earlier.",
+          "significance": "Genesis 6:3 is the sentence God speaks immediately before the Flood, and the clause that follows it is the verdict that 'the wickedness of man was great in the earth'. The Book of Mormon has kept the phrase as a threshold marker — 2 Nephi 26:11 states it as a law, Ether 2:15 applies it to the Jaredites, Ether 15:19 records it spent. By Moroni 9:4 Mormon reports it crossed for his own people, and at 9:23 he names the Jaredites as the precedent. The Genesis verse is therefore doing structural work: the corpus's two civilisations end at the same sentence, and Mormon knows it."
+        },
+        "note": "'Wherefore I fear lest the spirit of the Lord hath ceased striving with them.' The KJV singleton is Genesis 6:3 and the tense is the finding: Genesis states a limit, and Moroni 9:4 reports it reached. The proximate model is not the Bible but Mormon 5:16, where the same author wrote 'hath already ceased to strive with them' of the same nation — hence mediation 'OT-via-earlier-BoM'. 1830 reads 'ceased striving', a participial form found in neither the KJV nor Mormon 5:16, so the phrase has been re-cast rather than copied.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "9:5": [
+      {
+        "source": "Matthew 5:6",
+        "type": "allusion",
+        "subtype": "possible",
+        "confidence": "moderate",
+        "text": "Blessed are they which do hunger and thirst after righteousness: for they shall be filled.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 2,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Matthew 24:12",
+          "1 Thessalonians 3:12"
+        ],
+        "recurrenceRefs": [
+          "Moroni 9:23"
+        ],
+        "provenance": {
+          "route": "Matthew 5:6 → KJV → Book of Mormon; the Beatitude is already in the corpus at 3 Nephi 12:6",
+          "other": "“Thirst after” occurs in exactly one KJV verse, Matthew 5:6, where its object is righteousness. “Love of many shall wax cold” is a KJV singleton at Matthew 24:12, and “love one toward another” occurs in five verses of which 1 Thessalonians 3:12 is the prayer that it increase. “Blood and revenge” occurs nowhere in the KJV and nowhere else in the Book of Mormon: only here and at 9:23.",
+          "significance": "The one thing the KJV thirsts after is righteousness, and Moroni 9:5 substitutes blood and revenge — then 9:6, the next verse, names 'the enemy of all righteousness' as what is to be conquered. Righteousness is demonstrably the word in play across the two verses, which is why the substitution reads as one rather than as coincidence. The Beatitude promises the thirsty 'they shall be filled'; the flesh of 9:8 is the filling this people receives."
+        },
+        "note": "'They have lost their love, one towards another; and they thirst after blood and revenge continually.' Two moves in one clause, both of them inversions of KJV formulas: love 'one toward another' is what 1 Thessalonians 3:12 prays God will increase and what Matthew 24:12 says will wax cold when iniquity abounds, and 'thirst after' is the Beatitude's verb with its object exchanged. Neither half is verbally heavy, and Matthew 24:12 supplies only the idea. The row rests on the singleton verb plus the fact that 9:6 immediately produces 'righteousness' as the missing object.",
+        "whyNot": "'Thirst after' is two ordinary words and 'blood and revenge' is the writer's own coinage, used again nineteen verses later. A reader who thinks Mormon simply wrote plain English about bloodthirst is not refuted by anything here except the neighbouring 'righteousness'.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "9:6": [
+      {
+        "source": "Acts 13:10",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "text": "And said, O full of all subtilty and all mischief, thou child of the devil, thou enemy of all righteousness, wilt thou not cease to pervert the right ways of the Lord?",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "recurrenceRefs": [
+          "1 Nephi 13:27",
+          "2 Nephi 5:24",
+          "Jacob 7:7",
+          "Mosiah 2:37",
+          "Mosiah 4:14",
+          "Alma 10:28",
+          "Alma 30:22"
+        ],
+        "provenance": {
+          "route": "Acts 13:10 → KJV → Book of Mormon. The proximate model is very likely the corpus's own established title for the devil (Mosiah 4:14, Alma 30:22 and the rest) rather than Acts directly — but the schema's 'OT-via-earlier-BoM' has no NT counterpart, so this is recorded as 'direct-NT' with the route stated here. FLAGGED as a conventions gap.",
+          "other": "“Enemy of all righteousness” occurs in exactly one KJV verse, Acts 13:10. Esther 9:24's 'the enemy of all the Jews' is the only other KJV 'enemy of all —' and is a different construction with a different referent; it is filed in the exclusion register.",
+          "significance": "In Acts the title is thrown at a man — Elymas the sorcerer, blinded on the spot for withstanding the word — and the charge is that he will not 'cease to pervert the right ways of the Lord'. The Book of Mormon has made the same words a name for the devil, and Moroni 9:6 sets them against a labour that must not cease: 'if we should cease to labor, we should be brought under condemnation.' The verb Acts uses of the enemy's refusal to cease is the verb Mormon refuses to let himself perform."
+        },
+        "note": "A KJV singleton, reproduced whole. The phrase is by this point the corpus's standing title for the devil, adjudicated first at 1 Nephi 13:27, and Moroni is a new book with a new voice, so the row is written here rather than deferred (ADJUDICATING §4) and the argument for the borrowing itself is at 1 Nephi 13:27. What Moroni 9:6 adds is the pairing with 'cease': Acts 13:10 asks the enemy of all righteousness whether he will not cease, and Mormon answers for himself that he will not.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram"
+        ]
+      },
+      {
+        "source": "Job 4:19",
+        "type": "echo",
+        "subtype": "conceptual",
+        "confidence": "moderate",
+        "text": "How much less in them that dwell in houses of clay, whose foundation is in the dust, which are crushed before the moth?",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 2,
+          "sequence": 2,
+          "context": 4,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "uncertain",
+        "mediation": "uncertain",
+        "composite": [
+          "2 Corinthians 5:1"
+        ],
+        "recurrenceRefs": [
+          "Mosiah 3:5"
+        ],
+        "provenance": {
+          "route": "Job 4:19 + 2 Corinthians 5:1 → KJV → Mosiah 3:5 → Moroni 9:6",
+          "other": "“Tabernacle of clay” occurs in no KJV verse. Its two halves each have a source: “houses of clay” is a KJV singleton at Job 4:19, and the body-as-tabernacle is 2 Corinthians 5:1 ('our earthly house of this tabernacle') and 2 Peter 1:13-14. The compound is the Book of Mormon's own, minted at Mosiah 3:5.",
+          "significance": "Job 4:19 is Eliphaz arguing that a creature housed in clay cannot be trusted to be righteous before God; Moroni 9:6 uses the same housing to argue the opposite — that the clay is exactly where the labour has to be done, 'whilst in this tabernacle of clay'. The verse turns a reason for futility into a deadline."
+        },
+        "note": "The compound is not a KJV phrase and is not claimed as one. It is the corpus's own fusion of a Job singleton with the Pauline tabernacle, coined at Mosiah 3:5 in the angel's speech to Benjamin, and Moroni 9:6 is a different book reusing it. Recorded at moderate because the dependence is on the Book of Mormon's compound rather than on either biblical verse directly; mediation is left 'uncertain' because neither half's wording is decisive about which route reached the compound.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "9:8": [
+      {
+        "source": "Ezekiel 5:10",
+        "type": "allusion",
+        "subtype": "conceptual",
+        "confidence": "high",
+        "text": "Therefore the fathers shall eat the sons in the midst of thee, and the sons shall eat their fathers; and I will execute judgments in thee, and the whole remnant of thee will I scatter into all the winds.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Deuteronomy 28:53",
+          "Leviticus 26:29",
+          "Jeremiah 19:9",
+          "Lamentations 4:10",
+          "Ezekiel 4:16"
+        ],
+        "provenance": {
+          "route": "the KJV covenant-curse cannibalism topos (Leviticus 26:29; Deuteronomy 28:53-57; Jeremiah 19:9; Lamentations 4:10; Ezekiel 4:16-5:10) → KJV → Book of Mormon",
+          "other": "“The sons shall eat their fathers” occurs in exactly one KJV verse, Ezekiel 5:10, and it is the only place in the Bible where the eating runs UP the generations rather than down. “The flesh of their —” occurs in two verses, of which Jeremiah 19:9 is the siege one; “the flesh of his friend” is a Jeremiah 19:9 singleton. “The pitiful women have sodden their own children” is a Lamentations 4:10 singleton. Every other member of the cluster — Leviticus 26:29, Deuteronomy 28:53-57 — has parents eating children.",
+          "significance": "The topos exists in scripture for one purpose: it is the last curse in the covenant list, the sign that the sanctions have run out. Deuteronomy 28 puts it 'in the siege, and in the straitness, wherewith thine enemies shall distress thee', and Ezekiel pairs it with the water ration ('they shall drink water by measure', 4:16) that Moroni 9:8 also has: 'no water, save a little, do they give unto them.' Two members of one Ezekiel oracle, four verses apart, appear in one Book of Mormon sentence. What the sentence then does with them is the finding — see the note."
+        },
+        "note": "The biblical cannibalism of siege is a famine act by the starving: parents eat their own children because there is nothing else, and the horror is that hunger has undone kinship. Moroni 9:8 inverts every term. The eating is not done by the hungry but imposed by captors; the victims are fed, not driven; and the flesh is a husband's and a father's, which runs up the generations, not down. Ezekiel 5:10 is the one KJV verse that runs that direction, which is why it is named as the source rather than the more famous Deuteronomy 28:53. The dependence on the topos is not seriously deniable — the water ration in the same sentence settles it — but the choice among its members is a judgment, and this verse is deliberately worse than any of them: where scripture's curse is what famine does to a people, Moroni 9:8 is what a people does to a people with food still in hand.",
+        "whyNot": "No single KJV verse is verbally decisive here; Moroni 9:8 shares no run of four words with any member of the cluster. A reader could hold that the passage draws on the general biblical vocabulary of atrocity rather than on Ezekiel 5:10 in particular, and the evidence would not refute him — the case for Ezekiel specifically rests on the direction of the eating and on the water ration four verses earlier.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "9:10": [
+      {
+        "source": "Mark 3:5",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "text": "And when he had looked round about on them with anger, being grieved for the hardness of their hearts, he saith unto the man, Stretch forth thine hand. And he stretched it out: and his hand was restored whole as the other.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 3,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "recurrenceRefs": [
+          "1 Nephi 2:18",
+          "1 Nephi 7:8",
+          "1 Nephi 17:53",
+          "Jarom 1:3",
+          "Mosiah 13:32",
+          "Alma 13:4",
+          "Helaman 6:35",
+          "3 Nephi 7:16",
+          "Mormon 1:17"
+        ],
+        "provenance": {
+          "route": "Mark 3:5 → KJV → Book of Mormon",
+          "other": "“Hardness of their hearts” occurs in exactly one KJV verse, Mark 3:5. Matthew 19:8's 'hardness of your hearts' is the second-person form and is a different verse; the machine proposed it here and it is filed in the exclusion register. The Book of Mormon uses each form in its correct grammatical setting, and Moroni 9:10, being narration about a third party, takes Mark's.",
+          "significance": "Mark 3:5 is the one verse in the Gospels where Jesus is angry, and the anger is grief — 'when he had looked round about on them with anger, being grieved for the hardness of their hearts' — and it issues in a hand restored. Moroni 9:10 borrows the diagnosis and reverses the outcome: the hardness here issues in bodies torn rather than a body healed, and the letter that contains it is written by a man whose anger is entirely grief. Mormon is looking round about on them with anger for the same reason and can restore nothing."
+        },
+        "note": "The corpus's standing phrase for the condition it diagnoses, adjudicated first at 1 Nephi 2:18 and used nine further times before this. Moroni is a new book (ADJUDICATING §4), so the row is written rather than deferred, and the argument for the borrowing is at 1 Nephi 2:18. Two things are worth adding here. First the pronoun, which is the trap: 'their', not Matthew 19:8's 'your', and correctly so for third-person narration. Second the placement — in every earlier occurrence the hardness explains a refusal to hear; here for the first time it explains cannibalism, and the same six words are asked to carry it.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram"
+        ]
+      }
+    ],
+    "9:12": [
+      {
+        "source": "Malachi 3:12",
+        "type": "echo",
+        "subtype": "possible",
+        "confidence": "moderate",
+        "text": "And all nations shall call you blessed: for ye shall be a delightsome land, saith the LORD of hosts.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 2,
+          "sequence": 1,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "OT-via-earlier-BoM",
+        "recurrenceRefs": [
+          "2 Nephi 5:21",
+          "Words of Mormon 1:8",
+          "3 Nephi 24:12",
+          "4 Nephi 1:10"
+        ],
+        "provenance": {
+          "route": "Malachi 3:12 → KJV → 2 Nephi 5:21 and the corpus's own 'delightsome' formula → Moroni 9:12. Malachi 3 is transcribed wholesale at 3 Nephi 24, so the source verse is inside the Book of Mormon as well as behind it.",
+          "other": "“Delightsome” occurs in exactly one KJV verse, Malachi 3:12, where it qualifies a LAND. Every Book of Mormon use but this one qualifies a PEOPLE.",
+          "significance": "Malachi 3:12 is a promise conditional on the tithe: bring the offerings and 'all nations shall call you blessed'. The Book of Mormon transcribes that promise at 3 Nephi 24:12 and then, sixty years of narrative later, Mormon reaches for its one distinctive word to say that the condition has been withdrawn — 'only a few years have passed away, and they were a civil and a delightsome people'. The tense is the whole argument. Malachi's word appears in this chapter only in the past."
+        },
+        "note": "The word is a KJV singleton, and the Book of Mormon's use of it is by this point its own idiom, fixed at 2 Nephi 5:21 and running through 4 Nephi 1:10's account of the golden age this chapter is the ruin of. Moroni 9:12 is the corpus's last 'delightsome', and it is in the past tense inside a parenthesis. Recorded at moderate: one word, however rare, is thin evidence for direct dependence on Malachi, and the mediation call — through the corpus's own formula rather than the KJV verse — is where the confidence actually sits.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "9:14": [
+      {
+        "source": "Daniel 4:35",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "text": "And all the inhabitants of the earth are reputed as nothing: and he doeth according to his will in the army of heaven, and among the inhabitants of the earth: and none can stay his hand, or say unto him, What doest thou?",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 2,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "recurrenceRefs": [
+          "Alma 10:23"
+        ],
+        "provenance": {
+          "route": "Daniel 4:35 → KJV → Book of Mormon",
+          "other": "“Stay his hand” occurs in exactly one KJV verse, Daniel 4:35, and it is of God's hand. The 1830 text reads 'judgement'; 1920 modernized to 'judgment'.",
+          "significance": "Daniel 4 is the chapter in which a man is driven from among men, eats grass as oxen, and grows hair like eagles' feathers and nails like birds' claws — the one biblical narrative of a human being reduced to a beast — and 4:35 is the sentence he speaks when his reason returns. Four verses before Moroni 9:14, Mormon has written that his people 'devour their flesh like unto wild beasts'. The KJV's only 'stay his hand' therefore comes out of the one chapter where the alternative to God's judgment is not death but bestiality, which is precisely the condition Moroni 9:9-10 has just described. Nebuchadnezzar's beast-years ended when he looked up; Mormon asks his question because he does not expect his people to."
+        },
+        "note": "'How can we expect that God will stay his hand in judgement against us?' A KJV singleton with its verb and object intact, and the grammar turned around as it was at Alma 10:23 — in Daniel nobody CAN stay God's hand, in Moroni nobody should EXPECT him to. Alma 10:23 is where that inversion was adjudicated; the argument is not restated. What Moroni 9:14 adds is the neighbourhood: Daniel 4's king becomes a beast and Moroni 9:10's people devour flesh like wild beasts, and the shared phrase sits between the two. Moderate rather than high because three words is a small purchase and the inversion means the sense is not reproduced, only the collocation.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "9:15": [
+      {
+        "source": "Psalm 51:9",
+        "type": "echo",
+        "subtype": "possible",
+        "confidence": "low",
+        "text": "Hide thy face from my sins, and blot out all mine iniquities.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 2,
+          "sequence": 2,
+          "context": 3,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "uncertain",
+        "mediation": "direct-OT",
+        "provenance": {
+          "route": "Psalm 51:9 → KJV → Book of Mormon",
+          "other": "“Hide thy face from my sins” is a KJV singleton at Psalm 51:9. The exact string Moroni 9:15 uses, “from before thy face”, is also a KJV singleton — Deuteronomy 28:31, of an ass violently taken away — but the sense there is unrelated and it is filed in the exclusion register. The 1830 text reads 'judgement'; 1920 modernized to 'judgment'.",
+          "significance": "Psalm 51 is the penitent's prayer, and its request is that God look away from sins the psalmist owns. Moroni 9:15 makes the same request on behalf of a people who are not repenting and in the same breath asks God to 'come out in judgement' — the two halves of the sentence pull against each other, and the Psalm is where the softer half comes from. If the echo is real, Mormon is praying David's prayer for men who have not asked for it."
+        },
+        "note": "'Come out in judgement, O God, and hide their sins, and wickedness, and abominations from before thy face.' The clause is odd on its face — judgment and concealment asked for at once — and the KJV's one prayer that God hide his face from sins is Psalm 51:9. The verbal contact is 'hide', 'face', 'sins', with the possessive moved from the sinner to God, which is not much. Recorded because the oddity of the sentence is real and the Psalm makes it read as intercession rather than confusion.",
+        "whyNot": "Three ordinary words in a different arrangement, and the direction is reversed: David asks God to hide his own face from sins, Mormon asks God to hide the sins from his face. A reader may fairly say this is Mormon's own phrasing of an intercession and that no verse stands behind it. The machine's proposal at this verse, Deuteronomy 28:31, matches the string exactly and is worse.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "9:16": [
+      {
+        "source": "Mark 8:3",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "text": "And if I send them away fasting to their own houses, they will faint by the way: for divers of them came from far.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "Mark 8:3 → KJV → Book of Mormon",
+          "other": "“Faint by the way” occurs in exactly one KJV verse, Mark 8:3. Matthew's parallel at 15:32 reads 'lest they faint in the way', with the other preposition — so the Book of Mormon has Mark's form, not Matthew's, and the distinction is a single word.",
+          "significance": "The KJV's one 'faint by the way' is Jesus refusing to let it happen. Mark 8:1-9 is the feeding of the four thousand, and 8:3 is the reason given for the miracle: he will not send a hungry crowd home because they will faint on the road. Moroni 9:16 is that verse with the miracle withheld. The provisions exist — the Lamanites took part and the army of Zenephi carried away the rest — and the women are sent out to 'wander withersoever they can for food', and they faint by the way and die. Recover Mark's context and the sentence acquires the thing it does not say: this is what happens where nobody multiplies the loaves."
+        },
+        "note": "A KJV singleton reproduced exactly, in a verse about hunger, and the preposition is Mark's rather than Matthew's — 'by the way', not 'in the way'. The machine stream did not propose it; contiguous windows found only 'and the army which' two verses on. This is the chapter's clearest metalepsis (compare Hays): the one biblical use of the phrase is a refusal to send the hungry away, and Moroni 9:16's old women have been sent away by both armies at once.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "9:20": [
+      {
+        "source": "Ephesians 4:19",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "text": "Who being past feeling have given themselves over unto lasciviousness, to work all uncleanness with greediness.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "recurrenceRefs": [
+          "1 Nephi 17:45"
+        ],
+        "provenance": {
+          "route": "Ephesians 4:19 → KJV → Book of Mormon",
+          "other": "“Past feeling” occurs in exactly one KJV verse, Ephesians 4:19. Its neighbour Ephesians 4:18, 'having the understanding darkened … because of the blindness of their heart', is adjudicated elsewhere in the corpus at Alma 15:19, so both halves of the Ephesians sentence are in use.",
+          "significance": "Paul's clause is not a description of numbness in general. It is a specific diagnosis with a specific consequence: those past feeling 'have given themselves over unto lasciviousness, to work all uncleanness with greediness'. Moroni 9 has just supplied the consequence in the most literal form the corpus contains — the rape and murder of the daughters of the Lamanites at Moriantum, eleven verses earlier — and then names the condition in Paul's exact words. The metalepsis runs the right way round: the suppressed half of Ephesians 4:19 is what 9:9-10 already narrated."
+        },
+        "note": "'They are without principle, and past feeling.' A KJV singleton, adjudicated first at 1 Nephi 17:45 where Nephi tells his brothers they are past feeling because they cannot feel the Lord's words; Moroni is a new book (ADJUDICATING §4), so the row is written here. What makes this the better of the two occurrences is the fit: Nephi's use borrows the phrase for insensibility to speech, and Moroni 9:20 restores it to Paul's own subject matter, which is what men past feeling do to other people's bodies. The chapter has already narrated Ephesians 4:19's second clause before quoting its first.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "9:21": [
+      {
+        "source": "Acts 15:40",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "text": "And Paul chose Silas, and departed, being recommended by the brethren unto the grace of God.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Acts 14:26",
+          "Acts 20:32"
+        ],
+        "recurrenceRefs": [
+          "Moroni 9:22",
+          "Moroni 9:26"
+        ],
+        "provenance": {
+          "route": "Acts 15:40 and 14:26 → KJV → Book of Mormon",
+          "other": "The verb appears in the KJV only as “recommended”, which occurs in exactly 2 KJV verses, Acts 14:26 and Acts 15:40 — and in both it is passive and in both its object is the grace of God — 'recommended to the grace of God', 'recommended by the brethren unto the grace of God'. “Unto the grace of God” is itself an Acts 15:40 singleton. Acts 20:32, 'I commend you to God', is the same act in Paul's farewell speech with the simple verb.",
+          "significance": "The KJV recommends people to the grace of God twice, and both times it is a commissioning: brethren send a man out on a work he may not survive. Moroni 9:21-22 splits that formula in half and uses each half as a verdict — 'I cannot recommend them unto God, lest he should smite me' and 'I recommend thee unto God' — and then, five verses later, supplies the formula's missing object as the letter's benediction: 'may the grace of God the Father … abide with you forever.' The whole Acts phrase is present in Moroni 9; it is simply distributed across six verses, which is why no contiguous window could see it."
+        },
+        "note": "The rare word is the verb. The KJV form is “recommended”, occurring in exactly 2 KJV verses, both in Acts, both governing 'the grace of God', and Moroni 9 uses it twice in consecutive verses and then closes on the object. Adjudicated here at first use; 9:22 and 9:26 carry the other two thirds. The find is a split agreement of exactly the kind CONVENTIONS §9 says the n-gram stream is blind to by construction — nothing in the dossier proposed it. Moderate rather than high because the Acts sense is commissioning and Mormon's is appraisal before judgment, and because 'recommend' was ordinary English in 1830.",
+        "whyNot": "A nineteenth-century writer needed no verse to write 'I recommend thee unto God'; the word was in common use and the KJV's two occurrences are passive where Mormon's are active. The case rests on the pairing with 'the grace of God' at 9:26, which is six verses away and could be coincidence of a common phrase.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "9:25": [
+      {
+        "source": "Colossians 1:27",
+        "type": "echo",
+        "subtype": "possible",
+        "confidence": "moderate",
+        "text": "To whom God would make known what is the riches of the glory of this mystery among the Gentiles; which is Christ in you, the hope of glory:",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 2,
+          "context": 4,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "Colossians 1:27 → KJV → Book of Mormon",
+          "other": "“Hope of glory” occurs in exactly one KJV verse, Colossians 1:27. Moroni 9:25 reads 'the hope of his glory', which occurs in none — the pronoun is the Book of Mormon's addition. The 1830 text reads 'shewing' and 'long suffering' as two words; 1920 gives 'showing' and 'long-suffering'.",
+          "significance": "Colossians 1:24-27 is Paul rejoicing in his sufferings for a church he is writing to from confinement, and naming the mystery he has been given to make known as 'Christ in you, the hope of glory'. Moroni 9:25 is the same consolation offered under worse conditions: Mormon lists Christ's sufferings, death, showing and long suffering and asks that they 'rest in your mind forever' against the things he has just written. Paul's hope is Christ in the reader; Mormon's is Christ lifting a reader the letter itself may crush — 'may not the things which I have written, grieve thee, to weigh thee down unto death, but may Christ lift thee up.'"
+        },
+        "note": "'The hope of his glory and of eternal life.' The KJV singleton is 'hope of glory' and the possessive is added, which is why this is an echo rather than an allusion. It is recorded because the verse around it is a compressed Pauline consolation formula — sufferings, death, mercy, longsuffering, hope, eternal life — and because 1830's 'shewing' preserves the KJV orthography that 1920 erased, which is evidence about the register of the whole sentence even where no single phrase is decisive (CONVENTIONS §8).",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "9:26": [
+      {
+        "source": "1 Peter 3:22",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "Who is gone into heaven, and is on the right hand of God; angels and authorities and powers being made subject unto him.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 4,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Psalm 110:1",
+          "Matthew 26:64",
+          "John 14:16"
+        ],
+        "recurrenceRefs": [
+          "Moroni 7:27"
+        ],
+        "provenance": {
+          "route": "1 Peter 3:22, with Psalm 110:1's 'until' construction and Matthew 26:64's 'right hand of power' → KJV → Book of Mormon",
+          "other": "“Subject unto him” occurs in exactly 2 KJV verses, 1 Peter 3:22 and 1 Corinthians 15:28 — and in 1 Corinthians it is the SON who is made subject, which is the opposite of Moroni 9:26's sense, so 1 Peter is the source and 1 Corinthians is not. “Right hand of power” occurs in Matthew 26:64 and Mark 14:62; “on the right hand of his power” occurs in no KJV verse. “Abide with you for ever” is a KJV singleton at John 14:16. mediation-check.py was run on Psalm 110:1 against both 1 Corinthians 15:25 and 1 Peter 3:22 and returned one 'decisive' point each way; both are artifacts of the shared backbone word 'right', and neither is worth anything — the honest reading is that the verse fuses the Psalm's 'until' with Peter's 'subject unto him'.",
+          "significance": "The benediction assembles the session at God's right hand from three places and ends on a fourth. John 14:16's 'abide with you for ever' is the promise of the Comforter, given in the farewell discourse on the night before the crucifixion — a departing teacher's last provision for men he will not see again. Mormon's letter ends where Jesus' does, with the assurance that what is being withdrawn in person will remain. He has just told his son they will probably not meet ('I shall perish and not see thee'), and the last words of the last letter in the Book of Mormon are the promise made to the eleven."
+        },
+        "note": "Three strands: 'sitteth on the right hand of his power' takes Matthew 26:64's 'right hand of power' and inserts the possessive; 'until all things shall become subject unto him' is 1 Peter 3:22's clause with Psalm 110:1's 'until' governing it; and 'abide with you forever' is a KJV singleton from John 14:16. 1 Peter 3:22 is named as the source because it alone carries both the right hand and the subjection, and because Moroni 7:27 in this same book already uses it. 1 Corinthians 15:28 is the other 'subject unto him' verse and is excluded on sense, not on wording — there the Son is subjected, here all things are subjected to him.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ]
+  }
+}

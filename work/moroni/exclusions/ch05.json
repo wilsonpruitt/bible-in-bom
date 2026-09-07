@@ -1,0 +1,62 @@
+[
+  {
+    "bomRef": "Moroni 5:2",
+    "source": "Hebrews 13:17",
+    "category": "wrong-sense",
+    "sharedText": "that they may do it",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "The highest-scoring machine candidate in the chapter (rarity 1.14, a five-word run) and an accident of English. Hebrews 13:17 is about obeying church leaders so that they may discharge their watch over souls ‘with joy, and not with grief’; the pronoun ‘they’ there is the leaders and ‘it’ is their accounting. In Moroni 5:2 ‘they’ is the congregation drinking the wine and ‘it’ is the drinking. The two verses share a subordinating formula and nothing else. The real antecedent of ‘do it’ is 1 Corinthians 11:25's ‘this do ye, as oft as ye drink it, in remembrance of me’, by way of 3 Nephi 18:11's ‘ye shall do it in remembrance of my blood’, which is where the link at this verse is written. The one point of contact worth conceding is that Hebrews 13:17 does share the chapter's concern with souls in another's charge — which is exactly the kind of thematic coincidence that makes a boilerplate run look meaningful."
+  },
+  {
+    "bomRef": "Moroni 5:2",
+    "source": "Proverbs 24:1",
+    "category": "wrong-sense",
+    "sharedText": "to be with them",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "A four-word run whose sense is not merely different but inverted. Proverbs 24:1 reads ‘Be not thou envious against evil men, neither desire to be with them’ — the phrase is a prohibition on company. Moroni 5:2 asks that the communicants ‘may have his spirit to be with them’, which is the petition the whole prayer exists to make. Recorded because ‘to be with them’ is the only string in the closing clause the n-gram stream can see, and a reader scanning candidate lists would meet it first. The clause itself has no KJV source: “have his Spirit” occurs in exactly 0 KJV verses and “Spirit to be with” occurs in exactly 0 KJV verses. Its model is 3 Nephi 18:11, ‘ye shall have my spirit to be with you’, and its first occurrence in this book is Moroni 4:3, where the clause is conditioned on keeping commandments — a condition Moroni 5:2 drops — so the argument for it belongs at Moroni 4:3, where this pass adjudicates the clause to 1 John 3:24 — keeping the commandments and the indwelling that attests it — and it is not restated here. Note for the 1830 text: the first edition reads lower-case ‘spirit’ in both prayers and in 3 Nephi 18:11; 1920 capitalises all three. That change is a doctrinal reading imposed on the text, not a KJV orthography being modernised, and it runs in the opposite direction from ‘shew’ and ‘marvellous’."
+  },
+  {
+    "bomRef": "Moroni 5:2",
+    "source": "Isaiah 9:6",
+    "category": "insufficient-verbal",
+    "sharedText": "Father (the divine address, ‘O God, the Eternal Father’)",
+    "streams": [
+      "manual"
+    ],
+    "reason": "The most distinctive phrase in either sacrament prayer is its address, and it is not the KJV's. “eternal Father” occurs in exactly 0 KJV verses. The nearest thing the KJV has is Isaiah 9:6's throne-name, and “everlasting Father” occurs in exactly 1 KJV verse — but ‘everlasting’ is not ‘eternal’, Isaiah 9:6 names the child rather than addressing the Father, and the Book of Mormon quotes Isaiah 9:6 elsewhere (2 Nephi 19:6) with ‘everlasting’ intact, which shows the writer had the KJV word available and did not use it here. Recorded rather than passed over because a reader who knows Isaiah 9:6 will feel the pull, and because a negative rarity count is a real finding: the vocative that opens the two most fixed liturgical texts in the Book of Mormon has no biblical precedent at all. The address is verbatim the bread prayer's (Moroni 4:3), where it first stands."
+  },
+  {
+    "bomRef": "Moroni 5:2",
+    "source": "Genesis 2:3",
+    "category": "insufficient-verbal",
+    "sharedText": "bless … and sanctify",
+    "streams": [
+      "manual"
+    ],
+    "reason": "‘To bless and sanctify this wine’ pairs two verbs the KJV almost never pairs on an object. “bless and sanctify” occurs in exactly 0 KJV verses, and “blessed the seventh day and sanctified it” occurs in exactly 1 KJV verse — Genesis 2:3, the KJV's one instance of God blessing a thing and sanctifying the same thing. The typological pull is real (a set-apart element, a set-apart day) and it is declined: there is no shared word beyond the two verbs, no shared syntax, and no other contact between Moroni 5 and Genesis 2. The collocation is consecratory English of the kind any table prayer would reach for, and Exodus 20:11's ‘blessed the sabbath day, and hallowed it’ shows the KJV itself varying the second verb. Filed as the Exodus 2:2 ‘goodly’ case is filed (CONVENTIONS §5), so that a reader is told the catalogue saw the parallel and would not carry it."
+  },
+  {
+    "bomRef": "Moroni 5:2",
+    "source": "John 15:16",
+    "category": "better-source-identified",
+    "sharedText": "we ask thee, in the name of thy Son Jesus Christ",
+    "streams": [
+      "manual"
+    ],
+    "reason": "A genuine link, and it does not belong at this verse. Asking the Father in the Son's name is specified in the KJV at John 15:16 — “ask of the Father in my name” occurs in exactly 1 KJV verse — and at John 16:23, where “ask the Father in my name” occurs in exactly 1 KJV verse. Moroni 4:2 states the rule in narrative (‘pray to the Father in the name of Christ’) and Moroni 4:3 performs it in the identical words this verse repeats; the wine prayer is the second half of a single rubric and reuses its opening unchanged. ADJUDICATING §4 adjudicates a repeated phrase at its first use within a book, so the argument belongs at Moroni 4:2-3. This entry sends a reader browsing Moroni 5 to where it is made. Moroni 4:3 has since been adjudicated in this pass and carries the John 16:23 row, so this cross-reference resolves to a written link rather than a queued one."
+  },
+  {
+    "bomRef": "Moroni 5:2",
+    "source": "Psalm 141:8",
+    "category": "common-vocabulary",
+    "sharedText": "unto thee, O God, the …",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "Three Psalms candidates scored on the prayer's vocative — Psalm 141:8 (‘unto thee, O GOD the Lord’, a five-word run), Psalm 75:1 and Psalm 144:9 (‘unto thee, O God’). “unto thee O God” occurs in exactly 3 KJV verses, which is rare enough to rank and far too generic to point anywhere: it is the ordinary Hebrew vocative of address, and the Book of Mormon's clause is not even continuous with it (‘that they may witness unto thee, O God the Eternal Father’). Psalm 141:8's ‘O GOD the Lord’ looks closest only because the KJV small-capital divine name happens to put a definite article where Moroni puts one. This entry covers all three, and with them the ‘in the name of’ batch that the same stream returned (Acts 3:6, Acts 16:18, 1 Samuel 17:45): a four- or five-word run through ‘thee in the name of’ is connective boilerplate under the standing exclusion at 1 Nephi 1:5, and the prayer's actual ‘in the name of thy Son’ formula is dealt with in the John 15:16 entry above."
+  }
+]

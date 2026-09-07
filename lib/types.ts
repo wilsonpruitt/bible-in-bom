@@ -20,7 +20,8 @@ export type Mediation =
   | "direct-OT"        // Book of Mormon depends on the Old Testament text directly
   | "direct-NT"        // depends on a New Testament text directly (no OT intermediary)
   | "OT-via-NT"        // an OT source reused, but via its NT quotation/echo
-  | "OT-via-earlier-BoM" // an earlier Book of Mormon quotation of the source is the proximate model
+  | "OT-via-earlier-BoM" // an earlier Book of Mormon quotation of an OT source is the proximate model
+  | "NT-via-earlier-BoM" // an earlier Book of Mormon quotation of an NT source is the proximate model
   | "uncertain";
 
 // A reworking of Richard Hays's seven criteria for testing claims about

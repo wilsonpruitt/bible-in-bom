@@ -1,0 +1,906 @@
+{
+ "chapter": 8,
+ "adjudicated": "2026-09-07",
+ "adjudicator": "Opus",
+ "links": {
+  "8:2": [
+   {
+    "source": "2 Timothy 1:2",
+    "type": "allusion",
+    "subtype": "probable",
+    "confidence": "moderate",
+    "text": "To Timothy, my dearly beloved son: Grace, mercy, and peace, from God the Father and Christ Jesus our Lord.",
+    "evidence": {
+     "vocabulary": 3,
+     "syntax": 3,
+     "sequence": 3,
+     "context": 5,
+     "rarity": 3,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "composite": [
+     "1 Corinthians 4:17"
+    ],
+    "provenance": {
+     "route": "2 Timothy 1:2 → KJV → Book of Mormon",
+     "other": "“my dearly beloved son” occurs in exactly one KJV verse, 2 Timothy 1:2, where it addresses a young minister; “my beloved son” in that sense occurs in one other, 1 Corinthians 4:17, of Timotheus again. Every other KJV occurrence of “my beloved Son” is the voice from heaven at the baptism or the transfiguration.",
+     "alternative": "1 Corinthians 4:17, which drops the intensifier and is therefore verbally nearer, but stands in a letter to a congregation rather than to the son.",
+     "significance": "The KJV gives exactly one model for a letter from an old minister to a young one he calls his son, and Moroni 8 takes the whole of it: the address (8:2), the constant remembrance in prayer (8:3, and 2 Timothy 1:3), the charge to a ministry lately received (8:2, and 2 Timothy 1:6), and a closing that hopes for a meeting the writer does not expect to get (8:27-30, and 2 Timothy 4:6-9). Mormon is writing 2 Timothy, and like 2 Timothy it is the letter of a man who says plainly that he may not survive to write another."
+    },
+    "note": "“My beloved son Moroni, I rejoice exceedingly that your Lord Jesus Christ hath been mindful of you, and hath called you to his ministry, and to his holy work.” The address is the Pastoral Epistles' and not the Gospels': in the KJV a father calls a minister 'my beloved son' only at 2 Timothy 1:2 and 1 Corinthians 4:17, and both times the son is Timothy. What follows in Moroni 8:2 is the same clause 2 Timothy 1:6 supplies — a gift or calling to ministry that the older man is writing to stir up. Catalogued as an allusion rather than a quotation because the shared run is three words; the case rests on the address plus the situation plus the prayer clause at 8:3, not on any one of them.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "manual"
+    ]
+   }
+  ],
+  "8:3": [
+   {
+    "source": "Romans 1:9",
+    "type": "allusion",
+    "subtype": "close-verbal",
+    "confidence": "high",
+    "text": "For God is my witness, whom I serve with my spirit in the gospel of his Son, that without ceasing I make mention of you always in my prayers;",
+    "evidence": {
+     "vocabulary": 4,
+     "syntax": 4,
+     "sequence": 4,
+     "context": 5,
+     "rarity": 4,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "composite": [
+     "2 Timothy 1:3",
+     "Philemon 1:4",
+     "Ephesians 1:16"
+    ],
+    "provenance": {
+     "route": "Romans 1:9 → KJV → Book of Mormon",
+     "other": "“always in my prayers” occurs in exactly two KJV verses, Romans 1:9 and Philemon 1:4; “in my prayers” in exactly four, adding Ephesians 1:16 and 2 Timothy 1:3. All four are Pauline letter-openings and all four attach the phrase to a verb of ceaseless remembrance — 'without ceasing' at Romans 1:9 and 2 Timothy 1:3, 'cease not' at Ephesians 1:16.",
+     "significance": "Moroni 8:3 keeps both halves of the formula and redistributes them: Romans' 'without ceasing' becomes 'continually praying', and 'mindful' — which is 2 Timothy 1:4's word, in the same opening — replaces 'make mention'. The result is a sentence assembled out of the four KJV verses that share the phrase rather than copied from any one of them, which is what makes the formula, and not a verse, the unit being borrowed."
+    },
+    "note": "“I am mindful of you always in my prayers, continually praying unto God the Father, in the name of his holy child, Jesus.” Two of the KJV's four 'in my prayers' verses read 'always in my prayers', and Romans 1:9 is the one with 'of you' rather than 'of thee' — which matters less than it looks, since Mormon's 'you' is a single addressee. The tell that this is the Pastoral formula and not Romans alone is 'mindful': it is 2 Timothy 1:4's verb, four words after 2 Timothy 1:3's 'in my prayers', and it is not in Romans 1:9 at all. 'His holy child, Jesus' is Acts 4:27 and 4:30, the only KJV verses that call Jesus God's 'holy child', and it is worth noting that both stand in a prayer.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "manual",
+     "machine-ngram"
+    ]
+   },
+   {
+    "source": "Matthew 10:22",
+    "type": "allusion",
+    "subtype": "probable",
+    "confidence": "moderate",
+    "text": "And ye shall be hated of all men for my name’s sake: but he that endureth to the end shall be saved.",
+    "evidence": {
+     "vocabulary": 3,
+     "syntax": 2,
+     "sequence": 3,
+     "context": 4,
+     "rarity": 4,
+     "attestation": 1
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "recurrenceRefs": [
+     "1 Nephi 22:31",
+     "Omni 1:26",
+     "3 Nephi 15:9",
+     "3 Nephi 27:6",
+     "Alma 32:13"
+    ],
+    "provenance": {
+     "route": "Matthew 10:22 → KJV → Book of Mormon",
+     "other": "“endureth to the end” occurs in exactly one KJV verse, Matthew 10:22 (Matthew 24:13 reads 'endure unto the end', Mark 13:13 'shall endure unto the end').",
+     "significance": "Matthew 10:22's promise is made to men who are about to be hated and killed for the name; Mormon writes it to a son he expects not to see again, in a chapter that ends by predicting the destruction of their nation. The clause is the Book of Mormon's most-repeated borrowing, and here it returns to something like Matthew's original setting."
+    },
+    "note": "“Will keep you through the endurance of faith on his name to the end.” The formula is adjudicated at 1 Nephi 22:31 and used across the corpus; the reason for a row here rather than a cross-reference is that Mormon has nominalized it — 'the endurance of faith', a noun the KJV never forms — and has kept 'on his name', which is Matthew 10:22's 'for my name's sake' turned into the object of the enduring rather than its cause. Moderate rather than high because the phrase is by this point the corpus's own idiom as much as the KJV's.",
+    "whyNot": "By Moroni the clause has been used so often in the Book of Mormon that a fresh borrowing from Matthew cannot be shown; a reader may fairly regard this as the corpus quoting itself.",
+    "bibliography": [],
+    "status": "majority",
+    "citationsPending": true,
+    "streams": [
+     "manual"
+    ]
+   }
+  ],
+  "8:5": [
+   {
+    "source": "Acts 15:2",
+    "type": "allusion",
+    "subtype": "structural",
+    "confidence": "high",
+    "text": "When therefore Paul and Barnabas had no small dissension and disputation with them, they determined that Paul and Barnabas, and certain other of them, should go up to Jerusalem unto the apostles and elders about this question.",
+    "evidence": {
+     "vocabulary": 3,
+     "syntax": 2,
+     "sequence": 4,
+     "context": 5,
+     "rarity": 5,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "composite": [
+     "Acts 15:24",
+     "Acts 15:23"
+    ],
+    "provenance": {
+     "route": "Acts 15:2, 15:23-29 → KJV → Book of Mormon",
+     "other": "“disputation” occurs in exactly one KJV verse, Acts 15:2, and “no small dissension” in the same one. Acts 15:24's “troubled you with words” and “certain which went out from us” are likewise KJV singletons.",
+     "significance": "Acts 15 is the KJV's one account of a dispute over whether a rite must be administered, referred to the church's leadership, and settled by a letter sent to the congregation that was troubled. Moroni 8 is that letter again with the rite changed: 'the baptism of your little children' for 'Ye must be circumcised'. The reader who recovers Acts 15 finds Mormon's own ruling waiting at 8:8 — 'the law of circumcision is done away in me' — which is the decision the Jerusalem letter reached, quoted as the ground of a decision about baptism. The chapter argues from the precedent while sounding as though it were only reasoning."
+    },
+    "note": "“There has been disputations among you concerning the baptism of your little children.” The KJV uses 'disputation' once, at Acts 15:2, of the quarrel over circumcision; the 1830 uses 'disputations' twice in two verses (8:4, 8:5) for a quarrel over infant baptism, and then names circumcision outright at 8:8. The verbal contact is one rare word, but the form of the whole chapter follows Acts 15: a rite disputed in a distant congregation (15:1-2), the matter referred upward (Moroni 8:7, 'I inquired of the Lord concerning the matter'), and the answer sent back as a letter that says what the troublers were saying and denies it. Catalogued at 8:5 rather than 8:4 because this is the verse that joins the rare word to the disputed rite. 1830's 'has been disputations' was corrected to 'have' in 1920.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "manual"
+    ]
+   }
+  ],
+  "8:8": [
+   {
+    "source": "Luke 5:31",
+    "type": "quotation",
+    "subtype": "close-verbal",
+    "confidence": "certain",
+    "text": "And Jesus answering said unto them, They that are whole need not a physician; but they that are sick.",
+    "evidence": {
+     "vocabulary": 5,
+     "syntax": 4,
+     "sequence": 5,
+     "context": 5,
+     "rarity": 5,
+     "attestation": 4
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "composite": [
+     "Luke 5:32",
+     "Mark 2:17",
+     "Matthew 9:12",
+     "Matthew 9:13",
+     "1 Timothy 1:15"
+    ],
+    "provenance": {
+     "route": "Luke 5:31-32 → KJV → Book of Mormon",
+     "other": "“whole need not a physician” occurs in exactly two KJV verses, Matthew 9:12 and Luke 5:31; “not to call the righteous” in exactly two, Mark 2:17 and Luke 5:32; “sinners to repentance” in three. Luke is the only book where the two clauses that Moroni 8:8 reproduces both stand in their Moroni form, and “came into the world” is a KJV singleton at 1 Timothy 1:15, “Christ Jesus came into the world to save sinners”.",
+     "alternative": "Mark 2:17, which Hardy's apparatus cross-references alongside Matthew and Luke, and which holds both clauses in one verse — but reads 'have no need of the physician', which Moroni does not have.",
+     "significance": "The mediation test is unusually clean and it decides against two thirds of Hardy's row. Matthew 9:13 reads 'I am not come to call'; Moroni reads 'I came…not to call', which is Mark's and Luke's. Mark 2:17 reads 'they that are whole have no need of the physician'; Moroni reads 'the whole need no physician', which keeps Matthew's and Luke's verb-first shape. Luke 5:31-32 is the only place in the KJV where both of Moroni's forms stand together. What Moroni adds is the expansion 'I came into the world', and the KJV's one verse joining that phrase to sinners is 1 Timothy 1:15 — so the saying arrives with a Pauline gloss attached. Then comes the inference the Gospels never draw: if the physician is for the sick, and little children are whole, the sacrament of the sick does not apply to them. Christ's defence of eating with sinners is turned into an argument for withholding a rite."
+    },
+    "note": "“I came into the world not to call the righteous, but sinners to repentance; the whole need no physician, but they that are sick.” The chapter's central borrowing and its argumentative hinge. Two clauses of the synoptic pericope are reproduced nearly verbatim, and their order is reversed: in all three Gospels the physician comes first and the calling second, in Moroni the calling comes first and the physician second, because the word Mormon needs to pick up is 'whole', which then governs the rest of the verse ('wherefore little children are whole'). The reversal is the argument. Hardy's apparatus cross-references Matthew 9:12-13, Mark 2:17 and Luke 5:31-32 here; the wording is Luke's, and the note above says on what evidence. Below Skousen's sixteen-word threshold as a single run and catalogued as a quotation on the strength of the two reproduced clauses and the rarity of both.",
+    "bibliography": [
+     "Hardy MSI at Moro 8.8 (Matthew 9:12-13, Mark 2:17, Luke 5:31-32)"
+    ],
+    "status": "majority",
+    "streams": [
+     "manual",
+     "machine-ngram",
+     "scholarship"
+    ]
+   },
+   {
+    "source": "2 Corinthians 3:14",
+    "type": "allusion",
+    "subtype": "close-verbal",
+    "confidence": "high",
+    "text": "But their minds were blinded: for until this day remaineth the same vail untaken away in the reading of the old testament; which vail is done away in Christ.",
+    "evidence": {
+     "vocabulary": 4,
+     "syntax": 4,
+     "sequence": 3,
+     "context": 5,
+     "rarity": 5,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "recurrenceRefs": [
+     "Ether 4:15"
+    ],
+    "provenance": {
+     "route": "2 Corinthians 3:14 → KJV → Book of Mormon",
+     "other": "“is done away in” occurs in exactly one KJV verse, 2 Corinthians 3:14, where the full phrase is “done away in Christ”. Moroni 8:8 has “done away in me” in the mouth of Christ, which is the same phrase with the pronoun that the speaker requires.",
+     "significance": "Recovering 2 Corinthians 3 makes the substitution work harder than it looks. What is 'done away in Christ' there is the vail on the reading of the old testament, and the chapter's argument is that a glory belonging to the ministration of death is abolished by a ministration of the spirit. Moroni 8 applies the formula to a specific old-testament ordinance, circumcision, and then — this is the point — uses the abolition of the sign given to infants as the reason for withholding a sign from infants. Paul's vail becomes Mormon's knife."
+    },
+    "note": "“And the law of circumcision is done away in me.” The KJV forms 'is done away in' once, and there it is 'done away in Christ'; here Christ is speaking, so the phrase is unchanged except for the pronoun it must take. The link matters beyond its four words because it supplies the legal warrant the chapter needs: circumcision is the rite the Bible does administer to those who cannot consent, and the whole force of 8:8 is that the one such rite has been abolished by the same speaker who is now refusing another. Note that Ether 4:15 uses the same 2 Corinthians 3 material for the vail itself, which is the source's own subject; Moroni 8:8 takes the formula and leaves the vail.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "manual",
+     "machine-ngram"
+    ]
+   },
+   {
+    "source": "Romans 5:14",
+    "type": "allusion",
+    "subtype": "conceptual",
+    "confidence": "moderate",
+    "text": "Nevertheless death reigned from Adam to Moses, even over them that had not sinned after the similitude of Adam’s transgression, who is the figure of him that was to come.",
+    "evidence": {
+     "vocabulary": 2,
+     "syntax": 2,
+     "sequence": 3,
+     "context": 5,
+     "rarity": 3,
+     "attestation": 0
+    },
+    "kjvSpecific": "uncertain",
+    "mediation": "direct-NT",
+    "composite": [
+     "Romans 5:12"
+    ],
+    "provenance": {
+     "route": "Romans 5:12-14 → KJV → Book of Mormon",
+     "other": "Romans 5:14 is the KJV's one verse describing people over whom Adam's consequence reigns although they 'had not sinned after the similitude of Adam's transgression'. No distinctive phrase is shared; the contact is the proposition.",
+     "significance": "Romans 5:12-14 is the passage on which the western case for infant baptism was actually built — death passing upon all men, reigning even over those who have not themselves sinned. Moroni 8:8 states the same anthropology and reverses its consequence: the curse of Adam is real, it is precisely what the incapable inherit, and it is taken away from them in Christ without a rite. The chapter is not ignoring the proof text; it is answering it."
+    },
+    "note": "“Wherefore the curse of Adam is taken from them in me, that it hath no power over them.” Almost no shared wording, and the row is here because the doctrine is exactly Romans 5:12-14's and exactly inverted. Paul's argument runs Adam → death over the non-transgressing → the need of the second Adam; Mormon's runs Adam → curse over the non-transgressing → already removed in the second Adam, therefore no baptism. Catalogued as an allusion rather than an echo because 'the curse of Adam' has no other biblical locus that states the case, and moderate rather than high because the wording will not carry the claim on its own.",
+    "whyNot": "There is no distinctive verbal contact. A reader who requires shared phrasing should decline this row and read 8:8's Adam clause as the Book of Mormon's own doctrine, stated in 2 Nephi 2 long before this chapter.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "manual"
+    ]
+   }
+  ],
+  "8:9": [
+   {
+    "source": "Galatians 6:7",
+    "type": "echo",
+    "subtype": "possible",
+    "confidence": "moderate",
+    "text": "Be not deceived; God is not mocked: for whatsoever a man soweth, that shall he also reap.",
+    "evidence": {
+     "vocabulary": 3,
+     "syntax": 2,
+     "sequence": 2,
+     "context": 4,
+     "rarity": 4,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "recurrenceRefs": [
+     "Moroni 8:23"
+    ],
+    "provenance": {
+     "route": "Galatians 6:7 → KJV → Book of Mormon",
+     "other": "“God is not mocked” occurs in exactly one KJV verse. The KJV's twenty-one other occurrences of 'mocked' are all of one person mocking another; Galatians 6:7 is the only one whose object is God.",
+     "significance": "Galatians 6:7's mockery is self-deception about consequences — 'be not deceived… whatsoever a man soweth, that shall he also reap'. Moroni's is a rite performed as though God could be induced to count it. Both make the charge against religious practice rather than against blasphemy, and both stand in letters whose subject is a rite wrongly required."
+    },
+    "note": "“It is solemn mockery before God, that ye should baptize little children.” 'Mockery' is not a KJV word at all, and the one KJV verse that makes God the object of mocking is Galatians 6:7 — in the letter that is also behind 8:24's 'under the curse of a broken law'. Mormon uses the charge twice, here and at 8:23, and both times of a sacramental act rather than of scorn. Recorded as an echo because the shared element is a single idea and a single root; the argument for it is that Galatians is demonstrably in view elsewhere in the same chapter.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "manual"
+    ]
+   }
+  ],
+  "8:10": [
+   {
+    "source": "Matthew 18:4",
+    "type": "allusion",
+    "subtype": "close-verbal",
+    "confidence": "high",
+    "text": "Whosoever therefore shall humble himself as this little child, the same is greatest in the kingdom of heaven.",
+    "evidence": {
+     "vocabulary": 4,
+     "syntax": 4,
+     "sequence": 4,
+     "context": 5,
+     "rarity": 5,
+     "attestation": 2
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "composite": [
+     "Matthew 18:3",
+     "Matthew 19:14"
+    ],
+    "recurrenceRefs": [
+     "Mosiah 3:18",
+     "3 Nephi 11:38",
+     "3 Nephi 18:22"
+    ],
+    "provenance": {
+     "route": "Matthew 18:3-4 → KJV → Book of Mormon",
+     "other": "“humble himself as” occurs in exactly one KJV verse, Matthew 18:4 ('Whosoever therefore shall humble himself as this little child'); “become as little children” in exactly one, Matthew 18:3. Both are in the same speech, and Moroni 8:10 has both moves in one clause.",
+     "significance": "Matthew 18:2-4 is the passage a defender of infant baptism has least use for and Mormon has most. Christ sets a child in the midst as the pattern for adults; the child is the standard, not the candidate. Moroni 8:10 draws the conclusion the Gospel leaves implicit — if children are the model of the state baptism aims at, then baptism is for those who are not yet in it — and turns the parents into the ones who must be converted. That the same evangelist's 19:14 says 'of such is the kingdom of heaven' completes the case: the children are already inside."
+    },
+    "note": "“Teach parents that they must repent and be baptized, and humble themselves as their little children, and they shall all be saved with their little children.” The KJV's one 'humble himself as' verse is about a little child, and the verse before it is the KJV's one 'become as little children'. Mormon combines them and adds the plural possessive: not 'as this little child' but 'as their little children', which makes the child in the midst the reader's own. Note what the sentence does to Matthew's order of salvation — in Matthew the child-likeness is the condition of entering the kingdom, here it is a thing parents are taught alongside repentance and baptism, and the children are saved 'with' them rather than through them.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "manual"
+    ]
+   },
+   {
+    "source": "Acts 2:38",
+    "type": "allusion",
+    "subtype": "close-verbal",
+    "confidence": "moderate",
+    "text": "Then Peter said unto them, Repent, and be baptized every one of you in the name of Jesus Christ for the remission of sins, and ye shall receive the gift of the Holy Ghost.",
+    "evidence": {
+     "vocabulary": 4,
+     "syntax": 3,
+     "sequence": 4,
+     "context": 4,
+     "rarity": 2,
+     "attestation": 1
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "composite": [
+     "Mark 1:4",
+     "Luke 3:3"
+    ],
+    "recurrenceRefs": [
+     "2 Nephi 9:23",
+     "2 Nephi 31:11",
+     "3 Nephi 30:2",
+     "Mormon 7:8"
+    ],
+    "provenance": {
+     "route": "Acts 2:38 → KJV → Book of Mormon",
+     "other": "“for the remission of sins” occurs in exactly five KJV verses; “repent and be baptized” occurs in exactly one KJV verse, Acts 2:38, which also carries the gift of the Holy Ghost that Moroni 8:26 reaches at the end of its chain.",
+     "significance": "Acts 2:38-39 is the other classical proof text for infant baptism — 'the promise is unto you, and to your children' — and Moroni 8:10-11 quotes the command and stops one verse short of the promise. Whether or not that is deliberate, the effect is that the chapter's positive statement of the ordinance is drawn from the verse most often used against its conclusion."
+    },
+    "note": "“Repentance and baptism unto they which are accountable… teach parents that they must repent and be baptized.” The order repent-then-be-baptized-unto-remission is Acts 2:38's, and 8:11's 'unto the remission of sins' completes it. Moderate rather than high: the chain is the Book of Mormon's standing formula by this point in the corpus (2 Nephi 31, 3 Nephi 30, Mormon 7), so this is Mormon using an idiom he has inherited as much as reaching for Acts. The row is worth having anyway because the argument of the chapter turns on who the imperative can be addressed to, which is the one thing Acts 2:38 makes explicit and Mormon exploits: only the accountable can be commanded to repent. 1830 reads 'unto they which are accountable', corrected to 'those who' in 1920.",
+    "whyNot": "The repent-and-be-baptized formula is corpus-wide and cannot be shown to be a fresh borrowing here rather than the Book of Mormon's own catechetical language.",
+    "bibliography": [],
+    "status": "majority",
+    "citationsPending": true,
+    "streams": [
+     "manual",
+     "machine-ngram"
+    ]
+   }
+  ],
+  "8:12": [
+   {
+    "source": "1 Corinthians 15:22",
+    "type": "allusion",
+    "subtype": "strong-verbal",
+    "confidence": "high",
+    "text": "For as in Adam all die, even so in Christ shall all be made alive.",
+    "evidence": {
+     "vocabulary": 4,
+     "syntax": 3,
+     "sequence": 3,
+     "context": 5,
+     "rarity": 5,
+     "attestation": 1
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "recurrenceRefs": [
+     "2 Nephi 2:25",
+     "2 Nephi 25:25",
+     "Moroni 8:19",
+     "Moroni 8:22"
+    ],
+    "provenance": {
+     "route": "1 Corinthians 15:22 → KJV → Book of Mormon",
+     "other": "“in Adam all die” occurs in exactly one KJV verse and “shall all be made alive” occurs in exactly one KJV verse, and both are 1 Corinthians 15:22. “alive in Christ” as such occurs in no KJV verse; the nearest is Romans 6:11, 'alive unto God through Jesus Christ'.",
+     "significance": "The chapter's slogan — 'little children are alive in Christ' — is 1 Corinthians 15:22's second clause compressed into an adjective phrase, and 8:8's 'the curse of Adam is taken from them in me' is its first clause denied for one class of persons. So the two halves of Paul's antithesis are separated across four verses and one of them is cancelled. Recover the source and the argument reads: as in Adam all die, even so in Christ shall all be made alive — and for those incapable of sin the second clause has already happened."
+    },
+    "note": "“But little children are alive in Christ, even from the foundation of the world.” The phrase is not in the KJV, and the verse that supplies both of its terms is 1 Corinthians 15:22, the KJV's one home for 'in Adam all die' and 'in Christ shall all be made alive'. Read with 8:8's curse of Adam, the pair of borrowings is a single Pauline sentence taken apart and used on both sides of the chapter's argument. Mormon repeats the slogan at 8:19 and 8:22, where it is joined to Romans 8:1's 'no condemnation'. 'Even from the foundation of the world' is common KJV property (six verses) and does not identify a source of its own.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "manual"
+    ]
+   },
+   {
+    "source": "Acts 10:34",
+    "type": "allusion",
+    "subtype": "close-verbal",
+    "confidence": "high",
+    "text": "Then Peter opened his mouth, and said, Of a truth I perceive that God is no respecter of persons:",
+    "evidence": {
+     "vocabulary": 4,
+     "syntax": 3,
+     "sequence": 3,
+     "context": 5,
+     "rarity": 5,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "composite": [
+     "Romans 2:11",
+     "James 2:9"
+    ],
+    "recurrenceRefs": [
+     "Moroni 8:18"
+    ],
+    "provenance": {
+     "route": "Acts 10:34 → KJV → Book of Mormon",
+     "other": "“respecter of persons” occurs in exactly one KJV verse, Acts 10:34, Peter's 'Of a truth I perceive that God is no respecter of persons'. The 1830 Moroni 8:12 reads 'a respecter to persons', with the preposition of James 2:9's 'ye have respect to persons'; 1920 corrected it to 'of'.",
+     "significance": "Peter says it at the moment the rite of admission is opened to people the law had excluded, and says it immediately before ordering that those people be baptized (Acts 10:47-48). Moroni 8:12 uses the same sentence to argue that a class of persons must be excluded from the same rite — not because God prefers them less, but because a God who is no respecter of persons cannot have made salvation turn on whether a child lived long enough to be washed. The premise is Peter's; the conclusion runs the other way."
+    },
+    "note": "“If not so, God is a partial God, and also a changeble God, and a respecter to persons: for how many little children have died without baptism.” The KJV's one 'respecter of persons' verse, negated by Peter and here made the reductio: infant baptism, if it saves, makes God what Acts 10:34 says he is not. The 1830's 'a respecter to persons' is worth noting under CONVENTIONS §8 — it is a fusion of Acts 10:34's noun with James 2:9's preposition, and 1920's correction to 'of' moved the text back toward the KJV. 1830's 'changeble' for 'changeable' is a spelling, not a variant reading. Mormon restates the whole clause at 8:18.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "manual"
+    ]
+   }
+  ],
+  "8:14": [
+   {
+    "source": "Acts 8:23",
+    "type": "quotation",
+    "subtype": "close-verbal",
+    "confidence": "certain",
+    "text": "For I perceive that thou art in the gall of bitterness, and in the bond of iniquity.",
+    "evidence": {
+     "vocabulary": 5,
+     "syntax": 5,
+     "sequence": 5,
+     "context": 4,
+     "rarity": 5,
+     "attestation": 2
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "recurrenceRefs": [
+     "Mosiah 27:29",
+     "Alma 36:18",
+     "Alma 41:11",
+     "Mormon 8:31"
+    ],
+    "provenance": {
+     "route": "Acts 8:23 → KJV → Book of Mormon",
+     "other": "“gall of bitterness” occurs in exactly one KJV verse and “bond of iniquity” occurs in exactly one KJV verse, and both are Acts 8:23. The 1830 reads “in the bonds iniquity”, dropping the preposition and pluralizing the noun; 1920 restored “bonds of iniquity”, which is nearer the KJV in the preposition and further from it in the number.",
+     "significance": "Peter says this to Simon Magus, who has just tried to buy the power of conferring the Holy Ghost by the laying on of hands — that is, to a man whose sin is a false relation to a sacrament of initiation. Moroni 8:14 puts the same words on a man who administers a sacrament of initiation to those who cannot receive it. Both are charged with treating an ordinance as a thing that can be made to work by being performed. And the next verse of Acts is Peter's 'Repent therefore of this thy wickedness', which is what Moroni 8:16 goes on to demand — 'they shall perish, except they repent'."
+    },
+    "note": "“Is in the gall of bitterness, and in the bonds iniquity.” Eight words of a nine-word KJV verse, both of whose distinctive phrases are singletons; there is no other candidate. The chapter's rhetoric is now running on Acts's two confrontations with sorcerers — Peter and Simon here, Paul and Elymas at 8:16 — and the pairing is the finding: Mormon condemns the baptizers of infants in the two forms of words the KJV reserves for men who trade in the appearance of spiritual power. Note the 1830 reading: the missing 'of' makes 'bonds iniquity' a genitive by juxtaposition, which is the kind of error a text produces when it is reproducing a remembered phrase rather than copying it.",
+    "bibliography": [],
+    "status": "majority",
+    "citationsPending": true,
+    "streams": [
+     "manual",
+     "machine-ngram"
+    ]
+   }
+  ],
+  "8:16": [
+   {
+    "source": "1 John 4:18",
+    "type": "quotation",
+    "subtype": "close-verbal",
+    "confidence": "certain",
+    "text": "There is no fear in love; but perfect love casteth out fear: because fear hath torment. He that feareth is not made perfect in love.",
+    "evidence": {
+     "vocabulary": 5,
+     "syntax": 5,
+     "sequence": 5,
+     "context": 5,
+     "rarity": 5,
+     "attestation": 3
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "recurrenceRefs": [
+     "Moroni 8:17",
+     "Moroni 8:26"
+    ],
+    "provenance": {
+     "route": "1 John 4:18 → KJV → Book of Mormon",
+     "other": "“perfect love casteth out” occurs in exactly one KJV verse. Moroni adds one word: “casteth out all fear”.",
+     "significance": "1 John 4:18 continues 'because fear hath torment. He that feareth is not made perfect in love.' Moroni 8:16 has just said 'I fear not what man can do', and 8:21 will threaten those who pervert the ordinance with 'death, hell, and an endless torment'. So the torment 1 John attaches to the one who fears is transferred, in the space of five verses, to the one who is to be feared — the writer keeps the perfect love, and hands the torment to his opponents."
+    },
+    "note": "“For perfect love casteth out all fear.” A KJV singleton reproduced with one word added, and the addition is doing something: 1 John's 'fear' is fear of judgment, and Mormon's 'all fear' has to cover the fear of man he has just disclaimed in the same sentence. This is the hinge of the chapter's second half — 8:17's 'charity, which is everlasting love' and 'I love little children with a perfect love' both depend on it, as does the 'perfect love' of 8:26. The charity vocabulary itself is 1 Corinthians 13's and is adjudicated at Moroni 7:44-46.",
+    "bibliography": [],
+    "status": "majority",
+    "citationsPending": true,
+    "streams": [
+     "manual"
+    ]
+   },
+   {
+    "source": "Psalm 56:4",
+    "type": "allusion",
+    "subtype": "close-verbal",
+    "confidence": "high",
+    "text": "In God I will praise his word, in God I have put my trust; I will not fear what flesh can do unto me.",
+    "evidence": {
+     "vocabulary": 4,
+     "syntax": 4,
+     "sequence": 4,
+     "context": 4,
+     "rarity": 5,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-OT",
+    "composite": [
+     "Psalm 56:11",
+     "Matthew 7:29"
+    ],
+    "provenance": {
+     "route": "Psalm 56:4 + 56:11 → KJV → Book of Mormon",
+     "other": "The psalm states its refrain twice: 56:4 'I will not fear what flesh can do unto me' and 56:11 'I will not be afraid what man can do unto me'. “what man can do” occurs in exactly one KJV verse, Psalm 56:11; “I will not fear what” belongs to 56:4 and to Hebrews 13:6. Moroni's “I fear not what man can do” has 56:4's verb and 56:11's noun, and nothing that is only Hebrews'.",
+     "alternative": "Hebrews 13:6, 'we may boldly say, The Lord is my helper, and I will not fear what man shall do unto me' — which pairs boldness with fearlessness of man exactly as Moroni 8:16 does, and which is quoting Psalm 118:6, not Psalm 56.",
+     "significance": "Hebrews 13:6 supplies the sentence's shape and Psalm 56 supplies its words. That is a genuinely divided result and it is recorded as one: had the Book of Mormon taken this from Hebrews it would read 'what man shall do', and it does not; had it taken it from Psalm 56:4 alone it would read 'what flesh can do', and it does not. What it has is the psalm's twin refrain conflated — the verb of the first statement with the noun of the second — which is what a text does when it is quoting a psalm from memory rather than from a page."
+    },
+    "note": "“Behold, I speak with boldness, having authority from God; and I fear not what man can do.” `mediation-check.py` on Psalm 56:4 against Hebrews 13:6 returns one decisive point for the Psalm ('can', not 'shall') and none for Hebrews; run against Psalm 56:11 it returns one each way ('fear' with Hebrews, 'can' with the Psalm), and the resolution is that 'fear' is also Psalm 56:4's word. So both discriminating words are available inside Psalm 56 and neither is uniquely Hebrews', and the mediation is direct-OT. The countervailing evidence is contextual and is stated in `provenance.alternative`: only Hebrews 13:6 puts boldness of speech next to fearlessness of man, which is precisely Moroni's pairing here and again at 8:21 ('I speak it boldly'). 'Having authority' is a KJV singleton at Matthew 7:29, of Christ's manner of teaching against the scribes' — a fair description of what Mormon is claiming in this sentence.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "manual",
+     "machine-ngram"
+    ]
+   },
+   {
+    "source": "Acts 13:10",
+    "type": "allusion",
+    "subtype": "close-verbal",
+    "confidence": "high",
+    "text": "And said, O full of all subtilty and all mischief, thou child of the devil, thou enemy of all righteousness, wilt thou not cease to pervert the right ways of the Lord?",
+    "evidence": {
+     "vocabulary": 4,
+     "syntax": 4,
+     "sequence": 4,
+     "context": 5,
+     "rarity": 5,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "provenance": {
+     "route": "Acts 13:10 → KJV → Book of Mormon",
+     "other": "“pervert the right ways of the Lord” occurs in exactly one KJV verse, Acts 13:10. “pervert the” occurs in six, of which the other five pervert judgment, words, or the gospel — none of them the Lord's ways. Moroni 8:16 drops 'right' and keeps the rest.",
+     "significance": "Acts 13:10 is Paul's rebuke of Elymas the sorcerer, and Moroni 8:14 has just used Peter's rebuke of Simon the sorcerer. The KJV contains exactly two scenes in which an apostle denounces a magician to his face, and Moroni 8 draws on both of them within three verses, in their canonical order, to condemn the baptizers of little children. Neither Acts passage is about baptism; what they share with Moroni 8 is a man who mishandles the machinery of the sacred and an apostle with the authority to say so out loud. That is also why 8:16's 'having authority from God' is in the sentence — the borrowing is not only of words but of a warrant to speak them."
+    },
+    "note": "“Wo be unto him that shall pervert the ways of the Lord after this manner, for they shall perish, except they repent.” A KJV singleton with one word dropped, and the drop is intelligible: Acts's 'right ways' contrasts with a crooked path, while Mormon's opponents are perverting the ways themselves. The row's real interest is its neighbour — see Moroni 8:14, where the words are Peter's to Simon Magus. Taken together the two verses are this catalogue's proposal that Mormon's model for denouncing a sacramental abuse is Acts's model for denouncing sorcery. Nothing in either Acts passage concerns children or baptism, and the machine proposed neither; the row is offered as an argument, not as an identification.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "manual"
+    ]
+   }
+  ],
+  "8:21": [
+   {
+    "source": "Romans 14:10",
+    "type": "allusion",
+    "subtype": "close-verbal",
+    "confidence": "high",
+    "text": "But why dost thou judge thy brother? or why dost thou set at nought thy brother? for we shall all stand before the judgment seat of Christ.",
+    "evidence": {
+     "vocabulary": 4,
+     "syntax": 4,
+     "sequence": 5,
+     "context": 4,
+     "rarity": 5,
+     "attestation": 1
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "composite": [
+     "2 Corinthians 5:10"
+    ],
+    "recurrenceRefs": [
+     "2 Nephi 33:7",
+     "3 Nephi 28:31",
+     "Ether 12:38",
+     "Moroni 8:20"
+    ],
+    "provenance": {
+     "route": "Romans 14:10 → KJV → Book of Mormon",
+     "other": "“judgment seat of Christ” occurs in exactly two KJV verses, Romans 14:10 and 2 Corinthians 5:10; “stand before the judgment seat” in exactly one, Romans 14:10 (2 Corinthians 5:10 reads 'appear before'). “set at nought” occurs in five, one of which is Romans 14:10.",
+     "significance": "Romans 14 is Paul's ruling that believers must not condemn one another over a disputed observance — meats and days — because both parties will stand at the same judgment seat. Moroni 8:20-21 borrows the verse to do the opposite: it names one side of a disputed observance and tells them that the other side will stand against them there. The metalepsis is sharp. Recover Romans 14 and the sentence Mormon is using to condemn his opponents is the sentence Paul wrote to stop exactly that."
+    },
+    "note": "“Setteth at nought the atonement of him… or they stand against you at the judgement seat of Christ.” The two rare elements are split across 8:20 and 8:21 in Romans 14:10's own order — 'set at nought' first, 'stand before the judgment seat of Christ' second — and the KJV holds them together in one verse only here. The mediation between the two 'judgment seat of Christ' verses is decided by the verb: Moroni has 'stand', which is Romans 14:10's, not 2 Corinthians 5:10's 'appear'. Note the 1830 'judgement seat', modernized in 1920 to the hyphenated 'judgment-seat'. The phrase recurs across the corpus (2 Nephi 33:7, 3 Nephi 28:31, Ether 12:38); what is particular here is the pairing with 'set at nought', which no other Book of Mormon occurrence has.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "manual"
+    ]
+   }
+  ],
+  "8:22": [
+   {
+    "source": "Romans 8:1",
+    "type": "allusion",
+    "subtype": "strong-verbal",
+    "confidence": "high",
+    "text": "There is therefore now no condemnation to them which are in Christ Jesus, who walk not after the flesh, but after the Spirit.",
+    "evidence": {
+     "vocabulary": 4,
+     "syntax": 3,
+     "sequence": 4,
+     "context": 5,
+     "rarity": 5,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "composite": [
+     "Romans 5:13",
+     "Romans 4:15",
+     "Romans 2:12"
+    ],
+    "recurrenceRefs": [
+     "2 Nephi 9:25"
+    ],
+    "provenance": {
+     "route": "Romans 8:1, with Romans 5:13 and 4:15 → KJV → Book of Mormon",
+     "other": "“no condemnation” occurs in exactly one KJV verse, Romans 8:1, 'There is therefore now no condemnation to them which are in Christ Jesus'. “sin is not imputed when there is no law” is a KJV singleton at Romans 5:13, and Romans 4:15's 'where no law is, there is no transgression' states the same rule.",
+     "significance": "Moroni 8:22 is Romans compressed. Romans 8:1 gives 'no condemnation' and 'in Christ'; Romans 5:13 and 4:15 give the rule that where there is no law there is no imputed sin; Romans 2:12 gives 'as many as have sinned without law'. Put together, they yield exactly the chapter's conclusion — that those under no law are under no condemnation, and that repentance, being the remedy for condemnation, has no object in them. The interest is that Paul's 'no condemnation' is a status won by being in Christ, and Moroni 8:22 extends it to those who never left, so that the phrase describes an innocence rather than an acquittal."
+    },
+    "note": "“For behold that all little children are alive in Christ, and also all they that are without the law… he that is not condemned, or he that is under no condemnation, cannot repent.” One verse carrying three of Romans's rare formulations: 'in Christ' with 'no condemnation' from 8:1, 'without the law' and 'have no law' from 2:12 and 5:13, and behind them Romans 4:15's principle. This is the Romans contact the chapter has been building toward since 8:8's curse of Adam, and it is where the argument is actually made rather than asserted. Note the syllogism's second premise is supplied by 8:24 ('repentance is unto them that are under condemnation'), which is Mormon's own, not Paul's.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "manual"
+    ]
+   }
+  ],
+  "8:23": [
+   {
+    "source": "Hebrews 6:1",
+    "type": "allusion",
+    "subtype": "strong-verbal",
+    "confidence": "high",
+    "text": "Therefore leaving the principles of the doctrine of Christ, let us go on unto perfection; not laying again the foundation of repentance from dead works, and of faith toward God,",
+    "evidence": {
+     "vocabulary": 4,
+     "syntax": 3,
+     "sequence": 5,
+     "context": 5,
+     "rarity": 5,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "composite": [
+     "Hebrews 6:2",
+     "Hebrews 9:14"
+    ],
+    "provenance": {
+     "route": "Hebrews 6:1-2 → KJV → Book of Mormon",
+     "other": "“dead works” occurs in exactly two KJV verses, Hebrews 6:1 ('repentance from dead works, and of faith toward God') and Hebrews 9:14 ('purge your conscience from dead works to serve the living God'). Moroni 8:23 reads 'putting trust in dead works'.",
+     "significance": "Hebrews 6:1-2 lists the foundational doctrines in a fixed order: repentance from dead works, faith toward God, the doctrine of baptisms, laying on of hands. Moroni 8:23-26 runs the same list, in the same order, as a chain of causes — dead works rejected (8:23), repentance and baptism (8:25), baptism by faith unto remission (8:25), and then the visitation of the Holy Ghost (8:26), which in Hebrews' list is what the laying on of hands is for. The catechism Hebrews calls the principles Moroni 8 turns into a sequence, and the point of the sequence is that nothing in it can be entered at the wrong end."
+    },
+    "note": "“And putting trust in dead works.” Two KJV verses have 'dead works' and both are in Hebrews; the one that also has repentance and baptism in the next breath is Hebrews 6:1-2, and it is that list, not the phrase alone, that the following three verses of Moroni 8 reproduce. Mormon's change is the verb: Hebrews speaks of repentance *from* dead works, Moroni of putting *trust in* them, which is the sharper charge and is aimed at a rite rather than at a life. Hebrews 9:14's 'purge your conscience' stands behind 8:26's chain from remission to the visitation of the Spirit.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "manual"
+    ]
+   }
+  ],
+  "8:24": [
+   {
+    "source": "Galatians 3:10",
+    "type": "allusion",
+    "subtype": "close-verbal",
+    "confidence": "moderate",
+    "text": "For as many as are of the works of the law are under the curse: for it is written, Cursed is every one that continueth not in all things which are written in the book of the law to do them.",
+    "evidence": {
+     "vocabulary": 3,
+     "syntax": 3,
+     "sequence": 3,
+     "context": 5,
+     "rarity": 5,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "composite": [
+     "Galatians 3:13"
+    ],
+    "provenance": {
+     "route": "Galatians 3:10 → KJV → Book of Mormon",
+     "other": "“under the curse” occurs in exactly one KJV verse, Galatians 3:10, 'as many as are of the works of the law are under the curse'. Galatians 3:13 supplies the release, 'Christ hath redeemed us from the curse of the law'.",
+     "significance": "Galatians is the letter that argues a rite of initiation cannot be required of those the promise already covers, which is Moroni 8's thesis with circumcision in the place of baptism — and 8:8 has already invoked circumcision by name. Under Galatians 3:10 those under the curse are those who rely on the works of the law; under Moroni 8:24 they are those for whom repentance is meant. The borrowed phrase therefore carries a hidden compliment to the chapter's opponents' opposite: those who cannot break a law cannot be cursed by it."
+    },
+    "note": "“For repentance is unto them that are under condemnation, and under the curse of a broken law.” The KJV's one 'under the curse' verse, with 'of a broken law' supplying what Galatians 3:10 states in its next clause. Moderate rather than high because 'under the curse' is a natural English phrase and the sentence is also continuous with 8:22's Romans material; the reason for preferring Galatians is that the chapter has already used Galatians 6:7 at 8:9 and is arguing the Galatians case about circumcision at 8:8. The 1830's word order here — 'this thing had not ought to be' — was rearranged in 1920 to 'ought not', a grammatical correction with no bearing on the source.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "manual"
+    ]
+   }
+  ],
+  "8:26": [
+   {
+    "source": "Romans 15:13",
+    "type": "allusion",
+    "subtype": "close-verbal",
+    "confidence": "moderate",
+    "text": "Now the God of hope fill you with all joy and peace in believing, that ye may abound in hope, through the power of the Holy Ghost.",
+    "evidence": {
+     "vocabulary": 3,
+     "syntax": 3,
+     "sequence": 4,
+     "context": 5,
+     "rarity": 5,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "composite": [
+     "John 14:26"
+    ],
+    "provenance": {
+     "route": "Romans 15:13 → KJV → Book of Mormon",
+     "other": "“fill you with all joy” occurs in exactly one KJV verse and “abound in hope” occurs in exactly one KJV verse, both being Romans 15:13, which also ends 'through the power of the Holy Ghost'. “the Comforter” as a title of the Spirit occurs in three KJV verses, all in John.",
+     "significance": "Romans 15:13 is the KJV's one verse joining a filling, hope, and the Holy Ghost in a single sentence, and Moroni 8:26 joins the same three — 'the visitation of the Holy Ghost, which comforter filleth with hope'. What Moroni adds is John's title for the Spirit, so that Paul's benediction is spoken about the Johannine Comforter; and what it adds after that is 'and perfect love', which brings 1 John 4:18 back from 8:16 to close the chain."
+    },
+    "note": "“Cometh the visitation of the Holy Ghost, which comforter filleth with hope and perfect love.” Two KJV singletons stand in Romans 15:13 and the verse's own subject is a filling with hope by the Holy Ghost, which is Moroni's clause with the terms in the same relation. The row is moderate because no run of words is shared: the contact is the unusual predication ('filleth with hope') plus the agent, not the phrasing. 'Comforter' is John's word, not Paul's, so the sentence is a composite; and the chain it closes — remission, meekness, visitation, hope, love, endurance to the end — is the same catechetical order as Hebrews 6:1-2 at 8:23.",
+    "whyNot": "No verbal run is shared with Romans 15:13; a reader may take 'filleth with hope' as ordinary devotional English and read the verse as wholly Mormon's own.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "manual"
+    ]
+   }
+  ],
+  "8:28": [
+   {
+    "source": "Genesis 6:3",
+    "type": "allusion",
+    "subtype": "close-verbal",
+    "confidence": "high",
+    "text": "And the LORD said, My spirit shall not always strive with man, for that he also is flesh: yet his days shall be an hundred and twenty years.",
+    "evidence": {
+     "vocabulary": 4,
+     "syntax": 4,
+     "sequence": 4,
+     "context": 5,
+     "rarity": 5,
+     "attestation": 1
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-OT",
+    "recurrenceRefs": [
+     "1 Nephi 7:14",
+     "2 Nephi 26:11",
+     "Mormon 5:16",
+     "Ether 2:15",
+     "Ether 15:19"
+    ],
+    "provenance": {
+     "route": "Genesis 6:3 → KJV → Book of Mormon",
+     "other": "“strive with man” occurs in exactly one KJV verse, Genesis 6:3, 'My spirit shall not always strive with man'. The Book of Mormon uses the clause six times and every occurrence stands at a threatened or completed destruction.",
+     "significance": "Genesis 6:3 is the sentence immediately preceding the Flood — the withdrawal of the Spirit is the notice that a people is about to be destroyed, and the hundred and twenty years is the term of grace. Mormon writes it of the Nephites four verses before the end of his letter, having already told Moroni at 8:27 that pride 'hath proved their destruction'. He had used the same clause at Mormon 5:16 of the same people; here it is put in the mildest available form ('I fear lest') and addressed to his son, which makes it a private admission of what the record will report publicly."
+    },
+    "note": "“But behold, I fear lest the spirit hath ceased striving with them.” The KJV's one 'strive with man' verse, and the Book of Mormon's standing formula for a nation past saving. The link is written here rather than cross-referenced because this is a different book and a different voice from the earlier adjudications — Mormon in a private letter rather than a narrator in a chronicle — and because the verb has changed aspect: Genesis and the earlier occurrences say the Spirit shall not always strive, Moroni 8:28 fears it has already ceased, which is the same sentence after the term of grace has run out.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "manual"
+    ]
+   },
+   {
+    "source": "1 Corinthians 15:24",
+    "type": "allusion",
+    "subtype": "close-verbal",
+    "confidence": "moderate",
+    "text": "Then cometh the end, when he shall have delivered up the kingdom to God, even the Father; when he shall have put down all rule and all authority and power.",
+    "evidence": {
+     "vocabulary": 4,
+     "syntax": 3,
+     "sequence": 3,
+     "context": 3,
+     "rarity": 5,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "composite": [
+     "Romans 13:1"
+    ],
+    "provenance": {
+     "route": "1 Corinthians 15:24 with Romans 13:1 → KJV → Book of Mormon",
+     "other": "“put down all” occurs in exactly one KJV verse and “all rule and all authority” occurs in exactly one KJV verse, both being 1 Corinthians 15:24, 'when he shall have put down all rule and all authority and power'. “no power but of God” occurs in exactly one KJV verse, Romans 13:1, 'the powers that be are ordained of God'.",
+     "significance": "The reversal is the interest. In 1 Corinthians 15:24 it is Christ who puts down all rule and authority and power, at the end, as the last act of his reign; in Moroni 8:28 it is the apostate Nephites who are 'seeking to put down all power and authority', and the reason it is wickedness rather than eschatology is the clause Mormon attaches from Romans 13:1 — 'which cometh from God'. The same act belongs to Christ and damns anyone else."
+    },
+    "note": "“They are also seeking to put down all power and authority, which cometh from God.” Two KJV singletons in one clause, both from 1 Corinthians 15:24, with Romans 13:1's doctrine of ordained power supplying the relative clause. 1 Corinthians 15 is already in the chapter at 8:12 (verse 22), which raises the prior odds that verse 24 is being reached for here. Moderate rather than high because the shared wording is a common enough political idiom and because the sense is inverted; the case rests on the two singletons falling in the same source verse.",
+    "whyNot": "'Put down all power and authority' is ordinary English for suppressing government, and the source verse means the opposite of what Moroni 8:28 means by it. A reader may reasonably treat the coincidence as accidental.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "manual"
+    ]
+   }
+  ],
+  "8:29": [
+   {
+    "source": "Hebrews 2:3",
+    "type": "echo",
+    "subtype": "possible",
+    "confidence": "moderate",
+    "text": "How shall we escape, if we neglect so great salvation; which at the first began to be spoken by the Lord, and was confirmed unto us by them that heard him;",
+    "evidence": {
+     "vocabulary": 3,
+     "syntax": 3,
+     "sequence": 3,
+     "context": 4,
+     "rarity": 4,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "provenance": {
+     "route": "Hebrews 2:3 → KJV → Book of Mormon",
+     "other": "“so great salvation” occurs in exactly one KJV verse, Hebrews 2:3, 'How shall we escape, if we neglect so great salvation; which at the first began to be spoken by the Lord, and was confirmed unto us by them that heard him'. “so great a” is common (six verses) and identifies nothing on its own.",
+     "significance": "Hebrews 2:3 grounds the inescapability of the judgment in the chain of transmission — spoken by the Lord, confirmed by those who heard him. Moroni 8:29 grounds the destruction in the same chain and names both links: 'the prophecies which was spoken by the prophets, as well as the words of our Saviour himself'. Hebrews asks a question; Moroni answers it about a particular people."
+    },
+    "note": "“And after rejecting so great a knowledge, my son, they must perish soon.” The KJV forms 'so great' with an abstract noun of salvation once, and its argument — no escape for those who neglect what was spoken by the Lord and confirmed by his hearers — is the argument of the whole verse here, down to Moroni's pairing of the prophets with 'the words of our Saviour himself'. Recorded as an echo because the shared element is a two-word phrase with the noun changed, from salvation to knowledge; the case is the argument the phrase brings with it, not the phrase. 1830 reads 'which was spoken', corrected to 'were' in 1920, and 'Saviour', modernized to 'Savior'.",
+    "whyNot": "'So great a knowledge' shares only 'so great' with Hebrews 2:3, and 'so great a' occurs in six KJV verses; a reader who requires the noun to match should decline this row.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "manual"
+    ]
+   }
+  ],
+  "8:30": [
+   {
+    "source": "2 John 1:12",
+    "type": "echo",
+    "subtype": "possible",
+    "confidence": "moderate",
+    "text": "Having many things to write unto you, I would not write with paper and ink: but I trust to come unto you, and speak face to face, that our joy may be full.",
+    "evidence": {
+     "vocabulary": 3,
+     "syntax": 3,
+     "sequence": 4,
+     "context": 4,
+     "rarity": 4,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "composite": [
+     "3 John 1:13",
+     "2 Corinthians 13:11"
+    ],
+    "provenance": {
+     "route": "2 John 1:12 and 3 John 1:13-14 → KJV → Book of Mormon",
+     "other": "“many things to write unto you” occurs in exactly one KJV verse, 2 John 1:12; 3 John 1:13-14 says the same thing in the singular and adds 'I trust I shall shortly see thee'. “farewell” occurs in four KJV verses, of which 2 Corinthians 13:11 is the only letter-closing.",
+     "significance": "The Johannine letters close on a disjunction — more to write, or a meeting face to face, and the writer prefers the meeting. Moroni 8:27 and 8:30 hold the same disjunction and reverse its confidence: 'if I go not out soon against the Lamanites', 'until I shall write unto you, or shall meet you again'. In the epistles the alternative to writing is a visit the writer expects; in Moroni 8 both branches are in doubt because the writer expects to be killed, and the reader of the Book of Mormon already knows he was."
+    },
+    "note": "“Farewell, my son, until I shall write unto you, or shall meet you again. Amen.” The chapter closes in the form its opening announced (see 8:2, 2 Timothy 1:2): a letter, and specifically a New Testament letter, with a farewell and the write-or-see-you disjunction that ends 2 and 3 John. The verbal contact is slight — 'write unto you' and 'farewell' — and the row is offered for the form rather than the phrasing, which is why it is an echo. Note that 8:27's 'I will write unto you again, if I go not out soon against the Lamanites' is the same construction with the reason for doubt supplied, and that Mormon does write again: Moroni 9.",
+    "whyNot": "'Farewell' and 'write unto you' are the common property of every letter in English, and the epistolary form of Moroni 8 could be borrowed at the level of genre without any particular verse behind this one.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "manual"
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,123 @@
+[
+ {
+  "bomRef": "Moroni 2:1",
+  "source": "Psalm 105:26",
+  "category": "better-source-identified",
+  "sharedText": "whom he had chosen",
+  "streams": [
+   "machine-ngram"
+  ],
+  "reason": "“whom he had chosen” occurs in exactly two KJV verses and this is the other one, so it ranked. Psalm 105:26 is a summary of the exodus — 'He sent Moses his servant; and Aaron whom he had chosen' — a singular chosen man, no twelve, no Spirit, no laying on of hands. Acts 1:2 has the same four words with the apostles, the post-resurrection commission and the Holy Ghost, and the link sits there. Recorded because a reader running the phrase will find this verse first."
+ },
+ {
+  "bomRef": "Moroni 2:1",
+  "source": "Mark 10:16",
+  "category": "better-source-identified",
+  "sharedText": "his hands upon them",
+  "streams": [
+   "machine-ngram"
+  ],
+  "reason": "The strongest of the near misses, because it is Christ himself laying hands on people and the shared run is four words. But the KJV reads 'put his hands upon them, and blessed them' — “put his hands upon them” occurs in exactly one KJV verse, and it is a blessing of children, with no Spirit conferred and nothing delegated. Moroni 2:1 reads 'laid his hands upon them', which is a different KJV singleton (Acts 19:6) and the one where the Holy Ghost follows the gesture. The distinction between putting and laying hands is precisely the distinction between a blessing and an ordination, and the Book of Mormon is on the Acts side of it."
+ },
+ {
+  "bomRef": "Moroni 2:1",
+  "source": "Matthew 9:37",
+  "category": "formulaic",
+  "sharedText": "unto his disciples the",
+  "streams": [
+   "machine-ngram"
+  ],
+  "reason": "The highest-scoring machine candidate in the verse and worthless. “unto his disciples the” occurs in exactly one KJV verse, which is why it ranked, and the string is an artifact of where the harvest saying's article falls after a speech formula. Nothing of Matthew 9:37 — the harvest, the labourers, the prayer for more of them — is in Moroni 2. This entry covers the whole family of 'spake unto his disciples' matches in this chapter."
+ },
+ {
+  "bomRef": "Moroni 2:2",
+  "source": "Psalm 89:24",
+  "category": "better-source-identified",
+  "sharedText": "and in my name shall",
+  "streams": [
+   "machine-ngram"
+  ],
+  "reason": "Ranked first in the verse on a five-word run, and it is a coincidence of function words around a possessive. “in my name shall” occurs in exactly two KJV verses; in Psalm 89:24 the speaker is God and the name is God's own ('in my name shall his horn be exalted'), promising David victory. Moroni 2:2's 'in my name shall ye give it' has Christ delegating an act to be done in his name — the same four words carrying an entirely different grammar of agency. The verse's real sources are Acts 8:19 for the power and John 16:23 for the giving in the name; both are linked."
+ },
+ {
+  "bomRef": "Moroni 2:2",
+  "source": "Mark 16:17",
+  "category": "better-source-identified",
+  "sharedText": "in my name shall",
+  "streams": [
+   "machine-ngram",
+   "manual"
+  ],
+  "reason": "The other of the two “in my name shall” verses, and the temptation here is real enough to write out. Mark 16:17-18 is the risen Christ's commission of the eleven, the signs are done in his name, and one verse later they 'lay hands on the sick, and they shall recover' — “lay hands on the sick” occurs in exactly one KJV verse. A commission, the formula 'in my name shall', and hand-laying, all within two verses of each other, is a genuinely close situational match to Moroni 2. It is declined because the verbal contact stops at the four-word formula and points nowhere in particular: Mark's hands heal bodies and confer nothing, and Moroni's clause 'in my name shall ye give it' has an antecedent for 'it' — the Holy Ghost — supplied by John 16:23's 'he will give it you', which is where the link is filed. Recorded so that a reader who sees the Mark 16 commission behind this chapter is told the catalogue saw it and preferred John."
+ },
+ {
+  "bomRef": "Moroni 2:2",
+  "source": "Acts 2:21",
+  "category": "better-source-identified",
+  "sharedText": "shall call on the",
+  "streams": [
+   "machine-ngram"
+  ],
+  "reason": "“shall call on the” occurs in exactly two KJV verses, Joel 2:32 and Acts 2:21 quoting it, and in both the object is 'the name of the LORD' and the outcome is deliverance or salvation. Moroni 2:2's object is the Father and the outcome is authority to confer the Spirit. The relevant KJV verse for calling on a person rather than a name is 1 Peter 1:17, where “call on the Father” occurs in exactly one KJV verse, and it is carried in the John 16:23 link as a composite. This entry covers the Joel 2:32 candidate as well."
+ },
+ {
+  "bomRef": "Moroni 2:2",
+  "source": "Genesis 44:15",
+  "category": "formulaic",
+  "sharedText": "after that ye have done this",
+  "streams": [
+   "machine-ngram"
+  ],
+  "reason": "A batch entry. The clause 'and after that ye have done this' drew five candidates — Genesis 44:15, Judges 15:7, 2 Samuel 2:6, Galatians 4:9 and 1 Peter 5:10 — on two overlapping formulas, “after that ye have” (exactly two KJV verses) and 'ye have done this'. Every one is ordinary narrative or epistolary connective tissue: Joseph's rebuke of his brothers, Samson's threat, David's thanks to the men of Jabesh, Paul's reproach to the Galatians, Peter's promise after suffering. None has anything to do with prayer, hands, or the Spirit. Listed once here rather than five times."
+ },
+ {
+  "bomRef": "Moroni 2:2",
+  "source": "1 Thessalonians 1:5",
+  "category": "common-vocabulary",
+  "sharedText": "the holy ghost and in",
+  "streams": [
+   "machine-ngram"
+  ],
+  "reason": "Scored second in the verse on a five-word run that straddles a clause boundary in both texts — Paul's 'in power, and in the Holy Ghost, and in much assurance' against Moroni's 'ye shall give the Holy Ghost; and in my name shall ye give it'. The shared string is 'the Holy Ghost' plus the conjunction and preposition that happen to follow it. Paul is describing how the gospel came to Thessalonica; Moroni is prescribing an ordinance. A good illustration of CONVENTIONS §9: the n-gram stream is a recall floor and rare boilerplate scores high."
+ },
+ {
+  "bomRef": "Moroni 2:3",
+  "source": "Matthew 17:6",
+  "category": "wrong-sense",
+  "sharedText": "the disciples heard it",
+  "streams": [
+   "machine-ngram"
+  ],
+  "reason": "Four words exactly, and the highest-scoring candidate in the verse. In Matthew 17:6 what the disciples hear is the voice from the cloud at the transfiguration and the consequence is terror: 'they fell on their face, and were sore afraid'. In Moroni 2:3 the clause is one half of a contrast — the multitude heard it not, but the disciples heard it — whose point is that a private instruction was given in a public place. The sense is not opposed so much as unrelated, and the clause is doing the work of 3 Nephi 18:37's 'the multitude heard not the words which he spake', which is where it comes from. Worth noting that Matthew 17:6's 'fell on their face' shares a verb with this verse's 'fell the Holy Ghost' and that this is a pure coincidence of the KJV's commonest verb of falling."
+ },
+ {
+  "bomRef": "Moroni 2:3",
+  "source": "Matthew 22:10",
+  "category": "common-vocabulary",
+  "sharedText": "as many as they",
+  "streams": [
+   "machine-ngram"
+  ],
+  "reason": "“as many as they” occurs in exactly one KJV verse, so the rarity score is high and the rarity is arithmetic: 'as many as' is one of the KJV's standard quantifiers and only here happens to be followed by 'they'. Matthew 22:10 is the gathering of guests for the wedding feast, good and bad alike; Moroni 2:3 is counting the recipients of an ordinance. The pronoun is the whole of the match."
+ },
+ {
+  "bomRef": "Moroni 2:3",
+  "source": "Deuteronomy 31:1",
+  "category": "formulaic",
+  "sharedText": "spake these words unto",
+  "streams": [
+   "machine-ngram"
+  ],
+  "reason": "“spake these words unto” occurs in exactly two KJV verses, Deuteronomy 31:1 and Judges 2:4, and both are the narrative formula for closing a speech — Moses to Israel, the angel of the LORD to Israel. Moroni 2:3 uses it for the same purpose. This entry covers the Judges 2:4 candidate too. Note that the wider phrase “spake these words” occurs in exactly four KJV verses and one of them, Acts 10:44, does bear on this verse — 'While Peter yet spake these words, the Holy Ghost fell on all them which heard the word' — but it bears through the falling of the Spirit, not the speech formula, and it is carried as a composite on the Acts 8:17 link."
+ },
+ {
+  "bomRef": "Moroni 2:3",
+  "source": "Luke 23:17",
+  "category": "formulaic",
+  "sharedText": "unto them at the",
+  "streams": [
+   "machine-ngram"
+  ],
+  "reason": "“unto them at the” occurs in exactly one KJV verse and the verse is the parenthesis about Pilate's custom of releasing a prisoner at the feast. Four function words in sequence, no content word shared, and the candidate exists only because the n-gram stream cannot tell a preposition chain from a phrase."
+ }
+]

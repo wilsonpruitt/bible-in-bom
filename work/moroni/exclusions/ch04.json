@@ -1,0 +1,82 @@
+[
+  {
+    "bomRef": "Moroni 4:1",
+    "source": "Deuteronomy 22:20",
+    "category": "formulaic",
+    "sharedText": "be true and the",
+    "streams": ["machine-ngram"],
+    "reason": "The chapter's top-ranked candidate, tied with Deuteronomy 17:4 on the same four-word run, and both are legal formulae for a charge that has been verified — the tokens of virginity, the report of idolatry in a city. Moroni 4:1's ‘wherefore we know the manner to be true’ is a colophon: the editor certifying that the rubric he has just copied is the authentic one. Nothing connects a Deuteronomic evidence test to a scribe's warranty of his own text except the English words ‘be true and the’, which are not a phrase in either verse but the seam between two clauses. This entry covers the Deuteronomy 17:4 candidate as well."
+  },
+  {
+    "bomRef": "Moroni 4:2",
+    "source": "Genesis 24:11",
+    "category": "wrong-sense",
+    "sharedText": "kneel down",
+    "streams": ["manual"],
+    "reason": "Worth writing out because the rarity is real and would mislead anyone who checked it without reading the verse. ‘Kneel down’ in that exact form occurs in exactly one KJV verse, and it is Abraham's servant making his camels kneel down outside a city by a well at evening. The KJV's word for the human act is the past tense ‘kneeled down’, six verses, three of them with prayer following. Moroni 4:2's congregation is adjudicated against Acts 20:36 for that reason; Genesis 24:11 shares an infinitive and a species boundary. The general lesson is CONVENTIONS §9's: a singleton count is evidence about a string, not about a sense."
+  },
+  {
+    "bomRef": "Moroni 4:2",
+    "source": "Acts 11:26",
+    "category": "better-source-identified",
+    "sharedText": "with the church",
+    "streams": ["machine-ngram"],
+    "reason": "‘With the church’ occurs in exactly two KJV verses, Acts 11:26 and 1 Corinthians 16:19, which is why a four-word run scored here. Neither is a scene of prayer: Barnabas and Saul assemble with the church at Antioch to teach for a year, and Aquila and Priscilla send greetings from the church in their house. The praying that Moroni 4:2 does with a congregation is adjudicated at this verse against Acts 20:36, and the address to the Father in the name of Christ against Ephesians 5:20. Recorded so that a reader who runs the same n-gram is told where the verse's borrowing was actually placed."
+  },
+  {
+    "bomRef": "Moroni 4:3",
+    "source": "Isaiah 9:6",
+    "category": "insufficient-verbal",
+    "sharedText": "(Eternal Father / The everlasting Father)",
+    "streams": ["manual"],
+    "reason": "The most interesting rejection in the chapter. ‘Eternal Father’ occurs in exactly zero KJV verses; the nearest thing the King James Bible has to Moroni's vocative is ‘The everlasting Father’, which occurs in exactly one KJV verse, Isaiah 9:6 — and there it is a throne-name of the child who is born, that is, of the Son. So the one KJV precedent for the title Moroni addresses to God the Father is a verse that gives it to Christ. The temptation to link them is strong precisely because the Book of Mormon elsewhere identifies the Son as the Father (Mosiah 15:2-4, Ether 3:14), and a reader who knows that will expect Isaiah 9:6 to be doing work here. It is not: the prayer's whole grammar depends on holding the two apart — we ask *thee* in the name of *thy Son* — and the shared vocabulary is one adjective the two phrases do not even share, ‘eternal’ against ‘everlasting’. A conceptual resemblance with no verbal contact, declined."
+  },
+  {
+    "bomRef": "Moroni 4:3",
+    "source": "1 Timothy 4:5",
+    "category": "insufficient-verbal",
+    "sharedText": "sanctify / sanctified ... prayer",
+    "streams": ["manual"],
+    "reason": "The typological pull is genuine and the wording will not bear it, which is the Exodus 2:2 ‘goodly’ case again. ‘Sanctified by the word of God and prayer’ occurs in exactly one KJV verse, 1 Timothy 4:5, and it is the New Testament's only statement that food is made holy by being prayed over — which is, in substance, what Moroni 4:3 asks God to do to the bread. But the shared vocabulary is the single word ‘sanctify’, which occurs in sixty-five KJV verses and is the ordinary word for setting anything apart, and Paul's clause is a general defence of eating meat against ascetics, not a eucharistic rubric. The pairing ‘bless and sanctify’ occurs in exactly zero KJV verses. Recorded so the catalogue is on record as having seen the parallel and declined it as dependence."
+  },
+  {
+    "bomRef": "Moroni 4:3",
+    "source": "Psalm 141:8",
+    "category": "formulaic",
+    "sharedText": "unto thee o god the",
+    "streams": ["machine-ngram"],
+    "reason": "A five-word run and pure vocative. The machine also proposed Psalm 77:16, Psalm 75:1 and Psalm 144:9 on the same string; every one of them is the opening address of a psalm and none has any further contact with a sacrament prayer. ‘O God, the Eternal Father’ is Moroni's own title, treated separately in the Isaiah 9:6 entry above; the words the psalms share with it are the two that any English prayer to God begins with."
+  },
+  {
+    "bomRef": "Moroni 4:3",
+    "source": "Deuteronomy 7:9",
+    "category": "better-source-identified",
+    "sharedText": "and keep his commandments",
+    "streams": ["machine-ngram"],
+    "reason": "‘Keep his commandments’ occurs in exactly eighteen KJV verses and the great majority are Deuteronomic covenant formulae; the machine ranked Deuteronomy 7:9 and 13:4 because both extend the run backwards into ‘him and keep his’. The Deuteronomic verses pair commandment-keeping with love, fear, and long life in the land, and not one of the eighteen mentions the Spirit. Moroni 4:3 pairs it with the Spirit, in a clause that also carries the KJV singleton ‘which he hath given us’, and the link is therefore placed at this verse against 1 John 3:24 with John 14:15-17. This entry covers the Deuteronomy 13:4 and John 8:55 candidates on the same run."
+  },
+  {
+    "bomRef": "Moroni 4:3",
+    "source": "John 17:22",
+    "category": "formulaic",
+    "sharedText": "given them that they may",
+    "streams": ["machine-ngram"],
+    "reason": "The highest-scoring candidate at this verse and a five-word run, and it is a seam: ‘given them’ ends one clause and ‘that they may’ begins the next, in both texts. John 17:22 gives the disciples the glory so that they may be one; Moroni 4:3 has God give the commandments so that they may have the Spirit. The purpose clause is the KJV's default connective and the Book of Mormon uses it continuously. The genuine relative clause in this sentence, ‘which he hath given them’, is a KJV singleton belonging to 1 John 3:24, where the link is placed. John 11:42's ‘it that they may’ and Proverbs 24:1's ‘to be with them’ are covered by the same reason."
+  },
+  {
+    "bomRef": "Moroni 4:3",
+    "source": "Ephesians 4:12",
+    "category": "common-vocabulary",
+    "sharedText": "of the body of",
+    "streams": ["machine-ngram"],
+    "reason": "Three candidates arrived on this four-word seam — Ephesians 4:12, Hebrews 10:10 and 1 Corinthians 10:16 — and the string is a genitive chain, not a phrase. Two of the three use ‘body’ ecclesially (the body of Christ that the saints are edified into, the body of Christ the church is) where Moroni means the physical body remembered in the bread. 1 Corinthians 10:16 is the exception and is not rejected: it is carried as a composite source at Moroni 4:1, where the eucharistic pairing of Christ's body and blood is adjudicated. ‘The body of Christ’ occurs in exactly four KJV verses and the phrase Moroni actually writes is ‘the body of thy Son’, which occurs in none of them."
+  },
+  {
+    "bomRef": "Moroni 4:3",
+    "source": "Acts 3:6",
+    "category": "formulaic",
+    "sharedText": "thee in the name",
+    "streams": ["machine-ngram"],
+    "reason": "Three verses tied on this five-word run — Acts 3:6, Acts 16:18 and 1 Samuel 17:45 — and all three are the wrong speech-act. In each, a person addresses an adversary or a sufferer *in* the name of a power: Peter commanding a lame man to walk, Paul commanding a spirit to come out, David answering Goliath. Moroni 4:3 addresses God, and the name invoked is his own Son's. The construction that matters, asking the Father in the Son's name, is a KJV singleton at John 16:23 and the link is placed there."
+  }
+]

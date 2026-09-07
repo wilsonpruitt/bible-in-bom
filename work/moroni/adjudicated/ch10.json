@@ -1,0 +1,1127 @@
+{
+  "chapter": 10,
+  "adjudicated": "2026-09-07",
+  "adjudicator": "Opus",
+  "links": {
+    "10:4": [
+      {
+        "source": "James 1:5",
+        "type": "allusion",
+        "subtype": "paraphrase",
+        "confidence": "high",
+        "text": "If any of you lack wisdom, let him ask of God, that giveth to all men liberally, and upbraideth not; and it shall be given him.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 3,
+          "attestation": 1
+        },
+        "kjvSpecific": "uncertain",
+        "mediation": "direct-NT",
+        "composite": [
+          "James 1:6"
+        ],
+        "recurrenceRefs": [
+          "2 Nephi 4:35",
+          "Alma 6:5",
+          "Moroni 7:26"
+        ],
+        "provenance": {
+          "route": "James 1:5-6 → KJV → Book of Mormon",
+          "other": "Moroni's sequence follows James's sentence by sentence: wisdom sought of God (10:3, 'if it be wisdom in God'), then 'ask God', then the requirement of faith (10:4, 'having faith in Christ'), then the assurance that the answer comes (10:5). James 1:5-6 runs lack wisdom → ask of God → ask in faith, nothing wavering. No single string is reproduced, which is why kjvSpecific is 'uncertain' rather than 'yes'.",
+          "significance": "The metalepsis is the promise's shape, not its words. James is about the terms on which God answers a request, and his two conditions are that the asker lack wisdom and that he ask without wavering; Moroni's conditions are a sincere heart, real intent, and faith in Christ, which is the same pair of conditions rewritten as a test of the reader rather than of the petitioner. What Moroni adds is the object: James's asker gets wisdom, Moroni's gets the truth of a book, and the answer arrives 'by the power of the Holy Ghost' rather than simply being 'given him'."
+        },
+        "note": "'Ask God, the Eternal Father, in the name of Christ, if these things are not true; and if ye shall ask with a sincere heart, with real intent, having faith in Christ, and he will manifest the truth of it unto you.' The most-quoted sentence in the book, and its frame is James 1:5-6. The corpus has already established the route twice — 2 Nephi 4:35 and Alma 6:5 both build a petition on James's 'ask of God' — and this is its terminal use, aimed no longer at a character praying but at a reader holding the volume. The verbal contact is thin (ask, God, faith), so the case rests on the order of the conditions rather than on shared wording; a reader who declines it is declining a sequence, not a phrase.",
+        "bibliography": [],
+        "status": "majority",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "10:5": [
+      {
+        "source": "John 16:13",
+        "type": "echo",
+        "subtype": "conceptual",
+        "confidence": "moderate",
+        "text": "Howbeit when he, the Spirit of truth, is come, he will guide you into all truth: for he shall not speak of himself; but whatsoever he shall hear, that shall he speak: and he will shew you things to come.",
+        "evidence": {
+          "vocabulary": 2,
+          "syntax": 2,
+          "sequence": 3,
+          "context": 4,
+          "rarity": 1,
+          "attestation": 0
+        },
+        "kjvSpecific": "uncertain",
+        "mediation": "direct-NT",
+        "composite": [
+          "1 John 2:27"
+        ],
+        "provenance": {
+          "route": "John 16:13 → KJV → Book of Mormon",
+          "significance": "Moroni's warrant for the promise he has just made is the Johannine one: the Spirit is what carries a person from a text to knowledge of it. John's 'all truth' is eschatological and corporate — the Spirit will show the disciples things to come; Moroni's is epistemic and individual, the truth of 'all things' available to whoever reads and asks."
+        },
+        "note": "'And by the power of the Holy Ghost, ye may know the truth of all things.' The clause is the completion of 10:4's promise and its background is the Paraclete material: the Spirit of truth guiding into all truth (John 16:13), and the anointing by which 'ye know all things' (1 John 2:20, 27). The wording is not reproduced and the phrase 'the truth of all things' is not in the KJV at all, so this is recorded as an echo and not more.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "10:6": [
+      {
+        "source": "1 John 2:23",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "Whosoever denieth the Son, the same hath not the Father: he that acknowledgeth the Son hath the Father also.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "recurrenceRefs": [
+          "Moroni 7:16",
+          "Moroni 7:17"
+        ],
+        "provenance": {
+          "route": "1 John 2:22-23 → KJV → Book of Mormon",
+          "other": "“acknowledgeth” occurs in exactly one KJV verse, 1 John 2:23, which is also one of the three verses containing “denieth” (Luke 12:9, 1 John 2:22, 1 John 2:23). The two words Moroni sets against each other are therefore a pair the King James Bible sets against each other in one sentence and nowhere else.",
+          "significance": "John's pair is a test of spirits and Moroni's is a test of things: the Johannine antichrist denies that Jesus is the Christ, and Moroni's criterion is that whatever is good cannot deny 'the Christ' either. Recovering John's context supplies what Moroni leaves unstated — that the denial in view is not a moral failing but a christological one, and that its opposite is not merely doing good but confessing."
+        },
+        "note": "'Nothing that is good denieth the Christ, but acknowledgeth that he is.' The deny/acknowledge antithesis is not general English piety; it is 1 John 2:22-23's, where the antichrist 'denieth that Jesus is the Christ' and 'he that acknowledgeth the Son hath the Father also'. Both KJV verbs are rare, they occur together only there, and Moroni reproduces both in the same opposition and with the same object, 'the Christ'. This is the criterion Moroni 7:16-17 stated as a test of good and evil, restated at the end of the book with a Johannine vocabulary the earlier chapter did not use.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "10:7": [
+      {
+        "source": "Hebrews 13:8",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "text": "Jesus Christ the same yesterday, and to day, and for ever.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "recurrenceRefs": [
+          "Moroni 10:19",
+          "Mormon 9:9"
+        ],
+        "provenance": {
+          "route": "Hebrews 13:8 → KJV → Book of Mormon",
+          "other": "“same yesterday” occurs in exactly one KJV verse, Hebrews 13:8, and “to day and to morrow” occurs in exactly four (Exodus 19:10, 1 Samuel 9:19, Luke 13:32, Luke 13:33). Moroni 10:7's triad has the second of these where Hebrews has 'yesterday'. The 1830 hyphenation 'to-day, and to-morrow' preserves the two-word KJV forms that later editions closed up; the reading itself has never been altered, so this is a departure from the source and not a printer's slip corrected later.",
+          "significance": "The deformation is the interesting part. Hebrews 13:8 makes Christ's sameness reach backward — yesterday, to day, for ever — so that what he was is the guarantee of what he is. Moroni 10:7 turns the same formula forward: to-day, to-morrow, forever, which is what an argument about gifts that have not yet ceased requires. The unrevised triad returns at 10:19, so the book has both forms within twelve verses, and the tense of each fits its argument."
+        },
+        "note": "'He worketh by power, according to the faith of the children of men, the same to-day, and to-morrow, and forever.' Hebrews 13:8's formula with its first term replaced. The verse is arguing that God's power is not spent, so the past tense of the KJV clause is exactly the term it cannot use, and 'to-morrow' — itself a KJV phrase, from the four verses that pair it with 'to day' — is substituted. Compare 10:19, which gives the formula unaltered, and Mormon 9:9, which had already made this verse the premise of an argument about gifts.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "10:8": [
+      {
+        "source": "1 Corinthians 12:6",
+        "type": "quotation",
+        "subtype": "close-verbal",
+        "confidence": "certain",
+        "text": "And there are diversities of operations, but it is the same God which worketh all in all.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 3
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "1 Corinthians 12:4",
+          "1 Corinthians 12:5",
+          "1 Corinthians 12:7"
+        ],
+        "recurrenceRefs": [
+          "Mormon 9:7",
+          "Mormon 9:24",
+          "Moroni 10:9",
+          "Moroni 10:17"
+        ],
+        "provenance": {
+          "route": "1 Corinthians 12:4-7 → KJV → Book of Mormon",
+          "other": "“worketh all in all” occurs in exactly one KJV verse, 1 Corinthians 12:6, and “manifestation of the Spirit” occurs in exactly one, 1 Corinthians 12:7. Moroni 10:8 has both, together with Paul's 'administered' and 'to profit'.",
+          "significance": "Moroni takes Paul's three parallel sentences and collapses them into one. Paul distributes the gifts across the Trinity — diversities of gifts / same Spirit, differences of administrations / same Lord, diversities of operations / same God — and Moroni keeps only the last member of each pair, so that everything in his sentence is 'the same God'. The suppressed correspondence is the triadic structure: what Paul used to hold Spirit, Lord and God together, Moroni uses to insist there is one giver."
+        },
+        "note": "'There are different ways that these gifts are administered; but it is the same God which worketh all in all: and they are given by the manifestations of the spirit of God unto men, to profit them.' Eleven consecutive words of 1 Corinthians 12:6 stand here unaltered — 'but it is the same God which worketh all in all' — with Paul's 'administrations' (12:5) supplying the preceding clause and his 'manifestation of the Spirit … to profit withal' (12:7) the following one. This is the opening of the longest sustained reproduction of a Pauline chapter in the Book of Mormon outside 3 Nephi's Sermon, and it runs from here to 10:17. The 1830's 'the same God which worketh' keeps the KJV's relative pronoun; 1920 modernised it to 'who', erasing the seam.",
+        "bibliography": [
+          "Hardy MSI at Moro 10.8 (1 Corinthians 12:4-11)"
+        ],
+        "status": "consensus",
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "10:9": [
+      {
+        "source": "1 Corinthians 12:8",
+        "type": "quotation",
+        "subtype": "close-verbal",
+        "confidence": "certain",
+        "text": "For to one is given by the Spirit the word of wisdom; to another the word of knowledge by the same Spirit;",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 2
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "recurrenceRefs": [
+          "Moroni 10:10",
+          "Moroni 10:11"
+        ],
+        "provenance": {
+          "route": "1 Corinthians 12:8 → KJV → Book of Mormon",
+          "other": "“the word of wisdom” occurs in exactly one KJV verse, 1 Corinthians 12:8. Seven consecutive words are shared: 'to one is given by the Spirit'.",
+          "significance": "Paul's list is a list of what is given; Moroni's is a list of what a person may do. The single verb 'teach' inserted into Paul's clause converts a gift possessed into an office exercised, and it governs the whole catalogue that follows — every item from here to 10:16 is something a man does for others rather than something he has."
+        },
+        "note": "'To one is given by the spirit of God, that he may teach the word of wisdom.' Paul's first gift, with two changes: 'the Spirit' becomes 'the spirit of God', which is Moroni's usage throughout the chapter, and 'that he may teach' is added. The interpolation is not decorative — it is how the chapter converts Paul's inventory of charismata into a description of a functioning church, which is what the book of Moroni has been documenting since chapter 2.",
+        "bibliography": [],
+        "status": "consensus",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "10:10": [
+      {
+        "source": "1 Corinthians 12:8",
+        "type": "quotation",
+        "subtype": "close-verbal",
+        "confidence": "certain",
+        "text": "For to one is given by the Spirit the word of wisdom; to another the word of knowledge by the same Spirit;",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 2
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "1 Corinthians 12:8 → KJV → Book of Mormon",
+          "other": "“word of knowledge” occurs in exactly one KJV verse, 1 Corinthians 12:8, and eight consecutive words are shared here: 'the word of knowledge by the same Spirit'.",
+          "significance": "The two halves of Paul's single verse have been split across two verses of Moroni, each given the same introductory formula ('and to another'). The effect is to make Paul's compressed pair into the opening of an enumerated list, which is how the KJV's own verse divisions present it to a reader who meets 1 Corinthians 12 in a chaptered Bible."
+        },
+        "note": "'And to another, that he may teach the word of knowledge by the same spirit.' The second half of 1 Corinthians 12:8, reproduced entire apart from the same inserted 'that he may teach'. Taken with 10:9 the borrowing covers Paul's verse twice over, once for each of its clauses, and 'by the same Spirit' — the refrain that binds Paul's list — is carried across with it and used again at 10:11.",
+        "bibliography": [],
+        "status": "consensus",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "10:11": [
+      {
+        "source": "1 Corinthians 12:9",
+        "type": "quotation",
+        "subtype": "close-verbal",
+        "confidence": "certain",
+        "text": "To another faith by the same Spirit; to another the gifts of healing by the same Spirit;",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 2
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "recurrenceRefs": [
+          "Mormon 9:7",
+          "Ether 12:6"
+        ],
+        "provenance": {
+          "route": "1 Corinthians 12:9 → KJV → Book of Mormon",
+          "other": "“gifts of healing” occurs in exactly two KJV verses, 1 Corinthians 12:9 and 12:30, both inside Paul's discussion of the same list. Ten consecutive words of 12:9 stand here: 'the gifts of healing by the same Spirit'.",
+          "significance": "Paul's 'faith by the same Spirit' becomes 'exceeding great faith', which is the Book of Mormon's own idiom and the one Ether 12 has just spent a chapter on. So the one item in the list that Moroni intensifies is the one his uncle's record made the subject of a treatise, and the intensifier is the seam where the borrowed list meets the book that received it."
+        },
+        "note": "'And to another, exceeding great faith; and to another, the gifts of healing by the same spirit.' Paul's third and fourth gifts in Paul's order and, for the healing clause, in Paul's words. Mormon 9:7 had already used this vocabulary to characterise what the last generation denies — 'no revelations, nor prophecies, nor gifts, nor healing, nor speaking with tongues, and the interpretation of tongues' — which is the same list drawn from the same chapter of Paul, so Moroni is completing an argument his father began.",
+        "bibliography": [],
+        "status": "consensus",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "10:12": [
+      {
+        "source": "1 Corinthians 12:10",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "To another the working of miracles; to another prophecy; to another discerning of spirits; to another divers kinds of tongues; to another the interpretation of tongues:",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 2
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "recurrenceRefs": [
+          "Mosiah 8:18",
+          "Alma 26:12",
+          "Mormon 9:18"
+        ],
+        "provenance": {
+          "route": "1 Corinthians 12:10 → KJV → Book of Mormon",
+          "other": "“working of miracles” occurs in exactly one KJV verse, 1 Corinthians 12:10, which is also the source of the four gifts catalogued at 10:13-10:16.",
+          "significance": "'Working of miracles' is a gift; 'that he may work mighty miracles' is a commission. The grammatical shift from Paul's genitive noun to a purpose clause with a personal subject is the same one made at 10:9 and 10:10, and it is consistent enough across the list to be a policy rather than an accident of paraphrase."
+        },
+        "note": "'And again, to another, that he may work mighty miracles.' Paul's fifth gift, converted from noun to verb. The adjective 'mighty' is Moroni's, not Paul's, and it is the standing Book of Mormon collocation ('mighty miracles' at Mosiah 8:18, Alma 26:12 and Mormon 9:18); the borrowed frame is Pauline and the modifier is native, which is what most of this chapter's contact with 1 Corinthians 12 looks like once the exactly reproduced clauses at 10:8-10:11 are past.",
+        "bibliography": [],
+        "status": "consensus",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "10:13": [
+      {
+        "source": "1 Corinthians 12:10",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "text": "To another the working of miracles; to another prophecy; to another discerning of spirits; to another divers kinds of tongues; to another the interpretation of tongues:",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 5,
+          "context": 4,
+          "rarity": 3,
+          "attestation": 1
+        },
+        "kjvSpecific": "uncertain",
+        "mediation": "direct-NT",
+        "recurrenceRefs": [
+          "Moroni 10:5"
+        ],
+        "provenance": {
+          "route": "1 Corinthians 12:10 → KJV → Book of Mormon",
+          "significance": "The one gift in the list where Moroni's expansion tells against the source's plain sense: Paul's 'prophecy' is unqualified, and Moroni's prophet prophesies 'concerning all things', which reaches back to 10:5's promise that the Holy Ghost makes the truth of all things knowable. Prophecy in this chapter is not prediction but the same comprehensive knowledge the reader has just been promised."
+        },
+        "note": "'And again, to another, that he may prophesy concerning all things.' Paul's sixth gift, in Paul's position in the list. Standing alone the word would identify no source — prophecy is everywhere in the KJV — and the link rests on sequence: 1 Corinthians 12:10 gives miracles, prophecy, discerning of spirits, tongues, interpretation, and Moroni 10:12-10:16 gives miracles, prophecy, angels and ministering spirits, tongues, interpretation, in that order and with nothing else between them.",
+        "bibliography": [],
+        "status": "consensus",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "10:14": [
+      {
+        "source": "1 Corinthians 12:10",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "To another the working of miracles; to another prophecy; to another discerning of spirits; to another divers kinds of tongues; to another the interpretation of tongues:",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 5,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 3
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Hebrews 1:14"
+        ],
+        "recurrenceRefs": [
+          "Moroni 7:29",
+          "Moroni 7:30",
+          "Moroni 7:37"
+        ],
+        "provenance": {
+          "route": "1 Corinthians 12:10 → KJV → Book of Mormon",
+          "other": "“ministering spirits” occurs in exactly one KJV verse, Hebrews 1:14. Paul's own phrase at this point in the list is 'discerning of spirits'; Moroni keeps Paul's noun and takes its qualifier from Hebrews.",
+          "significance": "Paul's 'discerning of spirits' is a diagnostic gift — telling one spirit from another, which in Corinth meant telling true prophecy from false. Moroni's 'beholding of angels and ministering spirits' is a visionary one. The substitution converts a gift of judgment into a gift of sight, and it does so by reading Paul's 'spirits' through Hebrews 1:14, where spirits are angels sent to serve the heirs of salvation. That is precisely the sense Moroni 7:29-32 had already given to angelic ministry, so the chapter is importing its own earlier exegesis into Paul's slot."
+        },
+        "note": "'And again, to another, the beholding of angels and ministering spirits.' The item Hardy's apparatus keys to 1 Corinthians 12:10, and the sequence makes the identification secure — it stands exactly where Paul's 'discerning of spirits' stands, between prophecy and tongues. But the words are a fusion: Paul supplies the position and the noun, Hebrews 1:14 supplies 'ministering spirits', which is a King James singleton. Moroni 7:29-32 had already argued that angels minister to men of strong faith and that this is how the office of their ministry is fulfilled; here that argument is set into a Pauline list as one of the gifts.",
+        "bibliography": [
+          "Hardy MSI at Moro 10.14 (1 Corinthians 12:10)"
+        ],
+        "status": "majority",
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "10:15": [
+      {
+        "source": "1 Corinthians 12:10",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "To another the working of miracles; to another prophecy; to another discerning of spirits; to another divers kinds of tongues; to another the interpretation of tongues:",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 5,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 2
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "1 Corinthians 12:10 → KJV → Book of Mormon",
+          "other": "“divers kinds of tongues” occurs in exactly one KJV verse, 1 Corinthians 12:10.",
+          "significance": "Paul's 'divers kinds' becomes 'all kinds', which is a small word and a large claim: where Paul is dividing one gift among many members, Moroni is asserting a single person's competence in the whole class. It is the same widening that turned 'prophecy' into prophesying 'concerning all things' two verses earlier."
+        },
+        "note": "'And again, to another, all kinds of tongues.' Paul's phrase with its quantifier changed. The KJV's 'divers' returns unaltered in the next verse, which is what confirms that the change here is deliberate rather than a failure of recall: the writer had the word and used it a line later.",
+        "bibliography": [],
+        "status": "consensus",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "10:16": [
+      {
+        "source": "1 Corinthians 12:10",
+        "type": "quotation",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "To another the working of miracles; to another prophecy; to another discerning of spirits; to another divers kinds of tongues; to another the interpretation of tongues:",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 2
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "1 Corinthians 12:10 → KJV → Book of Mormon",
+          "other": "“interpretation of tongues” occurs in exactly one KJV verse, 1 Corinthians 12:10; “divers kinds of tongues” occurs in exactly one, the same verse. Moroni 10:16 has both of Paul's closing items in Paul's order, with the first noun glossed.",
+          "significance": "The list closes where Paul's closes, on interpretation, and the substitution of 'languages' for the first 'tongues' is the chapter's one act of translation — it glosses the King James idiom for a reader who might take 'tongues' to mean something other than speech, and then immediately uses the idiom anyway. The gloss is evidence that the borrowed phrase was felt as borrowed."
+        },
+        "note": "'And again, to another, the interpretation of languages and of diverse kinds of tongues.' Paul's last two gifts, and the strongest verbal evidence in the block after 10:8. The 1830 reading is 'diverse'; the 1920 edition prints 'divers', which is the King James spelling — an editorial correction that moved the Book of Mormon back toward its source rather than away from it, and one of the clearer instances of the pattern CONVENTIONS §8 records. A reader of the current text sees a tighter borrowing than the first edition actually contained.",
+        "bibliography": [],
+        "status": "consensus",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "10:17": [
+      {
+        "source": "1 Corinthians 12:11",
+        "type": "quotation",
+        "subtype": "close-verbal",
+        "confidence": "certain",
+        "text": "But all these worketh that one and the selfsame Spirit, dividing to every man severally as he will.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 2
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "recurrenceRefs": [
+          "Moroni 10:8",
+          "Moroni 10:18"
+        ],
+        "provenance": {
+          "route": "1 Corinthians 12:11 → KJV → Book of Mormon",
+          "other": "“to every man severally” occurs in exactly one KJV verse, 1 Corinthians 12:11, from which Moroni also takes 'as he will'.",
+          "significance": "Paul closes his list by returning the whole distribution to the Spirit's will; Moroni closes his by attributing it to 'the spirit of Christ'. It is the same sentence with a different subject, and the change is the chapter's christological signature — every gift in Moroni's list has already been said to come 'of Christ' (10:18) and to be denied only by denying him (10:6)."
+        },
+        "note": "'And all these gifts comes by the spirit of Christ; and they come unto every man severally, according as he will.' Paul's summarising verse, with 'dividing to every man severally as he will' reproduced almost intact. The 1830's 'all these gifts comes' is the singular verb the 1920 edition regularised to 'come'; the borrowing is visible in the first edition through a grammar the later text tidied away. This verse ends the reproduction of 1 Corinthians 12 that began at 10:8.",
+        "bibliography": [],
+        "status": "consensus",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "10:18": [
+      {
+        "source": "James 1:17",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "Every good gift and every perfect gift is from above, and cometh down from the Father of lights, with whom is no variableness, neither shadow of turning.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 3
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "recurrenceRefs": [
+          "Omni 1:25",
+          "Moroni 7:12",
+          "Moroni 10:30",
+          "Mormon 9:9"
+        ],
+        "provenance": {
+          "route": "James 1:17 → KJV → Book of Mormon",
+          "other": "“every good gift” occurs in exactly one KJV verse, James 1:17. The Book of Mormon uses the phrase at Omni 1:25, Moroni 7:12 and here, and this is its last occurrence in the volume.",
+          "significance": "James's sentence has two halves and the corpus has divided them between two writers. Mormon 9:9 took the second — 'no variableness, neither shadow of turning' — as the premise of an argument that gifts have not ceased; Moroni here takes the first, that every good gift comes down from the Father, and reassigns its source to Christ. Read together, father and son have used one verse of James to make the same case from both of its clauses."
+        },
+        "note": "'That ye remember that every good gift cometh of Christ.' James's singleton phrase, with the giver changed: James has the gift descending from the Father of lights, Moroni has it coming of Christ. The substitution is the chapter's argument in miniature — 10:6 made denial of the Christ the test of whether a thing is good, and this verse makes him the source of whatever is. The phrase returns twelve verses later at 10:30, 'lay hold upon every good gift', which is where the exhortation built on it lands.",
+        "bibliography": [],
+        "status": "majority",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "10:19": [
+      {
+        "source": "Hebrews 13:8",
+        "type": "quotation",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "Jesus Christ the same yesterday, and to day, and for ever.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 2
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "recurrenceRefs": [
+          "Mormon 9:9",
+          "Moroni 10:7"
+        ],
+        "provenance": {
+          "route": "Hebrews 13:8 → KJV → Book of Mormon (possibly via Mormon 9:9)",
+          "other": "“same yesterday” occurs in exactly one KJV verse, Hebrews 13:8. Mormon 9:9 had already used the same clause — 'God is the same yesterday, to-day, and forever' — as the premise of an argument about revelations and gifts, so the proximate model for this sentence may be the Book of Mormon's own earlier verse rather than the epistle directly.",
+          "significance": "Recovering the context of Hebrews 13:8 supplies what Moroni does not say. In Hebrews the sameness of Christ is the ground of an exhortation to imitate dead teachers and not be carried about with strange doctrines; in Moroni it is the ground of a claim that a class of gifts remains available. Both arguments turn the unchangeableness of the giver into an argument about what is still on offer to the living."
+        },
+        "note": "'He is the same yesterday, to-day, and forever, and that all these gifts of which I have spoken, which are spiritual, never will be done away.' The full Hebrews formula, restored after 10:7's forward-facing variant, and put to exactly the use Mormon 9:9 put it to. **Mediation is recorded as direct-NT with a flag:** the route that best fits the evidence is 'NT source reached through an earlier Book of Mormon passage', for which the schema's `mediation` enum has no value (CONVENTIONS §7 supplies OT-via-earlier-BoM only). The same gap has now recurred at Moroni 6, 7, 9 and here, and it should be ruled on rather than worked around.",
+        "bibliography": [],
+        "status": "majority",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      },
+      {
+        "source": "1 Corinthians 13:10",
+        "type": "allusion",
+        "subtype": "conceptual",
+        "confidence": "moderate",
+        "text": "But when that which is perfect is come, then that which is in part shall be done away.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 2,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 2,
+          "attestation": 0
+        },
+        "kjvSpecific": "uncertain",
+        "mediation": "direct-NT",
+        "recurrenceRefs": [
+          "Mormon 9:7",
+          "Mormon 9:8",
+          "Moroni 10:24"
+        ],
+        "provenance": {
+          "route": "1 Corinthians 13:8-10 → KJV → Book of Mormon",
+          "other": "“done away” occurs in five KJV verses (Numbers 27:4, 1 Corinthians 13:10, 2 Corinthians 3:7, 3:11, 3:14). Only 1 Corinthians 13:10 uses it of spiritual gifts, and it stands two chapters after the list Moroni 10:8-17 has just reproduced.",
+          "significance": "This is a link whose interest is that it runs backwards. Paul's chapter says prophecies shall fail, tongues cease, knowledge vanish away, and that what is in part 'shall be done away' when the perfect comes; the cessationist reading of the gifts has been built on those three verses for centuries. Moroni takes Paul's verb, applies it to the same list of gifts he has just quoted from Paul's previous chapter, and negates it: they 'never will be done away', and the only thing that ends them is unbelief. The metalepsis is polemical — the phrase carries its own standard interpretation with it, and the sentence exists to refuse it."
+        },
+        "note": "'All these gifts … never will be done away, even as long as the world shall stand, only according to the unbelief of the children of men.' The phrase is Paul's and the claim is its contradiction. Having quoted 1 Corinthians 12 for ten verses, the chapter turns to 1 Corinthians 13's 'shall be done away' and denies it of exactly the gifts it has just listed, substituting a condition Paul does not give: not the coming of the perfect, but human unbelief. Mormon 9:7-9 had made the same move against the same opponents, so the argument is inherited; the borrowed verb is what makes it an argument about a text.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "10:20": [
+      {
+        "source": "1 Corinthians 13:13",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "And now abideth faith, hope, charity, these three; but the greatest of these is charity.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 3
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "recurrenceRefs": [
+          "Alma 7:24",
+          "Ether 12:4",
+          "Moroni 7:44",
+          "Moroni 7:46",
+          "1 Nephi 15:36"
+        ],
+        "provenance": {
+          "route": "1 Corinthians 13:13 → KJV → Book of Mormon (possibly via Moroni 7:40-48)",
+          "other": "The triad in the order faith, hope, charity occurs in exactly one KJV verse, 1 Corinthians 13:13, and 'charity' as the third member is a King James lexical decision — modern versions read 'love' and cannot produce the triad in these words. Alma 7:24 and Ether 12:4-32 use the same three in the same order, and Moroni 7:40-48 quotes 1 Corinthians 13 at length, so the proximate model here may be the book's own earlier handling rather than the epistle.",
+          "significance": "Paul ranks the triad; Moroni chains it. In 1 Corinthians 13:13 faith, hope and charity abide together and charity is simply the greatest. Here each term is the precondition of the next — there must be faith, therefore hope, therefore charity — and 10:21 runs the chain in reverse as a series of disqualifications. The suppressed correspondence is that Paul's superlative has become an entailment: charity is greatest in Moroni's account because it is last in a sequence nothing else reaches."
+        },
+        "note": "'There must be faith; and if there must be faith, there must also be hope; and if there must be hope, there must also be charity.' Hardy's apparatus cross-references 1 Corinthians 13:13 at this verse and the triad is decisive on its own. What Moroni adds is the logical form: three verses (10:20-22) build a chain from faith to charity and then take it apart in the other direction, ending in despair, which is not in Paul at all. This is the last of the corpus's uses of 1 Corinthians 13, after Alma 7:24, Ether 12 and Moroni 7:44-47, and the only one that makes the triad an argument rather than a list.",
+        "bibliography": [
+          "Hardy MSI at Moro 10.20 (1 Corinthians 13:13)"
+        ],
+        "status": "consensus",
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "10:25": [
+      {
+        "source": "Psalm 14:3",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "They are all gone aside, they are all together become filthy: there is none that doeth good, no, not one.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 4,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "uncertain",
+        "composite": [
+          "Psalm 53:3",
+          "Romans 3:12"
+        ],
+        "provenance": {
+          "route": "Psalm 14:3 / Psalm 53:3 / Romans 3:12 → KJV → Book of Mormon",
+          "other": "“there is none that doeth good, no, not one” occurs in exactly three KJV verses, Psalm 14:3, Psalm 53:3 and Romans 3:12. The wider phrase “none that doeth good” occurs in exactly five, adding Psalm 14:1 and Psalm 53:1.",
+          "significance": "The three KJV verses that carry this clause do not differ at any point Moroni reproduces, so the verse cannot settle its own mediation (tools/mediation-check.py, Psalm 14:3 vs Romans 3:12: no decisive divergence). Context is the only argument available and it cuts toward Paul: Romans 3 quotes the psalm precisely to prove a universal indictment, which is the use Moroni makes of it, whereas the psalm's own frame is the fool who says there is no God. But Moroni 10:25 also immediately withdraws the universality — 'if there be one among you that doeth good' — which is a thing Romans 3 never does."
+        },
+        "note": "'There shall be none that doeth good among you, no not one.' The KJV's most famous statement of total corruption, and Moroni uses it hypothetically: this is what will be true only if the gifts are done away. That is a striking redeployment. In the psalm and in Romans the clause describes the present state of humankind; here it describes a contingency the chapter is arguing against, and the very next sentence entertains the exception ('if there be one among you that doeth good') that Paul's argument exists to exclude. The machine's proposal for this verse was 1 Corinthians 6:5, on the run 'among you? no, not one' — a real five-word overlap, but 'among you' is required by Moroni's second-person address and Paul's clause is about finding an arbitrator; see the exclusion register.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "10:26": [
+      {
+        "source": "John 8:24",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "I said therefore unto you, that ye shall die in your sins: for if ye believe not that I am he, ye shall die in your sins.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "John 8:21"
+        ],
+        "provenance": {
+          "route": "John 8:21, 8:24 → KJV → Book of Mormon",
+          "other": "“die in your sins” occurs in exactly two KJV verses, John 8:21 and John 8:24, and both are in the same discourse; John 8:24 has it twice.",
+          "significance": "John's clause comes with a condition attached — 'if ye believe not that I am he, ye shall die in your sins' — and a consequence, 'whither I go, ye cannot come' (8:21). Moroni reproduces both halves: those who put the gifts away die in their sins, and 'they cannot be saved in the kingdom of God'. The unbelief that John makes the cause of dying in one's sins is exactly the unbelief Moroni 10:24 has named as the thing that ends the gifts, so the borrowed phrase carries its own causal clause into the argument."
+        },
+        "note": "'They die in their sins, and they cannot be saved in the kingdom of God.' The formula is Johannine and rare, and both of its KJV occurrences pair dying in one's sins with an exclusion from where Christ is going. Moroni pairs it with exclusion from the kingdom of God. The phrase is not otherwise in the Book of Mormon, so it is doing work here at the end of the volume that it has not done anywhere in it before.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "10:27": [
+      {
+        "source": "Isaiah 29:4",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "And thou shalt be brought down, and shalt speak out of the ground, and thy speech shall be low out of the dust, and thy voice shall be, as of one that hath a familiar spirit, out of the ground, and thy speech shall whisper out of the dust.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 2
+        },
+        "kjvSpecific": "yes",
+        "mediation": "OT-via-earlier-BoM",
+        "recurrenceRefs": [
+          "2 Nephi 26:16",
+          "2 Nephi 27:9",
+          "2 Nephi 33:13",
+          "Mormon 8:23"
+        ],
+        "provenance": {
+          "route": "Isaiah 29:4 → KJV → 2 Nephi 26:16 / 2 Nephi 33:13 → Moroni 10:27",
+          "other": "“whisper out of the dust” occurs in exactly one KJV verse, Isaiah 29:4, and the imagery of a voice like one with a familiar spirit is Isaiah's alone. But the nearer models are the Book of Mormon's own: 2 Nephi 26:16 renders Isaiah 29:4 as 'their speech shall whisper out of the dust', and 2 Nephi 33:13 — Nephi's farewell — has 'I speak unto you, as the voice of one crying from the dust'. Moroni's 'like as one crying from the dead … even as one speaking out of the dust' stands closer to Nephi's farewell than to the KJV's wording, which is why mediation is recorded as OT-via-earlier-BoM.",
+          "significance": "Isaiah 29:4 is spoken against Ariel: the city is brought so low that its voice comes from the ground like a familiar spirit's. The Book of Mormon reverses the valence — the same low voice out of the dust becomes the testimony of a buried record, and what Isaiah meant as humiliation is claimed as a mode of speech. Recovering Isaiah's context is what makes Moroni's sentence more than a metaphor: the writer is asserting that the prophecy of a whispering, dust-bound voice is fulfilled by the book the reader is holding."
+        },
+        "note": "'Did I not declare my words unto you, which was written by this man, like as one crying from the dead? yea, even as one speaking out of the dust.' The wording is Isaiah 29:4's, but it reaches Moroni through the corpus rather than straight off the page: Nephi ends his own record with 'the voice of one crying from the dust', and the two farewells are built on one verse of Isaiah at opposite ends of the volume. Hardy's apparatus keys Isaiah 29:4 to the following verse, 10:28; the verbal contact is here, at 10:27, and the register records the move (CONVENTIONS §6a).",
+        "bibliography": [
+          "Hardy MSI at Moro 10.28 (Isaiah 29:4)"
+        ],
+        "status": "majority",
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "10:28": [
+      {
+        "source": "Matthew 4:4",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "text": "But he answered and said, It is written, Man shall not live by bread alone, but by every word that proceedeth out of the mouth of God.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "Matthew 4:4 → KJV → Book of Mormon",
+          "other": "“out of the mouth of God” occurs in exactly one KJV verse, Matthew 4:4; “proceedeth out of the mouth” occurs in exactly two, Matthew 4:4 and Deuteronomy 8:3. Deuteronomy has 'out of the mouth of the LORD' where Matthew has 'God', and Moroni has 'God' — the only point at which the two candidates differ in the words Moroni reproduces, and it favours Matthew.",
+          "significance": "The phrase is Christ's answer to the tempter, and it is about the sufficiency of what God says over what a hungry man wants. Moroni uses it of his own book: the words on the plates 'shall proceed forth out of the mouth of the everlasting God'. What is borrowed is the guarantee — in Matthew the phrase certifies the authority of scripture against a competing appetite; here it certifies the authority of a record against the reader's disbelief."
+        },
+        "note": "'They shall proceed forth out of the mouth of the everlasting God.' Moroni's claim for his plates is made in the words of Matthew 4:4, and the choice between Matthew and its own source, Deuteronomy 8:3, is decidable: the KJV's Deuteronomy reads 'the LORD' and the KJV's Matthew reads 'God'. 'Everlasting God' is Moroni's own addition, itself a KJV phrase from Genesis 21:33, Isaiah 40:28 and Romans 16:26. Hardy's apparatus cross-references Isaiah 29:4 at this verse; the wording that answers to Isaiah 29:4 is in 10:27 and the link is filed there.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "10:30": [
+      {
+        "source": "2 Corinthians 6:17",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "Wherefore come out from among them, and be ye separate, saith the Lord, and touch not the unclean thing; and I will receive you.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "James 1:17"
+        ],
+        "recurrenceRefs": [
+          "Moroni 10:18",
+          "Moroni 10:32"
+        ],
+        "provenance": {
+          "route": "2 Corinthians 6:17 → KJV → Book of Mormon",
+          "other": "“touch not the unclean thing” occurs in exactly one KJV verse, 2 Corinthians 6:17. “every good gift” occurs in exactly one, James 1:17, which the chapter has already used at 10:18.",
+          "significance": "Paul's sentence is about separation: come out from among them, be separate, touch not the unclean thing, and I will receive you. Moroni's is about reception: come unto Christ, lay hold on every good gift, touch not the evil gift. The suppressed half of Paul's verse — 'and I will receive you' — is what Moroni's 'come unto Christ' has already supplied at the head of his own sentence, so the two clauses of 2 Corinthians 6:17 are present in reverse order."
+        },
+        "note": "'Come unto Christ, and lay hold upon every good gift, and touch not the evil gift, nor the unclean thing.' Two King James singletons in one sentence, from two different epistles, fused into a single exhortation: James's 'every good gift' as the thing to lay hold on, Paul's 'touch not the unclean thing' as the thing to avoid. The interposed 'the evil gift' is Moroni's own coinage and is what welds them — it is formed on James's phrase by antonym and governs Paul's verb. This is the last exhortation of the book before the closing address to Israel, and it is built entirely out of borrowed clauses.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "10:31": [
+      {
+        "source": "Isaiah 52:1",
+        "type": "quotation",
+        "subtype": "extended",
+        "confidence": "high",
+        "text": "Awake, awake; put on thy strength, O Zion; put on thy beautiful garments, O Jerusalem, the holy city: for henceforth there shall no more come into thee the uncircumcised and the unclean.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 3
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Isaiah 52:2",
+          "Isaiah 54:2",
+          "Isaiah 54:4",
+          "Exodus 34:24"
+        ],
+        "recurrenceRefs": [
+          "2 Nephi 8:24",
+          "2 Nephi 8:25",
+          "3 Nephi 20:36",
+          "3 Nephi 20:37"
+        ],
+        "provenance": {
+          "route": "Isaiah 52:1-2 + Isaiah 54:2-4 → KJV → Book of Mormon",
+          "other": "“put on thy beautiful garments” occurs in exactly one KJV verse, Isaiah 52:1; “strengthen thy stakes” occurs in exactly one, Isaiah 54:2; “shake thyself from the dust” occurs in exactly one, Isaiah 52:2; and “enlarge thy borders” occurs in exactly one, Exodus 34:24 — not Isaiah 54:2, which reads 'enlarge the place of thy tent'. So the closing sentence draws on three separate KJV singletons and its 'enlarge thy borders' comes from the Exodus phrase rather than from the Isaiah verse it stands beside.",
+          "alternative": "The Book of Mormon has quoted Isaiah 52:1-2 twice already, at 2 Nephi 8:24-25 and 3 Nephi 20:36-37, both times nearly verbatim ('Awake, awake, put on thy strength, O Zion; put on thy beautiful garments, O Jerusalem'). Moroni 10:31 does not follow either: it drops 'put on thy strength', fuses 52:1 with 52:2, and swaps the vocatives, so that Jerusalem arises from the dust and the beautiful garments belong to the daughter of Zion. Because it agrees with the earlier Book of Mormon renderings at no point where they differ from the KJV, mediation is recorded as direct-OT rather than via them.",
+          "significance": "Two Isaian oracles of restoration are welded into one address, and the join is doing theological work. Isaiah 52:1-2 is about a city putting on her garments and rising from the dust; Isaiah 54:2-4 is about a barren woman enlarging her tent and not being confounded. Moroni ends the Book of Mormon by addressing Jerusalem and Zion in the words of the first and promising them the expansion of the second, and then names the reason — 'that the covenants of the Eternal Father … may be fulfilled', which is the covenant frame Isaiah 54:10 supplies and Moroni states outright."
+        },
+        "note": "'And awake, and arise from the dust, O Jerusalem; yea, and put on thy beautiful garments, O daughter of Zion, and strengthen thy stakes, and enlarge thy borders forever, that thou mayest no more be confounded.' Hardy's apparatus cross-references Isaiah 52:1-2 and 54:2-4 here, and the wording bears both out. The striking feature is the vocative swap: in Isaiah, Zion puts on strength and Jerusalem puts on the beautiful garments; in Moroni, Jerusalem arises from the dust — which in Isaiah 52:2 is addressed to Jerusalem, so that half is right — and the garments go to the 'daughter of Zion', a title Isaiah 52:2 gives to the captive. The book has quoted this passage straight twice before, so the last verse of exhortation in the volume is the one that recasts it, and it recasts it into a covenant promise made to the house of Israel by name.",
+        "bibliography": [
+          "Hardy MSI at Moro 10.31 (Isaiah 52:1-2, Isaiah 54:2-4)"
+        ],
+        "status": "consensus",
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "10:32": [
+      {
+        "source": "Titus 2:12",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "Teaching us that, denying ungodliness and worldly lusts, we should live soberly, righteously, and godly, in this present world;",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "recurrenceRefs": [
+          "Moroni 10:33"
+        ],
+        "provenance": {
+          "route": "Titus 2:12 → KJV → Book of Mormon",
+          "other": "“denying ungodliness” occurs in exactly one KJV verse, Titus 2:12.",
+          "significance": "Titus's participle describes what grace teaches: denying ungodliness and worldly lusts, we should live soberly in this present world. Moroni makes the denial the condition of the grace rather than its lesson — deny yourselves of all ungodliness, 'then is his grace sufficient for you'. The order of grace and self-denial is reversed, and the reversal is the theological content of the verse."
+        },
+        "note": "'Deny yourselves of all ungodliness; and if ye shall deny yourselves of all ungodliness … then is his grace sufficient for you.' The phrase is a King James singleton and the sentence it stands in is Titus's own subject — the relation of grace to self-denial. Moroni's reflexive construction ('deny yourselves of') is not Paul's and is the Book of Mormon's own; what is borrowed is the collocation of the verb with 'ungodliness', which the KJV makes exactly once.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      },
+      {
+        "source": "2 Corinthians 12:9",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "And he said unto me, My grace is sufficient for thee: for my strength is made perfect in weakness. Most gladly therefore will I rather glory in my infirmities, that the power of Christ may rest upon me.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Colossians 1:28"
+        ],
+        "provenance": {
+          "route": "2 Corinthians 12:9 → KJV → Book of Mormon",
+          "other": "“grace is sufficient” occurs in exactly one KJV verse, 2 Corinthians 12:9, and “perfect in Christ” occurs in exactly one, Colossians 1:28; Moroni 10:32 has both, within a dozen words of each other.",
+          "significance": "Paul is quoting a divine answer to a request he made three times and did not get: my grace is sufficient for thee, for my strength is made perfect in weakness. Moroni turns the singular 'thee' into a plural 'you' and makes the sufficiency conditional on self-denial. Recovering Paul's context supplies the irony — in 2 Corinthians the sentence is a refusal, spoken to a man whose thorn is not removed, and Moroni redeploys it as the promise at the end of a chain of conditions."
+        },
+        "note": "'Then is his grace sufficient for you, that by his grace ye may be perfect in Christ.' The clause is Paul's, verbatim apart from the pronoun. Its pairing with 'perfect in Christ' is the striking thing: 2 Corinthians 12:9 continues 'for my strength is made perfect in weakness', so the words 'grace', 'sufficient' and 'perfect' all stand together in Paul's sentence, and Moroni's sentence keeps all three while supplying a different object for the perfecting. This verse and the next are the densest concentration of King James singletons in the chapter.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      },
+      {
+        "source": "Mark 12:30",
+        "type": "allusion",
+        "subtype": "conceptual",
+        "confidence": "moderate",
+        "text": "And thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind, and with all thy strength: this is the first commandment.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 4,
+          "rarity": 3,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "uncertain",
+        "composite": [
+          "Deuteronomy 6:5"
+        ],
+        "recurrenceRefs": [
+          "Alma 39:13"
+        ],
+        "provenance": {
+          "route": "Deuteronomy 6:5 / Mark 12:30 → KJV → Book of Mormon",
+          "other": "“with all thy mind” occurs in exactly three KJV verses, Matthew 22:37, Mark 12:30 and Luke 10:27, and none of them contains 'might'; the KJV's 'might' in this formula belongs to Deuteronomy 6:5, which has no 'mind'. The Book of Mormon's 'might, mind and strength' therefore fuses the two forms, and it does so consistently: Alma 39:13 has the same three terms in another order, 'with all your mind, might and strength'.",
+          "significance": "The triad is a splice. The KJV's Deuteronomy 6:5 has heart, soul and might; Mark 12:30 has heart, soul, mind and strength. Moroni's 'might, mind and strength' takes 'might' from the Old Testament form and 'mind' and 'strength' from the New, and drops heart and soul altogether — so the phrase cannot be derived from either verse alone, and the mediation-check on the pair returns no decisive divergence because the Book of Mormon reads with both at once."
+        },
+        "note": "'Love God with all your might, mind and strength.' The great commandment with two of its four King James members and one from the Deuteronomic form, which is a small enough thing to be accidental in isolation but is the Book of Mormon's fixed phrase rather than a one-off. Mediation is left uncertain because the fusion is the finding: the verse reads with the Gospels at 'mind' and 'strength' and with Deuteronomy at 'might', and no test in the verse can prefer one.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "10:33": [
+      {
+        "source": "Hebrews 9:22",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "And almost all things are by the law purged with blood; and without shedding of blood is no remission.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Hebrews 9:14",
+          "Hebrews 9:20"
+        ],
+        "provenance": {
+          "route": "Hebrews 9:14, 9:20, 9:22 → KJV → Book of Mormon",
+          "other": "“shedding of blood” occurs in exactly one KJV verse, Hebrews 9:22. 'Without spot' is spread across eleven KJV verses, most of them Levitical prescriptions for unblemished animals, but Hebrews 9:14 is the one that applies it to Christ's self-offering — and it stands eight verses from the singleton.",
+          "significance": "Every element of Moroni's last doctrinal sentence is in one chapter of Hebrews and in this order: the blood of Christ offered 'without spot' (9:14), 'the blood of the testament' or covenant (9:20), and remission depending on the shedding of blood (9:22). Moroni compresses the chapter into a single clause — shedding of blood, covenant of the Father, remission of sins, holy without spot — which is Hebrews 9's argument with its sacrificial machinery removed and only the terms kept."
+        },
+        "note": "'Through the shedding of the blood of Christ, which is in the covenant of the Father, unto the remission of your sins, that ye become holy without spot.' Four terms in one clause, all four of them Hebrews 9's, in Hebrews 9's order. The King James singleton 'shedding of blood' is what identifies the chapter; 'without spot' then confirms it, because Hebrews 9:14 is the only place in the KJV where the sacrificial adjective is predicated of Christ himself. Moroni's transposition is that the spotlessness has moved from the offering to the offerer's beneficiaries: in Hebrews Christ is without spot, and here it is the sanctified who become so.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      },
+      {
+        "source": "1 Corinthians 1:2",
+        "type": "echo",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "text": "Unto the church of God which is at Corinth, to them that are sanctified in Christ Jesus, called to be saints, with all that in every place call upon the name of Jesus Christ our Lord, both theirs and ours:",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 2,
+          "sequence": 2,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "recurrenceRefs": [
+          "Moroni 10:8",
+          "Moroni 10:17"
+        ],
+        "provenance": {
+          "route": "1 Corinthians 1:2 → KJV → Book of Mormon",
+          "other": "“sanctified in Christ” occurs in exactly one KJV verse, 1 Corinthians 1:2.",
+          "significance": "Paul's phrase is an address, not a doctrine: it names the Corinthians as those already sanctified in Christ Jesus at the head of a letter about their failures. Moroni's is the outcome of a condition — 'then are ye sanctified in Christ' — reached at the end of a chain that began with denying oneself of ungodliness. The same words describe a status given in Paul and a status earned in Moroni."
+        },
+        "note": "'Then are ye sanctified in Christ by the grace of God.' A King James singleton, and one from the same epistle the chapter has been quoting since 10:8, which is why it is worth recording even though the phrase is short and the surrounding sentence is Hebrews'. Recorded as an echo rather than an allusion: two words of contact and a common theological vocabulary would not identify a source on their own, and the case rests on the rarity count plus the chapter's demonstrated use of 1 Corinthians.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "10:34": [
+      {
+        "source": "Revelation 2:7",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "He that hath an ear, let him hear what the Spirit saith unto the churches; To him that overcometh will I give to eat of the tree of life, which is in the midst of the paradise of God.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "recurrenceRefs": [
+          "Alma 40:12",
+          "1 Nephi 8:10",
+          "1 Nephi 11:25"
+        ],
+        "provenance": {
+          "route": "Revelation 2:7 → KJV → Book of Mormon",
+          "other": "“paradise of God” occurs in exactly one KJV verse, Revelation 2:7. The KJV has 'paradise' only twice besides, at Luke 23:43 and 2 Corinthians 12:4.",
+          "significance": "The phrase is the promise to the overcomer at Ephesus: to eat of the tree of life in the midst of the paradise of God. Moroni goes 'to rest in the paradise of God' in the last sentence of a book whose first vision, in 1 Nephi 8 and 11, was of a tree of life whose fruit is the love of God. Neither text says this. The link says it: the volume closes on the place where the tree it opened with is standing."
+        },
+        "note": "'I soon go to rest in the paradise of God.' The last verse of the Book of Mormon, and its destination is named in a King James singleton from the letter to Ephesus. That the phrase is Revelation's is worth more than its rarity alone: what Revelation 2:7 puts in the paradise of God is the tree of life, which is the image the book opened on. Moroni's own use of 'paradise' elsewhere (Moroni 10:34 alone in this book; Alma 40:12 defines it as the state of the righteous dead) shows the term already fixed in the corpus, but the qualifier 'of God' is Revelation's.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      },
+      {
+        "source": "Acts 10:42",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "And he commanded us to preach unto the people, and to testify that it is he which was ordained of God to be the Judge of quick and dead.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "2 Timothy 4:1"
+        ],
+        "recurrenceRefs": [
+          "Ether 12:38",
+          "Mormon 3:20"
+        ],
+        "provenance": {
+          "route": "Acts 10:42 → KJV → Book of Mormon",
+          "other": "“the Judge of quick and dead” occurs in exactly one KJV verse, Acts 10:42; “the quick and the dead”, with the articles, occurs in exactly two, 2 Timothy 4:1 and 1 Peter 4:5. Moroni's 'the Eternal Judge of both quick and dead' has Acts's article-less form.",
+          "significance": "Peter's sentence in Cornelius's house is the apostolic commission itself: he was commanded to preach and to testify that this is he who was ordained of God to be the Judge of quick and dead. Moroni's last act is the same one — a witness delivered to a Gentile audience about the judge before whom witness and hearer will meet. The suppressed correspondence is the setting: Acts 10 is the moment the preaching turns to the Gentiles, and Moroni 10 is addressed 'unto all the ends of the earth'."
+        },
+        "note": "'To meet you before the pleasing bar of the great Jehovah, the Eternal Judge of both quick and dead.' Peter's title for Christ, and Moroni takes the King James form that lacks the articles rather than the Pastoral or Petrine form that has them. The title is joined here to 'Jehovah', which the KJV uses only four times and never of the judge — so the last clause of the Book of Mormon fuses an Old Testament divine name with a New Testament judicial title, and applies both to the one before whom Moroni expects to see his reader.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      },
+      {
+        "source": "1 Thessalonians 4:17",
+        "type": "echo",
+        "subtype": "conceptual",
+        "confidence": "moderate",
+        "text": "Then we which are alive and remain shall be caught up together with them in the clouds, to meet the Lord in the air: and so shall we ever be with the Lord.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 2,
+          "sequence": 3,
+          "context": 4,
+          "rarity": 3,
+          "attestation": 0
+        },
+        "kjvSpecific": "uncertain",
+        "mediation": "direct-NT",
+        "composite": [
+          "1 Thessalonians 4:16"
+        ],
+        "provenance": {
+          "route": "1 Thessalonians 4:17 → KJV → Book of Mormon",
+          "other": "“in the air” occurs in three KJV verses, Deuteronomy 4:17, Proverbs 30:19 and 1 Thessalonians 4:17, and only the last of them is about persons meeting there. The Book of Mormon's phrase is 'through the air', not Paul's 'in the air', which is why kjvSpecific is left uncertain.",
+          "significance": "Paul's picture is of the living caught up in the clouds to meet the Lord in the air; Moroni's is of the dead brought forth through the air to meet his readers. The direction is reversed and so is the party being met — Paul's saints go up to Christ, Moroni comes forward to a bar where he will face the people he has been writing to. What is shared is the strange middle term, a meeting that takes place in the air."
+        },
+        "note": "'Until my spirit and body shall again reunite, and I am brought forth triumphant through the air, to meet you before the pleasing bar.' Resurrection, motion through the air, and a meeting: the sequence is 1 Thessalonians 4:16-17's, where the dead in Christ rise first and are then caught up to meet the Lord in the air. The verbal contact is one preposition short of decisive and the link is recorded as an echo on that account, but no other KJV passage puts a resurrected body and a meeting in the air in the same sentence.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      }
+    ]
+  }
+}

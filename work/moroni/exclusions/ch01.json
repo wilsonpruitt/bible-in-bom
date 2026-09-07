@@ -1,0 +1,50 @@
+[
+  {
+    "bomRef": "Moroni 1:1",
+    "source": "1 Chronicles 27:24",
+    "category": "common-vocabulary",
+    "sharedText": "the account of the",
+    "streams": ["machine-ngram"],
+    "reason": "The top-ranked machine candidate in the chapter, and it ranked because 'the account of the' is a four-word run that the KJV happens to write seldom. The resemblance is better than the usual boilerplate and still not a link. 1 Chronicles 27:24 is about a census David abandoned — Joab 'began to number, but he finished not, because there fell wrath for it against Israel; neither was the number put in the account of the chronicles of king David' — so it is, like Moroni 1:1, a sentence about a record that stops short, which is why it deserves an entry rather than silence. But 'the account of' is the Book of Mormon's ordinary way of naming a source document (the account of Lehi, of Zeniff, of the people of Jared), the two records stop for opposite reasons, and there is no second point of contact anywhere in either verse. This entry also covers the chapter's remaining n-gram noise, which is of a lower order: 'but I have not' (Psalm 119:61, Esther 4:11), 'and because of their' (Leviticus 16:16, Psalm 107:17), 'to that which I' (Joshua 24:5, Genesis 27:8) and 'day according to the' (2 Kings 2:22, 1 Corinthians 15:4, Luke 23:56). None is listed separately."
+  },
+  {
+    "bomRef": "Moroni 1:1",
+    "source": "Deuteronomy 31:24",
+    "category": "formulaic",
+    "sharedText": "made an end of",
+    "streams": ["manual"],
+    "reason": "“made an end of” occurs in 38 KJV verses and is the King James Bible's standing way of marking the completion of an action — speaking, blessing, commanding, tithing, slaying. Deuteronomy 31:24 is named here rather than the other thirty-seven because it is the one a reader would reach for: 'when Moses had made an end of writing the words of this law in a book, until they were finished' is a record-keeper finishing a book, which is what Moroni 1:1 says he had supposed he had done. The temptation is real and the formula defeats it. Moroni has made an end of *abridging*, a verb the KJV does not use at all, and the Book of Mormon deploys 'made an end of' continuously in exactly the KJV's neutral sense. A phrase this widely distributed cannot point at any one verse, and no other element of Deuteronomy 31 is present."
+  },
+  {
+    "bomRef": "Moroni 1:2",
+    "source": "Matthew 10:33",
+    "category": "formulaic",
+    "sharedText": "deny the Christ",
+    "streams": ["manual"],
+    "reason": "“deny the Christ” occurs in no KJV verse. The phrase is the Book of Mormon's own, used at Alma 30:39, 3 Nephi 29:5, Mormon 9:3 and twice here, and the entry exists to say so, because a reader meeting the chapter's central clause will reasonably assume it is scriptural and look for the source. The doctrine behind it is certainly the New Testament's — Matthew 10:33's 'whosoever shall deny me before men, him will I also deny before my Father', and 2 Timothy 2:12's 'if we deny him, he also will deny us' — but the KJV always has a pronoun where the Book of Mormon has the title, and a doctrine held in common is not a borrowing. The one place in the chapter where the wording does track a KJV verse is 1:3's 'will not deny', which is adjudicated there against Mark 14:31; this entry is not a claim that the chapter has no Christ-denial source, only that this phrase is not it."
+  },
+  {
+    "bomRef": "Moroni 1:2",
+    "source": "Revelation 2:13",
+    "category": "insufficient-verbal",
+    "sharedText": "(execution for refusing to deny)",
+    "streams": ["manual"],
+    "reason": "The strongest thing declined in this chapter, and it has to be written out because a reader who finds it will assume the catalogue missed it. Moroni 1:2 says the Lamanites 'put to death every Nephite that will not deny the Christ', and the King James Bible has exactly one verse in which a named believer is killed for that refusal: 'thou holdest fast my name, and hast not denied my faith, even in those days wherein Antipas was my faithful martyr, who was slain among you, where Satan dwelleth'. “denied my faith” occurs in exactly one KJV verse and “faithful martyr” in exactly one, both Revelation 2:13. The situation is the same situation and the rarity is genuine. It is declined because the two verses share no wording whatever beyond the verb 'deny', which the exclusion above shows is the Book of Mormon's own idiom and not the KJV's; Revelation's distinctive elements — holding fast the name, Satan's seat, the martyr's name, dwelling where the killing happens — are all absent, and Moroni's clause is a general policy against a whole people rather than the death of one man. Recorded so that a reader who hears Pergamos behind Moroni 1:2 is told the catalogue heard it too and could not make the wording bear it. The chapter's actual verbal link to the denial material sits one verse later, at Mark 14:31."
+  },
+  {
+    "bomRef": "Moroni 1:3",
+    "source": "Hebrews 11:37",
+    "category": "better-source-identified",
+    "sharedText": "wandered",
+    "streams": ["manual"],
+    "reason": "Typology pulls hard here. Hebrews 11:37-38 is the King James Bible's set piece on the hunted faithful — 'they were stoned, they were sawn asunder … they wandered about in sheepskins and goatskins; being destitute, afflicted, tormented; (of whom the world was not worthy:) they wandered in deserts, and in mountains, and in dens and caves of the earth' — and “wandered about” occurs in exactly one KJV verse, which is 11:37. Moroni is the last believer of a destroyed church, wandering to stay alive; the passage seems written for him. But the shared vocabulary is the single word 'wander', Hebrews has none of Moroni's construction and Moroni has none of Hebrews' catalogue, and a survivor who says he wanders has not thereby quoted anything. The link the chapter actually supports is 1 Samuel 23:13, where the KJV's one instance of 'whithersoever' used of a fugitive's own bare ability supplies Moroni's whole clause; a reader sent here by the Hebrews resemblance should go there."
+  },
+  {
+    "bomRef": "Moroni 1:4",
+    "source": "Acts 21:14",
+    "category": "formulaic",
+    "sharedText": "according to the will of the Lord",
+    "streams": ["machine-ngram"],
+    "reason": "The verse's highest-scoring candidates all resolve to this phrase — Acts 21:14 and Ephesians 5:17 for 'the will of the Lord', Galatians 1:4, Romans 8:27 and 1 Peter 4:19 for 'according to the will of God'. “the will of the Lord” does occur in exactly two KJV verses, which is what produced the score, but the wider formula 'according to the will of' is common in the epistles and 'the will of God' is everywhere, so the low count is an accident of which divine title the KJV chose in two places rather than a mark of dependence. Neither KJV verse has anything else in common with Moroni 1:4: Acts 21:14 is Paul's companions giving up an argument about Jerusalem, Ephesians 5:17 is an exhortation to understanding. The Book of Mormon uses the phrase in its own right at Alma 14:13. A closing formula of submission, not a borrowing."
+  }
+]
