@@ -198,8 +198,14 @@ collated), then the long books.
 
    **Restated criterion, for 2 Nephi onward:** every Frederick row for the book
    under adjudication is either a Link or a reasoned exclusion. That will bite,
-   because his weight is elsewhere: Alma 47 citations, 3 Nephi 23, 2 Nephi 18,
-   Moroni 12. The pilot's overlap with him was always going to be near zero.
+   because his weight is elsewhere: 3 Nephi 23, 2 Nephi 18, Moroni 12. The
+   pilot's overlap with him was always going to be near zero.
+
+   **Correction, 2026-09-07 (Alma complete):** "Alma 47 citations" above was
+   wrong. Checked directly against `data/frederick-refs.json` and
+   `text/frederick-clean.txt` while adjudicating Alma 46-48: his Alma rows
+   stop at 36:26, and no Frederick citation falls anywhere in Alma 45-49.
+   His weight in Alma turned out to be 6:8 and 36:26 only.
 4. ✅ Collated verse by verse; 99 variant rows in `data/isaiah-collation.json`.
 5. ✅ Enforced by `apply-adjudication.py`, which refuses to write otherwise.
 6. ✅ 247 exclusions across five categories.
@@ -306,4 +312,14 @@ Small, deferred items — none blocking Alma or any future book, all cheap to cl
   Findings that carry the book so far: Amulek and Alma's Ammonihah trial narrated in the vocabulary of Jesus's own (10:13); Alma 12:33 decisively Hebrews 3:8 against Psalm 95:8 on the plural "hearts"; the Rameumptom (31:13) is Solomon's dedication scaffold (2 Chronicles 6:13) inverted, answered by 33:7's private-prayer reply to Matthew 6; Korihor's demand for "evidence" (30:15) negates Hebrews 11:1 term by term; Alma 36:11 resolves Acts's own contradiction about Saul's companions (9:7 vs 22:9) by taking the reading Mosiah 27:12's account did not; 42:2-3 is the fullest Genesis quotation in the book, with the 1830 text preserving a stranded pronoun 1920 silently repaired; and 44:9 stages 1 Samuel 17's armor-vs-God debate with the equipment swapped between armies.
 
   **Corrections and open items, not yet acted on:** PLAN §7's restated criterion ("Frederick's Alma 47 citations") is wrong — his Alma rows stop at 36:26, no Frederick citations fall in 45-49; needs a fix here once Alma closes. `mediation-check.py` returned a false DECISIVE verdict at 49:2 by matching a KJV noun against a Book-of-Mormon verb — worth a guard. Several within-book "second full link vs. register cross-reference" judgment calls are flagged in individual chapter reports (40:21, 42:27, 44:13, 48:13/48:24, and the Alma 3 tone question from the first wave) — none blocking, all worth a look at the book's close. **Remaining: chapters 55-63 (9 chapters, 3 more batches).**
+
+- **2026-09-07 (Opus), Alma complete: all 63 chapters, 579 links across 519 verses, all 30 Hardy rows discharged.** Resumed and finished in one further dispatch — three batched agents covering 55-63, closing the largest single book in the corpus. Both gates clean on the merged book file (the same three pre-existing lint warnings, none new); `hardy-coverage.py` reports 30/30, 0 gaps, for the first time in the book's run. Total for Alma: 21 batched Opus agents across four dispatch waves, three chapters each.
+
+  **Findings from the closing chapters:** 55:13's wine stratagem is narrated in Genesis 3:6's grammar of the first temptation; 56:46 takes Isaiah 8:10's war oracle ("God is with us") over Matthew 1:23's verbless Immanuel gloss; 57:21 fuses two Matthew 8-9 healing formulas ("according to their faith, it was done unto them") to report not one wounded soldier lost; 60:23 (the book's last Hardy row) fuses Matthew 23:26 and Luke 11:39's inward/outward saying, attributed to God and turned onto a legislature; 61:10-14 assembles a just-war doctrine from the two KJV verses that most plainly forbid one (Hebrews 12:4, Matthew 5:39); 62:50 reverses Judges 8:34's epitaph on a forgetful generation, whose own sequel — a usurper's murders once the deliverer dies — arrives on schedule at the start of Helaman; and 63:8's drowning is Matthew 18:6, a different hand and a different drowning from 1 Nephi 8:32.
+
+  **Two tool bugs found in this batch, not yet fixed:** `mediation-check.py` can return a confident "decisive" verdict on a pair that is not actually a quotation relation at all (56:46 against Isaiah 8:10/Matthew 1:23 — the tool fuzzy-matched a phrase Alma doesn't contain), and separately returns "neither" on every point of comparison including one where the wording plainly resolves (62:50). Both need a look before the next book, alongside the 49:2 noun/verb false positive found earlier in the run.
+
+  **Open, for Wilson's ruling before the book closes — the full list, gathered across all four waves:** the Alma 3 "skin curse" tone question (wave 1); whether Alma 5:24's three-source composite should be split; Alma 14:3's opposite-sense Matthew 1:19 link (wrong-sense candidate); Alma 17:36's uncited David/Goliath `status:majority`; whether within-book formula repeats like "made an end of speaking these words" should stop earning cross-book rows after their first use; two duplicate-source first-use pointers caught between concurrent agents (Romans 6:16/6:23 at 3:27 vs 5:42; Acts 5:4 at 11:25 vs 12:3); whether Hardy citations can coexist with `status:novel` (36:28, lint still warns); Alma 30:44's OT-via-NT call (pronoun vs. situation — could flip to direct-OT); whether 34:31 should move to a verse with closer verbal contact; 39:2's onomastic Jezebel/Isabel argument, a case CONVENTIONS doesn't squarely cover; a missing `mediation` value for an NT source reached through an earlier Book-of-Mormon passage (41:11); several full-link-vs-cross-reference calls at book-internal and book-boundary recurrences (40:21, 42:27, 44:13, 48:13/48:24, 58:40 vs 44:2, 63:8 vs 1 Nephi 8:32); and PLAN §7's Frederick/Alma-47 claim, confirmed wrong and still needing the fix here.
+
+  **Next:** Helaman (16 chapters) — much smaller than Alma, and the next book in Nephi's line. Fix PLAN §7's Frederick claim and consider the two mediation-check.py bugs before dispatching.
 
