@@ -1,6 +1,6 @@
 # Mosiah 7 — adjudication dossier
 
-Running text: 1830 first edition (modern versification). 33 verses. 270 machine candidates for this chapter; the top 24 by n-gram rarity are shown below, grouped by verse.
+Running text: 1830 first edition (modern versification). 33 verses. 270 machine candidates for this chapter; the top 50 by n-gram rarity are shown below, grouped by verse.
 
 Substantive 1830-vs-1920 differences are flagged per verse. Note that KJV
 spellings (*shew*, *marvellous*) surviving in 1830 and modernized later are
@@ -35,6 +35,12 @@ And it came to pass that on the morrow, they started to go up, having with them 
 - **Numbers 17:8** — rarity 1.39, longest run 9
   > And it came to pass, that on the morrow Moses went into the tabernacle of witness; and, behold, the rod of Aaron for the house of Levi was budded, and brought forth buds, and bloomed blossoms, and yielded almonds.
   shared: *and it came to*; *came to pass that*; *it came to pass*; *pass that on the*; *that on the morrow*
+- **2 Chronicles 28:5** — rarity 1.00, longest run 4
+  > Wherefore the LORD his God delivered him into the hand of the king of Syria; and they smote him, and carried away a great multitude of them captives, and brought them to Damascus. And he was also delivered into the hand of the king of Israel, who smote him with a great slaughter.
+  shared: *and he was also*
+- **Acts 23:32** — rarity 1.00, longest run 4
+  > On the morrow they left the horsemen to go with him, and returned to the castle:
+  shared: *on the morrow they*
 
 ### 7:4
 
@@ -43,6 +49,12 @@ And now, they knew not the course they should travel in the wilderness, to go up
 - **Ezekiel 38:11** — rarity 1.18, longest run 6
   > And thou shalt say, I will go up to the land of unwalled villages; I will go to them that are at rest, that dwell safely, all of them dwelling without walls, and having neither bars nor gates,
   shared: *go up to the*; *to the land of*; *up to the land*
+- **Jeremiah 35:7** — rarity 1.00, longest run 4
+  > Neither shall ye build house, nor sow seed, nor plant vineyard, nor have any: but all your days ye shall dwell in tents; that ye may live many days in the land where ye be strangers.
+  shared: *many days in the*
+- **Exodus 15:22** — rarity 1.00, longest run 4
+  > So Moses brought Israel from the Red sea, and they went out into the wilderness of Shur; and they went three days in the wilderness, and found no water.
+  shared: *days in the wilderness*
 
 ### 7:5
 
@@ -74,6 +86,12 @@ And it came to pass when they had been in prison two days, they were again broug
 - **Daniel 3:3** — rarity 1.50, longest run 5
   > Then the princes, the governors, and captains, the judges, the treasurers, the counsellors, the sheriffs, and all the rulers of the provinces, were gathered together unto the dedication of the image that Nebuchadnezzar the king had set up; and they stood before the image that Nebuchadnezzar had set up.
   shared: *and they stood before*; *they stood before the*
+- **Esther 9:11** — rarity 1.00, longest run 4
+  > On that day the number of those that were slain in Shushan the palace was brought before the king.
+  shared: *brought before the king*
+- **Acts 25:14** — rarity 1.00, longest run 4
+  > And when they had been there many days, Festus declared Paul’s cause unto the king, saying, There is a certain man left in bonds by Felix:
+  shared: *when they had been*
 
 ### 7:9
 
@@ -105,6 +123,12 @@ And now, when Ammon saw that he was permitted to speak, he went forth and bowed 
 - **2 Samuel 24:20** — rarity 2.00, longest run 6
   > And Araunah looked, and saw the king and his servants coming on toward him: and Araunah went out, and bowed himself before the king on his face upon the ground.
   shared: *and bowed himself before*; *bowed himself before the*; *himself before the king*
+- **1 Kings 1:23** — rarity 1.00, longest run 5
+  > And they told the king, saying, Behold Nathan the prophet. And when he was come in before the king, he bowed himself before the king with his face to the ground.
+  shared: *bowed himself before the*; *himself before the king*
+- **Deuteronomy 31:27** — rarity 1.00, longest run 4
+  > For I know thy rebellion, and thy stiff neck: behold, while I am yet alive with you this day, ye have been rebellious against the LORD; and how much more after my death?
+  shared: *i am yet alive*
 
 ### 7:13
 
@@ -125,6 +149,9 @@ for I am assured that if ye had known me, ye would not have suffered that I shou
 - **Matthew 12:7** — rarity 1.33, longest run 4
   > But if ye had known what this meaneth, I will have mercy, and not sacrifice, ye would not have condemned the guiltless.
   shared: *if ye had known*; *ye would not have*
+- **Matthew 24:43** — rarity 1.00, longest run 4
+  > But know this, that if the goodman of the house had known in what watch the thief would come, he would have watched, and would not have suffered his house to be broken up.
+  shared: *would not have suffered*
 
 ### 7:14
 
@@ -139,6 +166,15 @@ And now, it came to pass that after Limhi had heard the words of Ammon, he was e
 - **Exodus 32:30** — rarity 1.00, longest run 4
   > And it came to pass on the morrow, that Moses said unto the people, Ye have sinned a great sin: and now I will go up unto the LORD; peradventure I shall make an atonement for your sin.
   shared: *and now i will*; *it came to pass*
+- **Genesis 15:13** — rarity 1.00, longest run 5
+  > And he said unto Abram, Know of a surety that thy seed shall be a stranger in a land that is not theirs, and shall serve them; and they shall afflict them four hundred years;
+  shared: *know of a surety*; *of a surety that*
+- **Luke 23:8** — rarity 1.00, longest run 4
+  > And when Herod saw Jesus, he was exceeding glad: for he was desirous to see him of a long season, because he had heard many things of him; and he hoped to have seen some miracle done by him.
+  shared: *he was exceeding glad*
+- **Acts 25:17** — rarity 1.00, longest run 4
+  > Therefore, when they were come hither, without any delay on the morrow I sat on the judgment seat, and commanded the man to be brought forth.
+  shared: *on the morrow i*
 
 ### 7:15
 
@@ -147,6 +183,9 @@ For behold, we are in bondage to the Lamanites, and are taxed with a tax which i
 - **Daniel 3:17** — rarity 1.20, longest run 5
   > If it be so, our God whom we serve is able to deliver us from the burning fiery furnace, and he will deliver us out of thine hand, O king.
   shared: *deliver us out of*; *will deliver us out*
+- **Luke 11:46** — rarity 1.00, longest run 5
+  > And he said, Woe unto you also, ye lawyers! for ye lade men with burdens grievous to be borne, and ye yourselves touch not the burdens with one of your fingers.
+  shared: *grievous to be borne*; *to be borne and*
 
 ### 7:16
 
@@ -168,6 +207,12 @@ And it came to pass that when they had gathered themselves together, that he spa
 - **Matthew 17:13** — rarity 1.11, longest run 5
   > Then the disciples understood that he spake unto them of John the Baptist.
   shared: *he spake unto them*; *that he spake unto*
+- **Acts 15:30** — rarity 1.00, longest run 4
+  > So when they were dismissed, they came to Antioch: and when they had gathered the multitude together, they delivered the epistle:
+  shared: *when they had gathered*
+- **1 Peter 3:1** — rarity 1.00, longest run 4
+  > Likewise, ye wives, be in subjection to your own husbands; that, if any obey not the word, they also may without the word be won by the conversation of the wives;
+  shared: *be in subjection to*
 
 ### 7:19
 
@@ -185,6 +230,9 @@ Therefore, lift up your heads, and rejoice, and put your trust in God, in that G
 - **Hebrews 11:29** — rarity 1.00, longest run 4
   > By faith they passed through the Red sea as by dry land: which the Egyptians assaying to do were drowned.
   shared: *through the red sea*
+- **Genesis 26:1** — rarity 1.00, longest run 4
+  > And there was a famine in the land, beside the first famine that was in the days of Abraham. And Isaac went unto Abimelech king of the Philistines unto Gerar.
+  shared: *of abraham and isaac*
 
 ### 7:20
 
@@ -197,6 +245,9 @@ And again: That same God hath brought our fathers out of the land of Jerusalem, 
 - **Joshua 24:17** — rarity 1.02, longest run 7
   > For the LORD our God, he it is that brought us up and our fathers out of the land of Egypt, from the house of bondage, and which did those great signs in our sight, and preserved us in all the way wherein we went, and among all the people through whom we passed:
   shared: *fathers out of the*; *of the land of*; *our fathers out of*; *out of the land*
+- **Isaiah 64:7** — rarity 1.00, longest run 4
+  > And there is none that calleth upon thy name, that stirreth up himself to take hold of thee: for thou hast hid thy face from us, and hast consumed us, because of our iniquities.
+  shared: *because of our iniquities*
 
 ### 7:21
 
@@ -262,6 +313,12 @@ For behold, the Lord hath said, I will not succor my people in the day of their 
 - **Obadiah 1:13** — rarity 2.18, longest run 7
   > Thou shouldest not have entered into the gate of my people in the day of their calamity; yea, thou shouldest not have looked on their affliction in the day of their calamity, nor have laid hands on their substance in the day of their calamity;
   shared: *in the day of*; *my people in the*; *people in the day*; *the day of their*
+- **Ezekiel 3:20** — rarity 1.00, longest run 4
+  > Again, When a righteous man doth turn from his righteousness, and commit iniquity, and I lay a stumbling-block before him, he shall die: because thou hast not given him warning, he shall die in his sin, and his righteousness which he hath done shall not be remembered; but his blood will I require at thine hand.
+  shared: *a stumbling block before*
+- **Hosea 2:6** — rarity 1.00, longest run 4
+  > Therefore, behold, I will hedge up thy way with thorns, and make a wall, that she shall not find her paths.
+  shared: *i will hedge up*
 
 ### 7:30
 
@@ -289,4 +346,25 @@ But if ye will turn to the Lord with full purpose of heart, and put your trust i
 - **Daniel 11:16** — rarity 1.25, longest run 6
   > But he that cometh against him shall do according to his own will, and none shall stand before him: and he shall stand in the glorious land, which by his hand shall be consumed.
   shared: *according to his own*; *his own will and*; *to his own will*
+- **Psalm 4:5** — rarity 1.00, longest run 5
+  > Offer the sacrifices of righteousness, and put your trust in the LORD.
+  shared: *and put your trust*; *put your trust in*
+- **Judges 9:15** — rarity 1.00, longest run 5
+  > And the bramble said unto the trees, If in truth ye anoint me king over you, then come and put your trust in my shadow: and if not, let fire come out of the bramble, and devour the cedars of Lebanon.
+  shared: *and put your trust*; *put your trust in*
+- **Ephesians 1:9** — rarity 1.00, longest run 4
+  > Having made known unto us the mystery of his will, according to his good pleasure which he hath purposed in himself:
+  shared: *will according to his*
+- **1 Chronicles 28:9** — rarity 1.00, longest run 4
+  > And thou, Solomon my son, know thou the God of thy father, and serve him with a perfect heart and with a willing mind: for the LORD searcheth all hearts, and understandeth all the imaginations of the thoughts: if thou seek him, he will be found of thee; but if thou forsake him, he will cast thee off for ever.
+  shared: *and serve him with*
+- **Luke 6:33** — rarity 1.00, longest run 4
+  > And if ye do good to them which do good to you, what thank have ye? for sinners also do even the same.
+  shared: *and if ye do*
+- **2 Kings 23:25** — rarity 1.00, longest run 4
+  > And like unto him was there no king before him, that turned to the LORD with all his heart, and with all his soul, and with all his might, according to all the law of Moses; neither after him arose there any like him.
+  shared: *to the lord with*
+- **Jeremiah 22:4** — rarity 1.00, longest run 4
+  > For if ye do this thing indeed, then shall there enter in by the gates of this house kings sitting upon the throne of David, riding in chariots and on horses, he, and his servants, and his people.
+  shared: *if ye do this*
 

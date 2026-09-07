@@ -1,6 +1,6 @@
 # Mosiah 4 — adjudication dossier
 
-Running text: 1830 first edition (modern versification). 30 verses. 285 machine candidates for this chapter; the top 24 by n-gram rarity are shown below, grouped by verse.
+Running text: 1830 first edition (modern versification). 30 verses. 285 machine candidates for this chapter; the top 50 by n-gram rarity are shown below, grouped by verse.
 
 Substantive 1830-vs-1920 differences are flagged per verse. Note that KJV
 spellings (*shew*, *marvellous*) surviving in 1830 and modernized later are
@@ -24,6 +24,9 @@ And now, it came to pass that when king Benjamin had made an end of speaking the
 
 and they had viewed themselves in their own carnal state, even less than the dust of the earth. And they all cried aloud with one voice, saying, O have mercy, and apply the atoning blood of Christ, that we may receive forgiveness of our sins, and our hearts may be purified: for we believe in Jesus Christ, the Son of God, who created Heaven and earth, and all things, who shall come down among the children of men.
 
+- **Acts 26:18** — rarity 1.00, longest run 4
+  > To open their eyes, and to turn them from darkness to light, and from the power of Satan unto God, that they may receive forgiveness of sins, and inheritance among them which are sanctified by faith that is in me.
+  shared: *may receive forgiveness of*
 
 ### 4:3
 
@@ -43,6 +46,9 @@ And it came to pass that after they had spoken these words, the spirit of the Lo
 - **1 Samuel 5:9** — rarity 1.00, longest run 4
   > And it was so, that, after they had carried it about, the hand of the LORD was against the city with a very great destruction: and he smote the men of the city, both small and great, and they had emerods in their secret parts.
   shared: *that after they had*
+- **Acts 13:52** — rarity 1.00, longest run 4
+  > And the disciples were filled with joy, and with the Holy Ghost.
+  shared: *were filled with joy*
 
 ### 4:4
 
@@ -74,6 +80,12 @@ I say unto you, that if ye have come to a knowledge of the goodness of God, and 
 - **Ephesians 1:4** — rarity 1.14, longest run 6
   > According as he hath chosen us in him before the foundation of the world, that we should be holy and without blame before him in love:
   shared: *foundation of the world*; *of the world that*; *the foundation of the*
+- **Psalm 33:5** — rarity 1.00, longest run 4
+  > He loveth righteousness and judgment: the earth is full of the goodness of the LORD.
+  shared: *of the goodness of*
+- **Deuteronomy 8:11** — rarity 1.00, longest run 4
+  > Beware that thou forget not the LORD thy God, in not keeping his commandments, and his judgments, and his statutes, which I command thee this day:
+  shared: *keeping his commandments and*
 
 ### 4:7
 
@@ -106,6 +118,18 @@ Believe in God; believe that he is, and that he created all things, both in Heav
 - **Hebrews 11:6** — rarity 4.00, longest run 7
   > But without faith it is impossible to please him: for he that cometh to God must believe that he is, and that he is a rewarder of them that diligently seek him.
   shared: *believe that he is*; *he is and that*; *is and that he*; *that he is and*
+- **1 Corinthians 10:20** — rarity 1.00, longest run 4
+  > But I say, that the things which the Gentiles sacrifice, they sacrifice to devils, and not to God: and I would not that ye should have fellowship with devils.
+  shared: *the things which the*
+- **John 14:1** — rarity 1.00, longest run 4
+  > Let not your heart be troubled: ye believe in God, believe also in me.
+  shared: *believe in god believe*
+- **Deuteronomy 1:18** — rarity 1.00, longest run 4
+  > And I commanded you at that time all the things which ye should do.
+  shared: *all the things which*
+- **Deuteronomy 8:3** — rarity 1.00, longest run 4
+  > And he humbled thee, and suffered thee to hunger, and fed thee with manna, which thou knewest not, neither did thy fathers know; that he might make thee know that man doth not live by bread only, but by every word that proceedeth out of the mouth of the LORD doth man live.
+  shared: *that man doth not*
 
 ### 4:10
 
@@ -130,6 +154,9 @@ And again I say unto you, as I have said before, that as ye have come to the kno
 - **Matthew 19:24** — rarity 1.01, longest run 6
   > And again I say unto you, It is easier for a camel to go through the eye of a needle, than for a rich man to enter into the kingdom of God.
   shared: *again i say unto*; *and again i say*; *i say unto you*
+- **Hebrews 6:4** — rarity 1.00, longest run 4
+  > For it is impossible for those who were once enlightened, and have tasted of the heavenly gift, and were made partakers of the Holy Ghost,
+  shared: *and have tasted of*
 
 ### 4:12
 
@@ -144,11 +171,24 @@ and behold, I say unto you, that if ye do this, ye shall always rejoice, and be 
 - **John 4:35** — rarity 1.01, longest run 5
   > Say not ye, There are yet four months, and then cometh harvest? behold, I say unto you, Lift up your eyes, and look on the fields; for they are white already to harvest.
   shared: *behold i say unto*; *i say unto you*
+- **Acts 2:38** — rarity 1.00, longest run 4
+  > Then Peter said unto them, Repent, and be baptized every one of you in the name of Jesus Christ for the remission of sins, and ye shall receive the gift of the Holy Ghost.
+  shared: *sins and ye shall*
+  rare words: remission, sins
+- **Jeremiah 22:4** — rarity 1.00, longest run 4
+  > For if ye do this thing indeed, then shall there enter in by the gates of this house kings sitting upon the throne of David, riding in chariots and on horses, he, and his servants, and his people.
+  shared: *if ye do this*
+- **Colossians 3:10** — rarity 1.00, longest run 4
+  > And have put on the new man, which is renewed in knowledge after the image of him that created him:
+  shared: *of him that created*
 
 ### 4:13
 
 And ye will not have a mind to injure one another, but to live peaceably, and to render to every man according to that which is his due.
 
+- **John 5:40** — rarity 1.00, longest run 4
+  > And ye will not come to me, that ye might have life.
+  shared: *and ye will not*
 
 ### 4:14
 
@@ -162,6 +202,9 @@ And ye will not suffer your children, that they go hungry, or naked; neither wil
 
 but ye will teach them to walk in the ways of truth and soberness; ye will teach them to love one another, and to serve one another;
 
+- **Acts 26:25** — rarity 1.00, longest run 4
+  > But he said, I am not mad, most noble Festus; but speak forth the words of truth and soberness.
+  shared: *of truth and soberness*
 
 ### 4:16
 
@@ -211,6 +254,18 @@ And now, if God, who hath created you, on whom you are dependant for your lives,
 - **Luke 24:17** — rarity 3.00, longest run 6
   > And he said unto them, What manner of communications are these that ye have one to another, as ye walk, and are sad?
   shared: *have one to another*; *that ye have one*; *ye have one to*
+- **Ezekiel 36:30** — rarity 1.00, longest run 4
+  > And I will multiply the fruit of the tree, and the increase of the field, that ye shall receive no more reproach of famine among the heathen.
+  shared: *that ye shall receive*
+- **Luke 12:33** — rarity 1.00, longest run 4
+  > Sell that ye have, and give alms; provide yourselves bags which wax not old, a treasure in the heavens that faileth not, where no thief approacheth, neither moth corrupteth.
+  shared: *that ye have and*
+- **1 Kings 11:38** — rarity 1.00, longest run 4
+  > And it shall be, if thou wilt hearken unto all that I command thee, and wilt walk in my ways, and do that is right in my sight, to keep my statutes and my commandments, as David my servant did; that I will be with thee, and build thee a sure house, as I built for David, and will give Israel unto thee.
+  shared: *that is right in*
+- **Genesis 45:13** — rarity 1.00, longest run 4
+  > And ye shall tell my father of all my glory in Egypt, and of all that ye have seen; and ye shall haste and bring down my father hither.
+  shared: *all that ye have*
 
 ### 4:22
 
@@ -250,6 +305,12 @@ And now, if ye say this in your hearts, ye remain guiltless, otherwise ye are co
 
 And now, for the sake of these things which I have spoken unto you; that is, for the sake of retaining a remission of your sins from day to day, that ye may walk guiltless before God, I would that ye should impart of your substance to the poor, every man according to that which he hath, such as feeding the hungry, clothing the naked, visiting the sick, and administering to their relief, both spiritually and temporally, according to their wants,
 
+- **Leviticus 16:15** — rarity 1.00, longest run 4
+  > Then shall he kill the goat of the sin offering, that is for the people, and bring his blood within the vail, and do with that blood as he did with the blood of the bullock, and sprinkle it upon the mercy seat, and before the mercy seat:
+  shared: *that is for the*
+- **1 Thessalonians 4:12** — rarity 1.00, longest run 4
+  > That ye may walk honestly toward them that are without, and that ye may have lack of nothing.
+  shared: *that ye may walk*
 
 ### 4:27
 
@@ -261,6 +322,12 @@ and see that all these things are done in wisdom and order: for it is not requis
 - **Mark 4:11** — rarity 2.25, longest run 6
   > And he said unto them, Unto you it is given to know the mystery of the kingdom of God: but unto them that are without, all these things are done in parables:
   shared: *all these things are*; *these things are done*; *things are done in*
+- **2 Peter 3:11** — rarity 1.00, longest run 4
+  > Seeing then that all these things shall be dissolved, what manner of persons ought ye to be in all holy conversation and godliness,
+  shared: *that all these things*
+- **Luke 24:44** — rarity 1.00, longest run 4
+  > And he said unto them, These are the words which I spake unto you, while I was yet with you, that all things must be fulfilled, which were written in the law of Moses, and in the prophets, and in the psalms, concerning me.
+  shared: *all things must be*
 
 ### 4:28
 
@@ -282,4 +349,16 @@ But this much I can tell you, that if ye do not watch yourselves, and your thoug
 - **Deuteronomy 10:13** — rarity 1.12, longest run 5
   > To keep the commandments of the LORD, and his statutes, which I command thee this day for thy good?
   shared: *keep the commandments of*; *to keep the commandments*
+- **Luke 19:40** — rarity 1.00, longest run 4
+  > And he answered and said unto them, I tell you that, if these should hold their peace, the stones would immediately cry out.
+  shared: *tell you that if*
+- **Galatians 5:2** — rarity 1.00, longest run 4
+  > Behold, I Paul say unto you, that if ye be circumcised, Christ shall profit you nothing.
+  shared: *you that if ye*
+- **1 Peter 1:9** — rarity 1.00, longest run 4
+  > Receiving the end of your faith, even the salvation of your souls.
+  shared: *the end of your*
+- **Mark 11:26** — rarity 1.00, longest run 4
+  > But if ye do not forgive, neither will your Father which is in heaven forgive your trespasses.
+  shared: *if ye do not*
 

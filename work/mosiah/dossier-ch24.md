@@ -1,6 +1,6 @@
 # Mosiah 24 — adjudication dossier
 
-Running text: 1830 first edition (modern versification). 25 verses. 128 machine candidates for this chapter; the top 24 by n-gram rarity are shown below, grouped by verse.
+Running text: 1830 first edition (modern versification). 25 verses. 128 machine candidates for this chapter; the top 50 by n-gram rarity are shown below, grouped by verse.
 
 Substantive 1830-vs-1920 differences are flagged per verse. Note that KJV
 spellings (*shew*, *marvellous*) surviving in 1830 and modernized later are
@@ -65,6 +65,12 @@ but they taught them that they should keep their record, and that they might wri
 
 And thus the Lamanites began to increase in riches, and began to trade one with another, and wax great, and began to be a cunning and a wise people, as to the wisdom of the world; yea, a very cunning people; delighting in all manner of wickedness and plunder, except it were among their own brethren.
 
+- **Genesis 10:8** — rarity 1.00, longest run 4
+  > And Cush begat Nimrod: he began to be a mighty one in the earth.
+  shared: *began to be a*
+- **Luke 1:17** — rarity 0.70, longest run 5
+  > And he shall go before him in the spirit and power of Elias, to turn the hearts of the fathers to the children, and the disobedient to the wisdom of the just; to make ready a people prepared for the Lord.
+  shared: *the wisdom of the*; *to the wisdom of*
 
 ### 24:8
 
@@ -75,6 +81,18 @@ And now it came to pass that Amulon began to exercise authority over Alma and hi
 
 for Amulon knew Alma, that he had been one of the king’s priests, and that it was he that believed the words of Abinadi, and was driven out before the king; and therefore he was wroth with him, for he was subject to king Laman; yet he exercised authority over them, and put tasks upon them, and put task-masters over them.
 
+- **Genesis 3:6** — rarity 1.00, longest run 4
+  > And when the woman saw that the tree was good for food, and that it was pleasant to the eyes, and a tree to be desired to make one wise, she took of the fruit thereof, and did eat, and gave also unto her husband with her; and he did eat.
+  shared: *and that it was*
+- **Acts 3:10** — rarity 1.00, longest run 4
+  > And they knew that it was he which sat for alms at the Beautiful gate of the temple: and they were filled with wonder and amazement at that which had happened unto him.
+  shared: *that it was he*
+- **2 Chronicles 26:19** — rarity 1.00, longest run 4
+  > Then Uzziah was wroth, and had a censer in his hand to burn incense: and while he was wroth with the priests, the leprosy even rose up in his forehead before the priests in the house of the LORD, from beside the incense altar.
+  shared: *he was wroth with*
+- **2 Kings 13:19** — rarity 1.00, longest run 4
+  > And the man of God was wroth with him, and said, Thou shouldest have smitten five or six times; then hadst thou smitten Syria till thou hadst consumed it: whereas now thou shalt smite Syria but thrice.
+  shared: *was wroth with him*
 
 ### 24:10
 
@@ -82,6 +100,9 @@ And it came to pass that so great was their afflictions, that they began to cry 
 
 - *variant* 1830 `was` → 1920 `were`
 
+- **Luke 5:7** — rarity 1.00, longest run 4
+  > And they beckoned unto their partners, which were in the other ship, that they should come and help them. And they came, and filled both the ships, so that they began to sink.
+  shared: *that they began to*
 
 ### 24:11
 
@@ -93,6 +114,12 @@ And it came to pass that Amulon commanded them that they should stop their cries
 - *variant* 1830 `pass` → 1920 `(deleted)`
 - *variant* 1830 `that` → 1920 `(deleted)`
 
+- **Acts 12:19** — rarity 0.52, longest run 5
+  > And when Herod had sought for him, and found him not, he examined the keepers, and commanded that they should be put to death. And he went down from Judaea to Caesarea, and there abode.
+  shared: *be put to death*; *should be put to*
+- **2 Chronicles 15:13** — rarity 0.52, longest run 5
+  > That whosoever would not seek the LORD God of Israel should be put to death, whether small or great, whether man or woman.
+  shared: *be put to death*; *should be put to*
 
 ### 24:12
 
@@ -104,6 +131,24 @@ And it came to pass that Alma and his people did not raise their voices to the L
 - *variant* 1830 `pass` → 1920 `(deleted)`
 - *variant* 1830 `that` → 1920 `(deleted)`
 
+- **Daniel 2:30** — rarity 1.00, longest run 4
+  > But as for me, this secret is not revealed to me for any wisdom that I have more than any living, but for their sakes that shall make known the interpretation to the king, and that thou mightest know the thoughts of thy heart.
+  shared: *know the thoughts of*
+- **Genesis 27:25** — rarity 0.70, longest run 5
+  > And he said, Bring it near to me, and I will eat of my son’s venison, that my soul may bless thee. And he brought it near to him, and he did eat: and he brought him wine and he drank.
+  shared: *him and he did*; *to him and he*
+- **2 Kings 18:12** — rarity 0.53, longest run 5
+  > Because they obeyed not the voice of the LORD their God, but transgressed his covenant, and all that Moses the servant of the LORD commanded, and would not hear them, nor do them.
+  shared: *lord their god but*; *the lord their god*
+- **Hosea 7:10** — rarity 0.53, longest run 5
+  > And the pride of Israel testifieth to his face: and they do not return to the LORD their God, nor seek him for all this.
+  shared: *the lord their god*; *to the lord their*
+- **2 Kings 17:19** — rarity 0.53, longest run 5
+  > Also Judah kept not the commandments of the LORD their God, but walked in the statutes of Israel which they made.
+  shared: *lord their god but*; *the lord their god*
+- **Luke 1:16** — rarity 0.53, longest run 5
+  > And many of the children of Israel shall he turn to the Lord their God.
+  shared: *the lord their god*; *to the lord their*
 
 ### 24:13
 
@@ -141,6 +186,18 @@ And now it came to pass that the burdens which was laid upon Alma and his brethr
 
 - *variant* 1830 `was` → 1920 `were`
 
+- **2 Samuel 22:39** — rarity 1.00, longest run 4
+  > And I have consumed them, and wounded them, that they could not arise: yea, they are fallen under my feet.
+  shared: *them that they could*
+- **Colossians 4:12** — rarity 1.00, longest run 4
+  > Epaphras, who is one of you, a servant of Christ, saluteth you, always labouring fervently for you in prayers, that ye may stand perfect and complete in all the will of God.
+  shared: *all the will of*
+- **Ephesians 5:17** — rarity 0.70, longest run 5
+  > Wherefore be ye not unwise, but understanding what the will of the Lord is.
+  shared: *the will of the*; *will of the lord*
+- **Acts 21:14** — rarity 0.70, longest run 5
+  > And when he would not be persuaded, we ceased, saying, The will of the Lord be done.
+  shared: *the will of the*; *will of the lord*
 
 ### 24:16
 
@@ -206,6 +263,9 @@ And it came to pass that Alma and his people departed into the wilderness; and w
 - *variant* 1830 `that` → 1920 `(deleted)`
 - *variant* 1830 `travelled` → 1920 `traveled`
 
+- **Isaiah 43:19** — rarity 1.00, longest run 4
+  > Behold, I will do a new thing; now it shall spring forth; shall ye not know it? I will even make a way in the wilderness, and rivers in the desert.
+  shared: *way in the wilderness*
 
 ### 24:21
 
@@ -222,6 +282,9 @@ yea, and in the valley of Alma they poured out their thanks to God because he ha
 
 And they gave thanks to God, yea, all their men, and all their women, and all their children, that could speak, lifted their voices in the praises of their God.
 
+- **Acts 27:35** — rarity 1.00, longest run 4
+  > And when he had thus spoken, he took bread, and gave thanks to God in presence of them all: and when he had broken it, he began to eat.
+  shared: *gave thanks to god*
 
 ### 24:23
 
@@ -236,11 +299,26 @@ And now the Lord said unto Alma, Haste thee and get thou and this people out of 
 - **Exodus 18:18** — rarity 1.00, longest run 4
   > Thou wilt surely wear away, both thou, and this people that is with thee: for this thing is too heavy for thee; thou art not able to perform it thyself alone.
   shared: *thou and this people*
+- **2 Chronicles 30:9** — rarity 1.00, longest run 4
+  > For if ye turn again unto the LORD, your brethren and your children shall find compassion before them that lead them captive, so that they shall come again into this land: for the LORD your God is gracious and merciful, and will not turn away his face from you, if ye return unto him.
+  shared: *this land for the*
+- **Genesis 26:3** — rarity 0.70, longest run 5
+  > Sojourn in this land, and I will be with thee, and will bless thee; for unto thee, and unto thy seed, I will give all these countries, and I will perform the oath which I sware unto Abraham thy father;
+  shared: *land and i will*; *this land and i*
+- **Jeremiah 24:6** — rarity 0.70, longest run 5
+  > For I will set mine eyes upon them for good, and I will bring them again to this land: and I will build them, and not pull them down; and I will plant them, and not pluck them up.
+  shared: *land and i will*; *this land and i*
 
 ### 24:24
 
 And it came to pass that they departed out of the valley, and took their journey into the wilderness.
 
+- **1 Samuel 11:11** — rarity 0.52, longest run 7
+  > And it was so on the morrow, that Saul put the people in three companies; and they came into the midst of the host in the morning watch, and slew the Ammonites until the heat of the day: and it came to pass, that they which remained were scattered, so that two of them were not left together.
+  shared: *and it came to*; *came to pass that*; *it came to pass*; *to pass that they*
+- **Acts 27:44** — rarity 0.52, longest run 6
+  > And the rest, some on boards, and some on broken pieces of the ship. And so it came to pass, that they escaped all safe to land.
+  shared: *came to pass that*; *it came to pass*; *to pass that they*
 
 ### 24:25
 

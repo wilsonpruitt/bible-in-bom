@@ -1,0 +1,74 @@
+[
+  {
+    "bomRef": "Mosiah 20:2",
+    "source": "2 Chronicles 20:22",
+    "category": "better-source-identified",
+    "sharedText": "to sing and to",
+    "streams": ["machine-ngram"],
+    "reason": "The machine's top proposal for the verse, on a four-word run. 2 Chronicles 20:22 is Jehoshaphat's singers going out before the army — 'when they began to sing and to praise, the LORD set ambushments' — and the run breaks at the word that matters, since the Book of Mormon's next verb is 'dance' and the KJV's is 'praise'. The verse's real background is Judges 21:21, where 'to dance' is used absolutely of a festival at which women are seized, one of only two KJV verses with the infinitive in that form; the link is filed at 20:1. Worth registering rather than passing over because the Chronicles verse does contain an ambush laid against people who are singing, which is exactly this chapter's situation and exactly what would tempt a reader who had not checked the fifth word."
+  },
+  {
+    "bomRef": "Mosiah 20:7",
+    "source": "Ezekiel 38:11",
+    "category": "common-vocabulary",
+    "sharedText": "up to the land of",
+    "streams": ["machine-ngram"],
+    "reason": "'Go up to the land of' is the KJV's ordinary idiom of invasion and return and is spread across Genesis, Numbers, Joshua, Kings and the prophets; the five-word run is a function of the construction, not of Ezekiel. Nothing distinctive of Ezekiel 38 — the unwalled villages, Gog, the spoil — is present at Mosiah 20:7, which reports only that the Lamanite army went up to the land of Nephi. Registered because the rarity score put it first for the verse and because Gog's assembly against a people 'dwelling safely' is close enough in outline to catch a careless eye."
+  },
+  {
+    "bomRef": "Mosiah 20:10",
+    "source": "Isaiah 5:29",
+    "category": "insufficient-verbal",
+    "sharedText": "lion ... prey",
+    "streams": ["manual"],
+    "reason": "'They fought like lions for their prey' invites a lion-and-prey source, and the KJV has two good ones: Isaiah 5:29, where an invading army's roaring is 'like a lion … they shall roar, and lay hold of the prey, and shall carry it away safe', which is a battle simile of exactly this kind; and Psalm 17:12, 'like as a lion that is greedy of his prey, and as it were a young lion lurking in secret places', which is additionally tempting because 'secret places' has just appeared at 20:5. Neither is taken. There is no run of words: the Book of Mormon has 'like lions for their prey' and neither KJV verse has that collocation, 'his prey' occurring in four verses and 'like a lion' in eight, with no overlap between the two lists at any phrase this verse uses. The lion-for-prey simile is common property of Hebrew and English alike, and the verse's companion figure, 'like dragons did they fight', has no KJV warrant at all — the KJV's dragons are desert scavengers and sea monsters, never a model of courage — which is itself evidence that the similes here are the writer's own and not quarried."
+  },
+  {
+    "bomRef": "Mosiah 20:11",
+    "source": "Nehemiah 4:14",
+    "category": "insufficient-verbal",
+    "sharedText": "fight ... your wives ... your sons and your daughters",
+    "streams": ["manual"],
+    "reason": "A close call, registered because it was nearly written as a link. Nehemiah 4:14 is the KJV's one battle-exhortation that names the household as the thing being fought for — 'fight for your brethren, your sons, and your daughters, your wives, and your houses' — and its situation matches Mosiah 20:11 unusually well: defenders who are outnumbered, taken by surprise, and told they will be delivered because the fight is for their own. Esther 9:16's 'stood for their lives', a KJV singleton, sits equally close to 'they fought for their lives'. It is declined because there is no run: Nehemiah has 'your', Mosiah 'their', and the longest shared sequence is two words. Fighting for one's wives and children is not a scriptural idiom but a universal one, and a verse that could as easily be pointed at Esther as at Nehemiah is pointing at neither."
+  },
+  {
+    "bomRef": "Mosiah 20:14",
+    "source": "Genesis 19:16",
+    "category": "formulaic",
+    "sharedText": "and they brought him",
+    "streams": ["machine-ngram"],
+    "reason": "A five-word run from the rescue of Lot, and pure narrative connective tissue on both sides. The same is true of 1 Samuel 17:57's 'and brought him before' at 20:13, proposed by the same stream. Bringing a man before a ruler is one of the KJV's most-used sentences and CONVENTIONS §5's standing exclusion covers the class; both are registered here once, together, because a rarity-ranked list will keep offering them in a chapter where a captive is brought before a king three times in four verses."
+  },
+  {
+    "bomRef": "Mosiah 20:17",
+    "source": "2 Samuel 13:6",
+    "category": "formulaic",
+    "sharedText": "said unto the king, I pray thee",
+    "streams": ["machine-ngram"],
+    "reason": "The longest n-gram run offered anywhere in the chapter — seven words, and it scored highest — and it is worth nothing. 'Said unto the king, I pray thee' is the KJV's standard way of introducing a petition to a monarch and the stream returns 2 Samuel 13:6 and 15:7 with identical scores precisely because neither is a source. This is CONVENTIONS §9's point in miniature: the run is long, the two candidates are Amnon feigning illness to get Tamar into his room and Absalom asking leave to go to Hebron, and neither has anything to do with an officer interceding for a people. The verse's real borrowing, Acts 7:60, produces a shorter run and was invisible to the stream."
+  },
+  {
+    "bomRef": "Mosiah 20:22",
+    "source": "Hebrews 9:22",
+    "category": "wrong-sense",
+    "sharedText": "shedding of blood",
+    "streams": ["manual"],
+    "reason": "The register's standard case, and a sharp one, because the rarity is real: 'shedding of blood' occurs in exactly one KJV verse, Hebrews 9:22, and Mosiah 20:22 ends 'let us put a stop to the shedding of so much blood'. On rarity alone this would be a strong row. It is declined on sense, and the senses are not merely different but opposite in function. Hebrews means sacrificial blood, and means that there must be shedding of it: 'without shedding of blood is no remission' — the shedding is the condition of forgiveness. Mosiah means blood shed in battle, and means that there must be less of it: the clause is a proposal to stop. The insertion of 'so much' is the tell, since it quantifies what Hebrews treats as a categorical requirement. A phrase that a source makes necessary and a borrower makes regrettable is not a borrowing."
+  },
+  {
+    "bomRef": "Mosiah 20:22",
+    "source": "Genesis 29:19",
+    "category": "better-source-identified",
+    "sharedText": "it is better that ... than that",
+    "streams": ["manual"],
+    "reason": "'It is better that' occurs in exactly two KJV verses, and only Genesis 29:19 completes it with the comparative — 'It is better that I give her to thee, than that I should give her to another man' — which makes it the closest match in the KJV to Mosiah 20:22's frame taken as a frame. It has an additional and misleading attraction in this chapter, since Laban is speaking about the disposal of a daughter and this chapter is about daughters carried off. It is superseded on the completing clause. Mosiah reads 'than that we should', which is a KJV singleton belonging to Exodus 14:12, and Exodus supplies not just the words but the terms of the comparison — servitude weighed against death — where Genesis compares two suitors. The link is filed at Exodus 14:12."
+  },
+  {
+    "bomRef": "Mosiah 20:24",
+    "source": "Genesis 21:23",
+    "category": "insufficient-verbal",
+    "sharedText": "swear unto me ... oath ... covenant between two peoples",
+    "streams": ["manual"],
+    "reason": "Genesis 21:22-32 is the best structural parallel in the KJV to the settlement at Mosiah 20:23-26: two rulers, a grievance about something violently taken by one side's servants, the accused ruler's plea that he had heard nothing of it, an oath sworn between the peoples, and both parties returning to their own land in peace. It is not filed as a link here because the wording will not carry it. 'Swear unto me' is in six KJV verses; 'with an oath' is in nine; the one genuinely rare string in the Genesis passage, 'neither yet heard I of it', is a singleton the Book of Mormon does not reproduce. The Genesis 21 material is registered where it does have verbal contact — as a composite at 20:16, where 'hath done this thing' is one of only three KJV occurrences and Abimelech's ignorance is Limhi's — and a reader who wants the Beersheba parallel should be sent there rather than given a second row for it."
+  }
+]

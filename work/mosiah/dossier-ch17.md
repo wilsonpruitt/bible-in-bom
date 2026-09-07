@@ -1,6 +1,6 @@
 # Mosiah 17 — adjudication dossier
 
-Running text: 1830 first edition (modern versification). 20 verses. 134 machine candidates for this chapter; the top 24 by n-gram rarity are shown below, grouped by verse.
+Running text: 1830 first edition (modern versification). 20 verses. 134 machine candidates for this chapter; the top 40 by n-gram rarity are shown below, grouped by verse.
 
 Substantive 1830-vs-1920 differences are flagged per verse. Note that KJV
 spellings (*shew*, *marvellous*) surviving in 1830 and modernized later are
@@ -21,11 +21,29 @@ And now it came to pass that when Abinadi had finished these sayings, that the k
   > And it came to pass, that when Jesus had finished these sayings, he departed from Galilee, and came into the coasts of Judaea beyond Jordan;
   shared: *came to pass that*; *had finished these sayings*; *it came to pass*; *to pass that when*
   rare words: finished, sayings
+- **2 Samuel 21:14** — rarity 1.00, longest run 4
+  > And the bones of Saul and Jonathan his son buried they in the country of Benjamin in Zelah, in the sepulchre of Kish his father: and they performed all that the king commanded. And after that God was intreated for the land.
+  shared: *that the king commanded*
+- **John 9:22** — rarity 1.00, longest run 4
+  > These words spake his parents, because they feared the Jews: for the Jews had agreed already, that if any man did confess that he was Christ, he should be put out of the synagogue.
+  shared: *he should be put*
 
 ### 17:2
 
 But there was one among them, whose name was Alma, he also being a descendant of Nephi. And he was a young man, and he believed the words which Abinadi had spoken, for he knew concerning the iniquity which Abinadi had testified against them: Therefore he began to plead with the king that he would not be angry with Abinadi, but suffer that he might depart in peace.
 
+- **Genesis 18:7** — rarity 1.00, longest run 5
+  > And Abraham ran unto the herd, and fetcht a calf tender and good, and gave it unto a young man; and he hasted to dress it.
+  shared: *a young man and*; *young man and he*
+- **Luke 24:18** — rarity 1.00, longest run 4
+  > And the one of them, whose name was Cleopas, answering said unto him, Art thou only a stranger in Jerusalem, and hast not known the things which are come to pass there in these days?
+  shared: *them whose name was*
+- **Acts 21:14** — rarity 1.00, longest run 4
+  > And when he would not be persuaded, we ceased, saying, The will of the Lord be done.
+  shared: *he would not be*
+- **Judges 17:7** — rarity 1.00, longest run 4
+  > And there was a young man out of Bethlehemjudah of the family of Judah, who was a Levite, and he sojourned there.
+  shared: *was a young man*
 
 ### 17:3
 
@@ -47,6 +65,9 @@ And it came to pass that the king caused that his guards should surround Abinadi
 - **Matthew 18:30** — rarity 1.11, longest run 5
   > And he would not: but went and cast him into prison, till he should pay the debt.
   shared: *and cast him into*; *cast him into prison*
+- **Judges 15:13** — rarity 1.00, longest run 4
+  > And they spake unto him, saying, No; but we will bind thee fast, and deliver thee into their hand: but surely we will not kill thee. And they bound him with two new cords, and brought him up from the rock.
+  shared: *and they bound him*
 
 ### 17:6
 
@@ -65,6 +86,9 @@ And he said unto him, Abinadi, we have found an accusation against thee, and tho
 
 For thou hast said that God himself should come down among the children of men; and now for this cause thou shalt be put to death, unless thou wilt recall all the words which thou hast spoken evil concerning me and my people.
 
+- **2 Chronicles 6:20** — rarity 1.00, longest run 4
+  > That thine eyes may be open upon this house day and night, upon the place whereof thou hast said that thou wouldest put thy name there; to hearken unto the prayer which thy servant prayeth toward this place.
+  shared: *thou hast said that*
 
 ### 17:9
 
@@ -83,6 +107,15 @@ Now Abinadi saith unto him: I say unto you, I will not recall the words which I 
 
 Yea, and I will suffer even until death, and I will not recall my words, and they shall stand as a testimony against you. And if ye slay me, ye will shed innocent blood, and this shall also stand as a testimony against you at the last day.
 
+- **Revelation 2:10** — rarity 1.00, longest run 4
+  > Fear none of those things which thou shalt suffer: behold, the devil shall cast some of you into prison, that ye may be tried; and ye shall have tribulation ten days: be thou faithful unto death, and I will give thee a crown of life.
+  shared: *death and i will*
+- **Jeremiah 11:10** — rarity 1.00, longest run 4
+  > They are turned back to the iniquities of their forefathers, which refused to hear my words; and they went after other gods to serve them: the house of Israel and the house of Judah have broken my covenant which I made with their fathers.
+  shared: *my words and they*
+- **Jeremiah 22:17** — rarity 1.00, longest run 4
+  > But thine eyes and thine heart are not but for thy covetousness, and for to shed innocent blood, and for oppression, and for violence, to do it.
+  shared: *shed innocent blood and*
 
 ### 17:11
 
@@ -95,6 +128,13 @@ But the priests lifted up their voices against him, and began to accuse him, say
 
 - *variant* 1830 `hath` → 1920 `has`
 
+- **Luke 23:2** — rarity 1.00, longest run 5
+  > And they began to accuse him, saying, We found this fellow perverting the nation, and forbidding to give tribute to Caesar, saying that he himself is Christ a King.
+  shared: *began to accuse him*; *to accuse him saying*
+  rare words: accuse, began
+- **Acts 24:2** — rarity 1.00, longest run 5
+  > And when he was called forth, Tertullus began to accuse him, saying, Seeing that by thee we enjoy great quietness, and that very worthy deeds are done unto this nation by thy providence,
+  shared: *began to accuse him*; *to accuse him saying*
 
 ### 17:13
 
@@ -108,6 +148,9 @@ And it came to pass that they took him, and bound him, and scourged his skin wit
 
 And now when the flames began to scorch him, he cried unto them saying:
 
+- **Mark 15:42** — rarity 1.00, longest run 4
+  > And now when the even was come, because it was the preparation, that is, the day before the sabbath,
+  shared: *and now when the*
 
 ### 17:15
 
@@ -130,6 +173,9 @@ Behold, even as ye have done unto me, so shall it come to pass that thy seed sha
 - **Acts 2:24** — rarity 1.00, longest run 4
   > Whom God hath raised up, having loosed the pains of death: because it was not possible that he should be holden of it.
   shared: *the pains of death*
+- **Ezekiel 23:38** — rarity 1.00, longest run 4
+  > Moreover this they have done unto me: they have defiled my sanctuary in the same day, and have profaned my sabbaths.
+  shared: *have done unto me*
 
 ### 17:16
 
@@ -188,4 +234,7 @@ And now when Abinadi had said these words, he fell, having suffered death by fir
 - **Deuteronomy 13:5** — rarity 1.50, longest run 5
   > And that prophet, or that dreamer of dreams, shall be put to death; because he hath spoken to turn you away from the LORD your God, which brought you out of the land of Egypt, and redeemed you out of the house of bondage, to thrust thee out of the way which the LORD thy God commanded thee to walk in. So shalt thou put the evil away from the midst of thee.
   shared: *put to death because*; *to death because he*
+- **Acts 20:16** — rarity 1.00, longest run 4
+  > For Paul had determined to sail by Ephesus, because he would not spend the time in Asia: for he hasted, if it were possible for him, to be at Jerusalem the day of Pentecost.
+  shared: *because he would not*
 

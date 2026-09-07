@@ -1,0 +1,737 @@
+{
+  "chapter": 7,
+  "adjudicated": "2026-09-07",
+  "adjudicator": "Opus",
+  "links": {
+    "7:1": [
+      {
+        "source": "Malachi 2:17",
+        "type": "echo",
+        "subtype": "possible",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 4,
+          "sequence": 2,
+          "context": 3,
+          "rarity": 2,
+          "attestation": 0
+        },
+        "kjvSpecific": "uncertain",
+        "mediation": "direct-OT",
+        "provenance": {
+          "route": "Malachi 2:17 → KJV → Book of Mormon",
+          "other": "'Wearied' occurs in twelve KJV verses, but only Malachi 2:17 has the construction the Book of Mormon uses — a transitive 'wearied X with Y', where Y is the speech of a discontented people. Isaiah 43:24's 'thou hast wearied me with thine iniquities' is the nearest rival and puts sins, not words, in the instrumental slot.",
+          "alternative": "Judges 16:16, where Delilah 'pressed him daily with her words, and urged him', is the closer match for 'teasings' as a behaviour and shares no vocabulary at all.",
+          "significance": "Recover Malachi 2:17 and the wearying is a demand for an absent God: 'Ye have wearied the LORD with your words … Where is the God of judgment?' Mosiah 7:1 opens the Limhi narrative with a people wearying their king for news of a colony nobody has heard from — the demand for an absent party, put to the one person who cannot produce him. The chapter answers it by producing not the colony but a sermon about the God who brought the fathers out (7:19-20), which is Malachi's answer as well."
+        },
+        "note": "'His people had heard nothing from them … therefore, they wearied him with their teasings.' The verbal contact is one word plus a construction, and that is all it is: 'wearied him with their teasings' against Malachi's 'wearied the LORD with your words'. What recommends it is that the Book of Mormon's idiom for this is otherwise absent — nobody else in the corpus is wearied with anything — and that the KJV supplies exactly one model for the phrase.",
+        "whyNot": "'Wearied' is ordinary English and 'teasings' is not a KJV word at all; the shared material is a single verb in a common frame. A reader who wants a source will find the frame in Isaiah 43:24 as easily as in Malachi, and a reader who does not want one has lost nothing.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ],
+        "text": "Ye have wearied the LORD with your words. Yet ye say, Wherein have we wearied him? When ye say, Every one that doeth evil is good in the sight of the LORD, and he delighteth in them; or, Where is the God of judgment?"
+      }
+    ],
+    "7:8": [
+      {
+        "source": "Acts 16:26",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "Acts 16:26 → KJV → Book of Mormon",
+          "other": "“bands were loosed” occurs in exactly one KJV verse, Acts 16:26. The KJV's other prison-release formulas use different nouns: Peter's 'chains fell off from his hands' (Acts 12:7), Joseph's 'the keeper of the prison looked not to any thing' (Genesis 39:23), Paul's 'my bonds in Christ' (Philippians 1:13).",
+          "significance": "Acts 16 is the Philippian jail: Paul and Silas are beaten, put in the inner prison, and at midnight the earthquake looses everyone's bands — after which the jailer, who had meant to kill himself, brings them out and asks what he must do to be saved. Mosiah 7 runs the same sequence inverted. Ammon and his brethren are imprisoned two days, their bands are loosed by the king's order rather than by an earthquake, and the man who had intended to put them to death (7:11) is the one who then convenes his people to hear a sermon about deliverance. The KJV's one released-bands verse is the one where the jailer is converted, and Limhi is Mosiah's jailer."
+        },
+        "note": "'When they had been in prison two days, they were again brought before the king, and their bands were loosed.' Four words, but they are the KJV's only occurrence of the phrase, and they arrive in the setting that produced them — a prison, a release, and a captor about to become a hearer. The rest of the verse is court-narrative boilerplate ('brought before the king' is Esther 9:11's phrase and four others'); the loosed bands are not.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ],
+        "text": "And suddenly there was a great earthquake, so that the foundations of the prison were shaken: and immediately all the doors were opened, and every one’s bands were loosed."
+      }
+    ],
+    "7:9": [
+      {
+        "source": "1 Samuel 8:7",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 1
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "recurrenceRefs": [
+          "2 Nephi 10:11"
+        ],
+        "provenance": {
+          "route": "1 Samuel 8:7 → KJV → Book of Mormon",
+          "other": "“voice of the people” occurs in exactly one KJV verse, 1 Samuel 8:7. The chapter's other refusals read 'hearken unto their voice' (8:9, 8:22), so the full phrase is not even a Samuel formula; it is a single verse.",
+          "significance": "The one KJV verse that contains 'the voice of the people' is the verse in which God tells Samuel to give Israel a king, and glosses the request as apostasy: 'they have not rejected thee, but they have rejected me, that I should not reign over them.' Limhi introduces his own dynasty with that phrase — Zeniff 'was made a king by the voice of the people' — and the sentence he is speaking is a confession that the dynasty produced bondage, a slain prophet and a tax. The book then ends by dismantling kingship in favour of judges chosen, in Mosiah 29's repeated formula, by the voice of the people. The phrase enters the book carrying 1 Samuel 8's verdict on monarchy and leaves it as the name of the alternative."
+        },
+        "note": "'Zeniff, which came up out of the land of Zarahemla to inherit this land … which was made a king by the voice of the people.' The phrase that will govern the political argument of the whole book of Mosiah appears here at its first use in this narrative, in a genealogy of failed kings, and it is a KJV singleton belonging to the Bible's own account of why Israel should not have had a king. 2 Nephi 10:11 has the phrase earlier in the corpus in a different sense (a land with no kings); this is the first place it does the work 1 Samuel 8 does.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ],
+        "text": "And the LORD said unto Samuel, Hearken unto the voice of the people in all that they say unto thee: for they have not rejected thee, but they have rejected me, that I should not reign over them."
+      }
+    ],
+    "7:14": [
+      {
+        "source": "Acts 12:11",
+        "type": "quotation",
+        "subtype": "explicit",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Genesis 15:13"
+        ],
+        "recurrenceRefs": [
+          "1 Nephi 5:8"
+        ],
+        "provenance": {
+          "route": "Acts 12:11 → KJV → Book of Mormon",
+          "other": "“know of a surety” occurs in exactly two KJV verses, Genesis 15:13 and Acts 12:11. Only Acts 12:11 has the full sequence the Book of Mormon reproduces — 'he said, Now I know of a surety, that' — because Genesis 15:13 is an imperative addressed to Abram, not a first-person realisation.",
+          "significance": "Acts 12:11 is Peter outside the prison, having just walked past two wards and an iron gate, saying that he now knows the Lord has delivered him out of the hand of Herod. Mosiah 7 puts the sentence in the mouth of a king who has himself just held four men in a prison for two days and loosed their bands (7:8, and see Acts 16:26 there). Limhi's 'surety' is that his brethren are alive; Peter's is that he is. Read together with 7:8 the chapter has borrowed both of Acts's prison-deliverance verses within seven verses of each other, and it is about to spend the rest of the chapter arguing that God delivers people out of bondage."
+        },
+        "note": "'Now, I know of a surety that my brethren which was in the land of Zarahemla, are yet alive.' Eight consecutive words of Acts 12:11 in the 1830 text ('said, Now I know of a surety, that'), from one of only two KJV verses with the idiom, and the one whose grammar matches. Below Skousen's sixteen-word threshold and not one of his thirty-six; catalogued as a quotation on the strength of the run plus the singular fit of the frame. Note also that the machine's top-scoring rival here is Luke 23:8's 'he was exceeding glad' at the head of the same verse, which is Herod's gladness at seeing Jesus and is covered by the standing exclusion filed at 1 Nephi 3:8.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ],
+        "text": "And when Peter was come to himself, he said, Now I know of a surety, that the LORD hath sent his angel, and hath delivered me out of the hand of Herod, and from all the expectation of the people of the Jews."
+      }
+    ],
+    "7:15": [
+      {
+        "source": "Luke 11:46",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 3,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Matthew 23:4"
+        ],
+        "recurrenceRefs": [
+          "Mosiah 7:23"
+        ],
+        "provenance": {
+          "route": "Luke 11:46 → KJV → Book of Mormon",
+          "other": "“grievous to be borne” occurs in exactly two KJV verses, Matthew 23:4 and Luke 11:46, which are the same woe in two Gospels. Luke reads 'burdens grievous to be borne'; Matthew reads 'heavy burdens and grievous to be borne'. The Book of Mormon's 'a tax which is grievous to be borne' has no conjunction and so follows Luke's attributive construction rather than Matthew's coordinated one — a thin discriminator, and the reason both are recorded.",
+          "significance": "The phrase belongs, in both Gospels, to a woe against religious authorities who lay burdens on other men and will not lift a finger to move them. Limhi applies it to a tribute of half of everything the colony grows and owns, exacted by a foreign king — a burden laid by a power that bears none of it. The metalepsis is that the KJV's only idiom for an unbearable burden is an idiom of clerical hypocrisy, and Limhi's next move is to concede that his own people's iniquity is what put the burden there (7:20)."
+        },
+        "note": "'We are in bondage to the Lamanites, and are taxed with a tax which is grievous to be borne.' Five words from a two-verse KJV idiom, and the phrase does real work in the chapter: it returns at 7:23 as the rhetorical question that opens Limhi's lament ('is not this grievous to be borne?'), so the borrowing is not incidental but the frame of the complaint. Adjudicated here at first use; 7:23 is Limhi repeating himself.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ],
+        "text": "And he said, Woe unto you also, ye lawyers! for ye lade men with burdens grievous to be borne, and ye yourselves touch not the burdens with one of your fingers."
+      }
+    ],
+    "7:18": [
+      {
+        "source": "Luke 21:28",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Revelation 1:3"
+        ],
+        "recurrenceRefs": [
+          "Mosiah 7:19"
+        ],
+        "provenance": {
+          "route": "Luke 21:28 → KJV → Book of Mormon",
+          "other": "“lift up your heads” occurs in exactly three KJV verses, Psalm 24:7, Psalm 24:9 and Luke 21:28. The two Psalm verses address gates, not people ('Lift up your heads, O ye gates'), which leaves Luke 21:28 as the only KJV verse in which the imperative is spoken to a congregation. “the time is at hand” occurs in exactly two KJV verses, Revelation 1:3 and Revelation 22:10.",
+          "significance": "Luke 21:28 sits inside the Olivet discourse, immediately after distress of nations and men's hearts failing them for fear, and the reason given for lifting the head is that 'your redemption draweth nigh'. Limhi keeps the imperative and replaces the eschatological reason with a political one: the time is at hand when 'we shall no longer be in subjection to our enemies'. The suppressed correspondence is that Luke's redemption is deliverance from the world and Limhi's is deliverance from a tax — and the chapter will refuse that reduction at 7:33, where the deliverance turns out to be conditional on turning to the Lord."
+        },
+        "note": "'O ye, my people, lift up your heads and be comforted: for behold, the time is at hand.' Both halves are KJV rarities and they arrive in Luke's own order: the imperative to lift the head, then 'for' plus a clause announcing that the deliverance is near. Luke has 'for your redemption draweth nigh'; the Book of Mormon has 'for behold, the time is at hand', which is Revelation's phrase doing Luke's job. The imperative is then repeated at the head of 7:19, where it introduces the historical creed — so the Olivet sentence is being used as a sermon exordium.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ],
+        "text": "And when these things begin to come to pass, then look up, and lift up your heads; for your redemption draweth nigh."
+      }
+    ],
+    "7:19": [
+      {
+        "source": "Hebrews 11:29",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 2
+        },
+        "kjvSpecific": "yes",
+        "mediation": "OT-via-NT",
+        "composite": [
+          "Exodus 14:16",
+          "Exodus 14:22"
+        ],
+        "recurrenceRefs": [
+          "1 Nephi 4:2",
+          "1 Nephi 17:26"
+        ],
+        "provenance": {
+          "route": "Exodus 14:16, 14:22 → Hebrews 11:29 → KJV → Book of Mormon",
+          "other": "“through the Red sea” occurs in exactly one KJV verse, Hebrews 11:29. Exodus never puts those words together: at 14:22 the children of Israel 'went into the midst of the sea upon the dry ground', at 15:4 Pharaoh's captains are 'drowned in the Red sea', at 13:18 God leads the people 'through the way of the wilderness of the Red sea'. “on dry ground through” occurs in exactly one KJV verse, Exodus 14:16.",
+          "significance": "This is the mediation case the chapter turns on, and rarity settles it where the diff cannot. The Book of Mormon's clause 'walk through the Red Sea on dry ground' is a fusion of two KJV singletons: the crossing is named in the New Testament's words and the surface is named in the Old Testament's. Hebrews 11:29 supplies 'through the Red sea' and nothing in the Hebrew Bible does; Exodus 14:16 supplies 'on dry ground through' and Hebrews reads 'as by dry land'. So the sentence is not Exodus with a New Testament gloss or Hebrews with an Exodus correction — it is a writer who has both phrases available and takes the more vivid noun from each."
+        },
+        "note": "'That God who brought the Children of Israel out of the land of Egypt, and caused that they should walk through the Red Sea on dry ground.' tools/mediation-check.py declines this pair — Exodus 14:22 and Hebrews 11:29 do not differ at any point the Book of Mormon reproduces word for word — but the rarity counts decide it in the tool's place. 'Through the Red sea' is Hebrews' alone and 'on dry ground' is Exodus'. Hebrews 11:29 has already been the source at 1 Nephi 4:2, where the same verse governs a Red Sea recital used as a warrant for courage; here it governs a Red Sea recital used as a warrant for hope, which is Hebrews 11's own rhetorical use of it.",
+        "bibliography": [
+          "Hardy MSI at Mosiah 7.19 (cross-references Exodus 14:21-22 for the Red Sea crossing)"
+        ],
+        "status": "minority",
+        "streams": [
+          "scholarship",
+          "machine-ngram",
+          "manual"
+        ],
+        "text": "By faith they passed through the Red sea as by dry land: which the Egyptians assaying to do were drowned."
+      },
+      {
+        "source": "Deuteronomy 8:3",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 1
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "provenance": {
+          "route": "Deuteronomy 8:3 → KJV → Book of Mormon",
+          "other": "“fed thee with manna” occurs in exactly one KJV verse, Deuteronomy 8:3; the only other verse joining the verb to the noun is Deuteronomy 8:16, 'who fed thee in the wilderness with manna'. Exodus 16, which narrates the manna at length, never says God fed anyone with it — at 16:35 'the children of Israel did eat manna forty years', with Israel as the subject.",
+          "significance": "Deuteronomy 8 is the chapter that explains why the wilderness was allowed to be hard: God 'humbled thee, and suffered thee to hunger, and fed thee with manna … that he might make thee know that man doth not live by bread only'. Limhi is preaching to a colony under a tax of half its grain, and the verse he reaches for is the one in which hunger is pedagogy and the ration is a lesson. Four verses later he will say the bondage came 'because of our iniquities' (7:20), which is Deuteronomy 8's argument arriving at its point."
+        },
+        "note": "'And fed them with manna, that they might not perish in the wilderness.' The KJV's only construction in which God is the subject of feeding and manna the instrument is Deuteronomy 8:3, twice repeated in that chapter and nowhere else. The purpose clause is the Book of Mormon's own; Deuteronomy's is 'that he might make thee know that man doth not live by bread only'. Hardy's apparatus cross-references Exodus 16:35 at this verse, which is where the manna narrative is, but the wording is Deuteronomy's — see the exclusion register at this verse.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ],
+        "text": "And he humbled thee, and suffered thee to hunger, and fed thee with manna, which thou knewest not, neither did thy fathers know; that he might make thee know that man doth not live by bread only, but by every word that proceedeth out of the mouth of the LORD doth man live."
+      },
+      {
+        "source": "Exodus 3:6",
+        "type": "echo",
+        "subtype": "probable",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 2,
+          "sequence": 4,
+          "context": 4,
+          "rarity": 2,
+          "attestation": 0
+        },
+        "kjvSpecific": "uncertain",
+        "mediation": "uncertain",
+        "composite": [
+          "Luke 13:28"
+        ],
+        "provenance": {
+          "route": "Exodus 3:6, or its New Testament citations → KJV → Book of Mormon",
+          "other": "The KJV's formula is always distributive — 'the God of Abraham, the God of Isaac, and the God of Jacob' (Exodus 3:6, 3:15, 3:16, 4:5; Matthew 22:32; Mark 12:26; Luke 20:37; Acts 3:13; 7:32). The undistributed list “Abraham and Isaac and Jacob” occurs in exactly two KJV verses, Matthew 8:11 and Luke 13:28, and in neither is it governed by 'God of'. The Book of Mormon's 'that God who was the God of Abraham, and Isaac, and Jacob' has the Old Testament's governing noun over the New Testament's compressed list, which is why the mediation is recorded as uncertain rather than decided.",
+          "significance": "Whoever wrote this sentence had the burning-bush formula and did not reproduce it. That is worth recording precisely because it is a negative result: the one place in the chapter where a famous KJV phrase was available and was not copied is the place where a copyist would have been most likely to copy."
+        },
+        "note": "'In that God who was the God of Abraham, and Isaac, and Jacob.' The patriarchal triad is unmistakably the Exodus 3 formula in function — it opens a historical creed that runs on through Egypt, the Red Sea and the manna — but it is not the Exodus 3 formula in form, because the KJV always repeats 'the God of' before each name and here it is said once. The compressed list as such is a Gospel construction (Matthew 8:11, Luke 13:28), so the sentence is either Exodus loosely remembered or Exodus filtered through the Gospels' way of listing the three. The mediation-check cannot separate them and neither can I.",
+        "whyNot": "Three patriarchal names in canonical order are the most quotable sequence in the Hebrew Bible and require no source at all; a preacher could produce this line without a text in front of him. What keeps the row is the company it sits in — Egypt, the Red Sea and the manna follow in Exodus order in the same sentence.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ],
+        "text": "Moreover he said, I am the God of thy father, the God of Abraham, the God of Isaac, and the God of Jacob. And Moses hid his face; for he was afraid to look upon God."
+      }
+    ],
+    "7:20": [
+      {
+        "source": "Joshua 24:17",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "provenance": {
+          "route": "Joshua 24:17 → KJV → Book of Mormon",
+          "other": "“our fathers out of the land of” occurs in exactly one KJV verse, Joshua 24:17, which also supplies 'preserved us in all the way wherein we went' and 'the house of bondage' — three of the four things Mosiah 7:20 says.",
+          "significance": "Joshua 24 is the covenant renewal at Shechem, and 24:17 is the people's answer to 'choose you this day whom ye will serve': the LORD brought our fathers out of Egypt, out of the house of bondage, and preserved us. Limhi is standing at a temple (7:17) addressing a gathered people and reciting the same creed with one substitution — Jerusalem for Egypt — and then adds the clause Joshua's people did not say: 'it is because of our iniquities and abominations, that has brought us into bondage.' The house of bondage they came out of in Joshua is the bondage they have gone back into here, and the sermon's whole argument is that they walked into it themselves."
+        },
+        "note": "'That same God hath brought our fathers out of the land of Jerusalem, and hath kept and preserved his people, even until now.' The exodus formula is everywhere in the KJV — 'out of the land of Egypt' occurs in eighty-one verses — but the specific possessive, 'our fathers out of the land of', is Joshua 24:17's alone, and Joshua 24:17 is also the only verse in that family that pairs the bringing-out with preserving. Substituting Jerusalem for Egypt is the Book of Mormon's standing move in exodus recitals; what is new here is that the bondage in the verse is the present one.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ],
+        "text": "For the LORD our God, he it is that brought us up and our fathers out of the land of Egypt, from the house of bondage, and which did those great signs in our sight, and preserved us in all the way wherein we went, and among all the people through whom we passed:"
+      }
+    ],
+    "7:21": [
+      {
+        "source": "Ephesians 4:14",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "recurrenceRefs": [
+          "Mosiah 9:10"
+        ],
+        "provenance": {
+          "route": "Ephesians 4:14 → KJV → Book of Mormon",
+          "other": "“cunning craftiness” occurs in exactly one KJV verse, Ephesians 4:14. 'Craftiness' alone occurs in five (Job 5:13, Luke 20:23, 1 Corinthians 3:19, 2 Corinthians 4:2, Ephesians 4:14), and only Ephesians pairs it with 'cunning'.",
+          "significance": "Ephesians 4:14 is about children 'tossed to and fro, and carried about with every wind of doctrine, by the sleight of men, and cunning craftiness, whereby they lie in wait to deceive'. Limhi applies it not to false teaching but to a treaty: king Laman yielded up two cities in order to get a people inside his borders where he could tax them. The suppressed correspondence is the last clause of Ephesians 4:14 — 'whereby they lie in wait to deceive' — which is precisely what Mosiah 9:10 says Laman was doing, and which no reader who does not recover the verse will see."
+        },
+        "note": "'Being deceived by the cunning and craftiness of king Laman, who having entered into a treaty with king Zeniff.' The KJV joins these two nouns in one verse only, and the Book of Mormon joins them here and again at Mosiah 9:10, where Zeniff's own record calls it 'the cunning and the craftiness of king Laman' in almost the same words. This is the first use in the book and the argument is made here; 9:10 is Zeniff's account of the same event and is registered as a recurrence.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ],
+        "text": "That we henceforth be no more children, tossed to and fro, and carried about with every wind of doctrine, by the sleight of men, and cunning craftiness, whereby they lie in wait to deceive;"
+      }
+    ],
+    "7:26": [
+      {
+        "source": "Acts 7:52",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "Acts 7:52 → KJV → Book of Mormon",
+          "other": "“slain them which shewed before” occurs in exactly one KJV verse, Acts 7:52, and so does “coming of the Just One”. The KJV's other prophet-killing verses — 1 Kings 19:10 ('slain thy prophets with the sword'), Nehemiah 9:26 ('slew thy prophets'), Matthew 23:37 ('thou that killest the prophets') — none of them says the prophets were killed for foretelling the Messiah. Acts 7:52 is the only verse in the Bible that makes that the charge.",
+          "significance": "Acts 7 is Stephen's speech, and Mosiah 7:19-26 is built on its shape: the God of Abraham and the patriarchs, the bringing out of Egypt, the wilderness, then the accusation that the fathers killed the prophet who foretold the coming of the Just One. Stephen is stoned for saying it. Limhi says it about Abinadi, who was burned for saying that Christ was God and would take upon him flesh (7:27) — and the man Limhi's own father killed for it was killed by the king Limhi succeeded. The metalepsis is that the borrowed sentence is the last thing its original speaker ever said, and the reason he was killed was that he said it."
+        },
+        "note": "'And a Prophet of the Lord have they slain; yea, a chosen man of God, who told them of their wickedness and abominations, and prophesied of many things which is to come, yea, even the coming of Christ.' Two KJV singletons from one verse, and the whole logical structure of that verse: prophets slain, and slain specifically for having shown beforehand the coming of the Messiah. This is the chapter's headline. Limhi's sermon from 7:19 has been running the historical creed of Acts 7 — patriarchs, Egypt, wilderness — and it lands where Stephen's lands, on the charge that the fathers murdered the prophet who announced the Just One. The 1830 'which is to come' was corrected to 'are' in 1920; the KJV's own idiom here is Acts 7:52's participial 'shewed before of the coming', which the Book of Mormon expands into a finite clause.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ],
+        "text": "Which of the prophets have not your fathers persecuted? and they have slain them which shewed before of the coming of the Just One; of whom ye have been now the betrayers and murderers:"
+      }
+    ],
+    "7:27": [
+      {
+        "source": "Hebrews 2:14",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Philippians 2:7"
+        ],
+        "provenance": {
+          "route": "Hebrews 2:14 → KJV → Book of Mormon",
+          "other": "“partakers of flesh and blood” occurs in exactly one KJV verse, Hebrews 2:14, and so does “took part of the same”. 'Flesh and blood' by itself occurs in five KJV verses, but Hebrews 2:14 is the only one in which the phrase names what the Son took on rather than what human beings are limited by (Matthew 16:17, 1 Corinthians 15:50, Galatians 1:16, Ephesians 6:12). “took upon him” belongs to Philippians 2:7's 'took upon him the form of a servant'.",
+          "significance": "Hebrews 2:14 gives the reason for the incarnation as the destruction of him that had the power of death. Abinadi's doctrine as Limhi reports it — God comes down among the children of men, takes upon him flesh and blood, and goes forth upon the earth — is Hebrews 2:14's clause with Philippians 2:7's verb, and the sentence that follows in Mosiah 7:28 is that they put him to death for saying it. The suppressed correspondence is that Hebrews 2:14's whole point is that the one who takes flesh takes it in order to die."
+        },
+        "note": "'And that God should come down among the children of men, and take upon him flesh and blood, and go forth upon the face of the earth.' The KJV has exactly one verse in which a divine subject takes on flesh and blood, and this is its wording; the verb 'take upon him' is Philippians 2:7's, from the other great KJV incarnation sentence. What the Book of Mormon adds is 'come down' and 'go forth upon the face of the earth', neither of which is in either source. The doctrinal content of the verse — that Christ is 'the God, the Father of all things' — is the reading the 1837 edition began smoothing elsewhere in the corpus and left untouched here.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ],
+        "text": "Forasmuch then as the children are partakers of flesh and blood, he also himself likewise took part of the same; that through death he might destroy him that had the power of death, that is, the devil;"
+      },
+      {
+        "source": "Genesis 1:27",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 3,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Genesis 9:6"
+        ],
+        "provenance": {
+          "route": "Genesis 1:27 → KJV → Book of Mormon",
+          "other": "“the image of God” occurs in exactly three KJV verses, Genesis 1:27, Genesis 9:6 and 2 Corinthians 4:4. Only Genesis 1:27 has it as the pattern of the human creature's making; 2 Corinthians 4:4 applies it to Christ, and Genesis 9:6 uses it as the ground of the law against homicide.",
+          "significance": "Limhi's report of Abinadi runs the identification in both directions in one sentence: Christ takes the image of man, and that image is the one after which man was made, because man was created after the image of God. Genesis 9:6's use of the phrase is the sanction against shedding man's blood — which is what verse 28 says they then did to the man who preached it."
+        },
+        "note": "'It should be the image after which man was created in the beginning; or in other words, he said that man was created after the image of God.' The self-correcting doubling ('or in other words') is the Book of Mormon's own habit, but the two halves it bridges are Genesis 1:27's phrase used twice with the terms reversed. 'In the beginning' is Genesis 1:1's, and the sentence is doing what Genesis 1 does: establishing the image before anything is said about what happens to it.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ],
+        "text": "So God created man in his own image, in the image of God created he him; male and female created he them."
+      }
+    ],
+    "7:29": [
+      {
+        "source": "Obadiah 1:13",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 5,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "provenance": {
+          "route": "Obadiah 1:13 → KJV → Book of Mormon",
+          "other": "“my people in the day” occurs in exactly one KJV verse, Obadiah 1:13, where it appears inside 'my people in the day of their calamity' and the phrase 'in the day of their calamity' is then repeated three times in the one verse. “in the day of their” occurs in exactly three KJV verses, Jeremiah 18:17, Obadiah 1:12 and Obadiah 1:13.",
+          "significance": "Obadiah 1:13 is the indictment of Edom for what Edom did not do: a brother nation stood at the gate of God's people in the day of their calamity and did not help. Mosiah 7:29 takes the sentence and puts God in Edom's position — 'I will not succor my people in the day of their transgression' — with one substitution, transgression for calamity, that supplies the whole justification. The suppressed point of correspondence is that the KJV's model for refusing to succour a people in their day is a text about a crime; the Book of Mormon's oracle answers the charge before it is made by changing what the day is a day of."
+        },
+        "note": "'For behold, the Lord hath said, I will not succor my people in the day of their transgression.' Seven of the Book of Mormon's words track a KJV singleton, and the one word changed is the one that changes the moral sense of the sentence. This is the opening of a three-verse pastiche of prophetic oracle (7:29-31) which has no single biblical source and is assembled out of at least four — Obadiah here, Hosea 2:6 and Jeremiah 18:15 in the rest of this verse, Hosea 8:7 at 7:30 and Hosea 12:1 at 7:31.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ],
+        "text": "Thou shouldest not have entered into the gate of my people in the day of their calamity; yea, thou shouldest not have looked on their affliction in the day of their calamity, nor have laid hands on their substance in the day of their calamity;"
+      },
+      {
+        "source": "Hosea 2:6",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "provenance": {
+          "route": "Hosea 2:6 → KJV → Book of Mormon",
+          "other": "“hedge up thy way” occurs in exactly one KJV verse, Hosea 2:6, and the verb phrase 'hedge up' occurs in exactly one KJV verse, the same one. Job 3:23's 'whom God hath hedged in' and Job 1:10's 'hast not thou made an hedge about him' are the only other hedging verses and both are protective.",
+          "significance": "Hosea 2:6 hedges up the way of an unfaithful wife with thorns so that she cannot find her paths — and the reason given three verses later is 'then shall she say, I will go and return to my first husband; for then was it better with me than now.' The hedge in Hosea is not punishment but obstruction with an object: it exists to make return the only remaining road. That is exactly the argument Limhi's sermon makes, and the reason the oracle at 7:29-31 is followed at 7:33 by 'if ye will turn to the Lord'. The borrowed image already contains the sermon's conclusion."
+        },
+        "note": "'But I will hedge up their ways, that they prosper not.' The KJV uses 'hedge up' once, and the Book of Mormon uses it here, changing Hosea's singular way to a plural and his adulterous wife to a nation. Hosea's purpose clause is 'that she shall not find her paths'; the Book of Mormon's is 'that they prosper not', which is the standard promise of the Book of Mormon's own land covenant inverted. Both halves of the verse's second clause are prophetic borrowings: the hedge is Hosea's and the stumbling is Jeremiah 18:15's.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ],
+        "text": "Therefore, behold, I will hedge up thy way with thorns, and make a wall, that she shall not find her paths."
+      },
+      {
+        "source": "Jeremiah 18:15",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Jeremiah 18:17"
+        ],
+        "recurrenceRefs": [
+          "Mosiah 7:31"
+        ],
+        "provenance": {
+          "route": "Jeremiah 18:15, 18:17 → KJV → Book of Mormon",
+          "other": "“stumble in their ways” occurs in exactly one KJV verse, Jeremiah 18:15. Jeremiah 18:17, two verses later, supplies both 'as with an east wind' and 'in the day of their calamity' — so a single short passage of Jeremiah holds three of the four distinctive elements of Mosiah 7:29-31: stumbling in their ways, the day of their calamity, and the east wind that arrives at 7:31.",
+          "significance": "Jeremiah 18 is the potter's-house chapter, whose argument is that a nation God has framed evil against may still turn and be spared. Verses 15-17 are its indictment: my people have forgotten me, they have been made to stumble in their ways from the ancient paths, and I will scatter them as with an east wind. Mosiah 7:29-31 reproduces the indictment and then, at 7:33, reproduces the potter's-house offer — turn, and the sentence is lifted. Reading the borrowed oracle back into Jeremiah 18 makes Limhi's sermon a small Jeremiah 18 rather than a collage of doom sayings."
+        },
+        "note": "'And their doings shall be as a stumbling block before them.' Taken alone this clause points at Ezekiel — 'I lay a stumbling-block before him' at Ezekiel 3:20, 'the stumblingblock of their iniquity' at Ezekiel 14:3 — and the machine proposed Ezekiel 3:20. Jeremiah 18:15 is preferred because it holds the two nouns the Book of Mormon actually pairs, stumbling and ways, in the same clause, and because Jeremiah 18:17 then accounts for both the day-of formula in the first half of this verse and the east wind two verses later. The verse's material is composite and the case for any single source is correspondingly moderate; what is not moderate is that Jeremiah 18:15-17 explains more of the passage than any other candidate.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ],
+        "text": "Because my people hath forgotten me, they have burned incense to vanity, and they have caused them to stumble in their ways from the ancient paths, to walk in paths, in a way not cast up;"
+      },
+      {
+        "source": "2 Corinthians 6:2",
+        "type": "echo",
+        "subtype": "possible",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 2,
+          "context": 4,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "OT-via-NT",
+        "composite": [
+          "Isaiah 49:8"
+        ],
+        "provenance": {
+          "route": "Isaiah 49:8 → 2 Corinthians 6:2 → KJV → Book of Mormon",
+          "other": "“succoured” occurs in exactly two KJV verses, 2 Samuel 21:17 and 2 Corinthians 6:2; the whole verb family, 'succour' and its inflections, occurs in six. Of those six only 2 Corinthians 6:2 and Hebrews 2:18 have God or Christ as the one who succours.",
+          "significance": "2 Corinthians 6:2 quotes Isaiah 49:8, and the KJV translates the same Hebrew verb 'helped' in Isaiah and 'succoured' in Paul. Where a text has 'succour' in a divine-help clause it is following the New Testament's English, not the Old Testament's. Mosiah 7:29 has the word and inverts the clause: Paul's 'in the day of salvation have I succoured thee' becomes 'I will not succor my people in the day of their transgression', with the day of salvation turned into a day of transgression and the succour withdrawn. Read back, Paul's verse continues 'behold, now is the accepted time; behold, now is the day of salvation' — and Limhi's sermon ends four verses later by offering exactly that now."
+        },
+        "note": "'I will not succor my people in the day of their transgression.' The verbal frame of the clause is Obadiah 1:13's and is catalogued there; what this row records is the single word, and the mediation it settles. tools/mediation-check.py returns no decisive divergence for Isaiah 49:8 against 2 Corinthians 6:2, because the 1830 text spells the word 'succor' and the tool matches whole tokens, so the one place where the two candidates genuinely differ — Isaiah's 'helped' against Paul's 'succoured' — is reported as 'neither'. That is a limitation of the token match, not an absence of evidence: the word is in the KJV's New Testament only, in this sense, and the Book of Mormon has it.",
+        "whyNot": "One word, and a word whose 1830 spelling differs from the KJV's. If the writer simply knew 'succour' as ordinary English — it was not archaic in 1830 — then no verse is being echoed and the day-of formula at Obadiah 1:13 carries the whole link. The row is kept because the mediation finding is worth stating even at moderate confidence, and because the inversion of Paul's day of salvation into a day of transgression is too neat to leave unrecorded.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ],
+        "text": "(For he saith, I have heard thee in a time accepted, and in the day of salvation have I succoured thee: behold, now is the accepted time; behold, now is the day of salvation.)"
+      }
+    ],
+    "7:30": [
+      {
+        "source": "Hosea 8:7",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Hosea 13:3"
+        ],
+        "provenance": {
+          "route": "Hosea 8:7 → KJV → Book of Mormon",
+          "other": "“reap the whirlwind” occurs in exactly one KJV verse, Hosea 8:7. The chaff-and-whirlwind pairing that the Book of Mormon adds is Hosea 13:3's, 'as the chaff that is driven with the whirlwind out of the floor'; 'whirlwind' alone occurs in twelve KJV verses and 'chaff' in fourteen, so neither noun identifies a source on its own and their combination in one prophet does.",
+          "significance": "Hosea 8:7's sowing and reaping is an agricultural futility oracle: what is sown produces nothing that can be eaten, and what little it yields strangers swallow up. Mosiah 7 is spoken to a people paying half of their corn, barley and grain to a foreign king — strangers swallowing the yield is not a metaphor in this chapter, it is the tax described at 7:22. The borrowed proverb has become literal."
+        },
+        "note": "'If my people shall sow filthiness, they shall reap the chaff thereof, in the whirlwind.' The KJV's one 'reap the whirlwind' with its sowing clause intact, and with a second Hosea image spliced in: the chaff driven with the whirlwind at Hosea 13:3. The substitution is 'filthiness' for 'the wind', which turns Hosea's tautology — sow wind, reap wind — into a moral proposition, and the 1830 reading of the following clause ('the effects thereof, is poison', corrected to 'effect' in 1920) keeps the plural the first edition printed.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ],
+        "text": "For they have sown the wind, and they shall reap the whirlwind: it hath no stalk; the bud shall yield no meal: if so be it yield, the strangers shall swallow it up."
+      }
+    ],
+    "7:31": [
+      {
+        "source": "Hosea 12:1",
+        "type": "allusion",
+        "subtype": "probable",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 4,
+          "context": 4,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Hosea 13:15",
+          "Jeremiah 18:17"
+        ],
+        "recurrenceRefs": [
+          "Mosiah 7:29",
+          "Mosiah 7:30"
+        ],
+        "provenance": {
+          "route": "Hosea 12:1, Hosea 13:15 and Jeremiah 18:17 → KJV → Book of Mormon",
+          "other": "'East wind' occurs in nineteen KJV verses and identifies no source by itself. “followeth after the east wind” occurs in exactly one, Hosea 12:1, and it is the only KJV verse in which a people pursues the east wind as an object rather than being struck by one. Hosea 13:15 supplies the destructive sense — 'an east wind shall come, the wind of the LORD … and his spring shall become dry' — and Jeremiah 18:17 the scattering, 'I will scatter them as with an east wind before the enemy'.",
+          "significance": "Verse 31 is verse 30 said again with a different wind, and the substitution is the argument: the whirlwind of Hosea 8:7 destroys the harvest, the east wind of Hosea 13:15 dries up the spring at the source. 'Immediate destruction' is the Book of Mormon's gloss on the difference, and it is a correct reading of Hosea — the whirlwind scatters what has grown, the east wind kills the thing that grows."
+        },
+        "note": "'If my people shall sow filthiness, they shall reap the east wind, which bringeth immediate destruction.' The sowing-and-reaping frame is Hosea 8:7's, repeated from 7:30; only the object changes. Where the east wind comes from is less certain than that it comes from Hosea, who uses it three times: Ephraim following after it at 12:1, the LORD's east wind drying the spring at 13:15. Jeremiah 18:17's scattering east wind is a live third possibility and matters because Jeremiah 18:15 is already the source of the stumbling clause at 7:29 — on which reading the whole oracle at 7:29-31 is Jeremiah 18:15-17 with Hosea's images laid over it. Recorded as moderate because the three candidates cannot be separated by wording.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ],
+        "text": "Ephraim feedeth on wind, and followeth after the east wind: he daily increaseth lies and desolation; and they do make a covenant with the Assyrians, and oil is carried into Egypt."
+      }
+    ],
+    "7:33": [
+      {
+        "source": "Acts 11:23",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "recurrenceRefs": [
+          "Jacob 6:5"
+        ],
+        "provenance": {
+          "route": "Acts 11:23 → KJV → Book of Mormon",
+          "other": "“purpose of heart” occurs in exactly one KJV verse, Acts 11:23. 'Turn to the Lord' occurs in five KJV verses and 'turn unto the Lord' in nine, so the turning is generic and the qualifier is not.",
+          "significance": "Acts 11:23 is Barnabas arriving at Antioch, seeing the grace of God, and exhorting a mixed congregation that with purpose of heart they should cleave unto the Lord — the first sermon preached to a church of people who were not supposed to be there. Limhi's congregation is a colony that went where it should not have gone, and his closing exhortation is Barnabas's. The suppressed correspondence is the clause before the one borrowed: Barnabas exhorts them because he has 'seen the grace of God', which is the warrant Limhi's sermon has spent thirty verses trying to establish out of the exodus."
+        },
+        "note": "'But if ye will turn to the Lord with full purpose of heart, and put your trust in him, and serve him with all diligence of mind.' The KJV has one 'purpose of heart' and it is attached, as here, to an exhortation to cleave or turn to the Lord. The Book of Mormon adds 'full', which no KJV verse has. The same source was adjudicated at Jacob 6:5, in a different hand and a different book; per the standing ruling on cross-book recurrence the link is written again here rather than filed as a repeat, because a reader of Mosiah shown nothing at 7:33 has been told there is no borrowing in the chapter's last sentence.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ],
+        "text": "Who, when he came, and had seen the grace of God, was glad, and exhorted them all, that with purpose of heart they would cleave unto the Lord."
+      },
+      {
+        "source": "1 Chronicles 28:9",
+        "type": "allusion",
+        "subtype": "probable",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 3,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Proverbs 4:23"
+        ],
+        "provenance": {
+          "route": "1 Chronicles 28:9 → KJV → Book of Mormon",
+          "other": "'Serve him with' occurs in five KJV verses; only 1 Chronicles 28:9 completes the phrase with a doubled organ of intention, 'with a perfect heart and with a willing mind'. “with all diligence” occurs in exactly one KJV verse, Proverbs 4:23, 'Keep thy heart with all diligence'.",
+          "significance": "1 Chronicles 28 is David's charge to Solomon at the handing over of the temple plans, and 28:9's conditional is the one Limhi's verse reproduces: seek him and he will be found of thee, forsake him and he will cast thee off. Limhi is speaking in a temple (7:17) to a people he is about to lead out of bondage, and he closes with a king's charge rather than a prophet's oracle. The oracle of 7:29-31 threatens; this sentence, borrowed from the succession charge of a king to his heir, offers."
+        },
+        "note": "'Turn to the Lord with full purpose of heart, and put your trust in him, and serve him with all diligence of mind.' The distinctive structure is the doubling — a heart-phrase and then a mind-phrase governed by 'serve him with' — which in the KJV is 1 Chronicles 28:9's alone: 'serve him with a perfect heart and with a willing mind'. 'With all diligence' comes from the other half of the same idea in Proverbs 4:23, where diligence is what the heart is kept with. The conditional that follows in the Book of Mormon ('and if ye do this, he will … deliver you out of bondage') is 1 Chronicles 28:9's conditional with deliverance in the place of being found.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ],
+        "text": "And thou, Solomon my son, know thou the God of thy father, and serve him with a perfect heart and with a willing mind: for the LORD searcheth all hearts, and understandeth all the imaginations of the thoughts: if thou seek him, he will be found of thee; but if thou forsake him, he will cast thee off for ever."
+      }
+    ]
+  }
+}

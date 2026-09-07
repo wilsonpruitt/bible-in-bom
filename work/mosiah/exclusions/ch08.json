@@ -1,0 +1,72 @@
+[
+  {
+    "bomRef": "Mosiah 8:1",
+    "source": "Matthew 13:3",
+    "category": "common-vocabulary",
+    "sharedText": "he spake many things unto them",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "The chapter's highest-scoring candidate (rarity 3.00, a six-word run) and worth nothing. 'He spake many things unto them' is the KJV's own narrative connective for a discourse being summarized rather than reported — Matthew 13:3 uses it to introduce the parables, and Mosiah 8:1 uses it to explain why Limhi's sermon is not given in full ('only a few of them have I written in this book'). Both writers needed the same sentence for the same reason, which is what makes the run long and what makes it empty. Covered in principle by the standing formulaic exclusion at 1 Nephi 1:5; recorded here because six words at rarity 3.00 will tempt anyone reading the dossier top-down."
+  },
+  {
+    "bomRef": "Mosiah 8:2",
+    "source": "Esther 4:7",
+    "category": "common-vocabulary",
+    "sharedText": "all that had happened unto",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "Esther 4:7 is Mordecai telling Hatach 'all that had happened unto him' and the sum Haman promised to pay; Mosiah 8:2 is Ammon rehearsing to a multitude all that had happened to their brethren. Five words of the most ordinary reporting formula in either book, and no other contact whatever. Recorded because it ranks second in the chapter."
+  },
+  {
+    "bomRef": "Mosiah 8:7",
+    "source": "Exodus 3:18",
+    "category": "common-vocabulary",
+    "sharedText": "journey into the wilderness",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "A tempting candidate because Exodus 3:18's 'three days' journey into the wilderness' is a phrase this catalogue has had reason to check before, and because Mosiah 8:7 is about a deliverance from bondage and an appeal to brethren. But 'journey into the wilderness' occurs in five KJV verses — Exodus 3:18, Exodus 8:27, Deuteronomy 1:40, Deuteronomy 2:1 and 1 Kings 19:4 — and Mosiah 8:7 has neither the three days nor the sacrifice that make Exodus 3:18 distinctive. The forty-three men are looking for Zarahemla, not going out to worship. No source is identifiable and none is needed."
+  },
+  {
+    "bomRef": "Mosiah 8:7",
+    "source": "Mark 3:5",
+    "category": "wrong-sense",
+    "sharedText": "being grieved for the",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "Mark 3:5 is Jesus 'being grieved for the hardness of their hearts' and Mosiah 8:7 is Limhi 'being grieved for the afflictions of my people'. The four shared words end exactly where the sense changes: Mark's grief is at his hearers' obduracy, Limhi's at his people's suffering. ADJUDICATING §4's window-closes-one-word-early case, and worth noting because the corpus does elsewhere borrow Mark 3:5's actual phrase — 'hardness of their hearts' — with its pronoun correct, so the presence of the first four words here is not evidence that the same borrowing is happening."
+  },
+  {
+    "bomRef": "Mosiah 8:8",
+    "source": "1 Kings 2:5",
+    "category": "wrong-sense",
+    "sharedText": "the hosts of Israel",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "'The hosts of Israel' is a KJV singleton, which is normally the strongest evidence this catalogue has, and it is worthless here. 1 Kings 2:5 is David's deathbed instruction to Solomon about Joab, who murdered 'the two captains of the hosts of Israel'; the phrase is a military office, and its rarity is an accident of the KJV translating a plural where it elsewhere translates a singular ('the host of Israel'). Mosiah 8:8 uses it as a measure of population — a people 'as numerous as the hosts of Israel' — which is the Book of Mormon's own idiom and not a quotation. A singleton in the wrong sense is still the wrong sense."
+  },
+  {
+    "bomRef": "Mosiah 8:20",
+    "source": "Joel 2:17",
+    "category": "wrong-sense",
+    "sharedText": "should rule over them",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "Joel 2:17 is the priests' prayer that God not give his heritage to reproach, 'that the heathen should rule over them'. Mosiah 8:20's 'neither do they desire that she should rule over them' has wisdom as the ruler and the people as those who refuse to be ruled — the pronoun 'she' is the whole point of the clause and Joel has no antecedent for it. The subject of Joel's verb is a foreign occupier and the subject of the Book of Mormon's is personified Wisdom, so the two clauses agree in five words and in nothing else. The link at this verse is to Proverbs 1-9, where the feminine pronoun for wisdom belongs."
+  },
+  {
+    "bomRef": "Mosiah 8:21",
+    "source": "Psalm 104:20",
+    "category": "common-vocabulary",
+    "sharedText": "beasts of the forest",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "'Beasts of the forest' occurs in exactly two KJV verses, Psalm 104:20 (where they creep forth at nightfall) and Micah 5:8 (where a lion among them is a figure for the remnant of Jacob). Neither has a flock, a shepherd, or a scattering, and neither is about devouring anything. The verse's real sources are Ezekiel 34:5, which supplies the sequence of shepherdlessness, scattering and beasts, and Isaiah 56:9, which supplies the forest — 'all ye beasts in the forest', with 'in' rather than 'of'. Micah 5:8 is excluded on the same evidence and is not given a separate entry."
+  }
+]

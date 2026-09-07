@@ -1,0 +1,172 @@
+[
+  {
+    "bomRef": "Mosiah 15:1",
+    "source": "Philippians 2:7",
+    "category": "better-source-identified",
+    "sharedText": "God himself shall come down among the children of men",
+    "streams": [
+      "manual"
+    ],
+    "reason": "The same sentence Abinadi has already used at 13:34, where it is argued as a borrowing from Philippians 2:7 (“took upon him the form of” occurs in exactly one KJV verse). Mosiah 15:1 is the resumption of the same speech two chapters later and is the speaker repeating his own thesis, not a fresh borrowing; ADJUDICATING §4 gives the repeat to recurrenceRefs, which is where it is recorded. 15:1 drops the Pauline half — there is no “form of man” here — and keeps only the descent, which is the part that has become Abinadi's own formula."
+  },
+  {
+    "bomRef": "Mosiah 15:2",
+    "source": "1 Peter 4:2",
+    "category": "formulaic",
+    "sharedText": "the flesh to the ... will of",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "A four-word run across a clause boundary in both texts, and the words are function words. 1 Peter 4:2 is about no longer living to the lusts of men; Mosiah 15:2 is about the incarnate Son's will. Nothing but “the flesh” and “the will of” is shared, and both are unavoidable in any sentence about either subject. The verse's real source is Luke 1:35, with John 5:30 behind “the will of the Father”; see the accepted link."
+  },
+  {
+    "bomRef": "Mosiah 15:3",
+    "source": "1 Corinthians 1:24",
+    "category": "common-vocabulary",
+    "sharedText": "the power of God",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "“Christ the power of God” is a title; “conceived by the power of God” is a causal claim about a birth. The phrase occurs in more than a dozen KJV verses and identifies no source. The verse Mosiah 15:3 is actually working from is Luke 1:35, the KJV's one verse deriving the title Son of God from a conception by divine power, whose “the power of the Highest” is the phrase Mosiah 15:3 varies."
+  },
+  {
+    "bomRef": "Mosiah 15:5",
+    "source": "Hebrews 4:15",
+    "category": "insufficient-verbal",
+    "sharedText": "suffereth temptation",
+    "streams": [
+      "manual"
+    ],
+    "reason": "A reader will reach for Hebrews 4:15 at “suffereth temptation, and yieldeth not to the temptation”, and the doctrine is the same — one tempted in all points, yet without sin. But nothing is reproduced: Hebrews has “was in all points tempted like as we are, yet without sin”, with no “suffer” and no “yield”. Recorded rather than accepted because the resemblance is real and entirely conceptual. The verse's verbal borrowing is at its other end, Matthew 20:19's mocking and scourging; see the accepted link."
+  },
+  {
+    "bomRef": "Mosiah 15:10",
+    "source": "Acts 8:33",
+    "category": "better-source-identified",
+    "sharedText": "who shall declare his generation",
+    "streams": [
+      "manual"
+    ],
+    "reason": "A genuine mediation candidate, tested and not decided. “Who shall declare his generation” occurs in exactly two KJV verses, Isaiah 53:8 and Acts 8:33, and Acts is the more suggestive of the two: Philip reads Isaiah 53 aloud to a man who asks of whom the prophet speaks, which is the situation of Mosiah 15:10 almost exactly. But tools/mediation-check.py returns no decisive point, because Mosiah 15:10 quotes only the four words the two verses share and none of the clauses where they differ. Excluded as the source in favour of Isaiah 53:8 by way of Mosiah 14:8, which the chapter's other two departures (15:6, 15:12) establish as the route; the Acts resonance is recorded in the accepted link's significance field, where it belongs."
+  },
+  {
+    "bomRef": "Mosiah 15:10",
+    "source": "Acts 5:38",
+    "category": "formulaic",
+    "sharedText": "and now I say unto you",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "Connective boilerplate, proposed by the n-gram stream at 15:10 and again at 15:28. Covered by the standing exclusion at 1 Nephi 1:5; Gamaliel's counsel has no contact with either verse."
+  },
+  {
+    "bomRef": "Mosiah 15:13",
+    "source": "Acts 3:21",
+    "category": "better-source-identified",
+    "sharedText": "all the Holy Prophets ... ever since the world began",
+    "streams": [
+      "manual"
+    ],
+    "reason": "The Lucan formula, already adjudicated at Mosiah 13:33 where it enters Abinadi's speech alongside Acts 3:22's Moses. 15:13 is the same speaker reusing his own phrase twenty verses later, within one book and one sitting, which ADJUDICATING §4 assigns to recurrenceRefs rather than to a second link. The recurrence is recorded on the 13:33 row. Note that 15:13's application is new — there the prophets warrant a claim about the Messiah, here they are the Messiah's seed — but the wording is not."
+  },
+  {
+    "bomRef": "Mosiah 15:18",
+    "source": "Nahum 1:15",
+    "category": "better-source-identified",
+    "sharedText": "the feet of him that bringeth good tidings, that publisheth peace",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "Ranked second by the n-gram stream on a nine-word run, and a real candidate: Nahum 1:15 is the Old Testament's double of Isaiah 52:7 and shares its central clause word for word. Excluded by one decisive reading — Nahum begins “Behold upon the mountains the feet of him”, where Isaiah 52:7 and every one of Mosiah 15:15-18 begins “How beautiful upon the mountains are the feet”. Nahum also lacks “that publisheth salvation” and “Thy God reigneth”, both of which Mosiah 15:14 has."
+  },
+  {
+    "bomRef": "Mosiah 15:18",
+    "source": "Romans 10:15",
+    "category": "better-source-identified",
+    "sharedText": "how beautiful are the feet of them that preach",
+    "streams": [
+      "manual"
+    ],
+    "reason": "Not proposed by any machine stream and the first place a reader would look, since Romans 10:15 is the New Testament's quotation of Isaiah 52:7 and this catalogue's usual finding at a doubly-attested text is that the Book of Mormon has the New Testament's form (1 Nephi 22:20, 1 Nephi 4:13). Here it does not. tools/mediation-check.py returns two decisive points for Isaiah: Romans's introductory clause “And how shall they preach, except they be sent? as it is written” is absent, and Romans reads “bring glad tidings of good things” where Isaiah and Mosiah read “bringeth good tidings”. Romans also drops “upon the mountains”, which all five of Mosiah 15:14-18 keep, and substitutes “them that preach the gospel of peace” for Isaiah's participles. A clean direct-OT result, and worth the register entry precisely because the expected answer was the other one."
+  },
+  {
+    "bomRef": "Mosiah 15:18",
+    "source": "John 4:35",
+    "category": "formulaic",
+    "sharedText": "behold, I say unto you",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "Five words of narrative connective. Covered by the standing exclusion at 1 Nephi 1:5."
+  },
+  {
+    "bomRef": "Mosiah 15:26",
+    "source": "Revelation 20:6",
+    "category": "better-source-identified",
+    "sharedText": "part in the first resurrection",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "The KJV singleton is adjudicated at 15:24, where the phrase first appears in its full form. 15:26 is the negative of the same clause — “these are they that have no part in the first resurrection” — two verses later in one speech, and is recorded in the accepted link's recurrenceRefs."
+  },
+  {
+    "bomRef": "Mosiah 15:28",
+    "source": "Acts 5:38",
+    "category": "formulaic",
+    "sharedText": "and now I say unto you",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "Connective boilerplate; see the entry at 15:10 and the standing exclusion at 1 Nephi 1:5. The verse's actual source is Revelation 14:6, whose four-term formula for the nations occurs in exactly one KJV verse."
+  },
+  {
+    "bomRef": "Mosiah 15:29",
+    "source": "Isaiah 24:14",
+    "category": "better-source-identified",
+    "sharedText": "lift up their voice",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "Worth more than the usual note, because Mosiah 15:29 departs from its source at exactly this point. Isaiah 52:8, which the verse otherwise reproduces for twenty-two words, reads “Thy watchmen shall lift up the voice”; Mosiah reads “their voice”, which is Isaiah 24:14's and Isaiah 42:11's form. The candidate is nevertheless excluded: Isaiah 24:14 has no watchmen, no Zion and no seeing eye to eye, and shares nothing else with the verse. The right description is that the Book of Mormon has substituted the commoner KJV idiom for the rarer one inside a transcription — the same kind of small regularization as “a sheep before the shearer” for “her shearers” at 15:6."
+  },
+  {
+    "bomRef": "Mosiah 15:29",
+    "source": "2 Chronicles 5:13",
+    "category": "common-vocabulary",
+    "sharedText": "lifted up their voice with",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "Five words, and the sense is opposed in the way that matters: 2 Chronicles 5:13 is temple singers with trumpets and cymbals at the dedication, Mosiah 15:29 is watchmen on a wall seeing the Lord bring again Zion. The shared string is the KJV's ordinary phrase for making a loud noise. The verse is a transcription of Isaiah 52:8, whose “see eye to eye” and “bring again Zion” are each KJV singletons."
+  },
+  {
+    "bomRef": "Mosiah 15:30",
+    "source": "Isaiah 49:13",
+    "category": "better-source-identified",
+    "sharedText": "for the Lord hath comforted his people",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "A seven-word run, and Isaiah 49:13 genuinely contains it — the clause is one Isaiah uses twice. But Mosiah 15:30 reproduces the whole of Isaiah 52:9, twenty-two words with no departure at all, including “ye waste places of Jerusalem”, which occurs in exactly one KJV verse, and “he hath redeemed Jerusalem”, which Isaiah 49:13 does not have. A shared clause inside a verbatim transcription of another verse is not a candidate."
+  },
+  {
+    "bomRef": "Mosiah 15:31",
+    "source": "Psalm 98:3",
+    "category": "better-source-identified",
+    "sharedText": "all the ends of the earth ... the salvation of our God",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "“The salvation of our God” occurs in exactly two KJV verses, and Psalm 98:3 is the other. It is excluded on tense and on the missing first half: the psalm reads “all the ends of the earth have seen”, where Isaiah 52:10 and Mosiah 15:31 read “shall see”, and the psalm has nothing corresponding to “The Lord hath made bare his holy arm in the eyes of all the nations”, which is a KJV singleton and is the first two-thirds of Mosiah 15:31."
+  },
+  {
+    "bomRef": "Mosiah 15:31",
+    "source": "Luke 3:6",
+    "category": "better-source-identified",
+    "sharedText": "shall see the salvation of",
+    "streams": [
+      "manual"
+    ],
+    "reason": "The New Testament's approach to the same sentence, quoted from Isaiah 40:5 rather than 52:10, and the other mediation candidate a reader might reach for. Luke 3:6 reads “all flesh shall see the salvation of God” — no arm, no nations, no ends of the earth, and “God” without the possessive. Mosiah 15:31 has Isaiah 52:10's twenty-nine words entire. Excluded, and recorded alongside the Romans 10:15 entry at 15:18: this chapter twice had a New Testament form of an Isaiah verse available and twice took the Old Testament one."
+  }
+]

@@ -1,0 +1,165 @@
+{
+  "chapter": 28,
+  "adjudicated": "2026-09-07",
+  "adjudicator": "Opus",
+  "links": {
+    "28:1": [
+      {
+        "source": "Acts 9:2",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "text": "And desired of him letters to Damascus to the synagogues, that if he found any of this way, whether they were men or women, he might bring them bound unto Jerusalem.",
+        "evidence": { "vocabulary": 3, "syntax": 4, "sequence": 4, "context": 5, "rarity": 4, "attestation": 0 },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "recurrenceRefs": ["Mosiah 27:13", "Mosiah 28:5", "Mosiah 28:9"],
+        "provenance": {
+          "route": "Acts 9:1-2 → KJV → Book of Mormon",
+          "other": "“desired of him” occurs in exactly 2 KJV verses, Acts 9:2 and 1 John 5:15. Only Acts 9:2 has it of a man asking an authority for leave to make a journey to another city on a religious errand, which is Mosiah 28:1's exact construction.",
+          "significance": "Acts 9:1-2 is two verses before Acts 9:4, which Mosiah 27:13 quotes. Saul goes to the high priest and desires of him letters to Damascus, so that he may travel to another city and bring believers back bound; the sons of Mosiah go to the king and desire of him leave to travel to the land of Nephi and bring unbelievers to the knowledge of the Lord. The same request, to the same kind of authority, for the opposite errand — and made by the men who, at Mosiah 27:8-10, were the ones going about to destroy the church. Where Mosiah 27 gave Alma the persecutor's conversion, Mosiah 28 gives his companions the persecutor's journey, with its direction reversed. Nothing in the chapter says this; the borrowed request formula is the only thing that points at it."
+        },
+        "note": "‘Returned to their father, the king, and desired of him that he would grant unto them … go up to the land of Nephi, that they might preach.’ The four-word run is one of two KJV occurrences, and the situation matches only the Acts one. Moderate rather than high because the phrase is short and unremarkable in isolation; what makes it worth a row is that the preceding chapter has already established this narrative's dependence on Acts 9 at the level of quotation, and this is the verse two before the one it quoted.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": ["machine-ngram", "manual"]
+      }
+    ],
+    "28:3": [
+      {
+        "source": "2 Peter 3:9",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "The Lord is not slack concerning his promise, as some men count slackness; but is longsuffering to us-ward, not willing that any should perish, but that all should come to repentance.",
+        "evidence": { "vocabulary": 4, "syntax": 4, "sequence": 4, "context": 5, "rarity": 5, "attestation": 0 },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "2 Peter 3:9 → KJV → Book of Mormon",
+          "other": "“that any should perish” occurs in exactly one KJV verse, 2 Peter 3:9. The KJV's other perishing clauses are all conditional or particular — that whosoever believeth should not perish, that one of these little ones should perish — and none of them makes the perishing of anyone at all the thing not willed.",
+          "significance": "2 Peter 3:9 says this of God: he is not willing that any should perish. Mosiah 28:3 says it of four young men: ‘they could not bear that any human soul should perish.’ The transfer is the finding. The KJV's one universalist sentence about who may be lost is a statement of divine patience, offered as the reason the day of the Lord is delayed; the Book of Mormon gives the same unwillingness to human missionaries as a motive for setting out, and makes it a physical distress — ‘did cause them to quake and tremble’. A doctrine about God's forbearance has become a description of a missionary's nerves."
+        },
+        "note": "‘They could not bear that any human soul should perish.’ Five words from a KJV singleton, with the subject moved from God to men. The chapter's whole missionary rationale is built out of this verse and Mark 16:15's commission, and the two are used the same way: a divine disposition and a divine command are both re-read as things the sons of Mosiah personally felt.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": ["manual"]
+      },
+      {
+        "source": "Mark 16:15",
+        "type": "allusion",
+        "subtype": "conceptual",
+        "confidence": "moderate",
+        "text": "And he said unto them, Go ye into all the world, and preach the gospel to every creature.",
+        "evidence": { "vocabulary": 3, "syntax": 3, "sequence": 3, "context": 5, "rarity": 3, "attestation": 0 },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": ["Colossians 1:23"],
+        "recurrenceRefs": ["Mosiah 28:15"],
+        "provenance": {
+          "route": "Mark 16:15, with Colossians 1:23 → KJV → Book of Mormon",
+          "other": "‘Every creature’ occurs in 6 KJV verses, of which two are about preaching: Mark 16:15's “preach the gospel to every creature”, which occurs in exactly one KJV verse, and Colossians 1:23's “to every creature which” — also exactly one KJV verse — where the gospel ‘was preached to every creature which is under heaven’. Mosiah 28:3 has ‘declared to every creature’ and Mosiah 28:15 has ‘to every creature which should possess the land’, which is Colossians' relative construction.",
+          "significance": "Mosiah 28:3 does not reproduce Mark's clause; it reproduces Mark's scope. The interest is in what the chapter then does with that scope twelve verses later: 28:15 says the interpreters were preserved so that the Lord ‘should discover to every creature which should possess the land, the iniquities and abominations of his people’. Colossians 1:23's universal preaching is under heaven; Mosiah 28:15's is under a land grant. Between them the chapter takes the New Testament's two universal-preaching formulas and localizes both — first to the Lamanites, then to whoever holds this particular continent — which is the Book of Mormon's characteristic narrowing of a catholic claim to a hemispheric one."
+        },
+        "note": "‘They were desirous that salvation should be declared to every creature.’ The verb is not Mark's and the phrase alone is too common to settle a source; the link is filed at moderate because the sentence is a missionary commission and the KJV has exactly two commission formulas using this scope, and because the second of them, Colossians 1:23's relative clause, turns up at 28:15 in the same chapter. Marked conceptual, since the shared wording is a scope rather than a clause.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": ["manual"]
+      }
+    ],
+    "28:4": [
+      {
+        "source": "1 Timothy 1:15",
+        "type": "allusion",
+        "subtype": "conceptual",
+        "confidence": "moderate",
+        "text": "This is a faithful saying, and worthy of all acceptation, that Christ Jesus came into the world to save sinners; of whom I am chief.",
+        "evidence": { "vocabulary": 2, "syntax": 2, "sequence": 4, "context": 5, "rarity": 3, "attestation": 0 },
+        "kjvSpecific": "uncertain",
+        "mediation": "direct-NT",
+        "composite": ["1 Timothy 1:13", "1 Timothy 1:16"],
+        "recurrenceRefs": ["Mosiah 27:10", "Mosiah 27:29"],
+        "provenance": {
+          "route": "1 Timothy 1:13-16 → KJV → Book of Mormon",
+          "other": "The KJV's one superlative self-description by a sinner is 1 Timothy 1:15, ‘of whom I am chief’, and its setting is 1:13's ‘who was before a blasphemer, and a persecutor, and injurious: but I obtained mercy’. Mosiah 28:4's ‘the very vilest of sinners’ uses a different superlative; the adjective's only KJV occurrence, Psalm 12:8's ‘vilest men’, is of the wicked in power and not of a penitent.",
+          "significance": "1 Timothy 1:13-16 is the New Testament's set piece on the converted persecutor: he was a blasphemer and a persecutor, he obtained mercy, and he was spared to be ‘a pattern to them which should hereafter believe’. Mosiah 28:4 gives all three moves to the sons of Mosiah in one sentence — they were the very vilest of sinners, the Lord in his infinite mercy saw fit to spare them, and the next verses send them out as the pattern for everyone else's belief. The link is filed here rather than at Mosiah 27:29 because 27:29's self-accusation is verbally Acts 8:23's, Simon Magus's, and this one is not verbal at all: it is the same argument in a different vocabulary."
+        },
+        "note": "Conceptual and marked so — the wording is not Paul's and the superlative is not the KJV's. What is Pauline is the three-part shape, chief of sinners / obtained mercy / spared as a pattern, which no other KJV passage has and which Mosiah 28:4-9 has entire. Moderate confidence and kjvSpecific ‘uncertain’, since there is no phrase here to test against another English version. Recorded because the chapter's neighbours are demonstrably working from Acts 9 and Galatians 1, and 1 Timothy 1 is the third of the New Testament's accounts of the same man.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": ["manual"]
+      }
+    ],
+    "28:7": [
+      {
+        "source": "John 17:20",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "text": "Neither pray I for these alone, but for them also which shall believe on me through their word;",
+        "evidence": { "vocabulary": 4, "syntax": 3, "sequence": 3, "context": 4, "rarity": 5, "attestation": 0 },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "John 17:20 → KJV → Book of Mormon",
+          "other": "“believe on me through their word” occurs in exactly one KJV verse, John 17:20. It is the KJV's only construction in which people believe by way of somebody else's word, and Mosiah 28:7's ‘many shall believe on their words’ compresses it by dropping the object of belief.",
+          "significance": "John 17:20 is the point in the high-priestly prayer where Jesus stops praying for the eleven and starts praying for everyone who will believe through their preaching. Mosiah 28:6-7 is a king inquiring of the Lord whether to let his sons go, and the answer he gets is a guarantee in that same idiom — many shall believe on their words, and they shall have eternal life, and I will deliver thy sons. What John 17 offers as intercession, Mosiah 28 receives as a promise with terms: the converts get eternal life and the missionaries get physical protection, which is the addition and is not John's."
+        },
+        "note": "‘Many shall believe on their words, and they shall have eternal life.’ The idiom of believing through another's word exists once in the KJV and this is its shape, with the possessive pluralized. Moderate: the compression drops the phrase's most distinctive element, ‘on me’, so what remains is short. The pairing with eternal life in the next clause is John's too — John 17:2-3 defines eternal life four verses earlier — which is what keeps the row.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": ["manual"]
+      }
+    ],
+    "28:16": [
+      {
+        "source": "1 Samuel 9:9",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "(Beforetime in Israel, when a man went to enquire of God, thus he spake, Come, and let us go to the seer: for he that is now called a Prophet was beforetime called a Seer.)",
+        "evidence": { "vocabulary": 4, "syntax": 4, "sequence": 4, "context": 5, "rarity": 5, "attestation": 0 },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "provenance": {
+          "route": "1 Samuel 9:9 → KJV → Book of Mormon",
+          "other": "“called a seer” occurs in exactly one KJV verse, 1 Samuel 9:9, and “beforetime called a seer” occurs in exactly one KJV verse, the same one. The KJV's whole apparatus for the word — that it is an older title, that it needs glossing for a later reader — is confined to this one parenthesis.",
+          "significance": "1 Samuel 9:9 is a parenthetical gloss inserted by a later editor to explain an obsolete word to his own readers: what you call a prophet, they used to call a seer. Mosiah 28:16 does the identical editorial thing in the identical grammar — ‘whosoever has these things, is called seer, after the manner of old times’ — and ‘after the manner of old times’ is the Book of Mormon's rendering of the KJV's ‘beforetime’. The borrowing is not of a phrase but of an editorial gesture: a narrator stepping out of the story to date a term. What makes it more than pastiche is that Mosiah 28:16 uses the gloss to attach the title to an object rather than a person — whoever holds the interpreters is a seer — which is a definition 1 Samuel 9:9 does not supply and could not."
+        },
+        "note": "The KJV names a seer often and explains the title once. Mosiah 28:16 explains it in the same breath and with the same temporal gesture, and does so in a chapter that has just described the two stones and their history. High confidence: the KJV has exactly one home for this construction, and the Book of Mormon verse is doing the same job as the parenthesis it comes from.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": ["manual"]
+      }
+    ],
+    "28:17": [
+      {
+        "source": "Genesis 11:9",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "text": "Therefore is the name of it called Babel; because the LORD did there confound the language of all the earth: and from thence did the LORD scatter them abroad upon the face of all the earth.",
+        "evidence": { "vocabulary": 5, "syntax": 4, "sequence": 5, "context": 5, "rarity": 5, "attestation": 3 },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": ["Genesis 11:4", "Genesis 11:8"],
+        "provenance": {
+          "route": "Genesis 11:4-9 → KJV → Book of Mormon",
+          "other": "“confound the language” occurs in exactly one KJV verse, Genesis 11:9, and “abroad upon the face of all the earth” occurs in exactly one KJV verse, the same one. Genesis 11:4 has the near-miss, “scattered abroad upon the face of the whole earth”, which occurs in exactly one KJV verse and differs by a word; Mosiah 28:17 reads ‘all the earth’, which is 11:9's, not 11:4's.",
+          "significance": "Two KJV singletons from one verse, and the choice between ‘all the earth’ and ‘whole earth’ settles which verse of Genesis 11 the writer had. That distinction is the kind of thing this catalogue exists to record: Genesis 11:4 and 11:9 say almost the same thing five verses apart, the Book of Mormon has one of them and not the other, and no reader could see that without counting. Note also what Mosiah 28:17 does with the borrowed sentence — it uses Babel as a terminus for a record that runs backward, from the destruction of the Jaredites ‘back to the building of the great tower … yea, and even from that time until the creation of Adam’. Genesis 11 is a hinge in Genesis's own forward narrative; here it is a milestone on a chronology being read in reverse, which is how the plates are described throughout this chapter.",
+          "alternative": "Genesis 11:4 and 11:8, both of which have the scattering; 11:9 is named because it alone has the confounding and the ‘all the earth’ form together."
+        },
+        "note": "‘At the time the Lord confounded the langauge of the people; and they were scattered abroad upon the face of all the earth.’ Two phrases, each a KJV singleton, each from Genesis 11:9, in Genesis's order. The 1830 misprint ‘langauge’ is a compositor's transposition and carries no weight. Hardy's apparatus cross-references Genesis 11:1-9 at this verse; the chapter-level reference is right and the link is filed on 11:9 specifically, on the ‘all the earth’ reading.",
+        "bibliography": ["Hardy MSI at Mosiah 28.17 (Genesis 11:1-9)"],
+        "status": "majority",
+        "streams": ["manual"]
+      }
+    ]
+  }
+}

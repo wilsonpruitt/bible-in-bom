@@ -1,6 +1,6 @@
 # Mosiah 3 — adjudication dossier
 
-Running text: 1830 first edition (modern versification). 27 verses. 200 machine candidates for this chapter; the top 24 by n-gram rarity are shown below, grouped by verse.
+Running text: 1830 first edition (modern versification). 27 verses. 200 machine candidates for this chapter; the top 50 by n-gram rarity are shown below, grouped by verse.
 
 Substantive 1830-vs-1920 differences are flagged per verse. Note that KJV
 spellings (*shew*, *marvellous*) surviving in 1830 and modernized later are
@@ -27,6 +27,28 @@ And he said unto me, Awake, and hear the words which I shall tell thee: for beho
 - **Genesis 26:2** — rarity 1.50, longest run 5
   > And the LORD appeared unto him, and said, Go not down into Egypt; dwell in the land which I shall tell thee of:
   shared: *i shall tell thee*; *which i shall tell*
+- **Luke 2:10** — rarity 1.00, longest run 4
+  > And the angel said unto them, Fear not: for, behold, I bring you good tidings of great joy, which shall be to all people.
+  shared: *tidings of great joy*
+  rare words: joy, tidings
+- **Zechariah 7:7** — rarity 1.00, longest run 4
+  > Should ye not hear the words which the LORD hath cried by the former prophets, when Jerusalem was inhabited and in prosperity, and the cities thereof round about her, when men inhabited the south and the plain?
+  shared: *hear the words which*
+- **Acts 20:27** — rarity 1.00, longest run 4
+  > For I have not shunned to declare unto you all the counsel of God.
+  shared: *to declare unto you*
+- **1 Corinthians 15:1** — rarity 1.00, longest run 4
+  > Moreover, brethren, I declare unto you the gospel which I preached unto you, which also ye have received, and wherein ye stand;
+  shared: *declare unto you the*
+- **Luke 8:1** — rarity 1.00, longest run 4
+  > And it came to pass afterward, that he went throughout every city and village, preaching and shewing the glad tidings of the kingdom of God: and the twelve were with him,
+  shared: *the glad tidings of*
+- **2 Samuel 19:20** — rarity 1.00, longest run 4
+  > For thy servant doth know that I have sinned: therefore, behold, I am come the first this day of all the house of Joseph to go down to meet my lord the king.
+  shared: *behold i am come*
+- **Ezekiel 36:9** — rarity 1.00, longest run 4
+  > For, behold, I am for you, and I will turn unto you, and ye shall be tilled and sown:
+  shared: *for behold i am*
 
 ### 3:4
 
@@ -35,6 +57,9 @@ For the Lord hath heard thy prayers, and hath judged of thy righteousness, and h
 - **Genesis 16:11** — rarity 1.25, longest run 5
   > And the angel of the LORD said unto her, Behold, thou art with child and shalt bear a son, and shalt call his name Ishmael; because the LORD hath heard thy affliction.
   shared: *lord hath heard thy*; *the lord hath heard*
+- **Psalm 35:28** — rarity 1.00, longest run 4
+  > And my tongue shall speak of thy righteousness and of thy praise all the day long.
+  shared: *of thy righteousness and*
 
 ### 3:5
 
@@ -48,6 +73,18 @@ For behold, the time cometh, and is not far distant, that with power, the Lord O
 - **Matthew 11:5** — rarity 2.00, longest run 5
   > The blind receive their sight, and the lame walk, the lepers are cleansed, and the deaf hear, the dead are raised up, and the poor have the gospel preached to them.
   shared: *receive their sight and*; *their sight and the*
+- **Isaiah 32:18** — rarity 1.00, longest run 4
+  > And my people shall dwell in a peaceable habitation, and in sure dwellings, and in quiet resting places;
+  shared: *shall dwell in a*
+- **Revelation 4:8** — rarity 1.00, longest run 4
+  > And the four beasts had each of them six wings about him; and they were full of eyes within: and they rest not day and night, saying, Holy, holy, holy, LORD God Almighty, which was, and is, and is to come.
+  shared: *which was and is*
+- **Ezekiel 12:12** — rarity 1.00, longest run 4
+  > And the prince that is among them shall bear upon his shoulder in the twilight, and shall go forth: they shall dig through the wall to carry out thereby: he shall cover his face, that he see not the ground with his eyes.
+  shared: *and shall go forth*
+- **Matthew 15:31** — rarity 1.00, longest run 4
+  > Insomuch that the multitude wondered, when they saw the dumb to speak, the maimed to be whole, the lame to walk, and the blind to see: and they glorified the God of Israel.
+  shared: *the lame to walk*
 
 ### 3:6
 
@@ -77,6 +114,9 @@ And he shall be called Jesus Christ, the Son of God, the Father of Heaven and Ea
 - **Isaiah 48:3** — rarity 1.20, longest run 5
   > I have declared the former things from the beginning; and they went forth out of my mouth, and I shewed them; I did them suddenly, and they came to pass.
   shared: *from the beginning and*; *things from the beginning*
+- **1 Corinthians 8:6** — rarity 1.00, longest run 4
+  > But to us there is but one God, the Father, of whom are all things, and we in him; and one Lord Jesus Christ, by whom are all things, and we by him.
+  shared: *god the father of*
 
 ### 3:9
 
@@ -91,6 +131,12 @@ And lo, he cometh unto his own, that salvation might come unto the children of m
 - **Exodus 3:13** — rarity 1.01, longest run 5
   > And Moses said unto God, Behold, when I come unto the children of Israel, and shall say unto them, The God of your fathers hath sent me unto you; and they shall say to me, What is his name? what shall I say unto them?
   shared: *come unto the children*; *unto the children of*
+- **Matthew 26:18** — rarity 1.00, longest run 4
+  > And he said, Go into the city to such a man, and say unto him, The Master saith, My time is at hand; I will keep the passover at thy house with my disciples.
+  shared: *a man and say*
+- **Colossians 4:13** — rarity 1.00, longest run 4
+  > For I bear him record, that he hath a great zeal for you, and them that are in Laodicea, and them in Hierapolis.
+  shared: *that he hath a*
 
 ### 3:10
 
@@ -105,6 +151,18 @@ And he shall rise the third day from the dead; and behold, he standeth to judge 
 - **Mark 4:11** — rarity 1.25, longest run 5
   > And he said unto them, Unto you it is given to know the mystery of the kingdom of God: but unto them that are without, all these things are done in parables:
   shared: *all these things are*; *these things are done*
+- **Isaiah 49:18** — rarity 1.00, longest run 4
+  > Lift up thine eyes round about, and behold: all these gather themselves together, and come to thee. As I live, saith the LORD, thou shalt surely clothe thee with them all, as with an ornament, and bind them on thee, as a bride doeth.
+  shared: *and behold all these*
+- **John 12:47** — rarity 1.00, longest run 4
+  > And if any man hear my words, and believe not, I judge him not: for I came not to judge the world, but to save the world.
+  shared: *to judge the world*
+- **Ecclesiastes 12:4** — rarity 1.00, longest run 4
+  > And the doors shall be shut in the streets, when the sound of the grinding is low, and he shall rise up at the voice of the bird, and all the daughters of musick shall be brought low;
+  shared: *and he shall rise*
+- **Isaiah 3:13** — rarity 1.00, longest run 4
+  > The LORD standeth up to plead, and standeth to judge the people.
+  shared: *standeth to judge the*
 
 ### 3:11
 
@@ -181,6 +239,9 @@ for the natural man is an enemy to God, and has been, from the fall of Adam, and
 - **Leviticus 8:36** — rarity 1.50, longest run 5
   > So Aaron and his sons did all things which the LORD commanded by the hand of Moses.
   shared: *all things which the*; *things which the lord*
+- **Exodus 29:35** — rarity 1.00, longest run 4
+  > And thus shalt thou do unto Aaron, and to his sons, according to all things which I have commanded thee: seven days shalt thou consecrate them.
+  shared: *to all things which*
 
 ### 3:20
 
@@ -188,6 +249,9 @@ And moreover, I say unto you, that the time shall come, when the knowledge of a 
 
 - *variant* 1830 `Saviour` → 1920 `Savior`
 
+- **John 16:4** — rarity 1.00, longest run 4
+  > But these things have I told you, that when the time shall come, ye may remember that I told you of them. And these things I said not unto you at the beginning, because I was with you.
+  shared: *the time shall come*
 
 ### 3:21
 
@@ -201,6 +265,12 @@ and even at this time, when thou shalt have taught thy people the things which t
 - **1 Corinthians 10:20** — rarity 1.00, longest run 4
   > But I say, that the things which the Gentiles sacrifice, they sacrifice to devils, and not to God: and I would not that ye should have fellowship with devils.
   shared: *the things which the*
+- **Ezekiel 27:34** — rarity 1.00, longest run 4
+  > In the time when thou shalt be broken by the seas in the depths of the waters thy merchandise and all thy company in the midst of thee shall fall.
+  shared: *time when thou shalt*
+- **2 Kings 9:35** — rarity 1.00, longest run 4
+  > And they went to bury her: but they found no more of her than the skull, and the feet, and the palms of her hands.
+  shared: *they found no more*
 
 ### 3:23
 
@@ -214,6 +284,9 @@ And thus saith the Lord: They shall stand as a bright testimony against this peo
 - **Revelation 20:13** — rarity 1.06, longest run 5
   > And the sea gave up the dead which were in it; and death and hell delivered up the dead which were in them: and they were judged every man according to their works.
   shared: *every man according to*; *judged every man according*
+- **1 Kings 20:18** — rarity 1.00, longest run 4
+  > And he said, Whether they be come out for peace, take them alive; or whether they be come out for war, take them alive.
+  shared: *or whether they be*
 
 ### 3:25
 
@@ -236,4 +309,10 @@ And their torment is as a lake of fire and brimstone, whose flames are unquencha
   > And the devil that deceived them was cast into the lake of fire and brimstone, where the beast and the false prophet are, and shall be tormented day and night for ever and ever.
   shared: *lake of fire and*; *of fire and brimstone*
   rare words: brimstone, lake
+- **Revelation 19:20** — rarity 1.00, longest run 4
+  > And the beast was taken, and with him the false prophet that wrought miracles before him, with which he deceived them that had received the mark of the beast, and them that worshipped his image. These both were cast alive into a lake of fire burning with brimstone.
+  shared: *a lake of fire*
+- **Acts 13:47** — rarity 1.00, longest run 4
+  > For so hath the Lord commanded us, saying, I have set thee to be a light of the Gentiles, that thou shouldest be for salvation unto the ends of the earth.
+  shared: *hath the lord commanded*
 

@@ -1,0 +1,90 @@
+[
+  {
+    "bomRef": "Mosiah 26:11",
+    "source": "Revelation 12:10",
+    "category": "insufficient-verbal",
+    "sharedText": "accused of their brethren / the accuser of our brethren",
+    "streams": ["manual"],
+    "reason": "Tempting, because 'the accuser of our brethren' occurs in exactly one KJV verse and Mosiah 26:11 says the accused were 'accused of their brethren' — in 1830 usage, by their brethren. The temptation is doubled by the metalepsis that would follow: a church discipline system described in the diction the KJV reserves for the office of Satan. But the contact is one content word (brethren) plus a shared root, in opposite grammatical roles, and 'brethren' is the Book of Mormon's ordinary word for fellow members. Revelation 12:10's accuser accuses before God day and night; Mosiah's brethren testify once, in a hearing, and are believed. Recorded here because a careful reader might well take it, and because the reading it would license is attractive enough to be dangerous."
+  },
+  {
+    "bomRef": "Mosiah 26:13",
+    "source": "Numbers 21:14",
+    "category": "formulaic",
+    "sharedText": "of the Lord what he",
+    "streams": ["machine-ngram"],
+    "reason": "Ranked first at 26:13 on a five-word run that spans a clause boundary in both texts. Numbers 21:14 is a citation of the Book of the Wars of the LORD; Mosiah 26:13 is Alma asking God what to do. No content word is shared beyond the divine title."
+  },
+  {
+    "bomRef": "Mosiah 26:14",
+    "source": "2 Kings 20:4",
+    "category": "formulaic",
+    "sharedText": "and it came to pass ... the word of the Lord came to him saying",
+    "streams": ["machine-ngram"],
+    "reason": "A seven-word run built entirely from the KJV's standard prophetic-word formula plus the Book of Mormon's standard narrative connective. Covered by the standing exclusion at 1 Nephi 1:5. Listed once here because the n-gram stream ranked it top at this verse and the real source of 26:14 lies elsewhere (see the Isaiah 53:12 link)."
+  },
+  {
+    "bomRef": "Mosiah 26:14",
+    "source": "1 Samuel 1:15",
+    "category": "better-source-identified",
+    "sharedText": "poured out my soul",
+    "streams": ["manual"],
+    "reason": "A genuine competitor, not noise: 'poured out my soul' occurs in exactly one KJV verse, and Hannah's distressed private prayer at a sanctuary, overheard and answered by a priest, matches Alma's situation better than Isaiah 53 does. It loses on grammar — Mosiah 26:14 has the third person, 'he had poured out his soul', which is Isaiah 53:12's form, not Hannah's — and on neighbourhood, since Isaiah 53 is transcribed into this same book at Mosiah 14 by the prophet named one verse later at 26:15. Retained as a composite on the accepted link rather than discarded."
+  },
+  {
+    "bomRef": "Mosiah 26:18",
+    "source": "Mark 16:17",
+    "category": "wrong-sense",
+    "sharedText": "in my name shall they",
+    "streams": ["machine-ngram"],
+    "reason": "A five-word run from a KJV singleton — 'in my name shall they' occurs in exactly one KJV verse — and therefore exactly the kind of candidate the rarity heuristic is built to promote. It is nevertheless nothing. Mark 16:17's next word is 'cast out devils', and the verse is a list of signs following belief; Mosiah 26:18's next words are 'be called', and the verse is about a people who bear a name. The shared string is the frame 'in my name shall they', which any sentence of that shape produces, and the singleton status reflects the KJV's general preference for 'in my name' with a following infinitive rather than any distinctiveness in Mark. This is the trap ADJUDICATING.md §4 names as the window closing one word early, and it is worth the register entry because the rarity count here is as high as the count behind several accepted links."
+  },
+  {
+    "bomRef": "Mosiah 26:26",
+    "source": "Exodus 29:46",
+    "category": "formulaic",
+    "sharedText": "shall know that I am the Lord their God",
+    "streams": ["machine-ngram"],
+    "reason": "A nine-word run, the longest in the chapter after Matthew 25:41, and still not evidence. The recognition formula 'ye shall know that I am the LORD' and its variants run to scores of occurrences across Exodus and Ezekiel and are the KJV's standard way of stating the purpose of a divine act. Nothing else in Exodus 29:46 — the tabernacle, the dwelling among them, the bringing out of Egypt — appears at Mosiah 26:26, whose second clause turns instead to 'I am their Redeemer'. Length without distinctiveness (CONVENTIONS §9)."
+  },
+  {
+    "bomRef": "Mosiah 26:28",
+    "source": "Numbers 10:30",
+    "category": "formulaic",
+    "sharedText": "him I will not",
+    "streams": ["machine-ngram"],
+    "reason": "Four words of connective tissue. Numbers 10:30 is Hobab declining to travel with Israel; the run does not even fall on a shared clause."
+  },
+  {
+    "bomRef": "Mosiah 26:32",
+    "source": "Acts 5:38",
+    "category": "formulaic",
+    "sharedText": "now I say unto you",
+    "streams": ["machine-ngram"],
+    "reason": "The KJV's commonest speech-introduction, and the Book of Mormon's. Covered by the standing exclusion at 1 Nephi 1:5."
+  },
+  {
+    "bomRef": "Mosiah 26:38",
+    "source": "2 Corinthians 8:7",
+    "category": "wrong-sense",
+    "sharedText": "in all diligence",
+    "streams": ["manual"],
+    "reason": "'In all diligence' occurs in exactly one KJV verse, which by this catalogue's usual standard would make it strong evidence. But 2 Corinthians 8:7 is a list of graces in which the Corinthians already abound, cited to shame them into finishing a collection for Jerusalem; diligence there is one item in a series, not a manner of walking. Mosiah 26:38's 'walking in all diligence' uses it adverbially, in a list of ministerial labours. Real singleton, no argument: the phrase is the sort of ordinary Jacobean adverbial that happens to have got into print once."
+  },
+  {
+    "bomRef": "Mosiah 26:38",
+    "source": "Philippians 4:3",
+    "category": "insufficient-verbal",
+    "sharedText": "fellow-laborers / fellowlabourers",
+    "streams": ["manual"],
+    "reason": "The 1830 'fellow-laborers' is a rare enough word to look promising — the KJV has 'fellowlabourer' or 'fellowlabourers' in four verses, all Pauline — and Philippians 4:3 is the most tempting of them, since it names fellowlabourers 'whose names are in the book of life' and Mosiah 26:36, two verses earlier, has names blotted out. But that pairing is an artifact of proximity in our text, not in Paul's; the word is a bare occupational noun that Mosiah uses without any of Philippians' setting, and the book-of-life argument is already carried at 26:36 by Revelation 3:5, where it belongs."
+  },
+  {
+    "bomRef": "Mosiah 26:38",
+    "source": "Acts 18:11",
+    "category": "formulaic",
+    "sharedText": "teaching the word of God",
+    "streams": ["machine-ngram"],
+    "reason": "'The word of God' is among the KJV's most frequent phrases and 'teaching the word of God' is its unmarked verbal form. Also proposed at this verse from Acts 13:5 and 1 Corinthians 10:32 on the same and adjacent runs; all three are the same non-finding."
+  }
+]

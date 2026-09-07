@@ -1,0 +1,42 @@
+[
+  {
+    "bomRef": "Mosiah 19:6",
+    "source": "Judges 1:6",
+    "category": "insufficient-verbal",
+    "sharedText": "pursued after him and",
+    "streams": ["machine-ngram", "manual"],
+    "reason": "The four words are pure narrative connective and would ordinarily be passed over in silence. This entry exists because the verse behind them is not neutral: Judges 1:6 is Adonibezek fleeing and being caught, and Judges 1:7 — his 'as I have done, so God hath requited me' — is catalogued as an echo at Mosiah 17:15, where Abinadi pronounces the same retributive formula over his judges. So a reader could reasonably propose that Mosiah 19:6's pursuit of the fleeing king completes an Adonibezek pattern begun two chapters earlier. It is declined. The pursuit here is verbally indistinguishable from any other in the KJV, and the chapter's tyrant-at-the-tower material has a much better source in Judges 9 (see the link at Mosiah 19:5), where the tower, the fire and the name Gideon all sit together. Recorded so that the Adonibezek reading is visible as considered rather than missed."
+  },
+  {
+    "bomRef": "Mosiah 19:14",
+    "source": "Jeremiah 8:17",
+    "category": "wrong-sense",
+    "sharedText": "charmed",
+    "streams": ["manual"],
+    "reason": "'Charmed' is a KJV singleton and it is a trap. Its one occurrence is Jeremiah 8:17's cockatrices 'which will not be charmed' — snake-charming, the technical sense, in an oracle of judgment. Mosiah 19:14's 'they were charmed with the beauty of their women' is the modern figurative sense of being enchanted by an attractive person, which the King James Bible does not have anywhere. This is the strongest available illustration in these three chapters of why a rarity count is evidence only after the sense has been checked: the count could not be better and the link could not be worse. The machine did not propose it, which is worth recording too — the trap here is one a human running kjv-rarity.py down a wordlist would walk into and the n-gram stream would not."
+  },
+  {
+    "bomRef": "Mosiah 19:22",
+    "source": "Esther 4:7",
+    "category": "formulaic",
+    "sharedText": "told him of all that had happened",
+    "streams": ["machine-ngram"],
+    "reason": "The chapter's joint-highest machine score (2.00) and a five-word run: Esther 4:7's 'And Mordecai told him of all that had happened unto him' against Mosiah 19:22's 'the men of Gideon told them of all that had happened to their wives and their children'. It is reported speech, the commonest narrative filler in either book. The entry matters because Esther 4:16 IS accepted twelve verses earlier at Mosiah 19:12, and this candidate would make that row look like part of a sustained Esther borrowing when it is not: 19:12's case rests on a formula of choice with no verbal contact at all, and stacking a boilerplate match from the same chapter of Esther onto it would be exactly the false corroboration CONVENTIONS §0 exists to prevent. The two are independent and the second is rejected."
+  },
+  {
+    "bomRef": "Mosiah 19:21",
+    "source": "Judges 20:13",
+    "category": "formulaic",
+    "sharedText": "put them to death, and",
+    "streams": ["machine-ngram"],
+    "reason": "Five words of legal boilerplate. Judges 20:13's demand that Gibeah surrender the children of Belial has a superficial pull, since Mosiah 19:21's crowd is likewise demanding the surrender of a guilty party and is likewise refused by their flight — but 'put them to death' is among the KJV's commonest formulae and the two situations share nothing else. Logged rather than passed over because the Judges background of this chapter is genuinely thick (Judges 9 at 19:5 and 19:20), and a further Judges candidate arriving in that neighbourhood is more tempting than its evidence warrants."
+  },
+  {
+    "bomRef": "Mosiah 19:15",
+    "source": "Nehemiah 9:24",
+    "category": "common-vocabulary",
+    "sharedText": "the land that they might",
+    "streams": ["machine-ngram"],
+    "reason": "Nehemiah 9:24's Israel possessing Canaan against Mosiah 19:15's Nephites being granted their land back under tribute — the shared string is four words of connective around the word 'land', and the situations are opposed at the point that matters: Nehemiah's is conquest, Mosiah's is capitulation. The KJV material actually behind Mosiah 19:15 is the tribute vocabulary of 2 Kings 17:3-4 and 23:33-35, where a vassal king pays a conqueror a fixed levy and a puppet is installed — which is the whole of Limhi's situation at 19:26 — but it shares no phrase with the verse and is therefore recorded here rather than catalogued as a link."
+  }
+]

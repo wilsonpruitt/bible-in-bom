@@ -1,0 +1,62 @@
+[
+  {
+    "bomRef": "Mosiah 11:2",
+    "source": "Ezekiel 33:14",
+    "category": "formulaic",
+    "sharedText": "if he turn from his sin",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "A standing exclusion for the chapter. The machine's five-word runs here and at 11:7 (Daniel 5:10), 11:13 (2 Samuel 19:9), 11:15 (Deuteronomy 25:19), 11:19 (Deuteronomy 28:20), 11:20 (Jeremiah 14:10), 11:21 (Judges 2:14, 'into the hands of their enemies'), 11:26 (Job 42:7, 1 Samuel 29:4, Exodus 4:24) and 11:29 (1 Chronicles 10:13) are all connective tissue of the kind the pilot filed at 1 Nephi 1:5 and 2:1 — 'and it came to pass', 'into the hands of', 'the words which', 'that which was' — and none of them shares a content word that construes. Judges 2:14 deserves a sentence of its own: 'delivered them into the hands of their enemies' is the Judges cycle's own formula and Mosiah 11:21 is unmistakably working in that cycle, but the phrase occurs across the historical books too widely to identify Judges 2:14 in particular, and the verse's real source is the covenant sanction quoted at 11:22."
+  },
+  {
+    "bomRef": "Mosiah 11:11",
+    "source": "1 Kings 6:21",
+    "category": "common-vocabulary",
+    "sharedText": "pure gold",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "'Pure gold' occurs in thirty-nine KJV verses, twenty of them in the tabernacle and temple specifications of Exodus 25-37 and 1 Kings 6-10. The Book of Mormon is certainly writing Noah's temple works in the register of those chapters — 'fine work within the walls of the temple, of fine wood, and of copper, and of brass' — and the register is worth naming, but the phrase itself cannot pick out 1 Kings 6:21 or any other single verse. The high priests' gilded seat and the breastwork built so the priests can rest their arms while they lie are the Book of Mormon's own furniture; no KJV verse supplies them."
+  },
+  {
+    "bomRef": "Mosiah 11:12",
+    "source": "Genesis 11:4",
+    "category": "insufficient-verbal",
+    "sharedText": "tower",
+    "streams": [
+      "manual"
+    ],
+    "reason": "Considered and declined. Babel is the obvious typological reach for a proud king's very high tower, and 'whose top may reach' is a KJV singleton (Genesis 11:4), but the Book of Mormon shares not one word of it: Noah's tower is high so that he can 'stand upon the top thereof and overlook the land of Shilom', which is surveillance, not ascent to heaven, and the text never says he made himself a name. The verse's tower belongs instead to the vineyard figure assembled across 11:12-15 and linked at 11:15 (Isaiah 5:2 / Matthew 21:33), where the KJV puts a tower and a winepress in a vineyard and does so in only three verses. Filed so that a reader who expects Babel here is told why it is absent."
+  },
+  {
+    "bomRef": "Mosiah 11:14",
+    "source": "Luke 15:13",
+    "category": "better-source-identified",
+    "sharedText": "riotous living",
+    "streams": [
+      "manual"
+    ],
+    "reason": "NOT a rejection — a placement note, filed because the phrase is one of the strongest KJV singletons in the chapter and its absence from the link list at 11:14 would look like an oversight. 'Riotous living' occurs in exactly one KJV verse, Luke 15:13, and 'with harlots' in three, one of which is Luke 15:30 in the same parable; Mosiah 11:14 has both in one sentence ('he spent his time in riotous living with his wives and his concubines; and so did also his priests spend their time with harlots'). See the link at 11:14 for the argument. This entry exists to record that the two Lucan phrases were tested together and that Proverbs 29:3's 'keepeth company with harlots spendeth his substance' — also a singleton, and the wisdom-literature source of the same idea — was weighed as the alternative and folded into the link rather than rejected."
+  },
+  {
+    "bomRef": "Mosiah 11:19",
+    "source": "1 Nephi 4:1",
+    "category": "better-source-identified",
+    "sharedText": "fifty",
+    "streams": [
+      "manual"
+    ],
+    "reason": "The unit of fifty entered this catalogue at 1 Nephi 3:31 and 4:1, where Laman's 'he can command fifty' was argued against 2 Kings 1:9's captain of fifty with his fifty. Mosiah 11:19's boast — 'their fifty could stand against thousands of the Lamanites' — is the same arithmetic in a different mouth, but the KJV captain-of-fifty story contributes nothing to it: there is no captain, no hill, no fire. The number here is doing covenant arithmetic, not Elijah's, and the link is written to Leviticus 26:8 accordingly. Recorded so that a reader coming from 1 Nephi is not left to assume the earlier source was overlooked."
+  },
+  {
+    "bomRef": "Mosiah 11:27",
+    "source": "Acts 7:27",
+    "category": "insufficient-verbal",
+    "sharedText": "judged of him",
+    "streams": [
+      "manual"
+    ],
+    "reason": "Tempting, and it fails the test. 'Who is Abinadi, that I and my people should be judged of him?' has the shape of the rejection of Moses — 'Who made thee a prince and a judge over us?' (Exodus 2:14), 'Who made thee a ruler and a judge over us?' (Acts 7:27) — which is a pairing this catalogue has already decided twice, at 1 Nephi 2:22 and 3:29, in the New Testament's favour on the single word 'ruler'. Here `mediation-check.py` reports no decisive divergence, and by eye there is nothing to decide: the Book of Mormon has neither 'prince' nor 'ruler' nor 'made thee', only the verb 'judged'. What the verse does reproduce is the second half of Pharaoh's refusal, 'who is the Lord, that' (Exodus 5:2), and that is where the link is filed. A reader who wants Moses's rejection here should note that the sentence reaches for Pharaoh instead — a later moment in the same story, and a worse one."
+  }
+]

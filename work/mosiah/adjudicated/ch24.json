@@ -1,0 +1,601 @@
+{
+  "chapter": 24,
+  "adjudicated": "2026-09-07",
+  "adjudicator": "Opus",
+  "links": {
+    "24:3": [
+      {
+        "source": "Luke 1:59",
+        "type": "echo",
+        "subtype": "possible",
+        "confidence": "moderate",
+        "text": "And it came to pass, that on the eighth day they came to circumcise the child; and they called him Zacharias, after the name of his father.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 2,
+          "context": 3,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "recurrenceRefs": [
+          "Mosiah 25:12"
+        ],
+        "provenance": {
+          "route": "Luke 1:59 → KJV → Book of Mormon",
+          "other": "“after the name of his father” occurs in exactly one KJV verse, Luke 1:59. The nearest other reading is Genesis 48:6, 'called after the name of their brethren'.",
+          "significance": "Luke 1:59 is not a naming, it is a naming refused: the neighbours would have called the child Zacharias after the name of his father, and Elisabeth answers 'Not so; but he shall be called John.' The Book of Mormon uses the phrase for a naming that goes through — king Laman, son of Laman — and the effect, in a chapter about a dynasty of Lamanite kings all bearing the founder's name, is the opposite of Luke's. The interest of the row is that this batch of chapters ends, at Mosiah 25:12, with the other case: the children of Amulon refusing to 'be called by the names of their fathers' and taking the name of Nephi instead. The KJV's one refused patronymic sits behind the one naming here that is not refused."
+        },
+        "note": "'The name of the king of the Lamanites was Laman, being called after the name of his father.' Six words from the only KJV verse that has them. Recorded as an echo rather than an allusion because naming a son for his father needs no source and the KJV's phrasing is the natural English; what makes it worth a row is that the singleton is a naming that Luke's narrative overturns, in a chapter that is establishing a hereditary name.",
+        "whyNot": "The collocation is close to unavoidable in English, and the Book of Mormon's onomastic notices are formulaic throughout. If the row is wrong, it is wrong because the phrase is the only way to say the thing.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "24:7": [
+      {
+        "source": "1 Corinthians 3:19",
+        "type": "allusion",
+        "subtype": "probable",
+        "confidence": "moderate",
+        "text": "For the wisdom of this world is foolishness with God. For it is written, He taketh the wise in their own craftiness.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "1 Corinthians 1:20"
+        ],
+        "provenance": {
+          "route": "1 Corinthians 3:19 → KJV → Book of Mormon",
+          "other": "“the wisdom of this world” occurs in exactly three KJV verses, 1 Corinthians 1:20, 2:6 and 3:19 — all Paul, all in one argument. The Book of Mormon reads 'the wisdom of the world', dropping the demonstrative; that reading stands in no KJV verse.",
+          "significance": "The phrase is a verdict, not a description, and the Book of Mormon uses it as one. 1 Corinthians 3:19 is 'the wisdom of this world is foolishness with God'; 1:20 is 'hath not God made foolish the wisdom of this world?'. Mosiah 24:7 says the Lamanites 'began to be a cunning and a wise people, AS TO the wisdom of the world' — the qualifier does the work of Paul's whole argument in three words, conceding the wisdom and voiding it. The next clause confirms the reading: 'yea, a very cunning people; delighting in all manner of wickedness and plunder.' Note also that the verse describes the fruit of a literacy programme, 24:4-6, in which Amulon's priests teach the Lamanites to keep records but not the words of Abinadi. What the chapter is condemning is a wisdom without revelation, which is exactly Paul's subject."
+        },
+        "note": "'A cunning and a wise people, as to the wisdom of the world.' Paul's phrase, three times in 1 Corinthians and nowhere else in the KJV, used as Paul uses it — to grant a wisdom and disqualify it in the same breath. The dropped demonstrative keeps this an allusion rather than a quotation.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "24:9": [
+      {
+        "source": "Exodus 1:11",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "text": "Therefore they did set over them taskmasters to afflict them with their burdens. And they built for Pharaoh treasure cities, Pithom and Raamses.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Exodus 5:14",
+          "Exodus 2:11"
+        ],
+        "recurrenceRefs": [
+          "Mosiah 24:19",
+          "Mosiah 24:14"
+        ],
+        "provenance": {
+          "route": "Exodus 1:11 → KJV → Book of Mormon",
+          "other": "“taskmasters” occurs in exactly six KJV verses — Exodus 1:11, 3:7, 5:6, 5:10, 5:13, 5:14 — and in no book but Exodus. Exodus 1:11 is the one that pairs them with burdens: 'they did set over them taskmasters to afflict them with their burdens.' The 1830 text hyphenates, 'task-masters', which stands in no KJV verse; the KJV spelling is solid.",
+          "significance": "This is the word that converts a local persecution into an Exodus. Once 'task-masters' is on the page the rest of the chapter follows the Egyptian sequence without further prompting: burdens laid on shoulders (24:14), a cry that goes up to God (24:10), the cry forbidden (24:11), a covenant remembered and the burdens eased (24:13-15), an escape while the oppressors sleep (24:19), a march into the wilderness and a song of thanks (24:20-22). Exodus 3:7 — the verse in the same six that is spoken from the burning bush — is 'I have surely seen the affliction of my people … and have heard their cry by reason of their taskmasters', and the chapter before this one closed on the burning-bush name at Mosiah 23:23. The catalogue's claim is not that a Nephite escape resembles the Exodus in general, which any reader sees, but that it is being written with the vocabulary of Exodus 1-6 specifically."
+        },
+        "note": "'He exercised authority over them, and put tasks upon them, and put task-masters over them.' Taskmasters are an Egyptian institution in the KJV and appear in no other book; Exodus 1:11 is the verse that sets them over a people to afflict them with burdens, which is the sentence Mosiah 24:9 and 24:14 divide between them. The doubled 'put tasks … put task-masters' is the Book of Mormon's own, and holds this to an allusion.",
+        "bibliography": [],
+        "status": "consensus",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "24:10": [
+      {
+        "source": "Jonah 3:8",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "But let man and beast be covered with sackcloth, and cry mightily unto God: yea, let them turn every one from his evil way, and from the violence that is in their hands.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "recurrenceRefs": [
+          "Mosiah 24:11"
+        ],
+        "provenance": {
+          "route": "Jonah 3:8 → KJV → Book of Mormon",
+          "other": "“cry mightily” occurs in exactly one KJV verse, Jonah 3:8. The 1830 text reads 'cry mightily to God' against the KJV's 'cry mightily unto God'.",
+          "significance": "Jonah 3:8 is a royal decree, and what it decrees is the cry: 'let man and beast be covered with sackcloth, and cry mightily unto God.' The king of Nineveh commands his people to pray. Mosiah 24:10-11 takes the KJV's only phrase for that commanded cry and gives it to a people whose king commands the opposite — 'Amulon commanded them that they should stop their cries; and he put guards over them to watch them, that whosoever should be found calling upon God, should be put to death.' The two verses are a hinge: the phrase arrives from the one place in scripture where a king orders prayer, into the one place in this book where a king forbids it. Whether the inversion is designed or not, it is legible only when the source is named."
+        },
+        "note": "'So great was their afflictions, that they began to cry mightily to God.' The adverb-verb pair is a KJV singleton and the Book of Mormon has it with one preposition changed. What makes the row carry is the next verse, where the cry is criminalised; Jonah 3:8 is a king's order to cry, Mosiah 24:11 a king's order to stop.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "24:11": [
+      {
+        "source": "Daniel 6:7",
+        "type": "figural",
+        "subtype": "type-scene",
+        "confidence": "high",
+        "text": "All the presidents of the kingdom, the governors, and the princes, the counsellors, and the captains, have consulted together to establish a royal statute, and to make a firm decree, that whosoever shall ask a petition of any God or man for thirty days, save of thee, O king, he shall be cast into the den of lions.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "uncertain",
+        "mediation": "direct-OT",
+        "composite": [
+          "Daniel 6:12",
+          "Daniel 6:10"
+        ],
+        "recurrenceRefs": [
+          "Mosiah 24:12"
+        ],
+        "provenance": {
+          "route": "Daniel 6:7-12 → KJV → Book of Mormon",
+          "other": "“ask a petition” occurs in exactly two KJV verses, Daniel 6:7 and 6:12, which are the decree and its enforcement. The Book of Mormon has none of that wording; the contact is the situation and the 'whosoever … should be put to death' construction, which Daniel 6:7 shares in the form 'whosoever shall ask a petition … he shall be cast into the den of lions'.",
+          "significance": "Daniel 6 is the only law in scripture that makes prayer itself a capital offence, and Mosiah 24:11 enacts the same law in a Nephite valley. What the Book of Mormon does next is the interesting part, because it is not what Daniel does. Daniel opens his windows and prays three times a day in plain view, and is thrown to the lions and delivered; Alma's people 'did not raise their voices to the Lord their God, but did pour out their hearts to him' (24:12), and are delivered by an escape. Set the two against each other and the chapter has quietly chosen the other model of faithfulness under a praying-ban — Hannah's silent prayer rather than Daniel's public one — and the choice is what the reader is meant to notice."
+        },
+        "note": "'Amulon commanded them that they should stop their cries; and he put guards over them to watch them, that whosoever should be found calling upon God, should be put to death.' Daniel 6:7 is the KJV's only decree of this kind and the two sentences have the same construction: whosoever is found petitioning God incurs death. Filed as figural because the wording is not Daniel's; the row exists to put the reader beside Daniel 6 when 24:12 declines to do what Daniel did.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "24:12": [
+      {
+        "source": "1 Samuel 1:13",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "text": "Now Hannah, she spake in her heart; only her lips moved, but her voice was not heard: therefore Eli thought she had been drunken.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "1 Samuel 1:15",
+          "Psalm 62:8"
+        ],
+        "recurrenceRefs": [
+          "Mosiah 24:11"
+        ],
+        "provenance": {
+          "route": "1 Samuel 1:13, 15 → KJV → Book of Mormon, with Psalm 62:8 supplying the idiom",
+          "other": "“her voice was not heard” occurs in exactly one KJV verse, 1 Samuel 1:13, of Hannah: 'she spake in her heart; only her lips moved, but her voice was not heard.' “poured out my soul before the LORD” occurs in exactly one KJV verse, 1 Samuel 1:15, two verses later and spoken by Hannah about the same prayer. “pour out your heart” occurs in exactly one KJV verse, Psalm 62:8.",
+          "significance": "Mosiah 24:12 is a two-clause definition of silent prayer and each clause comes from a different KJV singleton, both of them Hannah's. 'Did not raise their voices to the Lord their God' is 1 Samuel 1:13's 'her voice was not heard'; 'did pour out their hearts to him' is 1 Samuel 1:15's 'poured out my soul before the LORD' with Psalm 62:8's noun. The KJV has exactly one narrative of prayer that is deliberately inaudible, and it is Hannah at Shiloh, misread by a priest as drunkenness. Alma's people, forbidden on pain of death to be heard praying, pray the way the one silent prayer in scripture was prayed. And the third clause of the verse — 'he did know the thoughts of their hearts' — supplies what Eli could not do: the God who hears the inaudible prayer is contrasted with the priest who misjudged it."
+        },
+        "note": "'Alma and his people did not raise their voices to the Lord their God, but did pour out their hearts to him; and he did know the thoughts of their hearts.' Both halves are Hannah's, from two verses two apart, and the KJV has no other silent prayer. The idiom of pouring is Psalm 62:8's 'pour out your heart before him', which supplies the organ where 1 Samuel 1:15 has the soul. Not a quotation — no clause is reproduced — but the verse has no content that is not from these three.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "24:13": [
+      {
+        "source": "Exodus 6:6",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "text": "Wherefore say unto the children of Israel, I am the LORD, and I will bring you out from under the burdens of the Egyptians, and I will rid you out of their bondage, and I will redeem you with a stretched out arm, and with great judgments:",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Exodus 6:5",
+          "Exodus 6:7"
+        ],
+        "recurrenceRefs": [
+          "Mosiah 24:9",
+          "Mosiah 24:14"
+        ],
+        "provenance": {
+          "route": "Exodus 6:5-7 → KJV → Book of Mormon",
+          "other": "“remembered my covenant” occurs in exactly one KJV verse, Exodus 6:5. “out of their bondage” occurs in exactly one KJV verse, Exodus 6:6. “under the burdens” occurs in exactly two KJV verses, Exodus 6:6 and 6:7. All three stand in one three-verse speech.",
+          "significance": "Exodus 6:5-7 is God's answer to the groaning of a people under taskmasters, and it has three moves: I have remembered my covenant; I will bring you out from under the burdens; I will take you to me for a people and ye shall know that I am the LORD your God. Mosiah 24:13-14 has the same three in the same order — 'I know of the covenant which ye have made unto me; and I will covenant with my people, and deliver them out of bondage. And I will also ease the burdens which is put upon your shoulders … that ye may know of a surety that I, the Lord God, do visit my people.' The one alteration is at the first move, and it reverses the direction of the covenant: in Exodus God remembers a covenant HE made with the fathers, here he acknowledges a covenant THEY made with him at the waters of Mormon. That is a real theological substitution and it is visible only against the source."
+        },
+        "note": "'I know of the covenant which ye have made unto me; and I will covenant with my people, and deliver them out of bondage.' Two KJV singletons and a doubleton, all from Exodus 6:5-7, all in this verse and the next, and in the source's order. The wording is nowhere reproduced exactly, so this is an allusion; the sequence is what makes it certain which speech is being reused.",
+        "bibliography": [],
+        "status": "consensus",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      },
+      {
+        "source": "Luke 21:28",
+        "type": "allusion",
+        "subtype": "probable",
+        "confidence": "moderate",
+        "text": "And when these things begin to come to pass, then look up, and lift up your heads; for your redemption draweth nigh.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 2,
+          "context": 4,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "Luke 21:28 → KJV → Book of Mormon",
+          "other": "“lift up your heads” occurs in exactly three KJV verses: Psalm 24:7 and 24:9, where it is addressed to the gates of the temple, and Luke 21:28, where it is addressed to people. Luke's is therefore the only KJV occurrence that can be spoken to a congregation. “be of good comfort” occurs in five KJV verses, three of them Jesus to a person he is about to heal.",
+          "significance": "Luke 21:28 finishes 'for your redemption draweth nigh', and it is the one KJV verse in which raised heads are the posture of an imminent deliverance rather than of a gate opening. The voice of the Lord in Mosiah 24:13 says it to people in bondage and then names the deliverance outright — 'I will covenant with my people, and deliver them out of bondage' — and 24:16 dates it: 'on the morrow I will deliver thee out of bondage.' Luke's redemption is eschatological and this one arrives the next morning; the borrowing brings the larger sense with it, which is the ordinary work of metalepsis."
+        },
+        "note": "'Lift up your heads and be of good comfort.' Of the KJV's three 'lift up your heads', two are addressed to doors; only Luke 21:28 is addressed to people, and only Luke 21:28 attaches the gesture to a coming redemption. Recorded at moderate because the phrase is short and the second half of the sentence, 'be of good comfort', points elsewhere in the Gospels.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "24:14": [
+      {
+        "source": "Psalm 81:6",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "I removed his shoulder from the burden: his hands were delivered from the pots.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Isaiah 10:27",
+          "Exodus 6:6"
+        ],
+        "recurrenceRefs": [
+          "Mosiah 23:12",
+          "2 Nephi 20:27"
+        ],
+        "provenance": {
+          "route": "Psalm 81:6 → KJV → Book of Mormon",
+          "other": "“his shoulder from the burden” occurs in exactly one KJV verse, Psalm 81:6: 'I removed his shoulder from the burden: his hands were delivered from the pots.' “from off thy shoulder” occurs in exactly one KJV verse, Isaiah 10:27, where a burden is taken off a shoulder and a yoke off a neck. These are the KJV's only two verses in which God removes a burden from a shoulder.",
+          "significance": "Psalm 81 is the psalm of the Exodus told in the first person — 'I removed his shoulder from the burden … thou calledst in trouble, and I delivered thee' — and it is the only place in the KJV where God says he took the load off a shoulder himself. Mosiah 24:14 has God saying it again: 'I will also ease the burdens which is put upon your shoulders.' But the chapter then does something Psalm 81 does not. The burden is not removed; it is made unfeelable — 'that even you cannot feel them upon your backs, even while you are in bondage.' The bondage continues and only the weight of it is taken away, and the reason given is evidentiary: 'that ye may stand as witnesses for me hereafter.' Against the psalm, the departure is the doctrine. Isaiah 58:6, which the catalogue has already put behind Mosiah 23:12, promised to undo the heavy burdens; here the promise is kept in a form the source did not anticipate."
+        },
+        "note": "'I will also ease the burdens which is put upon your shoulders, that even you cannot feel them upon your backs, even while you are in bondage.' The KJV joins burdens to shoulders in a divine first-person relief exactly twice, at Psalm 81:6 and Isaiah 10:27, and Psalm 81:6 is the Exodus one — the same deliverance this chapter has been narrating in Exodus 1 and Exodus 6 vocabulary since 24:9. The 1830 reads 'which IS put upon your shoulders'; 1920 corrected to 'are'.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      },
+      {
+        "source": "Genesis 15:13",
+        "type": "allusion",
+        "subtype": "probable",
+        "confidence": "moderate",
+        "text": "And he said unto Abram, Know of a surety that thy seed shall be a stranger in a land that is not theirs, and shall serve them; and they shall afflict them four hundred years;",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Acts 12:11",
+          "Exodus 4:31",
+          "James 1:27"
+        ],
+        "recurrenceRefs": [
+          "1 Nephi 5:8"
+        ],
+        "provenance": {
+          "route": "Genesis 15:13 → KJV → Book of Mormon",
+          "other": "“know of a surety” occurs in exactly two KJV verses: Genesis 15:13, where God tells Abram his seed will be strangers and afflicted; and Acts 12:11, where Peter, just walked out of Herod's prison past sleeping guards, says 'Now I know of a surety, that the Lord hath sent his angel, and hath delivered me.' “looked upon their affliction” occurs in exactly one KJV verse, Exodus 4:31, of the Lord visiting the children of Israel. The one KJV verse joining the verb 'visit' to the phrase 'in their affliction' is James 1:27.",
+          "significance": "Both KJV occurrences of the idiom are load-bearing here and they are the two ends of the same story. Genesis 15:13 is where the bondage is announced — 'Know of a surety that thy seed shall be a stranger in a land that is not theirs, and shall serve them; and they shall afflict them' — and Acts 12:11 is where a man says it on the far side of a miraculous escape past sleeping guards, which is precisely what happens at Mosiah 24:19. Alma's people are told to know of a surety in the middle: still in bondage, told that the bondage is seen. The catalogue has recorded Acts 12:11 once already, at 1 Nephi 5:8, on Sariah's 'I know of a surety'; that was a woman certifying a deliverance after the fact, and this is God certifying one before it."
+        },
+        "note": "'That ye may know of a surety that I, the Lord God, do visit my people in their afflictions.' Two KJV verses have 'know of a surety' and this chapter arguably uses both — Genesis 15:13's announcement of servitude and affliction, and Acts 12:11's certainty after an escape past sleeping guards. The verb 'visit' with affliction is the KJV's language for God at the Exodus (Exodus 3:16; 4:31) and, once, for the church's duty (James 1:27). Recorded at moderate: the idiom is short, and the Book of Mormon uses it elsewhere without a source.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "24:15": [
+      {
+        "source": "Colossians 1:11",
+        "type": "allusion",
+        "subtype": "probable",
+        "confidence": "moderate",
+        "text": "Strengthened with all might, according to his glorious power, unto all patience and longsuffering with joyfulness;",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 4,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Colossians 4:12"
+        ],
+        "provenance": {
+          "route": "Colossians 1:11 → KJV → Book of Mormon",
+          "other": "“strengthened with all might” occurs in exactly one KJV verse and “unto all patience” occurs in exactly one KJV verse; both are Colossians 1:11: 'Strengthened with all might, according to his glorious power, unto all patience and longsuffering with joyfulness.' “that ye may stand” occurs in exactly one KJV verse and “all the will of” occurs in exactly one KJV verse; both are Colossians 4:12: 'that ye may stand perfect and complete in all the will of God.' The Book of Mormon has 'that ye may stand as witnesses' at 24:14 and 'all the will of the Lord' here.",
+          "significance": "Mosiah 24:15 puts three ideas in one sentence — God strengthens them, they endure with patience, they endure cheerfully — and Colossians 1:11 is the only KJV verse that puts the same three in one sentence, in that order, with joyfulness in the place of cheerfulness. The pairing matters because the strengthening in Mosiah is not moral but literal: the burdens are made light and the people can bear them. Paul's 'strengthened with all might … unto all patience' is an inward gift; the Book of Mormon takes the phrase and gives it a load to carry."
+        },
+        "note": "'The Lord did strengthen them that they could bear up their burdens with ease, and they did submit cheerfully and with patience to all the will of the Lord.' Strengthening, patience and cheerfulness in one clause is Colossians 1:11's collocation and nobody else's in the KJV, and the closing 'all the will of' is a singleton from Colossians 4:12, whose 'that ye may stand' the previous verse has also used. Moderate rather than high: each individual word is common, and it is the cluster, not any phrase, that identifies the source.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "24:16": [
+      {
+        "source": "Jeremiah 15:21",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "And I will deliver thee out of the hand of the wicked, and I will redeem thee out of the hand of the terrible.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "recurrenceRefs": [
+          "Mosiah 24:17"
+        ],
+        "provenance": {
+          "route": "Jeremiah 15:20-21 → KJV → Book of Mormon",
+          "other": "“I will deliver thee out of” occurs in exactly one KJV verse, Jeremiah 15:21. The 1830 text reads 'on the morrow I will deliver thee out of bondage'; the 1920 edition changed 'thee' to 'you', which destroys the string — 'I will deliver you out of' stands in no KJV verse either. The borrowing is visible in the first edition and invisible in the modern text.",
+          "significance": "This is the clearest case in the chapter of the running text doing work no later edition can do, and it is worth stating plainly: a reader of the current Book of Mormon cannot see this link at all. The 1830 'thee' is also grammatically odd in context — the voice is addressing a people, and 24:17 immediately reverts to the plural 'this people' — which is what one expects when a singular-address KJV phrase is carried over whole. Jeremiah 15:20-21 is God's answer to a prophet who has asked why his pain is perpetual: 'I am with thee to save thee and to deliver thee … And I will deliver thee out of the hand of the wicked.' The next verse of Mosiah takes the first half of that promise as well."
+        },
+        "note": "'Be of good comfort, for on the morrow I will deliver thee out of bondage.' Six words from the KJV's only 'I will deliver thee out of', preserved by the 1830 singular and erased by the 1920 plural. Below Skousen's threshold and not among his quotations. The companion phrase, 'I am with thee to save thee', is a singleton in the previous verse of Jeremiah and is used in the next verse of Mosiah; see the link at 24:17.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "24:17": [
+      {
+        "source": "Jeremiah 15:20",
+        "type": "allusion",
+        "subtype": "probable",
+        "confidence": "moderate",
+        "text": "And I will make thee unto this people a fenced brasen wall: and they shall fight against thee, but they shall not prevail against thee: for I am with thee to save thee and to deliver thee, saith the LORD.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 4,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Jeremiah 15:21"
+        ],
+        "recurrenceRefs": [
+          "Mosiah 24:16"
+        ],
+        "provenance": {
+          "route": "Jeremiah 15:20 → KJV → Book of Mormon",
+          "other": "“I am with thee to save thee” occurs in exactly one KJV verse, Jeremiah 15:20, whose full clause is 'for I am with thee to save thee and to deliver thee, saith the LORD'. The Book of Mormon reads 'I will go with thee, and deliver this people out of bondage', which converts the presence into motion.",
+          "significance": "The two halves of Jeremiah 15:20-21 arrive in the two consecutive verses Mosiah 24:16-17, in the source's order and with the source's two verbs, save and deliver, reduced to one. Jeremiah 15 is a complaint chapter: the prophet has said his wound is incurable, and the answer promises accompaniment rather than relief from the fight — 'they shall fight against thee, but they shall not prevail against thee'. Alma is being sent, as Jeremiah was, to go before a people rather than away from them, and the accompanying clause 'Thou shalt go before this people' is not Jeremiah but Deuteronomy 3:28, where Joshua is charged to go over before this people. The Book of Mormon has spliced the commissioning of Joshua onto the consolation of Jeremiah.",
+          "alternative": "Deuteronomy 3:28, 'he shall go over before this people', for the first clause only."
+        },
+        "note": "'Thou shalt go before this people, and I will go with thee, and deliver this people out of bondage.' The second and third clauses continue the Jeremiah 15:21 borrowing of the previous verse into 15:20, whose 'I am with thee to save thee and to deliver thee' is a KJV singleton. Moderate rather than high: the accompaniment formula is common in the KJV (Exodus 33:14; Deuteronomy 31:8; Joshua 1:5), and only the pairing with 24:16 selects Jeremiah.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "24:19": [
+      {
+        "source": "1 Samuel 26:12",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "text": "So David took the spear and the cruse of water from Saul’s bolster; and they gat them away, and no man saw it, nor knew it, neither awaked: for they were all asleep; because a deep sleep from the LORD was fallen upon them.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Genesis 2:21"
+        ],
+        "recurrenceRefs": [
+          "Mosiah 24:9"
+        ],
+        "provenance": {
+          "route": "1 Samuel 26:12 and Genesis 2:21 → KJV → Book of Mormon",
+          "other": "“deep sleep from the LORD” occurs in exactly one KJV verse, 1 Samuel 26:12: 'no man saw it, nor knew it, neither awaked: for they were all asleep; because a deep sleep from the LORD was fallen upon them.' “caused a deep sleep” occurs in exactly one KJV verse, Genesis 2:21, 'the LORD God caused a deep sleep to fall upon Adam'. Mosiah 24:19 — 'the Lord caused a deep sleep to come upon the Lamanites' — has the verb of one and the situation of the other. 'Profound sleep', the phrase used of the task-masters in the same verse, stands in no KJV verse.",
+          "significance": "Of the KJV's seven deep sleeps only one is tactical, and it is 1 Samuel 26:12 — the night David walks through Saul's camp, takes the spear from the king's bolster, and walks out again without a hand raised, because the LORD has put the whole army to sleep. Mosiah 24:18-20 is the same night: an armed camp, guards who do not wake, and a people who walk out. The difference is what is taken. David takes the spear and the cruse of water in order to prove that he could have taken the king's life and did not; Alma's people take their flocks and their grain and leave. The chapter has spent eleven verses making the Lamanites into Egyptians, and at the moment of the escape it reaches instead for the one Israelite-on-Israelite night raid in scripture, where the sleeping enemy is the LORD's anointed and is deliberately spared."
+        },
+        "note": "'And in the morning the Lord caused a deep sleep to come upon the Lamanites, yea, and all their task-masters were in a profound sleep.' Two KJV singletons in one sentence: Genesis 2:21's causative and 1 Samuel 26:12's divinely-sent sleep over a camp. The second supplies the scene and the first the syntax. Note that the 1830 keeps the Exodus word 'task-masters' inside the Samuel scene, which is where the chapter's two typologies meet.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "24:20": [
+      {
+        "source": "Isaiah 43:19",
+        "type": "echo",
+        "subtype": "possible",
+        "confidence": "moderate",
+        "text": "Behold, I will do a new thing; now it shall spring forth; shall ye not know it? I will even make a way in the wilderness, and rivers in the desert.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 2,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "provenance": {
+          "route": "Isaiah 43:19 → KJV → Book of Mormon",
+          "other": "“way in the wilderness” occurs in exactly one KJV verse, Isaiah 43:19: 'Behold, I will do a new thing; now it shall spring forth; shall ye not know it? I will even make a way in the wilderness, and rivers in the desert.'",
+          "significance": "Isaiah 43:16-19 is the new-exodus oracle — the God who made a way in the sea will make a way in the wilderness, and the deliverance to come will be a new thing that puts the old one out of mind. Mosiah 24 has been the old one, in Exodus 1 and Exodus 6 vocabulary, for eleven verses; at the moment the escape succeeds it names the valley after the man who 'led their way in the wilderness'. The KJV's only 'way in the wilderness' is the verse that says the second exodus will surpass the first. Recording the phrase is what lets a reader see that the chapter's naming of the valley of Alma is a claim and not a note."
+        },
+        "note": "'They called the valley Alma, because he led their way in the wilderness.' Four words that in the KJV belong to one verse, and that verse is the new-exodus promise. Recorded as an echo, not an allusion: the Book of Mormon's syntax is possessive ('their way') where Isaiah's is a made road, and nothing else of Isaiah 43 is present.",
+        "whyNot": "A leader making a way through a wilderness is the chapter's plain subject and needs no source; if the row is wrong, the singleton is a coincidence of a very short phrase.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "24:22": [
+      {
+        "source": "Acts 27:35",
+        "type": "echo",
+        "subtype": "possible",
+        "confidence": "moderate",
+        "text": "And when he had thus spoken, he took bread, and gave thanks to God in presence of them all: and when he had broken it, he began to eat.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 2,
+          "context": 4,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "recurrenceRefs": [
+          "Mosiah 25:10"
+        ],
+        "provenance": {
+          "route": "Acts 27:35 → KJV → Book of Mormon",
+          "other": "“gave thanks to God” occurs in exactly one KJV verse, Acts 27:35. The KJV's usual constructions are 'gave thanks unto God' and 'thanked God', which is why the count is as low as it is; the singleton reflects a preposition, not a distinctive idea.",
+          "significance": "Acts 27:35 is a meal on a ship that is about to break up, eaten on Paul's assurance that not a life will be lost. Mosiah 24:21-22 is a thanksgiving in a valley by a people who have just walked out of slavery. Both are the moment where a company that has been delivered but is not yet safe stops to give thanks — Alma's people are still being pursued, and the Lord tells them to run again in the next verse. The row is recorded chiefly so the catalogue can say where the phrase is, and can point at the recurrence in the next chapter."
+        },
+        "note": "'And they gave thanks to God, yea, all their men, and all their women, and all their children, that could speak, lifted their voices in the praises of their God.' The exact string is a KJV singleton, but that is an accident of the preposition and the note should not pretend otherwise. The verse's own interest is not the borrowing but the qualification 'that could speak', which the KJV has no parallel for, and the fact that a people forbidden twelve verses earlier to raise their voices now raise them.",
+        "whyNot": "'Gave thanks to God' is unavoidable English and the singleton count is a KJV preposition preference, not evidence of distinctiveness. Nothing else of Acts 27 is present. A cautious editor would decline this row and put it in the register instead.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "24:23": [
+      {
+        "source": "Genesis 19:22",
+        "type": "allusion",
+        "subtype": "probable",
+        "confidence": "moderate",
+        "text": "Haste thee, escape thither; for I cannot do anything till thou be come thither. Therefore the name of the city was called Zoar.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "provenance": {
+          "route": "Genesis 19:22 → KJV → Book of Mormon",
+          "other": "“haste thee” occurs in exactly three KJV verses in this imperative sense: Genesis 19:22, 1 Samuel 23:27 and Psalm 22:19. Only Genesis 19:22 is an order to a fugitive to clear the ground before God acts.",
+          "significance": "Genesis 19:22 is the one verse in the KJV where God's action waits on a man's escape: 'Haste thee, escape thither; for I cannot do any thing till thou be come thither.' Mosiah 24:23 has the same logic in the same order — get out of this land, and then 'I will stop the Lamanites in this valley, that they come no further in pursuit of this people.' The intervention is held until the fugitives are out. The borrowing is worth naming because the two situations are otherwise opposite: Lot flees a city God is about to destroy, and Alma flees an army God is about to halt. What the verses share is the sequencing, and the KJV says it once."
+        },
+        "note": "'Haste thee and get thou and this people out of this land … and I will stop the Lamanites in this valley.' The imperative is one of three in the KJV and the only one addressed to an escaping party whose escape is the condition of God's next move. 1 Samuel 23:27, where a messenger's 'haste thee' saves David from Saul by diverting the pursuit, is the nearest rival and is worth a reader's glance; it lacks the divine speaker.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      }
+    ]
+  }
+}

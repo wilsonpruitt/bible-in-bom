@@ -1,0 +1,520 @@
+{
+  "chapter": 8,
+  "adjudicated": "2026-09-07",
+  "adjudicator": "Opus",
+  "links": {
+    "8:3": [
+      {
+        "source": "Luke 24:45",
+        "type": "echo",
+        "subtype": "probable",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 4,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "Luke 24:45 → KJV → Book of Mormon",
+          "other": "“that they might understand” occurs in exactly one KJV verse, Luke 24:45. Nehemiah 8:8's expounding scene, the closest Old Testament analogue, reads 'gave the sense, and caused them to understand the reading'.",
+          "significance": "Luke 24:45 is the risen Christ on the road and at table, opening the understanding of disciples so that they can understand the scriptures — the KJV's one verse about a hearer's capacity being enlarged so that an existing text becomes intelligible. Ammon is doing the same office for Benjamin's last words, which the people of Limhi have never heard, and the chapter he is in will go on to define a seer as the person through whom things otherwise unknowable are made known (8:17). The verse quietly establishes that the chapter's subject is not translation but comprehension."
+        },
+        "note": "'He also rehearsed unto them the last words which king Benjamin had taught them, and explained them to the people of king Limhi, so that they might understand all the words which he spake.' Four words from the KJV's only occurrence of the phrase, in the KJV's own expounding scene. The contact is short and the construction ordinary, which is why this is an echo rather than an allusion; what recommends it is that Mosiah 8 is a chapter about the machinery of understanding an inaccessible text, and it opens with the Gospel's sentence about exactly that.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ],
+        "text": "Then opened he their understanding, that they might understand the scriptures,"
+      }
+    ],
+    "8:8": [
+      {
+        "source": "Ezekiel 37:1",
+        "type": "figural",
+        "subtype": "type-scene",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 2,
+          "syntax": 1,
+          "sequence": 3,
+          "context": 4,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "no",
+        "mediation": "direct-OT",
+        "composite": [
+          "Ezekiel 37:2"
+        ],
+        "provenance": {
+          "route": "Ezekiel 37 → Book of Mormon",
+          "other": "“full of bones” occurs in exactly one KJV verse, Ezekiel 37:1 — Matthew 23:27's whited sepulchres are 'full of dead men's bones', a different phrase. The Book of Mormon's wording ('covered with bones of men, and of beasts') shares no run with either, which is why this is recorded as figural.",
+          "significance": "Ezekiel 37 is the one chapter of the Bible that holds both halves of what Limhi's expedition brought back. Verses 1-2 are a plain full of the bones of a destroyed people; verses 16-19 are the two written sticks that are joined in the prophet's hand and become one. Mosiah 8:8-9 reports, in two consecutive sentences, a land covered with the bones of a destroyed people and twenty-four engraved plates brought back from it — and the whole point of the plates, stated at 8:12, is to learn the cause of that destruction. Ezekiel's bones live when the word comes to them; the Jaredite record will speak when a seer is found for it."
+        },
+        "note": "'Having discovered a land which was covered with bones of men, and of beasts … having discovered a land which had been peopled with a people, which were as numerous as the hosts of Israel.' There is almost no shared wording here and the link is proposed on the shape of the scene: explorers set down in a plain of bones belonging to a numerous people, who then return with a written record of them. Recorded because the figure is doing work — the chapter's argument from 8:12 onward is that the bones cannot say what killed them and the plates can, which is Ezekiel 37's own move from bones to word.",
+        "whyNot": "Purely figural, with the two halves of the figure drawn from opposite ends of Ezekiel 37 and neither half verbally present. Bones on a battlefield need no literary source; an army destroyed leaves bones. A reader who declines this row loses nothing but the reading, and the reading is the only thing on offer.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ],
+        "text": "The hand of the LORD was upon me, and carried me out in the spirit of the LORD, and set me down in the midst of the valley which was full of bones,"
+      }
+    ],
+    "8:11": [
+      {
+        "source": "James 5:3",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "recurrenceRefs": [
+          "Mosiah 8:9"
+        ],
+        "provenance": {
+          "route": "James 5:3 → KJV → Book of Mormon",
+          "other": "“cankered” occurs in exactly one KJV verse, James 5:3, where it is joined in a single sentence to gold, to rust, and to bearing witness. The KJV's other corrosion verse, Matthew 6:19-20, has 'moth and rust doth corrupt' and neither the metal nor the testimony.",
+          "significance": "James 5:3 is a woe against rich men who have heaped up treasure for the last days: their gold and silver is cankered, and the rust of it 'shall be a witness against you'. Mosiah 8:9-11 has every element and reverses the verdict. The relics are gold (8:9), they are cankered with rust (8:11), and they are produced explicitly 'for a testimony that the things that they have said is true' (8:9) — a witness for the men who carry them rather than against the men who hoarded them. The suppressed correspondence is that the one KJV verse in which corroded metal testifies is a verse in which corroded metal testifies to a judgment, and the people whose gold this was are all dead."
+        },
+        "note": "'They have brought swords, the hilts thereof hath perished, and the blades thereof were cankered with rust.' The KJV uses 'cankered' once, and the Book of Mormon uses it of the same substance in the same collocation — metal, rust, and a testimony. The argument does not rest on 'rust', which is ordinary English; it rests on the fact that the archaic participle James used is the one word of the description that is not ordinary, and that the two other terms of James's sentence, the gold and the witness, are both in Mosiah 8:9, two verses earlier. Adjudicated here because this is where the rare word is.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ],
+        "text": "Your gold and silver is cankered; and the rust of them shall be a witness against you, and shall eat your flesh as it were fire. Ye have heaped treasure together for the last days."
+      },
+      {
+        "source": "Daniel 2:10",
+        "type": "allusion",
+        "subtype": "conceptual",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 4,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Daniel 2:11",
+          "Daniel 2:26"
+        ],
+        "recurrenceRefs": [
+          "Mosiah 8:6",
+          "Mosiah 8:12",
+          "Mosiah 8:13"
+        ],
+        "provenance": {
+          "route": "Daniel 2 → KJV → Book of Mormon",
+          "other": "“there is not a man” occurs in exactly two KJV verses, Genesis 19:31 and Daniel 2:10; only Daniel's is about a man who can decipher something for a king. “art thou able” occurs in exactly one KJV verse, Daniel 2:26 — Nebuchadnezzar's question to Daniel, which is Limhi's question to Ammon.",
+          "significance": "Mosiah 8:6-19 is Daniel 2 rebuilt. A king asks a foreigner brought before him whether he can interpret (8:6, Daniel 2:26); the answer is that he cannot; the king says there is no one in his realm able to do it (8:11, Daniel 2:10-11); a man is then named who can, and the ability is said to be a gift from God and not from the man (8:13, Daniel 2:27-30); and when the king hears it he blesses God (8:19, Daniel 2:19, 2:47). Daniel 2's own thesis — 'there is a God in heaven that revealeth secrets' — is the thesis of Ammon's speech on seership at 8:16-18. What the Book of Mormon changes is the object: a dream in Daniel, a written record here, so that the gift required is translation rather than interpretation of a vision."
+        },
+        "note": "'And there is no one in the land that is able to interpret the language or the engravings that are on the plates. Therefore, I said unto thee, Canst thou translate?' This row records the type-scene rather than a phrase, and it is filed at the verse where the scene's governing sentence sits. The verbal contacts are individually short — 'there is not a man upon the earth that can shew the king's matter' against 'there is no one in the land that is able to interpret'; 'Art thou able to make known unto me' against 'Canst thou translate?' — but there are five of them in fourteen verses and they arrive in Daniel's order. The strongest single one is at 8:13 and is catalogued there.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ],
+        "text": "The Chaldeans answered before the king, and said, There is not a man upon the earth that can shew the king’s matter: therefore there is no king, lord, nor ruler, that asked such things at any magician, or astrologer, or Chaldean."
+      }
+    ],
+    "8:13": [
+      {
+        "source": "Daniel 2:25",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Daniel 2:30"
+        ],
+        "provenance": {
+          "route": "Daniel 2:25, 2:30 → KJV → Book of Mormon",
+          "other": "“I have found a man” occurs in exactly one KJV verse, Daniel 2:25, and so does “make known unto the king the interpretation”. Both are in Arioch's single sentence to Nebuchadnezzar.",
+          "significance": "Arioch's sentence is the hinge of Daniel 2: the man who cannot interpret tells the king that he knows a man who can. Ammon's is the hinge of Mosiah 8, and it is the same sentence with 'translate' for 'make known the interpretation'. Daniel then insists at 2:30 that the secret 'is not revealed to me for any wisdom that I have more than any living' — and Ammon's next clause is 'it is a gift from God', followed at 8:16 by the flat statement that no man can possess the power of God. Both texts take care that the interpreter should not be credited with the interpretation."
+        },
+        "note": "'Now Ammon saith unto him, I can assuredly tell thee, O king, of a man that can translate the records: for he hath wherewith that he can look, and translate all records that are of ancient date; and it is a gift from God.' Two KJV singletons stand behind this, both from Arioch's report to Nebuchadnezzar, and the speech act is identical: a courtier who cannot do the thing tells a king where the man who can is to be found. 'Of ancient date' and 'interpreters' are the Book of Mormon's own vocabulary and have no KJV background at all, which is worth saying — the borrowing is the frame of the scene, not its furniture.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ],
+        "text": "Then Arioch brought in Daniel before the king in haste, and said thus unto him, I have found a man of the captives of Judah, that will make known unto the king the interpretation."
+      }
+    ],
+    "8:15": [
+      {
+        "source": "1 Samuel 9:9",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "recurrenceRefs": [
+          "Mosiah 8:6",
+          "Mosiah 8:16",
+          "Mosiah 8:17"
+        ],
+        "provenance": {
+          "route": "1 Samuel 9:9 → KJV → Book of Mormon",
+          "other": "“called a Seer” occurs in exactly one KJV verse, 1 Samuel 9:9, which is the Bible's only definition of the word and is itself an editorial gloss inserted into the narrative to explain an obsolete title. 'Seer' occurs elsewhere as a title (1 Samuel 9:11, 2 Samuel 24:11, 1 Chronicles 29:29 and others) but nowhere else is it defined against 'prophet'.",
+          "significance": "1 Samuel 9:9 says that the office now called prophet used to be called seer — the two words name one thing at different dates. Limhi asks whether a seer is greater than a prophet and Ammon answers that a seer is a revelator and a prophet also, which is a ruling against 1 Samuel 9:9's equation and in the same terms. And the chapter around it is 1 Samuel 9's chapter: a man goes to a seer because something is lost and cannot be found. Saul is looking for his father's asses; Limhi has sent out forty-three men who were lost in the wilderness and found not the land of Zarahemla (8:7-8), and asks about a seer in the next breath. The KJV's one verse defining a seer sits inside its one story about consulting a seer over something lost."
+        },
+        "note": "'And the king saith, That a seer is greater than a prophet.' The whole of Mosiah 8:15-17 is an argument about the relation between two titles, and the KJV contains exactly one verse that relates them — a parenthetical antiquarian note explaining that they are the same office under two names. The Book of Mormon takes the pair as a hierarchy instead, and Ammon's answer (8:16-17) is a definition of what the greater term adds: revelation, and the making known of what is past and to come. 'Revelator' is not a KJV word at all; the nearest thing to it is Daniel 2:47's 'revealer of secrets'.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ],
+        "text": "(Beforetime in Israel, when a man went to enquire of God, thus he spake, Come, and let us go to the seer: for he that is now called a Prophet was beforetime called a Seer.)"
+      }
+    ],
+    "8:17": [
+      {
+        "source": "Luke 8:17",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 3,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Matthew 10:26"
+        ],
+        "provenance": {
+          "route": "Luke 8:17 → KJV → Book of Mormon",
+          "other": "The saying exists in the KJV in four forms. Luke 8:17: 'nothing is secret, that shall not be made manifest; neither any thing hid, that shall not be known'. Mark 4:22: 'nothing hid, which shall not be manifested; neither was any thing kept secret'. Matthew 10:26 and Luke 12:2: 'nothing covered, that shall not be revealed; and hid, that shall not be known'. Mosiah 8:17 has 'made manifest', 'hidden', 'made known' and 'revealed' — and the two words that separate the candidates fall to Luke. “nothing is secret” occurs in exactly one KJV verse, Luke 8:17; “shall not be made manifest” likewise belongs to Luke 8:17 alone among the four forms, since Mark reads 'shall not be manifested'.",
+          "significance": "tools/mediation-check.py returns two decisive points for Luke 8:17 against Mark 4:22: the Book of Mormon has 'made manifest' and not Mark's 'manifested', and it has the root of Luke's 'hid' where Mark reads 'kept secret'. Matthew 10:26 and Luke 12:2 are excluded by 'covered' and 'revealed' standing where Mosiah has manifesting and knowing. So of the four KJV forms of one saying the Book of Mormon has the Lukan one, and specifically the Luke 8 one rather than the Luke 12 one. Recover Luke 8:17's context and the saying is the conclusion of the parable of the lamp — a light is not lit to be put under a bed — which is what Mosiah 8:13-18 is about: an instrument by which what is hidden is looked at."
+        },
+        "note": "'And by them shall all things be revealed, or rather, shall secret things be made manifest, and hidden things shall come to light, and things which is not known, shall be made known by them.' The verse is a fourfold expansion of a single Gospel saying, and it self-corrects mid-sentence in the Book of Mormon's characteristic way — 'or rather' — from the strong claim to the Gospel's own terms. The mediation is settled by the tool rather than by eye, which is what the tool is for: two decisive divergences, both for Luke.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ],
+        "text": "For nothing is secret, that shall not be made manifest; neither any thing hid, that shall not be known and come abroad."
+      },
+      {
+        "source": "Daniel 2:22",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Daniel 2:28"
+        ],
+        "recurrenceRefs": [
+          "Mosiah 8:11"
+        ],
+        "provenance": {
+          "route": "Daniel 2:22 → KJV → Book of Mormon",
+          "other": "“deep and secret” occurs in exactly one KJV verse, Daniel 2:22. “secret things” occurs in exactly two, Deuteronomy 29:29 and Daniel 2:22 — and Deuteronomy's verse says the opposite of Mosiah 8:17, that the secret things belong to God and are not ours.",
+          "significance": "Daniel 2:22 is the doxology at the centre of the chapter Mosiah 8 has been rebuilding since verse 6: 'He revealeth the deep and secret things: he knoweth what is in the darkness, and the light dwelleth with him.' Mosiah 8:17 has the secret things revealed and hidden things coming to light in one clause. The point of Daniel 2:22 in Daniel is that the interpreter is not the source — the light dwells with God — and that is why Ammon's speech insists at 8:16 that no man can possess the power of God and at 8:18 that the means is provided rather than owned."
+        },
+        "note": "'Shall secret things be made manifest, and hidden things shall come to light.' Two KJV words for concealment and one for light, arranged as Daniel 2:22 arranges them. The Gospel saying behind the verse (Luke 8:17, catalogued above) accounts for the manifesting and the knowing but has no light in it and does not use 'secret things' as a substantive; Daniel does both. The verse is composite and both rows are needed to describe it.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ],
+        "text": "He revealeth the deep and secret things: he knoweth what is in the darkness, and the light dwelleth with him."
+      }
+    ],
+    "8:18": [
+      {
+        "source": "Hebrews 11:40",
+        "type": "echo",
+        "subtype": "possible",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 2,
+          "context": 4,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "Hebrews 11:40 → KJV → Book of Mormon",
+          "other": "“having provided” occurs in exactly one KJV verse, Hebrews 11:40. God is the subject of 'provide' in only a handful of KJV verses — Genesis 22:8's 'God will provide himself a lamb' is the other memorable one — and Hebrews 11:40 is the only one where what is provided is a means to an end for other people.",
+          "significance": "Hebrews 11:40 closes the catalogue of faith: God having provided some better thing for us, that they without us should not be made perfect — an economy in which one generation's instrument serves another's. Mosiah 8:18 says the same of the interpreters: God has provided a means by which a man, through faith, works miracles and so 'becometh a great benefit to his fellow beings'. Both sentences make the provision corporate rather than personal, and both attach it to faith. The chapter that this verse ends is about a record left by a destroyed people being read by a later one."
+        },
+        "note": "'Thus God hath provided a means that man, through faith, might work mighty miracles; therefore, he becometh a great benefit to his fellow beings.' The contact is a two-word collocation with God as subject, in a sentence whose logic — provision, faith, benefit accruing to others — is Hebrews 11:40's. It is an echo and not more: 'provided a means' is not in the KJV, and 'work mighty miracles' is a fusion of the KJV's 'mighty works' and its 'miracles' that belongs to no single verse.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "God having provided some better thing for us, that they without us should not be made perfect."
+      }
+    ],
+    "8:19": [
+      {
+        "source": "Daniel 2:19",
+        "type": "allusion",
+        "subtype": "conceptual",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "recurrenceRefs": [
+          "Mosiah 8:11",
+          "Mosiah 8:13"
+        ],
+        "provenance": {
+          "route": "Daniel 2:19, 2:47 → KJV → Book of Mormon",
+          "other": "“blessed the God of heaven” occurs in exactly one KJV verse, Daniel 2:19. “revealer of secrets” occurs in exactly one, Daniel 2:47, which is the king's response when the secret is disclosed — the structural counterpart of Limhi's response here.",
+          "significance": "Daniel 2 is punctuated twice by a doxology on hearing that the secret can be told: Daniel blesses the God of heaven at 2:19 and Nebuchadnezzar blesses Daniel's God at 2:47. Mosiah 8:19 puts the king in Daniel's position rather than Nebuchadnezzar's — Limhi gives thanks before the translation has happened, on the strength of a promise — and the content of his praise is the Danielic one: that a mystery is contained in the record and that the instrument was 'prepared for the purpose of unfolding all such mysteries'."
+        },
+        "note": "'When Ammon had made an end of speaking these words, the king rejoiced exceedingly, and gave thanks to God.' This is the closing beat of the Daniel 2 type-scene catalogued at 8:11 and 8:13 — the doxology on hearing that the untranslatable thing can be translated — and it is recorded at moderate confidence because it is the beat with the least verbal contact of the five. 'Gave thanks to God' is Acts 27:35's phrase, in a wholly unrelated setting (Paul breaking bread on a foundering ship); the argument here is positional rather than lexical.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ],
+        "text": "Then was the secret revealed unto Daniel in a night vision. Then Daniel blessed the God of heaven."
+      },
+      {
+        "source": "Ephesians 5:32",
+        "type": "echo",
+        "subtype": "possible",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 2,
+          "sequence": 2,
+          "context": 3,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Colossians 1:26"
+        ],
+        "provenance": {
+          "route": "Ephesians 5:32, Colossians 1:26 → KJV → Book of Mormon",
+          "other": "“a great mystery” occurs in exactly one KJV verse, Ephesians 5:32. 'Mystery' in the KJV is almost entirely a Pauline word and almost always means something once hidden and now disclosed; Colossians 1:26's 'the mystery which hath been hid from ages and from generations, but now is made manifest' is the formula Mosiah 8:19 puts to work.",
+          "significance": "The Pauline mystery is not a puzzle but a disclosure — a thing kept from previous ages and now unfolded. Limhi uses the word in precisely that sense and applies it to a physical record kept from previous ages: 'a great mystery is contained within these plates; and these interpreters was doubtless prepared for the purpose of unfolding all such mysteries to the children of men.' The KJV's abstract theological term has been given a literal object, which is what the whole chapter does to Daniel 2's vocabulary of revelation."
+        },
+        "note": "'Doubtless, a great mystery is contained within these plates.' Three words matching a KJV singleton, in a sentence whose sense of 'mystery' is unmistakably the Pauline one and not the modern one. Recorded as an echo because the phrase is short and Ephesians 5:32's own subject — Christ and the church — has nothing to do with this verse; the borrowing is the term and its Pauline logic, which Colossians 1:26 states more fully than Ephesians does.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "This is a great mystery: but I speak concerning Christ and the church."
+      }
+    ],
+    "8:20": [
+      {
+        "source": "Isaiah 56:10",
+        "type": "allusion",
+        "subtype": "conceptual",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 2,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 3,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Isaiah 56:9",
+          "Isaiah 56:11"
+        ],
+        "recurrenceRefs": [
+          "Mosiah 8:21"
+        ],
+        "provenance": {
+          "route": "Isaiah 56:9-11 → KJV → Book of Mormon",
+          "other": "“come to devour” occurs in exactly two KJV verses, Isaiah 56:9 and Jeremiah 12:9; Isaiah 56:9 is the one that puts the devourers in a forest ('all ye beasts in the forest'). Isaiah 56:10 supplies blindness and 56:11 shepherds 'that cannot understand'.",
+          "significance": "Isaiah 56:9-11 runs in the order Mosiah 8:20-21 runs. Beasts of the field and of the forest are summoned to devour; the watchmen are blind; the shepherds cannot understand. The Book of Mormon takes the same three elements and redistributes them — blindness and failure of understanding go to the people in 8:20, the devouring beasts of the forest and the fled shepherd to the flock in 8:21 — so that the reproach Isaiah aims at negligent leaders is aimed instead at a people who will not seek wisdom. Limhi's own leadership is exactly what is at issue in this book, and the reassignment is not innocent."
+        },
+        "note": "'How blind and impenetrable are the understandings of the children of men.' Blindness paired with a failure of understanding, immediately followed at 8:21 by a shepherdless flock devoured by beasts of the forest, is the sequence of Isaiah 56:9-11 and of no other passage in the KJV. No single phrase is reproduced — 'impenetrable' is not a KJV word — so the case rests on the sequence rather than on wording, and is recorded as moderate accordingly. Ezekiel 34, the other great shepherd oracle, has the flock and the beasts but no blindness.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ],
+        "text": "His watchmen are blind: they are all ignorant, they are all dumb dogs, they cannot bark; sleeping, lying down, loving to slumber."
+      },
+      {
+        "source": "Revelation 15:3",
+        "type": "echo",
+        "subtype": "probable",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 2,
+          "context": 3,
+          "rarity": 3,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Psalm 139:14"
+        ],
+        "recurrenceRefs": [
+          "1 Nephi 1:14"
+        ],
+        "variants": [
+          "1830 marvellous / later marvelous"
+        ],
+        "provenance": {
+          "route": "Revelation 15:3 or Psalm 139:14 → KJV → Book of Mormon",
+          "other": "“marvellous are thy works” occurs in exactly two KJV verses, Psalm 139:14 and Revelation 15:3. Mosiah 8:20 has 'marvellous are the works of the Lord', which substitutes the name for the pronoun and so matches neither exactly; 'the works of the LORD' on its own occurs in seven verses.",
+          "significance": "Revelation 15:3 is the verse 1 Nephi 1:14 borrows six words from at the head of the book, where it turns out to be the song of Moses and of the Lamb. Its reappearance here, in the mouth of a king praising God for a set of interpreters, is a small piece of continuity: the corpus's standard formula for exclaiming at God's works is the one Revelation labels the song of Moses. Whether Mosiah 8:20 is reaching for Revelation or for the Psalm cannot be decided from the wording."
+        },
+        "note": "'O how marvellous are the works of the Lord, and how long doth he suffer with his people.' The 1830 edition prints 'marvellous' with the KJV's double l, which later editions modernized to 'marvelous' — one of the places where the first edition shows the borrowing and the current text hides it (CONVENTIONS §8). The phrase itself is the KJV's standard exclamation and belongs to two verses, one of which the corpus has already used at 1 Nephi 1:14; recorded as an echo because the substitution of 'the works of the Lord' for 'thy works' breaks the run at exactly the point where a source could be identified.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "And they sing the song of Moses the servant of God, and the song of the Lamb, saying, Great and marvellous are thy works, Lord God Almighty; just and true are thy ways, thou King of saints."
+      },
+      {
+        "source": "Proverbs 1:28",
+        "type": "figural",
+        "subtype": "conceptual",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 2,
+          "syntax": 2,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 2,
+          "attestation": 0
+        },
+        "kjvSpecific": "no",
+        "mediation": "direct-OT",
+        "composite": [
+          "Proverbs 1:30",
+          "Proverbs 8:11"
+        ],
+        "provenance": {
+          "route": "Proverbs 1-9 → Book of Mormon",
+          "other": "The Book of Mormon's exact phrases are not in the KJV: 'seek wisdom' occurs in no KJV verse (Proverbs 14:6 has 'seeketh wisdom'), and no KJV verse has wisdom ruling over anyone. What is borrowed is the grammar — the feminine pronoun for wisdom, which in the KJV belongs to Proverbs 1-9 and to nothing else in the Protestant canon.",
+          "significance": "Proverbs 1:20-33 is Wisdom crying in the streets and being refused, and 1:28 is what follows: they shall seek me, and shall not find me. Limhi inverts the sequence — they will not seek her in the first place — and adds a political verb that Proverbs never uses of her, that she should rule over them. Read against Proverbs 8:15, where Wisdom says 'By me kings reign', the addition is not arbitrary: Limhi is a king saying that his people will not be governed by the thing that ought to govern kings, in a chapter whose whole subject is a king seeking knowledge he cannot supply himself."
+        },
+        "note": "'For they will not seek wisdom, neither do they desire that she should rule over them.' The feminine pronoun is the whole of the verbal evidence and it is decisive as to which book is in view: outside Proverbs 1-9 the KJV does not personify wisdom as a woman. Which verse of Proverbs, if any, cannot be settled — Proverbs 1:28's refused Wisdom is the closest scene and Proverbs 8:15's reigning kings the closest to the ruling. Filed as figural for that reason. The machine's proposal here was Joel 2:17's 'that the heathen should rule over them', which is the wrong 'they'.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ],
+        "text": "Then shall they call upon me, but I will not answer; they shall seek me early, but they shall not find me:"
+      }
+    ],
+    "8:21": [
+      {
+        "source": "Ezekiel 34:5",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 3,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Isaiah 56:9",
+          "Matthew 9:36"
+        ],
+        "recurrenceRefs": [
+          "Mosiah 8:20"
+        ],
+        "provenance": {
+          "route": "Ezekiel 34:5 → KJV → Book of Mormon",
+          "other": "'No shepherd' occurs in six KJV verses, of which Ezekiel 34:5 is the only one that follows the shepherdlessness with scattering and with beasts devouring the flock — the exact three-beat sequence of Mosiah 8:21. Ezekiel 34:8 repeats it. “beasts of the forest” occurs in exactly two KJV verses, Psalm 104:20 and Micah 5:8, neither of which involves a flock; the forest comes from Isaiah 56:9's 'all ye beasts in the forest', where the beasts are summoned to devour.",
+          "significance": "Ezekiel 34's flock is scattered because there is no shepherd, and the chapter's charge is against the shepherds who abandoned it. Mosiah 8:21 reverses the blame: the flock is wild and flees from the shepherd, so the scattering is the sheep's doing. That inversion is the point of Limhi's whole simile — his people will not seek wisdom (8:20), so the shepherd is not missing, he is being run from. Ezekiel 34 goes on to promise that God will himself seek out the scattered sheep; Mosiah 8 has just spent nineteen verses on a king trying to find a seer."
+        },
+        "note": "'Yea, they are as a wild flock, which fleeth from the shepherd, and scattereth, and are driven, and are devoured by the beasts of the forest.' Four elements in Ezekiel 34:5's order — flock, shepherd, scattering, devouring beasts — with one word imported from Isaiah 56:9's summons to the beasts in the forest. The Book of Mormon adds 'wild' and 'fleeth', which no shepherd oracle in the KJV has and which are what turn Ezekiel's indictment of leaders into an indictment of the led. Matthew 9:36's 'scattered abroad, as sheep having no shepherd' is the New Testament form of the same figure and is close, but it has no beasts and no flight.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ],
+        "text": "And they were scattered, because there is no shepherd: and they became meat to all the beasts of the field, when they were scattered."
+      }
+    ]
+  }
+}

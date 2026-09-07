@@ -1,6 +1,6 @@
 # Mosiah 19 — adjudication dossier
 
-Running text: 1830 first edition (modern versification). 29 verses. 176 machine candidates for this chapter; the top 24 by n-gram rarity are shown below, grouped by verse.
+Running text: 1830 first edition (modern versification). 29 verses. 176 machine candidates for this chapter; the top 40 by n-gram rarity are shown below, grouped by verse.
 
 Substantive 1830-vs-1920 differences are flagged per verse. Note that KJV
 spellings (*shew*, *marvellous*) surviving in 1830 and modernized later are
@@ -29,6 +29,15 @@ And the lesser part began to breathe out threatnings against the king, and there
 
 And now there was a man among them whose name was Gideon, and he being a strong man, and an enemy to the king, therefore he drew his sword and swore in his wrath, that he would slay the king.
 
+- **Matthew 26:51** — rarity 1.00, longest run 4
+  > And, behold, one of them which were with Jesus stretched out his hand, and drew his sword, and struck a servant of the high priest’s, and smote off his ear.
+  shared: *drew his sword and*
+- **Luke 24:18** — rarity 1.00, longest run 4
+  > And the one of them, whose name was Cleopas, answering said unto him, Art thou only a stranger in Jerusalem, and hast not known the things which are come to pass there in these days?
+  shared: *them whose name was*
+- **Ezekiel 22:30** — rarity 1.00, longest run 4
+  > And I sought for a man among them, that should make up the hedge, and stand in the gap before me for the land, that I should not destroy it: but I found none.
+  shared: *a man among them*
 
 ### 19:5
 
@@ -51,6 +60,9 @@ And Gideon pursued after him and was about to get upon the tower to slay the kin
 - **Exodus 16:35** — rarity 1.14, longest run 5
   > And the children of Israel did eat manna forty years, until they came to a land inhabited; they did eat manna, until they came unto the borders of the land of Canaan.
   shared: *borders of the land*; *the borders of the*
+- **Judges 1:6** — rarity 1.00, longest run 4
+  > But Adonibezek fled; and they pursued after him, and caught him, and cut off his thumbs and his great toes.
+  shared: *pursued after him and*
 
 ### 19:7
 
@@ -61,6 +73,15 @@ And now the king cried out in the anguish of his soul, saying, Gideon, spare me,
 - **Genesis 42:21** — rarity 2.00, longest run 5
   > And they said one to another, We are verily guilty concerning our brother, in that we saw the anguish of his soul, when he besought us, and we would not hear; therefore is this distress come upon us.
   shared: *anguish of his soul*; *the anguish of his*
+- **Acts 23:6** — rarity 1.00, longest run 4
+  > But when Paul perceived that the one part were Sadducees, and the other Pharisees, he cried out in the council, Men and brethren, I am a Pharisee, the son of a Pharisee: of the hope and resurrection of the dead I am called in question.
+  shared: *cried out in the*
+- **Job 7:11** — rarity 1.00, longest run 4
+  > Therefore I will not refrain my mouth; I will speak in the anguish of my spirit; I will complain in the bitterness of my soul.
+  shared: *in the anguish of*
+- **Jeremiah 15:7** — rarity 1.00, longest run 4
+  > And I will fan them with a fan in the gates of the land; I will bereave them of children, I will destroy my people since they return not from their ways.
+  shared: *will destroy my people*
 
 ### 19:8
 
@@ -71,6 +92,9 @@ And now the king was not so much concerned about his people, as he was about his
 
 And the king commanded the people that they should flee before the Lamanites, and he himself did go before them, and they did flee into the wilderness with their women and their children.
 
+- **2 Chronicles 31:4** — rarity 1.00, longest run 4
+  > Moreover he commanded the people that dwelt in Jerusalem to give the portion of the priests and the Levites, that they might be encouraged in the law of the LORD.
+  shared: *commanded the people that*
 
 ### 19:10
 
@@ -84,6 +108,9 @@ Now it came to pass that the king commanded them that all the men should leave t
 - **2 Chronicles 20:13** — rarity 1.25, longest run 5
   > And all Judah stood before the LORD, with their little ones, their wives, and their children.
   shared: *their wives and their*; *wives and their children*
+- **2 Samuel 21:14** — rarity 1.00, longest run 4
+  > And the bones of Saul and Jonathan his son buried they in the country of Benjamin in Zelah, in the sepulchre of Kish his father: and they performed all that the king commanded. And after that God was intreated for the land.
+  shared: *that the king commanded*
 
 ### 19:12
 
@@ -102,6 +129,9 @@ And it came to pass that those that tarried with their wives and their children,
 - **2 Chronicles 20:13** — rarity 1.25, longest run 5
   > And all Judah stood before the LORD, with their little ones, their wives, and their children.
   shared: *their wives and their*; *wives and their children*
+- **Numbers 33:55** — rarity 1.00, longest run 4
+  > But if ye will not drive out the inhabitants of the land from before you; then it shall come to pass, that those which ye let remain of them shall be pricks in your eyes, and thorns in your sides, and shall vex you in the land wherein ye dwell.
+  shared: *to pass that those*
 
 ### 19:14
 
@@ -147,6 +177,12 @@ Now they had sworn in their hearts that they would return to the land of Nephi, 
 - **2 Chronicles 20:13** — rarity 1.25, longest run 5
   > And all Judah stood before the LORD, with their little ones, their wives, and their children.
   shared: *their wives and their*; *wives and their children*
+- **Jeremiah 30:3** — rarity 1.00, longest run 4
+  > For, lo, the days come, saith the LORD, that I will bring again the captivity of my people Israel and Judah, saith the LORD: and I will cause them to return to the land that I gave to their fathers, and they shall possess it.
+  shared: *return to the land*
+- **Deuteronomy 5:29** — rarity 1.00, longest run 4
+  > O that there were such an heart in them, that they would fear me, and keep all my commandments always, that it might be well with them, and with their children for ever!
+  shared: *them that they would*
 
 ### 19:20
 
@@ -166,6 +202,9 @@ And they were about to take the priests also and put them to death, and they fle
 - **Judges 20:13** — rarity 1.33, longest run 5
   > Now therefore deliver us the men, the children of Belial, which are in Gibeah, that we may put them to death, and put away evil from Israel. But the children of Benjamin would not hearken to the voice of their brethren the children of Israel.
   shared: *put them to death*; *them to death and*
+- **2 Kings 3:24** — rarity 1.00, longest run 4
+  > And when they came to the camp of Israel, the Israelites rose up and smote the Moabites, so that they fled before them: but they went forward smiting the Moabites, even in their country.
+  shared: *they fled before them*
 
 ### 19:22
 
@@ -228,6 +267,15 @@ And the king of the Lamanites set guards round about the land, that he might kee
 - **Nehemiah 9:24** — rarity 1.50, longest run 5
   > So the children went in and possessed the land, and thou subduedst before them the inhabitants of the land, the Canaanites, and gavest them into their hands, with their kings, and the people of the land, that they might do with them as they would.
   shared: *land that they might*; *the land that they*
+- **Amos 3:11** — rarity 1.00, longest run 4
+  > Therefore thus saith the Lord GOD; An adversary there shall be even round about the land; and he shall bring down thy strength from thee, and thy palaces shall be spoiled.
+  shared: *round about the land*
+- **Deuteronomy 1:36** — rarity 1.00, longest run 4
+  > Save Caleb the son of Jephunneh; he shall see it, and to him will I give the land that he hath trodden upon, and to his children, because he hath wholly followed the LORD.
+  shared: *the land that he*
+- **2 Chronicles 35:15** — rarity 1.00, longest run 4
+  > And the singers the sons of Asaph were in their place, according to the commandment of David, and Asaph, and Heman, and Jeduthun the king’s seer; and the porters waited at every gate; they might not depart from their service; for their brethren the Levites prepared for them.
+  shared: *they might not depart*
 
 ### 19:29
 

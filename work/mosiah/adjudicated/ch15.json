@@ -1,0 +1,876 @@
+{
+  "chapter": 15,
+  "adjudicated": "2026-09-07",
+  "adjudicator": "Opus",
+  "links": {
+    "15:2": [
+      {
+        "source": "Luke 1:35",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "text": "And the angel answered and said unto her, The Holy Ghost shall come upon thee, and the power of the Highest shall overshadow thee: therefore also that holy thing which shall be born of thee shall be called the Son of God.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "John 5:30"
+        ],
+        "recurrenceRefs": [
+          "Mosiah 15:3"
+        ],
+        "provenance": {
+          "route": "Luke 1:35 → KJV → Book of Mormon",
+          "other": "“shall be called the Son of God” occurs in exactly one KJV verse, and “the power of the Highest” occurs in exactly one; both are Luke 1:35. “The will of the Father” occurs in exactly one KJV verse, John 5:30.",
+          "significance": "Mosiah 15:1-5 is the most-argued passage in the Book of Mormon, because it says that Christ is the Father and the Son at once, and the terms in which it says so are the annunciation's. Luke 1:35 is the KJV's one verse that derives the title Son of God from a conception by divine power — “therefore also that holy thing which shall be born of thee shall be called the Son of God” — and Abinadi's two-part definition takes both halves: the Father “because he was conceived by the power of God”, the Son “because of the flesh”. Recover Luke 1:35 and the modalism that troubles readers of this chapter is a consequence of the verse it is built on. Luke makes divine causation the reason for the filial title; Abinadi asks what that makes the causer, and answers that it makes him the Father."
+        },
+        "note": "“Because he dwelleth in flesh, he shall be called the Son of God … being the Father and the Son.” The predicate is a KJV singleton and it is Gabriel's. What Abinadi adds is the inference — if the title Son follows from the flesh, then the divinity that produced the flesh is the Father in the same person — and 15:3 states it in Luke's own causal vocabulary, “conceived by the power of God” against Luke's “the power of the Highest shall overshadow thee”. The subordination clause, “having subjected the flesh to the will of the Father”, reaches the other KJV singleton in play here, John 5:30's “not mine own will, but the will of the Father”, which is the verse the whole chapter's Christology needs and which 15:7 will use again.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "15:5": [
+      {
+        "source": "Matthew 20:19",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "And shall deliver him to the Gentiles to mock, and to scourge, and to crucify him: and the third day he shall rise again.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Luke 18:32"
+        ],
+        "provenance": {
+          "route": "Matthew 20:19 → KJV → Book of Mormon",
+          "other": "“to mock, and to scourge, and to crucify” occurs in exactly one KJV verse. Luke's parallel prediction reads “and shall be mocked, and spitefully entreated, and spitted on”, which occurs in exactly one KJV verse (Luke 18:32) and has no scourging.",
+          "significance": "Abinadi is prophesying the passion six centuries early, and the list he gives — mocked, scourged, cast out, disowned — is the list Jesus gives when he prophesies it three days early. Matthew 20:19 is the KJV's one verse that strings mocking and scourging together as things done to him by others, and the Book of Mormon reproduces the pair in Matthew's order and then continues past the end of Matthew's sentence with two items the Gospels give elsewhere: cast out, which is John 9's word for the man expelled from the synagogue, and disowned by his people, which is John 1:11. The prediction is assembled from the predictions."
+        },
+        "note": "“Suffereth himself to be mocked, and scourged, and cast out, and disowned by his people.” Two of the four verbs are Matthew 20:19's, in Matthew's order, from the KJV's one occurrence of that pairing. The clause that governs them is the finding: Matthew's Christ is delivered to the Gentiles to be mocked and scourged, Abinadi's “suffereth himself”, which converts the passive of the passion prediction into an act of will and joins it to the sentence's other verb, “suffereth temptation, and yieldeth not”. The list also localizes the passion: Matthew's agents are the Gentiles, Abinadi's are “his people”.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "15:6": [
+      {
+        "source": "Isaiah 53:7",
+        "type": "quotation",
+        "subtype": "close-verbal",
+        "confidence": "certain",
+        "text": "He was oppressed, and he was afflicted, yet he opened not his mouth: he is brought as a lamb to the slaughter, and as a sheep before her shearers is dumb, so he openeth not his mouth.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 4
+        },
+        "kjvSpecific": "yes",
+        "mediation": "OT-via-earlier-BoM",
+        "recurrenceRefs": [
+          "Mosiah 14:7",
+          "Mosiah 13:35"
+        ],
+        "provenance": {
+          "route": "Isaiah 53:7 → KJV → Mosiah 14:7 → Mosiah 15:6",
+          "other": "“shearers is dumb” occurs in exactly one KJV verse. The KJV of Isaiah 53:7 reads “so he openeth not his mouth”. Mosiah 14:7, transcribing it, reads “opened”. Mosiah 15:6, quoting it back with an explicit citation formula, also reads “opened”.",
+          "significance": "Mosiah 15 is an exposition of Mosiah 14, and Mosiah 14 is Isaiah 53 transcribed. So the question at every re-quotation in this chapter is whether the proximate model is the KJV of Isaiah or the Book of Mormon's own copy of it made twenty verses earlier, and twice the text answers it: at 15:6 the verb is “opened”, which is Mosiah 14:7's departure from the KJV's “openeth”, and at 15:12 the sins he has borne are plural, which is Mosiah 14:12's departure from the KJV's “the sin of many”. Neither reading is available from Isaiah. That is as clean a demonstration of OT-via-earlier-BoM as the corpus offers, and it licenses reading the rest of the chapter's Isaiah 53 material the same way."
+        },
+        "note": "“Yea, even as Isaiah said, As a sheep before the shearer is dumb, so he opened not his mouth.” The citation is marked — the only place in Abinadi's exposition where Isaiah is named — and it does not follow Isaiah. The KJV has “openeth”; the Book of Mormon's own transcription at 14:7 has “opened”; and 15:6 has “opened”. The proximate source is therefore the text two chapters earlier and not the prophet the verse names, which is exactly what a preacher quoting from the reading he has just given would produce. Note the second departure in the same clause: “a sheep before the shearer”, singular, where both the KJV and Mosiah 14:7 read “her shearers”. Abinadi is quoting from memory of his own recitation, and the catalogue can see both halves of that.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "15:7": [
+      {
+        "source": "John 5:30",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "text": "I can of mine own self do nothing: as I hear, I judge: and my judgment is just; because I seek not mine own will, but the will of the Father which hath sent me.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "1 Corinthians 15:54"
+        ],
+        "recurrenceRefs": [
+          "Mosiah 15:2"
+        ],
+        "provenance": {
+          "route": "John 5:30 → KJV → Book of Mormon",
+          "other": "“The will of the Father” occurs in exactly one KJV verse. “Swallowed up in victory” occurs in exactly one, 1 Corinthians 15:54; the KJV uses “swallowed up” fourteen times, and Paul's is the only occurrence in which what is swallowed is defeated rather than destroyed.",
+          "significance": "Abinadi needs a formula for a will that is absorbed rather than overruled, because his whole Christology depends on the Son not being a second person who submits to a first. He builds it from two KJV singletons at once: John 5:30's “the will of the Father”, the one verse where Jesus states the subordination, and Paul's “swallowed up”, the one verb in the KJV for a thing that ends by being absorbed into a greater thing. Recover 1 Corinthians 15:54 and what is swallowed up there is death, three verses before Paul's “O death, where is thy sting?” — which is the doctrine Mosiah 15:8 states in the next clause. The metaphor and its object have been swapped: Paul swallows death in victory, Abinadi swallows the Son's will in the Father's, and then gets Paul's result anyway."
+        },
+        "note": "“The will of the Son being swallowed up in the will of the Father.” Both halves come from KJV singletons and neither is used for what its source uses it for. Recorded at moderate because the two phrases are short and the construction is the Book of Mormon's own; what argues for the borrowing is that both singletons appear in one clause, and that the verse immediately following puts Paul's actual object — death, and the victory over it — back where Paul had it.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "15:8": [
+      {
+        "source": "1 Corinthians 15:54",
+        "type": "allusion",
+        "subtype": "conceptual",
+        "confidence": "moderate",
+        "text": "So when this corruptible shall have put on incorruption, and this mortal shall have put on immortality, then shall be brought to pass the saying that is written, Death is swallowed up in victory.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "1 Corinthians 15:57"
+        ],
+        "recurrenceRefs": [
+          "Mosiah 15:7",
+          "Mosiah 15:20"
+        ],
+        "provenance": {
+          "route": "1 Corinthians 15:54-57 → KJV → Book of Mormon",
+          "other": "“Swallowed up in victory” occurs in exactly one KJV verse. 1 Corinthians 15:57 supplies the other half, “thanks be to God, which giveth us the victory”.",
+          "alternative": "Victory over death is the commonest Christian commonplace there is and needs no verse; “the bands of death” is in no KJV verse at all and is the Book of Mormon's own phrase.",
+          "significance": "1 Corinthians 15 is the chapter Mosiah 15:20-25 will run on at length — the resurrection, its order, those who are Christ's at his coming — and 15:8 is where it enters. Note what the Book of Mormon does not borrow. Paul's death is swallowed up in victory; Abinadi's God gains the victory over death, which puts an agent where Paul has a passive, and then makes that agent the one who breaks the bands. The phrase “the bands of death” has no KJV source and becomes this chapter's own formula, used three times in sixteen verses (15:8, 15:9, 15:23)."
+        },
+        "note": "“Thus God breaketh the bands of death; having gained the victory over death.” The victory is Paul's, from the KJV's one “swallowed up in victory” and its sequel at 15:57; the bands are the Book of Mormon's, occurring in no KJV verse. Recorded at moderate for that reason — half the sentence has a source and half does not. What follows in the same verse, the Son given “power to make intercession”, is Isaiah 53:12's by way of Mosiah 14:12; see the second link at this verse.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      },
+      {
+        "source": "Isaiah 53:12",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "Therefore will I divide him a portion with the great, and he shall divide the spoil with the strong; because he hath poured out his soul unto death: and he was numbered with the transgressors; and he bare the sin of many, and made intercession for the transgressors.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 4
+        },
+        "kjvSpecific": "yes",
+        "mediation": "OT-via-earlier-BoM",
+        "recurrenceRefs": [
+          "Mosiah 14:12",
+          "Mosiah 15:12"
+        ],
+        "provenance": {
+          "route": "Isaiah 53:12 → KJV → Mosiah 14:12 → Mosiah 15:8",
+          "other": "“made intercession for the transgressors” occurs in exactly one KJV verse. “Make intercession” occurs in three KJV verses: twice in Jeremiah, of praying for a people God will not hear, and once at Hebrews 7:25, of Christ who “ever liveth to make intercession for them”. Isaiah 53:12 has the participial “made intercession for the transgressors”.",
+          "significance": "Mosiah 15 is an exposition of Mosiah 14, and Mosiah 14 is Isaiah 53 transcribed. So the question at every re-quotation in this chapter is whether the proximate model is the KJV of Isaiah or the Book of Mormon's own copy of it made twenty verses earlier, and twice the text answers it: at 15:6 the verb is “opened”, which is Mosiah 14:7's departure from the KJV's “openeth”, and at 15:12 the sins he has borne are plural, which is Mosiah 14:12's departure from the KJV's “the sin of many”. Neither reading is available from Isaiah. That is as clean a demonstration of OT-via-earlier-BoM as the corpus offers, and it licenses reading the rest of the chapter's Isaiah 53 material the same way. Hardy's apparatus cross-references Isaiah 53:12 here, and the reference is right; what the catalogue adds is the route. Note also the change of object: Isaiah's servant makes intercession for the transgressors, Mosiah 14:12 reproduces that, and Mosiah 15:8 widens it to “the children of men”. The intercession stops being for a class and becomes for a species, which is the same universalizing move 15:28 makes with “every nation, kindred, tongue, and people”."
+        },
+        "note": "“Giving the Son power to make intercession for the children of men.” The verb phrase is Isaiah 53:12's, which Abinadi has recited verbatim at 14:12 twenty-four verses earlier, and the exposition is now unpacking that recitation clause by clause: 15:8 takes the intercession, 15:9 the bearing of iniquity, 15:10 the offering for sin and the seed, 15:12 the sins borne. The one addition is “power”, which turns Isaiah's completed act into a delegated capacity and makes the Son's intercession a thing the Father grants — the same subordination 15:2 and 15:7 are working out.",
+        "bibliography": [
+          "Hardy MSI at Mosiah 15.8 (Isaiah 53:12)"
+        ],
+        "status": "consensus",
+        "streams": [
+          "scholarship",
+          "manual"
+        ]
+      }
+    ],
+    "15:9": [
+      {
+        "source": "Isaiah 53:5",
+        "type": "allusion",
+        "subtype": "conceptual",
+        "confidence": "high",
+        "text": "But he was wounded for our transgressions, he was bruised for our iniquities: the chastisement of our peace was upon him; and with his stripes we are healed.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 3,
+          "attestation": 4
+        },
+        "kjvSpecific": "uncertain",
+        "mediation": "OT-via-earlier-BoM",
+        "composite": [
+          "Isaiah 53:11"
+        ],
+        "recurrenceRefs": [
+          "Mosiah 14:5",
+          "Mosiah 14:11"
+        ],
+        "provenance": {
+          "route": "Isaiah 53:5 and 53:11 → KJV → Mosiah 14:5, 14:11 → Mosiah 15:9",
+          "other": "Mosiah 14:5 reproduces Isaiah 53:5 word for word (“wounded for our transgressions … bruised for our iniquities”); Mosiah 14:11 reproduces Isaiah 53:11's “he shall bear their iniquities”. Mosiah 15:9's “taken upon himself their iniquity and their transgressions” pairs the two nouns and no KJV verse pairs them in that order.",
+          "significance": "Mosiah 15 is an exposition of Mosiah 14, and Mosiah 14 is Isaiah 53 transcribed. So the question at every re-quotation in this chapter is whether the proximate model is the KJV of Isaiah or the Book of Mormon's own copy of it made twenty verses earlier, and twice the text answers it: at 15:6 the verb is “opened”, which is Mosiah 14:7's departure from the KJV's “openeth”, and at 15:12 the sins he has borne are plural, which is Mosiah 14:12's departure from the KJV's “the sin of many”. Neither reading is available from Isaiah. That is as clean a demonstration of OT-via-earlier-BoM as the corpus offers, and it licenses reading the rest of the chapter's Isaiah 53 material the same way. Hardy's apparatus points to Isaiah 53:5 here. The verbal case is thin on its own — one noun pair — and it is strong in context, because 15:9 is a summary of what Abinadi has just read aloud and pairs precisely the two nouns Isaiah 53:5 pairs. What the exposition changes is voice: Isaiah's servant is wounded and bruised, passively, and bears iniquities as a burden laid on him; Abinadi's Christ takes them upon himself. The whole chapter runs that conversion, from 15:5's “suffereth himself” onward."
+        },
+        "note": "“Standing betwixt them and justice; having broken the bands of death, taken upon himself their iniquity and their transgressions.” No phrase of Isaiah 53:5 is reproduced, so this is catalogued on the pairing rather than on wording, and kjvSpecific is 'uncertain' accordingly. What makes it more than a commonplace is its position: it is the fourth clause of a summary that has already taken the intercession from 53:12 and will take the offering and the seed from 53:10 in the next verse, and it uses 53:5's two nouns and no others.",
+        "bibliography": [
+          "Hardy MSI at Mosiah 15.9 (Isaiah 53:5)"
+        ],
+        "status": "consensus",
+        "streams": [
+          "manual"
+        ]
+      },
+      {
+        "source": "Colossians 3:12",
+        "type": "echo",
+        "subtype": "possible",
+        "confidence": "moderate",
+        "text": "Put on therefore, as the elect of God, holy and beloved, bowels of mercies, kindness, humbleness of mind, meekness, longsuffering;",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 2,
+          "sequence": 2,
+          "context": 3,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "Colossians 3:12 → KJV → Book of Mormon",
+          "other": "“Bowels of mercies” occurs in exactly one KJV verse. The KJV's other affective uses of the word are Philippians 1:8, 2:1 and 1 John 3:17.",
+          "alternative": "“Bowels of mercy” may simply be the period's ordinary devotional idiom, and Luke 1:78's “tender mercy of our God” is the nearer thing in sense.",
+          "significance": "The KJV's one “bowels of mercies” is a garment: Paul tells the Colossians to put it on, along with kindness and meekness, as the elect of God. Mosiah 15:9 makes it a possession of the ascended Christ — “having the bowels of mercy” — in a list of participles describing what he has, not what anyone should wear. The borrowing moves an imperative addressed to a congregation into a description of the God it is addressed to, which is a small instance of what this whole chapter does with Isaiah 53's servant."
+        },
+        "note": "“Having ascended into heaven; having the bowels of mercy; being filled with compassion.” The phrase is a KJV singleton, singular where Paul is plural, and recorded as an echo because nothing else in the clause is Paul's and because the idiom was ordinary devotional English by 1829. It earns a row because the whole verse is a chain of participles and this is the only one with a KJV phrase behind it.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "15:10": [
+      {
+        "source": "Isaiah 53:10",
+        "type": "quotation",
+        "subtype": "close-verbal",
+        "confidence": "certain",
+        "text": "Yet it pleased the LORD to bruise him; he hath put him to grief: when thou shalt make his soul an offering for sin, he shall see his seed, he shall prolong his days, and the pleasure of the LORD shall prosper in his hand.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 4
+        },
+        "kjvSpecific": "yes",
+        "mediation": "OT-via-earlier-BoM",
+        "composite": [
+          "Isaiah 53:8"
+        ],
+        "recurrenceRefs": [
+          "Mosiah 14:10",
+          "Mosiah 14:8"
+        ],
+        "provenance": {
+          "route": "Isaiah 53:8 and 53:10 → KJV → Mosiah 14:8, 14:10 → Mosiah 15:10",
+          "other": "“Who shall declare his generation” occurs in exactly two KJV verses, Isaiah 53:8 and Acts 8:33 (Philip reading it to the Ethiopian). tools/mediation-check.py returns no decisive point between them: Mosiah 15:10 quotes only the four words the two verses share.",
+          "alternative": "The wording cannot rule out a direct return to Isaiah 53 in the KJV, since Mosiah 14:8 and 14:10 reproduce those clauses without departure. The route is argued from 15:6 and 15:12, where the Book of Mormon's own departures do recur.",
+          "significance": "Mosiah 15 is an exposition of Mosiah 14, and Mosiah 14 is Isaiah 53 transcribed. So the question at every re-quotation in this chapter is whether the proximate model is the KJV of Isaiah or the Book of Mormon's own copy of it made twenty verses earlier, and twice the text answers it: at 15:6 the verb is “opened”, which is Mosiah 14:7's departure from the KJV's “openeth”, and at 15:12 the sins he has borne are plural, which is Mosiah 14:12's departure from the KJV's “the sin of many”. Neither reading is available from Isaiah. That is as clean a demonstration of OT-via-earlier-BoM as the corpus offers, and it licenses reading the rest of the chapter's Isaiah 53 material the same way. There is a further reason to notice the Acts 8:33 half of the rarity count. The KJV's only other “who shall declare his generation” is the verse an evangelist reads aloud to a stranger who asks “of whom speaketh the prophet this?” — which is, word for word, the question Abinadi puts to the priests: “And now what say ye? And who shall be his seed?” Acts 8 and Mosiah 15 are the two scenes in scripture where Isaiah 53:8 is read out and someone is asked to identify its subject, and both answer by naming a people rather than only a person."
+        },
+        "note": "“Who shall declare his generation? … when his soul has been made an offering for sin, he shall see his seed. And now what say ye? And who shall be his seed?” Nine words from Isaiah 53:10 continuous and four from 53:8, both of which Abinadi has read aloud as Mosiah 14:8 and 14:10. The verse is the hinge of the chapter: it takes Isaiah's promise that the servant shall see his seed, turns it into a question, and spends 15:11-13 answering it — the seed are the prophets and those who heard them. The 1830 “when his soul has been made an offering for sin” recasts Isaiah's second person (“when thou shalt make his soul an offering”) as a passive, which removes the Father as the agent of the offering at exactly the point where the chapter is arguing that the Father and the Son are one.",
+        "bibliography": [
+          "Hardy MSI at Mosiah 15.10 (Isaiah 53:8, 53:10)"
+        ],
+        "status": "consensus",
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "15:12": [
+      {
+        "source": "Isaiah 53:12",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "Therefore will I divide him a portion with the great, and he shall divide the spoil with the strong; because he hath poured out his soul unto death: and he was numbered with the transgressors; and he bare the sin of many, and made intercession for the transgressors.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 3
+        },
+        "kjvSpecific": "yes",
+        "mediation": "OT-via-earlier-BoM",
+        "recurrenceRefs": [
+          "Mosiah 14:12",
+          "Mosiah 15:8"
+        ],
+        "provenance": {
+          "route": "Isaiah 53:12 → KJV → Mosiah 14:12 → Mosiah 15:12",
+          "other": "“he bare the sin of many” occurs in exactly one KJV verse. The KJV of Isaiah 53:12 reads “he bare the sin of many”, singular. Mosiah 14:12, transcribing it, reads “the sins of many”. Mosiah 15:12 reads “whose sins he hath borne”, plural.",
+          "significance": "Mosiah 15 is an exposition of Mosiah 14, and Mosiah 14 is Isaiah 53 transcribed. So the question at every re-quotation in this chapter is whether the proximate model is the KJV of Isaiah or the Book of Mormon's own copy of it made twenty verses earlier, and twice the text answers it: at 15:6 the verb is “opened”, which is Mosiah 14:7's departure from the KJV's “openeth”, and at 15:12 the sins he has borne are plural, which is Mosiah 14:12's departure from the KJV's “the sin of many”. Neither reading is available from Isaiah. That is as clean a demonstration of OT-via-earlier-BoM as the corpus offers, and it licenses reading the rest of the chapter's Isaiah 53 material the same way."
+        },
+        "note": "“For these are they whose sins he hath borne.” The second of the chapter's two decisive readings for the route. Isaiah's KJV has the singular “sin of many”; the Book of Mormon's own transcription pluralized it at 14:12; and the exposition here has the plural. One such agreement could be chance, since a preacher pluralizing “sin” is unremarkable — but the same pattern holds at 15:6 with “opened” for “openeth”, and two independent departures reproduced in the same exposition are what an argument from the Book of Mormon's own text rather than the Bible's looks like.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "15:14": [
+      {
+        "source": "Isaiah 52:7",
+        "type": "quotation",
+        "subtype": "close-verbal",
+        "confidence": "certain",
+        "text": "How beautiful upon the mountains are the feet of him that bringeth good tidings, that publisheth peace; that bringeth good tidings of good, that publisheth salvation; that saith unto Zion, Thy God reigneth!",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 3
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "recurrenceRefs": [
+          "Mosiah 15:15",
+          "Mosiah 15:16",
+          "Mosiah 15:17",
+          "Mosiah 15:18",
+          "1 Nephi 13:37"
+        ],
+        "provenance": {
+          "route": "Isaiah 52:7 → KJV → Book of Mormon",
+          "other": "“that publisheth salvation” occurs in exactly one KJV verse. The second half of Isaiah 52:7, sixteen words, reproduced with the verbs moved into the perfect. tools/mediation-check.py at 15:18 returns two decisive points against Romans 10:15, the New Testament's quotation of this verse, and one against Nahum 1:15, its Old Testament double.",
+          "significance": "Mosiah 15:14-18 is not a quotation of Isaiah 52:7 but a five-fold conjugation of it, and the tenses are the argument. 15:14 gives Isaiah's predicates in the past — the prophets “hath published peace … hath published salvation”; 15:15 gives the exclamation in the past, “how beautiful … were their feet”; 15:16 in the present, “those that are still publishing peace”; 15:17 in the future, “those who shall hereafter publish peace, yea, from this time henceforth and forever”; and 15:18 collapses the plural back into Isaiah's singular “him that bringeth good tidings” and identifies him as the Lord. Isaiah's verse has one set of feet on the mountains; Abinadi runs it through every tense and then gives it a subject. The exegetical move is the same one 15:10-13 makes with “his seed”: take a singular figure out of Isaiah, distribute him across the prophets, and gather him back."
+        },
+        "note": "“These are they which hath published peace, that hath brought good tidings of good, that hath published salvation; that saith unto Zion, Thy God reigneth!” Isaiah's participles — publisheth, bringeth, publisheth, saith — become perfects, and the change is the whole exegesis: Isaiah's herald is on the mountain now, and Abinadi's heralds are the prophets who have already spoken. The 1830 is worth reading here for its grammar, which 1920 corrected at six points in one verse (“which hath published” → “who have published”, three times over, and “that saith” → “and said”); the first edition's singular verbs after a plural subject preserve Isaiah's own singular participles under a plural antecedent, and the modern text's tidying erases the seam.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "15:15": [
+      {
+        "source": "Isaiah 52:7",
+        "type": "quotation",
+        "subtype": "close-verbal",
+        "confidence": "certain",
+        "text": "How beautiful upon the mountains are the feet of him that bringeth good tidings, that publisheth peace; that bringeth good tidings of good, that publisheth salvation; that saith unto Zion, Thy God reigneth!",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 4
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "recurrenceRefs": [
+          "Mosiah 15:14"
+        ],
+        "provenance": {
+          "route": "Isaiah 52:7 → KJV → Book of Mormon",
+          "other": "“Beautiful upon the mountains” occurs in exactly one KJV verse.",
+          "significance": "Mosiah 15:14-18 is not a quotation of Isaiah 52:7 but a five-fold conjugation of it, and the tenses are the argument. 15:14 gives Isaiah's predicates in the past — the prophets “hath published peace … hath published salvation”; 15:15 gives the exclamation in the past, “how beautiful … were their feet”; 15:16 in the present, “those that are still publishing peace”; 15:17 in the future, “those who shall hereafter publish peace, yea, from this time henceforth and forever”; and 15:18 collapses the plural back into Isaiah's singular “him that bringeth good tidings” and identifies him as the Lord. Isaiah's verse has one set of feet on the mountains; Abinadi runs it through every tense and then gives it a subject. The exegetical move is the same one 15:10-13 makes with “his seed”: take a singular figure out of Isaiah, distribute him across the prophets, and gather him back."
+        },
+        "note": "“And O how beautiful upon the mountains were their feet!” Isaiah's opening exclamation, five words verbatim, with two changes that are the argument: the verb goes into the past and the feet become plural and possessed. Isaiah has one messenger and a timeless present; Abinadi has the prophets of 15:11-13, dead and identified as the servant's seed, and their feet were beautiful. Hardy's apparatus cross-references Isaiah 52:7 at this verse and at 15:18, which are the first and last of the chapter's five.",
+        "bibliography": [
+          "Hardy MSI at Mosiah 15.15 (Isaiah 52:7)"
+        ],
+        "status": "consensus",
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "15:16": [
+      {
+        "source": "Isaiah 52:7",
+        "type": "quotation",
+        "subtype": "close-verbal",
+        "confidence": "certain",
+        "text": "How beautiful upon the mountains are the feet of him that bringeth good tidings, that publisheth peace; that bringeth good tidings of good, that publisheth salvation; that saith unto Zion, Thy God reigneth!",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 2
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "recurrenceRefs": [
+          "Mosiah 15:14",
+          "Mosiah 15:15"
+        ],
+        "provenance": {
+          "route": "Isaiah 52:7 → KJV → Book of Mormon",
+          "other": "“beautiful upon the mountains” occurs in exactly one KJV verse. Nine words continuous, “how beautiful upon the mountains are the feet of”, which is Isaiah 52:7's opening exactly; Nahum 1:15 begins “Behold upon the mountains the feet of” and has neither “how beautiful” nor “are”.",
+          "significance": "Mosiah 15:14-18 is not a quotation of Isaiah 52:7 but a five-fold conjugation of it, and the tenses are the argument. 15:14 gives Isaiah's predicates in the past — the prophets “hath published peace … hath published salvation”; 15:15 gives the exclamation in the past, “how beautiful … were their feet”; 15:16 in the present, “those that are still publishing peace”; 15:17 in the future, “those who shall hereafter publish peace, yea, from this time henceforth and forever”; and 15:18 collapses the plural back into Isaiah's singular “him that bringeth good tidings” and identifies him as the Lord. Isaiah's verse has one set of feet on the mountains; Abinadi runs it through every tense and then gives it a subject. The exegetical move is the same one 15:10-13 makes with “his seed”: take a singular figure out of Isaiah, distribute him across the prophets, and gather him back."
+        },
+        "note": "“How beautiful upon the mountains are the feet of those that are still publishing peace!” The third conjugation, and the only one in Isaiah's own present tense — which is why it is the one that reads most like a quotation and does the least work. Its addition is “still”, a word with no counterpart in Isaiah and no KJV parallel, doing the whole job of turning a prophetic exclamation into a claim about Abinadi's own moment: there are people publishing peace now, and he is one of them.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "15:17": [
+      {
+        "source": "Isaiah 52:7",
+        "type": "quotation",
+        "subtype": "close-verbal",
+        "confidence": "certain",
+        "text": "How beautiful upon the mountains are the feet of him that bringeth good tidings, that publisheth peace; that bringeth good tidings of good, that publisheth salvation; that saith unto Zion, Thy God reigneth!",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 2
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "recurrenceRefs": [
+          "Mosiah 15:14",
+          "Mosiah 15:16"
+        ],
+        "provenance": {
+          "route": "Isaiah 52:7 → KJV → Book of Mormon",
+          "other": "“beautiful upon the mountains” occurs in exactly one KJV verse. The same nine-word opening as 15:16. “From this time forth and for evermore” is the KJV's formula (Psalm 113:2, Isaiah 9:7, Micah 4:7); Mosiah 15:17 has “from this time henceforth and forever”, which is in no KJV verse.",
+          "significance": "Mosiah 15:14-18 is not a quotation of Isaiah 52:7 but a five-fold conjugation of it, and the tenses are the argument. 15:14 gives Isaiah's predicates in the past — the prophets “hath published peace … hath published salvation”; 15:15 gives the exclamation in the past, “how beautiful … were their feet”; 15:16 in the present, “those that are still publishing peace”; 15:17 in the future, “those who shall hereafter publish peace, yea, from this time henceforth and forever”; and 15:18 collapses the plural back into Isaiah's singular “him that bringeth good tidings” and identifies him as the Lord. Isaiah's verse has one set of feet on the mountains; Abinadi runs it through every tense and then gives it a subject. The exegetical move is the same one 15:10-13 makes with “his seed”: take a singular figure out of Isaiah, distribute him across the prophets, and gather him back."
+        },
+        "note": "“The feet of those who shall hereafter publish peace, yea, from this time henceforth and forever!” The fourth conjugation, in the future, and the one that completes the temporal sweep begun at 15:14. The closing formula is a near-miss on a KJV set phrase — the KJV says “from this time forth and for evermore” — which is the kind of variation that tells against a text being copied and for a text being composed by someone who has the King James cadence by ear. Recorded here rather than argued; the catalogue's business at this verse is the tense.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "15:18": [
+      {
+        "source": "Isaiah 52:7",
+        "type": "quotation",
+        "subtype": "close-verbal",
+        "confidence": "certain",
+        "text": "How beautiful upon the mountains are the feet of him that bringeth good tidings, that publisheth peace; that bringeth good tidings of good, that publisheth salvation; that saith unto Zion, Thy God reigneth!",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 4
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Nahum 1:15"
+        ],
+        "recurrenceRefs": [
+          "Mosiah 15:14",
+          "Mosiah 15:15",
+          "Mosiah 15:16",
+          "Mosiah 15:17"
+        ],
+        "provenance": {
+          "route": "Isaiah 52:7 → KJV → Book of Mormon",
+          "other": "“beautiful upon the mountains” occurs in exactly one KJV verse. Fifteen words continuous. tools/mediation-check.py returns two decisive points for Isaiah 52:7 over Romans 10:15 — Romans opens “And how shall they preach, except they be sent? as it is written”, which is absent, and reads “bring glad tidings of good things” where Isaiah and Mosiah read “bringeth good tidings” — and one decisive point over Nahum 1:15, whose verse begins “Behold” where Isaiah and Mosiah have “How beautiful”. Romans also drops “upon the mountains” entirely, which Mosiah 15:18 keeps.",
+          "significance": "Mosiah 15:14-18 is not a quotation of Isaiah 52:7 but a five-fold conjugation of it, and the tenses are the argument. 15:14 gives Isaiah's predicates in the past — the prophets “hath published peace … hath published salvation”; 15:15 gives the exclamation in the past, “how beautiful … were their feet”; 15:16 in the present, “those that are still publishing peace”; 15:17 in the future, “those who shall hereafter publish peace, yea, from this time henceforth and forever”; and 15:18 collapses the plural back into Isaiah's singular “him that bringeth good tidings” and identifies him as the Lord. Isaiah's verse has one set of feet on the mountains; Abinadi runs it through every tense and then gives it a subject. The exegetical move is the same one 15:10-13 makes with “his seed”: take a singular figure out of Isaiah, distribute him across the prophets, and gather him back. And this is the corpus's clearest case of the Book of Mormon taking an Old Testament verse in its Old Testament form when a New Testament form was available. Isaiah 52:7 is quoted at Romans 10:15 and echoed at Nahum 1:15, and the mediation test excludes both. The catalogue's usual result at a shared text is the opposite — 1 Nephi 22:20 has Acts's Deuteronomy 18, 1 Nephi 4:13 has John's Caiaphas — so a decisive direct-OT reading is worth recording as such."
+        },
+        "note": "“How beautiful upon the mountains are the feet of him that bringeth good tidings, that is the founder of peace; yea, even the Lord, who hath redeemed his people.” The fifth and last conjugation returns to Isaiah's singular and answers the question the other four have been raising: whose feet? The one substitution is the point. Isaiah's herald “publisheth peace”; Abinadi's “is the founder of peace”, a phrase in no KJV verse, and the sentence then names him — the Lord. A messenger who announces peace has been replaced by the one who makes it, and the four preceding verses have distributed the office among the prophets precisely so that this verse can take it back.",
+        "bibliography": [
+          "Hardy MSI at Mosiah 15.18 (Isaiah 52:7)"
+        ],
+        "status": "consensus",
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "15:19": [
+      {
+        "source": "Matthew 25:34",
+        "type": "echo",
+        "subtype": "probable",
+        "confidence": "moderate",
+        "text": "Then shall the King say unto them on his right hand, Come, ye blessed of my Father, inherit the kingdom prepared for you from the foundation of the world:",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 4,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "Matthew 25:34 → KJV → Book of Mormon",
+          "other": "“From the foundation of the world” occurs in exactly six KJV verses; “prepared for you from the foundation of the world” occurs in exactly one, and it is the only one in which something is prepared.",
+          "alternative": "Revelation 13:8's Lamb “slain from the foundation of the world” is nearer in subject — a redemption fixed before time — and shares the same six-word tail.",
+          "significance": "Two KJV verses put redemption before the creation, and they divide the doctrine between them: Revelation 13:8 has the Lamb slain from the foundation of the world, Matthew 25:34 has the kingdom prepared from it. Mosiah 15:19 says “the redemption which he hath made for his people, which was prepared from the foundation of the world”, and takes the verb from Matthew and the object from Revelation. The result is a sentence neither verse contains, and it is the Book of Mormon's standing formula thereafter — the plan prepared, not merely the death foreseen."
+        },
+        "note": "“The redemption which he hath made for his people, which was prepared from the foundation of the world.” Recorded as an echo: the six-word tail is common to six KJV verses and the distinguishing word, “prepared”, is Matthew 25:34's, where what is prepared is a kingdom rather than a redemption. Kept because the combination is not available from any single verse and because Matthew 25 supplies the only KJV instance of the verb in this formula.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "15:23": [
+      {
+        "source": "Romans 6:23",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "text": "For the wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "Romans 6:23 → KJV → Book of Mormon",
+          "other": "“Eternal life through Jesus Christ” occurs in exactly one KJV verse.",
+          "significance": "Romans 6:23 sets eternal life against the wages of sin, which is death, and Mosiah 15:23 sets it against the bands of death which Christ has broken — the same antithesis with the same two terms, arriving in the same clause. The Book of Mormon's variation, “through Christ” for “through Jesus Christ our Lord”, is the abbreviation a text speaking six centuries before the name would need, and it is the sort of adjustment that shows the source has been handled rather than merely met."
+        },
+        "note": "“Thus they have eternal life through Christ, who hath broken the bands of death.” The formula is a KJV singleton in Paul's fuller form, and the verse it comes from is the KJV's one place where eternal life and death are set against each other as wage and gift. Recorded at moderate: four words, and “eternal life through Christ” is a phrase any nineteenth-century preacher had by heart. What raises it is the immediate company of death in the same sentence, which is Romans 6:23's own structure.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "15:24": [
+      {
+        "source": "Revelation 20:6",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "Blessed and holy is he that hath part in the first resurrection: on such the second death hath no power, but they shall be priests of God and of Christ, and shall reign with him a thousand years.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "recurrenceRefs": [
+          "Mosiah 15:21",
+          "Mosiah 15:22",
+          "Mosiah 15:26"
+        ],
+        "provenance": {
+          "route": "Revelation 20:5-6 → KJV → Book of Mormon",
+          "other": "“Part in the first resurrection” occurs in exactly one KJV verse. “The first resurrection” occurs in exactly two, Revelation 20:5 and 20:6, and nowhere else in the Bible.",
+          "significance": "The doctrine of a first resurrection exists in the KJV in two verses of Revelation 20 and in no other book, so a text that organizes its eschatology around it is working from that page. Mosiah 15:21-26 uses the phrase five times in six verses and does something Revelation does not: it asks who is in it and answers by category — the prophets, those who believed their words, those who kept the commandments, those who died in ignorance, and little children — and then names who is excluded. John's first resurrection is a chronological fact about martyrs; Abinadi's is a roster, and the roster is built to answer the question 15:10 raised about the servant's seed. The phrase from Revelation is doing the work Isaiah 53:10 started."
+        },
+        "note": "“And there are those who have part in the first resurrection.” Five words from a KJV singleton, and the whole passage 15:21-26 turns on the two verses of Revelation 20 where “the first resurrection” exists at all. Adjudicated here rather than at 15:21 because this is where the KJV's exact phrase appears; the recurrences are recorded. The 1830 “or hath eternal life” was corrected to “have” in 1920, one of eight such number corrections in this chapter.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "15:26": [
+      {
+        "source": "John 8:24",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "text": "I said therefore unto you, that ye shall die in your sins: for if ye believe not that I am he, ye shall die in your sins.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "John 8:21"
+        ],
+        "provenance": {
+          "route": "John 8:21-24 → KJV → Book of Mormon",
+          "other": "“Die in your sins” occurs in exactly two KJV verses, John 8:21 and 8:24, and the second has it twice. The third-person form Mosiah 15:26 uses — dying in their sins — occurs in no KJV verse.",
+          "alternative": "Ezekiel 3:19 and 18:24, “he shall die in his iniquity”, are the Old Testament's version of the sentence and are closer in grammatical person.",
+          "significance": "John 8's formula is a second-person threat delivered to hearers who are present: “ye shall seek me, and shall die in your sins: whither I go, ye cannot come.” Abinadi converts it to the third person and applies it to a class — “all those that have perished in their sins ever since the world began” — which is what he has done throughout the chapter with singular figures, at 15:10-13 with the servant's seed and at 15:14-17 with Isaiah's herald. Note that the conversion runs the opposite way from 13:32's, where a third-person KJV phrase stayed third-person because the referent was the fathers. Here a second-person phrase is made general, and the priests standing in front of him are left to place themselves in it."
+        },
+        "note": "“For the Lord redeemeth none such that rebelleth against him, and dieth in their sins.” The idiom is John 8's, where it occurs three times in four verses and nowhere else in the KJV, and the Book of Mormon has it in a person the KJV never uses. Recorded at moderate because the clause is short and Ezekiel offers a real alternative in the correct person; what favours John is the collocation with rebellion against a person who is standing there, which is John 8's situation exactly. The 1830's singular verbs, “rebelleth … dieth” under a plural “none such”, were regularized in 1920.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "15:27": [
+      {
+        "source": "2 Timothy 2:13",
+        "type": "quotation",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "If we believe not, yet he abideth faithful: he cannot deny himself.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 4,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "2 Timothy 2:13 → KJV → Book of Mormon",
+          "other": "“He cannot deny himself” occurs in exactly one KJV verse.",
+          "significance": "Paul's clause is a promise: if we believe not, yet he abideth faithful, he cannot deny himself — the inability is God's inability to fail those who fail him. Mosiah 15:27 uses the same four words as a threat, and doubles them: “he cannot deny himself; for he cannot deny justice when it hath its claim.” The impossibility that guarantees mercy in 2 Timothy guarantees condemnation here, from the same premise, that God's nature constrains his acts. This is the metaleptic case at its cleanest — nothing in Mosiah 15:27 signals the reversal, and a reader who recovers 2 Timothy 2:13 finds the verse's comfort turned inside out."
+        },
+        "note": "“For he cannot deny himself; for he cannot deny justice when it hath its claim.” Four words reproduced exactly from the KJV's only occurrence, and then repeated with a new object that Paul does not have. Catalogued as a quotation on the CONVENTIONS §2 rule rather than on length — well below Skousen's sixteen-word threshold and not among his quotations — because a whole clause is reproduced from a verse that is its unmistakable source. Note that the argument the clause serves is the reverse of Paul's; see the significance field.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "15:28": [
+      {
+        "source": "Revelation 14:6",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "And I saw another angel fly in the midst of heaven, having the everlasting gospel to preach unto them that dwell on the earth, and to every nation, and kindred, and tongue, and people,",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Revelation 5:9"
+        ],
+        "provenance": {
+          "route": "Revelation 14:6 → KJV → Book of Mormon",
+          "other": "“Every nation, and kindred, and tongue, and people” occurs in exactly one KJV verse; the shorter “kindred, and tongue, and people” occurs in exactly two, Revelation 5:9 and 14:6.",
+          "significance": "The four-term formula belongs to Revelation and to nothing else in the Bible, and Revelation 14:6 is the verse where it is the object of a preaching — an angel with the everlasting gospel to preach to every nation, kindred, tongue and people. That is precisely what Mosiah 15:28 predicts: “the time shall come that the salvation of the Lord shall be declared to every nation, kindred, tongue, and people.” The Book of Mormon takes John's audience-formula together with John's verb, and the phrase becomes one of the corpus's own formulas thereafter."
+        },
+        "note": "“The salvation of the Lord shall be declared to every nation, kindred, tongue, and people.” A KJV singleton reproduced with the conjunctions thinned — Revelation repeats “and” before each term, the Book of Mormon keeps only the last — which is the ordinary compression of a list said aloud rather than read. Its placement is worth noting: the universal proclamation arrives immediately after the chapter's harshest verse about those who cannot be redeemed, and immediately before the three verses of Isaiah 52:8-10 that close the chapter with the ends of the earth seeing the salvation of God. Abinadi's structure and Revelation 14's are the same, judgment then a herald to all nations.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "15:29": [
+      {
+        "source": "Isaiah 52:8",
+        "type": "quotation",
+        "subtype": "close-verbal",
+        "confidence": "certain",
+        "text": "Thy watchmen shall lift up the voice; with the voice together shall they sing: for they shall see eye to eye, when the LORD shall bring again Zion.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 4
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "recurrenceRefs": [
+          "Mosiah 15:30",
+          "Mosiah 15:31",
+          "Mosiah 16:1"
+        ],
+        "provenance": {
+          "route": "Isaiah 52:8 → KJV → Book of Mormon",
+          "other": "“See eye to eye” occurs in exactly one KJV verse, and “bring again Zion” occurs in exactly one; both are Isaiah 52:8. The one departure, “lift up their voice” for the KJV's “lift up the voice”, matches no KJV verse — the KJV's “lift up their voice” is Isaiah 24:14 and Isaiah 42:11, neither of which has watchmen.",
+          "significance": "Mosiah 15:29-31 transcribes Isaiah 52:8-10 continuously, which is the second block of Isaiah in Abinadi's speech and the one nobody notices because chapter 14's is longer. Its placement is the finding. Abinadi has spent 15:14-18 on Isaiah 52:7 and now runs straight on into 52:8-10 — the verse he expounded and the verses that follow it, in order, as if he had the column in front of him. The chapter is built out of one page of Isaiah worked twice: 52:7 five times over as exegesis, then 52:8-10 as recitation."
+        },
+        "note": "Twenty-two words of Isaiah 52:8 with two departures. The vocative “Yea, Lord,” is prefixed, which turns Isaiah's address to Zion into an address to God and is the Book of Mormon's own; and “their voice” replaces “the voice”, a possessive that makes the watchmen's cry theirs rather than the cry. Both are small and both push the verse the same way, toward the human criers Abinadi has been identifying since 15:11 — the prophets, whose feet were beautiful, and who are the servant's seed.",
+        "bibliography": [
+          "Hardy MSI at Mosiah 15.29 (Isaiah 52:8)"
+        ],
+        "status": "consensus",
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "15:30": [
+      {
+        "source": "Isaiah 52:9",
+        "type": "quotation",
+        "subtype": "close-verbal",
+        "confidence": "certain",
+        "text": "Break forth into joy, sing together, ye waste places of Jerusalem: for the LORD hath comforted his people, he hath redeemed Jerusalem.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 3
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Isaiah 49:13"
+        ],
+        "recurrenceRefs": [
+          "Mosiah 15:29"
+        ],
+        "provenance": {
+          "route": "Isaiah 52:9 → KJV → Book of Mormon",
+          "other": "“Waste places of Jerusalem” occurs in exactly one KJV verse. Isaiah 49:13 shares the clause “for the LORD hath comforted his people” and nothing else in this verse.",
+          "significance": "The middle verse of a three-verse transcription, and the only one with no departure at all. That is worth recording for its own sake: the chapter that has just spent five verses conjugating Isaiah 52:7 through every tense reproduces 52:9 without touching a word. The distinction the catalogue is drawing throughout Abinadi's speech — between the verses he expounds and the verses he recites — is visible in the collation itself."
+        },
+        "note": "Isaiah 52:9 word for word, twenty-two words, the only unaltered verse in the chapter. Its subject is the redemption of Jerusalem, and it stands here between the watchmen of 52:8 and the holy arm of 52:10 exactly as it stands in Isaiah. Note what the Book of Mormon does not do with it: nothing. Where Abinadi has an argument he alters the wording (15:6, 15:14-18, 15:29); where he is reciting, he does not.",
+        "bibliography": [],
+        "status": "consensus",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "15:31": [
+      {
+        "source": "Isaiah 52:10",
+        "type": "quotation",
+        "subtype": "close-verbal",
+        "confidence": "certain",
+        "text": "The LORD hath made bare his holy arm in the eyes of all the nations; and all the ends of the earth shall see the salvation of our God.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 4
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "recurrenceRefs": [
+          "Mosiah 15:29",
+          "1 Nephi 19:17",
+          "1 Nephi 22:11",
+          "Enos 1:13",
+          "Mosiah 16:1"
+        ],
+        "provenance": {
+          "route": "Isaiah 52:10 → KJV → Book of Mormon",
+          "other": "“Made bare his holy arm” occurs in exactly one KJV verse, and “all the ends of the earth shall see” occurs in exactly one; both are Isaiah 52:10. “The salvation of our God” occurs in exactly two, Isaiah 52:10 and Psalm 98:3, which reads “have seen” for “shall see”; Luke 3:6 has “all flesh shall see the salvation of God”.",
+          "significance": "A twenty-nine-word run with a semicolon changed to a colon and nothing else, and it closes the chapter by answering it. Abinadi began at 15:1 with a God who would come down among the children of men; he ends with the ends of the earth seeing the salvation of our God. The verse also decides its own mediation without difficulty: Psalm 98:3 has the past tense, Luke 3:6 drops the arm and the nations and reads “all flesh”, and the Book of Mormon has Isaiah's future and Isaiah's full sentence. Isaiah 52:10 is one of this catalogue's most-used verses — it is already linked at 1 Nephi 19:17, 1 Nephi 22:11 and Enos 1:13 — and it re-enters here inside a continuous transcription rather than as a formula."
+        },
+        "note": "Isaiah 52:10 entire, twenty-nine words, the longest unbroken KJV run in Mosiah 15 and the third verse of the block begun at 15:29. Its two rare phrases are both KJV singletons. Neither Psalm 98:3 nor Luke 3:6, the KJV's two other approaches to the sentence, has the tense or the arm; the Book of Mormon has Isaiah's. Mosiah 16:1 will pick this same verse up again in Abinadi's own voice — “when all shall see the salvation of the Lord” — which is where the transcription stops and the preaching resumes.",
+        "bibliography": [
+          "Hardy MSI at Mosiah 15.31 (Isaiah 52:8-10)"
+        ],
+        "status": "consensus",
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ]
+  }
+}

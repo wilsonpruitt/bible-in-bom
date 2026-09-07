@@ -1,0 +1,441 @@
+{
+  "chapter": 23,
+  "adjudicated": "2026-09-07",
+  "adjudicator": "Opus",
+  "links": {
+    "23:1": [
+      {
+        "source": "Matthew 2:12",
+        "type": "echo",
+        "subtype": "possible",
+        "confidence": "moderate",
+        "text": "And being warned of God in a dream that they should not return to Herod, they departed into their own country another way.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 4,
+          "rarity": 3,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Matthew 2:22",
+          "Hebrews 11:7"
+        ],
+        "provenance": {
+          "route": "Matthew 2:12-14 → KJV → Book of Mormon",
+          "other": "The passive construction “warned of God” occurs in exactly three KJV verses: Matthew 2:12 (the wise men), Matthew 2:22 (Joseph), and Hebrews 11:7 (Noah). All three describe a man who escapes a destruction because he was told in advance. The 1830 text reads 'warned of the Lord', which keeps the construction and changes the divine name.",
+          "significance": "Matthew 2:12-14 is the KJV's compact form of the story Mosiah 23:1 is telling: a warning received, a departure by an unexpected route, and a king whose soldiers arrive too late. What the borrowing brings with it is the identity of the pursuer. In Matthew the king is Herod; here he is king Noah, and the third KJV verse in the same idiom — Hebrews 11:7 — is about Noah being warned of God and building an ark. That collision of names is an accident of the Book of Mormon's onomasticon and not an argument, but it is the kind of accident a catalogue should record rather than suppress, because a reader will meet it."
+        },
+        "note": "'Now Alma, having been warned of the Lord that the armies of king Noah would come upon them ... therefore they gathered together their flocks, and took of their grain, and departed into the wilderness.' The KJV has one idiom for a divine advance warning of this kind, 'warned of God', and it appears in exactly three verses; two of them are Matthew 2:12 and 2:22, where the warning is followed immediately by a departure that evades a murderous king. The Book of Mormon has the construction, the warning, the flight and the king. It does not have the vocabulary of the flight itself, which is why this is recorded as an echo and not an allusion.",
+        "whyNot": "'Warned of the Lord' is not any KJV string, and the substitution of 'the Lord' for 'God' removes the one phrase that would carry the borrowing. Nothing else in the verse is Matthean: the flocks and the grain belong to the Book of Mormon's own wilderness-flight formula, established at 1 Nephi 2:4.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "23:7": [
+      {
+        "source": "Romans 14:5",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "One man esteemeth one day above another: another esteemeth every day alike. Let every man be fully persuaded in his own mind.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 5,
+          "sequence": 4,
+          "context": 3,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "2 Corinthians 12:1"
+        ],
+        "provenance": {
+          "route": "Romans 14:5 → KJV → Book of Mormon",
+          "other": "“above another” occurs in exactly one KJV verse, Romans 14:5, where the full clause is 'One man esteemeth one day above another'. The Book of Mormon's second clause, 'or one man shall not think himself above another', carries over Paul's subject 'one man' as well. 'It is not expedient' occurs in exactly one KJV verse, 2 Corinthians 12:1, and frames the sentence twice.",
+          "significance": "Recovering the context turns the borrowing into an argument. Romans 14:5 is about the liberty of conscience: Paul refuses to let one believer's estimate of a day be imposed on another, because 'to his own master he standeth or falleth'. Alma applies the same sentence to persons rather than days, and to kingship rather than diet — 'Ye shall not esteem one flesh above another'. The chapter is about to quote Galatians 5 twice more (23:13, 23:15), and Romans 14 and Galatians 5 are the KJV's two great chapters on Christian liberty. Alma's political case against monarchy is being built, phrase by phrase, out of Paul's case for not ranking one another."
+        },
+        "note": "'Ye shall not esteem one flesh above another, or one man shall not think himself above another.' Paul's 'One man esteemeth one day above another' is the KJV's only occurrence of 'above another', and Alma has the verb, the phrase, and Paul's own subject 'one man', reused across a doubled clause of the same shape Romans 14:5 uses. The frame, 'it is not expedient that we should have a king', is the KJV's one 'it is not expedient', from 2 Corinthians 12:1. Far below Skousen's sixteen-word threshold and not among his quotations; catalogued as an allusion on the strength of the two singletons.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "23:9": [
+      {
+        "source": "Proverbs 29:25",
+        "type": "allusion",
+        "subtype": "probable",
+        "confidence": "moderate",
+        "text": "The fear of man bringeth a snare: but whoso putteth his trust in the LORD shall be safe.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 2,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Ecclesiastes 9:12"
+        ],
+        "recurrenceRefs": [
+          "Mosiah 23:22"
+        ],
+        "provenance": {
+          "route": "Proverbs 29:25 → KJV → Book of Mormon",
+          "other": "'The fear of man' occurs in exactly one KJV verse, Proverbs 29:25, whose two halves are 'The fear of man bringeth a snare' and 'whoso putteth his trust in the LORD shall be safe'. 'Caught in the snare' occurs in exactly one KJV verse, Ecclesiastes 9:12, of birds. The Book of Mormon's 'caught in a snare' matches neither exactly.",
+          "significance": "The proposal this row makes is that Proverbs 29:25 is behind Alma's speech as a whole and not this sentence alone. Its first half supplies 23:9 — Alma, who was one of king Noah's priests and fled from him, says 'I myself was caught in a snare'; its second half supplies 23:22, 'whosoever puteth his trust in him, the same shall be lifted up at the last day'. The proverb's own logic is that the snare and the trust are alternatives, fear of a man against trust in the LORD, which is precisely the choice the chapter puts to a people being asked to appoint a king. Neither verse quotes the proverb; the speech is shaped like it."
+        },
+        "note": "'I myself was caught in a snare, and did many things which was abominable in the sight of the Lord.' The snare is not glossed, and the KJV's one verse about a snare set by the fear of a man is Proverbs 29:25 — which is also the KJV's one verse pairing that snare with putting one's trust in the LORD, the figure Alma reaches for thirteen verses later. Recorded here at moderate because the verbal contact in this verse alone is a single common noun; the case is cumulative and is argued across 23:9 and 23:22 together.",
+        "whyNot": "'Caught in a snare' is closer as a string to Ecclesiastes 9:12's 'caught in the snare' than to anything in Proverbs 29:25, and snares are widely distributed in the KJV. If 23:22's 'putteth his trust' is judged to be independent BoM formula — and 'put your trust in God' is a Book of Mormon commonplace by Alma 38:5 — then the cumulative argument collapses and this row should be withdrawn to the exclusion register.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "23:10": [
+      {
+        "source": "Acts 14:22",
+        "type": "allusion",
+        "subtype": "probable",
+        "confidence": "moderate",
+        "text": "Confirming the souls of the disciples, and exhorting them to continue in the faith, and that we must through much tribulation enter into the kingdom of God.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 2,
+          "sequence": 2,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "recurrenceRefs": [
+          "Mosiah 25:19"
+        ],
+        "provenance": {
+          "route": "Acts 14:22 → KJV → Book of Mormon",
+          "other": "'Much tribulation' occurs in exactly one KJV verse, Acts 14:22.",
+          "significance": "Acts 14:22-23 is a two-verse unit — 'we must through much tribulation enter into the kingdom of God. And when they had ordained them elders in every church' — and the Book of Mormon draws on both halves of it within this batch of chapters. Alma's 'after much tribulation' stands here; the ordaining of officers in every church stands at Mosiah 25:19, where Alma is given power 'to ordain priests and teachers over every Church'. Read together, the pair suggests the narrative of Alma's church is being told with Luke's account of Paul's church-planting in view: affliction endured, then officers appointed congregation by congregation."
+        },
+        "note": "'Nevertheless, after much tribulation, the Lord did hear my cries.' The KJV says 'much tribulation' once, at Acts 14:22, where it names the condition of entry into the kingdom. The phrase carries no other Lukan vocabulary with it here, which caps this at an allusion; its interest is that Acts 14:23, the next verse, is the source proposed at Mosiah 25:19.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "23:12": [
+      {
+        "source": "Isaiah 58:6",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "text": "Is not this the fast that I have chosen? to loose the bands of wickedness, to undo the heavy burdens, and to let the oppressed go free, and that ye break every yoke?",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Acts 8:23"
+        ],
+        "recurrenceRefs": [
+          "Mosiah 24:14"
+        ],
+        "provenance": {
+          "route": "Isaiah 58:6 → KJV → Book of Mormon, with Acts 8:23 supplying the noun",
+          "other": "'Bands of wickedness' and 'the oppressed go free' each occur in exactly one KJV verse, Isaiah 58:6. 'Bond of iniquity' occurs in exactly one KJV verse, Acts 8:23. The Book of Mormon's 'bands of iniquity' is in neither: it is Isaiah's noun with Acts's genitive.",
+          "significance": "Isaiah 58:6 lists four things the fast God chooses will do — loose the bands of wickedness, undo the heavy burdens, let the oppressed go free, break every yoke — and Mosiah 23:12-13 and 24:14 work through the list in order. 23:12: 'As ye have been oppressed by king Noah ... ye were bound with the bands of iniquity.' 23:13: 'ye have been delivered ... out of these bonds ... ye should stand fast in this liberty wherewith ye have been made free.' 24:14: 'I will also ease the burdens which is put upon your shoulders.' The one Isaiah item the narrative does not use is the yoke, which is also the one item Galatians 5:1 supplies at 23:13. The two chapters are running a single Isaiah verse as a programme, and taking their vocabulary for it from the New Testament."
+        },
+        "note": "'Ye have been oppressed by king Noah ... therefore ye were bound with the bands of iniquity.' Isaiah 58:6 is the KJV's only 'bands of wickedness' and its only 'let the oppressed go free'; both stand in the same verse, and both stand in this sentence and the next. The substitution of 'iniquity' for 'wickedness' is not neutral — 'bond of iniquity' is a KJV singleton at Acts 8:23, spoken by Peter to Simon Magus, a man who had bought his way toward priestly office. Alma, a former priest of a corrupt king, is describing a people brought into iniquity by that king's priests. The word is borrowed from the one verse in the KJV where a false priest is told what he is in.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "23:13": [
+      {
+        "source": "Galatians 5:1",
+        "type": "quotation",
+        "subtype": "close-verbal",
+        "confidence": "certain",
+        "text": "Stand fast therefore in the liberty wherewith Christ hath made us free, and be not entangled again with the yoke of bondage.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "recurrenceRefs": [
+          "Mosiah 23:15"
+        ],
+        "provenance": {
+          "route": "Galatians 5:1 → KJV → Book of Mormon",
+          "other": "'The liberty wherewith' occurs in exactly one KJV verse, Galatians 5:1: 'Stand fast therefore in the liberty wherewith Christ hath made us free, and be not entangled again with the yoke of bondage.' The Book of Mormon reproduces 'stand fast in this liberty wherewith ye have been made free', substituting 'this' for 'the' and turning Paul's first-person plural into a second-person plural.",
+          "significance": "The verse Paul is warning against being 'entangled again with the yoke of bondage' — and the Book of Mormon puts the sentence in the mouth of a man addressing people who have just come out of literal bondage and who, three chapters later, will go back into it. The suppressed half of Galatians 5:1 is the half that comes true: Alma's people are enslaved by the Lamanites at 23:37 and delivered again in chapter 24. Paul's metaphorical yoke is the plot. And the borrowing does not stop at the verse — 23:15 goes on to Galatians 5:14, and the 'no contention among them' of that verse answers Galatians 5:15's 'if ye bite and devour one another'. Mosiah 23:13-15 is Galatians 5:1-15 compressed into three sentences, in Paul's own order."
+        },
+        "note": "'Even so I desire that ye should stand fast in this liberty wherewith ye have been made free.' Ten of Paul's words in Paul's order, from the one KJV verse containing the phrase 'the liberty wherewith'. The only changes are the demonstrative and the person of the verb. Below Skousen's sixteen-word threshold and not among his thirty-six quotations; catalogued as a quotation because a complete clause of one identifiable verse is reproduced (CONVENTIONS §2). The context is the strongest part of the case: Alma is arguing against kingship, and Galatians 5:1 is the KJV's one sentence that opposes standing fast in liberty to a yoke of bondage.",
+        "bibliography": [],
+        "status": "majority",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "23:15": [
+      {
+        "source": "Galatians 5:14",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "For all the law is fulfilled in one word, even in this; Thou shalt love thy neighbour as thyself.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 2,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "OT-via-NT",
+        "composite": [
+          "Galatians 5:15",
+          "Mark 12:33",
+          "Leviticus 19:18"
+        ],
+        "recurrenceRefs": [
+          "Mosiah 23:13"
+        ],
+        "provenance": {
+          "route": "Leviticus 19:18 → Galatians 5:14 → KJV → Book of Mormon",
+          "other": "'Love thy neighbour as thyself' stands in seven KJV verses (Leviticus 19:18; Matthew 19:19; 22:39; Mark 12:31; Romans 13:9; Galatians 5:14; James 2:8), so the commandment itself cannot identify its source. The third-person form the Book of Mormon has, “love his neighbour as himself”, occurs in exactly one KJV verse, Mark 12:33 — but indirect discourse ('that every man should love …') forces that conversion, so the singleton is a grammatical artifact and not evidence. tools/mediation-check.py returns no decisive divergence between Leviticus 19:18 and Galatians 5:14 for this verse, because the commandment is worded identically in both.",
+          "significance": "The mediation has to be argued from sequence rather than from wording, and the sequence is decisive. Two verses earlier the chapter quotes Galatians 5:1 on the liberty wherewith ye are made free — a KJV singleton. Galatians 5:14 is where that same paragraph lands: 'For all the law is fulfilled in one word, even in this; Thou shalt love thy neighbour as thyself.' And Galatians 5:15, the next verse, is 'But if ye bite and devour one another, take heed that ye be not consumed one of another', which is the KJV's only 'bite and devour' and is answered by Alma's 'that there should be no contention among them'. Alma teaches liberty, then love of neighbour, then the avoidance of mutual consumption, in Paul's order and within three verses. That is why the row is filed OT-via-NT: the commandment is Leviticus's, but the route runs through Galatians 5."
+        },
+        "note": "'Thus did Alma teach his people, that every man should love his neighbor as himself; that there should be no contention among them.' The commandment is in seven KJV verses and settles nothing on its own; what settles it is that the chapter has just quoted Galatians 5:1 and is about to gloss Galatians 5:15. Read Mosiah 23:13-15 against Galatians 5:1, 14 and 15 and the three sentences track the three verses in order, including the negative — Paul's biting and devouring becomes Alma's contention.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "23:18": [
+      {
+        "source": "Hebrews 5:1",
+        "type": "allusion",
+        "subtype": "probable",
+        "confidence": "moderate",
+        "text": "For every high priest taken from among men is ordained for men in things pertaining to God, that he may offer both gifts and sacrifices for sins:",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Hebrews 2:17"
+        ],
+        "recurrenceRefs": [
+          "Mosiah 23:16",
+          "Mosiah 23:17"
+        ],
+        "provenance": {
+          "route": "Hebrews 5:1 → KJV → Book of Mormon",
+          "other": "“things pertaining to” occurs in exactly four KJV verses (Acts 1:3; 1 Corinthians 6:4; Hebrews 2:17; Hebrews 5:1). Two of the four are Hebrews, and in both the phrase is governed by 'high priest': 'a merciful and faithful high priest in things pertaining to God' (2:17), 'every high priest taken from among men is ordained for men in things pertaining to God' (5:1).",
+          "significance": "The three verses 23:16-18 run the Hebrews formula through its parts in Hebrews's own order: a high priest (23:16, 'Alma was their high priest'), taken from among men and ordained (23:17, 'he consecrated all their priests, and all their teachers'), for men in things pertaining to God (23:18, 'did nourish them with things pertaining to righteousness'). The one substitution is the last word. Hebrews 5:1's high priest deals in things pertaining to God and offers 'gifts and sacrifices for sins'; Alma's priests deal in things pertaining to righteousness and offer nothing. A book whose narrative sits under the law of Moses has taken the KJV's definition of priesthood from the epistle that argues the law of Moses is superseded, and has quietly removed the sacrifice from it."
+        },
+        "note": "'They did watch over their people, and did nourish them with things pertaining to righteousness.' The KJV's four occurrences of 'things pertaining to' include two in Hebrews, both attached to a high priest and both reading 'to God'; two verses earlier this chapter has named Alma 'their high priest' and one verse earlier has him consecrating priests. Recorded at moderate: the shared string is short and the substituted noun is the Book of Mormon's own, so the case rests on the run of three verses rather than on this one.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "23:21": [
+      {
+        "source": "Revelation 13:10",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "He that leadeth into captivity shall go into captivity: he that killeth with the sword must be killed with the sword. Here is the patience and the faith of the saints.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Hebrews 12:6"
+        ],
+        "recurrenceRefs": [
+          "1 Nephi 16:25"
+        ],
+        "provenance": {
+          "route": "Revelation 13:10 → KJV → Book of Mormon",
+          "other": "'The patience and the faith' occurs in exactly one KJV verse, Revelation 13:10. The only other KJV verse pairing the two nouns is 2 Thessalonians 1:4, 'your patience and faith in all your persecutions', which lacks the doubled article the Book of Mormon has in 'their patience and their faith'.",
+          "significance": "Read the whole of Revelation 13:10 and the borrowing predicts the next two verses of Mosiah. It runs: 'He that leadeth into captivity shall go into captivity: he that killeth with the sword must be killed with the sword. Here is the patience and the faith of the saints.' Mosiah 23:21 takes the last clause; Mosiah 23:23, two sentences later, supplies the first — 'they were brought into bondage, and none could deliver them but the Lord their God.' John's sentence exists to tell the saints that captivity is the trial in which patience and faith are shown, and the Book of Mormon has taken his summary formula and then narrated the captivity it summarises. Whether the writer saw that or not, the catalogue can show that the phrase arrives from a verse about being led into captivity, into a paragraph about being led into captivity."
+        },
+        "note": "'Nevertheless the Lord seeth fit to chasten his people; yea, he trieth their patience and their faith.' The pairing with the doubled article is Revelation 13:10's and no other KJV verse's. The chastening half of the sentence is the Hebrews 12:6 doctrine the catalogue has already recorded at 1 Nephi 16:25, so the verse is a join: an Old Testament–style chastening formula finished with a phrase from the Apocalypse.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "23:22": [
+      {
+        "source": "John 6:40",
+        "type": "echo",
+        "subtype": "probable",
+        "confidence": "moderate",
+        "text": "And this is the will of him that sent me, that every one which seeth the Son, and believeth on him, may have everlasting life: and I will raise him up at the last day.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 4,
+          "sequence": 3,
+          "context": 4,
+          "rarity": 3,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Proverbs 29:25",
+          "John 6:44"
+        ],
+        "recurrenceRefs": [
+          "Mosiah 23:9"
+        ],
+        "provenance": {
+          "route": "John 6:40 → KJV → Book of Mormon",
+          "other": "“at the last day” occurs in exactly five KJV verses, all in John (6:39, 6:40, 6:44, 6:54; 11:24), and in four of the five the verb is 'raise … up'. The Book of Mormon reads 'lifted up at the last day', which is in no KJV verse; this is its first occurrence in the book order, and it becomes a Nephite formula thereafter (3 Nephi 27:22; Alma 13:29; 36:28; Ether 4:19).",
+          "significance": "The phrase is Johannine and the sentence around it is not. John 6:40 conditions being raised up on seeing the Son and believing on him; Mosiah 23:22 conditions being lifted up on putting one's trust in him, which is the second half of Proverbs 29:25 — 'whoso putteth his trust in the LORD shall be safe'. The verse is the join between the chapter's two governing texts, the proverb whose snare Alma confessed at 23:9 and John's resurrection promise, and the join is where the Book of Mormon's own eschatological formula is minted. Later books use 'lifted up at the last day' as a fixed phrase; this is where it enters."
+        },
+        "note": "'Whosoever puteth his trust in him, the same shall be lifted up at the last day.' 'At the last day' belongs to John and to nowhere else in the KJV, and John 6:40's 'every one which … believeth on him' is the same universal-conditional shape as 'whosoever … the same shall'. The verb is changed from raising to lifting, which is why this is an echo rather than an allusion. Recorded also as the second half of the Proverbs 29:25 proposal made at 23:9.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "23:23": [
+      {
+        "source": "Acts 3:13",
+        "type": "quotation",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "The God of Abraham, and of Isaac, and of Jacob, the God of our fathers, hath glorified his Son Jesus; whom ye delivered up, and denied him in the presence of Pilate, when he was determined to let him go.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "OT-via-NT",
+        "composite": [
+          "Exodus 3:6",
+          "Exodus 3:16"
+        ],
+        "recurrenceRefs": [
+          "1 Nephi 19:10"
+        ],
+        "provenance": {
+          "route": "Exodus 3:6, 3:16 → Acts 3:13 → KJV → Book of Mormon",
+          "other": "The string 'the God of Abraham, and of Isaac, and of Jacob' occurs in exactly one KJV verse, Acts 3:13, and the Book of Mormon has it exactly. Exodus 3:6 repeats the noun — 'the God of Abraham, the God of Isaac, and the God of Jacob' — and Exodus 3:16 elides the first conjunction, 'the God of Abraham, of Isaac, and of Jacob'. tools/mediation-check.py reports one decisive divergence, and it falls to Acts: the Book of Mormon has 'and of Isaac and of Jacob' where Exodus 3:6 has nothing of the kind. (The tool also scores a second 'decisive' point for Exodus on the bare word 'Isaac', which is a diff artifact — the word stands in both candidates.)",
+          "significance": "The formula is the burning-bush name, and the burning bush is where God tells Moses he has seen the affliction of his people in bondage — which is exactly what Mosiah 23:23 is announcing. But the Book of Mormon does not have Exodus's wording. It has Peter's, from the sermon at the Beautiful gate, and Peter's sentence continues 'hath glorified his Son Jesus; whom ye delivered up, and denied him in the presence of Pilate'. So the divine name that guarantees deliverance is taken from the one verse where the verb 'deliver' means handing an innocent man over to be killed. Six verses later, at 23:29, Alma and his brethren 'delivered themselves up into their hands' — the same verb in the same passive posture, and the surrender that makes their bondage possible."
+        },
+        "note": "'None could deliver them but the Lord their God; yea, even the God of Abraham, and of Isaac, and of Jacob.' Ten words reproduced from the only KJV verse that has them in that form; Exodus's two versions of the formula both differ in their connectives. The catalogue records the same source at 1 Nephi 19:10, where the Book of Mormon reads 'the God of Abraham, and of Isaac, and the God of Jacob' — a hybrid. Mosiah has the pure Acts form, and is the closer of the two. Below Skousen's threshold and not among his quotations.",
+        "bibliography": [],
+        "status": "majority",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "23:37": [
+      {
+        "source": "Judges 1:25",
+        "type": "figural",
+        "subtype": "type-scene",
+        "confidence": "moderate",
+        "text": "And when he shewed them the entrance into the city, they smote the city with the edge of the sword; but they let go the man and all his family.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 2,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "uncertain",
+        "mediation": "direct-OT",
+        "composite": [
+          "Judges 1:24"
+        ],
+        "recurrenceRefs": [
+          "Mosiah 23:36"
+        ],
+        "provenance": {
+          "route": "Judges 1:24-25 → KJV → Book of Mormon",
+          "other": "'Shewed them the entrance' occurs in exactly one KJV verse, Judges 1:25. The Book of Mormon reads 'shew them the way' (23:36) and 'had shewn them the way' (23:37); 'shew them the way' is Exodus 18:20's phrase, of teaching, not of guiding an army. The 1830 spellings 'shew' and 'shewn' are the KJV's and were modernised in 1920.",
+          "significance": "Judges 1:24-25 is the KJV's one bargain-for-the-road story: spies promise a man of Bethel his life if he will show them the way into the city, he shows them, they sack the city — and they keep the promise, letting him and his family go. Mosiah 23:36-37 is the same scene with the ending reversed. The Lamanites promise Alma 'their lives and their liberty' if he will show them the way to the land of Nephi; he shows them, and 'the Lamanites would not keep their promise'. The point of cataloguing it is the inversion: in Judges the invaders are more honourable than the informer deserves, and here they are less. Note too what Alma is doing in the scene — a prophet guiding an enemy army to his own people's homeland."
+        },
+        "note": "'After Alma had shewn them the way that led to the land of Nephi, the Lamanites would not keep their promise.' There is only one comparable transaction in the KJV, Judges 1:24-25, and its verb of showing survives in the Book of Mormon's 1830 spelling. Filed as figural because the wording is Exodus 18:20's and the shape is Judges's; the finding is the broken promise, which is the one element Judges does not have.",
+        "whyNot": "The shared vocabulary is two ordinary words, 'shew' and 'way', and a captive guiding captors is a situation that needs no literary source. If the row is wrong it is wrong in the ordinary way of typological proposals — the reader supplies the resemblance.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+[
+  {
+    "bomRef": "Mosiah 13:6",
+    "source": "Luke 9:1",
+    "category": "insufficient-verbal",
+    "sharedText": "power and authority",
+    "streams": [
+      "manual"
+    ],
+    "reason": "“He spake with power and authority from God.” The collocation occurs in exactly two KJV verses, Luke 9:1 (the twelve given power and authority over devils) and Luke 20:20 (the governor's power and authority, to which the spies hope to deliver Jesus). Both are nouns of delegated jurisdiction, and Luke 20:20 is even a trial setting — but the Book of Mormon's phrase is adverbial, describing how a man spoke, and neither Lucan verse is about speech. The nearest thing in the KJV to what Mosiah 13:6 says is Luke 4:32, “his word was with power”, which shares only one word. Excluded as a resemblance in vocabulary without a verse behind it."
+  },
+  {
+    "bomRef": "Mosiah 13:12",
+    "source": "Deuteronomy 5:8",
+    "category": "better-source-identified",
+    "sharedText": "thou shalt not make ... any graven image, or any likeness",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "Ranked second by the n-gram stream on a run of eight. Deuteronomy 5:8 is excluded by a single decisive reading, returned by tools/mediation-check.py: Deuteronomy has “waters beneath the earth” where Exodus 20:4 and Mosiah 13:12 both read “water under the earth”. Exodus's “make unto thee” against Deuteronomy's “make thee” is a second point in the same direction. The link is at Exodus 20:4."
+  },
+  {
+    "bomRef": "Mosiah 13:13",
+    "source": "Deuteronomy 5:9",
+    "category": "better-source-identified",
+    "sharedText": "thou shalt not bow down thyself unto them, nor serve them",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "Ranked FIRST by the n-gram stream at this verse, above Exodus 20:5, and on a genuine ground: Mosiah 13:13 reads “bow down thyself unto them”, which is Deuteronomy 5:9's preposition, where Exodus 20:5 has “to them”. This is the only point in the entire Mosiah 13 Decalogue where Deuteronomy is the closer text, and it is one word against six decisive readings for Exodus elsewhere in the recital (13:12, 13:16, 13:17, 13:18, 13:20, 13:24). Excluded as the source, recorded here rather than suppressed, and argued in the note at the accepted Exodus 20:5 link — a Decalogue reproduced from a reading Bible or from memory will not be uniform, and the exception is worth more to a reader than a tidy claim."
+  },
+  {
+    "bomRef": "Mosiah 13:13",
+    "source": "Numbers 14:18",
+    "category": "common-vocabulary",
+    "sharedText": "visiting the iniquity of the fathers upon the children unto the third and fourth generation",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "A real eleven-word run, and worthless as evidence of a source. The visitation formula is one of the KJV's set pieces and recurs at Exodus 20:5, Exodus 34:7, Numbers 14:18, Deuteronomy 5:9 and Jeremiah 32:18. Numbers 14:18 is excluded because it has none of the surrounding commandment — no bowing down, no jealous God, no “of them that hate me” — and because Mosiah 13:13 is the middle of a continuous recital of Exodus 20."
+  },
+  {
+    "bomRef": "Mosiah 13:14",
+    "source": "Deuteronomy 5:10",
+    "category": "better-source-identified",
+    "sharedText": "and shewing mercy unto thousands of them that love me, and keep my commandments",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "Tied with Exodus 20:6 by the n-gram stream, necessarily: the two verses are word-for-word identical in the KJV and the verse cannot decide its own mediation. Assigned to Exodus by the recital it belongs to, which is decisively Exodus's at six other verses. Recorded so that the register does not appear to have decided something it could not."
+  },
+  {
+    "bomRef": "Mosiah 13:15",
+    "source": "Deuteronomy 5:11",
+    "category": "better-source-identified",
+    "sharedText": "thou shalt not take the name of the Lord thy God in vain",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "The longest single run in the chapter, twenty-seven words, and it matches Deuteronomy 5:11 exactly as well as Exodus 20:7 — the two differ only in punctuation. Undecidable on internal evidence and assigned to Exodus with the rest of the recital. The register entry exists because a reader checking this verse alone would be entitled to think the question open; it is, and the answer comes from the six verses around it."
+  },
+  {
+    "bomRef": "Mosiah 13:17",
+    "source": "Deuteronomy 5:13",
+    "category": "better-source-identified",
+    "sharedText": "six days shalt thou labour, and do all thy work",
+    "streams": [
+      "manual"
+    ],
+    "reason": "Looks identical to Exodus 20:9 and is not. Deuteronomy 5:13 reads “Six days thou shalt labour”; Exodus 20:9 and Mosiah 13:17 read “Six days shalt thou labour”, which occurs in exactly one KJV verse. A one-word inversion, invisible to a reader and decisive on a count — and it was missed on this catalogue's first pass through the verse, which is the argument for running tools/kjv-rarity.py on wording that looks too ordinary to check."
+  },
+  {
+    "bomRef": "Mosiah 13:18",
+    "source": "Deuteronomy 5:14",
+    "category": "better-source-identified",
+    "sharedText": "nor thy cattle, nor thy stranger that is within thy gates",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "Excluded by two decisive readings from tools/mediation-check.py. Deuteronomy 5:14 inserts “nor thine ox, nor thine ass, nor any of” before the cattle and appends “that thy manservant and thy maidservant may rest as well as thou”; Mosiah 13:18 has neither, and follows Exodus 20:10's shorter household list exactly. The link is at Exodus 20:10."
+  },
+  {
+    "bomRef": "Mosiah 13:19",
+    "source": "Exodus 31:17",
+    "category": "better-source-identified",
+    "sharedText": "for in six days the Lord made heaven and earth",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "Shares the creation clause and nothing else. Exodus 31:17 continues “and on the seventh day he rested, and was refreshed”, which Mosiah 13:19 does not have — indeed 13:19's one substantive departure from its source is the omission of Exodus 20:11's rest clause. The verse that supplies the blessing and hallowing of the sabbath, which is where Mosiah 13:19 ends, is Exodus 20:11 alone."
+  },
+  {
+    "bomRef": "Mosiah 13:19",
+    "source": "Acts 4:24",
+    "category": "better-source-identified",
+    "sharedText": "and the sea, and all that in them is",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "A thirteen-word run and a good example of ADJUDICATING §4's trap. Acts 4:24 is the apostles' prayer after the arrest of Peter and John and its creation formula is doxological, not legislative; it has no sabbath, no six days, no blessing and no hallowing. The shared string is the KJV's standard merism for the created order. Mosiah 13:19 is the fourth commandment's rationale, verbatim from Exodus 20:11."
+  },
+  {
+    "bomRef": "Mosiah 13:20",
+    "source": "Deuteronomy 5:16",
+    "category": "better-source-identified",
+    "sharedText": "honour thy father and thy mother",
+    "streams": [
+      "manual"
+    ],
+    "reason": "Excluded by two decisive readings. Deuteronomy 5:16 inserts “as the LORD thy God hath commanded thee” after the commandment and expands the promise to “thy days may be prolonged, and that it may go well with thee”; Mosiah 13:20 has neither and reads “long upon the land”, which is Exodus 20:12's."
+  },
+  {
+    "bomRef": "Mosiah 13:22",
+    "source": "Matthew 19:18",
+    "category": "better-source-identified",
+    "sharedText": "thou shalt not commit adultery, thou shalt not steal",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "Ranked first by the n-gram stream on a nine-word run, and excluded on sequence. Matthew 19:18 gives the commandment Mosiah 13:21 renders “Thou shalt not kill” as “Thou shalt do no murder”, which is Matthew's peculiar wording and is not in the Book of Mormon; and Matthew's list is a Gospel dialogue, not a recital. The run is long only because Mosiah's 1879 versification happened to put Exodus 20:14 and 20:15 in one verse. The links are at Exodus 20:14-15."
+  },
+  {
+    "bomRef": "Mosiah 13:22",
+    "source": "Romans 13:9",
+    "category": "better-source-identified",
+    "sharedText": "thou shalt not commit adultery, thou shalt not steal",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "Excluded on order. Romans 13:9 runs adultery, kill, steal; Mosiah 13:21-22 runs kill, adultery, steal, which is Exodus 20:13-15's order and not Paul's. Romans also drops the commandments into an argument about love of neighbour and abbreviates the tenth to “Thou shalt not covet”, where Mosiah 13:24 gives Exodus 20:17 entire. A long shared string across a verse boundary that both texts inherit from the same source is not evidence that one depends on the other."
+  },
+  {
+    "bomRef": "Mosiah 13:23",
+    "source": "Deuteronomy 5:20",
+    "category": "better-source-identified",
+    "sharedText": "thou shalt not bear false witness against thy neighbour",
+    "streams": [
+      "manual"
+    ],
+    "reason": "Deuteronomy 5:20 reads “vain witness” where Exodus 20:16 and Mosiah 13:23 read “false witness”. A single word, and the mediation tool does not count it decisive because the rest of the verse is identical; it is nevertheless a small point in Exodus's favour and is recorded here for the reader who checks this verse on its own."
+  },
+  {
+    "bomRef": "Mosiah 13:24",
+    "source": "Deuteronomy 5:21",
+    "category": "better-source-identified",
+    "sharedText": "thou shalt not covet thy neighbour's house",
+    "streams": [
+      "manual"
+    ],
+    "reason": "The tenth commandment is where the two versions of the Decalogue differ most, and Mosiah 13:24 sides with Exodus at every point: house before wife (Deuteronomy reverses them), no second imperative “Neither shalt thou desire”, no “his field”, and “nor” three times where Deuteronomy has “or”. tools/mediation-check.py returns three decisive readings, the largest count in the chapter."
+  },
+  {
+    "bomRef": "Mosiah 13:29",
+    "source": "John 18:14",
+    "category": "wrong-sense",
+    "sharedText": "it was expedient that",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "Ranked by the n-gram stream on a five-word run, and a genuine trap because this catalogue has already accepted the other half of the same Johannine saying: 1 Nephi 4:13 borrows John 11:50's calculus — one man should die, and the whole nation perish not — to justify the killing of Laban, and John 18:14 is John repeating it. But “expedient” is doing an entirely different job in Mosiah 13. Abinadi uses it three times in three verses (13:27, 13:28, 13:29) in its legal-temporal sense, of what a law it is currently advisable to keep, with no calculus of lives anywhere in view. The word is the same and the argument is unrelated; excluded as wrong-sense, with the register pointing a reader to 1 Nephi 4:13 for where the saying does bear."
+  },
+  {
+    "bomRef": "Mosiah 13:29",
+    "source": "Acts 5:38",
+    "category": "formulaic",
+    "sharedText": "and now I say unto you",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "Six words of pure connective tissue, and one of the Book of Mormon's commonest sentence openings. Gamaliel's counsel to leave the apostles alone has no contact with Abinadi's account of why the law was given. Covered in principle by the standing exclusion at 1 Nephi 1:5."
+  },
+  {
+    "bomRef": "Mosiah 13:32",
+    "source": "Matthew 19:8",
+    "category": "better-source-identified",
+    "sharedText": "because of the hardness of ... hearts",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "The pronoun decides it. Matthew 19:8 and Mark 10:5 read “the hardness of your hearts”, spoken by Jesus to his hearers; Mark 3:5 reads “the hardness of their hearts”, a narrator's description of a third party, and occurs in exactly one KJV verse. Abinadi is describing the fathers at Sinai, not the priests in front of him, so the third-person form is the grammatically correct one and the Book of Mormon has it. ADJUDICATING §4 flags this pair specifically because tools/mediation-check.py ignores single common words and cannot catch it."
+  },
+  {
+    "bomRef": "Mosiah 13:35",
+    "source": "1 Corinthians 15:21",
+    "category": "common-vocabulary",
+    "sharedText": "the resurrection of the dead",
+    "streams": [
+      "manual"
+    ],
+    "reason": "“The resurrection of the dead” occurs in eleven KJV verses, five of them in 1 Corinthians 15, and a reader looking for a source at Mosiah 13:35 will reach for Paul. Nothing else in the verse is Pauline: the sentence's other half is Isaiah 53:7's “oppressed and afflicted”, a KJV singleton, and what follows in chapter 14 is Isaiah 53 entire. The phrase is standard New Testament doctrinal vocabulary and points at no verse in particular."
+  }
+]

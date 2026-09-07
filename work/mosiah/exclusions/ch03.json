@@ -1,0 +1,66 @@
+[
+  {
+    "bomRef": "Mosiah 3:3",
+    "source": "Genesis 26:2",
+    "category": "formulaic",
+    "sharedText": "and he said unto me",
+    "streams": ["machine-ngram"],
+    "reason": "The top-ranked candidate for the verse, and it is pure connective boilerplate — a speech-introduction formula the Book of Mormon uses continuously. Genesis 26:2 is the LORD appearing to Isaac and telling him not to go down to Egypt. Covered by the standing exclusion at 1 Nephi 1:5, and recorded here only because the machine put it above Luke 2:10, which is the verse the sentence actually comes from."
+  },
+  {
+    "bomRef": "Mosiah 3:5",
+    "source": "Luke 7:22",
+    "category": "better-source-identified",
+    "sharedText": "the lame walk ... the lepers are cleansed ... the deaf hear ... the dead are raised",
+    "streams": ["scholarship", "machine-ngram"],
+    "reason": "Hardy's apparatus cross-references Matthew 11:5 and Luke 7:22 together at this verse, which is right for a study edition and too coarse for a verbal catalogue: the two gospels give the same answer to John's disciples in nearly the same words, and they differ at exactly one point that the Book of Mormon reproduces. Matthew 11:5 opens 'The blind receive their sight'; Luke 7:22 has 'the blind see'. Mosiah 3:5 has 'the blind to receive their sight', and “receive their sight” occurs in exactly one KJV verse. tools/mediation-check.py on Mosiah 3:5 against the pair returns one decisive point, for Matthew. Luke is therefore excluded rather than carried as a composite; the link sits at Matthew 11:5 and cites Hardy for the cross-reference."
+  },
+  {
+    "bomRef": "Mosiah 3:6",
+    "source": "Mark 16:17",
+    "category": "common-vocabulary",
+    "sharedText": "cast out devils",
+    "streams": ["manual"],
+    "reason": "'Cast out devils' is one of the commonest phrases in the synoptic gospels and appears in a dozen KJV verses across Matthew, Mark and Luke; no one of them can be identified as the source of Mosiah 3:6, and the Book of Mormon's gloss — 'or the evil spirits which dwelleth in the hearts of the children of men' — is not from any of them. Recorded so the register shows that the exorcism clause in the miracle list was considered and left unattached, unlike the healing clauses of 3:5, which come from Matthew 11:5."
+  },
+  {
+    "bomRef": "Mosiah 3:9",
+    "source": "John 10:20",
+    "category": "common-vocabulary",
+    "sharedText": "he hath a devil",
+    "streams": ["machine-ngram"],
+    "reason": "'He hath a devil' is said of Jesus at John 7:20, 8:48, 8:52 and 10:20, and of John the Baptist at Matthew 11:18 and Luke 7:33 — six KJV verses, all making the same charge in the same words, with nothing to choose between them. The Book of Mormon's 'shall say that he hath a Devil' is the charge in general, not any one occurrence of it. The verse's identifiable sources are John 1:11 and the synoptic passion prediction, both catalogued at the link; this phrase is real KJV contact that cannot be keyed to a verse."
+  },
+  {
+    "bomRef": "Mosiah 3:14",
+    "source": "Exodus 33:3",
+    "category": "common-vocabulary",
+    "sharedText": "a stiffnecked people",
+    "streams": ["manual"],
+    "reason": "“stiffnecked” occurs in nine KJV verses, six of them of Israel at Sinai and in Deuteronomy, and the phrase 'a stiffnecked people' in five. Nothing distinguishes Exodus 33:3 from Exodus 32:9, 33:5, 34:9, Deuteronomy 9:6 or 9:13, and the Book of Mormon supplies no further wording from any of them. The clause it does draw on in this verse — the law given as a response to that stiffneckedness — is Galatians 3:19's 'it was added because of transgressions', carried as a composite on the Hebrews 10:1 link at 3:15."
+  },
+  {
+    "bomRef": "Mosiah 3:19",
+    "source": "Ephesians 4:22",
+    "category": "better-source-identified",
+    "sharedText": "put off ... the old man",
+    "streams": ["manual"],
+    "reason": "Ephesians 4:22-24 makes the same exhortation as Colossians 3:9-12 and is the passage more often quoted for it, so it is the natural rival here. The wording decides for Colossians: “put off the old man” occurs in exactly one KJV verse, Colossians 3:9, because Ephesians 4:22 separates the verb from its object ('put off concerning the former conversation the old man'). More decisively, the rest of Mosiah 3:19 follows Colossians and not Ephesians — 'becometh a saint' answers Colossians 3:12's 'as the elect of God, holy', and the virtue list reproduces Colossians 3:12's meekness, humbleness and longsuffering in order, where Ephesians 4:24 has only 'righteousness and true holiness'. Superseded by the Colossians 3:9 link."
+  },
+  {
+    "bomRef": "Mosiah 3:25",
+    "source": "1 Corinthians 11:29",
+    "category": "better-source-identified",
+    "sharedText": "drunk damnation to their own souls",
+    "streams": ["manual"],
+    "reason": "The third occurrence of the phrase in Benjamin's sermon, after 2:33 and 3:18. Adjudicated at first use: “drinketh damnation” occurs in exactly one KJV verse, and the argument for 1 Corinthians 11:29 as its source — a covenant meal taken unworthily by an assembled congregation — is made at Mosiah 2:33. ADJUDICATING §4 governs repeats within a book; recorded in recurrenceRefs there and here, not as three links."
+  },
+  {
+    "bomRef": "Mosiah 3:27",
+    "source": "Revelation 19:3",
+    "category": "wrong-sense",
+    "sharedText": "smoke rose up for ever and ever",
+    "streams": ["manual"],
+    "reason": "The Apocalypse says a smoke goes up for ever twice, and only one of the two is about persons. Revelation 19:3 is the hallelujah over the fall of Babylon — 'and her smoke rose up for ever and ever' — a burning city, in the past tense, and the verse two lines before the 'Lord God omnipotent reigneth' that this chapter takes at 3:5. Revelation 14:11 has the present-tense 'ascendeth up', and its smoke is 'the smoke of THEIR TORMENT', which is what Mosiah 3:27 is describing. Excluded on tense and on subject, and named here because its neighbour at 19:6 is a source in this same chapter, which makes it a plausible mis-assignment."
+  }
+]

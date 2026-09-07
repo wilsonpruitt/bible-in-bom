@@ -1,0 +1,225 @@
+{
+  "chapter": 10,
+  "adjudicated": "2026-09-07",
+  "adjudicator": "Opus",
+  "links": {
+    "10:8": [
+      {
+        "source": "Matthew 3:4",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "And the same John had his raiment of camel's hair, and a leathern girdle about his loins; and his meat was locusts and wild honey.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 3,
+          "context": 2,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "OT-via-NT",
+        "composite": [
+          "2 Kings 1:8"
+        ],
+        "provenance": {
+          "route": "2 Kings 1:8 → Matthew 3:4 → KJV → Book of Mormon",
+          "other": "“leathern” occurs in exactly one KJV verse, Matthew 3:4; “leathern girdle about” occurs in exactly one KJV verse, the same one. Mark 1:6 dresses the Baptist in “a girdle of a skin about his loins” and 2 Kings 1:8 dresses Elijah in “a girdle of leather about his loins” — neither uses the adjective.",
+          "alternative": "2 Kings 1:8, Elijah's description, which is the Old Testament original the Baptist's costume is written to recall.",
+          "significance": "The garment the King James Bible gives to exactly one man is here given to an army. In the KJV the leathern girdle is prophetic dress: it identifies Elijah to Ahaziah's messengers and it identifies John in the wilderness of Judaea as Elijah come again. Zeniff hangs it on naked, shaven, sword-carrying Lamanites descending on Shilom, and the sign of the prophet becomes the uniform of the enemy. The inversion is worth having in a book whose next two chapters are about a prophet nobody recognises: Abinadi will come to Noah's court in disguise (12:1), unmarked, while the men who look like prophets are the ones coming to kill."
+        },
+        "note": "'They were girded about with a leathern girdle about their loins.' `mediation-check.py` returns two decisive points for Matthew 3:4 over 2 Kings 1:8: the Book of Mormon has 'leathern', which is Matthew's word and occurs nowhere else in the KJV, and it does not have 2 Kings' 'of leather'. The 1830 reading is the fuller and more redundant one — 'girded about with a leathern girdle about their loins' — and 1920 deleted the first 'about', pulling the sentence closer to the Matthean phrase it is built on. Below Skousen's sixteen-word threshold and not one of his thirty-six; the case here is rarity, not length.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      },
+      {
+        "source": "1 Chronicles 12:2",
+        "type": "echo",
+        "subtype": "possible",
+        "confidence": "moderate",
+        "text": "They were armed with bows, and could use both the right hand and the left in hurling stones and shooting arrows out of a bow, even of Saul's brethren of Benjamin.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 3,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "provenance": {
+          "route": "1 Chronicles 12:2 → KJV → Book of Mormon",
+          "other": "“armed with bows” occurs in exactly one KJV verse, 1 Chronicles 12:2. The armoury it names — bows, hurled stones, shot arrows — is the same short list, in the same order, that the Lamanite muster carries.",
+          "significance": "1 Chronicles 12 is the roll of the men who came to David at Ziklag while he was still a fugitive from Saul: the verse's whole point is that these are the warriors who chose the right king. Zeniff's sentence takes the equipment and leaves the loyalty behind."
+        },
+        "note": "The verse's inventory is 'bows, and with arrows, and with swords, and with cimeters, and with stones, and with slings'. Only the first element has a KJV fingerprint — 'armed with bows' is a singleton — and the two following nouns, stones and slings, are the other two weapons of 1 Chronicles 12:2. The rest of the list ('cimeters') is the Book of Mormon's own. Recorded as an echo rather than an allusion because a four-word run inside a weapons list is exactly the kind of match the n-gram stream produces by accident; the singleton is what keeps it above the floor.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "machine-ngram"
+        ]
+      }
+    ],
+    "10:10": [
+      {
+        "source": "Psalm 71:16",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "text": "I will go in the strength of the Lord GOD: I will make mention of thy righteousness, even of thine only.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "provenance": {
+          "route": "Psalm 71:16 → KJV → Book of Mormon",
+          "other": "“in the strength of the Lord” occurs in exactly two KJV verses, Psalm 71:16 and Micah 5:4. Micah's is about the messianic shepherd who 'shall stand and feed in the strength of the LORD'; Psalm 71:16's is a man saying he will go.",
+          "alternative": "Micah 5:4, which has the identical string but no first-person verb of motion.",
+          "significance": "Psalm 71 is the psalm of an old man — 'cast me not off in the time of old age; forsake me not when my strength faileth' (71:9), 'now also when I am old and grayheaded, O God, forsake me not' (71:18). Zeniff says in the same breath 'I, even I, in my old age, did go up to battle' and 'we did go up in the strength of the Lord, to battle'. The one KJV verse in which a speaker says he will *go* in the strength of the Lord sits eight verses from the KJV's clearest prayer of an aged man going out with his own strength gone. Recovering that context turns Zeniff's aside about his age from a narrative detail into the psalm's argument."
+        },
+        "note": "'And it came to pass that we did go up in the strength of the Lord, to battle.' The next verse supplies the antithesis the psalm assumes — 'the Lamanites knew nothing concerning the Lord, nor the strength of the Lord; therefore, they depended upon their own strength' — which is the contrast Psalm 71 is built on and which no other proposed source produces. Two KJV verses hold the phrase and only one of them has a speaker going anywhere.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "10:12": [
+      {
+        "source": "Proverbs 29:10",
+        "type": "echo",
+        "subtype": "probable",
+        "confidence": "moderate",
+        "text": "The bloodthirsty hate the upright: but the just seek his soul.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 2,
+          "sequence": 2,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "provenance": {
+          "route": "Proverbs 29:10 → KJV → Book of Mormon",
+          "other": "“bloodthirsty” occurs in exactly one KJV verse, Proverbs 29:10. The 1830 text hyphenates it, 'blood-thirsty', which is how a compound is set when it is being lifted rather than habitually used.",
+          "significance": "The proverb is not a description but a proposition: the bloodthirsty hate the upright. Zeniff's paragraph is an argument that exactly this is what has happened — the Lamanites are bloodthirsty, and what they have taught their children is 'an eternal hatred towards the children of Nephi' (10:17), whose founding claim is that Nephi 'was more faithful in keeping the commandments of the Lord' (10:13). Proverbs supplies the hinge between the two halves of Zeniff's ethnography, and it supplies it as a moral law rather than a grievance."
+        },
+        "note": "'They were a wild, and ferocious, and a blood-thirsty people.' The single word is the whole verbal case, which is why this is an echo and not an allusion — but it is a word the King James Bible uses once, in a verse about the hatred of the bloodthirsty for the righteous, and the six verses that follow it in Mosiah 10 are an anatomy of precisely that hatred. Compare Hays on volume: one word can carry an echo when the word is a KJV singleton and the context is the precursor's own subject.",
+        "whyNot": "A single English word, and a natural coinage for any writer describing an enemy; a reader who declines this is declining a real risk rather than a real error.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "10:16": [
+      {
+        "source": "Exodus 34:4",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "And he hewed two tables of stone like unto the first; and Moses rose up early in the morning, and went up unto mount Sinai, as the LORD had commanded him, and took in his hand the two tables of stone.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "provenance": {
+          "route": "Exodus 34:4 → KJV → Book of Mormon",
+          "other": "“as the Lord had commanded him and took” occurs in exactly one KJV verse, Exodus 34:4 — an eight-word run, the longest in this chapter and the longest the machine stream found anywhere in Mosiah 10.",
+          "significance": "Recover the context and the sentence changes register entirely. Exodus 34:4 is Moses going up Sinai to take the second pair of stone tables: the one place in the Bible where a man, at the Lord's command, takes into his own hands an engraved record of the law. Mosiah 10:16 is Nephi departing into the wilderness at the Lord's command and taking 'the records which were engraven on the plates of brass'. Same command, same act, same kind of object — and the sentence is being spoken by the party that calls it theft. The Lamanite tradition has preserved the Mosaic shape of the event and lost its meaning; it can still describe Nephi in Moses's own words while concluding 'that he robbed them'. That is the finding: the accusation is framed in language that acquits."
+        },
+        "note": "'He departed into the wilderness as the Lord had commanded him, and took the records which were engraven on the plates of brass.' Eight continuous KJV words from Exodus 34:4, and the shared run stops exactly where the objects diverge — Moses takes 'the two tables of stone', Nephi 'the plates of brass'. The n-gram stream ranked this candidate first for the verse (rarity 1.71, longest run 8) and it is the rare case where the machine's top row is also the right one. Below Skousen's sixteen-word threshold; it is not one of his thirty-six.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "10:17": [
+      {
+        "source": "Ezekiel 35:5",
+        "type": "echo",
+        "subtype": "conceptual",
+        "confidence": "moderate",
+        "text": "Because thou hast had a perpetual hatred, and hast shed the blood of the children of Israel by the force of the sword in the time of their calamity, in the time that their iniquity had an end:",
+        "evidence": {
+          "vocabulary": 2,
+          "syntax": 2,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "uncertain",
+        "mediation": "direct-OT",
+        "provenance": {
+          "route": "Ezekiel 35:5 → KJV → Book of Mormon",
+          "other": "“perpetual hatred” occurs in exactly one KJV verse, Ezekiel 35:5. The Book of Mormon's adjective is 'eternal', not 'perpetual', so this is a conceptual echo of a KJV singleton rather than a reproduction of it.",
+          "significance": "Ezekiel 35 is the oracle against Mount Seir, which is Edom, which is Esau — the brother nation. Its charge is a standing, inherited hatred passed down and acted on against 'the children of Israel'. Mosiah 10:17 is the same charge in the same shape: a hatred taught to children as an inheritance, directed at 'the children of Nephi', held by the descendants of a brother. If the writer is reaching anywhere in the KJV for the idea of a permanent fraternal hatred, Ezekiel 35 is the passage, and the Lamanite-as-Edom reading is available from there without being asserted here."
+        },
+        "note": "'Therefore, they have an eternal hatred towards the children of Nephi.' The concept has exactly one KJV home and the wording does not quite reach it. Recorded as an echo, at moderate, because the surrounding verse supplies the rest of Ezekiel 35's indictment — hatred taught to the next generation, blood shed against the brother nation's children — and because the King James Bible offers no other place to get the idea of a hatred that is constitutionally permanent.",
+        "whyNot": "'Eternal' is not 'perpetual', and the Book of Mormon uses 'eternal' constantly in its own right. A reader could reasonably hold that the resemblance is thematic and that Ezekiel supplied nothing.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "10:18": [
+      {
+        "source": "Ephesians 4:14",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "text": "That we henceforth be no more children, tossed to and fro, and carried about with every wind of doctrine, by the sleight of men, and cunning craftiness, whereby they lie in wait to deceive;",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 3,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "Ephesians 4:14 → KJV → Book of Mormon",
+          "other": "“cunning craftiness” occurs in exactly one KJV verse, Ephesians 4:14, where it stands in a chain with 'lie' and 'deceive' — the same three elements the Book of Mormon sentence uses, and in the same order.",
+          "significance": "Ephesians 4:14 is about a danger to the immature: children tossed about, taken in by men who lie in wait to deceive. Zeniff is an old king writing his last paragraph but one, and the confession he makes with Paul's phrase is that he was the child in the figure — 'hath deceived me, that I have brought this, my people, up into this land, that they may destroy them'. The whole Zeniff record is the record of a man who was over-zealous (Mosiah 9:3) and was played for it, and the King James Bible's one name for the technique that beat him is the phrase he uses."
+        },
+        "note": "'For this very cause hath king Laman, by his cunning and lying craftiness, and his fair promises, hath deceived me.' The Book of Mormon splits the KJV compound and inserts its own adjective — 'cunning AND LYING craftiness' — which is how a remembered phrase behaves rather than a copied one, and the inserted word is Ephesians' own verb 'lie' from the back half of the same clause. The 1830 text keeps the doubled auxiliary, 'hath king Laman ... hath deceived me', which 1920 tidied; the redundancy is the tell of a sentence assembled around a borrowed phrase.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      }
+    ]
+  }
+}

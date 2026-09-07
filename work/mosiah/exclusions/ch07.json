@@ -1,0 +1,92 @@
+[
+  {
+    "bomRef": "Mosiah 7:1",
+    "source": "Acts 19:8",
+    "category": "wrong-sense",
+    "sharedText": "for the space of three",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "The chapter's top-ranked candidate at verse 1 and a five-word run, but the run ends one word early in the way ADJUDICATING §4 warns about: Acts 19:8 reads 'for the space of three months' and Mosiah 7:1 'for the space of three years'. 'For the space of' is a KJV time formula used of everything from three days to seven years, and Paul disputing in the synagogue at Ephesus has nothing to do with a king enjoying continual peace. Nothing in the surrounding verse touches Acts 19."
+  },
+  {
+    "bomRef": "Mosiah 7:8",
+    "source": "Daniel 3:3",
+    "category": "common-vocabulary",
+    "sharedText": "and they stood before the",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "Scored highest in the verse (rarity 1.50) on the strength of a five-word run, and the run is 'and they stood before the' — where Daniel's next word is 'image' and the Book of Mormon's is 'king'. Standing before a monarch is the commonest posture in the KJV's court narratives; the phrase carries no signal. The verse does have a link, and it is at 'their bands were loosed' (Acts 16:26), which the machine ranked below this."
+  },
+  {
+    "bomRef": "Mosiah 7:8",
+    "source": "Esther 9:11",
+    "category": "common-vocabulary",
+    "sharedText": "brought before the king",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "'Brought before the king' occurs in five KJV verses across Esther, Daniel and 1 Samuel, all of them court narrative. Esther 9:11 is a body count delivered to Ahasuerus and has no other contact with Mosiah 7:8. Recorded rather than passed over in silence because it is the kind of four-word match that looks like evidence when the surrounding verse genuinely does depend on a New Testament prison scene, and it is worth saying which half of the verse is borrowed and which is not."
+  },
+  {
+    "bomRef": "Mosiah 7:12",
+    "source": "1 Kings 1:23",
+    "category": "insufficient-verbal",
+    "sharedText": "bowed himself before the king",
+    "streams": [
+      "manual"
+    ],
+    "reason": "A genuine temptation, considered and declined. 'Bowed himself before the king' occurs in exactly two KJV verses, 2 Samuel 24:20 (Araunah) and 1 Kings 1:23 (Nathan), and 1 Kings 1:23 is attractive because it is a prophet coming in before a king, bowing, and then delivering a speech that changes a succession — which is what Ammon does. But five words of court protocol are the whole of the contact: the Book of Mormon has no 'with his face to the ground', no Bathsheba, no succession, and Ammon's speech is a self-identification, not an oracle. With two candidate verses and no way to choose between them on wording, and no metalepsis that survives the choice, this is a resemblance rather than a dependence. 2 Samuel 24:20 is excluded on the same evidence and is not given a separate entry."
+  },
+  {
+    "bomRef": "Mosiah 7:18",
+    "source": "1 Peter 3:1",
+    "category": "wrong-sense",
+    "sharedText": "be in subjection to",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "'Be in subjection to' is 1 Peter's wifely-submission formula ('be in subjection to your own husbands') and Mosiah 7:18's political one ('no longer be in subjection to our enemies'). The KJV uses the phrase for household order and for the subjection of creatures to Christ; the Book of Mormon uses it for military occupation and a tax. The verse's real borrowing is Luke 21:28's 'lift up your heads', which the n-gram stream did not rank at all because the agreement is split across the clause boundary that CONVENTIONS §9 describes."
+  },
+  {
+    "bomRef": "Mosiah 7:19",
+    "source": "Exodus 16:35",
+    "category": "better-source-identified",
+    "sharedText": "manna",
+    "streams": [
+      "scholarship"
+    ],
+    "reason": "Hardy's apparatus cross-references Exodus 14:21-22 and Exodus 16:35 at this verse. The first is right and is cited on the Red Sea link; the second is where the manna narrative is, which is the right cross-reference for a study edition and the wrong one for a verbal catalogue. Exodus 16:35 reads 'the children of Israel did eat manna forty years' — Israel is the subject, the verb is 'eat', and God does not appear in the clause. Mosiah 7:19 has God as subject and 'fed' as the verb, which is Deuteronomy 8:3's construction and a KJV singleton: 'fed thee with manna'. The link is at Deuteronomy 8:3. This is a case of CONVENTIONS §6a's second bullet, not a mis-keyed row: the running head and verse are right, the reference is simply chapter-level."
+  },
+  {
+    "bomRef": "Mosiah 7:19",
+    "source": "Psalm 4:5",
+    "category": "common-vocabulary",
+    "sharedText": "and put your trust in",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "'Put your trust in' occurs in exactly two KJV verses, Psalm 4:5 ('put your trust in the LORD') and Judges 9:15 (the bramble's 'put your trust in my shadow'), which is rare enough to be worth checking and not rare enough to be worth keeping. Neither verse has any other contact with Mosiah 7:19, whose sentence is an exodus creed; the imperative plural is simply how English renders the commonest exhortation in the Psalter, and 'trust in the LORD' in one form or another runs through dozens of verses. Judges 9:15 is excluded on the same evidence. The phrase recurs at 7:33 and is passed over there in silence."
+  },
+  {
+    "bomRef": "Mosiah 7:29",
+    "source": "Ezekiel 3:20",
+    "category": "better-source-identified",
+    "sharedText": "a stumbling block before",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "The machine's proposal for 'their doings shall be as a stumbling block before them', and a real candidate: Ezekiel 3:20's 'I lay a stumbling-block before him' is, as the KJV prints it with the hyphen, the only verse in the Bible with that string, and Ezekiel 14:3's 'the stumblingblock of their iniquity' is the closest thematic match anywhere. It is displaced because it explains one clause and Jeremiah 18:15 explains three. Jeremiah 18:15 is the only KJV verse with 'stumble in their ways', pairing the two nouns the Book of Mormon actually pairs; Jeremiah 18:17 then supplies both the day-of formula in the first half of Mosiah 7:29 and the east wind at 7:31. A source that accounts for a passage is preferred to one that accounts for a phrase in it. Ezekiel 14:3 is excluded on the same evidence and is not given a separate entry."
+  },
+  {
+    "bomRef": "Mosiah 7:33",
+    "source": "Daniel 11:16",
+    "category": "wrong-sense",
+    "sharedText": "according to his own will",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "The top-ranked candidate at the chapter's last verse, on a six-word run, and the sense is inverted. Daniel 11:16 is the king of the north who 'shall do according to his own will, and none shall stand before him' — the phrase names an unaccountable human tyrant, and Mosiah 7:33 uses it of God's freedom to deliver ('he will, according to his own will and pleasure, deliver you out of bondage'). 'His own will' occurs in five KJV verses, of which Hebrews 2:4 and James 1:18 do have God as the subject, and the second half of the Book of Mormon's phrase points at Ephesians 1:5's 'according to the good pleasure of his will' — a KJV singleton. But four words with a possessive pronoun are not enough to choose among those three, and the verse's substantive borrowings are at Acts 11:23 and 1 Chronicles 28:9. Recorded here so the register says why the highest-scoring machine candidate in the verse was not taken."
+  }
+]

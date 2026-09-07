@@ -1,0 +1,464 @@
+{
+  "chapter": 17,
+  "adjudicated": "2026-09-07",
+  "adjudicator": "Opus",
+  "links": {
+    "17:1": [
+      {
+        "source": "Matthew 19:1",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 4,
+          "context": 3,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "Matthew 19:1 → KJV → Book of Mormon",
+          "other": "“had finished these sayings” occurs in exactly one KJV verse, Matthew 19:1. The nearest competitors are Matthew 7:28 and 26:1, which read “ended these sayings” and “finished all these sayings”; the 1830 text has Matthew 19:1's form exactly, six words in order, and adds the KJV's own “and it came to pass, that when”.",
+          "significance": "Matthew's formula is a hinge: it is how the first gospel closes a discourse and turns the narrative. Mosiah 17:1 uses it for the same office and to darker effect — Abinadi's long sermon (chapters 12–16) ends, and the sentence that closes it is the sentence that orders his execution. Recover Matthew 19:1's context and the clause is Jesus leaving Galilee for Judaea, that is, setting out for the passion; the Book of Mormon puts the identical clause at the head of its own passion narrative."
+        },
+        "note": "'And now it came to pass that when Abinadi had finished these sayings, that the king commanded that the priests should take him and cause that he should be put to death.' Two KJV formulae are welded here: Matthew's discourse-closing 'when Jesus had finished these sayings' and the Chronicler's 'the king commanded that' (2 Chronicles 29:24 has 'for the king commanded that the burnt offering ... should be made', five words in the same order). The Matthean half is the one that carries the argument, because it is a singleton and because the whole chapter that follows is built out of trial and martyrdom narratives; this is the seam where the sermon becomes a passion.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ],
+        "text": "And it came to pass, that when Jesus had finished these sayings, he departed from Galilee, and came into the coasts of Judaea beyond Jordan;"
+      }
+    ],
+    "17:2": [
+      {
+        "source": "Acts 7:58",
+        "type": "figural",
+        "subtype": "type-scene",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 2,
+          "syntax": 2,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 1,
+          "attestation": 0
+        },
+        "kjvSpecific": "uncertain",
+        "mediation": "direct-NT",
+        "composite": [
+          "Acts 8:1"
+        ],
+        "provenance": {
+          "route": "Acts 7:58 → KJV → Book of Mormon",
+          "other": "No rare string is shared: 'whose name was' stands in 38 KJV verses and 'young man' in 53. The contact is structural, and the one lexical detail that matters is that both texts stop the execution narrative to give the age and the name of a bystander who has done nothing yet.",
+          "significance": "The New Testament has exactly one scene in which a martyr is killed by a council and the narrator pauses, mid-execution, to introduce by name a young man standing by — and that young man becomes the movement's founding missionary. Mosiah 17 does the same thing in the same place: Alma is introduced as 'a young man' at the moment Abinadi is condemned, and the church of the Book of Mormon descends from him. The difference is the whole point of the imitation. Acts 8:1 reports that 'Saul was consenting unto his death'; Alma pleads for Abinadi's life and is driven out for it. Where Luke's young man must be knocked down on the Damascus road before he changes sides, the Book of Mormon's is already converted by the sermon he has just heard."
+        },
+        "note": "'But there was one among them, whose name was Alma, he also being a descendant of Nephi. And he was a young man, and he believed the words which Abinadi had spoken.' Offered as a type-scene rather than a verbal borrowing, under CONVENTIONS §0a: the shared wording is formulaic, but the narrative position is not, and Acts 7:58 is the only place in the KJV that occupies it. Where the machine streams see Judges 17:7 and Luke 24:18 — two verses that share the formula and nothing else — the sense of the sentence is Luke's.",
+        "whyNot": "Everything shared is KJV boilerplate. A writer producing a martyrdom narrative in King James English would introduce a bystander in these words without having Acts 7:58 in mind, and the argument rests entirely on the structural coincidence plus the later career of the man named.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "And cast him out of the city, and stoned him: and the witnesses laid down their clothes at a young man’s feet, whose name was Saul."
+      }
+    ],
+    "17:7": [
+      {
+        "source": "1 Kings 2:26",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 3,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Luke 6:7"
+        ],
+        "provenance": {
+          "route": "1 Kings 2:26 + Luke 6:7 → KJV → Book of Mormon",
+          "other": "Two absolute rarities in one sentence. “thou art worthy of death” occurs in exactly one KJV verse, 1 Kings 2:26; “find an accusation against” occurs in exactly one KJV verse, Luke 6:7. 'Worthy of death' without the pronoun stands in eleven verses, most of them Paul's Roman hearings, so it is the four-word form that identifies the source.",
+          "significance": "Both singletons are inverted where they land. In 1 Kings a king says 'thou art worthy of death' to a priest — and then spares him, 'but I will not at this time put thee to death'. Mosiah 17:7 puts the same sentence in a king's mouth against a prophet, with the priests doing the pressing, and the clemency clause is exactly what does not follow. Luke 6:7's accusation-hunting is the scribes' and Pharisees' work against Jesus, sought before any offence has been committed; Noah's court likewise announces that it has 'found an accusation' before Abinadi has said anything in the chapter."
+        },
+        "note": "'Abinadi, we have found an accusation against thee, and thou art worthy of death.' The verse is built out of two KJV singletons welded end to end, one from each Testament, and each carries its own scene with it: a king who condemns a priest and relents, and a religious court that goes looking for a charge. Neither phrase is idiomatic English outside the KJV, and the pronoun matters — 'thou art worthy of death' is 1 Kings 2:26's exact form and no one else's.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ],
+        "text": "And unto Abiathar the priest said the king, Get thee to Anathoth, unto thine own fields; for thou art worthy of death: but I will not at this time put thee to death, because thou barest the ark of the LORD God before David my father, and because thou hast been afflicted in all wherein my father was afflicted."
+      }
+    ],
+    "17:10": [
+      {
+        "source": "Mark 13:9",
+        "type": "echo",
+        "subtype": "possible",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 2,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 3,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Matthew 27:4"
+        ],
+        "provenance": {
+          "route": "Mark 13:9 → KJV → Book of Mormon",
+          "other": "“for a testimony against” occurs in exactly four KJV verses — Matthew 10:18, Mark 6:11, Mark 13:9 and Luke 9:5 — all of them in the synoptic mission and persecution discourses, and Mark 13:9 is the one where the testimony is borne by a prisoner standing before rulers and kings. The Book of Mormon's 'shed innocent blood' is a wider idiom (seven verses); 'the innocent blood' with the article stands in four, of which Matthew 27:4 is Judas's.",
+          "significance": "Mark 13:9 promises that the disciple delivered to councils and beaten in synagogues will be brought before rulers and kings, and that this will be 'for a testimony against them'. Abinadi, delivered to a council of priests and standing before a king, says that his refusal to recant 'shall stand as a testimony against you'. The borrowing turns a promise made to the persecuted into a threat spoken by one, and the phrase Mosiah adds — that the shedding of innocent blood 'shall also stand as a testimony against you at the last day' — is the eschatology Mark 13 supplies the promise with."
+        },
+        "note": "'And they shall stand as a testimony against you ... ye will shed innocent blood, and this shall also stand as a testimony against you at the last day.' The exact string is Mosiah's own ('stand as a testimony' is in no KJV verse), but the four-word core and the whole situation are Mark 13:9's. Proposed at moderate confidence: the case rests on the setting doing as much work as the words, which is the right way round for an echo and not enough for an allusion.",
+        "whyNot": "The Book of Mormon's phrase differs from all four KJV occurrences at the preposition ('as' for 'for'), and 'testimony against' is common enough legal English that the synoptic discourse need not be in view.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "But take heed to yourselves: for they shall deliver you up to councils; and in the synagogues ye shall be beaten: and ye shall be brought before rulers and kings for my sake, for a testimony against them."
+      }
+    ],
+    "17:11": [
+      {
+        "source": "John 19:12",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Mark 6:20"
+        ],
+        "recurrenceRefs": [
+          "Mosiah 17:12"
+        ],
+        "provenance": {
+          "route": "John 19:12 → KJV → Book of Mormon",
+          "other": "“sought to release him” occurs in exactly one KJV verse, John 19:12. 'Released' as a verb of a ruler letting a prisoner go stands in four verses, all of them Barabbas. Mosiah's 'for he feared his word' is not John's diction but Mark 6:20's, 'For Herod feared John, knowing that he was a just man and an holy'.",
+          "significance": "This is the clearest sequence-level borrowing in the chapter, and it runs across the verse boundary. John 19:7 has the accusers say 'by our law he ought to die'; 19:8, that Pilate 'was the more afraid'; 19:12, that he 'sought to release him: but the Jews cried out'. Mosiah 17:7–12 has the court say 'thou art worthy of death'; 17:11, that Noah feared; 17:11–12, that he 'was about to release him' but 'the priests lifted up their voices against him'. Four steps in John's order. Recovering the context supplies what Mosiah leaves unsaid: what breaks Pilate is the accusers' threat to his standing with Caesar, and what breaks Noah is the priests whose office he created."
+        },
+        "note": "'And now king Noah was about to release him, for he feared his word; for he feared that the judgments of God would come upon him.' The KJV has exactly one ruler who 'sought to release' a prisoner and is overborne by the men accusing him, and the doubled motive — a ruler afraid of a prophet he is about to kill — is Mark 6:20's Herod. The Book of Mormon has fused the two reluctant executioners of the gospels into one king, and the fusion is legible because each half is rare on its own.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "And from thenceforth Pilate sought to release him: but the Jews cried out, saying, If thou let this man go, thou art not Caesar’s friend: whosoever maketh himself a king speaketh against Caesar."
+      }
+    ],
+    "17:12": [
+      {
+        "source": "Luke 23:2",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Acts 24:2",
+          "Acts 6:12"
+        ],
+        "provenance": {
+          "route": "Luke 23:2 → KJV → Book of Mormon",
+          "other": "“began to accuse him, saying” occurs in exactly two KJV verses, Luke 23:2 and Acts 24:2. Both are formal accusations laid before a judge with power of death — Jesus before Pilate, Paul before Felix — and in both the accusation as quoted is political rather than religious. 'Stirred up' is commoner (fifteen verses), but Acts 6:12, 'And they stirred up the people, and the elders, and the scribes', is the Stephen trial the rest of this chapter keeps returning to.",
+          "significance": "The five words are the KJV's formula for the moment a lynching acquires legal form. What the priests bring is a charge of lèse-majesté — 'He hath reviled the king' — which is precisely the shape of Luke 23:2's charge, that Jesus made himself 'Christ a King' and forbade tribute to Caesar. In both, the religious grievance is translated into a political one for the ruler's ears, because the ruler will not kill for the religious one; Noah had just been about to release Abinadi over the theology."
+        },
+        "note": "'But the priests lifted up their voices against him, and began to accuse him, saying: He hath reviled the king.' A five-word verbatim run from a two-verse KJV phrase, in the same office both KJV verses give it. The 1830 reading 'hath reviled' preserves the KJV's auxiliary where 1920 modernizes it to 'has', so the first edition shows the register of the borrowing more plainly than the current text does.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ],
+        "text": "And they began to accuse him, saying, We found this fellow perverting the nation, and forbidding to give tribute to Caesar, saying that he himself is Christ a King."
+      },
+      {
+        "source": "Exodus 22:28",
+        "type": "allusion",
+        "subtype": "conceptual",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 2,
+          "sequence": 2,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Acts 23:5"
+        ],
+        "provenance": {
+          "route": "Exodus 22:28 → KJV → Book of Mormon; Acts 23:5's form of the same statute is present at Mosiah 17:8",
+          "other": "“ruler of thy people” occurs in exactly two KJV verses, Exodus 22:28 and Acts 23:5, which are the statute and its New Testament citation. They differ at the verb: Exodus reads 'Thou shalt not revile the gods, nor curse the ruler of thy people'; Acts reads 'Thou shalt not speak evil of the ruler of thy people'. “speak evil of the ruler” occurs in exactly one KJV verse, Acts 23:5.",
+          "alternative": "The charge may simply be the natural English for insulting a monarch, with no statute behind it.",
+          "significance": "Mosiah 17 carries both forms of the one statute, four verses apart and in different mouths. The king's own demand at 17:8 is that Abinadi recall 'the words which thou hast spoken evil concerning me and my people' — Acts 23:5's idiom, and Acts 23:5's 'thy people' with it; the priests' formal charge at 17:12 is that 'He hath reviled the king' — Exodus 22:28's verb. So the Book of Mormon reproduces the Hebrew Bible's only law against insulting a ruler in the New Testament's paraphrase when the ruler speaks, and in the Old Testament's original when the lawyers do. Whether that distribution is design or accident, it is the kind of split a translation from a single source would not produce."
+        },
+        "note": "'He hath reviled the king.' The charge that kills Abinadi is the one crime the Pentateuch names against a head of state, and the chapter states it twice in the KJV's two different wordings for it. tools/mediation-check.py returns no decisive divergence here, because the verb is a single word and the tool ignores single common words to avoid false positives (ADJUDICATING §4); the split has to be caught by eye, and it is a real one. Recorded as direct-OT for 17:12 on the strength of 'reviled', with the Acts 23:5 half of the evidence set out above.",
+        "whyNot": "'Revile' stands in nine KJV verses and 'the king' in hundreds; nothing longer than one content word is shared with Exodus 22:28. The reading depends on treating 17:8 and 17:12 as one distributed borrowing rather than two independent idioms.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "Thou shalt not revile the gods, nor curse the ruler of thy people."
+      }
+    ],
+    "17:13": [
+      {
+        "source": "Mark 15:15",
+        "type": "allusion",
+        "subtype": "conceptual",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 2,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Matthew 27:26",
+          "John 19:1"
+        ],
+        "recurrenceRefs": [
+          "Mosiah 17:11"
+        ],
+        "provenance": {
+          "route": "Mark 15:15 → KJV → Book of Mormon",
+          "other": "“scourged” occurs in exactly four KJV verses. One is the slave law of Leviticus 19:20; the other three — Matthew 27:26, Mark 15:15, John 19:1 — are Pilate scourging Jesus. Mark 15:15 is the only KJV verse that holds a reluctant ruler, a release granted under pressure, a scourging and a handing over to death in one sentence.",
+          "significance": "Mosiah 17:11–13 does in three verses what Mark 15:15 does in one clause, and in Mark's order: the ruler would release, the crowd of accusers prevails, the prisoner is scourged, the prisoner is delivered to be killed. The Book of Mormon's variation is the instrument — faggots rather than the flagellum, so that the scourging and the execution are the same act, and the man is burned by degrees. That fusion is what makes 17:15's threat work: Abinadi's killers will suffer 'the pains that I do suffer', which requires the torture and the death to be one thing."
+        },
+        "note": "'And it came to pass that they took him, and bound him, and scourged his skin with faggots, yea, even unto death.' The word is the passion narrative's word; three of its four KJV occurrences are Pilate's. Taken alone it would be common vocabulary, but it arrives at the end of the John 19:12 sequence begun at 17:11 and in Mark 15:15's exact position within it, which is what lifts it above coincidence. 'Bound him' is likewise the KJV's arrest diction (Matthew 14:3 of John the Baptist, whose executioner is the Herod already standing behind 17:11).",
+        "whyNot": "'Scourged' is the ordinary English for a flogging and Leviticus supplies a non-passion precedent; the case is carried by the sequence rather than by the word.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "And so Pilate, willing to content the people, released Barabbas unto them, and delivered Jesus, when he had scourged him, to be crucified."
+      }
+    ],
+    "17:15": [
+      {
+        "source": "Acts 2:24",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 2,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "recurrenceRefs": [
+          "Mosiah 17:18"
+        ],
+        "provenance": {
+          "route": "Acts 2:24 → KJV → Book of Mormon",
+          "other": "“the pains of death” occurs in exactly one KJV verse, Acts 2:24: 'Whom God hath raised up, having loosed the pains of death: because it was not possible that he should be holden of it.' The Book of Mormon uses the phrase twice in four verses, at 17:15 and again at 17:18, both times as 'the pains of death, by fire'.",
+          "significance": "The one place the King James Bible speaks of 'the pains of death' is Peter's Pentecost sermon, and it speaks of them being loosed — the resurrection is defined there as God untying exactly this knot. Abinadi, burning, promises his judges the pains of death that Acts says Christ could not be held by; and he has spent chapters 15 and 16 preaching that resurrection. The borrowed phrase therefore carries its own answer with it: the pains he assigns them are the pains the sermon they refused says are loosed."
+        },
+        "note": "'Thy seed shall cause that many shall suffer the pains that I do suffer, even the pains of death, by fire.' A four-word KJV singleton, and the 1830 running text has the fuller clause the later editions trim, so the doubling of 'suffer ... suffer' that makes the sentence a formula of retribution is visible in the first edition. Abinadi is not describing his sensations but pronouncing a sentence, and the phrase he pronounces it in is the resurrection's.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ],
+        "text": "Whom God hath raised up, having loosed the pains of death: because it was not possible that he should be holden of it."
+      },
+      {
+        "source": "Judges 1:7",
+        "type": "echo",
+        "subtype": "possible",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 4,
+          "sequence": 3,
+          "context": 4,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "provenance": {
+          "route": "Judges 1:7 → KJV → Book of Mormon",
+          "other": "“so God hath requited me” occurs in exactly one KJV verse, Judges 1:7, and it is the Bible's clearest statement of measure-for-measure retribution in a mutilated victim's own mouth: 'as I have done, so God hath requited me'. The Book of Mormon's 'even as ye have done unto me, so shall it come to pass that ...' has the same two-limbed shape with the tense reversed.",
+          "significance": "Adonibezek pronounces the formula over himself, looking back at seventy kings he had maimed; Abinadi pronounces it over his judges, looking forward. Reading the two together makes Abinadi's curse a piece of Deuteronomistic jurisprudence rather than a personal grudge — the speaker is not threatening revenge but stating the rule the book of Judges says God works by, and Mosiah 19:20 and 21 will report it discharged when Noah himself is burned."
+        },
+        "note": "'Behold, even as ye have done unto me, so shall it come to pass that thy seed shall cause that many shall suffer the pains that I do suffer.' The machine offers Joshua 23:8 and Ezekiel 23:38 for 'have done unto', which share the string and not the sense; Judges 1:7 shares the sense and the construction, and it is the KJV's only articulation of the principle in this exact grammatical shape. An echo, not an allusion: the wording is close in structure and not in words.",
+        "whyNot": "Not a single distinctive word is shared — 'as ye have done ... so' is a construction, not a phrase, and the retributive formula is common enough in the prophets that no one verse need be in view.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "And Adonibezek said, Threescore and ten kings, having their thumbs and their great toes cut off, gathered their meat under my table: as I have done, so God hath requited me. And they brought him to Jerusalem, and there he died."
+      }
+    ],
+    "17:18": [
+      {
+        "source": "Ezekiel 13:21",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Jeremiah 38:23",
+          "Acts 2:24"
+        ],
+        "recurrenceRefs": [
+          "Mosiah 17:15"
+        ],
+        "provenance": {
+          "route": "Ezekiel 13:21 → KJV → Book of Mormon",
+          "other": "“hunted” occurs in exactly one KJV verse, Ezekiel 13:21: 'and they shall be no more in your hand to be hunted; and ye shall know that I am the LORD.' Ezekiel 13:21 and 13:23 also supply 'out of your hand', against which Mosiah sets 'by the hand of your enemies'. Jeremiah 38:23 contributes the other half of the verse — “taken by the hand of” the enemy, with the city 'burned with fire' in the same sentence — a three-word run the machine stream also found.",
+          "significance": "This is the chapter's sharpest piece of metalepsis. Ezekiel 13 is the oracle against false prophets and the women who prophesy out of their own hearts: God's charge against them is that they hunt souls, and his promise is to take his people out of their hand so that they shall be 'no more ... to be hunted'. Abinadi's audience is a college of false priests. He takes the KJV's only occurrence of the verb, which belongs to that oracle, and turns it round on them — the hunters will be the hunted. Ezekiel 13:22's specific accusation, strengthening 'the hands of the wicked ... by promising him life', is what Noah's priests have done for Noah, and it is the reason Abinadi will not recant the sentence of death at 17:9."
+        },
+        "note": "'And in that day ye shall be hunted, and ye shall be taken by the hand of your enemies, and then ye shall suffer, as I suffer, the pains of death, by fire.' One KJV singleton, one distinctive three-word run from Jeremiah's oracle of a city burned, and Acts 2:24's 'the pains of death' returning from 17:15 to close the verse. All three sources are oracles of judgment delivered to men who would not hear them, and the Ezekiel one is addressed to precisely the class of men Abinadi is addressing.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ],
+        "text": "Your kerchiefs also will I tear, and deliver my people out of your hand, and they shall be no more in your hand to be hunted; and ye shall know that I am the LORD."
+      }
+    ],
+    "17:19": [
+      {
+        "source": "Acts 7:59",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Acts 7:60",
+          "Revelation 11:18"
+        ],
+        "recurrenceRefs": [
+          "Mosiah 17:2"
+        ],
+        "provenance": {
+          "route": "Acts 7:59 → KJV → Book of Mormon",
+          "other": "“receive my spirit” occurs in exactly one KJV verse, Acts 7:59, Stephen's dying prayer. 'Receive my soul' does not occur in the King James Bible at all; the Book of Mormon has substituted the one word. The second clause draws on the KJV's vengeance idiom — “execute vengeance” occurs in exactly two KJV verses, Psalm 149:7 and Micah 5:15 — and “them which destroy” occurs in exactly one, Revelation 11:18, where the time of the dead is the time to 'destroy them which destroy the earth'.",
+          "significance": "Abinadi dies in Stephen's words with one substitution, and the substitution is the smaller of the two changes. The larger is what he says first. Stephen's second and last sentence is 'Lord, lay not this sin to their charge'; Abinadi's is 'Thus God executeth vengeance upon those that destroy his people.' The Book of Mormon has taken the KJV's model martyr's death, kept the committal and reversed the intercession — and it has to, because Mosiah 19 will narrate the vengeance and 17:15–18 has just pronounced it. Read against Acts 7, the verse is a deliberate refusal of forgiveness at the stake, which is a much stranger thing for a nineteenth-century devotional text to do than an imitation would be."
+        },
+        "note": "'Thus God executeth vengeance upon those that destroy his people. O God, receive my soul.' The dying committal is Acts 7:59 with 'soul' for 'spirit' and 'O God' for 'Lord Jesus, calling upon God' — and the substitutions run in the same direction, stripping the Christological address from a prayer that in Acts is the New Testament's first prayer to Jesus. The chapter opened at 17:2 with Acts 7:58's young bystander and closes at 17:19 with Acts 7:59's prayer, in the source's order, which is the strongest reason to accept the earlier link.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "And they stoned Stephen, calling upon God, and saying, Lord Jesus, receive my spirit."
+      }
+    ],
+    "17:20": [
+      {
+        "source": "Deuteronomy 13:5",
+        "type": "allusion",
+        "subtype": "conceptual",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "provenance": {
+          "route": "Deuteronomy 13:5 → KJV → Book of Mormon",
+          "other": "“put to death because” occurs in exactly two KJV verses, Leviticus 19:20 and Deuteronomy 13:5, and only Deuteronomy 13:5 is about a prophet: 'And that prophet, or that dreamer of dreams, shall be put to death; because he hath spoken to turn you away from the LORD your God.'",
+          "significance": "Deuteronomy 13:5 is the statute for executing a false prophet, and it is written as a formula: put to death, plus a because-clause naming the speech that earned it. Mosiah 17:20 reproduces the formula and inverts the clause — 'having been put to death because he would not deny the commandments of God'. Abinadi dies under the law against prophets who turn Israel away, for refusing to turn away himself. The chapter has been building this: Noah's court demanded a recantation (17:8), the prophet refused (17:9), and the statute that should have protected him is the one that kills him. Note the second half of Deuteronomy 13:5 as well — 'So shalt thou put the evil away from the midst of thee' — which is what Noah's priests believe they are doing and what Mosiah 19 shows them not to have done."
+        },
+        "note": "'Having been put to death because he would not deny the commandments of God: having sealed the truth of his words by his death.' The Pentateuch's execution formula for false prophets, with its because-clause turned inside out. This is the chapter's closing argument and it is made grammatically rather than by assertion: nothing says Abinadi was tried under Deuteronomy 13, but his death is reported in Deuteronomy 13's sentence, and a reader who knows the statute cannot miss which side of it he is on.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ],
+        "text": "And that prophet, or that dreamer of dreams, shall be put to death; because he hath spoken to turn you away from the LORD your God, which brought you out of the land of Egypt, and redeemed you out of the house of bondage, to thrust thee out of the way which the LORD thy God commanded thee to walk in. So shalt thou put the evil away from the midst of thee."
+      }
+    ]
+  }
+}

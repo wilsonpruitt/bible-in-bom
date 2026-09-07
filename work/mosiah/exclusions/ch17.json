@@ -1,0 +1,42 @@
+[
+  {
+    "bomRef": "Mosiah 17:3",
+    "source": "2 Corinthians 6:17",
+    "category": "wrong-sense",
+    "sharedText": "out from among them",
+    "streams": ["machine-ngram"],
+    "reason": "The machine's top candidate for the verse, and a genuine KJV singleton: 'come out from among them' stands in 2 Corinthians 6:17 and nowhere else. The sense is opposed at every point. Paul's is an imperative to the faithful to separate themselves voluntarily from the unclean — 'come out ... and be ye separate ... and I will receive you' — and the movement is the believer's own. Mosiah 17:3 is passive and forced: 'the king ... caused that Alma should be cast out from among them, and sent his servants after him, that they might slay him.' What Paul offers as a blessing to be chosen, Noah imposes as a sentence of exile with assassins behind it. The Book of Mormon's verb is 'cast out', which is not Paul's, and the four shared words are the only contact. A careful reader could be tempted, because Alma's expulsion does in fact begin a separated church three verses of narrative later — but that is the reader's typology, not the text's borrowing, and accepting it would put a Pauline blessing in a murder order's mouth."
+  },
+  {
+    "bomRef": "Mosiah 17:17",
+    "source": "2 Samuel 21:20",
+    "category": "wrong-sense",
+    "sharedText": "on every hand",
+    "streams": ["machine-ngram", "manual"],
+    "reason": "'On every hand' is a KJV singleton and it is worth recording why it cannot be the source. Its one occurrence is anatomical: the Philistine giant of Gath 'had on every hand six fingers, and on every foot six toes'. Mosiah 17:17's 'ye shall be smitten on every hand' uses 'hand' in the wholly unrelated adverbial sense of side or direction. This is the pilot's rare-word-wrong-sense trap exactly (ADJUDICATING §4, Samson's brass fetters), and the singleton count is what makes it dangerous rather than what makes it evidence. The genuine KJV background for the verse is the flock-and-beasts language of the scattering oracles — Ezekiel 34:5, 'they were scattered, because there is no shepherd: and they became meat to all the beasts of the field' — which the Book of Mormon reaches by sense and not by any phrase long enough to catalogue."
+  },
+  {
+    "bomRef": "Mosiah 17:16",
+    "source": "2 Samuel 17:9",
+    "category": "formulaic",
+    "sharedText": "and it will come to pass",
+    "streams": ["machine-ngram"],
+    "reason": "The chapter's highest-scoring candidate by n-gram rarity (2.50) and worthless, which is the pilot's finding about the stream restated (CONVENTIONS §9). 'And it will come to pass' is rare in the KJV only because the KJV prefers 'shall'; it is not rare as English and it is pure connective tissue. 2 Samuel 17:9 is Hushai's counsel about Absalom hiding in a pit and shares no content word with a threat of disease for iniquity. Logged rather than passed over in silence because the score is high enough that an adjudicator working down a ranked list would stop at it."
+  },
+  {
+    "bomRef": "Mosiah 17:9",
+    "source": "Matthew 18:22",
+    "category": "common-vocabulary",
+    "sharedText": "saith unto him, I say unto you",
+    "streams": ["machine-ngram"],
+    "reason": "Both the 1830 'Abinadi saith unto him' and the following 'I say unto you' are speech formulae the Book of Mormon uses hundreds of times, and the gospels thousands. The 1830 present tense 'saith' — changed to 'said' in 1920, and flagged as a variant here — is a real observation about the first edition's KJV register and is worth noting on that account, but it points at the KJV's narrative style in general and not at Matthew 18:22 or Luke 7:9 in particular. No exclusion is needed for the dozens of other verses in this chapter that share such formulae; this one is written because the variant makes it look more significant than it is."
+  },
+  {
+    "bomRef": "Mosiah 17:5",
+    "source": "Matthew 18:30",
+    "category": "insufficient-verbal",
+    "sharedText": "cast him into prison",
+    "streams": ["machine-ngram"],
+    "reason": "'Cast him into prison' is the KJV's ordinary English for imprisonment and Matthew 18:30 is the unforgiving servant's parable, which has nothing in common with Abinadi's arrest beyond the act. The phrase does carry a faint pull toward Revelation 2:10 — 'the devil shall cast some of you into prison, that ye may be tried ... be thou faithful unto death, and I will give thee a crown of life' — which would sit well with a martyr who says at 17:10 that he 'will suffer even until death'. That reading is declined here rather than catalogued: 'unto death' is not 'until death', the intervening five verses are trial diction and not apocalyptic, and the case for the chapter's New Testament debts rests on the singletons at 17:1, 17:7, 17:11 and 17:19, which do not need this one. Recorded so that a reader who thinks of Revelation 2:10 can see it was considered."
+  }
+]

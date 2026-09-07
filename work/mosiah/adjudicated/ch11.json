@@ -1,0 +1,562 @@
+{
+  "chapter": 11,
+  "adjudicated": "2026-09-07",
+  "adjudicator": "Opus",
+  "links": {
+    "11:1": [
+      {
+        "source": "2 Chronicles 21:12",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "And there came a writing to him from Elijah the prophet, saying, Thus saith the LORD God of David thy father, Because thou hast not walked in the ways of Jehoshaphat thy father, nor in the ways of Asa king of Judah,",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "provenance": {
+          "route": "2 Chronicles 21:12 → KJV → Book of Mormon",
+          "other": "“walked in the ways of” occurs in exactly four KJV verses — 2 Chronicles 21:12, 22:3, 28:2 and 34:2 — and 2 Chronicles 21:12 is the only one where the ways are a father's and the statement is a negative. 'His son began to reign in his stead' at Mosiah 10:6 and 11:1 fuses two Kings formulas that the KJV never joins; see the exclusion at 10:6.",
+          "significance": "The verse is not merely a regnal evaluation, it is the opening of a prophet's letter — the only piece of writing from Elijah in the Old Testament — sent to a king who abandoned his father's ways. What follows it is the oracle: the LORD will smite the king's people 'with a great plague' (21:14) and the king himself with a wasting sickness in his own body (21:15). Mosiah 11:1 opens the reign; Mosiah 12:3-7 delivers exactly that oracle to exactly that king, the people struck with 'famine and with pestilence' and Noah's own life 'valued even as a garment in a hot furnace'. The frame the chapter borrows in its first sentence is the frame the next chapter fills in."
+        },
+        "note": "'Noah began to reign in his stead; and he did not walk in the ways of his father.' The Deuteronomistic succession-plus-evaluation is the King James Bible's own two-part formula for opening a bad reign, and the Book of Mormon takes both halves in order. The evaluation half is traceable: of the four KJV verses with 'walked in the ways of', only 2 Chronicles 21:12 is a negative judgment measured against the man's own father, which is precisely Mosiah 11:1's sentence. Zeniff was a flawed but praying king; his son is introduced by the formula the KJV reserves for apostates.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "11:2": [
+      {
+        "source": "2 Chronicles 11:21",
+        "type": "echo",
+        "subtype": "probable",
+        "confidence": "moderate",
+        "text": "And Rehoboam loved Maachah the daughter of Absalom above all his wives and his concubines: (for he took eighteen wives, and threescore concubines; and begat twenty and eight sons, and threescore daughters.)",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 4,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "1 Kings 11:3"
+        ],
+        "recurrenceRefs": [
+          "Mosiah 11:4",
+          "Mosiah 11:14"
+        ],
+        "provenance": {
+          "route": "2 Chronicles 11:21 → KJV → Book of Mormon",
+          "other": "“his wives and his concubines” occurs in exactly three KJV verses: 2 Chronicles 11:21, and Daniel 5:2 and 5:3, which are Belshazzar's feast. The Book of Mormon repeats the pair three times in this chapter (11:2, 11:4, 11:14), which is the pattern of a formula being used rather than a verse being quoted.",
+          "alternative": "1 Kings 11:3, Solomon's seven hundred wives and three hundred concubines, which is the passage the collocation summons even though it does not carry the KJV string.",
+          "significance": "Both KJV homes of the phrase belong to kings this chapter is going to resemble: Rehoboam, whose taxation split a kingdom, and Belshazzar, who drank from stolen temple vessels with his wives and his concubines while a hand wrote on the wall. Noah does both — a fifth part levied on everything (11:3) and riotous living with the same company (11:14) — and receives, two chapters later, his own writing on the wall in the person of Abinadi."
+        },
+        "note": "'He did walk after the desires of his own heart. And he had many wives and concubines.' The pairing is a KJV formula rather than a citation, which is why this is an echo; it earns the entry because the chapter uses it three times in thirteen verses as the marker of Noah's court, and because the two verses that hold it in the KJV are the two Old Testament kings whose careers this chapter is running in parallel. The 1830 text's 'do that which was abominable in the sight of the Lord' shadows the Kings formula 'did that which was evil in the sight of the LORD' (forty-four KJV verses) without reproducing it — a substitution, not a quotation.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "11:3": [
+      {
+        "source": "Genesis 47:24",
+        "type": "allusion",
+        "subtype": "conceptual",
+        "confidence": "moderate",
+        "text": "And it shall come to pass in the increase, that ye shall give the fifth part unto Pharaoh, and four parts shall be your own, for seed of the field, and for your food, and for them of your households, and for food for your little ones.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 3,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Genesis 41:34",
+          "Genesis 47:26"
+        ],
+        "provenance": {
+          "route": "Genesis 41:34 / 47:24-26 → KJV → Book of Mormon",
+          "other": "“fifth part” occurs in exactly 13 KJV verses, but only three of them are a tax: Genesis 41:34, where Joseph proposes that Pharaoh 'take up the fifth part of the land of Egypt', and Genesis 47:24 and 47:26, where he makes it permanent law. The rest are Leviticus's restitution surcharge, a private penalty rather than a royal levy.",
+          "significance": "A fifth part is the King James Bible's rate of royal taxation and it has one story attached. Joseph's fifth is imposed to save a people from famine and it is remembered as wisdom. Noah's fifth — 'of their gold and of their silver, and a fifth part of their ziff, and of their copper, and of their brass and their iron; and a fifth part of their fatlings; and also, a fifth part of all their grain' — is imposed to support himself, his wives, his concubines and his priests, and the chapter's own verdict two sentences later is that 'the people labor exceedingly, to support iniquity'. The rate is identical and the direction is reversed: Joseph's fifth turns grain into survival, Noah's turns labour into idleness. And the famine that Joseph's fifth averted is what Abinadi will promise Noah's people at 12:4."
+        },
+        "note": "The Book of Mormon does not quote Genesis here; it uses Genesis's number. What makes the borrowing arguable rather than coincidental is that the enumeration follows Joseph's own subject-matter — grain and livestock ('fatlings') — while adding the metals a Genesis famine tax would have no use for. The verse is best read as a deliberate inversion of the one biblical precedent for a twenty-percent crown levy, and it is placed immediately after the regnal evaluation of 11:1 so that the reader meets the tax as the first act of a bad reign.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "11:7": [
+      {
+        "source": "1 Thessalonians 2:5",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "text": "For neither at any time used we flattering words, as ye know, nor a cloke of covetousness; God is witness:",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "1 Thessalonians 2:5 → KJV → Book of Mormon",
+          "other": "“flattering words” occurs in exactly one KJV verse, 1 Thessalonians 2:5. The KJV's other flattery vocabulary is 'flattering lips' (Psalm 12:2-3), 'flattering titles' (Job 32:21-22) and 'flattereth' — none of them this phrase.",
+          "significance": "The KJV's one use of the phrase is a denial, and it is a denial by preachers about their own preaching: Paul is certifying to the Thessalonians that his mission was not a confidence trick. Mosiah 11:7 hands the phrase to the men Paul was distinguishing himself from — a king and a state-appointed priesthood who are supported by a tax and who speak 'flattering things' from a breastwork built so that they can rest their arms while they do it (11:11). Recover the Pauline context and the verse acquires a test: the mark of a true preacher in the King James Bible is that he does not use flattering words and does not use a cloke of covetousness, and Noah's priests fail both halves in the same paragraph."
+        },
+        "note": "'They also became idolatrous, because they were deceived by the vain and flattering words of the king and priests; for they did speak flattering things unto them.' The Book of Mormon splits the phrase across the sentence and repeats the adjective, which is what a remembered phrase does. 'Vain words' is a separate and much commoner KJV string (five verses, none of them relevant); 'flattering words' is the singleton and it is doing the work. Note that 1 Thessalonians 2:5 is the negative form of exactly the charge Abinadi will bring at 12:25-26 — professional teachers who do not teach what they profess.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "11:8": [
+      {
+        "source": "Ecclesiastes 2:4",
+        "type": "allusion",
+        "subtype": "conceptual",
+        "confidence": "moderate",
+        "text": "I made me great works; I builded me houses; I planted me vineyards:",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "uncertain",
+        "mediation": "direct-OT",
+        "composite": [
+          "Ecclesiastes 2:8"
+        ],
+        "recurrenceRefs": [
+          "Mosiah 11:9",
+          "Mosiah 11:15"
+        ],
+        "provenance": {
+          "route": "Ecclesiastes 2:4-8 → KJV → Book of Mormon",
+          "other": "“planted me vineyards” occurs in exactly one KJV verse, Ecclesiastes 2:4. The Book of Mormon has 'he planted vineyards' at 11:15, which does not reproduce the string; what is reproduced is the sequence.",
+          "significance": "Ecclesiastes 2:4-8 is the King James Bible's one catalogue of a king's building programme in the king's own voice: great works, houses, vineyards, gardens, pools, servants, silver and gold, singers, 'the delights of the sons of men'. Mosiah 11:8-15 runs the same list in the same order — buildings (11:8), a palace and throne (11:9), gold and silver and precious things (11:8-11), vineyards and wine (11:15), and the delights of the sons of men in the plainest possible form (11:14). What Ecclesiastes concludes about the catalogue is the thing the Book of Mormon leaves for Abinadi to say: 'all was vanity and vexation of spirit, and there was no profit under the sun.'"
+        },
+        "note": "The verbal contact is thin — the shared elements are common nouns — and the case rests on sequence, which is the one Hays subscore that can carry a link on its own when the sequence is long enough and the precursor is distinctive enough. Recorded at moderate. The alternative reading, that Noah is simply Solomon in 1 Kings 10, is not exclusive of this one: Ecclesiastes 2 is the KJV's Solomon narrating his own works, which is why it, rather than 1 Kings, supplies the order.",
+        "whyNot": "No distinctive shared wording; the argument is entirely from the order of the elements, and a reader who thinks a rich king's building list will naturally run buildings-palace-gold-vineyards is entitled to decline it.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "11:9": [
+      {
+        "source": "Daniel 11:38",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "But in his estate shall he honour the God of forces: and a god whom his fathers knew not shall he honour with gold, and silver, and with precious stones, and pleasant things.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "provenance": {
+          "route": "Daniel 11:38 → KJV → Book of Mormon",
+          "other": "“gold and silver and with precious” occurs in exactly one KJV verse, Daniel 11:38 — a seven-word run, and the highest-scoring machine candidate anywhere in Mosiah 11 (rarity 2.42). The Book of Mormon reads 'ornamented with gold, and silver, and with precious things'; Daniel has 'precious stones, and pleasant things', so the two nouns are fused.",
+          "significance": "Daniel 11:38 describes the king who will not honour the god of his fathers and who ornaments instead a god his fathers knew not. Mosiah 11 has opened, one paragraph earlier, with a king who 'did not walk in the ways of his father' and who put down all the priests his father had consecrated. Recover Daniel's context and Noah's spacious palace stops being a display of wealth and becomes a cult: the gold and silver and precious things are going where the fathers' religion used to be, which is exactly what the chapter says about the temple at 11:10-11 — Noah's workmen ornament its walls and build his priests a breastwork inside it."
+        },
+        "note": "'A spacious palace, and a throne in the midst thereof, all of which was of fine wood, and was ornamented with gold, and silver, and with precious things.' The seven-word run is Daniel's, including the odd repeated preposition ('and silver, and WITH precious') that is the tell of a phrase carried over whole. Solomon's throne stands behind the sentence too — 'the king made a great throne of ivory, and overlaid it with the best gold', 1 Kings 10:18, one of only two KJV verses with 'a great throne' — but the throne supplies the furniture and Daniel supplies the words.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "11:14": [
+      {
+        "source": "Luke 15:13",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "text": "And not many days after the younger son gathered all together, and took his journey into a far country, and there wasted his substance with riotous living.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 3,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Luke 15:30",
+          "Proverbs 29:3"
+        ],
+        "recurrenceRefs": [
+          "Mosiah 12:29"
+        ],
+        "provenance": {
+          "route": "Luke 15:13, 15:30 → KJV → Book of Mormon",
+          "other": "“riotous living” occurs in exactly one KJV verse, Luke 15:13, and “wasted his substance” in exactly one, the same verse. 'With harlots' occurs in three: Proverbs 29:3, Hosea 4:14 and Luke 15:30. Mosiah 11:14 puts the singleton and one of the three in a single sentence, and the only KJV passage that holds both is the parable of the prodigal son.",
+          "alternative": "Proverbs 29:3, “spendeth his substance” with harlots, also a KJV singleton, which is the wisdom saying the parable is itself built on.",
+          "significance": "The King James Bible's one phrase for dissipation belongs to a story about a son who comes home. The elder brother's accusation at Luke 15:30 supplies the second half of Mosiah's sentence — 'this thy son ... which hath devoured thy living with harlots' — so the Book of Mormon has taken both the younger son's conduct and the elder son's indictment of it and given them to a king and his priests. What the parable withholds is the point: the prodigal's riotous living ends in repentance and a father running to meet him. Noah's does not. Abinadi has been sent with precisely the offer the parable makes ('except they repent', 11:20, 11:21, 11:23, 11:25), the king hardens his heart against it at 11:29, and the same vocabulary returns at 12:29 when Abinadi asks the priests why they 'spend your strength with harlots'. The far country in this version is the palace."
+        },
+        "note": "'He spent his time in riotous living with his wives and his concubines; and so did also his priests spend their time with harlots.' Two Lucan phrases from one parable in one sentence, one of them a KJV singleton, and the Book of Mormon keeps Luke's verb for both halves — the prodigal 'wasted', the Book of Mormon 'spent', which is Proverbs 29:3's 'spendeth' rather than Luke's, so the sentence is drawing on the wisdom saying and the parable at once. Note that 'harlots' is reserved here for the priests and 'wives and concubines' for the king: the distinction is the Book of Mormon's, and it is what makes the priests, not Noah, the ones Abinadi charges with it at 12:29.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "11:15": [
+      {
+        "source": "Isaiah 5:2",
+        "type": "allusion",
+        "subtype": "conceptual",
+        "confidence": "high",
+        "text": "And he fenced it, and gathered out the stones thereof, and planted it with the choicest vine, and built a tower in the midst of it, and also made a winepress therein: and he looked that it should bring forth grapes, and it brought forth wild grapes.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "uncertain",
+        "mediation": "uncertain",
+        "composite": [
+          "Matthew 21:33"
+        ],
+        "recurrenceRefs": [
+          "Mosiah 11:12",
+          "Mosiah 11:13"
+        ],
+        "provenance": {
+          "route": "Isaiah 5:2, or Matthew 21:33 / Mark 12:1 → KJV → Book of Mormon",
+          "other": "“built a tower” occurs in exactly three KJV verses — Isaiah 5:2, Matthew 21:33, Mark 12:1 — and all three are the same figure: a vineyard with a tower and a winepress in it. Outside that figure the King James Bible never builds a tower at all. “made a winepress” occurs in exactly one KJV verse, Isaiah 5:2.",
+          "alternative": "Matthew 21:33, the parable of the wicked husbandmen, which has the same three elements and adds the servants sent and killed.",
+          "significance": "Three verses in the King James Bible put a tower and a winepress in a vineyard, and every one of them is a parable about a proprietor who plants carefully and gets nothing back. Noah builds all three — a very high tower near the temple (11:12), a second great tower on the hill (11:13), vineyards and wine presses (11:15) — and the chapter's next sentence is that he became a wine bibber. He has, without knowing it, constructed the stage set of the Song of the Vineyard on his own land; and the Song's continuation is a series of woes on drunkards ('woe unto them that rise up early in the morning, that they may follow strong drink', 5:11) and a promise that the vineyard will be laid waste. Abinadi arrives five verses later with a woe (11:20). If the NT form is in view instead, the vineyard is the one whose owner sends a servant the husbandmen kill, which is the plot of Mosiah 11-17 exactly."
+        },
+        "note": "The tower, the vineyard and the winepress are separated in the Book of Mormon by three verses, which is why the n-gram stream cannot see this and why it is filed at 11:15 with the other two in recurrenceRefs: contiguous windows are blind to a figure assembled across a paragraph (CONVENTIONS §9). No single string is reproduced; the evidence is that the King James Bible assembles these three objects in one place and nowhere else, and that Mosiah 11 assembles them too. `mediation-check.py` finds no decisive divergence between Isaiah 5:2 and Matthew 21:33 at any point the Book of Mormon reproduces — the wording is too free — so mediation is recorded as uncertain rather than guessed.",
+        "whyNot": "Every noun involved is common, and a king with a tower and a vineyard is not by itself an allusion. The case is the co-occurrence and the KJV's total silence about towers outside this figure.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      },
+      {
+        "source": "Matthew 11:19",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "text": "The Son of man came eating and drinking, and they say, Behold a man gluttonous, and a winebibber, a friend of publicans and sinners. But wisdom is justified of her children.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 2,
+          "sequence": 2,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "recurrenceRefs": [
+          "Mosiah 11:25"
+        ],
+        "provenance": {
+          "route": "Matthew 11:19 → KJV → Book of Mormon",
+          "other": "'Winebibber' occurs in exactly three KJV verses: Proverbs 23:20 ('be not among winebibbers', plural), Matthew 11:19 and Luke 7:34. Only Matthew and Luke use the singular noun of a named man, and the Book of Mormon's 1830 text sets it as two words, 'wine bibber'.",
+          "alternative": "Luke 7:34, which is the same saying in the same words; nothing in the verse distinguishes them.",
+          "significance": "In the King James Bible the word is an accusation, and it is a false one: it is what 'they say' about the Son of man, and the saying answers it — wisdom is justified of her children. Mosiah 11:15 makes it a report rather than a slander, and it is true. What makes this more than a coincidence of vocabulary is what happens ten verses later: Abinadi's oracle at 11:25 requires the people to 'repent in sackcloth and ashes', which in the King James Bible is Matthew 11:21, two verses further down the same discourse — the woe on Chorazin and Bethsaida for not repenting. Matthew 11 is used twice in one chapter, first for the charge against the king and then for the sentence on the city."
+        },
+        "note": "'He became a wine bibber, and also his people.' A single distinctive noun, but a noun the King James Bible uses of a man only twice, in one saying, and one whose whole force there is that the charge is unjust. Applied to Noah it is simply accurate, and applied to 'also his people' it becomes the civic condition Abinadi is sent to address. The link is filed as an allusion rather than an echo because the same discourse supplies 11:25 — recurrence within a single chapter is Hays's third criterion doing exactly what it is for.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "11:19": [
+      {
+        "source": "2 Chronicles 25:19",
+        "type": "allusion",
+        "subtype": "conceptual",
+        "confidence": "moderate",
+        "text": "Thou sayest, Lo, thou hast smitten the Edomites; and thine heart lifteth thee up to boast: abide now at home; why shouldest thou meddle to thine hurt, that thou shouldest fall, even thou, and Judah with thee?",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 3,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "2 Kings 14:10"
+        ],
+        "recurrenceRefs": [
+          "Mosiah 11:5",
+          "Mosiah 12:12"
+        ],
+        "provenance": {
+          "route": "2 Chronicles 25:18-19 (= 2 Kings 14:9-10) → KJV → Book of Mormon",
+          "other": "'Lifted up in the pride of their hearts' is in no KJV verse; the nearest King James constructions are 'the pride of thine heart hath deceived thee' (Obadiah 1:3, Jeremiah 49:16) and “thine heart lifteth thee up to boast”, which occurs in exactly one KJV verse, 2 Chronicles 25:19, of which only the second joins the lifting to the boasting as Mosiah 11:19 does.",
+          "significance": "This is the first half of a passage the batch meets again in the next chapter. 2 Chronicles 25:18-19 (and its twin 2 Kings 14:9-10) is a single speech: a king sends another king the parable of the thistle that presumed on the cedar and was trodden down by a wild beast, and then names the fault the parable is about — 'thine heart lifteth thee up to boast'. Mosiah takes the two halves in reverse order and eleven verses apart. Here the Nephites' hearts are lifted up and they boast; at 12:12 Abinadi's accusers report his charge that the king shall be 'as the blossoms of a thistle', and at 12:11 that he shall be 'ran over by the beasts and trodden under foot'. Amaziah's fault and Amaziah's parable arrive at Noah's court in the same order they left Joash's mouth, split across the two chapters."
+        },
+        "note": "'They were lifted up in the pride of their hearts; they did boast in their own strength, saying, That their fifty could stand against thousands of the Lamanites.' Two things converge on this verse. The boast is measured in the arithmetic of Leviticus 26:8 — 'five of you shall chase an hundred, and an hundred of you shall put ten thousand to flight', the covenant promise that Israel's numbers do not matter — and the boast strips it of the covenant, which is the point: the Nephites claim the ratio while 'depending upon their own strength' in Zeniff's phrase at 10:11. And the lifting-up-to-boast is the diagnosis 2 Chronicles 25:19 gives a king before the thistle takes him. Recorded at moderate because neither source is reproduced verbally; the argument is the convergence and the sequel at 12:11-12.",
+        "whyNot": "'Lifted up in the pride of their hearts' is a Book of Mormon formula in its own right and the chapter has already used it at 11:5. A reader may take 2 Chronicles 25:19 as a resemblance the thistle at 12:12 makes retrospectively attractive rather than a source.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      },
+      {
+        "source": "Leviticus 26:8",
+        "type": "echo",
+        "subtype": "conceptual",
+        "confidence": "moderate",
+        "text": "And five of you shall chase an hundred, and an hundred of you shall put ten thousand to flight: and your enemies shall fall before you by the sword.",
+        "evidence": {
+          "vocabulary": 2,
+          "syntax": 2,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "no",
+        "mediation": "direct-OT",
+        "recurrenceRefs": [
+          "1 Nephi 3:31",
+          "1 Nephi 4:1"
+        ],
+        "provenance": {
+          "route": "Leviticus 26:8 → KJV → Book of Mormon",
+          "other": "“shall chase an hundred” occurs in exactly one KJV verse, Leviticus 26:8. No word of it survives into Mosiah 11:19; what survives is the form of the claim — a small named number standing against a large unnamed one.",
+          "significance": "Leviticus 26:8 is a promise, and it is conditional: it stands inside 'if ye walk in my statutes' (26:3), and the same chapter reverses it exactly for disobedience — 'ye shall flee when none pursueth' (26:17). Noah's soldiers assert the promise while the chapter is documenting the condition being broken, and the reversal arrives on schedule in the next chapter. The unit of fifty is also the Book of Mormon's own inherited arithmetic: Laman's objection at 1 Nephi 3:31 was that Laban 'can command fifty', and Nephi's answer was the Lord who is mightier than Laban and his fifty. Noah's men make Laman's calculation and call it a victory."
+        },
+        "note": "No verbal contact at all, which is why this is an echo at moderate and why kjvSpecific is 'no': the link is to the shape of a covenant formula, not to its English. It earns a row because Leviticus 26 is the only place in the Bible that states a battlefield ratio as a theological claim, because the boast at 11:19 states one, and because Mosiah 11-12 goes on to deliver Leviticus 26's curses in Leviticus 26's own areas — bondage (11:21, 12:2), the sword, and 'I will be slow to hear their cries' answering 'I will walk contrary unto you' (26:24).",
+        "whyNot": "Nothing verbal survives. A reader may hold that a boast about odds needs no source.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "11:22": [
+      {
+        "source": "Exodus 20:5",
+        "type": "quotation",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "Thou shalt not bow down thyself to them, nor serve them: for I the LORD thy God am a jealous God, visiting the iniquity of the fathers upon the children unto the third and fourth generation of them that hate me;",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 3
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "recurrenceRefs": [
+          "Mosiah 12:34",
+          "Mosiah 12:35",
+          "Mosiah 12:36"
+        ],
+        "provenance": {
+          "route": "Exodus 20:5 → KJV → Book of Mormon",
+          "other": "“a jealous God visiting the iniquit” occurs in exactly two KJV verses, Exodus 20:5 and Deuteronomy 5:9, which are verbally identical across the whole of the borrowed clause; the verse cannot discriminate between them. The Book of Mormon's own departure is decisive of something else: it reads 'visiting the iniquities of MY PEOPLE' where both KJV verses read 'the iniquity of the fathers upon the children'.",
+          "significance": "Abinadi's first oracle ends with the sanction clause of the second commandment, and his last recorded act in this chapter-pair is to recite the commandments themselves (12:34-36). The order matters: the sanction is quoted before the law it sanctions, so that when the priests are finally asked what they teach and answer 'the law of Moses' (12:28), the reader has already heard the penalty attached. And the substitution — 'the iniquities of my people' for 'the iniquity of the fathers upon the children' — cuts the generational transfer out of the commandment. Noah's people are not being punished for their fathers; they are the fathers."
+        },
+        "note": "'They shall know that I am the Lord their God, and am a jealous God, visiting the iniquities of my people.' Nine continuous KJV words, and the point of interest is where the quotation stops. Exodus 20:5's clause runs on to 'the fathers upon the children unto the third and fourth generation'; the Book of Mormon breaks off at 'the iniquities of' and substitutes its own object. Below Skousen's sixteen-word threshold and not one of his thirty-six. Hardy's apparatus cross-references Exodus 20:5 at this verse.",
+        "bibliography": [
+          "Hardy MSI at Mosiah 11.22 (Exodus 20:5)"
+        ],
+        "status": "majority",
+        "streams": [
+          "machine-ngram",
+          "scholarship",
+          "manual"
+        ]
+      }
+    ],
+    "11:24": [
+      {
+        "source": "Jeremiah 11:11",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "text": "Therefore thus saith the LORD, Behold, I will bring evil upon them, which they shall not be able to escape; and though they shall cry unto me, I will not hearken unto them.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "provenance": {
+          "route": "Jeremiah 11:11 → KJV → Book of Mormon",
+          "other": "“they shall cry unto me” occurs in exactly one KJV verse, Jeremiah 11:11 — a seven-word run with the Book of Mormon ('they shall cry unto me, I will'), which was also the machine's top candidate for the verse. The KJV's other refusals to hear are worded differently: 'then shall they cry unto the LORD, but he will not hear them' (Micah 3:4), 'so they cried, and I would not hear' (Zechariah 7:13), 'then shall they call upon me, but I will not answer' (Proverbs 1:28).",
+          "significance": "Jeremiah 11 is the covenant-lawsuit chapter: the LORD reminds Judah of the covenant made 'in the day that I brought them forth out of the land of Egypt, from the iron furnace' (11:4), finds it broken, and withdraws the hearing of prayer. Two things follow from recovering it. Abinadi's own commission is Jeremiah's — the prophet forbidden to intercede (11:14) — and the covenant formula Jeremiah invokes, deliverance from Egypt and the house of bondage, is the exact sentence Abinadi will recite at Mosiah 12:34. The oracle that suspends prayer and the commandment that grounds the covenant come from the same argument, two chapters apart."
+        },
+        "note": "'When they shall cry unto me, I will be slow to hear their cries.' The seven shared words include the pronoun sequence, and the Book of Mormon then softens Jeremiah's absolute refusal into a delay — 'slow to hear' — before restoring the absolute at 11:25 ('I will not hear their prayers'). That two-stage movement is not in Jeremiah and is the Book of Mormon's own. What is Jeremiah's is the premise, that a covenant people can forfeit the hearing of its prayers, which is the doctrine the whole oracle depends on.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "11:25": [
+      {
+        "source": "Matthew 11:21",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "text": "Woe unto thee, Chorazin! woe unto thee, Bethsaida! for if the mighty works, which were done in you, had been done in Tyre and Sidon, they would have repented long ago in sackcloth and ashes.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "recurrenceRefs": [
+          "Mosiah 11:15"
+        ],
+        "provenance": {
+          "route": "Matthew 11:21 (or Luke 10:13) → KJV → Book of Mormon",
+          "other": "'In sackcloth and ashes' occurs in exactly three KJV verses: Esther 4:3, Matthew 11:21 and Luke 10:13. Esther's is mourning at a decree, not repentance; only the Gospel saying joins the phrase to the verb 'repent'. “repented long ago in sackcloth and ashes” occurs in exactly one KJV verse, Matthew 11:21.",
+          "alternative": "Luke 10:13, which carries the same saying as 'they had a great while ago repented, sitting in sackcloth and ashes'.",
+          "significance": "The Gospel saying is a counterfactual: Tyre and Sidon, the proverbially doomed pagan cities, WOULD have repented had they seen what these towns saw, and therefore it will be more tolerable for Tyre and Sidon in the day of judgment than for Chorazin and Bethsaida. Abinadi is standing in a city that has seen a prophet and demanding the sackcloth Tyre and Sidon would have put on. The threat that follows in Mosiah — bondage, unanswered prayer, no deliverer — is the Matthean 'more tolerable for them than for you' turned into an oracle. And Noah has already been given a word from two verses earlier in the same discourse (11:15, 'winebibber'), which is what makes this a use of Matthew 11 rather than a coincidence of a common idiom."
+        },
+        "note": "`mediation-check.py` returns no decisive divergence between Matthew 11:21 and Luke 10:13: the Book of Mormon reproduces only 'repent in sackcloth and ashes', and neither Matthew's 'long ago' nor Luke's 'sitting' appears, so this verse cannot settle which Gospel is in view. The argument for Matthew is external and contextual — Matthew 11:19 supplies 'winebibber' ten verses earlier in the same Book of Mormon chapter — and it is offered as an argument, not a demonstration. Mediation is recorded as direct-NT, which the three-verse count does establish: the OT alternative, Esther 4:3, has the mourning without the repenting.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "11:27": [
+      {
+        "source": "Exodus 5:2",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "text": "And Pharaoh said, Who is the LORD, that I should obey his voice to let Israel go? I know not the LORD, neither will I let Israel go.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "provenance": {
+          "route": "Exodus 5:2 → KJV → Book of Mormon",
+          "other": "“who is the Lord that I should obey his voice” occurs in exactly one KJV verse, Exodus 5:2. The King James Bible asks 'Who is the LORD' in only one other place, Proverbs 30:9, and there it is a fear rather than a taunt.",
+          "significance": "The Book of Mormon puts Pharaoh's sentence in the mouth of a king whose prophet has just demanded that he release a people from a bondage that has not started yet — and the oracle Abinadi has delivered is precisely that bondage will start (11:21, 11:23). Pharaoh's question is the KJV's definitive refusal to recognise the God who brings people out of Egypt; Noah asks it, and the answer Abinadi eventually gives, in the last words of Mosiah 12, is the first commandment: 'I am the Lord thy God, which have brought thee out of the land of Egypt, out of the house of bondage.' The question of 11:27 is answered by the quotation of 12:34, and the answer is the one Pharaoh got."
+        },
+        "note": "'Who is Abinadi, that I and my people should be judged of him? or who is the Lord, that shall bring upon my people such great affliction?' The KJV sentence is reproduced through 'who is the Lord, that', and Noah's continuation replaces Pharaoh's 'I should obey his voice' with the affliction clause, which keeps the syntax and changes the object of contempt from obedience to power. The first half of the verse looks like Moses's other rejection — 'Who made thee a prince and a judge over us?' (Exodus 2:14) / 'a ruler and a judge over us' (Acts 7:27), the pair 1 Nephi 2:22 and 3:29 decided in the New Testament's favour — but `mediation-check.py` finds nothing decisive here: the Book of Mormon has neither 'prince' nor 'ruler', only 'judged of him', and the resemblance will not carry a link. See the exclusion.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "11:29": [
+      {
+        "source": "John 12:40",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "He hath blinded their eyes, and hardened their heart; that they should not see with their eyes, nor understand with their heart, and be converted, and I should heal them.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "OT-via-NT",
+        "composite": [
+          "Isaiah 6:10"
+        ],
+        "recurrenceRefs": [
+          "1 Nephi 12:17"
+        ],
+        "provenance": {
+          "route": "Isaiah 6:10 → John 12:40 → KJV → Book of Mormon",
+          "other": "The pairing of blinded eyes with a hardened heart occurs in exactly one KJV verse, John 12:40. Isaiah 6:10, which John is quoting, has neither verb: it reads 'make the heart of this people fat, and make their ears heavy, and shut their eyes'. Fat, heavy and shut are Isaiah's three; blinded and hardened are John's two, and the Book of Mormon has John's two.",
+          "significance": "John 12:40 is the verse the fourth Gospel uses to explain why people who had seen the signs did not believe, and John immediately adds that many of the chief rulers did believe but would not confess it 'lest they should be put out of the synagogue' (12:42). Mosiah 11:29 divides the blindness the same way: 'the eyes of the people were blinded' as a collective condition, and then, separately and in his own sentence, 'king Noah hardened his heart against the word of the Lord'. The people are acted upon; the king acts. That is John's distinction, not Isaiah's, and it sets up Mosiah 12's courtroom, where the priests will ask a question about Isaiah and be told they do not understand what they teach."
+        },
+        "note": "This is the same OT-via-NT result the pilot recorded at 1 Nephi 12:17, reached here by the same test: the two diagnostic verbs are John's and are absent from the Isaiah verse he is quoting. `mediation-check.py` returns 'neither' at every point, because the Book of Mormon restructures the sentence into two clauses rather than reproducing either version's syntax — so the case is made by vocabulary, which is decisive on its own. Isaiah 6:10's three verbs appear nowhere in Mosiah 11:29; John's two are both there.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      }
+    ]
+  }
+}

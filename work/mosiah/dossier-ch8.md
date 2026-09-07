@@ -1,6 +1,6 @@
 # Mosiah 8 — adjudication dossier
 
-Running text: 1830 first edition (modern versification). 21 verses. 122 machine candidates for this chapter; the top 24 by n-gram rarity are shown below, grouped by verse.
+Running text: 1830 first edition (modern versification). 21 verses. 122 machine candidates for this chapter; the top 50 by n-gram rarity are shown below, grouped by verse.
 
 Substantive 1830-vs-1920 differences are flagged per verse. Note that KJV
 spellings (*shew*, *marvellous*) surviving in 1830 and modernized later are
@@ -25,6 +25,12 @@ And it came to pass that after king Limhi had made an end of speaking to his peo
 - **2 Samuel 11:18** — rarity 1.00, longest run 4
   > Then Joab sent and told David all the things concerning the war;
   shared: *all the things concerning*
+- **Deuteronomy 32:43** — rarity 0.50, longest run 4
+  > Rejoice, O ye nations, with his people: for he will avenge the blood of his servants, and will render vengeance to his adversaries, and will be merciful unto his land, and to his people.
+  shared: *his people for he*
+- **Numbers 20:24** — rarity 0.50, longest run 4
+  > Aaron shall be gathered unto his people: for he shall not enter into the land which I have given unto the children of Israel, because ye rebelled against my word at the water of Meribah.
+  shared: *his people for he*
 
 ### 8:2
 
@@ -36,6 +42,24 @@ and he caused that Ammon should stand up before the multitude, and rehearse unto
 - **2 Kings 8:6** — rarity 1.00, longest run 4
   > And when the king asked the woman, she told him. So the king appointed unto her a certain officer, saying, Restore all that was hers, and all the fruits of the field since the day that she left the land, even until now.
   shared: *the land even until*
+- **Genesis 39:5** — rarity 0.70, longest run 4
+  > And it came to pass from the time that he had made him overseer in his house, and over all that he had, that the LORD blessed the Egyptian’s house for Joseph’s sake; and the blessing of the LORD was upon all that he had in the house, and in the field.
+  shared: *from the time that*; *the time that he*
+- **Deuteronomy 18:18** — rarity 0.50, longest run 4
+  > I will raise them up a Prophet from among their brethren, like unto thee, and will put my words in his mouth; and he shall speak unto them all that I shall command him.
+  shared: *unto them all that*
+- **Jeremiah 1:17** — rarity 0.50, longest run 4
+  > Thou therefore gird up thy loins, and arise, and speak unto them all that I command thee: be not dismayed at their faces, lest I confound thee before them.
+  shared: *unto them all that*
+- **Psalm 105:19** — rarity 0.50, longest run 4
+  > Until the time that his word came: the word of the LORD tried him.
+  shared: *until the time that*
+- **1 Chronicles 29:27** — rarity 0.50, longest run 4
+  > And the time that he reigned over Israel was forty years; seven years reigned he in Hebron, and thirty and three years reigned he in Jerusalem.
+  shared: *the time that he*
+- **Micah 5:3** — rarity 0.50, longest run 4
+  > Therefore will he give them up, until the time that she which travaileth hath brought forth: then the remnant of his brethren shall return unto the children of Israel.
+  shared: *until the time that*
 
 ### 8:3
 
@@ -44,6 +68,9 @@ And he also rehearsed unto them the last words which king Benjamin had taught th
 - **Luke 24:45** — rarity 1.00, longest run 4
   > Then opened he their understanding, that they might understand the scriptures,
   shared: *that they might understand*
+- **Acts 20:38** — rarity 0.83, longest run 5
+  > Sorrowing most of all for the words which he spake, that they should see his face no more. And they accompanied him unto the ship.
+  shared: *the words which he*; *words which he spake*
 
 ### 8:4
 
@@ -103,6 +130,12 @@ and they were lost in the wilderness, for the space of many days, yet they were 
 - **Jeremiah 12:12** — rarity 1.00, longest run 4
   > The spoilers are come upon all high places through the wilderness: for the sword of the LORD shall devour from the one end of the land even to the other end of the land: no flesh shall have peace.
   shared: *the wilderness for the*
+- **1 Corinthians 13:1** — rarity 0.50, longest run 4
+  > Though I speak with the tongues of men and of angels, and have not charity, I am become as sounding brass, or a tinkling cymbal.
+  shared: *of men and of*
+- **Numbers 21:5** — rarity 0.50, longest run 4
+  > And the people spake against God, and against Moses, Wherefore have ye brought us up out of Egypt to die in the wilderness? for there is no bread, neither is there any water; and our soul loatheth this light bread.
+  shared: *in the wilderness for*
 
 ### 8:9
 
@@ -111,6 +144,9 @@ And for a testimony that the things that they have said is true, they have broug
 - *variant* 1830 `have` → 1920 `had`
 - *variant* 1830 `is` → 1920 `are`
 
+- **1 Corinthians 14:37** — rarity 1.00, longest run 4
+  > If any man think himself to be a prophet, or spiritual, let him acknowledge that the things that I write unto you are the commandments of the Lord.
+  shared: *that the things that*
 
 ### 8:10
 
@@ -118,6 +154,9 @@ And behold, also, they have brought breast-plates, which are large; and they are
 
 - *variant* 1830 `breast-plates` → 1920 `breastplates`
 
+- **Joshua 6:24** — rarity 1.00, longest run 4
+  > And they burnt the city with fire, and all that was therein: only the silver, and the gold, and the vessels of brass and of iron, they put into the treasury of the house of the LORD.
+  shared: *of brass and of*
 
 ### 8:11
 
@@ -145,6 +184,21 @@ Now Ammon saith unto him, I can assuredly tell thee, O king, of a man that can t
 - *variant* 1830 `not` → 1920 `ought`
 - *variant* 1830 `ought` → 1920 `not`
 
+- **Jeremiah 10:7** — rarity 1.00, longest run 4
+  > Who would not fear thee, O King of nations? for to thee doth it appertain: forasmuch as among all the wise men of the nations, and in all their kingdoms, there is none like unto thee.
+  shared: *thee o king of*
+- **Job 20:29** — rarity 1.00, longest run 4
+  > This is the portion of a wicked man from God, and the heritage appointed unto him by God.
+  shared: *from god and the*
+- **Revelation 3:8** — rarity 1.00, longest run 4
+  > I know thy works: behold, I have set before thee an open door, and no man can shut it: for thou hast a little strength, and hast kept my word, and hast not denied my name.
+  shared: *and no man can*
+- **Matthew 15:5** — rarity 1.00, longest run 4
+  > But ye say, Whosoever shall say to his father or his mother, It is a gift, by whatsoever thou mightest be profited by me;
+  shared: *it is a gift*
+- **1 Samuel 16:17** — rarity 1.00, longest run 4
+  > And Saul said unto his servants, Provide me now a man that can play well, and bring him to me.
+  shared: *a man that can*
 
 ### 8:14
 
@@ -155,6 +209,15 @@ And behold, the king of the people which is in the land of Zarahemla, is the man
 - *variant* 1830 `which` → 1920 `who`
 - *variant* 1830 `hath` → 1920 `has`
 
+- **2 Chronicles 23:13** — rarity 1.00, longest run 4
+  > And she looked, and, behold, the king stood at his pillar at the entering in, and the princes and the trumpets by the king: and all the people of the land rejoiced, and sounded with trumpets, also the singers with instruments of musick, and such as taught to sing praise. Then Athaliah rent her clothes, and said, Treason, Treason.
+  shared: *and behold the king*
+- **Mark 11:28** — rarity 1.00, longest run 4
+  > And say unto him, By what authority doest thou these things? and who gave thee this authority to do these things?
+  shared: *to do these things*
+- **Ezekiel 17:12** — rarity 1.00, longest run 4
+  > Say now to the rebellious house, Know ye not what these things mean? tell them, Behold, the king of Babylon is come to Jerusalem, and hath taken the king thereof, and the princes thereof, and led them with him to Babylon;
+  shared: *behold the king of*
 
 ### 8:15
 
@@ -169,6 +232,9 @@ And Ammon saith, That a seer is a revelator, and a prophet also; and a gift whic
 
 - *variant* 1830 `saith` → 1920 `said`
 
+- **1 Timothy 6:16** — rarity 1.00, longest run 4
+  > Who only hath immortality, dwelling in the light which no man can approach unto; whom no man hath seen, nor can see: to whom be honour and power everlasting. Amen.
+  shared: *which no man can*
 
 ### 8:17
 
@@ -223,6 +289,12 @@ O how marvellous are the works of the Lord, and how long doth he suffer with his
 - **Deuteronomy 31:27** — rarity 1.00, longest run 4
   > For I know thy rebellion, and thy stiff neck: behold, while I am yet alive with you this day, ye have been rebellious against the LORD; and how much more after my death?
   shared: *the lord and how*
+- **Acts 22:18** — rarity 0.50, longest run 4
+  > And saw him saying unto me, Make haste, and get thee quickly out of Jerusalem: for they will not receive thy testimony concerning me.
+  shared: *for they will not*
+- **Ezekiel 3:7** — rarity 0.50, longest run 4
+  > But the house of Israel will not hearken unto thee; for they will not hearken unto me: for all the house of Israel are impudent and hardhearted.
+  shared: *for they will not*
 
 ### 8:21
 
@@ -231,4 +303,10 @@ Yea, they are as a wild flock, which fleeth from the shepherd, and scattereth, a
 - **Psalm 90:5** — rarity 1.00, longest run 4
   > Thou carriest them away as with a flood; they are as a sleep: in the morning they are like grass which groweth up.
   shared: *they are as a*
+- **Psalm 104:20** — rarity 0.52, longest run 5
+  > Thou makest darkness, and it is night: wherein all the beasts of the forest do creep forth.
+  shared: *beasts of the forest*; *the beasts of the*
+- **Micah 5:8** — rarity 0.52, longest run 5
+  > And the remnant of Jacob shall be among the Gentiles in the midst of many people as a lion among the beasts of the forest, as a young lion among the flocks of sheep: who, if he go through, both treadeth down, and teareth in pieces, and none can deliver.
+  shared: *beasts of the forest*; *the beasts of the*
 

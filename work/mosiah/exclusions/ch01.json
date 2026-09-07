@@ -1,0 +1,58 @@
+[
+  {
+    "bomRef": "Mosiah 1:1",
+    "source": "Esther 1:9",
+    "category": "formulaic",
+    "sharedText": "which belonged to king",
+    "streams": ["machine-ngram"],
+    "reason": "The four-word run is a KJV singleton, which is why it ranked, but the rarity is an artifact of King James idiom rather than a signal: the KJV normally writes 'of king Ahasuerus' and only once expands the possessive into a relative clause. Esther 1:9 is Vashti's feast for the women in the royal house; Mosiah 1:1 is a summary of political peace. Nothing else of Esther 1 is present, and the 1830 'which' becomes 'who' in 1920, which is the ordinary relative-pronoun modernization and not a variant bearing on any source."
+  },
+  {
+    "bomRef": "Mosiah 1:2",
+    "source": "Genesis 26:18",
+    "category": "common-vocabulary",
+    "sharedText": "and he called their names",
+    "streams": ["machine-ngram"],
+    "reason": "A five-word run of naming formula. Genesis 26:18 is Isaac re-digging Abraham's wells and calling them by the names his father had used — the names are of wells, the point is inherited ownership, and the verb has an indirect object the Book of Mormon does not have. Mosiah 1:2 simply lists three sons. Naming-by-the-father is too widely distributed in the KJV to be traced to this verse."
+  },
+  {
+    "bomRef": "Mosiah 1:3",
+    "source": "1 Kings 7:36",
+    "category": "wrong-sense",
+    "sharedText": "on the plates of",
+    "streams": ["machine-ngram"],
+    "reason": "See the fuller entry at Mosiah 1:16. 1 Kings 7:36's 'plates' are the flat faces of the ledges of Solomon's laver bases, and what is 'graved' on them is cherubim, lions and palm trees — decoration, not text. Mosiah 1:3's plates carry records and commandments. The two senses of 'plate' happen to share a preposition."
+  },
+  {
+    "bomRef": "Mosiah 1:5",
+    "source": "Matthew 13:35",
+    "category": "wrong-sense",
+    "sharedText": "things which have been kept",
+    "streams": ["machine-ngram"],
+    "reason": "“which have been kept” occurs in exactly one KJV verse, so the machine was right to rank it, but the KJV's participle governs 'secret' — things kept secret from the foundation of the world, which the speaker of parables is about to utter. Mosiah 1:5's participle governs 'and preserved by the hand of God', and the whole point of the sentence is that the things were NOT kept from anyone: they were kept so they could be read. The senses are opposed. The real source of this verse's argument is Isaiah 1:9, catalogued at the link."
+  },
+  {
+    "bomRef": "Mosiah 1:10",
+    "source": "Judges 20:16",
+    "category": "wrong-sense",
+    "sharedText": "among all this people",
+    "streams": ["machine-ngram"],
+    "reason": "A KJV singleton that is a genuine coincidence and an instructive one. Judges 20:16 counts seven hundred left-handed slingers 'among all this people' — and the people it is counting are the tribe of BENJAMIN, at the battle of Gibeah. The verse is therefore about a body of chosen men within Benjamin, which is close enough to king Benjamin's proclamation to his people that a careful reader might have taken it. It should not be taken: the shared string is a partitive adverbial phrase with no content, the KJV's context is a civil war and a marksmanship statistic, and the coincidence rests entirely on a personal name shared with a tribe the Book of Mormon never mentions."
+  },
+  {
+    "bomRef": "Mosiah 1:14",
+    "source": "Exodus 6:6",
+    "category": "insufficient-verbal",
+    "sharedText": "arm (of deliverance)",
+    "streams": ["manual"],
+    "reason": "Typology pulls hard here and the wording will not bear it. 'If he had not extended his arm in the preservation of our fathers' is the Exodus redemption formula in sense — a divine arm interposed to save a people from a stronger one — but the KJV's phrase is 'a stretched out arm' (Exodus 6:6, and some fifteen further verses in Deuteronomy, Kings and Jeremiah), never 'extended'. “extended” occurs in exactly two KJV verses and both are Ezra's 'extended mercy' before the kings of Persia, which is a different idiom with a different object. The Book of Mormon has the Exodus idea in nineteenth-century English rather than in King James English, which is a fact worth recording precisely because it is the opposite of what this catalogue usually finds."
+  },
+  {
+    "bomRef": "Mosiah 1:16",
+    "source": "1 Kings 7:30",
+    "category": "wrong-sense",
+    "sharedText": "plates of brass",
+    "streams": ["machine-ngram"],
+    "reason": "The model case for this category in Mosiah. “plates of brass” occurs in exactly one KJV verse — the Book of Mormon's most important physical object is named in a phrase the King James Bible uses once — and that verse is an inventory of Solomon's ten movable lavers: 'every base had four brasen wheels, and plates of brass'. They are sheets of bronze bolted to a wheeled stand. Nothing is written on them, they are not a record, and 1 Kings 7 has no interest in them beyond the specification. The coincidence is worth naming in the register rather than in the catalogue, because a reader who finds the singleton on their own will otherwise assume we missed it."
+  }
+]

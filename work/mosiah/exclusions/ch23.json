@@ -1,0 +1,74 @@
+[
+  {
+    "bomRef": "Mosiah 23:4",
+    "source": "Exodus 16:35",
+    "category": "wrong-sense",
+    "sharedText": "came to a land",
+    "streams": ["machine-ngram"],
+    "reason": "The five-word run is real and the wilderness setting is shared, but Exodus 16:35's clause is 'until they came to a land inhabited' — the end of the manna, the end of the wandering. Mosiah 23:4 is the beginning of a wandering, and the land it reaches is uninhabited: 'a very beautiful and pleasant land; a land of pure water.' The Exodus typology the chapter really carries is at 24:9 and 24:13, from Exodus 1 and 6, and it runs the other way."
+  },
+  {
+    "bomRef": "Mosiah 23:5",
+    "source": "Ezra 5:2",
+    "category": "formulaic",
+    "sharedText": "and began to build",
+    "streams": ["machine-ngram"],
+    "reason": "Four words of narrative connective. Ezra 5:2 is the resumption of work on the temple by named leaders under prophetic encouragement; Mosiah 23:5 is a colony putting up houses and tilling ground, with the 1830 text's own '&c.' marking how little the writer cared to specify. No shared content."
+  },
+  {
+    "bomRef": "Mosiah 23:7",
+    "source": "John 6:20",
+    "category": "formulaic",
+    "sharedText": "but he saith unto them",
+    "streams": ["machine-ngram"],
+    "reason": "The chapter's highest-scoring candidate at this verse and worth naming because the score is entirely speech-tag boilerplate. The 1830 reading 'saith' (1920 'said') is what raises the run to five words; the KJV uses the historic present of Jesus constantly, and John 6:20's content — 'It is I; be not afraid', on the water — has nothing to do with Alma refusing a crown. The verse's real borrowings are Romans 14:5 and 2 Corinthians 12:1; see the accepted link."
+  },
+  {
+    "bomRef": "Mosiah 23:14",
+    "source": "1 Kings 8:61",
+    "category": "formulaic",
+    "sharedText": "walk in his ways ... keep his commandments",
+    "streams": ["manual"],
+    "reason": "Considered because 23:14's test for a teacher — 'a man of God, walking in his ways and keeping his commandments' — reads like a quotation. It is not from any one verse: walking in God's ways paired with keeping his commandments is the standard Deuteronomic doublet (Deuteronomy 8:6; 10:12; 26:17; 1 Kings 2:3; 8:58; 8:61) and the Book of Mormon uses it from 1 Nephi onward. Nothing selects a source."
+  },
+  {
+    "bomRef": "Mosiah 23:20",
+    "source": "Judges 18:28",
+    "category": "insufficient-verbal",
+    "sharedText": "and they built a city",
+    "streams": ["machine-ngram"],
+    "reason": "Genuinely tempting, and rejected on a single point. Judges 18:28-29 is a migrating people who build a city and name it — 'they called the name of the city Dan, after the name of Dan their father' — which is the shape of Mosiah 23:19-20, a migrating people who name a land and then a city Helam. But the Danite naming is eponymous and the point of the Judges passage is the tribe stamping its ancestor's name on stolen ground, whereas Helam is not an ancestor and the Book of Mormon never explains the name. Take away the eponym and only four words of the commonest narrative English remain."
+  },
+  {
+    "bomRef": "Mosiah 23:26",
+    "source": "Psalm 35:15",
+    "category": "wrong-sense",
+    "sharedText": "and gathered themselves together",
+    "streams": ["machine-ngram"],
+    "reason": "A clean four-word match in opposed senses. In Psalm 35:15 the gathering is hostile and the psalmist is its object — 'the abjects gathered themselves together against me' — while at Mosiah 23:26 the brethren of Alma gather into the city of Helam for refuge from an approaching army. The phrase is also common: it stands in more than a dozen KJV verses on both sides of the same distinction."
+  },
+  {
+    "bomRef": "Mosiah 23:29",
+    "source": "Joshua 1:1",
+    "category": "formulaic",
+    "sharedText": "it came to pass that the Lord",
+    "streams": ["machine-ngram"],
+    "reason": "Covered in principle by the standing exclusion filed at 1 Nephi 2:1 and noted here only because the seven-word run is the longest in the chapter and will draw a reader's eye. 'And it came to pass that the Lord' is the Book of Mormon's default sentence opening; its length here carries no signal whatever."
+  },
+  {
+    "bomRef": "Mosiah 23:36",
+    "source": "Exodus 18:20",
+    "category": "better-source-identified",
+    "sharedText": "shew them the way",
+    "streams": ["machine-ngram"],
+    "reason": "Exodus 18:20 supplies the wording — 'shalt shew them the way wherein they must walk' is the KJV's phrase and the 1830 spelling 'shew' preserves it — but not the sense: Jethro is telling Moses to teach ordinances, not to guide a column through a wilderness. The scene the two verses belong to is Judges 1:24-25, and the link is filed at 23:37 where the promise is broken, which is the finding. A reader arriving here should go there."
+  },
+  {
+    "bomRef": "Mosiah 23:39",
+    "source": "Leviticus 26:37",
+    "category": "wrong-sense",
+    "sharedText": "have no power to",
+    "streams": ["machine-ngram"],
+    "reason": "Leviticus 26:37 is a curse — Israel shall 'have no power to stand before your enemies' — and Mosiah 23:39 is a constitutional limit on a puppet king, who 'should have no power to do any thing contrary to the will of the king of the Lamanites'. The shared four words are an auxiliary verb and a preposition."
+  }
+]

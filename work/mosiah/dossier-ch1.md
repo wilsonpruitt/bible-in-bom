@@ -1,6 +1,6 @@
 # Mosiah 1 — adjudication dossier
 
-Running text: 1830 first edition (modern versification). 18 verses. 191 machine candidates for this chapter; the top 24 by n-gram rarity are shown below, grouped by verse.
+Running text: 1830 first edition (modern versification). 18 verses. 191 machine candidates for this chapter; the top 50 by n-gram rarity are shown below, grouped by verse.
 
 Substantive 1830-vs-1920 differences are flagged per verse. Note that KJV
 spellings (*shew*, *marvellous*) surviving in 1830 and modernized later are
@@ -19,6 +19,9 @@ And now there was no more contention in all the land of Zarahemla, among all the
 - **1 Samuel 13:19** — rarity 1.02, longest run 4
   > Now there was no smith found throughout all the land of Israel: for the Philistines said, Lest the Hebrews make them swords or spears:
   shared: *all the land of*; *now there was no*
+- **Esther 1:9** — rarity 1.00, longest run 4
+  > Also Vashti the queen made a feast for the women in the royal house which belonged to king Ahasuerus.
+  shared: *which belonged to king*
 
 ### 1:2
 
@@ -37,11 +40,26 @@ And it came to pass that he had three sons; and he called their names Mosiah, an
 
 And he also taught them concerning the records which were engraven on the plates of brass, saying, My sons, I would that ye should remember, that were it not for these plates, which contain these records and these commandments, we must have suffered in ignorance, even at this present time, not knowing the mysteries of God:
 
+- **1 Kings 7:36** — rarity 1.00, longest run 4
+  > For on the plates of the ledges thereof, and on the borders thereof, he graved cherubims, lions, and palm trees, according to the proportion of every one, and additions round about.
+  shared: *on the plates of*
+- **1 Corinthians 4:1** — rarity 1.00, longest run 4
+  > Let a man so account of us, as of the ministers of Christ, and stewards of the mysteries of God.
+  shared: *the mysteries of god*
+- **Romans 11:5** — rarity 1.00, longest run 4
+  > Even so then at this present time also there is a remnant according to the election of grace.
+  shared: *at this present time*
 
 ### 1:4
 
 for it were not possible that our father Lehi could have remembered all these things, to have taught them to his children, except it were for the help of these plates: for he having been taught in the language of the Egyptians, therefore he could read these engravings, and teach them to his children, that thereby they could teach them to their children, and so fulfilling the commandments of God, even down to this present time.
 
+- **Psalm 42:5** — rarity 1.00, longest run 4
+  > Why art thou cast down, O my soul? and why art thou disquieted in me? hope thou in God: for I shall yet praise him for the help of his countenance.
+  shared: *for the help of*
+- **Psalm 78:6** — rarity 1.00, longest run 4
+  > That the generation to come might know them, even the children which should be born; who should arise and declare them to their children:
+  shared: *them to their children*
 
 ### 1:5
 
@@ -67,11 +85,23 @@ I say unto you, my sons, were it not for these things, which have been kept and 
 - **Galatians 1:14** — rarity 1.00, longest run 4
   > And profited in the Jews’ religion above many my equals in mine own nation, being more exceedingly zealous of the traditions of my fathers.
   shared: *of the traditions of*
+- **1 Corinthians 2:12** — rarity 0.83, longest run 5
+  > Now we have received, not the spirit of the world, but the spirit which is of God; that we might know the things that are freely given to us of God.
+  shared: *god that we might*; *of god that we*
+- **Job 27:11** — rarity 0.66, longest run 6
+  > I will teach you by the hand of God: that which is with the Almighty will I not conceal.
+  shared: *by the hand of*; *hand of god that*; *the hand of god*
 
 ### 1:6
 
 O my sons, I would that ye should remember that these sayings are true; and also, that these records are true. And behold, also the plates of Nephi, which contain the records and the sayings of our fathers, from the time they left Jerusalem, until now; and they are true; and we can know of their surety, because we have them before our eyes.
 
+- **Jeremiah 3:24** — rarity 1.00, longest run 4
+  > For shame hath devoured the labour of our fathers from our youth; their flocks and their herds, their sons and their daughters.
+  shared: *of our fathers from*
+- **Micah 7:20** — rarity 1.00, longest run 4
+  > Thou wilt perform the truth to Jacob, and the mercy to Abraham, which thou hast sworn unto our fathers from the days of old.
+  shared: *our fathers from the*
 
 ### 1:7
 
@@ -117,6 +147,27 @@ Therefore, he had Mosiah brought before him; and these are the words which he sp
 - **Judges 20:16** — rarity 1.00, longest run 4
   > Among all this people there were seven hundred chosen men lefthanded; every one could sling stones at an hair breadth, and not miss.
   shared: *among all this people*
+- **Jeremiah 23:33** — rarity 1.00, longest run 4
+  > And when this people, or the prophet, or a priest, shall ask thee, saying, What is the burden of the LORD? thou shalt then say unto them, What burden? I will even forsake you, saith the LORD.
+  shared: *this people or the*
+- **Acts 25:17** — rarity 1.00, longest run 4
+  > Therefore, when they were come hither, without any delay on the morrow I sat on the judgment seat, and commanded the man to be brought forth.
+  shared: *on the morrow i*
+- **Daniel 6:18** — rarity 1.00, longest run 4
+  > Then the king went to his palace, and passed the night fasting: neither were instruments of musick brought before him: and his sleep went from him.
+  shared: *brought before him and*
+- **Numbers 11:22** — rarity 1.00, longest run 4
+  > Shall the flocks and the herds be slain for them, to suffice them? or shall all the fish of the sea be gathered together for them, to suffice them?
+  shared: *be gathered together for*
+- **Acts 20:38** — rarity 0.83, longest run 5
+  > Sorrowing most of all for the words which he spake, that they should see his face no more. And they accompanied him unto the ship.
+  shared: *the words which he*; *words which he spake*
+- **Jeremiah 44:1** — rarity 0.53, longest run 5
+  > The word that came to Jeremiah concerning all the Jews which dwell in the land of Egypt, which dwell at Migdol, and at Tahpanhes, and at Noph, and in the country of Pathros, saying,
+  shared: *dwell in the land*; *which dwell in the*
+- **Deuteronomy 6:20** — rarity 0.51, longest run 6
+  > And when thy son asketh thee in time to come, saying, What mean the testimonies, and the statutes, and the judgments, which the LORD our God hath commanded you?
+  shared: *lord our god hath*; *the lord our god*; *which the lord our*
 
 ### 1:11
 
@@ -156,11 +207,23 @@ Yea, and moreover I say unto you, That if this highly favored people of the Lord
 - **Psalm 81:15** — rarity 1.00, longest run 4
   > The haters of the LORD should have submitted themselves unto him: but their time should have endured for ever.
   shared: *of the lord should*
+- **Matthew 18:19** — rarity 0.53, longest run 6
+  > Again I say unto you, That if two of you shall agree on earth as touching any thing that they shall ask, it shall be done for them of my Father which is in heaven.
+  shared: *i say unto you*; *say unto you that*; *unto you that if*
+- **Galatians 5:2** — rarity 0.53, longest run 5
+  > Behold, I Paul say unto you, that if ye be circumcised, Christ shall profit you nothing.
+  shared: *say unto you that*; *unto you that if*
 
 ### 1:14
 
 For I say unto you, that if he had not extended his arm in the preservation of our fathers, they must have fallen into the hands of the Lamanites, and become victims to their hatred.
 
+- **Matthew 18:19** — rarity 0.53, longest run 6
+  > Again I say unto you, That if two of you shall agree on earth as touching any thing that they shall ask, it shall be done for them of my Father which is in heaven.
+  shared: *i say unto you*; *say unto you that*; *unto you that if*
+- **Galatians 5:2** — rarity 0.53, longest run 5
+  > Behold, I Paul say unto you, that if ye be circumcised, Christ shall profit you nothing.
+  shared: *say unto you that*; *unto you that if*
 
 ### 1:15
 
@@ -174,11 +237,20 @@ And it came to pass that after king Benjamin had made an end of these sayings to
 
 And moreover, he also gave him charge concerning the records which were engraven on the plates of brass; and also, the plates of Nephi; and also, the sword of Laban, and the ball or director, which led our fathers through the wilderness, which was prepared by the hand of the Lord, that thereby they might be led, every one according to the heed and diligence which they gave unto him.
 
+- **1 Kings 7:30** — rarity 1.00, longest run 4
+  > And every base had four brasen wheels, and plates of brass: and the four corners thereof had undersetters: under the laver were undersetters molten, at the side of every addition.
+  shared: *plates of brass and*
+- **1 Kings 7:36** — rarity 1.00, longest run 4
+  > For on the plates of the ledges thereof, and on the borders thereof, he graved cherubims, lions, and palm trees, according to the proportion of every one, and additions round about.
+  shared: *on the plates of*
 
 ### 1:17
 
 Therefore, as they were unfaithful, they did not prosper nor progress in their journey, but were driven back, and incurred the displeasure of God upon them; and therefore, they were smitten with famine and sore afflictions, to stir them up in remembrance of their duty.
 
+- **Job 21:9** — rarity 1.00, longest run 4
+  > Their houses are safe from fear, neither is the rod of God upon them.
+  shared: *of god upon them*
 
 ### 1:18
 
@@ -186,4 +258,10 @@ And now, it came to pass that Mosiah went and did as his father had commanded hi
 
 - *variant* 1830 `which` → 1920 `who`
 
+- **Zechariah 7:7** — rarity 1.00, longest run 4
+  > Should ye not hear the words which the LORD hath cried by the former prophets, when Jerusalem was inhabited and in prosperity, and the cities thereof round about her, when men inhabited the south and the plain?
+  shared: *hear the words which*
+- **Matthew 21:6** — rarity 1.00, longest run 4
+  > And the disciples went, and did as Jesus commanded them,
+  shared: *went and did as*
 

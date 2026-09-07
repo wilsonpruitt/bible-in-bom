@@ -1,0 +1,82 @@
+[
+  {
+    "bomRef": "Mosiah 28:1",
+    "source": "Luke 1:74",
+    "category": "formulaic",
+    "sharedText": "that he would grant unto",
+    "streams": ["machine-ngram"],
+    "reason": "Ranked first at 28:1 on a five-word run of pure petition boilerplate. Luke 1:74 is the Benedictus — 'that he would grant unto us, that we being delivered out of the hand of our enemies' — and shares nothing with a request for royal leave to travel. The genuine link at this verse is to Acts 9:2, on a shorter run with a matching situation."
+  },
+  {
+    "bomRef": "Mosiah 28:1",
+    "source": "Jeremiah 3:7",
+    "category": "formulaic",
+    "sharedText": "had done all these things",
+    "streams": ["machine-ngram"],
+    "reason": "Narrative connective. Also proposed at 28:20 on the same run. Covered by the standing exclusion at 1 Nephi 1:5."
+  },
+  {
+    "bomRef": "Mosiah 28:1",
+    "source": "Ezekiel 38:11",
+    "category": "formulaic",
+    "sharedText": "go up to the land of",
+    "streams": ["machine-ngram"],
+    "reason": "Six words of geography, proposed again at 28:5. 'Go up to the land of Nephi' is the fixed Book of Mormon expression for this journey and occurs many times in Mosiah; Ezekiel 38:11's Gog going up to the land of unwalled villages has no other contact."
+  },
+  {
+    "bomRef": "Mosiah 28:2",
+    "source": "2 Timothy 3:7",
+    "category": "better-source-identified",
+    "sharedText": "the knowledge of the truth",
+    "streams": ["machine-ngram"],
+    "reason": "The third appearance in this batch of a mis-ranked candidate on this phrase; see the entries at Mosiah 27:14 and 27:36. Note that Mosiah 28:2 does not in fact read 'knowledge of the truth' but 'the knowledge of the Lord their God', so the run is shorter than the ranking implies."
+  },
+  {
+    "bomRef": "Mosiah 28:2",
+    "source": "Jeremiah 43:1",
+    "category": "formulaic",
+    "sharedText": "which the Lord their God",
+    "streams": ["machine-ngram"],
+    "reason": "'The LORD their God' is among the KJV's commonest divine designations and Mosiah 28:2 uses it three times in one verse. Also proposed here from 2 Kings 17:14 and Exodus 29:46 on the same run; the last of these was excluded at Mosiah 26:26 for the same reason."
+  },
+  {
+    "bomRef": "Mosiah 28:4",
+    "source": "Psalm 12:8",
+    "category": "wrong-sense",
+    "sharedText": "vilest",
+    "streams": ["manual"],
+    "reason": "Genuinely tempting, and worth the entry for the thread it seems to belong to. 'Vilest' occurs in exactly one KJV verse in this sense, Psalm 12:8, 'when the vilest men are exalted' — and Psalm 12 is also the KJV's flattery psalm, 'with flattering lips and with a double heart do they speak', which would tie 28:4 back to the flattering words of Mosiah 26:6 and the 'much flattery' of 27:8. The thread does not hold. Psalm 12:8's vilest men are the wicked in power, and Mosiah 28:4's are penitents describing what they used to be; the superlative is one any writer forms from an ordinary adjective; and 26:6's 'flattering words' is a KJV singleton belonging to 1 Thessalonians 2:5, not to Psalm 12's 'flattering lips', which is a different noun. Recorded because a reader tracing the flattery vocabulary across these three chapters would very reasonably arrive here."
+  },
+  {
+    "bomRef": "Mosiah 28:7",
+    "source": "John 6:54",
+    "category": "formulaic",
+    "sharedText": "eternal life and I will",
+    "streams": ["machine-ngram"],
+    "reason": "A five-word run that straddles a clause boundary in both texts: John 6:54's 'hath eternal life; and I will raise him up at the last day' against Mosiah's 'they shall have eternal life; and I will deliver thy sons'. The shared words are the noun phrase plus a connective and a pronoun. The Johannine link at this verse is to John 17:20, on the believing-through-another's-word idiom."
+  },
+  {
+    "bomRef": "Mosiah 28:12",
+    "source": "Galatians 1:13",
+    "category": "wrong-sense",
+    "sharedText": "beyond measure",
+    "streams": ["manual"],
+    "reason": "Worth considering because Galatians 1:13 is an established source in this batch — it stands behind Mosiah 27:10 and, with 1:14, behind Mosiah 26:1 — so a third contact would be a real pattern rather than a coincidence. It is not one. 'Beyond measure' occurs in three KJV verses, two of them in Mark of crowds astonished at a miracle, and it is an ordinary intensifier in all three. Mosiah 28:12's 'desirous beyond measure, to know concerning those people which had been destroyed' is a curiosity, and Galatians 1:13's is a persecution. Nothing but the intensifier is shared."
+  },
+  {
+    "bomRef": "Mosiah 28:17",
+    "source": "Acts 11:19",
+    "category": "wrong-sense",
+    "sharedText": "were scattered abroad upon the",
+    "streams": ["machine-ngram"],
+    "reason": "Ranked at 28:13 by the machine but the run belongs at 28:17. Acts 11:19's 'they which were scattered abroad upon the persecution that arose about Stephen' uses 'upon' causally — scattered because of the persecution — and Mosiah 28:17 uses it spatially, scattered upon the face of the earth. The preposition is doing opposite work in the two verses, and the completing phrase is Genesis 11:9's, where the link is filed."
+  },
+  {
+    "bomRef": "Mosiah 28:20",
+    "source": "Acts 5:12",
+    "category": "formulaic",
+    "sharedText": "the people and they were",
+    "streams": ["machine-ngram"],
+    "reason": "Connective tissue spanning a clause boundary. Covered by the standing exclusion at 1 Nephi 1:5."
+  }
+]

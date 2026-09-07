@@ -1,6 +1,6 @@
 # Mosiah 25 — adjudication dossier
 
-Running text: 1830 first edition (modern versification). 24 verses. 99 machine candidates for this chapter; the top 24 by n-gram rarity are shown below, grouped by verse.
+Running text: 1830 first edition (modern versification). 24 verses. 99 machine candidates for this chapter; the top 50 by n-gram rarity are shown below, grouped by verse.
 
 Substantive 1830-vs-1920 differences are flagged per verse. Note that KJV
 spellings (*shew*, *marvellous*) surviving in 1830 and modernized later are
@@ -14,6 +14,9 @@ themselves evidence bearing on `kjvSpecific`.
 
 And now king Mosiah caused that all the people should be gathered together.
 
+- **Genesis 29:7** — rarity 1.00, longest run 4
+  > And he said, Lo, it is yet high day, neither is it time that the cattle should be gathered together: water ye the sheep, and go and feed them.
+  shared: *should be gathered together*
 
 ### 25:2
 
@@ -30,6 +33,18 @@ Now there were not so many of the children of Nephi, or so many of those which w
 - **Luke 23:55** — rarity 1.00, longest run 4
   > And the women also, which came with him from Galilee, followed after, and beheld the sepulchre, and how his body was laid.
   shared: *which came with him*
+- **Mark 1:12** — rarity 0.50, longest run 4
+  > And immediately the spirit driveth him into the wilderness.
+  shared: *him into the wilderness*
+- **Genesis 13:1** — rarity 0.50, longest run 4
+  > And Abram went up out of Egypt, he, and his wife, and all that he had, and Lot with him, into the south.
+  shared: *with him into the*
+- **1 Samuel 26:3** — rarity 0.50, longest run 4
+  > And Saul pitched in the hill of Hachilah, which is before Jeshimon, by the way. But David abode in the wilderness, and he saw that Saul came after him into the wilderness.
+  shared: *him into the wilderness*
+- **Genesis 7:7** — rarity 0.50, longest run 4
+  > And Noah went in, and his sons, and his wife, and his sons’ wives with him, into the ark, because of the waters of the flood.
+  shared: *with him into the*
 
 ### 25:3
 
@@ -37,6 +52,15 @@ and there were not so many of the people of Nephi and of the people of Zarahemla
 
 - *variant* 1830 `was` → 1920 `were`
 
+- **2 Samuel 9:2** — rarity 1.00, longest run 4
+  > And there was of the house of Saul a servant whose name was Ziba. And when they had called him unto David, the king said unto him, Art thou Ziba? And he said, Thy servant is he.
+  shared: *there was of the*
+- **Isaiah 63:3** — rarity 0.50, longest run 4
+  > I have trodden the winepress alone; and of the people there was none with me: for I will tread them in mine anger, and trample them in my fury; and their blood shall be sprinkled upon my garments, and I will stain all my raiment.
+  shared: *and of the people*
+- **2 Kings 11:13** — rarity 0.50, longest run 4
+  > And when Athaliah heard the noise of the guard and of the people, she came to the people into the temple of the LORD.
+  shared: *and of the people*
 
 ### 25:4
 
@@ -134,6 +158,18 @@ And it came to pass that when those which were the children of Amulon and his br
 - **1 Kings 7:8** — rarity 1.00, longest run 4
   > And his house where he dwelt had another court within the porch, which was of the like work. Solomon made also an house for Pharaoh’s daughter, whom he had taken to wife, like unto this porch.
   shared: *had taken to wife*
+- **1 Chronicles 7:40** — rarity 0.50, longest run 4
+  > All these were the children of Asher, heads of their father’s house, choice and mighty men of valour, chief of the princes. And the number throughout the genealogy of them that were apt to the war and to battle was twenty and six thousand men.
+  shared: *were the children of*
+- **Jeremiah 30:3** — rarity 0.50, longest run 4
+  > For, lo, the days come, saith the LORD, that I will bring again the captivity of my people Israel and Judah, saith the LORD: and I will cause them to return to the land that I gave to their fathers, and they shall possess it.
+  shared: *their fathers and they*
+- **Joshua 21:43** — rarity 0.50, longest run 4
+  > And the LORD gave unto Israel all the land which he sware to give unto their fathers; and they possessed it, and dwelt therein.
+  shared: *their fathers and they*
+- **Genesis 25:4** — rarity 0.50, longest run 4
+  > And the sons of Midian; Ephah, and Epher, and Hanoch, and Abidah, and Eldaah. All these were the children of Keturah.
+  shared: *were the children of*
 
 ### 25:13
 
@@ -141,11 +177,23 @@ And now all the people of Zarahemla were numbered with the Nephites, and this be
 
 - *variant* 1830 `which` → 1920 `who`
 
+- **Joshua 5:5** — rarity 1.00, longest run 4
+  > Now all the people that came out were circumcised: but all the people that were born in the wilderness by the way as they came forth out of Egypt, them they had not circumcised.
+  shared: *now all the people*
 
 ### 25:14
 
 And now it came to pass that when Mosiah had made an end of speaking and reading to the people, he desired that Alma should also speak to the people.
 
+- **Luke 20:9** — rarity 1.00, longest run 4
+  > Then began he to speak to the people this parable; A certain man planted a vineyard, and let it forth to husbandmen, and went into a far country for a long time.
+  shared: *speak to the people*
+- **1 Samuel 30:21** — rarity 0.50, longest run 4
+  > And David came to the two hundred men, which were so faint that they could not follow David, whom they had made also to abide at the brook Besor: and they went forth to meet David, and to meet the people that were with him: and when David came near to the people, he saluted them.
+  shared: *to the people he*
+- **Exodus 18:14** — rarity 0.50, longest run 4
+  > And when Moses’ father in law saw all that he did to the people, he said, What is this thing that thou doest to the people? why sittest thou thyself alone, and all the people stand by thee from morning unto even?
+  shared: *to the people he*
 
 ### 25:15
 
@@ -170,11 +218,23 @@ And it came to pass that Alma did speak unto them, when they were assembled toge
 - **Judges 19:14** — rarity 1.00, longest run 4
   > And they passed on and went their way; and the sun went down upon them when they were by Gibeah, which belongeth to Benjamin.
   shared: *them when they were*
+- **2 Kings 2:25** — rarity 0.50, longest run 4
+  > And he went from thence to mount Carmel, and from thence he returned to Samaria.
+  shared: *and he went from*
+- **1 Samuel 7:16** — rarity 0.50, longest run 4
+  > And he went from year to year in circuit to Bethel, and Gilgal, and Mizpeh, and judged Israel in all those places.
+  shared: *and he went from*
 
 ### 25:16
 
 And he did exhort the people of Limhi and his brethren, all those that had been delivered out of bondage, that they should remember that it was the Lord that did deliver them.
 
+- **John 21:12** — rarity 0.83, longest run 5
+  > Jesus saith unto them, Come and dine. And none of the disciples durst ask him, Who art thou? knowing that it was the Lord.
+  shared: *it was the lord*; *that it was the*
+- **John 21:7** — rarity 0.83, longest run 5
+  > Therefore that disciple whom Jesus loved saith unto Peter, It is the Lord. Now when Simon Peter heard that it was the Lord, he girt his fisher’s coat unto him, (for he was naked,) and did cast himself into the sea.
+  shared: *it was the lord*; *that it was the*
 
 ### 25:17
 
@@ -200,6 +260,18 @@ Therefore Alma did go forth into the water, and did baptize them; yea, he did ba
 - **Luke 11:8** — rarity 1.00, longest run 4
   > I say unto you, Though he will not rise and give him, because he is his friend, yet because of his importunity he will rise and give him as many as he needeth.
   shared: *as many as he*
+- **Galatians 1:13** — rarity 0.62, longest run 5
+  > For ye have heard of my conversation in time past in the Jews’ religion, how that beyond measure I persecuted the church of God, and wasted it:
+  shared: *church of god and*; *the church of god*
+- **1 Corinthians 11:22** — rarity 0.62, longest run 5
+  > What? have ye not houses to eat and to drink in? or despise ye the church of God, and shame them that have not? What shall I say to you? shall I praise you in this? I praise you not.
+  shared: *church of god and*; *the church of god*
+- **Genesis 28:17** — rarity 0.50, longest run 4
+  > And he was afraid, and said, How dreadful is this place! this is none other but the house of God, and this is the gate of heaven.
+  shared: *of god and this*
+- **1 John 4:3** — rarity 0.50, longest run 4
+  > And every spirit that confesseth not that Jesus Christ is come in the flesh is not of God: and this is that spirit of antichrist, whereof ye have heard that it should come; and even now already is it in the world.
+  shared: *of god and this*
 
 ### 25:19
 
@@ -225,6 +297,12 @@ therefore they did assemble themselves together in different bodies, being calle
 
 and thus, notwithstanding there being many Churches, they were all one Church; yea, even the Church of God: for there was nothing preached in all the Churches except it were repentance and faith in God.
 
+- **1 Corinthians 12:19** — rarity 1.00, longest run 4
+  > And if they were all one member, where were the body?
+  shared: *they were all one*
+- **Matthew 24:14** — rarity 0.50, longest run 4
+  > And this gospel of the kingdom shall be preached in all the world for a witness unto all nations; and then shall the end come.
+  shared: *preached in all the*
 
 ### 25:23
 

@@ -1,6 +1,6 @@
 # Mosiah 29 — adjudication dossier
 
-Running text: 1830 first edition (modern versification). 47 verses. 241 machine candidates for this chapter; the top 24 by n-gram rarity are shown below, grouped by verse.
+Running text: 1830 first edition (modern versification). 47 verses. 241 machine candidates for this chapter; the top 40 by n-gram rarity are shown below, grouped by verse.
 
 Substantive 1830-vs-1920 differences are flagged per verse. Note that KJV
 spellings (*shew*, *marvellous*) surviving in 1830 and modernized later are
@@ -22,6 +22,9 @@ And it came to pass that the voice of the people came, saying: We are desirous t
 - **1 Samuel 8:7** — rarity 1.01, longest run 5
   > And the LORD said unto Samuel, Hearken unto the voice of the people in all that they say unto thee: for they have not rejected thee, but they have rejected me, that I should not reign over them.
   shared: *the voice of the*; *voice of the people*
+- **Matthew 21:23** — rarity 1.00, longest run 4
+  > And when he was come into the temple, the chief priests and the elders of the people came unto him as he was teaching, and said, By what authority doest thou these things? and who gave thee this authority?
+  shared: *of the people came*
 
 ### 29:3
 
@@ -35,6 +38,9 @@ Now Aaron had gone up to the land of Nephi, therefore the king could not confer 
 - **Numbers 36:3** — rarity 1.01, longest run 5
   > And if they be married to any of the sons of the other tribes of the children of Israel, then shall their inheritance be taken from the inheritance of our fathers, and shall be put to the inheritance of the tribe whereunto they are received: so shall it be taken from the lot of our inheritance.
   shared: *any of the sons*; *of the sons of*
+- **Isaiah 22:1** — rarity 1.00, longest run 4
+  > The burden of the valley of vision. What aileth thee now, that thou art wholly gone up to the housetops?
+  shared: *gone up to the*
 
 ### 29:4
 
@@ -69,6 +75,12 @@ Now I say unto you, let us be wise and consider these things, for we have no rig
 - **Acts 5:38** — rarity 1.01, longest run 5
   > And now I say unto you, Refrain from these men, and let them alone: for if this counsel or this work be of men, it will come to nought:
   shared: *i say unto you*; *now i say unto*
+- **Hebrews 13:10** — rarity 1.00, longest run 4
+  > We have an altar, whereof they have no right to eat which serve the tabernacle.
+  shared: *have no right to*
+- **2 Chronicles 20:12** — rarity 1.00, longest run 4
+  > O our God, wilt thou not judge them? for we have no might against this great company that cometh against us; neither know we what to do: but our eyes are upon thee.
+  shared: *for we have no*
 
 ### 29:9
 
@@ -92,6 +104,9 @@ Now it is better that a man should be judged of God than of man, for the judgmen
 - **2 Samuel 18:3** — rarity 1.50, longest run 5
   > But the people answered, Thou shalt not go forth: for if we flee away, they will not care for us; neither if half of us die, will they care for us: but now thou art worth ten thousand of us: therefore now it is better that thou succour us out of the city.
   shared: *it is better that*; *now it is better*
+- **1 Corinthians 4:3** — rarity 1.00, longest run 4
+  > But with me it is a very small thing that I should be judged of you, or of man’s judgment: yea, I judge not mine own self.
+  shared: *should be judged of*
 
 ### 29:13
 
@@ -132,6 +147,12 @@ Now I say unto you, that because all men are not just, it is not expedient that 
 - **Acts 5:38** — rarity 1.01, longest run 5
   > And now I say unto you, Refrain from these men, and let them alone: for if this counsel or this work be of men, it will come to nought:
   shared: *i say unto you*; *now i say unto*
+- **2 Corinthians 12:1** — rarity 1.00, longest run 4
+  > It is not expedient for me doubtless to glory. I will come to visions and revelations of the Lord.
+  shared: *it is not expedient*
+- **1 Corinthians 10:20** — rarity 1.00, longest run 4
+  > But I say, that the things which the Gentiles sacrifice, they sacrifice to devils, and not to God: and I would not that ye should have fellowship with devils.
+  shared: *that ye should have*
 
 ### 29:17
 
@@ -218,6 +239,9 @@ And if the time cometh that the voice of the people doth choose iniquity, then i
 - **1 Samuel 8:7** — rarity 1.01, longest run 5
   > And the LORD said unto Samuel, Hearken unto the voice of the people in all that they say unto thee: for they have not rejected thee, but they have rejected me, that I should not reign over them.
   shared: *the voice of the*; *voice of the people*
+- **John 16:2** — rarity 1.00, longest run 4
+  > They shall put you out of the synagogues: yea, the time cometh, that whosoever killeth you will think that he doeth God service.
+  shared: *the time cometh that*
 
 ### 29:28
 
@@ -233,6 +257,9 @@ if your higher judges doth not judge righteous judgments, ye shall cause that a 
 - **1 Samuel 8:7** — rarity 1.01, longest run 5
   > And the LORD said unto Samuel, Hearken unto the voice of the people in all that they say unto thee: for they have not rejected thee, but they have rejected me, that I should not reign over them.
   shared: *the voice of the*; *voice of the people*
+- **Genesis 29:7** — rarity 1.00, longest run 4
+  > And he said, Lo, it is yet high day, neither is it time that the cattle should be gathered together: water ye the sheep, and go and feed them.
+  shared: *should be gathered together*
 
 ### 29:30
 
@@ -247,6 +274,15 @@ And I command you to do these things in the fear of the Lord; and I command you 
 - **1 Thessalonians 3:6** — rarity 1.00, longest run 4
   > But now when Timotheus came from you unto us, and brought us good tidings of your faith and charity, and that ye have good remembrance of us always, desiring greatly to see us, as we also to see you:
   shared: *and that ye have*
+- **Luke 23:31** — rarity 1.00, longest run 4
+  > For if they do these things in a green tree, what shall be done in the dry?
+  shared: *do these things in*
+- **Ezekiel 11:21** — rarity 1.00, longest run 4
+  > But as for them whose heart walketh after the heart of their detestable things and their abominations, I will recompense their way upon their own heads, saith the Lord GOD.
+  shared: *upon their own heads*
+- **Mark 11:28** — rarity 1.00, longest run 4
+  > And say unto him, By what authority doest thou these things? and who gave thee this authority to do these things?
+  shared: *to do these things*
 
 ### 29:31
 
@@ -255,6 +291,9 @@ For behold I say unto you, The sins of many people have been caused by the iniqu
 - **John 4:35** — rarity 1.01, longest run 5
   > Say not ye, There are yet four months, and then cometh harvest? behold, I say unto you, Lift up your eyes, and look on the fields; for they are white already to harvest.
   shared: *behold i say unto*; *i say unto you*
+- **Hebrews 9:28** — rarity 1.00, longest run 4
+  > So Christ was once offered to bear the sins of many; and unto them that look for him shall he appear the second time without sin unto salvation.
+  shared: *the sins of many*
 
 ### 29:32
 
@@ -266,6 +305,9 @@ And now I desire that this inequality should be no more in this land, especially
 - **Deuteronomy 16:20** — rarity 1.50, longest run 5
   > That which is altogether just shalt thou follow, that thou mayest live, and inherit the land which the LORD thy God giveth thee.
   shared: *and inherit the land*; *live and inherit the*
+- **Jeremiah 33:24** — rarity 1.00, longest run 4
+  > Considerest thou not what this people have spoken, saying, The two families which the LORD hath chosen, he hath even cast them off? thus they have despised my people, that they should be no more a nation before them.
+  shared: *should be no more*
 
 ### 29:33
 
@@ -279,6 +321,9 @@ And he told them that these things had not ought to be; but that the burdens sho
 - *variant* 1830 `had not ought` → 1920 `ought not`
 - *variant* 1830 `burdens` → 1920 `burden`
 
+- **Jeremiah 38:27** — rarity 1.00, longest run 4
+  > Then came all the princes unto Jeremiah, and asked him: and he told them according to all these words that the king had commanded. So they left off speaking with him; for the matter was not perceived.
+  shared: *and he told them*
 
 ### 29:35
 
@@ -367,6 +412,9 @@ And now it came to pass that his father died, being eighty and two years old, ha
 
 And it came to pass that Mosiah died also, in the thirty and third year of his reign, being sixty and three years old; making in the whole, five hundred and nine years from the time Lehi left Jerusalem;
 
+- **Genesis 11:19** — rarity 1.00, longest run 4
+  > And Peleg lived after he begat Reu two hundred and nine years, and begat sons and daughters.
+  shared: *hundred and nine years*
 
 ### 29:47
 

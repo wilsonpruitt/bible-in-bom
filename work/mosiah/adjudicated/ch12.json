@@ -1,0 +1,695 @@
+{
+  "chapter": 12,
+  "adjudicated": "2026-09-07",
+  "adjudicator": "Opus",
+  "links": {
+    "12:2": [
+      {
+        "source": "Jeremiah 15:3",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "text": "And I will appoint over them four kinds, saith the LORD: the sword to slay, and the dogs to tear, and the fowls of the heaven, and the beasts of the earth, to devour and destroy.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "provenance": {
+          "route": "Jeremiah 15:3 → KJV → Book of Mormon",
+          "other": "“the dogs to tear and the fowls” occurs in exactly one KJV verse, Jeremiah 15:3, and “beasts of the earth to devour” occurs in exactly one, the same verse. No other KJV verse assembles dogs, birds and wild beasts as one set of executioners: 1 Kings 14:11 and 21:24 have dogs and fowls but no beasts, Ezekiel 39:4 has birds and beasts but no dogs.",
+          "significance": "Jeremiah 15:3 is the LORD appointing 'four kinds' over Judah — sword, dogs, birds, beasts — and it stands two verses after the declaration that not even Moses and Samuel standing before him could turn this people. Mosiah 12:2 lists the same three scavengers and does the sword's work in its own words ('shall be slain'). The recovered context is a refusal of intercession, which is exactly the condition Abinadi's oracle reached at 11:24-25: the God who will be slow to hear their cries is the God who appoints the four kinds. Jeremiah governs this chapter beyond this verse — 26:14 stands behind 12:16 and 26:12 behind 12:29."
+        },
+        "note": "'The vultures of the air, and the dogs, yea, and the wild beasts, shall devour their flesh.' Two KJV singletons out of one verse. The Book of Mormon reorders the three and substitutes 'vultures of the air' for Jeremiah's 'fowls of the heaven', which costs the link nothing, because the set of three is what has no other home in the King James Bible. 'Vulture' appears in the KJV only in the unclean-bird lists of Leviticus 11:14 and Deuteronomy 14:13 and at Job 28:7 and Isaiah 34:15, never as a scavenger of the slain — so the one substituted word is not a KJV word for this at all.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      },
+      {
+        "source": "Luke 6:10",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "text": "And looking round about upon them all, he said unto the man, Stretch forth thy hand. And he did so: and his hand was restored whole as the other.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 3,
+          "context": 2,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Luke 6:29"
+        ],
+        "provenance": {
+          "route": "Luke 6:10 and 6:29 → KJV → Book of Mormon",
+          "alternative": "Exodus 9:22, 'Stretch forth thine hand toward heaven, that there may be hail', which is what this oracle actually goes on to do four verses later at 12:6 — and whose pronoun the Book of Mormon does not have.",
+          "other": "“stretch forth thy hand” occurs in exactly two KJV verses, Luke 6:10 and John 21:18. The commoner form, 'stretch forth THINE hand', occurs in six — Exodus 8:5, 9:22, 2 Samuel 1:14, Psalm 138:7, Matthew 12:13, Mark 3:5. The 1830 text reads 'thy'. “on the one cheek” occurs in exactly one KJV verse, Luke 6:29; every other KJV cheek is struck 'upon the cheek' (2 Chronicles 18:23, Job 16:10, Psalm 3:7, Micah 5:1).",
+          "significance": "Two clauses of Mosiah 12:2 reach into one chapter of Luke, and it is the Sermon on the Plain: the man with the withered hand is told to stretch it forth at 6:10, and the disciple struck on the one cheek is told to offer the other at 6:29. Recover that and the oracle acquires an irony it does not state. The gesture Abinadi is commanded to make is the gesture of a healing the Pharisees were watching for so that they might find an accusation (6:7) — and being watched so as to be accused is what happens to Abinadi at 12:19. The blow on the cheek his oracle threatens is, in Luke, the blow a disciple is told to accept. The prophet is handed a healer's gesture and a martyr's sentence in the same verse."
+        },
+        "note": "'Stretch forth thy hand, and prophesying, saying, Thus saith the Lord ... shall be smitten on the cheek.' The pronoun is the whole discriminator on the first clause, and `mediation-check.py` will not catch it, because the tool ignores single common words (ADJUDICATING §4): six KJV verses read 'thine', two read 'thy', and the Book of Mormon has 'thy'. Exodus 9:22 has the better claim on function — a prophet stretching out a hand, and hail following at 12:6 — and the worse claim on wording, so it is recorded as the alternative rather than the source. The second clause is firmer: 'on the cheek' is Luke's preposition and no other KJV verse uses it. The 1830 'and prophesying, saying' is an anacoluthon that 1920 repaired to 'and prophesy'.",
+        "whyNot": "One pronoun carries the first clause, and 'stretch forth thy hand' is an unremarkable English sentence. If the writer had Exodus 9:22 in view and modernised the pronoun, the Lucan case evaporates and only the cheek remains.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "12:5": [
+      {
+        "source": "2 Peter 2:16",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "But was rebuked for his iniquity: the dumb ass speaking with man’s voice forbad the madness of the prophet.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 2,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Exodus 1:11"
+        ],
+        "recurrenceRefs": [
+          "1 Nephi 8:23",
+          "1 Nephi 12:17"
+        ],
+        "provenance": {
+          "route": "2 Peter 2:16 → KJV → Book of Mormon",
+          "other": "“dumb ass” occurs in exactly one KJV verse, 2 Peter 2:16. The KJV's asses are elsewhere wild, young, saddled or laden, never dumb; and 'burdens', the other half of Mosiah 12:5's image, is the Exodus word for what taskmasters lay on a people (Exodus 1:11, 2:11, 5:4-5, 6:6-7).",
+          "significance": "This catalogue has been to 2 Peter 2 before: 1 Nephi 8:23's 'mist of darkness' comes from 2 Peter 2:17, one verse further down. The chapter is a denunciation of false teachers who follow 'the way of Balaam the son of Bosor, who loved the wages of unrighteousness' (2:15) and who 'promise them liberty' while being 'the servants of corruption' (2:19). That is Noah's priesthood in three clauses — men supported by a fifth part of everything (11:3-6) who tell the king 'thou hast not sinned' and 'thou shalt also prosper' (12:14-15). And the dumb ass in 2 Peter is not the figure of the oppressed: it is the animal that saw what the prophet could not and spoke to stop him. Abinadi's threat that the people will be 'driven before, like a dumb ass' hands them the beast that, in the King James Bible, is the only one in the story who is right."
+        },
+        "note": "'They shall have burdens lashed upon their backs; and they shall be driven before, like a dumb ass.' Two words, and they are the KJV's only 'dumb ass'. The burdens are the Exodus vocabulary of Egyptian servitude, so the verse pairs the bondage of the first commandment's preface — quoted verbatim at 12:34 — with a Petrine phrase about Balaam. Filed at high because the collocation is a singleton and the source chapter's subject is the chapter's own subject; the whyNot is that two words is a small purchase on a long epistle.",
+        "whyNot": "A two-word phrase, and a driven pack animal is an obvious figure for a people in bondage. What keeps the link is that the KJV supplies the adjective in exactly one place, and that place is about hireling teachers.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "12:6": [
+      {
+        "source": "Exodus 9:22",
+        "type": "allusion",
+        "subtype": "conceptual",
+        "confidence": "moderate",
+        "text": "And the LORD said unto Moses, Stretch forth thine hand toward heaven, that there may be hail in all the land of Egypt, upon man, and upon beast, and upon every herb of the field, throughout the land of Egypt.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 2,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 3,
+          "attestation": 0
+        },
+        "kjvSpecific": "no",
+        "mediation": "direct-OT",
+        "composite": [
+          "Exodus 10:13",
+          "Exodus 10:15"
+        ],
+        "provenance": {
+          "route": "Exodus 9:22-23 and 10:13-15 → KJV → Book of Mormon",
+          "other": "'The east wind' occurs in thirteen KJV verses. Exodus 10:13 is the only one where it is an instrument of plague that brings something to eat the crops, and the only one where it follows hail. In Exodus the two plagues are consecutive; in Mosiah 12:6 the two clauses are consecutive.",
+          "significance": "Abinadi's list is the Egyptian plague cycle turned against the covenant people: hail, an east wind, a devouring of the grain, then pestilence. Exodus 10:15 says the locusts 'did eat every herb of the land, and all the fruit of the trees which the hail had left' — the same two-stage destruction, hail and then insects, that Mosiah 12:6 compresses into one sentence. The reversal is the point, and it is the reversal the whole Abinadi cycle turns on: the God who identifies himself at 12:34 as the one 'which have brought thee out of the land of Egypt' is here treating his own people as Egypt. Noah has already answered Moses in Pharaoh's words at 11:27; the plagues follow the refusal, in order."
+        },
+        "note": "No phrase is reproduced, which is why kjvSpecific is 'no' — there is no English to test. The evidence is order, and the Book of Mormon's own departures show it is using Exodus rather than copying it: the insect plague is unnamed where Exodus names locusts, and each plague is reduced to a clause. Filed at 12:6 because that verse holds all three Exodus elements; the famine and pestilence of 12:4 and 12:7 belong to the standard prophetic triad (Jeremiah 14:12 and its kind) and are not Exodus's.",
+        "whyNot": "Sequence alone, with no shared wording, and hail and pestilence are the common currency of prophetic threat. A reader could take this as generic plague language with no Exodus behind it.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "12:8": [
+      {
+        "source": "Deuteronomy 6:15",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "(For the LORD thy God is a jealous God among you) lest the anger of the LORD thy God be kindled against thee, and destroy thee from off the face of the earth.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "recurrenceRefs": [
+          "Mosiah 11:22"
+        ],
+        "provenance": {
+          "route": "Deuteronomy 6:15 → KJV → Book of Mormon",
+          "other": "“destroy thee from off the face of the earth” occurs in exactly one KJV verse, Deuteronomy 6:15, and “a jealous God among you” occurs in exactly one, the same verse. 'From off the face of the earth' alone occurs in five (Genesis 7:4, Deuteronomy 6:15, 1 Kings 13:34, Jeremiah 28:16, Amos 9:8); only Deuteronomy 6:15 attaches it to 'destroy' with a covenant people as the object.",
+          "significance": "One KJV verse holds both halves of Abinadi's oracle. Deuteronomy 6:15 is the sanction of the Shema: because the LORD is a jealous God among you, breaking the covenant is being destroyed off the face of the earth. Mosiah 11:22 has already quoted the jealous-God clause, in Exodus 20:5's wording; Mosiah 12:8 delivers the consequence in Deuteronomy 6:15's. The two halves of one Deuteronomic sentence arrive nineteen verses apart, in the right order and attached to the right conditions — and the second half is then qualified in a way Deuteronomy does not permit: 'yet they shall leave a record behind them, and I will preserve them for other nations which shall possess the land'. The destruction is total and the record survives it, which is the Book of Mormon's doctrine of itself, inserted into the sentence that denies it."
+        },
+        "note": "'Except they repent, I will utterly destroy them from off the face of the earth.' Six continuous KJV words. The one departure is the inserted 'utterly' — 'utterly destroy' is a separate and very common KJV idiom (thirty-four verses) welded onto the rarer phrase, which is how a writer who knows both is likely to produce it. The verse then turns away from its source entirely; the surviving record for 'other nations' has no Deuteronomic warrant.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "12:9": [
+      {
+        "source": "1 Kings 22:8",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "text": "And the king of Israel said unto Jehoshaphat, There is yet one man, Micaiah the son of Imlah, by whom we may enquire of the LORD: but I hate him; for he doth not prophesy good concerning me, but evil. And Jehoshaphat said, Let not the king say so.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "recurrenceRefs": [
+          "Mosiah 12:10"
+        ],
+        "provenance": {
+          "route": "1 Kings 22:8 (= 2 Chronicles 18:7) → KJV → Book of Mormon",
+          "other": "“prophesy good concerning me” occurs in exactly one KJV verse, 1 Kings 22:8, and 1 Kings 22:18 repeats it as 'prophesy no good concerning me, but evil'. “evil concerning” occurs in exactly one KJV verse, 1 Kings 22:23. Mosiah 12:9 and 12:10 take the negative half of the formula twice in two verses: 'prophesied evil concerning thy people', 'prophesieth evil concerning thy life'.",
+          "significance": "This is a scene borrowed, not only a phrase. 1 Kings 22 is the King James Bible's full-dress trial of a prophet before a king: Micaiah is hated because he prophesies evil and not good, he is fetched by a messenger, four hundred court prophets tell the king what he wants to hear, one of them strikes Micaiah on the cheek (2 Chronicles 18:23), the king orders him imprisoned, and the king dies as prophesied. Mosiah 12 runs the sequence with the roles filled: a man carried bound before the king (12:9), the charge that he prophesies evil (12:9-10), a court priesthood assuring the king 'thou hast not sinned' and 'thou shalt also prosper' (12:14-15) — which is Zedekiah's 'Go up, and prosper' at 1 Kings 22:12 doing the same work — imprisonment (12:17), and Noah's death by fire in Mosiah 19. The reader who recovers Micaiah knows how the trial ends before it begins. The blow on the cheek is already in the Book of Mormon's text too, at 12:2, though there it falls on the people."
+        },
+        "note": "'We have brought a man before thee which has prophesied evil concerning thy people.' The Book of Mormon does not reproduce 1 Kings 22:8's clause whole; the shared run is short, and the case is the singleton formula used twice plus the scene it belongs to. The accusers' speech at 12:13-15 is the counterpart to the four hundred: 'we are guiltless, and thou, O king, hast not sinned; therefore, this man hast lied concerning you, and he hath prophesied in vain'.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "12:11": [
+      {
+        "source": "2 Kings 14:9",
+        "type": "allusion",
+        "subtype": "conceptual",
+        "confidence": "high",
+        "text": "And Jehoash the king of Israel sent to Amaziah king of Judah, saying, The thistle that was in Lebanon sent to the cedar that was in Lebanon, saying, Give thy daughter to my son to wife: and there passed by a wild beast that was in Lebanon, and trode down the thistle.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "2 Chronicles 25:18"
+        ],
+        "recurrenceRefs": [
+          "Mosiah 11:19",
+          "Mosiah 12:12"
+        ],
+        "provenance": {
+          "route": "2 Kings 14:9-10 (= 2 Chronicles 25:18-19) → KJV → Book of Mormon",
+          "alternative": "Job 13:25, 'wilt thou break a leaf driven to and fro? and wilt thou pursue the dry stubble?' — a KJV singleton for 'dry stubble', which supplies the wind-driven plant and the dried one but has no thistle and no beast.",
+          "other": "“trode down the thistle” occurs in exactly two KJV verses, 2 Kings 14:9 and its twin 2 Chronicles 25:18. 'The thistle' occurs in exactly three, the third being Hosea 10:8, where it grows on an altar and treads nothing. No other KJV passage puts a thistle, a wild beast and a treading-down together; Mosiah 12:11-12 has all three.",
+          "significance": "The KJV passage is a message from one king to another and it is a parable about presumption: the thistle of Lebanon proposed marriage to the cedar and a wild beast walked over it. Joash sends it to Amaziah and then says what it means — 'thine heart lifteth thee up to boast' (2 Chronicles 25:19) — and Amaziah goes to war anyway and loses. Mosiah splits the halves across two chapters and reverses their order: Noah's soldiers are lifted up and boast at 11:19; here the king is told he will be the trodden thistle. The sting is in who repeats it. The priests quote the thistle to Noah as evidence of Abinadi's insolence, not knowing that in the King James Bible the thistle parable is what one king says to another king who is about to fall."
+        },
+        "note": "'He saith that thou shalt be as a stalk, even as a dry stalk of the field, which is ran over by the beasts and trodden under foot' — and then, in the next verse, 'as the blossoms of a thistle'. Three elements across two verses, which is why no machine window can see this: contiguous n-grams are blind to a figure assembled across a verse boundary (CONVENTIONS §9). The 1830 reading is 'which is RAN over by the beasts'; 1920 repaired it to 'run over', a grammatical correction and not a move toward the KJV, whose verb is 'trode down'. 'Trodden under foot' is the Book of Mormon's own supplement from a much commoner idiom (five KJV verses).",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "12:16": [
+      {
+        "source": "Jeremiah 26:14",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "As for me, behold, I am in your hand: do with me as seemeth good and meet unto you.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "recurrenceRefs": [
+          "Mosiah 12:29"
+        ],
+        "provenance": {
+          "route": "Jeremiah 26:14 → KJV → Book of Mormon",
+          "other": "“as seemeth good” occurs in exactly two KJV verses, 2 Samuel 15:26 and Jeremiah 26:14, and only Jeremiah's is spoken by a man being handed over for trial. The Book of Mormon's 'do with him as seemeth thee good' keeps the clause and changes the person.",
+          "significance": "Jeremiah 26 is the other prophet's trial, and it is nearer to Mosiah 12 than Micaiah's is. A prophet prophesies against the city; the priests and the prophets seize him saying 'Thou shalt surely die' (26:8); he is brought before the authorities; he answers that the LORD sent him to prophesy against this house (26:12); he offers himself — 'do with me as seemeth good and meet unto you' — and warns that killing him will bring innocent blood on the city (26:15). Mosiah 12 supplies each element with the roles redistributed, and the telling redistribution is this one: in Jeremiah the sentence is the prophet's own, an act of self-surrender; in Mosiah 12:16 it belongs to the accusers — 'Behold, here is the man, we deliver him into thy hands; thou mayest do with him as seemeth thee good.' The words of a prophet placing himself in God's hands are given to the men handing him over to be burned. 'Behold, here is the man' does comparable work a second time; compare John 19:5."
+        },
+        "note": "An allusion rather than a quotation: only the four-word clause is reproduced and the grammatical person is changed. What raises it above a common idiom is the second use of Jeremiah 26 thirteen verses later — Mosiah 12:29's 'send me to prophesy against this people' takes “to prophesy against this”, a KJV singleton, from Jeremiah 26:12, the answer Jeremiah gave at his own trial. One chapter of Jeremiah supplies both the accusers' sentence and the defendant's, at the two ends of the same scene.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "12:19": [
+      {
+        "source": "Luke 11:54",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "Laying wait for him, and seeking to catch something out of his mouth, that they might accuse him.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "Luke 11:53-54 → KJV → Book of Mormon",
+          "alternative": "John 8:6, whose “have to accuse him” occurs in exactly one KJV verse and is the closer construction to the Book of Mormon's 'have wherewith to accuse him' — but whose setting is a single test question, not a cross-examination.",
+          "other": "'That they might accuse him' occurs in exactly three KJV verses: Matthew 12:10, Mark 3:2 and Luke 11:54. Only Luke 11:53-54 pairs the accusation with questioning — 'began to urge him vehemently, and to provoke him to speak of many things; laying wait for him, and seeking to catch something out of his mouth' — which is what Mosiah 12:19 describes.",
+          "significance": "Luke 11:53-54 is the hinge between the woes on the lawyers and Pharisees and the plot to trap Jesus in his talk. Mosiah 12 puts the two in the same order and reassigns them: the priests question Abinadi to catch him out (12:19), and Abinadi answers with a woe on professional teachers who do not know what they teach (12:25-27), which is Luke 11:52's charge — 'ye have taken away the key of knowledge: ye entered not in yourselves, and them that were entering in ye hindered' — in different words. The Book of Mormon has taken the Lucan sequence, questioning and then woe, and given the woe to the defendant."
+        },
+        "note": "'They began to question him, that they might cross him, that thereby they might have wherewith to accuse him.' 'Cross him' is the Book of Mormon's own — the KJV never uses the verb — but the purpose clause is the Gospels' standing formula for a trap laid in questions, and Luke 11:54 is the one instance where the trap is a cross-examination rather than a sabbath healing. What follows has no KJV phrase behind it: 'confound' is a fifty-one-verse word and 'answered them' a thirty-four-verse one, so the sentence about Abinadi withstanding them is the narrator's, not the King James Bible's.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "12:21": [
+      {
+        "source": "Isaiah 52:7",
+        "type": "quotation",
+        "subtype": "explicit",
+        "confidence": "certain",
+        "text": "How beautiful upon the mountains are the feet of him that bringeth good tidings, that publisheth peace; that bringeth good tidings of good, that publisheth salvation; that saith unto Zion, Thy God reigneth!",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 4
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "provenance": {
+          "route": "Isaiah 52:7 → KJV → Book of Mormon",
+          "alternative": "Romans 10:15, the New Testament quotation of the same verse: 'How beautiful are the feet of them that preach the gospel of peace, and bring glad tidings of good things!'",
+          "other": "“publisheth peace” occurs in exactly two KJV verses, Isaiah 52:7 and Nahum 1:15, which share eleven words ('the feet of him that bringeth good tidings, that publisheth peace'). Nahum has no mountains and no Zion; the Book of Mormon has both.",
+          "significance": "The verse is quoted in the chapter as a question the priests cannot answer, which is a use of scripture no other passage in the catalogue makes: the priests produce it, verbatim, as a text 'which have been taught by our fathers', and Abinadi's reply is that quoting it is not the same as knowing it. Mosiah 15:14-18 will return and expound this same verse at length. What the immediate context supplies is the reproach: Isaiah's beautiful feet belong to the messenger who publishes peace and salvation, and the man standing in front of these priests is that messenger, in irons."
+        },
+        "note": "Twenty-eight continuous words with one substantive departure in the whole of it: 1830 reads 'that SAYETH unto Zion' where the KJV has 'saith', and 1920 restored the King James form (CONVENTIONS §8 — the later edition correcting back toward the source). `mediation-check.py` returns three decisive points for Isaiah 52:7 over Romans 10:15: 'bringeth good tidings that publisheth' rather than 'preach the gospel of', 'that bringeth good' rather than 'and bring glad', and no trace of Romans's 'as it is written'. This is one of the counter-examples to the pilot's OT-via-NT pattern — the Book of Mormon has the Old Testament form. At twenty-eight words it exceeds Skousen's sixteen-word operational threshold, but his itemized list of KJV quotations is unobtainable to this project (PLAN §4.1) and nothing here should be read as a claim about what is on it.",
+        "bibliography": [
+          "Hardy MSI at Mosiah 12.24 (Isaiah 52:7-10, keyed to the last verse of the block)"
+        ],
+        "status": "consensus",
+        "streams": [
+          "machine-ngram",
+          "scholarship",
+          "manual"
+        ]
+      }
+    ],
+    "12:22": [
+      {
+        "source": "Isaiah 52:8",
+        "type": "quotation",
+        "subtype": "explicit",
+        "confidence": "certain",
+        "text": "Thy watchmen shall lift up the voice; with the voice together shall they sing: for they shall see eye to eye, when the LORD shall bring again Zion.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 4
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "provenance": {
+          "route": "Isaiah 52:8 → KJV → Book of Mormon",
+          "other": "“with the voice together shall they sing” occurs in exactly one KJV verse, Isaiah 52:8. The 1830 text reproduces every word of that verse in the KJV's order, with no substitution, addition or omission. The whole of the departure is punctuation.",
+          "significance": "A watchman is the KJV's standing figure for a prophet — 'Son of man, I have made thee a watchman unto the house of Israel' (Ezekiel 3:17) — and the priests read the verse to a prophet they have imprisoned. The verse promises watchmen who lift up the voice together and see eye to eye; Mosiah 12 has one watchman and a room of men who cannot answer their own question."
+        },
+        "note": "The one thing to record here is the pointing. The KJV reads 'shall lift up the voice; with the voice together shall they sing'; the 1830 reads 'shall lift up the voice with the voice; together shall they sing'. Not a word differs — the semicolon has moved one phrase to the left, and the sense moves with it: the KJV's watchmen sing together with one voice, the 1830's lift up the voice with the voice and then sing. Since 1830 punctuation is the compositor's as much as anyone's, this is recorded as a variant of the printed text rather than an argument about the source, but it is the kind of thing a verbatim block is for.",
+        "bibliography": [],
+        "status": "consensus",
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ],
+        "citationsPending": true
+      }
+    ],
+    "12:23": [
+      {
+        "source": "Isaiah 52:9",
+        "type": "quotation",
+        "subtype": "explicit",
+        "confidence": "certain",
+        "text": "Break forth into joy, sing together, ye waste places of Jerusalem: for the LORD hath comforted his people, he hath redeemed Jerusalem.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 4
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "provenance": {
+          "route": "Isaiah 52:9 → KJV → Book of Mormon",
+          "other": "“waste places of Jerusalem” occurs in exactly one KJV verse, Isaiah 52:9. The 1830 text reproduces the verse word for word.",
+          "significance": "Jerusalem is a waste place in this verse, and the men quoting it are the descendants of a colony that left Jerusalem before it was one. The comfort and redemption Isaiah announces are addressed to ruins that Noah's court has never seen; what it is being read to is a court that is about to become one."
+        },
+        "note": "Word-for-word with the KJV, including the KJV singleton at its centre. Recorded verse by verse rather than as a single block so that each departure — here, none — is visible where it occurs.",
+        "bibliography": [],
+        "status": "consensus",
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ],
+        "citationsPending": true
+      }
+    ],
+    "12:24": [
+      {
+        "source": "Isaiah 52:10",
+        "type": "quotation",
+        "subtype": "explicit",
+        "confidence": "certain",
+        "text": "The LORD hath made bare his holy arm in the eyes of all the nations; and all the ends of the earth shall see the salvation of our God.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 4
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "provenance": {
+          "route": "Isaiah 52:10 → KJV → Book of Mormon",
+          "alternative": "Psalm 98:3, 'all the ends of the earth have seen the salvation of our God', which shares the closing clause in the past tense.",
+          "other": "“made bare his holy arm” occurs in exactly one KJV verse, Isaiah 52:10. The 1830 text reproduces the verse word for word, including the singleton.",
+          "significance": "The four verses close on the arm of the Lord made bare — the KJV's image of a sleeve pushed back for work — and the next thing Isaiah 52 says is 'Behold, my servant shall deal prudently' (52:13), the opening of the Suffering Servant song that Abinadi will read out in full as Mosiah 14. The priests stop their quotation exactly three verses short of the passage that answers their question, and the man they are questioning finishes it for them two chapters later. That is metalepsis operating at the scale of a whole chapter: the unstated correspondence is what Isaiah 52 says next."
+        },
+        "note": "Word for word. Hardy's apparatus keys Isaiah 52:7-10 to this verse, the last of the block, which is right for a chapter-level cross-reference; the catalogue puts a link on each of the four verses the wording occupies, per CONVENTIONS §6a. Across 12:21-24 the block runs to roughly a hundred continuous KJV words with a single word changed ('sayeth' for 'saith', restored in 1920) — comfortably the largest verbatim borrowing in these three chapters.",
+        "bibliography": [
+          "Hardy MSI at Mosiah 12.24 (Isaiah 52:7-10)"
+        ],
+        "status": "consensus",
+        "streams": [
+          "machine-ngram",
+          "scholarship",
+          "manual"
+        ]
+      }
+    ],
+    "12:26": [
+      {
+        "source": "Acts 13:10",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "text": "And said, O full of all subtilty and all mischief, thou child of the devil, thou enemy of all righteousness, wilt thou not cease to pervert the right ways of the Lord?",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Luke 23:2"
+        ],
+        "recurrenceRefs": [
+          "Mosiah 12:31"
+        ],
+        "provenance": {
+          "route": "Acts 13:10 → KJV → Book of Mormon",
+          "other": "“pervert the right ways of the Lord” occurs in exactly one KJV verse, Acts 13:10. The participle “perverting the” occurs in exactly one KJV verse, Luke 23:2. The Book of Mormon has 'perverting the ways of the Lord' and then 'ye have perverted the ways of the Lord' — Acts's phrase without Acts's adjective, in Luke's participial construction.",
+          "significance": "Two recovered contexts, and they pull in opposite directions. Acts 13:10 is Paul's denunciation of Elymas the sorcerer, a religious professional standing between a ruler and the word — which is precisely what Abinadi charges Noah's priests with. Luke 23:2 is the accusation brought against Jesus before Pilate: 'we found this fellow perverting the nation'. So the King James Bible's two uses of the verb are a true prophet's charge against a false teacher and a false charge against a true prophet, and Mosiah 12 is a scene in which both are happening at once. Abinadi, who has just been accused, turns the accusers' own verb back on them. The Acts context also supplies the sequel: Elymas is struck blind, and Mosiah 11:29 has already said the eyes of the people were blinded."
+        },
+        "note": "'Wo be unto you for perverting the ways of the Lord. For if ye understand these things, ye have not taught them; therefore, ye have perverted the ways of the Lord.' The phrase is used twice in one verse, which is the Book of Mormon's own emphasis; the KJV never repeats it. Note that Acts 13 supplies this chapter twice — the verb here, and “by the law of Moses” at 12:31 from Acts 13:39, out of Paul's Antioch sermon in the same chapter. The pilot found Acts 3 at five places and Acts 7 at six in 1 Nephi; Acts 13 doing the same work in a single Mosiah chapter is the same phenomenon at smaller scale.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "12:27": [
+      {
+        "source": "Proverbs 2:2",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "text": "So that thou incline thine ear unto wisdom, and apply thine heart to understanding;",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "provenance": {
+          "route": "Proverbs 2:2 → KJV → Book of Mormon",
+          "other": "“apply thine heart to understanding” occurs in exactly one KJV verse, Proverbs 2:2. The KJV's only comparable construction is Proverbs 22:17, 'apply thine heart unto my knowledge'. The Book of Mormon reads 'Ye have not applied your hearts to understanding' — the singleton pluralised and negated.",
+          "significance": "Proverbs 2:2 is a condition inside a promise: incline the ear and apply the heart, and 'then shalt thou understand the fear of the LORD, and find the knowledge of God' (2:5). Abinadi's charge is that the priests have failed the condition, and the verse he charges them with is the one that says what failing it costs. The men in the room are professional teachers who have just asked a prophet to explain a text they teach; Proverbs supplies the exact diagnosis, that understanding is a thing applied for and not a thing possessed by office."
+        },
+        "note": "'Ye have not applied your hearts to understanding; therefore, ye have not been wise. Therefore, what teachest thou this people?' The KJV singleton is reproduced with only the person changed, and the sentence that follows it — 'therefore, ye have not been wise' — is the negation of the promise Proverbs 2 attaches. The 1830 text's abrupt shift from plural 'ye' to singular 'thou' inside the last clause is the first edition's, not a modern editor's.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "12:29": [
+      {
+        "source": "Jeremiah 26:12",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "Then spake Jeremiah unto all the princes and to all the people, saying, The LORD sent me to prophesy against this house and against this city all the words that ye have heard.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Proverbs 29:3",
+          "Psalm 62:10"
+        ],
+        "recurrenceRefs": [
+          "Mosiah 11:14",
+          "Mosiah 12:16"
+        ],
+        "provenance": {
+          "route": "Jeremiah 26:12 → KJV → Book of Mormon",
+          "other": "“to prophesy against this” occurs in exactly one KJV verse, Jeremiah 26:12. Two other phrases in the same Book of Mormon verse have KJV homes: “spendeth his substance” with harlots occurs in exactly one, Proverbs 29:3, and 'set not your heart upon them', of riches, is Psalm 62:10 — 'if riches increase, set not your heart upon them'.",
+          "significance": "Jeremiah's answer at his trial is the sentence Abinadi is given here, and it is given at the same point in the same scene: the prophet, having been seized by priests and brought before the authorities, states his commission. Recover Jeremiah 26 and what follows is the argument that saved him — the elders recall Micah, who prophesied against the city and was not put to death, and then the counter-case of Urijah, who was fetched back from Egypt and killed with the sword (26:20-23). The King James Bible offers two outcomes for a prophet who prophesies against his city, and Mosiah 12 has quoted the chapter that holds both. Abinadi gets Urijah's."
+        },
+        "note": "'That the Lord hath cause to send me to prophesy against this people.' The Book of Mormon substitutes 'this people' for Jeremiah's 'this house and against this city', which is the substitution the whole Abinadi cycle turns on — there is no temple and no city here to prophesy against. The verse also gathers the chapter's other threads: 'set your hearts upon riches' answers Psalm 62:10 and 'spend your strength with harlots' returns to the Lucan and Proverbial vocabulary of Mosiah 11:14, now as a charge rather than a description. Filed as one link with the two shorter contacts as composite, because the sentence is a single accusation.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "12:31": [
+      {
+        "source": "Acts 13:39",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "text": "And by him all that believe are justified from all things, from which ye could not be justified by the law of Moses.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Galatians 2:21"
+        ],
+        "recurrenceRefs": [
+          "Mosiah 12:26"
+        ],
+        "provenance": {
+          "route": "Acts 13:39 and Galatians 2:21 → KJV → Book of Mormon",
+          "other": "“by the law of Moses” occurs in exactly one KJV verse, Acts 13:39, and “come by the law” occurs in exactly one, Galatians 2:21 ('if righteousness come by the law, then Christ is dead in vain'). 'Come by the law of Moses' occurs in no KJV verse: Mosiah 12:31's question splices the two singletons at the seam.",
+          "significance": "Abinadi's question is the Pauline question, and the Book of Mormon has built it out of the two places the King James Bible asks it. Acts 13:39 is the close of Paul's synagogue sermon at Antioch, and it answers exactly what the priests answer here: they say salvation does come by the law of Moses; Paul says that is the one thing the law of Moses could not do. The chapter has already used Acts 13 once, at 12:26 — Paul's rebuke of Elymas, eleven verses before Paul's sermon on the law. Whatever is happening at Mosiah 12:26 and 12:31, one chapter of Acts is supplying both a prophet's denunciation of a false teacher and the doctrine he denounces him with. Galatians 2:21's contribution is the stake: if righteousness comes by the law, Christ is dead in vain — which is what Abinadi will spend Mosiah 13-16 saying at length."
+        },
+        "note": "'Doth salvation come by the law of Moses? What sayest thou? And they answered and said, that salvation did come by the law of Moses.' Two KJV singletons welded into a sentence that exists in neither. The join is visible: 'come by the law' is Galatians', 'by the law of Moses' is Acts', and the overlap of the two is the three words 'by the law'. The priests' answer at 12:32 repeats the fused phrase back, which is how the chapter marks it as the proposition under examination.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "12:34": [
+      {
+        "source": "Exodus 20:2",
+        "type": "quotation",
+        "subtype": "explicit",
+        "confidence": "certain",
+        "text": "I am the LORD thy God, which have brought thee out of the land of Egypt, out of the house of bondage.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 3
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "recurrenceRefs": [
+          "Mosiah 11:22",
+          "Mosiah 11:27"
+        ],
+        "provenance": {
+          "route": "Exodus 20:2 → KJV → Book of Mormon",
+          "alternative": "Deuteronomy 5:6, the Decalogue's second recension: 'I am the LORD thy God, which brought thee out of the land of Egypt, from the house of bondage.'",
+          "other": "'Out of the house of bondage' occurs in exactly four KJV verses (Exodus 13:3, 20:2, Deuteronomy 13:5, Judges 6:8); Deuteronomy 5:6 reads 'FROM the house of bondage' and is not among them. The Book of Mormon reproduces Exodus 20:2 word for word, twenty-one words with no departure at all — including 'have brought', which Deuteronomy 5:6 lacks, and 'out of', which Deuteronomy 5:6 replaces with 'from'.",
+          "significance": "Two things converge on this sentence. Noah asked Pharaoh's question at 11:27 — 'who is the Lord?' — and this is the King James Bible's answer to it, spoken by the God who took a people out of Egypt, delivered to a king whose people Abinadi has just promised will be taken into bondage. And the sanction clause of this same Decalogue was already quoted at Mosiah 11:22, before the commandments themselves; the chapter-pair therefore gives the penalty first and the law second, which is the order a trial has and not the order Sinai had."
+        },
+        "note": "The first of three consecutive commandments quoted verbatim. `mediation-check.py` reports no decisive divergence between Exodus 20:2 and Deuteronomy 5:6 at any point the Book of Mormon reproduces, because it treats 'have' and the preposition as too common to weigh — but by eye the verse settles it in Exodus's favour twice over: the Book of Mormon has Exodus's auxiliary 'have brought' where Deuteronomy has plain 'brought', and Exodus's 'out of the house of bondage' where Deuteronomy has 'from'. Together with 12:35 (below) this is a clean Exodus-not-Deuteronomy result on the Decalogue, decided on wording rather than assumed.",
+        "bibliography": [],
+        "status": "consensus",
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ],
+        "citationsPending": true
+      }
+    ],
+    "12:35": [
+      {
+        "source": "Exodus 20:3",
+        "type": "quotation",
+        "subtype": "explicit",
+        "confidence": "certain",
+        "text": "Thou shalt have no other gods before me.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 4
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "provenance": {
+          "route": "Exodus 20:3 → KJV → Book of Mormon",
+          "alternative": "Deuteronomy 5:7, 'Thou shalt have none other gods before me.'",
+          "other": "“no other gods before me” occurs in exactly one KJV verse, Exodus 20:3. Deuteronomy 5:7 reads 'NONE other gods' and is therefore not a match for the string at all. The Book of Mormon's 1830 text reads 'no other God' — Exodus's determiner, with the noun in the singular.",
+          "significance": "The discrimination is one word long and it decides the source of the whole Decalogue block. Where the two KJV recensions differ, the Book of Mormon has Exodus's word every time: 'no' not 'none' here, 'have brought' and 'out of' at 12:34, and at 12:36 the omission of the third clause is an abridgement of Exodus's text rather than a move toward Deuteronomy's. Abinadi is reciting Exodus 20, not the law as Moses restated it in Deuteronomy — which matters, because Deuteronomy 5 is Moses rehearsing the covenant to a generation about to enter a promised land, and Exodus 20 is the covenant being made with a people just out of bondage. The people in front of Abinadi are about to go into bondage, and he gives them the Exodus form."
+        },
+        "note": "`mediation-check.py` declines to call this decisive, because it ignores single common words to avoid false positives (ADJUDICATING §4 — pronouns and determiners are the adjudicator's to catch). By eye it is decisive: 'no' is Exodus's determiner and 'none' is Deuteronomy's, and the Book of Mormon has 'no'. The singular 'God' for the KJV's plural 'gods' is the 1830 text's own reading and survives into the current edition unchanged; whatever it is, it is not a move toward Deuteronomy. Hardy's apparatus cross-references Exodus 20:3 at this verse.",
+        "bibliography": [
+          "Hardy MSI at Mosiah 12.35 (Exodus 20:3)"
+        ],
+        "status": "consensus",
+        "streams": [
+          "machine-ngram",
+          "scholarship",
+          "manual"
+        ]
+      }
+    ],
+    "12:36": [
+      {
+        "source": "Exodus 20:4",
+        "type": "quotation",
+        "subtype": "explicit",
+        "confidence": "certain",
+        "text": "Thou shalt not make unto thee any graven image, or any likeness of any thing that is in heaven above, or that is in the earth beneath, or that is in the water under the earth.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "provenance": {
+          "route": "Exodus 20:4 → KJV → Book of Mormon",
+          "alternative": "Deuteronomy 5:8, which drops 'unto thee' and reads 'in the waters beneath the earth' for Exodus's 'in the water under the earth'.",
+          "other": "“make unto thee any graven image” occurs in exactly one KJV verse, Exodus 20:4; Deuteronomy 5:8 drops 'unto thee' and so does not match it. Deuteronomy also reads 'in the waters beneath the earth' for Exodus's 'in the water under the earth'. The Book of Mormon omits that third clause altogether, so the point at which the two recensions differ most visibly is not reproduced by either route.",
+          "significance": "Abinadi's recitation stops here, in the middle of the second commandment, and the narrative stops with it: 'Have ye done all this? I say unto you, Nay, ye have not.' The commandment about images is where the reading breaks off, and the chapter that precedes it has been an inventory of Noah's ornamented buildings, gilded seats and precious things — 'they also became idolatrous' at 11:7 is the verdict already recorded. The recitation is cut off at exactly the commandment the court has been breaking for a chapter and a half."
+        },
+        "note": "The 1830 reading is 'any likeness of any thing IN THE heaven above, or THINGS WHICH IS in the earth beneath'. Two departures from Exodus 20:4, and 1920 moved one of them back toward the KJV and the other away: 'in the heaven above' became 'in heaven above', which is the King James wording exactly (CONVENTIONS §8), while 'things which is' became 'things which are', a grammatical repair that leaves the KJV's 'that is' as far off as before. The first edition therefore shows a text that had drifted from its source in one place and had not yet been corrected toward it in another — which is the argument for running the 1830 text, in a single verse.",
+        "bibliography": [],
+        "status": "consensus",
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ],
+        "citationsPending": true
+      }
+    ]
+  }
+}

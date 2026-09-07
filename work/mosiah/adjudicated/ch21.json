@@ -1,0 +1,351 @@
+{
+  "chapter": 21,
+  "adjudicated": "2026-09-07",
+  "adjudicator": "Opus",
+  "links": {
+    "21:3": [
+      {
+        "source": "Isaiah 58:6",
+        "type": "allusion",
+        "subtype": "probable",
+        "confidence": "moderate",
+        "text": "Is not this the fast that I have chosen? to loose the bands of wickedness, to undo the heavy burdens, and to let the oppressed go free, and that ye break every yoke?",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "uncertain",
+        "composite": [
+          "Matthew 23:4",
+          "Exodus 1:11"
+        ],
+        "recurrenceRefs": [
+          "Mosiah 21:15"
+        ],
+        "provenance": {
+          "route": "Isaiah 58:6 → KJV → Book of Mormon (with Matthew 23:4 not excluded)",
+          "other": "“heavy burdens” occurs in exactly two KJV verses, Isaiah 58:6 and Matthew 23:4, and the Book of Mormon uses the phrase once in the whole volume, here. tools/mediation-check.py was run on Isaiah 58:6 against Luke 4:18, which conflates Isaiah 58:6's freeing of the oppressed into its Isaiah 61 reading: it returns no decisive divergence, because the Book of Mormon reproduces nothing the two verses differ over. The mediation is therefore recorded as uncertain rather than guessed.",
+          "significance": "Both candidates are doing something here and they are doing different things. Matthew 23:4 supplies the picture — burdens bound on men and laid upon their shoulders, which is Mosiah's “put heavy burdens upon their backs” — but Matthew's burdens are legal, imposed by teachers, and metaphorical. Isaiah 58:6 supplies the sense and the arc: it is about literal oppression, and it is the verse that undoes it, “to loose the bands of wickedness, to undo the heavy burdens, and to let the oppressed go free, and that ye break every yoke.” Every one of those four clauses becomes an event in Mosiah 21-22. The burdens are eased at 21:15; the yoke is named at 21:13; and the oppressed go free at 22:11-12, by night. Behind both stands Exodus 1:11, where taskmasters afflict Israel with their burdens, which is the narrative this whole chapter is walking through. Isaiah 58's own point is that the fast God wants is not affliction accepted but affliction ended, and Mosiah 21 is a chapter in which a people accept the affliction and are told they will not yet be delivered."
+        },
+        "note": "“Began to put heavy burdens upon their backs, and drive them as they would a dumb ass.” “Heavy burdens” is a two-verse KJV phrase and the Book of Mormon uses it exactly once, in the verse that opens its account of servitude. Matthew 23:4 has the image of laying them on men's shoulders; Isaiah 58:6 has the situation, real oppression, and the verb this chapter will need at 21:15, where the Lord “began to soften the hearts of the Lamanites, that they began to ease their burdens” — Isaiah's “undo the heavy burdens”. Recorded at moderate because the two candidates cannot be separated on the words, and the mediation is left uncertain for the same reason rather than settled by preference.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      },
+      {
+        "source": "Matthew 20:25",
+        "type": "echo",
+        "subtype": "possible",
+        "confidence": "moderate",
+        "text": "But Jesus called them unto him, and said, Ye know that the princes of the Gentiles exercise dominion over them, and they that are great exercise authority upon them.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 2,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "uncertain",
+        "mediation": "direct-NT",
+        "composite": [
+          "Mark 10:42",
+          "Luke 22:25"
+        ],
+        "provenance": {
+          "route": "Matthew 20:25 / Mark 10:42 / Luke 22:25 → KJV → Book of Mormon",
+          "other": "“Exercise authority” occurs in exactly three KJV verses, Matthew 20:25, Mark 10:42 and Luke 22:25 — one saying in three tellings, and the Bible's only use of the collocation. All three read “exercise authority upon them”, and “over them” belongs in each to the paired clause: “exercise dominion over them” in Matthew, “exercise lordship over them” in Mark and Luke. Mosiah 21:3's “exercise authority over them” takes the verb from one clause and the preposition from the other. tools/mediation-check.py on Matthew 20:25 against Luke 22:25 finds no decisive divergence — princes/kings, dominion/lordship, benefactors — because the Book of Mormon reproduces none of the words the three tellings differ over, so no Gospel can be named.",
+          "significance": "The saying is Jesus's definition of what Gentile rule looks like from underneath, given to disciples arguing about rank: the great ones exercise authority upon those beneath them, and among you it shall not be so. Mosiah 21:3 is that sentence turned into a report of events — a people beneath a foreign power being smitten, having authority exercised over them, and being loaded like animals — and the report is of what happens to Nephites at the hands of Lamanites, i.e. of the covenant people under the Gentile pattern. If the echo is real, the chapter is quietly measuring the Lamanite occupation by the standard Christ set against."
+        },
+        "note": "“Exercise authority over them.” The collocation is confined in the KJV to one saying about how the rulers of the Gentiles treat their subjects, and Mosiah 21:3 is a catalogue of exactly that treatment. Registered at moderate, and as an echo rather than an allusion, because the wording is a conflation of the saying's two clauses rather than a reproduction of either, and because no Gospel form can be identified.",
+        "whyNot": "“Exercise authority over” is unremarkable English and reads as naturally in 1830 as in 1611; a reader is entitled to say the writer needed a phrase for oppression and used the obvious one. The Gospel saying is also about honour and precedence among rulers, not about forced labour, so the context match is with one clause of it only. Nothing else in the chapter depends on this row.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "21:9": [
+      {
+        "source": "Lamentations 2:5",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "The LORD was as an enemy: he hath swallowed up Israel, he hath swallowed up all her palaces: he hath destroyed his strong holds, and hath increased in the daughter of Judah mourning and lamentation.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Zechariah 12:12"
+        ],
+        "recurrenceRefs": [
+          "Mosiah 21:13"
+        ],
+        "provenance": {
+          "route": "Lamentations 2:5 → KJV → Book of Mormon",
+          "other": "“Mourning and lamentation” occurs in exactly one KJV verse, Lamentations 2:5, and this is its first occurrence in the Book of Mormon. The itemised list that follows it — the widow for her husband, son and daughter for their father, brothers for their brethren — has its nearest KJV model in Zechariah 12:12-14, where “the land shall mourn, every family apart” is a KJV singleton and the mourning is likewise broken out household by household.",
+          "significance": "The phrase belongs to the KJV's one sustained poem about a city broken by a besieging army, and Lamentations is the book this chapter keeps returning to: the mourning here at 21:9, and at 21:13 the dust, the yoke and the offered cheek of Lamentations 3:27-30. Recovering the context supplies what Mosiah does not say outright. Lamentations 2:5 begins “The LORD was as an enemy” — the disaster is God's doing, not the enemy's — and Mosiah 21 has just told the reader at 20:21 and 21:4 that all this was done that the word of Abinadi might be fulfilled. The chapter's grief is being described in the vocabulary of a book that reads national defeat as judgment, which is precisely the reading the chapter wants."
+        },
+        "note": "“There was a great mourning and lamentation among the people of Limhi.” A KJV singleton, from Lamentations 2:5, where it is what the LORD “increased in the daughter of Judah” after destroying her strong holds. The verse then breaks the grief down by relation, which is the shape of Zechariah 12:12-14's family-by-family mourning. Both sources read a military catastrophe as a divine visitation, and this chapter has already said, at 21:4, that this is one.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "21:11": [
+      {
+        "source": "Luke 18:5",
+        "type": "allusion",
+        "subtype": "probable",
+        "confidence": "moderate",
+        "text": "Yet because this widow troubleth me, I will avenge her, lest by her continual coming she weary me.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 2,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "uncertain",
+        "mediation": "direct-NT",
+        "composite": [
+          "Luke 18:3",
+          "Luke 18:7"
+        ],
+        "provenance": {
+          "route": "Luke 18:1-8 → KJV → Book of Mormon",
+          "other": "“Continual coming” occurs in exactly one KJV verse, Luke 18:5; “avenge me of mine adversary” occurs in exactly one KJV verse, Luke 18:3; “cry day and night” occurs in exactly one KJV verse, Luke 18:7. Mosiah reproduces none of the three verbatim, which is why this is filed at moderate — the contact is the cluster of elements, not a string.",
+          "significance": "The parable of the importunate widow is the KJV's one story built out of these four things together: a widow, crying that does not stop, a hearer who does not answer at first, and vengeance on an adversary as the thing asked for. Mosiah 21:9-15 has all four in the same order — a great many widows (21:10), continual cries (21:11), an adversary they are avenged on when the cries stir the people to a third assault (21:11-12), and a hearer explicitly described as slow: “the Lord was slow to hear their cry” (21:15). Luke's parable exists to answer the question the chapter is living inside, whether God's delay means refusal: “shall not God avenge his own elect, which cry day and night unto him, though he bear long with them?” The Book of Mormon gives the widows the parable's part and then answers it in the negative twice over — the vengeance they get at 21:11 is three defeats, and the deliverance they get at 21:15 is not deliverance but lighter burdens."
+        },
+        "note": "“Their continual cries did stir up the remainder of the people of Limhi to anger, against the Lamanites.” The KJV's one continually-crying widow is the woman of Luke 18, whose “continual coming” is a singleton, whose petition is “avenge me of mine adversary”, and whose parable is expressly about elect who “cry day and night” to a God who “bear[s] long with them”. Mosiah 21 puts a whole city of widows in her place, has their crying produce exactly the vengeance she asked for, and then at 21:15 says in so many words that the Lord was slow. The verbal contact is one word, “continual”, applied to the crying of widows; the case is the co-occurrence of the parable's four distinctive elements in nine verses.",
+        "whyNot": "A single shared adjective is not evidence, and each element on its own is common property — widows mourn, the bereaved cry, and delayed divine answer is a commonplace of the Psalms as much as of Luke. A reader who declines this will lose nothing else in the chapter, since 21:15's argument rests independently on Psalm 106:43-46.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "21:13": [
+      {
+        "source": "Lamentations 3:30",
+        "type": "allusion",
+        "subtype": "structural",
+        "confidence": "high",
+        "text": "He giveth his cheek to him that smiteth him: he is filled full with reproach.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Lamentations 3:27",
+          "Lamentations 3:29"
+        ],
+        "recurrenceRefs": [
+          "Mosiah 21:3",
+          "Mosiah 21:9"
+        ],
+        "provenance": {
+          "route": "Lamentations 3:27-30 → KJV → Book of Mormon",
+          "other": "“Bear the yoke” occurs in exactly one KJV verse, Lamentations 3:27; “his mouth in the dust” occurs in exactly one KJV verse, Lamentations 3:29; “giveth his cheek” occurs in exactly one KJV verse, Lamentations 3:30. Three KJV singletons stand in four consecutive verses of one passage and all three are answered in this one verse of Mosiah, the last against 21:3's “smite them on their cheeks”. The bare phrase “in the dust” occurs in exactly fourteen KJV verses and identifies nothing by itself; what identifies Lamentations is that the dust, the yoke and the struck cheek arrive together.",
+          "significance": "Lamentations 3:26-30 is the KJV's one passage recommending submission to national humiliation as a discipline — bear the yoke, sit alone and keep silence, put the mouth in the dust, give the cheek to the smiter — and it recommends it on the ground stated two verses later, that “the LORD will not cast off for ever”. Mosiah 21:13 performs that passage as narrative: humbling to the dust, taking the yoke, submitting to be smitten, in that order. What the source adds is the reason, which the Book of Mormon withholds for two more verses. Lamentations submits because mercy is coming; Mosiah's people submit and are told at 21:15 that the Lord “did not see fit to deliver them out of bondage.” The passage that promises the end of the discipline is used to describe a discipline that is not yet over — and the same phrase that closes Lamentations' argument, “according to the multitude of his mercies” (3:32), is the phrase Psalm 106:45 uses in the passage behind Mosiah 21:15. The chapter's two spinal sources quote each other."
+        },
+        "note": "“They did humble themselves even to the dust, subjecting themselves to the yoke of bondage, submitting themselves to be smitten.” Three KJV singletons from four consecutive verses of Lamentations 3, in the source's own order: the mouth in the dust (3:29), the yoke borne (3:27), the cheek given to him that smiteth (3:30), which the chapter has already set up at 21:3 with “they would smite them on their cheeks”. No clause is reproduced — this is catalogued on the sequence, not on a run — but the odds against three unique KJV phrases from one short passage recurring together are what carry the row. Lamentations counsels this posture because deliverance is coming; here it produces two more chapters of bondage.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      },
+      {
+        "source": "Galatians 5:1",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "Stand fast therefore in the liberty wherewith Christ hath made us free, and be not entangled again with the yoke of bondage.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 3,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "Galatians 5:1 → KJV → Book of Mormon",
+          "other": "“Yoke of bondage” occurs in exactly one KJV verse, Galatians 5:1. This is its first occurrence in the Book of Mormon; the other four are all in Alma and are that book's own reuse of the phrase.",
+          "significance": "Paul's sentence is a prohibition, and Mosiah 21:13 is its violation stated as an act of piety. “Stand fast therefore in the liberty wherewith Christ hath made us free, and be not entangled again with the yoke of bondage” — and here a people, having humbled themselves to the dust, put themselves under it deliberately. The two texts are not talking about the same servitude; Paul means the law, and Mosiah means Lamanite taskmasters. But the borrowing brings Paul's terms with it, and once they are in view the chapter's arc has a second reading available: liberty lost, a yoke voluntarily accepted, and at 22:11-12 a people walking out of it by night. Whether the chapter intends that reading or merely reached for the KJV's only phrase for the thing it was describing, the phrase it reached for is Paul's warning against doing what it narrates."
+        },
+        "note": "“Subjecting themselves to the yoke of bondage.” A KJV singleton, reproduced entire, and the Book of Mormon's first use of it. The sense is transposed from Paul's metaphor to literal servitude, which is the direction such transpositions usually run and is not an objection: the metaphor's ground is precisely political slavery. What is worth registering is that the source forbids what the verse describes, and that the phrase's four later Book of Mormon occurrences, all in Alma, are the volume's own reuse of what it takes here.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "21:14": [
+      {
+        "source": "Jonah 3:8",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "text": "But let man and beast be covered with sackcloth, and cry mightily unto God: yea, let them turn every one from his evil way, and from the violence that is in their hands.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "OT-via-earlier-BoM",
+        "recurrenceRefs": [
+          "Mosiah 9:17",
+          "Mosiah 11:25",
+          "Mosiah 21:10",
+          "Mosiah 24:10"
+        ],
+        "provenance": {
+          "route": "Jonah 3:8 → KJV → Mosiah 11:25 (Abinadi) → Mosiah 21:14",
+          "other": "“Cry mightily” occurs in exactly one KJV verse, Jonah 3:8, where it reads “cry mightily unto God”; Mosiah 21:14 reads “cry mightily to God”. But this is not the phrase's first appearance in the book. Abinadi has already used it at Mosiah 11:25 — “except they repent in sackcloth and ashes, and cry mightily to the Lord their God, I will not hear their prayers, neither will I deliver them out of their afflictions” — which carries Jonah's sackcloth as well as his verb, and Mosiah 21:14 reproduces Abinadi's second clause too: “that he would deliver them out of their afflictions.” The proximate model is therefore the earlier Book of Mormon prophecy, not the Bible, and the mediation is recorded accordingly.",
+          "significance": "This is the chapter's best-marked case of an earlier Book of Mormon text standing between the KJV and a later one, and the text does the marking itself: at 20:21, four verses earlier, Gideon has asked “are not the words of Abinadi fulfilled, which he prophesied against us?” Mosiah 21:14-15 is the fulfilment of the specific words quoted, in their own order — they do cry mightily, they do ask to be delivered out of their afflictions, and the Lord is “slow to hear their cry”, which is Abinadi's “I will not hear their prayers” softened by exactly one degree. Jonah's contribution is what makes the sentence bearable: the KJV's one “cry mightily” is Nineveh's, and Nineveh's crying works. The condition Abinadi attached — repentance, in sackcloth and ashes — is the one thing Mosiah 21:14 does not report."
+        },
+        "note": "“They did cry mightily to God; yea, even all the day long did they cry unto their God, that he would deliver them out of their afflictions.” The phrase is a KJV singleton belonging to the king of Nineveh's proclamation, but the Book of Mormon has already borrowed it once, in Abinadi's prophecy at Mosiah 11:25, together with the clause about deliverance out of afflictions that this verse also reproduces. So the row is filed as OT-via-earlier-BoM: what Mosiah 21:14 is quoting is Abinadi quoting Jonah, and the chapter says so itself at 20:21. The Bible contact itself is adjudicated at the phrase's first use in this book, Mosiah 9:17, where the catalogue already carries Jonah 3:8; this row records the route and the fulfilment, since what Mosiah 21:14 is following is not Jonah directly but Abinadi's use of him.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "21:15": [
+      {
+        "source": "Psalm 106:44",
+        "type": "allusion",
+        "subtype": "structural",
+        "confidence": "high",
+        "text": "Nevertheless he regarded their affliction, when he heard their cry:",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Psalm 106:42",
+          "Psalm 106:43",
+          "Psalm 106:46",
+          "Exodus 3:7"
+        ],
+        "provenance": {
+          "route": "Psalm 106:41-46 → KJV → Book of Mormon",
+          "other": "“Brought low for their iniquity” occurs in exactly one KJV verse, Psalm 106:43; “when he heard their cry” occurs in exactly one KJV verse, Psalm 106:44, which also contains the singleton “regarded their affliction”; “that carried them captives” occurs in exactly two KJV verses, of which Psalm 106:46 is one. The Exodus source behind the psalm has “heard their cry” in exactly three KJV verses, of which Exodus 3:7 is the one about taskmasters and burdens; the psalm is the proximate model because it, and not Exodus, supplies the adverb and the order.",
+          "significance": "Psalm 106:41-46 is not a parallel to Mosiah 21; it is Mosiah 21's outline, and every clause arrives in sequence. “They that hated them ruled over them” (106:41) is 21:3's exercised authority. “Their enemies also oppressed them, and they were brought into subjection under their hand” (106:42) is 21:13's subjecting themselves. “Brought low for their iniquity” (106:43) is 21:15's “because of their iniquities”. “Nevertheless he regarded their affliction, when he heard their cry” (106:44) is 21:15's “nevertheless the Lord did hear their cries” — the same adverb doing the same hinge. And “He made them also to be pitied of all those that carried them captives” (106:46) is the answer the chapter actually gets: not release, but captors who soften and ease the burdens. That last correspondence is the one that settles the row, because it explains the strangest thing in Mosiah 21. A reader asks why God would hear a prayer for deliverance and answer it with lighter chains; Psalm 106 is where that answer already exists, and the psalm reaches it because Israel is being disciplined and not abandoned. The chapter's other spine, Lamentations 3:27-33, ends on the same phrase the psalm uses one verse later — “according to the multitude of his mercies” — so the two sources this chapter runs on are already quoting each other in the KJV."
+        },
+        "note": "“And now the Lord was slow to hear their cry, because of their iniquities; nevertheless the Lord did hear their cries, and began to soften the hearts of the Lamanites, that they began to ease their burdens: yet the Lord did not see fit to deliver them out of bondage.” Set beside Psalm 106:43-46 the sentence is a paraphrase running clause for clause: brought low for their iniquity — nevertheless he regarded their affliction, when he heard their cry — he made them also to be pitied of all those that carried them captives. Two of those are KJV singletons and the hinge adverb is shared. This is the sort of agreement the n-gram stream is blind to by construction (CONVENTIONS §9), since it is split across clause boundaries and reordered, and it was found by reading. The theological content of the chapter — a prayer heard, and answered with an eased burden rather than a broken one — is not the writer's invention but the psalm's, and it is the strongest link in the chapter.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "21:17": [
+      {
+        "source": "Luke 15:17",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "And when he came to himself, he said, How many hired servants of my father’s have bread enough and to spare, and I perish with hunger!",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "Luke 15:17 → KJV → Book of Mormon",
+          "other": "“Perish with hunger” occurs in exactly one KJV verse, Luke 15:17, and this is its first occurrence in the Book of Mormon. The KJV's other famine idioms are “die of hunger”, “consumed with hunger” and “kill this whole assembly with hunger”; “perish with hunger” is the prodigal's alone.",
+          "significance": "The words are the turning point of the parable of the prodigal son — “when he came to himself”, in a far country, with his living spent and a famine on. Mosiah 21 is a chapter about a people in the position that sentence describes: they are in the land of Nephi, which their fathers left Zarahemla to possess; their substance was wasted by a king whose court Abinadi condemned for it; and 21:16-17 is the first moment they come to themselves, organising a levy so that the widows and fatherless “might not perish with hunger”. The parable's line is spoken by a man alone and about himself; the Book of Mormon puts it in the plural and makes the remedy communal — every man imparting to the support of the widows. That is the interesting alteration. The prodigal's remedy is to go home; Limhi's people cannot, and will spend two chapters trying."
+        },
+        "note": "“King Limhi commanded that every man should impart to the support of the widows and their children, that they might not perish with hunger.” A KJV singleton, and it belongs to the prodigal son at the point where he comes to himself in a famine. The Book of Mormon's use of it is the phrase's first in the volume, and it converts a solitary complaint into a public relief measure. Below Skousen's threshold and not among his quotations; catalogued as an allusion on the rarity of the phrase.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "21:26": [
+      {
+        "source": "Ezekiel 37:4",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "Again he said unto me, Prophesy upon these bones, and say unto them, O ye dry bones, hear the word of the LORD.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Ezekiel 37:1",
+          "Ezekiel 37:2",
+          "Ezekiel 37:11"
+        ],
+        "provenance": {
+          "route": "Ezekiel 37:1-11 → KJV → Book of Mormon",
+          "other": "“Dry bones” occurs in exactly one KJV verse, Ezekiel 37:4, and this is its only occurrence in the whole Book of Mormon. Ezekiel 37:1-2 supplies the setting the Book of Mormon reproduces — a valley “full of bones”, and “lo, they were very dry” — and 37:11 supplies the identification: “these bones are the whole house of Israel.”",
+          "significance": "Limhi's scouts are looking for Zarahemla, which for them means kindred, rescue and the end of exile. What they find is a land covered with dry bones, and they conclude that it is Zarahemla. The mistake is the whole point of the borrowing. In Ezekiel the valley of very dry bones IS the house of Israel — “our bones are dried, and our hope is lost: we are cut off for our parts” — and the vision exists to promise that the bones will live and be brought into their own land. The scouts, that is, look for the promised reunion and find the image of it in its unrisen state, and they cannot tell the difference. What they bring home from it is a record engraven on plates, words carried out of a valley of the dead — where Ezekiel's commission is the reverse, a word carried into one: “Prophesy upon these bones, and say unto them, O ye dry bones, hear the word of the LORD.” Mosiah 21:28 then supplies the missing half, a king who can interpret the engravings, and the record does speak. The Jaredite plates enter the Book of Mormon through Ezekiel's valley."
+        },
+        "note": "“A land which was covered with dry bones; yea, a land which had been peopled, and which had been destroyed.” “Dry bones” is a KJV singleton and this is its only occurrence in the Book of Mormon; the surrounding description — a land full of bones, and the bones very dry — is Ezekiel 37:1-2. The link is not decoration: Ezekiel's bones are named at 37:11 as the whole house of Israel with its hope lost, which is exactly what the scouts take the place to be when they mistake it for Zarahemla, and the record they carry away from it will be made to speak two verses later.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,356 @@
+{
+  "chapter": 25,
+  "adjudicated": "2026-09-07",
+  "adjudicator": "Opus",
+  "links": {
+    "25:7": [
+      {
+        "source": "Jeremiah 51:63",
+        "type": "allusion",
+        "subtype": "probable",
+        "confidence": "moderate",
+        "text": "And it shall be, when thou hast made an end of reading this book, that thou shalt bind a stone to it, and cast it into the midst of Euphrates:",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 3,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "provenance": {
+          "route": "Jeremiah 51:61-64 → KJV → Book of Mormon",
+          "other": "“made an end of reading” occurs in exactly one KJV verse, Jeremiah 51:63: 'And it shall be, when thou hast made an end of reading this book, that thou shalt bind a stone to it, and cast it into the midst of Euphrates.' The Book of Mormon's 'made an end of' is a formula it uses constantly; what is rare is the object — reading.",
+          "significance": "The KJV has exactly one public reading that comes to an end, and it is Seraiah reading aloud in Babylon the book of Babylon's doom, after which the book is weighted with a stone and drowned in the river so that the city may sink and not rise. Mosiah 25:5-7 is a public reading of two records: the record of Zeniff's colony, which went up to reclaim a land and lost it, and the record of Alma, which is deliverance out of bondage. Both records are read to a people who did not live them. Jeremiah's reading is performed so a city may sink; Mosiah's is performed so a people may be joined into one, which is what the rest of the chapter does. The phrase is small and the contrast it recovers is the row's whole content."
+        },
+        "note": "'And now when Mosiah had made an end of reading the records, his people which tarried in the land was struck with wonder and amazement.' 'Made an end of reading' occurs once in the KJV. The Book of Mormon's own 'made an end of speaking' formula is everywhere — including seven verses later at 25:14 — so it is the direct object that carries the borrowing, not the idiom.",
+        "whyNot": "Only the object distinguishes this from the Book of Mormon's own stock phrase, and a narrator with a reading to end would arrive at these words without Jeremiah. The row is proposed, not pressed.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      },
+      {
+        "source": "Acts 3:10",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "And they knew that it was he which sat for alms at the Beautiful gate of the temple: and they were filled with wonder and amazement at that which had happened unto him.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 3,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Matthew 2:10"
+        ],
+        "recurrenceRefs": [
+          "Mosiah 23:23",
+          "Mosiah 25:8"
+        ],
+        "provenance": {
+          "route": "Acts 3:10 → KJV → Book of Mormon",
+          "other": "“wonder and amazement” occurs in exactly one KJV verse, Acts 3:10. The Book of Mormon changes the verb — 'struck with' for the KJV's 'filled with' — and then uses 'filled with' three times in the following four verses (25:8, 25:9, 25:11).",
+          "significance": "Acts 3:10 is the crowd at the Beautiful gate seeing a man they had watched beg for years walking and leaping. Mosiah 25:7-8 is a crowd seeing people they had given up for lost — 'when they beheld those that had been delivered out of bondage'. Both are the reaction of bystanders to a deliverance they did not witness and can now see the evidence of. The catalogue has already found Acts 3:13 behind Mosiah 23:23, three verses further into the same sermon; taken together the two rows suggest that Peter's speech at the temple gate was available to this writer as a passage and not only as a phrase."
+        },
+        "note": "'His people which tarried in the land was struck with wonder and amazement.' A KJV singleton with one verb changed, and the changed verb reappears in its KJV form ('filled with') in each of the next three verses. The 1830's 'was struck' where 1920 reads 'were struck' is a grammatical, not a lexical, difference and does not bear on the borrowing.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "25:8": [
+      {
+        "source": "Matthew 2:10",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "text": "When they saw the star, they rejoiced with exceeding great joy.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 2,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "recurrenceRefs": [
+          "Mosiah 25:7"
+        ],
+        "provenance": {
+          "route": "Matthew 2:10 → KJV → Book of Mormon",
+          "other": "“exceeding great joy” occurs in exactly one KJV verse, Matthew 2:10: 'When they saw the star, they rejoiced with exceeding great joy.' The KJV's other superlatives of joy are 'exceeding joyful' and 'joy exceedingly'.",
+          "significance": "Matthew 2:10 is the wise men's reaction at the end of a long journey, on seeing the sign that the thing they came for is real. Mosiah 25:8 is the reaction of people who have just heard a record read and then looked at the survivors standing in front of them. What both verses catch is joy at sight rather than at report — Matthew's magi rejoice when they SEE the star, and Mosiah's people rejoice 'when they beheld those that had been delivered out of bondage', after a paragraph in which hearing the record only left them not knowing what to think. Note also that the chapter opened its Matthew borrowings two chapters earlier: Mosiah 23:1's 'warned of the Lord' is Matthew 2:12's idiom, from two verses after this one."
+        },
+        "note": "'For they knew not what to think; for when they beheld those that had been delivered out of bondage, they were filled with exceeding great joy.' A KJV singleton, taken whole and given a different verb of filling. Recorded at moderate rather than high because the phrase is a common intensifier in English and could be arrived at independently; what supports it is the verse before, which also runs on a KJV singleton of reaction, and Mosiah 23:1's use of the same Matthean paragraph.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "25:12": [
+      {
+        "source": "Isaiah 44:5",
+        "type": "allusion",
+        "subtype": "probable",
+        "confidence": "moderate",
+        "text": "One shall say, I am the LORD’s; and another shall call himself by the name of Jacob; and another shall subscribe with his hand unto the LORD, and surname himself by the name of Israel.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Isaiah 48:1"
+        ],
+        "recurrenceRefs": [
+          "2 Nephi 28:3",
+          "Mosiah 24:3"
+        ],
+        "provenance": {
+          "route": "Isaiah 44:5 → KJV → Book of Mormon",
+          "other": "Isaiah 44:5 is the KJV's one description of a person taking a name that is not his by descent: 'One shall say, I am the LORD's; and another shall call himself by the name of Jacob; and another shall subscribe with his hand unto the LORD, and surname himself by the name of Israel.' “called by the name” occurs in exactly three KJV verses (Deuteronomy 28:10; 2 Samuel 6:2; Isaiah 48:1), and Isaiah 48:1 is the one about being called by the name of a patriarch.",
+          "significance": "Isaiah 44:5 is a conversion oracle: outsiders adopt Jacob's name and thereby join his people. Mosiah 25:12 runs it backwards and forwards at once. The children of Amulon repudiate a patronymic — 'they would no longer be called by the names of their fathers' — and take Nephi's instead, and the next verse records that all of Zarahemla was then 'numbered with the Nephites', so that a national name is being conferred by choice rather than by descent, which is exactly Isaiah's point. The counterweight sits at Mosiah 24:3, where the Lamanite king is 'called after the name of his father'. The batch has both cases: a dynasty that keeps a father's name, and children who refuse one."
+        },
+        "note": "'They would no longer be called by the names of their fathers; therefore they took upon themselves the name of Nephi.' There is one passage in the KJV about surnaming oneself into another man's people, and it is Isaiah 44:5. The Book of Mormon reproduces none of its wording, which caps this at an allusion; the case rests on the singularity of the idea in the source and on the fact that this catalogue has already recorded the same verse behind 2 Nephi 28:3, in a different book and a different hand.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "25:15": [
+      {
+        "source": "Acts 20:21",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "Testifying both to the Jews, and also to the Greeks, repentance toward God, and faith toward our Lord Jesus Christ.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "recurrenceRefs": [
+          "Mosiah 25:22"
+        ],
+        "provenance": {
+          "route": "Acts 20:21 → KJV → Book of Mormon",
+          "other": "“repentance toward God” occurs in exactly one KJV verse, Acts 20:21: 'Testifying both to the Jews, and also to the Greeks, repentance toward God, and faith toward our Lord Jesus Christ.' This is the KJV's only place where repentance and faith are named together as the content of a preaching. The Book of Mormon has 'repentance and faith on the Lord' here and 'repentance and faith in God' at 25:22; neither preposition is Paul's 'toward'.",
+          "significance": "Acts 20 is Paul's farewell at Miletus to the elders of Ephesus, and 20:21 is his summary of what he preached house to house. Mosiah 25:15 is a summary of what Alma preached body to body — 'he went from one body to another' — as he moves through an assembly too large for one hearing. The parallel is not only the formula but the itinerant method the formula describes; Paul's next sentences are about appointing overseers, and four verses later Alma is given power to ordain priests and teachers over every church, which is Acts 14:23. The chapter's account of how a church is organised is being told in the vocabulary of Acts."
+        },
+        "note": "'Preaching unto the people repentance and faith on the Lord.' The pairing is Acts 20:21's and the KJV has it nowhere else; the Book of Mormon keeps the pair and loses Paul's preposition, twice, differently (25:15 'on the Lord', 25:22 'in God'), which is what one expects of a formula reused from memory rather than copied.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "25:18": [
+      {
+        "source": "Acts 8:38",
+        "type": "allusion",
+        "subtype": "probable",
+        "confidence": "moderate",
+        "text": "And he commanded the chariot to stand still: and they went down both into the water, both Philip and the eunuch; and he baptized him.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "Acts 8:38 → KJV → Book of Mormon",
+          "other": "“into the water” occurs in exactly six KJV verses, and Acts 8:38 is the only one where the going in is a baptism: 'they went down both into the water, both Philip and the eunuch; and he baptized him.' The others are Marah, the bitter-water ordeal of Numbers 5, a floating axe head, and two of the same demoniac boy.",
+          "significance": "Acts 8 is the KJV's one narrated baptism outside the Jordan, performed on the road by a man who is not an apostle, at the request of a convert who asks 'what doth hinder me to be baptized?' Mosiah 25:17-18 is the same shape: king Limhi and his people ask, and Alma — who baptized in the waters of Mormon without ecclesiastical warrant, having fled the priesthood that ordained him — goes forth into the water and baptizes them. The chapter is at that moment arguing about authority: 25:19 has Mosiah granting Alma power to establish churches, and 23:17 had Alma insisting nobody preach except by his ordination from God. Philip's baptism is the New Testament's precedent for a valid ordinance performed away from the centre."
+        },
+        "note": "'Therefore Alma did go forth into the water, and did baptize them.' Going down into the water to baptize is Acts 8:38's phrase and the KJV's only one; the Book of Mormon has 'go forth into' for 'go down into'. Moderate: 'into the water' is ordinary English and the practice is described repeatedly in the Book of Mormon from Mosiah 18 onward without KJV wording.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "25:19": [
+      {
+        "source": "Acts 14:23",
+        "type": "allusion",
+        "subtype": "probable",
+        "confidence": "moderate",
+        "text": "And when they had ordained them elders in every church, and had prayed with fasting, they commended them to the Lord, on whom they believed.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Titus 1:5"
+        ],
+        "recurrenceRefs": [
+          "Mosiah 23:10",
+          "Mosiah 25:21"
+        ],
+        "provenance": {
+          "route": "Acts 14:23 → KJV → Book of Mormon",
+          "other": "“in every church” occurs in exactly two KJV verses, Acts 14:23 and 1 Corinthians 4:17, and only Acts 14:23 pairs it with ordaining: 'when they had ordained them elders in every church, and had prayed with fasting, they commended them to the Lord.' Titus 1:5 has the parallel instruction with a different unit, 'ordain elders in every city'.",
+          "significance": "Acts 14:22-23 is one sentence in the KJV and this batch of chapters draws on both halves of it: 'much tribulation' at Mosiah 23:10, and the ordaining of officers church by church here. That is worth stating as a fact about the two rows rather than as a claim about a source, but the coincidence is not small — the KJV says 'much tribulation' once and 'ordained them elders in every church' once, and the two stand consecutively. What Mosiah 25:19-21 adds is a reason the KJV does not give: the churches are multiplied because 'there was so many people that they could not all be governed by one teacher; neither could they all hear the word of God in one assembly'. Acts leaves the plurality of churches unexplained; the Book of Mormon supplies an acoustics problem."
+        },
+        "note": "'And gave him power to ordain priests and teachers over every Church.' Ordaining officers in every church is Acts 14:23's clause and the KJV's only one of its kind; the Book of Mormon substitutes its own offices for elders and 'over' for 'in'. Moderate: the substitutions are substantial and the practice is described at Mosiah 23:17 without this wording.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "25:22": [
+      {
+        "source": "1 Corinthians 12:20",
+        "type": "allusion",
+        "subtype": "conceptual",
+        "confidence": "moderate",
+        "text": "But now are they many members, yet but one body.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 4,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "1 Corinthians 12:12",
+          "Romans 12:5"
+        ],
+        "recurrenceRefs": [
+          "Mosiah 25:15"
+        ],
+        "provenance": {
+          "route": "1 Corinthians 12:12-20 → KJV → Book of Mormon",
+          "other": "“yet but one body” occurs in exactly one KJV verse, 1 Corinthians 12:20: 'But now are they many members, yet but one body.' “are one body” occurs in exactly two KJV verses, Romans 12:5 and 1 Corinthians 12:12, both of the same figure. The Book of Mormon reads 'notwithstanding there being many Churches, they were all one Church', which has Paul's concessive structure and Paul's arithmetic with the noun changed.",
+          "significance": "Paul's figure is about persons: many members, one body, so that no member may say it has no need of another. The Book of Mormon moves it up a level and applies it to congregations — many churches, one church — which is a use Paul never makes and which the KJV cannot supply. That is the finding. It also explains the chapter's odd bookkeeping, in which 25:21 has each church with its own priests and teachers and its own preaching, 25:22 insists they are nonetheless one, and 25:23 then counts them: 'there was seven Churches in the land of Zarahemla.' The Pauline sentence is doing the work of an ecclesiology, and it is doing it for a plurality of local congregations rather than for a plurality of gifts."
+        },
+        "note": "'And thus, notwithstanding there being many Churches, they were all one Church; yea, even the Church of God.' The many-and-one construction is Paul's and the KJV's only 'yet but one body' is 1 Corinthians 12:20. Filed as an allusion with subtype conceptual: no clause is reproduced, but the sentence is unintelligible as English theology without the figure it is quietly transposing.",
+        "whyNot": "'Many … one' is a construction, not a phrase, and a writer describing several congregations of one faith might reach it unaided. The row rests on the transposition being visible, and a reader who does not see Paul behind it will see only a truism.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "25:23": [
+      {
+        "source": "Revelation 1:4",
+        "type": "echo",
+        "subtype": "possible",
+        "confidence": "moderate",
+        "text": "John to the seven churches which are in Asia: Grace be unto you, and peace, from him which is, and which was, and which is to come; and from the seven Spirits which are before his throne;",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 2,
+          "sequence": 2,
+          "context": 4,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Revelation 1:11",
+          "Revelation 1:20"
+        ],
+        "provenance": {
+          "route": "Revelation 1:4, 11, 20 → KJV → Book of Mormon",
+          "other": "“seven churches” occurs in exactly three KJV verses, Revelation 1:4, 1:11 and 1:20, and in no other book. There is no other numbered plurality of churches anywhere in the Bible.",
+          "significance": "The Book of Mormon counts its churches once, and the number it arrives at is the Bible's only number of churches. Revelation 1 has seven churches in Asia, addressed as a set by a book that will judge each in turn; Mosiah 25:23 has seven churches in the land of Zarahemla, gathered from an assembly too large to hear one preacher. If the number is borrowed, what comes with it is the idea that a plurality of congregations can be addressed as a single whole — which is the claim the previous verse has just made in Paul's words. If it is not borrowed, the catalogue has still done its job by putting the reader in a position to decide."
+        },
+        "note": "'And now there was seven Churches in the land of Zarahemla.' Seven churches is a Johannine number and appears in three verses of one chapter of the KJV and nowhere else. Recorded as an echo at moderate: a count is not a quotation, and this one may simply be a count.",
+        "whyNot": "Nothing else of Revelation 1 is present — no Asia, no candlesticks, no letters, no naming of the seven — and a narrative that has just described churches multiplying had to arrive at some number. A cautious editor would decline the row. It is kept because the coincidence is exact and a reader will notice it whether or not the catalogue does.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "25:24": [
+      {
+        "source": "Joel 2:28",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "And it shall come to pass afterward, that I will pour out my spirit upon all flesh; and your sons and your daughters shall prophesy, your old men shall dream dreams, your young men shall see visions:",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 3,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Acts 2:17",
+          "Ezekiel 39:29"
+        ],
+        "provenance": {
+          "route": "Joel 2:28 → KJV → Book of Mormon, NOT via Acts 2:17",
+          "other": "“pour out my spirit upon” occurs in exactly one KJV verse, Joel 2:28. Acts 2:17 quotes the same oracle and inserts a partitive: 'I will pour out OF my Spirit upon all flesh.' “poured out my spirit” occurs in exactly one KJV verse, Ezekiel 39:29, 'I have poured out my spirit upon the house of Israel'. The Book of Mormon reads 'the Lord did pour out his spirit upon them', with no partitive.",
+          "significance": "This is a mediation decided on one word, and the word is the one tools/mediation-check.py drops. Run against Joel 2:28 and Acts 2:17 the tool reports no decisive divergence, because it deliberately ignores single common words to avoid false positives; but the single common word IS the divergence here. Acts differs from Joel at exactly one point in the clause the Book of Mormon reproduces — Peter's Greek gives 'of my Spirit', partitively, and the KJV renders it so. Mosiah 25:24 has no 'of'. It is following the Old Testament form of the oracle and not the apostolic quotation of it, which matters because so much else in these three chapters comes through Acts (3:13 at 23:23, 3:10 at 25:7, 14:23 at 25:19, 20:21 at 25:15). Where the New Testament had the same words on offer, this verse did not take them.",
+          "alternative": "Ezekiel 39:29, which has the pouring in the perfect and no partitive, and which is also addressed to a people just gathered and settled."
+        },
+        "note": "'And the Lord did pour out his spirit upon them, and they were blest, and prospered in the land.' Joel's clause with the person of the pronoun changed. The finding is the absent 'of': Acts 2:17 quotes this very clause and adds a partitive, so the presence of Joel's form and the absence of Peter's settles the mediation as direct-OT — by eye, since mediation-check.py suppresses one-word divergences by design. The 1830 'blest' for 'blessed' is an orthographic variant of the period and carries nothing.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      }
+    ]
+  }
+}

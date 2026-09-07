@@ -1,0 +1,558 @@
+{
+  "chapter": 1,
+  "adjudicated": "2026-09-07",
+  "adjudicator": "Opus",
+  "links": {
+    "1:3": [
+      {
+        "source": "1 Corinthians 4:1",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "text": "Let a man so account of us, as of the ministers of Christ, and stewards of the mysteries of God.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 2,
+          "sequence": 2,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "1 Corinthians 4:1 → KJV → Book of Mormon",
+          "other": "“the mysteries of God” occurs in exactly one KJV verse. The Old Testament never uses the expression at all; Daniel has 'secrets' and Deuteronomy 29:29 'secret things'. The plural mystery belongs to Paul in the English Bible, and the genitive form to this one verse.",
+          "significance": "Recover Paul's sentence and the next one comes with it: 'Moreover it is required in stewards, that a man be found faithful' (4:2). Benjamin's whole argument in verses 3-7 is a stewardship argument — the plates were kept, they must be searched, and thirteen verses later he hands their custody to his son (1:16). The KJV's one phrase for the things a steward holds in trust is the phrase Benjamin uses for what the plates preserve."
+        },
+        "note": "'We must have suffered in ignorance, even at this present time, not knowing the mysteries of God.' The five-word run is a KJV singleton and the sense is Paul's rather than Daniel's: not a hidden thing God discloses to a seer, but a body of held knowledge someone is answerable for. Benjamin's counterfactual — without the plates, no mysteries — is the stewardship of 1 Corinthians 4:1-2 argued from the negative side.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      },
+      {
+        "source": "Romans 11:5",
+        "type": "echo",
+        "subtype": "probable",
+        "confidence": "moderate",
+        "text": "Even so then at this present time also there is a remnant according to the election of grace.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 2,
+          "sequence": 2,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "recurrenceRefs": [
+          "Mosiah 1:4"
+        ],
+        "provenance": {
+          "route": "Romans 11:5 → KJV → Book of Mormon",
+          "alternative": "'At this present time' is unremarkable English and could have been written by anyone in 1829 without a source; the KJV's failure to use it elsewhere may be an accident of the KJV rather than a signal.",
+          "significance": "What makes the echo worth recording is not the phrase but the company it keeps. Benjamin uses it twice in two verses and then, at 1:5, states his argument in the words of Isaiah 1:9 — the KJV's remnant verse, the one Paul quotes at Romans 9:29 two chapters before he writes 'at this present time also there is a remnant'. Benjamin's case is that a small preserved group escaped becoming like its brethren, which is Romans 9-11's case exactly, and two of its phrases have come along."
+        },
+        "note": "'Even at this present time' (1:3), 'even down to this present time' (1:4). “at this present time” occurs in exactly one KJV verse, and that verse is about a remnant preserved by grace rather than by merit. Recorded as an echo rather than an allusion because the phrase carries no argument on its own; it is the convergence with Isaiah 1:9 at 1:5, which Romans quotes, that makes Romans 11:5 more than a coincidence of idiom.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "1:4": [
+      {
+        "source": "Acts 7:22",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "And Moses was learned in all the wisdom of the Egyptians, and was mighty in words and in deeds.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "recurrenceRefs": [
+          "Mosiah 1:2",
+          "1 Nephi 1:2"
+        ],
+        "provenance": {
+          "route": "Acts 7:22 → KJV → Book of Mormon",
+          "other": "“learned in all the wisdom” occurs in exactly one KJV verse. The Old Testament never credits an Israelite with Egyptian learning: Exodus says only that Moses was drawn out of the water and brought up in Pharaoh's house. The claim, and the English frame 'X in all the Y of the Egyptians', exist in the Bible at Acts 7:22 and nowhere else.",
+          "significance": "The borrowing is split across two verses in the way CONVENTIONS §9 says the n-gram stream cannot see: 1:2 has the frame — 'taught in all the language of his fathers' — and 1:4 has the object — 'taught in the language of the Egyptians'. Put back together they are Acts 7:22. And Acts 7 is Stephen's speech, which 1 Nephi already drew on at six separate places. What Stephen is doing with that sentence is establishing that the deliverer was equipped by Egypt before he was sent from it; what Benjamin is doing with it is explaining how a Jerusalem prophet could read a record engraved in Egyptian. The same claim carries both: Egyptian learning in an Israelite is providential, not compromising."
+        },
+        "note": "'He having been taught in the language of the Egyptians, therefore he could read these engravings.' Benjamin's argument for the plates turns on a fact about Lehi that has one biblical precedent and one biblical wording, both at Acts 7:22. 'Taught' replaces 'learned' and 'language' replaces 'wisdom', but the construction and the object are Stephen's, and 1:2's 'taught in all the language of his fathers' preserves the 'in all the' that 1:4 drops. Lehi is being given Moses's education in the sentence that explains why the record survived.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      },
+      {
+        "source": "Psalm 78:6",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "text": "That the generation to come might know them, even the children which should be born; who should arise and declare them to their children:",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Psalm 78:5",
+          "Psalm 78:8"
+        ],
+        "recurrenceRefs": [
+          "Mosiah 1:5"
+        ],
+        "provenance": {
+          "route": "Psalm 78:5-8 → KJV → Book of Mormon",
+          "other": "“them to their children” occurs in exactly one KJV verse, and “declare them to their children” in exactly one. Deuteronomy 6:7's 'teach them diligently unto thy children' is the other candidate for the teaching chain, but it has one generation, not the relay of three that Psalm 78:5-6 and Mosiah 1:4 both build.",
+          "significance": "Psalm 78:5-8 is the KJV's one sustained statement of exactly Benjamin's thesis: a testimony was appointed, fathers were commanded to make it known to their children, so that the generation to come might know and declare it to theirs, 'that they might set their hope in God, and not forget the works of God' — and so that they might not be 'as their fathers, a stubborn and rebellious generation'. Verse 5 of Mosiah 1 supplies the failed branch of the relay from the same psalm's supply: the Lamanites, who 'know nothing concerning these things' and do not believe them, are Psalm 78:8's stubborn generation. Benjamin is running the psalm's argument with the plates in the place of the psalm's testimony."
+        },
+        "note": "'To have taught them to his children, that thereby they could teach them to their children, and so fulfilling the commandments of God.' The relay of three generations, the verb of teaching, and the exact clause 'them to their children' are Psalm 78:5-6's, and the clause is a KJV singleton. Psalm 78 is also the psalm that gives the reason for the relay — that the children not forget the works of God and not become as their fathers — which is the reason Benjamin gives in the next verse.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "1:5": [
+      {
+        "source": "Isaiah 1:9",
+        "type": "quotation",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "Except the LORD of hosts had left unto us a very small remnant, we should have been as Sodom, and we should have been like unto Gomorrah.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "provenance": {
+          "route": "Isaiah 1:9 → KJV → Book of Mormon",
+          "other": "“we should have been like unto” occurs in exactly one KJV verse. Romans 9:29 quotes Isaiah 1:9 and is the mediation test: it reads 'we had been as Sodoma, and been made like unto Gomorrha'. tools/mediation-check.py returns two decisive points, both for Isaiah — the Book of Mormon has 'should have', not Romans's 'had', and it lacks Romans's 'made'.",
+          "significance": "The whole of Isaiah 1:9 is the shape of Mosiah 1:5, not just its clause. Isaiah: except the LORD had left us a remnant, we should have been like Gomorrah. Benjamin: were it not for these things, kept and preserved by the hand of God, we should have been like unto our brethren the Lamanites. Both are counterfactuals of preservation, both name what the speaker's people would otherwise have become, and both make the preserved thing — a remnant there, a record here — the sole reason the sentence is contrary to fact. The substitution is the finding: the Lamanites stand where Sodom and Gomorrah stand."
+        },
+        "note": "'And we should have been like unto our brethren, the Lamanites.' Six words in sequence from the KJV's one verse that contains them, in a sentence built on the same counterfactual as its source. Below Skousen's sixteen-word threshold and not among his quotations; catalogued as a quotation under CONVENTIONS §2 because a complete clause is reproduced from an identifiable verse. Mediation is decided rather than assumed: Isaiah 1:9 is quoted at Romans 9:29 in different words, and every point of difference falls on Isaiah's side.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      },
+      {
+        "source": "Galatians 1:14",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "text": "And profited in the Jews’ religion above many my equals in mine own nation, being more exceedingly zealous of the traditions of my fathers.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "Galatians 1:14 → KJV → Book of Mormon",
+          "other": "“traditions of” occurs in exactly one KJV verse — the plural is Paul's and only Paul's here. The KJV's other ancestral-tradition phrase is 1 Peter 1:18's 'vain conversation received by tradition from your fathers', in the singular and without 'traditions'. Matthew 15 and Mark 7 have 'the tradition of the elders', never of fathers.",
+          "significance": "Galatians 1:14 is the one place in the English Bible where a man names the traditions of his fathers, and he names them as the thing he was zealous for before he was called out of it. Benjamin uses the phrase of the Lamanites, who cannot believe the record 'because of the traditions of their fathers, which are not correct' — the same diagnosis, made from outside instead of from inside. The Book of Mormon's standing explanation for Lamanite unbelief, repeated from here to Alma, is worded out of Paul's account of his own former self."
+        },
+        "note": "'Because of the traditions of their fathers, which are not correct.' The plural phrase is a KJV singleton and it belongs to Galatians 1:14, where Paul is explaining what he had to be converted away from. The Book of Mormon makes it a hereditary and corporate condition rather than a personal zeal, which is a real change of sense; but it is Paul's noun phrase, and the Book of Mormon has no other.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "1:7": [
+      {
+        "source": "1 Kings 2:3",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "text": "And keep the charge of the LORD thy God, to walk in his ways, to keep his statutes, and his commandments, and his judgments, and his testimonies, as it is written in the law of Moses, that thou mayest prosper in all that thou doest, and whithersoever thou turnest thyself:",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 3,
+          "attestation": 2
+        },
+        "kjvSpecific": "yes",
+        "mediation": "OT-via-earlier-BoM",
+        "composite": [
+          "Deuteronomy 29:9"
+        ],
+        "recurrenceRefs": [
+          "1 Nephi 2:20",
+          "2 Nephi 1:20",
+          "Mosiah 2:22",
+          "Mosiah 2:31"
+        ],
+        "provenance": {
+          "route": "1 Kings 2:3 → KJV → 1 Nephi 2:20 → Book of Mormon",
+          "other": "“that ye may prosper” occurs in exactly one KJV verse, Deuteronomy 29:9, which supplies the plural; 1 Kings 2:3 has the singular 'that thou mayest prosper'. Neither has 'prosper in the land', which is the Book of Mormon's own compound and occurs in no KJV verse.",
+          "significance": "Mediation is the point of this row. The formula is not being taken from the Bible here — it is being taken from Lehi, who took it from 1 Kings 2:3 and Joshua 1:7 at 1 Nephi 2:20 and repeated it in his own deathbed charge at 2 Nephi 1:20. What makes the route worth arguing rather than assuming is that Benjamin is at the same point in the same script: a dying king charging the son who will succeed him, four verses before he says he must go the way of all the earth in 1 Kings 2:2's words. The chapter reaches David's charge to Solomon twice, once through Lehi and once directly, and the two arrivals are two verses apart."
+        },
+        "note": "'Keep the commandments of God, that ye may prosper in the land, according to the promises which the Lord made unto our fathers.' By Mosiah the conditional is the Book of Mormon's own covenant refrain, established at 1 Nephi 2:20 and already inherited once at 2 Nephi 1:20, so the proximate model is Lehi rather than the KJV; 'according to the promises which the Lord made unto our fathers' says as much on the page. The biblical root is still visible in the plural 'that ye may prosper', which is Deuteronomy 29:9's form and not 1 Kings 2:3's.",
+        "bibliography": [],
+        "status": "majority",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "1:8": [
+      {
+        "source": "John 20:30",
+        "type": "quotation",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "And many other signs truly did Jesus in the presence of his disciples, which are not written in this book:",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "recurrenceRefs": [
+          "1 Nephi 6:3",
+          "Words of Mormon 1:5"
+        ],
+        "provenance": {
+          "route": "John 20:30 → KJV → Book of Mormon",
+          "other": "“which are not written in this book” occurs in exactly one KJV verse. The formula recurs in the Book of Mormon and was catalogued at 1 Nephi 6:3 and Words of Mormon 1:5 as a colophon convention with no reproduced wording; this is the first place the wording itself is reproduced.",
+          "significance": "The two sentences are the same sentence with two nouns changed: 'And many other signs truly did Jesus … which are not written in this book' / 'And many more things did king Benjamin teach his sons, which are not written in this book.' John's colophon is the KJV's one formal statement that a record has been deliberately cut short, and its function there is to convert an abridgement into a claim about the reader — 'these are written, that ye might believe' (20:31). The Book of Mormon has used the gesture since 1 Nephi 6; here it takes the words, and it takes them at the point where a king's private teaching is withheld from the public record just before a public sermon begins."
+        },
+        "note": "Seven words reproduced exactly from the KJV's only verse that contains them, inside a clause that also matches John's word order ('And many other … did Jesus' / 'And many more things did king Benjamin'). Below Skousen's sixteen-word threshold and not one of his 36; catalogued as a quotation under CONVENTIONS §2 because a complete clause is reproduced from an identifiable verse. Note the difference from the earlier occurrences of this convention: at 1 Nephi 6:3 and Words of Mormon 1:5 the Book of Mormon makes John's move without John's words, and here it makes it with them.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "1:9": [
+      {
+        "source": "1 Kings 2:2",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "text": "I go the way of all the earth: be thou strong therefore, and shew thyself a man;",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 3,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 1
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Joshua 23:1"
+        ],
+        "recurrenceRefs": [
+          "2 Nephi 1:14"
+        ],
+        "provenance": {
+          "route": "1 Kings 2:1-3 → KJV → Book of Mormon",
+          "other": "“go the way of all the earth” occurs in exactly one KJV verse; the fuller phrase 'the way of all the earth' occurs in exactly two, Joshua 23:14 and 1 Kings 2:2, and both are a leader's farewell. Joshua's is 'this day I am going', a participle, so the Book of Mormon's infinitive here follows David. 'Waxed old' is Joshua's word (Joshua 23:1), which is why the composite names both.",
+          "significance": "The phrase entered this corpus at 2 Nephi 1:14, in Lehi's mouth and in David's tense; here it re-enters in a different hand and in the third person, as narration rather than speech. What comes with it is the whole of 1 Kings 2:1-3 rather than the tag: David dies, confers the kingdom on a named son, charges him to keep the commandments that he may prosper — and Mosiah 1:7, 1:9, 1:10 and 1:15 supply the prospering, the going, the conferral and the charge, in the source's order. The Book of Mormon has read 1 Kings 2 as a template for royal succession and used it twice, once for a prophet's death and once for a king's."
+        },
+        "note": "'He waxed old; and he saw that he must very soon go the way of all the earth; therefore, he thought it expedient that he should confer the kingdom upon one of his sons.' Two KJV farewells are fused: Joshua 23:1's 'waxed old' and 1 Kings 2:2's 'go the way of all the earth', the latter a singleton in this exact form. The argument for 1 Kings 2 as the governing source rather than a tag is structural — the conferral of the kingdom on a son, the charge 'concerning all the affairs of the kingdom' at 1:15, and the prosperity conditional at 1:7 are 1 Kings 2:1-3's three moves, and Benjamin makes all three inside seven verses. Across a book boundary from 2 Nephi 1:14, so written as a link rather than left to the register (ADJUDICATING §4).",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "1:10": [
+      {
+        "source": "2 Chronicles 6:5",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "text": "Since the day that I brought forth my people out of the land of Egypt I chose no city among all the tribes of Israel to build an house in, that my name might be there; neither chose I any man to be a ruler over my people Israel:",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "2 Chronicles 6:6"
+        ],
+        "recurrenceRefs": [
+          "Mosiah 1:11"
+        ],
+        "provenance": {
+          "route": "2 Chronicles 6:5-6 → KJV → Book of Mormon",
+          "other": "“a ruler over” occurs in exactly one KJV verse. 'Ruler over my people' occurs in four (2 Samuel 7:8, 1 Chronicles 11:2, 1 Chronicles 17:7, 2 Chronicles 6:5), all of David; only 2 Chronicles 6:5 takes the indefinite article the Book of Mormon uses.",
+          "significance": "2 Chronicles 6:5-6 is the opening of Solomon's temple dedication, and it pairs the two things Benjamin pairs in these two verses: a place where God will put his NAME, and a man appointed a RULER over his people. Mosiah 1:10-11 announces a ruler and then announces a name — 'I shall give this people a name, that thereby they may be distinguished' — and 1:18 gathers the people to the temple to hear it. The Book of Mormon has taken the temple speech's two elements, transferred the name from the sanctuary to the congregation, and set the transfer at the sanctuary. That inversion is the reading; neither text states it."
+        },
+        "note": "'That thou art a king, and a ruler over this people, which the Lord our God hath given us.' The four-word run is a KJV singleton, and its verse is the one place in the KJV where God's choice of a ruler stands in the same sentence as the house built for his name. The case is not the run alone — it is that the next verse of Mosiah takes up the naming and verse 18 takes the people to the temple, so the two halves of 2 Chronicles 6:5-6 arrive together and in order. Moderate rather than high because 'a ruler over this people' is ordinary English and could have reached the page without a source.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "1:12": [
+      {
+        "source": "Revelation 3:5",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "text": "He that overcometh, the same shall be clothed in white raiment; and I will not blot out his name out of the book of life, but I will confess his name before my Father, and before his angels.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "John 10:28",
+          "Deuteronomy 29:20"
+        ],
+        "provenance": {
+          "route": "Revelation 3:5 (with John 10:28) → KJV → Book of Mormon",
+          "other": "“blot out his name” occurs in exactly two KJV verses, Deuteronomy 29:20 and Revelation 3:5 — a curse and a promise, and the Book of Mormon has the promise's negative form. The giving-formula is a second singleton: “and I give unto them” occurs in exactly one KJV verse, John 10:28, where what is given is eternal life and the guarantee is 'they shall never perish'.",
+          "significance": "Benjamin's sentence is built out of the KJV's two verses about a name that cannot be lost, and it takes something from each. From John 10:28 it takes the frame and the adverb — 'And I give unto them … they shall never perish' becomes 'And I give unto them a name, that never shall be blotted out'. From Revelation 3:5 it takes the substance, a name kept in a book against erasure. What neither source has is Benjamin's exception, 'except it be through transgression': John's giver says no man shall pluck them out of his hand, and Revelation's promises the overcomer outright. The Book of Mormon has fused two unconditional promises and then made the result conditional — which is what Mosiah 5:11-12 will spend a chapter defending."
+        },
+        "note": "'And I give unto them a name, that never shall be blotted out, except it be through transgression.' Two KJV singletons meet in eleven words: John 10:28's 'And I give unto them', and Revelation 3:5's name that is not blotted out. The link is filed under Revelation because the sense — a name preserved in a register, forfeitable by conduct — is Revelation's and not John 10's, and because Deuteronomy 29:20, the KJV's only other blotting of a name, blots it as a curse on the man who blesses himself in his own heart. Benjamin is promising the Johannine security and immediately withdrawing its unconditionality.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "1:13": [
+      {
+        "source": "Matthew 16:4",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "A wicked and adulterous generation seeketh after a sign; and there shall no sign be given unto it, but the sign of the prophet Jonas. And he left them, and departed.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 3,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "Matthew 16:4 → KJV → Book of Mormon",
+          "other": "“wicked and adulterous” occurs in exactly one KJV verse. Matthew 12:39 has 'An evil and adulterous generation' and Mark 8:38 'this adulterous and sinful generation'; the Book of Mormon has Matthew 16:4's adjective and Matthew 16:4's order.",
+          "significance": "Matthew 16:4 is spoken to a people who have been given every sign and ask for another, and the sentence ends with Jesus leaving them — 'And he left them, and departed'. Benjamin's threat is that same withdrawal in Old Testament terms: the Lord 'will no more preserve them, by his matchless and marvellous power'. The gospel verse supplies both halves of what Benjamin says will happen to a highly favoured people that turns, and it is the only KJV verse that supplies the phrase."
+        },
+        "note": "'Become a wicked and an adulterous people.' The adjective pair is a KJV singleton and belongs to Matthew's second sign-refusal. The Book of Mormon substitutes 'people' for 'generation' — a real change, since Matthew's noun is temporal and the Book of Mormon's is national — and inserts the article that the 1830 text carries ('a wicked and an adulterous people'). What the borrowed phrase brings with it is the outcome: in Matthew the speaker leaves, and here the Lord will no more preserve.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      },
+      {
+        "source": "Luke 1:28",
+        "type": "echo",
+        "subtype": "probable",
+        "confidence": "moderate",
+        "text": "And the angel came in unto her, and said, Hail, thou that art highly favoured, the Lord is with thee: blessed art thou among women.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 2,
+          "sequence": 2,
+          "context": 3,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "recurrenceRefs": [
+          "1 Nephi 1:1"
+        ],
+        "provenance": {
+          "route": "Luke 1:28 → KJV → Book of Mormon",
+          "other": "“highly favoured” occurs in exactly one KJV verse. Note that the 1830 text spells it 'highly favored', without the KJV's -our-, so this is a case where the first edition does NOT preserve the King James orthography (contrast CONVENTIONS §8's 'shew' and 'marvellous', the latter of which stands two clauses later in this same verse).",
+          "significance": "The Book of Mormon's standing epithet for a chosen people or person — 'highly favored of the Lord', from Nephi's first sentence onward — exists in the English Bible only as the angel's greeting to Mary, where it is said to one woman and is immediately explained as meaning that she will bear a son. Benjamin turns the singular annunciation formula into a national status that can be forfeited: 'if this highly favored people of the Lord should fall into transgression'. Recorded as an echo because a single adverb-participle pair is thin evidence, but the pair is a KJV singleton and the Book of Mormon uses it constantly."
+        },
+        "note": "'If this highly favored people of the Lord should fall into transgression.' The two-word phrase is a KJV singleton, and its one occurrence is Gabriel's. The Book of Mormon has used it since 1 Nephi 1:1 as a formula for divine election, which is a stable usage rather than a fresh allusion here — but it enters this book in a new hand and in the conditional, which is what makes it worth stating: what the KJV says once, unconditionally, to Mary, Benjamin says of a nation and makes revocable.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      },
+      {
+        "source": "Judges 16:17",
+        "type": "allusion",
+        "subtype": "conceptual",
+        "confidence": "moderate",
+        "text": "That he told her all his heart, and said unto her, There hath not come a razor upon mine head; for I have been a Nazarite unto God from my mother’s womb: if I be shaven, then my strength will go from me, and I shall become weak, and be like any other man.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 2,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Judges 16:20"
+        ],
+        "provenance": {
+          "route": "Judges 16:17-20 → KJV → Book of Mormon",
+          "other": "“become weak” occurs in exactly two KJV verses. The other is Isaiah 14:10, where the shades taunt the fallen king of Babylon — 'Art thou also become weak as we?' — which has the comparison but not the conditional and not the covenant; the Book of Mormon's clause has both. “be like any other man” occurs in exactly one KJV verse.",
+          "significance": "Judges 16:17 is the KJV's one statement of the conditional Benjamin is making: a person set apart to God from birth, whose distinction rests on a kept condition, who says in so many words that breaking it will make him weak and like everyone else. Verse 20 completes it — 'he wist not that the LORD was departed from him' — which is Benjamin's 'he will no more preserve them'. Benjamin's people are Samson at national scale: highly favoured, strong only by a covenant, and one transgression away from being indistinguishable from their brethren."
+        },
+        "note": "'That thereby they become weak, like unto their brethren; and he will no more preserve them, by his matchless and marvellous power.' The elements are Samson's and they arrive in Samson's order: the condition, the becoming weak, the being like other men, the withdrawal of the preserving power. The verbal contact is two short phrases and the wording is adapted, so this is filed as an allusion at moderate rather than as a close-verbal link — but 'become weak' plus 'like unto' plus a lost covenant condition has one home in the KJV, and 'brethren' is doing exactly the work Judges 16:17's 'any other man' does. Note that the 1830 'marvellous' preserves the KJV spelling the later editions dropped (CONVENTIONS §8).",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "1:17": [
+      {
+        "source": "2 Peter 1:13",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "text": "Yea, I think it meet, as long as I am in this tabernacle, to stir you up by putting you in remembrance;",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "2 Peter 1:13 → KJV → Book of Mormon",
+          "other": "“stir you up by putting you in remembrance” occurs in exactly one KJV verse, and “stir you up” in exactly one. 2 Peter 3:1 has the same idea in different words ('stir up your pure minds by way of remembrance'), so the collocation of stirring with remembrance belongs to 2 Peter and to no other KJV writer.",
+          "significance": "The context is worth recovering because it is the same context. 2 Peter 1:13-15 is a man who knows he must shortly put off his tabernacle, saying that while he remains he will keep stirring his readers up in remembrance, and providing that they may have these things in remembrance after his decease. Mosiah 1 is a king who has just said he must go the way of all the earth, explaining why the record exists and handing it on. Benjamin gives the phrase to God — famine and affliction are what stir the fathers up — but the sentence sits inside Peter's situation exactly: an imminent death, a record left behind, and remembrance as the thing the record is for."
+        },
+        "note": "'They were smitten with famine and sore afflictions, to stir them up in remembrance of their duty.' The collocation of stirring up with putting in remembrance is 2 Peter's and the KJV has it nowhere else. The Book of Mormon changes the agent — a writer stirs his readers in 2 Peter, chastisement stirs the fathers here — and the phrase becomes one of the book's standard idioms for affliction as pedagogy. Moderate because the borrowed material is a verb-plus-prepositional-phrase rather than a clause, and because the changed agent means the sense is adapted rather than carried.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "1:18": [
+      {
+        "source": "Ezra 10:7",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "text": "And they made proclamation throughout Judah and Jerusalem unto all the children of the captivity, that they should gather themselves together unto Jerusalem;",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 5,
+          "context": 4,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Ezra 10:9"
+        ],
+        "recurrenceRefs": [
+          "Mosiah 1:10"
+        ],
+        "provenance": {
+          "route": "Ezra 10:7-9 → KJV → Book of Mormon",
+          "other": "“made proclamation throughout” occurs in exactly one KJV verse; 'made a proclamation' occurs in five, of which 1 Kings 15:22 ('made a proclamation throughout all Judah') is the closest rival and gathers nobody. The borrowing is split across two verses of Mosiah: 1:10 has 'make a proclamation throughout all this land … that thereby they may be gathered together', and 1:18 has 'proclaimed unto all the people … that thereby they might gather themselves together'.",
+          "significance": "Ezra 10:7-9 is the KJV's one sequence of proclamation, national gathering, and assembly at the house of God, and it is a covenant-renewal assembly: the people sit in the street of the house of God, trembling, and put away what has separated them. Mosiah 1:18 through chapter 6 is the same sequence at greater length — proclamation, gathering, the temple, a covenant, and a new name. That the Book of Mormon's great covenant assembly is announced in the words of the post-exilic one is worth recording whether or not the writer intended it."
+        },
+        "note": "'Proclaimed unto all the people which were in the land of Zarahemla, that thereby they might gather themselves together, to go up to the temple.' Three elements of Ezra 10:7-9 in the source's order, with the singleton 'made proclamation throughout' standing eight verses earlier at 1:10. 'Gather themselves together' is a common KJV phrase on its own (eight verses) and carries no weight by itself; what carries the link is the sequence — proclamation to a whole people, gathering, and the house of God as the destination — which the KJV runs only here.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ]
+  }
+}

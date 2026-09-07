@@ -1,6 +1,6 @@
 # Mosiah 18 — adjudication dossier
 
-Running text: 1830 first edition (modern versification). 35 verses. 257 machine candidates for this chapter; the top 24 by n-gram rarity are shown below, grouped by verse.
+Running text: 1830 first edition (modern versification). 35 verses. 257 machine candidates for this chapter; the top 40 by n-gram rarity are shown below, grouped by verse.
 
 Substantive 1830-vs-1920 differences are flagged per verse. Note that KJV
 spellings (*shew*, *marvellous*) surviving in 1830 and modernized later are
@@ -27,6 +27,12 @@ And as many as would hear his word he did teach. And he taught them privately, t
 - **2 Timothy 3:7** — rarity 2.08, longest run 6
   > Ever learning, and never able to come to the knowledge of the truth.
   shared: *come to the knowledge*; *the knowledge of the*; *to the knowledge of*
+- **John 11:56** — rarity 1.00, longest run 4
+  > Then sought they for Jesus, and spake among themselves, as they stood in the temple, What think ye, that he will not come to the feast?
+  shared: *not come to the*
+- **Revelation 13:15** — rarity 1.00, longest run 4
+  > And he had power to give life unto the image of the beast, that the image of the beast should both speak, and cause that as many as would not worship the image of the beast should be killed.
+  shared: *as many as would*
 
 ### 18:4
 
@@ -51,6 +57,9 @@ Now there was in Mormon a fountain of pure water, and Alma resorted thither, the
 - **Isaiah 4:6** — rarity 2.17, longest run 6
   > And there shall be a tabernacle for a shadow in the day time from the heat, and for a place of refuge, and for a covert from storm and from rain.
   shared: *day time from the*; *in the day time*; *the day time from*
+- **1 Samuel 26:1** — rarity 1.00, longest run 4
+  > And the Ziphites came unto Saul to Gibeah, saying, Doth not David hide himself in the hill of Hachilah, which is before Jeshimon?
+  shared: *hide himself in the*
 
 ### 18:6
 
@@ -72,6 +81,9 @@ And it came to pass after many days, there were a goodly number gathered togethe
 - **Jeremiah 13:6** — rarity 1.03, longest run 8
   > And it came to pass after many days, that the LORD said unto me, Arise, go to Euphrates, and take the girdle from thence, which I commanded thee to hide there.
   shared: *and it came to*; *came to pass after*; *it came to pass*; *pass after many days*; *to pass after many*
+- **Luke 6:17** — rarity 1.00, longest run 4
+  > And he came down with them, and stood in the plain, and the company of his disciples, and a great multitude of people out of all Judaea and Jerusalem, and from the sea coast of Tyre and Sidon, which came to hear him, and to be healed of their diseases;
+  shared: *to hear him and*
 
 ### 18:8
 
@@ -79,6 +91,12 @@ And it came to pass that he said unto them, Behold, here is the waters of Mormon
 
 - *variant* 1830 `is` → 1920 `are`
 
+- **Galatians 6:2** — rarity 1.00, longest run 4
+  > Bear ye one another’s burdens, and so fulfil the law of Christ.
+  shared: *one another s burdens*
+- **Matthew 23:7** — rarity 1.00, longest run 4
+  > And greetings in the markets, and to be called of men, Rabbi, Rabbi.
+  shared: *and to be called*
 
 ### 18:9
 
@@ -94,6 +112,9 @@ Now I say unto you, if this be the desires of your hearts, what have you against
 - **Ezekiel 16:8** — rarity 1.50, longest run 5
   > Now when I passed by thee, and looked upon thee, behold, thy time was the time of love; and I spread my skirt over thee, and covered thy nakedness: yea, I sware unto thee, and entered into a covenant with thee, saith the Lord GOD, and thou becamest mine.
   shared: *entered into a covenant*; *into a covenant with*
+- **Acts 5:38** — rarity 1.01, longest run 5
+  > And now I say unto you, Refrain from these men, and let them alone: for if this counsel or this work be of men, it will come to nought:
+  shared: *i say unto you*; *now i say unto*
 
 ### 18:11
 
@@ -126,6 +147,9 @@ And when he had said these words, the spirit of the Lord was upon him, and he sa
 - **2 Chronicles 15:12** — rarity 1.50, longest run 5
   > And they entered into a covenant to seek the LORD God of their fathers with all their heart and with all their soul;
   shared: *entered into a covenant*; *into a covenant to*
+- **Isaiah 29:10** — rarity 1.00, longest run 4
+  > For the LORD hath poured out upon you the spirit of deep sleep, and hath closed your eyes: the prophets and your rulers, the seers hath he covered.
+  shared: *poured out upon you*
 
 ### 18:14
 
@@ -161,6 +185,9 @@ And it came to pass that Alma, having authority from God, ordained priests; even
 - **Acts 1:3** — rarity 3.51, longest run 8
   > To whom also he shewed himself alive after his passion by many infallible proofs, being seen of them forty days, and speaking of the things pertaining to the kingdom of God:
   shared: *pertaining to the kingdom*; *the kingdom of god*; *the things pertaining to*; *things pertaining to the*; *to the kingdom of*
+- **Revelation 14:6** — rarity 1.00, longest run 4
+  > And I saw another angel fly in the midst of heaven, having the everlasting gospel to preach unto them that dwell on the earth, and to every nation, and kindred, and tongue, and people,
+  shared: *to preach unto them*
 
 ### 18:19
 
@@ -203,6 +230,12 @@ and there was one day in every week that was set apart that they should gather t
 - **Ezra 10:7** — rarity 3.00, longest run 6
   > And they made proclamation throughout Judah and Jerusalem unto all the children of the captivity, that they should gather themselves together unto Jerusalem;
   shared: *should gather themselves together*; *that they should gather*; *they should gather themselves*
+- **Ezekiel 22:10** — rarity 1.00, longest run 4
+  > In thee have they discovered their fathers’ nakedness: in thee have they humbled her that was set apart for pollution.
+  shared: *that was set apart*
+- **Jeremiah 7:2** — rarity 1.00, longest run 4
+  > Stand in the gate of the LORD’s house, and proclaim there this word, and say, Hear the word of the LORD, all ye of Judah, that enter in at these gates to worship the LORD.
+  shared: *to worship the lord*
 
 ### 18:26
 
@@ -239,6 +272,12 @@ And this he said unto them, having been commanded of God; and they did walk upri
 
 And now it came to pass that all this was done in Mormon; yea, by the waters of Mormon, in the forest that was near the waters of Mormon; yea, the place of Mormon, the waters of Mormon, the forest of Mormon, how beautiful are they to the eyes of them who there came to the knowledge of their redeemer; yea, and how blessed are they, for they shall sing to his praise forever.
 
+- **2 Timothy 3:7** — rarity 1.00, longest run 4
+  > Ever learning, and never able to come to the knowledge of the truth.
+  shared: *to the knowledge of*
+- **Psalm 66:4** — rarity 1.00, longest run 4
+  > All the earth shall worship thee, and shall sing unto thee; they shall sing to thy name. Selah.
+  shared: *they shall sing to*
 
 ### 18:31
 
@@ -256,6 +295,9 @@ And these things were done in the borders of the land, that they might not come 
 - **Exodus 16:35** — rarity 1.14, longest run 5
   > And the children of Israel did eat manna forty years, until they came to a land inhabited; they did eat manna, until they came unto the borders of the land of Canaan.
   shared: *borders of the land*; *the borders of the*
+- **John 11:56** — rarity 1.00, longest run 4
+  > Then sought they for Jesus, and spake among themselves, as they stood in the temple, What think ye, that he will not come to the feast?
+  shared: *not come to the*
 
 ### 18:32
 
@@ -270,6 +312,9 @@ But behold, it came to pass that the king, having discovered a movement among th
 - **Numbers 4:49** — rarity 1.11, longest run 5
   > According to the commandment of the LORD they were numbered by the hand of Moses, every one according to his service, and according to his burden: thus were they numbered of him, as the LORD commanded Moses.
   shared: *of the lord they*; *the lord they were*
+- **Matthew 21:34** — rarity 1.00, longest run 4
+  > And when the time of the fruit drew near, he sent his servants to the husbandmen, that they might receive the fruits of it.
+  shared: *sent his servants to*
 
 ### 18:33
 
@@ -283,6 +328,9 @@ And now the king saith that Alma was stirring up the people to a rebellion again
 
 And it came to pass that Alma, and the people of the Lord were apprised of the coming of the king’s army; therefore they took their tents and their families, and departed into the wilderness.
 
+- **1 Chronicles 27:34** — rarity 1.02, longest run 5
+  > And after Ahithophel was Jehoiada the son of Benaiah, and Abiathar: and the general of the king’s army was Joab.
+  shared: *of the king s*; *the king s army*
 
 ### 18:35
 

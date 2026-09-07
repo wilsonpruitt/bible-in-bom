@@ -1,0 +1,551 @@
+{
+ "chapter": 5,
+ "adjudicated": "2026-09-07",
+ "adjudicator": "Opus",
+ "links": {
+  "5:2": [
+   {
+    "source": "Jeremiah 4:22",
+    "type": "allusion",
+    "subtype": "close-verbal",
+    "confidence": "high",
+    "evidence": {
+     "vocabulary": 4,
+     "syntax": 4,
+     "sequence": 4,
+     "context": 5,
+     "rarity": 5,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-OT",
+    "composite": [
+     "Genesis 6:5"
+    ],
+    "recurrenceRefs": [
+     "Mosiah 5:13"
+    ],
+    "provenance": {
+     "route": "Jeremiah 4:22 \u2192 KJV \u2192 Book of Mormon",
+     "other": "\u201cto do evil but to do good\u201d occurs in exactly one KJV verse, Jeremiah 4:22. \u201cevil continually\u201d occurs in exactly one KJV verse, Genesis 6:5 \u2014 the verdict before the flood, that every imagination of the thoughts of man's heart was only evil continually.",
+     "significance": "Both sources are diagnoses of a corrupt heart and the Book of Mormon has reversed both. Jeremiah's people 'are wise to do evil, but to do good they have no knowledge'; Benjamin's people have 'no more disposition to do evil, but to do good continually'. Genesis 6:5's 'only evil continually' becomes 'good continually'. The metalepsis is what the reversal recovers: Jeremiah 4:22's first clause is 'my people is foolish, they have not known me', and eleven verses later, at Mosiah 5:13, Benjamin asks 'how knoweth a man the master which he hath not served'. The chapter has taken Jeremiah's charge of not knowing God and answered it with a people who now do."
+    },
+    "note": "'That we have no more disposition to do evil, but to do good continually.' The clause is Jeremiah 4:22's, turned inside out: the KJV has that sequence of words once, and there the two verbs are a reproach rather than a testimony. The adverb comes from the other direction \u2014 'continually' with a moral object is Genesis 6:5's word for the antediluvian heart. What the people report is precisely the undoing of both verses, which is why the borrowing is more interesting than a quotation would be.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "machine-ngram",
+     "manual"
+    ],
+    "text": "For my people is foolish, they have not known me; they are sottish children, and they have none understanding: they are wise to do evil, but to do good they have no knowledge."
+   }
+  ],
+  "5:5": [
+   {
+    "source": "Revelation 14:10",
+    "type": "allusion",
+    "subtype": "close-verbal",
+    "confidence": "high",
+    "evidence": {
+     "vocabulary": 4,
+     "syntax": 3,
+     "sequence": 5,
+     "context": 5,
+     "rarity": 4,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "composite": [
+     "Revelation 14:11"
+    ],
+    "provenance": {
+     "route": "Revelation 14:10-11 \u2192 KJV \u2192 Book of Mormon",
+     "other": "'The wrath of God' occurs in ten KJV verses, but only Revelation 14:10 puts it in a cup and gives it to somebody to drink: 'shall drink of the wine of the wrath of God, which is poured out \u2026 into the cup of his indignation'. \u201ctorment ascendeth up\u201d occurs in exactly one KJV verse, Revelation 14:11, which supplies the torment that has no end.",
+     "significance": "The two elements of the covenant's negative sanction \u2014 a torment without end, and a cup of the wrath of God \u2014 stand in consecutive verses of one Revelation passage and nowhere else together in the KJV. This is not the first time Benjamin's sermon has been in Revelation 14: Hardy's apparatus cross-references Revelation 14:11 at Mosiah 3:27, two chapters earlier, and Revelation 14:1 stands behind Mosiah 5:12's name written in the heart. One page of Revelation is supplying this discourse with its picture of judgment, and the covenant at 5:5 is being sworn against it."
+    },
+    "note": "'That we may not bring upon ourselves a never ending torment \u2026 that we may not drink out of the cup of the wrath of God.' Two images, consecutive in the source and consecutive here. The Book of Mormon compresses Revelation's 'wine of the wrath of God \u2026 into the cup of his indignation' into a single 'cup of the wrath of God', which is a phrase in no KJV verse \u2014 a fusion of the two halves of Revelation 14:10 rather than a copy of either. The 1830 'never ending torment' was hyphenated in 1920; the unhyphenated form is the KJV's own habit.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "manual"
+    ],
+    "text": "The same shall drink of the wine of the wrath of God, which is poured out without mixture into the cup of his indignation; and he shall be tormented with fire and brimstone in the presence of the holy angels, and in the presence of the Lamb:"
+   }
+  ],
+  "5:7": [
+   {
+    "source": "Matthew 5:9",
+    "type": "allusion",
+    "subtype": "close-verbal",
+    "confidence": "high",
+    "evidence": {
+     "vocabulary": 4,
+     "syntax": 5,
+     "sequence": 4,
+     "context": 4,
+     "rarity": 5,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "composite": [
+     "Romans 9:26"
+    ],
+    "provenance": {
+     "route": "Matthew 5:9 \u2192 KJV \u2192 Book of Mormon",
+     "other": "\u201cshall be called the children of\u201d occurs in exactly one KJV verse, Matthew 5:9. Romans 9:26 has 'they be called the children of the living God' without the modal.",
+     "significance": "The substitution is the finding. Matthew's beatitude promises that the peacemakers 'shall be called the children of God'; Mosiah 5:7 promises that the covenanters 'shall be called the children of Christ'. Changing the genitive from God to Christ inside a beatitude is a christological claim made by a single word, and it is made in the KJV's own sentence \u2014 which is what makes it visible at all. Read with the metalepsis, the promise Jesus attaches to peacemaking Benjamin attaches to covenanting."
+    },
+    "note": "'Ye shall be called the children of Christ, his sons, and his daughters.' Six consecutive words of the Sermon on the Mount with the seventh replaced. The machine stream found this one; it is worth recording that it also proposed Romans 9:26, which has the same clause without 'shall' and in a Hosea quotation about a people who were not a people \u2014 a background this verse can carry, since Benjamin's people are being given a name they did not have.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "machine-ngram",
+     "manual"
+    ],
+    "text": "Blessed are the peacemakers: for they shall be called the children of God."
+   },
+   {
+    "source": "2 Corinthians 6:18",
+    "type": "allusion",
+    "subtype": "close-verbal",
+    "confidence": "moderate",
+    "evidence": {
+     "vocabulary": 4,
+     "syntax": 3,
+     "sequence": 3,
+     "context": 4,
+     "rarity": 5,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "provenance": {
+     "route": "2 Corinthians 6:18 \u2192 KJV \u2192 Book of Mormon",
+     "other": "\u201csons and daughters saith the Lord\u201d occurs in exactly one KJV verse, 2 Corinthians 6:18, where Paul fuses 2 Samuel 7:14 with Isaiah 43:6. The mediation tool returns no decisive divergence, because Mosiah reproduces neither source's full clause; the decision is made by eye and it is not close. 2 Samuel 7:14 has a son and no daughter.",
+     "alternative": "Isaiah 43:6, 'bring my sons from far, and my daughters from the ends of the earth', is the Old Testament source of Paul's second half and could be reached directly.",
+     "significance": "2 Corinthians 6:18 is the promise God made to David's heir, opened out by Paul to a whole congregation \u2014 a dynastic sonship made general. Mosiah 5:7 is a king in the act of handing over a dynasty telling his people that they, not only his son, are the sons and daughters begotten this day. The verse that democratizes the Davidic promise is being used at precisely the moment the Book of Mormon's own succession is taking place, one chapter before Mosiah is consecrated."
+    },
+    "note": "'His sons, and his daughters \u2026 therefore, ye are born of him, and have become his sons, and his daughters.' The pair is repeated twice in one verse, which is Paul's pair and not the Old Testament's: 2 Samuel 7:14, the verse Paul is quoting, has only 'he shall be my son'. Filed at moderate because 'sons and daughters' is not by itself rare English; what carries it is the pairing with 'Father' and the covenant frame, both of which are 2 Corinthians 6:18's.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "manual"
+    ],
+    "text": "And will be a Father unto you, and ye shall be my sons and daughters, saith the Lord Almighty."
+   },
+   {
+    "source": "1 John 2:29",
+    "type": "echo",
+    "subtype": "probable",
+    "confidence": "moderate",
+    "evidence": {
+     "vocabulary": 3,
+     "syntax": 4,
+     "sequence": 2,
+     "context": 4,
+     "rarity": 5,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "provenance": {
+     "route": "1 John 2:29 \u2192 KJV \u2192 Book of Mormon",
+     "other": "\u201cborn of him\u201d occurs in exactly one KJV verse, 1 John 2:29. The KJV's other new-birth formulas are 'born of God' (1 John 3:9, 4:7, 5:1, 5:4, 5:18), 'born again' (John 3:3, 1 Peter 1:23) and 'born of the Spirit' (John 3:6).",
+     "significance": "1 John 2:29 makes the new birth inferable from conduct \u2014 'every one that doeth righteousness is born of him' \u2014 which is the move Benjamin makes at 5:2, where the people know their own change by their disposition to do good. The pronoun is what carries the link: 'born of him' rather than 'born of God' puts Christ, not the Father, in the genitive, and that is exactly the substitution Mosiah 5:7 has already made in the beatitude."
+    },
+    "note": "'Therefore, ye are born of him.' Three words, but the KJV says it this way once. Everywhere else the new birth is 'of God', and the Johannine letters' one exception is the verse where the antecedent is ambiguous between Father and Son \u2014 the ambiguity Mosiah 5:7 resolves toward Christ and then states outright. Filed as an echo at moderate because three words cannot carry more, and recorded because its rarity is absolute.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "manual"
+    ],
+    "text": "If ye know that he is righteous, ye know that every one that doeth righteousness is born of him."
+   }
+  ],
+  "5:8": [
+   {
+    "source": "Acts 4:12",
+    "type": "quotation",
+    "subtype": "paraphrase",
+    "confidence": "certain",
+    "evidence": {
+     "vocabulary": 5,
+     "syntax": 4,
+     "sequence": 5,
+     "context": 5,
+     "rarity": 5,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "recurrenceRefs": [
+     "Mosiah 4:8",
+     "Mosiah 3:17"
+    ],
+    "provenance": {
+     "route": "Acts 4:12 \u2192 KJV \u2192 Book of Mormon",
+     "other": "\u201cthere is none other name\u201d occurs in exactly one KJV verse, Acts 4:12, and \u201cneither is there salvation in any other\u201d occurs in exactly one KJV verse, which is the same one. The two halves of Benjamin's claim answer to the two halves of Peter's.",
+     "significance": "Benjamin's sermon has taken Acts 4:12 apart and used it twice, a chapter apart. Mosiah 4:8 has the first half \u2014 'there is none other salvation, save this which hath been spoken of' \u2014 and Mosiah 5:8 has the second \u2014 'There is no other name given, whereby salvation cometh.' Neither verse quotes the whole; between them they reproduce it. Recover the context and the borrowing is Peter's, spoken before the rulers and elders of Israel in defence of a healing done in a name; Benjamin's is spoken by a ruler of Israel who is giving that name away."
+    },
+    "note": "'There is no other name given, whereby salvation cometh.' Every content word is Acts 4:12's and the syntax is Acts 4:12's in miniature: none other name \u2014 given \u2014 whereby \u2014 salvation. It is catalogued as a paraphrastic quotation rather than a verbatim one because the KJV's 'under heaven given among men, whereby we must be saved' is condensed rather than copied; well below Skousen's sixteen-word threshold and not among his thirty-six. The doubling across 4:8 and 5:8 is stronger evidence than either occurrence alone, because a writer working from memory of one verse does not usually split it across two sermons and get both halves.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "manual"
+    ],
+    "text": "Neither is there salvation in any other: for there is none other name under heaven given among men, whereby we must be saved."
+   }
+  ],
+  "5:9": [
+   {
+    "source": "Matthew 25:33",
+    "type": "allusion",
+    "subtype": "conceptual",
+    "confidence": "high",
+    "evidence": {
+     "vocabulary": 3,
+     "syntax": 3,
+     "sequence": 5,
+     "context": 5,
+     "rarity": 4,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "composite": [
+     "Matthew 25:41"
+    ],
+    "recurrenceRefs": [
+     "Mosiah 4:6",
+     "Mosiah 4:26",
+     "Mosiah 5:10"
+    ],
+    "provenance": {
+     "route": "Matthew 25:31-46 \u2192 KJV \u2192 Book of Mormon",
+     "other": "'On the left hand' occurs in seven KJV verses, all but one of them geographical \u2014 Damascus, Cyprus, the borders of Zebulun. Only Matthew 25 makes it a verdict: \u201con his right hand but the goats on the left\u201d occurs in exactly one KJV verse, Matthew 25:33.",
+     "significance": "This completes the chapter-length borrowing from Matthew 25 that began at Mosiah 4:6 with 'prepared from the foundation of the world' and continued at 4:26 with the hungry, the naked and the sick. Benjamin has now used the parable's opening (the separation), its blessing formula, and its list of works, in Matthew's own order across two chapters. The one thing he changes is the criterion: Matthew sorts by what was done to the least of these, Benjamin by whether a man knows the name he is called by \u2014 and since 4:26 has already made Matthew's works the content of the covenant, the two criteria are the same criterion said twice."
+    },
+    "note": "'Shall be found at the right hand of God \u2026 he findeth himself on the left hand of God' (5:9-10). No clause is reproduced, which is why this is catalogued as conceptual rather than close-verbal, and the case rests on the pair. The KJV's right hand of God is a place of enthronement (Mark 16:19, Acts 7:55); its left hand is almost always a compass point. Only Matthew 25 makes the two a forensic pair, and this sermon has been quoting Matthew 25 since 4:6.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "manual"
+    ],
+    "text": "And he shall set the sheep on his right hand, but the goats on the left."
+   }
+  ],
+  "5:11": [
+   {
+    "source": "Revelation 3:5",
+    "type": "allusion",
+    "subtype": "close-verbal",
+    "confidence": "high",
+    "evidence": {
+     "vocabulary": 4,
+     "syntax": 4,
+     "sequence": 4,
+     "context": 5,
+     "rarity": 4,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "provenance": {
+     "route": "Revelation 3:5 \u2192 KJV \u2192 Book of Mormon",
+     "other": "\u201cblot out his name\u201d occurs in exactly two KJV verses, Deuteronomy 29:20 and Revelation 3:5. Deuteronomy blots the name of a covenant-breaker from under heaven as a curse; Revelation promises the overcomer that his name will not be blotted out of the book of life.",
+     "significance": "Both candidates are covenant sanctions and the Book of Mormon has the shape of the second. Revelation 3:5 is a promise stated as a negative \u2014 'I will NOT blot out his name' \u2014 and Mosiah 5:11 is the same promise in the same negative form: the name 'never should be blotted out, except it be through transgression'. Deuteronomy 29:20 states it as a threat with no exception clause. The suppressed context is Revelation 3:5's second half, 'I will confess his name before my Father', which is what Mosiah 5:9 has just described as being found at the right hand of God and known by name."
+    },
+    "note": "'This is the name that I said I should give unto you, that never should be blotted out, except it be through transgression.' The KJV's two blottings-out are a curse and a promise, and Benjamin's is a promise with a condition \u2014 Revelation's form with Deuteronomy's escape clause reattached. Where Revelation keeps the name in a book, Benjamin keeps it in the heart, which is the change 5:12 then makes explicit.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "manual"
+    ],
+    "text": "He that overcometh, the same shall be clothed in white raiment; and I will not blot out his name out of the book of life, but I will confess his name before my Father, and before his angels."
+   }
+  ],
+  "5:12": [
+   {
+    "source": "Revelation 14:1",
+    "type": "allusion",
+    "subtype": "conceptual",
+    "confidence": "moderate",
+    "evidence": {
+     "vocabulary": 3,
+     "syntax": 3,
+     "sequence": 3,
+     "context": 5,
+     "rarity": 5,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "composite": [
+     "2 Corinthians 3:3"
+    ],
+    "recurrenceRefs": [
+     "Mosiah 5:5"
+    ],
+    "provenance": {
+     "route": "Revelation 14:1 \u2192 KJV \u2192 Book of Mormon",
+     "other": "\u201cwritten in their foreheads\u201d occurs in exactly one KJV verse, Revelation 14:1. \u201cfleshy tables of the heart\u201d occurs in exactly one KJV verse, 2 Corinthians 3:3, which is the KJV's only writing done on a heart by the Spirit rather than by God's finger on stone.",
+     "alternative": "Jeremiah 31:33 and its quotation at Hebrews 8:10 write in the heart, but what they write is the law, not a name; the mediation check between them returns no divergence Mosiah reproduces.",
+     "significance": "Benjamin's covenanters carry a name; Revelation's hundred and forty-four thousand carry a name; the difference is where. Revelation writes it on the forehead, where anyone can read it, and Mosiah writes it in the heart, where 5:13 says a stranger cannot. That relocation is the argument of the whole passage \u2014 the name is not a badge but a knowledge, and a man who does not know the voice does not have it. Revelation 14 has already supplied 5:5's cup of wrath, so the chapter is working through one page of Revelation as it works through one page of Matthew."
+    },
+    "note": "'Retain the name written always in your hearts.' The nearest KJV language for a name written on a person is Revelation 14:1's foreheads; the nearest for writing on a heart is 2 Corinthians 3:3's fleshy tables. The Book of Mormon has neither phrase intact, which is why this is moderate and conceptual rather than verbal \u2014 but each half is a KJV singleton, and the sentence needs both.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "manual"
+    ],
+    "text": "And I looked, and, lo, a Lamb stood on the mount Sion, and with him an hundred forty and four thousand, having his Father\u2019s name written in their foreheads."
+   },
+   {
+    "source": "John 10:3",
+    "type": "allusion",
+    "subtype": "close-verbal",
+    "confidence": "high",
+    "evidence": {
+     "vocabulary": 4,
+     "syntax": 4,
+     "sequence": 5,
+     "context": 5,
+     "rarity": 5,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "composite": [
+     "John 10:4"
+    ],
+    "recurrenceRefs": [
+     "Mosiah 5:13",
+     "Mosiah 5:14"
+    ],
+    "provenance": {
+     "route": "John 10:3-5 \u2192 KJV \u2192 Book of Mormon",
+     "other": "\u201cknow his voice\u201d occurs in exactly one KJV verse, John 10:4. John 10:3 is the KJV's only verse in which a shepherd 'calleth his own sheep by name'; the conjunction of a voice that is known and a name by which one is called exists nowhere else in the Bible.",
+     "significance": "The whole of Mosiah 5:12-14 is John 10:3-5 in order. The sheep hear his voice and he calls them by name (10:3) \u2192 Mosiah 5:12, hear and know the voice, and the name by which he shall call you. They know his voice (10:4) \u2192 5:13, how knoweth a man the master. A stranger will they not follow (10:5) \u2192 5:13, 'is a stranger unto him'. Then 5:14 supplies an animal illustration in which the beast that does not belong is driven off \u2014 which is the good-shepherd discourse's own logic, run from the flock's side rather than the shepherd's."
+    },
+    "note": "'That ye hear and know the voice by which ye shall be called, and also, the name by which he shall call you.' Two of John 10:3-4's three distinctive elements, in John's order, one verse before the third arrives. The reason to catalogue this at 5:12 rather than 5:13 is that the naming and the voice are here, together, and they are together in the KJV only in the good shepherd discourse.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "manual"
+    ],
+    "text": "To him the porter openeth; and the sheep hear his voice: and he calleth his own sheep by name, and leadeth them out."
+   }
+  ],
+  "5:13": [
+   {
+    "source": "Hebrews 4:12",
+    "type": "allusion",
+    "subtype": "close-verbal",
+    "confidence": "high",
+    "evidence": {
+     "vocabulary": 5,
+     "syntax": 4,
+     "sequence": 3,
+     "context": 4,
+     "rarity": 5,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "provenance": {
+     "route": "Hebrews 4:12 \u2192 KJV \u2192 Book of Mormon",
+     "other": "\u201cthoughts and intents of the heart\u201d occurs in exactly one KJV verse, Hebrews 4:12. Jeremiah 30:24's 'intents of his heart' is the only other place the KJV uses 'intents' of a heart at all, and it has no 'thoughts'.",
+     "significance": "Hebrews 4:12 is about a word that discerns what is inside a man; Mosiah 5:13 is about a master who is 'far from the thoughts and intents of his heart' \u2014 the same interior, described by its distance from God rather than by God's access to it. Hebrews' next verse is the one that matters for the borrowing: 'neither is there any creature that is not manifest in his sight'. Benjamin's question is how a man can know a master he has not served, and Hebrews' answer is that the master already knows him."
+    },
+    "note": "'And is far from the thoughts and intents of his heart.' Five words of a KJV singleton, reproduced exactly. The machine stream found it and ranked it 2.00, which for once is right. The inversion is the argument: what Hebrews says God's word penetrates, Benjamin says an unserved master is remote from.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "machine-ngram",
+     "manual"
+    ],
+    "text": "For the word of God is quick, and powerful, and sharper than any twoedged sword, piercing even to the dividing asunder of soul and spirit, and of the joints and marrow, and is a discerner of the thoughts and intents of the heart."
+   },
+   {
+    "source": "John 10:5",
+    "type": "allusion",
+    "subtype": "close-verbal",
+    "confidence": "moderate",
+    "evidence": {
+     "vocabulary": 3,
+     "syntax": 3,
+     "sequence": 5,
+     "context": 5,
+     "rarity": 5,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "recurrenceRefs": [
+     "Mosiah 5:12"
+    ],
+    "provenance": {
+     "route": "John 10:5 \u2192 KJV \u2192 Book of Mormon",
+     "other": "\u201ca stranger will they not follow\u201d occurs in exactly one KJV verse, John 10:5, which continues 'for they know not the voice of strangers'.",
+     "significance": "John 10:5 is the negative half of the good shepherd's argument, and Mosiah 5:13 is its negative half too: a master who is a stranger is a master nobody can know. The link is filed separately from 5:12's because the source verses are consecutive and the Book of Mormon's clauses are consecutive, and the sequence is worth showing as a sequence."
+    },
+    "note": "'The master which he hath not served, and which is a stranger unto him.' The shared word is one \u2014 'stranger' \u2014 which on its own would be nothing; what carries it is position. Mosiah 5:12 has just used John 10:3-4's voice and name, and John 10:5 is the next verse in the source. Filed at moderate for that reason and not higher, since a one-word contact is only as strong as the sequence around it.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "manual"
+    ],
+    "text": "And a stranger will they not follow, but will flee from him: for they know not the voice of strangers."
+   }
+  ],
+  "5:14": [
+   {
+    "source": "Matthew 22:13",
+    "type": "allusion",
+    "subtype": "close-verbal",
+    "confidence": "moderate",
+    "evidence": {
+     "vocabulary": 4,
+     "syntax": 4,
+     "sequence": 4,
+     "context": 5,
+     "rarity": 5,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "composite": [
+     "Matthew 22:14"
+    ],
+    "provenance": {
+     "route": "Matthew 22:13-14 \u2192 KJV \u2192 Book of Mormon",
+     "other": "\u201ctake him away and cast him\u201d occurs in exactly one KJV verse, Matthew 22:13. \u201cmany are called but few are chosen\u201d occurs in exactly one KJV verse, Matthew 22:14, the next verse.",
+     "significance": "Matthew 22:11-14 is the KJV's one story about a man expelled from an assembly because he lacked the mark that showed he belonged, and it ends on the word Benjamin's verse ends on: called. 'Even so shall it be among you, if ye know not the name by which ye are called' sits four words from a borrowing whose source is followed immediately by 'many are called, but few are chosen'. Recovering the parable turns Benjamin's stray ass into the guest without a wedding garment, and the covenant name into the garment."
+    },
+    "note": "'He will not even suffer that he shall feed among his flocks, but will drive him away, and cast him out.' The KJV's only 'take him away, and cast him' is the king's sentence on the man without a wedding garment. The Book of Mormon substitutes 'drive' for 'take' and 'out' for 'into outer darkness', which is why this is moderate rather than high \u2014 but the five-word frame is a singleton, the expulsion is the same expulsion, and the parable's punchline is the sentence Benjamin is writing toward.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "machine-ngram",
+     "manual"
+    ],
+    "text": "Then said the king to the servants, Bind him hand and foot, and take him away, and cast him into outer darkness, there shall be weeping and gnashing of teeth."
+   },
+   {
+    "source": "James 2:7",
+    "type": "allusion",
+    "subtype": "close-verbal",
+    "confidence": "high",
+    "evidence": {
+     "vocabulary": 4,
+     "syntax": 4,
+     "sequence": 3,
+     "context": 5,
+     "rarity": 5,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "recurrenceRefs": [
+     "Mosiah 4:23",
+     "Mosiah 4:26",
+     "Mosiah 5:12"
+    ],
+    "provenance": {
+     "route": "James 2:7 \u2192 KJV \u2192 Book of Mormon",
+     "other": "\u201cwhich ye are called\u201d occurs in exactly one KJV verse, James 2:7 \u2014 'that worthy name by the which ye are called'. The KJV has no other verse in which a person is called BY a name in this construction.",
+     "significance": "The context is the reason to record this rather than pass it over. James 2:1-7 is an argument against despising the poor in the assembly: the rich oppress you and blaspheme the worthy name by which you are called, so do not have the faith of Christ with respect of persons. Mosiah 4 has just spent twenty verses on beggars, on substance withheld, and on the rich whose substance shall perish with them; Mosiah 5 ends on the name by which they are called. Benjamin has used James 2's two subjects in James 2's order, one chapter apart."
+    },
+    "note": "'If ye know not the name by which ye are called.' The construction is a KJV singleton and it is one Benjamin uses three times in four verses (5:11, 5:12, 5:14). Taken alone it would be a shared idiom; taken with the sermon's preceding chapter on the poor and the rich, which is James 2's own argument, it is a borrowing from a passage the discourse has been drawing on already.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "machine-ngram",
+     "manual"
+    ],
+    "text": "Do not they blaspheme that worthy name by the which ye are called?"
+   }
+  ],
+  "5:15": [
+   {
+    "source": "1 Corinthians 15:58",
+    "type": "quotation",
+    "subtype": "close-verbal",
+    "confidence": "certain",
+    "evidence": {
+     "vocabulary": 5,
+     "syntax": 5,
+     "sequence": 5,
+     "context": 5,
+     "rarity": 5,
+     "attestation": 1
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "provenance": {
+     "route": "1 Corinthians 15:58 \u2192 KJV \u2192 Book of Mormon",
+     "other": "\u201calways abounding\u201d occurs in exactly one KJV verse, 1 Corinthians 15:58, and so does the run 'stedfast unmoveable always abounding'. The Book of Mormon modernizes both spellings \u2014 'steadfast and immovable' for 'stedfast, unmoveable' \u2014 and adds the conjunction.",
+     "significance": "Paul's sentence is the last verse of the resurrection chapter, and its ground is stated in its own second half: 'forasmuch as ye know that your labour is not in vain in the Lord'. Benjamin's benediction ends on 'everlasting salvation and eternal life', which is what makes the labour not vain, and 4:20 has already asked whether this people has 'begged in vain' and answered no. The phrase the Book of Mormon will use for the rest of the record \u2014 steadfast and immovable \u2014 enters it here, out of the KJV's only sentence that says it."
+    },
+    "note": "'I would that ye should be steadfast and immovable, always abounding in good works.' Three consecutive terms of 1 Corinthians 15:58 in Paul's order, with one substitution: 'good works' for 'the work of the Lord'. The substitution is doing the chapter's work, since Benjamin has spent 4:16-26 defining what the good works are. Below Skousen's sixteen-word threshold and not one of his thirty-six; the rarity is what carries it, since 'always abounding' exists in one KJV verse and nowhere else in English scripture.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "manual"
+    ],
+    "text": "Therefore, my beloved brethren, be ye stedfast, unmoveable, always abounding in the work of the Lord, forasmuch as ye know that your labour is not in vain in the Lord."
+   },
+   {
+    "source": "Ephesians 1:13",
+    "type": "echo",
+    "subtype": "probable",
+    "confidence": "moderate",
+    "evidence": {
+     "vocabulary": 3,
+     "syntax": 2,
+     "sequence": 3,
+     "context": 4,
+     "rarity": 3,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "composite": [
+     "Revelation 7:3",
+     "Ephesians 3:9"
+    ],
+    "provenance": {
+     "route": "Ephesians 1:13 \u2192 KJV \u2192 Book of Mormon",
+     "other": "'Sealed' is common KJV English \u2014 26 verses \u2014 but almost all of them seal a document. Only Ephesians 1:13 and 4:30, 2 Corinthians 1:22, and Revelation 7:3 seal people, and only Revelation 7:3 seals them with a name. \u201cwho created all things\u201d occurs in exactly one KJV verse, Ephesians 3:9, two chapters on from the sealing.",
+     "significance": "The verse holds both halves of the Ephesian idea: God seals those who believe, and God created all things by Jesus Christ. Revelation 7:3 supplies the missing middle, sealing servants in their foreheads \u2014 which is where Revelation 14:1 wrote the name that Mosiah 5:12 has just moved into the heart. Sealing and naming are one act in Revelation and Benjamin has kept them one act here: Christ seals them his, and what makes them his is the name they retain."
+    },
+    "note": "'May seal you his \u2026 through the wisdom, and power, and justice, and mercy of Him, who created all things, in Heaven and in Earth.' Two contacts, neither decisive alone. The KJV seals people in four verses and Ephesians 1:13 is the one that seals believers on believing, which is Benjamin's condition; 'who created all things' is a KJV singleton at Ephesians 3:9. Filed at moderate as an echo because the sealing language is diffuse and the creation formula is a doxological commonplace the Book of Mormon uses on its own account at 4:9.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "machine-ngram",
+     "manual"
+    ],
+    "text": "In whom ye also trusted, after that ye heard the word of truth, the gospel of your salvation: in whom also after that ye believed, ye were sealed with that holy Spirit of promise,"
+   }
+  ]
+ }
+}

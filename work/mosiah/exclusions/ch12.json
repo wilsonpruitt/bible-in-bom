@@ -1,0 +1,82 @@
+[
+  {
+    "bomRef": "Mosiah 12:1",
+    "source": "Acts 19:10",
+    "category": "formulaic",
+    "sharedText": "the space of two years",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "A standing exclusion for the chapter. 'The space of two years' is a date, and Acts 19:10's two years are Paul's stay in the school of Tyrannus. The same applies to the connective runs the machine returned at 12:1 (1 Chronicles 20:1, 'pass that after the'), 12:4 and 12:5 (Numbers 33:56, 'it shall come to pass that I'), 12:11 (Job 11:17, 'thou shalt be as the'), 12:30 (Ezekiel 47:22, 'and it shall come to pass that ye shall') and 12:32 (Luke 16:11): every one is the boilerplate covered by the standing exclusion at 1 Nephi 1:5, and none shares a content word that construes. Psalm 8:8 at 12:2 deserves a half-sentence more, because it is nearly interesting: the KJV's birds are 'the fowl of the air' and the Book of Mormon's are 'the vultures of the air', so the machine has matched the one part of that clause that is not the Book of Mormon's own choice. The link at 12:2 goes to Jeremiah 15:3."
+  },
+  {
+    "bomRef": "Mosiah 12:3",
+    "source": "Isaiah 50:9",
+    "category": "insufficient-verbal",
+    "sharedText": "as a garment",
+    "streams": [
+      "manual"
+    ],
+    "reason": "Abinadi's most memorable image has no King James source, and it is worth saying so plainly. 'The life of king Noah shall be valued even as a garment in a hot furnace' — repeated by the accusers at 12:10 as 'a garment in a furnace of fire' — puts together two KJV elements that the KJV never puts together. 'As a garment' occurs in four verses, of which Isaiah 50:9's 'they all shall wax old as a garment; the moth shall eat them up' is the only prophetic threat and the only KJV singleton in the group; 'furnace of fire' occurs in exactly two, Matthew 13:42 and 13:50, the parable's furnace of wailing and gnashing of teeth. Neither has a garment in a furnace. The image is the Book of Mormon's own, and it is a good one — a garment does not burn slowly, and the point is that Noah's life is worth what a garment is worth once it is in the fire. Recorded so that a reader who goes looking for the KJV verse behind it is told there is none."
+  },
+  {
+    "bomRef": "Mosiah 12:21",
+    "source": "Nahum 1:15",
+    "category": "better-source-identified",
+    "sharedText": "the feet of him that bringeth good tidings that publisheth peace",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "Nahum 1:15 shares eleven continuous words with Mosiah 12:21 and scored 3.83 in the machine stream, second only to Isaiah 52:7 itself — and it is superseded, cleanly. 'Publisheth peace' occurs in exactly two KJV verses, Isaiah 52:7 and Nahum 1:15, and the second half of the Book of Mormon verse settles which: Nahum has no mountains at the front ('Behold upon the mountains' comes first, not 'How beautiful upon the mountains'), no 'good tidings of good', no 'publisheth salvation' and no 'saith unto Zion, Thy God reigneth'. The quotation runs on for another seventeen words that only Isaiah has, and then continues through three more verses of Isaiah 52. Filed because a reader who checks the phrase alone will find two verses and should be told why one of them is not the answer."
+  },
+  {
+    "bomRef": "Mosiah 12:21",
+    "source": "Romans 10:15",
+    "category": "better-source-identified",
+    "sharedText": "How beautiful are the feet",
+    "streams": [
+      "manual"
+    ],
+    "reason": "The mediation test, and the Book of Mormon fails it in the Old Testament's favour — which is worth recording, because the pilot's principal result was sixteen places where it does the opposite. `mediation-check.py` returns three decisive points for Isaiah 52:7: the Book of Mormon has 'bringeth good tidings, that publisheth' where Romans has 'preach the gospel of', 'that bringeth good' where Romans has 'and bring glad', and nothing at all corresponding to Romans's 'as it is written'. It also keeps Isaiah's 'upon the mountains' and Isaiah's singular 'him', both of which Romans drops. This is a counter-example to the OT-via-NT pattern of 1 Nephi 22:20 and its kind, and it belongs in the register rather than only in the link's note so that the negative results are as countable as the positive ones."
+  },
+  {
+    "bomRef": "Mosiah 12:23",
+    "source": "Isaiah 49:13",
+    "category": "better-source-identified",
+    "sharedText": "for the Lord hath comforted his people",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "A seven-word run, and the wrong Isaiah. Isaiah 49:13 ('break forth into singing, O mountains: for the LORD hath comforted his people, and will have mercy upon his afflicted') shares the comfort clause with Isaiah 52:9 and nothing else. Mosiah 12:23 has 'Break forth into JOY; sing together ye waste places of Jerusalem', which is 52:9 exactly, including the KJV singleton 'waste places of Jerusalem', and it sits inside a four-verse continuous transcription of Isaiah 52:7-10. Note that 1 Nephi 21 is Isaiah 49 transcribed in full, so the machine's proposal is a hit on a passage this corpus really does quote elsewhere — which makes it the kind of candidate that would be easy to accept and is still wrong here."
+  },
+  {
+    "bomRef": "Mosiah 12:24",
+    "source": "Psalm 98:3",
+    "category": "better-source-identified",
+    "sharedText": "all the ends of the earth shall see the salvation of our God",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "Psalm 98:3 has 'all the ends of the earth HAVE SEEN the salvation of our God' — the same clause in the perfect tense, and Isaiah 52:10 has it in the future, which is the Book of Mormon's tense. The verse is superseded by the block it stands in: 12:24 also reproduces 'made bare his holy arm', a KJV singleton belonging to Isaiah 52:10 and absent from the psalm. Recorded because the psalm is a genuine parallel and because a six-word run in a verse that is otherwise verbatim Isaiah is exactly where an unwary apparatus would put a second source."
+  },
+  {
+    "bomRef": "Mosiah 12:33",
+    "source": "Leviticus 27:34",
+    "category": "insufficient-verbal",
+    "sharedText": "in mount Sinai",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "Close, and it does not land. Leviticus 27:34 — 'These are the commandments, which the LORD commanded Moses for the children of Israel in mount Sinai' — is the KJV's nearest sentence to Mosiah 12:33's 'the commandments which the Lord delivered unto Moses in the mount of Sinai', and Leviticus 26:46 says nearly the same thing. But the Book of Mormon's own form is 'in THE MOUNT OF Sinai', which occurs in no KJV verse at all; the King James Bible always says 'in mount Sinai' (seven verses) or 'unto mount Sinai'. The verse is introducing the Decalogue quotation that follows at 12:34-36, and the introduction is the Book of Mormon's phrasing, not a borrowing. Filed rather than passed over because a reader who expects the frame to be quoted as tightly as the commandments should be told that it is not."
+  },
+  {
+    "bomRef": "Mosiah 12:34",
+    "source": "Jeremiah 34:13",
+    "category": "better-source-identified",
+    "sharedText": "brought them forth out of the land of Egypt out of the house of",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "An eleven-word run, and it is superseded by a twenty-one-word one. Jeremiah 34:13 has 'in the day that I brought them forth out of the land of Egypt, out of the house of BONDMEN'; Mosiah 12:34 has 'which have brought THEE out of the land of Egypt, out of the house of BONDAGE', which is Exodus 20:2 word for word from first syllable to last. The last noun decides it, and so does the pronoun. Worth an entry because Jeremiah 34 is thematically apt — it is the oracle about Judah reneging on the release of slaves, and the whole Abinadi cycle is heading into bondage — so the temptation to accept it as a composite is real. Compare also Deuteronomy 5:6 at the same verse, and Deuteronomy 5:8 at 12:36: the Decalogue's second recension is a live candidate throughout the block and loses on wording at every point where the two recensions differ (see the links at 12:34-36)."
+  }
+]

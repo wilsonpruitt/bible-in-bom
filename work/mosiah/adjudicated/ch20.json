@@ -1,0 +1,413 @@
+{
+  "chapter": 20,
+  "adjudicated": "2026-09-07",
+  "adjudicator": "Opus",
+  "links": {
+    "20:1": [
+      {
+        "source": "Judges 21:21",
+        "type": "allusion",
+        "subtype": "structural",
+        "confidence": "high",
+        "text": "And see, and, behold, if the daughters of Shiloh come out to dance in dances, then come ye out of the vineyards, and catch you every man his wife of the daughters of Shiloh, and go to the land of Benjamin.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 2,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "uncertain",
+        "mediation": "direct-OT",
+        "composite": [
+          "Judges 21:20",
+          "Judges 21:22",
+          "Judges 21:23"
+        ],
+        "provenance": {
+          "route": "Judges 21:19-23 → KJV → Book of Mormon",
+          "other": "“daughters of Shiloh” occurs in exactly one KJV verse and “catch you every man his wife” occurs in exactly one KJV verse, both of them Judges 21:21. The infinitive “to dance” occurs in exactly two KJV verses, Judges 21:21 and Ecclesiastes 3:4; Mosiah 20 uses it three times in five verses. The individual words are ordinary English and no version comparison can be run on them, which is why kjvSpecific is left uncertain: what is borrowed here is a scene, not a sentence.",
+          "significance": "Judges 21:19-23 is the only account in the KJV of women seized while dancing at a festival, and Mosiah 20:1-5 reproduces it almost item for item: a known place where daughters gather to dance, men lying hidden nearby, a seizure, a carrying-off into their own country, and aggrieved kinsmen who have to be pacified rather than fought. What makes the borrowing more than furniture is the motive. In Judges the Benjamites take the daughters of Shiloh because an oath has left them without wives; in Mosiah the priests of Noah take the daughters of the Lamanites because they “durst not return to their wives and their children” (20:3). Both groups are men cut off from their own households who repair the loss by theft, and in both the theft is then managed diplomatically by a third party — Judges 21:22's “Be favourable unto them for our sakes” is what Gideon proposes at Mosiah 20:19-22. Recover the source's frame and the judgment on the episode comes with it: Judges 21 is the last chapter of a book that ends “there was no king in Israel: every man did that which was right in his own eyes”, and the men who do this in Mosiah are the priests of a king the record has already condemned."
+        },
+        "note": "The chapter opens by building the stage of Judges 21:19-23 and then walks the episode through it. Judges: the daughters of Shiloh come out to dance in dances, the men of Benjamin lie in wait, come out of the vineyards, catch every man his wife, and go to their inheritance; when the fathers complain, they are talked round. Mosiah: the daughters of the Lamanites gather to sing and to dance, the priests of Noah tarry in the wilderness and watch them, come forth out of their secret places, carry off twenty and four of them, and when the fathers come armed they are talked round. There is no reproduced clause — this is catalogued as an allusion on the scene and the sequence, not on a run of words — but the one distinctive verbal element, the infinitive “to dance” used absolutely of a festival, occurs in only two KJV verses and one of them is Judges 21:21. The verbal case is made separately at 20:5, where the wording of the ambush is taken verbatim from the chapter next door.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "20:5": [
+      {
+        "source": "Judges 20:33",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "And all the men of Israel rose up out of their place, and put themselves in array at Baaltamar: and the liers in wait of Israel came forth out of their places, even out of the meadows of Gibeah.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 4,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "recurrenceRefs": [
+          "Mosiah 20:1"
+        ],
+        "provenance": {
+          "route": "Judges 20:33 → KJV → Book of Mormon",
+          "other": "“came forth out of their places” occurs in exactly one KJV verse, Judges 20:33, and even the truncated “forth out of their” occurs in exactly one KJV verse, the same one. Mosiah 20:5 reads “they came forth out of their secret places”, which is that singleton with one adjective inserted.",
+          "significance": "The wording comes from the wrong side of the story, and that is the finding. Judges 20:33 is the ambush at Gibeah: the liers in wait of Israel come forth out of their places to destroy Benjamin for the outrage done to a woman. One chapter later the survivors of that destruction are told to lie in wait for the daughters of Shiloh, which is the scene Mosiah 20:1-5 is playing. So the chapter takes its plot from Judges 21 and its sentence from Judges 20, and in doing so gives the punishers' idiom to the men committing the offence. The priests of Noah come out of hiding in the words of the army that came out of hiding to avenge exactly this crime."
+        },
+        "note": "“They came forth out of their secret places, and took them and carried them into the wilderness.” The five-word frame is a KJV singleton belonging to the ambush of Judges 20:33, and the ambush there is the one that leads directly to Judges 21's seizure of the daughters of Shiloh — the scene this chapter is otherwise reproducing (see 20:1). Two verses of the same three-chapter block, used for two different things: the shape of the episode from one, the sentence from the other. “Secret places” is the addition, and it is not from Judges; it is the KJV's ordinary phrase for a hiding place, in nine verses.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "20:13": [
+      {
+        "source": "Luke 10:34",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "And went to him, and bound up his wounds, pouring in oil and wine, and set him on his own beast, and brought him to an inn, and took care of him.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 4,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Luke 10:30",
+          "Luke 10:33"
+        ],
+        "provenance": {
+          "route": "Luke 10:34 → KJV → Book of Mormon",
+          "other": "“bound up his wounds” occurs in exactly one KJV verse, Luke 10:34. The looser “bound up” is in eleven, and none of the other ten has a wounded man in it except Isaiah 1:6, where the wounds are precisely NOT bound up.",
+          "significance": "The parable of the good Samaritan is the KJV's one story about binding up the wounds of a man left lying by the way, and Mosiah 20:12-13 assembles its furniture before it uses its words: the king is “wounded and left upon the ground” by his own fleeing people, as the traveller is left half dead by the roadside and passed by; the people who stop are the enemy he came to destroy, as the one who stops is the Samaritan; and the first thing they do is bind up his wounds. Luke's question is “which now of these three, thinkest thou, was neighbour unto him that fell among the thieves?” Mosiah answers it twice and in both directions — here, and again at 20:26, where the Lamanites see Limhi's people unarmed and “had compassion on them”, which is Luke 10:33's clause about the Samaritan. What the parable does not supply is the sentence that follows: “and now let us slay him.” The men who have just performed the Samaritan's act propose the thieves'."
+        },
+        "note": "“And they took him and bound up his wounds, and brought him before Limhi.” Four words verbatim from a KJV singleton, and the singleton is the good Samaritan. The situation matches the parable at every point that matters — a wounded man abandoned where he fell, help from the party with the least obligation to give it — and the chapter returns to the same twelve verses of Luke at 20:26. Below Skousen's sixteen-word threshold and not among his quotations; catalogued as an allusion on the rarity of the phrase and the fit of the scene.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      },
+      {
+        "source": "Genesis 37:20",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "Come now therefore, and let us slay him, and cast him into some pit, and we will say, Some evil beast hath devoured him: and we shall see what will become of his dreams.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Genesis 37:21"
+        ],
+        "provenance": {
+          "route": "Genesis 37:20 → KJV → Book of Mormon",
+          "other": "“let us slay him” occurs in exactly one KJV verse, Genesis 37:20, and the answering “let us not kill him” occurs in exactly one KJV verse, Genesis 37:21. Mosiah reproduces the first outright and answers it with “Ye shall not slay him” at 20:14. tools/mediation-check.py against Acts 7:9, the New Testament's retelling of the episode, returns one decisive point for Genesis: Acts has none of the words, only the fact of the sale.",
+          "significance": "These are the two sentences that start the Joseph story, and they arrive here as a pair. The brothers say “let us slay him”; Reuben says “Let us not kill him”, and because he prevails Joseph goes into Egypt instead of into a pit — which is how Israel ends in bondage. Mosiah runs the same exchange: the soldiers say “now let us slay him”, the king says “Ye shall not slay him”, and because he prevails the Lamanite king lives to be pacified, his people are spared, and the people of Limhi accept servitude to them at 20:22 and are still in it two chapters later. In both texts the mercy is real and the mercy is what delivers the merciful into bondage."
+        },
+        "note": "“And now let us slay him” is a KJV singleton, and it belongs to Joseph's brothers at the pit; the refusal that follows it in Mosiah 20:14 answers the refusal that follows it in Genesis 37:21, itself a second singleton. The proposal and the veto are not a common pair of formulas — they are one scene in the KJV, and this chapter takes both halves of it in consecutive verses. The mediation test is worth running because Acts 7:9 retells the episode; it returns Genesis decisively, since Stephen keeps the event and none of the language.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "20:15": [
+      {
+        "source": "Genesis 31:26",
+        "type": "allusion",
+        "subtype": "probable",
+        "confidence": "moderate",
+        "text": "And Laban said to Jacob, What hast thou done, that thou hast stolen away unawares to me, and carried away my daughters, as captives taken with the sword?",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 2,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "uncertain",
+        "mediation": "direct-OT",
+        "composite": [
+          "Genesis 31:30",
+          "Genesis 31:32",
+          "Genesis 31:37"
+        ],
+        "provenance": {
+          "route": "Genesis 31:22-53 → KJV → Book of Mormon",
+          "other": "“carried away my daughters” occurs in exactly one KJV verse, Genesis 31:26, and “away my daughters” occurs in exactly one KJV verse, the same one. The Book of Mormon has “carry away the daughters of my people”, which shares the verb and the object but not the possessive, so no version comparison decides it and kjvSpecific stays uncertain.",
+          "significance": "Laban overtaking Jacob is the KJV's one story of a man who musters his kinsmen and pursues a people in anger because they “carried away my daughters”, and the four beats that follow it in Genesis 31 are the four beats that follow it here. The accused party, who genuinely knows nothing of a theft, pronounces death on whoever did it — “With whomsoever thou findest thy gods, let him not live” (31:32), against “whosoever hath done this thing shall perish” (Mosiah 20:16). A search is then made through the whole company (31:33-37, “thou hast searched all my stuff”; “Therefore he caused a search to be made among his people”). The search is fruitless in the sense that matters, because the guilty party is inside the household and not where anyone is looking — Rachel sitting on the images, the priests of Noah gone into the wilderness. And the episode ends not in battle but in an oath sworn between two peoples who then separate in peace (31:44-53; Mosiah 20:24-26). Genesis 31 is the frame of the second half of this chapter, and the accusation at 20:15 is where it is set."
+        },
+        "note": "“Thy people did carry away the daughters of my people; therefore in my anger I did cause my people to come up to war.” The verbal contact is the verb and its object — the KJV's one “carried away my daughters” is Laban's accusation to Jacob — and on that alone this would be an echo at best. It is catalogued at moderate because the accusation is followed here by the rest of Genesis 31 in order: the innocent ruler's death-sentence on an unknown thief, the search of the whole camp, the guilty party already outside it, and a reconciling oath between two peoples. A shared phrase can be coincidence; a shared phrase that brings its own next four scenes with it is harder to call one. See 20:16 for the verse where the wording of that sentence comes from elsewhere.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "20:16": [
+      {
+        "source": "2 Samuel 12:5",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "And David’s anger was greatly kindled against the man; and he said to Nathan, As the LORD liveth, the man that hath done this thing shall surely die:",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 5,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Genesis 21:26",
+          "Judges 6:29"
+        ],
+        "provenance": {
+          "route": "2 Samuel 12:5 → KJV → Book of Mormon",
+          "other": "“done this thing shall” occurs in exactly one KJV verse, 2 Samuel 12:5. The whole formula “hath done this thing” occurs in exactly three KJV verses — Genesis 21:26, Judges 6:29 and 2 Samuel 12:5 — and all three are operative across Mosiah 20:16-17.",
+          "significance": "Nathan's parable is the KJV's set piece of a ruler pronouncing sentence on an offender who turns out to belong to his own house, and the words Limhi uses are David's: “the man that hath done this thing shall surely die” against “whosoever hath done this thing shall perish”. Limhi is not the offender, but the offenders are his father's priests, ordained by the king whose throne he sits on and whose sins have already been prophesied against this people (20:21); the sentence he swears blind lands on his own inheritance exactly as David's does. The other two KJV verses with the phrase are doing work here too. Genesis 21:26 is Abimelech answering Abraham's complaint about a well his servants had violently taken away — “I wot not who hath done this thing; neither didst thou tell me, neither yet heard I of it” — which is Mosiah 20:16's opening clause, “Now Limhi had heard nothing concerning this matter”, and that episode ends where this one ends, in an oath sworn between two rulers who part in peace. Judges 6:29 is the search after an outrage done in the night: “Who hath done this thing? And when they enquired and asked, they said, Gideon the son of Joash hath done this thing” — and the next verse of Mosiah is Gideon stepping forward, followed by a plea that the accused not be put to death, which is Joash's speech at Judges 6:31."
+        },
+        "note": "“Whosoever hath done this thing shall perish. Therefore he caused a search to be made among his people.” The four-word run is a KJV singleton and it is Nathan's parable: a ruler swearing death on an unknown offender who proves to be of his own house. The formula's two other KJV homes are both audible in the same breath — Abimelech's “I wot not who hath done this thing … neither yet heard I of it” behind “Limhi had heard nothing concerning this matter”, and the search of Judges 6:29 whose answer is the name Gideon, which is the next word of Mosiah 20:17. Three of the KJV's three occurrences of a phrase, converging on two consecutive verses, is not a thing a writer does by accident with one of them.",
+        "whyNot": "The Judges 6:29 strand is the weakest of the three and should be read as resonance rather than as evidence. Gideon is not introduced here: he is already the king's captain in the narrative from Mosiah 19:4, so his name arriving after a search is asked about is at least partly the accident of a character who was going to speak anyway. The 2 Samuel 12:5 and Genesis 21:26 contacts stand on their own wording and carry the link.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "20:17": [
+      {
+        "source": "Acts 7:60",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "And he kneeled down, and cried with a loud voice, Lord, lay not this sin to their charge. And when he had said this, he fell asleep.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 4,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "2 Timothy 4:16"
+        ],
+        "provenance": {
+          "route": "Acts 7:60 → KJV → Book of Mormon",
+          "other": "“lay not this” occurs in exactly one KJV verse, Acts 7:60, and “to their charge” occurs in exactly three — 2 Chronicles 8:14 (of Levites and their duties), Acts 7:60, and 2 Timothy 4:16. Mosiah 20:17 reads “lay not this thing to their charge” against Acts's “lay not this sin to their charge”: a six-word frame with a single substitution, and the substituted word is the one the situation requires, since Gideon's whole point is that no sin was committed by these people.",
+          "significance": "The sentence is Stephen's dying prayer for the men stoning him, and its transfer here reverses who is protected. In Acts the speaker is the victim and the people he shields are guilty; in Mosiah the speaker is an officer of the state and the people he shields are innocent — the crime was committed by the priests of the previous king, who are in the wilderness and out of reach. What survives the reversal is the posture: someone interposing himself between a punishing power and a group about to be charged. Two further things come with the source. The prayer closes a speech (Acts 7:2-53) that is a recital of Israel's history from Abraham through the exodus, and Limhi's people are about to walk that history themselves in Mosiah 22; and the other KJV verse with the phrase, 2 Timothy 4:16, joins it to a petition — “I pray God that it may not be laid to their charge” — which is the form Mosiah has, since Gideon's clause is governed by “I pray thee forbear”."
+        },
+        "note": "“I pray thee forbear, and do not search this people, and lay not this thing to their charge.” Six words of Acts 7:60 with “sin” changed to “thing”, and “lay not this” is a KJV singleton. The petition frame — an entreaty governing the clause — belongs to the phrase's only other New Testament home, 2 Timothy 4:16. The borrowing is a genuine reversal of function: Stephen asks that the guilty not be charged, Gideon that the innocent not be, and the same six words serve both.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      },
+      {
+        "source": "Daniel 2:15",
+        "type": "echo",
+        "subtype": "possible",
+        "confidence": "moderate",
+        "text": "He answered and said to Arioch the king’s captain, Why is the decree so hasty from the king? Then Arioch made the thing known to Daniel.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 2,
+          "sequence": 3,
+          "context": 4,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "uncertain",
+        "mediation": "direct-OT",
+        "provenance": {
+          "route": "Daniel 2:14-16 → KJV → Book of Mormon",
+          "other": "“the king's captain” occurs in exactly two KJV verses, 2 Chronicles 26:11, where it is an administrative title in a muster list, and Daniel 2:15, where it names Arioch. Only the Daniel verse puts the title in a scene.",
+          "significance": "Arioch the king's captain is carrying out a decree that a whole class of men be put to death; Daniel intercepts him, asks “Why is the decree so hasty from the king?”, and goes in to the king to have the decree stayed. Mosiah 20:16-17 has the same three elements — a hasty royal sentence on an undetermined body of people, an interception, and a petition to the king that stops it — with the roles compressed: Gideon is both the king's captain and the Daniel who intervenes. The compression is what makes this an echo rather than an allusion; if the borrowing is real, the writer has given one man both parts."
+        },
+        "note": "Gideon is introduced in this verse as “the king's captain”, a title the KJV uses twice, and the occurrence that is not a muster-list entry is Arioch in Daniel 2:15 — an officer standing between a king's death decree and the men it would kill, whose scene is stopped by a petition for time. That is the shape of Mosiah 20:16-17. Recorded at moderate because the fit is situational and the title is ordinary English.",
+        "whyNot": "“The king's captain” is a plain designation, not a distinctive phrase, and its other KJV occurrence shows it is not proprietary to Daniel. Nothing else of Daniel 2 — the dream, the wise men, the request for time — appears anywhere in Mosiah 20, and the intervening speech at 20:17-22 takes its actual language from Acts 7:60 and Exodus 14:12. If the echo is declined, nothing else in the chapter changes.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "20:19": [
+      {
+        "source": "Ezekiel 16:63",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "That thou mayest remember, and be confounded, and never open thy mouth any more because of thy shame, when I am pacified toward thee for all that thou hast done, saith the Lord GOD.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Ezekiel 16:59"
+        ],
+        "recurrenceRefs": [
+          "Mosiah 20:20",
+          "Mosiah 20:24",
+          "Mosiah 20:26"
+        ],
+        "provenance": {
+          "route": "Ezekiel 16:59-63 → KJV → Book of Mormon",
+          "other": "“pacified” occurs in exactly two KJV verses, Esther 7:10 (“then was the king's wrath pacified”, intransitive, with no object of reconciliation) and Ezekiel 16:63. “Pacified toward” occurs in exactly one KJV verse, Ezekiel 16:63. The 1830 text reads “pacified towards” in all four occurrences, and “towards” with the -s is in no KJV verse at all — a nineteenth-century spelling laid over a seventeenth-century construction, which is worth recording because it shows the borrowing being naturalised rather than copied.",
+          "significance": "Ezekiel 16 ends with the two ideas that are this chapter's entire diplomatic problem, four verses apart. At 16:59 Jerusalem is the party “which hast despised the oath in breaking the covenant”; at 16:63 she is told that God will nevertheless be “pacified toward thee for all that thou hast done”. Mosiah 20 turns on a broken oath — the king says at 20:15 “I have broken the oath” — and then on getting a king pacified toward a people who did not break it. Recovering the source redistributes the parts strangely and productively: in Ezekiel the offended party who must be pacified is God and the oath-breaker is his bride, while here the party who must be pacified is himself the one who admits to breaking the oath. And what pacifies him is not a covenant remembered but a people walking out to meet him with no weapons in their hands."
+        },
+        "note": "“That they may be pacified towards us”, and again at 20:20, 20:24 and 20:26 — four times in eight verses, of a verb the KJV uses twice in the whole Bible. Only one of the two, Ezekiel 16:63, takes a person as the object of reconciliation, and “pacified toward” is a KJV singleton there. The chapter has already used the other half of Ezekiel's ending: the oath despised in breaking the covenant at 16:59 is what Mosiah 20:14-15 is arguing about. A rare verb, its rare preposition, and its neighbouring verse's subject all landing in one episode is the kind of contact that does not need a long run of words to be real.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "20:21": [
+      {
+        "source": "Daniel 9:13",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "As it is written in the law of Moses, all this evil is come upon us: yet made we not our prayer before the LORD our God, that we might turn from our iniquities, and understand thy truth.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Daniel 9:12"
+        ],
+        "provenance": {
+          "route": "Daniel 9:11-13 → KJV → Book of Mormon",
+          "other": "“turn from our iniquities” occurs in exactly one KJV verse, Daniel 9:13, and so does “all this evil is come upon us”, in the same verse. “Which he spake against us” occurs in exactly one KJV verse, Daniel 9:12, the verse immediately before it.",
+          "significance": "Daniel 9 is the KJV's model penitential confession, and its logic is precisely the logic of Mosiah 20:21: a prophet's word was spoken against this people, it has now been fulfilled, and it was fulfilled because they would not obey. Daniel 9:12-13 supplies both halves — “he hath confirmed his words, which he spake against us … all this evil is come upon us: yet made we not our prayer before the LORD our God, that we might turn from our iniquities” — and Mosiah compresses them into one rhetorical question. What the substitution does is the interesting part. Daniel's authority is Moses: “as it is written in the law of Moses.” Mosiah's is Abinadi, a prophet burned by this people's own king two chapters earlier. Putting Abinadi where Daniel puts the law of Moses is a large claim made silently, and it is made in Daniel's words."
+        },
+        "note": "“Are not the words of Abinadi fulfilled, which he prophesied against us? and all this because we would not hearken unto the word of the Lord, and turn from our iniquities?” Two KJV singletons from consecutive verses of Daniel 9: “which he spake against us” at 9:12, and “turn from our iniquities” at 9:13, where it is likewise governed by “all this”. The confession is Daniel's, and the substitution — Abinadi standing where Daniel has the law of Moses — is what the borrowing is for.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "20:22": [
+      {
+        "source": "Exodus 14:12",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "Is not this the word that we did tell thee in Egypt, saying, Let us alone, that we may serve the Egyptians? For it had been better for us to serve the Egyptians, than that we should die in the wilderness.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "provenance": {
+          "route": "Exodus 14:12 → KJV → Book of Mormon",
+          "other": "“than that we should” occurs in exactly one KJV verse, Exodus 14:12. The framing “it is better that” occurs in exactly two, Genesis 29:19 and 2 Samuel 18:3, of which only Genesis 29:19 has the comparative pair — and it compares two suitors, not two fates; the sense that decides the source is Exodus's, servitude weighed against death.",
+          "significance": "This is the most consequential sentence in the chapter, and it is Israel at the Red Sea. Exodus 14:12 is the murmur — “it had been better for us to serve the Egyptians, than that we should die in the wilderness” — that Moses answers with “Fear ye not, stand still, and see the salvation of the LORD.” In Mosiah the same calculus is offered as counsel, it is taken, and it works: the people of Limhi choose bondage over death, and it saves their lives. What the borrowing does is put a time bomb in the chapter. The murmur that scripture records in order to rebuke it becomes here a policy, and the policy holds for exactly two chapters — Mosiah 21 is the account of what that bondage costs, and Mosiah 22 is the people getting out of it by night, into the wilderness, past sleeping guards, in the shape of the very deliverance Exodus 14:12 was refusing to wait for. The Book of Mormon does not comment on this. It only quotes the murmur and then narrates the exodus."
+        },
+        "note": "“It is better that we should be in bondage, than that we should lose our lives.” “Than that we should” is a KJV singleton, and the verse it belongs to states the same trade in the same order: better to serve than to die. Exodus 14:12 is the murmuring of Israel at the sea, spoken by people who would rather be Egypt's slaves than risk the wilderness, and it is answered in Exodus by the parting of the water. Here it is answered by two chapters of Lamanite taskmasters and then by a night escape. The link is what makes Mosiah 20:22 legible as a decision rather than a piece of prudence.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "20:26": [
+      {
+        "source": "Luke 10:33",
+        "type": "allusion",
+        "subtype": "probable",
+        "confidence": "moderate",
+        "text": "But a certain Samaritan, as he journeyed, came where he was: and when he saw him, he had compassion on him,",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 2,
+          "attestation": 0
+        },
+        "kjvSpecific": "uncertain",
+        "mediation": "direct-NT",
+        "recurrenceRefs": [
+          "Mosiah 20:13"
+        ],
+        "provenance": {
+          "route": "Luke 10:33 → KJV → Book of Mormon",
+          "other": "“had compassion on” occurs in eight KJV verses and is one of the commonest formulas of pity in the book, so the phrase identifies nothing by itself. The specific string “had compassion on them” is in two verses, 1 Kings 8:50 and Jeremiah 12:15, and neither has a wounded man or a stranger in it.",
+          "significance": "The chapter's Samaritan borrowing closes here, and it closes with the roles exchanged. At 20:13 the people of Limhi bound up the wounds of the king who had come to destroy them, which is Luke 10:34; at 20:26 the Lamanites see those people standing in front of them without weapons and “had compassion on them”, which is Luke 10:33 of the Samaritan. Each side of the war has now played the parable's one good character, and each has played it toward the party that had every reason to be its victim. The parable's own question — who proved neighbour — is answered in Mosiah by both armies at once, and the answer is what ends the battle."
+        },
+        "note": "“They had compassion on them, and were pacified towards them, and returned with their king in peace.” On its own this clause would identify no source: “had compassion on” is in eight KJV verses. It is catalogued because the same chapter has already reproduced a Luke 10 singleton at 20:13, and this is the parable's other half, in its own words, applied to the other side. A borrowing that comes back for the neighbouring verse is a different thing from a formula that happens to recur.",
+        "whyNot": "The verbal evidence here is thin to the point of being unusable in isolation, and a reader who declines the Luke 10:34 link at 20:13 should decline this one with it. The chain runs the wrong way — the strength of this row is entirely borrowed from another row — and “had compassion” is exactly the sort of KJV commonplace CONVENTIONS §5 keeps out of the catalogue when it stands alone.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      }
+    ]
+  }
+}

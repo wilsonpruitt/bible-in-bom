@@ -1,6 +1,6 @@
 # Mosiah 2 — adjudication dossier
 
-Running text: 1830 first edition (modern versification). 41 verses. 381 machine candidates for this chapter; the top 24 by n-gram rarity are shown below, grouped by verse.
+Running text: 1830 first edition (modern versification). 41 verses. 381 machine candidates for this chapter; the top 50 by n-gram rarity are shown below, grouped by verse.
 
 Substantive 1830-vs-1920 differences are flagged per verse. Note that KJV
 spellings (*shew*, *marvellous*) surviving in 1830 and modernized later are
@@ -17,6 +17,12 @@ And it came to pass that after Mosiah had done as his father had commanded him, 
 - **Nehemiah 9:24** — rarity 1.50, longest run 5
   > So the children went in and possessed the land, and thou subduedst before them the inhabitants of the land, the Canaanites, and gavest them into their hands, with their kings, and the people of the land, that they might do with them as they would.
   shared: *land that they might*; *the land that they*
+- **Zechariah 7:7** — rarity 1.00, longest run 4
+  > Should ye not hear the words which the LORD hath cried by the former prophets, when Jerusalem was inhabited and in prosperity, and the cities thereof round about her, when men inhabited the south and the plain?
+  shared: *hear the words which*
+- **Deuteronomy 11:25** — rarity 1.00, longest run 4
+  > There shall no man be able to stand before you: for the LORD your God shall lay the fear of you and the dread of you upon all the land that ye shall tread upon, as he hath said unto you.
+  shared: *all the land that*
 
 ### 2:2
 
@@ -44,6 +50,21 @@ and also, that they might give thanks to the Lord their God, who had brought the
 - **Deuteronomy 10:13** — rarity 1.12, longest run 5
   > To keep the commandments of the LORD, and his statutes, which I command thee this day for thy good?
   shared: *keep the commandments of*; *to keep the commandments*
+- **Leviticus 26:6** — rarity 1.01, longest run 4
+  > And I will give peace in the land, and ye shall lie down, and none shall make you afraid: and I will rid evil beasts out of the land, neither shall the sword go through your land.
+  shared: *out of the land*; *peace in the land*
+- **1 Chronicles 16:41** — rarity 1.00, longest run 5
+  > And with them Heman and Jeduthun, and the rest that were chosen, who were expressed by name, to give thanks to the LORD, because his mercy endureth for ever;
+  shared: *give thanks to the*; *thanks to the lord*
+- **Psalm 136:3** — rarity 1.00, longest run 5
+  > O give thanks to the Lord of lords: for his mercy endureth for ever.
+  shared: *give thanks to the*; *thanks to the lord*
+- **Acts 13:22** — rarity 1.00, longest run 4
+  > And when he had removed him, he raised up unto them David to be their king; to whom also he gave their testimony, and said, I have found David the son of Jesse, a man after mine own heart, which shall fulfil all my will.
+  shared: *to be their king*
+- **Acts 15:5** — rarity 1.00, longest run 4
+  > But there rose up certain of the sect of the Pharisees which believed, saying, That it was needful to circumcise them, and to command them to keep the law of Moses.
+  shared: *them to keep the*
 
 ### 2:5
 
@@ -110,6 +131,9 @@ neither have I suffered that ye should be confined in dungeons, nor that ye shou
 - **Deuteronomy 6:17** — rarity 1.21, longest run 6
   > Ye shall diligently keep the commandments of the LORD your God, and his testimonies, and his statutes, which he hath commanded thee.
   shared: *commandments of the lord*; *keep the commandments of*; *the commandments of the*; *which he hath commanded*
+- **Leviticus 23:3** — rarity 1.03, longest run 5
+  > Six days shall work be done: but the seventh day is the sabbath of rest, an holy convocation; ye shall do no work therein: it is the sabbath of the LORD in all your dwellings.
+  shared: *of the lord in*; *the lord in all*
 
 ### 2:14
 
@@ -131,6 +155,9 @@ Behold, I say unto you, that because I said unto you that I had spent my days in
 - **John 6:36** — rarity 1.12, longest run 5
   > But I said unto you, That ye also have seen me, and believe not.
   shared: *i said unto you*; *said unto you that*
+- **John 4:35** — rarity 1.01, longest run 5
+  > Say not ye, There are yet four months, and then cometh harvest? behold, I say unto you, Lift up your eyes, and look on the fields; for they are white already to harvest.
+  shared: *behold i say unto*; *i say unto you*
 
 ### 2:17
 
@@ -166,6 +193,9 @@ I say unto you, my brethren, that if you should render all the thanks and praise
 - *variant* 1830 `hath` → 1920 `has`
 - *variant* 1830 `hath` → 1920 `has`
 
+- **Luke 12:4** — rarity 1.01, longest run 5
+  > And I say unto you my friends, Be not afraid of them that kill the body, and after that have no more that they can do.
+  shared: *i say unto you*; *say unto you my*
 
 ### 2:21
 
@@ -179,6 +209,15 @@ I say unto you, that if ye should serve him who hath created you from the beginn
 - **Galatians 5:2** — rarity 1.53, longest run 6
   > Behold, I Paul say unto you, that if ye be circumcised, Christ shall profit you nothing.
   shared: *say unto you that*; *unto you that if*; *you that if ye*
+- **Deuteronomy 11:13** — rarity 1.00, longest run 5
+  > And it shall come to pass, if ye shall hearken diligently unto my commandments which I command you this day, to love the LORD your God, and to serve him with all your heart and with all your soul,
+  shared: *him with all your*; *serve him with all*
+- **Joshua 22:5** — rarity 1.00, longest run 5
+  > But take diligent heed to do the commandment and the law, which Moses the servant of the LORD charged you, to love the LORD your God, and to walk in all his ways, and to keep his commandments, and to cleave unto him, and to serve him with all your heart and with all your soul.
+  shared: *him with all your*; *serve him with all*
+- **Acts 17:28** — rarity 1.00, longest run 4
+  > For in him we live, and move, and have our being; as certain also of your own poets have said, For we are also his offspring.
+  shared: *live and move and*
 
 ### 2:22
 
@@ -300,6 +339,24 @@ And now, I say unto you, my brethren, that after ye have known and have been tau
 - **Deuteronomy 6:18** — rarity 1.27, longest run 6
   > And thou shalt do that which is right and good in the sight of the LORD: that it may be well with thee, and that thou mayest go in and possess the good land which the LORD sware unto thy fathers.
   shared: *lord that it may*; *of the lord that*; *the lord that it*
+- **Luke 12:4** — rarity 1.01, longest run 5
+  > And I say unto you my friends, Be not afraid of them that kill the body, and after that have no more that they can do.
+  shared: *i say unto you*; *say unto you my*
+- **Judges 11:36** — rarity 1.00, longest run 4
+  > And she said unto him, My father, if thou hast opened thy mouth unto the LORD, do to me according to that which hath proceeded out of thy mouth; forasmuch as the LORD hath taken vengeance for thee of thine enemies, even of the children of Ammon.
+  shared: *to that which hath*
+- **Hebrews 10:36** — rarity 1.00, longest run 4
+  > For ye have need of patience, that, after ye have done the will of God, ye might receive the promise.
+  shared: *that after ye have*
+- **John 8:37** — rarity 1.00, longest run 4
+  > I know that ye are Abraham’s seed; but ye seek to kill me, because my word hath no place in you.
+  shared: *no place in you*
+- **Romans 15:14** — rarity 1.00, longest run 4
+  > And I myself also am persuaded of you, my brethren, that ye also are full of goodness, filled with all knowledge, able also to admonish one another.
+  shared: *you my brethren that*
+- **Ephesians 4:21** — rarity 1.00, longest run 4
+  > If so be that ye have heard him, and have been taught by him, as the truth is in Jesus:
+  shared: *and have been taught*
 
 ### 2:37
 
@@ -310,6 +367,18 @@ I say unto you, that the man that doeth this, the same cometh out in open rebell
 - **Malachi 2:12** — rarity 1.83, longest run 6
   > The LORD will cut off the man that doeth this, the master and the scholar, out of the tabernacles of Jacob, and him that offereth an offering unto the LORD of hosts.
   shared: *man that doeth this*; *that doeth this the*; *the man that doeth*
+- **1 Samuel 28:20** — rarity 1.00, longest run 4
+  > Then Saul fell straightway all along on the earth, and was sore afraid, because of the words of Samuel: and there was no strength in him; for he had eaten no bread all the day, nor all the night.
+  shared: *in him for he*
+- **John 8:37** — rarity 1.00, longest run 4
+  > I know that ye are Abraham’s seed; but ye seek to kill me, because my word hath no place in you.
+  shared: *hath no place in*
+- **John 14:17** — rarity 1.00, longest run 4
+  > Even the Spirit of truth; whom the world cannot receive, because it seeth him not, neither knoweth him: but ye know him; for he dwelleth with you, and shall be in you.
+  shared: *him for he dwelleth*
+- **Deuteronomy 28:54** — rarity 1.00, longest run 4
+  > So that the man that is tender among you, and very delicate, his eye shall be evil toward his brother, and toward the wife of his bosom, and toward the remnant of his children which he shall leave:
+  shared: *that the man that*
 
 ### 2:38
 
@@ -350,4 +419,13 @@ and moreover, I would desire that ye should consider on the blessed and happy st
 - **Amos 3:8** — rarity 1.20, longest run 5
   > The lion hath roared, who will not fear? the Lord GOD hath spoken, who can but prophesy?
   shared: *lord god hath spoken*; *the lord god hath*
+- **Acts 7:19** — rarity 1.00, longest run 4
+  > The same dealt subtilly with our kindred, and evil entreated our fathers, so that they cast out their young children, to the end they might not live.
+  shared: *to the end they*
+- **Song of Solomon 8:12** — rarity 1.00, longest run 4
+  > My vineyard, which is mine, is before me: thou, O Solomon, must have a thousand, and those that keep the fruit thereof two hundred.
+  shared: *those that keep the*
+- **Psalm 101:6** — rarity 1.00, longest run 4
+  > Mine eyes shall be upon the faithful of the land, that they may dwell with me: he that walketh in a perfect way, he shall serve me.
+  shared: *they may dwell with*
 

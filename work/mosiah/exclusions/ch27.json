@@ -1,0 +1,74 @@
+[
+  {
+    "bomRef": "Mosiah 27:6",
+    "source": "Joshua 11:3",
+    "category": "formulaic",
+    "sharedText": "on the east and on the west",
+    "streams": ["machine-ngram"],
+    "reason": "The chapter's top-ranked candidate, on a seven-word run that is nothing but a compass. Joshua 11:3 is a list of Canaanite peoples; Mosiah 27:6 is a note about population spreading. The KJV has no other way to say the four directions, and neither does the Book of Mormon."
+  },
+  {
+    "bomRef": "Mosiah 27:11",
+    "source": "Isaiah 5:18",
+    "category": "formulaic",
+    "sharedText": "as it were with a",
+    "streams": ["machine-ngram"],
+    "reason": "Five words of hedging connective — Mosiah 27:11 uses 'as it were' twice in one verse to qualify the cloud and the voice of thunder. Isaiah 5:18's cart rope has no other contact."
+  },
+  {
+    "bomRef": "Mosiah 27:14",
+    "source": "Luke 20:20",
+    "category": "wrong-sense",
+    "sharedText": "the power and authority of",
+    "streams": ["machine-ngram"],
+    "reason": "'Power and authority' occurs in exactly two KJV verses and the ranked one is the wrong one. Luke 20:20's power and authority belongs to the Roman governor, to whom the spies hope to deliver Jesus; Mosiah 27:14's belongs to God, of which the angel has come to convince Alma. Luke 9:1, the other occurrence, is the better sense-match — Christ giving the twelve power and authority over devils, which suits a chapter about an angel's demonstration against 'the enemy of God' (27:9) — but two ordinary nouns joined by 'and' will not carry a link at any confidence, and neither Lukan verse shares anything else with Mosiah 27:14."
+  },
+  {
+    "bomRef": "Mosiah 27:14",
+    "source": "2 Timothy 3:7",
+    "category": "better-source-identified",
+    "sharedText": "the knowledge of the truth",
+    "streams": ["machine-ngram"],
+    "reason": "Ranked at both 27:14 and 27:36 on a six-word run, and it is the wrong one of the phrase's three KJV homes. 2 Timothy 3:7 describes women 'ever learning, and never able to come to the knowledge of the truth' — people who do not arrive. Mosiah 27:14 is about a man being brought there in answer to prayer, which is 1 Timothy 2:4's sense exactly, and 1 Timothy 2:1-4 is besides the KJV's defence of the intercessory prayer the angel has come to vindicate. The link is filed at 27:14 against 1 Timothy 2:4."
+  },
+  {
+    "bomRef": "Mosiah 27:16",
+    "source": "Mark 5:19",
+    "category": "better-source-identified",
+    "sharedText": "how great things ... hath done for",
+    "streams": ["manual"],
+    "reason": "A serious competitor and the one a reader of this catalogue would expect, because the same idiom was adjudicated to Mark 5:19 at 1 Nephi 7:11, where the 1830 'how great things the Lord hath done for us' is Mark verbatim and 1920's 'what' is in no KJV verse. Here it loses on the run itself. Mosiah 27:16 reads 'remember how great things he hath done for them', and 'how great things he hath done for' occurs in exactly one KJV verse — 1 Samuel 12:24 — which matches all seven words, while Mark 5:19 has 'the Lord' inside the run. 1 Samuel 12 also supplies the content Mosiah 27:16 supplies, a recital of deliverance from bondage. Recorded as an alternative on the accepted link rather than discarded, because the 1 Nephi precedent makes it a live reading."
+  },
+  {
+    "bomRef": "Mosiah 27:23",
+    "source": "Luke 7:15",
+    "category": "insufficient-verbal",
+    "sharedText": "and began to speak",
+    "streams": ["machine-ngram"],
+    "reason": "Tempting for its situation rather than its words: Luke 7:15 is the widow of Nain's son, who 'was dead' and 'sat up, and began to speak', and Mosiah 27:23 has a man who has lain two days and two nights unable to move or open his mouth, who 'stood up and began to speak unto them'. A raising is genuinely what the scene depicts and the chapter says so at 27:19-20. But 'began to speak' occurs in six KJV verses and carries no mark of any of them, and the specific verb Mosiah uses for rising is not Luke's. The Acts 13:3 link filed at this verse rests on a phrase with two occurrences and a matching narrative position; this one has neither."
+  },
+  {
+    "bomRef": "Mosiah 27:29",
+    "source": "Ephesians 2:12",
+    "category": "better-source-identified",
+    "sharedText": "without God in the world",
+    "streams": ["machine-ngram"],
+    "reason": "Correctly identified by the machine but keyed near the wrong verse in the ranked list. 'Without God in the world' occurs in exactly one KJV verse and the Book of Mormon has it at 27:31, not 27:29, where the link is filed."
+  },
+  {
+    "bomRef": "Mosiah 27:32",
+    "source": "Acts 15:35",
+    "category": "formulaic",
+    "sharedText": "teaching and preaching the word of the Lord",
+    "streams": ["machine-ngram"],
+    "reason": "The KJV's standard summary of missionary activity, and the Book of Mormon's. Also proposed at Mosiah 26:38 from Acts 13:5 and 18:11 on the same run; all are the same non-finding, and no content distinguishes Acts 15:35 from the others."
+  },
+  {
+    "bomRef": "Mosiah 27:36",
+    "source": "2 Timothy 3:7",
+    "category": "better-source-identified",
+    "sharedText": "the knowledge of the truth",
+    "streams": ["machine-ngram"],
+    "reason": "The second appearance of the phrase in this chapter and the same mis-ranking; see the entry at 27:14. Within this book the phrase is adjudicated once, at 27:14, and 27:36 is recorded there in recurrenceRefs."
+  }
+]

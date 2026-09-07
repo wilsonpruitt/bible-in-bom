@@ -1,0 +1,90 @@
+[
+  {
+    "bomRef": "Mosiah 4:1",
+    "source": "2 Chronicles 20:24",
+    "category": "wrong-sense",
+    "sharedText": "the multitude, and behold ... fallen to the earth",
+    "streams": ["machine-ngram"],
+    "reason": "The machine's best-scoring candidate in the chapter and a real temptation: 2 Chronicles 20:24 has a leader looking toward a multitude, and bodies fallen to the earth, in one sentence, and the 1830 text's 'they had fell to the earth' makes the run longer than the modern text does. It is declined on sense, and the sense could hardly be more opposed. Jehoshaphat's watchman looks out on the corpses of an annihilated invading army — 'they were dead bodies fallen to the earth, and none escaped'. Benjamin looks out on his own people prostrate in the fear of the Lord and about to be forgiven. One verse is a battlefield after a massacre and the other is a congregation at the moment of conversion, and the only thing they share is the posture of bodies on the ground. This is the register's standard case and it is filed at length because the n-gram score would otherwise have carried it: a rare five-word run means nothing when the two contexts are enemies."
+  },
+  {
+    "bomRef": "Mosiah 4:6",
+    "source": "Ephesians 1:4",
+    "category": "better-source-identified",
+    "sharedText": "the foundation of the world",
+    "streams": ["machine-ngram"],
+    "reason": "Ephesians 1:4 is a reasonable proposal — election before the foundation of the world is the doctrinal neighbourhood Mosiah 4:6 is standing in. It is superseded. 'Foundation of the world' occurs in six KJV verses and the discriminating word here is not 'foundation' but 'prepared', which appears with the phrase in exactly one verse, Matthew 25:34. Ephesians 1:4 reads 'chosen us in him before the foundation of the world', not prepared from it, and the preposition matters. The link is written at Mosiah 4:6 to Matthew 25:34, which is also the pericope this sermon returns to at 4:26 and 5:9-10."
+  },
+  {
+    "bomRef": "Mosiah 4:9",
+    "source": "Deuteronomy 8:3",
+    "category": "wrong-sense",
+    "sharedText": "that man doth not",
+    "streams": ["machine-ngram"],
+    "reason": "A four-word run whose fifth word decides everything, which is the trap the pilot named at 2 Timothy 2:4. Deuteronomy 8:3 continues 'that man doth not live by bread only, but by every word that proceedeth out of the mouth of the LORD' — a statement that revelation sustains life. Mosiah 4:9 continues 'that man doth not comprehend all the things which the Lord can comprehend' — a statement that revelation exceeds understanding. The two clauses share a subject and a negation and nothing else, and the verse's real borrowing is four words earlier, at Hebrews 11:6's 'believe that he is'."
+  },
+  {
+    "bomRef": "Mosiah 4:11",
+    "source": "Hebrews 6:4",
+    "category": "wrong-sense",
+    "sharedText": "and have tasted of",
+    "streams": ["machine-ngram"],
+    "reason": "Genuinely tempting, and registered for that reason. 'Have tasted of the' occurs in exactly one KJV verse, Hebrews 6:4, and Mosiah 4:11's 'have tasted of his love' sits inside a list of the same kind of past graces Hebrews is enumerating: enlightenment, the heavenly gift, partaking of the Holy Ghost. The two passages then go in opposite directions and the opposition is the point of each. Hebrews 6:4-6 is the KJV's hardest saying about apostasy — those who have tasted and fallen away cannot be renewed to repentance. Mosiah 4:11-12 is a promise that those who have tasted and remember will 'always retain a remission of your sins'. Benjamin's whole paragraph is about retaining what Hebrews says cannot be recovered, and to catalogue a borrowing here would be to make the Book of Mormon quote the one verse its argument contradicts. A shared idiom for religious experience is not a source."
+  },
+  {
+    "bomRef": "Mosiah 4:19",
+    "source": "2 Chronicles 32:27",
+    "category": "wrong-sense",
+    "sharedText": "for silver, and for gold, and for all",
+    "streams": ["machine-ngram"],
+    "reason": "'For silver and for gold' is a KJV singleton, at 2 Chronicles 32:27, and the run continues into Mosiah's 'and for all the riches', so on rarity alone this is one of the better machine proposals in the chapter. It is declined because the two lists do the opposite work. Hezekiah's is an inventory of a king's treasuries, offered as evidence that God had prospered him. Benjamin's is a list of things nobody in the room owns — 'Do we not all depend upon the same being, even God, for all the substance which we have' — offered as evidence that every hearer is a beggar. The KJV's enumerative 'for X, and for Y' is a general accounting idiom, and where it appears in a sentence denying ownership it cannot be pointing at the sentence that asserts it."
+  },
+  {
+    "bomRef": "Mosiah 4:19",
+    "source": "Genesis 31:16",
+    "category": "common-vocabulary",
+    "sharedText": "all the riches which",
+    "streams": ["machine-ngram"],
+    "reason": "Genesis 31:16 is Rachel and Leah agreeing that Laban's wealth has passed to them. The shared four words are a relative clause with no content term in common beyond 'riches', and the Book of Mormon's clause ends 'which we have of every kind' where Genesis's ends 'which God hath taken from our father'. Registered rather than passed over only because the score put it in the top fifty."
+  },
+  {
+    "bomRef": "Mosiah 4:26",
+    "source": "Isaiah 58:7",
+    "category": "better-source-identified",
+    "sharedText": "the hungry ... the naked ... the poor",
+    "streams": ["manual"],
+    "reason": "Isaiah 58:6-7 is the Old Testament's own catalogue of the works of mercy and the obvious candidate for a Hebrew-Bible-era sermon on almsgiving; a reader who expects the Book of Mormon's chronology to hold would put the link here. The mediation test declines it. Isaiah 58:7 has bread for the hungry, the poor brought home, and the naked covered; it has no sick person and nobody visits anyone. Mosiah 4:26 has 'visiting the sick', which enters the KJV only at Matthew 25:36, and it clothes the naked rather than covering him, which is Matthew's verb and not Isaiah's. The link is written at Mosiah 4:26 to Matthew 25:35-36. Isaiah 58 remains the background of the whole paragraph and is named here so a reader is sent to it."
+  },
+  {
+    "bomRef": "Mosiah 4:27",
+    "source": "Mark 4:11",
+    "category": "better-source-identified",
+    "sharedText": "all these things are done in",
+    "streams": ["machine-ngram"],
+    "reason": "The chapter's longest n-gram run against any single verse, and worthless, which is the pilot's finding about the stream restated. Mark 4:11 ends 'all these things are done in parables'; Mosiah 4:27 ends 'are done in wisdom and order'. The words that carry the Book of Mormon's sentence are 'in order', and the KJV instructs that things be done in order in exactly one verse, 1 Corinthians 14:40, where the phrase is 'decently and in order'. The link is written there. Read the candidate's whole verse before trusting its run length."
+  },
+  {
+    "bomRef": "Mosiah 4:12",
+    "source": "Colossians 3:10",
+    "category": "common-vocabulary",
+    "sharedText": "of him that created",
+    "streams": ["machine-ngram"],
+    "reason": "Colossians 3:10's 'renewed in knowledge after the image of him that created him' shares both a creation formula and the word 'knowledge' with Mosiah 4:12's 'grow in the knowledge of the glory of Him that created you', which makes it a better proposal than most of the stream's output. It is declined because 'him that created' is the KJV's ordinary circumlocution for God and because the distinctive content of Colossians 3:10 — the new man, the image, the putting on — is absent from Mosiah 4. The verse's borrowings are 2 Peter 3:18's 'grow in ... the knowledge' and 2 Corinthians 4:6's 'the knowledge of the glory', and both are registered as a composite link at this verse."
+  },
+  {
+    "bomRef": "Mosiah 4:22",
+    "source": "Deuteronomy 1:14",
+    "category": "formulaic",
+    "sharedText": "the thing which thou hast",
+    "streams": ["machine-ngram"],
+    "reason": "Pure connective tissue. 'The thing which thou hast' is a relative frame the KJV uses constantly, and Deuteronomy 1:14's subject — the people approving Moses's plan to appoint judges — touches nothing in Benjamin's rebuke of a man who withholds alms. Registered only because the run scored 2.00."
+  },
+  {
+    "bomRef": "Mosiah 4:2",
+    "source": "Luke 18:13",
+    "category": "insufficient-verbal",
+    "sharedText": "have mercy",
+    "streams": ["manual"],
+    "reason": "The publican's prayer is the KJV's model of a self-abasing cry for mercy, and Mosiah 4:2's multitude crying 'O have mercy' from the ground, after 'they had viewed themselves in their own carnal state', is the same gesture. It is not catalogued because the wording will not carry it: Luke 18:13 reads 'God be merciful to me a sinner', which shares no phrase with the Book of Mormon's cry, and the verse's actual borrowings — Exodus 24:3, Acts 15:9, Acts 26:18 — are all elsewhere in the sentence. A typological expectation was pulling toward a link the wording will not bear."
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "bomRef": "Mosiah 2:5",
+    "source": "Leviticus 23:42",
+    "category": "insufficient-verbal",
+    "sharedText": "(dwelling in temporary shelters at a festal assembly)",
+    "streams": ["manual"],
+    "reason": "The standing scholarly reading of Mosiah 2:5-6 is that Benjamin's assembly is a Feast of Tabernacles, and Leviticus 23:42 is the verse that would have to carry it: 'Ye shall dwell in booths seven days.' The wording will not do it. Leviticus has booths (Hebrew sukkot), which the KJV distinguishes throughout from tents; it has seven days, which Mosiah does not; and it has no orientation, where the Book of Mormon's whole point is that the doors faced the temple. The phrase the verse actually reproduces is 'pitched their tents', a KJV singleton at Numbers 9:17, and the arrangement is Numbers 2:2's camp about the tabernacle — both catalogued at the link. Filed here so that a reader who expects the Tabernacles reading can see that it was considered and on what grounds it was declined; the festal reading may still be right about the occasion, but it is not where the sentence came from."
+  },
+  {
+    "bomRef": "Mosiah 2:9",
+    "source": "Matthew 13:15",
+    "category": "better-source-identified",
+    "sharedText": "ears ... hear ... hearts ... understand",
+    "streams": ["manual"],
+    "reason": "Isaiah 6:10's ear-and-heart pairing, quoted at Matthew 13:15 and Acts 28:27, stands behind any English sentence of this shape, and this verse looked like a mediation case. It is not decidable as one: tools/mediation-check.py on Mosiah 2:9 against Isaiah 6:10 and Matthew 13:15 reports NO decisive divergence — the two candidates differ at every point except the ones the Book of Mormon reproduces, so the verse cannot settle its own mediation. It is excluded rather than recorded as 'uncertain' because the sense is also wrong: Isaiah's clause is a judicial hardening ('lest they see with their eyes, and hear with their ears, and understand with their heart, and convert, and be healed'), where Benjamin is inviting an audience to open what Isaiah's God shuts. The source of the verse's audience-qualification is Nehemiah 8:2-3, where 'hear with understanding' and 'were attentive' are both KJV singletons; see the link."
+  },
+  {
+    "bomRef": "Mosiah 2:11",
+    "source": "Acts 7:35",
+    "category": "better-source-identified",
+    "sharedText": "be a ruler and a",
+    "streams": ["machine-ngram"],
+    "reason": "A five-word run, and Acts 7 is a source this corpus genuinely uses — 1 Nephi 2:22 and 3:29 both take 'ruler' from Acts 7:27 rather than from Exodus 2:14, and 1 Nephi draws on Stephen's speech at six places. But Acts 7:35's question is a hostile one ('Who made thee a ruler and a judge over us?') and its second noun is 'judge', where Benjamin's is 'king'. The verse's ruler-language was adjudicated one chapter earlier at Mosiah 1:10, where 'a ruler over' is a KJV singleton at 2 Chronicles 6:5 and the accompanying naming and temple material comes with it. Superseded by that link."
+  },
+  {
+    "bomRef": "Mosiah 2:22",
+    "source": "Deuteronomy 11:13",
+    "category": "better-source-identified",
+    "sharedText": "if ye would keep his commandments, ye should prosper in the land",
+    "streams": ["machine-ngram"],
+    "reason": "The prosperity conditional recurs three times in these two chapters (1:7, 2:22, 2:31) and the machine proposes a fresh Deuteronomic source each time. It has one adjudication, at Mosiah 1:7, where the route is argued as OT-via-earlier-BoM: by Mosiah the formula is the Book of Mormon's own covenant refrain, established at 1 Nephi 2:20 out of 1 Kings 2:3 and Joshua 1:7 and already inherited at 2 Nephi 1:20. ADJUDICATING §4 governs — a repeat within a book is the speaker using his own formula, not a fresh borrowing. Recorded here and at 2:31 in recurrenceRefs on the 1:7 link. Note also what 2:22 adds and no Deuteronomic verse has: 'he never doth vary from that which he hath said', which is the Book of Mormon's own gloss turning a conditional promise into a statement about divine constancy."
+  },
+  {
+    "bomRef": "Mosiah 2:37",
+    "source": "Malachi 2:12",
+    "category": "wrong-sense",
+    "sharedText": "the man that doeth this",
+    "streams": ["machine-ngram"],
+    "reason": "A six-word run, and “the man that doeth this” occurs in exactly two KJV verses — Malachi 2:12, where the LORD cuts such a man off out of the tabernacles of Jacob, and Isaiah 56:2, where such a man is blessed. The phrase is therefore a neutral pointer that takes its charge entirely from what precedes it, and in both KJV verses that antecedent is specific (marrying the daughter of a strange god; keeping the sabbath), where Benjamin's is the general apostasy of 2:36. Nothing else of Malachi 2 or Isaiah 56 is present. The verse's real borrowings are Acts 13:10's 'enemy of all righteousness' and the Acts temple formula, both catalogued at the link."
+  },
+  {
+    "bomRef": "Mosiah 2:41",
+    "source": "Revelation 12:17",
+    "category": "better-source-identified",
+    "sharedText": "keep the commandments of God",
+    "streams": ["machine-ngram"],
+    "reason": "One of the two KJV verses containing the phrase, and the machine ranked it alongside Revelation 14:12. It is the wrong one. Revelation 12:17 is the dragon making war with the remnant of the woman's seed; nothing else in it touches Mosiah 2:41. Revelation 14:12 is the one that stands immediately after the smoke of torment ascending for ever and ever — which this chapter has just used at 2:38 — and it makes the same contrast, endurance against endlessness, that Benjamin makes across 2:38-41. Superseded by the link at this verse."
+  }
+]

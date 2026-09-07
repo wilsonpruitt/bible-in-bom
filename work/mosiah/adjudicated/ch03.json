@@ -1,0 +1,701 @@
+{
+ "chapter": 3,
+ "adjudicated": "2026-09-07",
+ "adjudicator": "Opus",
+ "links": {
+  "3:3": [
+   {
+    "source": "Luke 2:10",
+    "type": "allusion",
+    "subtype": "close-verbal",
+    "confidence": "high",
+    "text": "And the angel said unto them, Fear not: for, behold, I bring you good tidings of great joy, which shall be to all people.",
+    "evidence": {
+     "vocabulary": 5,
+     "syntax": 4,
+     "sequence": 4,
+     "context": 5,
+     "rarity": 5,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "composite": [
+     "Luke 1:19"
+    ],
+    "recurrenceRefs": [
+     "Mosiah 3:4"
+    ],
+    "provenance": {
+     "route": "Luke 2:10 with Luke 1:19 \u2192 KJV \u2192 Book of Mormon",
+     "other": "\u201ctidings of great joy\u201d occurs in exactly one KJV verse \u2014 Luke 2:10, the angel over Bethlehem \u2014 where the adjective is 'good'. \u201cglad tidings\u201d occurs in exactly four KJV verses; the one that matters is Luke 1:19, where Gabriel says he is sent 'to shew thee these glad tidings'. The Book of Mormon's 'glad tidings of great joy' is the two phrases welded together, and it exists in no KJV verse.",
+     "significance": "Both halves of the conflation come from angels announcing the same birth, forty verses apart in the same gospel, and Mosiah 3:2-4 is doing what both Lucan annunciations do. Gabriel stands before Zacharias, says his prayer is heard, and brings glad tidings; the angel of Luke 2 says fear not and brings tidings of great joy to be declared to all people. Benjamin's angel stands before him (3:2), tells him the Lord has heard his prayers (3:4), brings glad tidings of great joy, and tells him to declare them to his people so they may be filled with joy. The Book of Mormon has taken Luke's two annunciation scenes and made one out of them, in the chapter that will name Mary four verses later."
+    },
+    "note": "'I am come to declare unto you the glad tidings of great joy.' A KJV singleton with one adjective replaced from a second angelic speech in the same gospel. The tell that this is a fusion rather than an approximation is that Luke 2:10's 'good tidings' and Luke 1:19's 'glad tidings' are both fixed KJV phrases, and the Book of Mormon has the one whose noun-phrase belongs to the other. The next verse then supplies Luke 1:13's 'thy prayer is heard' as 'the Lord hath heard thy prayers'.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "machine-ngram",
+     "manual"
+    ]
+   }
+  ],
+  "3:5": [
+   {
+    "source": "Revelation 19:6",
+    "type": "allusion",
+    "subtype": "close-verbal",
+    "confidence": "high",
+    "text": "And I heard as it were the voice of a great multitude, and as the voice of many waters, and as the voice of mighty thunderings, saying, Alleluia: for the Lord God omnipotent reigneth.",
+    "evidence": {
+     "vocabulary": 5,
+     "syntax": 4,
+     "sequence": 4,
+     "context": 4,
+     "rarity": 5,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "recurrenceRefs": [
+     "Mosiah 3:17",
+     "Mosiah 3:18",
+     "Mosiah 3:21",
+     "Mosiah 5:2",
+     "Mosiah 5:15"
+    ],
+    "provenance": {
+     "route": "Revelation 19:6 \u2192 KJV \u2192 Book of Mormon",
+     "other": "\u201comnipotent\u201d occurs in exactly one KJV verse, in the whole Bible, and the Book of Mormon's clause reproduces its two neighbouring words as well: 'the Lord God omnipotent reigneth' \u2192 'the Lord Omnipotent who reigneth'. Every one of the title's five occurrences in Benjamin's sermon descends from this one verse.",
+     "significance": "The title Benjamin's angel gives Christ \u2014 used five times in this sermon and almost nowhere else in the Book of Mormon \u2014 is a hapax of the King James Bible. It occurs at Revelation 19:6, in the hallelujah of the great multitude at the marriage of the Lamb, which is a shout of acclamation rather than a name. The Book of Mormon has converted a liturgical cry into a christological title, and then built a covenant liturgy around it: at Mosiah 5:2 the assembled people answer 'with one voice', which is what Revelation 19:6 describes. The sermon takes the multitude's shout and gives it to the multitude."
+    },
+    "note": "'The Lord Omnipotent who reigneth, which was, and is from all eternity to all eternity.' An English word that appears in the KJV once, taken with the participle attached to it there. That an angel in 124 BC should name Christ with a word the English Bible uses only in the Apocalypse is precisely the kind of anachronism this catalogue exists to record; the 1830 text capitalizes it as a title, which the later editions retain.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "manual"
+    ]
+   },
+   {
+    "source": "Matthew 11:5",
+    "type": "quotation",
+    "subtype": "close-verbal",
+    "confidence": "high",
+    "text": "The blind receive their sight, and the lame walk, the lepers are cleansed, and the deaf hear, the dead are raised up, and the poor have the gospel preached to them.",
+    "evidence": {
+     "vocabulary": 5,
+     "syntax": 4,
+     "sequence": 4,
+     "context": 5,
+     "rarity": 4,
+     "attestation": 4
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "composite": [
+     "Isaiah 35:5"
+    ],
+    "provenance": {
+     "route": "Matthew 11:5 \u2192 KJV \u2192 Book of Mormon",
+     "other": "\u201creceive their sight\u201d occurs in exactly one KJV verse. The mediation test is decisive and turns on two words. Matthew 11:5 and Luke 7:22 are the same answer to John's disciples in two gospels, and they differ at the first item: Matthew has 'the blind receive their sight', Luke has 'the blind see'. tools/mediation-check.py on Mosiah 3:5 reports one decisive point, for Matthew \u2014 the Book of Mormon reads 'the blind to receive their sight'. Isaiah 35:5-6 is the Old Testament root of the list ('the eyes of the blind shall be opened \u2026 then shall the lame man leap as an hart') and shares none of this wording.",
+     "significance": "Benjamin's angel is describing miracles a century and a quarter before they happen, in the words Jesus used to describe them after they had happened \u2014 and specifically in the words of the answer to John the Baptist, which is itself a claim that Isaiah 35 has been fulfilled. Recover Matthew 11's context and the borrowing acquires an argument: the list exists in the gospel as evidence offered to a doubter about whether this is 'he that should come'. Mosiah 3 offers the same list, to the same purpose, before the fact."
+    },
+    "note": "'Working mighty miracles, such as healing the sick, raising the dead, causing the lame to walk, the blind to receive their sight, and the deaf to hear.' Four items of Matthew's list, reordered and turned into infinitives, with the KJV's distinctive 'receive their sight' preserved. Below Skousen's sixteen-word threshold and not among his quotations; catalogued as a quotation under CONVENTIONS \u00a72 because the content of an identifiable verse is reproduced item by item. Hardy's apparatus cross-references both gospels here; the wording decides for Matthew.",
+    "bibliography": [
+     "Hardy MSI at Mosiah 3.5 (cross-references Matthew 11:5 and Luke 7:22)"
+    ],
+    "status": "majority",
+    "streams": [
+     "scholarship",
+     "machine-ngram",
+     "manual"
+    ]
+   },
+   {
+    "source": "Job 4:19",
+    "type": "echo",
+    "subtype": "probable",
+    "confidence": "moderate",
+    "text": "How much less in them that dwell in houses of clay, whose foundation is in the dust, which are crushed before the moth?",
+    "evidence": {
+     "vocabulary": 3,
+     "syntax": 3,
+     "sequence": 3,
+     "context": 4,
+     "rarity": 5,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-OT",
+    "composite": [
+     "2 Corinthians 5:1"
+    ],
+    "provenance": {
+     "route": "Job 4:19 with 2 Corinthians 5:1 \u2192 KJV \u2192 Book of Mormon",
+     "other": "\u201chouses of clay\u201d occurs in exactly one KJV verse, and it is the KJV's only figure for the body as a clay dwelling. The body as a tabernacle is Paul's and Peter's \u2014 2 Corinthians 5:1's 'our earthly house of this tabernacle', 2 Peter 1:13's 'as long as I am in this tabernacle', already drawn on at Mosiah 2:17. 'Tabernacle of clay' fuses the two and is in no KJV verse.",
+     "significance": "The compound is a small but exact instance of what this chapter does throughout: an Old Testament figure and a New Testament figure welded into one phrase that neither testament contains. Job's houses of clay are an argument about human frailty made by Eliphaz to prove that no man is pure before God; Paul's tabernacle is an argument that the frailty is temporary. Applied to the incarnation \u2014 God 'shall dwell in a tabernacle of clay' \u2014 the fused phrase makes the Lord Omnipotent of the previous clause take on Eliphaz's crushable house."
+    },
+    "note": "'Shall come down from Heaven, among the children of men, and shall dwell in a tabernacle of clay.' Recorded as an echo because neither source phrase is reproduced intact; what is reproduced is the KJV's two metaphors for the body, joined. Job 4:19's is a singleton, which is what makes 'clay' traceable at all \u2014 the KJV's other clay is a potter's.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "manual"
+    ]
+   }
+  ],
+  "3:7": [
+   {
+    "source": "Luke 22:44",
+    "type": "allusion",
+    "subtype": "conceptual",
+    "confidence": "high",
+    "text": "And being in an agony he prayed more earnestly: and his sweat was as it were great drops of blood falling down to the ground.",
+    "evidence": {
+     "vocabulary": 3,
+     "syntax": 3,
+     "sequence": 4,
+     "context": 5,
+     "rarity": 5,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "provenance": {
+     "route": "Luke 22:44 \u2192 KJV \u2192 Book of Mormon",
+     "other": "\u201cgreat drops of blood\u201d occurs in exactly one KJV verse, and Luke 22:44 is the only place in the Bible where blood and sweat are joined at all. 'Pore' occurs in no KJV verse, and 'anguish' is not Luke's word \u2014 Luke has 'agony', another KJV rarity.",
+     "significance": "Luke's sentence is a simile and hedged twice over \u2014 his sweat was AS IT WERE great drops of blood \u2014 and the Book of Mormon removes both hedges: 'blood cometh from every pore'. That is an interpretation of Luke, not a repetition of him, and it is the interpretation that became standard in nineteenth-century English devotional writing. What the Book of Mormon adds beyond the physical detail is the cause: Luke gives the agony no object, and Mosiah 3:7 supplies one \u2014 'so great shall be his anguish for the wickedness and the abominations of his people' \u2014 which makes Gethsemane rather than Golgotha the place where the suffering for sin is done."
+    },
+    "note": "'For behold, blood cometh from every pore, so great shall be his anguish.' No wording is reproduced, which is why this is filed as conceptual; the case is that the KJV contains exactly one verse in which a man bleeds under mental suffering, and the Book of Mormon is describing that verse without quoting it. The surrounding list \u2014 temptations, pain of body, hunger, thirst, fatigue \u2014 is the Book of Mormon's own and matches no passion narrative.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "manual"
+    ]
+   }
+  ],
+  "3:8": [
+   {
+    "source": "Mark 1:1",
+    "type": "allusion",
+    "subtype": "close-verbal",
+    "confidence": "high",
+    "text": "The beginning of the gospel of Jesus Christ, the Son of God;",
+    "evidence": {
+     "vocabulary": 4,
+     "syntax": 3,
+     "sequence": 3,
+     "context": 4,
+     "rarity": 5,
+     "attestation": 1
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "composite": [
+     "Acts 8:37"
+    ],
+    "provenance": {
+     "route": "Mark 1:1 / Acts 8:37 \u2192 KJV \u2192 Book of Mormon",
+     "other": "\u201cJesus Christ the Son of God\u201d occurs in exactly one KJV verse, Mark 1:1; Acts 8:37's confession inserts a verb ('Jesus Christ IS the Son of God') and is therefore a different string. 'Jesus Christ, the Son of God' is the title formula of Mark 1:1 and the baptismal confession of Acts 8:37; the KJV has it in that exact form at those two places. Our index of Frederick (data/frederick-refs.json, built by tools/parse-frederick.py) records that Mosiah 3:8 is discussed within his book near both of them \u2014 but that index measures CO-OCCURRENCE, which is to say that these passages appear close together in his argument, and it is not a claim that Frederick derives this verse from either. His subject is the Gospel of John. No citation is made from it here for that reason.",
+     "significance": "Mosiah 3:8 is the first place in the Book of Mormon where the full name 'Jesus Christ' is given as a prophecy of what the Messiah 'shall be called', and it comes with the two titles the KJV attaches to that name at the opening of a gospel and at the moment of a convert's baptism. What follows in the same verse \u2014 Father of Heaven and Earth, creator of all things from the beginning \u2014 is not Mark's or Luke's but Colossians 1:16 and John 1:3, so the sentence assembles a full christological title out of scattered New Testament formulas and then adds the human detail, 'his mother shall be called Mary', which no title formula has."
+    },
+    "note": "'And he shall be called Jesus Christ, the Son of God, the Father of Heaven and Earth, the creator of all things, from the beginning; and his mother shall be called Mary.' The title as the Book of Mormon gives it is a KJV singleton \u2014 Mark 1:1's, exactly, without the copula that Acts 8:37 inserts \u2014 which is stronger evidence than the formula's familiarity in New Testament English would suggest. The rest of the sentence is a compilation rather than a borrowing. It is catalogued rather than passed over because the verse is one of the four Frederick rows for this book (PLAN \u00a77.3 as restated) and because the naming of Mary makes it the chapter's most conspicuous anachronism.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "scholarship",
+     "manual"
+    ]
+   }
+  ],
+  "3:9": [
+   {
+    "source": "John 1:11",
+    "type": "allusion",
+    "subtype": "strong-verbal",
+    "confidence": "high",
+    "text": "He came unto his own, and his own received him not.",
+    "evidence": {
+     "vocabulary": 5,
+     "syntax": 5,
+     "sequence": 5,
+     "context": 5,
+     "rarity": 5,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "provenance": {
+     "route": "John 1:11 \u2192 KJV \u2192 Book of Mormon",
+     "other": "\u201che came unto his own\u201d occurs in exactly one KJV verse. The Book of Mormon has the present tense, 'he cometh unto his own', because the angel is speaking of what has not yet happened; every other word of the clause is John's.",
+     "significance": "John 1:11 is a two-part sentence and the Book of Mormon uses both parts, split across the verse. 'He cometh unto his own' is the first half; 'they shall consider him a man, and say that he hath a Devil, and shall scourge him, and shall crucify him' is what the Fourth Gospel's 'his own received him not' turns out to mean, spelled out in the gospels' own vocabulary \u2014 'he hath a devil' is John 10:20's charge. The angel is narrating the Johannine prologue forward into the passion."
+    },
+    "note": "'And lo, he cometh unto his own, that salvation might come unto the children of men \u2026 and even after all this, they shall consider him a man, and say that he hath a Devil.' Five words of a KJV singleton with only the tense changed, and the rejection that John states abstractly is given in the terms of the gospel narratives. The passion verbs in the same verse come from a different gospel and are catalogued separately at this verse.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "manual"
+    ]
+   },
+   {
+    "source": "Mark 10:34",
+    "type": "allusion",
+    "subtype": "close-verbal",
+    "confidence": "high",
+    "text": "And they shall mock him, and shall scourge him, and shall spit upon him, and shall kill him: and the third day he shall rise again.",
+    "evidence": {
+     "vocabulary": 4,
+     "syntax": 5,
+     "sequence": 5,
+     "context": 5,
+     "rarity": 4,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "composite": [
+     "Matthew 20:19"
+    ],
+    "recurrenceRefs": [
+     "Mosiah 3:10"
+    ],
+    "provenance": {
+     "route": "Mark 10:33-34 with Matthew 20:19 \u2192 KJV \u2192 Book of Mormon",
+     "other": "A conflation, and the mediation tool should not be trusted alone on it. Running Mosiah 3:9 against Matthew 20:19 and Mark 10:34 returns one 'decisive' point for Mark, on the word 'scourge' \u2014 but Matthew has 'scourge' too, and the tool has simply aligned Mark's 'scourge' against Matthew's 'deliver'. Read by eye the division is clean: the SYNTAX is Mark's, whose third passion prediction runs 'and shall mock him, and shall scourge him, and shall spit upon him, and shall kill him' in finite verbs with the auxiliary repeated, which is exactly the Book of Mormon's 'and shall scourge him, and shall crucify him'; the VERB is Matthew's, since Mark's fourth item is 'kill' and only Matthew 20:19 has 'crucify'. \u201cto scourge and to crucify\u201d occurs in exactly one KJV verse, Matthew 20:19, and the Book of Mormon does not have that infinitive form.",
+     "significance": "Two versions of the same prediction, one supplying the shape of the sentence and the other the manner of the death. What is worth noticing is which detail the Book of Mormon drops: both gospels have the mocking and the spitting, and Mosiah 3:9 keeps only the two acts that are judicial \u2014 scourging and crucifixion \u2014 because its interest is in a verdict rather than in humiliation. The verse's whole argument is that the world will judge him ('they shall consider him a man') so that at 3:10 'he standeth to judge the world'."
+    },
+    "note": "'And shall scourge him, and shall crucify him.' Mark's construction with Matthew's verb, from the two synoptic passion predictions that stand at the same point in each gospel. The link is filed under Mark because the repeated 'and shall' auxiliary is his and is the more distinctive feature; Matthew supplies 'crucify', which Mark does not have anywhere in the prediction. Flagged as a conflation rather than a choice, so the mediation is not being represented as decided when it is not.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "machine-ngram",
+     "manual"
+    ]
+   }
+  ],
+  "3:10": [
+   {
+    "source": "Mark 9:31",
+    "type": "allusion",
+    "subtype": "close-verbal",
+    "confidence": "high",
+    "text": "For he taught his disciples, and said unto them, The Son of man is delivered into the hands of men, and they shall kill him; and after that he is killed, he shall rise the third day.",
+    "evidence": {
+     "vocabulary": 5,
+     "syntax": 4,
+     "sequence": 4,
+     "context": 5,
+     "rarity": 5,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "composite": [
+     "Luke 24:46"
+    ],
+    "recurrenceRefs": [
+     "Mosiah 3:9"
+    ],
+    "provenance": {
+     "route": "Mark 9:31 with Luke 24:46 \u2192 KJV \u2192 Book of Mormon",
+     "other": "\u201che shall rise the third day\u201d occurs in exactly one KJV verse. Matthew 20:19 and Mark 10:34 both read 'the third day he shall rise again', in the other order and with 'again'; Luke 24:46 reads 'to rise from the dead the third day', which supplies the Book of Mormon's 'from the dead' but not its word order. Running the mediation tool on Mosiah 3:10 against Mark 9:31 and Luke 24:46 returns a 'decisive' point for Luke on the word 'dead' \u2014 that is an artifact of the alignment, since the Book of Mormon has Mark's clause AND Luke's phrase, and the tool has nowhere to put the surplus.",
+     "significance": "Four KJV verses predict the resurrection on the third day and the Book of Mormon has taken the one clause that is unique to Mark and then appended Luke's prepositional phrase, producing 'he shall rise the third day from the dead' \u2014 a sentence that exists in no gospel. This is the third conflation in two verses, after the Mark-and-Matthew passion at 3:9 and the two Lucan annunciations at 3:3, which is worth stating as a pattern: the angel's speech does not quote a gospel, it composes from all four."
+    },
+    "note": "'And he shall rise the third day from the dead; and behold, he standeth to judge the world.' The clause is Mark 9:31's, a KJV singleton, with Luke 24:46's 'from the dead' added after it rather than before. The judgement that follows in the same verse is not from any resurrection prediction; it is the chapter's own turn, and it sets up the judgement-seat material of 3:24-27.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "machine-ngram",
+     "manual"
+    ]
+   }
+  ],
+  "3:15": [
+   {
+    "source": "Hebrews 10:1",
+    "type": "allusion",
+    "subtype": "conceptual",
+    "confidence": "moderate",
+    "text": "For the law having a shadow of good things to come, and not the very image of the things, can never with those sacrifices which they offered year by year continually make the comers thereunto perfect.",
+    "evidence": {
+     "vocabulary": 3,
+     "syntax": 3,
+     "sequence": 4,
+     "context": 5,
+     "rarity": 3,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "composite": [
+     "Colossians 2:17",
+     "Galatians 3:19"
+    ],
+    "provenance": {
+     "route": "Hebrews 10:1 with Colossians 2:17 \u2192 KJV \u2192 Book of Mormon",
+     "other": "\u201ca shadow of good things to come\u201d occurs in exactly one KJV verse. 'Shadow' used of the law of Moses occurs in three KJV verses \u2014 Colossians 2:17 ('a shadow of things to come'), Hebrews 8:5 ('the example and shadow of heavenly things'), Hebrews 10:1 ('a shadow of good things to come'). 'Types' is in no KJV verse in this sense; 'availeth nothing' is not a KJV phrase either, though Galatians 5:6 and 6:15 have 'availeth any thing' of circumcision.",
+     "significance": "Mosiah 3:14-15 states the New Testament's argument about the law of Moses in the New Testament's own figures and gives it a Book of Mormon chronology. Galatians 3:19 supplies the reason the law was given \u2014 'it was added because of transgressions' \u2014 which becomes 'the Lord God saw that his people were a stiffnecked people, and he appointed unto them a law'. Hebrews and Colossians supply the shadow. What the Book of Mormon adds is the claim that the shadow was legible at the time: the prophets 'spake unto them concerning his coming', and the failure at 3:15 is not that the types were obscure but that the hearers 'hardened their hearts'."
+    },
+    "note": "'And many signs, and wonders, and types, and shadows shewed he unto them, concerning his coming \u2026 and understood not that the law of Moses availeth nothing, except it were through the atonement of his blood.' No clause is reproduced, so this is conceptual and moderate; the pairing 'types and shadows' has become so standard in later usage that it is easy to forget the KJV never uses it. The catalogued source is the passage that makes the argument, not a phrase \u2014 the law as shadow, insufficient of itself, pointing at a coming reality.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "manual"
+    ]
+   }
+  ],
+  "3:17": [
+   {
+    "source": "Acts 4:12",
+    "type": "quotation",
+    "subtype": "close-verbal",
+    "confidence": "high",
+    "text": "Neither is there salvation in any other: for there is none other name under heaven given among men, whereby we must be saved.",
+    "evidence": {
+     "vocabulary": 5,
+     "syntax": 5,
+     "sequence": 5,
+     "context": 5,
+     "rarity": 5,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "recurrenceRefs": [
+     "Mosiah 5:8"
+    ],
+    "provenance": {
+     "route": "Acts 4:12 \u2192 KJV \u2192 Book of Mormon",
+     "other": "\u201cnone other name\u201d occurs in exactly one KJV verse and \u201cwhereby we must be saved\u201d occurs in exactly one KJV verse \u2014 Acts 4:12, both of them. The Book of Mormon reproduces the structure of the whole sentence: the exclusive negative, the name, and the relative clause of salvation.",
+     "significance": "Acts 4:12 is Peter's answer before the Sanhedrin to the question 'by what name have ye done this?', and its force there is forensic \u2014 a defendant naming the only authority he will plead. Mosiah 3:17 is the hinge of Benjamin's sermon and does the same work in advance: it is the verse the covenant of Mosiah 5 will be made under, where the people take upon them the name of Christ because 'there is no other name given whereby salvation cometh' (5:8). The Book of Mormon has taken the New Testament's most exclusive claim about the name of Jesus and made it the ground of a covenant taken a century before the name was given."
+    },
+    "note": "'There shall be no other name given, nor no other way nor means whereby salvation can come unto the children of men, only in and through the name of Christ.' Two KJV singletons from one verse, in their source order, with 'given' and the salvation clause intact; the 1830 double negative 'nor no other way' is the first edition's own. Below Skousen's threshold and not among his quotations; catalogued as a quotation under CONVENTIONS \u00a72 because the sentence's whole structure is reproduced from an identifiable verse.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "manual"
+    ]
+   }
+  ],
+  "3:18": [
+   {
+    "source": "Matthew 18:3",
+    "type": "allusion",
+    "subtype": "strong-verbal",
+    "confidence": "high",
+    "text": "And said, Verily I say unto you, Except ye be converted, and become as little children, ye shall not enter into the kingdom of heaven.",
+    "evidence": {
+     "vocabulary": 5,
+     "syntax": 4,
+     "sequence": 4,
+     "context": 5,
+     "rarity": 5,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "recurrenceRefs": [
+     "Mosiah 3:16",
+     "Mosiah 3:19",
+     "Mosiah 3:21"
+    ],
+    "provenance": {
+     "route": "Matthew 18:3-4 \u2192 KJV \u2192 Book of Mormon",
+     "other": "\u201cbecome as little children\u201d occurs in exactly one KJV verse. Mark 10:15 and Luke 18:17 have 'receive the kingdom of God as a little child', which is a different construction, and Matthew 19:14's 'suffer little children' is a different saying.",
+     "significance": "Matthew 18:3-4 has two parts and Mosiah 3 uses both: become as little children, and 'whosoever therefore shall humble himself as this little child' is the greatest. Benjamin's 'except they humble themselves, and become as little children' fuses the two verses into one clause. The chapter then does something Matthew does not \u2014 it makes the child a doctrine as well as a model, ruling at 3:16 and 3:18 and 3:21 that little children are saved without repentance because they cannot sin, and at 3:19 that the natural man's conversion is precisely becoming 'as a child, submissive, meek, humble, patient'. Matthew's simile is turned into an anthropology."
+    },
+    "note": "'Except they humble themselves, and become as little children.' A KJV singleton with Matthew 18:4's humbling folded into it. Note that the same sentence contains 'drinketh damnation to their own souls', which is 1 Corinthians 11:29's singleton phrase already catalogued at Mosiah 2:33 and repeated again at 3:25 \u2014 so the phrase is by now the sermon's own idiom rather than a fresh borrowing.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "machine-ngram",
+     "manual"
+    ]
+   },
+   {
+    "source": "Revelation 4:8",
+    "type": "allusion",
+    "subtype": "close-verbal",
+    "confidence": "high",
+    "text": "And the four beasts had each of them six wings about him; and they were full of eyes within: and they rest not day and night, saying, Holy, holy, holy, LORD God Almighty, which was, and is, and is to come.",
+    "evidence": {
+     "vocabulary": 5,
+     "syntax": 5,
+     "sequence": 5,
+     "context": 4,
+     "rarity": 5,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "recurrenceRefs": [
+     "Mosiah 3:5"
+    ],
+    "provenance": {
+     "route": "Revelation 4:8 \u2192 KJV \u2192 Book of Mormon",
+     "other": "\u201cwhich was and is and is to come\u201d occurs in exactly one KJV verse. Revelation 1:4 and 1:8 have the same three tenses in a different order and with the relative repeated \u2014 'which is, and which was, and which is to come' \u2014 and the Book of Mormon has Revelation 4:8's order, was before is, which is the odd one.",
+     "significance": "The eternity formula and the omnipotence title come from the same book and are used in the same sermon: Revelation 19:6 at 3:5 and Revelation 4:8 here, both of them acclamations sung by the worshippers around the throne rather than statements about God. The Book of Mormon has taken two liturgical shouts of the Apocalypse and made them the vocabulary of an angel's christology. And it has moved the formula's object: in Revelation the three tenses describe the Lord God Almighty, and at Mosiah 3:18 they describe salvation \u2014 'that salvation was, and is, and is to come' \u2014 so an attribute of God has been predicated of what God does."
+    },
+    "note": "'Believeth that salvation was, and is, and is to come, in and through the atoning blood of Christ.' Seven words of a KJV singleton in its exact and unusual order, which is what identifies the verse: the two commoner forms at Revelation 1:4 and 1:8 put 'is' first. The same formula stands in shortened form at 3:5, 'which was, and is from all eternity to all eternity', where the Book of Mormon supplies its own second half.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "machine-ngram",
+     "manual"
+    ]
+   }
+  ],
+  "3:19": [
+   {
+    "source": "1 Corinthians 2:14",
+    "type": "allusion",
+    "subtype": "strong-verbal",
+    "confidence": "high",
+    "text": "But the natural man receiveth not the things of the Spirit of God: for they are foolishness unto him: neither can he know them, because they are spiritually discerned.",
+    "evidence": {
+     "vocabulary": 4,
+     "syntax": 3,
+     "sequence": 3,
+     "context": 5,
+     "rarity": 5,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "composite": [
+     "Romans 8:7",
+     "James 4:4"
+    ],
+    "provenance": {
+     "route": "1 Corinthians 2:14 with Romans 8:7 \u2192 KJV \u2192 Book of Mormon",
+     "other": "\u201cnatural man\u201d occurs in exactly one KJV verse. The predicate is supplied from elsewhere in Paul: Romans 8:7's 'the carnal mind is enmity against God', and James 4:4's 'the enemy of God'. The KJV never calls the natural man an enemy to God; the Book of Mormon's most quoted sentence is a fusion of a Corinthian noun with a Roman predicate.",
+     "significance": "1 Corinthians 2:14 is an epistemological claim \u2014 the natural man cannot RECEIVE the things of the Spirit, because they are spiritually discerned \u2014 and Romans 8:7 is a moral one, that the carnal mind is hostile and cannot submit. Mosiah 3:19 keeps Romans's hostility and Corinthians's noun, and then answers Romans 8:7's 'not subject to the law of God' with its own remedy: the man who is put off becomes 'submissive \u2026 willing to submit to all things'. The sentence is built so that the cure is the exact negation of the diagnosis, and both halves are Pauline."
+    },
+    "note": "'For the natural man is an enemy to God, and has been, from the fall of Adam, and will be, forever and ever.' A KJV singleton given a predicate the KJV attaches to a different subject. What the Book of Mormon adds is the temporal frame \u2014 from the fall, and forever \u2014 which converts Paul's description of an unconverted person into a statement about the human condition since Adam, and which the second half of the verse then undoes.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "manual"
+    ]
+   },
+   {
+    "source": "Colossians 3:9",
+    "type": "allusion",
+    "subtype": "strong-verbal",
+    "confidence": "high",
+    "text": "Lie not one to another, seeing that ye have put off the old man with his deeds;",
+    "evidence": {
+     "vocabulary": 4,
+     "syntax": 4,
+     "sequence": 5,
+     "context": 5,
+     "rarity": 5,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "composite": [
+     "Colossians 3:10",
+     "Colossians 3:12"
+    ],
+    "provenance": {
+     "route": "Colossians 3:9-12 \u2192 KJV \u2192 Book of Mormon",
+     "other": "\u201cput off the old man\u201d occurs in exactly one KJV verse; Ephesians 4:22 has 'put off concerning the former conversation the old man', with the object separated from the verb. Colossians 3:12's list is 'bowels of mercies, kindness, humbleness of mind, meekness, longsuffering', which is Mosiah 3:19's 'meek, humble, patient, full of love' item for item in the same order \u2014 meekness, humbleness, longsuffering, charity \u2014 with only the nouns turned into adjectives.",
+     "significance": "The whole sequence of Colossians 3:9-12 is reproduced in one sentence and in the source's order: put off the old man (3:9), put on the new (3:10), as the elect of God, holy (3:12) \u2192 'becometh a saint', and then the five virtues. The Book of Mormon's one substitution is the one that matters \u2014 'the natural man' for 'the old man' \u2014 which imports 1 Corinthians 2:14's noun into a Colossian sentence and produces the phrase the book is best known for. Colossians 3:11's 'Christ is all, and in all' also stands between the putting off and the virtues, which is where Mosiah 3:19 puts 'through the atonement of Christ, the Lord'."
+    },
+    "note": "'And putteth off the natural man, and becometh a saint, through the atonement of Christ, the Lord, and becometh as a child, submissive, meek, humble, patient, full of love.' A KJV singleton with one noun replaced, followed by the virtue list of the same paragraph in the same order. The child at the end is Matthew 18:3's, catalogued at 3:18, so the verse joins Paul's baptismal ethic to Matthew's saying about children \u2014 which is why the Book of Mormon's convert must both put on the new man and become as a little child.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "manual"
+    ]
+   }
+  ],
+  "3:20": [
+   {
+    "source": "Revelation 14:6",
+    "type": "allusion",
+    "subtype": "close-verbal",
+    "confidence": "high",
+    "text": "And I saw another angel fly in the midst of heaven, having the everlasting gospel to preach unto them that dwell on the earth, and to every nation, and kindred, and tongue, and people,",
+    "evidence": {
+     "vocabulary": 5,
+     "syntax": 4,
+     "sequence": 5,
+     "context": 5,
+     "rarity": 5,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "recurrenceRefs": [
+     "Mosiah 3:13"
+    ],
+    "provenance": {
+     "route": "Revelation 14:6 \u2192 KJV \u2192 Book of Mormon",
+     "other": "\u201cnation and kindred and tongue and people\u201d occurs in exactly one KJV verse. The Apocalypse has the fourfold formula seven times and permutes the order every time; Revelation 5:9's is 'kindred, and tongue, and people, and nation', which also occurs in exactly one KJV verse. Mosiah 3:20 has Revelation 14:6's order exactly, and the shorter list at 3:13 has neither.",
+     "significance": "This is the finding that ties the two chapters together. Revelation 14:6-12 is used across Benjamin's sermon in the source's own order and at both ends of it: 14:6's angel preaching the everlasting gospel to every nation is Mosiah 3:20's knowledge of a Saviour spreading through every nation; 14:10's cup of the wrath of God is Mosiah 3:26; 14:11's smoke ascending for ever is Mosiah 2:38 and again 3:27; 14:12's saints who keep the commandments of God is Mosiah 2:41. Five contacts with seven consecutive verses of one chapter, and the announcing angel of Revelation 14:6 is the same figure as the announcing angel of Mosiah 3:2. The sermon is built on the Apocalypse's angel-of-the-gospel passage."
+    },
+    "note": "'When the knowledge of a Saviour shall spread throughout every nation, kindred, tongue, and people.' The four terms in Revelation 14:6's order, which is a KJV singleton \u2014 the order is the evidence, since the Apocalypse itself never repeats a permutation. The shorter 'every kindred, nation, and tongue' at 3:13 is the same formula loosely recalled, and is recorded there in recurrenceRefs rather than as a second link.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "manual"
+    ]
+   }
+  ],
+  "3:24": [
+   {
+    "source": "Revelation 20:13",
+    "type": "allusion",
+    "subtype": "close-verbal",
+    "confidence": "high",
+    "text": "And the sea gave up the dead which were in it; and death and hell delivered up the dead which were in them: and they were judged every man according to their works.",
+    "evidence": {
+     "vocabulary": 4,
+     "syntax": 4,
+     "sequence": 4,
+     "context": 5,
+     "rarity": 4,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "composite": [
+     "Revelation 20:12"
+    ],
+    "provenance": {
+     "route": "Revelation 20:12-13 \u2192 KJV \u2192 Book of Mormon",
+     "other": "\u201caccording to their works\u201d occurs in exactly three KJV verses, of which Revelation 20:12 and 20:13 are two and are the only ones in a judgement scene; the third, 2 Corinthians 11:15, is about false apostles. The Book of Mormon's 'judged, every man, according to his works' has Revelation's word order with the pronoun made singular.",
+     "significance": "Revelation 20:12 opens the books and 20:13 gives up the dead, and the Book of Mormon's 'they shall stand as a bright testimony against this people, at the judgment day' is the books' function stated as a purpose: Benjamin's words themselves become the record by which his hearers are judged. That is the sermon's own claim about itself, made twice \u2014 here, and at 2:27, where the assembly exists so the speaker will be found blameless. The Apocalypse supplies the courtroom; Benjamin supplies the exhibit."
+    },
+    "note": "'Whereof, they shall be judged, every man, according to his works.' The KJV's judgement-seat formula, from the one scene where it belongs. What follows in the same verse is a second and closer borrowing from Ecclesiastes, catalogued separately here \u2014 so the sentence takes its court from Revelation and its verdict-categories from the Preacher.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "machine-ngram",
+     "manual"
+    ]
+   },
+   {
+    "source": "Ecclesiastes 12:14",
+    "type": "quotation",
+    "subtype": "close-verbal",
+    "confidence": "high",
+    "text": "For God shall bring every work into judgment, with every secret thing, whether it be good, or whether it be evil.",
+    "evidence": {
+     "vocabulary": 5,
+     "syntax": 5,
+     "sequence": 5,
+     "context": 5,
+     "rarity": 5,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-OT",
+    "provenance": {
+     "route": "Ecclesiastes 12:14 \u2192 KJV \u2192 Book of Mormon",
+     "other": "\u201cwhether it be good or whether it be evil\u201d occurs in exactly two KJV verses. The other is Jeremiah 42:6, where the remnant promise to obey the LORD's answer whatever it turns out to be \u2014 a statement about willingness, not about judgement. Only Ecclesiastes 12:14 attaches the phrase to a divine assize, and it is the last verse of the book.",
+     "significance": "Ecclesiastes ends on this sentence, and it is the KJV's most compact statement that everything will be assessed and sorted. Benjamin's peroration ends on it too, and then does what Ecclesiastes never does: it takes the 'evil' branch and follows it to the lake of fire (3:25-27). Wisdom literature's flat assurance that God will judge is being used as the premise of an apocalypse \u2014 which is exactly the join this chapter has been making all along, between an Old Testament frame and a New Testament content."
+    },
+    "note": "'Every man, according to his works, whether they be good, or whether they be evil.' Nine words reproduced from one of the KJV's two verses containing them, with the singular 'it' made plural to agree with 'works'. Below Skousen's sixteen-word threshold and not among his quotations; catalogued as a quotation under CONVENTIONS \u00a72 because a complete clause is reproduced from an identifiable verse. Note that the 1830 text reads 'whether they be good, or whether they be evil', preserving the KJV's full doubled construction, which is what makes the source visible.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "manual"
+    ]
+   }
+  ],
+  "3:26": [
+   {
+    "source": "Revelation 14:10",
+    "type": "allusion",
+    "subtype": "close-verbal",
+    "confidence": "high",
+    "text": "The same shall drink of the wine of the wrath of God, which is poured out without mixture into the cup of his indignation; and he shall be tormented with fire and brimstone in the presence of the holy angels, and in the presence of the Lamb:",
+    "evidence": {
+     "vocabulary": 4,
+     "syntax": 4,
+     "sequence": 5,
+     "context": 5,
+     "rarity": 4,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "recurrenceRefs": [
+     "Mosiah 3:27",
+     "Mosiah 2:38"
+    ],
+    "provenance": {
+     "route": "Revelation 14:10-11 \u2192 KJV \u2192 Book of Mormon",
+     "other": "\u201cthe wine of the wrath of God\u201d occurs in exactly one KJV verse and \u201ccup of his indignation\u201d occurs in exactly one KJV verse \u2014 the same verse. 'The cup of' occurs in ten KJV verses and 'the wrath of God' in several, but the two are joined in one sentence only at Revelation 14:10 \u2014 'the wine of the wrath of God, which is poured out \u2026 into the cup of his indignation'. The Book of Mormon compresses the two vessels into one, 'the cup of the wrath of God', which is in no KJV verse. Isaiah 51:17's 'cup of his fury' and Jeremiah 25:15's 'wine cup of this fury' are the Old Testament figures and neither has 'wrath of God'.",
+     "significance": "Revelation 14:10 and 14:11 are consecutive and Mosiah 3:26 and 3:27 are consecutive, and they run in the same order: first the drinking of the cup, then the torment with fire and brimstone whose smoke ascends for ever. The Book of Mormon then adds its own clause between them \u2014 that justice 'could no more deny' this than it could deny that Adam should fall \u2014 which converts Revelation's vision into an argument about the necessity of the atonement, the argument the whole chapter has been making since 3:11."
+    },
+    "note": "'Therefore, they have drunk out of the cup of the wrath of God, which justice could no more deny unto them.' The compression of Revelation 14:10's two vessels into one cup, followed in the next verse by 14:11's fire and smoke. This is the fourth of the five contacts with Revelation 14:6-12 in Benjamin's sermon; the argument for reading them as one borrowing rather than five is set out at 3:20.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "manual"
+    ]
+   }
+  ],
+  "3:27": [
+   {
+    "source": "Revelation 14:11",
+    "type": "allusion",
+    "subtype": "strong-verbal",
+    "confidence": "high",
+    "text": "And the smoke of their torment ascendeth up for ever and ever: and they have no rest day nor night, who worship the beast and his image, and whosoever receiveth the mark of his name.",
+    "evidence": {
+     "vocabulary": 5,
+     "syntax": 4,
+     "sequence": 5,
+     "context": 5,
+     "rarity": 5,
+     "attestation": 4
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "composite": [
+     "Revelation 20:10",
+     "Matthew 3:12"
+    ],
+    "recurrenceRefs": [
+     "Mosiah 2:38"
+    ],
+    "provenance": {
+     "route": "Revelation 14:10-11 with Revelation 20:10 \u2192 KJV \u2192 Book of Mormon",
+     "other": "\u201cascendeth up for ever and ever\u201d occurs in exactly one KJV verse, and the Book of Mormon reproduces its subject as well: 'their torment' \u2192 'whose smoke'. \u201clake of fire and brimstone\u201d occurs in exactly one KJV verse, Revelation 20:10; Revelation 14:10 has the fire and brimstone without the lake, and 21:8 has 'the lake which burneth with fire and brimstone'. \u201cunquenchable fire\u201d occurs in exactly one KJV verse, Matthew 3:12.",
+     "significance": "Three KJV singletons in one sentence, from three different judgement passages, and the sentence they make is the one the whole sermon has been driving at since Mosiah 2:38 \u2014 which used two of the same three. Read together, 2:38 and 3:27 are the same borrowing made twice, once in the king's voice and once in the angel's, and the repetition is the sermon's structure rather than a redundancy: what Benjamin argued from experience, the angel's message confirms from revelation. Revelation 14:10-11 supplies the fire and the smoke, Revelation 20:10 supplies the lake, and John the Baptist supplies the adjective."
+    },
+    "note": "'And their torment is as a lake of fire and brimstone, whose flames are unquenchable, and whose smoke ascendeth up forever and ever.' The verse Hardy's apparatus cross-references here is Revelation 14:11, and the wording bears him out \u2014 but the sentence needs two further verses to be accounted for, since 'lake' comes from Revelation 20:10 and 'unquenchable' from Matthew 3:12. Note the 1830's 'ascendeth' after a singular subject, which matches the KJV's own inflection exactly; the same phrase at Mosiah 2:38 has the 1830 verb after a plural subject, where the KJV form is preserved against the grammar (CONVENTIONS \u00a78).",
+    "bibliography": [
+     "Hardy MSI at Mosiah 3.27 (cross-references Revelation 14:11)"
+    ],
+    "status": "majority",
+    "streams": [
+     "scholarship",
+     "manual"
+    ]
+   }
+  ]
+ }
+}

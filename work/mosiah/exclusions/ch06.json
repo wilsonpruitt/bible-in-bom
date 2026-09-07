@@ -1,0 +1,66 @@
+[
+  {
+    "bomRef": "Mosiah 6:1",
+    "source": "Ezekiel 16:8",
+    "category": "common-vocabulary",
+    "sharedText": "entered into a covenant with",
+    "streams": ["machine-ngram"],
+    "reason": "The chapter's highest-scoring machine candidate and a poor one. 'Entered into a covenant with' is the KJV's ordinary way of saying that a covenant was made — 2 Chronicles 15:12, Jeremiah 34:10, Ezekiel 16:8 — and Mosiah 6:1-2 says it twice because that is what the chapter is about. Ezekiel 16:8's covenant is a marriage, made by God with a foundling Jerusalem whose nakedness he covers; nothing in Benjamin's roll-taking answers to it. The distinctive act at Mosiah 6:1 is the recording of names, and the link is written to Nehemiah 9:38, the KJV's one covenant ratified that way."
+  },
+  {
+    "bomRef": "Mosiah 6:3",
+    "source": "Acts 7:35",
+    "category": "wrong-sense",
+    "sharedText": "to be a ruler and a",
+    "streams": ["machine-ngram"],
+    "reason": "The longest run the machine found in this chapter, six words, and a textbook instance of the window closing one word early. Acts 7:35 completes as 'a ruler and a judge' and then 'a ruler and a deliverer'; Mosiah 6:3 completes as 'a ruler and a king'. Stephen's sentence is about Moses being refused by his people, and its whole point is that Moses was not made a king. The KJV pairs ruler with king in one verse only, 1 Kings 1:35, where David installs Solomon, and the link is written there. Registered at length because the run length would otherwise have carried it, and because Acts 7:35's rejected-deliverer typology is genuinely at home elsewhere in the Book of Mormon — just not here, in a peaceful succession."
+  },
+  {
+    "bomRef": "Mosiah 6:4",
+    "source": "Ezekiel 1:1",
+    "category": "wrong-sense",
+    "sharedText": "in the thirtieth year",
+    "streams": ["machine-ngram"],
+    "reason": "'In the thirtieth year' is a date formula, and Ezekiel 1:1's is a date — the year of his call by the river Chebar, not anyone's age. Mosiah 6:4's is an age: 'in the thirtieth year of his age'. The KJV verse that gives a king an age of thirty at his accession is 2 Samuel 5:4, David's, and the link is written there. Registered because a shared four-word run in a chronological notice is exactly the kind of match a reader skims past and a machine scores."
+  },
+  {
+    "bomRef": "Mosiah 6:4",
+    "source": "2 Kings 23:30",
+    "category": "formulaic",
+    "sharedText": "in his father's stead",
+    "streams": ["machine-ngram"],
+    "reason": "'In his father's stead' is the Deuteronomistic regnal formula and the KJV uses it of Jehoahaz (2 Kings 23:30, 2 Chronicles 36:1) and of the anointed priest (Leviticus 16:32) among others; a phrase spread across the whole of Kings and Chronicles cannot identify a source. What is not formulaic is the infinitive: 'to reign in his stead' occurs once in the KJV, at 2 Chronicles 1:8, in Solomon's mouth, and that is where the link is written. The distinction is worth registering because the two look identical in a concordance."
+  },
+  {
+    "bomRef": "Mosiah 6:6",
+    "source": "Deuteronomy 8:11",
+    "category": "better-source-identified",
+    "sharedText": "his judgments, and his statutes",
+    "streams": ["machine-ngram"],
+    "reason": "A genuine two-verse rarity and the better half of a real question. 'His judgments and his statutes' occurs in Deuteronomy 8:11 and Nehemiah 10:29 and nowhere else, and the machine ranked them within a hundredth of each other. Nehemiah wins on three grounds: it supplies 'walk' and 'observe', which are two of Mosiah 6:6's three verbs and are absent from Deuteronomy 8:11; it is a positive oath rather than a warning ('Beware that thou forget not'); and its setting is a covenant sealed by a written list of names, which is what Mosiah 6:1 has just described. Deuteronomy 8:11 remains the background idiom and is registered so a reader is sent to it."
+  },
+  {
+    "bomRef": "Mosiah 6:6",
+    "source": "Acts 3:22",
+    "category": "formulaic",
+    "sharedText": "in all things whatsoever he",
+    "streams": ["machine-ngram"],
+    "reason": "A five-word run against a verse that matters elsewhere in this corpus — Acts 3:22 is the Deuteronomy 18 prophet-like-Moses text, and the mediation between its form and Deuteronomy's is one of the pilot's principal results at 1 Nephi 22:20. It has no business here. Mosiah 6:6's clause is 'did keep his commandments in all things whatsoever he commanded him'; Acts 3:22's is 'him shall ye hear in all things whatsoever he shall say unto you'. The shared words are a universal-quantifier frame with no content, the verbs differ, and Mosiah 6:6 is a regnal evaluation with no prophet in it. A rare-looking run against an important verse is still a formula."
+  },
+  {
+    "bomRef": "Mosiah 6:7",
+    "source": "James 5:17",
+    "category": "formulaic",
+    "sharedText": "the space of three years",
+    "streams": ["machine-ngram"],
+    "reason": "'The space of three years' is a duration, shared with Acts 20:31 and James 5:17 because three years is a common length of time and the KJV has one way of saying it. James's three years are Elijah's drought and Acts's are Paul's Ephesian ministry; Mosiah's are a period without contention. Registered only because two candidates scored on the same run and a reader might wonder why neither is a link."
+  },
+  {
+    "bomRef": "Mosiah 6:2",
+    "source": "1 Peter 4:14",
+    "category": "better-source-identified",
+    "sharedText": "the name of Christ",
+    "streams": ["machine-ngram"],
+    "reason": "'The name of Christ' occurs in exactly two KJV verses and both were proposed. 1 Peter 4:14 is declined in favour of 2 Timothy 2:19 on the strength of what surrounds the phrase rather than the phrase itself. Peter's verse is about being reproached FOR the name; Mosiah 6:2 is about taking the name UPON oneself, which is 2 Timothy's 'nameth the name of Christ'. Decisively, 2 Timothy 2:19 also contains a seal and the clause 'them that are his', both of which stand in Mosiah 5:15's 'may seal you his' four verses earlier. One KJV verse accounts for three Book of Mormon phrases; the other accounts for none."
+  }
+]

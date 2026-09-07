@@ -1,0 +1,82 @@
+[
+  {
+    "bomRef": "Mosiah 10:1",
+    "source": "Ezekiel 32:27",
+    "category": "common-vocabulary",
+    "sharedText": "weapons of war",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "'Weapons of war' occurs in nine KJV verses (Deuteronomy 1:41, Judges 18:11/16/17, 1 Samuel 21:8, 2 Samuel 1:27, Ecclesiastes 9:18, Jeremiah 21:4, Ezekiel 32:27) with no distinctive setting shared by any of them. It is the King James phrase for the thing, not a borrowing from a verse. A standing exclusion for the chapter: 10:1's 'weapons of war made, of every kind' points at no particular verse. The same applies to the connective matches the machine returned at 10:13 (1 Chronicles 10:14, Psalm 135:3, 'of the Lord therefore he'), 10:14 (Numbers 4:49, 'of the Lord they were') and 10:15 (Judges 14:9, 'that he had taken the'; Joshua 4:2, 'of the people out of'), all of which are covered by the standing formulaic exclusion at 1 Nephi 1:5 and are listed here only so the chapter's candidate list can be reconciled."
+  },
+  {
+    "bomRef": "Mosiah 10:6",
+    "source": "1 Kings 11:43",
+    "category": "better-source-identified",
+    "sharedText": "his son began to reign in his stead",
+    "streams": [
+      "manual"
+    ],
+    "reason": "'His son reigned in his stead' occurs in forty-one KJV verses — the Deuteronomistic succession formula, and unusable on its own as evidence of dependence on any one of them. The Book of Mormon's fused form, 'began to reign in his stead', is in no KJV verse at all: it welds 'began to reign' (1 Kings 15:25 and its kind) to 'in his stead'. The regnal frame IS being borrowed here, but the place to argue it is Mosiah 11:1, where the same succession formula is followed immediately by a regnal evaluation ('he did not walk in the ways of his father') that has a traceable KJV source. The link is filed there; this verse sends the reader to it."
+  },
+  {
+    "bomRef": "Mosiah 10:8",
+    "source": "Genesis 3:7",
+    "category": "wrong-sense",
+    "sharedText": "that they were naked",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "The machine's top-ranked candidate for the verse (rarity 3.00, a six-word run) and the model of a match that is real as a string and empty as a link. Genesis 3:7 is the moment Adam and Eve know they are naked and cover themselves; the nakedness is discovered, shameful, and immediately clothed. Mosiah 10:8's Lamanites are naked on purpose — shaven-headed, stripped for battle, and girded with the one garment the sentence does name. The KJV clause is about acquiring shame; the Book of Mormon clause is about a military appearance calculated to terrify. Nothing in the Eden context construes anything in Zeniff's, and the real borrowing in this verse is four words further on (Matthew 3:4, 'a leathern girdle about')."
+  },
+  {
+    "bomRef": "Mosiah 10:8",
+    "source": "Mark 14:48",
+    "category": "formulaic",
+    "sharedText": "with swords and with",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "Mark 14:48 is Gethsemane — 'Are ye come out, as against a thief, with swords and with staves to take me?' — and the shared run is the repeated preposition of a weapons list, which Mosiah 10:8 uses six times over. Isaiah 7:24's 'with arrows and with bows' (also proposed here) is the same artifact with the pair reversed. Both are the n-gram stream counting a list's punctuation. Listed rather than passed over because a reader who noticed that the Gethsemane arrest party and the Lamanite host are described with the same words might think something was there; nothing is."
+  },
+  {
+    "bomRef": "Mosiah 10:12",
+    "source": "Exodus 10:11",
+    "category": "common-vocabulary",
+    "sharedText": "they were driven out",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "Exodus 10:11 has Moses and Aaron 'driven out from Pharaoh's presence' during the plague negotiations; Mosiah 10:12 has the Lamanite tradition that its fathers 'were driven out of the land of Jerusalem'. The four words are the ordinary KJV passive for expulsion and neither passage lends anything to the other. Worth an entry only because Mosiah 10-12 does draw on Exodus repeatedly (34:4 at 10:16, 5:2 at 11:27, 20:2-4 at 12:34-36), which makes an accidental Exodus hit here more tempting than it would otherwise be."
+  },
+  {
+    "bomRef": "Mosiah 10:15",
+    "source": "1 Samuel 29:4",
+    "category": "common-vocabulary",
+    "sharedText": "were wroth with him",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "Proposed at both 10:15 and 10:16, and it has a genuine rarity claim behind it: 'wroth with him' occurs in exactly two KJV verses, 1 Samuel 29:4 and 2 Kings 13:19. But the collocation is unmarked English — 'wroth' plus a personal object — and the Book of Mormon uses it four times in five verses (10:14 twice, 10:15, 10:16) as the refrain of the Lamanite grievance list, which is a house formula, not four borrowings. The KJV verse is the Philistine lords refusing David a place in their line of battle, and it construes nothing. This is the pilot's lesson about the n-gram stream in miniature: a low count is not the same as a distinctive phrase."
+  },
+  {
+    "bomRef": "Mosiah 10:16",
+    "source": "1 Kings 7:36",
+    "category": "wrong-sense",
+    "sharedText": "on the plates of",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "The trap the pilot named at 1 Nephi 3 with Samson's fetters of brass, and here it lands on the phrase the whole project is named after. 1 Kings 7:36's plates are the flat bronze panels of the ledges of Solomon's temple lavers, engraved with cherubim, lions and palm trees; 'the plates of brass' in Mosiah 10:16 are a written record. The KJV never uses 'plates' of a document. The match is four words of prepositional tissue attached to a homograph, and the verse's actual borrowing is the eight-word run from Exodus 34:4 that follows it."
+  },
+  {
+    "bomRef": "Mosiah 10:20",
+    "source": "2 Chronicles 13:17",
+    "category": "common-vocabulary",
+    "sharedText": "slew them with a great slaughter",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "'With a great slaughter' occurs in eight KJV verses (Joshua 10:10, Judges 15:8, 1 Samuel 6:19, 19:8, 23:5, 1 Kings 20:21, 2 Chronicles 13:17, 28:5), five of them with 'slew' or 'smote' in front of it. It is the King James Bible's standing idiom for a decisive victory and points at no source. Recorded because 2 Chronicles 13:17 in particular — Abijah's victory over a numerically superior Israel after a speech about which side has the Lord — is close enough in narrative shape to Mosiah 10:19-20 that a reader might take the phrase as a marker of it. The shape may well be borrowed; the words are not evidence that it was."
+  }
+]

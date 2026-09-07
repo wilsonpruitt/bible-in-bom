@@ -1,6 +1,6 @@
 # Mosiah 23 — adjudication dossier
 
-Running text: 1830 first edition (modern versification). 39 verses. 191 machine candidates for this chapter; the top 24 by n-gram rarity are shown below, grouped by verse.
+Running text: 1830 first edition (modern versification). 39 verses. 191 machine candidates for this chapter; the top 50 by n-gram rarity are shown below, grouped by verse.
 
 Substantive 1830-vs-1920 differences are flagged per verse. Note that KJV
 spellings (*shew*, *marvellous*) surviving in 1830 and modernized later are
@@ -16,6 +16,15 @@ Now Alma, having been warned of the Lord that the armies of king Noah would come
 
 - *variant* 1830 `had` → 1920 `having`
 
+- **Jeremiah 46:21** — rarity 1.00, longest run 4
+  > Also her hired men are in the midst of her like fatted bullocks; for they also are turned back, and are fled away together: they did not stand, because the day of their calamity was come upon them, and the time of their visitation.
+  shared: *come upon them and*
+- **Matthew 15:21** — rarity 1.00, longest run 4
+  > Then Jesus went thence, and departed into the coasts of Tyre and Sidon.
+  shared: *and departed into the*
+- **2 Kings 13:7** — rarity 1.00, longest run 4
+  > Neither did he leave of the people to Jehoahaz but fifty horsemen, and ten chariots, and ten thousand footmen; for the king of Syria had destroyed them, and had made them like the dust by threshing.
+  shared: *them and had made*
 
 ### 23:2
 
@@ -52,6 +61,9 @@ And it came to pass that they pitched their tents, and began to till the ground,
 - *variant* 1830 `that` → 1920 `(deleted)`
 - *variant* 1830 `&c.` → 1920 `(deleted)`
 
+- **Ezra 5:2** — rarity 1.00, longest run 4
+  > Then rose up Zerubbabel the son of Shealtiel, and Jeshua the son of Jozadak, and began to build the house of God which is at Jerusalem: and with them were the prophets of God helping them.
+  shared: *and began to build*
 
 ### 23:6
 
@@ -113,11 +125,41 @@ And now I say unto you, As ye have been oppressed by king Noah, and have been in
 - **Acts 5:38** — rarity 2.01, longest run 6
   > And now I say unto you, Refrain from these men, and let them alone: for if this counsel or this work be of men, it will come to nought:
   shared: *and now i say*; *i say unto you*; *now i say unto*
+- **Colossians 2:7** — rarity 1.00, longest run 4
+  > Rooted and built up in him, and stablished in the faith, as ye have been taught, abounding therein with thanksgiving.
+  shared: *as ye have been*
+- **Jeremiah 49:3** — rarity 1.00, longest run 4
+  > Howl, O Heshbon, for Ai is spoiled: cry, ye daughters of Rabbah, gird you with sackcloth; lament, and run to and fro by the hedges; for their king shall go into captivity, and his priests and his princes together.
+  shared: *and his priests and*
+- **2 Chronicles 36:20** — rarity 1.00, longest run 4
+  > And them that had escaped from the sword carried he away to Babylon; where they were servants to him and his sons until the reign of the kingdom of Persia:
+  shared: *to him and his*
 
 ### 23:13
 
 And now as ye have been delivered, by the power of God, out of these bonds; yea, even out of the hands of king Noah and his people, and also from the bonds of iniquity, even so I desire that ye should stand fast in this liberty wherewith ye have been made free, and that ye trust no man to be a king over you;
 
+- **1 Kings 13:1** — rarity 1.00, longest run 4
+  > And, behold, there came a man of God out of Judah by the word of the LORD unto Bethel: and Jeroboam stood by the altar to burn incense.
+  shared: *of god out of*
+- **1 Samuel 18:23** — rarity 1.00, longest run 4
+  > And Saul’s servants spake those words in the ears of David. And David said, Seemeth it to you a light thing to be a king’s son in law, seeing that I am a poor man, and lightly esteemed?
+  shared: *to be a king*
+- **Ephesians 3:13** — rarity 1.00, longest run 4
+  > Wherefore I desire that ye faint not at my tribulations for you, which is your glory.
+  shared: *i desire that ye*
+- **Titus 3:2** — rarity 1.00, longest run 4
+  > To speak evil of no man, to be no brawlers, but gentle, shewing all meekness unto all men.
+  shared: *no man to be*
+- **Isaiah 58:6** — rarity 1.00, longest run 4
+  > Is not this the fast that I have chosen? to loose the bands of wickedness, to undo the heavy burdens, and to let the oppressed go free, and that ye break every yoke?
+  shared: *free and that ye*
+- **Colossians 2:7** — rarity 1.00, longest run 4
+  > Rooted and built up in him, and stablished in the faith, as ye have been taught, abounding therein with thanksgiving.
+  shared: *as ye have been*
+- **2 Chronicles 6:5** — rarity 1.00, longest run 4
+  > Since the day that I brought forth my people out of the land of Egypt I chose no city among all the tribes of Israel to build an house in, that my name might be there; neither chose I any man to be a ruler over my people Israel:
+  shared: *man to be a*
 
 ### 23:14
 
@@ -154,6 +196,9 @@ Therefore they did watch over their people, and did nourish them with things per
 
 And it came to pass that they began to prosper exceedingly in the land; and they called the land Helam.
 
+- **Luke 5:7** — rarity 1.00, longest run 4
+  > And they beckoned unto their partners, which were in the other ship, that they should come and help them. And they came, and filled both the ships, so that they began to sink.
+  shared: *that they began to*
 
 ### 23:20
 
@@ -178,6 +223,12 @@ Nevertheless, whosoever puteth his trust in him, the same shall be lifted up at 
 
 - *variant* 1830 `puteth` → 1920 `putteth`
 
+- **Ezekiel 16:19** — rarity 1.00, longest run 4
+  > My meat also which I gave thee, fine flour, and oil, and honey, wherewith I fed thee, thou hast even set it before them for a sweet savour: and thus it was, saith the Lord GOD.
+  shared: *and thus it was*
+- **John 15:5** — rarity 1.00, longest run 4
+  > I am the vine, ye are the branches: He that abideth in me, and I in him, the same bringeth forth much fruit: for without me ye can do nothing.
+  shared: *in him the same*
 
 ### 23:23
 
@@ -207,6 +258,9 @@ And it came to pass that he did deliver them, and he did shew forth his mighty p
 - *variant* 1830 `shew` → 1920 `show`
 - *variant* 1830 `was` → 1920 `were`
 
+- **Jonah 3:10** — rarity 1.00, longest run 4
+  > And God saw their works, that they turned from their evil way; and God repented of the evil, that he had said that he would do unto them; and he did it not.
+  shared: *them and he did*
 
 ### 23:25
 
@@ -230,6 +284,9 @@ Now it came to pass that the brethren of Alma fled from their fields, and gather
 
 - *variant* 1830 `into` → 1920 `in`
 
+- **Psalm 35:15** — rarity 1.00, longest run 4
+  > But in mine adversity they rejoiced, and gathered themselves together: yea, the abjects gathered themselves together against me, and I knew it not; they did tear me, and ceased not:
+  shared: *and gathered themselves together*
 
 ### 23:27
 
@@ -284,6 +341,12 @@ And behold, they had found those priests of king Noah, in a place which they cal
 - **Amos 2:10** — rarity 1.14, longest run 5
   > Also I brought you up from the land of Egypt, and led you forty years through the wilderness, to possess the land of the Amorite.
   shared: *possess the land of*; *to possess the land*
+- **Judges 21:19** — rarity 1.00, longest run 4
+  > Then they said, Behold, there is a feast of the LORD in Shiloh yearly in a place which is on the north side of Bethel, on the east side of the highway that goeth up from Bethel to Shechem, and on the south of Lebonah.
+  shared: *in a place which*
+- **Exodus 39:43** — rarity 1.00, longest run 4
+  > And Moses did look upon all the work, and, behold, they had done it as the LORD had commanded, even so had they done it: and Moses blessed them.
+  shared: *and behold they had*
 
 ### 23:32
 
@@ -300,6 +363,9 @@ And it came to pass that Amulon did plead with the Lamanites; and he also sent f
 - **Judges 9:41** — rarity 1.04, longest run 5
   > And Abimelech dwelt at Arumah: and Zebul thrust out Gaal and his brethren, that they should not dwell in Shechem.
   shared: *brethren that they should*; *that they should not*
+- **1 Chronicles 25:7** — rarity 1.00, longest run 4
+  > So the number of them, with their brethren that were instructed in the songs of the LORD, even all that were cunning, was two hundred fourscore and eight.
+  shared: *with their brethren that*
 
 ### 23:34
 
@@ -325,6 +391,12 @@ And it came to pass that the Lamanites promised unto Alma and his brethren, that
 
 - *variant* 1830 `shew` → 1920 `show`
 
+- **Jeremiah 19:7** — rarity 1.00, longest run 4
+  > And I will make void the counsel of Judah and Jerusalem in this place; and I will cause them to fall by the sword before their enemies, and by the hands of them that seek their lives: and their carcases will I give to be meat for the fowls of the heaven, and for the beasts of the earth.
+  shared: *their lives and their*
+- **Exodus 18:20** — rarity 1.00, longest run 4
+  > And thou shalt teach them ordinances and laws, and shalt shew them the way wherein they must walk, and the work that they must do.
+  shared: *shew them the way*
 
 ### 23:37
 
@@ -337,6 +409,9 @@ But it came to pass that after Alma had shewn them the way that led to the land 
 - *variant* 1830 `that` → 1920 `(deleted)`
 - *variant* 1830 `shewn` → 1920 `shown`
 
+- **Amos 3:11** — rarity 1.00, longest run 4
+  > Therefore thus saith the Lord GOD; An adversary there shall be even round about the land; and he shall bring down thy strength from thee, and thy palaces shall be spoiled.
+  shared: *round about the land*
 
 ### 23:38
 
@@ -357,4 +432,7 @@ And the king of the Lamanites had granted unto Amulon that he should be a king a
 - *variant* 1830 `any` → 1920 `anything`
 - *variant* 1830 `thing` → 1920 `(deleted)`
 
+- **Leviticus 26:37** — rarity 1.00, longest run 4
+  > And they shall fall one upon another, as it were before a sword, when none pursueth: and ye shall have no power to stand before your enemies.
+  shared: *have no power to*
 

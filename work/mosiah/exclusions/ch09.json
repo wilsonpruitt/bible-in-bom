@@ -1,0 +1,82 @@
+[
+  {
+    "bomRef": "Mosiah 9:1",
+    "source": "Galatians 2:14",
+    "category": "common-vocabulary",
+    "sharedText": "but when I saw that",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "The top candidate at verse 1, and a near miss that is worth recording precisely because a genuine Galatians 2 link sits three verses of the same passage away. Galatians 2:14 reads 'when I saw that they walked not uprightly'; Mosiah 9:1 reads 'when I saw that which was good among them'. Five words of the commonest narrative transition in first-person prose, and the two clauses go opposite ways — Paul saw something wrong and confronted it, Zeniff saw something good and spared it. The real borrowing from this chapter of Galatians is at 2:4, and it is at Mosiah 9:12."
+  },
+  {
+    "bomRef": "Mosiah 9:3",
+    "source": "Deuteronomy 2:1",
+    "category": "common-vocabulary",
+    "sharedText": "our journey into the wilderness",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "'Journey into the wilderness' occurs in five KJV verses and none of them is identifiable here; Deuteronomy 2:1's is Israel turning back toward the Red Sea after the failure at Kadesh. The same phrase was proposed and excluded at Mosiah 8:7 on the same grounds. What Mosiah 9:3 does borrow from the Deuteronomic account of that episode is the going up to possess, which is catalogued at Numbers 13:30 with Deuteronomy 1:21."
+  },
+  {
+    "bomRef": "Mosiah 9:9",
+    "source": "Jeremiah 41:8",
+    "category": "wrong-sense",
+    "sharedText": "of wheat, and of barley",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "The chapter's highest-scoring candidate by a distance (rarity 3.00, a six-word run) and the clearest wrong-sense case in this batch. “wheat and of barley” occurs in exactly one KJV verse, Jeremiah 41:8 — ten men begging Ishmael for their lives by offering him hidden stores of wheat, barley, oil and honey, in the massacre at Mizpah. Mosiah 9:9 is a list of what a colony planted: 'seeds of corn, and of wheat, and of barley, and with neas, and with sheum'. The shared run is a commodity list, the KJV's most mechanical kind of sentence, and the two lists diverge at the two crops nobody can identify. A KJV singleton in a commodity list is an artifact of the KJV's habit of repeating 'and of' before each item, not evidence of anything."
+  },
+  {
+    "bomRef": "Mosiah 9:9",
+    "source": "Genesis 3:23",
+    "category": "common-vocabulary",
+    "sharedText": "till the ground",
+    "streams": [
+      "manual"
+    ],
+    "reason": "'Till the ground' occurs in exactly two KJV verses, Genesis 2:5 and Genesis 3:23, both in the Eden narrative, and the phrase is tempting because Mosiah 9:9 is a founding-a-settlement verse and Genesis 3:23 is the sentence that sends man out to work the earth. But nothing else in Mosiah 9:9 touches Genesis 3 — the verse is a seed list ending in multiplying and prospering — and 'till the ground' is simply the KJV's English for farming, with 'tiller of the ground' (Genesis 4:2) and 'tilled' elsewhere. Recorded because the Eden reading is available and this catalogue should say that it was considered and refused."
+  },
+  {
+    "bomRef": "Mosiah 9:11",
+    "source": "Acts 21:1",
+    "category": "formulaic",
+    "sharedText": "and it came to pass that after we had",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "A seven-word run, the longest in the chapter, and empty. 'And it came to pass that after we had' is the Book of Mormon's standard narrative hinge and the KJV's; Acts 21:1 is Paul's party sailing from Miletus to Coos. Covered by the standing formulaic exclusion filed at 1 Nephi 2:1 and recorded here only because ADJUDICATING §4's first trap is exactly this — the longest run in a chapter is almost always the emptiest, and this chapter proves it twice over, here and at Jeremiah 41:8."
+  },
+  {
+    "bomRef": "Mosiah 9:17",
+    "source": "Psalm 22:8",
+    "category": "wrong-sense",
+    "sharedText": "the Lord that he would deliver",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "Ranked first in the verse at rarity 2.07 on a six-word run, and the sense is not merely different but hostile. Psalm 22:8 is the mockery of the crucified: 'He trusted on the LORD that he would deliver him: let him deliver him, seeing he delighted in him' — words the Gospels put in the mouths of the chief priests at Matthew 27:43. Mosiah 9:17 is a sincere prayer: 'did cry mightily to the Lord, that he would deliver us out of the hands of our enemies.' The run is an accident of the KJV's syntax for petition, which is the same whether the petition is meant or jeered. The verse's real sources are Psalm 71:16 and Jonah 3:8."
+  },
+  {
+    "bomRef": "Mosiah 9:17",
+    "source": "Luke 1:74",
+    "category": "insufficient-verbal",
+    "sharedText": "delivered out of the hand of our enemies",
+    "streams": [
+      "manual"
+    ],
+    "reason": "Considered seriously and declined on a pronoun-and-number check of the kind ADJUDICATING §4 reserves for the adjudicator. Luke 1:74 — the Benedictus — reads 'delivered out of the hand of our enemies', singular hand; Mosiah 9:17 reads 'out of the hands of our enemies', plural, as does Judges 8:34 ('out of the hands of all their enemies') and several others. 'Out of the hands of' occurs in three KJV verses and 'out of the hand of' in dozens, so the plural does not isolate a source either. Zacharias's canticle would have made an attractive metalepsis here — deliverance from enemies in order to serve without fear — and there is no wording to hang it on."
+  },
+  {
+    "bomRef": "Mosiah 9:19",
+    "source": "1 Samuel 25:33",
+    "category": "common-vocabulary",
+    "sharedText": "myself with mine own",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "1 Samuel 25:33 is David blessing Abigail for keeping him 'from avenging myself with mine own hand'; Mosiah 9:19 is Zeniff saying he helped bury the dead 'with mine own hands'. Four words, and the resemblance is a coincidence of the reflexive: David's is a hand that did not kill, Zeniff's a pair of hands that buried. 'With mine own hands' is in no KJV verse at all in the plural. The verse's link is to Acts 8:2 and rests on 'great lamentation'."
+  }
+]

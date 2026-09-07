@@ -1,0 +1,82 @@
+[
+  {
+    "bomRef": "Mosiah 25:1",
+    "source": "Genesis 29:7",
+    "category": "formulaic",
+    "sharedText": "should be gathered together",
+    "streams": ["machine-ngram"],
+    "reason": "Four words of assembly boilerplate, matched against Jacob telling shepherds it is too early to water the flocks. 'Gathered together' is among the Book of Mormon's commonest phrases and is used four times in this chapter's first four verses alone; the same run drew the machine at 23:26 and 25:4."
+  },
+  {
+    "bomRef": "Mosiah 25:2",
+    "source": "Genesis 7:7",
+    "category": "formulaic",
+    "sharedText": "with him into the",
+    "streams": ["machine-ngram"],
+    "reason": "Noah going into the ark against Mulek's company coming into the wilderness. Four function words. Listed because the machine offered six candidates on this string at this verse and a reader of the raw list should know that none of them was considered."
+  },
+  {
+    "bomRef": "Mosiah 25:9",
+    "source": "Revelation 21:4",
+    "category": "insufficient-verbal",
+    "sharedText": "tears ... sorrow",
+    "streams": ["manual"],
+    "reason": "Considered because 'shed many tears of sorrow' in a paragraph of alternating grief and joy invites the eschatological promise that God shall wipe away all tears. But 'tears of sorrow' stands in no KJV verse, Revelation 21:4 has neither of the Book of Mormon's constructions, and the verse's grief is for brethren slain by Lamanites, not for a world passed away. No wording, no link."
+  },
+  {
+    "bomRef": "Mosiah 25:10",
+    "source": "Acts 27:35",
+    "category": "better-source-identified",
+    "sharedText": "gave thanks to God",
+    "streams": ["machine-ngram"],
+    "reason": "The same KJV singleton the machine ranked first at Mosiah 24:22, and this is its second occurrence in two chapters. Adjudicated at first use: the link is filed at 24:22, where the thanksgiving follows the deliverance directly, and this verse records the people of Zarahemla repeating the reaction on hearing about it. A reader arriving here should go to 24:22, including for the reason the row is thin."
+  },
+  {
+    "bomRef": "Mosiah 25:12",
+    "source": "Matthew 5:9",
+    "category": "better-source-identified",
+    "sharedText": "be called the children of",
+    "streams": ["machine-ngram"],
+    "reason": "Both Matthew 5:9 ('they shall be called the children of God') and Romans 9:26 ('there shall they be called the children of God') give a five-word run, and both are about a name conferred rather than inherited, which is the verse's subject. But the Book of Mormon's noun is Nephi, not God, and the passage about adopting another man's name into his people is Isaiah 44:5. The link is filed there; these two are the sound of a common relative clause."
+  },
+  {
+    "bomRef": "Mosiah 25:15",
+    "source": "Matthew 28:12",
+    "category": "wrong-sense",
+    "sharedText": "when they were assembled",
+    "streams": ["machine-ngram"],
+    "reason": "A clean four-word match in a wholly opposed setting. Matthew 28:12 is the chief priests assembling with the elders to buy the soldiers' silence about the empty tomb; Mosiah 25:15 is a congregation assembled in bodies to be preached to. The machine flagged 'assembled' and 'large' as rare words, which they are — 'they gave LARGE money unto the soldiers' against 'assembled together in LARGE bodies'. Two rare words, no relation."
+  },
+  {
+    "bomRef": "Mosiah 25:16",
+    "source": "John 21:12",
+    "category": "wrong-sense",
+    "sharedText": "that it was the Lord",
+    "streams": ["machine-ngram"],
+    "reason": "John 21:7 and 21:12 use the clause of recognising the risen Jesus on the shore; Mosiah 25:16 uses it of attributing a rescue to the right agent — 'that they should remember that it was the Lord that did deliver them.' The five shared words are a subject clause, and the Johannine sense, recognition of a person, is absent."
+  },
+  {
+    "bomRef": "Mosiah 25:22",
+    "source": "1 Corinthians 12:19",
+    "category": "better-source-identified",
+    "sharedText": "they were all one",
+    "streams": ["machine-ngram"],
+    "reason": "The machine's proposal is one verse short. 1 Corinthians 12:19 is a rhetorical question against uniformity — 'if they were all one member, where were the body?' — which argues the opposite of Mosiah 25:22. The verse the Book of Mormon is transposing is 12:20, 'now are they many members, yet but one body', the KJV's only 'yet but one body' and the affirmative form of the figure. The link is filed there."
+  },
+  {
+    "bomRef": "Mosiah 25:23",
+    "source": "2 Timothy 2:19",
+    "category": "better-source-identified",
+    "sharedText": "the name of Christ",
+    "streams": ["manual"],
+    "reason": "'Take upon them the name of Christ' is a covenant formula this book has already established: it is spoken by king Benjamin at Mosiah 5:8 ('take upon you the name of Christ'), and CONVENTIONS practice is to adjudicate a formula at its first use within a book and record later occurrences as recurrence. The KJV's two 'the name of Christ' verses (2 Timothy 2:19; 1 Peter 4:14) are about naming and reproach, not about taking a name in covenant, and neither is a plausible source for either occurrence. A reader should go to Mosiah 5:8."
+  },
+  {
+    "bomRef": "Mosiah 25:24",
+    "source": "Numbers 11:29",
+    "category": "better-source-identified",
+    "sharedText": "his spirit upon them",
+    "streams": ["machine-ngram"],
+    "reason": "Numbers 11:29 is a KJV singleton for 'put his spirit upon them' and its context — Moses wishing all the Lord's people were prophets, in a chapter about the seventy elders — is genuinely close to a verse about churches multiplying under appointed teachers. But the Book of Mormon's verb is 'pour out', not 'put', and 'pour out my spirit upon' is a singleton of its own at Joel 2:28. The link is filed there, and the mediation against Acts 2:17 is the finding; see the note."
+  }
+]

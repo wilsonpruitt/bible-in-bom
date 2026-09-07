@@ -1,0 +1,82 @@
+[
+  {
+    "bomRef": "Mosiah 24:1",
+    "source": "Judges 9:41",
+    "category": "formulaic",
+    "sharedText": "and his brethren that they should",
+    "streams": ["machine-ngram"],
+    "reason": "The chapter's top-scoring candidate, and it is a six-word run of pure connective. Judges 9:41 is Zebul expelling Gaal from Shechem; Mosiah 24:1 is a king appointing teachers over conquered lands. The same run drew the machine at Mosiah 23:33 as well, which is what a connective string does."
+  },
+  {
+    "bomRef": "Mosiah 24:5",
+    "source": "Galatians 4:8",
+    "category": "common-vocabulary",
+    "sharedText": "ye knew not God",
+    "streams": ["manual"],
+    "reason": "Considered because 24:5's 'nevertheless they knew not God' is a striking flat statement about a whole people and the KJV has a standing idiom for it. But the idiom is distributed — Judges 2:10, Galatians 4:8, 1 Thessalonians 4:5, 2 Thessalonians 1:8, 1 John 3:1 — and no single verse is closer than the rest. Nothing else in Mosiah 24:5 is Pauline; the sentence goes on to the law of Moses and the words of Abinadi, which are the book's own."
+  },
+  {
+    "bomRef": "Mosiah 24:9",
+    "source": "2 Kings 13:19",
+    "category": "wrong-sense",
+    "sharedText": "was wroth with him",
+    "streams": ["machine-ngram"],
+    "reason": "In 2 Kings 13:19 the man of God is wroth with a king for striking the ground too few times, a rebuke inside a prophetic sign-act. At Mosiah 24:9 Amulon is wroth with Alma because Alma believed Abinadi and he did not. The four-word run is the KJV's ordinary way of saying anger and appears in dozens of verses; the verse's real source is Exodus 1:11, and the link is filed there."
+  },
+  {
+    "bomRef": "Mosiah 24:11",
+    "source": "Acts 12:19",
+    "category": "better-source-identified",
+    "sharedText": "should be put to death",
+    "streams": ["machine-ngram"],
+    "reason": "Acts 12:19 is close in situation as well as words — Herod examines the keepers who let Peter out and commands that they should be put to death — and Acts 12 is genuinely present in this chapter, at 24:14 where 'know of a surety' is Peter's phrase after that same escape. But the death penalty here falls on the prisoners for praying, not on the guards for failing, and the decree-against-prayer belongs to Daniel 6:7. The link is filed at 24:11 to Daniel and the Acts 12 contact is recorded at 24:14, which is where it bears."
+  },
+  {
+    "bomRef": "Mosiah 24:12",
+    "source": "Daniel 2:30",
+    "category": "wrong-sense",
+    "sharedText": "know the thoughts of",
+    "streams": ["machine-ngram"],
+    "reason": "Daniel 2:30 is about Nebuchadnezzar coming to know the thoughts of his own heart through an interpreted dream; Mosiah 24:12 is about God knowing the thoughts of other people's hearts without being told them, which is the point of a prayer that is not spoken aloud. The two uses are nearly opposite and the shared string is four common words. The verse's sources are 1 Samuel 1:13 and 1:15; see the accepted link."
+  },
+  {
+    "bomRef": "Mosiah 24:14",
+    "source": "Numbers 7:9",
+    "category": "wrong-sense",
+    "sharedText": "bear upon their shoulders",
+    "streams": ["manual"],
+    "reason": "Tempting on the wording — Numbers 7:9 is one of very few KJV verses putting a load on shoulders that must be borne — but the sense is the reverse of Mosiah 24:14's. The Kohathites bear the sanctuary on their shoulders as a privilege, and are given no wagons precisely because the burden is holy. Alma's people carry a burden imposed by a slave-master, and the promise is that they will stop feeling it. The relief-from-a-shoulder verses are Psalm 81:6 and Isaiah 10:27, and the link is filed to the first."
+  },
+  {
+    "bomRef": "Mosiah 24:15",
+    "source": "Matthew 22:5",
+    "category": "wrong-sense",
+    "sharedText": "made light",
+    "streams": ["machine-ngram"],
+    "reason": "The model case for this category in the chapter. 'Made light' is a KJV singleton at Matthew 22:5 and the string matches Mosiah 24:15's 'the burdens which was laid upon Alma and his brethren, were made light' exactly — but in Matthew the phrase is idiomatic contempt, 'they made light of it, and went their ways', of guests ignoring a wedding invitation. In Mosiah it is literal: a weight is reduced. Same two words, no relation whatever."
+  },
+  {
+    "bomRef": "Mosiah 24:16",
+    "source": "Judges 20:28",
+    "category": "better-source-identified",
+    "sharedText": "morrow I will deliver",
+    "streams": ["machine-ngram"],
+    "reason": "A genuine four-word run and the only other KJV verse promising a deliverance for the following day: 'to morrow I will deliver them into thine hand.' But Judges 20:28 delivers an enemy INTO Israel's hand for slaughter, and Mosiah 24:16 delivers a people OUT of bondage. Jeremiah 15:21's 'I will deliver thee out of' is the KJV's only match for the construction the Book of Mormon actually has, and the 1830 'thee' is what secures it; the link is filed there."
+  },
+  {
+    "bomRef": "Mosiah 24:21",
+    "source": "Judges 8:34",
+    "category": "formulaic",
+    "sharedText": "had delivered them out of",
+    "streams": ["machine-ngram"],
+    "reason": "Deliverance boilerplate. Judges 8:34 is Israel forgetting the LORD 'who had delivered them out of the hands of all their enemies on every side', and the run is the KJV's standard formula, which the Book of Mormon has used since 1 Nephi. Mosiah 24:21's substance — thanks poured out in a named valley for burdens eased — has no contact with Gideon's chapter."
+  },
+  {
+    "bomRef": "Mosiah 24:25",
+    "source": "1 Samuel 5:9",
+    "category": "formulaic",
+    "sharedText": "that after they had",
+    "streams": ["machine-ngram"],
+    "reason": "Four words of narrative hinge, matched against a verse about the men of Gath being smitten with emerods. Listed only because it is the sole candidate the machine offered for the chapter's closing verse, which is a reminder that a ranked list with nothing in it still returns something."
+  }
+]
