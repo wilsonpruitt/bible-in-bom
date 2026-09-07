@@ -1,0 +1,857 @@
+{
+  "chapter": 10,
+  "adjudicated": "2026-09-07",
+  "adjudicator": "Opus",
+  "links": {
+    "10:2": [
+      {
+        "source": "Daniel 5:5",
+        "type": "allusion",
+        "subtype": "conceptual",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 2,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Daniel 5:25",
+          "Exodus 31:18",
+          "Deuteronomy 9:10",
+          "Exodus 8:19"
+        ],
+        "recurrenceRefs": [
+          "Alma 10:17",
+          "Alma 10:23"
+        ],
+        "provenance": {
+          "route": "Daniel 5:5-28 + Exodus 31:18 → KJV → Book of Mormon",
+          "other": "The KJV contains exactly one episode of writing appearing on a wall and requiring an interpreter: Daniel 5. “With the finger of God” occurs in exactly three KJV verses, Exodus 31:18, Deuteronomy 9:10 and Luke 11:20; the Book of Mormon reads “by the finger of God”.",
+          "significance": "Amulek's credential is a great-grandfather who read writing on a temple wall, and the only such writing in the English Bible is MENE, MENE, TEKEL, UPHARSIN — a sentence of destruction on a city whose ruler has been weighed and found wanting, delivered in a hall where the vessels of the temple are being drunk from. Recover that and the genealogy stops being decorative: Amulek introduces himself to Ammonihah as the descendant of a man who once announced exactly the doom Amulek is about to announce, and by the end of the chapter he has announced it (10:22-23). The finger of God is the second half of the compound. In Exodus 31:18 and Deuteronomy 9:10 the phrase is used of the tables of the law, written on stone; in Daniel the writing on the plaister is written by the fingers of a man's hand. The Book of Mormon fuses them, so that the wall-writing carries the authority of Sinai — which is the point Amulek needs, since what he will shortly be accused of is speaking against the law.",
+          "alternative": "Exodus 8:19's 'This is the finger of God' is the magicians' confession before Pharaoh, and Luke 11:20 makes the finger of God the agency of exorcism; neither supplies the participle 'written'."
+        },
+        "note": "'That same Aminadi which interpreted the writing which was upon the wall of the temple, which was written by the finger of God.' No single phrase is long enough to carry the link alone — 'upon the wall' occurs in twelve KJV verses — but the scene is a KJV singleton at the level of event, and the second clause imports the Sinai formula. Daniel returns twice more in this chapter, at 'the holy ones of God' in 10:17 (Daniel 4:17) and 'stay his hand' in 10:23 (Daniel 4:35), both KJV singletons and both from the two Daniel chapters about a king's court under sentence. Three contacts with Daniel 4-5 in one discourse is the pattern, not the individual row.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ],
+        "text": "In the same hour came forth fingers of a man’s hand, and wrote over against the candlestick upon the plaister of the wall of the king’s palace: and the king saw the part of the hand that wrote."
+      }
+    ],
+    "10:3": [
+      {
+        "source": "Genesis 45:4",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 3,
+          "rarity": 5,
+          "attestation": 1
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Acts 7:9",
+          "Genesis 37:28"
+        ],
+        "provenance": {
+          "route": "Genesis 45:4 → KJV → Book of Mormon",
+          "other": "“Sold into Egypt” occurs in exactly one KJV verse, Genesis 45:4. Acts 7:9 has the same three words in a different order, 'sold Joseph into Egypt', and Genesis 37:28 says only that the brothers 'sold Joseph to the Ishmeelites'.",
+          "significance": "mediation-check.py returns divergences in both directions here, because the two candidates share almost nothing but the three words at issue, and the tool is reading their non-overlap as evidence. The word order decides it: Alma 10:3 has 'sold into Egypt' contiguous, which is Genesis 45:4's sequence and not Acts 7:9's. What Alma adds — 'by the hands of his brethren' — is what Genesis 45:4 supplies from its setting rather than its wording, since the sentence is Joseph's own accusation spoken to those brothers.",
+          "alternative": "Acts 7:9 attributes the sale to 'the patriarchs, moved with envy'; nothing of that phrasing survives here."
+        },
+        "note": "A genealogical formula, but the formula is quoting. The Book of Mormon's Joseph-of-Egypt material is dense enough elsewhere that a stock phrase here could be its own, so this is held at moderate: the case is the contiguous three-word run and its uniqueness, not the surrounding sentence.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "And Joseph said unto his brethren, Come near to me, I pray you. And they came near. And he said, I am Joseph your brother, whom ye sold into Egypt."
+      }
+    ],
+    "10:4": [
+      {
+        "source": "Acts 19:24",
+        "type": "echo",
+        "subtype": "possible",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 2,
+          "syntax": 4,
+          "sequence": 2,
+          "context": 4,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Acts 12:18",
+          "Acts 15:2",
+          "Acts 19:23",
+          "Acts 27:20"
+        ],
+        "recurrenceRefs": [
+          "Alma 10:32"
+        ],
+        "provenance": {
+          "route": "Acts (the 'no small' litotes) → KJV → Book of Mormon",
+          "other": "The construction “no small” occurs in exactly five KJV verses and all five are in Acts: 12:18, 15:2, 19:23, 19:24, 27:20. It renders a Greek litotes that Luke is fond of and no other biblical writer uses in the KJV's English.",
+          "significance": "This is not a borrowed phrase so much as a borrowed mannerism, and it is the entry point to what governs the whole chapter. Amulek introduces himself with a Lucan idiom; the men who come to trap him are 'lawyers', a word confined in the KJV to Luke; he perceives their thoughts in Luke's words (10:17); Satan is asked why he has taken hold of their hearts in the words of Acts 5:3 (10:25); their learning is described in the words used of Moses in Acts 7:22 (10:15); and the crowd finally calls him what Paul calls Elymas in Acts 13:10 (10:28). Alma 10 is a Luke-Acts chapter, and the litotes in its fourth verse is the first sign of it.",
+          "alternative": "'No small gain' at Acts 19:24 is the closest of the five to Amulek's own situation — a man of means whose income is threatened by preaching — and 10:32 says of his opponents that their object 'were to get gain'."
+        },
+        "note": "'I am also a man of no small reputation among all those who know me.' Taken alone this would be an unremarkable English understatement and not worth a row. It earns one because the construction is a KJV property of exactly one book, and because that book supplies five further contacts in the same chapter. Held at moderate and taken openly as a risk: a nineteenth-century writer could reach 'no small reputation' without Acts.",
+        "whyNot": "'No small' was ordinary literary English by 1830 and needs no biblical source; the argument depends entirely on the density of Luke-Acts elsewhere in the chapter, which is evidence about the chapter and not about this verse.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "For a certain man named Demetrius, a silversmith, which made silver shrines for Diana, brought no small gain unto the craftsmen;"
+      }
+    ],
+    "10:6": [
+      {
+        "source": "Zechariah 7:13",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 4,
+          "sequence": 3,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Zechariah 7:11",
+          "Proverbs 1:24"
+        ],
+        "provenance": {
+          "route": "Zechariah 7:11-13 → KJV → Book of Mormon",
+          "other": "“I would not hear” occurs in exactly one KJV verse, Zechariah 7:13; the third-person 'would not hear' occurs in fourteen.",
+          "significance": "Zechariah 7:13 is built on a reciprocity: 'as he cried, and they would not hear; so they cried, and I would not hear, saith the LORD of hosts.' The first-person form of the phrase is God's, and it is God's refusal that answers the people's. Amulek takes the divine half of the sentence and says it of himself — 'I was called many times, and I would not hear' — which puts his own past on the side of the verse where the LORD stands, and is precisely the confession the chapter needs him to make before he can accuse Ammonihah of the same thing at 10:25. The reciprocity is then completed at 10:22-23, where the Lord's answering refusal takes Jeremiah's form."
+        },
+        "note": "Three words, but the first-person form is a KJV singleton and its setting is the same one Amulek is describing: repeated prophetic calling met with refusal, and destruction following. Moderate rather than high because 'I would not hear' is a sentence anyone might write, and the machine stream, which ranked it, cannot tell a rare string from a rare thought.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ],
+        "text": "Therefore it is come to pass, that as he cried, and they would not hear; so they cried, and I would not hear, saith the LORD of hosts:"
+      }
+    ],
+    "10:7": [
+      {
+        "source": "2 Kings 4:9",
+        "type": "allusion",
+        "subtype": "type-scene",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "2 Kings 4:8",
+          "2 Kings 4:10",
+          "1 Kings 17:9",
+          "Matthew 4:2"
+        ],
+        "recurrenceRefs": [
+          "Alma 10:9",
+          "Alma 10:11"
+        ],
+        "provenance": {
+          "route": "2 Kings 4:8-17 (with 1 Kings 17:9-16) → KJV → Book of Mormon",
+          "other": "“An holy man” occurs in exactly one KJV verse, 2 Kings 4:9, where it is the Shunammite's word for Elisha; the fuller “holy man of God” likewise occurs in exactly one KJV verse, the same one. Alma 10:7 and 10:9 use it three times between them.",
+          "significance": "The KJV has one scene in which a householder recognises a passing prophet as a holy man, makes room for him, feeds him, and is rewarded with a blessing on the house — 2 Kings 4:8-17, the Shunammite. It has a second, at Zarephath, where a stranger is commanded from heaven to sustain a hungry prophet and her house is provided for. Alma 10:7-11 is both at once, with the angel doing openly what the Shunammite works out for herself: 'thou shalt feed a prophet of the Lord; yea, a holy man'. What follows in 2 Kings 4 is a promised child, and in 1 Kings 17 a raised one; what follows in Alma is Amulek's house and kindred blessed (10:11) and, in chapter 14, burned. The type-scene is set up exactly and then broken, which is the reading the link makes available.",
+          "alternative": "'He hath fasted many days … and he is an hungered' takes its second half from Matthew 4:2, the only KJV verse that joins fasting to being 'an hungred' as consequence; 'an hungred' by itself occurs in nine."
+        },
+        "note": "Three uses of a KJV singleton in five verses, inside the one biblical scene that has the same shape. Held at high rather than certain because the phrase is short and the Book of Mormon has independent reason to call a prophet holy; the argument rests on the scene as much as the words, and 10:9's redundant repetition ('He is a holy man; wherefore I know he is a holy man') suggests the phrase is being handled as a formula received rather than a description composed.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "And she said unto her husband, Behold now, I perceive that this is an holy man of God, which passeth by us continually."
+      },
+      {
+        "source": "Luke 8:39",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Mark 5:19"
+        ],
+        "recurrenceRefs": [
+          "1 Nephi 7:11"
+        ],
+        "provenance": {
+          "route": "Luke 8:39 → KJV → Book of Mormon",
+          "other": "“Return to thine own house” occurs in exactly one KJV verse, Luke 8:39; the shorter 'to thine own house' occurs in four.",
+          "significance": "The angel's command to Amulek is five words of Luke verbatim, and Luke 8:39 is Jesus dismissing the healed Gerasene: 'Return to thine own house, and shew how great things God hath done unto thee.' The Book of Mormon has been to this episode before — 1 Nephi 7:11's 'how great things the Lord hath done for us' is the Markan form of the same sentence, Mark 5:19, and is invisible in editions after 1920, which changed 'how' to 'what'. So the first half of the dismissal was taken in 1 Nephi and the second half is taken here, from the other evangelist. What the borrowing does to Amulek is worth stating: the man sent home to testify in Luke is the man who has just been delivered from a legion of devils, and Amulek is sent home to feed a prophet — but he will be told, twenty-one verses later, that he is himself 'a child of the Devil' (10:28). The verse that commissions him is a verse about someone the devils have left."
+        },
+        "note": "A five-word KJV singleton reproduced exactly, in the mouth of an angel. The link is placed here rather than at 1 Nephi 7:11 because that row takes Mark's half of the saying and this one takes Luke's; the two together are the same Gospel scene entering the Book of Mormon twice, in different books and different hands.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ],
+        "text": "Return to thine own house, and shew how great things God hath done unto thee. And he went his way, and published throughout the whole city how great things Jesus had done unto him."
+      }
+    ],
+    "10:12": [
+      {
+        "source": "Deuteronomy 19:15",
+        "type": "allusion",
+        "subtype": "conceptual",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 2,
+          "syntax": 2,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 3,
+          "attestation": 0
+        },
+        "kjvSpecific": "uncertain",
+        "mediation": "direct-OT",
+        "composite": [
+          "Deuteronomy 17:6",
+          "Matthew 18:16",
+          "2 Corinthians 13:1"
+        ],
+        "provenance": {
+          "route": "Deuteronomy 19:15 → KJV → Book of Mormon",
+          "other": "“At the mouth of two” occurs in exactly two KJV verses, Deuteronomy 17:6 and 19:15; both are the rule that a matter is established only by two witnesses, and the rule is quoted in the New Testament at Matthew 18:16 and 2 Corinthians 13:1.",
+          "significance": "'The people began to be astonished, seeing there was more than one witness.' The astonishment is legal, not devotional: what has changed is that Alma's testimony is now corroborated, and under Deuteronomy 19:15 a matter with two witnesses is established. That is why the next verse turns to lawyers — the crowd has just conceded the evidentiary point and the professionals move to attack the witnesses instead, which is what Mark 14:55 says the council did. The chapter is running a trial, and this verse is where the burden shifts."
+        },
+        "note": "No verbal contact worth counting; the link is to a rule rather than to a sentence, and it is recorded because the verse is unintelligible without it. Moderate, and kjvSpecific 'uncertain' accordingly — no English version's particular wording is in view.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "One witness shall not rise up against a man for any iniquity, or for any sin, in any sin that he sinneth: at the mouth of two witnesses, or at the mouth of three witnesses, shall the matter be established."
+      },
+      {
+        "source": "Revelation 19:10",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "Revelation 19:10 → KJV → Book of Mormon",
+          "other": "“Spirit of prophecy” occurs in exactly one KJV verse, Revelation 19:10.",
+          "significance": "Recover the context and the phrase turns out to be a definition: 'the testimony of Jesus is the spirit of prophecy.' Alma 10:12 says the two men testified 'according to the spirit of prophecy which was in them', and what they had been testifying to, from 9:26 onward, is the coming of the Son of God. The KJV's one use of the phrase supplies exactly the equation the chapter needs — that prophecy is testimony of Jesus — and it comes from the verse in which an angel refuses worship and redirects it, which is also what Amulek's angel does not have to do, because Amulek's account of him is an account of a messenger who commands and departs.",
+          "alternative": "The machine proposed Romans 1:4's 'according to the spirit of holiness' for the shared four-word run; that phrase belongs to a christological formula about the resurrection and has nothing to do with witnesses."
+        },
+        "note": "Three words, one KJV verse, and the borrowing carries its source's definition with it. Below Skousen's sixteen-word threshold by a wide margin and not one of his passages; the case is the absolute rarity plus the fact that the phrase is doing in Alma 10:12 precisely what Revelation 19:10 says it means.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ],
+        "text": "And I fell at his feet to worship him. And he said unto me, See thou do it not: I am thy fellowservant, and of thy brethren that have the testimony of Jesus: worship God: for the testimony of Jesus is the spirit of prophecy."
+      }
+    ],
+    "10:13": [
+      {
+        "source": "Mark 12:13",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Luke 20:20",
+          "Luke 11:54",
+          "Matthew 5:25",
+          "Mark 14:55"
+        ],
+        "recurrenceRefs": [
+          "Alma 10:17"
+        ],
+        "provenance": {
+          "route": "Mark 12:13 / Luke 20:20 / Matthew 5:25 → KJV → Book of Mormon",
+          "other": "“Catch him in his words” occurs in exactly one KJV verse, Mark 12:13. “Deliver him unto the” occurs in exactly two, Psalm 41:2 and Luke 20:20; Luke 20:20's is the same entrapment scene. “Sought for witness against” occurs in exactly one, Mark 14:55.",
+          "significance": "Four sentences of the Gospels' entrapment machinery are fused into one, in order. Men are sent 'that they might catch them in their words' — Mark 12:13, the Pharisees and Herodians sent to catch Jesus. 'That they might find witness against them' — Mark 14:55, the council seeking witness against Jesus to put him to death, and finding none. 'That they might deliver them to the Judges' — Luke 20:20, spies feigning themselves just men so that they might deliver him to the governor's authority. 'That they might be slain or cast into prison' — Matthew 5:25's chain, where the adversary delivers thee to the judge and the judge to the officer and thou art cast into prison. Recover all four and the verse says something the Book of Mormon does not say in its own voice: the trial of Alma and Amulek at Ammonihah is being narrated in the vocabulary of the trial of Jesus, and the reader who knows the source knows what the outcome will be four chapters before chapter 14 reaches it. The lawyers even feign the part Luke gives them: 10:24 has the crowd defend 'our wise Lawyers, which we have selected' as men who administer a law that 'is just'.",
+          "alternative": "The n-gram stream's top proposal here was 1 Peter 4:6, on a seven-word run of 'that they might be judged according to'; that verse is about the dead hearing the gospel and shares only the passive construction."
+        },
+        "note": "Alma 10:13 has 'catch them in their words' where Mark has 'catch him in his words' — the pronouns are what the new setting requires, since two men are being trapped and not one. Held at high rather than certain because no single run exceeds five words and because the four sources are being combined rather than quoted; but each of the three named phrases is a KJV singleton or near-singleton, and all four come from the same handful of chapters.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ],
+        "text": "And they send unto him certain of the Pharisees and of the Herodians, to catch him in his words."
+      }
+    ],
+    "10:15": [
+      {
+        "source": "Acts 7:22",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 5,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "Acts 7:22 → KJV → Book of Mormon",
+          "other": "“Learned in all the” occurs in exactly one KJV verse, Acts 7:22.",
+          "significance": "'These Lawyers were learned in all the arts and cunning of the people.' The construction exists once in the English Bible, in Stephen's account of Moses — 'And Moses was learned in all the wisdom of the Egyptians, and was mighty in words and in deeds' — and it is there a commendation, the education that equips a deliverer. Alma 10:15 keeps the frame and swaps the noun: not wisdom but 'arts and cunning', not Egypt but 'the people'. The swap is the argument. And the source is worth naming for a second reason: Acts 7 is the speech that gets Stephen killed by a council for speaking against the law and the holy place, which is the accusation the crowd brings against Amulek thirteen verses later ('he hath spoken against our law', 10:28) and the fate Ammonihah has in view.",
+          "alternative": "Daniel 1:4's youths 'skilful in all wisdom, and cunning in knowledge' shares 'cunning' and the sense of trained expertise, but not the construction; and the KJV's 'cunning' there is the innocent one."
+        },
+        "note": "Four words and a substitution. The phrase is a KJV singleton, the substituted noun inverts its sense, and the chapter is already running on Luke-Acts. Note that 10:15's next clause, 'that they might be skilful in their profession', is the second half of Acts 7:22's own doublet ('mighty in words and in deeds') recast as professional competence.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "And Moses was learned in all the wisdom of the Egyptians, and was mighty in words and in deeds."
+      }
+    ],
+    "10:17": [
+      {
+        "source": "Luke 5:22",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Luke 20:23",
+          "Luke 11:46",
+          "Luke 11:52",
+          "Matthew 17:17",
+          "Luke 9:41"
+        ],
+        "recurrenceRefs": [
+          "Alma 10:13",
+          "Alma 10:25"
+        ],
+        "provenance": {
+          "route": "Luke 5:22 / Luke 20:23 / Luke 11:45-52 → KJV → Book of Mormon",
+          "other": "“Perceived their thoughts” occurs in exactly one KJV verse, Luke 5:22. “He perceived their” occurs in exactly one, Luke 20:23 — 'he perceived their craftiness'. 'Perverse generation' occurs in exactly two, Matthew 17:17 and Luke 9:41, both 'O faithless and perverse generation'; 'lawyers' occurs in five, all of them in Luke.",
+          "significance": "Alma 10:16-17 stages Luke 20:20-23 twice over. Questioners approach to take hold of a man's words; the man perceives what is behind the question; he answers with a counter-question and an accusation. The Book of Mormon takes its verb from Luke 5:22, where Jesus perceives thoughts, and its situation from Luke 20:23, where he perceives craftiness — and then addresses the questioners as 'ye Lawyers and hypocrites', which is Luke 11 exactly, the one chapter of the Bible where woes are pronounced on lawyers as a class ('Woe unto you also, ye lawyers!', 11:46, 52). Amulek's opening vocative, 'O ye wicked and perverse generation', is the Gospel vocative with one adjective changed: the KJV's is 'O faithless and perverse generation', and swapping faithless for wicked converts a complaint about unbelief into a charge of guilt, which is what a trial needs.",
+          "alternative": "Deuteronomy 32:5's 'a perverse and crooked generation' and Philippians 2:15's 'crooked and perverse nation' are the other candidates for the vocative; neither has the initial 'O' or the direct address."
+        },
+        "note": "Two KJV singletons in one clause, both from Luke, both from the same kind of scene, and a Gospel vocative reproduced with a single substitution. The chapter's lawyers are Luke's lawyers — the word belongs to no other biblical book in the KJV — so the borrowing here is of a whole cast rather than a phrase.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "But when Jesus perceived their thoughts, he answering said unto them, What reason ye in your hearts?"
+      },
+      {
+        "source": "Joshua 23:13",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Daniel 4:17"
+        ],
+        "recurrenceRefs": [
+          "1 Nephi 2:24",
+          "2 Nephi 5:25"
+        ],
+        "provenance": {
+          "route": "Joshua 23:13 + Daniel 4:17 → KJV → Book of Mormon",
+          "other": "“Traps” occurs in exactly one KJV verse, Joshua 23:13, where it is paired with 'snares' — 'they shall be snares and traps unto you'. “Holy ones” occurs in exactly one KJV verse, Daniel 4:17.",
+          "significance": "'Ye are laying traps and snares to catch the holy ones of God.' Both halves of the sentence are KJV singletons and they come from opposite ends of the canon. Joshua 23:13 is Joshua's farewell warning that unexpelled nations will become 'snares and traps unto you … until ye perish from off this good land which the LORD your God hath given you' — which is what Amulek says next, 'even to the utter destruction of this people' (10:18). The Book of Mormon has used this verse before, at 1 Nephi 2:24 and 2 Nephi 5:25, for its other image, the scourge; here it takes the traps and reverses the direction — in Joshua the trap is what a tolerated enemy becomes to Israel, and in Alma it is what Israel's own lawyers set for the prophets. Daniel 4:17's 'holy ones' are the heavenly watchers who decree a king's humbling, so the men being trapped are named with the word for the beings who pass sentence on a court.",
+          "alternative": "'Snares' alone occurs in fifteen KJV verses, most of them Psalms and Proverbs, and could not identify a source; the pairing with 'traps' is what makes Joshua 23:13 decisive."
+        },
+        "note": "Held at moderate rather than high because the two singletons are one word each and the sentence could be built from the general biblical stock of snare-imagery. The case is that both words are rare, that they arrive together, and that Joshua 23:13 supplies not only the pair but the destruction-from-off-the-land clause that Alma 10:18 completes.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "Know for a certainty that the LORD your God will no more drive out any of these nations from before you; but they shall be snares and traps unto you, and scourges in your sides, and thorns in your eyes, until ye perish from off this good land which the LORD your God hath given you."
+      }
+    ],
+    "10:18": [
+      {
+        "source": "Proverbs 17:23",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Acts 13:10"
+        ],
+        "recurrenceRefs": [
+          "Alma 10:28",
+          "Alma 10:32",
+          "1 Nephi 13:27"
+        ],
+        "provenance": {
+          "route": "Proverbs 17:23 → KJV → Book of Mormon",
+          "other": "“Pervert the ways” occurs in exactly one KJV verse, Proverbs 17:23. 'To pervert the' occurs in exactly two, Proverbs 17:23 and Acts 13:10 ('to pervert the right ways of the Lord').",
+          "significance": "Proverbs 17:23 is a verse about judicial corruption specifically: 'A wicked man taketh a gift out of the bosom to pervert the ways of judgment.' Alma 10:18 accuses the lawyers of 'laying plans to pervert the ways of the righteous', and Alma 10:32 supplies the gift out of the bosom — 'the object of these Lawyers were to get gain; and they got gain according to their employ.' The source and the charge fit each other so exactly that the substitution of 'the righteous' for 'judgment' reads as deliberate: the object of the perversion has moved from the process to the persons, which is what happens when a legal system is turned against witnesses. The chapter's other 'pervert' verse, Acts 13:10, is the one whose 'child of the devil' the crowd throws back at Amulek in 10:28, and whose 'pervert the right ways of the Lord' this catalogue has already adjudicated at 1 Nephi 13:27."
+        },
+        "note": "Four words from the KJV's only 'pervert the ways', and the source is the one proverb about bribed judges — in a chapter whose complaint is that judges and lawyers are paid by the case. The second half of the verse, 'to bring down the wrath of God upon your heads', has no single source; 'the wrath of God' is distributed across both testaments.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ],
+        "text": "A wicked man taketh a gift out of the bosom to pervert the ways of judgment."
+      }
+    ],
+    "10:19": [
+      {
+        "source": "1 Samuel 8:7",
+        "type": "allusion",
+        "subtype": "conceptual",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "OT-via-earlier-BoM",
+        "composite": [
+          "1 Samuel 8:19"
+        ],
+        "recurrenceRefs": [
+          "Mosiah 7:9",
+          "Mosiah 29:2",
+          "Mosiah 29:26",
+          "Mosiah 29:27"
+        ],
+        "provenance": {
+          "route": "1 Samuel 8:7 → KJV → Mosiah 29:26-27 → Alma 10:19",
+          "other": "“Voice of the people” occurs in exactly one KJV verse, 1 Samuel 8:7, where it is God's word to Samuel about Israel's demand for a king. 'The voice of the people' is the phrase 1 Samuel 8:7 puts in God's mouth when Israel demands a king, and it is adjudicated in this catalogue at Mosiah 7:9 and again at Mosiah 29:2.",
+          "significance": "This is the clearest case of `OT-via-earlier-BoM` the catalogue has met so far, because the verse says so itself: 'yea, well did Mosiah say, who was our last king … yea, well did he say, that if the time should come that the voice of this people should choose iniquity … they would be ripe for destruction.' The proximate text is Mosiah 29:27, whose wording Amulek reproduces with one substitution ('this people' for 'the people'), and Mosiah 29 is itself the chapter that abolishes kingship using the phrase 1 Samuel 8 coined to describe its establishment. So the biblical source reaches Alma 10 at two removes, and the citation formula is explicit at the second. What Amulek adds is 'ripe for destruction', which is in no KJV verse and is the Book of Mormon's own idiom.",
+          "alternative": "1 Samuel 8:19's 'Nay; but we will have a king over us' stands behind Mosiah 29:5 in this catalogue; nothing of it is present here."
+        },
+        "note": "Recorded because a reader of Alma 10:19 should be sent to the biblical text under it, and because the mediation is the finding: the Book of Mormon is quoting itself quoting Samuel, and it names the intermediate step out loud. The 1830 reads 'our last king' where the 1920 reads 'the last king'; the possessive is Amulek claiming the Nephite constitution as his own, which is his defence at 10:26 — he has spoken 'in favor of your law, to your condemnation'.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "And the LORD said unto Samuel, Hearken unto the voice of the people in all that they say unto thee: for they have not rejected thee, but they have rejected me, that I should not reign over them."
+      }
+    ],
+    "10:20": [
+      {
+        "source": "Matthew 3:2",
+        "type": "quotation",
+        "subtype": "explicit",
+        "confidence": "certain",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 2
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Matthew 4:17",
+          "Matthew 10:7"
+        ],
+        "provenance": {
+          "route": "Matthew 3:2 → KJV → Book of Mormon",
+          "other": "“The kingdom of heaven is at hand” occurs in exactly three KJV verses, Matthew 3:2, 4:17 and 10:7, and the imperative 'Repent ye' precedes it only at 3:2. Mark 1:15 has 'the kingdom of God is at hand: repent ye', with the clauses reversed and the noun changed.",
+          "significance": "The whole of John the Baptist's preaching, reproduced word for word and attributed to angels. The choice among the three candidates is decided by 'Repent ye': Matthew 4:17 has the bare 'Repent', Matthew 10:7 has no imperative at all, and Mark 1:15 has 'the kingdom of God'. Alma 10:20 reads 'Repent ye, repent, for the Kingdom of Heaven is at hand', which is Matthew 3:2's exact clause with the imperative doubled — and doubling it is the one thing the Book of Mormon adds, in a verse that has just twice said 'well doth he cry'. The metalepsis is in who is speaking. Matthew 3:2 belongs to the voice crying in the wilderness before a ministry begins; Alma 10:20 gives it to 'the voice of his angels' crying to a city about to be destroyed, so the sentence that in Matthew opens the gospel here closes a probation.",
+          "alternative": "Mark 1:15 supplies 'repent ye' in the same sentence as a kingdom at hand, but its kingdom is God's, not heaven's."
+        },
+        "note": "Nine consecutive words of the KJV, from a verse identifiable by a single word of difference from its nearest neighbours. Below Skousen's sixteen-word threshold and not one of his thirty-six quotations, which is worth saying because the reproduction is otherwise complete. The 1830 capitalizes 'Kingdom of Heaven'.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ],
+        "text": "And saying, Repent ye: for the kingdom of heaven is at hand."
+      }
+    ],
+    "10:22": [
+      {
+        "source": "1 Peter 3:20",
+        "type": "allusion",
+        "subtype": "conceptual",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 2,
+          "sequence": 2,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 3
+        },
+        "kjvSpecific": "yes",
+        "mediation": "OT-via-NT",
+        "composite": [
+          "Genesis 6:5",
+          "Genesis 6:7",
+          "Matthew 24:38",
+          "Luke 17:26"
+        ],
+        "provenance": {
+          "route": "Genesis 6-7 → KJV New Testament ('the days of Noah/Noe') → Book of Mormon",
+          "other": "“Days of Noah” occurs in exactly two KJV verses, Genesis 9:29 and 1 Peter 3:20. Genesis 9:29's is a lifespan ('all the days of Noah were nine hundred and fifty years'); 1 Peter 3:20's is the pre-flood generation, which is Alma's sense. The Gospels use the same typological formula but spell the name Noe (Matthew 24:37, Luke 17:26).",
+          "significance": "Genesis never calls the flood generation 'the days of Noah'; that designation is a New Testament coinage, and it is always typological — the days of Noah are invoked to say what the days of a coming judgment will be like. Alma 10:22 uses it in exactly that way, as the measure against which a threatened destruction is calibrated, and it uses the one spelling of the name that belongs to the one New Testament verse outside the Gospels. So the flood reaches Alma 10 in the form the epistles gave it rather than in Genesis's own words, and mediation is recorded as OT-via-NT for that reason. mediation-check.py returns divergences in both directions between Genesis 7:23 and Matthew 24:38, which is a real result and not a bug: the verse has the Gospels' 'flood' and 'days that were before' and Genesis's 'earth', because it is summarising a story it is not quoting.",
+          "alternative": "Isaiah 54:9's 'the waters of Noah' is the other prophetic use, and it promises that the flood will not return — which is, oddly, the point Amulek is making, that this destruction 'would not be by flood'. Nothing of Isaiah's wording is present."
+        },
+        "note": "Hardy's apparatus cross-references Genesis 6:5-8 at this verse, and that is where the story is; the wording, such as it is, is the New Testament's. Held at moderate because two words are a thin basis, and recorded chiefly for the mediation finding. Amulek's clause 'it would not be by flood' presupposes Genesis 9:11's covenant without quoting it.",
+        "bibliography": [
+          "Hardy MSI at Alma 10.22 (Genesis 6:5-8)"
+        ],
+        "status": "majority",
+        "streams": [
+          "scholarship",
+          "manual"
+        ],
+        "text": "Which sometime were disobedient, when once the longsuffering of God waited in the days of Noah, while the ark was a preparing, wherein few, that is, eight souls were saved by water."
+      },
+      {
+        "source": "Jeremiah 21:9",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 3,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Jeremiah 14:12",
+          "Jeremiah 24:10",
+          "Jeremiah 27:13",
+          "Jeremiah 38:2",
+          "Ezekiel 6:11"
+        ],
+        "recurrenceRefs": [
+          "Alma 10:23"
+        ],
+        "provenance": {
+          "route": "Jeremiah's triad (sword, famine, pestilence) → KJV → Book of Mormon",
+          "other": "“By the sword, by the famine, and by the pestilence” occurs in exactly six KJV verses, five of them in Jeremiah and one in Ezekiel; the triad in some order runs through at least fifteen. It is Jeremiah's fixed formula for the destruction of Jerusalem and belongs to no other biblical writer in that form.",
+          "significance": "The formula is not merely borrowed, it is inverted: Jeremiah's order is always sword-famine-pestilence and Alma's is 'by famine, and by pestilence, and the sword', twice (10:22, 10:23). Putting the sword last makes it the climax rather than the first stroke, which is what Ammonihah's end will actually be — not a siege but an army (Alma 16:2-3). And the setting is Jeremiah's exactly: a prophet in a doomed city telling its inhabitants which of three deaths awaits them, while the professionals of that city arrange his imprisonment. Jeremiah 38:2, one of the six, is spoken immediately before Jeremiah is let down into the dungeon; Alma 10:13 has already named prison as the lawyers' object.",
+          "alternative": "Ezekiel 14:21's four sore judgments add 'the noisome beast' and are not in view."
+        },
+        "note": "No one occurrence of the triad can be singled out, which is why rarity is scored 3 and the source is given as Jeremiah 21:9 with the parallel verses composited rather than as a claim about one of them. The finding is the formula and its reversal. This is the Jerusalem-prophet register the Book of Mormon has used since 1 Nephi 1, redeployed for a Nephite city.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "He that abideth in this city shall die by the sword, and by the famine, and by the pestilence: but he that goeth out, and falleth to the Chaldeans that besiege you, he shall live, and his life shall be unto him for a prey."
+      }
+    ],
+    "10:23": [
+      {
+        "source": "Daniel 4:35",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 2,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Luke 13:3",
+          "Luke 13:5",
+          "Isaiah 5:25"
+        ],
+        "recurrenceRefs": [
+          "Alma 10:2",
+          "Alma 10:17"
+        ],
+        "provenance": {
+          "route": "Daniel 4:35 → KJV → Book of Mormon",
+          "other": "“Stay his hand” occurs in exactly one KJV verse, Daniel 4:35, of God — 'none can stay his hand, or say unto him, What doest thou?' “Except ye repent” occurs in exactly two KJV verses, Luke 13:3 and Luke 13:5, which are the same sentence twice.",
+          "significance": "The collocation is a singleton and its one occurrence is about the same hand, but the grammar has been turned around: in Daniel nobody is able to stay God's hand, and in Alma God declines to stay it himself. That is not a misunderstanding — it is the same doctrine of unopposable judgment stated from the other side, and Daniel 4 is the chapter in which a king is warned, given twelve months, and then broken at the moment he congratulates himself. Ammonihah is given the same interval in the same terms: 'the time is soon at hand, except ye repent.' Luke 13:3-5 supplies that clause, and its context is Jesus refusing to concede that those killed by Pilate or by a falling tower were worse sinners than their neighbours — the exact refusal Amulek is making about the righteous whose prayers are keeping the city standing.",
+          "alternative": "Isaiah 5:25's 'his hand is stretched out still' is the more usual biblical image for judgment not withdrawn, and shares nothing verbal with this verse."
+        },
+        "note": "Held at moderate because the sense is reversed and the phrase is three ordinary words; recorded because those three words exist once in the English Bible and the source chapter is one of two the chapter has already drawn on (10:2, Daniel 5; 10:17, Daniel 4:17). Whether the reversal is a misreading of Daniel or a deliberate turn is not decidable from the text, and the catalogue does not decide it.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "And all the inhabitants of the earth are reputed as nothing: and he doeth according to his will in the army of heaven, and among the inhabitants of the earth: and none can stay his hand, or say unto him, What doest thou?"
+      }
+    ],
+    "10:25": [
+      {
+        "source": "Acts 5:3",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 5,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Romans 6:16",
+          "Romans 6:13"
+        ],
+        "recurrenceRefs": [
+          "Alma 10:28"
+        ],
+        "provenance": {
+          "route": "Acts 5:3 (with Romans 6:16) → KJV → Book of Mormon",
+          "other": "“Why hath Satan” occurs in exactly one KJV verse, Acts 5:3. 'Yield yourselves' occurs in exactly three, 2 Chronicles 30:8, Romans 6:13 and Romans 6:16.",
+          "significance": "Peter's question to Ananias — 'why hath Satan filled thine heart to lie to the Holy Ghost' — is the KJV's only interrogation of that shape, and Amulek asks it of a crowd: 'why hath Satan got such great hold upon your hearts?' The substitution keeps the heart and changes the verb from filling to holding. Recover Acts 5 and the exchange that follows in Alma acquires its shape: Ananias's sin is a lie, Peter names it as Satan's work, and Ananias falls down dead. Three verses later the crowd of Ammonihah answers Amulek by saying 'this man is a child of the Devil, for he hath lied unto us' (10:28) — the same three terms, Satan, lying, and a verdict, turned back on the man who used them. Romans 6:16 supplies the second half of the verse and its logic: 'to whom ye yield yourselves servants to obey, his servants ye are'. Amulek asks why they will yield themselves to one who may 'have power over you', which is Paul's definition of what yielding does.",
+          "alternative": "2 Chronicles 30:8's 'yield yourselves unto the LORD' is the positive form of the same idiom and is not what Alma 10:25 describes."
+        },
+        "note": "A KJV singleton interrogative reproduced with its noun and its object intact, plus a Pauline construction that occurs three times in the Bible and twice in the one chapter that argues from it. The verse also opens with 'O ye wicked and perverse generation', which is 10:17's vocative repeated; that repetition is adjudicated at 10:17 and not again here.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "But Peter said, Ananias, why hath Satan filled thine heart to lie to the Holy Ghost, and to keep back part of the price of the land?"
+      },
+      {
+        "source": "John 12:40",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 1
+        },
+        "kjvSpecific": "yes",
+        "mediation": "OT-via-NT",
+        "composite": [
+          "Isaiah 6:10",
+          "2 Corinthians 4:4"
+        ],
+        "recurrenceRefs": [
+          "1 Nephi 12:17",
+          "1 Nephi 13:27"
+        ],
+        "provenance": {
+          "route": "Isaiah 6:10 → John 12:40 → KJV → Book of Mormon",
+          "other": "“Blinded their eyes” occurs in exactly one KJV verse, John 12:40; Isaiah 6:10, which John is quoting, reads 'shut their eyes' instead and has no form of 'blind'.",
+          "significance": "The mediation is decided by a single word and it decides in favour of John. Isaiah 6:10 tells the prophet to 'make the heart of this people fat, and make their ears heavy, and shut their eyes'; John 12:40 renders the same passage 'He hath blinded their eyes, and hardened their heart … nor understand with their heart'. Alma 10:25 has blinding and understanding together — 'to blind your eyes, that ye will not understand the words which are spoken' — which is John's pairing and not Isaiah's. The Book of Mormon has taken this pair before, at 1 Nephi 12:17 and 13:27, and the difference here is the agent: in John it is God who blinds, in the standard reading of Isaiah's commission it is the prophet, and in Alma 10:25 it is Satan, 'that he may have power over you, to blind your eyes'. Compare 2 Corinthians 4:4, where 'the god of this world hath blinded the minds of them which believe not' — the one New Testament verse that makes the blinder an adversary rather than God, and the reading Alma 10:25 has arrived at.",
+          "alternative": "2 Corinthians 4:4 has the right agent but the wrong noun ('the minds'), and no form of 'eyes'."
+        },
+        "note": "Moderate rather than high: the shared material is one verb and one noun, and 'blind the eyes' is available to any writer. What holds the row up is that the KJV puts that exact participle-plus-noun in one verse only, that understanding is joined to it there as here, and that this Johannine pair is already an established Book of Mormon borrowing in an earlier book. Recorded as a fresh row rather than a recurrence because the agent has changed and the change is the argument.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "He hath blinded their eyes, and hardened their heart; that they should not see with their eyes, nor understand with their heart, and be converted, and I should heal them."
+      }
+    ],
+    "10:28": [
+      {
+        "source": "Acts 13:10",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 1
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "John 9:24",
+          "1 John 3:10"
+        ],
+        "recurrenceRefs": [
+          "1 Nephi 13:27",
+          "Alma 10:18"
+        ],
+        "provenance": {
+          "route": "Acts 13:10 → KJV → Book of Mormon",
+          "other": "“Child of the devil” occurs in exactly one KJV verse, Acts 13:10; the plural 'children of the devil' occurs in exactly one, 1 John 3:10. “We know that this man is a” occurs in exactly one KJV verse, John 9:24.",
+          "significance": "Two KJV singletons in one accusation, and both of them belong to scenes of judicial hostility to a witness. The frame is John 9:24 — 'we know that this man is a sinner', said by the authorities to a man who will not retract his testimony — with the predicate replaced by Acts 13:10's, Paul's denunciation of Elymas the sorcerer. What makes the substitution more than clever is that Acts 13:10's sentence continues 'wilt thou not cease to pervert the right ways of the Lord', and Amulek has spent 10:18 accusing these same men of laying plans 'to pervert the ways of the righteous'. So the crowd answers a charge of perverting the ways by calling the accuser what Paul calls a man who perverts the ways, out of the same verse. This catalogue has already adjudicated the other half of Acts 13:10, the perverting clause, at 1 Nephi 13:27, where it is reproduced verbatim; here the Book of Mormon takes the vocative instead.",
+          "alternative": "1 John 3:10's plural is the general theological form and lacks the direct address."
+        },
+        "note": "The 1830 capitalizes 'Devil'. Held at high rather than certain because both singletons are short and because a hostile crowd calling a preacher a child of the devil is a thing that could be written without a source; what the row rests on is the two rare strings arriving in one sentence and the third contact with Acts 13:10 ten verses earlier.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ],
+        "text": "And said, O full of all subtilty and all mischief, thou child of the devil, thou enemy of all righteousness, wilt thou not cease to pervert the right ways of the Lord?"
+      }
+    ],
+    "10:32": [
+      {
+        "source": "James 4:13",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "recurrenceRefs": [
+          "2 Nephi 26:20",
+          "2 Nephi 27:15",
+          "1 Nephi 22:23"
+        ],
+        "provenance": {
+          "route": "James 4:13 → KJV → Book of Mormon",
+          "other": "“Get gain” occurs in exactly one KJV verse, James 4:13.",
+          "significance": "The phrase is the Book of Mormon's standing term for corrupt religious and civil profit, adjudicated first at 2 Nephi 26:20, and its one biblical occurrence is the merchant's boast that James answers with 'ye know not what shall be on the morrow'. Alma 10:32 is the chapter's last sentence and it is a bare accountancy — 'the object of these Lawyers were to get gain; and they got gain according to their employ' — placed immediately after Zeezrom is introduced as the most expert of them. James 4:13-16 is about men who plan a year's trade without reference to God, and James 5:1-6 goes on to the wages kept back by fraud and the condemning and killing of the just, which is what Ammonihah's lawyers will do to the just in chapter 14. The 1830 reads 'were to get gain' where the 1920 reads 'was'; the plural verb keeps the object with the lawyers rather than with the profession.",
+          "alternative": "Acts 19:24's 'no small gain' is the other candidate for a commercial-motive source and is the same Lucan idiom recorded at 10:4."
+        },
+        "note": "Two words, and a link across a book boundary rather than a recurrence entry, because Alma is a new book and a new hand and a reader shown nothing here would be told there is no borrowing. The argument was made at 2 Nephi 26:20; what is new is the application, which is not to priestcraft but to a paid legal profession.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "Go to now, ye that say, To day or to morrow we will go into such a city, and continue there a year, and buy and sell, and get gain:"
+      }
+    ]
+  }
+}

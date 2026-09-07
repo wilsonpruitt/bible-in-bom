@@ -1,0 +1,500 @@
+{
+  "chapter": 18,
+  "adjudicated": "2026-09-07",
+  "adjudicator": "Opus",
+  "links": {
+    "18:2": [
+      {
+        "source": "Acts 14:11",
+        "type": "figural",
+        "subtype": "type-scene",
+        "confidence": "moderate",
+        "text": "And when the people saw what Paul had done, they lifted up their voices, saying in the speech of Lycaonia, The gods are come down to us in the likeness of men.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 2,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "uncertain",
+        "mediation": "direct-NT",
+        "composite": [
+          "Acts 14:15"
+        ],
+        "recurrenceRefs": [
+          "Alma 18:17"
+        ],
+        "provenance": {
+          "route": "Acts 14:11-15 → KJV → Book of Mormon",
+          "other": "\"come down to us in the likeness of men\" occurs in exactly 1 KJV verse, Acts 14:11. Alma 18:4 has 'he hath come down at this time to preserve your lives', which shares 'come down' and nothing else; the case here is the shape of the scene, not the string.",
+          "significance": "Acts 14 is the New Testament's one episode in which a crowd that has seen a missionary do something impossible concludes that a god has taken human form, and in which the missionary's first act is to deny it — 'Sirs, why do ye these things? We also are men of like passions with you.' Alma 18 runs the same three beats in the same order: witnesses report what they saw (18:1-3), the king concludes 'Surely, this is more than a man … is not this the Great Spirit', and the missionary answers at 18:17, 'Behold, I am a man, and am thy servant.' Where Lystra ends with Paul barely restraining a sacrifice, Alma 18 turns the denial into the opening of a catechism: Ammon says he is a man and then, at 18:34, says what a man is — created after the image of God — which is the doctrine that makes the king's mistake intelligible rather than merely wrong."
+        },
+        "note": "'Surely, this is more than a man. Behold, is not this the Great Spirit?' Catalogued as figural: the verbal contact with Acts 14:11 is a single phrase and the argument is the type-scene. The Book of Mormon's version is more theologically careful than the machine that found nothing here could register — Lamoni's servants at 18:3 say 'Whether he be the Great Spirit or a man, we know not', which is the Lystra crowd's question put as an open one.",
+        "whyNot": "No run of KJV wording is reproduced. A reader may hold that a heathen king mistaking a wonder-worker for a god is a stock situation available to any nineteenth-century writer of missionary narrative, and that Acts 14 is one instance of it rather than the source.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "18:12": [
+      {
+        "source": "Daniel 5:6",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "Then the king’s countenance was changed, and his thoughts troubled him, so that the joints of his loins were loosed, and his knees smote one against another.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Daniel 5:1",
+          "Daniel 5:9"
+        ],
+        "provenance": {
+          "route": "Daniel 5:6 → KJV → Book of Mormon",
+          "other": "\"countenance was changed\" occurs in exactly 2 KJV verses, Daniel 5:6 and Daniel 5:9, both of Belshazzar at the writing on the wall. \"made a great feast\" occurs in exactly 3 (Genesis 21:8, Esther 2:18, Daniel 5:1), and Alma 18:9 has just told us that 'there had been a great feast appointed at the land of Nephi' by the king's father, the king over all the land.",
+          "significance": "This is where the chapter's frame declares itself. Daniel 5 opens with a king's great feast and turns on a king whose countenance is changed by something he cannot read, who then sends for a captive foreigner reputed to have the spirit of the gods, and offers him anything to interpret it. Alma 18 has the great feast at 18:9, the changed countenance at 18:12, the summons of the captive foreigner at 18:13, the offer of anything at 18:21, and the interpretation at 18:24-39. The Book of Mormon's alteration is that the thing the king cannot read is himself: what Ammon interprets is not a writing but the king's own thoughts, which is Daniel 2's problem transposed into Daniel 5's court — and Daniel 2:30's 'thoughts of thy heart' duly appears at Alma 18:20."
+        },
+        "note": "'He saw that the countenance of the king was changed; therefore he was about to return out of his presence.' A two-verse KJV phrase belonging to one scene, and the scene is the one this chapter is built on. The machine proposed nothing at this verse; the Daniel frame is invisible to a contiguous n-gram stream because it is distributed across thirty verses and no single window is long.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "18:14": [
+      {
+        "source": "Daniel 4:19",
+        "type": "allusion",
+        "subtype": "conceptual",
+        "confidence": "moderate",
+        "text": "Then Daniel, whose name was Belteshazzar, was astonied for one hour, and his thoughts troubled him. The king spake, and said, Belteshazzar, let not the dream, or the interpretation thereof, trouble thee. Belteshazzar answered and said, My lord, the dream be to them that hate thee, and the interpretation thereof to thine enemies.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "provenance": {
+          "route": "Daniel 4:19 → KJV → Book of Mormon",
+          "other": "\"for one hour\" occurs in exactly 1 KJV verse, Daniel 4:19 — 'was astonied for one hour, and his thoughts troubled him'. The Book of Mormon reads 'for the space of an hour, according to their time', which is not the KJV's string; \"the space of an hour\" occurs in no KJV verse. The claim here rests on the hour as a unit of stunned silence, which the King James Bible measures exactly once.",
+          "significance": "The roles are exchanged, and the exchange is the point. In Daniel 4 it is the interpreter who is struck dumb for an hour, because he has understood the dream and it is terrible; the king has to prompt him to speak. In Alma 18 it is the king who cannot speak for an hour, 'for he knew not what he should say unto him', and the interpreter who has to prompt him — 'What desirest thou of me?' at 18:15. Daniel's hour is the silence of a man who knows; Lamoni's is the silence of a man who does not, and the chapter spends the next twenty verses supplying what he lacks. The 1830's added gloss 'according to their time' is the narrator's own, marking the hour as a foreign measure and so as a borrowed one.",
+          "alternative": "The hour may be simply a round interval and no allusion at all; nothing else in Alma 18:14 is Daniel 4's."
+        },
+        "note": "'And the king answered him not for the space of an hour, according to their time, for he knew not what he should say unto him.' Catalogued at moderate. The unit is the KJV's only hour of speechlessness and the surrounding chapter is demonstrably built on Daniel, which is why it is here at all; the wording is not reproduced, which is why it is not higher.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      },
+      {
+        "source": "Mark 10:51",
+        "type": "quotation",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "And Jesus answered and said unto him, What wilt thou that I should do unto thee? The blind man said unto him, Lord, that I might receive my sight.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Mark 10:36"
+        ],
+        "provenance": {
+          "route": "Mark 10:51 + Mark 10:36 → KJV → Book of Mormon",
+          "other": "\"What wilt thou that I should do\" occurs in exactly 1 KJV verse, Mark 10:51. Luke 18:41 has the same question with 'shall' for 'should'. Alma 18:14 reads 'What wilt thou that I should do for thee, O king?' — Mark's exact seven words, with 'for thee' in place of Mark's 'unto thee'; and 'for you' is precisely the preposition of Mark 10:36, 'What would ye that I should do for you', fifteen verses earlier in the same chapter.",
+          "significance": "Mark 10 asks the question twice, and the two askings are the chapter's argument. At 10:36 it is put to James and John, who want the thrones on either side of Christ's glory, and the answer is a rebuke; at 10:51 it is put to blind Bartimaeus, who wants his sight, and the answer is a healing. Alma 18:14 fuses them — Mark 10:51's words with Mark 10:36's preposition — and puts the question to a man who is both: a king already on his throne, who is about to fall as if dead and rise seeing. Ammon asks it as a servant of the king, which reverses the direction of Mark entirely, since in both Marcan cases it is the master who asks and the suppliant who answers. Here the servant asks and the king cannot answer at all."
+        },
+        "note": "'Therefore Ammon turned himself unto the king, and saith unto him, What wilt thou that I should do for thee, O king?' A seven-word KJV singleton with one preposition swapped for the one the same chapter uses. Catalogued as a quotation on the strength of the singleton rather than the length — well under Skousen's sixteen-word threshold and not one of his thirty-six. The 1830 'saith' for the narrative past, regularized in 1920, is the first edition's habit throughout this chapter.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "18:13": [
+      {
+        "source": "John 1:38",
+        "type": "allusion",
+        "subtype": "conceptual",
+        "confidence": "moderate",
+        "text": "Then Jesus turned, and saw them following, and saith unto them, What seek ye? They said unto him, Rabbi, (which is to say, being interpreted, Master,) where dwellest thou?",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 5,
+          "sequence": 4,
+          "context": 3,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "John 20:16"
+        ],
+        "provenance": {
+          "route": "John 1:38 → KJV → Book of Mormon",
+          "other": "\"which is being interpreted\" occurs in exactly 5 KJV verses — Mark 5:41, Mark 15:22, Mark 15:34, John 1:41 and Acts 4:36 — and John 1:38 has the fuller 'which is to say, being interpreted'. In every one of them the formula glosses a Semitic word for a Greek reader. Alma 18:13's 'Rabbanah, which is, being interpreted, powerful, or great king' uses the KJV's gloss formula exactly, on a word built on the KJV's own 'Rabbi' (John 1:38) and 'Rabboni' (John 20:16, 'Rabboni; which is to say, Master').",
+          "significance": "The Book of Mormon here does the thing a translated record is supposed to do — carries a foreign word and glosses it — and it does it in the King James Bible's formula, on a word the King James Bible already glosses twice. The gloss even differs in the same way: John's Rabbi is rendered 'Master', a title of teaching, while Alma's Rabbanah is rendered 'powerful, or great king', with the narrator adding the reason, 'considering their kings to be powerful'. The second half of the verse thus does what no KJV gloss does, explaining not the word but the culture, and the effect is to mark the Lamanite title as the mistake it is: the servant addresses as a great king a man who has just refused to be one."
+        },
+        "note": "'Rabbanah, which is, being interpreted, powerful, or great king.' Recorded for the formula and the coined word together. The Book of Mormon has one other transliterated-and-glossed term of this shape and no other place where the KJV's exact gloss formula appears; and John 20:16 supplies the rest of the scene, since Alma 18:14's next words are 'Ammon turned himself unto the king', where John has 'She turned herself, and saith unto him, Rabboni'. 'Turned himself' occurs in five KJV verses and is not itself evidence.",
+        "whyNot": "The gloss formula is the natural English for the operation and Joseph Smith's Bible supplied it; a reader may take Rabbanah as invented vocabulary given a KJV frame rather than as an allusion to any particular verse.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "18:19": [
+      {
+        "source": "John 1:21",
+        "type": "allusion",
+        "subtype": "conceptual",
+        "confidence": "moderate",
+        "text": "And they asked him, What then? Art thou Elias? And he saith, I am not. Art thou that prophet? And he answered, No.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "John 1:19",
+          "John 1:20"
+        ],
+        "provenance": {
+          "route": "John 1:19-21 → KJV → Book of Mormon",
+          "other": "Neither string is rare on its own — \"Who art thou\" occurs in exactly 18 KJV verses and \"I am not\" occurs in exactly 46 — but John 1:21 is the only KJV verse containing both, and John 1:19-21 is the only KJV passage in which the question 'Who art thou?' is answered with the words 'I am not'. Alma 18:18-19 is that exchange: 'Who art thou? Art thou that Great Spirit, which knows all things? Ammon answered and said unto him, I am not.'",
+          "significance": "The forerunner's denial is the model, and it is the right model. John's three refusals — not the Christ, not Elias, not that prophet — clear the ground for the one he then points to; the questioners want to know who he is and he will only tell them who he is not. Ammon does the same and then does what John does next: having denied being the Great Spirit, he spends 18:24-39 identifying the God he is not, ending with 'the coming of Christ'. The chapter has given a missionary the Baptist's answer, and the answer works the same way — the denial is not modesty but the first move of the sermon."
+        },
+        "note": "'Art thou that Great Spirit, which knows all things? Ammon answered and said unto him, I am not.' Three words, and they are three of the commonest in the King James Bible; the case is entirely structural, which is why it is at moderate. What makes it more than a coincidence of ordinary English is that the KJV joins this question to this answer exactly once, and the Book of Mormon joins them in the same order and to the same end.",
+        "whyNot": "'I am not' is not a borrowing in any ordinary sense. A reader may reasonably say that a man denying he is a god will say it in these words in any English, and that John 1 is a parallel rather than a source.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "18:20": [
+      {
+        "source": "Daniel 2:30",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "But as for me, this secret is not revealed to me for any wisdom that I have more than any living, but for their sakes that shall make known the interpretation to the king, and that thou mightest know the thoughts of thy heart.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "recurrenceRefs": [
+          "Alma 18:12"
+        ],
+        "provenance": {
+          "route": "Daniel 2:30 → KJV → Book of Mormon",
+          "other": "\"thoughts of thy heart\" occurs in exactly 1 KJV verse, Daniel 2:30. The first-person form \"the thoughts of my heart\" occurs in exactly 1, Job 17:11, where it means a man's own broken purposes and not another's knowledge of them. Alma 18:20 reads 'How knowest thou the thoughts of my heart?' — Daniel's phrase turned into the king's question.",
+          "significance": "Daniel 2:30 is the sentence in which the interpreter refuses the credit: the secret is not revealed to me for any wisdom that I have more than any living. Alma 18 gives Lamoni the question that sentence answers, and gives Ammon the same refusal in his own idiom — 'Behold, I am a man' at 18:17, and at 18:35 'a portion of that Spirit dwelleth in me, which giveth me knowledge, and also power', which is Daniel's disclaimer with the source of the knowledge named. The whole exchange is the Daniel 2 audience run backwards: there the king demands that the wise man produce the thought, here the wise man produces it unasked and the king demands to know how. And the answer, in both books, is that the thought was never the interpreter's to see."
+        },
+        "note": "'How knowest thou the thoughts of my heart?' A KJV singleton put in the mouth of the king it was originally spoken to. It arrives with the rest of the Daniel frame set at 18:12, and with the two verses at 18:16 and 18:18 in which Ammon 'perceived the thoughts of the king' and 'could discern his thoughts'. The Book of Mormon's own standing phrase for this, 'the thoughts and intents of the heart' from Hebrews 4:12, appears twelve verses later at 18:32 and is adjudicated elsewhere; it is a different phrase with a different source, and the distinction is worth keeping.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "18:21": [
+      {
+        "source": "Daniel 5:16",
+        "type": "allusion",
+        "subtype": "conceptual",
+        "confidence": "moderate",
+        "text": "And I have heard of thee, that thou canst make interpretations, and dissolve doubts: now if thou canst read the writing, and make known to me the interpretation thereof, thou shalt be clothed with scarlet, and have a chain of gold about thy neck, and shalt be the third ruler in the kingdom.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 3,
+          "attestation": 0
+        },
+        "kjvSpecific": "uncertain",
+        "mediation": "direct-OT",
+        "composite": [
+          "Daniel 5:17",
+          "Mark 6:23",
+          "Esther 5:3"
+        ],
+        "recurrenceRefs": [
+          "Alma 18:12"
+        ],
+        "provenance": {
+          "route": "Daniel 5:16-17 → KJV → Book of Mormon",
+          "other": "The King James Bible has three scenes of a king offering an open-ended reward: Daniel 5:16-17, where the interpreter answers 'Let thy gifts be to thyself, and give thy rewards to another'; Mark 6:22-23, Herod's oath to the dancing girl, 'Ask of me whatsoever thou wilt, and I will give it thee … unto the half of my kingdom'; and Esther 5:3 and 5:6, 'What is thy request? it shall be even given thee to the half of the kingdom'. No single one of the three is verbally reproduced at Alma 18:21; what is reproduced is the offer and the refusal that follows it.",
+          "significance": "Alma 18:21 makes the offer twice in one verse — 'whatsoever thou desirest, I will give unto thee … whatsoever thou desirest of me, I will grant it unto thee' — and adds the one thing the biblical kings do not, an army: 'if it were needed, I would guard thee with my armies'. Ammon's answer at 18:22 is Daniel's answer in substance: he asks for nothing the king can give, only that the king hearken. In Daniel the refusal of the gifts is what proves the interpretation is not for sale; in Alma it is what turns the audience into a conversion. The one biblical parallel the chapter conspicuously does not take is Herod's, where the open promise is kept and a prophet's head is the price — and Alma 18 is a chapter in which a king's rash killing of servants (18:6) is what everyone in the room is afraid of.",
+          "alternative": "Esther 5:3, if the emphasis is on a petitioner admitted to a king's presence and offered anything; but Esther's petitioner is inside the court and Ammon is a foreign captive, which is Daniel's position."
+        },
+        "note": "'And now if thou wilt tell me concerning these things, whatsoever thou desirest, I will give unto thee.' Recorded as a conceptual allusion to Daniel 5:16-17 within the Daniel frame established at 18:12 and confirmed at 18:20; the wording belongs to no one of the three KJV reward-offers, and this row would not stand alone. What it adds to the frame is the refusal, which is the move that distinguishes Daniel from every courtier around him and Ammon from every servant around him.",
+        "whyNot": "An open-ended royal offer is a folktale commonplace and the KJV has three of its own. Without the changed countenance at 18:12 and the thoughts of the heart at 18:20 there would be no reason to prefer Daniel 5 here, and a reader who declines the frame should decline this row with it.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "18:22": [
+      {
+        "source": "Matthew 10:16",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "Behold, I send you forth as sheep in the midst of wolves: be ye therefore wise as serpents, and harmless as doves.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "Matthew 10:16 → KJV → Book of Mormon",
+          "other": "\"wise as serpents and harmless as doves\" occurs in exactly 1 KJV verse, Matthew 10:16, and 'harmless' occurs in exactly 3 KJV verses altogether (Matthew 10:16, Philippians 2:15, Hebrews 7:26). Alma 18:22's 'Now Ammon being wise, yet harmless' strips the two similes and keeps the pair, in Matthew's order.",
+          "significance": "Matthew 10:16 belongs to the missionary discourse — the sending out of the twelve as sheep among wolves — and it is the New Testament's one licence for cunning in a preacher. Alma 18:22 invokes it at the exact moment Ammon uses cunning: having been offered anything, he asks for the one thing that costs the king nothing and commits him to everything, 'Wilt thou hearken unto my words?' The 'yet' in 'wise, yet harmless' is the Book of Mormon's own gloss on Matthew's 'and', and it concedes what the verse is for: the two qualities are in tension, and the next verse says the king 'was caught with guile'."
+        },
+        "note": "'Now Ammon being wise, yet harmless, he saith unto Lamoni, Wilt thou hearken unto my words, if I tell thee by what power I do these things?' A KJV singleton reduced to its two adjectives. Read with the verse that follows it — see the 2 Corinthians 12:16 link at 18:23 — this is the Book of Mormon assembling a defence of apostolic guile out of the two New Testament passages that offer one.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "18:23": [
+      {
+        "source": "2 Corinthians 12:16",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "But be it so, I did not burden you: nevertheless, being crafty, I caught you with guile.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "recurrenceRefs": [
+          "Alma 18:22"
+        ],
+        "provenance": {
+          "route": "2 Corinthians 12:16 → KJV → Book of Mormon",
+          "other": "\"caught you with guile\" occurs in exactly 1 KJV verse, 2 Corinthians 12:16, and \"with guile\" occurs in exactly 2, the other being Exodus 21:14, where a man kills his neighbour with guile and may be taken from the altar to die. Alma 18:23 reads 'and thus he was caught with guile'.",
+          "significance": "Paul's sentence is a piece of irony under duress. He is answering the charge that he was crafty with the Corinthians' money, and 'nevertheless, being crafty, I caught you with guile' is either his opponents' accusation quoted back at them or his own bitter concession — commentators have never agreed which, and that is the point of it. The Book of Mormon takes the disputed sentence, drops the irony, and applies it approvingly in the narrator's own voice to a conversion: the king believes, and thus he was caught with guile. Coming one verse after the wise-and-harmless of Matthew 10:16, the pair reads as a deliberate defence of the missionary's stratagem — and the only other KJV use of the phrase, at Exodus 21:14, is the law that denies sanctuary to a man who kills with guile, which is exactly the accusation the Lamanite court might have levelled at a Nephite who had killed seven of them the day before."
+        },
+        "note": "'And the king answered him, and said, Yea, I will believe all thy words; and thus he was caught with guile.' Four words of a KJV singleton, reproduced exactly, in the passive. This is the chapter's most striking borrowing and the machine ranked nothing here — 'caught with guile' is four short common words, and the rarity lives in their combination, which is what a frequency-weighted n-gram stream is worst at seeing.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "18:24": [
+      {
+        "source": "Acts 4:31",
+        "type": "echo",
+        "subtype": "probable",
+        "confidence": "moderate",
+        "text": "And when they had prayed, the place was shaken where they were assembled together; and they were all filled with the Holy Ghost, and they spake the word of God with boldness.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 4,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Ephesians 6:20"
+        ],
+        "provenance": {
+          "route": "Acts 4:31 → KJV → Book of Mormon",
+          "other": "\"with boldness\" occurs in exactly 1 KJV verse, Acts 4:31. The verbal form \"speak boldly\" occurs in exactly 2, Acts 18:26 and Ephesians 6:20 — and Ephesians 6:20's 'I am an ambassador in bonds: that therein I may speak boldly' is the wording Lamoni uses to Ammon at 18:20, 'Thou mayest speak boldly, and tell me concerning these things', to a man his people had bound at 17:20.",
+          "significance": "Acts 4:31 makes boldness a consequence: they were filled with the Holy Ghost, and they spake with boldness. Alma 18 has the same two clauses in the same order and eight verses apart — 'Ammon, being filled with the spirit of God' at 18:16, and 'Ammon began to speak unto him with boldness' at 18:24. The intervening verses are what the boldness is for. And the king has already given permission for it at 18:20, so that the missionary's boldness in Alma is licensed by the authority it is exercised on, which is the one thing Acts 4's boldness before the Sanhedrin conspicuously is not."
+        },
+        "note": "'And Ammon began to speak unto him with boldness, and said unto him, Believest thou that there is a God?' Recorded as an echo: 'with boldness' is a KJV singleton but it is also a phrase any preacher's English supplies, and the argument is the pairing with 'filled with the spirit of God' at 18:16 rather than the two words themselves.",
+        "whyNot": "Two common words. The link stands on the sequence filled-then-bold, which Acts 4:31 puts in one verse and Alma 18 spreads over eight; a reader may hold that the spread is too wide to be a borrowing.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "18:34": [
+      {
+        "source": "Genesis 1:27",
+        "type": "allusion",
+        "subtype": "paraphrase",
+        "confidence": "high",
+        "text": "So God created man in his own image, in the image of God created he him; male and female created he them.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 3,
+          "attestation": 5
+        },
+        "kjvSpecific": "uncertain",
+        "mediation": "direct-OT",
+        "composite": [
+          "Genesis 1:26",
+          "Colossians 3:10"
+        ],
+        "recurrenceRefs": [
+          "Mosiah 7:27"
+        ],
+        "provenance": {
+          "route": "Genesis 1:26-27 → KJV → Book of Mormon",
+          "other": "The Book of Mormon's preposition is not Genesis's. Genesis 1:27 has man created 'in his own image' and 'in the image of God'; Genesis 5:3 has Seth begotten 'after his image'; and \"after the image of\" occurs in exactly 1 KJV verse, Colossians 3:10, 'the new man, which is renewed in knowledge after the image of him that created him'. Alma 18:34 reads 'man in the beginning, was created after the image of God' — Genesis's doctrine with the Pauline preposition, and the same formula Mosiah 7:27 used.",
+          "significance": "The substitution is small and it is consistent across the book, which is what makes it worth recording. Colossians 3:10 is not about the first creation but about the renewal of a convert — a new man renewed in knowledge after the image of him that created him — and Alma 18:34 is spoken to a man about to be renewed, in the middle of a sentence about being 'called by his Holy Spirit to teach these things unto this people, that they may be brought to a knowledge of that which is just and true'. Knowledge is in both. The Book of Mormon's answer to 'Art thou sent from God?' is thus not simply Genesis 1 but Genesis 1 in the vocabulary Paul uses for conversion, which is what the whole chapter is engineering.",
+          "alternative": "Genesis 9:6, 'for in the image of God made he man', which is the KJV's other statement of the doctrine and shares the preposition problem."
+        },
+        "note": "'Ammon saith unto him, I am a man; and man in the beginning, was created after the image of God.' The chapter's doctrinal centre and the answer to Lamoni's mistake at 18:2: Ammon is not a god come down, and the reason a king could think so is that men are made in God's image. Hardy's apparatus cross-references Genesis 1:26-27 at this verse. The wording is Genesis's in substance and Colossians 3:10's in its preposition, and the same formula stands at Mosiah 7:27, where the argument for it was made; kjvSpecific is 'uncertain' because 'created after the image of God' is standard English theological diction independent of any one version.",
+        "bibliography": [
+          "Hardy MSI at Alma 18.34 (Genesis 1:26-27)"
+        ],
+        "status": "consensus",
+        "streams": [
+          "scholarship",
+          "manual"
+        ]
+      }
+    ],
+    "18:41": [
+      {
+        "source": "1 Peter 1:3",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "Blessed be the God and Father of our Lord Jesus Christ, which according to his abundant mercy hath begotten us again unto a lively hope by the resurrection of Jesus Christ from the dead,",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Psalm 51:1"
+        ],
+        "provenance": {
+          "route": "1 Peter 1:3 → KJV → Book of Mormon",
+          "other": "\"abundant mercy\" occurs in exactly 1 KJV verse, 1 Peter 1:3. The construction of Lamoni's prayer — 'have mercy … according to thy' — is Psalm 51:1's, 'Have mercy upon me, O God, according to thy lovingkindness', which is the King James Bible's model penitential opening.",
+          "significance": "The prayer of a man who has just been told the gospel for the first time is built out of the Bible's two great mercy formulas, and it changes one word in each. Psalm 51:1 supplies the shape and asks according to God's lovingkindness; 1 Peter 1:3 supplies 'abundant mercy', which in Peter is the ground of being begotten again unto a lively hope. Lamoni asks according to the abundant mercy 'which thou hast had upon the people of Nephi' — that is, he asks for mercy on the evidence of mercy already shown to someone else, which is a convert's argument and not a psalmist's. And what follows immediately is that he falls as if dead and rises two days later, which is the new birth 1 Peter 1:3 names, enacted."
+        },
+        "note": "'O Lord, have mercy; according to thy abundant mercy which thou hast had upon the people of Nephi, have upon me and my people.' A KJV singleton in a KJV frame. The 1830 sentence is ungrammatical at its close — 'have upon me and my people', with the verb 'mercy' understood — and the modern text keeps it, which is the first edition's evidence that the phrase was assembled rather than composed.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "18:42": [
+      {
+        "source": "Revelation 1:17",
+        "type": "echo",
+        "subtype": "possible",
+        "confidence": "moderate",
+        "text": "And when I saw him, I fell at his feet as dead. And he laid his right hand upon me, saying unto me, Fear not; I am the first and the last:",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 4,
+          "context": 4,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "uncertain",
+        "mediation": "direct-NT",
+        "composite": [
+          "Mark 9:26"
+        ],
+        "provenance": {
+          "route": "Revelation 1:17 → KJV → Book of Mormon",
+          "other": "\"as dead\" occurs in exactly 4 KJV verses (Isaiah 59:10, Matthew 28:4, Hebrews 11:12, Revelation 1:17) and \"as one dead\" in exactly 2 (Numbers 12:12, Mark 9:26). Of these only Revelation 1:17 has a living man collapsing at a disclosure of God and being raised from it. \"fell unto the earth\", the Book of Mormon's exact phrase, occurs in exactly 1 KJV verse, Revelation 6:13, where the subject is stars — see the exclusion at this verse.",
+          "significance": "The King James Bible's collapses divide into the ones that are death (Matthew 28:4's keepers, Mark 9:26's boy, whom the bystanders pronounce dead) and the one that is a vision's cost. Revelation 1:17 is the second kind: John falls as dead at the sight of the Son of man and is raised by a hand and the words 'Fear not'. Alma 18:42-43 is neither quite — Lamoni falls and stays fallen for two days and two nights while his household mourns him, and what raises him is not a hand but the end of a private vision he reports in the next chapter. The Book of Mormon has taken the apocalyptic collapse and given it a funeral, which is what makes 19:1-13 possible."
+        },
+        "note": "'And now when he had said this, he fell unto the earth, as if he were dead.' Recorded as an echo. The phrase is generic and the KJV's four candidates are all short; what points at Revelation 1:17 is the situation rather than the string, and a reader who wants a verbal source for this verse will not find one.",
+        "whyNot": "Falling down as if dead needs no source. This row is at moderate because the type is distinctive in the KJV, not because the wording is.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ]
+  }
+}

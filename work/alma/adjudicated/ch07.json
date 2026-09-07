@@ -1,0 +1,561 @@
+{
+  "chapter": 7,
+  "adjudicated": "2026-09-07",
+  "adjudicator": "Opus",
+  "links": {
+    "7:6": [
+      {
+        "source": "1 Thessalonians 1:9",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "For they themselves shew of us what manner of entering in we had unto you, and how ye turned to God from idols to serve the living and true God;",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "1 Thessalonians 1:9 → KJV → Book of Mormon",
+          "other": "'The living and true God' occurs in exactly one KJV verse, 1 Thessalonians 1:9. Alma inverts the pair to 'the true and the living God'; the constituent phrases 'the living God' (28 verses) and 'the true God' (5) are each common, but their conjunction is not.",
+          "significance": "The rarity is not in the words but in the movement. Paul's one use of the phrase is the hinge of a sentence about converts who 'turned to God from idols to serve the living and true God', and Alma 7:6 makes the same turn in the same order: 'ye do not worship idols, but ye do worship the true and the living God.' Idols first, the living and true God second, the verb of service or worship governing both. What Paul reports of the Thessalonians as an accomplished conversion, Alma expresses as a hope about Gideon — the congregation he has come to test. Recover Paul's next clause and the hope acquires its object: those who turned 'to wait for his Son from heaven', which is precisely what Alma spends verses 7 through 13 telling Gideon to do."
+        },
+        "note": "'Ye do not worship idols, but that ye do worship the true and the living God; and that ye look forward for the remission of your sins with an everlasting faith which is to come.' The KJV's single occurrence of 'the living and true God' sits in its single verse about turning from idols to that God and waiting for his Son, and Alma reproduces all three moves — idols renounced, the living and true God worshipped, the coming Son awaited — with the adjective pair reversed. Reversal of a fixed pair is the ordinary signature of quotation from memory rather than from a page. Well under Skousen's sixteen-word threshold and not one of his passages.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": false,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "7:9": [
+      {
+        "source": "Matthew 3:3",
+        "type": "quotation",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "For this is he that was spoken of by the prophet Esaias, saying, The voice of one crying in the wilderness, Prepare ye the way of the Lord, make his paths straight.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "OT-via-NT",
+        "composite": [
+          "Matthew 3:2",
+          "Mark 1:3",
+          "Isaiah 40:3"
+        ],
+        "provenance": {
+          "route": "Isaiah 40:3 → Matthew 3:2-3 (KJV) → Book of Mormon",
+          "other": "'Prepare ye the way of the Lord' occurs in exactly four KJV verses — Isaiah 40:3 and its three Gospel citations. 'Make his paths straight' occurs in exactly three KJV verses, all of them Gospel: Matthew 3:3, Mark 1:3, Luke 3:4. 'The kingdom of heaven is at hand' occurs in exactly three KJV verses, all of them Matthew: 3:2, 4:17, 10:7.",
+          "significance": "mediation-check.py returns two decisive points for Matthew against Isaiah: the Book of Mormon has 'his paths', which the Gospels supply and Isaiah does not, and it lacks Isaiah's 'in the desert a highway for our God'. So Alma is not preaching from Isaiah 40; he is preaching from the Gospel's reading of Isaiah 40. The second half of the composite settles which Gospel. 'Repent ye ... for the kingdom of heaven is at hand' is Matthew 3:2, the verse immediately before the citation, and 'kingdom of heaven' for 'kingdom of God' is Matthew's idiom exclusively. What the Spirit tells Alma to cry to this people is therefore John the Baptist's sentence and its Matthean frame, in Matthew's order: repentance, the kingdom, then the way of the Lord. The suppressed correspondence is who is speaking. Alma is a chief judge who has laid down the judgment seat to preach, addressing a people about a Redeemer not yet come; the words he is given are the forerunner's."
+        },
+        "note": "'Cry unto this people, saying, Repent ye, and prepare the way of the Lord, and walk in his paths, which are straight: for behold, the Kingdom of Heaven is at hand.' Two Matthean units, 3:2 and 3:3, in Matthew's sequence. The machine proposed Luke 17:21 and Matthew 26:45 here on 'behold the kingdom of' and 'at hand and the son of', and both are artifacts of connective word order: neither has 'prepare the way of the Lord' anywhere near it. The mediation is decisive — 'his paths' is the Gospels' addition to Isaiah, and the Book of Mormon has it.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "recurrenceRefs": [
+          "Alma 9:25",
+          "Alma 9:28"
+        ]
+      }
+    ],
+    "7:10": [
+      {
+        "source": "Luke 1:31",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "And, behold, thou shalt conceive in thy womb, and bring forth a son, and shalt call his name JESUS.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 3
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Luke 1:35"
+        ],
+        "provenance": {
+          "route": "Luke 1:31, 1:35 → KJV → Book of Mormon",
+          "other": "'The power of the Highest shall overshadow' occurs in exactly one KJV verse, Luke 1:35; the verb 'overshadow' in that sense occurs nowhere else in the KJV of the annunciation's kind. 'Conceive in thy womb, and bring forth a son' occurs in exactly one KJV verse, Luke 1:31.",
+          "significance": "Alma has Gabriel's two verses in Gabriel's order but compressed into one clause and re-voiced in the third person: overshadowed, conceive, bring forth a son. The one word that carries the whole is 'overshadowed', which is a passive with no stated agent in Alma and a stated agent in Luke — 'the power of the Highest'. Alma then supplies the agent from the other half of Luke 1:35, 'the Holy Ghost shall come upon thee', writing 'conceive by the power of the Holy Ghost'. That fusion is the finding: Luke keeps the Holy Ghost and the power of the Highest as two parallel members of a Hebrew couplet, and Alma collapses them into a single agent. A reader who recovers Luke's context gets a distinction the Book of Mormon has already resolved."
+        },
+        "note": "'She being a Virgin, a precious and chosen vessel, who shall be overshadowed, and conceive by the power of the Holy Ghost, and bring forth a son, yea, even the Son of God.' Two KJV singletons from adjacent verses of the annunciation, in sequence, with Luke's couplet of agents fused into one. Hardy's apparatus cross-references Matthew 1:18 and Luke 1:35 at this verse; the wording is Luke's throughout and Matthew 1:18 contributes nothing verbally, so the link sits on Luke and Matthew is registered as an exclusion. 'Precious and chosen vessel' is not KJV: 'chosen vessel' is Acts 9:15, of Paul, and the collocation with 'precious' is the Book of Mormon's own.",
+        "bibliography": [
+          "Hardy MSI at Alma 7.10 (Matthew 1:18, Luke 1:35)"
+        ],
+        "status": "majority",
+        "citationsPending": false,
+        "streams": [
+          "machine-ngram",
+          "manual",
+          "scholarship"
+        ]
+      }
+    ],
+    "7:11": [
+      {
+        "source": "Matthew 8:17",
+        "type": "quotation",
+        "subtype": "explicit",
+        "confidence": "certain",
+        "text": "That it might be fulfilled which was spoken by Esaias the prophet, saying, Himself took our infirmities, and bare our sicknesses.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 4
+        },
+        "kjvSpecific": "yes",
+        "mediation": "OT-via-NT",
+        "composite": [
+          "Isaiah 53:4",
+          "John 15:25",
+          "John 19:24"
+        ],
+        "recurrenceRefs": [
+          "Alma 7:12"
+        ],
+        "provenance": {
+          "route": "Isaiah 53:4 → Matthew 8:17 (KJV) → Book of Mormon",
+          "other": "'Bare our sicknesses' occurs in exactly one KJV verse and 'took our infirmities' occurs in exactly one KJV verse, both of them Matthew 8:17. Isaiah 53:4 in the KJV reads 'borne our griefs' and 'carried our sorrows' — neither 'sicknesses' nor 'infirmities' appears anywhere in the Isaiah verse. The citation frame is separately rare: 'that the word might be fulfilled' occurs in exactly one KJV verse, John 15:25, and 'might be fulfilled which saith' occurs in exactly one KJV verse, John 19:24.",
+          "significance": "This is the cleanest mediation case in the chapter and one of the cleanest in the book. Alma marks the sentence as a citation — 'this that the word might be fulfilled which saith' — and then gives, as the word to be fulfilled, a phrase that exists in the KJV only in Matthew's Greek-derived rendering of Isaiah, not in the KJV's Isaiah. mediation-check.py returns two decisive points: the Book of Mormon has Matthew's citation frame and Matthew's 'sicknesses', and neither of Isaiah's 'griefs' nor 'sorrows'. The metalepsis is severe once recovered. Matthew 8:17 is not a passion text at all: Matthew attaches it to an evening of healings at Peter's house, reading Isaiah's suffering servant as a healer of bodies. Alma 7:11-12 does exactly the same thing — it takes the atonement out of the register of guilt and into the register of pain, sickness, and infirmity, and it does so by quoting the one KJV verse where that reading of Isaiah 53 has already been made. Alma's Christ is Matthew's Christ of the sickbed before he is Isaiah's man of sorrows. One further consequence of the frame. Both Johannine formulas Alma has spliced introduce quotations of Scripture being fulfilled by something done TO Jesus — hatred without a cause, soldiers casting lots for his coat. Alma's frame introduces a quotation about what Jesus will take upon himself. The borrowed grammar of passion-fulfilment has been turned to describe an act."
+        },
+        "note": "\"This that the word might be fulfilled which saith, He will take upon him the pains and the sicknesses of his people.\" The quoted word is Matthew 8:17, not Isaiah 53:4: 'sicknesses' is Matthew's, and Isaiah's KJV has 'griefs' and 'sorrows'. The frame around it is not Matthew's, and is itself a finding — Alma's 'that the word might be fulfilled which saith' splices the KJV's one occurrence of 'that the word might be fulfilled' (John 15:25) to its one occurrence of 'might be fulfilled which saith' (John 19:24), joined at the shared word 'fulfilled'. So the sentence quotes Matthew inside a frame welded out of two verses of John. Hardy's apparatus cross-references Isaiah 53:4 and Matthew 8:17 together here; the mediation test decides between them, and it decides for Matthew.",
+        "bibliography": [
+          "Hardy MSI at Alma 7.11 (Isaiah 53:4, Matthew 8:17)"
+        ],
+        "status": "majority",
+        "citationsPending": false,
+        "streams": [
+          "manual",
+          "scholarship"
+        ]
+      }
+    ],
+    "7:12": [
+      {
+        "source": "Hebrews 2:18",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "text": "For in that he himself hath suffered being tempted, he is able to succour them that are tempted.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Hebrews 4:15"
+        ],
+        "variants": [
+          "alma-7-12-suffer-succor"
+        ],
+        "provenance": {
+          "route": "Hebrews 2:18, 4:15 → KJV → Book of Mormon",
+          "other": "'Succour them that are tempted' occurs in exactly one KJV verse, Hebrews 2:18, which is also the KJV's only verse pairing 'suffered' with 'succour'. 'The feeling of our infirmities' occurs in exactly one KJV verse, Hebrews 4:15.",
+          "significance": "The 1830 reading is the evidence. Alma 7:12 in the first edition ends 'that he may know according to the flesh how to suffer his people according to their infirmities' — 'suffer', not 'succor'; the 1920 edition emended it, and every modern reader has the emended word. The emendation is almost certainly right as sense, and it is exactly what makes the borrowing visible, because Hebrews 2:18 is the one KJV verse in which both words stand in one sentence and in this relation: he suffered, therefore he can succour. The 1830 text has taken the wrong half of that sentence — or has preserved a scribal collision between the two — and either way it shows a compositor's eye on Hebrews 2:18 rather than on a general idea of sympathy. Verse 11's 'temptations of every kind' is Hebrews 2:18's 'tempted' twice over, and 'their infirmities' is Hebrews 4:15's. So the argument Alma is making — that Christ takes on flesh in order to know experientially how to help — is the argument of Hebrews 2-4, made in its vocabulary."
+        },
+        "note": "'He will take upon him their infirmities, that his bowels may be filled with mercy … that he may know according to the flesh how to suffer his people according to their infirmities.' The 1830 'suffer' where 1920 reads 'succor' is what identifies the source: Hebrews 2:18 is the only KJV verse in which suffering and succouring are the two halves of one clause, and Alma has both words within two verses. 'Bowels may be filled with mercy' is not Hebrews but Colossians 3:12's KJV singleton 'bowels of mercies', filed here as a secondary observation rather than a link because a single common noun is doing all the work. See 7:11 for the 'infirmities' half, which is Matthew 8:17's.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "7:14": [
+      {
+        "source": "John 1:29",
+        "type": "quotation",
+        "subtype": "close-verbal",
+        "confidence": "certain",
+        "text": "The next day John seeth Jesus coming unto him, and saith, Behold the Lamb of God, which taketh away the sin of the world.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Isaiah 63:1",
+          "1 John 1:9",
+          "John 3:7"
+        ],
+        "provenance": {
+          "route": "John 1:29 → KJV → Book of Mormon",
+          "other": "'Which taketh away the sin of the world' occurs in exactly one KJV verse, John 1:29. 'Mighty to save' occurs in exactly one KJV verse, Isaiah 63:1. 'Cleanse us from all unrighteousness' occurs in exactly one KJV verse, 1 John 1:9. 'Ye must be born again' is John 3:7; 'born again' occurs in exactly three KJV verses.",
+          "significance": "One sentence of Alma 7:14 strings three KJV singletons from three different books: 'the Lamb of God, which taketh away the sins of the world, which is mighty to save and to cleanse from all unrighteousness.' John supplies the Lamb, Isaiah 63 supplies 'mighty to save', 1 John supplies the cleansing. What holds them together is that all three are answers to the question of who can deal with sin, and the middle one is the odd member: Isaiah 63:1 is the Edom oracle, the figure coming from Bozrah with dyed garments, and the dye in the next verses turns out to be blood from a winepress of wrath. Alma has taken the KJV's one self-description of a redeemer as 'mighty to save' and set it between the Lamb and the cleansing, so that a phrase whose home context is the treading of enemies is made to serve the washing of sinners. Note also that the 1830 has 'which taketh away' where 1920 reads 'who' — the first edition preserves John's relative pronoun exactly and the modernization erases it."
+        },
+        "note": "'That ye may have faith on the Lamb of God, which taketh away the sins of the world, which is mighty to save and to cleanse from all unrighteousness.' John 1:29 verbatim but for the plural 'sins', in the 1830's KJV pronoun 'which' that 1920 changed to 'who'; then two further KJV singletons in the same breath. The verse opens with 'ye must repent, and be born again … ye cannot inherit the Kingdom of Heaven', which fuses John 3:7's 'ye must be born again' with John 3:3's 'cannot see the kingdom of God' recast in Paul's 'inherit' (1 Corinthians 15:50) and Matthew's 'kingdom of heaven'. The machine found John 1:29 and 1 Corinthians 15:50; Isaiah 63:1 and 1 John 1:9 were invisible to it.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "7:15": [
+      {
+        "source": "Hebrews 12:1",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "text": "Wherefore seeing we also are compassed about with so great a cloud of witnesses, let us lay aside every weight, and the sin which doth so easily beset us, and let us run with patience the race that is set before us,",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 5,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "Hebrews 12:1 → KJV → Book of Mormon",
+          "other": "'Lay aside every weight' occurs in exactly one KJV verse and 'easily beset' occurs in exactly one KJV verse, both of them Hebrews 12:1; 'beset' in any form occurs in only a handful of KJV verses and nowhere else with 'easily'.",
+          "significance": "Alma has collapsed Hebrews' two objects into one. The KJV distinguishes the weight from the sin — 'lay aside every weight, and the sin which doth so easily beset us' — and Alma writes 'lay aside every sin, which easily doth beset you', taking the adjective of the first object and the relative clause of the second and welding them onto a single noun. The transposition 'easily doth' for 'doth so easily' is the kind of small dislocation that quotation from memory produces and copying does not. Recover the context and the borrowing gains an argument Alma does not state: Hebrews 12:1 is about running a race in view of a cloud of witnesses, and Alma's next clause turns the laying aside into a public act — 'come and go forth, and shew unto your God that ye are willing to repent … and witness it unto him this day, by going into the waters of baptism.' Hebrews' witnesses watch the runner; Alma's convert is himself the witness."
+        },
+        "note": "'Lay aside every sin, which easily doth beset you, which doth bind you down to destruction.' Two KJV singletons from one verse of Hebrews, fused onto a single noun. The machine ranked Nehemiah 9:8 at this verse on 'a covenant with him to', which is connective; the actual borrowing was invisible to it. The 1830 'shew' later in the verse, modernized to 'show' in 1920, is a further KJV spelling the first edition preserves.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "7:17": [
+      {
+        "source": "1 Corinthians 12:7",
+        "type": "echo",
+        "subtype": "probable",
+        "confidence": "moderate",
+        "text": "But the manifestation of the Spirit is given to every man to profit withal.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "1 Corinthians 12:7 → KJV → Book of Mormon",
+          "other": "'The manifestation of the Spirit' occurs in exactly one KJV verse, 1 Corinthians 12:7. The noun 'manifestation' occurs in exactly two KJV verses in all, the other being Romans 8:19.",
+          "significance": "Alma uses the phrase to answer an epistemological question he has just put to himself: he knows Gideon believes, and 'the way that I know that ye believe them, is by the manifestation of the spirit which is in me.' Paul's one use of the phrase is the premise of his argument that gifts are distributed severally to each — the manifestation of the Spirit is given to every man to profit withal — which is to say that the phrase's home context is about the Spirit's presence in other people, and Alma has turned it into an instrument for reading other people. Recover Paul's chapter and the discerning of spirits turns out to be one of the nine gifts he goes on to list, four verses later; Alma is claiming that gift without naming it."
+        },
+        "note": "'The way that I know that ye believe them, is by the manifestation of the spirit which is in me.' A four-word KJV singleton, and the noun itself is nearly a KJV hapax. Recorded at moderate rather than high because 'manifestation of the Spirit' had become ordinary revivalist English long before 1830 and could reach the page without Paul in view; the count is what keeps the row.",
+        "whyNot": "The phrase is a commonplace of nineteenth-century American religious speech, so KJV rarity may not indicate KJV dependence here. Nothing else of 1 Corinthians 12 is present in the verse.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "7:19": [
+      {
+        "source": "Psalm 23:3",
+        "type": "echo",
+        "subtype": "probable",
+        "confidence": "moderate",
+        "text": "He restoreth my soul: he leadeth me in the paths of righteousness for his name’s sake.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 2,
+          "context": 3,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "recurrenceRefs": [
+          "Alma 7:9"
+        ],
+        "provenance": {
+          "route": "Psalm 23:3 → KJV → Book of Mormon",
+          "other": "'The paths of righteousness' occurs in exactly one KJV verse, Psalm 23:3. Proverbs 8:20 has 'in the way of righteousness, in the midst of the paths of judgment'; Proverbs 2:20 has 'the paths of the righteous'. Neither has Alma's phrase.",
+          "significance": "The verse runs three 'I perceive' clauses in ascending order — the paths of righteousness, the path which leads to the kingdom of God, the making of his paths straight — and the first and third are borrowed from opposite ends of the canon. The third returns to Matthew 3:3, adjudicated at 7:9, so Alma's picture of Gideon's congregation is framed by the psalm at one end and the forerunner at the other: a people the Lord leads in the paths of righteousness are the people preparing his way. The middle clause, which is the only one that names the destination, is the one with no biblical wording at all."
+        },
+        "note": "'I perceive that ye are in the paths of righteousness … yea, I perceive that ye are making his paths straight.' A KJV singleton, but a short and proverbial one, and 'paths of righteousness' is the sort of phrase a preacher could reach for without Psalm 23 in view — hence moderate rather than high. What raises it above passing is the third clause of the same sentence, which is unmistakably Matthew 3:3 and shows Alma still working the vocabulary of paths he took up at 7:9.",
+        "whyNot": "Three words, in a construction common to devotional English of every period. The link rests on the KJV count and on the company it keeps in the verse, not on volume.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "7:20": [
+      {
+        "source": "James 1:17",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "text": "Every good gift and every perfect gift is from above, and cometh down from the Father of lights, with whom is no variableness, neither shadow of turning.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "James 1:17 → KJV → Book of Mormon",
+          "other": "'Shadow of turning' occurs in exactly one KJV verse and 'no variableness' occurs in exactly one KJV verse, both of them James 1:17; the phrase 'shadow of turning' occurs nowhere else in the KJV in any form.",
+          "significance": "Alma reproduces James's pair in James's order and in James's syntax — a negated first member, then 'neither' and the second: 'neither doth he vary from that which he hath said; neither hath he a shadow of turning.' James's 'no variableness' becomes a verb, 'doth not vary', and the second member is verbatim. What Alma does with it is the interesting part. James's immutability is about the reliability of gifts descending from the Father of lights; Alma's is forensic, about a God whose word can be relied on because he cannot walk in crooked paths — the argument of the whole address, that the testimony Alma has borne will hold. He then closes the verse with 'his course is one eternal round', which is not KJV and is the Book of Mormon's own figure. So a KJV singleton about light is being made to do the work of a proof of divine consistency."
+        },
+        "note": "'Neither doth he vary from that which he hath said; neither hath he a shadow of turning from the right to the left.' The one KJV verse that has both 'variableness' and 'shadow of turning' supplies both, in order and in the same negated-pair construction. Nothing in the dossier reached this verse at all; the machine returned no candidates for 7:20.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "7:21": [
+      {
+        "source": "Revelation 22:11",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "He that is unjust, let him be unjust still: and he which is filthy, let him be filthy still: and he that is righteous, let him be righteous still: and he that is holy, let him be holy still.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "Revelation 22:11 → KJV → Book of Mormon",
+          "other": "'He which is filthy' occurs in exactly one KJV verse, Revelation 22:11. The KJV's other constructions use 'he that is'; the relative 'which' with 'filthy' occurs only here, and the 1830 preserves it where 1920 reads 'who'.",
+          "significance": "Alma's clause is Revelation 22:11 turned from an imperative into a prediction. John writes a jussive — let him be filthy still — spoken from the very end of the canon, after which nothing changes; Alma writes 'the time shall come, yea, and it shall be at the last day, that he which is filthy, shall remain in his filthiness', which supplies the date John leaves implicit and converts the permission into a fate. The 1830's 'which' rather than 'who' is what makes the borrowing legible: it is John's relative pronoun in John's collocation, and the 1920 modernization removes the only word that distinguishes the phrase from ordinary English."
+        },
+        "note": "'The time shall come, yea, and it shall be at the last day, that he which is filthy, shall remain in his filthiness.' A five-word KJV singleton reproduced exactly in the first edition, from the KJV's one verse about the irrevocability of moral state at the end. The 1830 'which' → 1920 'who' change is flagged in the dossier and matters: the modernized text no longer matches Revelation. No machine candidate reached this verse.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      },
+      {
+        "source": "Acts 7:48",
+        "type": "echo",
+        "subtype": "possible",
+        "confidence": "moderate",
+        "text": "Howbeit the most High dwelleth not in temples made with hands; as saith the prophet,",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 2,
+          "context": 4,
+          "rarity": 3,
+          "attestation": 0
+        },
+        "kjvSpecific": "uncertain",
+        "mediation": "direct-NT",
+        "composite": [
+          "Acts 17:24"
+        ],
+        "provenance": {
+          "route": "Acts 7:48 (or 17:24) → KJV → Book of Mormon",
+          "other": "'Dwelleth not in temples made with hands' occurs in exactly two KJV verses, Acts 7:48 and Acts 17:24. 'Unholy' occurs in four KJV verses (Leviticus 10:10, 1 Timothy 1:9, 2 Timothy 3:2, Hebrews 10:29) and in none of them with 'temple'.",
+          "significance": "Both KJV verses deny that God dwells in temples of any kind; Alma denies only that he dwells in unholy ones, which reverses the point while keeping the sentence shape. That reversal is why this is an echo and not an allusion — the wording is close enough to notice and the doctrine is opposite, and a catalogue that recorded only the resemblance would misreport it. The one thing that keeps it above the exclusion line is the setting. Stephen's speech in Acts 7 is a prophet's last address to a people who will kill him, and Alma 7 is the address immediately preceding Alma's own rejection at Ammonihah in chapter 8."
+        },
+        "note": "'And he doth not dwell in unholy temples.' A negated dwelling-in-temples sentence in the shape of Acts 7:48 / 17:24, with the qualifier that undoes it: Luke's God dwells in no temples made with hands, Alma's God dwells in holy ones and not unholy ones. Recorded at moderate on the strength of the construction, not the doctrine. 'Unholy temples' is not a KJV phrase.",
+        "whyNot": "The shared material is a common verb and a common noun in a negated clause; the sense is contrary to both KJV verses, and the Book of Mormon's own body-as-temple idiom (compare 1 Corinthians 3:16-17, also not verbally present) would account for the sentence without any borrowing at all.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "7:22": [
+      {
+        "source": "John 16:6",
+        "type": "echo",
+        "subtype": "probable",
+        "confidence": "moderate",
+        "text": "But because I have said these things unto you, sorrow hath filled your heart.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 4,
+          "sequence": 5,
+          "context": 3,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "uncertain",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "John 16:6 → KJV → Book of Mormon",
+          "other": "'I have said these things unto you' occurs in exactly one KJV verse, John 16:6. The Johannine farewell discourse uses several near variants — 'these things have I spoken unto you' at John 15:11, 16:1, 16:4, 16:25, 16:33 — but this exact word order occurs once.",
+          "significance": "Seven words in sequence, and the only KJV verse that has them belongs to a farewell address. Alma 7 is also a farewell: he has laid down the judgment seat, he speaks to Gideon 'by my own mouth' for the first and, as chapter 8 shows, the last extended time before Ammonihah, and he ends the chapter with a blessing on houses, lands, flocks and herds. What Jesus says the words produce is sorrow; what Alma says they are for is 'that I might awaken you to a sense of your duty to God'. That is the interesting divergence and the reason to record the row rather than pass it over as boilerplate."
+        },
+        "note": "'I have said these things unto you, that I might awaken you to a sense of your duty to God.' A seven-word KJV singleton, but composed entirely of function words and one weak verb, so the count overstates the distinctiveness — the same sentence could be written by anyone. Recorded at moderate because the run is exact and long and because both settings are valedictory. Flagged as the chapter's weakest accepted row.",
+        "whyNot": "Every word is common; only the order is rare, and rare orderings of common words are the failure mode the n-gram stream is worst at. If this row is wrong it is wrong in the direction the pilot warned about at Job 42:7.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "7:23": [
+      {
+        "source": "James 3:17",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "text": "But the wisdom that is from above is first pure, then peaceable, gentle, and easy to be intreated, full of mercy and good fruits, without partiality, and without hypocrisy.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "1 Corinthians 9:25"
+        ],
+        "provenance": {
+          "route": "James 3:17 → KJV → Book of Mormon",
+          "other": "'Easy to be intreated' occurs in exactly one KJV verse, James 3:17 (the 1830 spells it 'entreated'). 'Temperate in all things' occurs in exactly one KJV verse, 1 Corinthians 9:25. 'Full of patience' occurs in no KJV verse; 'full of mercy' is James 3:17's own continuation.",
+          "significance": "Alma's virtue list reproduces three consecutive members of James's — gentle, easy to be entreated, full of — in James's order, and then substitutes: James has 'full of mercy and good fruits', Alma has 'full of patience and long suffering'. The substitution is not random. Mercy is what Alma has just said Christ's bowels are filled with at 7:12; having given mercy to the Redeemer he gives patience to the congregation, and the slot in James's sentence is preserved while its filler moves. The next item, 'temperate in all things', leaves James for Paul and for another KJV singleton, from the one verse about an athlete training for a corruptible crown — which sets the whole list under the figure of a contest, as Hebrews 12:1 did at 7:15."
+        },
+        "note": "'Be humble, and be submissive, and gentle; easy to be entreated; full of patience and long suffering; being temperate in all things.' Two KJV singletons in one clause, the first three items in James's own sequence. The 1830 spells 'entreated' where the KJV has 'intreated', so this is one of the rare places the first edition is the modernized form; 1920 also joins 'long suffering' into 'long-suffering'. No machine candidate reached this verse.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "7:24": [
+      {
+        "source": "1 Corinthians 13:13",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "And now abideth faith, hope, charity, these three; but the greatest of these is charity.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 5,
+          "context": 3,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "1 Corinthians 13:13 → KJV → Book of Mormon",
+          "other": "The triad 'faith, hope, charity' in this order occurs in exactly one KJV verse, 1 Corinthians 13:13. 'Charity' as the third member is what makes the count decisive: the KJV's 'charity' is a translation choice, and modern versions read 'love', so a modern Bible cannot produce this triad in these words at all.",
+          "significance": "The triad is Paul's and the KJV's third word is the tell. Where a reader of a modern version finds faith, hope and love, Alma has faith, hope and charity, which is the King James lexical decision specifically. What Alma adds is a consequence Paul does not draw: 'and then ye will always abound in good works'. Paul ends his sentence by ranking the three; Alma ends his by making them productive, which is the emphasis of James — whose verse he has just quoted in the line before — rather than of 1 Corinthians 13. The two verses together, James 3:17 and 1 Corinthians 13:13, put a Pauline triad to a Jamesian use."
+        },
+        "note": "'And see that ye have faith, hope, and charity, and then ye will always abound in good works.' The KJV's one occurrence of the triad in this order, with 'charity' — the King James word, not a modern version's. 'Abound in good works' occurs in no KJV verse; 2 Corinthians 9:8's 'abound to every good work' is the nearest and is not close enough to catalogue.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "7:25": [
+      {
+        "source": "Matthew 8:11",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "And I say unto you, That many shall come from the east and west, and shall sit down with Abraham, and Isaac, and Jacob, in the kingdom of heaven.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Luke 1:70"
+        ],
+        "provenance": {
+          "route": "Matthew 8:11 → KJV → Book of Mormon",
+          "other": "'Sit down with Abraham' occurs in exactly one KJV verse, Matthew 8:11, and it is the only KJV verse joining the patriarchal triad to 'the kingdom of heaven'. 'Which have been since the world began' occurs in exactly one KJV verse, Luke 1:70; Acts 3:21's 'since the world began' lacks the relative clause.",
+          "significance": "Both singletons come from the same fourteen verses of Luke and Matthew that Alma has been quoting all chapter, and one of them is the chapter's own bookend. Matthew 8:11 stands seven verses before Matthew 8:17, which Alma quoted at 7:11 — the two ends of a single Matthean passage, used at the two ends of a single address. The metalepsis is in what Matthew 8:11 is for. It is the saying about the centurion, in which the many who sit down with the patriarchs come from the east and west and 'the children of the kingdom shall be cast out'. Alma is promising a congregation of Nephites, on the far side of the world from Jerusalem, a seat at that table; the verse he promises it in is the KJV's one verse about outsiders taking the insiders' places.",
+          "alternative": "Luke 13:28-29 has the same saying with the patriarchs and the four quarters, but reads 'sit down in the kingdom of God' and lacks 'sit down with Abraham'; the Book of Mormon has Matthew's form on both points."
+        },
+        "note": "'That ye may at last be brought to sit down with Abraham, Isaac and Jacob, and the Holy Prophets, which have been ever since the world began … in the kingdom of Heaven, to go no more out.' Two KJV singletons in one sentence, from Matthew's centurion saying and from the Benedictus. The 1830 'which have been' preserves Luke's relative where 1920 reads 'who'. Luke 13:28-29's parallel form is ruled out on 'kingdom of heaven' and on 'sit down with'.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ]
+  }
+}

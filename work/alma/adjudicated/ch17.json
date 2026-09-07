@@ -1,0 +1,345 @@
+{
+  "chapter": 17,
+  "adjudicated": "2026-09-07",
+  "adjudicator": "Opus",
+  "links": {
+    "17:2": [
+      {
+        "source": "Acts 17:11",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "These were more noble than those in Thessalonica, in that they received the word with all readiness of mind, and searched the scriptures daily, whether those things were so.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "Acts 17:11 → KJV → Book of Mormon",
+          "other": "\"searched the scriptures\" occurs in exactly 1 KJV verse, Acts 17:11. The imperative \"search the scriptures\" occurs in exactly 1, John 5:39. Alma 17:2 has the past tense — 'they had searched the Scriptures diligently' — which is Acts 17:11's inflection and not John's.",
+          "alternative": "John 5:39, 'Search the scriptures; for in them ye think ye have eternal life', which is the better-known verse and the one a modern reader hears first. It is the wrong grammar: John has a command and Alma a completed action, and Acts supplies both the tense and the adverb slot.",
+          "significance": "Acts 17:11 is the KJV's one commendation of scripture-searching, and it commends the Bereans for searching in order to test what two visiting missionaries were preaching. Alma 17:2 gives the same praise to men who searched in order to become the missionaries. The one substitution is the adverb: Luke's Bereans searched 'daily', the sons of Mosiah 'diligently' — frequency exchanged for thoroughness, which is the difference between a congregation checking a sermon and a preacher preparing one. The Book of Mormon has taken the Bible's model hearers and made them its model senders."
+        },
+        "note": "'They had waxed strong in the knowledge of the truth; for they were men of a sound understanding, and they had searched the Scriptures diligently.' The verse is built out of New Testament phrases that are individually unremarkable and jointly Lukan and Pauline: 'waxed strong' occurs in two KJV verses, both Luke's of a growing child (1:80, 2:40); 'knowledge of the truth' in three, all in the Pastorals and Hebrews; and 'searched the scriptures' in one. The machine ranked 2 Timothy 3:7 here on 'the knowledge of the truth', which is a genuine Pastoral formula but the least distinctive thing in the sentence.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "17:3": [
+      {
+        "source": "Luke 9:1",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "text": "Then he called his twelve disciples together, and gave them power and authority over all devils, and to cure diseases.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "Luke 9:1 → KJV → Book of Mormon",
+          "other": "\"power and authority\" occurs in exactly 2 KJV verses, both in Luke: 9:1, where Jesus gives the twelve power and authority and sends them out, and 20:20, where spies try to deliver him up to the power and authority of the governor. The n-gram stream ranked 20:20 first here because its six-word run is longer; 9:1 is the verse whose situation Alma 17:3 reproduces.",
+          "significance": "The 1830 text says the sons of Mosiah 'taught with power and authority, even as with the power and authority of God' — the phrase twice, the second time referred to its origin. In Luke 9:1 power and authority are precisely a delegation: the twelve have them because they were given them for a journey they are about to take. Alma 17 is that journey's Book of Mormon equivalent, and the chapter goes on to use Luke 9's sending elsewhere — the arms carried in to Lamoni at 17:39 are brought 'for a testimony', which is what Luke 9:5's disciples leave behind them. The 1920 edition deleted the second half of the doubling, and with it the clause that made the delegation explicit."
+        },
+        "note": "'And when they taught, they taught with power and authority, even as with the power and authority of God.' A two-verse KJV phrase used in the sense of the one of the two that is about missionaries. Catalogued at moderate because 'power and authority' is a natural English pair and the Book of Mormon may have arrived at it independently; what argues for Luke 9:1 is that both texts have the phrase as something conferred for a mission. The 1830 doubling, deleted in 1920, is the first edition preserving the argument the modern text only implies.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "17:5": [
+      {
+        "source": "2 Corinthians 11:27",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "text": "In weariness and painfulness, in watchings often, in hunger and thirst, in fastings often, in cold and nakedness.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "2 Corinthians 11:26"
+        ],
+        "provenance": {
+          "route": "2 Corinthians 11:26-27 → KJV → Book of Mormon",
+          "other": "\"in hunger and thirst\" occurs in exactly 1 KJV verse, 2 Corinthians 11:27. \"journeyings\" occurs in exactly 2 KJV verses, Numbers 10:28 and 2 Corinthians 11:26 — and 11:26 is the verse immediately before. So the two rare words in Alma 17:5 come from two consecutive verses of one passage, in that passage's order.",
+          "significance": "2 Corinthians 11 is the peristasis catalogue, Paul's list of what he has suffered, offered as credentials against rival apostles and framed by him as foolish boasting. Alma 17:5 is doing exactly that work at exactly that point: the narrator has just claimed at 17:3-4 that these men had the spirit of prophecy and fourteen years' success, and the hardship list is what makes the claim credible rather than boastful. The Book of Mormon has borrowed the New Testament's one apostolic résumé and put it in the third person, which removes the embarrassment Paul spends the whole chapter apologising for. And 11:26's 'perils of robbers' sits three lines from Alma's own account of a people who lived by robbing and plundering."
+        },
+        "note": "'Now these are the circumstances which attended them in their journeyings, for they had many afflictions; they did suffer much, both in body and in mind; such as hunger, thirst and fatigue.' A KJV singleton and a two-verse KJV word, taken from consecutive verses. The machine offered 1 Corinthians 7:34 on 'both in body and', which is the married-and-unmarried discussion and has nothing to do with hardship; the run is real and the sense is not. The same two words return at Alma 18:37, where Ammon rehearses to Lamoni 'all the journeyings of their fathers in the wilderness, and all their sufferings with hunger and thirst' — the pair reused within the same book for Lehi's company rather than the missionaries', and recorded there as a recurrence rather than a fresh borrowing.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "recurrenceRefs": [
+          "Alma 18:37"
+        ]
+      }
+    ],
+    "17:7": [
+      {
+        "source": "2 Chronicles 26:14",
+        "type": "echo",
+        "subtype": "possible",
+        "confidence": "moderate",
+        "text": "And Uzziah prepared for them throughout all the host shields, and spears, and helmets, and habergeons, and bows, and slings to cast stones.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 3,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "provenance": {
+          "route": "2 Chronicles 26:14 → KJV → Book of Mormon",
+          "other": "\"slings\" in the plural occurs in exactly 1 KJV verse, 2 Chronicles 26:14, which is also the KJV's only inventory of an army's equipment ending in slings. Alma 17:7 lists swords, spears, bows, arrows and slings; the three items the two lists share — spears, bows, slings — stand in the same order in both.",
+          "significance": "The one time the King James Bible equips a whole host with slings, it is Uzziah doing it, and the next thing the chapter records is that his heart was lifted up to his destruction and he was struck with leprosy for taking a priest's office. Alma 17:6-7 has just said that the sons of Mosiah refused the kingdom their father wished to confer on them, and then arms itself out of the king's armoury — and takes the weapons, the verse insists, only to hunt food. The chapter ends with one of them using the sling anyway. Whether the writer saw the Uzziah frame or not, the Book of Mormon's princes are given a king's equipment at precisely the verse where they decline to be kings."
+        },
+        "note": "'They took their swords, and their spears, and their bows, and their arrows, and their slings; and this they done that they might provide food for themselves.' Recorded as an echo, not an allusion: a weapons list is the sort of thing two texts can compose alike, and the shared items are the obvious ones. What lifts it above coincidence is the plural 'slings', which the KJV uses once, and the order. The 1830's 'this they done' for 'this they did' is the first edition's grammar and bears nothing.",
+        "whyNot": "Nothing here is quoted. A reader may fairly hold that the Book of Mormon is listing the weapons a wilderness party would carry and that the overlap with Uzziah's armoury is what any two such lists would share.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "17:11": [
+      {
+        "source": "1 Timothy 1:16",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "text": "Howbeit for this cause I obtained mercy, that in me first Jesus Christ might shew forth all longsuffering, for a pattern to them which should hereafter believe on him to life everlasting.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "1 Timothy 1:16 → KJV → Book of Mormon",
+          "other": "\"shew forth all longsuffering\" occurs in exactly 1 KJV verse, 1 Timothy 1:16. Neither component is rare on its own — 'shew forth' occurs in fifteen KJV verses and 'longsuffering' in seventeen — and they meet in this verse alone. Alma 17:11 has both, in the same order, with the same governing purpose clause, and with the same prepositional phrase 'in me' attached: 'that ye may shew forth good examples unto them in me'.",
+          "significance": "The structure is reproduced whole and the roles are exchanged. In 1 Timothy the longsuffering is Christ's, displayed in Paul, so that Paul becomes 'a pattern to them which should hereafter believe'; in Alma the longsuffering is the missionaries' own, displayed 'in me', so that they become good examples to the Lamanites. The Book of Mormon has kept the sentence's machinery — patience shown forth in a person for the sake of future believers — and moved the patience from the Saviour to the servants, which is precisely the theology of the verse's second half, where the Lord promises to make an instrument of them. Paul's point is that the chief of sinners is exhibit A; Alma's is that the preacher is."
+        },
+        "note": "'Yet ye shall be patient in long suffering and afflictions, that ye may shew forth good examples unto them in me.' A KJV singleton's two halves with its purpose clause and its 'in me'. The one substitution is Paul's 'pattern' for the Book of Mormon's 'good examples', which is the same idea in plainer English. The 1830's open 'long suffering' was hyphenated in 1920; the KJV writes it solid, so no edition of the Book of Mormon has the source's orthography here.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "17:14": [
+      {
+        "source": "Psalm 62:10",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "text": "Trust not in oppression, and become not vain in robbery: if riches increase, set not your heart upon them.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Revelation 18:12"
+        ],
+        "provenance": {
+          "route": "Psalm 62:10 → KJV → Book of Mormon",
+          "other": "Psalm 62:10 contains two KJV singletons: \"become not vain in robbery\" occurs in exactly 1 KJV verse and \"set not your heart upon them\" occurs in exactly 1, both this verse. It is the King James Bible's one sentence that puts robbery, increasing riches and a heart set on them into a single prohibition. Separately, \"gold and silver and precious stones\" occurs in exactly 1 KJV verse, Revelation 18:12, and the triad appears exactly once in the 1830 Book of Mormon, here.",
+          "significance": "The verse is Psalm 62:10 read as a description instead of a warning. The psalm forbids three things in order — trusting in oppression, growing vain by robbery, setting the heart on increasing riches — and Alma 17:14 reports a people who do all three, in reverse: 'their hearts were set upon riches, or upon gold, and silver, and precious stones; yet they sought to obtain these things by murdering and plundering, that they might not labor for them with their own hands'. The last clause is the psalm's implied contrast made explicit, since Psalm 62 sets the robber against the man whose expectation is from God alone. This is the kind of link the n-gram stream cannot see: the agreement is split across a clause boundary and reordered, and the machine proposed nothing on this verse but Revelation's merchandise list.",
+          "alternative": "Proverbs 23:5, 'wilt thou set thine eyes upon that which is not?', is the other KJV verse about fixing the self on riches, but it is about wealth's disappearance and shares no robbery."
+        },
+        "note": "'Their hearts were set upon riches, or upon gold, and silver, and precious stones; yet they sought to obtain these things by murdering and plundering.' Two KJV singletons out of one psalm verse, inverted from prohibition into description, with Revelation 18:12's singleton triad supplying the contents of the treasure. The machine ranked Revelation 18:12 here and it belongs — but as the list only; the sentence's argument is the psalm's.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "17:25": [
+      {
+        "source": "2 Samuel 15:34",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "But if thou return to the city, and say unto Absalom, I will be thy servant, O king; as I have been thy father’s servant hitherto, so will I now also be thy servant: then mayest thou for me defeat the counsel of Ahithophel.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 5,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "provenance": {
+          "route": "2 Samuel 15:34 → KJV → Book of Mormon",
+          "other": "\"I will be thy servant\" occurs in exactly 1 KJV verse, 2 Samuel 15:34. It is David's instruction to Hushai: go to the usurper, say this sentence, and from inside his household defeat the counsel of Ahithophel. Alma 17:25 has the sentence entire — 'Nay, but I will be thy servant' — spoken by a man who has just refused the king's daughter and is about to enter the king's service.",
+          "significance": "The KJV's one offer of personal service to a king is a planted agent's cover story, and the Book of Mormon gives it to Ammon at the moment Ammon becomes exactly that. The reversal is precise. Hushai says it to a usurper in order to destroy him; Ammon says it to a legitimate king in order to convert him. Hushai declines nothing; Ammon declines a marriage that would have made him the king's kin, and takes the lower place instead, which is what puts him among the servants at the water of Sebus and gives the rest of the chapter its plot. Two more contacts with the same chapter of 2 Samuel follow at 17:29 and 17:31 — see the link there — so this is not one stray phrase but a sustained use of the Absalom narrative for a story about winning a court from within it."
+        },
+        "note": "'But Ammon saith unto him, Nay, but I will be thy servant.' A five-word KJV singleton, and the machine did find it, at rarity 1.33 — low, because the words are individually common; the singleton count is what makes the case. Alma drops Hushai's vocative 'O king', which the situation supplies. The 1830 present-tense 'saith' for the narrative past, regularized to 'said' in 1920, is the first edition's habit and carries nothing.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "17:29": [
+      {
+        "source": "2 Samuel 15:6",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "And on this manner did Absalom to all Israel that came to the king for judgment: so Absalom stole the hearts of the men of Israel.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "recurrenceRefs": [
+          "Alma 17:25",
+          "Alma 17:31"
+        ],
+        "provenance": {
+          "route": "2 Samuel 15:6 → KJV → Book of Mormon",
+          "other": "\"stole the hearts\" occurs in exactly 1 KJV verse, 2 Samuel 15:6, and the King James Bible has no other idiom for capturing a body of men's loyalty by personal manner. Alma 17:29 reads 'that I may win the hearts of these my fellow servants, that I may lead them to believe in my words'. Two verses later Ammon 'flattered them by his words' — and 'flattered' as a finite verb occurs in no KJV verse at all, though the KJV's fourteen instances of flattering speech (Psalm 12:2-3, Proverbs 2:16, 7:5, 7:21, 20:19, 26:28, 28:23, 29:5, 1 Thessalonians 2:5 and others) are without exception condemnations.",
+          "significance": "This is the chapter's third contact with 2 Samuel 15 and the one that shows what the first two were for. Absalom's method is set out in 15:2-6: he intercepts men who have a grievance against the king's administration, speaks to them personally, and so steals their hearts; then, at 15:34, David counters by planting Hushai with the words 'I will be thy servant'. Alma 17 gives Ammon both halves. He speaks Hushai's sentence at 17:25 to get inside the household, and he performs Absalom's manoeuvre at 17:29 on the king's own servants, who are at that moment in fear of the king and have precisely the grievance Absalom farmed. The single word changed is the verb. Absalom stole hearts; Ammon proposes to win them — and then the narrator, two verses later, says he flattered them, which is the KJV's word for what Absalom did and never for anything good. The Book of Mormon has taken the Bible's model of seduction into rebellion and made it the model of conversion, without quite laundering the vocabulary."
+        },
+        "note": "'I will shew forth my power unto these my fellow servants … that I may win the hearts of these my fellow servants, that I may lead them to believe in my words.' The KJV's one heart-stealing sentence, with an honest verb in place of the dishonest one, applied to the same object — the men who serve a king and are disaffected from him. Offered under CONVENTIONS §0a: the shared string is short and the argument is cumulative across 17:25, 17:29 and 17:31 rather than resting on any single run. The machine found 17:25 and nothing here, which is what a split and reworded agreement looks like to a contiguous-window stream.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "17:36": [
+      {
+        "source": "1 Samuel 17:50",
+        "type": "allusion",
+        "subtype": "conceptual",
+        "confidence": "high",
+        "text": "So David prevailed over the Philistine with a sling and with a stone, and smote the Philistine, and slew him; but there was no sword in the hand of David.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 1
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "1 Samuel 17:49",
+          "1 Samuel 17:51",
+          "Judges 20:16"
+        ],
+        "provenance": {
+          "route": "1 Samuel 17:49-51 → KJV → Book of Mormon",
+          "other": "\"with a sling\" occurs in exactly 1 KJV verse, 1 Samuel 17:50. \"sling stones\" occurs in exactly 2, Judges 20:16 — the seven hundred left-handed Benjamites who could sling at a hair's breadth 'and not miss' — and Zechariah 9:15. Alma 17:36 has both constructions in one sentence: 'began to cast stones at them with his sling; yea, with mighty power he did sling stones amongst them'.",
+          "significance": "The sequence is 1 Samuel 17's, in 1 Samuel 17's order, and it is the order that carries the argument. Stones from a sling first; the enemy astonished; the champion killed and no one else — Alma 17:38 says in so many words that Ammon 'slew none save it were their leader', which is the whole point of David's combat, one death instead of a battle; and then a sword taken to the fallen body, David to sever a head at 17:51 and Ammon to sever arms at 17:37. Judges 20:16 supplies the marksmanship the story needs and the Book of Mormon inverts its detail: the Benjamite slingers cannot miss, and here it is the enemy who 'could not hit him with their stones'. What the Book of Mormon adds is the servants watching, which turns a duel into a demonstration — the reason Ammon gives at 17:29 for doing it at all."
+        },
+        "note": "'Ammon stood forth and began to cast stones at them with his sling.' Catalogued as a conceptual allusion rather than a verbal one: the wording of the David combat is not reproduced, the sequence of it is, together with two rare sling constructions taken from the two KJV passages where slinging is done well. This is the chapter's most-noticed parallel and it is not ours; the Book of Mormon's own readers have read Ammon as David since the nineteenth century. Recorded at high because the sequence match is close and long, not because the verbal contact is.",
+        "bibliography": [],
+        "status": "majority",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "17:37": [
+      {
+        "source": "Matthew 26:51",
+        "type": "echo",
+        "subtype": "possible",
+        "confidence": "moderate",
+        "text": "And, behold, one of them which were with Jesus stretched out his hand, and drew his sword, and struck a servant of the high priest’s, and smote off his ear.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 4,
+          "sequence": 3,
+          "context": 3,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Judges 5:26"
+        ],
+        "provenance": {
+          "route": "Matthew 26:51 → KJV → Book of Mormon",
+          "other": "\"smote off\" occurs in exactly 2 KJV verses: Judges 5:26, where Jael smote off Sisera's head, and Matthew 26:51, where a disciple smote off the ear of the high priest's servant. Alma uses the phrase twice, at 17:37 and again at 17:39, and the 1830 reading at 17:39 is 'the arms which had been smote off' — the KJV's exact string, used as a participle. The 1920 edition corrected it to 'smitten off', which is better English and is no longer the King James phrase; and at 17:38 the 1830 'he smote off as many of their arms as was lifted against him' had no instrument, 1920 supplying 'with his sword'.",
+          "significance": "The two KJV severings are a woman killing a sleeping general and a disciple defending his master in the garden, and the second is the one Jesus stops: put up thy sword. Ammon does it repeatedly, to men attacking a king's flocks, and the severed limbs are then carried in to the king 'for a testimony of the things which they had done' — the phrase Luke 9:5 gives the twelve for what they leave behind them in a town that will not hear. The Book of Mormon has assembled a missionary's credential out of the one sword-stroke the Gospels rebuke. The point is not that the writer intended the rebuke; it is that the King James Bible has almost no vocabulary for this act, and what little it has is attached to Gethsemane."
+        },
+        "note": "'He smote off their arms with his sword; for he did withstand their blows by smiting their arms with the edge of his sword.' A two-verse KJV phrase, and the 1830 text has it in a form the modern edition no longer does — CONVENTIONS §8's case in reverse, where a later edition corrected the grammar and in doing so erased the borrowing. Catalogued at moderate: 'smote off' is short, and the direction of the correction is a better argument for the link than the phrase itself. The machine's candidate here, Psalm 89:43's 'the edge of his sword', is excluded at this verse.",
+        "whyNot": "Two words, and they are the natural English for the action. A reader who thinks 'smote off' is simply what a KJV-formed writer would say when a limb comes away is not obliged to see Gethsemane behind it.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ]
+  }
+}

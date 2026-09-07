@@ -1,0 +1,224 @@
+{
+  "chapter": 6,
+  "adjudicated": "2026-09-07",
+  "adjudicator": "Opus",
+  "links": {
+    "6:1": [
+      {
+        "source": "Acts 14:23",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "And when they had ordained them elders in every church, and had prayed with fasting, they commended them to the Lord, on whom they believed.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Acts 13:3",
+          "Hebrews 6:2",
+          "1 Timothy 4:14",
+          "Hebrews 13:17"
+        ],
+        "recurrenceRefs": [
+          "Alma 6:6"
+        ],
+        "provenance": {
+          "route": "Acts 14:23 → KJV → Book of Mormon",
+          "other": "“ordained them elders” occurs in exactly one KJV verse and “prayed with fasting” occurs in exactly one — the same verse, Acts 14:23, and consecutively within it. “laying on of hands” occurs in exactly one KJV verse, Hebrews 6:2, where it stands in a list of first principles beside baptisms, resurrection and judgment; 1 Timothy 4:14 has 'the laying on of the hands of the presbytery'. Alma 6:1's 'to preside and watch over the church' has no KJV phrase behind it, though “watch for your souls” occurs in exactly one verse, Hebrews 13:17, where it is what those who have the rule over a congregation do and must give account for.",
+          "significance": "One KJV verse describes the founding of a church in the two acts this chapter is made of, and it does them in this chapter's order: elders ordained, then prayer with fasting. Alma 6:1 ordains, Alma 6:6 commands the church to 'gather themselves together oft, and join in fasting and mighty prayer', and between them 6:2-4 receives the penitent and rejects the impenitent. What the Book of Mormon changes is who fasts. In Acts 14:23 the apostles pray and fast over the elders they have just appointed and commend them to the Lord; in Alma 6:6 the whole church fasts, and it fasts not for its own officers but 'in behalf of the welfare of the souls of those who knew not God'. The apparatus of ordination is borrowed and then turned outward, which is the same movement the previous chapter made when it ended by addressing those who do not belong to the church.",
+          "alternative": "Acts 13:2-3, where fasting, prayer and the laying on of hands occur together in that order, is the nearer parallel for 6:1 alone; it lacks the elders."
+        },
+        "note": "'He ordained priests and elders, by laying on his hands according to the order of God, to preside and watch over the church.' Acts 14:23 is the KJV's only ordaining of elders and its only praying with fasting, and both of its halves are used in this eight-verse chapter. No clause is reproduced — the evidence is that two rare phrases from one verse organise two ends of one narrative — so the row is an allusion and not a quotation.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      },
+      {
+        "source": "Deuteronomy 20:9",
+        "type": "echo",
+        "subtype": "probable",
+        "confidence": "moderate",
+        "text": "And it shall be, when the officers have made an end of speaking unto the people that they shall make captains of the armies to lead the people.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 3,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "provenance": {
+          "route": "Deuteronomy 20:9 → KJV → Book of Mormon",
+          "other": "“made an end of speaking unto the people” occurs in exactly one KJV verse. The shorter formula “made an end of speaking” occurs in exactly nine and is standard KJV narrative furniture, so the weight of this row rests entirely on the two words that extend it, 'unto the people'.",
+          "significance": "The eight-word run is the longest in the chapter and its source has a shape worth noticing: in Deuteronomy 20:9 the end of the speech is the cue for appointing officers — 'when the officers have made an end of speaking unto the people, that they shall make captains of the armies to lead the people' — and Alma 6:1 makes an end of speaking unto the people and immediately ordains priests and elders. Speech, then appointment, in both. The setting is a muster for war in one and the organising of a church in the other, and that distance is what keeps this an echo; but the sequence is the same and the KJV joins these particular words nowhere else."
+        },
+        "note": "'After Alma had made an end of speaking unto the people of the church ... he ordained priests and elders.' A singleton run, but a formulaic one: 'made an end of speaking' is available from nine KJV verses and the additional 'unto the people' is the commonest possible continuation. Recorded because the source verse independently supplies the very sequence Alma 6:1 executes, which is more than the string by itself would predict.",
+        "whyNot": "The phrase is narrative boilerplate at its core and the two extending words are not distinctive. Deuteronomy 20 is a law of war and shares no vocabulary with Alma 6 beyond the run; a reader who thinks the sequence speech-then-appointment is simply what happens next in any such account should decline the row, and it would then fall to the standing formulaic exclusion at 1 Nephi 1:5.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "6:2": [
+      {
+        "source": "Matthew 3:11",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "text": "I indeed baptize you with water unto repentance. but he that cometh after me is mightier than I, whose shoes I am not worthy to bear: he shall baptize you with the Holy Ghost, and with fire:",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Matthew 3:6",
+          "Matthew 3:8"
+        ],
+        "recurrenceRefs": [
+          "Alma 5:52",
+          "Alma 5:54"
+        ],
+        "provenance": {
+          "route": "Matthew 3:11 → KJV → Book of Mormon",
+          "other": "“baptize you with water unto repentance” occurs in exactly one KJV verse, and 'unto repentance' as the thing baptism is for occurs in the KJV only there. Mark 1:4 and Luke 3:3 have 'the baptism of repentance for the remission of sins', which is a different construction.",
+          "significance": "This is where Alma 5's borrowed sermon becomes an event. The whole of the preceding chapter is built on Matthew 3:2-12 — the axe at the root, the fruit, the unquenchable fire, the kingdom at hand, the works meet for repentance — and Matthew 3:11 is the one verse of that passage the sermon does not use, because it is the verse about what John does rather than what he says. Alma 6:2 supplies it: the outsiders repent and are 'baptized unto repentance'. The narrative has completed the chapter John the Baptist's preaching left unfinished, and it has done it in the Baptist's own words, which is why the row belongs at this verse and not among Alma 5's recurrences.",
+          "alternative": "'Baptized unto repentance' is a standing Book of Mormon formula (2 Nephi 31:11, Mosiah 26:22 and elsewhere) and may reach Alma 6:2 through the corpus rather than directly from Matthew."
+        },
+        "note": "'Whomsoever did not belong to the church who repented of their sins, was baptized unto repentance, and was received into the church.' The phrase is Matthew 3:11's and the KJV has it nowhere else. Its force here is positional: it closes the Matthew 3 material that runs through Alma 5, and it does so at the point where the sermon's outsiders are actually baptized.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "6:5": [
+      {
+        "source": "James 1:5",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "text": "If any of you lack wisdom, let him ask of God, that giveth to all men liberally, and upbraideth not; and it shall be given him.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "James 1:5 → KJV → Book of Mormon",
+          "other": "“to all men liberally” occurs in exactly one KJV verse. The adverb itself is nearly as rare: “liberally” occurs in exactly two KJV verses, James 1:5 and Deuteronomy 15:14, and the adjective 'liberal' in four, of which Isaiah 32:8's 'the liberal deviseth liberal things' is the only one with an abstract subject. Alma 6:5's construction — a thing, not a person, being 'liberal unto all' — is in no KJV verse.",
+          "significance": "James 1:5 is about a giver who does not discriminate and does not upbraid: God 'giveth to all men liberally, and upbraideth not.' Alma 6:5 transfers the adverb from the giver to the gift — 'the word of God was liberal unto all' — and then states the corollary James leaves implicit, that 'no one was deprived of the privilege of assembling themselves together to hear the word of God.' That is the sentence the chapter needs, because the three verses before it have just described a congregation rejecting members and blotting out names, and 6:5 is the qualification: the exclusion was from the church roll, not from the preaching. The borrowed word is doing the work of insisting that a disciplined church is not a closed one, and James's second clause, that God does not upbraid the asker, sits behind it unstated."
+        },
+        "note": "'The word of God was liberal unto all; that no one was deprived of the privilege of assembling themselves together to hear the word of God.' The adverb is very rare in the KJV and its one relevant occurrence is James 1:5's 'giveth to all men liberally'. The Book of Mormon has moved it from the giving to the thing given, which is the change worth recording; the theological point of the verse is entirely in that move.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "6:8": [
+      {
+        "source": "Revelation 19:10",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "And I fell at his feet to worship him. And he said unto me, See thou do it not: I am thy fellowservant, and of thy brethren that have the testimony of Jesus: worship God: for the testimony of Jesus is the spirit of prophecy.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Revelation 1:2",
+          "Revelation 12:17"
+        ],
+        "recurrenceRefs": [
+          "Alma 4:20",
+          "Alma 5:47"
+        ],
+        "provenance": {
+          "route": "Revelation 19:10 → KJV → Book of Mormon",
+          "other": "“spirit of prophecy” occurs in exactly one KJV verse, Revelation 19:10. “testimony of Jesus” occurs in exactly four, all of them in Revelation, and Revelation 19:10 is one of them — because 19:10's closing sentence is the equation of the two: 'the testimony of Jesus is the spirit of prophecy.' Alma 6:8 has both phrases, in that order, in consecutive clauses.",
+          "significance": "The two terms are joined in the KJV by a definition and in Alma 6:8 by a pair of parallel prepositional phrases: 'according to the spirit of prophecy which was in him, according to the testimony of Jesus Christ, the Son of God'. What Revelation 19:10 asserts as an identity, Alma 6:8 lays out as two authorities for one act of preaching — and thereby says the same thing without arguing it, since the two 'according to' clauses govern the same verb. Recovering the context adds the sharper point. Revelation 19:10 is spoken by an angel refusing worship: 'See thou do it not: I am thy fellowservant.' The sentence exists to deny that the one who brings the testimony is himself to be venerated, which is a serviceable thing to have echoing under a chapter in which a high priest has just laid down the judgment seat (4:20) and gone out with nothing but the word. The narrator's 'thus it is written. Amen.' closes the account on the borrowed formula."
+        },
+        "note": "'According to the spirit of prophecy which was in him, according to the testimony of Jesus Christ.' Two phrases whose KJV homes are one verse and one book: 'spirit of prophecy' occurs once in the Bible, and all four occurrences of 'testimony of Jesus' are in Revelation. Alma 4:20 and 5:47 use 'the spirit of prophecy' earlier without the testimony beside it; here the pair arrives together and in Revelation's order, which is what makes this the place to adjudicate it.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      },
+      {
+        "source": "John 11:27",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "text": "She saith unto him, Yea, Lord: I believe that thou art the Christ, the Son of God, which should come into the world.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 1
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Matthew 1:21",
+          "Mark 1:1",
+          "Acts 8:37",
+          "John 6:14"
+        ],
+        "recurrenceRefs": [
+          "Alma 5:21",
+          "Alma 5:27"
+        ],
+        "provenance": {
+          "route": "John 11:27, spliced with Matthew 1:21 → KJV → Book of Mormon",
+          "other": "“the Son of God which should come” occurs in exactly one KJV verse. “should come into the world”, the continuation John gives it, occurs in exactly two, John 6:14 and John 11:27. The Book of Mormon breaks off at exactly the point where the two Johannine verses would diverge and completes the sentence from elsewhere: 'which should come for to redeem his people from their sins' is Matthew 1:21's clause, adjudicated at Alma 5:21 and used a third time here.",
+          "significance": "The seam is the finding. Alma 6:8 runs Martha's confession — 'thou art the Christ, the Son of God, which should come' — up to its last three words and then substitutes the angel's explanation of the name Jesus for John's 'into the world'. Two of the New Testament's set-piece confessions are welded at the joint, and the weld is legible because each half is a KJV singleton. What the substitution does is characteristic of this book: John's clause locates Christ in space and time, Matthew's states what he is for, and the Book of Mormon consistently prefers the second. The same operation produced Alma 5:21's 'redeem' for Matthew's 'save'.",
+          "alternative": "Mark 1:1's 'Jesus Christ, the Son of God' and Acts 8:37's 'I believe that Jesus Christ is the Son of God' are the other confessional formulae in play; neither has 'which should come'. The project's index of Frederick records both of those verses as occurring near Alma 6:8 in his book — that is a co-occurrence in our extraction, not a source he proposes, and no claim is made here about what he identifies."
+        },
+        "note": "'The testimony of Jesus Christ, the Son of God, which should come for to redeem his people from their sins.' Seven words reproduced from John 11:27, which is the KJV's only verse with them, followed by five reproduced from Matthew 1:21, which is the KJV's only verse with those. The n-gram stream ranked both and was right about both; what it could not see is that they are consecutive and that the join falls exactly where John's sentence would have ended differently.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ]
+  }
+}

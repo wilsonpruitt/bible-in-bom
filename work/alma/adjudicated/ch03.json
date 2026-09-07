@@ -1,0 +1,381 @@
+{
+  "chapter": 3,
+  "adjudicated": "2026-09-07",
+  "adjudicator": "Opus",
+  "links": {
+    "3:3": [
+      {
+        "source": "Exodus 14:30",
+        "type": "allusion",
+        "subtype": "conceptual",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 2,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Exodus 14:29",
+          "Exodus 15:4",
+          "Exodus 15:5",
+          "Micah 7:19"
+        ],
+        "recurrenceRefs": [
+          "Alma 2:34",
+          "Alma 2:35"
+        ],
+        "provenance": {
+          "route": "Exodus 14:29-15:5 → KJV → Book of Mormon",
+          "other": "“Dead upon the sea shore” occurs in exactly one KJV verse, Exodus 14:30, and “the depths have covered” occurs in exactly one, Exodus 15:5. “Depths of the sea” occurs in exactly three KJV verses — Psalm 68:22, Isaiah 51:10 and Micah 7:19 — and not one of them holds a body; Micah's holds forgiven sins. The Book of Mormon puts bones there, and puts them in a river.",
+          "significance": "Alma 2:34 is the sentence this verse completes: Alma clears the bank by 'throwing the bodies of the Lamanites which had been slain, into the waters of Sidon, that thereby his people might have room to cross', and at 2:35 'they had all crossed the river Sidon'. That is Exodus 14 with the order reversed — Israel crosses and then sees the Egyptians dead in the water; the Nephites make the dead in the water the condition of crossing. Alma 3:3 then names the resting place with Micah's phrase, which in the KJV is where God puts sins he has decided to forget, and adds the one detail Ezekiel 39 spent five verses preventing: the bones are still there. The two recoveries pull against each other, and the chapter that follows is about a mark that cannot be washed off."
+        },
+        "note": "'Their bones are in the depths of the sea, and they are many.' No clause is reproduced and the phrase itself belongs to Micah rather than to Exodus; the row is filed on the shape of the episode, which is a body of water made passable by the corpses of a drowned army. Filed at moderate and as conceptual for that reason. The oddity worth recording on its own is the geography: Sidon is a river throughout Alma, and this verse calls its depths the depths of the sea.",
+        "whyNot": "The KJV's sea-depths language is spread over four books and Alma 3:3 shares no run of more than three words with any of them. A narrator disposing of bodies in a river might reach for 'the depths' without Exodus, and the Exodus reading depends on the previous chapter rather than on this verse.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "Thus the LORD saved Israel that day out of the hand of the Egyptians; and Israel saw the Egyptians dead upon the sea shore."
+      }
+    ],
+    "3:6": [
+      {
+        "source": "Genesis 27:16",
+        "type": "allusion",
+        "subtype": "conceptual",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 2,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Genesis 25:25",
+          "Genesis 27:11",
+          "Genesis 27:23",
+          "Genesis 27:22"
+        ],
+        "recurrenceRefs": [
+          "Alma 3:4",
+          "Alma 3:5",
+          "Alma 3:13",
+          "Alma 3:14"
+        ],
+        "provenance": {
+          "route": "Genesis 25:25 + 27:11-23 → KJV → Book of Mormon",
+          "other": "“The skins of the” occurs in exactly one KJV verse, Genesis 27:16, where Rebekah puts the skins of the kids of the goats on Jacob's hands and neck. “A hairy man” occurs in exactly one, Genesis 27:11. Genesis 25:25 has the elder twin born 'red, all over like an hairy garment'. The n-gram stream ranked Genesis 27:16 on the four-word run without seeing what surrounds it.",
+          "significance": "The KJV has one story in which skin is used to tell two brothers apart, and it is the story in which the telling fails. Esau is the elder, red and hairy; Jacob is the younger and smooth; the skins of goats are laid on the younger's hands so that a blind father will feel the elder and give away the birthright. Alma 3 is that story's premise made permanent. Two brothers' descendants are distinguished by skin (3:6), by hair — the Lamanites' heads 'were shorn' and the Amlicites' were not (3:4-5) — and by red laid on the body (3:4, 3:13), and the point of the whole apparatus is that the seed of the elder brothers must not be mistaken for the seed of the younger. Recover Genesis 27 and the mark is doing what Rebekah's goatskins did, in reverse and by decree: making the difference between brothers legible on the skin so that the blessing cannot go to the wrong one. The Book of Mormon's younger brothers are named in this very verse — Nephi, Jacob, Joseph and Sam.",
+          "alternative": "Genesis 27:16 as an unmeaning four-word coincidence, the skins in Alma 3:6 being simply the ordinary word for human skin."
+        },
+        "note": "'And the skins of the Lamanites were dark, according to the mark which was set upon their fathers.' Four words of a KJV singleton, and on its own that is a coincidence worth nothing. What makes the row is the company: within two verses on either side Alma 3 has hair (3:4, 3:5), red on the body (3:4), skin as a token of which brother's seed a man belongs to (3:6-8), and at 3:14 the oracle of separation from Genesis 25:23, which is adjudicated at that verse. The Jacob-and-Esau complex is being used, and this verse is where its rarest phrase surfaces. Filed at moderate and as conceptual.",
+        "whyNot": "'The skins of the' is four common words and the KJV's single occurrence of the string is an accident of how often it writes 'skin' with a following genitive. There is no deception in Alma 3, no blessing, no blind father, and the direction of the typology is inverted — Genesis 27's skins conceal identity and Alma 3's mark reveals it.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ],
+        "text": "And she put the skins of the kids of the goats upon his hands, and upon the smooth of his neck:"
+      }
+    ],
+    "3:7": [
+      {
+        "source": "Genesis 4:15",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 1
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Ezekiel 9:4",
+          "Ezekiel 9:6",
+          "Genesis 4:11",
+          "Genesis 4:12"
+        ],
+        "recurrenceRefs": [
+          "Alma 3:6",
+          "Alma 3:10",
+          "Alma 3:13",
+          "Alma 3:14",
+          "Alma 3:15",
+          "Alma 3:16",
+          "Alma 3:18"
+        ],
+        "provenance": {
+          "route": "Genesis 4:15 + Ezekiel 9:4 → KJV → Book of Mormon",
+          "other": "“Set a mark upon” occurs in exactly two KJV verses, and Alma 3 uses both. Genesis 4:15 is 'the LORD set a mark upon Cain', which Alma 3:7 reproduces with the divine name changed — 'the Lord God set a mark upon them'. Ezekiel 9:4 is 'set a mark upon the foreheads of the men that sigh', the KJV's only marked foreheads outside Revelation, and the foreheads are what Alma 3:4 and 3:13 supply. The phrase recurs five more times in this chapter (3:10, 3:13, 3:14, 3:15, 3:16).",
+          "significance": "Both of the KJV's set marks protect, and Alma 3's separates. Genesis 4:15 marks Cain so that no one finding him should kill him — a mark given to a cursed man as a restraint on other men's violence; Ezekiel 9:4 marks the mourners in Jerusalem so that the slaughtering angels will 'come not near any man upon whom is the mark' (9:6). Alma 3:8 gives the Book of Mormon's reason and it is neither: the mark exists 'that their seed might be distinguished from the seed of their brethren', so that the two peoples will not mix. The suppressed correspondence is what the Genesis mark was for. Cain's cursing is a cursing from the earth and a sentence of wandering, and the mark is the mercy attached to it — the one thing that keeps the curse from becoming a death sentence. Alma 3:14 keeps the mercy as a clause ('except they repent of their wickedness and turn to me, that I may have mercy upon them') and 3:19 keeps Cain's other half, that a cursed man brings the condemnation on himself.",
+          "alternative": "Genesis 4 alone, with the foreheads coming from Revelation 13:16 rather than from Ezekiel 9:4. The Revelation contact is adjudicated separately at 3:13."
+        },
+        "note": "'The Lord God set a mark upon them, yea, upon Laman and Lemuel.' Four words of a two-verse KJV phrase, with the subject unchanged: in both of the KJV's uses it is the LORD who sets it, and in the Book of Mormon's it is the Lord God. The chapter is built on the phrase — it recurs at 3:10, 3:13, 3:14, 3:15 and 3:16, twice as a divine first-person promise — and the second KJV verse supplies the body part the first one lacks. Hardy's apparatus carries no row at Alma 3; the Cain background is standard in the discussion of these verses and is recorded as the catalogue's own reading rather than as anyone's.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "And the LORD said unto him, Therefore whosoever slayeth Cain, vengeance shall be taken on him sevenfold. And the LORD set a mark upon Cain, lest any finding him should kill him."
+      }
+    ],
+    "3:9": [
+      {
+        "source": "Ezra 9:2",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Ezra 9:1",
+          "Daniel 2:43",
+          "Isaiah 6:13"
+        ],
+        "recurrenceRefs": [
+          "2 Nephi 5:23",
+          "Alma 3:15"
+        ],
+        "provenance": {
+          "route": "Ezra 9:1-2, with Daniel 2:43 → KJV → Book of Mormon",
+          "other": "“Mingled themselves” occurs in exactly one KJV verse, Ezra 9:2 — 'the holy seed have mingled themselves with the people of those lands' — and “mingle themselves with the seed” occurs in exactly one, Daniel 2:43. “Holy seed” occurs in exactly two, Ezra 9:2 and Isaiah 6:13. Between them these two verses hold every element of Alma 3:9's sentence: the verb, the seed, and the mixing of peoples.",
+          "significance": "2 Nephi 5:23 stated this law first — 'cursed shall be the seed of him that mixeth with their seed' — and stated it with a verb the KJV does not have: the King James Bible never writes 'mixeth'. Alma 3:9 says the same thing and puts the KJV's own verb back: 'whosoever did mingle his seed with that of the Lamanites'. That is what makes this a fresh link rather than a recurrence — the corpus has returned to the source and picked up the word it missed. Recover Ezra 9 and the rationale follows too. Ezra's crisis is that 'the people of Israel … have not separated themselves from the people of the lands', and the offence is defined by descent rather than by conduct; Alma 3:8 gives the identical reason in the identical order, separation of seed first and belief second, 'that they might not mix and believe in incorrect traditions'. The catalogue records without softening it that the KJV verse behind Alma 3:8-9 is the one that made Judah put away its foreign wives and children."
+        },
+        "note": "'Whosoever did mingle his seed with that of the Lamanites, did bring the same curse upon his seed.' Two KJV singletons, one supplying the verb with its reflexive and one supplying its object. The corpus's earlier statement of the rule at 2 Nephi 5:23 was adjudicated against the same two verses at moderate, on a non-KJV verb; the verb here is Ezra's, which is why this row is written in full and at high.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "For they have taken of their daughters for themselves, and for their sons: so that the holy seed have mingled themselves with the people of those lands: yea, the hand of the princes and rulers hath been chief in this trespass."
+      }
+    ],
+    "3:13": [
+      {
+        "source": "Revelation 13:16",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 3,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Revelation 14:9",
+          "Revelation 14:11",
+          "Revelation 7:3",
+          "Ezekiel 9:4"
+        ],
+        "recurrenceRefs": [
+          "Alma 3:4",
+          "Alma 3:18"
+        ],
+        "provenance": {
+          "route": "Revelation 13:16, 14:9 → KJV → Book of Mormon",
+          "other": "“In their foreheads” occurs in exactly five KJV verses, all in Revelation, and “receive his mark” occurs in exactly one, Revelation 14:9. A mark set on a forehead outside Revelation occurs only at Ezekiel 9:4, which is adjudicated at 3:7. The Book of Mormon's 'a mark of red upon their foreheads' matches no KJV verse; the shared element is the forehead and the marking, not a run of words.",
+          "significance": "Revelation is the KJV's one place where a mark is something people take rather than something God sets, and that is exactly the distinction Alma 3:13 stops to make: 'they also had a mark set upon them; yea, they set the mark upon themselves.' The Lamanites' mark is Genesis 4:15's, imposed; the Amlicites' is Revelation 13:16's, received. Revelation 13:16 also happens to enumerate its recipients as 'both small and great, rich and poor, free and bond' — the formula Alma 1:30 used for a church that made no distinctions — and Revelation 14:9-11 attaches the mark to worship of the beast, which is what 3:18 calls 'open rebellion against God'. The chapter's theology of the curse turns on the difference between the two kinds of mark, and it has a KJV verse for each."
+        },
+        "note": "'They set the mark upon themselves, yea, even a mark of red upon their foreheads.' No run is reproduced and the phrase 'in their foreheads' is spread over five verses of one book, so the row is not carried by rarity. It is carried by the distinction the verse itself draws — a mark taken rather than given — for which the KJV has exactly one model. Offered under CONVENTIONS §0a.",
+        "whyNot": "Foreheads are the obvious place to put a visible faction-mark and a writer needs no source for it. Nothing else in Alma 3 is apocalyptic, there is no beast and no worship, and the red of the Amlicite mark has no counterpart in Revelation.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "And he causeth all, both small and great, rich and poor, free and bond, to receive a mark in their right hand, or in their foreheads:"
+      }
+    ],
+    "3:14": [
+      {
+        "source": "Genesis 25:23",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Genesis 25:25",
+          "Romans 9:12",
+          "Malachi 1:2"
+        ],
+        "recurrenceRefs": [
+          "Alma 3:6",
+          "Alma 3:15",
+          "Alma 3:16",
+          "Alma 3:17"
+        ],
+        "provenance": {
+          "route": "Genesis 25:23 → KJV → Book of Mormon",
+          "other": "“Be separated” occurs in exactly two KJV verses, Genesis 25:23 and Exodus 33:16; “shall be separated” occurs in exactly one, Genesis 25:23; “manner of people” occurs in exactly one, the same verse. mediation-check.py against Romans 9:12, the New Testament's quotation of the oracle, returns one decisive point for Genesis: Paul quotes only 'the elder shall serve the younger', and it is the clause about two peoples being separated — the half Romans omits — that the Book of Mormon has.",
+          "significance": "Genesis 25:23 is the KJV's founding oracle of two peoples divided before birth, and Alma 3:14 is its Nephite reissue: 'that they and their seed may be separated from thee and thy seed, from this time henceforth and forever.' The mediation result is the finding. Romans 9 uses this oracle to argue that election precedes works — 'the children being not yet born, neither having done any good or evil' — and quotes exactly the half about the elder serving the younger. Alma 3 takes the other half, the separation, and attaches to it something neither Genesis nor Romans has: a condition. 'Except they repent of their wickedness and turn to me, that I may have mercy upon them.' The oracle that Paul made unconditional is made conditional here, and the chapter then spends 3:18-19 insisting that the cursed bring the curse on themselves. Whatever else Alma 3 is doing with descent, it is not doing Romans 9's thing with it."
+        },
+        "note": "'That they and their seed may be separated from thee and thy seed, from this time henceforth and forever.' Two KJV singletons and a two-verse phrase, all from the one verse in the Bible where two peoples are separated by divine decree before they have done anything. The formula 'from this time henceforth and forever' is the Book of Mormon's own — the KJV writes 'from this time forth and for evermore' (Psalm 113:2, 115:18) — and is recorded as a departure. The mediation test was run and is decisive for the Old Testament form.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "And the LORD said unto her, Two nations are in thy womb, and two manner of people shall be separated from thy bowels; and the one people shall be stronger than the other people; and the elder shall serve the younger."
+      },
+      {
+        "source": "Revelation 2:22",
+        "type": "echo",
+        "subtype": "probable",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 3,
+          "context": 3,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Revelation 2:21",
+          "Revelation 2:23"
+        ],
+        "provenance": {
+          "route": "Revelation 2:22 → KJV → Book of Mormon",
+          "other": "“Except they repent” occurs in exactly one KJV verse, Revelation 2:22, 'except they repent of their deeds'. Alma 3:14 has 'except they repent of their wickedness' — five consecutive words of the singleton with the final noun changed.",
+          "significance": "Revelation 2:20-23 is the letter to Thyatira, and its subject is a woman who teaches the servants of God to commit fornication, her space to repent already given and refused, and her children killed with death. The two things it shares with Alma 3 beyond the phrase are the terms of the sentence: a curse that runs to the seed, and a door left open on condition of repentance. Revelation 2:23 ends 'I will give unto every one of you according to your works' — the singleton form of the phrase Alma 3:26 uses thirteen verses later in Revelation 20's form, 'according to their works'. The catalogue records the coincidence without building on it.",
+          "alternative": "The clause as ordinary conditional English, requiring no source."
+        },
+        "note": "'Except they repent of their wickedness and turn to me.' A five-word run of a KJV singleton, inside a verse whose principal source is Genesis 25:23. Filed as an echo rather than an allusion because nothing else in Alma 3 is Thyatiran and the clause is the kind of thing a writer of scriptural English produces unprompted — but the run is exact and the string exists once in the Bible.",
+        "whyNot": "A conditional clause built from four of the commonest words in religious English plus 'except'. The KJV's single occurrence may say more about how rarely it uses 'except' with a plural subject than about dependence, and Revelation 2 contributes nothing else to the chapter.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ],
+        "text": "Behold, I will cast her into a bed, and them that commit adultery with her into great tribulation, except they repent of their deeds."
+      }
+    ],
+    "3:26": [
+      {
+        "source": "Revelation 20:13",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Revelation 20:12",
+          "Galatians 6:7",
+          "Galatians 6:8",
+          "2 Corinthians 5:10"
+        ],
+        "recurrenceRefs": [
+          "Alma 3:3"
+        ],
+        "provenance": {
+          "route": "Revelation 20:12-13, with Galatians 6:7-8 → KJV → Book of Mormon",
+          "other": "“According to their works” occurs in exactly three KJV verses — 2 Corinthians 11:15, Revelation 20:12 and 20:13 — and the two in Revelation are the last judgment. “Life everlasting” occurs in exactly four, of which Galatians 6:8 is the one paired with reaping. “Whether it be good or bad” occurs in exactly five, of which 2 Corinthians 5:10 is the only judgment verse; the other four are Levitical valuation.",
+          "significance": "Revelation 20:13 is the KJV's one verse in which the sea gives up its dead to be judged, and twenty-three verses earlier this chapter left bones in the depths of the sea (3:3). Alma 3:26 then judges the same battle's dead 'according to their works, whether they were good or whether they were bad' — Revelation 20's formula with 2 Corinthians 5:10's qualification attached, the latter spoken of the judgment seat of Christ, which is the office Alma occupies in Zarahemla. The reaping is Paul's: Galatians 6:7-8 is the KJV's one place where what a man reaps depends on which of two spirits he sowed to, corruption from the flesh and 'life everlasting' from the Spirit, and Alma 3:26 has 'eternal happiness or eternal misery, according to the spirit which he listed to obey'. Three sources, one sentence, and the arithmetic is what makes it a war chapter's ending: thousands and tens of thousands sent to the eternal world in one year."
+        },
+        "note": "'That they might reap their rewards according to their works, whether they were good or whether they were bad, to reap eternal happiness or eternal misery.' A composite. Revelation 20:12-13 supplies the judgment formula and the dead the chapter has already put in the sea; Galatians 6:7-8 supplies the reaping and the two spirits; 2 Corinthians 5:10 supplies the good-or-bad. None is reproduced as a clause, and the row is filed at moderate on the cumulation rather than on any one contact.",
+        "whyNot": "Judgment-by-works language is among the KJV's most widely distributed and the Book of Mormon has its own settled version of it from 2 Nephi 9:15 onward. 'According to their works' is the only rare element, and it is three verses rather than one.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "And the sea gave up the dead which were in it; and death and hell delivered up the dead which were in them: and they were judged every man according to their works."
+      }
+    ],
+    "3:27": [
+      {
+        "source": "Romans 6:16",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Romans 6:23",
+          "John 3:8"
+        ],
+        "recurrenceRefs": [
+          "Alma 3:26"
+        ],
+        "provenance": {
+          "route": "Romans 6:16 + 6:23 → KJV → Book of Mormon",
+          "other": "“To whom ye obey” occurs in exactly one KJV verse, Romans 6:16, and “servants to obey” occurs in exactly one, the same verse. “The wages of sin” occurs in exactly one, Romans 6:23. Alma 3:27 fuses them: 'every man receiveth wages of him who he listeth to obey.' The verb 'listeth' is not Paul's — it occurs in exactly two KJV verses, John 3:8 and James 3:4, both of wind — and it is the Book of Mormon's own substitution for Paul's 'yield yourselves'.",
+          "significance": "Romans 6:16 makes obedience a transfer of ownership: 'to whom ye yield yourselves servants to obey, his servants ye are.' Romans 6:23 prices it: 'the wages of sin is death; but the gift of God is eternal life.' Alma 3:27 puts the two together and thereby changes one thing — Paul is careful that only one side pays wages, since eternal life is a gift and not earned, and the Book of Mormon has both sides paying. Whether that is a flattening of Paul or a deliberate answer to him is the interesting question, and the chapter's context argues for deliberate: 3:19 has just insisted that 'every man that is cursed, bring upon himself his own condemnation', which is the whole point of making the wage symmetrical. The substituted verb does the same work. 'Listeth' is the KJV's word for wind blowing where it will, and putting it where Paul had 'yield yourselves' turns a submission into a choice."
+        },
+        "note": "'For every man receiveth wages of him who he listeth to obey.' Three KJV singletons from two adjacent verses of one chapter, recombined. The row is high on the rarity and on the fusion being demonstrably of Romans 6 rather than of any single verse; the substituted 'listeth' is recorded as a departure rather than as evidence. This is the first use of Romans 6:16/6:23 in Alma; the same pairing recurs at Alma 5:42.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "Know ye not, that to whom ye yield yourselves servants to obey, his servants ye are to whom ye obey; whether of sin unto death, or of obedience unto righteousness?"
+      }
+    ]
+  }
+}

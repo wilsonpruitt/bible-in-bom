@@ -1,0 +1,745 @@
+{
+  "chapter": 12,
+  "adjudicated": "2026-09-07",
+  "adjudicator": "Opus",
+  "links": {
+    "12:3": [
+      {
+        "source": "Acts 5:4",
+        "type": "quotation",
+        "subtype": "close-verbal",
+        "confidence": "certain",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Acts 5:3"
+        ],
+        "recurrenceRefs": [
+          "Alma 10:25",
+          "Alma 11:25"
+        ],
+        "provenance": {
+          "route": "Acts 5:3-4 → KJV → Book of Mormon",
+          "other": "“Thou hast not lied unto men, but unto God” occurs in exactly one KJV verse, Acts 5:4. Alma 12:3 reads 'thou hast not lied unto men only, but thou hast lied unto God' — the clause verbatim with one adverb inserted and the verb repeated.",
+          "significance": "This is the third and fullest contact with Acts 5:1-5 in three chapters, and it is where the sentence itself arrives rather than the scene. Alma 10:25 took Acts 5:3's 'why hath Satan'; Alma 11:25 rebuilt the whole episode — money offered and withheld, a heart that conceived it, a lie whose real addressee is God; and Alma 12:3 now quotes Peter's verdict on Ananias almost word for word, in a different speaker's mouth, about the same man. Recover the source and the escalation is legible: Ananias falls down dead at Acts 5:5, and Zeezrom, hearing the sentence pronounced over him, 'began to tremble more exceedingly' (12:7) and then asks a question (12:8) — which is the one thing Ananias never gets to do. The Book of Mormon runs the Ananias scene twice and lets it end differently.",
+          "alternative": "Acts 5:9's 'How is it that ye have agreed together to tempt the Spirit of the Lord?' is the parallel verdict on Sapphira and is not in view."
+        },
+        "note": "Eleven words reproduced with one interpolation, from a KJV singleton. This is the clearest quotation in the three chapters and it is still below Skousen's sixteen-word threshold and not one of his thirty-six passages; catalogued as a quotation on CONVENTIONS §2, where length does not decide the category by itself. The link at 11:25 records the scene and this one records the sentence: CONVENTIONS §6a's rule is to put the link where the wording is, and the wording is here.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ],
+        "text": "Whiles it remained, was it not thine own? and after it was sold, was it not in thine own power? why hast thou conceived this thing in thine heart? thou hast not lied unto men, but unto God."
+      }
+    ],
+    "12:4": [
+      {
+        "source": "2 Corinthians 11:3",
+        "type": "allusion",
+        "subtype": "conceptual",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 2,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 3,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Genesis 3:1",
+          "Acts 13:10",
+          "2 Samuel 13:3"
+        ],
+        "recurrenceRefs": [
+          "Alma 12:21",
+          "Alma 12:22",
+          "Alma 10:28"
+        ],
+        "provenance": {
+          "route": "2 Corinthians 11:3 (with Genesis 3:1) → KJV → Book of Mormon",
+          "other": "“Subtilty” occurs in exactly six KJV verses and 'subtil' in exactly three; Genesis 3:1's serpent is 'more subtil than any beast of the field', and 2 Corinthians 11:3 is the one verse that reads that subtilty as an ongoing danger to a congregation — 'as the serpent beguiled Eve through his subtilty, so your minds should be corrupted'.",
+          "significance": "Alma 12:4-6 calls Zeezrom's plan subtle 'as to the subtlety of the Devil' and then says the devil laid it 'to catch this people'; seventeen verses later the chapter is expounding Genesis 3. 2 Corinthians 11:3 is the hinge between those two halves and the only KJV verse that performs the same move — it takes the Eden serpent, identifies it with the adversary, and warns a specific congregation that the same subtilty is working on them now. Read Alma 12 with that verse in view and its structure stops looking like two subjects and starts looking like one: the deception of Ammonihah by a lawyer and the deception of Eve by a serpent are the same event twice, which is why Antionah's Genesis question at 12:21 is an answer to 12:4 and not a change of topic.",
+          "alternative": "Acts 13:10's 'O full of all subtilty and all mischief, thou child of the devil' is the vocative the Book of Mormon has used at 2 Nephi 5:24 and Alma 10:28, and 2 Samuel 13:3's 'a very subtil man' is the only KJV 'very subtil'; neither reads Eden."
+        },
+        "note": "Held at moderate: no distinctive string is reproduced, and 'the subtlety of the devil' is available to any preacher. The row exists because the chapter's two halves are hard to relate without it and 2 Corinthians 11:3 relates them exactly. The 1830 spells 'subtlety' where the KJV spells 'subtilty'.",
+        "whyNot": "The Genesis material at 12:21-26 is introduced by Antionah's question, not by Alma, so the chapter's Eden turn has an internal cause and does not require a mediating text.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "But I fear, lest by any means, as the serpent beguiled Eve through his subtilty, so your minds should be corrupted from the simplicity that is in Christ."
+      }
+    ],
+    "12:6": [
+      {
+        "source": "2 Timothy 2:26",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "1 Timothy 3:7",
+          "2 Peter 2:4",
+          "Jude 1:6"
+        ],
+        "recurrenceRefs": [
+          "Alma 12:11",
+          "Alma 12:17"
+        ],
+        "provenance": {
+          "route": "2 Timothy 2:26 → KJV → Book of Mormon",
+          "other": "“Taken captive by him at his will” occurs in exactly one KJV verse, 2 Timothy 2:26; 'snare of the devil' occurs in exactly two, 1 Timothy 3:7 and 2 Timothy 2:26. “Chains of darkness” occurs in exactly one KJV verse, 2 Peter 2:4; the Book of Mormon's 'chains of Hell' occurs in none.",
+          "significance": "One verse supplies three of Alma 12's controlling images and supplies them in its own order. 2 Timothy 2:26: a snare of the devil, out of which men must recover themselves, 'who are taken captive by him at his will'. Alma 12:6: 'this was a snare of the adversary, which he hath laid to catch this people, that he might bring you into subjection unto him'. Alma 12:11: 'they are taken captive by the Devil, and led by his will down to destruction'. Alma 12:17: 'according to the power and captivity of Satan; he having subjected them according to his will'. Snare, captivity, and the captor's will, three times across eleven verses, from a verse that has all three in eight words. The chains are the one element Paul does not supply; 'chains of hell' is not a KJV phrase, and its nearest sources are 2 Peter 2:4's chains of darkness and Jude 6's everlasting chains, both of which bind angels awaiting judgment rather than men.",
+          "alternative": "1 Timothy 3:7's snare of the devil is the same phrase in a different argument, about a bishop's reputation."
+        },
+        "note": "No single run is long, but the same eight-word KJV sentence is drawn on three times in one discourse and each time a different element of it surfaces. That is Hays's criterion of recurrence doing the work rather than volume. Held at high; certain would require a verbatim clause, and the Book of Mormon paraphrases throughout.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "And that they may recover themselves out of the snare of the devil, who are taken captive by him at his will."
+      }
+    ],
+    "12:7": [
+      {
+        "source": "Hebrews 4:12",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Revelation 19:10"
+        ],
+        "recurrenceRefs": [
+          "Alma 12:33",
+          "Alma 12:35",
+          "Alma 12:37",
+          "Alma 10:12"
+        ],
+        "provenance": {
+          "route": "Hebrews 4:12 → KJV → Book of Mormon",
+          "other": "“The thoughts and intents of the heart” occurs in exactly one KJV verse, Hebrews 4:12. “Spirit of prophecy” occurs in exactly one, Revelation 19:10, adjudicated at Alma 10:12.",
+          "significance": "Six words of a KJV singleton, and the singleton turns out to be the seam of the whole chapter. Hebrews 4:12 says the word of God is 'sharper than any twoedged sword … and is a discerner of the thoughts and intents of the heart'; Alma 12:7 says Alma and Amulek 'knew the thoughts and intents of his heart'. What makes this more than a borrowed phrase is where Hebrews 4:12 sits: it closes the argument that began at Hebrews 3:7 with 'harden not your hearts, as in the provocation' and ran through 'they shall not enter into my rest'. Alma 12 takes the end of that passage here and the beginning of it at 12:33-37, and hardening of the heart is its subject throughout the intervening verses (12:10, 12:11, 12:13). So the chapter is not quoting Hebrews twice; it is working through Hebrews 3:7-4:12 as a unit, from the far end backwards. Hebrews's discerning sword is also worth holding beside the flaming sword of Genesis 3:24 that Antionah will raise at 12:21 — two swords that keep men from something, one from the tree and one from the rest of God.",
+          "alternative": "1 Corinthians 2:10-11's 'the Spirit searcheth all things, yea, the deep things of God' is the other candidate for divine knowledge of a man's inward state and was the machine's proposal; it has neither noun."
+        },
+        "note": "A six-word KJV singleton reproduced exactly, with 'their' for 'the' as the new setting requires. Recorded at high; the strength of the row is less its own length than the fact that it identifies the source passage the rest of the chapter will quote at 12:33 and 12:35, which is where Hardy's apparatus also points.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ],
+        "text": "For the word of God is quick, and powerful, and sharper than any twoedged sword, piercing even to the dividing asunder of soul and spirit, and of the joints and marrow, and is a discerner of the thoughts and intents of the heart."
+      }
+    ],
+    "12:9": [
+      {
+        "source": "Matthew 13:11",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Matthew 13:12",
+          "Luke 8:10",
+          "1 Corinthians 4:1"
+        ],
+        "recurrenceRefs": [
+          "Alma 12:10",
+          "Alma 12:11"
+        ],
+        "provenance": {
+          "route": "Matthew 13:11-12 → KJV → Book of Mormon",
+          "other": "“To know the mysteries” occurs in exactly two KJV verses, Matthew 13:11 and Luke 8:10, which are the same saying; Matthew has 'the mysteries of the kingdom of heaven' and Luke 'of the kingdom of God'. 'The mysteries of God' as such is 1 Corinthians 4:1's phrase.",
+          "significance": "Alma 12:9-11 is Matthew 13:11-12 expounded. Matthew: 'it is given unto you to know the mysteries of the kingdom of heaven, but to them it is not given. For whosoever hath, to him shall be given, and he shall have more abundance: but whosoever hath not, from him shall be taken away even that he hath.' Alma: it is given to many to know the mysteries of God; he that will not harden his heart is given 'the greater portion of the word, until … they know them in full'; he that will harden his heart is given 'the lesser portion of the word, until they know nothing concerning his mysteries.' The graduated economy — more to those who have, less to those who have not, until nothing — is Matthew's parable-theory verbatim in its logic, with one substitution that is the Book of Mormon's own doctrine: Matthew leaves the cause of the difference unstated and Alma names it as hardening the heart, which is the term he has taken from Hebrews 3 and will quote outright at 12:33. The two sources are being welded: Matthew supplies the mechanism, Hebrews supplies its cause.",
+          "alternative": "1 Corinthians 4:1's 'stewards of the mysteries of God' supplies Alma's noun phrase exactly but none of the graduated logic."
+        },
+        "note": "Five words shared with Matthew 13:11 and the whole of 13:12's argument reproduced without its wording. The 1830's 'that they shall not impart only according to the portion of his word' is the strict-command clause Matthew does not have; the 1920 keeps it. Held at high on the combination of a two-verse phrase and a reproduced argument.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ],
+        "text": "He answered and said unto them, Because it is given unto you to know the mysteries of the kingdom of heaven, but to them it is not given."
+      }
+    ],
+    "12:14": [
+      {
+        "source": "Revelation 6:16",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 1
+        },
+        "kjvSpecific": "yes",
+        "mediation": "OT-via-NT",
+        "composite": [
+          "Hosea 10:8",
+          "Luke 23:30",
+          "Revelation 6:15"
+        ],
+        "provenance": {
+          "route": "Hosea 10:8 → Revelation 6:16 → KJV → Book of Mormon",
+          "other": "“Hide us” occurs in exactly one KJV verse, Revelation 6:16. “Fall on us” occurs in exactly three, Hosea 10:8, Luke 23:30 and Revelation 6:16 — the same cry in three places. Only Revelation 6:16 adds rocks to the mountains, and only Revelation 6:16 asks to be hidden rather than covered.",
+          "significance": "mediation-check.py was run on this verse against Hosea 10:8 and returns three decisive points for Revelation 6:16, on the two words that matter: Alma 12:14 has 'the rocks and the mountains' where Hosea and Luke have mountains and hills, and it has 'to hide us from his presence' where Hosea and Luke have 'Cover us'. So the Old Testament oracle reaches Alma 12 through John's use of it and not directly, which is what OT-via-NT records. The metalepsis is in who is speaking. In Hosea it is Israel under Assyrian judgment; in Luke it is the daughters of Jerusalem, told what they will say; in Revelation 6:15-16 it is 'the kings of the earth, and the great men, and the rich men, and the chief captains' hiding in the rocks from the wrath of the Lamb. Alma is addressing a city run by paid judges and expert lawyers, and the verse he reaches for is the one whose speakers are the powerful.",
+          "alternative": "Isaiah 2:19's 'they shall go into the holes of the rocks … for fear of the LORD' has rocks and hiding but no address to them, and Revelation 6:15 is quoting it."
+        },
+        "note": "'We would fain be glad if we could command the rocks and the mountains to fall upon us, to hide us from his presence.' Not a quotation — the Book of Mormon supplies its own frame and its own verb — but the two elements that separate Revelation from its own sources are both present. High, on the mediation result rather than on run length.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "And said to the mountains and rocks, Fall on us, and hide us from the face of him that sitteth on the throne, and from the wrath of the Lamb:"
+      }
+    ],
+    "12:15": [
+      {
+        "source": "Matthew 3:8",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Jude 1:25",
+          "Luke 3:8"
+        ],
+        "recurrenceRefs": [
+          "Alma 10:20"
+        ],
+        "provenance": {
+          "route": "Matthew 3:8 → KJV → Book of Mormon",
+          "other": "“Fruits meet for repentance” occurs in exactly one KJV verse, Matthew 3:8. The Book of Mormon's 1830 reading is 'fruit mete for repentance', which preserves the KJV's 'meet' under a variant spelling and makes the borrowing plainer than a modern text does. 'Majesty and dominion' occurs in no KJV verse; Jude 1:25's doxology has 'glory and majesty, dominion and power'.",
+          "significance": "The second borrowing from John the Baptist's preaching in three chapters — Alma 10:20 has his 'Repent ye: for the kingdom of heaven is at hand' from Matthew 3:2, and 12:15 has his demand for fruits from Matthew 3:8, six verses later in the same speech. Between them they take the Baptist's opening and his test, and both are given to Nephite preaching without attribution. Matthew 3:8's setting is worth recovering: it is addressed to Pharisees and Sadducees who have come to the baptism and are told not to plead descent from Abraham, 'for I say unto you, that God is able of these stones to raise up children unto Abraham' — an argument from lineage refused, in a chapter whose speaker opened by reciting his own lineage back to Joseph (10:2-3).",
+          "alternative": "Luke 3:8's 'fruits worthy of repentance' is the same demand in the parallel Gospel and does not have 'meet'."
+        },
+        "note": "Four words of a KJV singleton, with the 1830's spelling preserving the source word. The verse's first half, 'in his might, majesty, and dominion', is a doxological string with no single KJV source; Jude 1:25 has the nouns in a different order and is composited rather than claimed.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "Bring forth therefore fruits meet for repentance:"
+      }
+    ],
+    "12:17": [
+      {
+        "source": "Revelation 14:11",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 1
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Revelation 20:10",
+          "Revelation 21:8",
+          "Revelation 20:14",
+          "Revelation 2:11"
+        ],
+        "recurrenceRefs": [
+          "Alma 12:16",
+          "Alma 12:32"
+        ],
+        "provenance": {
+          "route": "Revelation 14:11 + 20:10 + 21:8 → KJV → Book of Mormon",
+          "other": "“Ascendeth up for ever and ever” occurs in exactly one KJV verse, Revelation 14:11, where it is the smoke of the torment of those who worship the beast. “Lake of fire and brimstone” occurs in exactly one KJV verse, Revelation 20:10. “The second death” occurs in exactly four, all in Revelation, and 21:8 is the one that identifies it with the lake burning with fire and brimstone.",
+          "significance": "Three KJV singletons and a four-verse phrase, all from one book, assembled into a single sentence: 'their torments shall be as a lake of fire and brimstone, whose flames ascendeth up forever and ever'. Revelation 14:11 supplies the ascending and the word 'torment'; Revelation 20:10 supplies the lake; Revelation 21:8 supplies the equation with the second death that Alma 12:16 has just made. What the Book of Mormon changes is the copula — Revelation's lake is a place and Alma's is a simile, 'their torments shall be AS a lake of fire and brimstone' — and that change is doctrinally load-bearing, since 12:16 has defined the second death as spiritual. The apparatus of Revelation is being kept and its literalism declined.",
+          "alternative": "Revelation 19:3's 'her smoke rose up for ever and ever' is the other ascending-smoke verse and lacks 'ascendeth'."
+        },
+        "note": "The 1830's 'whose flames ascendeth up forever and ever' has the singular verb with a plural subject that the 1920 did not repair; the KJV's own 'ascendeth' governs the singular 'smoke', so the Book of Mormon has kept the source's verb and changed its subject. That is the sort of detail CONVENTIONS §8 asks to be flagged, and it is evidence of transcription rather than composition.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ],
+        "text": "And the smoke of their torment ascendeth up for ever and ever: and they have no rest day nor night, who worship the beast and his image, and whosoever receiveth the mark of his name."
+      }
+    ],
+    "12:19": [
+      {
+        "source": "1 Samuel 24:16",
+        "type": "echo",
+        "subtype": "possible",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 2,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "recurrenceRefs": [
+          "Jacob 3:14",
+          "Mosiah 8:19",
+          "Alma 44:10"
+        ],
+        "provenance": {
+          "route": "1 Samuel 24:16 → KJV → Book of Mormon",
+          "other": "“Made an end of speaking these words” occurs in exactly one KJV verse, 1 Samuel 24:16. 'Made an end of speaking' without the object is common, in nine KJV verses; the four-word extension is what identifies the source.",
+          "significance": "An eight-word verbatim run, and almost certainly not a borrowing from this verse in particular. The phrase is adjudicated in this catalogue at Jacob 3, and by Alma it has become the Book of Mormon's own narrative formula for closing a discourse — it appears in this exact form at Mosiah 8:19 and Alma 44:10 as well, and the shorter 'made an end of speaking' fifteen times. The row is written because Alma is a new book and a reader of Alma 12:19 shown nothing here would be told there is no contact, when in fact the sentence is a KJV singleton reproduced whole. What the catalogue claims is that the formula entered the text from 1 Samuel 24:16, not that this occurrence reaches for David and Saul."
+        },
+        "note": "Recorded across the book boundary under ADJUDICATING §4, with the argument left where it was made at Jacob 3:14. Moderate, and the confidence is about the formula's origin rather than about this verse's intention; context is scored 2 because 1 Samuel 24's scene has nothing to do with Alma 12's.",
+        "whyNot": "A house formula by this point in the text; its recurrence proves the phrase was absorbed early, not that Alma 12:19 alludes to Saul weeping at the mouth of a cave.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ],
+        "text": "And it came to pass, when David had made an end of speaking these words unto Saul, that Saul said, Is this thy voice, my son David? And Saul lifted up his voice, and wept."
+      }
+    ],
+    "12:21": [
+      {
+        "source": "Genesis 3:24",
+        "type": "quotation",
+        "subtype": "explicit",
+        "confidence": "certain",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 5
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Genesis 3:22"
+        ],
+        "recurrenceRefs": [
+          "Alma 12:23",
+          "Alma 12:26"
+        ],
+        "provenance": {
+          "route": "Genesis 3:22-24 → KJV → Book of Mormon",
+          "other": "“Flaming sword” occurs in exactly one KJV verse, Genesis 3:24, and “east of the garden of Eden” likewise occurs in exactly one, the same verse. The 1830 keeps the KJV's double plural 'Cherubims'.",
+          "significance": "Antionah introduces it as a quotation — 'What does this Scripture mean, which saith …' — which makes this one of the few places in the Book of Mormon where a biblical verse is cited as a text to be construed rather than absorbed into the narration. What he then does with it is the argument: Genesis 3:22 gives God's reason for the expulsion ('lest he put forth his hand, and take also of the tree of life, and eat, and live for ever') and Antionah reads the two verses together to conclude 'there was no possible chance that they should live forever' — that is, that immortality was foreclosed, and Amulek's resurrection doctrine is therefore false. The trap is the same shape as Zeezrom's at 11:34: a real scripture, correctly quoted, made to prove a conclusion it does not carry. Alma's answer at 12:23-26 turns the same two verses around, arguing that the flaming sword is what makes redemption possible rather than what forecloses it.",
+          "alternative": "Ezekiel 28:14-16's cherub in Eden is the other biblical Eden guardian and has no sword."
+        },
+        "note": "Hardy's apparatus cross-references Genesis 3:22-24 at this verse. Two KJV singletons and the source's own word order, presented by the text as a quotation of scripture. Certain, and one of the very few rows in these three chapters where attestation is scored at the top: this is not a link that needed finding.",
+        "bibliography": [
+          "Hardy MSI at Alma 12.21 (Genesis 3:22-24)"
+        ],
+        "status": "consensus",
+        "streams": [
+          "scholarship",
+          "machine-ngram",
+          "manual"
+        ],
+        "text": "So he drove out the man; and he placed at the east of the garden of Eden Cherubims, and a flaming sword which turned every way, to keep the way of the tree of life."
+      }
+    ],
+    "12:22": [
+      {
+        "source": "Genesis 3:6",
+        "type": "allusion",
+        "subtype": "conceptual",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 2,
+          "syntax": 2,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 2,
+          "attestation": 5
+        },
+        "kjvSpecific": "no",
+        "mediation": "direct-OT",
+        "composite": [
+          "Genesis 3:17",
+          "Genesis 3:19"
+        ],
+        "recurrenceRefs": [
+          "Alma 12:21",
+          "Alma 12:23"
+        ],
+        "provenance": {
+          "route": "Genesis 3:6-19 → KJV → Book of Mormon",
+          "other": "'Forbidden fruit' is not a KJV phrase; Genesis 3:6 has 'she took of the fruit thereof, and did eat', and the prohibition is at 2:17. The Book of Mormon's noun comes from English usage — Milton's, by way of two centuries of preaching — and not from the Authorized Version.",
+          "significance": "This is the summary verse of Alma's answer and it carries almost no biblical wording, which is worth recording rather than dressing up. 'Adam did fall by partaking of the forbidden fruit … all mankind became a lost and a fallen people' is doctrine stated in the Book of Mormon's own vocabulary, using a phrase the KJV does not contain, about a narrative the KJV does. The verse is a reference to Genesis 3 rather than a borrowing from it, and CONVENTIONS §6a's instruction in that case is to say so and decide on our own evidence.",
+          "alternative": "Romans 5:12-19's 'by one man sin entered into the world' is the standard New Testament formulation of this doctrine and the Book of Mormon does not use its wording either."
+        },
+        "note": "Hardy's apparatus cross-references Genesis 3:6-19 here, and the reference is right as a study edition's pointer: the reader of Alma 12:22 needs Genesis 3. As a claim about dependence it is thin, and the catalogue records it at moderate with the verbal case stated honestly as nearly absent. kjvSpecific is 'no': there is no wording to test, and 'forbidden fruit' is if anything evidence against a KJV route.",
+        "whyNot": "No distinctive string is shared, and the one distinctive phrase Alma 12:22 does use is not in the KJV at all. The row rests on the chapter's explicit engagement with Genesis 3 at 12:21 and 12:23, not on this verse.",
+        "bibliography": [
+          "Hardy MSI at Alma 12.22 (Genesis 3:6-19)"
+        ],
+        "status": "consensus",
+        "streams": [
+          "scholarship",
+          "manual"
+        ],
+        "text": "And when the woman saw that the tree was good for food, and that it was pleasant to the eyes, and a tree to be desired to make one wise, she took of the fruit thereof, and did eat, and gave also unto her husband with her; and he did eat."
+      }
+    ],
+    "12:23": [
+      {
+        "source": "Genesis 2:17",
+        "type": "quotation",
+        "subtype": "explicit",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 3,
+          "attestation": 5
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Genesis 3:4",
+          "Genesis 3:22"
+        ],
+        "recurrenceRefs": [
+          "Alma 12:21",
+          "Alma 12:26"
+        ],
+        "provenance": {
+          "route": "Genesis 2:17 → KJV → Book of Mormon",
+          "other": "“Thou shalt surely die” occurs in exactly ten KJV verses; Genesis 2:17 is the first and the only one attached to eating. Alma 12:23 compresses 'in the day that thou eatest thereof thou shalt surely die' to 'If thou eat, thou shalt surely die.'",
+          "significance": "The quotation is introduced with 'for he said', so the text is claiming to cite, and the argument depends on the citation being exact enough to bind: if Adam had reached the tree of life, 'the word would have been void, making God a liar'. That is an argument about the reliability of a spoken sentence, and it needs the sentence. The counterpart is Genesis 3:4, where the serpent says 'Ye shall not surely die' — the KJV's one contradiction of this verse, and the first lie in scripture. Alma 12 has spent its first six verses on a liar whose plan was 'as to the subtlety of the Devil', and it now argues that the alternative to Adam's death would have made God the liar instead. Neither text says this. The pair says it.",
+          "alternative": "Genesis 3:3's 'lest ye die' is Eve's looser report of the same prohibition and is not what Alma quotes."
+        },
+        "note": "Hardy's apparatus cross-references Genesis 2:17 here. Four words verbatim from a phrase the KJV uses ten times, with the identifying context supplied by the conditional 'if thou eat'. High rather than certain because the reproduced string is not itself rare; what makes the source unmistakable is that the verse names the speaker and the condition.",
+        "bibliography": [
+          "Hardy MSI at Alma 12.23 (Genesis 2:17)"
+        ],
+        "status": "consensus",
+        "streams": [
+          "scholarship",
+          "manual"
+        ],
+        "text": "But of the tree of the knowledge of good and evil, thou shalt not eat of it: for in the day that thou eatest thereof thou shalt surely die."
+      }
+    ],
+    "12:25": [
+      {
+        "source": "Revelation 13:8",
+        "type": "echo",
+        "subtype": "probable",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 4,
+          "rarity": 3,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Matthew 25:34",
+          "Ephesians 1:4",
+          "1 Peter 1:20"
+        ],
+        "recurrenceRefs": [
+          "Alma 12:30"
+        ],
+        "provenance": {
+          "route": "Revelation 13:8 → KJV → Book of Mormon",
+          "other": "“From the foundation of the world” occurs in exactly six KJV verses. Only Revelation 13:8 attaches it to redemption — 'the Lamb slain from the foundation of the world' — and only Matthew 25:34 to a kingdom prepared.",
+          "significance": "'The plan of redemption, which was laid from the foundation of the world.' The phrase is common enough that it could not identify a source by itself, but the collocation with redemption is not: of the six occurrences, one joins the formula to the Lamb's death and the rest join it to election, to a kingdom, to secrets, or to the blood of the prophets. Alma 12:25 and 12:30 both use it of a plan of redemption 'prepared from the foundation of the world', which is the Revelation sense, and the Book of Mormon's contribution is the noun 'plan' — a word the KJV never uses in this connection at all.",
+          "alternative": "Ephesians 1:4's 'chosen us in him before the foundation of the world' and 1 Peter 1:20's 'foreordained before the foundation of the world' both read 'before' rather than 'from', which is not Alma's preposition."
+        },
+        "note": "An echo, recorded at moderate. The preposition decides between the two families — 'from' is Revelation's and Matthew's, 'before' is Paul's and Peter's — and Alma has 'from'. That is a small finding but it is a real one, and it is the kind that a rarity count alone would have missed.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "And all that dwell upon the earth shall worship him, whose names are not written in the book of life of the Lamb slain from the foundation of the world."
+      }
+    ],
+    "12:26": [
+      {
+        "source": "Mark 7:13",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Matthew 15:6",
+          "Romans 4:14"
+        ],
+        "recurrenceRefs": [
+          "Alma 12:23"
+        ],
+        "provenance": {
+          "route": "Mark 7:13 → KJV → Book of Mormon",
+          "other": "“The word of God of none effect” occurs in exactly one KJV verse, Mark 7:13. 'Of none effect' alone occurs in exactly seven.",
+          "significance": "'The plan of redemption would have been frustrated, and the word of God would have been void, taking none effect.' Six of the seven KJV 'of none effect' verses are about vows, counsel, faith, a promise or a cross; the seventh joins the phrase to the word of God, and it is Jesus's charge that the scribes have made the word of God of none effect 'through your tradition'. Alma is arguing against a chief ruler who has just quoted scripture at him (12:21), and the phrase he reaches for is the one Jesus uses against professional interpreters who quote scripture to nullify it. Whether the writer heard that is not decidable; the reader who recovers Mark 7:13 hears it, and the charge fits Antionah exactly. Note also that 12:23 has already made the same point in different words — 'the word would have been void, making God a liar' — so the verse is a second attempt at a sentence, and the second attempt is the one that lands on the KJV's phrase.",
+          "alternative": "Matthew 15:6's parallel reads 'the commandment of God of none effect', with the same charge and a different noun; Alma's noun is Mark's."
+        },
+        "note": "Five words of a KJV singleton. High rather than certain because 'of none effect' was ordinary legal English and the full phrase could be assembled without Mark; what argues for Mark 7:13 is the noun — 'the word of God' rather than 'the commandment' — and the polemical setting the two passages share.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "Making the word of God of none effect through your tradition, which ye have delivered: and many such like things do ye."
+      }
+    ],
+    "12:27": [
+      {
+        "source": "Hebrews 9:27",
+        "type": "quotation",
+        "subtype": "close-verbal",
+        "confidence": "certain",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 1
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "recurrenceRefs": [
+          "Alma 12:8",
+          "Alma 12:12"
+        ],
+        "provenance": {
+          "route": "Hebrews 9:27 → KJV → Book of Mormon",
+          "other": "“It is appointed unto men once to die” occurs in exactly one KJV verse, Hebrews 9:27, and the verse continues 'but after this the judgment'.",
+          "significance": "'It was appointed unto man that they must die; and after death, they must come to judgment; even that same judgment of which we have spoken, which is the end.' Both halves of Hebrews 9:27, in order, with 'once' dropped and the tense moved into the past because Alma is narrating the decree rather than stating the rule. The dropping of 'once' is not incidental in this chapter: 12:16 has just established a second death, and a source verse insisting that men die once would have been awkward. So the Book of Mormon takes the sentence and removes the one word that would have contradicted the doctrine it is building — which is the kind of small, deliberate-looking adjustment that a catalogue exists to notice and cannot interpret.",
+          "alternative": "Ecclesiastes 12:14's judgment of every work is the Old Testament backing and is used at Alma 11:44; it has no appointment to die."
+        },
+        "note": "Nine words of a KJV singleton in sequence across two clauses. Below Skousen's threshold and not one of his thirty-six, and catalogued as a quotation on the rarity and the completeness of the reproduction rather than on length. This is the chapter's third contact with Hebrews, after 4:12 at 12:7 and before 3:8-11 at 12:33-35.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "And as it is appointed unto men once to die, but after this the judgment:"
+      }
+    ],
+    "12:31": [
+      {
+        "source": "Genesis 3:5",
+        "type": "quotation",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 1
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Genesis 3:22"
+        ],
+        "recurrenceRefs": [
+          "Alma 12:21",
+          "Alma 12:23"
+        ],
+        "provenance": {
+          "route": "Genesis 3:5 → KJV → Book of Mormon",
+          "other": "“As gods, knowing good and evil” occurs in exactly one KJV verse, Genesis 3:5. Genesis 3:22 has the same idea in the singular — 'the man is become as one of us, to know good and evil'. Alma 12:31 reads 'becoming as Gods, knowing good from evil'.",
+          "significance": "Five words of a KJV singleton, altered by one preposition: 'good and evil' becomes 'good from evil'. Genesis 3:5 is the serpent's promise, and Genesis 3:22 is God confirming that it came true; the Book of Mormon takes the serpent's phrasing, in the plural, and reports it as accomplished fact without comment on the speaker. The substituted preposition changes the faculty from a knowledge of two things to a power of discrimination between them, which is precisely what Alma 12:31 goes on to describe — men 'placing themselves in a state to act … according to their wills and pleasures, whether to do evil or to do good'. So a phrase that in Genesis names what was lost by disobedience here names the capacity that makes commandments possible, and the change of one word is what carries the reversal. The 1830 capitalizes 'Gods', which the KJV does not.",
+          "alternative": "Genesis 3:22's singular 'to know good and evil' is God's own version of the phrase and would have made the borrowing unattributable to the serpent; Alma has the serpent's plural."
+        },
+        "note": "A KJV singleton reproduced with a single substitution that the surrounding argument depends on. High rather than certain because the substitution is real and the phrase is short; the case is that no other KJV verse has 'as gods' with 'knowing'.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ],
+        "text": "For God doth know that in the day ye eat thereof, then your eyes shall be opened, and ye shall be as gods, knowing good and evil."
+      }
+    ],
+    "12:33": [
+      {
+        "source": "Hebrews 3:8",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 4
+        },
+        "kjvSpecific": "yes",
+        "mediation": "OT-via-NT",
+        "composite": [
+          "Psalm 95:8",
+          "Hebrews 3:15",
+          "Hebrews 4:7"
+        ],
+        "recurrenceRefs": [
+          "Alma 12:34",
+          "Alma 12:36",
+          "Alma 12:37",
+          "Alma 12:7"
+        ],
+        "provenance": {
+          "route": "Psalm 95:8 → Hebrews 3:8 → KJV → Book of Mormon",
+          "other": "“Harden not your hearts” occurs in exactly three KJV verses, Hebrews 3:8, 3:15 and 4:7, all of them quoting Psalm 95:8 — which itself reads 'Harden not your heart', in the singular. 'Provocation' occurs in exactly eight KJV verses; Psalm 95:8 and Hebrews 3:8 and 3:15 are three of them.",
+          "significance": "mediation-check.py was run on Psalm 95:8 against Hebrews 3:8 and returns one decisive point: the Book of Mormon has 'hearts', which is Hebrews's plural, not the Psalm's singular. The Psalm reaches Alma 12 through Hebrews and not directly, and every further element of the passage confirms it — 12:35's oath and rest, 12:36's 'first provocation' and 'last provocation', 12:37's 'rest of the Lord'. Hebrews 3:7-4:11 is a sustained exposition of Psalm 95:7-11 built on exactly that distinction between a first provocation in the wilderness and a present, second one ('To day, if ye will hear his voice'), and Alma 12:36 states it outright: 'as in the first provocation, yea, according to his word in the last provocation, as well as in the first'. That sentence has no Old Testament basis at all. It is Hebrews's argument named.",
+          "alternative": "Psalm 95:8's singular 'heart' is the reading of the Old Testament source and is not what Alma has; the divergence is small and it is the only place the two candidates differ in words the Book of Mormon reproduces."
+        },
+        "note": "Hardy's apparatus cross-references Hebrews 3:7-4 and Psalm 95:8-11 at this verse, and the catalogue's result is that between those two the mediation is decidable and decides for Hebrews, on the plural. This is the strongest mediation finding in Alma 10-12 and it governs the last five verses of the chapter rather than this one alone.",
+        "bibliography": [
+          "Hardy MSI at Alma 12.33 (Hebrews 3:7-4; Psalm 95:8-11)"
+        ],
+        "status": "majority",
+        "streams": [
+          "scholarship",
+          "manual"
+        ],
+        "text": "Harden not your hearts, as in the provocation, in the day of temptation in the wilderness:"
+      }
+    ],
+    "12:35": [
+      {
+        "source": "Hebrews 3:11",
+        "type": "quotation",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 4
+        },
+        "kjvSpecific": "yes",
+        "mediation": "OT-via-NT",
+        "composite": [
+          "Psalm 95:11",
+          "Hebrews 4:3",
+          "Hebrews 4:5"
+        ],
+        "recurrenceRefs": [
+          "Alma 12:33",
+          "Alma 12:34",
+          "Alma 12:36",
+          "Alma 12:37"
+        ],
+        "provenance": {
+          "route": "Psalm 95:11 → Hebrews 3:11 → KJV → Book of Mormon",
+          "other": "“Enter into my rest” occurs in exactly four KJV verses, Psalm 95:11, Hebrews 3:11, 4:3 and 4:5; the last three are all quoting the first. Hebrews 3:11 reads 'So I sware in my wrath, They shall not enter into my rest', and Psalm 95:11 'Unto whom I sware in my wrath that they should not enter into my rest'.",
+          "significance": "'I swear in my wrath that they shall not enter into my rest.' Ten words, and mediation-check.py run on this verse alone against Psalm 95:11 returns no decisive divergence: the KJV renders the two nearly identically, and where they differ ('should' against 'shall', 'unto whom' against 'so') Alma reproduces neither. The verse cannot settle its own mediation, and CONVENTIONS §7's instruction in that case is to argue it from elsewhere — which two verses earlier is possible, since 12:33's plural 'hearts' is decisively Hebrews's. So the row is recorded as OT-via-NT on the strength of its neighbour, and the reasoning is stated rather than assumed. What the Book of Mormon adds is the antecedent: in the Psalm and in Hebrews the oath is about a generation that died in the wilderness, and Alma 12:34-35 makes it a standing rule about anyone who hardens his heart, with the exception clause ('whosoever repenteth … these shall enter into my rest') that neither source supplies.",
+          "alternative": "Hebrews 4:3 and 4:5 requote the oath in a conditional Hebraism, 'If they shall enter into my rest', which Alma does not have."
+        },
+        "note": "A ten-word run that is nearly verbatim in either candidate, which is why the mediation had to be settled two verses upstream. High rather than certain because the wording is common to the Psalm and its New Testament quotation and the row's mediation claim is inferred rather than shown here. Below Skousen's threshold and not one of his passages.",
+        "bibliography": [
+          "Hardy MSI at Alma 12.33 (Hebrews 3:7-4; Psalm 95:8-11)"
+        ],
+        "status": "majority",
+        "streams": [
+          "machine-ngram",
+          "scholarship",
+          "manual"
+        ],
+        "text": "So I sware in my wrath, They shall not enter into my rest.)"
+      }
+    ]
+  }
+}

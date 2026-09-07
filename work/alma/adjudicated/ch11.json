@@ -1,0 +1,674 @@
+{
+  "chapter": 11,
+  "adjudicated": "2026-09-07",
+  "adjudicator": "Opus",
+  "links": {
+    "11:2": [
+      {
+        "source": "John 10:1",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 3,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Matthew 5:25",
+          "Matthew 5:26",
+          "Luke 12:58"
+        ],
+        "recurrenceRefs": [
+          "Alma 10:13"
+        ],
+        "provenance": {
+          "route": "John 10:1 → KJV → Book of Mormon",
+          "other": "“A thief and a robber” occurs in exactly one KJV verse, John 10:1.",
+          "significance": "John 10:1's thief and robber is a figure: he is the man who does not come in by the door of the sheepfold, and the sentence is about false shepherds. Alma 11:2 flattens the figure into a legal category — a debtor who will not pay is 'cast out from among the people, as a thief and a robber' — and the flattening is characteristic of what this chapter does with the New Testament, which is to convert its sayings into Nephite statute. The verse's procedural frame comes from the other direction: complaint, judge, officers, compulsion to pay, prison or expulsion is Matthew 5:25-26 and its Lukan parallel at 12:58, the chain already used at Alma 10:13 for the prosecution of Alma and Amulek. So the law under which the two men will be tried is described in the words of the parable Jesus told about being tried."
+        },
+        "note": "Four words and a KJV singleton, in a verse that has no other business quoting the Gospel of John. Moderate rather than high because the phrase is a natural English pairing and because the sense has been narrowed from metaphor to charge sheet; the row is worth keeping because the narrowing is itself the observation.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ],
+        "text": "Verily, verily, I say unto you, He that entereth not by the door into the sheepfold, but climbeth up some other way, the same is a thief and a robber."
+      }
+    ],
+    "11:21": [
+      {
+        "source": "2 Corinthians 2:11",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Acts 26:3",
+          "Ephesians 6:11"
+        ],
+        "recurrenceRefs": [
+          "Alma 10:31"
+        ],
+        "provenance": {
+          "route": "2 Corinthians 2:11 (with Acts 26:3) → KJV → Book of Mormon",
+          "other": "“His devices” occurs in exactly two KJV verses, Daniel 11:24 and 2 Corinthians 2:11; only 2 Corinthians 2:11's are Satan's — 'we are not ignorant of his devices'. 'Expert' occurs in six KJV verses, five of them military; the sixth is Acts 26:3, 'expert in all customs and questions'.",
+          "significance": "Zeezrom is introduced twice, at 10:31 as 'one of the most expert among them' and here as 'a man which was expert in the devises of the Devil' who opens with 'Will ye answer me a few questions which I shall ask you?' The KJV's one non-military expert is Paul's captatio to Agrippa, a man expert in questions, spoken at the start of a hearing; and the KJV's one Satanic 'devices' is Paul warning a congregation not to be outmanoeuvred. Both halves of Zeezrom's description are Pauline, and the second supplies the reason the questioning fails: Amulek is not ignorant of his devices either, which is exactly what 11:25 turns out to mean.",
+          "alternative": "Ephesians 6:11's 'the wiles of the devil' is the other candidate and is closer in sense, but 'wiles' is not the Book of Mormon's word here; the 1830 spells it 'devises'."
+        },
+        "note": "Two words, and the row is held at moderate because 'devices of the devil' was a commonplace of nineteenth-century preaching that needs no particular verse behind it. What argues for the row is that the same sentence also carries the KJV's one civil use of 'expert', and that the chapter's other Zeezrom material (11:23, 11:25) is verifiably borrowed.",
+        "whyNot": "'The devices of the devil' is an English idiom of long standing and its presence proves nothing on its own; the case rests on the company it keeps in this chapter.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "Lest Satan should get an advantage of us: for we are not ignorant of his devices."
+      }
+    ],
+    "11:22": [
+      {
+        "source": "Matthew 4:9",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Luke 4:6",
+          "Mark 12:15",
+          "Matthew 4:10"
+        ],
+        "recurrenceRefs": [
+          "Alma 11:23"
+        ],
+        "provenance": {
+          "route": "Matthew 4:9 → KJV → Book of Mormon",
+          "other": "“All these things will I give thee” occurs in exactly one KJV verse, Matthew 4:9, where the devil offers the kingdoms of the world; Luke 4:6 has 'All this power will I give thee'.",
+          "significance": "Zeezrom lays down six onties of silver and says 'all these will I give thee if thou wilt deny the existence of a Supreme Being.' The construction is the devil's, from the third temptation, and it is preserved down to the conditional: offer, then 'if thou wilt', then the act demanded. What is demanded has been adjusted from worship of Satan to denial of God, which are the same transaction stated from opposite ends. Amulek's reply completes the identification by answering in the words Jesus used to the men who brought him a coin (11:23, Matthew 22:18), so the bribe scene runs the temptation and the tribute-money trap together — and Mark 12:15's version of the trap begins 'bring me a penny, that I may see it', which is what Zeezrom does with his silver.",
+          "alternative": "Matthew 4:10's 'Get thee hence, Satan' is not taken up; Amulek's answering vocative is Matthew 23:15's 'child of hell', adjudicated at 11:23."
+        },
+        "note": "Six words, reproduced with the noun removed because the noun is now Nephite currency. The identification of the questioner with the tempter is not stated by the text and is the reading this link makes available; the text states only that Zeezrom was expert in the devices of the devil (11:21). Held at high on the singleton plus the exact conditional structure.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ],
+        "text": "And saith unto him, All these things will I give thee, if thou wilt fall down and worship me."
+      }
+    ],
+    "11:23": [
+      {
+        "source": "Matthew 23:15",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Matthew 22:18",
+          "Mark 12:15",
+          "Luke 20:23"
+        ],
+        "recurrenceRefs": [
+          "Alma 10:17",
+          "Alma 11:22"
+        ],
+        "provenance": {
+          "route": "Matthew 23:15 + Matthew 22:18 → KJV → Book of Mormon",
+          "other": "“Child of hell” occurs in exactly one KJV verse, Matthew 23:15. “Why tempt ye me” occurs in exactly three, Matthew 22:18, Mark 12:15 and Luke 20:23 — the same episode in all three, and Matthew's continues 'ye hypocrites'.",
+          "significance": "Two sentences, both of them Jesus's, both from the confrontation with the Jerusalem authorities in the last week. 'O thou child of Hell' is the woe on the scribes and Pharisees who make a proselyte 'twofold more the child of hell than yourselves'; 'why tempt ye me' is the answer to the tribute-money trap. The Book of Mormon has been assembling this scene since Alma 10:13, which took its 'catch them in their words' from Mark 12:13 — the sending of the Pharisees and Herodians that produces the very question Matthew 22:18 answers. So chapter 10 borrows the sending and chapter 11 borrows the reply, in order, with the coin in between. Amulek's addition, 'knowest thou that the righteous yieldeth to no such temptations?', supplies from Matthew 4 what Matthew 22 leaves implicit: that a question with money behind it is a temptation and not an enquiry.",
+          "alternative": "Luke 20:23's 'Why tempt ye me?' is the form already drawn on at Alma 10:17 for 'he perceived their craftiness'; Matthew 22:18 is preferred here because its 'ye hypocrites' answers Alma 10:17's 'ye Lawyers and hypocrites'."
+        },
+        "note": "A KJV singleton vocative and a three-verse interrogative, adjacent, both from the same week of the same Gospel narrative, in a scene the Book of Mormon has been building for a chapter and a half. The 1830 capitalizes 'Hell'. Held at high rather than certain because each phrase is short.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "Woe unto you, scribes and Pharisees, hypocrites! for ye compass sea and land to make one proselyte, and when he is made, ye make him twofold more the child of hell than yourselves."
+      }
+    ],
+    "11:24": [
+      {
+        "source": "1 Samuel 8:3",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 2,
+          "sequence": 2,
+          "context": 5,
+          "rarity": 3,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "1 Timothy 3:3",
+          "Titus 1:11"
+        ],
+        "recurrenceRefs": [
+          "Mosiah 29:40",
+          "Alma 10:18",
+          "Alma 11:20"
+        ],
+        "provenance": {
+          "route": "1 Samuel 8:3 → KJV → Book of Mormon",
+          "other": "“Lucre” occurs in exactly six KJV verses. Five are the pastoral epistles' 'filthy lucre' as a disqualification for office; the sixth is 1 Samuel 8:3, where Samuel's sons 'turned aside after lucre, and took bribes, and perverted judgment'.",
+          "significance": "The split is the argument, and it is the same split this catalogue used at Mosiah 29:40. Of the six occurrences only one is about judges, and that one is the origin of Israel's demand for a king — the corrupt judiciary of 1 Samuel 8:3 is why 8:5 asks for a monarch. Alma 11 has just spent nineteen verses explaining that Nephite judges are paid by the case and 11:20 that their object is to stir up litigation; Amulek then tells Zeezrom he 'lovest that lucre more than him'. The verse under the accusation is the verse about judges who take bribes and pervert judgment — and Alma 10:18 has already accused these men of perverting the ways, out of the KJV's one 'pervert the ways of judgment' at Proverbs 17:23. Two different books of the Bible supply the same charge to the same chapter, and both are about bribed courts.",
+          "alternative": "The pastoral epistles' 'filthy lucre' is the more familiar phrase and is what a nineteenth-century writer would most likely reach for; nothing of 'filthy' survives here."
+        },
+        "note": "One word. Recorded at moderate, and only because the distribution is informative: five of the six KJV occurrences are about ministers and the sixth is about judges, and the sixth is the one whose situation Alma 11 has constructed at length. Below any quotation threshold and offered as a reading rather than a demonstration.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "And his sons walked not in his ways, but turned aside after lucre, and took bribes, and perverted judgment."
+      }
+    ],
+    "11:25": [
+      {
+        "source": "Acts 5:4",
+        "type": "allusion",
+        "subtype": "extended",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Acts 5:3",
+          "Acts 5:5"
+        ],
+        "recurrenceRefs": [
+          "Alma 10:25",
+          "Alma 11:36"
+        ],
+        "provenance": {
+          "route": "Acts 5:1-5 → KJV → Book of Mormon",
+          "other": "“Lied unto men but unto God” occurs in exactly one KJV verse, Acts 5:4. “Keep back part of the price” occurs in exactly one, Acts 5:3. Alma 10:25's 'why hath Satan' is the third KJV singleton from the same five verses.",
+          "significance": "Alma 11:25 is the Ananias episode rewritten clause by clause. Acts 5:3-4: Satan has filled the heart; the sin is keeping back part of the price; the question is 'why hast thou conceived this thing in thine heart?'; the verdict is 'thou hast not lied unto men, but unto God'; and Ananias falls down dead. Alma 11:25: 'thou hast lied before God unto me … when thou had it in thy heart to retain them from me … for this great evil thou shalt have thy reward.' Money offered and withheld, a lie whose real addressee is God, a heart that conceived it, and a sentence. The Book of Mormon reverses the direction of the fraud — Ananias withholds money he pretended to give the church, Zeezrom offers money he never meant to hand over — and keeps the theology of the lie exactly. That Alma 10:25 has already used Acts 5:3's 'why hath Satan' of this same crowd makes the pair a sustained borrowing rather than two coincidences: three KJV singletons out of one short passage, across two chapters, in the right order.",
+          "alternative": "Acts 8:20's 'Thy money perish with thee' is the other Lucan money-and-the-Spirit rebuke; nothing of it is verbally present."
+        },
+        "note": "Not a quotation — no run exceeds four words — but an extended reproduction of a scene with three of its rarest strings intact. Subtype 'extended' records that the borrowing is of a passage rather than a phrase. The 1830's 'when thou had it in thy heart' is ungrammatical where the 1920 reads 'when thou hadst it'; the first edition's form is closer to nothing in the KJV and is simply the dictation's.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "Whiles it remained, was it not thine own? and after it was sold, was it not in thine own power? why hast thou conceived this thing in thine heart? thou hast not lied unto men, but unto God."
+      }
+    ],
+    "11:27": [
+      {
+        "source": "1 Thessalonians 1:9",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 2,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "uncertain",
+        "mediation": "uncertain",
+        "composite": [
+          "Jeremiah 10:10"
+        ],
+        "recurrenceRefs": [
+          "Alma 11:25",
+          "Alma 11:26"
+        ],
+        "provenance": {
+          "route": "1 Thessalonians 1:9 or Jeremiah 10:10 → KJV → Book of Mormon",
+          "other": "“Living and true God” occurs in exactly one KJV verse, 1 Thessalonians 1:9. The Book of Mormon's order, 'true and living', occurs in no KJV verse. Jeremiah 10:10 has both adjectives but in separate clauses: 'the LORD is the true God, he is the living God'.",
+          "significance": "Mediation is recorded as uncertain because the two candidates cannot be separated on the evidence and the Book of Mormon matches neither exactly. 1 Thessalonians 1:9 joins the adjectives and Alma reverses them; Jeremiah 10:10 has Alma's order but not Alma's construction. What is decidable is that the phrase is being used as a test of loyalty in all three: Paul's Thessalonians turned to it from idols, Jeremiah's verse stands in the middle of a polemic against wooden gods, and Zeezrom is being asked whether he will deny it for six onties of silver. Jeremiah 10:10's next clause — 'at his wrath the earth shall tremble' — is what happens to Zeezrom at 11:46.",
+          "alternative": "'The living God' alone is distributed across some thirty KJV verses and could not identify a source; the pairing with 'true' is what makes the row possible."
+        },
+        "note": "The phrase enters at 11:25, is repeated as a question at 11:26 and affirmed here, and this is the point at which the affirmation is made, so the row sits here. Moderate, and kjvSpecific 'uncertain' honestly: the wording is close to two verses and identical to neither, which is a different situation from the chapter's singletons.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "For they themselves shew of us what manner of entering in we had unto you, and how ye turned to God from idols to serve the living and true God;"
+      }
+    ],
+    "11:34": [
+      {
+        "source": "Matthew 1:21",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "certain",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 2
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "recurrenceRefs": [
+          "Alma 11:35",
+          "Alma 11:36",
+          "Alma 11:37"
+        ],
+        "provenance": {
+          "route": "Matthew 1:21 → KJV → Book of Mormon",
+          "other": "“Save his people from their sins” occurs in exactly one KJV verse, Matthew 1:21, the angel's instruction to Joseph naming Jesus.",
+          "significance": "The whole dispute of 11:34-37 is a preposition. Zeezrom asks 'Shall he save his people in their sins?' and Amulek answers that he shall not, 'for it is impossible for him to deny his word' — and the word he cannot deny is the one KJV sentence that says what Jesus's name means: he shall save his people FROM their sins. Recover Matthew 1:21 and Amulek's refusal stops being a doctrinal assertion and becomes an appeal to a text: the name itself forbids the answer Zeezrom wants, because a saviour who saved people in their sins would be misnamed. Zeezrom's trap depends on the reader not noticing the substituted preposition, which is why he can report Amulek to the crowd at 11:35 as having said 'he shall not save his people' with the qualifier dropped — and Amulek's answer at 11:36 is to put it back. That exchange is unintelligible without the KJV verse under it, and this is the strongest kind of evidence the catalogue collects: not a phrase reused but an argument that cannot be conducted without its source.",
+          "alternative": "Psalm 130:8's 'he shall redeem Israel from all his iniquities' is the Old Testament sentence behind Matthew's; it has none of Matthew's wording and would not support the wordplay."
+        },
+        "note": "Five words of a KJV singleton, altered by one preposition, and the alteration is what the passage is about. Well below Skousen's sixteen-word threshold and not one of his quotations. Certain: no other explanation of 11:34-37 accounts for why the argument turns on 'in' versus 'from'.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "And she shall bring forth a son, and thou shalt call his name JESUS: for he shall save his people from their sins."
+      }
+    ],
+    "11:35": [
+      {
+        "source": "1 Corinthians 8:6",
+        "type": "echo",
+        "subtype": "probable",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 4,
+          "sequence": 3,
+          "context": 4,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "1 Corinthians 8:4"
+        ],
+        "provenance": {
+          "route": "1 Corinthians 8:6 → KJV → Book of Mormon",
+          "other": "'There is but one God' occurs in exactly one KJV verse, 1 Corinthians 8:6.",
+          "significance": "Zeezrom's summary to the crowd — 'he saith there is but one God; yet he saith that the Son of God shall come' — is put in the words of the one Pauline verse that states monotheism and then immediately qualifies it with 'and one Lord Jesus Christ'. The qualification is precisely the move Zeezrom is trying to make sound like a contradiction, and Paul has already made it without contradiction. Whether the Book of Mormon intends that irony is not decidable; what the link does is put the reader in a position to see it, which is the whole use of Hays's metalepsis in a case where the borrowing is short.",
+          "alternative": "1 Corinthians 8:4's 'there is none other God but one' is the same argument in different words and shares nothing distinctive with Alma 11:35."
+        },
+        "note": "Five words. Recorded as an echo at moderate: the sentence is short enough that a writer arguing monotheism might produce it independently, and the rarity claim is doing all the work.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ],
+        "text": "But to us there is but one God, the Father, of whom are all things, and we in him; and one Lord Jesus Christ, by whom are all things, and we by him."
+      }
+    ],
+    "11:37": [
+      {
+        "source": "Ephesians 5:5",
+        "type": "allusion",
+        "subtype": "paraphrase",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 3,
+          "attestation": 4
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "1 Corinthians 6:9",
+          "1 Corinthians 6:10",
+          "Revelation 21:27"
+        ],
+        "provenance": {
+          "route": "Ephesians 5:5 (with 1 Corinthians 6:9-10) → KJV → Book of Mormon",
+          "other": "“Inherit the kingdom” occurs in exactly five KJV verses and in every one of them the kingdom is God's, or the Father's — the KJV never writes 'inherit the kingdom of heaven'. “Unclean person” occurs in exactly three KJV verses, and Ephesians 5:5 is the only one that denies such a person an inheritance.",
+          "significance": "Amulek attributes the sentence to God — 'he hath said that no unclean thing can inherit the Kingdom of Heaven' — which makes it a quotation claim, and no KJV verse says it. What the KJV has is Ephesians 5:5, where 'no whoremonger, nor unclean person' has 'any inheritance in the kingdom of Christ and of God', and 1 Corinthians 6:9-10, where a list of the unrighteous 'shall not inherit the kingdom of God'. The Book of Mormon compresses the list to 'no unclean thing' and swaps in Matthew's 'kingdom of heaven', a phrase confined in the KJV to that Gospel. The result is a sentence with two biblical parents and no biblical existence, offered as scripture — which is exactly the situation Alma 12:21 will create in the other direction when Antionah quotes Genesis 3 and is answered from it.",
+          "alternative": "Revelation 21:27's 'there shall in no wise enter into it any thing that defileth' is closest to 'no unclean thing' as a formula about a thing rather than a person, and lacks the inheritance verb."
+        },
+        "note": "Hardy's apparatus cross-references Ephesians 5:5 at this verse. The catalogue agrees that Ephesians 5:5 is the nearest single source and records that the sentence Amulek quotes is a fusion rather than a citation; the substitution of 'kingdom of heaven' for the Pauline 'kingdom of God' is the part that makes the fusion visible. Moderate, because no distinctive string is reproduced.",
+        "bibliography": [
+          "Hardy MSI at Alma 11.37 (Ephesians 5:5)"
+        ],
+        "status": "majority",
+        "streams": [
+          "scholarship",
+          "manual"
+        ],
+        "text": "For this ye know, that no whoremonger, nor unclean person, nor covetous man, who is an idolater, hath any inheritance in the kingdom of Christ and of God."
+      }
+    ],
+    "11:39": [
+      {
+        "source": "Revelation 22:13",
+        "type": "quotation",
+        "subtype": "explicit",
+        "confidence": "certain",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 3
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Revelation 1:8",
+          "Revelation 21:6",
+          "Isaiah 44:6",
+          "Acts 4:24",
+          "Exodus 20:11"
+        ],
+        "provenance": {
+          "route": "Revelation 22:13 → KJV → Book of Mormon",
+          "other": "“The beginning and the end, the first and the last” occurs in exactly one KJV verse, Revelation 22:13, which is the last of the four Alpha-and-Omega sayings and the only one that stacks all three titles. 'All that in them is' occurs in exactly two, Exodus 20:11 and Acts 4:24.",
+          "significance": "Ten consecutive words of the KJV's closing chapter, applied to the Son. Revelation 22:13 is Christ's own self-identification at the end of the canon, and taking it whole is how Amulek answers 'Is the Son of God the very Eternal Father?' — not with an argument but with a title deed. The verse's first half, 'the very Eternal Father of Heaven and of Earth, and all things which in them is', is the creation formula of Exodus 20:11 as the apostles pray it in Acts 4:24; so the answer to a question about the Son's identity is built out of the Sabbath commandment's account of who made the world plus Revelation's account of who ends it. Isaiah 44:6's 'I am the first, and I am the last' is the Old Testament source both New Testament passages are drawing on, and it too is spoken by the God who says 'beside me there is no God' — which is what Amulek said at 11:29.",
+          "alternative": "Revelation 1:8, 1:11 and 21:6 each carry part of the formula; none has all four terms in Alma's order."
+        },
+        "note": "A ten-word verbatim run from a verse identifiable by that run alone, and one of the longest in Alma 10-12. Still below Skousen's sixteen-word threshold and not one of his thirty-six quotations, which should be said because the reproduction is otherwise complete and unbroken. Catalogued as a quotation on CONVENTIONS §2's rule that length does not decide the category by itself.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ],
+        "text": "I am Alpha and Omega, the beginning and the end, the first and the last."
+      }
+    ],
+    "11:41": [
+      {
+        "source": "Revelation 20:12",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 1
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Revelation 20:13",
+          "Daniel 7:10",
+          "2 Corinthians 11:15"
+        ],
+        "recurrenceRefs": [
+          "Alma 11:44"
+        ],
+        "provenance": {
+          "route": "Revelation 20:12-13 → KJV → Book of Mormon",
+          "other": "“Stand before God” occurs in exactly one KJV verse, Revelation 20:12. “According to their works” occurs in exactly three, 2 Corinthians 11:15, Revelation 20:12 and Revelation 20:13; two of the three are in the same judgment scene as 'stand before God'.",
+          "significance": "Two rare strings from one verse, in the same order and the same clause structure: 'all shall rise from the dead and stand before God, and be judged according to their works.' Revelation 20:12-13 is the great white throne — the dead, small and great, standing, the books opened, and each judged according to his works — and Alma 11:41-44 is a compressed version of it with one significant difference. In Revelation the resurrection is a sorting; in Alma it is universal first and the sorting comes after, which is the doctrinal point 11:41 exists to make, that 'the wicked remain as though there had been no redemption made, except it be the loosing of the bands of death'. The Book of Mormon takes Revelation's courtroom and inserts a general resurrection ahead of it.",
+          "alternative": "Malachi 4:1's 'behold, the day cometh' supplies a six-word run at the head of the verse and was the machine's top proposal; it is a standard prophetic opener and its day burns as an oven, which is not this verse's subject."
+        },
+        "note": "The first half of the verse, 'as though there had been no redemption made', has no KJV source and is the Book of Mormon's own. The second half is Revelation 20:12's two rarest phrases in sequence. High rather than certain because neither string exceeds four words.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ],
+        "text": "And I saw the dead, small and great, stand before God; and the books were opened: and another book was opened, which is the book of life: and the dead were judged out of those things which were written in the books, according to their works."
+      }
+    ],
+    "11:42": [
+      {
+        "source": "Acts 2:24",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 4,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "recurrenceRefs": [
+          "Alma 11:41",
+          "Alma 11:45"
+        ],
+        "provenance": {
+          "route": "Acts 2:24 → KJV → Book of Mormon",
+          "other": "“Pains of death” occurs in exactly one KJV verse, Acts 2:24 — 'having loosed the pains of death'. The Book of Mormon's 'bands of death' occurs in no KJV verse.",
+          "significance": "The verb decides it. Death in the KJV binds in several idioms — the sorrows of death, the snares of death, the cords of hell — but 'loose' is joined to death in exactly one verse, Peter at Pentecost saying God raised Jesus 'having loosed the pains of death: because it was not possible that he should be holden of it'. Alma 11:41-42 uses 'loosing' twice with a noun of its own, 'the bands of death', and gives it the same agency: the death of Christ is what looses it. Acts 2:24 sits three verses before Acts 2:27's 'see corruption', which Alma 11:45 also has — so the whole of Amulek's resurrection doctrine is drawn from one paragraph of one Pentecost sermon.",
+          "alternative": "Psalm 116:16's 'thou hast loosed my bonds' has the verb and a bond, but no death; 2 Samuel 22:6 and Psalm 18:5 have 'the snares of death' without the verb."
+        },
+        "note": "One word of the pair is the Book of Mormon's own, which is why this is moderate. The argument is the verb and the source paragraph, not the noun phrase — and the noun phrase's absence from the KJV is itself worth recording, since 'bands of death' is often assumed to be biblical.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "Whom God hath raised up, having loosed the pains of death: because it was not possible that he should be holden of it."
+      }
+    ],
+    "11:44": [
+      {
+        "source": "Ecclesiastes 12:14",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "2 Corinthians 5:10",
+          "Romans 14:10",
+          "Galatians 3:28",
+          "Revelation 20:12"
+        ],
+        "recurrenceRefs": [
+          "Alma 11:41"
+        ],
+        "provenance": {
+          "route": "Ecclesiastes 12:14 (frame from 2 Corinthians 5:10) → KJV → Book of Mormon",
+          "other": "“Whether it be good, or whether it be evil” occurs in exactly two KJV verses, Ecclesiastes 12:14 and Jeremiah 42:6. “Neither bond nor free” occurs in exactly one, Galatians 3:28, which is also the only verse joining that pair to 'neither male nor female'.",
+          "significance": "mediation-check.py was run on this verse against 2 Corinthians 5:10 and returns divergences in both directions; the two that favour Paul are absences, and the one real word-level divergence is decisive the other way. Paul's clause ends 'whether it be good or bad'; Ecclesiastes 12:14's ends 'whether it be good, or whether it be evil', and Alma 11:44 has the doubled 'whether' and the word 'evil'. So the frame is Paul's — all appearing before a judgment seat of Christ, which Alma calls 'the bar of Christ' — and the closing clause is Ecclesiastes's, in the verse that closes Ecclesiastes. The merism that precedes it, 'both bond and free, both male and female', is Galatians 3:28's pair with its negatives removed: Paul abolishes the categories in Christ and Alma preserves them through the resurrection, which is the difference between a doctrine of union and a doctrine of restoration to 'perfect frame'.",
+          "alternative": "Jeremiah 42:6 has the same doubled clause but is a promise of obedience, not a judgment."
+        },
+        "note": "A three-source verse where each source is identifiable and each contributes a different clause. The decisive evidence is one word, 'evil' against Paul's 'bad', which is what mediation-check.py was built to find. Note that the 1830 reads 'shall be restored to its perfect frame' with a singular pronoun for a plural antecedent throughout the verse; later editions did not regularize it here.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "For God shall bring every work into judgment, with every secret thing, whether it be good, or whether it be evil."
+      },
+      {
+        "source": "Luke 21:18",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Acts 27:34",
+          "Luke 12:7",
+          "1 Samuel 14:45"
+        ],
+        "provenance": {
+          "route": "Luke 21:18 → KJV → Book of Mormon",
+          "other": "“Hair of your head” occurs in exactly one KJV verse, Luke 21:18 — 'But there shall not an hair of your head perish.'",
+          "significance": "'There shall not so much as a hair of their heads be lost.' Luke 21:18 is a promise of preservation through persecution, made in the middle of the Olivet discourse to disciples who are told two verses earlier that 'some of you shall they cause to be put to death'. Alma 11:44 transposes the promise from history to resurrection: not that the faithful will survive but that the body will be reassembled entire. That transposition matters in this book, because Alma 14 is about to have the believers of Ammonihah burned alive while Alma and Amulek are made to watch, and the promise Luke attaches to martyrdom is the one Amulek has already given them in a form martyrdom cannot break.",
+          "alternative": "Acts 27:34's 'there shall not an hair fall from the head of any of you' and 1 Samuel 14:45's 'there shall not one hair of his head fall to the ground' are the other biblical forms; both are about physical rescue and neither has Luke's possessive."
+        },
+        "note": "Held at moderate because the idiom is proverbial in English and appears in the KJV four times over; what argues for Luke 21:18 in particular is the possessive construction and the martyrological setting, which chapter 14 will make relevant.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "But there shall not an hair of your head perish."
+      }
+    ],
+    "11:45": [
+      {
+        "source": "1 Corinthians 15:53",
+        "type": "allusion",
+        "subtype": "paraphrase",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 2
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "1 Corinthians 15:42",
+          "1 Corinthians 15:54",
+          "Acts 2:27",
+          "Psalm 16:10"
+        ],
+        "recurrenceRefs": [
+          "Alma 11:42",
+          "Alma 11:43"
+        ],
+        "provenance": {
+          "route": "1 Corinthians 15:42-54 → KJV → Book of Mormon",
+          "other": "“This mortal must put on immortality” occurs in exactly one KJV verse, 1 Corinthians 15:53. “Raised in incorruption” occurs in exactly one, 1 Corinthians 15:42. 'See corruption' occurs in five, three of them the same Psalm quotation.",
+          "significance": "'This mortal body is raised to an immortal body … that they can no more see corruption.' Both halves come from 1 Corinthians 15, and from the two verses of it that the KJV makes unique: 15:42's sown-in-corruption-raised-in-incorruption and 15:53's mortal putting on immortality. What Alma adds is the anatomy — 'their spirits uniting with their bodies, never to be divided' — which Paul does not supply and which 11:43 has already spelled out down to limb and joint. The chapter's resurrection doctrine is thus Pauline in vocabulary and un-Pauline in interest: 1 Corinthians 15:44 distinguishes a natural body from a spiritual body, and Alma 11:43-45 insists instead that the raised body is the same body, 'even as we now are at this time'.",
+          "alternative": "'See corruption' cannot decide its own mediation. mediation-check.py on Psalm 16:10 against Acts 2:27 reports no decisive divergence, because the KJV renders the two verses identically except for the opening conjunction, which Alma does not reproduce. The phrase reaches Alma 11:45 either from the Psalm or from Peter's use of it, and the verse cannot say which; the surrounding 1 Corinthians 15 material is the reason mediation is recorded as direct-NT for the row as a whole."
+        },
+        "note": "Two KJV singletons from one chapter, paraphrased rather than quoted — 'this mortal body is raised to an immortal body' collapses 15:42 and 15:53 into a single clause. High rather than certain because the paraphrase leaves no long verbatim run; the case is that both source phrases are unique and adjacent in Paul.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "For this corruptible must put on incorruption, and this mortal must put on immortality."
+      }
+    ],
+    "11:46": [
+      {
+        "source": "Acts 24:25",
+        "type": "allusion",
+        "subtype": "type-scene",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Acts 24:26"
+        ],
+        "recurrenceRefs": [
+          "Alma 11:22"
+        ],
+        "provenance": {
+          "route": "Acts 24:25-26 → KJV → Book of Mormon",
+          "other": "“Judgment to come” occurs in exactly one KJV verse, Acts 24:25, and it is the verse in which Felix trembles.",
+          "significance": "The KJV has exactly one scene in which a hearer of a discourse on the coming judgment trembles at it, and it has a detail that Alma 11 has already used: Acts 24:26 says Felix 'hoped also that money should have been given him of Paul', which is why he kept sending for him. Zeezrom's interrogation opened with six onties of silver (11:22) and closes with him beginning to tremble at a discourse on the resurrection and the bar of Christ. The sequence is the same and the order is the same — money first, then reasoning of judgment to come, then trembling — and Felix's response, 'Go thy way for this time; when I have a convenient season, I will call for thee', is what Zeezrom conspicuously does not say, because Alma 12 has him ask again. That refusal to take Felix's exit is what makes Zeezrom's conversion possible, and it is only visible with the source in view.",
+          "alternative": "Acts 16:29's jailer 'came trembling' after an earthquake, and Daniel 5:6's Belshazzar trembles at the writing on the wall; neither follows a discourse."
+        },
+        "note": "A KJV singleton phrase is not reproduced here — 'judgment to come' is Acts 24:25's, not Amulek's — so the link is to the scene and is typed as a type-scene rather than a verbal borrowing. What holds it at high is that the scene is unique in the KJV, that its three elements appear in Alma 11 in the same order, and that the money detail is peculiar enough to be doing more than coinciding.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "And as he reasoned of righteousness, temperance, and judgment to come, Felix trembled, and answered, Go thy way for this time; when I have a convenient season, I will call for thee."
+      }
+    ]
+  }
+}

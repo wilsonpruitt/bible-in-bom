@@ -1,0 +1,340 @@
+{
+  "chapter": 9,
+  "adjudicated": "2026-09-07",
+  "adjudicator": "Opus",
+  "links": {
+    "9:2": [
+      {
+        "source": "John 8:17",
+        "type": "echo",
+        "subtype": "conceptual",
+        "confidence": "moderate",
+        "text": "It is also written in your law, that the testimony of two men is true.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 2,
+          "sequence": 2,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Deuteronomy 19:15"
+        ],
+        "provenance": {
+          "route": "Deuteronomy 19:15 → John 8:17 (KJV) → Book of Mormon",
+          "other": "'The testimony of two men' occurs in exactly one KJV verse, John 8:17. Deuteronomy 19:15, the law John is citing, uses neither 'testimony' nor 'men': 'at the mouth of two witnesses, or at the mouth of three witnesses, shall the matter be established.' The Book of Mormon's noun is John's.",
+          "significance": "The objection at Ammonihah is a legal one and it is stated in the KJV's terms: 'Suppose ye that we shall believe the testimony of one man?' The KJV's one verse about the testimony of two men is the verse in which Jesus answers exactly this objection, raised against him in exactly this form — the Pharisees at John 8:13 have just said 'Thou bearest record of thyself; thy record is not true.' Alma's opponents have made the Pharisees' argument. What the Book of Mormon then does with it is the finding: it concedes the point and satisfies it. Amulek has already been commanded to go forth with Alma at 8:29, and at Alma 10:12 the narrative says outright that the people were astonished 'that there was more than one witness who testified'. The law of witnesses is raised as an objection and answered by supplying the second witness, which is the same move John 8:18 makes with the Father. Note that 'testimony' is John's word and not the law's, so the Book of Mormon has the objection in its Gospel form rather than its Deuteronomic one."
+        },
+        "note": "'Suppose ye that we shall believe the testimony of one man?' No clause is reproduced, so this is an echo rather than an allusion; what identifies it is that the KJV puts this rule in the form 'the testimony of two men' exactly once, and does so where the rule is being used against a solitary preacher. Compare also the crowd's opening question at 9:2, 'Who art thou?', which is John 1:19's question to John the Baptist — the figure whose cry Alma will quote at 9:25 and 9:28.",
+        "whyNot": "The shared material is one noun and a numeral, and a hostile crowd demanding corroboration is a scene that could be written without any source. The row rests on the KJV count and on the answering move at Alma 10:12.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "9:12": [
+      {
+        "source": "Deuteronomy 29:23",
+        "type": "echo",
+        "subtype": "probable",
+        "confidence": "moderate",
+        "text": "And that the whole land thereof is brimstone, and salt, and burning, that it is not sown, nor beareth, nor any grass groweth therein, like the overthrow of Sodom, and Gomorrah, Admah, and Zeboim, which the LORD overthrew in his anger, and in his wrath:",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 4,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "recurrenceRefs": [
+          "Alma 9:15"
+        ],
+        "provenance": {
+          "route": "Deuteronomy 29:23 → KJV → Book of Mormon",
+          "other": "'In his anger, and in his' occurs in exactly one KJV verse, Deuteronomy 29:23. 'Fierce anger' alone occurs in twenty KJV verses and points nowhere, which is why the excluded row at Alma 8:29 was declined and this one is not.",
+          "significance": "The doubled prepositional phrase is the KJV's only instance, and its verse is the overthrow of Sodom and Gomorrah — which is what makes it worth recording here rather than filing with the generic anger-of-the-Lord diction. Three verses later Alma tells Ammonihah it will be 'more tolerable' for the Lamanites in the day of judgment, which is Matthew 10:15's saying about the land of Sodom and Gomorrha. So a Sodom formula and a Sodom saying arrive within four verses of each other, from opposite testaments, at a city that is destroyed in a single day in Alma 16. Deuteronomy 29:23 is also the verse the KJV uses to describe what a land looks like afterwards — brimstone and salt, not sown, no grass — which is very close to what Alma 16:10 will report of Ammonihah's site."
+        },
+        "note": "'He will visit you in his anger, and in his fierce anger he will not turn away.' The one KJV verse with the doubled phrase is the Sodom overthrow, and the chapter reaches Sodom again at 9:15 by a different route. Moderate: the shared words are function words, and prophetic anger-diction is common stock — the count and the thematic convergence are the argument. The machine ranked this verse's candidate correctly, which is unusual.",
+        "whyNot": "The run is 'in his anger, and in his', which is five function words and a common noun; the singleton status is an artifact of how few KJV verses double the preposition at all. Nothing else of Deuteronomy 29 appears.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "9:15": [
+      {
+        "source": "Matthew 10:15",
+        "type": "quotation",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "Verily I say unto you, It shall be more tolerable for the land of Sodom and Gomorrha in the day of judgment, than for that city.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Matthew 11:22",
+          "Matthew 11:24",
+          "Mark 6:11"
+        ],
+        "recurrenceRefs": [
+          "Alma 9:23"
+        ],
+        "provenance": {
+          "route": "Matthew 10:15 with 11:22 → KJV → Book of Mormon",
+          "other": "'More tolerable for' occurs in exactly five KJV verses (Matthew 10:15, 11:22, 11:24, Mark 6:11, Luke 10:14); 'in the day of judgment, than for' occurs in exactly three (Matthew 10:15, 11:24, Mark 6:11). Alma has the prepositional form of the three — 'in the day of judgment', not Matthew 11:22's and Luke 10:14's 'at the day' — and the pronoun of Matthew 11:22, 'than for you'.",
+          "significance": "The saying is fused from two of its five KJV occurrences and the fusion is legible word by word: 'in the day of judgment' comes from the Matthew 10:15 / 11:24 / Mark 6:11 form and 'than for you' from Matthew 11:22, so Alma has neither verse whole. What decides which of them is the source rather than the supplement is the setting. Matthew 10:14-15 and its Marcan parallel are the sending of the Twelve: 'whosoever shall not receive you, nor hear your words, when ye depart out of that house or city, shake off the dust of your feet … It shall be more tolerable for the land of Sodom and Gomorrha in the day of judgment, than for that city.' That is the situation of Alma 8 exactly — a preacher not received, reviled, and put out of a city — and Alma 9:15 is spoken on his return to the same city. The metalepsis is the fate. What the saying threatens is what Alma 16 delivers: Ammonihah is destroyed and its site left desolate, and the KJV's comparison-class for a city that will not hear a sent preacher is Sodom.",
+          "alternative": "Luke 10:12 and 10:14 carry the same saying in the sending of the Seventy but read 'at the judgment' and 'at the day', neither of which the Book of Mormon has."
+        },
+        "note": "'It shall be more tolerable for them in the day of judgment, than for you, if ye remain in your sins.' Eleven consecutive shared words at the machine's best match, and the two halves come from two different verses of the same saying: Matthew's 'in the day of judgment' and Matthew 11:22's 'than for you'. Below Skousen's sixteen-word threshold and not one of his passages, though it is as close to a formal quotation as anything in Alma 9. Alma repeats the comparison at 9:23 in his own words ('far more tolerable for the Lamanites than for them'), which is the formula settling into his idiom rather than a second borrowing.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "9:18": [
+      {
+        "source": "Isaiah 13:22",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "text": "And the wild beasts of the islands shall cry in their desolate houses, and dragons in their pleasant palaces: and her time is near to come, and her days shall not be prolonged.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Isaiah 13:19"
+        ],
+        "provenance": {
+          "route": "Isaiah 13:19-22 → KJV → Book of Mormon",
+          "other": "'Shall not be prolonged' occurs in exactly one KJV verse, Isaiah 13:22, the closing line of the oracle against Babylon. Alma 9:16 has used the same verb in the opposite direction four verses earlier — the Lord will 'prolong their existence in the land' for the Lamanites — and the KJV's only other sense of the verb with days is Deuteronomy's blessing formula 'that thy days may be prolonged'.",
+          "significance": "Alma sets the two halves of the KJV's verb against each other and gives each to a different people. The Lamanites, whose ignorance is inherited, get the Deuteronomic promise: their existence in the land is prolonged. Ammonihah gets Isaiah 13:22, which is the KJV's one sentence saying that days shall NOT be prolonged, and says it of Babylon. Recover the three verses before it and the terms are supplied for everything else Alma 9 has said to this city: Isaiah 13:19 is 'Babylon, the glory of kingdoms, the beauty of the Chaldees' excellency, shall be as when God overthrew Sodom and Gomorrah', which is the same comparison Alma made at 9:15 from Matthew, and Isaiah 13:20-22 is the desolate uninhabited site that Alma 16:10-11 will report of Ammonihah's ruin. The city that boasted at 9:4 that it could not be 'destroyed in one day' is answered with the oracle against the one city in scripture whose fall is the type of all such falls."
+        },
+        "note": "'If ye persist in your wickedness, that your days shall not be prolonged in the land … ye shall be visited with utter destruction.' A KJV singleton, taken from the last line of the Babylon oracle and applied to a city that had just denied it could fall. The machine did rank Isaiah 13:22 here, on the same run. The contrast with 9:16's 'prolong their existence in the land' is within the same speech and is what makes the borrowing purposeful rather than incidental.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "9:25": [
+      {
+        "source": "Jonah 3:8",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "text": "But let man and beast be covered with sackcloth, and cry mightily unto God: yea, let them turn every one from his evil way, and from the violence that is in their hands.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "recurrenceRefs": [
+          "Alma 8:16"
+        ],
+        "provenance": {
+          "route": "Jonah 3:8 → KJV → Book of Mormon",
+          "other": "'Cry mightily' occurs in exactly one KJV verse, Jonah 3:8, in the king of Nineveh's decree. The Book of Mormon redirects the object: Jonah's Ninevites cry mightily unto God, Alma's messengers cry mightily unto the people.",
+          "significance": "This is the Jonah frame of Alma 8 reappearing eleven verses later, and the redirection of the object is the argument. In Jonah the crying is the city's repentance — the king's decree that man and beast cry mightily unto God, which is the act Nineveh is spared for. In Alma 9:25 it is the messengers' preaching, addressed to the city and not to God, and the thing they cry is the demand for repentance rather than repentance itself. So the KJV's one phrase for a great city's successful repentance is placed in the mouths of the men sent to ask for one, at a city that will not give it. Ammonihah is offered the sentence Nineveh spoke and does not speak it."
+        },
+        "note": "'The Lord hath sent his angel to visit many of his people, declaring unto them that they must go forth and cry mightily unto this people.' A KJV singleton with its object changed. On its own two words would be too little; it is written because the chapter it belongs to is already running the Jonah type-scene argued at Alma 8:16, and because this is the one moment where Jonah's actual vocabulary surfaces. The machine proposed Acts 12:11 here, on 'the Lord hath sent his angel', which is Peter's escape from Herod and is a three-verse formula (Daniel 3:28, 6:22, Acts 12:11) with no other contact.",
+        "whyNot": "Two words. If the Jonah reading at 8:16 is declined, this row should go with it.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      },
+      {
+        "source": "Matthew 3:2",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "And saying, Repent ye: for the kingdom of heaven is at hand.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Luke 21:31"
+        ],
+        "recurrenceRefs": [
+          "Alma 7:9",
+          "Alma 9:28"
+        ],
+        "provenance": {
+          "route": "Matthew 3:2 with Luke 21:31 → KJV → Book of Mormon",
+          "other": "'The kingdom of heaven is at hand' occurs in exactly three KJV verses, all Matthew's (3:2, 4:17, 10:7). 'Nigh at hand' occurs in exactly five (Joel 2:1, Luke 21:30, 21:31, John 11:55, 19:42), and the only one attaching it to a kingdom is Luke 21:31 — 'the kingdom of God is nigh at hand.' Neither testament has 'the kingdom of heaven is nigh at hand'.",
+          "significance": "Alma 9:25 reads 'Repent ye, for the kingdom of Heaven is nigh at hand', which exists in no KJV verse because it is two verses welded together: Matthew supplies the kingdom of heaven and Luke supplies 'nigh'. The weld is worth noticing because Luke 21:31 is not the Baptist's preaching at all — it is the parable of the fig tree in the Olivet discourse, where the sign that the kingdom is nigh is the imminent destruction of Jerusalem. Alma's angel is announcing the same nearness to a city about to be destroyed, and the added adverb comes from the KJV's one apocalyptic use of the phrase. Alma had used the plain Matthean form at 7:9 in a congregation he approved of; at Ammonihah, and at 9:28's fuller 'prepare ye the way of the Lord', the same preaching returns with Luke's urgency attached."
+        },
+        "note": "'Repent ye, for the kingdom of Heaven is nigh at hand.' Matthew's clause with one word of Luke's fused into it, producing a sentence in no KJV verse. See Alma 7:9 for the full argument on the Baptist's preaching, where the mediation test decides against Isaiah 40:3 and for the Gospel form; at 9:28 the same speech reaches 'prepare ye the way of the Lord', which is nearer to Matthew 3:3 than 7:9's version was, since it restores the 'ye'. The machine ranked Matthew 3:2 first here, its best call in the chapter.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "9:26": [
+      {
+        "source": "John 1:14",
+        "type": "quotation",
+        "subtype": "close-verbal",
+        "confidence": "certain",
+        "text": "And the Word was made flesh, and dwelt among us, (and we beheld his glory, the glory as of the only begotten of the Father,) full of grace and truth.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 2
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Matthew 25:31",
+          "Exodus 34:6"
+        ],
+        "recurrenceRefs": [
+          "Alma 8:15",
+          "Alma 8:26"
+        ],
+        "provenance": {
+          "route": "John 1:14 → KJV → Book of Mormon",
+          "other": "'The only begotten of the Father' occurs in exactly one KJV verse, John 1:14, and 'full of grace and truth' occurs in exactly one, the same. John's other formulations are 'his only begotten Son' (3:16) and 'the only begotten Son' (1:18, 3:18); the genitive with 'of the Father' is unique to the prologue. 'Shall come in his glory' occurs in exactly one KJV verse, Matthew 25:31.",
+          "significance": "Alma reproduces John 1:14's parenthesis almost entire — his glory, the glory of the only begotten of the Father, full of grace and truth — and inserts one word into the KJV's fixed pair: 'full of grace, EQUITY and truth'. A third term dropped into a two-term formula is the most visible kind of alteration a borrower can make, and the term chosen is forensic. The clause that follows is the reason: 'full of patience, mercy, and long suffering, quick to hear the cries of his people', which is the Exodus 34:6 formula ('merciful and gracious, longsuffering, and abundant in goodness and truth') laid alongside John's. So the verse holds the two great KJV descriptions of divine character, the Sinai proclamation and the Johannine prologue, in one sentence, with equity added to join them. And the frame around all of it is Matthew's: 'the Son of God shall come in his glory' is the KJV's one occurrence of that clause, at Matthew 25:31, the opening of the sheep-and-goats judgment. That makes three separate uses of Matthew 25 in two chapters — the faithful servant at Alma 8:15, the hungry stranger at 8:26, the Son of Man on the throne here — and the third supplies the judge whose sentence the first two anticipate."
+        },
+        "note": "'His glory shall be the glory of the only begotten of the Father, full of grace, equity and truth, full of patience, mercy, and long suffering.' Two KJV singletons from one verse of John's prologue, in John's order, with 'equity' inserted into 'full of grace and truth' and the Exodus 34:6 attribute-list appended. The machine scored John 1:14 at rarity 6.50 with a ten-word run, its highest score anywhere in these three chapters. Frederick's co-occurrence index (data/frederick-refs.json, from tools/parse-frederick.py) places Alma 9:26 within 1,500 characters of his discussion of John 1:14 and 1:16 — that index records proximity inside his argument about the Gospel of John, not a proposed source, and he offers no source list.",
+        "bibliography": [
+          "Frederick 2016 — his index of co-occurrence (data/frederick-refs.json, from tools/parse-frederick.py) places Alma 9:26 within 1500 characters of his discussion of John 1:14 and John 1:16, alongside 2 John 1:3 and Exodus 34:6; that index records proximity in his argument about the Gospel of John, not a proposed source."
+        ],
+        "status": "majority",
+        "citationsPending": false,
+        "streams": [
+          "machine-ngram",
+          "manual",
+          "scholarship"
+        ]
+      }
+    ],
+    "9:30": [
+      {
+        "source": "Acts 26:20",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "But shewed first unto them of Damascus, and at Jerusalem, and throughout all the coasts of Judaea, and then to the Gentiles, that they should repent and turn to God, and do works meet for repentance.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "Acts 26:20 → KJV → Book of Mormon",
+          "other": "'Works meet for repentance' occurs in exactly one KJV verse, Acts 26:20. 'Fruits meet for repentance' occurs in exactly one, Matthew 3:8. Luke 3:8 renders the Baptist's saying differently again, 'fruits worthy of repentance'. Alma 9:30 has 'works which is mete for repentance' — Paul's noun, not the Baptist's.",
+          "significance": "The Book of Mormon has both KJV forms of this phrase and puts each where it belongs. At Alma 13:13 it appears as 'bring forth fruit mete for repentance', which is Matthew 3:8's noun and Matthew 3:8's verb; here at 9:30 it is 'works', which is Acts 26:20's and belongs to Paul's account of his own preaching before Agrippa. That the two occurrences differ in exactly the one word that distinguishes their KJV sources is strong evidence that neither is a general memory of a floating phrase. What Acts 26:20 adds when recovered is the setting: Paul is on trial, defending a mission to people who tried to kill him, describing what he preached to them. Alma 9:30 is the last sentence before the crowd seeks to lay hands on him and cast him into prison.",
+          "alternative": "Matthew 3:8's 'fruits meet for repentance' is equally rare and is the more familiar phrase, but its noun is 'fruits'; the Book of Mormon uses that form elsewhere and not here."
+        },
+        "note": "'Ye had ought to bring forth works which is mete for repentance.' The KJV has this phrase twice, once with 'fruits' and once with 'works', and Alma 9:30 has the second. The verb, though, is the first's — 'bring forth' is Matthew 3:8's and not Acts 26:20's 'do' — so the sentence carries Matthew's imperative around Paul's noun. The 1830 spells 'mete', which the 1920 corrects to 'meet'; the first edition's spelling is a homophone error and does not affect the identification. No machine candidate reached this verse.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "9:31": [
+      {
+        "source": "Acts 7:54",
+        "type": "figural",
+        "subtype": "structural",
+        "confidence": "moderate",
+        "text": "When they heard these things, they were cut to the heart, and they gnashed on him with their teeth.",
+        "evidence": {
+          "vocabulary": 1,
+          "syntax": 2,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 2,
+          "attestation": 0
+        },
+        "kjvSpecific": "no",
+        "mediation": "direct-NT",
+        "composite": [
+          "Acts 7:51",
+          "Acts 7:57"
+        ],
+        "recurrenceRefs": [
+          "Alma 8:13"
+        ],
+        "provenance": {
+          "route": "Acts 7 → KJV → Book of Mormon",
+          "other": "No phrase of Acts 7:54 is reproduced. The chapter's one hard verbal anchor to Acts 7 is at Alma 8:13, where 'cast him out of the city' is a KJV singleton at Acts 7:58. 'Stiffnecked people', which Alma 9:5 and 9:31 both use, occurs in exactly six KJV verses, all of them Exodus or Deuteronomy and none of them Acts — Acts 7:51's 'Ye stiffnecked and uncircumcised in heart' has the adjective without the noun.",
+          "significance": "Alma 9 has the shape of Stephen's speech and it is worth saying so, provided the wording is not oversold. Stephen answers a charge by reciting the deliverances God worked for the fathers — the call out of a foreign land, the leading through the wilderness, the repeated rescues — and turns the recital on his hearers as an accusation that they have resisted what their fathers received. Alma 9:8-11 does exactly that with Lehi: brought out of Jerusalem by the hand of God, led through the wilderness, delivered out of the hands of their enemies many times, preserved by God's matchless power. Both speeches then close on the same word: Stephen calls his hearers stiffnecked, Alma reports at 9:31 that they were wroth 'because I said unto them that they was a hardhearted and a stiffnecked people'. And both end the same way, with the crowd enraged and laying hands on the speaker. The one difference is the one that matters: Acts 7:58 casts Stephen out of the city and stones him, and Alma 9:33 says 'the Lord did not suffer them that they should take me at that time.' The type-scene is set up and then interrupted — which is what the earlier half of it at Alma 8:13, where Alma is reviled, spat upon and cast out but not stoned, had already done."
+        },
+        "note": "'The people were wroth with me, because I said unto them that they was a hardhearted and a stiffnecked people … and sought to lay their hands upon me, that they might cast me into prison.' Catalogued as figural: the verbal contact with Acts 7 in this chapter is nil, and 'stiffnecked people' is Exodus's phrase and not Luke's. The case is the shape — a recital of the fathers' deliverances turned into an indictment, ending in a crowd laying hands on the speaker — together with the KJV singleton at Alma 8:13 that puts Acts 7 in the chapter before. Recorded at moderate, and the whyNot names what would withdraw it.",
+        "whyNot": "There is no shared wording at all, and a prophet rehearsing sacred history to a hostile audience is a form the Hebrew Bible supplies many times over (Joshua 24, Nehemiah 9, Psalm 78) without any need for Acts. If the Acts 7:58 link at Alma 8:13 were withdrawn, this row would have nothing left holding it and should be withdrawn too.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ]
+  }
+}

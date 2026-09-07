@@ -1,0 +1,675 @@
+{
+  "chapter": 1,
+  "adjudicated": "2026-09-07",
+  "adjudicator": "Opus",
+  "links": {
+    "1:1": [
+      {
+        "source": "1 Kings 2:2",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Joshua 23:14",
+          "2 Chronicles 1:8",
+          "1 Chronicles 29:28"
+        ],
+        "recurrenceRefs": [
+          "2 Nephi 1:14",
+          "Mosiah 1:9"
+        ],
+        "provenance": {
+          "route": "1 Kings 2:1-2 + 2 Chronicles 1:8 → KJV → Book of Mormon",
+          "other": "“The way of all the earth” occurs in exactly two KJV verses, Joshua 23:14 and 1 Kings 2:2, and both are a leader's farewell on the point of death. “Reign in his stead” occurs in exactly one KJV verse, 2 Chronicles 1:8, Solomon's word about succeeding David; the past-tense regnal formula “reigned in his stead” occurs in exactly 63 KJV verses, and 1 Chronicles 29:28 joins it to David's own death notice ('he died in a good old age, full of days, riches, and honour: and Solomon his son reigned in his stead').",
+          "significance": "Both halves of Mosiah's obituary are David's, and the second is negated. The KJV's dying-king sentence is 'I go the way of all the earth' (1 Kings 2:2), spoken by David to the son who will succeed him; the KJV's succession sentence is 'made me to reign in his stead' (2 Chronicles 1:8), spoken by that son. Mosiah is given the first and denied the second: 'leaving none to reign in his stead.' The chapter that opens the reign of the judges opens by quoting the transfer of the crown in order to say that it did not happen, and the KJV supplies both the formula and the vacancy in it. What follows in 1 Kings 2:3 is the charge to keep the law, which is precisely what Alma 1:1 substitutes for an heir: 'nevertheless he established laws … therefore they were obliged to abide by the laws which he had made.'"
+        },
+        "note": "'King Mosiah having gone the way of all the earth … leaving none to reign in his stead.' The phrase entered the corpus at 2 Nephi 1:14 in Lehi's mouth and was adjudicated again at Mosiah 1:9 for Benjamin; it re-enters here for Mosiah's own death, in a new book and a new hand, and this time carries a second KJV succession formula with it. What makes the row more than a recurrence is the negation: the borrowed clause reports the end of Nephite kingship, and 1:14 will call Mosiah 'our last king'. Well below Skousen's sixteen-word threshold and not one of his thirty-six.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ],
+        "text": "I go the way of all the earth: be thou strong therefore, and shew thyself a man;"
+      },
+      {
+        "source": "1 Timothy 1:18",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 3,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "1 Timothy 1:19",
+          "2 Timothy 4:7"
+        ],
+        "provenance": {
+          "route": "1 Timothy 1:18 → KJV → Book of Mormon",
+          "other": "“A good warfare” occurs in exactly one KJV verse, 1 Timothy 1:18, and “war a good warfare” occurs in exactly one KJV verse, the same one. The Book of Mormon has 'having warred a good warfare', which occurs nowhere in the KJV and is the participle of Paul's phrase.",
+          "significance": "The clause Paul uses is a charge to a young minister, and its immediate sequel is the reason this chapter needs it: 'Holding faith, and a good conscience; which some having put away concerning faith have made shipwreck: of whom is Hymenaeus and Alexander' (1:19-20). 1 Timothy 1 is the KJV's chapter about a named teacher who wrecked the faith and was handed over for discipline. Alma 1 is about a named teacher who wrecked the faith and was handed over for execution. Mosiah dies with Timothy's charge on him in the same sentence that hands the office to a judge who must immediately try Nehor."
+        },
+        "note": "'Having warred a good warfare, walking uprightly before God.' A KJV singleton in participial form, doing epitaph duty. The rest of the clause is generic — 'walketh uprightly' is five KJV verses, all wisdom-literature — so the borrowing is the warfare phrase alone, which is why the row is an allusion rather than a quotation.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "This charge I commit unto thee, son Timothy, according to the prophecies which went before on thee, that thou by them mightest war a good warfare;"
+      }
+    ],
+    "1:3": [
+      {
+        "source": "1 Corinthians 4:12",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Acts 20:33",
+          "Acts 20:34",
+          "Acts 20:35",
+          "1 Thessalonians 4:11"
+        ],
+        "recurrenceRefs": [
+          "Mosiah 18:24",
+          "Mosiah 27:5"
+        ],
+        "provenance": {
+          "route": "1 Corinthians 4:12, via Mosiah 18:24 → KJV → Book of Mormon",
+          "other": "“Working with our own hands” occurs in exactly one KJV verse, 1 Corinthians 4:12, and “work with your own hands” occurs in exactly one KJV verse, 1 Thessalonians 4:11. Acts 20:34-35 supplies the second term of Nehor's proposition — 'these hands have ministered unto my necessities … so labouring ye ought to support the weak' — which is the only KJV passage that joins hand-labour to the word 'support'.",
+          "significance": "Nehor's doctrine is Paul's practice stated backwards, clause for clause. Paul labours with his own hands and refuses support; Nehor teaches that teachers 'ought not to labor with their own hands, but … ought to be supported by the people'. Recover Acts 20 and the inversion sharpens: Paul's farewell at Miletus warns of men who will 'draw away disciples after them' (20:30) and answers them by pointing at his hands and disclaiming any man's 'silver, or gold, or apparel' (20:33). Alma 1:5-6 gives Nehor money and costly apparel, and 1:7 has him try to 'lead away the people of the church'. The chapter is running Paul's Miletus speech in negative."
+        },
+        "note": "'They ought not to labor with their own hands, but … ought to be supported by the people.' Mosiah 18:24 adjudicated the positive form of this — Alma the elder commanding his priests to labour with their own hands for their support — and this is a new book putting the same Pauline phrase in the mouth of the man who denies it. The link is written in full rather than recorded as a recurrence because the second use is the argument: the phrase Alma legislated at Mosiah 18:24 is the phrase the first man tried under his son's law is condemned for contradicting. The 1830 'labor with their own hands' keeps 'own', which 1920 deletes; the modern text reads 'labor with their hands' and the contact with 1 Corinthians 4:12 is fainter there.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "variants": [
+          "Alma 1:3 1830 'own' → 1920 deleted"
+        ],
+        "text": "And labour, working with our own hands: being reviled, we bless; being persecuted, we suffer it:"
+      }
+    ],
+    "1:4": [
+      {
+        "source": "Luke 21:28",
+        "type": "echo",
+        "subtype": "probable",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 4,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Luke 21:36"
+        ],
+        "recurrenceRefs": [
+          "Mosiah 7:18",
+          "Mosiah 24:13"
+        ],
+        "provenance": {
+          "route": "Luke 21:28 → KJV → Book of Mormon",
+          "other": "“Lift up your heads” occurs in exactly three KJV verses: Psalm 24:7 and 24:9, where the heads are a gate's, and Luke 21:28, the only one addressed to people and the only one that supplies a reason — 'for your redemption draweth nigh'.",
+          "significance": "Luke 21:28 stands in the Olivet discourse, and the head is lifted because redemption is near for those who endure; eight verses later the same speech tells the hearer to 'watch … and pray always, that ye may be accounted worthy to escape'. Nehor keeps the imperative, keeps redemption ('had also redeemed all men'), and deletes the condition: in his mouth the eschatological encouragement becomes a guarantee, and there is nobody left to be accounted worthy because everybody already is. That is exactly the reading of Luke 21 the chapter is built to refute, and Alma 1:30 will answer it with the sorting scene of Matthew 25."
+        },
+        "note": "'They need not fear nor tremble, but … might lift up their heads and rejoice: for the Lord … had also redeemed all men.' The KJV's one place where people lift up their heads because redemption is at hand. Adjudicated in this corpus at Mosiah 7:18, where Limhi uses the same imperative with a political reason; here the reason is soteriological and it is a heresy. Filed as an echo rather than an allusion because the shared run is four words and the second half of Luke's sentence is paraphrased, not reproduced.",
+        "whyNot": "Four words, and 'lift up your heads' is available from Psalm 24 as much as from Luke, though the Psalm is speaking to gates. Universal salvation preaching in 1820s America had a settled vocabulary of its own, and the sentence may reflect that rather than any single verse.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "And when these things begin to come to pass, then look up, and lift up your heads; for your redemption draweth nigh."
+      }
+    ],
+    "1:6": [
+      {
+        "source": "2 Chronicles 32:26",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "2 Chronicles 32:25",
+          "2 Chronicles 32:27",
+          "2 Chronicles 32:29"
+        ],
+        "recurrenceRefs": [
+          "Alma 1:16",
+          "Alma 1:29"
+        ],
+        "provenance": {
+          "route": "2 Chronicles 32:25-29 → KJV → Book of Mormon",
+          "other": "“The pride of his heart” occurs in exactly one KJV verse, 2 Chronicles 32:26, and in exactly one Book of Mormon verse, this one. 2 Chronicles 32:27 has 'exceeding much riches and honour' and treasuries 'for silver, and for gold, and for precious stones'; 32:29 has 'possessions of flocks and herds in abundance'. “Riches and honour” occurs in exactly nine KJV verses and “flocks and herds” occurs in exactly seven, so neither is decisive alone — the argument is that all three sit within four verses of the singleton.",
+          "significance": "The chapter's economics come from one page of Chronicles. Hezekiah's heart 'was lifted up' (32:25), he humbled himself 'for the pride of his heart' (32:26), and the narrator then itemises exceeding much riches and honour, silver and gold and precious things, and flocks and herds in abundance. Alma 1 distributes the same four items across three verses — Nehor 'lifted up in the pride of his heart' (1:6), false teachers preaching 'for the sake of riches and honor' (1:16), a church 'exceeding rich' with 'abundance of flocks, and herds … and of gold, and of silver, and of precious things' (1:29). The suppressed correspondence is the one Chronicles makes explicit and Alma does not have to: Hezekiah's wealth is the occasion of his pride, and the wrath is deferred only because he humbles himself. Alma 1:29-30 has the wealth and the humility together, and the reader who recovers 2 Chronicles 32 knows what happens when they come apart — which is what Alma 4:6-8 will report."
+        },
+        "note": "'He began to be lifted up in the pride of his heart, and to wear very costly apparel.' A KJV singleton, and the only occurrence of the phrase in the Book of Mormon, borrowed for the corpus's first named heresiarch. The three further contacts at 1:16 and 1:29 are recorded here rather than as separate links because they belong to one page of the source; the register carries a cross-reference at 1:29.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ],
+        "text": "Notwithstanding Hezekiah humbled himself for the pride of his heart, both he and the inhabitants of Jerusalem, so that the wrath of the LORD came not upon them in the days of Hezekiah."
+      }
+    ],
+    "1:9": [
+      {
+        "source": "Matthew 26:51",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Matthew 26:52"
+        ],
+        "recurrenceRefs": [
+          "Mosiah 19:4"
+        ],
+        "provenance": {
+          "route": "Matthew 26:51-52 → KJV → Book of Mormon",
+          "other": "“Drew his sword” occurs in exactly one KJV verse, Matthew 26:51, Gethsemane, and “take the sword shall perish” occurs in exactly one KJV verse, the next one.",
+          "significance": "The KJV's one man who draws his sword draws it in defence of a teacher against those who come to arrest him, and is told in the following verse that 'all they that take the sword shall perish with the sword'. Alma 1 executes that sentence. Nehor draws the sword against a man who withstood him 'with the words of God', kills him, and is condemned to die — for priestcraft, Alma says, 'but hast endeavored to enforce it by the sword' (1:12). The suppressed half of the borrowing is Jesus's reply, and the narrative supplies it as a verdict."
+        },
+        "note": "'He was wroth with Gideon, and drew his sword and began to smite him.' The phrase is a KJV singleton and it has been in this corpus once before, at Mosiah 19:4, where the man who drew the sword was Gideon himself. This is a new book, and it is not the narrator recycling a formula: the same three words that armed Gideon at Mosiah 19:4 are now the words for the sword drawn against him, and 1:8 pauses the narrative to make sure the reader knows it is the same Gideon. The reversal is the reason the link is written in full rather than filed as a recurrence.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ],
+        "text": "And, behold, one of them which were with Jesus stretched out his hand, and drew his sword, and struck a servant of the high priest’s, and smote off his ear."
+      }
+    ],
+    "1:13": [
+      {
+        "source": "2 Samuel 4:11",
+        "type": "allusion",
+        "subtype": "conceptual",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 3,
+          "attestation": 0
+        },
+        "kjvSpecific": "uncertain",
+        "mediation": "direct-OT",
+        "composite": [
+          "Deuteronomy 19:10",
+          "Deuteronomy 19:13",
+          "Matthew 27:25"
+        ],
+        "provenance": {
+          "route": "2 Samuel 4:11 → KJV → Book of Mormon",
+          "other": "“A righteous man” occurs in exactly 12 KJV verses, so the phrase is not decisive; 2 Samuel 4:11 has 'a righteous person'. What is rare is the sentence's structure. The KJV's formula for blood incurred by failing to punish is Deuteronomy 19:10, 'and so blood be upon thee', immediately followed at 19:13 by 'thine eye shall not pity him'. Matthew 27:25's 'His blood be on us, and on our children' occurs in exactly one KJV verse, and is the New Testament's inversion of the same idea — blood incurred by condemning rather than by sparing.",
+          "significance": "2 Samuel 4:9-12 is the KJV's one scene of a newly-made ruler passing a capital sentence on the killers of a righteous man, and the reason he gives is the one Alma gives: 'wicked men have slain a righteous person … shall I not therefore now require his blood of your hand?' David has just come to the throne; Alma is in the first year of the judgeship, trying the first case under a code its author did not live to administer. Recover Deuteronomy 19 and the legal logic is complete — a land that lets shed blood go unpunished takes the guilt onto itself — which is exactly why Alma frames the sentence as self-protection rather than retribution: 'were we to spare thee, his blood would come upon us for vengeance.' The suppressed third text is Matthew 27:25, where the crowd volunteers for the guilt Alma is refusing.",
+          "alternative": "A general Pentateuchal blood-guilt formula (Deuteronomy 19:10, 21:8-9; Leviticus 20:9; Joshua 2:19), of which 2 Samuel 4:11 would be one instance rather than the source."
+        },
+        "note": "'Thou hast shed the blood of a righteous man … were we to spare thee, his blood would come upon us for vengeance.' No clause is reproduced and no phrase is rare on its own; the case is that the whole judicial sentence — new ruler, righteous man slain, blood required of the judges if they spare — has one biblical precedent and Alma delivers it in that precedent's order. Filed as conceptual for that reason.",
+        "whyNot": "Blood-guilt language is spread across the KJV and any of a dozen verses could stand behind the sentence. The single closest phrase, 'a righteous man', occurs in twelve verses and 2 Samuel 4:11 is not one of them. A reader who wants only verbal evidence should decline this row.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "How much more, when wicked men have slain a righteous person in his own house upon his bed? shall I not therefore now require his blood of your hand, and take you away from the earth?"
+      }
+    ],
+    "1:15": [
+      {
+        "source": "2 Samuel 18:9",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "2 Samuel 15:6",
+          "2 Samuel 18:14",
+          "Deuteronomy 21:22"
+        ],
+        "provenance": {
+          "route": "2 Samuel 18:9 → KJV → Book of Mormon",
+          "other": "“Between the heaven and the earth” occurs in exactly one KJV verse, 2 Samuel 18:9. The inverted “between the earth and the heaven” occurs in exactly three KJV verses (1 Chronicles 21:16, Ezekiel 8:3, Zechariah 5:9), all of them visionary and none of them a death. The 1830 reads 'between the heavens and the earth', pluralising the first noun.",
+          "significance": "The KJV knows one man suspended between heaven and earth, and he is Absalom — who 'stole the hearts of the men of Israel' (2 Samuel 15:6) by standing where they came for judgment, and who died hanging in an oak with darts through him. Nehor's whole offence is popularity: he teaches that 'every priest and teacher had ought to become popular' (1:3), gathers a following, and is executed on a hilltop in Absalom's posture, having first been made to confess. Read with 2 Samuel 18, the manner of the death is a verdict on the manner of the ministry, and the 'ignominious death' the verse names without describing is the one the KJV gives to a usurper who courted a people's affection."
+        },
+        "note": "'They carried him upon the top of the hill Manti, and there he … did acknowledge, between the heavens and the earth, that what he had taught … was contrary to the word of God.' A KJV singleton in the singular; the 1830's plural 'heavens' is the only obstacle and it is the ordinary Book of Mormon plural. Deuteronomy 21:22-23's hanged malefactor is the legal background a reader may reach for instead, and it is recorded as an alternative, but it has no verbal contact with the clause.",
+        "whyNot": "Five words, one of them differing in number, and the phrase is natural English for a hilltop execution witnessed from below. Nothing else in 1:15 touches the Absalom narrative, and the popularity theme is stated in the chapter rather than imported from 2 Samuel.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "And Absalom met the servants of David. And Absalom rode upon a mule, and the mule went under the thick boughs of a great oak, and his head caught hold of the oak, and he was taken up between the heaven and the earth; and the mule that was under him went away."
+      }
+    ],
+    "1:20": [
+      {
+        "source": "Isaiah 55:1",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Isaiah 55:2"
+        ],
+        "recurrenceRefs": [
+          "2 Nephi 9:50",
+          "2 Nephi 26:25"
+        ],
+        "provenance": {
+          "route": "Isaiah 55:1 → KJV → Book of Mormon",
+          "other": "“Without money and without price” occurs in exactly one KJV verse, Isaiah 55:1. mediation-check.py against Revelation 22:17, the New Testament's nearest re-use of the invitation, returns one decisive point for Isaiah: the Book of Mormon has Isaiah's buying-and-selling language, not Revelation's 'water of life freely'.",
+          "significance": "Isaiah 55's second verse is the one the chapter needs: 'Wherefore do ye spend money for that which is not bread? and your labour for that which satisfieth not?' Alma 1 is about money spent on preaching — Nehor's hearers 'began to support him and give him money' (1:5) — and about labour, since the whole quarrel with priestcraft is whether teachers work with their hands. The five words the persecuted church is described by are the five words of the KJV's one offer of unbought bread, and the sentence Isaiah puts next to them indicts exactly the transaction the chapter has just narrated. The persecution is 'because of their humility'; the thing they do without charge is what Nehor charged for."
+        },
+        "note": "'They did impart the word of God, one with another, without money and without price.' A five-word KJV singleton, unaltered. The phrase entered the corpus as part of Jacob's sixteen-word transcription at 2 Nephi 9:50 and returns here as a description rather than an invitation — a new book, a new voice, and the words now name a practice instead of offering one. Below Skousen's threshold on its own and not one of his thirty-six.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ],
+        "text": "Ho, every one that thirsteth, come ye to the waters, and he that hath no money; come ye, buy, and eat; yea, come, buy wine and milk without money and without price."
+      }
+    ],
+    "1:22": [
+      {
+        "source": "Exodus 21:18",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Exodus 21:19",
+          "Deuteronomy 25:11",
+          "Isaiah 58:4",
+          "Isaiah 58:6",
+          "Isaiah 58:7"
+        ],
+        "recurrenceRefs": [
+          "Alma 1:27",
+          "Alma 1:30"
+        ],
+        "provenance": {
+          "route": "Exodus 21:18 → KJV → Book of Mormon",
+          "other": "“Fist” occurs in exactly two KJV verses: Exodus 21:18, the law of assault — ‘if men strive together, and one smite another with a stone, or with his fist’ — and Isaiah 58:4, ‘to smite with the fist of wickedness’. Alma 1:22 has both of Exodus’s elements, the striving and the fist, and the reciprocal ‘smite one another’, which occurs in no KJV verse at all but is Exodus 21:18’s ‘one smite another’ made plural. “Strive together” occurs in exactly three KJV verses, of which Exodus 21:18 and Deuteronomy 25:11 are the two legal ones.",
+          "significance": "The chapter is about what a law can reach. Alma 1:17-18 has just explained that the law punishes lying, theft, robbery and murder but ‘could have no power on any man for their belief’, and 1:33 closes by exercising it, ‘every man suffering according to that which he had done’. The one KJV verse that legislates church members’ blows is Exodus 21:18-19, and it is the mildest sentence in the code: if the man does not die, the striker pays for the loss of his time and heals him, and is quit. So the Book of Mormon describes a brawl inside the church in the words of the one biblical statute that treats a brawl as a civil matter rather than a sin, in a chapter that has just executed a man for enforcing doctrine by the sword. The Isaiah 58 recovery runs alongside and points the other way: Isaiah’s fast is condemned because it is kept ‘for strife and debate’ and answered by dealing bread to the hungry and covering the naked (58:7) — which is what Alma 1:27 and 1:30 describe the faithful doing five verses later.",
+          "alternative": "Isaiah 58:4, the other fist verse, and the one a reader is likelier to reach for because its fist belongs to religious people. Its wording is further from the sentence: Isaiah has no reciprocal and no striving together, only 'the fist of wickedness'."
+        },
+        "note": "'They would smite one another with their fists.' Two of the KJV's rarest assault terms in one clause, and the closer of the two fist verses is the statute rather than the prophet: Exodus 21:18's men strive together and one smites another with his fist. The catalogue takes Isaiah 58:4 as a second, live source rather than discarding it, because Isaiah 58:4-7 supplies the shape of the whole passage — strife inside the assembly, then the hungry fed and the naked clothed — and Alma 1:22-30 has that shape. The 1:27 and 1:30 items are recorded here rather than as separate links.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "And if men strive together, and one smite another with a stone, or with his fist, and he die not, but keepeth his bed:"
+      }
+    ],
+    "1:25": [
+      {
+        "source": "1 Corinthians 16:13",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "1 Corinthians 15:58"
+        ],
+        "recurrenceRefs": [
+          "1 Nephi 2:10",
+          "Mosiah 5:15"
+        ],
+        "provenance": {
+          "route": "1 Corinthians 15:58 + 16:13 → KJV → Book of Mormon",
+          "other": "“Stand fast in the faith” occurs in exactly one KJV verse, 1 Corinthians 16:13. “Unmoveable” occurs in exactly two KJV verses, Acts 27:41 (of a grounded ship) and 1 Corinthians 15:58, which is also the source of 'stedfast' in the pair. The 1830 spells it 'immoveable', keeping the KJV's -eable; 1920 modernises to 'immovable'.",
+          "significance": "Two Pauline imperatives from adjacent chapters land in one Book of Mormon sentence, and both come from the ends of their chapters, where Paul is closing. 1 Corinthians 15:58 grounds steadfastness in the resurrection — 'forasmuch as ye know that your labour is not in vain in the Lord' — and 16:13 pairs standing fast with 'quit you like men, be strong', an exhortation to a church that has just been told about a collection and about who is worth supporting. Alma 1's persecuted church is defined by labour that is not in vain and by refusing to be paid for preaching, which is what makes the pair fit rather than merely arrive together."
+        },
+        "note": "'Those that did stand fast in the faith; nevertheless, they were steadfast and immoveable in keeping the commandments of God.' Two consecutive clauses, two KJV rarities, from 1 Corinthians 16:13 and 15:58 in reverse order. The 15:58 half was adjudicated at 1 Nephi 2:10 and again at Mosiah 5:15, where Benjamin quotes three of its terms consecutively; the addition here is 16:13, which has not been used in the corpus before and which is a KJV singleton. That is why the row is written in full at the head of a new book rather than filed as a recurrence.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ],
+        "variants": [
+          "Alma 1:25 1830 'immoveable' → 1920 'immovable'"
+        ],
+        "text": "Watch ye, stand fast in the faith, quit you like men, be strong."
+      }
+    ],
+    "1:26": [
+      {
+        "source": "Matthew 10:24",
+        "type": "echo",
+        "subtype": "conceptual",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 2,
+          "syntax": 4,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 3,
+          "attestation": 0
+        },
+        "kjvSpecific": "uncertain",
+        "mediation": "direct-NT",
+        "composite": [
+          "Luke 6:40",
+          "Isaiah 24:2"
+        ],
+        "provenance": {
+          "route": "Matthew 10:24 / Luke 6:40 → KJV → Book of Mormon",
+          "other": "The KJV's formula is 'The disciple is not above his master, nor the servant above his lord' (Matthew 10:24), with Luke 6:40 giving the first half alone. The only shared word with Alma 1:26 is 'above', in 'not esteeming himself above his hearers'; the rest is a parallel construction rather than a reproduced clause, which is why the row is an echo.",
+          "significance": "Matthew 10:24 is a levelling sentence used to warn: the disciple is not above the master, therefore expect what the master got, and 10:25 completes it with Beelzebub. Alma 1:26 turns the same construction into a rule of church economy — preacher no better than hearer, teacher no better than learner, 'and thus they were all equal' — and the pair it drops is the one Matthew keeps, servant and lord. Isaiah 24:2's 'as with the people, so with the priest' is the OT levelling formula and is recorded as an alternative; it belongs to a chapter of judgment, where levelling is a threat, and Alma's is a commendation."
+        },
+        "note": "'The preacher was no better than the hearer, neither was the teacher any better than the learner.' Two paired clauses in the KJV's teacher-and-taught construction, and the priest is said not to esteem himself 'above his hearers', which is Matthew's preposition. Offered under CONVENTIONS §0a: the verbal contact is one word, and the case rests on the shape of the sentence and its fit with a chapter about paid preaching.",
+        "whyNot": "One shared word. Egalitarian clergy language was common in the 1820s and the construction is a natural way to say what the verse says; a reader who declines this row is not obliged to find another source for it.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "The disciple is not above his master, nor the servant above his lord."
+      }
+    ],
+    "1:29": [
+      {
+        "source": "Exodus 26:1",
+        "type": "echo",
+        "subtype": "possible",
+        "confidence": "low",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 1,
+          "sequence": 1,
+          "context": 2,
+          "rarity": 3,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Ezekiel 16:13",
+          "Revelation 18:12"
+        ],
+        "provenance": {
+          "route": "Exodus 26:1 → KJV → Book of Mormon",
+          "other": "“Fine twined linen” occurs in exactly 20 KJV verses and every one of them is in Exodus, in the making of the tabernacle and the priestly vestments; the phrase occurs in no other biblical book. “Silk” occurs in exactly four KJV verses, of which Ezekiel 16:10 and 16:13 join it to fine linen and to gold and silver, and Revelation 18:12 lists it among Babylon's merchandise. The 1830's 'fine twined' is hyphenated in 1920.",
+          "significance": "If the phrase is felt at all, the church's prosperity is described in the vocabulary the KJV reserves for the fabric of the sanctuary — the curtains, the veil and the ephod. The two verses that would put silk beside it are Ezekiel 16:10-13, where God clothes Jerusalem in silk and fine linen and gold and silver, and Ezekiel 16 exists to say what she did with them. Both recoveries point the same way and neither is required by the wording."
+        },
+        "note": "'Abundance of silk and fine twined linen, and all manner of good homely cloth.' Recorded at low confidence under CONVENTIONS §0a because the distributional fact is genuinely striking — a phrase confined in the whole KJV to the tabernacle — and because a reader who notices it will want the register to have noticed it too. The gold, silver, precious things, flocks and herds of this verse are adjudicated at 1:6 with 2 Chronicles 32:27-29 and are not counted here.",
+        "whyNot": "'Fine twined linen' is simply the KJV's English for a grade of cloth, and a writer reaching for expensive fabric has nowhere else to reach. There is no tabernacle in view at Alma 1:29, no priestly garment, and the sentence is a list of commodities. If this is a borrowing it is an unconscious one, and the row should be read as a note on the KJV's distribution rather than as a claim about dependence.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "variants": [
+          "Alma 1:29 1830 'fine twined' → 1920 'fine-twined'"
+        ],
+        "text": "Moreover thou shalt make the tabernacle with ten curtains of fine twined linen, and blue, and purple, and scarlet: with cherubims of cunning work shalt thou make them."
+      }
+    ],
+    "1:30": [
+      {
+        "source": "Matthew 25:44",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Matthew 25:35",
+          "Matthew 25:36",
+          "Matthew 25:43"
+        ],
+        "provenance": {
+          "route": "Matthew 25:44 → KJV → Book of Mormon",
+          "other": "Alma 1:30's list is naked, hungry, athirst, sick. Matthew 25:44's is 'an hungred, or athirst, or a stranger, or naked, or sick, or in prison' — four of Alma's four terms, and it is the only KJV verse that puts them in one series. “Athirst” occurs in exactly five KJV verses and 25:44 is the only one in a judgment context; 25:35-36 and 25:43 give the same list distributed over two verses with 'thirsty' instead.",
+          "significance": "The list is the criterion of the last judgment. Matthew 25:31-46 divides the nations by precisely these acts, and the sheep are those who did them. Alma 1 opened with Nehor preaching that 'all mankind should be saved at the last day' and that all should 'have eternal life' (1:4); it closes by describing a church that does the six things Matthew's last day sorts on. Nothing in the chapter argues against universal salvation. It answers it by narrating the works Matthew makes the test, and by putting them in the church Nehor tried to destroy. Matthew 25:46's own last words are 'life eternal', which is the phrase Nehor promised to everyone."
+        },
+        "note": "'They did not send away any which was naked, or that was hungry, or that was athirst, or that was sick, or that had not been nourished.' No clause is reproduced, but four of Matthew's terms arrive as one series, including 'athirst', which the KJV uses in a judgment scene only here. The Book of Mormon has Matthew's 25:44 form ('athirst') rather than the 25:35 form ('thirsty').",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "Then shall they also answer him, saying, Lord, when saw we thee an hungred, or athirst, or a stranger, or naked, or sick, or in prison, and did not minister unto thee?"
+      },
+      {
+        "source": "James 2:15",
+        "type": "allusion",
+        "subtype": "conceptual",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 2,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 3,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "James 2:1",
+          "James 2:2",
+          "James 2:3",
+          "James 2:16",
+          "Galatians 3:28",
+          "Acts 10:34"
+        ],
+        "recurrenceRefs": [
+          "2 Nephi 10:16",
+          "Alma 1:27",
+          "Alma 1:32"
+        ],
+        "provenance": {
+          "route": "James 2:1-16 → KJV → Book of Mormon",
+          "other": "“Respect of persons” occurs in exactly eight KJV verses and “respecter of persons” occurs in exactly one (Acts 10:34), so the phrase alone is not decisive. What is unusual is the company it keeps here. James 2 is the one biblical chapter that runs the same four items in the same order: respect of persons (2:1), a rich man in 'goodly apparel' against a poor man in 'vile raiment' (2:2-3), and a brother or sister 'naked, and destitute of daily food' who is sent away with words and not with goods (2:15-16). 'Bond and free' with 'male and female' is Galatians 3:28's pairing, where the KJV reads 'neither bond nor free … neither male nor female'.",
+          "significance": "James 2's argument is that faith without works is dead, and its worked example is a congregation that seats the well-dressed and dismisses the naked. Alma 1:27-32 is the same congregation described twice over: the faithful 'did not wear costly apparel' and did not send away the naked and the hungry; those outside are marked by 'wearing costly apparel'. The suppressed correspondence is James's conclusion, which the chapter does not state and does not need to — that the apparel and the sending away are the same sin, and that a profession which does neither of James's works is not a faith at all. That is also the answer to Nehor at 1:4."
+        },
+        "note": "'They did not send away any which was naked … having no respects to persons as to those who stood in need.' The individual phrases are not rare; the sequence is. Costly apparel, respect of persons, and the naked and hungry sent away empty are James 2's three moves in James 2's order, distributed across Alma 1:27-32. The 'bond and free … male and female' pair is Galatians 3:28's, adjudicated in this corpus at 2 Nephi 10:16 and used here for church almsgiving rather than for baptism. Offered as a chapter-level dependence rather than a verse-level one, which is why the confidence is moderate.",
+        "whyNot": "No clause is reproduced and every element can be sourced elsewhere: 'respect of persons' is eight KJV verses, 'costly array' is 1 Timothy 2:9, and clothing the naked is Isaiah 58:7, which this catalogue has already used at 1:22. The case is cumulative, and a reader who does not grant the cumulation has nothing left.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "If a brother or sister be naked, and destitute of daily food,"
+      }
+    ],
+    "1:32": [
+      {
+        "source": "Galatians 5:21",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 2,
+          "sequence": 4,
+          "context": 4,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Galatians 5:20",
+          "1 Timothy 6:20",
+          "2 Timothy 2:16",
+          "Revelation 9:21"
+        ],
+        "provenance": {
+          "route": "Galatians 5:19-21 → KJV → Book of Mormon",
+          "other": "“Envyings” occurs in exactly two KJV verses, Galatians 5:21 and 2 Corinthians 12:20. “Babblings” occurs in exactly two KJV verses, 1 Timothy 6:20 and 2 Timothy 2:16, both as “vain babblings”. Galatians 5:20-21 supplies idolatry, witchcraft, strife, envyings and murders in that order; Alma 1:32 has sorceries, idolatry, babblings, envyings and strife, whoredoms and murdering. Revelation 9:21 is the KJV's other list joining sorceries to murders and fornication.",
+          "significance": "Galatians 5:19-21 is the KJV's works-of-the-flesh catalogue and it ends 'they which do such things shall not inherit the kingdom of God'. Alma 1:32 assembles a list out of it and hands it to those outside the church, one verse after saying that the church prospered more than they did; and the verse ends not with exclusion from the kingdom but with 'the law was put in force upon all those who did transgress it'. The suppressed correspondence is the substitution: Paul's list is disqualifying before God, and the chapter that has spent seventeen verses insisting the law has 'no power on any man for their belief' (1:17) reprints his list under a civil magistrate. The two 'babblings' verses are Paul warning Timothy about talkers who suppose 'that gain is godliness' (1 Timothy 6:5), which is the chapter's definition of priestcraft.",
+          "alternative": "A generic vice-list drawn from no single verse. The Book of Mormon has several, and the KJV has several to draw on."
+        },
+        "note": "'Sorceries, and in idolatry or idleness, and in bablings, and in envyings and strife … lying, thieving, robbing, commiting whoredoms, and murdering.' Two of the list's terms are KJV rarities of two verses each, and one of the two pairs sits in Galatians 5:20-21. The 1830 spellings 'bablings' and 'commiting' are the first edition's; the point does not turn on them. Filed at moderate because vice-lists are the one genre where shared vocabulary proves least.",
+        "whyNot": "Vice catalogues share words by definition, and the overlap with Galatians is four terms out of eleven with the order rearranged. 'Idolatry or idleness' is a peculiarity of the 1830 that no KJV list explains, and if the source were Galatians one would expect fornication and drunkenness rather than lying and thieving.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "Envyings, murders, drunkenness, revellings, and such like: of the which I tell you before, as I have also told you in time past, that they which do such things shall not inherit the kingdom of God."
+      },
+      {
+        "source": "Ezekiel 16:49",
+        "type": "allusion",
+        "subtype": "conceptual",
+        "confidence": "moderate",
+        "text": "Behold, this was the iniquity of thy sister Sodom, pride, fulness of bread, and abundance of idleness was in her and in her daughters, neither did she strengthen the hand of the poor and needy.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 2,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Ezekiel 16:13",
+          "Ezekiel 16:50"
+        ],
+        "recurrenceRefs": [
+          "Alma 1:6",
+          "Alma 1:27",
+          "Alma 1:29"
+        ],
+        "provenance": {
+          "route": "Ezekiel 16:49 → KJV → Book of Mormon",
+          "other": "“Idleness” occurs in exactly three KJV verses (Proverbs 31:27, Ecclesiastes 10:18, Ezekiel 16:49) and “abundance of idleness” occurs in exactly one. Ezekiel 16:49 is the only KJV verse that names idleness as a public sin, and it names it in a series — pride, fulness of bread, abundance of idleness, and a hand not strengthened for the poor and needy. The 1830's odd 'idolatry or idleness' is what puts the word here; 1920 keeps it.",
+          "significance": "Ezekiel 16:49 is the KJV's definition of the sin of Sodom, and it is an economic one: pride, plenty, leisure, and no hand held out to the poor. Alma 1 is that verse's four items sorted into two peoples. The church has the plenty — 'exceeding rich', 'abundance' four times over at 1:29 — and answers it at 1:27 and 1:30 by imparting substance to the poor and the needy and sending none away hungry. Those outside have the pride ('lifted up in the pride of their own eyes', the same verse) and the idleness, and the chapter's last word on them is that the law had to be put in force. Recover Ezekiel 16 and a second thing follows: 16:13's silk and fine linen and gold and silver are the wealth God gave Jerusalem before she misused it, and Alma 1:29's inventory is the same list. The chapter is being measured against the verse that says wealth without almsgiving is Sodom.",
+          "alternative": "A vice list assembled from no single source; the Galatians 5:19-21 link at this verse is the alternative account of where its terms come from, and the two are not exclusive."
+        },
+        "note": "'Did indulge themselves in sorceries, and in idolatry or idleness … being lifted up in the pride of their own eyes.' The word that carries the row is 'idleness', which the KJV uses three times and only once of a nation, in a verse that also supplies pride, abundance, and the poor and needy — all three of which Alma 1 uses within six verses. No clause is reproduced, so the row is conceptual; what makes it more than thematic is that the source verse is a list and the borrowing takes four of its four items.",
+        "whyNot": "Not one phrase is shared. 'Idleness' is a common English word whose KJV rarity may be an accident of the translators' vocabulary rather than a signal, and pride, abundance and care for the poor are the Book of Mormon's own standing themes from 2 Nephi onward. The cumulative case is the whole case.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ]
+  }
+}
