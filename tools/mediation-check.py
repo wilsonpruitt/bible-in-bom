@@ -109,10 +109,27 @@ def main() -> None:
     decisive = []
     for other in rest:
         a, b = words(kjv[base]), words(kjv[other])
-        sm = difflib.SequenceMatcher(a=[norm(w) for w in a], b=[norm(w) for w in b])
+        an_full, bn_full = [norm(w) for w in a], [norm(w) for w in b]
+        sm = difflib.SequenceMatcher(a=an_full, b=bn_full)
+        ops = sm.get_opcodes()
+        # How much of the two candidates' OWN wording, apart from the
+        # divergence itself, is actually shared? Two verses that were never a
+        # real parallel to begin with — Alma 56:46's spurious pairing of
+        # Isaiah 8:10 with Matthew 1:23, Alma 49:2's of two unrelated "borders
+        # of the city" verses — can still throw a confident-looking DECISIVE
+        # when they happen to collide on one word the Book of Mormon also
+        # has. But a genuine two-witness quotation can ALSO show a thin
+        # backbone (Isaiah 40:3/Luke 3:5 reorders too much to leave one), so
+        # this number cannot be a threshold that suppresses a verdict — it is
+        # only ever more evidence, reported so the adjudicator weighs it
+        # alongside everything else they know, same as the tool already does
+        # for every other kind of divergence. Found on the Alma 56/62 batch
+        # (2026-09-07): both false decisives had a backbone of 0-1 words,
+        # against 3-7 for the pilot's confirmed OT-via-NT findings.
+        shared_content = [w for tag, i1, i2, j1, j2 in ops if tag == "equal" for w in an_full[i1:i2] if w not in stop]
         print(f"\n--- {base}  vs  {other} ---")
         any_op = False
-        for tag, i1, i2, j1, j2 in sm.get_opcodes():
+        for tag, i1, i2, j1, j2 in ops:
             if tag == "equal":
                 continue
             any_op = True
@@ -228,11 +245,13 @@ def main() -> None:
                         if side == "a": in_b = True
                         else: in_a = True
 
+            words_seen = ", ".join(dict.fromkeys(shared_content)) or "none"
+            backbone = f"  ◀── DECISIVE (backbone: {len(shared_content)} other shared word(s) — {words_seen})"
             if in_a and not in_b:
-                verdict, mark = f"BoM has {base}'s form", "  ◀── DECISIVE"
+                verdict, mark = f"BoM has {base}'s form", backbone
                 decisive.append((base, av, other, bv))
             elif in_b and not in_a:
-                verdict, mark = f"BoM has {other}'s form", "  ◀── DECISIVE"
+                verdict, mark = f"BoM has {other}'s form", backbone
                 decisive.append((other, bv, base, av))
             elif in_a and in_b:
                 verdict, mark = "both present in the BoM verse — not a test", ""

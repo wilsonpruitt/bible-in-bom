@@ -323,3 +323,11 @@ Small, deferred items — none blocking Alma or any future book, all cheap to cl
 
   **Next:** Helaman (16 chapters) — much smaller than Alma, and the next book in Nephi's line. Fix PLAN §7's Frederick claim and consider the two mediation-check.py bugs before dispatching.
 
+- **2026-09-07 (Sonnet), the two flagged `mediation-check.py` bugs investigated and given a guard, not a suppression.** Reproduced both: Alma 56:46's spurious pairing of Isaiah 8:10 against Matthew 1:23, and Alma 49:2's of two unrelated "borders of the city" verses (1 Chronicles 7:29, Numbers 35:27), each threw a confident DECISIVE off one word ("forth", "city") that happens to sit in the Book of Mormon verse for unrelated reasons.
+
+  **Why this can't be a mechanical filter.** Tried scoring the two candidates' overall shared vocabulary ("backbone") to gate DECISIVE on a threshold — the two false positives scored 0 and 1 shared words, against 3-7 for the pilot's confirmed OT-via-NT findings (Deuteronomy 18:15/Acts 3:22, Genesis 22:18/Acts 3:25). But Isaiah 40:3/Luke 3:5 — a textbook-genuine case, already in the corpus — also scores near 0, because Luke reorders Isaiah's clauses enough that no backbone survives the diff. A threshold that catches the false positives also catches a real one; there is no numeric cutoff that doesn't.
+
+  **What the tool does instead:** every DECISIVE line now reports its backbone count and the actual words in it (`◀── DECISIVE (backbone: 1 other shared word(s) — city)`), always, unconditionally — evidence for the adjudicator to weigh, exactly the tool's existing philosophy ("it reports evidence, never a verdict"), rather than a gate that would need to be right every time or it silently hides a real finding. This is the honest stopping point: the actual discrimination between a real parallel and a coincidental collision is a judgment only a reader with the verse in view can make, which is why both instances were already caught and corrected by the agents that hit them, without this tool's help.
+
+  **Next:** dispatch Helaman.
+
