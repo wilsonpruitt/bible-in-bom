@@ -28,7 +28,24 @@ A book is not ready because `bootstrap-book.py` ran. Hardy's apparatus is parsed
 **per book**, and until it is, the bootstrap reports "Hardy rows to account for: 0"
 — which reads exactly like a book with nothing to account for. That happened on
 2 Nephi on 2026-09-05; the real count was 120. `bootstrap-book.py` now refuses to
-run for a book absent from `data/hardy-parsed.json`, and the parse comes first:
+run for a book absent from `data/hardy-parsed.json`, and the parse comes first.
+
+**Before running it, verify `--next-heading` is a real line, not a guess.** A
+wrong heading does not error — `parse-hardy.py` exits 0 either way — it just
+gives `extract_section` nothing to bound the section on, so the walk runs to
+the end of the file and mis-keys whatever it finds there onto the last chapter
+of the book you asked for. Found on Helaman: guessing `"The Third Book of
+Nephi"` (the canonical title) instead of Hardy's own bare section label
+`"Third Nephi"` swallowed ~90 of 3 Nephi's own footnotes onto Helaman 16.
+Check first:
+
+```bash
+grep -n "^Third Nephi\s*$" text/hardy-msi-raw.txt   # must return exactly one line
+```
+
+Hardy's own labels, not the canonical book titles, are what actually sit on
+their own line in the appendix — confirm the exact string before trusting a
+clean exit code.
 
 ```bash
 python3.11 tools/parse-hardy.py --book "2 Nephi" \
