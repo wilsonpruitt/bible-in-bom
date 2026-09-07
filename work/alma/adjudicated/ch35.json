@@ -1,0 +1,140 @@
+{
+  "chapter": 35,
+  "adjudicated": "2026-09-07",
+  "adjudicator": "Opus",
+  "links": {
+    "35:3": [
+      {
+        "source": "Acts 19:27",
+        "type": "allusion",
+        "subtype": "conceptual",
+        "confidence": "moderate",
+        "text": "So that not only this our craft is in danger to be set at nought; but also that the temple of the great goddess Diana should be despised, and her magnificence should be destroyed, whom all Asia and the world worshippeth.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 2,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 3,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Acts 19:25"
+        ],
+        "provenance": {
+          "route": "Acts 19:24-29 → KJV → Book of Mormon",
+          "other": "“craft” occurs in six KJV verses; in only two, Acts 19:25 and 19:27, does it mean a trade, and those two are the only place in the KJV where preaching endangers one. “our craft is in danger” occurs in exactly one KJV verse, Acts 19:27. 'Destroy their craft' occurs in no KJV verse — Alma has fused Demetrius's 'craft is in danger' with the same speech's fear that Diana's magnificence 'should be destroyed'.",
+          "significance": "Acts 19 is the KJV's one riot caused by a sermon's effect on revenue, and it runs in the order Alma 35:3-6 runs: the trade is threatened, the interested party calls the workmen together, the whole city is gathered and consulted, and the outcome is expulsion rather than argument. The metalepsis is in what Demetrius's craft actually was — silver shrines for a temple. The Zoramites' craft is the Rameumptom: a built holy place, a scripted weekly worship, and a class of people who profit by administering it. Recover Acts 19 and the accusation Alma 35:3 makes in four words becomes specific — what the preaching destroyed was not their belief but their business in it, and the Book of Mormon's word for that, 'priestcraft', is Acts 19's word with the trade named.",
+          "alternative": "The angry-tradesmen motif could be independent narrative invention; 'craft' in the sense of trade is ordinary English."
+        },
+        "note": "'They were angry because of the word, for it did destroy their craft; therefore they would not hearken unto the words.' The KJV's only trade destroyed by preaching is Demetrius's at Ephesus, and Alma 35:3-4 reproduces the episode's mechanism rather than its wording: the injured party will not argue with the preaching, he organises against it. Recorded at moderate because a single content word carries the verbal contact; what earns the row is the sequence — anger, refusal to hear, a gathering of the whole population convened privately by the interested party, and expulsion of those persuaded.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "35:9": [
+      {
+        "source": "Acts 9:1",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "text": "And Saul, yet breathing out threatenings and slaughter against the disciples of the Lord, went unto the high priest,",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Acts 4:29"
+        ],
+        "provenance": {
+          "route": "Acts 9:1, with Acts 4:29 → KJV → Book of Mormon",
+          "other": "“breathing out threatenings” occurs in exactly one KJV verse, Acts 9:1, and the noun 'threatenings' occurs in only one other, Acts 4:29 — 'Lord, behold their threatenings: and grant unto thy servants, that with all boldness they may speak thy word.' Both are Luke's, and Alma 35:9 has the breathing from one and the not-fearing from the other. The 1830 spells it 'threatnings'; 1920 normalised the spelling to the KJV's 'threatenings', so here the later edition moves toward the source rather than away from it (CONVENTIONS §8).",
+          "significance": "Acts 9:1 is the last sentence of Saul's persecution and the first of his conversion — the breathing out of threatenings is what he is doing on the road when the light stops him. Alma 35 gives the sentence to the chief ruler of the Zoramites and lets it run to its other possible end: he is not stopped, and the threatenings become the war of Alma 43. The pairing with Acts 4:29 sharpens it further. There the church prays not to be delivered from threatenings but to speak boldly in spite of them, and Alma's people of Ammon do precisely that — 'did not fear their words, therefore they did not cast them out' — so Luke's two threatening-verses supply both the persecutor and the answer to him."
+        },
+        "note": "'And he breathed out many threatnings against them. And now the people of Ammon did not fear their words.' A KJV singleton with one word inserted: Saul breathes out threatenings and slaughter, the chief ruler breathes out many threatenings, and the object in both is a body of disciples in a named place. What Alma adds is the recipients' reaction, and it comes from the KJV's only other threatenings-verse. Note that the chief ruler's demand is precisely Saul's errand — authority from elsewhere to expel believers from a city that is not his own.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "35:15": [
+      {
+        "source": "Matthew 13:21",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "Yet hath he not root in himself, but dureth for a while: for when tribulation or persecution ariseth because of the word, by and by he is offended.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "Matthew 13:21 → KJV → Book of Mormon",
+          "other": "“because of the word” occurs in exactly two KJV verses, 1 Kings 21:4 and Matthew 13:21, and only Matthew's is about hearers. mediation-check.py was run on Matthew 13:21 against Mark 4:17 and returns one decisive point: the Book of Mormon has Matthew's 'because of the word … he is offended' and not Mark's 'for the word's sake … they are offended', which is a KJV singleton Alma does not have. Luke 8:13, the third form, has no 'offended' at all. The same chapter's 'this people's heart is waxed gross' (Matthew 13:15, from Isaiah 6:10) stands behind Alma's 'hearts of the people began to wax hard', though the adjective differs and the hardened heart is the Book of Mormon's own standing formula.",
+          "significance": "This is the sentence that closes the Zoramite mission, and it closes it with the sower's own account of failure. Alma 32 built an entire sermon on a seed planted in the heart, swelling, taking root and growing — and Matthew 13:21 is the KJV verse that says what happens to a hearer who has no root: when trouble arises because of the word, by and by he is offended. So the narrative frame reports the outcome of Alma's parable in the vocabulary of the parable Alma's is modelled on, and it reports it as the second soil, not the fourth. The 'strictness of the word' is Alma's own gloss on Matthew's tribulation, and it names something Matthew leaves general: what these hearers could not bear was not persecution from outside but the demand the preaching made."
+        },
+        "note": "'Seeing that the hearts of the people began to wax hard, and that they began to be offended because of the strictness of the word.' Matthew's clause with one word inserted. The insertion is the argument — Matthew's hearer is offended because of the word, Alma's because of its strictness — and the mediation against Mark and Luke is decided by the phrase itself, since Mark's is 'for the word's sake' and Luke's has no offence in it. Below Skousen's threshold and not one of his quotations.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      },
+      {
+        "source": "Matthew 26:38",
+        "type": "echo",
+        "subtype": "probable",
+        "confidence": "moderate",
+        "text": "Then saith he unto them, My soul is exceeding sorrowful, even unto death: tarry ye here, and watch with me.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 2,
+          "context": 4,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Mark 14:34"
+        ],
+        "provenance": {
+          "route": "Matthew 26:38 → KJV → Book of Mormon",
+          "other": "“exceeding sorrowful” occurs in exactly three KJV verses, Matthew 26:22, Matthew 26:38 and Mark 14:34 — all three inside the Passion narrative, two of them Gethsemane and the third the disciples at the last supper. The phrase has no Old Testament occurrence. Matthew and Mark's Gethsemane forms are identical in the shared words, so the mediation between them is not decidable here.",
+          "significance": "The KJV reserves this adjective for one night. Alma's grief in 35:15 is over 'the wars, and the bloodsheds, and the contentions which were among them' and over hearers who will not bear the word, and the sentence that reports it is the sentence Jesus speaks to three disciples he is about to leave in order to pray alone. What Alma does next is exactly that: he gathers his sons and gives each his charge separately, and the first charge, Alma 36, is a conversion narrative told as a descent into 'the pains of a damned soul'. The Gethsemane phrase at 35:15 is the hinge into that."
+        },
+        "note": "'His heart was exceeding sorrowful.' Two words the KJV uses only of Christ and his disciples in Passion week, applied to a prophet grieving over a failed mission. Recorded as an echo rather than an allusion because the phrase is short and its English is unremarkable; what argues for the borrowing is its distribution — the KJV never says this of anyone else, anywhere — and the placement, immediately before the charges to Alma's sons.",
+        "whyNot": "'Exceeding sorrowful' is ordinary enough English that a writer could reach it without Matthew, and Alma's heart is sorrowful where Christ's soul is; if the phrase entered the Book of Mormon's idiom generally rather than from this verse, the row is coincidence.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ]
+  }
+}

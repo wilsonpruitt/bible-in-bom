@@ -1,0 +1,197 @@
+{
+  "chapter": 20,
+  "adjudicated": "2026-09-07",
+  "adjudicator": "Opus",
+  "links": {
+    "20:4": [
+      {
+        "source": "Philippians 4:13",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "I can do all things through Christ which strengtheneth me.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Job 42:2"
+        ],
+        "provenance": {
+          "route": "Philippians 4:13 with Job 42:2 → KJV → Book of Mormon",
+          "other": "\"can do all things\" occurs in exactly 1 KJV verse, Philippians 4:13. \"I know that thou canst\" occurs in exactly 1, Job 42:2, whose object is 'every thing' and not 'all things'. \"canst do all things\" occurs in none: the Book of Mormon's clause exists nowhere in the KJV and is made by putting Philippians' object into Job's second person.",
+          "significance": "Two KJV singletons are fused here and each contributes the half the other cannot. Job 42:2 is Job's capitulation — 'I know that thou canst do every thing' — addressed to God out of the whirlwind, and it supplies the second-person confession. Philippians 4:13 is Paul's claim about himself, made in prison, and it supplies both 'all things' and the strength that is not the speaker's own. Lamoni's sentence therefore does something neither source does: it says to a man what Job says to God, on the ground Paul claims for himself, and it says it about a man who is on his way to open a prison. The composite is not a one-off. Ammon says the Philippians sentence in his own person at Alma 26:12 — 'in his strength I can do all things' — and Lamoni's line here is the same sentence in the second person, spoken about him by a Lamanite king before he has said it about himself."
+        },
+        "note": "'I know, in the strength of the Lord, thou canst do all things.' The discrimination between the two sources is made by one word: the Book of Mormon has 'all things', which is Philippians', and not 'every thing', which is Job's, while keeping Job's 'I know that thou canst do'. Filed at Philippians 4:13 for that reason, with Job named in the composite. The machine proposed nothing at this verse — the agreement is split across a parenthetical clause, which a contiguous window cannot see (CONVENTIONS §9).",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "20:18": [
+      {
+        "source": "Genesis 4:10",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "And he said, What hast thou done? the voice of thy brother’s blood crieth unto me from the ground.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Genesis 4:11"
+        ],
+        "provenance": {
+          "route": "Genesis 4:10 → KJV → Book of Mormon",
+          "other": "\"blood crieth\" occurs in exactly 1 KJV verse, Genesis 4:10, and \"from the ground\" in 4, of which the other three are Ezekiel's temple measurements. mediation-check.py against Hebrews 12:24, the New Testament's one re-use of Abel's crying blood, returns one decisive point for Genesis 4:10: the Book of Mormon has 'crieth … from the ground' and not 'the blood of sprinkling, that speaketh better things than that of Abel'. The route is the Old Testament verse, not its epistle gloss.",
+          "significance": "Genesis 4:10 is the Bible's first murder and the LORD's own question about it, and what Ammon does with it is transpose a fratricide into a filicide. Cain kills a brother and the blood cries from the ground; here a father is stopped one sentence short of killing a son, and the blood is warned in advance that it would cry. The transposition is exact in its terms — 'his blood would cry from the ground, to the Lord his God, for vengeance to come upon thee' keeps the crying, the ground, and the addressee of the cry, and supplies from Genesis 4:11-12 the consequence Ammon then names as the loss of a soul. What the Book of Mormon adds is the conditional. Genesis 4:10 is spoken after the fact and can only curse; Ammon speaks it before the fact, which turns the Bible's oldest sentence about blood into an argument for not shedding it, and it works: the king answers at 20:19 by conceding the premise, 'I know that if I should slay my son, that I should shed innocent blood.'"
+        },
+        "note": "'If thou shouldst slay thy son, (he being an innocent man,) his blood would cry from the ground, to the Lord his God, for vengeance to come upon thee.' A KJV singleton reproduced with only the tense changed. The 1830's parenthesis around 'he being and innocent man' — the compositor's 'and' for 'an' is a plain typographical slip, corrected later — sets the term the next verse then repeats as 'innocent blood', which is where the chapter's second source comes in.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "20:19": [
+      {
+        "source": "1 Samuel 19:5",
+        "type": "figural",
+        "subtype": "type-scene",
+        "confidence": "moderate",
+        "text": "For he did put his life in his hand, and slew the Philistine, and the LORD wrought a great salvation for all Israel: thou sawest it, and didst rejoice: wherefore then wilt thou sin against innocent blood, to slay David without a cause?",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 2,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 3,
+          "attestation": 0
+        },
+        "kjvSpecific": "uncertain",
+        "mediation": "direct-OT",
+        "composite": [
+          "1 Samuel 19:4",
+          "1 Samuel 19:6",
+          "1 Samuel 20:32",
+          "1 Samuel 20:33"
+        ],
+        "recurrenceRefs": [
+          "Alma 20:15",
+          "Alma 20:16"
+        ],
+        "provenance": {
+          "route": "1 Samuel 19:4-6 and 20:30-33 → KJV → Book of Mormon",
+          "other": "\"sin against innocent blood\" occurs in exactly 1 KJV verse, 1 Samuel 19:5; the Book of Mormon has the far commoner 'shed innocent blood' (7 verses), so the phrase itself is not the evidence and kjvSpecific is left uncertain. What is rare is the situation: 1 Samuel 19 and 20 hold the Bible's only sequence in which a king's son defends an outsider his father wants dead, argues that killing him would be innocent blood, and has a weapon turned on himself for it.",
+          "significance": "Alma 20:14-20 is the Saul-and-Jonathan quarrel with the parts redistributed. Saul orders Jonathan to fetch David that he may be killed; Lamoni's father commands Lamoni to slay Ammon with the sword. Jonathan refuses and answers 'Wherefore shall he be slain? what hath he done?'; Lamoni refuses and answers that Ammon and his brethren 'are just men, and holy prophets of the true God'. Saul then casts a javelin at his own son; Lamoni's father draws his sword to smite his own son to the earth. In 1 Samuel the plea about innocent blood is the son's, made on the outsider's behalf; in Alma 20 the son cannot make it because the sword is now pointed at him, so the outsider makes it on the son's behalf — Ammon stands between them and argues that the king would be shedding his own son's innocent blood. And the outcome is the one 1 Samuel 19:6 records and 1 Samuel 20 revokes: 'Saul hearkened unto the voice of Jonathan: and Saul sware, As the LORD liveth, he shall not be slain.' Alma 20 makes the oath stick, and enlarges it — the king swears not only that no one will be slain but that his son may keep his kingdom, which is precisely what Saul was never willing to concede to Jonathan (1 Samuel 20:31, 'thou shalt not be established, nor thy kingdom')."
+        },
+        "note": "'I know that if I should slay my son, that I should shed innocent blood; for it is thou that hast sought to destroy him.' Catalogued as figural: the sequence is the evidence, not the string, since 'innocent blood' is spread across nineteen KJV verses. What makes it worth writing is that the Book of Mormon has already been reading the Davidic court narratives in this book — 2 Samuel 15:6 and 15:34 stand behind Alma 17 — and that the last clause here, 'it is thou that hast sought to destroy him', is the king conceding Jonathan's charge against Saul in Saul's own vocabulary of seeking a life (compare 20:2, 'the king will seek thy life').",
+        "whyNot": "The verbal contact is one common phrase in a different construction. A father enraged at a son who has taken a stranger's part needs no biblical model, and a reader who declines the Saul frame loses nothing in the passage; the argument here rests entirely on the order of the beats and on this book's demonstrated habit of reading 1-2 Samuel.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "20:20": [
+      {
+        "source": "Genesis 22:10",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "text": "And Abraham stretched forth his hand, and took the knife to slay his son.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 4,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Genesis 22:12"
+        ],
+        "recurrenceRefs": [
+          "Alma 20:17"
+        ],
+        "provenance": {
+          "route": "Genesis 22:10-12 → KJV → Book of Mormon",
+          "other": "\"stretched forth his hand\" occurs in exactly 7 KJV verses — Genesis 22:10, Exodus 10:22, Exodus 14:27, Isaiah 5:25, Ezekiel 10:7, Matthew 12:49, Matthew 14:31 — and \"his hand to slay\" occurs in exactly 0 KJV verses in that order, so the collocation is not itself a run; Genesis 22:10 is the only one of the seven in which the outstretched hand is raised to kill. It is also the only one in which the intended victim is the man's own son. The phrase on its own identifies nothing, which is why the machine ranked Matthew 12:49 here; the qualifier 'to slay' is what selects.",
+          "significance": "The Akedah is the Bible's one scene of a father with his hand out to kill his son and a voice from outside stopping him, and Alma 20 stages it twice over in five verses. At 20:16 the father draws on the son; at 20:17 Ammon speaks the arresting line — 'thou shalt not slay thy son' — which is Genesis 22:12's 'Lay not thine hand upon the lad' in the Book of Mormon's own words; at 20:20 the hand goes out again and the KJV's phrase for it arrives. What the Book of Mormon changes is the ground of the arrest. In Genesis the hand is stayed because the father has proved that he fears God; here it is stayed because the son has repented and the father has not, so that Ammon's reason is the reverse of the angel's — 'it were better that he should fall than thee', since Lamoni is ready to die and his father is not. And where Genesis substitutes a ram, Alma 20 substitutes the outsider: the hand that goes out at 20:20 goes out at Ammon."
+        },
+        "note": "'And he stretched forth his hand to slay Ammon.' Held at moderate. The five-word run is the KJV's commonest gesture and carries nothing by itself; the case is that the one KJV verse pairing it with slaying is a father over a son, and that the two verses on either side of this one are a father over a son. Against it, the hand at 20:20 is stretched at Ammon rather than at Lamoni, which is the point at which the Genesis 22 pattern breaks, and it breaks in the Book of Mormon's own direction — the missionary takes the blow the son was to receive.",
+        "whyNot": "A reader may hold that 'stretched forth his hand' is simply how the KJV says a man reached out, that its use here for an attack is unremarkable, and that Alma 20:17's 'thou shalt not slay thy son' shares no word with Genesis 22:12. The row would be withdrawn if the Akedah left no other trace in this narrative; it is written because the surrounding verses supply father, son, raised hand and intervening voice in Genesis's order.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "20:23": [
+      {
+        "source": "Mark 6:23",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "And he sware unto her, Whatsoever thou shalt ask of me, I will give it thee, unto the half of my kingdom.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "OT-via-NT",
+        "composite": [
+          "Mark 6:22",
+          "Esther 5:6"
+        ],
+        "recurrenceRefs": [
+          "Alma 18:21"
+        ],
+        "provenance": {
+          "mt": "Esther 5:3, 5:6 and 7:2 — 'even to the half of the kingdom' — is the Old Testament source of the formula, spoken three times by Ahasuerus to Esther at the banquet of wine.",
+          "route": "Esther 5:3-7:2 → Mark 6:22-23 → KJV → Book of Mormon",
+          "other": "\"half of my kingdom\" occurs in exactly 1 KJV verse, Mark 6:23; \"half of the kingdom\" in exactly 3, all Esther. \"whatsoever thou wilt\" occurs in exactly 2, Mark 6:22 and John 11:22. mediation-check.py run against Esther 5:6 and Mark 6:23 returns two decisive points for Mark — the Book of Mormon has 'Whatsoever thou shalt ask … I will give' rather than Esther's 'What is thy petition … and what is thy request', and it lacks Esther's closing 'it shall be performed'.",
+          "alternative": "One datum runs the other way and is left standing rather than suppressed: the Book of Mormon reads 'the half of the kingdom' with Esther's definite article, not Mark's possessive 'my kingdom'. mediation-check.py cannot weigh it, since it discards single common words by design (ADJUDICATING §4), so it is recorded here. The judgment is that one article does not outweigh the syntax of the whole clause, but a reader who prefers Esther has that word to argue from.",
+          "significance": "Mark 6:22-23 is Herod's oath at his own birthday feast, and it is the New Testament's one royal promise of half a kingdom — sworn to a dancing girl, and spent on the head of an imprisoned prophet. Alma 20:23 is the same oath under a raised sword, and it is spent the other way: what Ammon asks for with it is that prophets be let out of prison. The reversal is complete down to the machinery. Herod is 'exceeding sorry' but keeps his word 'for their sakes which sat with him'; Lamoni's father swears in fear of his life and then, at 20:26, goes past the terms of the oath of his own accord. Herod's feast kills John the Baptist; the feast in this narrative is the one Lamoni failed to attend (20:9), and the quarrel over his absence is what has brought the two kings face to face. What the Book of Mormon has done is take the Bible's most notorious half-kingdom promise, the one that costs a prophet his life, and make it the instrument by which three prophets are released."
+        },
+        "note": "'I will grant unto thee whatsoever thou wilt ask, even to the half of the kingdom.' A KJV singleton and a two-verse phrase from the same two verses of Mark, with the Esther formula standing behind Mark. Filed as OT-via-NT on the mediation test rather than by default; the one word that resists it is recorded in provenance.alternative. Note that this is the second offer of anything a king has made Ammon in three chapters — Alma 18:21's is adjudicated to Daniel 5:16 — and the two are worded from different sources, which is an argument that the book is not running a single formula but reaching for a different royal-promise text each time.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ]
+  }
+}

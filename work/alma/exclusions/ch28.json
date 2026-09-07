@@ -1,0 +1,82 @@
+[
+ {
+  "bomRef": "Alma 28:1",
+  "source": "Genesis 23:17",
+  "category": "common-vocabulary",
+  "sharedText": "in all the borders round about",
+  "streams": [
+   "machine-ngram"
+  ],
+  "reason": "A genuine six-word run and the highest-ranked candidate in the chapter, but the phrase is a surveyor's formula in both places and nothing else is shared. Genesis 23:17 is the conveyance of the field of Machpelah; Alma 28:1 is a description of Nephite troop dispositions round Zarahemla. 'In all the borders' recurs at Ezekiel 45:1 in the same neutral sense. The n-gram stream is doing what CONVENTIONS §9 says it does — scoring rare boilerplate."
+ },
+ {
+  "bomRef": "Alma 28:2",
+  "source": "1 Samuel 18:7",
+  "category": "better-source-identified",
+  "sharedText": "tens of thousands",
+  "streams": [
+   "manual"
+  ],
+  "reason": "'Tens of thousands of the Lamanites were slain' invites the women's song of Saul's thousands and David's ten thousands, and the Book of Mormon does use that arithmetic deliberately — it is adjudicated at 1 Nephi 4:1, where 'his tens of thousands' answers Laman's objection about Laban's fifty. Here it is not doing that work: the phrase is a casualty count in a battle report, 'ten thousands' occurs in eleven KJV verses, and 'tens of thousands' in none. The reader who wants the David allusion is sent to 1 Nephi 4:1."
+ },
+ {
+  "bomRef": "Alma 28:6",
+  "source": "Ecclesiastes 3:8",
+  "category": "insufficient-verbal",
+  "sharedText": "and a time of",
+  "streams": [
+   "machine-ngram"
+  ],
+  "reason": "Tempting, and worth recording as declined rather than passed over: Alma 28:6 repeats 'a time of' twice in one clause ('a time of solemnity, and a time of much fasting and prayer'), which is the anaphora of Ecclesiastes 3:1-8. But Ecclesiastes builds its catalogue out of paired opposites and runs to fourteen members; Alma 28:6 has two members and no antithesis between them, and it shares no content word with any verse of Ecclesiastes 3. The link at this verse goes to 1 Corinthians 7:5 instead, on the order of 'fasting and prayer'."
+ },
+ {
+  "bomRef": "Alma 28:7",
+  "source": "Luke 3:1",
+  "category": "common-vocabulary",
+  "sharedText": "the fifteenth year of the reign",
+  "streams": [
+   "machine-ngram"
+  ],
+  "reason": "'The fifteenth year of the reign' occurs in exactly two KJV verses, 2 Chronicles 15:10 (Asa) and Luke 3:1 (Tiberius), and the dossier ranked both at the head of this verse and of 28:9. The singleton-style rarity is an artifact of serial counting. The Book of Mormon dates by the year of the reign of the judges continuously from Alma 1:1 onward and must therefore produce every ordinal in turn; that the fifteenth happens to be one the KJV also uses twice is arithmetic, not borrowing. The regnal-dating formula itself is first used at Alma 1:1 and belongs there if it belongs anywhere."
+ },
+ {
+  "bomRef": "Alma 28:9",
+  "source": "2 Chronicles 15:10",
+  "category": "common-vocabulary",
+  "sharedText": "the fifteenth year of the reign of",
+  "streams": [
+   "machine-ngram"
+  ],
+  "reason": "The same coincidence as at 28:7, where it is set out at length: a seven-word run produced by a serial year-count meeting the KJV's only two verses that name a fifteenth regnal year. Neither Asa's covenant assembly nor Tiberius's accession has any contact with this verse's summary of Nephite wars."
+ },
+ {
+  "bomRef": "Alma 28:11",
+  "source": "Ezekiel 39:14",
+  "category": "insufficient-verbal",
+  "sharedText": "upon the face of the earth",
+  "streams": [
+   "manual"
+  ],
+  "reason": "Alma 28:11 contrasts bodies 'laid low in the earth' with bodies 'mouldering in heaps upon the face of the earth', which is the prophets' topos of the unburied dead after a slaughter — Ezekiel 39:11-16 detailing the burial of the multitude of Gog, and Jeremiah 8:2 and 16:4, where the slain 'shall not be gathered, nor be buried; they shall be for dung upon the face of the earth.' The topos is certainly in the background. The wording will not carry a link: 'upon the face of the earth' occurs in twelve KJV verses, 'in heaps' and 'mouldering' in none, and no candidate verse shares anything else."
+ },
+ {
+  "bomRef": "Alma 28:13",
+  "source": "2 Timothy 2:26",
+  "category": "better-source-identified",
+  "sharedText": "snare / taken captive by him at his will",
+  "streams": [
+   "manual"
+  ],
+  "reason": "'The cunning plans which he hath devised to ensnare the hearts of men' is the same borrowing already adjudicated in this book at Alma 12:6, where the snare of the devil of 2 Timothy 2:26 is drawn on three times in one discourse. This is the editor reusing a formula the book has already established, not a fresh contact with the source (ADJUDICATING §4), and the argument is at Alma 12:6."
+ },
+ {
+  "bomRef": "Alma 28:14",
+  "source": "Song of Solomon 1:14",
+  "category": "wrong-sense",
+  "sharedText": "in the vineyards of",
+  "streams": [
+   "machine-ngram"
+  ],
+  "reason": "The model case for why an exact-string singleton proves nothing on its own. 'In the vineyards of' occurs in exactly one KJV verse and it is Song of Solomon 1:14 — 'My beloved is unto me as a cluster of camphire in the vineyards of Engedi' — a lover's simile with no labour, no Lord and no vineyard-owner in it. The real sources at this verse share no exact run with it at all: Matthew 20:1's 'labourers into his vineyard' and Isaiah 5:7's 'the vineyard of the LORD of hosts', each a singleton in its own right, fused into 'labor in the vineyards of the Lord'."
+ }
+]

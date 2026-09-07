@@ -1,0 +1,98 @@
+[
+  {
+    "bomRef": "Alma 24:11",
+    "source": "1 Timothy 1:15",
+    "category": "insufficient-verbal",
+    "sharedText": "as we were the most lost of all mankind",
+    "streams": ["manual"],
+    "reason": "The king's parenthesis invites Paul's 'Christ Jesus came into the world to save sinners; of whom I am chief', the KJV's one first-person claim to superlative sinfulness, and the book has already used the next verse of that chapter at Alma 17:11. But 'most lost of all mankind' shares not a word with 1 Timothy 1:15, and 'lost' in the KJV is the sheep and the son of Luke 15, not a rank among sinners. The superlative is the Book of Mormon's own."
+  },
+  {
+    "bomRef": "Alma 24:13",
+    "source": "John 4:35",
+    "category": "formulaic",
+    "sharedText": "behold, I say unto you",
+    "streams": ["machine-ngram"],
+    "reason": "'Behold, I say unto you' is the Book of Mormon's standing formula of address and the KJV's; John 4:35 shares nothing else. Covered by the standing exclusion at 1 Nephi 2:1 and noted here only because it was the chapter's only machine candidate at this verse, where a real link to Revelation 7:14 sits unseen — the borrowing is a figure with the object changed, and no n-gram window can find that."
+  },
+  {
+    "bomRef": "Alma 24:16",
+    "source": "Matthew 25:25",
+    "category": "wrong-sense",
+    "sharedText": "hid thy talent in the earth",
+    "streams": ["manual"],
+    "reason": "'We will hide away our swords, yea, even we will bury them deep in the earth' is the KJV's gesture of burial for safekeeping, and the KJV has exactly one memorable instance of it: the servant of the parable who 'digged in the earth, and hid his lord's money' (Matthew 25:18) and pleads 'I was afraid, and went and hid thy talent in the earth' (25:25). The sense is opposed at the point that matters. Burial in the parable is the sin — the refusal to put something to use for which the servant is condemned — and burial here is the covenant, precisely a refusal to use, praised. Recorded because the verbal gesture is close enough that a reader could be tempted, and because getting the polarity backwards would misread the chapter's central act."
+  },
+  {
+    "bomRef": "Alma 24:16",
+    "source": "Genesis 8:17",
+    "category": "formulaic",
+    "sharedText": "in the earth that they may",
+    "streams": ["machine-ngram"],
+    "reason": "Five words of connective spanning a clause boundary. Genesis 8:17 is the animals leaving the ark to breed abundantly; nothing else is shared."
+  },
+  {
+    "bomRef": "Alma 24:21",
+    "source": "Joel 2:32",
+    "category": "common-vocabulary",
+    "sharedText": "call on the name of the Lord",
+    "streams": ["manual"],
+    "reason": "'Began to call on the name of the Lord' is one of the KJV's most widely distributed phrases — Genesis 4:26, Joel 2:32, Acts 2:21, Romans 10:13 and many more — and cannot identify a source. The martyrdom scene's real biblical shape is in what surrounds it (the Deuteronomy 5:32 formula at 24:23), not here."
+  },
+  {
+    "bomRef": "Alma 24:23",
+    "source": "Isaiah 53:7",
+    "category": "insufficient-verbal",
+    "sharedText": "would not flee from the sword ... would lay down and perish",
+    "streams": ["manual"],
+    "reason": "A people who go out to meet armed men, prostrate themselves and are killed without resisting is the most obvious invitation in the chapter to Isaiah 53:7 — 'he is brought as a lamb to the slaughter, and as a sheep before her shearers is dumb, so he openeth not his mouth' — and a typological reading would put the link here without hesitation. There is no wording to support it: no lamb, no sheep, no silence, no shearer. Alma 24:23 has instead a ten-word run from Deuteronomy 5:32, which is where the link is filed, and the difference between the two candidates is the difference between what the scene means and what its sentences are made of. This is the register doing the job CONVENTIONS §5 describes for a typological expectation the wording will not bear."
+  },
+  {
+    "bomRef": "Alma 24:23",
+    "source": "Isaiah 31:8",
+    "category": "common-vocabulary",
+    "sharedText": "flee from the sword",
+    "streams": ["machine-ngram"],
+    "reason": "'Flee from the sword' is ordinary KJV battle diction and Isaiah 31:8 is the Assyrian falling by a sword not of man. Four common words, no further contact."
+  },
+  {
+    "bomRef": "Alma 24:24",
+    "source": "Acts 28:6",
+    "category": "wrong-sense",
+    "sharedText": "swollen",
+    "streams": ["manual"],
+    "reason": "'Their hearts had swollen in them' contains the KJV's only occurrence of 'swollen' — Acts 28:6, where the Melitans wait for Paul to swell up or drop dead from the viper's bite. A rarity check on the word alone returns a singleton and would tempt a careless row. The senses have nothing in common: Acts 28:6 is envenomed physical swelling and Alma 24:24 is compassion. The Book of Mormon's idiom is its own."
+  },
+  {
+    "bomRef": "Alma 24:25",
+    "source": "Acts 2:37",
+    "category": "insufficient-verbal",
+    "sharedText": "they were stung for the murders which they had committed",
+    "streams": ["manual"],
+    "reason": "The KJV's picture of a crowd struck with remorse after witnessing a killing they took part in is Acts 2:37, 'when they heard this, they were pricked in their heart', with Acts 5:33's 'cut to the heart' beside it — and Alma 24:25 is that scene almost exactly. But 'stung' is not a KJV verb at all; the noun appears at 1 Corinthians 15:55-56, Proverbs 23:32 and Revelation 9:10 and never of conscience. With no shared word the resemblance cannot be adjudicated as dependence."
+  },
+  {
+    "bomRef": "Alma 24:25",
+    "source": "Ezekiel 32:27",
+    "category": "common-vocabulary",
+    "sharedText": "their weapons of war",
+    "streams": ["machine-ngram"],
+    "reason": "The same nine-verse phrase proposed at 23:13, and rejected for the same reason: 'weapons of war' is too widely distributed to point anywhere, and Ezekiel 32:27's uncircumcised dead share nothing else with converts throwing their arms down."
+  },
+  {
+    "bomRef": "Alma 24:26",
+    "source": "Acts 2:41",
+    "category": "better-source-identified",
+    "sharedText": "the people of God were joined that day by more than the number which had been slain",
+    "streams": ["manual"],
+    "reason": "Acts 2:41 — 'the same day there were added unto them about three thousand souls' — is the KJV's one mass conversion counted in a day, and Alma 24:26-27 counts one the same way. The link is already adjudicated in this corpus at Mosiah 18:16, where the addition of souls at a baptism is the point; here the numbering is arithmetic against the slain rather than a borrowing, and there is no shared wording ('joined' for 'added', no 'souls', no figure). Registered so a reader at 24:26 is sent to Mosiah 18:16."
+  },
+  {
+    "bomRef": "Alma 24:30",
+    "source": "Luke 8:13",
+    "category": "better-source-identified",
+    "sharedText": "fallen away",
+    "streams": ["manual"],
+    "reason": "'Fall away' occurs in exactly two KJV verses, Luke 8:13 and Hebrews 6:6, and Luke 8:13 is the one this book has used before, at Alma 16:17 and again in the background of 23:6. It is the wrong one here. Luke 8:13's seed on the rock falls away in time of temptation having no root — a failure of shallowness — while Alma 24:30 describes people who were once enlightened and had great knowledge, which is Hebrews 6:4's category and not Luke's. The link is filed at 24:30 against Hebrews 6:4 with 6:6 as a composite."
+  }
+]

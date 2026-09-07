@@ -1,0 +1,396 @@
+{
+  "chapter": 32,
+  "adjudicated": "2026-09-07",
+  "adjudicator": "Opus",
+  "links": {
+    "32:2": [
+      {
+        "source": "James 2:2",
+        "type": "allusion",
+        "subtype": "conceptual",
+        "confidence": "moderate",
+        "text": "For if there come unto your assembly a man with a gold ring, in goodly apparel, and there come in also a poor man in vile raiment;",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 2,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "James 2:5",
+          "James 2:6"
+        ],
+        "recurrenceRefs": [
+          "Alma 32:3",
+          "Alma 32:5"
+        ],
+        "provenance": {
+          "route": "James 2:1-6 → KJV → Book of Mormon",
+          "other": "“goodly apparel” occurs in exactly one KJV verse, and “despised the poor” occurs in exactly one KJV verse; both are in this passage. James 2:1-6 is the Bible's only scene of a congregation sorting its worshippers by their clothes, and the 'assembly' of 2:2 is the one place in the epistles where the KJV so renders the word it elsewhere gives as 'synagogue' — which is what Alma 32:2 calls the building the poor are put out of.",
+          "significance": "James asks a congregation why the man in vile raiment is given the worse seat and answers his own question at 2:5 — 'Hath not God chosen the poor of this world rich in faith' — and at 2:6, 'But ye have despised the poor.' Alma 32 takes that indictment and runs it forward: the poor are not merely seated badly but expelled, and the sermon Alma preaches to them is the demonstration of James 2:5, that they are the ones rich in faith. The whole discourse on faith that follows is addressed to the congregation James says God chose, delivered outside the building they were thrown out of. Neither text says the other's half; put together they make one argument."
+        },
+        "note": "'They were cast out of the synagogues, because of the coarseness of their apparel.' The verbal contact is three words — apparel, poor, despised (32:5) — and the case does not rest on them. It rests on the fact that the KJV contains exactly one passage in which people are sorted inside a place of worship according to what they are wearing, and this is it, down to the reversal of James's terms: his rich man is in 'goodly apparel', Alma's poor are refused for the 'coarseness' of theirs. Recorded at moderate because a reader who wants a run of shared words will not find one here.",
+        "whyNot": "Poverty and fine clothing are the Book of Mormon's own standing preoccupation from Jacob 2 onward, and this scene could be written from that habit with no epistle in view.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "32:8": [
+      {
+        "source": "Matthew 11:29",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "Take my yoke upon you, and learn of me; for I am meek and lowly in heart: and ye shall find rest unto your souls.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Matthew 5:3"
+        ],
+        "provenance": {
+          "route": "Matthew 11:29 → KJV → Book of Mormon",
+          "other": "“lowly in heart” occurs in exactly one KJV verse, and “poor in spirit” occurs in exactly one KJV verse.",
+          "significance": "Two KJV singletons frame the opening of the sermon. At 32:3 the multitude are 'poor in heart', which is the first Beatitude with one word changed; at 32:8 they are 'lowly in heart', which in the KJV is what Jesus says about himself and nobody else. Alma's greeting therefore tells the expelled poor that the condition their expulsion produced is the condition of the man who invites the heavy laden to come to him. Matthew 11:29's promise — 'ye shall find rest unto your souls' — is the promise Alma will spend the chapter converting into an experiment; and the chapter ends, at 32:42, on the fourth Beatitude. The discourse opens and closes inside Matthew 5."
+        },
+        "note": "'I behold that ye are lowly in heart; and if so, blessed are ye.' A three-word KJV singleton, and the singleton belongs to Christ's self-description. It arrives attached to the Beatitude formula — 'blessed are ye' — and five verses earlier the same people were called 'poor in heart', which is Matthew 5:3's 'poor in spirit' with the noun the chapter is about substituted for Matthew's. The substitution is worth noticing rather than smoothing: Alma's poor are poor in the pocket first (32:3, 'poor as to things of the world'), and 'in heart' is the term he has to add to make the Beatitude apply.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "32:13": [
+      {
+        "source": "Matthew 10:22",
+        "type": "quotation",
+        "subtype": "close-verbal",
+        "confidence": "certain",
+        "text": "And ye shall be hated of all men for my name’s sake: but he that endureth to the end shall be saved.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 1
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Matthew 24:13"
+        ],
+        "recurrenceRefs": [
+          "Alma 32:5",
+          "Alma 32:15"
+        ],
+        "provenance": {
+          "route": "Matthew 10:22 → KJV → Book of Mormon, with the closing clause from Matthew 24:13 / Mark 13:13",
+          "other": "“endureth to the end” occurs in exactly one KJV verse, Matthew 10:22; “the same shall be saved” occurs in exactly two, Matthew 24:13 and Mark 13:13, which both read 'he that shall endure unto the end'. mediation-check.py is decisive for Matthew 10:22 on the verb — the Book of Mormon has 'endureth to', not 'shall endure unto' — while the demonstrative it does not weigh belongs to the other pair.",
+          "significance": "The sentence is a splice of the two KJV forms of one saying: Matthew 10:22's verb welded to Matthew 24:13's predicate, producing a clause that stands in no KJV verse but is made entirely of KJV words. What makes the join more than a curiosity is where the rest of Matthew 10:22 has gone. Its first half is 'ye shall be hated of all men for my name's sake', and eight verses earlier, at 32:5, the poor man's complaint was that 'they are despised of all men, because of their poverty'. The verse Alma quotes at 32:13 to promise them salvation is the verse whose other half describes what has just happened to them — with the ground of the hatred changed from Christ's name to their poverty, which is the change the whole chapter exists to undo."
+        },
+        "note": "'He that findeth mercy and endureth to the end, the same shall be saved.' Seven continuous words of the KJV, and the seven come from two verses: 'endureth to the end' is a singleton at Matthew 10:22, and 'the same shall be saved' occurs only at Matthew 24:13 and Mark 13:13, which use a different verb. The mediation check settles the verb for Matthew 10:22 and ignores 'the same' as too common to weigh, so the fusion is a judgment by eye rather than a machine result. 32:15 repeats the formula ('endureth to the end') within the same sermon and is Alma reusing his own sentence, not a second borrowing.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "32:17": [
+      {
+        "source": "Matthew 16:1",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "The Pharisees also with the Sadducees came, and tempting desired him that he would shew them a sign from heaven.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Mark 8:11",
+          "Luke 11:16"
+        ],
+        "provenance": {
+          "route": "Matthew 16:1 → KJV → Book of Mormon",
+          "other": "“a sign from heaven” occurs in exactly three KJV verses — Matthew 16:1, Mark 8:11 and Luke 11:16 — and in every one of the three the request is made by people described as tempting Jesus. Matthew's is the only one that supplies the verb 'shew … us'; the Book of Mormon's 1830 spelling is 'show', so the KJV's orthography is not preserved here and cannot be used as evidence.",
+          "significance": "In all three Gospels the demand for a sign from heaven is the mark of a hostile questioner, and in Matthew 16:4 the answer is that no sign shall be given but the sign of Jonas. Alma gives the same answer in the form of an argument rather than a refusal: 'if a man knoweth a thing, he hath no cause to believe, for he knoweth it.' The chapter's whole theory of faith — that faith is not perfect knowledge, and that a sign would abolish it — is Matthew 16's refusal turned into a definition. Alma 30 has just finished a story about a man who demanded a sign and was given one, and did not believe."
+        },
+        "note": "'There are many which do say, If thou wilt show unto us a sign from Heaven, then we shall know of a surety; then we shall believe.' Four words shared with a phrase the KJV uses three times, always of the same demand and always by opponents. The setting is exactly the Gospel one: a demand addressed to a preacher whose credentials are in question. The Book of Mormon 'show' for KJV 'shew' is a genuine departure and is recorded as such — the 1830 text has 'show' here, so this row does not have the orthographic evidence that CONVENTIONS §8 looks for.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "32:19": [
+      {
+        "source": "James 4:17",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "Therefore to him that knoweth to do good, and doeth it not, to him it is sin.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Luke 12:47"
+        ],
+        "provenance": {
+          "route": "James 4:17 → KJV → Book of Mormon",
+          "other": "“and doeth it not” occurs in exactly one KJV verse. Luke 12:47 supplies the comparative measure of punishment — the servant 'which knew his lord's will, and prepared not himself … shall be beaten with many stripes' — against 12:48's servant who knew not.",
+          "significance": "James 4:17 defines the sin of the knowing, and Luke 12:47-48 grades it against the sin of the ignorant. Alma 32:19 asks precisely the question those two verses answer together — 'how much more cursed is he that knoweth the will of God and doeth it not, than he that only believeth' — and it asks it in order to establish something neither text says: that not knowing is an advantage, because it leaves room for faith. The New Testament's harder judgment on the knowing becomes, three verses later, the reason a sign from heaven would be a misfortune.",
+          "alternative": "The proposition that knowledge aggravates guilt is a commonplace of Christian moral theology and reaches the 1820s through catechism as readily as through either verse."
+        },
+        "note": "'How much more cursed is he that knoweth the will of God and doeth it not.' The four-word run 'and doeth it not' is a KJV singleton, and the clause it completes in James — 'to him that knoweth to do good' — is what Alma has, with 'the will of God' for 'to do good'. That substitution is Luke's: Luke 12:47's servant 'knew his lord's will'. So the sentence takes its structure from James and its object from the parable that supplies the comparative the sentence needs. This is the pivot of the chapter's argument: it converts ignorance from a deficiency into the space where faith is possible.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "32:21": [
+      {
+        "source": "Hebrews 11:1",
+        "type": "quotation",
+        "subtype": "paraphrase",
+        "confidence": "certain",
+        "text": "Now faith is the substance of things hoped for, the evidence of things not seen.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 3
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "Hebrews 11:1 → KJV → Book of Mormon",
+          "other": "“things hoped for” occurs in exactly one KJV verse; “things not seen” occurs in exactly two, Hebrews 11:1 and Hebrews 11:7, both in the same chapter. Hebrews 11 is a source elsewhere in this corpus in its own order — 11:8, 11:9, 11:13 and 11:29 across 1 Nephi 2-5.",
+          "significance": "Alma 32:21 is the KJV's definition of faith with its two abstract nouns removed. Hebrews says faith is the substance and the evidence; Alma says what faith is not — 'not to have a perfect knowledge of things' — and then gives the positive half as an action rather than a property: 'ye hope for things which is not seen, which are true.' The added clause is the whole of the chapter's originality. Hebrews' 'things not seen' are unseen; Alma's are unseen and true, and the rest of the chapter is a procedure for finding out which unseen things those are. The seed experiment exists because the definition was amended by three words."
+        },
+        "note": "'Faith, is not to have a perfect knowledge of things; therefore if ye have faith, ye hope for things which is not seen, which are true.' Both of Hebrews 11:1's distinctive phrases are present, one of them a KJV singleton, and they are present in the source's order — hoped for, then not seen. The 1830 reading is 'things which is not seen', a singular verb the 1920 edition corrected to 'are'; the KJV supplies no verb at all ('the evidence of things not seen'), so the correction moves the sentence away from the source's construction rather than back toward it, which is the opposite of the usual direction (CONVENTIONS §8). Catalogued as a quotation on the strength of the two phrases despite the recasting; it is well below Skousen's sixteen-word threshold and is not one of his thirty-six.",
+        "bibliography": [],
+        "status": "majority",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "32:23": [
+      {
+        "source": "1 Corinthians 1:27",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "But God hath chosen the foolish things of the world to confound the wise; and God hath chosen the weak things of the world to confound the things which are mighty;",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Matthew 11:25"
+        ],
+        "provenance": {
+          "route": "1 Corinthians 1:27 → KJV → Book of Mormon",
+          "other": "“confound the wise” occurs in exactly one KJV verse. Matthew 11:25 and its parallel at Luke 10:21 are the two verses in which what is hidden from 'the wise and prudent' is revealed 'unto babes'.",
+          "significance": "Two New Testament sources are needed to make this sentence and each supplies what the other lacks. Paul gives the verb and its object — the foolish confounding the wise — but his instrument is a class of things, not a class of people. Matthew 11:25 gives the people: babes, to whom what the wise cannot have is revealed. Alma's 'little children doth have words given unto them many times, which doth confound the wise and the learned' is those two verses held together, and the addition is 'and the learned', which is not in either. The chapter is preached to people the priests have expelled, and the sentence tells them that the traffic in revelation runs the other way."
+        },
+        "note": "'Little children doth have words given unto them many times, which doth confound the wise and the learned.' A three-word KJV singleton carrying Paul's verb, with Matthew 11:25's babes supplying the subject Paul does not have. 'The wise and the learned' extends the KJV's pair; compare 2 Nephi 27:15-20, where the learned man who cannot read the book is the Book of Mormon's own development of the same idea, and which is the more likely proximate model for the added word.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "32:28": [
+      {
+        "source": "Luke 8:11",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "text": "Now the parable is this: The seed is the word of God.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 2
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "recurrenceRefs": [
+          "Alma 32:38"
+        ],
+        "provenance": {
+          "route": "Luke 8:11 → KJV → Book of Mormon",
+          "other": "“the seed is the word” occurs in exactly one KJV verse. Mark 4:14's form is 'The sower soweth the word', and Matthew 13:19 has 'the word of the kingdom' without the equation.",
+          "significance": "Luke 8:11 is Jesus explaining a parable he has already told; Alma 32:28 announces the equation before telling anything, and then builds the parable out of it in front of the congregation — 'Now we will compare the word unto a seed.' The reversal matters. In Luke the seed is a figure whose meaning has to be disclosed; in Alma it is a stipulated term in an experiment, and the hearer is not the ground but the experimenter who decides whether to give the seed place. That shift from parable to procedure is what the chapter is for, and it starts by taking Luke's identification as its premise instead of its conclusion."
+        },
+        "note": "'Now we will compare the word unto a seed.' Five words of a KJV singleton stand behind the equation, and the whole of the following allegory presupposes it. Alma 16:17 has already used this parable in the book, from Luke 8:13 ('receive the word with joy'); this row is written in full because it is the parable's premise rather than one of its soils, and because 32:28-43 is the Book of Mormon's most sustained rewriting of it.",
+        "bibliography": [],
+        "status": "majority",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "32:38": [
+      {
+        "source": "Matthew 13:6",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "And when the sun was up, they were scorched; and because they had no root, they withered away.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 1
+        },
+        "kjvSpecific": "yes",
+        "mediation": "uncertain",
+        "composite": [
+          "Mark 4:6"
+        ],
+        "provenance": {
+          "route": "Matthew 13:6 or Mark 4:6 → KJV → Book of Mormon",
+          "other": "“no root” occurs in exactly four KJV verses, all four of them in this parable or its explanation (Matthew 13:6, Mark 4:6, Mark 4:17, Luke 8:13). Luke's sowing has no sun in it — his seed withers 'because it lacked moisture' — so the scorching narrows the source to Matthew and Mark. mediation-check.py finds no decisive divergence between those two.",
+          "significance": "The clause 'because it hath no root, it withereth away' is one of the KJV's tightest causal sentences and Alma reproduces its logic exactly, but he has moved the fault. In the parable the seed on stony ground has no root because of the ground; in Alma the tree has no root because 'ye neglect the tree, and take no thought for its nourishment', and 32:39 says so outright — 'this is not because the seed was not good … it is because your ground is barren, and ye will not nourish the tree.' The parable's soils are conditions a hearer is in; Alma's are conditions a hearer maintains. That is the single doctrinal change the whole allegory is built to make, and it is made by keeping the KJV's sentence and changing who is responsible for the root."
+        },
+        "note": "'When the heat of the sun cometh and scorcheth it, and because it hath no root, it withereth away.' Seven words of the KJV in order, with the tense moved to the present. The singular pronoun matches Mark 4:6 against Matthew 13:6's plural, but Alma has been speaking of one tree since 32:37, so the singular is forced by his own grammar and is not evidence of Mark — the mediation check, which ignores 'it' and 'they' as too common, is right to decline the point. The 1830 'withereth away' preserves the KJV's morphology where the 1920 text reads 'withers'; the borrowing is plainer in the first edition. Note also that 'take no thought' in this verse is the phrase quoted from Matthew 6:25 at Alma 31:37, reused here in the opposite sense — there a command to trust, here a name for neglect.",
+        "bibliography": [],
+        "status": "majority",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "32:41": [
+      {
+        "source": "John 4:14",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "But whosoever drinketh of the water that I shall give him shall never thirst; but the water that I shall give him shall be in him a well of water springing up into everlasting life.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "recurrenceRefs": [
+          "Alma 32:42"
+        ],
+        "provenance": {
+          "route": "John 4:14 → KJV → Book of Mormon",
+          "other": "“springing up into everlasting life” occurs in exactly one KJV verse; the Book of Mormon reads 'springing up unto everlasting life', one preposition away.",
+          "significance": "The KJV grows exactly one thing up into everlasting life, and it is not a tree but a well. Alma takes the phrase and gives it to the tree instead, which is the more obvious figure and the one the source declined; and John's promise that the drinker 'shall never thirst' turns up one verse later in Alma, at 32:42, where those who feast on the fruit 'hunger not, neither shall ye thirst'. So both halves of John 4:14 are used, the second detached from the first and given to the end of the allegory. What the chapter takes from John is the grammar of a thing that keeps rising by itself once it is in you — which is precisely the property Alma needs to distinguish a living faith from a completed knowledge."
+        },
+        "note": "'It shall be a tree springing up unto everlasting life.' Five words of a KJV singleton with one preposition changed, and the phrase is welded onto the wrong plant: John's is a well of water, and the whole of his figure is liquid. That the Book of Mormon transplants it to a tree is what makes the row worth writing rather than assuming — a writer working from memory of John 4:14 would produce exactly this, the memorable tail of the sentence attached to whatever image is in hand.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "32:42": [
+      {
+        "source": "Matthew 5:6",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "text": "Blessed are they which do hunger and thirst after righteousness: for they shall be filled.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 3,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Isaiah 49:10"
+        ],
+        "recurrenceRefs": [
+          "Alma 31:38"
+        ],
+        "provenance": {
+          "route": "Matthew 5:6 → KJV → Book of Mormon; the negated form of the promise from Isaiah 49:10, adjudicated at Alma 31:38",
+          "other": "“hunger and thirst” occurs in exactly three KJV verses and “they shall be filled” in exactly two, of which Matthew 5:6 is the only verse containing both. The negative form — 'hunger not, neither shall ye thirst' — is the wording adjudicated at Alma 31:38 against Isaiah 49:10, whose “hunger nor thirst” is a KJV singleton.",
+          "significance": "The chapter that opened by calling the expelled poor 'lowly in heart' and 'blessed are ye' closes on the Beatitude that answers hunger, and closes it in the perfect tense: Matthew's blessed are those who hunger and thirst, for they shall be filled; Alma's have eaten, and are filled, and therefore hunger not. The fourth Beatitude is given as already kept. Underneath it sits Isaiah 49:10, the promise of safe passage to exiles being brought home, which supplied the same clause seven verses earlier at 31:38 for the missionaries entering Antionum. Alma spends it here on the people they were sent to."
+        },
+        "note": "'Ye shall feast upon this fruit, even until ye are filled, that ye hunger not, neither shall ye thirst.' Three of Matthew 5:6's terms — hunger, thirst, filled — in its own order, with the Beatitude's promise converted from future to accomplished. The negated pair is the formula already argued at Alma 31:38 from Isaiah 49:10, so this row records what the second use adds rather than restating the first: Isaiah's clause alone does not account for 'filled', which is Matthew's, and the pairing of the two is the Book of Mormon's. Recorded at moderate; no run survives, and 'hunger' and 'thirst' are common enough that only the third term makes the Beatitude visible.",
+        "whyNot": "'Filled' after feasting is the natural word regardless of any source, and a reader could take the whole clause as Alma reusing his own sentence from 31:38 with nothing of Matthew in it.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ]
+  }
+}

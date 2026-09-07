@@ -1,0 +1,197 @@
+{
+  "chapter": 27,
+  "adjudicated": "2026-09-07",
+  "adjudicator": "Opus",
+  "links": {
+    "27:4": [
+      {
+        "source": "Matthew 9:36",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 3,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Matthew 14:14",
+          "Mark 6:34"
+        ],
+        "recurrenceRefs": [
+          "Alma 25:12",
+          "Alma 26:7",
+          "Alma 5:37"
+        ],
+        "provenance": {
+          "route": "Matthew 9:36 → KJV → Book of Mormon",
+          "other": "'Moved with compassion' occurs in exactly five KJV verses. Three of them build it on a participle of seeing — Matthew 9:36 ('when he saw the multitudes, he was moved with compassion on them'), Matthew 14:14 ('he saw a great multitude, and was moved with compassion toward them') and Mark 6:34 ('saw much people, and was moved with compassion toward them'). Alma 27:4 has the same construction twice over: 'when Ammon and his brethren SAW this work of destruction … they were moved with compassion'.",
+          "significance": "This is the third of three consecutive chapters drawing on one paragraph of Matthew, and the catalogue can now say so. Alma 25:12 takes 'scattered abroad, as sheep having no shepherd' from Matthew 9:36 for the hunted seed of the priests of Noah; Alma 26:5-7 builds a harvest allegory whose title, 'the Lord of the harvest', occurs only at Matthew 9:38 and Luke 10:2; Alma 27:4 takes the clause that opens the whole Matthean paragraph, the sight that moves compassion. Matthew 9:36-38 is a single sentence-chain — Jesus sees the shepherdless crowd, pities them, and tells the disciples to pray for labourers because the harvest is plenteous — and the three Alma chapters use its three elements on the same people: the Lamanites unconverted, the Lamanites reaped, and the Lamanites seen dying. Between them Alma 25-27 reproduce a Gospel paragraph nobody in the narrative quotes.",
+          "alternative": "Mark 6:34 has the same construction and the same shepherdless-sheep clause; Alma 25:12 chose Matthew's participle over Mark's, which is the reason for preferring Matthew here as well."
+        },
+        "note": "'When Ammon and his brethren saw this work of destruction among those who they so dearly beloved … they were moved with compassion.' Moderate, because 'moved with compassion' is the KJV's ordinary rendering and five verses have it. The row exists for the pattern set out above, and it is checkable: if 25:12's and 26:7's sources are right, this is the remaining member of the same paragraph.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "But when he saw the multitudes, he was moved with compassion on them, because they fainted, and were scattered abroad, as sheep having no shepherd."
+      }
+    ],
+    "27:12": [
+      {
+        "source": "Genesis 12:1",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "uncertain",
+        "composite": [
+          "Acts 7:3",
+          "Genesis 19:14",
+          "Hebrews 11:8"
+        ],
+        "recurrenceRefs": [
+          "1 Nephi 2:4",
+          "Alma 14:24"
+        ],
+        "provenance": {
+          "mt": "Genesis 12:1 — 'Get thee out of thy country, and from thy kindred, and from thy father's house, unto a land that I will shew thee.'",
+          "route": "Genesis 12:1 (or its citation at Acts 7:3) → KJV → Book of Mormon",
+          "other": "“get thee out of” occurs in exactly two KJV verses, Genesis 12:1 and Acts 7:3, which are the call of Abram and Stephen's quotation of it. `mediation-check.py` returns no decisive divergence between them, because the Book of Mormon reproduces only the four words the two verses share and none of the clauses where they differ ('that I will shew thee' against 'which I shall shew thee'); the mediation is therefore recorded as uncertain rather than guessed. Genesis 19:14's 'Up, get you out of this place; for the LORD will destroy this city' is the KJV's other evacuation order and is adjudicated at Alma 14:24.",
+          "significance": "The Book of Mormon opens by putting this formula in the mouth of the Lord to Lehi (1 Nephi 2:2-4, with Hebrews 11:8 behind it) and the whole first book is the journey it starts. Alma 27:12 gives the same command to a converted Lamanite king, and the sequel completes the Abrahamic shape that 1 Nephi only half-finished: the people gather their flocks and herds and go out into the wilderness (27:14, which is Genesis 12:5's inventory), and the land they arrive at is granted 'for an inheritance' (27:22-24) — Hebrews 11:8's own phrase for what Abraham was called out to receive. What the catalogue can say here that it could not say at 1 Nephi 2 is that the formula is portable: the book applies the call of Abram to the descendants of the people it has spent twenty chapters calling apostate, and grants them the inheritance under the same terms."
+        },
+        "note": "'Get this people out of this land, that they perish not … therefore get thee out of this land; and blessed art this people in this generation; for I will preserve them.' Four words shared with the KJV's two calls of Abram, followed within ten verses by a departure with flocks and herds and a grant of land for an inheritance. Moderate: the four words are ordinary and the case rests on what follows them.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "Now the LORD had said unto Abram, Get thee out of thy country, and from thy kindred, and from thy father’s house, unto a land that I will shew thee:"
+      }
+    ],
+    "27:17": [
+      {
+        "source": "2 Corinthians 2:7",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 3,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "1 Corinthians 15:54",
+          "2 Corinthians 5:4"
+        ],
+        "recurrenceRefs": [
+          "Alma 22:14",
+          "Alma 27:28"
+        ],
+        "provenance": {
+          "route": "2 Corinthians 2:7 → KJV → Book of Mormon",
+          "other": "'Swallowed up' occurs in fourteen KJV verses, almost all of them destructions — Aaron's rod, the earth over Dathan, the LORD swallowing up the habitations of Jacob. Only two have a person swallowed by a state rather than by a thing, and “swallowed up with” occurs in exactly one KJV verse: 2 Corinthians 2:7, 'lest perhaps such a one should be swallowed up with overmuch sorrow.'",
+          "significance": "Paul's clause is a pastoral warning: forgive the offender, or grief in excess of what a man can bear will consume him. Alma 27:17 takes the same construction and the same excess and inverts the affect — Ammon is 'swallowed up in the joy of his God, even to the exhausting of his strength', and falls to the earth. The next verse insists that this is not a defect ('was not this exceeding joy?') and the verse after concedes that his brethren's joy 'was not that to exceed their strength', which is precisely 2 Corinthians 2:7's category of an emotion beyond a man's capacity, applied to joy and treated as a distinction rather than a danger. Alma 27:28 then uses the same verb in its more familiar Pauline home — 'death was swallowed up to them by the victory of Christ over it', which is 1 Corinthians 15:54 and is adjudicated at Alma 22:14. The chapter therefore has the verb twice, once for joy overwhelming a man and once for victory overwhelming death."
+        },
+        "note": "'He was swallowed up in the joy of his God, even to the exhausting of his strength; and he fell again to the earth.' The one KJV verse that swallows a person up with a feeling is 2 Corinthians 2:7, and the feeling there is sorrow. Moderate rather than high: the Book of Mormon has 'in' where Paul has 'with', and the verb is common enough in the KJV that a reader could decline the identification and treat the phrase as the book's own.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "So that contrariwise ye ought rather to forgive him, and comfort him, lest perhaps such a one should be swallowed up with overmuch sorrow."
+      }
+    ],
+    "27:27": [
+      {
+        "source": "Acts 22:3",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Acts 22:4",
+          "Romans 10:2"
+        ],
+        "provenance": {
+          "route": "Acts 22:3 → KJV → Book of Mormon",
+          "other": "“zealous toward God” occurs in exactly one KJV verse, Acts 22:3, where Paul is describing himself to the Jerusalem mob: 'taught according to the perfect manner of the law of the fathers, and was zealous toward God, as ye all are this day.' Alma 27:27 has 'they were also distinguished for their zeal towards God, and also towards men'.",
+          "significance": "The next verse of Acts is what makes the borrowing worth having. Acts 22:4: 'And I persecuted this way unto the death, binding and delivering into prisons both men and women.' Paul's zeal toward God is introduced in order to be identified with the killing of believers, and the speech's whole point is that the man saying it was converted out of exactly that. The people of Ammon are the Book of Mormon's case of the same thing at national scale — 27:23 calls their fear of taking up arms the fruit of 'their sore repentance … on account of their many murders' — and Alma 27:27 gives them Paul's self-description with the persecution removed and 'towards men' added in its place. The phrase that in Acts precedes a confession of murder here concludes a character of people who will not kill.",
+          "alternative": "Romans 10:2, 'they have a zeal of God, but not according to knowledge', is Paul's other verdict on the same zeal and is the negative form of this one."
+        },
+        "note": "'They were also distinguished for their zeal towards God, and also towards men; for they were perfectly honest and upright in all things; and they were firm in the faith of Christ, even unto the end.' A KJV singleton, with 'towards' for Paul's 'toward'. The verse is a formal character-summary built of three clauses, and two of the three are New Testament singletons — this one and Hebrews 3:6's, filed beside it.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "I am verily a man which am a Jew, born in Tarsus, a city in Cilicia, yet brought up in this city at the feet of Gamaliel, and taught according to the perfect manner of the law of the fathers, and was zealous toward God, as ye all are this day."
+      },
+      {
+        "source": "Hebrews 3:6",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Hebrews 3:14",
+          "Matthew 10:22"
+        ],
+        "provenance": {
+          "route": "Hebrews 3:6 → KJV → Book of Mormon",
+          "other": "“firm unto the end” occurs in exactly one KJV verse, Hebrews 3:6: 'whose house are we, if we hold fast the confidence and the rejoicing of the hope firm unto the end.' Hebrews 3:14 repeats the construction with a different adjective — 'if we hold the beginning of our confidence stedfast unto the end' — and 'unto the end' on its own occurs in twenty-two KJV verses, so the word that identifies the source is 'firm'.",
+          "significance": "Hebrews 3 is about a people who came out of Egypt and did not enter the rest because they hardened their hearts, and the 'if' of 3:6 is the condition on which a new company counts as God's house. Alma 27 has just brought a people out of a land they could not stay in, into an inheritance granted them by another nation, and 27:27 says they were firm unto the end — the clause Hebrews attaches to the possibility of failing exactly this way. It is also the last thing the chapter says about them before 27:28-29 states what the firmness cost: they would suffer death rather than take up the sword. Hebrews 3:6's 'firm' is a condition; Alma 27:27's is a verdict already delivered."
+        },
+        "note": "'They were firm in the faith of Christ, even unto the end.' The adjective is what makes this a singleton rather than a commonplace — the KJV's stock phrases are 'stedfast unto the end' and 'endure unto the end', and 'firm unto the end' is Hebrews 3:6's alone. The Book of Mormon inserts 'in the faith of Christ' where Hebrews has 'the confidence and the rejoicing of the hope'.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "But Christ as a son over his own house; whose house are we, if we hold fast the confidence and the rejoicing of the hope firm unto the end."
+      }
+    ]
+  }
+}

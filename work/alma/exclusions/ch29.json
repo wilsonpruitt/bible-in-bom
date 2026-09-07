@@ -1,0 +1,92 @@
+[
+ {
+  "bomRef": "Alma 29:1",
+  "source": "Psalm 119:11",
+  "category": "formulaic",
+  "sharedText": "mine heart that I might",
+  "streams": [
+   "machine-ngram"
+  ],
+  "reason": "The chapter's top-ranked candidate and pure connective tissue: 'the wish of mine heart, that I might go forth' against 'Thy word have I hid in mine heart, that I might not sin against thee'. No content word is shared. The real source at this verse is 1 Thessalonians 4:16."
+ },
+ {
+  "bomRef": "Alma 29:2",
+  "source": "Nahum 2:7",
+  "category": "wrong-sense",
+  "sharedText": "as with the voice of",
+  "streams": [
+   "machine-ngram"
+  ],
+  "reason": "A five-word run onto a KJV singleton, and worthless. 'As with the voice of' occurs in exactly one KJV verse and the voice in question is doves: Huzzab's maids lead her away captive 'as with the voice of doves, tabering upon their breasts'. Alma 29:2's simile is thunder. The construction is common English; the singleton is an accident of the KJV's vocabulary, not evidence of contact. Compare Revelation 14:2, 'as the voice of a great thunder', which shares the sense and not the run."
+ },
+ {
+  "bomRef": "Alma 29:2",
+  "source": "Ezekiel 34:6",
+  "category": "formulaic",
+  "sharedText": "scattered upon all the face of the earth",
+  "streams": [
+   "machine-ngram"
+  ],
+  "reason": "'Upon all the face of the earth' is one of the Book of Mormon's standing formulas and covered by the boilerplate exclusion; Ezekiel 34:6's scattered flock has no other contact with a wish that sorrow might end."
+ },
+ {
+  "bomRef": "Alma 29:4",
+  "source": "Ezra 7:26",
+  "category": "wrong-sense",
+  "sharedText": "whether it be unto death",
+  "streams": [
+   "machine-ngram"
+  ],
+  "reason": "A six-word run onto a KJV singleton — 'whether it be unto death' occurs in exactly one KJV verse — and the sense is opposed. Ezra 7:26 is Artaxerxes' schedule of penalties for breaking the law of God and the king: death, banishment, confiscation, imprisonment. Alma 29:4 is about God granting men what they desire, 'whether it be unto death or unto life', which is the opposite kind of proposition — an allotment according to will, not a sentence imposed. The shared frame is the English construction 'whether it be unto X or Y', which needs no source."
+ },
+ {
+  "bomRef": "Alma 29:8",
+  "source": "Colossians 4:1",
+  "category": "common-vocabulary",
+  "sharedText": "that which is just and",
+  "streams": [
+   "machine-ngram"
+  ],
+  "reason": "Colossians 4:1's 'that which is just and equal' shares four words with Alma 29:8's 'that which is just and true', and the fifth word is where the evidence lives. 'Just and true' occurs in exactly one KJV verse, Revelation 15:3, and that is where the link at this verse goes. The trap is ADJUDICATING §4's: the window closes one word early."
+ },
+ {
+  "bomRef": "Alma 29:12",
+  "source": "Exodus 18:10",
+  "category": "common-vocabulary",
+  "sharedText": "delivered them out of the hands of the Egyptians",
+  "streams": [
+   "manual"
+  ],
+  "reason": "'Out of the hand of the Egyptians' occurs in exactly six KJV verses (Exodus 3:8, 14:30, 18:9, 18:10; Judges 6:9; 1 Samuel 10:18) and the phrase is too widely spread to fix a source. Worth registering for a detail that cuts against dependence: all six KJV verses read the singular 'hand', and Alma 29:12 reads 'out of the hands of the Egyptians'. The Exodus material this verse depends on is adjudicated at 29:11, where a thirteen-word run settles it."
+ },
+ {
+  "bomRef": "Alma 29:14",
+  "source": "Ezekiel 38:11",
+  "category": "formulaic",
+  "sharedText": "up to the land of",
+  "streams": [
+   "machine-ngram"
+  ],
+  "reason": "Connective boilerplate. Gog's march on the land of unwalled villages has nothing to do with missionaries going up to the land of Nephi."
+ },
+ {
+  "bomRef": "Alma 29:17",
+  "source": "Ezekiel 14:11",
+  "category": "better-source-identified",
+  "sharedText": "may go no more",
+  "streams": [
+   "machine-ngram"
+  ],
+  "reason": "The machine ranked Ezekiel 14:11 first at this verse on 'may go no more astray'. The Book of Mormon reads 'go no more out', which is Revelation 3:12's phrase — the overcomer made a pillar in the temple who 'shall go no more out' — and that is where the link is filed. Ezekiel's idiom is about apostasy, Alma's about permanence."
+ },
+ {
+  "bomRef": "Alma 29:17",
+  "source": "Matthew 8:11",
+  "category": "better-source-identified",
+  "sharedText": "sit down ... in the kingdom",
+  "streams": [
+   "manual"
+  ],
+  "reason": "Matthew 8:11's 'shall sit down with Abraham, and Isaac, and Jacob, in the kingdom of heaven' is the obvious candidate here, and would be attractive because Alma 29:11 has just named the same three patriarchs. It is not the source: Matthew reads 'kingdom of heaven' and Alma reads 'kingdom of God', which is Luke 13:29's wording, and 'sit down in the kingdom' as a contiguous phrase occurs in exactly one KJV verse, Luke 13:29. The link is filed there."
+ }
+]

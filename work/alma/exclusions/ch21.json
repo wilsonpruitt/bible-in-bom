@@ -1,0 +1,66 @@
+[
+  {
+    "bomRef": "Alma 21:1",
+    "source": "Exodus 16:35",
+    "category": "formulaic",
+    "sharedText": "the borders of the land of",
+    "streams": ["machine-ngram"],
+    "reason": "Topographical boilerplate at a verse doing nothing but locating a journey. Exodus 16:35 is the forty years of manna until Israel came to the borders of Canaan; Alma 21:1 is Aaron's road toward a Lamanite city named Jerusalem. The interesting thing in this verse is not a KJV borrowing at all but the Book of Mormon's own gloss — a city 'called by the Lamanites, Jerusalem; calling it after the land of their fathers' nativity' — which the record supplies because it knows the reader will hear the name."
+  },
+  {
+    "bomRef": "Alma 21:5",
+    "source": "Acts 10:42",
+    "category": "formulaic",
+    "sharedText": "to preach unto the people and",
+    "streams": ["machine-ngram"],
+    "reason": "The highest-scoring candidate in the chapter and the emptiest: six words of which every one is required by the sense. Acts 10:42 is Peter at Cornelius's house on the commission to preach and testify that Christ is ordained judge of quick and dead; Alma 21:5 is a man entering a synagogue. The same run ranks again at 21:23. Covered by the standing exclusion at 1 Nephi 1:5. The verse's link is to Acts 6:9, on 'there arose' and the synagogue together."
+  },
+  {
+    "bomRef": "Alma 21:6",
+    "source": "Hebrews 4:12",
+    "category": "better-source-identified",
+    "sharedText": "How knowest thou the thought and intent of our heart?",
+    "streams": ["manual"],
+    "reason": "A KJV singleton — 'the thoughts and intents of the heart' occurs only at Hebrews 4:12 — and it is adjudicated in this book at Alma 12:7, where Alma and Amulek know the thoughts and intents of Zeezrom's heart and where the note shows the chapter working backwards through Hebrews 3:7-4:12 as a unit. It recurs at Alma 18:32. Alma 21:6 is the third use in Alma and the reader should be sent to 12:7 rather than shown a fresh row. Two things about this occurrence are worth recording for whoever revisits that link. First, the 1830 reads the singular, 'the thought and intent of our heart', where the later editions and the KJV have plurals. Second, and more interesting: every previous use in the book is an assertion that a servant of God does know the heart, and this one is a denial that he can — the Amalekite's question is Hebrews 4:12 turned into an objection, put to a preacher whose only instrument is the word of God, which is precisely the thing Hebrews 4:12 says is the discerner. Under ADJUDICATING §4 that is not quite a phrase returning to its source, since the passage being answered is not the passage first translated; it is the book's own adopted phrase used against the book's own missionaries, and it is registered here rather than argued as a new link."
+  },
+  {
+    "bomRef": "Alma 21:9",
+    "source": "1 Peter 1:11",
+    "category": "common-vocabulary",
+    "sharedText": "sufferings of Christ and",
+    "streams": ["machine-ngram"],
+    "reason": "'Sufferings of Christ' occurs in three KJV verses — 2 Corinthians 1:5, 1 Peter 1:11 and 1 Peter 5:1 — and nothing in Alma 21:9 chooses among them. The machine ranked 1 Peter 1:11 and 5:1 together, which is itself the sign that the phrase is distributed rather than owned. 1 Peter 1:11 is attractive because it is about prophets searching what the Spirit in them signified beforehand concerning Christ's sufferings, and Aaron is arguing at 21:8 that the fathers did know 'concerning the things which they spake, of that which is to come'. But the connection is thematic and the phrase is not decisive; the verse's link is to Acts 17:3, on the sequence Alma 21:9-11 runs."
+  },
+  {
+    "bomRef": "Alma 21:10",
+    "source": "Zechariah 7:13",
+    "category": "formulaic",
+    "sharedText": "and they would not hear the words which",
+    "streams": ["machine-ngram"],
+    "reason": "Zechariah 7:11-13 is a real refusal-to-hear passage — 'they refused to hearken, and pulled away the shoulder' — and it scores here twice, at 7:7 and 7:13, on the KJV's ordinary phrase for it. But 'they would not hear the words which he spake' is how the Book of Mormon says this on every page, and no other element of Zechariah 7 appears. Covered by the standing exclusion at 1 Nephi 1:5. What is happening at 21:10 is Acts 17:32's mocking, filed at 21:9."
+  },
+  {
+    "bomRef": "Alma 21:17",
+    "source": "1 Timothy 2:4",
+    "category": "better-source-identified",
+    "sharedText": "they brought many to the knowledge of the truth",
+    "streams": ["machine-ngram", "machine-fuzzy"],
+    "reason": "'Come to the knowledge of the truth' is a KJV singleton at 2 Timothy 3:7 with 1 Timothy 2:4's 'come unto the knowledge of the truth' one preposition away, and the Book of Mormon uses the phrase fifteen times. It is adjudicated at Jacob 7:24 and Mosiah 27:14; within Alma its first use is 17:2, and Alma 23:15 already carries a register entry sending readers back. The row is repeated here for the same reason. One observation is worth adding, because it belongs to this chapter and not to the earlier ones: 1 Timothy 2:4 reads 'Who will have all men to be saved, and to come unto the knowledge of the truth', and Alma 21 splits that verse between the two sides of its dispute — the Amalekite claims the first half at 21:6, 'We do believe that God will save all men', and the missionaries are granted the second half at 21:17. Neither half is a fresh borrowing, and the pairing is not argued as a link; but a reader who has both halves of one Pauline verse eleven verses apart, in the mouths of opponents, should be told so."
+  },
+  {
+    "bomRef": "Alma 21:17",
+    "source": "Acts 5:15",
+    "category": "formulaic",
+    "sharedText": "insomuch that they brought",
+    "streams": ["machine-ngram"],
+    "reason": "Four words of consecutive-clause syntax. Acts 5:15's 'insomuch that they brought forth the sick into the streets' is Peter's shadow healing; Alma 21:17's 'insomuch that they brought many to the knowledge of the truth' is a conversion count. 'Insomuch that' is one of this book's commonest connectives. Covered by the standing exclusion at 1 Nephi 1:5."
+  },
+  {
+    "bomRef": "Alma 21:21",
+    "source": "Proverbs 16:10",
+    "category": "formulaic",
+    "sharedText": "of the king his",
+    "streams": ["machine-ngram"],
+    "reason": "Four words that are not even a phrase — the run straddles 'the oppressions of the king, his father'. Proverbs 16:10's divine sentence in the lips of a king has no contact with Lamoni's declaration that his people are free. Covered by the standing exclusion at 1 Nephi 1:5."
+  }
+]

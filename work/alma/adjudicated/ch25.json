@@ -1,0 +1,306 @@
+{
+  "chapter": 25,
+  "adjudicated": "2026-09-07",
+  "adjudicator": "Opus",
+  "links": {
+    "25:12": [
+      {
+        "source": "Matthew 9:36",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 5,
+          "context": 3,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Numbers 27:17",
+          "1 Kings 22:17"
+        ],
+        "recurrenceRefs": [
+          "Alma 5:37",
+          "Mosiah 8:21"
+        ],
+        "provenance": {
+          "route": "Matthew 9:36 → KJV → Book of Mormon",
+          "other": "“sheep having no shepherd” occurs in exactly one KJV verse. The other shepherdless-flock verses read differently — Numbers 27:17 'as sheep which have no shepherd', 1 Kings 22:17 'as sheep that have not a shepherd', 2 Chronicles 18:16 'as sheep that have no shepherd', Mark 6:34 'as sheep not having a shepherd'. Matthew 9:36 alone has the participle, and Matthew 9:36 alone puts 'scattered abroad' immediately before it. Alma 25:12 has both, in Matthew's order, separated only by 'and slain'.",
+          "significance": "The point of the row is not the phrase, which Alma 5:37 has already used and which is adjudicated there. It is that this verse is quoting Abinadi, and the record of Abinadi does not read this way. Mosiah 17:18 gives his words at the stake as 'ye shall be smitten on every hand, and shall be driven and scattered to and fro, even as a WILD FLOCK is driven by wild and ferocious beasts.' Alma 25:12, reporting the same prophecy fulfilled seventy years later, keeps the driving and the beasts and replaces the wild flock with Matthew 9:36's shepherdless sheep. A prophecy delivered in one book is quoted in another with a New Testament clause it did not previously contain — and the clause imported is the KJV's one compassionate use of the figure, where the shepherdless crowd is pitied rather than condemned, set here over a seed being hunted to death."
+        },
+        "note": "'They should be scattered abroad and slain, even as a sheep having no shepherd is driven and slain by wild beasts.' Two of Matthew 9:36's phrases in Matthew's order, one of them a KJV singleton. The argument for the singleton itself is at Alma 5:37; what is new here is that the sentence is presented as Abinadi's, and Mosiah 17:18 records Abinadi saying 'as a wild flock' instead. The singular 'a sheep' is the 1830 reading and stands in the current text.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ],
+        "text": "But when he saw the multitudes, he was moved with compassion on them, because they fainted, and were scattered abroad, as sheep having no shepherd."
+      },
+      {
+        "source": "Luke 6:23",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 2,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Luke 6:26",
+          "Matthew 23:31"
+        ],
+        "provenance": {
+          "route": "Luke 6:23 → KJV → Book of Mormon",
+          "other": "“in the like manner” occurs in exactly one KJV verse, Luke 6:23. The KJV's ordinary form is the unarticled 'in like manner', which it uses a dozen times; the articled form is Luke's alone, and Alma 25:12 has the articled form.",
+          "significance": "Recover Luke 6:23 and the clause turns out to be about exactly this: 'for in the like manner did their fathers unto the prophets.' Luke's subject is the inheritance of prophet-killing — what is done to the disciples now is what the fathers did to the prophets then — and Luke 6:26 states the converse two verses later, 'so did their fathers to the false prophets.' Alma 25:12 is a prophecy that the SEED of the men who burned Abinadi will put many to death 'in the like manner as he was', and Alma 25:9-11 spends three verses establishing that the manner is the same manner, death by fire. The Book of Mormon has taken the KJV's one phrase for generational repetition of the killing of prophets and used it for a generational repetition of the killing of a prophet's converts.",
+          "alternative": "Matthew 23:31, 'ye are the children of them which killed the prophets', is the same doctrine without the phrase."
+        },
+        "note": "'That their seed should cause many to be put to death, in the like manner as he was.' The four words are a KJV singleton and their one home is a sentence about fathers and prophets. The link is moderate rather than high because the phrase is short and unremarkable English; what argues for it is that its only KJV occurrence says what Alma 25:9-12 is saying.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ],
+        "text": "Rejoice ye in that day, and leap for joy: for, behold, your reward is great in heaven: for in the like manner did their fathers unto the prophets."
+      }
+    ],
+    "25:13": [
+      {
+        "source": "Isaiah 56:6",
+        "type": "allusion",
+        "subtype": "conceptual",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Isaiah 56:3",
+          "Isaiah 56:7"
+        ],
+        "provenance": {
+          "route": "Isaiah 56:3-7 → KJV → Book of Mormon",
+          "other": "“join themselves” occurs in exactly two KJV verses. Daniel 11:6 is a dynastic marriage alliance; Isaiah 56:6 is the only one about religious adhesion — 'the sons of the stranger, that join themselves to the LORD, to serve him'.",
+          "significance": "Isaiah 56:3-7 is the KJV's charter for the outsider who attaches himself to Israel, and its terms are the terms of Alma 25:13-15 in order: the stranger joins himself to the LORD (25:13, the Lamanites join themselves to the people of God), keeps the sabbath and takes hold of the covenant (25:14-15, they keep the commandments and the statutes and the law of Moses), and is brought to the holy mountain and accepted at the altar (which is what Alma 27 will do for them when Jershon is given). The chapter that follows Isaiah 56:6 in the Book of Mormon's own sequence — the grant of a land to a converted people — is the promise Isaiah 56:7 makes.",
+          "alternative": "1 Peter 2:10, 'which in time past were not a people, but are now the people of God', supplies the sense of the clause more exactly and shares only the common phrase; it is filed in the exclusion register."
+        },
+        "note": "'Many of them came over to dwell in the land of Ishmael and the land of Nephi, and did join themselves to the people of God.' The verb is Isaiah 56:6's and the situation is Isaiah 56's: foreigners attaching themselves to a covenant people, with what they must then keep spelled out immediately afterward. Moderate, because 'join themselves to' is three ordinary words and the Book of Mormon joins them to the people rather than to the LORD.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ],
+        "text": "Also the sons of the stranger, that join themselves to the LORD, to serve him, and to love the name of the LORD, to be his servants, every one that keepeth the sabbath from polluting it, and taketh hold of my covenant;"
+      }
+    ],
+    "25:14": [
+      {
+        "source": "Deuteronomy 30:16",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 4,
+          "rarity": 3,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Deuteronomy 28:15",
+          "Deuteronomy 30:10"
+        ],
+        "provenance": {
+          "route": "Deuteronomy 30:16 → KJV → Book of Mormon",
+          "other": "“to walk in his ways, and to keep his commandments” occurs in exactly one KJV verse, Deuteronomy 30:16, which continues 'and his statutes and his judgments'. The pair “his commandments and his statutes” occurs in exactly six KJV verses, five of them in Deuteronomy; 'observe to keep' occurs in none, though Deuteronomy 28:15's 'observe to do all his commandments and his statutes' is next to it.",
+          "significance": "Deuteronomy 30 is the chapter of return — the covenant offered again to a people who have been scattered and have turned back — and its central verse commands walking in his ways and keeping his commandments and his statutes as the condition of life in the land. Alma 25:13-14 has a scattered people coming back to a land, joining the people of God, and doing precisely those two things in that order. The whyNot below is real, but the Deuteronomic register is not incidental here: these converts are being described in the vocabulary of covenant renewal, and the next verse puts them under the law of Moses."
+        },
+        "whyNot": "The formula is distributed across Deuteronomy rather than confined to one verse, and the Book of Mormon has 'walk in the ways of the Lord', which no KJV verse has, where Deuteronomy 30:16 has 'walk in his ways'. Deuteronomy 30:16 is named as the source because it alone joins the walking to the keeping of commandments and statutes in one clause, not because the wording could not have come from 30:10 or 28:15.",
+        "note": "'They did walk in the ways of the Lord, and did observe to keep his commandments, and his statutes.' Two Deuteronomic formulas run together, of which the second half — commandments and statutes as a pair — is almost exclusively Deuteronomy's in the KJV. Well below any quotation threshold and recorded as an allusion on the conjunction rather than the length.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "In that I command thee this day to love the LORD thy God, to walk in his ways, and to keep his commandments and his statutes and his judgments, that thou mayest live and multiply: and the LORD thy God shall bless thee in the land whither thou goest to possess it."
+      }
+    ],
+    "25:15": [
+      {
+        "source": "Acts 15:5",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "OT-via-earlier-BoM",
+        "composite": [
+          "Matthew 5:18"
+        ],
+        "recurrenceRefs": [
+          "Jarom 1:5",
+          "Mosiah 13:27"
+        ],
+        "provenance": {
+          "route": "Acts 15:5 → KJV → Mosiah 13:27 → Alma 25:15",
+          "other": "“keep the law of Moses” occurs in exactly one KJV verse, Acts 15:5, where the believing Pharisees demand that Gentile converts be circumcised and commanded to keep it. Within the Book of Mormon the phrase is Abinadi's before it is anyone else's in this register: Mosiah 13:27 reads 'it is expedient that ye should keep the law of Moses AS YET; but … the time shall come when it shall no more be expedient to keep the law of Moses.'",
+          "significance": "Alma 25:15 is Mosiah 13:27 rewritten in the third person about a different people — 'it was expedient that they should keep the law of Moses as yet' — and the proximate model is therefore the earlier Book of Mormon verse, not the KJV, which is why the mediation is not direct-NT. What makes the chain worth recording is that both ends are the same controversy. Acts 15 is the council on whether converts from outside Israel must keep the law of Moses; Alma 25:13-16 is a mass conversion from outside Israel and the ruling on exactly that question, and it answers as Acts 15 answers, that the law is kept for a season and is not what saves. The phrase 'outward performances' in the same verse comes from the same page of Abinadi: Mosiah 13:30's 'a law of performances and of ordinances'.",
+          "alternative": "Matthew 5:17-18 stands behind the reason given rather than the demand: the law is kept because 'it was not all fulfilled', and 'till all be fulfilled' is Matthew 5:18's clause. Filed as a separate row."
+        },
+        "note": "'It was expedient that they should keep the law of Moses as yet, for it was not all fulfilled.' The clause is a KJV singleton carried at second hand: Abinadi has it at Mosiah 13:27 with 'expedient' and 'as yet' already attached, and Alma 25:15 reproduces his sentence for the Lamanite converts. Recorded here rather than passed over as a repeat because this is a different book and a different hand — Mormon narrating, not Abinadi preaching — and because the situation, converts from outside the covenant put under the law, is Acts 15's situation and not Mosiah 13's.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "But there rose up certain of the sect of the Pharisees which believed, saying, That it was needful to circumcise them, and to command them to keep the law of Moses."
+      },
+      {
+        "source": "Matthew 5:18",
+        "type": "echo",
+        "subtype": "probable",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 2,
+          "sequence": 2,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Matthew 5:17"
+        ],
+        "provenance": {
+          "route": "Matthew 5:17-18 → KJV → Book of Mormon",
+          "other": "“all be fulfilled” occurs in exactly two KJV verses, Matthew 5:18 and Luke 21:32. Only Matthew 5:18 is about the law: 'one jot or one tittle shall in no wise pass from the law, till all be fulfilled.'",
+          "significance": "Alma 25:15 gives a reason for keeping the law that the Book of Mormon does not usually give, and the reason is Matthew 5:18's: not that the law saves, and not that it is commanded, but that it is not yet all fulfilled. Matthew 5:17 supplies the other half — 'I am not come to destroy, but to fulfil' — and Alma 25:15's answer to why converts still sacrifice is that the fulfiller has not yet come. The verse then says the law is 'a type of his coming', which is the doctrine of Matthew 5:17 stated as typology."
+        },
+        "note": "'For it was not all fulfilled.' Four words, of which three are Matthew 5:18's, and the argument they carry is the argument of Matthew 5:17-18. Filed as an echo because the contact is a single short clause and 'fulfilled' is common; what raises it above nothing is that the KJV joins 'the law' to 'all be fulfilled' in one verse only.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "For verily I say unto you, Till heaven and earth pass, one jot or one tittle shall in no wise pass from the law, till all be fulfilled."
+      }
+    ],
+    "25:16": [
+      {
+        "source": "Acts 13:39",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "OT-via-earlier-BoM",
+        "composite": [
+          "Galatians 2:21"
+        ],
+        "recurrenceRefs": [
+          "Mosiah 12:31",
+          "Mosiah 12:32",
+          "Mosiah 13:27"
+        ],
+        "provenance": {
+          "route": "Acts 13:39 → KJV → Mosiah 12:31 / 13:27 → Alma 25:16",
+          "other": "“by the law of Moses” occurs in exactly one KJV verse: Acts 13:39, 'by him all that believe are justified from all things, from which ye could not be justified by the law of Moses.' The Book of Mormon's four occurrences of the phrase are Mosiah 12:31, 12:32, 13:27 and Alma 25:16, and the first three are one exchange between Abinadi and the priests of Noah.",
+          "significance": "This is the verse where the catalogue's two Alma 25 chains meet. The priests of Noah answered Abinadi that salvation did come by the law of Moses (Mosiah 12:32) and he answered them out of Acts 13:39; Alma 25 has just finished narrating the destruction of those priests' seed, and it closes the episode by reporting that their victims' converts hold the position the priests denied — in the priests' own borrowed words, negated. 'They did not suppose that salvation came by the law of Moses' is Mosiah 12:32 with a negative in front of it. The Book of Mormon is not merely reusing a phrase; it is settling an argument it staged seventy years and thirteen chapters earlier.",
+          "alternative": "Galatians 2:21's 'if righteousness come by the law' supplies the verb 'come' that Acts 13:39 lacks, as recorded at Mosiah 12:31."
+        },
+        "note": "'Now they did not suppose that salvation came by the law of Moses; but the law of Moses did serve to strengthen their faith in Christ.' The KJV has this phrase in one verse, and the Book of Mormon has it in one earlier scene, where it is the whole point in dispute. The second clause then supplies what Acts 13:39 leaves out and Galatians 3:24 states — the law as the thing that brings a believer to Christ rather than the thing that justifies.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ],
+        "text": "And by him all that believe are justified from all things, from which ye could not be justified by the law of Moses."
+      }
+    ],
+    "25:17": [
+      {
+        "source": "1 Kings 8:26",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "2 Chronicles 6:17",
+          "Genesis 42:20"
+        ],
+        "recurrenceRefs": [
+          "Omni 1:6",
+          "Alma 25:12"
+        ],
+        "provenance": {
+          "route": "1 Kings 8:26 → KJV → Book of Mormon",
+          "other": "“verified” occurs in exactly three KJV verses — Genesis 42:20, 1 Kings 8:26 and its parallel 2 Chronicles 6:17. It is not a common word in the Book of Mormon either: seven occurrences in the whole book, two of them in this chapter.",
+          "significance": "1 Kings 8:26 is a petition inside Solomon's prayer at the dedication of the temple: 'let thy word, I pray thee, be verified, which thou spakest unto thy servant David my father.' Alma 25:17 is the report of that petition granted, in that petition's vocabulary: 'the Lord had granted unto them according to their prayers, and … he had also verified his word unto them in every particular.' The KJV's rare verb for a promise made good belongs to a prayer asking for it; the Book of Mormon uses it of a prayer answered. Amaleki had already used it the same way at Omni 1:6, where the full argument for the phrase's syntax is set out."
+        },
+        "note": "'The Lord had granted unto them according to their prayers, and … he had also verified his word unto them in every particular.' 'Verified' is a rare KJV word and rarer still in this book, and its two royal occurrences are a prayer that a word be verified. The row is at moderate because the contact is one verb: the case rests on that verb being scarce in both corpora and on the prayer-and-answer frame it arrives inside. Alma 25:12's 'these words were verified' five verses earlier is the same usage in narration.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "And now, O God of Israel, let thy word, I pray thee, be verified, which thou spakest unto thy servant David my father."
+      }
+    ]
+  }
+}

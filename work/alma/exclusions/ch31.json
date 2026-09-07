@@ -1,0 +1,58 @@
+[
+  {
+    "bomRef": "Alma 31:1",
+    "source": "Joshua 7:5",
+    "category": "formulaic",
+    "sharedText": "the hearts of the people",
+    "streams": ["machine-ngram"],
+    "reason": "Joshua's hearts melting as water at Ai has nothing to do with Zoram leading hearts astray; the five words are a KJV collocation used dozens of times. The real borrowing in this verse is 'dumb idols' with its verb of leading, filed as a link to 1 Corinthians 12:2."
+  },
+  {
+    "bomRef": "Alma 31:15",
+    "source": "John 16:30",
+    "category": "common-vocabulary",
+    "sharedText": "we believe that thou",
+    "streams": ["manual"],
+    "reason": "A KJV singleton, and a worthless one. The four words are pure connective tissue — subject, verb, complementiser, subject — and John 16:30's completion is 'camest forth from God', which is the confession of Christ's origin that the Zoramite creed exists to deny. The singleton is an artifact of how rarely the KJV uses a first-person-plural 'we believe' at all."
+  },
+  {
+    "bomRef": "Alma 31:17",
+    "source": "1 Chronicles 29:13",
+    "category": "formulaic",
+    "sharedText": "we thank thee",
+    "streams": ["machine-ngram"],
+    "reason": "David's thanksgiving at the temple offering. 'We thank thee, O God' as a formula belongs at 31:18 and 31:28, where the singleton 'God, I thank thee' pins it to Luke 18:11; 1 Chronicles 29:13 offers nothing beyond the three words and is a prayer of the right kind, which is the opposite of what this chapter needs."
+  },
+  {
+    "bomRef": "Alma 31:26",
+    "source": "Revelation 6:10",
+    "category": "better-source-identified",
+    "sharedText": "how long, O Lord",
+    "streams": ["manual"],
+    "reason": "'O how long, O Lord, wilt thou suffer' is Alma's own formula, adjudicated at its first use in this book at Alma 14:26 against the KJV singleton 'How long, O Lord' in the cry of the martyrs slain for the word of God. Alma 31:26 is the same speaker reusing his own cry, in a chapter where nobody has been killed; the borrowing was made and argued at 14:26 and is not made again here. See that entry."
+  },
+  {
+    "bomRef": "Alma 31:31",
+    "source": "Numbers 14:19",
+    "category": "formulaic",
+    "sharedText": "wilt thou grant unto",
+    "streams": ["machine-ngram"],
+    "reason": "Moses' plea to pardon the people scored highest of the chapter's petition candidates, but the shared words are the KJV's ordinary grammar of asking. Alma's petitions at 31:30-35 are a sustained prayer with no verbal contact with any single KJV prayer; the repeated 'wilt thou' is Book of Mormon idiom, not a citation."
+  },
+  {
+    "bomRef": "Alma 31:36",
+    "source": "Acts 19:6",
+    "category": "insufficient-verbal",
+    "sharedText": "hands upon … filled with the Holy Ghost",
+    "streams": ["manual"],
+    "reason": "'He clapped his hands upon all they which were with him … they were filled with the holy Spirit' is the New Testament's laying on of hands for the Spirit (Acts 8:17, 19:6) in substance, but not one distinctive word survives: the KJV never 'claps' hands upon a person — its 'clap' is always applause or derision — and it says 'Holy Ghost' where the Book of Mormon says 'holy Spirit'. A conceptual match with the wording pointing away from the source."
+  },
+  {
+    "bomRef": "Alma 31:38",
+    "source": "1 Corinthians 15:54",
+    "category": "common-vocabulary",
+    "sharedText": "swallowed up",
+    "streams": ["manual"],
+    "reason": "'Swallowed up in the joy of Christ' answers 'their hearts are swallowed up in their pride' at 31:27, and the chiasm is the writer's own. 'Swallowed up' occurs in fourteen KJV verses across both testaments; neither Paul's 'death is swallowed up in victory' nor 2 Corinthians 5:4 can be identified as the source of an idiom this widely distributed."
+  }
+]

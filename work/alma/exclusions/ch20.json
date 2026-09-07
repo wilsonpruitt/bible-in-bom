@@ -1,0 +1,58 @@
+[
+  {
+    "bomRef": "Alma 20:1",
+    "source": "Amos 7:2",
+    "category": "formulaic",
+    "sharedText": "and it came to pass that when they had",
+    "streams": ["machine-ngram"],
+    "reason": "A nine-word run and the highest-scoring candidate in the chapter, consisting entirely of the Book of Mormon's standing narrative opener plus 'when they had'. Amos 7:2 is the locusts finishing the grass; Alma 20:1 is a church established in a land. Covered by the standing exclusion at 1 Nephi 1:5, and recorded here only because the run length is long enough to mislead a reader of the raw candidate file (CONVENTIONS §9)."
+  },
+  {
+    "bomRef": "Alma 20:9",
+    "source": "Esther 1:5",
+    "category": "better-source-identified",
+    "sharedText": "when I made a feast unto my sons, and unto my people",
+    "streams": ["manual"],
+    "reason": "'Made a feast unto' occurs in three KJV verses — Genesis 40:20, Esther 1:3 and Esther 1:5 — and two of them are the Persian king's feast for his princes and then for all his people, which is close to 'a feast unto my sons, and unto my people'. Genesis 40:20 is closer still in function, since Pharaoh's birthday feast is where a prisoner is remembered and released, and this chapter is about releasing prisoners. But the great feast in this narrative has already been adjudicated: Alma 18:9's 'great feast appointed at the land of Nephi' by 'his father, who was king over all the land' is filed at Alma 18:12 against Daniel 5:1, on the strength of the changed countenance that follows. Alma 20:9 is the same feast referred to again, from the father's side, and the reader should be sent there. Esther is not absent from this chapter — see the link at 20:23 — but she is behind Mark 6:23 there, not here."
+  },
+  {
+    "bomRef": "Alma 20:12",
+    "source": "Luke 14:18",
+    "category": "insufficient-verbal",
+    "sharedText": "all the cause of his tarrying",
+    "streams": ["manual"],
+    "reason": "Written because the temptation is a real one and the words are not there. Luke 14:16-24 is the KJV's one parable of a feast that the invited do not attend, and 'they all with one consent began to make excuse' is a KJV singleton; Alma 20:9-12 has a king demanding to know why his son missed his feast and a son giving 'all the cause of his tarrying'. The shape matches. But the Book of Mormon uses neither 'excuse' nor 'bidden' nor 'supper', its absentee gives his reason to the host's face rather than by messenger, and — decisively — Luke's excuses are refused while Lamoni's is heard and answered with a different quarrel altogether. No source is identifiable at this verse."
+  },
+  {
+    "bomRef": "Alma 20:20",
+    "source": "Matthew 12:49",
+    "category": "formulaic",
+    "sharedText": "and he stretched forth his hand",
+    "streams": ["machine-ngram"],
+    "reason": "Ranked first at this verse and rejected for the same reason as at Alma 19:12: 'stretched forth his hand' is one of the KJV's commonest gestures, spread over seven verses from Abraham's knife to Moses at the sea to Jesus pointing at his disciples. Matthew 12:49's hand is stretched toward disciples in affection. The verse's link is to Genesis 22:10, which is the only one of the seven where the hand is raised to kill — the qualifier 'to slay', not the run, is what selects it."
+  },
+  {
+    "bomRef": "Alma 20:29",
+    "source": "2 Corinthians 11:27",
+    "category": "better-source-identified",
+    "sharedText": "they were naked … they also had suffered hunger, thirst, and all kind of afflictions",
+    "streams": ["manual"],
+    "reason": "The borrowing is real and it is adjudicated three chapters earlier. 2 Corinthians 11:26-27 stands behind Alma 17:5, where 'journeyings' and 'hunger, thirst' — a two-verse word and a KJV singleton — are taken from consecutive verses of the same passage, and it recurs at Alma 18:37. Alma 20:29 is the third use in the same book and by the same narrator: the same pair of nouns, plus the nakedness that closes 2 Corinthians 11:27 ('in cold and nakedness') and the imprisonment that opens the catalogue at 11:23 ('in prisons more frequent'). Under ADJUDICATING §4 a narrator reusing his own adopted phrase within one book is recorded rather than re-argued, so the reader arriving here should be sent to Alma 17:5. Worth noting for whoever revisits that row: 20:29 draws two further elements of Paul's catalogue that 17:5 does not, so the source is being read further down the page each time it is used."
+  },
+  {
+    "bomRef": "Alma 20:30",
+    "source": "1 Timothy 5:13",
+    "category": "better-source-identified",
+    "sharedText": "had driven them from house to house, and from place to place",
+    "streams": ["machine-ngram"],
+    "reason": "'From house to house' occurs in four KJV verses and is discharged at Alma 19:17, where Abish runs house to house and the candidate was Acts 20:20. Here the machine offers 1 Timothy 5:13's idle young widows 'wandering about from house to house', which is a moral complaint about gossip and has nothing to do with missionaries driven out of one. The second half of the Book of Mormon's phrase, 'from place to place', is in no KJV verse at all. The nearest real parallel to what 20:30 describes is Matthew 23:34, 'persecute them from city to city', which shares the sense and not the words; it is not enough for a link."
+  },
+  {
+    "bomRef": "Alma 20:30",
+    "source": "Judges 2:17",
+    "category": "formulaic",
+    "sharedText": "they would not hearken unto their",
+    "streams": ["machine-ngram"],
+    "reason": "Six words of the KJV's standard formula for a people refusing a prophet, which the Book of Mormon uses continuously. Judges 2:17's Israel would not hearken unto their judges; the people of Middoni would not hearken unto the missionaries' words. Covered by the standing exclusion at 1 Nephi 1:5."
+  }
+]

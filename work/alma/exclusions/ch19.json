@@ -1,0 +1,82 @@
+[
+  {
+    "bomRef": "Alma 19:1",
+    "source": "Nehemiah 8:4",
+    "category": "wrong-sense",
+    "sharedText": "which they had made for the purpose",
+    "streams": ["machine-ngram"],
+    "reason": "The top-ranked candidate in the chapter, and a genuine rarity: 'made for the purpose' occurs in exactly one KJV verse, and the seven-word run 'which they had made for the purpose' is reproduced word for word. It is still not a source. Nehemiah 8:4's object is Ezra's pulpit of wood, built so that a scribe can be seen and heard reading the law to a returned people; Alma 19:1's is a sepulchre, built so that the Lamanites can bury their dead. The two verses share a builder's idiom and nothing else — no person, no action, no theme — and the phrase is exactly the kind of rare boilerplate CONVENTIONS §9 warns the n-gram stream will rank first. The 19:1 burial does carry an intertextual charge, but it belongs to the John 11 raising the chapter is running from 19:5, and it is argued there."
+  },
+  {
+    "bomRef": "Alma 19:1",
+    "source": "Mark 15:46",
+    "category": "formulaic",
+    "sharedText": "in a sepulchre which",
+    "streams": ["machine-ngram"],
+    "reason": "Ranked alongside Luke 23:53 on the strength of a four-word run that is the KJV's only way of saying the thing. Both candidates are the burial of Jesus, and the pull toward a resurrection frame here is real — Lamoni lies as dead for two days and two nights and rises on the morrow. But 'they were about to take his body and lay it in a sepulchre' shares no distinctive word with either Gospel verse; the linen, the stone and the rock, which are what make Mark 15:46 recognisable, are all absent. The chapter's raising narrative is John 11's, and the sepulchre is discussed in the note at 19:5."
+  },
+  {
+    "bomRef": "Alma 19:4",
+    "source": "John 4:19",
+    "category": "insufficient-verbal",
+    "sharedText": "that thou art a prophet",
+    "streams": ["machine-ngram"],
+    "reason": "Worth an entry because the temptation is strong and the wording will not bear it. John 4:19 is a foreign woman telling a Jewish stranger 'I perceive that thou art a prophet', after which she leaves and tells the men of her city, and they come out and believe — which is, beat for beat, what the queen and then Abish do in Alma 19. But the shared string is five words of unavoidable English, 'thou art a prophet' occurs across the KJV in that form, and the Book of Mormon's clause continues 'of a Holy God', which John has not. The verse's identifiable borrowing is Matthew 13:58's 'many mighty works', a KJV singleton, and the link is filed there. If the Samaritan woman is behind this chapter at all she is behind Abish at 19:17, where the register instead points at 2 Kings 5:3 on the strength of 'her mistress'."
+  },
+  {
+    "bomRef": "Alma 19:12",
+    "source": "Matthew 12:49",
+    "category": "formulaic",
+    "sharedText": "he stretched forth his hand",
+    "streams": ["machine-ngram"],
+    "reason": "'Stretched forth his hand' occurs in seven KJV verses spread from Abraham's knife to Moses at the sea to Jesus at the boat, which is a fair definition of a phrase that identifies nothing. Matthew 12:49 ranked here only because its next word is 'and said'. The borrowing in this verse is Daniel 2:20's 'Blessed be the name of God', a KJV singleton, filed as a link."
+  },
+  {
+    "bomRef": "Alma 19:16",
+    "source": "Acts 26:14",
+    "category": "wrong-sense",
+    "sharedText": "all fallen to the earth",
+    "streams": ["machine-ngram"],
+    "reason": "Ranked first at this verse and a real near-miss. Acts 26:14 is Paul before Agrippa recounting the Damascus road: 'when we were all fallen to the earth, I heard a voice.' Alma 19:16 has the king's servants calling on the Lord 'even until they had all fallen to the earth'. Both are involuntary prostrations under divine power in front of witnesses, so the parallel is not absurd. But the causes are opposite in the way that matters: Paul's company falls because a light strikes a persecutor down mid-journey, and the falling is the beginning of a rebuke; the Lamanites fall in the middle of their own prayer, and the falling is the answer to it. Nothing else in the two verses agrees, and 'fallen to the earth' is the KJV's ordinary phrase. The chapter's prostrations are its own."
+  },
+  {
+    "bomRef": "Alma 19:17",
+    "source": "Acts 20:20",
+    "category": "common-vocabulary",
+    "sharedText": "from house to house",
+    "streams": ["manual"],
+    "reason": "Recorded because it is the one phrase in the Abish passage that looks like a borrowing and is not one. 'From house to house' occurs in four KJV verses. Acts 20:20 is the attractive one — Paul's own summary of his method, 'I kept back nothing that was profitable unto you, but have shewed you, and have taught you publickly, and from house to house' — and Abish is doing missionary work by that description. But the other three uses run from Luke 10:7's prohibition of the practice to 1 Timothy 5:13's idle gossips wandering from house to house, which is enough distribution to show that the phrase is simply how the KJV says it. Abish makes something known; she does not teach, and no other word of Acts 20:20 appears. The link at this verse is the type-scene from 2 Kings 5:2-3."
+  },
+  {
+    "bomRef": "Alma 19:19",
+    "source": "Daniel 9:12",
+    "category": "common-vocabulary",
+    "sharedText": "a great evil",
+    "streams": ["manual"],
+    "reason": "Checked because chapter 18 established Daniel as this narrative's frame and a third Daniel contact would have been worth having. 'A great evil' occurs in two KJV verses, Ecclesiastes 2:21 and Daniel 9:12, and Daniel's is 'bringing upon us a great evil', which is close to the Lamanites' 'a great evil that had come upon them'. But Daniel 9:12 is a confession of national judgment for sin in a penitential prayer, and Alma 19:19 is a crowd's superstitious guess about why their king is lying on the floor — a guess the chapter goes on to contradict twice over. Exodus 18:8's 'that had come upon them', which the machine also ranked here, is travel narrative. Neither is a source; the Daniel frame closes at 19:12 with the doxology."
+  },
+  {
+    "bomRef": "Alma 19:24",
+    "source": "Psalm 125:3",
+    "category": "wrong-sense",
+    "sharedText": "put forth their hands",
+    "streams": ["manual"],
+    "reason": "A KJV singleton, and the wrong one. Psalm 125:3's 'lest the righteous put forth their hands unto iniquity' is a metaphor for committing sin under provocation; Alma 19:24's crowd 'durst not put forth their hands to touch him' is literal, and its subject is fear rather than restraint from wrongdoing. The singleton is a trap of the kind CONVENTIONS §9 describes — absolute rarity is the strongest evidence available and is worth nothing when the sense is opposed. The verse's link is to Acts 5:11-13, on the sequence rather than the string."
+  },
+  {
+    "bomRef": "Alma 19:29",
+    "source": "Isaiah 51:23",
+    "category": "formulaic",
+    "sharedText": "the ground and as",
+    "streams": ["machine-ngram"],
+    "reason": "Four words of connective tissue straddling a clause boundary, with 'as' doing different work in each. Isaiah 51:23 is Jerusalem's tormentors telling her to lie down to be walked over; Alma 19:29 is a servant lifting her queen off the floor. The gesture in this verse is argued against Acts 9:41 and the KJV's small set of hand-raisings of women."
+  },
+  {
+    "bomRef": "Alma 19:32",
+    "source": "Zechariah 10:2",
+    "category": "formulaic",
+    "sharedText": "therefore they went their way",
+    "streams": ["machine-ngram"],
+    "reason": "A five-word run of pure narrative dispatch. Zechariah 10:2's flock goes its way because there is no shepherd; the Lamanites who will not hear Lamoni go theirs because they will not hear him. Covered by the standing exclusion at 1 Nephi 1:5."
+  }
+]

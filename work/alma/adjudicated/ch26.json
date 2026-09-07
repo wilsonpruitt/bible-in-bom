@@ -1,0 +1,521 @@
+{
+  "chapter": 26,
+  "adjudicated": "2026-09-07",
+  "adjudicator": "Opus",
+  "links": {
+    "26:3": [
+      {
+        "source": "1 Peter 2:9",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 1
+        },
+        "kjvSpecific": "yes",
+        "mediation": "OT-via-earlier-BoM",
+        "recurrenceRefs": [
+          "Mosiah 27:29",
+          "Alma 19:6",
+          "Alma 36:20"
+        ],
+        "provenance": {
+          "route": "1 Peter 2:9 → KJV → Mosiah 27:29 → Alma 26:3",
+          "other": "“marvellous light” occurs in exactly one KJV verse, 1 Peter 2:9 — “who hath called you out of darkness into his marvellous light”. The 1830 spelling is the KJV's own and the 1920 edition modernized it to 'marvelous', so the borrowing is fractionally plainer in the running text than in the current one (CONVENTIONS §8).",
+          "significance": "The proximate model is not 1 Peter but Alma the Younger. Mosiah 27:29 is his own conversion sentence — 'I was in the darkest abyss; but now I behold the marvellous light of God' — and Alma 26:3 reproduces both halves of it, in order, about the Lamanites: 'were in darkness, yea, even in the darkest abyss; but behold, how many of them are brought to behold the marvellous light of God.' 'Darkest abyss' occurs in exactly two places in the Book of Mormon and they are these two. So Ammon describes a mass conversion in the private vocabulary of the one conversion the book has narrated from the inside, and the biblical phrase reaches him already carrying an interpretation: not Peter's chosen generation called out of darkness, but a particular man's memory of a particular hell."
+        },
+        "note": "'Our brethren, the Lamanites, were in darkness, yea, even in the darkest abyss; but behold, how many of them are brought to behold the marvellous light of God!' The KJV singleton is 1 Peter's and it was adjudicated at Mosiah 27:29; the row is written here rather than passed over because the route matters — it comes to Ammon through Alma's conversion speech, with 'darkest abyss' attached, and that pairing is not in 1 Peter.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "But ye are a chosen generation, a royal priesthood, an holy nation, a peculiar people; that ye should shew forth the praises of him who hath called you out of darkness into his marvellous light;"
+      }
+    ],
+    "26:5": [
+      {
+        "source": "Revelation 14:15",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "OT-via-NT",
+        "composite": [
+          "Joel 3:13",
+          "Matthew 3:12",
+          "John 4:35"
+        ],
+        "provenance": {
+          "mt": "Joel 3:13 — 'Put ye in the sickle, for the harvest is ripe: come, get you down; for the press is full, the fats overflow; for their wickedness is great.'",
+          "route": "Joel 3:13 → Revelation 14:15 → KJV → Book of Mormon",
+          "other": "The two English forms differ in the verb. Joel 3:13 has 'Put ye in the sickle'; Revelation 14:15 has 'Thrust in thy sickle, and reap: for the time is come for thee to reap; for the harvest of the earth is ripe.' “the harvest of the earth is ripe” occurs in exactly one KJV verse, Revelation 14:15. Alma 26:5 has 'ye did thrust in the sickle, and did reap' — Revelation's verb, Revelation's pairing of thrusting with reaping, and Revelation's 'ripe'. `mediation-check.py` returns four decisive points, all for Revelation 14:15.",
+          "significance": "A tenth-order mediation case of the kind CONVENTIONS §7 exists for, and one whose New Testament source is being used against its own grain. Revelation 14:14-20 is a judgment harvest: the sickle is thrust in and what follows is the winepress of the wrath of God, trodden until blood comes out to the horse bridles. Alma 26:5-7 keeps the sickle, the reaping and the ripeness and turns them into a harvest of converts who are gathered and kept safe from a storm. The Book of Mormon has taken the KJV's most violent harvest and read it as Matthew 9:37's — which is what the next two verses confirm, since 26:7's 'Lord of the harvest' is Matthew's phrase and not Revelation's."
+        },
+        "note": "'Behold, the field was ripe, and blessed are ye, for ye did thrust in the sickle, and did reap with your mights.' The verb is decisive: the KJV puts a sickle in at Joel 3:13 and thrusts one in at Revelation 14:15-19, and Alma 26:5 thrusts. 'Thrust in the sickle' appears nowhere else in the Book of Mormon. The sheaves and the garners of the same verse belong to Matthew 3:12's threshing-floor instead, which is adjudicated elsewhere and registered in the exclusions.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ],
+        "text": "And another angel came out of the temple, crying with a loud voice to him that sat on the cloud, Thrust in thy sickle, and reap: for the time is come for thee to reap; for the harvest of the earth is ripe."
+      }
+    ],
+    "26:6": [
+      {
+        "source": "James 3:4",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 3,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "John 3:8"
+        ],
+        "provenance": {
+          "route": "James 3:4 → KJV → Book of Mormon",
+          "other": "Two rarities from one verse. “fierce winds” occurs in exactly one KJV verse, James 3:4; 'listeth' occurs in exactly two, John 3:8 ('the wind bloweth where it listeth') and James 3:4, and only James has it in the construction 'whithersoever the governor listeth'. Alma 26:6 has 'driven with fierce winds, whithersoever the enemy listeth to carry them' — both of James's phrases, in James's order, with 'the enemy' where James has 'the governor'.",
+          "significance": "James 3:4 is an image about the tongue: a great ship driven of fierce winds is turned by a very small helm wherever the steersman wants, as a small member steers a whole life. Alma 26:6 keeps the ship's grammar and changes who holds the helm. In James the governor is the one legitimately in control; in Alma the one who would carry the sheaves off wherever he listeth is 'the enemy', and the point of the sentence is that he cannot, because the harvest is in the garner and the storm cannot penetrate to it. The borrowed clause is the clause that describes being steered, and it is used to say that these people will not be."
+        },
+        "note": "'Neither shall they be driven with fierce winds, whithersoever the enemy listeth to carry them.' A KJV singleton and a KJV near-singleton from the same verse, adjacent and in order, in a Book of Mormon sentence that has otherwise left the sea entirely — there is no ship in Alma 26, only sheaves in a storm. That the nautical wording survives the change of vehicle is what identifies the source.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "Behold also the ships, which though they be so great, and are driven of fierce winds, yet are they turned about with a very small helm, whithersoever the governor listeth."
+      }
+    ],
+    "26:7": [
+      {
+        "source": "Matthew 9:38",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Luke 10:2",
+          "John 6:40"
+        ],
+        "provenance": {
+          "route": "Matthew 9:37-38 → KJV → Book of Mormon",
+          "other": "“Lord of the harvest” occurs in exactly two KJV verses, Matthew 9:38 and Luke 10:2, which are the same saying. 'Raise them up at the last day' has no KJV verse, but 'raise him up at the last day' is John 6's refrain, four times in one chapter.",
+          "significance": "Alma 25:12 borrowed Matthew 9:36's 'scattered abroad, as sheep having no shepherd' for the seed of the priests of Noah; two verses later in Matthew the same paragraph turns to the harvest — 'the harvest truly is plenteous, but the labourers are few; pray ye therefore the Lord of the harvest' — and Alma 26:5-7 is that harvest, with labourers who thrust in the sickle and labour all the day long. The two Alma chapters take the two halves of one Matthean paragraph in Matthew's order and apply them to the two halves of the same event: the Lamanites who were not gathered, and the Lamanites who were. Whether the writer worked from the page or from memory, the page is Matthew 9:36-38."
+        },
+        "note": "'They are in the hands of the Lord of the harvest, and they are his; and he will raise them up at the last day.' The title is Matthew's and Luke's alone, and it closes a harvest allegory whose other two elements — the sickle and the garner — came from Revelation and Matthew 3. Moderate rather than high, because a harvest allegory will reach for a harvest title; what argues for the row is the Matthew 9 proximity noted above.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "Pray ye therefore the Lord of the harvest, that he will send forth labourers into his harvest."
+      }
+    ],
+    "26:8": [
+      {
+        "source": "1 Chronicles 16:35",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Psalm 106:47",
+          "Psalm 113:2"
+        ],
+        "provenance": {
+          "route": "1 Chronicles 16:35 → KJV → Book of Mormon",
+          "other": "“give thanks to thy holy name” occurs in exactly one KJV verse and “glory in thy praise” occurs in exactly one KJV verse, and they are the same verse: 1 Chronicles 16:35, 'Save us, O God of our salvation, and gather us together, and deliver us from the heathen, that we may give thanks to thy holy name, and glory in thy praise.' Psalm 106:47 is the same petition with 'unto thy holy name' and 'to triumph in thy praise'. 'Blessed be the name of' occurs in three KJV verses.",
+          "significance": "Recover 1 Chronicles 16:35 and it is a petition to be gathered and delivered from the heathen so that thanks may be given. Alma 26:8 is that petition answered from the wrong direction: the heathen have been gathered in and are the ones being given thanks for. Ammon's psalm then supplies the verse's second singleton eight verses later — 'therefore let us glory, yea, we will glory in the Lord' at 26:16 — so the two rare phrases of 1 Chronicles 16:35 open and close the same speech. The verse sits inside David's psalm at the bringing of the ark, which is the Old Testament's model for a song of thanksgiving sung by a company rather than an individual, and Alma 26:8's 'let us sing to his praise' is exactly that form."
+        },
+        "note": "'Blessed be the name of our God; let us sing to his praise, yea, let us give thanks to his holy name, for he doth work righteousness forever.' Two KJV singletons from one verse of David's thanksgiving psalm, one used here and one at 26:16. 'Work righteousness' is not itself a KJV phrase in this form; the KJV has 'worketh righteousness' at Psalm 15:2, Isaiah 64:5 and Acts 10:35, and the last of those — 'in every nation he that feareth him, and worketh righteousness, is accepted with him' — is the Peter-and-Cornelius verse, which is the New Testament's charter for a mission outside the covenant people.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "And say ye, Save us, O God of our salvation, and gather us together, and deliver us from the heathen, that we may give thanks to thy holy name, and glory in thy praise."
+      }
+    ],
+    "26:12": [
+      {
+        "source": "Philippians 4:13",
+        "type": "quotation",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "2 Corinthians 12:10",
+          "1 Corinthians 13:2"
+        ],
+        "provenance": {
+          "route": "Philippians 4:13 → KJV → Book of Mormon",
+          "other": "“I can do all things” occurs in exactly one KJV verse, Philippians 4:13: 'I can do all things through Christ which strengtheneth me.' Alma 26:12 reads 'in his strength I can do all things', which keeps the clause and replaces Paul's relative clause with the noun it contains.",
+          "significance": "The whole of Alma 26:11-12 is Paul's paradox in Paul's own order. 'I know that I am nothing' is 2 Corinthians 12:11's 'though I be nothing' and 1 Corinthians 13:2's 'I am nothing'; 'as to my strength, I am weak' is 2 Corinthians 12:10's 'when I am weak, then am I strong'; and the resolution — not my strength but his, and in his I can do everything — is Philippians 4:13. What makes the passage more than a chain of borrowings is its frame: Aaron has just accused Ammon of boasting (26:10), which is the charge Paul spends 2 Corinthians 10-12 answering, and Ammon answers it as Paul does, by conceding the boast and relocating its object."
+        },
+        "note": "'Yea, I know that I am nothing; as to my strength, I am weak; therefore I will not boast of myself, but I will boast of my God; for in his strength I can do all things.' Five words of a KJV singleton, unaltered, at the turn of the sentence. Below Skousen's sixteen-word threshold and catalogued as a quotation on the rarity of the clause and its exactness, not its length.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "I can do all things through Christ which strengtheneth me."
+      }
+    ],
+    "26:13": [
+      {
+        "source": "Acts 2:24",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Psalm 116:3"
+        ],
+        "recurrenceRefs": [
+          "Alma 11:42",
+          "Alma 14:6",
+          "Alma 36:13"
+        ],
+        "provenance": {
+          "route": "Acts 2:24 (the verb) + Psalm 116:3 (the noun) → KJV → Book of Mormon",
+          "other": "Two KJV singletons welded. “loosed the pains” occurs in exactly one KJV verse, Acts 2:24, where what is loosed is 'the pains of death'; “pains of hell” occurs in exactly one KJV verse, Psalm 116:3, where they 'gat hold upon me' and are not loosed by anyone. Alma 26:13's 'loosed from the pains of hell' exists in neither, and the join is visible at the noun.",
+          "significance": "The two verses the phrase is made of are on opposite sides of the same event. Psalm 116:3 is a man in the snares of death calling on the LORD; Acts 2:24 is Peter at Pentecost saying that God raised Christ 'having loosed the pains of death, because it was not possible that he should be holden of it' — the resurrection stated as a release from precisely what Psalm 116 describes. Alma 26:13 applies the resurrection verb to the psalm's hell and makes converts its object: 'how many thousands of our brethren hath he loosed from the pains of hell.' What Acts says God did once for Christ, Ammon says he has done thousands of times for Lamanites."
+        },
+        "note": "'How many thousands of our brethren hath he loosed from the pains of hell; and they are brought to sing redeeming love.' Moderate, because both halves have been adjudicated separately in this book — the noun at Alma 14:6 against Psalm 116:3, the verb at Alma 11:42 against Acts 2:24 — and what is new here is only their fusion. It is recorded because the fusion is the argument: no KJV verse looses the pains of hell, and this one does.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "Whom God hath raised up, having loosed the pains of death: because it was not possible that he should be holden of it."
+      }
+    ],
+    "26:16": [
+      {
+        "source": "1 Corinthians 1:31",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "OT-via-NT",
+        "composite": [
+          "2 Corinthians 10:17",
+          "Jeremiah 9:23",
+          "Jeremiah 9:24",
+          "1 Chronicles 16:35"
+        ],
+        "provenance": {
+          "mt": "Jeremiah 9:23-24 — 'Let not the wise man glory in his wisdom, neither let the mighty man glory in his might … but let him that glorieth glory in this, that he understandeth and knoweth me.'",
+          "route": "Jeremiah 9:23-24 → 1 Corinthians 1:31 / 2 Corinthians 10:17 → KJV → Book of Mormon",
+          "other": "“let him glory in the Lord” occurs in exactly two KJV verses, 1 Corinthians 1:31 and 2 Corinthians 10:17, which are Paul quoting Jeremiah 9:24 twice. Jeremiah's own clause is 'let him that glorieth glory in THIS, that he understandeth and knoweth me' — the object is a proposition, not the LORD. The formula 'glory in the Lord' is Paul's compression and exists nowhere in the KJV Old Testament.",
+          "significance": "This is a mediation case the tool cannot decide and the passage can. `mediation-check.py` on Jeremiah 9:24 against 1 Corinthians 1:31 returns no decisive divergence, because the words the Book of Mormon reproduces are words only one of the two candidates has at all. The evidence is five verses up instead: Alma 26:11-12 refuses to boast 'in my own strength, or in my own wisdom', which is Jeremiah 9:23's pair — the wise man in his wisdom, the mighty man in his might — and 26:16 then states the positive in Paul's compressed form rather than Jeremiah's expanded one. So the speech has Jeremiah's content and Paul's clause, which is exactly what a New Testament mediation looks like. Note also that 'glory in the Lord' completes 1 Chronicles 16:35's 'glory in thy praise', the other singleton of the verse quoted at 26:8."
+        },
+        "note": "'Therefore let us glory, yea, we will glory in the Lord; yea, we will rejoice, for our joy is full … Behold, who can glory too much in the Lord?' The clause is Paul's, twice, and the two Corinthian verses are themselves quotations of Jeremiah 9:24 in a form Jeremiah does not have. The rhetorical question that follows — who can glory TOO MUCH in the Lord — is the Book of Mormon's own addition and it answers Aaron's rebuke at 26:10 by denying that boasting has an upper limit when its object is right.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "That, according as it is written, He that glorieth, let him glory in the Lord."
+      }
+    ],
+    "26:21": [
+      {
+        "source": "1 Corinthians 2:14",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "1 Corinthians 2:11",
+          "1 Corinthians 4:1"
+        ],
+        "recurrenceRefs": [
+          "Mosiah 3:19"
+        ],
+        "provenance": {
+          "route": "1 Corinthians 2:11-14 → KJV → Book of Mormon",
+          "other": "“the natural man” occurs in exactly one KJV verse, 1 Corinthians 2:14: 'the natural man receiveth not the things of the Spirit of God … neither can he KNOW them, because they are spiritually discerned.' “mysteries of God” occurs in exactly one KJV verse, 1 Corinthians 4:1, two chapters later in the same letter.",
+          "significance": "Mosiah 3:19 has already taken 1 Corinthians 2:14's subject and given it a predicate Paul does not use — 'the natural man is an enemy to God'. Alma 26:21 takes the half of the verse Mosiah left behind: 'what natural man is there, that KNOWETH these things? … There is none that knoweth these things, save it be the penitent.' That is Paul's actual claim, that the natural man cannot know, converted into a rhetorical question and then answered with a condition Paul does not name. Paul's contrast is natural against spiritual; Alma 26:21-22's is natural against penitent, and the qualification that follows — repentance, faith, works, unceasing prayer — makes knowing the mysteries a moral achievement rather than an endowment. The row belongs in Alma as well as Mosiah because the two books divide one verse between them."
+        },
+        "note": "'What natural man is there, that knoweth these things? I say unto you, There is none that knoweth these things, save it be the penitent.' A KJV singleton with the verse's own verb attached, which is what distinguishes this use from Mosiah 3:19's. The 'mysteries of God' two clauses later is 1 Corinthians 4:1's singleton, from the same letter.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "But the natural man receiveth not the things of the Spirit of God: for they are foolishness unto him: neither can he know them, because they are spiritually discerned."
+      }
+    ],
+    "26:23": [
+      {
+        "source": "Nehemiah 2:19",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 3,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "2 Chronicles 30:10",
+          "Nehemiah 4:1"
+        ],
+        "provenance": {
+          "route": "Nehemiah 2:19 → KJV → Book of Mormon",
+          "other": "“laughed us to scorn” occurs in exactly one KJV verse, Nehemiah 2:19 — 'when Sanballat the Horonite … heard it, they laughed us to scorn, and despised us'. The KJV laughs to scorn a dozen times but only here in the first person plural, which is the person Alma 26:23 is in.",
+          "significance": "Two Old Testament scenes compete for this verse and the catalogue can have both. The exact wording is Nehemiah's: outsiders deriding a work undertaken at God's command, in the first person plural, by men who are told the work is impossible. But the situation is 2 Chronicles 30:10's, and that verse is nearer still — Hezekiah's posts sent from city to city to call the estranged northern tribes back to the passover, 'but they laughed them to scorn, and mocked them.' Alma 26:23-24 is a mission to estranged brethren, mocked in advance by the people who send it, and the objection quoted at 26:24 is that the Lamanites cannot be brought back. The Book of Mormon has the wording of the one and the plot of the other.",
+          "alternative": "Nehemiah 4:1, 'Sanballat … mocked the Jews', continues the same derision and supplies the verb Alma 26:29 uses of the missionaries themselves."
+        },
+        "note": "'We said unto our brethren in the land of Zarahemla, We go up to the land of Nephi, to preach unto our brethren, the Lamanites, and they laughed us to scorn?' The KJV has this exact four-word phrase once. Its home is the taunt against the rebuilding of Jerusalem, which Nehemiah answers with 'the God of heaven, he will prosper us' — the answer Ammon's whole speech is making.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "But when Sanballat the Horonite, and Tobiah the servant, the Ammonite, and Geshem the Arabian, heard it, they laughed us to scorn, and despised us, and said, What is this thing that ye do? will ye rebel against the king?"
+      }
+    ],
+    "26:28": [
+      {
+        "source": "Acts 20:20",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Acts 20:19",
+          "Acts 20:31",
+          "Acts 5:42"
+        ],
+        "recurrenceRefs": [
+          "Alma 19:17",
+          "Alma 20:30"
+        ],
+        "provenance": {
+          "route": "Acts 20:18-20 → KJV → Book of Mormon",
+          "other": "“from house to house” occurs in exactly four KJV verses. Luke 10:7 forbids it, 1 Timothy 5:13 disparages it, Acts 2:46 uses it of breaking bread; Acts 20:20 is the only one where it describes an apostle's method of teaching — 'have taught you publickly, and from house to house'.",
+          "significance": "Alma 26 belongs to a genre the King James Bible has exactly one specimen of: the missionary's retrospective defence of his own ministry, delivered to colleagues at its close. Acts 20:18-35 is Paul at Miletus, and its elements are Alma 26's — how I have been with you all this time, serving with all humility and with tears and temptations (26:27-28, the depressed hearts and the patient afflictions), teaching publicly and from house to house (26:28-29), coveting no man's silver (26:28, 'not upon the mercies of the world alone'), and a farewell that commends the converts to God. The verbal contact is one phrase; the structural contact is a whole speech, and it is what makes the phrase worth naming.",
+          "alternative": "Acts 5:42, 'daily in the temple, and in every house, they ceased not to teach and preach', is the closer match for 26:29's temples and houses together, without the phrase."
+        },
+        "note": "'We have travelled from house to house, relying upon the mercies of the world; not upon the mercies of the world alone, but upon the mercies of God.' Moderate: four words of ordinary English that the KJV happens to use in four places, one of which is a missionary describing exactly this practice. The row rests on the genre argument in the significance field as much as on the phrase.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "And how I kept back nothing that was profitable unto you, but have shewed you, and have taught you publickly, and from house to house,"
+      }
+    ],
+    "26:29": [
+      {
+        "source": "Mark 10:34",
+        "type": "allusion",
+        "subtype": "conceptual",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 2,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 3,
+          "attestation": 0
+        },
+        "kjvSpecific": "uncertain",
+        "mediation": "direct-NT",
+        "composite": [
+          "Luke 18:32",
+          "Matthew 26:67",
+          "2 Corinthians 11:25"
+        ],
+        "provenance": {
+          "route": "Mark 10:33-34 / Luke 18:32 → KJV → Book of Mormon",
+          "other": "'Spit upon' occurs in four KJV verses; three are the mocking of Jesus (Matthew 27:30, Mark 10:34, Mark 15:19) and the fourth is a purity law about discharge (Leviticus 15:8). Mark 10:34's is the only one in a prediction rather than a narration: 'they shall mock him, and shall scourge him, and shall spit upon him, and shall kill him.' Luke 18:32 gives the same prediction as 'he shall be mocked, and spitefully entreated, and spitted on'.",
+          "significance": "Ammon's catalogue of what the mission suffered runs mocked, spit upon, smitten on the cheek, stoned, bound, imprisoned. The first three are the passion predictions' sequence and the last three are Paul's — 2 Corinthians 11:25's 'thrice was I beaten with rods, once was I stoned', and the prisons of 11:23. So the missionaries are described as suffering what the Gospels say Christ would suffer and what Paul says he did suffer, in that order, which is the New Testament's own way of arranging an apostolic catalogue. The Book of Mormon adds one item to it: 'smote upon our cheeks', which is the blow the KJV gives to the judge of Israel at Micah 5:1 and to the servant of the LORD at Lamentations 3:30, and which the Sermon on the Mount tells a disciple to invite."
+        },
+        "whyNot": "No phrase here is rare and none is reproduced exactly. 'Mocked', 'stoned', 'cast into prison' are all common KJV words in common KJV forms, and a list of persecutions will contain them whether or not any source is in view. The row is an argument about the shape of the list, not about its wording, and a reader who declines the shape should decline the row; `kjvSpecific` is 'uncertain' for the same reason.",
+        "note": "'We have been cast out, and mocked, and spit upon, and smote upon our cheeks; and we have been stoned, and taken and bound with strong cords, and cast into prison.' Recorded as a figural-leaning allusion under CONVENTIONS §0a: the individual words will not carry a source, and the sequence is the passion prediction followed by Paul's catalogue of hardships, which is a real and checkable claim about how the sentence is built.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "And they shall mock him, and shall scourge him, and shall spit upon him, and shall kill him: and the third day he shall rise again."
+      }
+    ],
+    "26:30": [
+      {
+        "source": "1 Corinthians 9:22",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Romans 11:14"
+        ],
+        "provenance": {
+          "route": "1 Corinthians 9:22 → KJV → Book of Mormon",
+          "other": "“save some” occurs in exactly two KJV verses, both Paul's: Romans 11:14, 'if by any means I may provoke to emulation them which are my flesh, and might save some of them', and 1 Corinthians 9:22, 'I am made all things to all men, that I might by all MEANS save some'. Alma 26:30 has both of 1 Corinthians 9:22's words — 'that perhaps we might be the MEANS of saving some soul … if perhaps we could be the means of saving SOME' — with 'means' turned from an adverbial into the missionaries themselves.",
+          "significance": "Romans 11:14 is the closer situation and 1 Corinthians 9:22 is the closer wording, and the two together are the whole of Ammon's apologia. Romans 11 is Paul hoping to save some of his own flesh, his kinsmen after the flesh, by a ministry aimed elsewhere — which is the Lamanite mission's exact case, brethren estranged and pursued for their own sake. 1 Corinthians 9 is the passage on becoming all things to all men, and it is the New Testament's defence of accommodating a mission to the people it is sent to, which is what Ammon did at the court of Lamoni and what Alma 26:28-29 is describing when it lists the houses, streets, hills, temples and synagogues taught in."
+        },
+        "note": "'That perhaps we might be the means of saving some soul … if perhaps we could be the means of saving some.' Two words that occur together in one KJV verse, repeated twice in one Book of Mormon verse. The syntactic shift is worth noting: Paul's 'by all means' is adverbial and Alma's 'be the means' makes the preachers instruments, which is the figure the chapter opened with at 26:3 and returns to at 26:15.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "To the weak became I as weak, that I might gain the weak: I am made all things to all men, that I might by all means save some."
+      }
+    ],
+    "26:37": [
+      {
+        "source": "Psalm 145:9",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 1
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Colossians 3:12",
+          "Psalm 147:4"
+        ],
+        "recurrenceRefs": [
+          "1 Nephi 1:20"
+        ],
+        "provenance": {
+          "route": "Psalm 145:9 → KJV → Book of Mormon",
+          "other": "Psalm 145:9 reads 'The LORD is good to all: and his tender mercies are over all his works.' Alma 26:37 reads 'his bowels of mercy is over all the earth' — the psalm's predicate with a noun from Colossians 3:12, since “bowels of mercies” occurs in exactly one KJV verse. 'He numbereth his people' has no KJV verse; the nearest is Psalm 147:4, 'he telleth the number of the stars', four verses after the psalm that gathers the outcasts of Israel.",
+          "significance": "This is a CONVENTIONS §8 case and a striking one, because the same anomaly appears at both ends of the book. 1 Nephi 1:20 reads in the 1830 edition 'his tender mercies … IS over all', against the KJV's 'are', and the 1920 edition corrected it to 'are'. Alma 26:37 reads in 1830 'his bowels of mercy IS over all the earth', and 1920 corrected it to 'are' as well. Two verses, six hundred pages apart, borrowing the same clause of the same psalm, both with a singular verb where the KJV has a plural, both mended in the same edition. Whatever produced the grammar produced it twice, and in the modern text neither instance is visible."
+        },
+        "note": "'He numbereth his people, and his bowels of mercy is over all the earth.' Psalm 145:9's predicate with Colossians 3:12's noun, and with the psalm's 'all his works' widened to 'all the earth' — which is the sentence's point, since the clause it completes is that God is mindful of every people in whatsoever land. The 1830 singular verb is the reading of the running text and is discussed above.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "The LORD is good to all: and his tender mercies are over all his works."
+      }
+    ]
+  }
+}

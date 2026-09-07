@@ -1,0 +1,494 @@
+{
+  "chapter": 34,
+  "adjudicated": "2026-09-07",
+  "adjudicator": "Opus",
+  "links": {
+    "34:11": [
+      {
+        "source": "Psalm 49:7",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "text": "None of them can by any means redeem his brother, nor give to God a ransom for him:",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 4,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "provenance": {
+          "route": "Psalm 49:7 → KJV → Book of Mormon",
+          "other": "“redeem his brother” occurs in exactly one KJV verse, Psalm 49:7, as does “a ransom for him”. The Book of Mormon does not reproduce either phrase; what it reproduces is the sentence's logic and its universal negative.",
+          "significance": "Psalm 49:7-8 is the KJV's one flat denial that a human being can buy another's life — 'for the redemption of their soul is precious, and it ceaseth for ever'. Amulek's argument at 34:11-12 is that denial turned into an argument for the atonement: because no man's blood can atone for another's sins, the sacrifice that does must be infinite. The Psalm states the impossibility and stops; Alma states it in order to say who overcomes it.",
+          "alternative": "The thought is also Pauline (Romans 5:6-8) and could be reached without the Psalm."
+        },
+        "note": "'Now there is not any man that can sacrifice his own blood, which will atone for the sins of another.' The proposition is Psalm 49:7's: no man can redeem his brother or give God a ransom for him. Alma's vocabulary is sacrificial where the Psalm's is commercial — 'sacrifice his own blood' for 'give to God a ransom' — which is why this is an allusion rather than a quotation, but the shape of the sentence, a universal negative about one man's power to buy another out, is the Psalm's and is nowhere else in the KJV so baldly stated.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      },
+      {
+        "source": "2 Samuel 14:7",
+        "type": "echo",
+        "subtype": "possible",
+        "confidence": "moderate",
+        "text": "And, behold, the whole family is risen against thine handmaid, and they said, Deliver him that smote his brother, that we may kill him, for the life of his brother whom he slew; and we will destroy the heir also: and so they shall quench my coal which is left, and shall not leave to my husband neither name nor remainder upon the earth.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 2,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "provenance": {
+          "route": "2 Samuel 14:7 → KJV → Book of Mormon",
+          "other": "“the life of his brother” occurs in exactly one KJV verse, 2 Samuel 14:7. The n-gram stream ranked it here and was, for once, pointing at something.",
+          "significance": "The KJV's only sentence about a law taking 'the life of his brother' is the widow of Tekoa's parable, which exists to make David suspend the law of blood for the sake of a survivor — and it is a fiction told to bring Absalom home. Amulek is asking the same question of the same law and answering it the same way: 'will our law, which is just, take the life of his brother? I say unto you, Nay.' Both passages get a just law to stop short of a second death, and in both the stopping is not a defect in the law but the opening through which mercy is argued."
+        },
+        "note": "'Now if a man murdereth, behold, will our law, which is just, take the life of his brother? I say unto you, Nay.' The one KJV verse containing 'the life of his brother' is also a case of fratricide argued before a judge, which is a coincidence worth recording even though the roles do not line up.",
+        "whyNot": "In 2 Samuel the life demanded is the killer's own, exacted for the brother he slew; in Alma the life is an innocent brother's, offered as a substitute. The phrase is identical and the legal question adjacent, but the referent of 'his brother' is not the same, and a reader who wanted only a singleton and no argument could take this for coincidence.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "34:13": [
+      {
+        "source": "Matthew 5:18",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "text": "For verily I say unto you, Till heaven and earth pass, one jot or one tittle shall in no wise pass from the law, till all be fulfilled.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "Matthew 5:18 → KJV → Book of Mormon",
+          "other": "“jot” occurs in exactly one KJV verse and “tittle” in exactly two, Matthew 5:18 and Luke 16:17; only Matthew has both words, and only Matthew has 'till all be fulfilled'. Luke 16:17 is therefore excluded by the pairing itself.",
+          "significance": "Matthew 5:18 is the verse in which Jesus refuses to abolish the law: not one jot passes 'till all be fulfilled', which in Matthew is a promise that the law stands. Alma 34:13 keeps every word of the guarantee and reverses its use. Where Matthew's clause holds the law open, Alma's closes it — 'then shall the law of Moses be fulfilled; yea, it shall all be fulfilled; every jot and tittle, and none shall have passed away' — so the fulfilment that Matthew defers indefinitely is dated here to the great and last sacrifice, and the jot and tittle that Matthew says will not pass are said not to have passed precisely because they have all been kept."
+        },
+        "note": "'Then shall the law of Moses be fulfilled; yea, it shall all be fulfilled; every jot and tittle, and none shall have passed away.' Two words that occur almost nowhere in the KJV, taken from the one verse that has both, and taken with the clause they belong to — 'till all be fulfilled' becomes 'it shall all be fulfilled'. The 1830 reading is 'it shall all be fulfilled'; 1920 transposed it to 'it shall be all fulfilled', moving away from the KJV's word order, so the first edition shows the borrowing a shade more plainly than the current text does. Below Skousen's sixteen-word threshold and not one of his quotations.",
+        "bibliography": [],
+        "status": "consensus",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      },
+      {
+        "source": "Hebrews 9:22",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "text": "And almost all things are by the law purged with blood; and without shedding of blood is no remission.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Hebrews 9:26"
+        ],
+        "provenance": {
+          "route": "Hebrews 9:22-26 → KJV → Book of Mormon",
+          "other": "“shedding of blood” occurs in exactly one KJV verse, Hebrews 9:22. Hebrews 9:26's 'once in the end of the world hath he appeared to put away sin by the sacrifice of himself' is the KJV's nearest thing to Alma's repeated 'great and last sacrifice', a phrase that occurs in no KJV verse at all.",
+          "significance": "Hebrews 9 is the argument Alma 34:8-14 is running: the law's sacrifices are repeated because none of them is final, and the one that is final is offered once. Recovering the context sharpens Alma's odd formulation. Hebrews says there is no remission WITHOUT shedding of blood; Alma says the great and last sacrifice brings 'a stop to the shedding of blood'. The same three words carry the argument in both, and Alma has moved them from the condition of forgiveness to the thing forgiveness ends."
+        },
+        "note": "'And then shall there be, or it is expedient there should be, a stop to the shedding of blood.' The KJV uses 'shedding of blood' once, in the chapter of the New Testament that argues most closely what Alma 34 argues — a last sacrifice that makes the law's repeated ones unnecessary. Recorded at moderate because the three shared words are the whole of the verbal contact; what raises it above an echo is that the surrounding argument is Hebrews' argument, in Hebrews' order: many sacrifices, insufficient; one sacrifice, infinite; the law thereby fulfilled.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "34:18": [
+      {
+        "source": "Isaiah 63:1",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "text": "Who is this that cometh from Edom, with dyed garments from Bozrah? this that is glorious in his apparel, travelling in the greatness of his strength? I that speak in righteousness, mighty to save.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 2,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "provenance": {
+          "route": "Isaiah 63:1 → KJV → Book of Mormon",
+          "other": "“mighty to save” occurs in exactly one KJV verse, Isaiah 63:1. Zephaniah 3:17's 'he will save' and Isaiah 59:1's 'his hand is not shortened, that it cannot save' are the nearest competitors and share no phrase.",
+          "significance": "Isaiah 63:1-3 is the winepress: the figure who answers 'mighty to save' is the one whose garments are dyed red because he has trodden the peoples in his anger, and 'their blood shall be sprinkled upon my garments'. Amulek offers the title as pure reassurance — 'cry unto him for mercy; for he is mighty to save' — but the chapter it comes from makes salvation and bloodstained clothing the same picture, which is where Alma 34 is going: 34:36 ends with garments made white through the blood of the Lamb. The KJV's one 'mighty to save' and the passage's closing garment both belong to the same Isaianic image, running in opposite directions."
+        },
+        "note": "'Yea, cry unto him for mercy; for he is mighty to save.' Four words from the only KJV verse that has them, dropped into the middle of the prayer exhortation as a title needing no explanation. The phrase does no work Isaiah's context would predict, which is what makes it a borrowing rather than a citation: it has become a standing epithet.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "34:26": [
+      {
+        "source": "Matthew 6:6",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "But thou, when thou prayest, enter into thy closet, and when thou hast shut thy door, pray to thy Father which is in secret; and thy Father which seeth in secret shall reward thee openly.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "1 Samuel 1:15"
+        ],
+        "provenance": {
+          "route": "Matthew 6:5-6 → KJV → Book of Mormon",
+          "other": "“closet” occurs in exactly two KJV verses, Joel 2:16 and Matthew 6:6, and only Matthew's is a place to pray in; “shut thy door” is a KJV singleton in the same verse. “poured out my soul” is a KJV singleton at 1 Samuel 1:15, Hannah's answer to the charge of drunkenness at the sanctuary.",
+          "significance": "Matthew 6:5-6 is the KJV's one instruction about where to pray, and it works by contrast: not in the synagogues and street corners like the hypocrites, but in a closet with the door shut. Alma 34:19-28 has just spent nine verses commanding prayer in fields, over flocks, in houses, morning and evening — the most public and agricultural prayer imaginable — and then says 'but this is not all', and sends the hearer to the closet. The Sermon's private-versus-public opposition is kept but re-sequenced into an ascent, and the hypocrites of Matthew 6:5 duly arrive two verses later at 34:28, in Matthew's own word."
+        },
+        "note": "'Ye must pour out your souls in your closets, and your secret places, and in your wilderness.' The KJV has one prayer-closet and it comes with a shut door and a Father who 'seeth in secret'; Alma has the closet and the secret place and adds a wilderness the Sermon does not have. Note that the Zoramites' complaint at 33:2 was that they had no place to worship, which is what makes this instruction the answer to the chapter's own problem: the poor who are cast out of the synagogue are given the one place of prayer the Sermon on the Mount actually recommends.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "34:28": [
+      {
+        "source": "Matthew 25:43",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "I was a stranger, and ye took me not in: naked, and ye clothed me not: sick, and in prison, and ye visited me not.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Matthew 25:36",
+          "Matthew 6:5",
+          "James 5:16"
+        ],
+        "provenance": {
+          "route": "Matthew 25:41-45, with Matthew 6:5 and James 5:16 → KJV → Book of Mormon",
+          "other": "“sick and ye visited me” occurs in exactly one KJV verse, Matthew 25:36, and its negative counterpart at 25:43 is the form Alma has. “as the hypocrites” occurs in exactly three KJV verses, Matthew 6:2, 6:5 and 6:16, of which 6:5 is the one about prayer. James 5:16 is the KJV's only verse joining prayer to availing: 'the effectual fervent prayer of a righteous man availeth much.'",
+          "significance": "Alma 34:28 is built from the negative half of the sheep and the goats. Matthew 25:43 is the sentence passed on those who did not visit or clothe, and Alma reproduces its list in Matthew's order — naked, sick, visited not — and adds the verdict Matthew's parable withholds until 25:46. What Matthew's judgment scene does not do is connect the failure to prayer; that is Alma's own move, and he makes it in James's vocabulary turned inside out. James says a righteous man's prayer availeth much; Alma says an uncharitable man's prayer 'availeth you nothing'. The one KJV verse that measures the efficacy of prayer is being used to set its floor at zero."
+        },
+        "note": "'If ye turn away the needy, and the naked, and visit not the sick and afflicted, and impart of your substance, if ye have, to those which stand in need … your prayer is vain, and availeth you nothing, and ye are as hypocrites which do deny the faith.' Three New Testament passages meet in one sentence: Matthew 25's list of the uncared-for in its negative form, James 5:16's availing prayer negated, and the hypocrite of Matthew 6:5 — who in the Sermon is precisely a man whose prayer is worthless. Given that 34:26 has just quoted Matthew 6:6, the hypocrite here is almost certainly Matthew's and not a generic one. The 1830 'which do deny the faith' was modernized to 'who' in 1920.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      },
+      {
+        "source": "1 Timothy 5:8",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "text": "But if any provide not for his own, and specially for those of his own house, he hath denied the faith, and is worse than an infidel.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "1 Timothy 5:8 → KJV → Book of Mormon",
+          "other": "“denied the faith” occurs in exactly one KJV verse, 1 Timothy 5:8; the phrase 'deny the faith' occurs in no KJV verse at all, so Alma's present-tense form is a small conjugational shift off a singleton rather than an independent idiom.",
+          "significance": "The KJV's one man who has 'denied the faith' has denied it by failing to provide materially for dependents — the same failure, and only that failure, that Alma 34:28 says makes a man's prayer vain. 1 Timothy 5 is a chapter about the church's register of widows and who is obliged to support them; Alma 34:28 is addressed to people who have just been told that their own poverty is not an excuse for withholding (34:40). Recovering the context turns Alma's clause from an insult into a citation of the New Testament's most concrete definition of apostasy."
+        },
+        "note": "'And ye are as hypocrites which do deny the faith.' The KJV never says 'deny the faith' and says 'denied the faith' once, of a man who will not provide for his own household — which is exactly the offence Alma has just described. The interest of the row is that Alma has generalised a household duty into a general one: 1 Timothy's provision is for 'his own', Alma's is for 'those which stand in need'.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "34:29": [
+      {
+        "source": "Matthew 5:13",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "text": "Ye are the salt of the earth: but if the salt have lost his savour, wherewith shall it be salted? it is thenceforth good for nothing, but to be cast out, and to be trodden under foot of men.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "Matthew 5:13 → KJV → Book of Mormon",
+          "other": "“trodden under foot of men” occurs in exactly one KJV verse, Matthew 5:13. Luke 14:34-35, the other savourless-salt saying, ends 'men cast it out' and has no treading, so the mediation is decided by the tread.",
+          "significance": "Matthew 5:13's structure survives intact and only its substance is swapped: a thing that has lost the property that made it valuable, judged 'good for nothing', cast out, trodden under foot of men. Alma exchanges salt for dross and supplies the parenthesis Matthew leaves implicit — '(it being of no worth,)' for 'good for nothing'. What the substitution costs is the paradox: Matthew's salt was good and became useless, whereas dross was never anything else, so the warning that an uncharitable man is dross is harsher than the one it is made from."
+        },
+        "note": "'If ye do not remember to be charitable, ye are as dross, which the refiners do cast out, (it being of no worth,) and is trodden under foot of men.' Four of the KJV's words in their KJV order, from the one verse that has them, with the three elements of Matthew 5:13's ending kept in Matthew's sequence — worthless, cast out, trodden under foot of men. The refiner is Alma's own addition and points at Malachi 3:2-3 rather than Matthew, which is what makes the sentence a fusion and not a quotation.",
+        "bibliography": [],
+        "status": "consensus",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "34:33": [
+      {
+        "source": "John 9:4",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "text": "I must work the works of him that sent me, while it is day: the night cometh, when no man can work.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "recurrenceRefs": [
+          "Alma 34:32"
+        ],
+        "provenance": {
+          "route": "John 9:4 → KJV → Book of Mormon",
+          "other": "“the night cometh” occurs in exactly one KJV verse, John 9:4. Its companion in Alma — 'the day of this life is the day for men to perform their labors' at 34:32 — answers to John's 'while it is day', so the two verses take the two halves of one sentence in order.",
+          "significance": "John 9:4 stands immediately before the healing of the man born blind, and the day and night in it are the length of Jesus's own ministry, not a human lifetime; the works to be done before dark are his. Alma 34:32-33 transfers the sentence to the hearer and makes the night death — 'then cometh the night of darkness, wherein there can be no labor performed' — so a saying about the shortness of the Son's opportunity becomes the KJV's sharpest statement of the shortness of everyone's. The transfer is what the passage's famous line depends on: 'this life is the time for men to prepare to meet God' is John 9:4 with the speaker changed."
+        },
+        "note": "'Then cometh the night of darkness, wherein there can be no labor performed.' John's is the only KJV verse in which the night comes, and it comes in the same clause-shape and with the same consequence, that work stops. Alma 34:32 has already supplied the daylight half — the day of this life is the day for men to perform their labors — so the borrowing spans two verses and keeps John's order. 'Night of darkness' is the Book of Mormon's own intensification and occurs in no KJV verse.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "34:35": [
+      {
+        "source": "John 8:37",
+        "type": "echo",
+        "subtype": "possible",
+        "confidence": "moderate",
+        "text": "I know that ye are Abraham’s seed; but ye seek to kill me, because my word hath no place in you.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 4,
+          "sequence": 3,
+          "context": 3,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "John 8:37 → KJV → Book of Mormon",
+          "other": "“hath no place in you” occurs in exactly one KJV verse, John 8:37.",
+          "significance": "John 8:37 diagnoses hearers who are Abraham's seed and murderous anyway: the descent is intact and the word has nowhere to lodge. That is the diagnosis Alma 34:35 gives the Zoramites, who have a synagogue, a genealogy and a weekly confession of election, and in whom the spirit of the Lord now 'hath no place'. In John the thing with no place is the word; in Alma it is the Spirit, and the substitution is the difference between a hearing that fails and a person who has been vacated and filled by something else."
+        },
+        "note": "'Therefore the spirit of the Lord hath withdrawn from you, and hath no place in you, and the Devil hath all power over you.' A five-word run from the KJV's only verse containing it. Recorded at moderate rather than high because the phrase is ordinary English and could be arrived at independently; what argues for the borrowing is that both sentences describe the same condition — a hearer in whom something divine cannot lodge — and that neither is about physical room.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "34:36": [
+      {
+        "source": "Revelation 3:12",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "text": "Him that overcometh will I make a pillar in the temple of my God, and he shall go no more out: and I will write upon him the name of my God, and the name of the city of my God, which is new Jerusalem, which cometh down out of heaven from my God: and I will write upon him my new name.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "Revelation 3:12 → KJV → Book of Mormon",
+          "other": "“go no more out” occurs in exactly two KJV verses, 2 Samuel 21:17 (David's men forbidding him the battlefield) and Revelation 3:12. Only Revelation's is a promise, and only Revelation's stands in a temple. The verse's other three clauses are re-used rather than fresh: 'dwelleth not in unholy temples' is adjudicated at Alma 7:21 against Acts 7:48, the seating with the patriarchs at Alma 5:24 against Luke 13:28-29 and Matthew 8:11-12, and the garments made white at Alma 5:21 and 13:11 against Revelation 7:14. The exclusion register carries all three cross-references from this verse.",
+          "significance": "This is the one clause of 34:36 with no earlier adjudication in Alma, and it is the clause that binds the verse together. Amulek's sentence opens with a temple God will not dwell in and closes with a permanence — 'sit down in his kingdom, to go no more out' — and Revelation 3:12 is the single KJV verse that joins those two things: the overcomer is made a pillar IN the temple of God and therefore goes no more out. Recover it and Amulek's two halves stop being a pair of unrelated sayings and become one image: the man who is himself no unholy temple is built into the holy one, and the going-no-more-out is not a promise of rest but of fixture. It also explains the odd verb 'sit down … to go no more out', which reads as a mixture until Revelation supplies the pillar that cannot leave."
+        },
+        "note": "'The righteous should sit down in his kingdom, to go no more out.' Amulek attributes the whole verse to what 'the Lord hath said', and it is in fact four sayings spliced: Acts 7:48's temple, Luke 13:28-29's seating, Revelation 3:12's permanence and Revelation 7:14's whitened garments. Three of the four have been adjudicated earlier in Alma and are registered as cross-references here rather than argued again; Revelation 3:12 is new, and it is the join. The 1830 'the righteous should sit down' was changed to 'shall' in 1920, which moves the clause away from Revelation's future promise and toward a general rule.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "34:37": [
+      {
+        "source": "Philippians 2:12",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "text": "Wherefore, my beloved, as ye have always obeyed, not as in my presence only, but now much more in my absence, work out your own salvation with fear and trembling.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Philippians 2:9"
+        ],
+        "provenance": {
+          "route": "Philippians 2:9-12 → KJV → Book of Mormon",
+          "other": "“work out your own salvation” occurs in exactly one KJV verse, Philippians 2:12, and “name which is above every name” in exactly one, Philippians 2:9. Alma drops 'own' and replaces 'and trembling' with 'before God'.",
+          "significance": "The next verse is the reason to name Philippians 2:9 as well. Alma 34:37-38 asks for three things in sequence — work out your salvation with fear, take upon you the name of Christ, humble yourselves even to the dust — and Philippians 2:8-12 has the same three in reverse: Christ humbled himself, God gave him a name above every name, therefore work out your own salvation with fear and trembling. Read together, Amulek's exhortation is the Christ-hymn run backwards through the hearer: the name that was given because of the humbling is now taken by people who are told to humble themselves after taking it."
+        },
+        "note": "'That ye should work out your salvation with fear before God.' A KJV singleton with one deletion and one substitution, and the substitution is the argument: Paul's 'fear and trembling' is an inward posture, Amulek's 'fear before God' names the one it is felt in front of — which is where 34:32's 'prepare to meet God' has been heading all along. The 'own' that Alma drops is the word doing Paul's work against boasting; without it the phrase becomes an instruction rather than a warning.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "34:38": [
+      {
+        "source": "John 4:24",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "text": "God is a Spirit: and they that worship him must worship him in spirit and in truth.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "John 4:21"
+        ],
+        "provenance": {
+          "route": "John 4:21-24 → KJV → Book of Mormon",
+          "other": "“in spirit and in truth” occurs in exactly two KJV verses, John 4:23 and 4:24, and nowhere else; “worship the Father” likewise occurs only at John 4:21 and 4:23. Both of Alma's clauses come from the same four verses of one discourse.",
+          "significance": "John 4:21-24 is the KJV's one argument that worship has been detached from a place: not this mountain, not Jerusalem, but spirit and truth. Amulek gives both halves — 'worship God in whatsoever place ye may be in, in spirit and in truth' — and the placelessness is the point of the sermon, since his hearers are the Zoramite poor who have been shut out of the synagogue they built. Two verses earlier he denied that God dwells in unholy temples; here he supplies the replacement, and it is the replacement Jesus offers a Samaritan whose temple was also the wrong one. The whole Zoramite episode is a synagogue-exclusion story answered out of John 4."
+        },
+        "note": "'Worship God in whatsoever place ye may be in, in spirit and in truth.' The closing phrase belongs to John 4 and to no other KJV chapter, and the clause before it paraphrases John 4:21's refusal of the two rival sites. The pairing is the finding rather than either phrase alone: Alma has compressed a discourse into a sentence and kept its logic — no place, therefore spirit and truth.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "34:39": [
+      {
+        "source": "1 Peter 4:7",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "text": "But the end of all things is at hand: be ye therefore sober, and watch unto prayer.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "1 Peter 5:8"
+        ],
+        "provenance": {
+          "route": "1 Peter 4:7 with 1 Peter 5:8 → KJV → Book of Mormon",
+          "other": "“sober and watch” occurs in exactly one KJV verse, 1 Peter 4:7; “watch unto prayer” is the same singleton. Alma's 'watchful unto prayer' is the adjectival form of it and occurs in no KJV verse.",
+          "significance": "1 Peter puts the watching and the devil in two places that belong together — 'watch unto prayer' at 4:7 because the end of all things is at hand, and at 5:8 'be sober, be vigilant; because your adversary the devil, as a roaring lion, walketh about, seeking whom he may devour'. Alma 34:39 joins them into a single sentence: be watchful unto prayer continually, that ye may not be led away by the temptation of the Devil, that he may not overpower you. The devouring lion becomes 'overpower', and the eschatological urgency of 4:7 becomes 'at the last day' — so the letter's two halves are read as one instruction, which is how a preacher rather than an editor uses a text."
+        },
+        "note": "'Yea, and I also exhort you, my brethren, that ye be watchful unto prayer continually, that ye may not be led away by the temptation of the Devil.' The KJV joins watching and prayer in one verse only, and Peter's second warning about the devil supplies the danger the watching is against. Moderate rather than high: the collocation is common in devotional English and could have reached the passage without either verse, but the singleton status of Peter's phrase is worth the row.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ]
+  }
+}

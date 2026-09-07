@@ -1,0 +1,98 @@
+[
+  {
+    "bomRef": "Alma 22:8",
+    "source": "1 Samuel 17:55",
+    "category": "common-vocabulary",
+    "sharedText": "as thou livest, O king",
+    "streams": ["manual"],
+    "reason": "Aaron's 'assuredly, as thou livest, O king, there is a God' looks like the KJV's oath by a king's life, and 1 Samuel 17:55 ('As thy soul liveth, O king, I cannot tell') is the closest fit — Abner swearing to Saul in the David-and-Goliath chapter this book draws on elsewhere. But 'as thy soul liveth' occurs in ten KJV verses across four books and cannot point to one of them, and the Book of Mormon's clause drops 'soul', which is the word that makes the KJV formula an oath at all. Recorded because the temptation is real: David's confession three verses earlier, 'that all the earth may know that there is a God in Israel' (1 Samuel 17:46), is one of only two KJV verses containing 'there is a God', and the coincidence of both halves of Aaron's sentence with one page of 1 Samuel is the kind of thing that gets written up without checking."
+  },
+  {
+    "bomRef": "Alma 22:7",
+    "source": "James 2:19",
+    "category": "insufficient-verbal",
+    "sharedText": "believest thou that there is a God",
+    "streams": ["manual"],
+    "reason": "'Believest thou that there is a God?' invites James 2:19, 'Thou believest that there is one God; thou doest well: the devils also believe, and tremble' — the KJV's one interrogation of bare theism. The sense is opposed and the wording is one word apart in the direction that matters: James has 'one God' and is arguing that the belief is worthless without works, while Aaron is treating the same belief as the ground on which everything else can be built. The exchange that follows (22:8-11) confirms the reading: assent is enough for Aaron to begin. No link."
+  },
+  {
+    "bomRef": "Alma 22:10",
+    "source": "Revelation 4:11",
+    "category": "common-vocabulary",
+    "sharedText": "created all things",
+    "streams": ["manual"],
+    "reason": "'He created all things, both in Heaven and in earth' has two KJV backgrounds — 'created all things' at Ephesians 3:9 and Revelation 4:11, and the heaven-and-earth pairing at Colossians 1:16 ('all things ... that are in heaven, and that are in earth') — and no way to choose between them. 'Both in heaven and in earth' is in no KJV verse. The doctrine is a commonplace of every English creed and the phrasing is not any one verse's."
+  },
+  {
+    "bomRef": "Alma 22:12",
+    "source": "2 Chronicles 10:16",
+    "category": "formulaic",
+    "sharedText": "saw that the king would",
+    "streams": ["machine-ngram"],
+    "reason": "The chapter's top-ranked machine candidate, on a five-word run of pure narrative connective. 2 Chronicles 10:16 is Israel's revolt from Rehoboam; the shared words are 'saw that the king would' and nothing else. The verse's real source is Genesis 1-3, which the n-gram stream could not see because the Book of Mormon summarizes rather than quotes it."
+  },
+  {
+    "bomRef": "Alma 22:15",
+    "source": "2 Timothy 1:4",
+    "category": "formulaic",
+    "sharedText": "that I may be filled with joy",
+    "streams": ["machine-ngram"],
+    "reason": "The longest run in the chapter (seven words) and the highest-rarity machine score, and it is worth nothing. 2 Timothy 1:4 is Paul greeting Timothy — 'greatly desiring to see thee, being mindful of thy tears, that I may be filled with joy' — and the shared string is a purpose clause in a formula of affection. The verse's actual source is the rich young ruler pericope, which scored lower. A clean example of CONVENTIONS §9: rarity-weighted n-grams rank boilerplate above the real link."
+  },
+  {
+    "bomRef": "Alma 22:17",
+    "source": "Revelation 18:2",
+    "category": "wrong-sense",
+    "sharedText": "cried mightily",
+    "streams": ["manual"],
+    "reason": "Revelation 18:2's 'And he cried mightily with a strong voice, saying' is the only other KJV verse with the collocation, and the shape — 'cried mightily ... saying' followed by direct speech — matches Alma 22:17 more exactly than Jonah 3:8's infinitive does. It is nevertheless the wrong verse. Revelation 18:2 is an angel proclaiming the fall of Babylon; Alma 22:17 is a man on his face praying for the first time. The link is filed at Jonah 3:8, where the speaker is a heathen king and the whole surrounding sequence (throne abandoned, decree published through the land) recurs at Alma 22:27."
+  },
+  {
+    "bomRef": "Alma 22:17",
+    "source": "Acts 28:29",
+    "category": "formulaic",
+    "sharedText": "had said these words",
+    "streams": ["machine-ngram"],
+    "reason": "'When he had said these words' is KJV narrative connective; the Book of Mormon uses it continuously. Covered by the standing exclusion at 1 Nephi 2:1 and registered here only because the machine ranked it inside the chapter's top twenty-four."
+  },
+  {
+    "bomRef": "Alma 22:19",
+    "source": "Esther 2:14",
+    "category": "wrong-sense",
+    "sharedText": "she came in unto the king",
+    "streams": ["machine-ngram"],
+    "reason": "'She came in unto the king' occurs in exactly one KJV verse, and the singleton is misleading in the worst way: Esther 2:14 is about the concubines going in to Ahasuerus by night, and the idiom there is sexual. Alma 22:19 is a queen entering the room where her husband lies unconscious. Esther 4:7 was proposed alongside it for 'all that had happened unto him', which is likewise narrative filler. A rare string with an opposed sense — the model case of the category, and exactly the row a careless pass would have promoted because the rarity tool said 'singleton'."
+  },
+  {
+    "bomRef": "Alma 22:22",
+    "source": "Joshua 7:5",
+    "category": "common-vocabulary",
+    "sharedText": "the hearts of the people",
+    "streams": ["machine-ngram"],
+    "reason": "'Hardness of the hearts of the people' shares only 'the hearts of the people' with Joshua 7:5, where the hearts melt after the defeat at Ai. Hardness of heart in the Book of Mormon has its own KJV background (Mark 3:5, Matthew 19:8) adjudicated in 1 Nephi; nothing in Joshua 7 bears."
+  },
+  {
+    "bomRef": "Alma 22:23",
+    "source": "Acts 16:34",
+    "category": "insufficient-verbal",
+    "sharedText": "his whole household were converted",
+    "streams": ["manual"],
+    "reason": "'His whole household were converted unto the Lord' is the Acts formula for a Gentile conversion — the jailer 'believing in God with all his house' (16:34), Crispus 'with all his house' (18:8), Lydia and her household (16:15) — and the chapter has already been read against Acts 14 and Acts 3. But 'whole household' and 'converted unto the Lord' are in no KJV verse, and 'all his house' is far too common to point anywhere. The resemblance is to a pattern in Acts rather than to a sentence in it, so it is registered here rather than catalogued as a link. Note that Alma 14:27 has already been adjudicated against the Philippian jailer's earthquake, so a reader who wants the Acts 16 frame has it at that verse."
+  },
+  {
+    "bomRef": "Alma 22:23",
+    "source": "Luke 19:7",
+    "category": "formulaic",
+    "sharedText": "and when they saw it",
+    "streams": ["machine-ngram"],
+    "reason": "Six words of narrative connective. Luke 19:7 is the crowd murmuring at Zacchaeus; the shared string is 'and when they saw it, they'. The murmuring parallel that does bear is filed at 22:24 against John 7:12."
+  },
+  {
+    "bomRef": "Alma 22:27",
+    "source": "Jonah 3:7",
+    "category": "better-source-identified",
+    "sharedText": "sent a proclamation throughout all the land",
+    "streams": ["manual"],
+    "reason": "The king's proclamation through all his land answers Jonah 3:7, where the king of Nineveh 'caused it to be proclaimed and published through Nineveh by the decree of the king and his nobles'. There is no rare string — 'proclamation' and 'throughout all the land' are both common KJV — and the element belongs to the Jonah sequence adjudicated at 22:17, where it is recorded as a composite and named in the significance. A reader arriving at 22:27 is sent there rather than shown a second thin row. The remainder of 22:27-34 is geography and carries no biblical wording at all."
+  }
+]

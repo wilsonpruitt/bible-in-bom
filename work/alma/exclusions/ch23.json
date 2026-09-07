@@ -1,0 +1,106 @@
+[
+  {
+    "bomRef": "Alma 23:2",
+    "source": "Revelation 9:5",
+    "category": "formulaic",
+    "sharedText": "that they should not ... but that they should",
+    "streams": ["machine-ngram"],
+    "reason": "The chapter's top-scoring machine candidate, and it is entirely a correlative construction: 'that they should not kill them, but that they should be tormented'. Revelation 9:5 is the locusts of the fifth trumpet. The verse's real sources are Matthew 10:17 and its neighbours, which the n-gram stream reached only at rank four and only through the four-word run 'lay their hands on'."
+  },
+  {
+    "bomRef": "Alma 23:2",
+    "source": "Acts 16:23",
+    "category": "better-source-identified",
+    "sharedText": "cast them into prison",
+    "streams": ["machine-ngram"],
+    "reason": "'Cast them into prison' is real verbal contact and Acts 16:23 is a plausible home for it — Paul and Silas at Philippi, which this book has already used at Alma 14:27. But the imprisonment in Alma 23:2 is one of seven items in a catalogue, and the item that governs the catalogue is the pair 'lay their hands on ... and put them in the common prison' at Acts 5:18, which sits inside the Acts 5 episode the chapter draws on again at 23:7. The link is filed at 23:2 against Matthew 10:17 with Acts 5:18 as a composite."
+  },
+  {
+    "bomRef": "Alma 23:2",
+    "source": "Daniel 3:20",
+    "category": "formulaic",
+    "sharedText": "to cast them into",
+    "streams": ["machine-ngram"],
+    "reason": "Four words of connective, and the object in Daniel is a burning fiery furnace. No contact beyond the infinitive."
+  },
+  {
+    "bomRef": "Alma 23:3",
+    "source": "2 Thessalonians 3:1",
+    "category": "insufficient-verbal",
+    "sharedText": "that the word of God might have no obstruction",
+    "streams": ["manual"],
+    "reason": "The King James Bible has two memorable expressions for the unhindered progress of preaching, and this verse matches the sense of both and the wording of neither. 2 Thessalonians 3:1 asks that the word of the Lord 'may have free course, and be glorified'; Acts 28:31 ends the book with Paul preaching 'no man forbidding him', a KJV singleton. Alma 23:3 says 'might have no obstruction', and 'obstruction' is not a King James word at all — it appears nowhere in the KJV. This is registered rather than catalogued because the temptation is strong (the chapter is otherwise steeped in Acts) and the verbal case is zero. The Acts frame that does bear is filed at 23:7."
+  },
+  {
+    "bomRef": "Alma 23:3",
+    "source": "Galatians 1:14",
+    "category": "common-vocabulary",
+    "sharedText": "traditions of their fathers",
+    "streams": ["manual"],
+    "reason": "'The wicked traditions of their fathers' is the Book of Mormon's standing description of Lamanite religion and appears scores of times across the book; the KJV's nearest phrases are Galatians 1:14, 'the traditions of my fathers', and 1 Peter 1:18, 'received by tradition from your fathers'. 'Traditions of their fathers' is in no KJV verse. Neither Pauline verse is doing what Alma 23:3 does — Paul's tradition is his own zeal for Judaism, Peter's is a vain manner of life — and the phrase is by Alma too thoroughly the book's own to be adjudicated as a borrowing here."
+  },
+  {
+    "bomRef": "Alma 23:4",
+    "source": "Matthew 23:34",
+    "category": "better-source-identified",
+    "sharedText": "from city to city",
+    "streams": ["manual"],
+    "reason": "'Aaron and his brethren went forth from city to city' shares 'from city to city' with Matthew 23:34, one of only two KJV verses containing it (the other is 2 Chronicles 30:10, of Hezekiah's posts). The contact is genuine and the inversion is pointed — Matthew 23:34 is 'some of them shall ye scourge in your synagogues, and persecute them from city to city', and Alma 23:2-4 forbids the scourging and then sends the preachers city to city unharmed. But both halves belong to one argument, and that argument is made at 23:2, where Matthew 23:34 is recorded as a composite. A reader at 23:4 is sent there."
+  },
+  {
+    "bomRef": "Alma 23:4",
+    "source": "Acts 18:11",
+    "category": "formulaic",
+    "sharedText": "teaching the word of God among them",
+    "streams": ["machine-ngram"],
+    "reason": "Six shared words, all of them the Book of Mormon's ordinary description of missionary work. Acts 18:11 is a note of how long Paul stayed in Corinth. 'The word of God' is used continuously in both corpora and carries no signal."
+  },
+  {
+    "bomRef": "Alma 23:6",
+    "source": "Luke 8:13",
+    "category": "better-source-identified",
+    "sharedText": "never did fall away",
+    "streams": ["manual"],
+    "reason": "'Never did fall away' inverts Luke 8:13's parable of the seed on the rock, 'which for a while believe, and in time of temptation fall away' — the KJV's characteristic phrase for a conversion that does not hold. The link is already adjudicated in this book at Alma 16:17, where the sower parable is the governing figure; 23:6 is the same author using the same borrowed phrase for the opposite outcome, and is recorded there rather than given a second row."
+  },
+  {
+    "bomRef": "Alma 23:6",
+    "source": "Romans 1:4",
+    "category": "formulaic",
+    "sharedText": "according to the spirit of",
+    "streams": ["machine-ngram"],
+    "reason": "'According to the spirit of revelation and of prophecy' shares only the frame 'according to the spirit of' with Romans 1:4's 'according to the spirit of holiness'. The genitive that follows is the content word in both and they do not match. Compare Revelation 19:10, 'the testimony of Jesus is the spirit of prophecy', which is closer in substance and has already been adjudicated in this book."
+  },
+  {
+    "bomRef": "Alma 23:15",
+    "source": "2 Timothy 3:7",
+    "category": "better-source-identified",
+    "sharedText": "come to the knowledge of the truth",
+    "streams": ["machine-ngram"],
+    "reason": "This is a genuine KJV singleton — 'come to the knowledge of the truth' occurs only at 2 Timothy 3:7, of women 'ever learning, and never able to come to the knowledge of the truth', with 1 Timothy 2:4's 'come unto the knowledge of the truth' one preposition away. The Book of Mormon uses the phrase fifteen times, and the borrowing was argued at Jacob 7:24 and Mosiah 27:14, where the inversion of Paul's sense is the point. Within Alma its first use is 17:2, not here. Registered so that a reader at 23:15 is sent to Jacob 7:24 rather than shown nothing."
+  },
+  {
+    "bomRef": "Alma 23:8",
+    "source": "Revelation 14:4",
+    "category": "formulaic",
+    "sharedText": "these are they which were",
+    "streams": ["machine-ngram"],
+    "reason": "A list-heading formula. Revelation 14:4's 'These are they which were not defiled with women' introduces the hundred and forty-four thousand; Alma 23:8 introduces a list of Lamanite lands. The construction is common to both corpora and the content shares nothing."
+  },
+  {
+    "bomRef": "Alma 23:13",
+    "source": "Ezekiel 32:27",
+    "category": "common-vocabulary",
+    "sharedText": "their weapons of war",
+    "streams": ["machine-ngram"],
+    "reason": "'Weapons of war' occurs in nine KJV verses across six books and cannot point at one of them; Ezekiel 32:27's uncircumcised dead who go down to hell with their weapons have nothing else in common with converts laying theirs down. The laying-down and burial of weapons is developed at Alma 24:17, where the link is filed against Genesis 9:6 on the strength of 'the shedding of man's blood'."
+  },
+  {
+    "bomRef": "Alma 23:16",
+    "source": "Acts 11:26",
+    "category": "insufficient-verbal",
+    "sharedText": "that they might have a name, that thereby they might be distinguished",
+    "streams": ["manual"],
+    "reason": "Acts 11:26 — 'the disciples were called Christians first in Antioch' — is the King James Bible's only narrative of a body of converts acquiring a name that distinguishes them, and it is what a reader will reach for at Alma 23:16-17. It supplies no wording whatever: the shared idea is a name, and Acts 11:26 and Alma 23:16 have not one distinctive word in common. It is recorded as a composite on the Luke 1:61 echo at 23:17 and excluded here as a source in its own right."
+  }
+]

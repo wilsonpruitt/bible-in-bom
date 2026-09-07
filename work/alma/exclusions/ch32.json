@@ -1,0 +1,82 @@
+[
+  {
+    "bomRef": "Alma 32:2",
+    "source": "John 16:2",
+    "category": "better-source-identified",
+    "sharedText": "out of the synagogues",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "'They shall put you out of the synagogues' is the Gospel of John's expulsion of confessors of Christ (9:22, 12:42, 16:2), and the machine ranked it first here. But the Zoramite poor are expelled for their clothes, not their confession, and the KJV passage that describes a congregation sorting worshippers by dress is James 2:1-6, where the link is filed. John's phrase would put the wrong charge on the wrong people; 'out of the synagogue' occurs in five KJV verses and cannot carry the row on its own."
+  },
+  {
+    "bomRef": "Alma 32:3",
+    "source": "Ezekiel 22:18",
+    "category": "insufficient-verbal",
+    "sharedText": "dross",
+    "streams": [
+      "manual"
+    ],
+    "reason": "'They were esteemed by their brethren as dross.' The KJV's dross is metallurgical and always describes the wicked being refined away (Psalm 119:119, Isaiah 1:22, Ezekiel 22:18-19). Alma's is a term of social contempt applied to the innocent, and the sense is inverted: the people called dross here are the ones the chapter vindicates. One word, and the wrong valuation attached to it."
+  },
+  {
+    "bomRef": "Alma 32:7",
+    "source": "Matthew 12:49",
+    "category": "formulaic",
+    "sharedText": "he stretched forth his hand",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "Jesus stretching his hand toward his disciples to name his mother and brethren. The gesture is the KJV's ordinary notation for a speaker addressing a crowd and it carries nothing of Matthew's point, which is a redefinition of kinship. Alma 31:14's 'stretch forth his hands towards heaven' is a separate matter and is adjudicated there."
+  },
+  {
+    "bomRef": "Alma 32:20",
+    "source": "Psalm 62:12",
+    "category": "common-vocabulary",
+    "sharedText": "according to his work",
+    "streams": [
+      "manual"
+    ],
+    "reason": "'It shall be unto every man according to his work.' The singular 'according to his work' occurs in two KJV verses (Psalm 62:12, Proverbs 24:29), and the same doctrine is stated again at Matthew 16:27 ('according to his works'), Revelation 20:12 ('according to their works') and Revelation 22:12 ('according as his work shall be'). No single verse can be identified behind a formula this widely repeated."
+  },
+  {
+    "bomRef": "Alma 32:22",
+    "source": "John 1:12",
+    "category": "better-source-identified",
+    "sharedText": "believe on his name",
+    "streams": [
+      "manual"
+    ],
+    "reason": "A KJV singleton, and already adjudicated in this book at its first use, Alma 19:36, with a second occurrence recorded at Alma 22:13. The phrase has become the book's own formula for conversion by this point in Alma and its third appearance is not a fresh borrowing. See Alma 19:36."
+  },
+  {
+    "bomRef": "Alma 32:26",
+    "source": "Acts 24:22",
+    "category": "wrong-sense",
+    "sharedText": "perfect knowledge",
+    "streams": [
+      "manual"
+    ],
+    "reason": "'Perfect knowledge' is a KJV singleton and the temptation is real, because it is the governing term of Alma 32 — it appears at 32:21, 32:26, 32:29, 32:34 and 32:35, more often than any other phrase in the chapter. But Acts 24:22's sense is procedural and secular: Felix, presiding at Paul's hearing, had 'more perfect knowledge of that way' and used it to adjourn. The KJV means he was better informed about the sect than he let on. Alma means a completed certainty that abolishes faith, which is not a sense the KJV verse contains at any strength. A singleton whose one occurrence is a Roman governor's grasp of the local religion cannot be the source of an epistemology, and the phrase is ordinary English of the period besides."
+  },
+  {
+    "bomRef": "Alma 32:40",
+    "source": "Revelation 2:7",
+    "category": "better-source-identified",
+    "sharedText": "the fruit of the tree of life",
+    "streams": [
+      "manual"
+    ],
+    "reason": "'Ye can never pluck of the fruit of the tree of life.' 'Tree of life' occurs in ten KJV verses across Genesis, Proverbs and Revelation, and none of them is closer to Alma than the Book of Mormon's own tree, which Lehi and Nephi see and eat from at 1 Nephi 8:10-12 and 11:8-25 and whose fruit is there described as white and sweet above all — the two adjectives Alma 32:42 uses. The proximate model is the earlier Book of Mormon vision, not the KJV, and the row is declined here rather than assigned to a biblical verse it does not follow."
+  },
+  {
+    "bomRef": "Alma 32:43",
+    "source": "Galatians 6:9",
+    "category": "insufficient-verbal",
+    "sharedText": "reap … patience",
+    "streams": [
+      "manual"
+    ],
+    "reason": "'Ye shall reap the rewards of your faith, and your diligence, and patience, and long suffering.' Galatians 6:9's 'in due season we shall reap, if we faint not' is the nearest KJV sentence about reaping after endurance, but it shares only the verb, and Alma's four-term list (faith, diligence, patience, long suffering) matches no KJV series — 'long suffering' appears in Paul's virtue lists but never beside diligence. The harvest is the allegory's own conclusion, not a borrowing."
+  }
+]

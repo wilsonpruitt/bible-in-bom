@@ -1,0 +1,133 @@
+[
+  {
+    "bomRef": "Alma 36:1",
+    "source": "Deuteronomy 29:9",
+    "category": "better-source-identified",
+    "sharedText": "inasmuch as ye shall keep the commandments of God, ye shall prosper in the land",
+    "streams": [
+      "manual"
+    ],
+    "reason": "The land promise that opens and closes the chapter, and the outermost pair of its chiasm (36:1 and 36:30). It is the Book of Mormon's own covenant formula, given first at 1 Nephi 2:20 and repeated by nearly every Nephite prophet; its biblical background is the Deuteronomic prosperity clause (Deuteronomy 29:9, 30:16, Joshua 1:7-8) but no KJV verse supplies the sentence, and 'inasmuch as' is not the KJV's conjunction here. Adjudicate at the formula's first use, not on its four-hundredth. Registered so that a reader of Alma 36:1 is not left supposing the catalogue overlooked its most repeated line."
+  },
+  {
+    "bomRef": "Alma 36:2",
+    "source": "John 13:15",
+    "category": "formulaic",
+    "sharedText": "that ye should do as I have done",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "The chapter's second-highest-scoring candidate and a false one: 'I would that ye should do as I have done, in remembering the captivity of our fathers' shares with the footwashing only a subjunctive of imitation. The n-gram window closes before the words that matter in each — 'to you' in John, 'in remembering the captivity' in Alma — and the two sentences have no other contact. A textbook instance of ADJUDICATING §4's window-closes-early trap."
+  },
+  {
+    "bomRef": "Alma 36:5",
+    "source": "Luke 1:70",
+    "category": "formulaic",
+    "sharedText": "by the mouth of his holy",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "'By the mouth of his holy prophets' is a KJV formula (Luke 1:70, Acts 3:21) and 'by the mouth of' alone occurs dozens of times. Alma 36:5 has 'by the mouth of his holy angel', which is the formula with the noun changed, and the change is the whole content — Zacharias's prophets speak across the ages, Alma's angel spoke to him once. No verse of Luke 1 is in view."
+  },
+  {
+    "bomRef": "Alma 36:15",
+    "source": "Revelation 20:11",
+    "category": "insufficient-verbal",
+    "sharedText": "the presence of my God",
+    "streams": [
+      "manual"
+    ],
+    "reason": "Registered because the wish in 36:15 — 'that I could be banished and become extinct both soul and body, that I might not be brought to stand in the presence of my God, to be judged of my deeds' — reads like a deliberate inversion of Revelation 20:11-13, where earth and heaven flee from the face of him on the throne and the dead stand before God and are judged 'according to their works'. The elements line up: fleeing the presence, standing to be judged, judgment by deeds. But the shared wording is 'the presence of' and 'judged', both far too common to point at a verse; Matthew 10:28's 'able to destroy both soul and body in hell' is a better candidate for the middle clause and is itself only a two-word contact. Conceptual, not verbal."
+  },
+  {
+    "bomRef": "Alma 36:21",
+    "source": "Matthew 19:24",
+    "category": "formulaic",
+    "sharedText": "I say unto you my son that",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "'Again I say unto you' is the KJV's commonest emphatic connective and the Book of Mormon's; the camel and the needle's eye have nothing else in common with Alma's contrast of exquisite pain and exquisite joy. Luke 12:4 was ranked beside it on the same words."
+  },
+  {
+    "bomRef": "Alma 36:24",
+    "source": "1 Thessalonians 5:17",
+    "category": "common-vocabulary",
+    "sharedText": "without ceasing",
+    "streams": [
+      "manual"
+    ],
+    "reason": "'I have labored without ceasing, that I might bring souls unto repentance' is close to 1 Thessalonians 1:3's 'remembering without ceasing your work of faith, and labour of love' and to Paul's habit generally, but 'without ceasing' occurs in six KJV verses and five of them are about prayer or remembrance rather than labour. No one verse is identifiable, and the phrase had long since passed into ordinary devotional English."
+  },
+  {
+    "bomRef": "Alma 36:24",
+    "source": "Ezra 5:16",
+    "category": "formulaic",
+    "sharedText": "that time even until now",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "Five words of temporal connective. Sheshbazzar's unfinished temple and Alma's unceasing labour share a way of saying 'ever since'. Covered in kind by the standing exclusion at 1 Nephi 1:5."
+  },
+  {
+    "bomRef": "Alma 36:26",
+    "source": "1 Kings 21:4",
+    "category": "wrong-sense",
+    "sharedText": "because of the word which",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "The same Ahab-and-Naboth verse that was the runner-up at Alma 35:15, ranked again here on the same five words, and wrong in the opposite direction. At 35:15 the phrase belongs to Matthew 13:21 and describes hearers who take offence; here — 'because of the word which he hath imparted unto me, behold, many hath been born of God' — it describes a word that converts. Ahab is heavy and displeased because of the word Naboth spoke; the collocation is a bare causal formula and carries no sense in either place."
+  },
+  {
+    "bomRef": "Alma 36:27",
+    "source": "Hebrews 2:13",
+    "category": "better-source-identified",
+    "sharedText": "put my trust in him",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "A KJV singleton, which is why it deserves an entry rather than silence — 'I will put my trust in him' occurs only at Hebrews 2:13. But Hebrews is there quoting Isaiah 8:17 to prove Christ's solidarity with his brethren, there is no deliverance in the context, and the singleton cannot account for what makes Alma 36:27 distinctive: the three tenses of deliverance surrounding the trust. That is 2 Corinthians 1:10's construction, filed as the link at this verse, and 2 Corinthians 1:9 supplies the raising of the dead that Alma 36:28 then states."
+  },
+  {
+    "bomRef": "Alma 36:28",
+    "source": "2 Chronicles 29:8",
+    "category": "formulaic",
+    "sharedText": "and he hath delivered them",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "Hezekiah's account of the wrath that came upon Judah, 'and he hath delivered them to trouble' — the same five words with the opposite object and the opposite sense. Alma 36:28's deliverance is out of bondage; 2 Chronicles 29:8's is into it. The run is an accident of a very common verb."
+  },
+  {
+    "bomRef": "Alma 36:29",
+    "source": "Joshua 24:17",
+    "category": "common-vocabulary",
+    "sharedText": "our fathers out of the land of",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "A real seven-word run and still not decidable. Joshua 24:17's 'brought us up and our fathers out of the land of Egypt, from the house of bondage' is one of some dozen KJV recitals with this shape — Exodus 13:3, 20:2, Deuteronomy 5:6, 6:12, Judges 6:8, 1 Kings 8:21 — and 'house of bondage' alone occurs in ten verses. Alma 36:28-29 recites the exodus twice, once for Egypt and once for Jerusalem, in the formula's ordinary words. The one word in the recital that is a choice rather than a formula is 'swallowed', and the link at 36:28 is placed there."
+  },
+  {
+    "bomRef": "Alma 36:30",
+    "source": "Genesis 4:14",
+    "category": "better-source-identified",
+    "sharedText": "cut off from his presence",
+    "streams": [
+      "manual"
+    ],
+    "reason": "The negative half of the land promise, and the closing words of the chapter. Cain's 'from thy face shall I be hid' and the KJV's various 'cut off from before me' (Jeremiah 7:15) and 'cast out of my sight' (2 Kings 17:20) stand in the general background, but 'cut off from his presence' is the Book of Mormon's own formula, coined at 1 Nephi 2:21 as the counterpart to the prosperity clause and repeated with it throughout. Adjudicate at 1 Nephi 2:21; registered here because a reader who has just been shown the promise will look for its threat."
+  },
+  {
+    "bomRef": "Alma 36:28",
+    "source": "Exodus 14:27",
+    "category": "better-source-identified",
+    "sharedText": "the Egyptians in the red sea",
+    "streams": [
+      "scholarship",
+      "manual"
+    ],
+    "reason": "Hardy's apparatus cross-references Exodus 14:26-28 at this verse and it points at the right event, but the wording Alma uses is not in that chapter. Exodus 14:27-28 has the LORD overthrowing the Egyptians in the midst of the sea and the waters returning and covering them; nothing there is swallowed and the Red sea is not named. The verb and the name both come from the Song of the Sea in the chapter following — “the earth swallowed” occurs in exactly one KJV verse, Exodus 15:12, of these same Egyptians, and “drowned in the Red sea” occurs in exactly one, Exodus 15:4 — so the link is filed at Exodus 15:12 with 14:28 in its composite (CONVENTIONS §6a: put the link where the wording is, and record where the apparatus points). The choice of the poem over the prose is itself the finding, since Alma 36:28 introduces the recital with a vow of praise."
+  }
+]

@@ -1,0 +1,515 @@
+{
+ "chapter": 29,
+ "adjudicated": "2026-09-07",
+ "adjudicator": "Opus",
+ "links": {
+  "29:1": [
+   {
+    "source": "1 Thessalonians 4:16",
+    "type": "allusion",
+    "subtype": "close-verbal",
+    "confidence": "high",
+    "text": "For the Lord himself shall descend from heaven with a shout, with the voice of the archangel, and with the trump of God: and the dead in Christ shall rise first:",
+    "evidence": {
+     "vocabulary": 4,
+     "syntax": 3,
+     "sequence": 4,
+     "context": 5,
+     "rarity": 5,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "provenance": {
+     "route": "1 Thessalonians 4:16 → KJV → Book of Mormon",
+     "other": "“Trump of God” occurs in exactly one KJV verse, 1 Thessalonians 4:16. The KJV's other eschatological trumpet is “the last trump” at 1 Corinthians 15:52; the possessive form is Thessalonians' alone.",
+     "significance": "The singleton does more than supply a phrase, because the two things Alma 29:1 wishes for stand side by side inside it. 1 Thessalonians 4:16 has the Lord descending “with a shout, with the voice of the archangel, and with the trump of God” — an angel's voice and God's trumpet in one clause — and Alma's wish is exactly that pair: “O that I were an angel … that I might go forth and speak with the trump of God.” Recover the rest of the verse and the wish is stranger still: the trump of God in the KJV is not an instrument of preaching at all, it is the sound at which “the dead in Christ shall rise first.” Alma wants the resurrection trumpet in order to cry repentance to the living, which is why the next two verses have to take the wish back."
+    },
+    "note": "“That I might go forth and speak with the trump of God.” A five-word run onto a KJV singleton, and the source verse holds both halves of Alma's wish — the archangel's voice and God's trump — in a single clause. Held at high rather than certain because the borrowed phrase is short; but no other KJV verse contains it, and no other KJV verse puts an angel and that trumpet together.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "machine-ngram",
+     "manual"
+    ]
+   },
+   {
+    "source": "Romans 9:3",
+    "type": "echo",
+    "subtype": "probable",
+    "confidence": "moderate",
+    "text": "For I could wish that myself were accursed from Christ for my brethren, my kinsmen according to the flesh:",
+    "evidence": {
+     "vocabulary": 2,
+     "syntax": 3,
+     "sequence": 4,
+     "context": 5,
+     "rarity": 3,
+     "attestation": 0
+    },
+    "kjvSpecific": "uncertain",
+    "mediation": "direct-NT",
+    "recurrenceRefs": [
+     "Alma 29:3"
+    ],
+    "provenance": {
+     "route": "Romans 9:3 → KJV → Book of Mormon",
+     "other": "“Wish” occurs in exactly six KJV verses: Job 33:6, Psalm 40:14, Psalm 73:7, Romans 9:3, 2 Corinthians 13:9 and 3 John 1:2. Only Romans 9:3 is a minister's wish about the salvation of his own people, and only Romans 9:3 is a wish the speaker presents as one he cannot properly make.",
+     "alternative": "A preacher wishing for greater reach is an obvious thing to write and requires no source.",
+     "significance": "Paul's wish — “I could wish that myself were accursed from Christ for my brethren, my kinsmen according to the flesh” — is guarded before it is uttered (“I say the truth in Christ, I lie not”) because it is not a wish a Christian may have. Alma 29 does the same thing in the opposite order: he utters the wish in verses 1-2 and then withdraws it in verse 3, “I am a man, and do sin in my wish.” The rare word in the chapter is 'wish', the KJV's one impossible ministerial wish is Romans 9:3, and this chapter is drawing on Paul continuously — 2 Corinthians 12 at verses 9 and 16, 2 Timothy 1:9 at verse 13."
+    },
+    "note": "The verbal contact is one word, and 'wish' is not rare enough on its own to fix a source. What carries the row is the shape: an apostolic speaker states a desire for his people's salvation that exceeds what he is permitted to desire, and immediately marks it as improper. Recorded at moderate because the chapter's other borrowings are Pauline and clustered, so recurrence is doing real work here.",
+    "whyNot": "Nothing is shared but 'wish', and Alma's wish (to preach to all the earth) and Paul's (to be damned for Israel) are not the same wish. A reader may decline this without losing anything else in the chapter.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "manual"
+    ]
+   }
+  ],
+  "29:2": [
+   {
+    "source": "Revelation 21:4",
+    "type": "echo",
+    "subtype": "probable",
+    "confidence": "moderate",
+    "text": "And God shall wipe away all tears from their eyes; and there shall be no more death, neither sorrow, nor crying, neither shall there be any more pain: for the former things are passed away.",
+    "evidence": {
+     "vocabulary": 3,
+     "syntax": 2,
+     "sequence": 3,
+     "context": 5,
+     "rarity": 3,
+     "attestation": 0
+    },
+    "kjvSpecific": "uncertain",
+    "mediation": "direct-NT",
+    "provenance": {
+     "route": "Revelation 21:4 → KJV → Book of Mormon",
+     "other": "“No more sorrow” as a contiguous phrase occurs in exactly 0 KJV verses; Revelation 21:4 separates the words — “there shall be no more death, neither sorrow, nor crying, neither shall there be any more pain.” It is nonetheless the only KJV verse that promises the abolition of sorrow as such.",
+     "alternative": "The universal end of sorrow is a commonplace of Christian hope and can be stated without Revelation.",
+     "significance": "Alma's wish is for a preached repentance so complete that sorrow ends on the earth — that is, for the missionary to accomplish now what Revelation 21 reserves for the new heaven and new earth after the former things are passed away. Read against its source the wish is not merely ambitious but eschatological, and the retraction in verse 3 is the recognition of a category error: he has asked to do the work of the last chapter of the Bible."
+    },
+    "note": "“That there might not be no more sorrow upon all the face of the earth.” The 1830 reading carries a double negative that the 1920 edition removed, and it is worth flagging under CONVENTIONS §8: the first edition's clumsy “not be no more” is closer to Revelation 21:4's stacked negations (“no more death, neither sorrow … neither shall there be any more pain”) than the smoothed text is, so the edition that shows the borrowing is the one the catalogue runs. Held at moderate: the phrase is not contiguous in the KJV and the idea is common.",
+    "whyNot": "No exact run is shared; “no more sorrow” is not a KJV phrase, and the resemblance is to Revelation's picture rather than its wording.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "manual"
+    ]
+   },
+   {
+    "source": "Job 40:9",
+    "type": "echo",
+    "subtype": "possible",
+    "confidence": "moderate",
+    "text": "Hast thou an arm like God? or canst thou thunder with a voice like him?",
+    "evidence": {
+     "vocabulary": 2,
+     "syntax": 2,
+     "sequence": 4,
+     "context": 5,
+     "rarity": 2,
+     "attestation": 0
+    },
+    "kjvSpecific": "no",
+    "mediation": "direct-OT",
+    "recurrenceRefs": [
+     "Alma 29:3",
+     "Alma 29:10"
+    ],
+    "provenance": {
+     "route": "Job 40:9 → KJV → Book of Mormon",
+     "other": "“Thunder” occurs in exactly 19 KJV verses, which is far too many to fix a source by the word alone. Job 40:9 is singled out on structure, not rarity: it is the KJV's one verse in which a thundering voice is named specifically as the thing a man does not have.",
+     "alternative": "Revelation 14:2's “as the voice of a great thunder,” a KJV singleton, is the closest verbal parallel to Alma's simile and may be all that is behind it.",
+     "significance": "Job 40:9 is God's challenge out of the whirlwind: “Hast thou an arm like God? or canst thou thunder with a voice like him?” Alma 29:1-2 asks for exactly the two things the challenge denies — the trump of God, and a declaration made “as with the voice of thunder” — and verse 3 gives Job's answer: “But behold, I am a man.” The arm returns at verse 10, where the arm that matters is not Alma's but God's, “his merciful arm which he extended towards me.” Whether or not the writer had Job open, the chapter's argument is the argument of Job 40, and the reader who recovers it gets the retraction in verse 3 as a scriptural gesture rather than a mood."
+    },
+    "note": "Recorded as an echo on structure rather than wording, and flagged as such. The verbal contact is 'voice' and 'thunder', both common; what is uncommon is the sequence — a man wishing to speak with God's thunder, then conceding that he is a man — which the KJV stages once, at Job 40:9 answered by Job 40:4.",
+    "whyNot": "Two common words, no shared run, and Alma 29 nowhere names Job. The row stands on a formal resemblance a reader may decline.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "manual"
+    ]
+   }
+  ],
+  "29:3": [
+   {
+    "source": "Hebrews 13:5",
+    "type": "allusion",
+    "subtype": "paraphrase",
+    "confidence": "moderate",
+    "text": "Let your conversation be without covetousness; and be content with such things as ye have: for he hath said, I will never leave thee, nor forsake thee.",
+    "evidence": {
+     "vocabulary": 3,
+     "syntax": 4,
+     "sequence": 3,
+     "context": 5,
+     "rarity": 4,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "composite": [
+     "Philippians 4:11"
+    ],
+    "provenance": {
+     "route": "Hebrews 13:5 (with Philippians 4:11) → KJV → Book of Mormon",
+     "other": "“Content with such things” occurs in exactly one KJV verse, Hebrews 13:5; “therewith to be content” occurs in exactly one KJV verse, Philippians 4:11. “Be content” occurs in exactly seven, of which the other five (Judges 19:6, 2 Kings 5:23, 2 Kings 6:3, Job 6:28, Luke 3:14) all mean “agree” or “stop complaining” rather than the contentment of a settled mind.",
+     "significance": "Both New Testament sources ground contentment in something God has already done, and Alma 29:3 supplies the same ground in its own vocabulary: “the things which the Lord hath allotted unto me.” Hebrews 13:5's reason is “for he hath said, I will never leave thee, nor forsake thee”; Philippians 4:11's is Paul's learning “in whatsoever state I am.” Recovering either turns Alma's line from resignation into doctrine — the allotment is not a limit imposed on him but a promise held out to him, which is why verses 4 to 8 go on to argue that God's allotting is just."
+    },
+    "note": "“I had ought to be content with the things which the Lord hath allotted unto me.” The KJV's two verses about contentment as a virtue are Hebrews 13:5 and Philippians 4:11, and this line has Hebrews' construction — be content with the things — with the object changed from what one has to what one has been given. Held at moderate because no run of more than three words is shared. Note the 1830 “I had ought,” an American dialect form the 1920 edition removed; it is not KJV and does not bear on the source.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "manual"
+    ]
+   }
+  ],
+  "29:7": [
+   {
+    "source": "Isaiah 26:15",
+    "type": "allusion",
+    "subtype": "close-verbal",
+    "confidence": "moderate",
+    "text": "Thou hast increased the nation, O LORD, thou hast increased the nation: thou art glorified: thou hadst removed it far unto all the ends of the earth.",
+    "evidence": {
+     "vocabulary": 4,
+     "syntax": 3,
+     "sequence": 3,
+     "context": 3,
+     "rarity": 5,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-OT",
+    "provenance": {
+     "route": "Isaiah 26:15 → KJV → Book of Mormon",
+     "other": "“Unto all the ends of the earth” occurs in exactly one KJV verse, Isaiah 26:15, although “the ends of the earth” without the “unto all” occurs in exactly 28. The seven-word run is therefore a genuine singleton match sitting on top of a formula.",
+     "alternative": "The Book of Mormon uses “the ends of the earth” constantly and could reach this exact form by accident.",
+     "significance": "Isaiah 26:15's ends of the earth are where a nation was removed to — “thou hast increased the nation … thou hadst removed it far unto all the ends of the earth” — which is the diaspora geography the Book of Mormon is written inside. Alma 29:7 turns the destination of the scattering into the destination of the preaching: the ends of the earth to which Israel was carried are the ends of the earth he wishes he could speak to. In a book whose largest argument is the gathering of scattered Israel, that is not a neutral phrase to borrow."
+    },
+    "note": "A seven-word exact run onto a KJV singleton. Held at moderate rather than high because the underlying formula is one of the Book of Mormon's own commonest, so a coincidental match is genuinely possible; the rarity count is what keeps the row, and the metalepsis is what makes it worth having.",
+    "whyNot": "The senses diverge — Isaiah is describing exile, Alma is describing preaching — and the Book of Mormon's heavy independent use of “the ends of the earth” means the exact form may be reached without the source.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "machine-ngram",
+     "manual"
+    ]
+   }
+  ],
+  "29:8": [
+   {
+    "source": "Revelation 15:3",
+    "type": "allusion",
+    "subtype": "close-verbal",
+    "confidence": "moderate",
+    "text": "And they sing the song of Moses the servant of God, and the song of the Lamb, saying, Great and marvellous are thy works, Lord God Almighty; just and true are thy ways, thou King of saints.",
+    "evidence": {
+     "vocabulary": 3,
+     "syntax": 3,
+     "sequence": 3,
+     "context": 4,
+     "rarity": 5,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "recurrenceRefs": [
+     "1 Nephi 1:14"
+    ],
+    "provenance": {
+     "route": "Revelation 15:3 → KJV → Book of Mormon",
+     "other": "“Just and true” occurs in exactly one KJV verse, Revelation 15:3 — “just and true are thy ways, thou King of saints.” The nearest neighbours are Revelation 16:7 and 19:2, which read “true and righteous.”",
+     "significance": "Revelation 15:3 is the verse this catalogue met first: 1 Nephi 1:14's “great and marvellous are thy works, Lord God Almighty” is six words of it, and it is the song the same verse identifies as “the song of Moses the servant of God, and the song of the Lamb.” Alma 29:8 takes the other half of the same sentence. What it takes it for is the chapter's most surprising claim — that “the Lord doth grant unto all nations, of their own nation and tongue, to teach his word” — and Revelation 15:3's next verse is “all nations shall come and worship before thee.” The Book of Mormon's warrant for revelation outside Israel is worded out of the KJV's hymn of the nations."
+    },
+    "note": "“According to that which is just and true.” A KJV singleton, and the second borrowing this catalogue has recorded from Revelation 15:3, the first being the flagship link at 1 Nephi 1:14. Held at moderate because the phrase is short and reads as ordinary English; what argues for dependence is that the surrounding claim — God granting his word to all nations in their own tongue — is the claim Revelation 15:3-4 makes two clauses later.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "manual"
+    ]
+   }
+  ],
+  "29:9": [
+   {
+    "source": "2 Corinthians 12:5",
+    "type": "allusion",
+    "subtype": "close-verbal",
+    "confidence": "high",
+    "text": "Of such an one will I glory: yet of myself I will not glory, but in mine infirmities.",
+    "evidence": {
+     "vocabulary": 4,
+     "syntax": 5,
+     "sequence": 4,
+     "context": 5,
+     "rarity": 5,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "composite": [
+     "2 Corinthians 10:17"
+    ],
+    "recurrenceRefs": [
+     "Alma 29:16"
+    ],
+    "provenance": {
+     "route": "2 Corinthians 12:5 → KJV → Book of Mormon",
+     "other": "“Will not glory” occurs in exactly one KJV verse, 2 Corinthians 12:5: “Of such an one will I glory: yet of myself I will not glory, but in mine infirmities.” “Let him glory in the Lord” occurs in exactly two, 1 Corinthians 1:31 and 2 Corinthians 10:17, which supply the positive half of the antithesis.",
+     "significance": "The whole of 2 Corinthians 10-12 is Paul's argument that a minister may boast only of what was given him, and 12:5 is its hinge. Alma 29:9 reproduces the hinge: “I do not glory of myself, but I glory in that which the Lord hath commanded me.” Recover the context and the row becomes the key to the chapter, because Paul's refusal to glory of himself is stated immediately after the vision of the third heaven — and Alma 29:16 has that vision too. The two verses of Alma that draw on 2 Corinthians 12 draw on it from either side of the same sentence."
+    },
+    "note": "“I glory in it; I do not glory of myself, but I glory in that which the Lord hath commanded me.” The antithesis is Paul's and the KJV states it once. Where Paul completes it with “but in mine infirmities,” Alma completes it with the commandment he was given, which is the same move made in the vocabulary of a chapter about a calling one did not choose. High rather than certain: the run is short and the Book of Mormon rewrites the second half.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "manual"
+    ]
+   }
+  ],
+  "29:11": [
+   {
+    "source": "Exodus 3:6",
+    "type": "quotation",
+    "subtype": "explicit",
+    "confidence": "high",
+    "text": "Moreover he said, I am the God of thy father, the God of Abraham, the God of Isaac, and the God of Jacob. And Moses hid his face; for he was afraid to look upon God.",
+    "evidence": {
+     "vocabulary": 5,
+     "syntax": 5,
+     "sequence": 5,
+     "context": 5,
+     "rarity": 4,
+     "attestation": 1
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-OT",
+    "composite": [
+     "Exodus 3:15",
+     "Exodus 4:5"
+    ],
+    "provenance": {
+     "route": "Exodus 3:6 (or 3:15 / 4:5) → KJV → Book of Mormon",
+     "other": "“God of Abraham the God of Isaac” occurs in exactly three KJV verses, Exodus 3:6, 3:15 and 4:5. The formula is quoted five further times in the New Testament — Matthew 22:32, Mark 12:26, Luke 20:37, Acts 3:13, Acts 7:32 — and every one of those five inserts a conjunction the Old Testament verses do not have: “the God of Abraham, AND the God of Isaac.” (Acts 3:13 goes further and drops the repeated noun: “and of Isaac, and of Jacob.”) Alma 29:11 reads “the God of Abraham, the God of Isaac, and the God of Jacob,” without the conjunction. That is the Old Testament form, exactly, and it is not the form of any of the five New Testament quotations.",
+     "significance": "The mediation result is a finding in its own right, because the New Testament route is the natural one to expect here: the whole New Testament use of this formula is Christological — Jesus at Matthew 22:32 and Mark 12:26 arguing the resurrection from it, Stephen at Acts 7:32 retelling the bush — and Alma 29 is a Christian sermon. It reaches past all of that to the Exodus wording, and it reaches for the reason Exodus 3 gives it: this is the name God announces immediately before he says “I am come down to deliver them out of the hand of the Egyptians,” which is what Alma 29:12 says next. The chapter is not quoting a title; it is quoting the deliverance scene."
+    },
+    "note": "A thirteen-word run, and a mediation test that comes out cleanly. tools/mediation-check.py against Acts 7:32 reported divergences in both directions, but neither of its two decisive points holds: “fathers” is picked up from “the captivity of my fathers” earlier in Alma 29:11, and the absence of “Then Moses trembled” is not a discriminator, since Alma is not narrating the theophany at all. The real test is the conjunction, which the tool skips because it ignores single common words (ADJUDICATING §4) — all three Old Testament verses omit the “and” before Isaac and all five New Testament quotations supply it, and the Book of Mormon omits it. Direct-OT, decided on one word.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "machine-ngram",
+     "manual"
+    ]
+   }
+  ],
+  "29:13": [
+   {
+    "source": "2 Timothy 1:9",
+    "type": "allusion",
+    "subtype": "close-verbal",
+    "confidence": "high",
+    "text": "Who hath saved us, and called us with an holy calling, not according to our works, but according to his own purpose and grace, which was given us in Christ Jesus before the world began,",
+    "evidence": {
+     "vocabulary": 4,
+     "syntax": 4,
+     "sequence": 4,
+     "context": 5,
+     "rarity": 5,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "provenance": {
+     "route": "2 Timothy 1:9 → KJV → Book of Mormon",
+     "other": "“An holy calling” occurs in exactly one KJV verse, 2 Timothy 1:9. The Book of Mormon has “by a holy calling” where the KJV has “with an holy calling”; the noun phrase is otherwise untouched.",
+     "significance": "2 Timothy 1:9 defines the holy calling negatively — “not according to our works, but according to his own purpose and grace” — and that is precisely the point Alma 29 has been making since verse 3. He may not enlarge his commission by wanting to, because the commission was never a function of his wanting; it was allotted. The chapter states in verses 3-6 what the source verse states in a subordinate clause, and then borrows the phrase the clause belongs to."
+    },
+    "note": "“That same God hath called me by a holy calling, to preach the word unto this people.” A KJV singleton with the preposition and article changed, in the sentence where the chapter finally names its own subject. Its coherence with the argument is unusually tight: the source's own gloss on a holy calling — that it is not according to our works — is the doctrine Alma has spent ten verses submitting to.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "manual"
+    ]
+   }
+  ],
+  "29:15": [
+   {
+    "source": "John 15:5",
+    "type": "allusion",
+    "subtype": "close-verbal",
+    "confidence": "moderate",
+    "text": "I am the vine, ye are the branches: He that abideth in me, and I in him, the same bringeth forth much fruit: for without me ye can do nothing.",
+    "evidence": {
+     "vocabulary": 4,
+     "syntax": 3,
+     "sequence": 3,
+     "context": 5,
+     "rarity": 4,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "composite": [
+     "John 15:8",
+     "John 12:24"
+    ],
+    "recurrenceRefs": [
+     "Alma 29:17"
+    ],
+    "provenance": {
+     "route": "John 15:5 → KJV → Book of Mormon",
+     "other": "“Much fruit” occurs in exactly three KJV verses — John 12:24, John 15:5 and John 15:8 — and in no other book. “Bringeth forth much fruit” is the form at John 12:24 and 15:5; Alma 29:15 has “have brought forth much fruit.”",
+     "significance": "The phrase belongs entirely to John, and to two passages about the same thing: a grain that must die before it bears, and a branch that bears nothing apart from the vine. “Without me ye can do nothing” is the clause John 15:5 ends on, and it is the doctrine Alma 29:9 has just stated in his own words — “I do not glory of myself.” The fruit-bearing at verse 15 and the refusal to glory at verse 9 are the two halves of John 15:5, and Alma 29:17 completes the figure by praying for “all those which are the fruit of their labors.”"
+    },
+    "note": "“They have labored exceedingly, and have brought forth much fruit.” A phrase confined in the KJV to three verses of John, two of them the vine discourse. Moderate rather than high because agricultural metaphor for missionary success is available everywhere; what argues for John is that the exact collocation is his alone and that this chapter has already made John 15:5's point about doing nothing of oneself.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "manual"
+    ]
+   },
+   {
+    "source": "Matthew 5:12",
+    "type": "echo",
+    "subtype": "probable",
+    "confidence": "moderate",
+    "text": "Rejoice, and be exceeding glad: for great is your reward in heaven: for so persecuted they the prophets which were before you.",
+    "evidence": {
+     "vocabulary": 3,
+     "syntax": 3,
+     "sequence": 3,
+     "context": 4,
+     "rarity": 4,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "provenance": {
+     "route": "Matthew 5:12 → KJV → Book of Mormon",
+     "other": "“Great is your reward” occurs in exactly one KJV verse, Matthew 5:12; Luke 6:23's parallel inverts it to “your reward is great in heaven.” Alma 29:15 has neither exactly: “how great shall be their reward.”",
+     "alternative": "A reward described as great is common enough in devotional English to need no source.",
+     "significance": "Matthew 5:12's reward is promised to those who have just been reviled and persecuted, and the brethren whose reward Alma is exclaiming over are the ones who went up to the land of Nephi and were bound, spat upon and imprisoned there. The beatitude's condition is the narrative of Alma 17-26; the exclamation borrows its apodosis."
+    },
+    "note": "“And how great shall be their reward.” A KJV singleton reworked into an exclamation, in a sentence that has just summarised a mission of exceptional hardship — which is the setting Matthew 5:11-12 attaches the promise to. Held at moderate: the wording is rearranged and the idea is common.",
+    "whyNot": "No contiguous run survives the rearrangement, and Luke 6:23 has an equal claim on the sense.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "manual"
+    ]
+   }
+  ],
+  "29:16": [
+   {
+    "source": "2 Corinthians 12:2",
+    "type": "allusion",
+    "subtype": "conceptual",
+    "confidence": "high",
+    "text": "I knew a man in Christ above fourteen years ago, (whether in the body, I cannot tell; or whether out of the body, I cannot tell: God knoweth;) such an one caught up to the third heaven.",
+    "evidence": {
+     "vocabulary": 4,
+     "syntax": 3,
+     "sequence": 4,
+     "context": 5,
+     "rarity": 5,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "composite": [
+     "2 Corinthians 12:3"
+    ],
+    "recurrenceRefs": [
+     "Alma 29:9"
+    ],
+    "provenance": {
+     "route": "2 Corinthians 12:2-3 → KJV → Book of Mormon",
+     "other": "“Out of the body” occurs in exactly three KJV verses: Job 20:25, where a sword comes out of a body, and 2 Corinthians 12:2 and 12:3, where it is Paul's formula for a rapture whose mechanics he cannot describe. “Caught up to the third heaven” occurs in exactly one KJV verse, 2 Corinthians 12:2.",
+     "significance": "This is the row that makes the chapter legible. Alma 29:9 borrows 2 Corinthians 12:5 — “of myself I will not glory” — and Alma 29:16 borrows 12:2-3, the vision that 12:5 refuses to boast about. The two Book of Mormon verses come from either side of one sentence in Paul, and they preserve its logic: the man who will not glory of himself is the same man who was caught up out of the body, and the second fact is why the first has to be said. Alma even keeps Paul's characteristic hedge. Paul writes “whether in the body, or out of the body, I cannot tell: God knoweth”; Alma writes “even to the separation of it from the body, as it were” — the same refusal to be pinned down about what happened."
+    },
+    "note": "“My soul is carried away, even to the separation of it from the body, as it were, so great is my joy.” Nothing longer than three words is shared, which is why this is an allusion on the conceptual axis rather than a close-verbal one; but the KJV describes an out-of-body rapture in exactly one place, and Alma 29 has already quoted the sentence three verses later in the same passage. The “as it were” is Paul's hedge in Book of Mormon dress, and it is what raises the row to high.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "manual"
+    ]
+   }
+  ],
+  "29:17": [
+   {
+    "source": "Luke 13:29",
+    "type": "allusion",
+    "subtype": "close-verbal",
+    "confidence": "high",
+    "text": "And they shall come from the east, and from the west, and from the north, and from the south, and shall sit down in the kingdom of God.",
+    "evidence": {
+     "vocabulary": 5,
+     "syntax": 4,
+     "sequence": 4,
+     "context": 5,
+     "rarity": 5,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "provenance": {
+     "route": "Luke 13:29 → KJV → Book of Mormon",
+     "other": "“Sit down in the kingdom” occurs in exactly one KJV verse, Luke 13:29. Matthew's parallel at 8:11 reads “sit down with Abraham, and Isaac, and Jacob, in the kingdom of heaven” — kingdom of heaven, not of God, and with the patriarchs named. The Book of Mormon has Luke's form.",
+     "significance": "Luke 13:29's diners come “from the east, and from the west, and from the north, and from the south,” and the two verses on either side of it are the harshest in Luke: the householder shuts the door on people who ate and drank in his presence, “and ye yourselves thrust out.” It is the KJV's set-piece of outsiders seated while insiders are excluded. Alma 29:17 prays it over missionaries to the Lamanites and over “all those which are the fruit of their labors” — the converted enemy nation. The last verse of the chapter asks that Luke 13:29's reversal be granted, on behalf of the people it would be granted to."
+    },
+    "note": "“That they may sit down in the Kingdom of God.” A six-word run onto a KJV singleton, in Luke's wording rather than Matthew's. The mediation is settled by two words: Luke has “kingdom of God” where Matthew 8:11 has “kingdom of heaven,” and the Book of Mormon has Luke's.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "machine-ngram",
+     "manual"
+    ]
+   },
+   {
+    "source": "Revelation 3:12",
+    "type": "allusion",
+    "subtype": "close-verbal",
+    "confidence": "moderate",
+    "text": "Him that overcometh will I make a pillar in the temple of my God, and he shall go no more out: and I will write upon him the name of my God, and the name of the city of my God, which is new Jerusalem, which cometh down out of heaven from my God: and I will write upon him my new name.",
+    "evidence": {
+     "vocabulary": 4,
+     "syntax": 3,
+     "sequence": 3,
+     "context": 4,
+     "rarity": 4,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "provenance": {
+     "route": "Revelation 3:12 → KJV → Book of Mormon",
+     "other": "“Go no more out” occurs in exactly two KJV verses: 2 Samuel 21:17, where David's men swear he shall go no more out to battle, and Revelation 3:12, the promise to the church at Philadelphia. Only the second is about a permanent place before God.",
+     "significance": "Revelation 3:12's promise is architectural — “him that overcometh will I make a pillar in the temple of my God, and he shall go no more out” — and it is followed immediately by the writing of God's name upon him. Alma 29:17 keeps both halves in order: they go no more out, and then “they may praise him forever.” The image behind the prayer is not simply staying in heaven; it is being built into the temple as a fixture, which is the strongest thing the KJV has to say about permanence."
+    },
+    "note": "“That they may go no more out, but that they may praise him forever.” A four-word run onto one of the KJV's two occurrences, and the only one whose sense fits. The machine stream preferred Ezekiel 14:11's “may go no more astray,” which is registered as an exclusion at this verse; the Book of Mormon has “out,” not “astray.” Held at moderate because the run is short and the phrase is ordinary English.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "machine-ngram",
+     "manual"
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,147 @@
+{
+  "chapter": 21,
+  "adjudicated": "2026-09-07",
+  "adjudicator": "Opus",
+  "links": {
+    "21:3": [
+      {
+        "source": "Joshua 11:20",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "For it was of the LORD to harden their hearts, that they should come against Israel in battle, that he might destroy them utterly, and that they might have no favour, but that he might destroy them, as the LORD commanded Moses.",
+        "evidence": {"vocabulary": 4, "syntax": 5, "sequence": 4, "context": 5, "rarity": 5, "attestation": 0},
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "provenance": {
+          "route": "Joshua 11:20 → KJV → Book of Mormon",
+          "other": "\"harden their hearts\" occurs in exactly 1 KJV verse, Joshua 11:20 — the third-person plural is unique, against the very common second-person 'harden not your hearts' and the Exodus narrative's 'I will harden Pharaoh's heart'. The shared run 'harden their hearts, that they should' is six words.",
+          "significance": "The KJV says once, and only once, that a people's hearts were hardened so that they should do something, and it is the Canaanite kings marching into a war the LORD has already determined they will lose. The clause is one of the harder sentences in Joshua: the hardening is the LORD's, and its purpose is that 'he might destroy them utterly … and that they might have no favour.' Alma 21:3 keeps the syntax exactly and moves the agency off God: it is the Amalekites and the Amulonites, Nephite dissenters, who 'did cause the Lamanites that they should harden their hearts, that they should wax stronger in wickedness.' The theological substitution is the finding. Where Joshua has God harden a people toward their destruction, the Book of Mormon has apostates do it, which converts a predestinarian crux into a statement about who is responsible for a nation's ruin — and the narrative bears it out, since these are the cities the record will later report destroyed. Note also where the chapter ends: at 21:23 Aaron's counter-measure is Hebrews 3:13's daily exhortation, whose stated purpose is 'lest any of you be hardened.' The chapter opens on the KJV's one third-person hardening and closes on the KJV's one prescription against it."
+        },
+        "note": "'They did cause the Lamanites that they should harden their hearts, that they should wax stronger in wickedness.' A six-word run containing a KJV singleton, with the purpose clause preserved and the agent changed. Hardness of heart is this book's constant vocabulary and most of its occurrences carry no source; this one does, because the plural possessive with a purpose clause after it exists in exactly one KJV verse.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": ["machine-ngram", "manual"]
+      }
+    ],
+    "21:5": [
+      {
+        "source": "Acts 6:9",
+        "type": "allusion",
+        "subtype": "conceptual",
+        "confidence": "moderate",
+        "text": "Then there arose certain of the synagogue, which is called the synagogue of the Libertines, and Cyrenians, and Alexandrians, and of them of Cilicia and of Asia, disputing with Stephen.",
+        "evidence": {"vocabulary": 3, "syntax": 4, "sequence": 4, "context": 5, "rarity": 4, "attestation": 0},
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": ["Acts 6:10"],
+        "provenance": {
+          "route": "Acts 6:9-10 → KJV → Book of Mormon",
+          "other": "\"there arose certain of the synagogue\" occurs in exactly 1 KJV verse, Acts 6:9; 'of the synagogue' alone occurs in 17 and is worthless. The Book of Mormon has 'behold there arose an Amalekite, and began to contend with him', which keeps the verb, the setting and the ensuing dispute but not the run; 'began to contend' occurs in no KJV verse.",
+          "significance": "Acts 6:9 is the New Testament's one sentence in which opposition to a preacher literally stands up inside a synagogue, and it is the beginning of the first Christian martyrdom. What Acts 6:10 then says is that the disputants 'were not able to resist the wisdom and the spirit by which he spake' — the objection fails on its merits and Stephen is killed anyway. Alma 21 gives the objector the better of the exchange in one respect and the worse in another: the Amalekite gets six sentences of argument, more direct speech than any opponent has been allowed since Zeezrom, and his questions are good ones, but Aaron answers by opening the scriptures and the synagogue simply refuses to hear (21:10). The Book of Mormon has substituted expulsion for stoning, and it will supply the prison two verses later."
+        },
+        "note": "'As Aaron entered into one of their synagogues to preach unto the people … behold there arose an Amalekite, and began to contend with him.' Held at moderate: the shared elements are a verb, a setting and a dispute rather than a run of words, and a preacher heckled in a synagogue is the standing situation of Acts rather than of any one verse in it. It is written because Acts 6:9 is the only verse where the KJV puts 'there arose' and 'the synagogue' together, and because Aaron's opponents here — dissenters holding a rival priesthood 'after the order of the Nehors' — occupy the same structural place as Stephen's, freedmen of the diaspora contesting a fellow Jew.",
+        "whyNot": "No clause is reproduced. Acts has at least four synagogue disputes (6:9, 9:29, 17:17, 18:19) and none of them is verbally closer than this; a reader may reasonably say the Book of Mormon is writing Acts's genre rather than any of its verses.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": ["manual"]
+      }
+    ],
+    "21:9": [
+      {
+        "source": "Acts 17:3",
+        "type": "allusion",
+        "subtype": "extended",
+        "confidence": "high",
+        "text": "Opening and alleging, that Christ must needs have suffered, and risen again from the dead; and that this Jesus, whom I preach unto you, is Christ.",
+        "evidence": {"vocabulary": 4, "syntax": 4, "sequence": 5, "context": 5, "rarity": 5, "attestation": 0},
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": ["Acts 17:2", "Acts 17:32", "Acts 17:33"],
+        "recurrenceRefs": ["Alma 21:10", "Alma 21:11"],
+        "provenance": {
+          "route": "Acts 17:2-3, 32-33 → KJV → Book of Mormon",
+          "other": "\"opening and alleging\" occurs in exactly 1 KJV verse, Acts 17:3, and \"some mocked\" in exactly 1, Acts 17:32; \"departed from among them\" occurs in exactly 1, Acts 17:33. \"Resurrection of the dead\" occurs in 11 and is not itself evidence. The Book of Mormon does not reproduce any of the three runs — its words are 'open the Scriptures', 'began to mock him', 'departed out of the synagogue' — so what is being claimed is the sequence, in which each of three consecutive Book of Mormon verses answers to a KJV verse that is unique in its wording.",
+          "significance": "Acts 17:1-33 is the New Testament's fullest account of what a missionary does with a Bible in a synagogue and what happens to him afterwards, and Alma 21:9-11 runs it in order. Paul reasons out of the scriptures; Aaron opens the scriptures. Paul's argument is that Christ must needs have suffered and risen again from the dead; Aaron's is the coming of Christ, the resurrection of the dead, and that there is no redemption 'save it were through the death and sufferings of Christ.' The hearers of the resurrection of the dead mock; Aaron's hearers are angry and 'began to mock him.' Paul departs from among them; Aaron 'departed out of the synagogue'. The Book of Mormon's one addition is the atonement of his blood, which Acts 17 does not name — and it is exactly the term the chapter's argument requires, because the Amalekite's position at 21:6 is that God will save all men and therefore that no blood is needed. Note also that the Areopagus is where Acts's mockery of the resurrection happens, not the Thessalonian synagogue; Alma 21 has compressed the chapter, putting the synagogue's refusal where Athens's mockery stood."
+        },
+        "note": "'Now Aaron began to open the Scriptures unto them, concerning the coming of Christ, and also concerning the resurrection of the dead.' The case is cumulative rather than verbal: three consecutive verses of Alma 21 answer to Acts 17:3, 17:32 and 17:33, each of which is a KJV singleton in its own words, and they occur in Acts's order. 'Sufferings of Christ' at the end of the verse is a three-verse KJV phrase (2 Corinthians 1:5, 1 Peter 1:11, 1 Peter 5:1) and adds the noun Acts 17:3 has only as a verb. Not a quotation on any definition, and far below Skousen's threshold; catalogued as an extended allusion because the borrowing is of a passage's shape rather than of its sentences.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": ["manual"]
+      }
+    ],
+    "21:14": [
+      {
+        "source": "Matthew 25:36",
+        "type": "figural",
+        "subtype": "structural",
+        "confidence": "moderate",
+        "text": "Naked, and ye clothed me: I was sick, and ye visited me: I was in prison, and ye came unto me.",
+        "evidence": {"vocabulary": 2, "syntax": 2, "sequence": 5, "context": 5, "rarity": 3, "attestation": 0},
+        "kjvSpecific": "no",
+        "mediation": "direct-NT",
+        "composite": ["Matthew 25:35"],
+        "recurrenceRefs": ["Alma 1:30", "Alma 20:29"],
+        "provenance": {
+          "route": "Matthew 25:35-36 → KJV → Book of Mormon",
+          "other": "No run is shared: 'fed and clothed' occurs in no KJV verse. What is shared is a set. Matthew 25:35-36 lists hunger, thirst, strangeness, nakedness, sickness and imprisonment, and Alma 20:29-21:14 supplies hunger, thirst, nakedness and imprisonment across two verses, then relieves them. Matthew 25:44's form of the same list is already adjudicated in this book at Alma 1:30, where the Book of Mormon has 'athirst' rather than 'thirsty' and so demonstrably has 25:44 in view; here the terms are those of 25:35-36, the sentence of blessing rather than of judgment.",
+          "significance": "Alma 1:30 used the list to describe what the Nephite church did for the destitute; Alma 20:29-21:14 turns the missionaries themselves into the destitute and lets a Lamanite king perform the works on them. The reversal is the point of the whole Ammon narrative in miniature. In Matthew 25 the works are done to Christ in the person of the least, and the doers are surprised to learn it; here they are done to prophets by a converted heathen, and the record says only 'they were fed and clothed' — no commentary at all, in a book that comments on everything. That silence is what makes the row worth writing: the Book of Mormon states the works of mercy and leaves the reader to supply the sentence in Matthew that values them."
+        },
+        "note": "'They were delivered by the hand of Lamoni and Ammon; and they were fed and clothed.' Catalogued as figural, with kjvSpecific 'no' — there is no wording to test. The evidence is that four items of a six-item KJV list occur across two adjacent verses of the Book of Mormon and are then answered by two of Matthew's verbs, and that this book has already shown at Alma 1:30 that it reads Matthew 25 as a list.",
+        "whyNot": "Prisoners who are naked and hungry and then fed and clothed require no source; every element is what the situation dictates. A reader may hold that the resemblance to Matthew 25 is an artifact of both texts naming the same universal miseries, and nothing in Alma 21:14 would contradict him.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": ["manual"]
+      }
+    ],
+    "21:16": [
+      {
+        "source": "Acts 13:5",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "And when they were at Salamis, they preached the word of God in the synagogues of the Jews: and they had also John to their minister.",
+        "evidence": {"vocabulary": 5, "syntax": 5, "sequence": 4, "context": 5, "rarity": 5, "attestation": 0},
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": ["Romans 8:14"],
+        "provenance": {
+          "route": "Acts 13:5 → KJV → Book of Mormon",
+          "other": "\"preached the word of God in the synagogues\" occurs in exactly 1 KJV verse, Acts 13:5 — seven consecutive words, of which the Book of Mormon keeps 'the word of God in' and 'synagogue' with the number changed. \"led by the spirit\" occurs in exactly 2, Luke 4:1 and Romans 8:14.",
+          "significance": "Acts 13:5 is the first sentence of the first missionary journey, and it establishes the method the rest of Acts follows: the synagogue first, wherever there is one. Alma 21:16 is the same sentence for the Lamanite mission, with one clause added that Acts never needs — 'or in every assembly of the Lamanites, where they could be admitted.' Acts's missionaries have a right of entry to a synagogue because they are Jews; Aaron and his brethren are foreigners preaching to a people whose houses of worship were built 'after the order of the Nehors' (21:4), and they go where they are let in. The qualification is the Book of Mormon writing its own situation into a borrowed formula, and it is the reason this mission's chapters are full of prisons where Acts 13's is full of proconsuls."
+        },
+        "note": "'Preaching the word of God in every synagogue of the Amalekites, or in every assembly of the Lamanites, where they could be admitted.' A seven-word KJV singleton reproduced with the noun's number changed and its owners renamed. The machine ranked Acts 13:5 here, on 'word of god in' — one of the few places in these three chapters where the n-gram stream found the right verse. 'Whithersoever they were led by the spirit of the Lord' opening the same sentence is Romans 8:14's two-verse phrase and is recorded as a composite rather than argued.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": ["machine-ngram", "manual"]
+      }
+    ],
+    "21:23": [
+      {
+        "source": "Hebrews 3:13",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "But exhort one another daily, while it is called To day; lest any of you be hardened through the deceitfulness of sin.",
+        "evidence": {"vocabulary": 4, "syntax": 4, "sequence": 3, "context": 5, "rarity": 5, "attestation": 0},
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "Hebrews 3:13 → KJV → Book of Mormon",
+          "other": "\"exhort one another daily\" occurs in exactly 1 KJV verse, Hebrews 3:13. Exhortation is common in the KJV and daily exhortation is not; Alma 21:23's 'he did exhort them daily, with all diligence' is the only place in this narrative where the adverb appears.",
+          "significance": "Recover Hebrews 3:13's own sentence and the chapter closes on itself. The clause exists in the KJV for one reason — 'lest any of you be hardened through the deceitfulness of sin' — and hardening is what Alma 21 has been about since its third verse, where the Amalekites cause the Lamanites to harden their hearts in Joshua 11:20's words. Aaron's mission fails among the hardened at 21:10-12; Ammon's succeeds among Lamoni's people at 21:20-23, and the difference the record reports is daily exhortation. Hebrews 3:13 sits inside the passage this book has already worked through in Alma 12 — Hebrews 3:7-4:12, from 'harden not your hearts, as in the provocation' to the discerning of the thoughts and intents of the heart — so the source is not new to the narrator, only newly used at its own subject."
+        },
+        "note": "'And he did exhort them daily, with all diligence; and they gave heed unto his word.' A four-word KJV singleton with 'one another' dropped, since the exhorter here is one preacher rather than a congregation. 'Gave heed unto' is a two-verse phrase (Acts 3:5, Acts 8:6) and is not offered as evidence; the row is the daily exhortation and the hardening it is prescribed against.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": ["manual"]
+      }
+    ]
+  }
+}

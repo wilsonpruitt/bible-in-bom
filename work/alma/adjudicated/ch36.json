@@ -1,0 +1,600 @@
+{
+  "chapter": 36,
+  "adjudicated": "2026-09-07",
+  "adjudicator": "Opus",
+  "links": {
+    "36:1": [
+      {
+        "source": "Psalm 5:1",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "text": "Give ear to my words, O LORD, consider my meditation.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 3,
+          "context": 3,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "provenance": {
+          "route": "Psalm 5:1 → KJV → Book of Mormon",
+          "other": "“give ear to my words” occurs in exactly one KJV verse, Psalm 5:1. The nearest competitors are Job 34:2's 'give ear unto me' and Acts 2:14's 'hearken to my words', neither of which has the phrase.",
+          "significance": "The direction is reversed, and that is the interest of the row. Psalm 5:1 is a man asking God to give ear; Alma 36:1 is a father asking his son to. The chapter that follows is Alma's account of being heard when he cried out of torment, so the opening sentence borrows a supplicant's formula from the one who is now in a position to be obeyed — and the whole chiasm turns on the middle verse where he does the psalmist's thing and cries within his heart."
+        },
+        "note": "'My son, give ear to my words.' A KJV singleton used as an exordium. Low context score because the Psalm's setting contributes nothing beyond the formula; the row is here on rarity and on the fact that this is the first line of the most carefully built chapter in the book.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "36:2": [
+      {
+        "source": "Acts 7:32",
+        "type": "quotation",
+        "subtype": "explicit",
+        "confidence": "high",
+        "text": "Saying, I am the God of thy fathers, the God of Abraham, and the God of Isaac, and the God of Jacob. Then Moses trembled, and durst not behold.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "OT-via-NT",
+        "composite": [
+          "Acts 7:34",
+          "Acts 7:36"
+        ],
+        "recurrenceRefs": [
+          "Alma 29:11"
+        ],
+        "provenance": {
+          "route": "Exodus 3:6-8 → Acts 7:32-36 → KJV → Book of Mormon",
+          "other": "The formula stands in three Old Testament verses (Exodus 3:6, 3:15, 4:5) and is quoted five times in the New (Matthew 22:32, Mark 12:26, Luke 20:37, Acts 3:13, Acts 7:32). Every Old Testament verse reads 'the God of Abraham, the God of Isaac, and the God of Jacob'; every New Testament quotation inserts a conjunction — 'the God of Abraham, AND the God of Isaac'. Alma 36:2 has the conjunction. (“and the God of Isaac” occurs in exactly 5 KJV verses — the five New Testament quotations, and no Old Testament verse.) That is the same one-word test by which Alma 29:11 was decided direct-OT, applied to the same book and the same speaker, and here it comes out the other way.",
+          "significance": "Two verses of this book quote one formula in two different KJV forms, and the catalogue's business is to say so. Alma 29:11 reaches past the New Testament to Exodus 3:6; Alma 36:2 takes the New Testament's conjunction, and the rest of the sentence says which New Testament verse. Of the five quotations only Stephen's is embedded in a recital of the bondage and the deliverance: Acts 7:34 gives 'I have seen the affliction of my people which is in Egypt … and am come down to deliver them', which is Alma's 'they were in bondage, and none could deliver them … and he surely did deliver them in their afflictions', and Acts 7:36 gives the Red sea that Alma 36:28 comes back to at the far end of the chiasm. Recover Acts 7 and the frame of Alma 36 is Stephen's speech — the last sermon Saul of Tarsus heard before the road to Damascus, and the chapter's other great source is that road."
+        },
+        "note": "'None could deliver them, except it was the God of Abraham, and the God of Isaac, and the God of Jacob; and he surely did deliver them in their afflictions.' A fourteen-word run, and the conjunction settles the mediation. This is not the recurrence of Alma 29:11's borrowing but a different one: the same prophet, quoting the same formula twenty-five pages later, in the New Testament's wording rather than the Old Testament's, and with the affliction-and-deliverance clause that only Stephen's version of the bush supplies.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "36:3": [
+      {
+        "source": "Matthew 11:29",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "text": "Take my yoke upon you, and learn of me; for I am meek and lowly in heart: and ye shall find rest unto your souls.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "Matthew 11:28-29 → KJV → Book of Mormon",
+          "other": "“learn of me” occurs in exactly one KJV verse, Matthew 11:29, and the clause that follows it in Alma keeps Matthew's syntax: 'learn of me; for I …'. It was the highest-scoring candidate in the chapter's n-gram stream.",
+          "significance": "Matthew 11:28-30 is addressed to all that labour and are heavy laden and promises rest to the soul; Alma 36:3 borrows its invitation and substitutes a promise that whoever trusts God 'shall be supported in their trials, and their troubles, and their afflictions, and shall be lifted up at the last day'. Support under affliction is what Matthew's easy yoke amounts to, so the substitution is a paraphrase rather than a change of subject. What the metalepsis exposes is who is speaking: in the KJV this sentence has exactly one speaker, and here it is a dying father talking to his son."
+        },
+        "note": "'I beseech of thee that thou wilt hear my words, and learn of me; for I do know that whomsoever shall put his trust in God, shall be supported in their trials.' A KJV singleton in its KJV construction. Moderate rather than high because 'learn of me' is unremarkable English and Alma supplies his own content after the semicolon; what argues for the borrowing is that the promise he supplies is Matthew's promise in other words. The 1830 'whomsoever' was corrected to 'whosoever' in 1920.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "36:6": [
+      {
+        "source": "Galatians 1:13",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "For ye have heard of my conversation in time past in the Jews’ religion, how that beyond measure I persecuted the church of God, and wasted it:",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 3,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Galatians 1:23"
+        ],
+        "recurrenceRefs": [
+          "Mosiah 27:10",
+          "Alma 36:9",
+          "Alma 36:11"
+        ],
+        "provenance": {
+          "route": "Galatians 1:13, 23 → KJV → Book of Mormon",
+          "other": "“persecuted the church of God” occurs in exactly two KJV verses, Galatians 1:13 and 1 Corinthians 15:9, and 'the church of God' in eight; 'destroy' as the verb for that persecution is Galatians 1:23's ('the faith which once he destroyed') and Acts 9:21's. No single KJV verse joins the verb to the object as Alma does.",
+          "significance": "The first adjudication of this formula is at Mosiah 27:10, where the narrator uses it of Alma and where the whole Galatians 1 sequence follows — destroyer, revelation, preacher of the faith he destroyed. A new book gets its own row (ADJUDICATING §4), and what is new here is that Alma is now quoting it himself, twice more as the angel's own words at 36:9 and 36:11. The phrase has moved from a narrator's description to the sentence the convert remembers being said to him, which is what Galatians 1 does too: Paul's persecution formula reaches us only in his own retelling."
+        },
+        "note": "'I went about with the sons of Mosiah, seeking to destroy the church of God.' The argument for the borrowing was made at Mosiah 27:10 and is not restated. What this verse adds is repetition under quotation: the same words come back at 36:9 and 36:11 in the angel's mouth — 'seek no more to destroy the church of God' — so Alma 36 makes Paul's autobiographical formula into the hinge of its chiasm.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "36:7": [
+      {
+        "source": "Acts 26:14",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "And when we were all fallen to the earth, I heard a voice speaking unto me, and saying in the Hebrew tongue, Saul, Saul, why persecutest thou me? it is hard for thee to kick against the pricks.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Acts 9:4"
+        ],
+        "recurrenceRefs": [
+          "Mosiah 27:12",
+          "Mosiah 27:13"
+        ],
+        "provenance": {
+          "route": "Acts 26:14, with Acts 9:4 → KJV → Book of Mormon",
+          "other": "“fell to the earth” occurs in exactly three KJV verses, of which only Acts 9:4 has a voice with it; “fallen to the earth” occurs in exactly two, of which only Acts 26:14 does. The KJV's three Damascus accounts differ on who falls: at Acts 9:4 Saul alone falls and at 9:7 the men stand speechless; at 26:14 'we were all fallen to the earth'. Alma 36:7 has 'we all fell to the earth' — Acts 9:4's verb with Acts 26:14's subject.",
+          "significance": "Mosiah 27:12-13 told this event from Acts 9, and the falling there is the companions' at 27:12 with the voice to Alma at 27:13. Alma 36:7 retells it from Acts 26, Paul's third and last account, given before Agrippa — the version in which nobody is left standing. The shift matters because Acts 26 is the version Paul tells as a defence of his own life to a king, at the end of it, which is the genre of Alma 36 exactly: an old man giving an account of himself to his heir. The Book of Mormon's two narrations of one conversion follow the New Testament's two narrations of the other, and follow them in the same order — the third-person report first, the apologia last."
+        },
+        "note": "'He spake unto us, as it were the voice of thunder, and the whole earth did tremble beneath our feet, and we all fell to the earth, for the fear of the Lord came upon us.' The KJV tells this story three times and disagrees with itself about who fell; Alma 36:7 takes the answer given at Acts 26:14, which is the one Mosiah 27 did not take. The trembling earth is neither account's and belongs to the Book of Mormon's theophany vocabulary.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      },
+      {
+        "source": "Revelation 19:6",
+        "type": "echo",
+        "subtype": "probable",
+        "confidence": "moderate",
+        "text": "And I heard as it were the voice of a great multitude, and as the voice of many waters, and as the voice of mighty thunderings, saying, Alleluia: for the Lord God omnipotent reigneth.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 4,
+          "sequence": 3,
+          "context": 3,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "recurrenceRefs": [
+          "Mosiah 27:11"
+        ],
+        "provenance": {
+          "route": "Revelation 19:6 → KJV → Book of Mormon",
+          "other": "“as it were the voice” occurs in exactly one KJV verse, Revelation 19:6 — which is also the KJV verse that pairs the construction with thunder, 'as the voice of mighty thunderings'. 'Voice of thunder' occurs in no KJV verse at all; the KJV's thunder is a 'voice of thunderings' (Revelation 19:6) or God thundering with his voice (Job 37:4-5, Psalm 18:13).",
+          "significance": "Revelation 19:6 is the acclamation of the reign — the multitude crying Alleluia because the Lord God omnipotent reigneth. Alma's angel speaks 'as it were the voice of thunder' and what he says is a sentence about sovereignty over a man's destruction. The borrowing is of a simile, not of a message, which is why it stays an echo; but it is worth noticing that the KJV's one place for this construction is a place where a voice like thunder announces that God has taken his power."
+        },
+        "note": "'He spake unto us, as it were the voice of thunder.' A five-word run from the KJV's only verse with the construction, and it is the Book of Mormon's standing formula for angelic speech: Mosiah 27:11 has 'he spake as it were with a voice of thunder' of this same event, in a different book and therefore with its own row. Recorded at moderate because the formula may have entered the corpus's idiom before this verse and 'voice of thunder' is what an English reader would say unprompted.",
+        "whyNot": "The simile is generic enough that Revelation may be an accident of it: any writer wanting a loud supernatural voice writes 'as it were the voice of thunder', and the KJV singleton status attaches to the frame ('as it were the voice') rather than to the image.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "36:8": [
+      {
+        "source": "Acts 22:10",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "text": "And I said, What shall I do, LORD? And the Lord said unto me, Arise, and go into Damascus; and there it shall be told thee of all things which are appointed for thee to do.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 3,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Acts 26:16",
+          "Acts 9:6"
+        ],
+        "provenance": {
+          "route": "Acts 22:10 and 26:16 → KJV → Book of Mormon",
+          "other": "The three accounts word the command differently: Acts 9:6 'Arise, and go into the city', Acts 22:10 'the Lord said unto me, Arise, and go into Damascus', Acts 26:16 'But rise, and stand upon thy feet'. Alma 36:8 has the first-person report-formula of 22:10 ('the voice said unto me, Arise') and the standing-up of 26:16, and neither of the destinations.",
+          "significance": "The two verses Alma splices are the two first-person accounts — the one Paul gives to a Jerusalem mob and the one he gives to Agrippa — not the narrator's account at Acts 9. Alma 36 is first-person throughout, and the source it draws on shifts accordingly. The stripped command is also the chapter's economy at work: the KJV's voice tells Saul where to go, Alma's tells him only to get up, because in the chiastic structure the standing up at 36:8 is answered by the standing up at 36:23 and nothing may intervene."
+        },
+        "note": "'But behold, the voice said unto me, Arise. And I arose and stood up, and beheld the angel.' Five words from Acts 22:10 in Acts 22:10's grammatical person, completed by the action Acts 26:16 commands. Moderate: the words are common and the case rests on the fact that this verse sits inside a sustained rewriting of the same three chapters of Acts.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "36:10": [
+      {
+        "source": "Matthew 12:40",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "text": "For as Jonas was three days and three nights in the whale’s belly; so shall the Son of man be three days and three nights in the heart of the earth.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Jonah 1:17",
+          "Acts 9:9"
+        ],
+        "provenance": {
+          "route": "Matthew 12:40, over Acts 9:9 → KJV → Book of Mormon",
+          "other": "“three days and three nights” occurs in exactly three KJV verses, 1 Samuel 30:12, Jonah 1:17 and Matthew 12:40; only Matthew's is a figure for death and rising. The Damascus source has a different measure — Acts 9:9's Saul 'was three days without sight, and neither did eat nor drink' — with no nights in it.",
+          "significance": "This is where the Damascus narrative and the sign of Jonas cross. Everything else in Alma 36:6-11 comes from Acts, and Acts gives three days; the nights are Matthew's, and Matthew's three days and three nights are the one KJV measure of a burial. Alma 36:16 then names the interval 'the pains of a damned soul', 36:23 has his limbs receive their strength and his standing on his feet, and 36:24 has him going out to preach — a death, a term in the heart of the earth, and a rising. The added word 'nights' is what converts a convalescence into a resurrection, and it is a KJV borrowing.",
+          "alternative": "Jonah 1:17 alone; but Jonah's three days and three nights are not a type of anything until Matthew makes them one."
+        },
+        "note": "'It was for the space of three days and three nights, that I could not open my mouth; neither had I the use of my limbs.' The Book of Mormon's other account of this event does not have the nights, and neither does the Acts narrative behind it. Recorded at moderate because the phrase is a natural way to say 'three days' and the writer may simply have doubled it; what argues for Matthew is that the chapter goes on to use the interval exactly as Matthew 12:40 uses it.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "36:11": [
+      {
+        "source": "Acts 9:7",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "And the men which journeyed with him stood speechless, hearing a voice, but seeing no man.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Acts 22:9"
+        ],
+        "recurrenceRefs": [
+          "Mosiah 27:12"
+        ],
+        "provenance": {
+          "route": "Acts 9:7 against Acts 22:9 → KJV → Book of Mormon",
+          "other": "The KJV's best-known internal contradiction, and both halves of it are singletons — “hearing a voice” occurs in exactly one KJV verse and “heard not the voice” in exactly one: Acts 9:7 says the companions stood 'hearing a voice', Acts 22:9 says 'they heard not the voice of him that spake to me'. Mosiah 27:12 resolved it the standard harmonizing way, by making the companions fall and 'understand not the words' — Acts 9:4's falling with Acts 22:9's failure, and 'understood' substituted for 'heard'. Alma 36:11 resolves it the other way and does not harmonize at all.",
+          "significance": "This is the finding of the chapter. The two Book of Mormon accounts of one conversion divide along the same seam as the KJV's two accounts of the other, and they divide in opposite directions. Mosiah 27 gives the companions Acts 22:9's not-hearing; Alma 36:11 gives them Acts 9:7's hearing — 'the angel spake more things unto me, which were heard by my brethren' — and then transfers the deafness to the convert himself: 'but I did not hear them.' Neither Acts verse says that. The move is what the chapter needs, because Alma 36 is a chiasm whose centre is a man who cannot hear, speak or move, and it produces the only version of the scene in which the man at its centre is the one who misses what is said. Whether the writer noticed that he was standing on the crux of Acts 9 and 22 is unanswerable; that the two Book of Mormon accounts between them occupy both sides of it is a fact about the text."
+        },
+        "note": "'The angel spake more things unto me, which were heard by my brethren, but I did not hear them.' A sentence with no single KJV source and an unmistakable KJV problem behind it. Acts 9:7 has the companions hearing; Acts 22:9 has them not hearing; the Book of Mormon has used one at Mosiah 27:12 and uses the other here, of the same episode, and inverts it so that the failure to hear belongs to Alma. The reason given for the failure is his own — 'I was struck with such great fear and amazement' — which is Acts 9's 'trembling and astonished' at 9:6 in the received text.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "36:18": [
+      {
+        "source": "Acts 8:23",
+        "type": "quotation",
+        "subtype": "close-verbal",
+        "confidence": "certain",
+        "text": "For I perceive that thou art in the gall of bitterness, and in the bond of iniquity.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 1
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "recurrenceRefs": [
+          "Mosiah 27:29"
+        ],
+        "provenance": {
+          "route": "Acts 8:23 → KJV → Book of Mormon",
+          "other": "“gall of bitterness” occurs in exactly one KJV verse, Acts 8:23, and 'the bond of iniquity' with it. The 1830 reading is the evidence here: 'have mercy on me, who ART in the gall of bitterness, and ART encircled about by the everlasting chains of death'. The second person is Peter's — 'thou art in the gall of bitterness' — retained in a sentence whose subject is the speaker himself, and 1920 corrected both verbs to 'am'. CONVENTIONS §8's case in its sharpest form: the first edition carries the source's grammar as a fingerprint, and the modern text has cleaned it off.",
+          "significance": "Adjudicated at Mosiah 27:29, where the point made is that Alma's self-description reaches past his own Saul-shaped conversion to Simon Magus. Alma 36:18 adds the fingerprint. In Acts 8:23 the words are an accusation spoken TO a man by an apostle; in the 1830 they are still in the second person while being said BY the man of himself, so the first edition preserves the moment of borrowing rather than the finished sentence. Alma is quoting a rebuke, in the grammar it was delivered in, as a self-diagnosis — and the substitution of 'everlasting chains of death' for 'the bond of iniquity' turns Peter's second clause into the phrase Alma 5:7-10 had already made his own."
+        },
+        "note": "'O Jesus, thou Son of God, have mercy on me, who art in the gall of bitterness, and art encircled about by the everlasting chains of death.' Two clauses of a KJV singleton, in order, and the argument for the borrowing was made at Mosiah 27:29. What is new is the 1830 grammar: twice 'art' where the sentence requires 'am', which is Acts 8:23's own verb form surviving into a first-person sentence and then being edited away in 1920. A borrowing is rarely this visible in the mechanics of the text.",
+        "bibliography": [],
+        "status": "consensus",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      },
+      {
+        "source": "Matthew 8:29",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "text": "And, behold, they cried out, saying, What have we to do with thee, Jesus, thou Son of God? art thou come hither to torment us before the time?",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Mark 10:47"
+        ],
+        "provenance": {
+          "route": "Matthew 8:29, with Mark 10:47 → KJV → Book of Mormon",
+          "other": "“Jesus thou Son of God” occurs in exactly two KJV verses, Matthew 8:29 and Luke 8:28 ('Jesus, thou Son of God most high'), and both are cries from men possessed by devils. The petition attached to it is Bartimaeus's: 'Jesus, thou son of David, have mercy on me' (Mark 10:47, Luke 18:38). Alma's cry is the demoniac's vocative with the blind man's request.",
+          "significance": "The KJV never lets anyone address Jesus as 'thou Son of God' except a legion of devils, and what they say next is 'art thou come hither to torment us before the time?' Alma 36:12-17 has just used 'torment' or 'racked' six times of himself, and 36:16 names his state 'the pains of a damned soul'. So the words he cries are the words the KJV assigns to the damned in torment — and he attaches to them the one thing the demoniacs never ask for. The composite is the whole argument: the address of the possessed, the petition of the beggar, and the difference between them is mercy."
+        },
+        "note": "'I cried within my heart, O Jesus, thou Son of God, have mercy on me.' The vocative belongs, in the KJV, to devils; the petition belongs to a blind man on the Jericho road. Moderate rather than high because 'have mercy on me' occurs in six KJV verses and the title is a natural Christian address — but the title in this exact form is not, and its two occurrences are both cries out of torment, which is precisely where Alma is when he makes it.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "36:20": [
+      {
+        "source": "1 Peter 2:9",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "But ye are a chosen generation, a royal priesthood, an holy nation, a peculiar people; that ye should shew forth the praises of him who hath called you out of darkness into his marvellous light;",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "recurrenceRefs": [
+          "Mosiah 27:29"
+        ],
+        "provenance": {
+          "route": "1 Peter 2:9 → KJV → Book of Mormon",
+          "other": "“marvellous light” occurs in exactly one KJV verse, 1 Peter 2:9, and the 1830 spells it with the KJV's double l — 'what marvellous light I did behold' — where 1920 has 'marvelous'. CONVENTIONS §8: the first edition preserves an orthography the modern text has erased.",
+          "significance": "Argued at Mosiah 27:29, where the same singleton appears in the same author's other account. The new thing here is its position. Alma 36 is a chiasm and 36:20 is one step out from the centre, answering 36:16's three days and nights of the pains of a damned soul; 1 Peter 2:9's light is what one is called out of darkness INTO, and Alma has placed it exactly where the chapter turns from darkness to light. The verse it comes from is also about a people being made a people — 'which in time past were not a people, but are now the people of God' — which is what Alma 36:24-26 says happened next."
+        },
+        "note": "'And O, what joy, and what marvellous light I did behold.' A KJV singleton whose 1830 spelling is the KJV's own. The argument was made at Mosiah 27:29 and is not restated; the row is here because a new book gets its own row (ADJUDICATING §4) and because this occurrence is structurally placed in a way the Mosiah one is not.",
+        "bibliography": [],
+        "status": "consensus",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "36:22": [
+      {
+        "source": "1 Kings 22:19",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "And he said, Hear thou therefore the word of the LORD: I saw the LORD sitting on his throne, and all the host of heaven standing by him on his right hand and on his left.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 3,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "OT-via-earlier-BoM",
+        "recurrenceRefs": [
+          "1 Nephi 1:8"
+        ],
+        "provenance": {
+          "route": "1 Kings 22:19 → 1 Nephi 1:8 → Book of Mormon",
+          "other": "The divine-council formula — one seated on a throne with the heavenly host about him — stands at 1 Kings 22:19, 2 Chronicles 18:18, Isaiah 6:1, Daniel 7:9-10 and Revelation 4:2-4. The link at 1 Nephi 1:8 adjudicates it against 1 Kings 22:19; Alma 36:22 does not reach for any of them independently.",
+          "significance": "This is the clearest case in the book for the OT-via-earlier-BoM route, because the text says so itself: 'methought I saw even as our father Lehi saw'. The proximate model is not 1 Kings but 1 Nephi 1:8, and the sentence is built to be recognised as a quotation of it — the throne, the numberless concourses, the attitude of singing and praising. What Alma adds is the wish, 'my soul did long to be there', which is nowhere in Lehi and nowhere in 1 Kings; the vision is inherited and the longing is his."
+        },
+        "note": "'Methought I saw even as our father Lehi saw, God sitting upon his throne, surrounded with numberless concourses of angels, in the attitude of singing and praising their God.' The Book of Mormon marks its own borrowing here, and the thing borrowed is a Book of Mormon verse rather than a biblical one; the biblical source stands behind 1 Nephi 1:8, where it is argued. Recorded so that a reader of Alma is not left to suppose there is no scriptural background, and so that the route is visible.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "36:26": [
+      {
+        "source": "Isaiah 52:8",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "text": "Thy watchmen shall lift up the voice; with the voice together shall they sing: for they shall see eye to eye, when the LORD shall bring again Zion.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 2,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "provenance": {
+          "route": "Isaiah 52:8 → KJV → Book of Mormon",
+          "other": "“eye to eye” occurs in exactly one KJV verse, Isaiah 52:8. (Numbers 14:14's 'eye to eye' reads 'thou LORD art seen face to face' in the KJV and does not contain the phrase.)",
+          "significance": "Isaiah 52:8 is about agreement in sight — watchmen who see the same thing at the same moment and therefore sing with one voice — and Alma 36:26 is making exactly that claim about converts: 'many hath been born of God, and hath tasted as I have tasted, and hath seen eye to eye, as I have seen.' What the source adds is corporate. In Isaiah the seeing eye to eye is the sign that the LORD is bringing again Zion; Alma offers his converts' agreement with his own vision as the same kind of evidence, which is the argument the whole chapter has been making from 36:4 — that his knowledge is not of himself."
+        },
+        "note": "'Many hath been born of God, and hath tasted as I have tasted, and hath seen eye to eye, as I have seen.' A KJV singleton used for the corroboration of a testimony by others' experience. Moderate: three words, and the English idiom 'to see eye to eye' was current by 1830 in something close to its modern sense of agreement, so the writer may have it from ordinary speech — but the ordinary sense derives from this verse, and Alma's use is the biblical one, about seeing rather than agreeing.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "36:27": [
+      {
+        "source": "2 Corinthians 1:10",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "text": "Who delivered us from so great a death, and doth deliver: in whom we trust that he will yet deliver us;",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "2 Corinthians 1:9"
+        ],
+        "provenance": {
+          "route": "2 Corinthians 1:8-10 → KJV → Book of Mormon",
+          "other": "The KJV's three-tense deliverance formula — delivered / in whom we trust / will yet deliver — occurs in one verse, 2 Corinthians 1:10, whose closing clause “he will yet deliver us” occurs in exactly one KJV verse, and Alma 36:27 has all three members in the same order: 'God hath delivered me from prison, and from bonds, and from death; yea, and I do put my trust in him, and he will still deliver me.' 'Still' for 'yet' is the only substitution in the frame.",
+          "significance": "The paragraph the verse comes from is Paul's own list of afflictions — 'we were pressed out of measure, above strength, insomuch that we despaired even of life' — and it turns on 2 Corinthians 1:9: 'we had the sentence of death in ourselves, that we should not trust in ourselves, but in God which raiseth the dead.' Alma 36:27 gives the deliverance formula and Alma 36:28 gives the reason Paul gives for it: 'I know that he will raise me up at the last day.' Two verses of Alma reproduce two verses of Paul in Paul's order, and the second is the ground of the first in both. It is also the reason the catalogue reads 36:27's 'prison, and bonds, and death' as more than a list — in 2 Corinthians 1 the deliverances being counted are from a death sentence actually expected."
+        },
+        "note": "'God hath delivered me from prison, and from bonds, and from death; yea, and I do put my trust in him, and he will still deliver me.' Paul's three tenses of deliverance with the trust between them, in Paul's order. The n-gram stream proposed Hebrews 2:13 here on 'put my trust in him', a KJV singleton — but that verse is a quotation of Isaiah 8:17 with no deliverance around it, and it cannot account for the tense sequence that makes Alma's sentence what it is.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "36:28": [
+      {
+        "source": "John 6:44",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "text": "No man can come to me, except the Father which hath sent me draw him: and I will raise him up at the last day.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 3,
+          "context": 4,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "John 6:40"
+        ],
+        "provenance": {
+          "route": "John 6:40, 44, 54 → KJV → Book of Mormon",
+          "other": "“raise him up at the last day” occurs in exactly three KJV verses, John 6:40, 6:44 and 6:54, and 'at the last day' in only five, of which four are in John 6. The phrase is effectively one chapter's property.",
+          "significance": "In John 6 the promise is always Christ's about a believer — 'I will raise him up at the last day' — and Alma converts it to the first person as a thing known about himself: 'I know that he will raise me up at the last day.' The chapter's use of the phrase has been building since 36:3, where the same promise was offered to Helaman ('shall be lifted up at the last day'), so the borrowing frames the chiasm's outer members. What John supplies that Alma keeps is the pairing of resurrection with eating and tasting — John 6:54's raising is promised to whoever eats — and Alma 36:24-26 has just spent three verses on tasting."
+        },
+        "note": "'I know that he will raise me up at the last day, to dwell with him in glory.' A phrase that in the KJV belongs almost entirely to one discourse, moved from Christ's mouth to a man's and from the third person to the first. Moderate: the resurrection formula is one the Book of Mormon uses constantly, so this may be its own idiom by Alma 36 rather than a fresh borrowing; the John 6 wording is nevertheless where the idiom comes from.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      },
+      {
+        "source": "Exodus 15:12",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "text": "Thou stretchedst out thy right hand, the earth swallowed them.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 2
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Exodus 15:4",
+          "Exodus 14:28",
+          "Acts 7:36"
+        ],
+        "provenance": {
+          "route": "Exodus 15:4-12, with Exodus 14:27-28 → KJV → Book of Mormon",
+          "other": "Hardy's apparatus cross-references Exodus 14:26-28 at this verse, and the narrative it points to is certainly the one Alma is reciting — but the wording is not there. Exodus 14:27-28 has the LORD overthrowing the Egyptians and the waters returning and covering them; nothing in chapter 14 is swallowed. The verb is the Song of the Sea's: “the earth swallowed” occurs in exactly one KJV verse, Exodus 15:12, of these same Egyptians, and “drowned in the Red sea” occurs in exactly one, Exodus 15:4. Alma 36:28's 'he hath swallowed up the Egyptians in the red sea' takes the verb from 15:12 and the location from 15:4, both from the poem rather than the prose. CONVENTIONS §6a: the link is placed where the wording is, and the cross-reference is recorded.",
+          "significance": "The recital is the chiasm's outer answer to 36:2, and it is worth seeing which Exodus it uses. Exodus 14 is a report; Exodus 15 is a song of praise sung after deliverance, and Alma 36:28 is introduced by 'I will praise him forever, for …'. The form of Alma's sentence is the form of the Song of the Sea — a first-person vow of praise, followed by what God did to the Egyptians — so the verse is not merely alluding to the event but adopting the genre in which Israel remembered it. Acts 7:36's 'wonders and signs in the land of Egypt, and in the Red sea' stands behind the summary shape, and completes the frame begun at 36:2 from Acts 7:32-34."
+        },
+        "note": "'He hath brought our fathers out of Egypt, and he hath swallowed up the Egyptians in the red sea; and he led them by his power into the promised land.' Hardy cross-references Exodus 14:26-28 here; the event is right and the words come from the chapter after it. Recorded at moderate because a recital of the exodus can be assembled from any of a dozen KJV passages, and Alma's summary is compressed enough that no one of them is demonstrable — but 'swallowed' is a choice, and the KJV makes it in exactly one verse about exactly these people.",
+        "bibliography": [
+          "Hardy MSI at Alma 36:28"
+        ],
+        "status": "novel",
+        "streams": [
+          "scholarship",
+          "manual"
+        ]
+      }
+    ]
+  }
+}
