@@ -1,0 +1,132 @@
+[
+  {
+    "bomRef": "Helaman 6:1",
+    "source": "Colossians 2:5",
+    "category": "insufficient-verbal",
+    "sharedText": "steadiness in the faith",
+    "streams": [
+      "manual"
+    ],
+    "reason": "Considered and declined. 'The stedfastness of your faith' is a KJV singleton at Colossians 2:5 and Helaman 6:1 has 'their firmness, and their steadiness in the faith' — but the Book of Mormon's noun is 'steadiness', not 'stedfastness', and the 1830 does not spell it Paul's way. 'Steadiness' occurs in no KJV verse at all. What the two share is a doctrine and a preposition. Recorded because the singleton is real and the near-miss on the noun is the kind of thing that reads as a match at a glance."
+  },
+  {
+    "bomRef": "Helaman 6:6",
+    "source": "Acts 10:42",
+    "category": "formulaic",
+    "sharedText": "to preach unto the people",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "The verse's top candidate at rarity 2.10 on a six-word run, and every word of it is the Book of Mormon's ordinary way of saying what missionaries do. Acts 10:42 is Peter at Cornelius's house on the ordination of Christ as judge of quick and dead; Helaman 6:6 is a one-clause travel notice. Covered as formulaic rather than argued."
+  },
+  {
+    "bomRef": "Helaman 6:9",
+    "source": "Daniel 11:43",
+    "category": "common-vocabulary",
+    "sharedText": "gold and of silver and",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "A six-word run of a KJV list formula. Daniel 11:43 is the king of the north having power over the treasures of Egypt; Helaman 6:9 is a prosperity notice. 'Gold and silver' in that order with 'and of' between is how the KJV inventories wealth everywhere from Genesis 24:35 to Revelation 18:12, and it carries no signal. Recorded once here for the several similar matches across 6:9-11."
+  },
+  {
+    "bomRef": "Helaman 6:15",
+    "source": "Matthew 24:3",
+    "category": "wrong-sense",
+    "sharedText": "as he sat upon the",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "Matched here and at Mark 13:3 on a five-word run, and the run ends one word early in the way ADJUDICATING §4 describes: the Gospels' next words are 'mount of Olives' and Helaman's are 'judgement seat'. Matthew 24:3 opens the Olivet discourse; Helaman 6:15 reports the assassination of a chief judge by an unknown hand. Sitting somewhere is not a shared idea. The verse has no biblical source that this adjudication can identify."
+  },
+  {
+    "bomRef": "Helaman 6:16",
+    "source": "Romans 11:12",
+    "category": "common-vocabulary",
+    "sharedText": "the riches of the world",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "Matched at 6:17's 'the riches of the world' (the dossier keys it to the 6:16 block). Romans 11:12 uses the phrase of Israel's fall being the riches of the world — a metaphor for the Gentiles' gain — and Helaman uses it of literal wealth. The verse's real borrowing is Psalm 62:10's 'set not your heart upon', a KJV singleton the n-gram stream did not rank, which is CONVENTIONS §9's point again: the stream sees the four-word noun phrase and misses the clause split across 'set their hearts upon their riches'."
+  },
+  {
+    "bomRef": "Helaman 6:20",
+    "source": "Matthew 26:22",
+    "category": "wrong-sense",
+    "sharedText": "they were exceeding sorrowful",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "A five-word verbatim run at rarity 2.00, and the sense is opposed in a way worth stating. 'Exceeding sorrowful' occurs in three KJV verses, and all three are the passion: the disciples at the last supper asking 'Lord, is it I?', and twice Christ in Gethsemane, 'my soul is exceeding sorrowful, even unto death'. Helaman 6:20 is the Lamanites' reaction to discovering robbers among them, and their sorrow issues immediately in a manhunt — 'they did use every means whatsoever was in their power, to destroy them off the face of the earth'. The KJV's phrase names a grief that submits; the Book of Mormon's names one that acts. The verse's own concern, a nation discovering a conspiracy in its midst, has nothing to do with either Gethsemane or the betrayal."
+  },
+  {
+    "bomRef": "Helaman 6:21",
+    "source": "Jeremiah 34:10",
+    "category": "wrong-sense",
+    "sharedText": "entered into the covenant",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "'Entered into the covenant' is a KJV singleton and it is the wrong covenant. Jeremiah 34:10 is Zedekiah's princes covenanting to free their Hebrew slaves — a covenant made before the LORD, in the right, and then broken (34:11, 'afterward they turned'). Helaman 6:21 is the Nephites entering the Gadianton oaths, a covenant made in the wrong and kept scrupulously; its whole content is that it will not be broken, since 6:22-24 exist to punish anyone who reveals it. The two verses are exact inversions on both axes, the covenant's morality and its durability, which is why the singleton cannot be used. Recorded at length as a model of the trap: a KJV singleton whose one occurrence is the opposite case."
+  },
+  {
+    "bomRef": "Helaman 6:28",
+    "source": "Genesis 41:56",
+    "category": "formulaic",
+    "sharedText": "over all the face of the",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "A six-word run and one of the Book of Mormon's own commonest formulas — 'all the face of the earth' and its variants occur in dozens of verses of the 1830 text and are covered by the standing exclusion at 1 Nephi 2:1. Genesis 41:56's famine has no contact with Helaman 6:28's tower. Noted only because the verse it lands in is one this catalogue does link, to Genesis 11:4, on entirely different words."
+  },
+  {
+    "bomRef": "Helaman 6:30",
+    "source": "Hebrews 5:9",
+    "category": "insufficient-verbal",
+    "sharedText": "the author of",
+    "streams": [
+      "manual"
+    ],
+    "reason": "'He which is the author of all sin' invites the KJV's two 'author of' constructions — Hebrews 5:9's 'author of eternal salvation' and 1 Corinthians 14:33's 'God is not the author of confusion' — and the second is the more interesting, since Helaman's sentence is its exact negative counterpart applied to the adversary. But 'author of' is two words, the KJV never uses the construction of the Devil, and neither verse shares anything else with Helaman 6:30. The formula is more likely English theological usage of the period than a borrowing. Recorded because a reader who knows 1 Corinthians 14:33 will hear it here and should be told the catalogue considered it."
+  },
+  {
+    "bomRef": "Helaman 6:31",
+    "source": "Matthew 21:32",
+    "category": "better-source-identified",
+    "sharedText": "the way of righteousness",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "The n-gram stream ranked Matthew 21:32 here on 'the way of righteousness', a phrase occurring in five KJV verses. The link is written at 2 Peter 2:21 instead, on the sequence rather than the phrase: 2 Peter has the way of righteousness known and then the holy commandment turned from — a KJV singleton — and Helaman 6:31 has 'turned out of the way of righteousness, and did trample under their feet the commandments of God' in that order. Matthew 21:32 is about John the Baptist coming in the way of righteousness and being disbelieved, which supplies neither the turning nor the commandment."
+  },
+  {
+    "bomRef": "Helaman 6:31",
+    "source": "Matthew 7:6",
+    "category": "better-source-identified",
+    "sharedText": "trample under their feet",
+    "streams": [
+      "manual"
+    ],
+    "reason": "Helaman 6:31's 'did trample under their feet the commandments of God' contains Matthew 7:6's KJV singleton 'under their feet' and is the second of three occurrences in this batch of chapters. It is registered here rather than linked because 6:39, eight verses later, has both halves of Matthew 7:6 in one sentence — the trampling and the rending — and adjudicating the phrase twice inside one chapter would double-count a single borrowing. A reader arriving at 6:31 is sent to 6:39, and to Helaman 4:22 for the first occurrence in this book."
+  },
+  {
+    "bomRef": "Helaman 6:34",
+    "source": "Deuteronomy 26:17",
+    "category": "common-vocabulary",
+    "sharedText": "to keep his statutes and",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "'Keep his statutes' occurs in two KJV verses, Deuteronomy 26:17 and 1 Kings 2:3, and both extend the list to 'and his commandments, and his judgments'. Helaman 6:34 has 'keep his statutes and commandments, and to walk in truth and uprightness before him', which is the Deuteronomic formula in the abstract rather than either verse in particular — the second half, 'walk in truth and uprightness', matches neither and is nearest 1 Kings 3:6's 'in truth, and in righteousness, and in uprightness of heart', which is a third verse again. With three candidates and no distinguishing wording, no source is identifiable."
+  },
+  {
+    "bomRef": "Helaman 6:38",
+    "source": "Exodus 5:19",
+    "category": "common-vocabulary",
+    "sharedText": "see that they were in",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "A five-word run of function words. Exodus 5:19 is the Israelite officers seeing they were in evil case over the brick quota; Helaman 6:38 is the Gadianton band overspreading the Nephites. Nothing but the clause skeleton is shared."
+  }
+]

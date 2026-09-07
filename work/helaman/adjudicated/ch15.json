@@ -1,0 +1,575 @@
+{
+  "chapter": 15,
+  "adjudicated": "2026-09-07",
+  "adjudicator": "Opus",
+  "links": {
+    "15:1": [
+      {
+        "source": "Matthew 23:38",
+        "type": "quotation",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "Behold, your house is left unto you desolate.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Luke 13:35"
+        ],
+        "recurrenceRefs": [
+          "Helaman 13:25",
+          "Helaman 13:29",
+          "Helaman 13:33"
+        ],
+        "variants": [
+          "1830 and 1920 both read the plural 'your houses'; the KJV has the singular 'your house'"
+        ],
+        "provenance": {
+          "route": "Matthew 23:38 → KJV → Book of Mormon",
+          "other": "“Left unto you desolate” occurs in exactly two KJV verses, Matthew 23:38 and Luke 13:35, which are the same saying in two gospels. The Book of Mormon pluralises the house, which neither has.",
+          "significance": "The sermon's Matthew 23 argument closes here, two chapters after it opened. At 13:25 Samuel quotes the woe's counterfactual ('if our days had been in the days of our fathers'), at 13:29 its epithet ('blind guides'), at 13:33 its charge ('killed the prophets, and stoned them'), and here its verdict — and Matthew has them in that order, 23:30, 23:16/24, 23:37, 23:38. Recovering the discourse tells the reader what Zarahemla has been cast as for three chapters: Jerusalem in the week before the temple falls. The pluralised 'houses' is the one adjustment, and it is the right one — Jesus speaks to a city with one house that matters, Samuel to a city with no temple at all."
+        },
+        "note": "'Except ye shall repent, your houses shall be left unto you desolate.' Against Matthew 23:38: 'Behold, your house is left unto you desolate.' The clause occurs in exactly two KJV verses, both the same dominical saying; Matthew is preferred over Luke 13:35 because the three preceding borrowings in this sermon are all from Matthew 23 and one of them, 'in the days of our fathers' at 13:25, is a KJV singleton that Luke's parallel woes do not contain. The Book of Mormon adds the condition ('except ye shall repent') that Matthew's saying does not offer, and pluralises the house. Below Skousen's threshold and not among his quotations; catalogued as a quotation on the §2 rule.",
+        "bibliography": [],
+        "status": "majority",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "15:2": [
+      {
+        "source": "Matthew 24:19",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "And woe unto them that are with child, and to them that give suck in those days!",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Mark 13:17",
+          "Luke 21:23",
+          "Matthew 24:16"
+        ],
+        "recurrenceRefs": [
+          "Helaman 15:1"
+        ],
+        "provenance": {
+          "route": "Matthew 24:16-20 → KJV → Book of Mormon",
+          "other": "“Them that are with child” occurs in exactly three KJV verses, Matthew 24:19, Mark 13:17 and Luke 21:23, which are the same saying in the three synoptic apocalypses; the wording is near-identical and cannot be told apart. What can be told apart is the sequence: Matthew 23:38's 'your house is left unto you desolate' is followed, thirteen verses later in the same discourse, by 24:19's woe — and Helaman 15:1 and 15:2 stand in exactly that order.",
+          "significance": "The Olivet warning is a warning about speed — the flight will be sudden, so pregnancy and nursing are disabilities. The Book of Mormon states the reason the gospels leave implicit ('they shall be heavy, and cannot flee') and then supplies an outcome none of the three has: 'they shall be trodden down, and shall be left to perish'. Luke 21:24 does say Jerusalem shall be trodden down, but 'trodden down' occurs in ten KJV verses and cannot bear the weight, so the addition is recorded as the Book of Mormon's own hardening of the source rather than as a fourth borrowing."
+        },
+        "note": "'Your women shall have great cause to mourn in the day that they shall give suck; for ye shall attempt to flee, and there shall be no place for refuge; yea, and wo unto them which are with child.' Three elements of the Olivet discourse — the woe, the child, the suck — plus the flight of Matthew 24:16-20. The phrase occurs in exactly three KJV verses and they are the three synoptic forms of one saying, so no verbal test separates them; Matthew is preferred because 15:1 has just quoted Matthew 23:38 and Matthew alone places the two sayings thirteen verses apart in a single continuous discourse. Recorded at high because the borrowing is not in doubt even though the evangelist is.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "15:3": [
+      {
+        "source": "Hebrews 12:6",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "moderate",
+        "text": "For whom the Lord loveth he chasteneth, and scourgeth every son whom he receiveth.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "OT-via-NT",
+        "composite": [
+          "Proverbs 3:12"
+        ],
+        "provenance": {
+          "route": "Proverbs 3:11-12 → Hebrews 12:6 → KJV → Book of Mormon",
+          "other": "“Whom the Lord loveth” occurs in exactly two KJV verses, Proverbs 3:12 and Hebrews 12:6 — the second quoting the first — and they differ in one word: Proverbs' Lord correcteth, Hebrews' chasteneth. tools/mediation-check.py reports no decisive divergence, because the two candidates differ as whole blocks rather than at a point the Book of Mormon reproduces; the judgment here is made by eye and on that one word.",
+          "significance": "Hebrews 12 turns Proverbs' domestic maxim into an argument about who counts as a son: the chastening is the evidence of legitimacy, and 'if ye be without chastisement … then are ye bastards, and not sons' (12:8). Samuel is making exactly that argument about the Nephites — they have been chastened because they are the chosen people — and then reverses it in the next verse for the Lamanites, who have been left alone and are the ones being saved. The suppressed premise cuts against the speaker's own audience harder than anything he says outright."
+        },
+        "note": "'Yea, in the days of their iniquities hath he chastened them, because he loveth them.' The King James Bible joins these two verbs in two verses, Proverbs 3:12 and Hebrews 12:6, the second quoting the first, and they differ in exactly one word: Proverbs' Lord CORRECTETH whom he loveth, Hebrews' CHASTENETH. The Book of Mormon has chasten. mediation-check.py returns no decisive divergence at this verse because its alignment treats the two clauses as blocks, so the result is argued rather than measured — but the single word the two candidates disagree about is the single word the Book of Mormon supplies, which is the whole of the test. Moderate: it is one word, and 'chasten' is common KJV vocabulary outside this pair.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "15:4": [
+      {
+        "source": "Romans 9:13",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "text": "As it is written, Jacob have I loved, but Esau have I hated.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 3
+        },
+        "kjvSpecific": "yes",
+        "mediation": "OT-via-NT",
+        "composite": [
+          "Malachi 1:2",
+          "Malachi 1:3"
+        ],
+        "recurrenceRefs": [
+          "Helaman 15:3"
+        ],
+        "provenance": {
+          "route": "Malachi 1:2-3 → Romans 9:13 → KJV → Book of Mormon",
+          "other": "The loved/hated pair has two KJV homes, Malachi 1:2-3 and Romans 9:13 quoting it; “have I hated” occurs in exactly three KJV verses, of which Romans 9:13 is the only one about Esau. They differ in word order: Malachi reads 'yet I loved Jacob. And I hated Esau' — verb before object — while Romans inverts to 'Jacob have I loved, but Esau have I hated'. The Book of Mormon has the inversion: 'the people of Nephi hath he loved … the Lamanites hath he hated'. mediation-check.py returns one decisive point for Romans, but on a thin backbone of a single shared word, so the word order rather than the tool's count is what carries this.",
+          "significance": "Samuel takes the harshest election text in the Bible and assigns the roles against his hearers' expectation — and then unsays it. Paul uses Jacob and Esau to argue that God's choice is not earned; Samuel reports that the Nephites are Jacob and the Lamanites are Esau, and immediately adds that the hated brother is the one being saved, keeping the commandments, and adding to his numbers daily. The metalepsis is Romans 9's whole argument, which ends by transferring the promise to those 'which were not my people' (9:25). The verse quotes the premise and lets the conclusion arrive over the next thirteen verses."
+        },
+        "note": "'The Lamanites hath he hated, because their deeds have been evil continually', following 15:3's 'the people of Nephi hath he loved'. The distinctive thing is the syntax, not the vocabulary: Malachi puts the verb first and Romans fronts the object, and the Book of Mormon fronts the object twice. Hardy's apparatus cross-references both Malachi 1:2-3 and Romans 9:13 at this verse, which is right about the pair and does not choose between them; the choice is what this row records. Note also that 'their deeds have been evil continually' fuses Genesis 6:5's 'only evil continually' into Paul's clause, which neither source has.",
+        "bibliography": [
+          "Hardy MSI at Hel 15.4 (Malachi 1:2-3, Romans 9:13)"
+        ],
+        "status": "majority",
+        "streams": [
+          "scholarship",
+          "manual"
+        ]
+      }
+    ],
+    "15:5": [
+      {
+        "source": "Ephesians 5:15",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "See then that ye walk circumspectly, not as fools, but as wise,",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Deuteronomy 26:17"
+        ],
+        "provenance": {
+          "route": "Ephesians 5:15 → KJV → Book of Mormon",
+          "other": "“Walk circumspectly” occurs in exactly one KJV verse, Ephesians 5:15. The adjective appears once more, at Exodus 23:13 ('in all things that I have said unto you be circumspect'), and the adverb nowhere else. The rest of the verse — 'keep his commandments, and his statutes, and his judgements' — is the Deuteronomic triad, closest to Deuteronomy 26:17, which also has the walking.",
+          "significance": "A Pauline adverb inside a Mosaic sentence, describing Lamanites keeping the law of Moses. Recover Ephesians 5:15-16 and the reason for circumspection is the times: 'redeeming the time, because the days are evil' — which is the situation Samuel has spent two chapters describing, and the reason his audience has run out of. The Lamanites are walking carefully because the days are evil; the Nephites are told at 13:38 that they have procrastinated."
+        },
+        "note": "'The more part of them are in the path of their duty, and they do walk circumspectly before God, and they do observe to keep his commandments, and his statutes, and his judgements, according to the law of Moses.' 'Walk circumspectly' occurs in exactly one KJV verse. The second half of the sentence is Deuteronomy's standing formula for covenant obedience and Deuteronomy 26:17 is its closest form, joining the walking to the statutes, commandments and judgments in one verse. 1830 spells 'judgements'; 1920 modernises to 'judgments'.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "15:6": [
+      {
+        "source": "Acts 2:47",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "moderate",
+        "text": "Praising God, and having favour with all the people. And the Lord added to the church daily such as should be saved.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "Acts 2:47 → KJV → Book of Mormon",
+          "other": "“Added to the church daily” occurs in exactly one KJV verse, Acts 2:47. The King James Bible has no other verse in which converts are added to anything on a daily basis; Acts 16:5 has churches 'increased in number daily', which is congregations rather than persons.",
+          "significance": "Samuel describes the Lamanite mission in the vocabulary of Pentecost. Recovering Acts 2:47 supplies the clause the Book of Mormon leaves off — 'such as should be saved' — and the picture the whole chapter is drawing: a community with all things common, praising God, growing daily, which is what Acts 2:44-47 describes and what 15:5-9 says the Lamanites have become while the Nephites were setting their hearts on riches."
+        },
+        "note": "'There are many which do add to their numbers daily.' 'Added to the church daily' occurs in exactly one KJV verse. Moderate rather than high because the Book of Mormon substitutes 'their numbers' for Luke's 'the church' and reverses the voice — Luke's converts are added by the Lord, Samuel's missionaries do the adding — so the shared material is the idiom of daily accession rather than a clause. Its force comes from the paragraph around it, which reproduces the rest of Acts 2:44-47's picture.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "15:7": [
+      {
+        "source": "1 Timothy 2:4",
+        "type": "echo",
+        "subtype": "probable",
+        "confidence": "moderate",
+        "text": "Who will have all men to be saved, and to come unto the knowledge of the truth.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 2,
+          "context": 4,
+          "rarity": 3,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "2 Timothy 3:7",
+          "Hebrews 10:26"
+        ],
+        "recurrenceRefs": [
+          "Helaman 15:11",
+          "Helaman 15:13"
+        ],
+        "provenance": {
+          "route": "1 Timothy 2:4 → KJV → Book of Mormon",
+          "other": "“Knowledge of the truth” occurs in exactly three KJV verses, 1 Timothy 2:4, 2 Timothy 3:7 and Hebrews 10:26; all three are late epistles and the phrase has no Old Testament existence. The Book of Mormon uses it three times in this chapter alone (15:7, 15:11, 15:13).",
+          "significance": "The phrase carries a soteriology with it. 1 Timothy 2:4's God 'will have all men to be saved, and to come unto the knowledge of the truth' is the universalist half of the Pastorals, and Samuel is arguing precisely that the despised nation is being brought to it. 2 Timothy 3:7's 'ever learning, and never able to come to the knowledge of the truth' is the mirror image and is what 15:15 says of the Nephites."
+        },
+        "note": "'As many of them as are brought to the knowledge of the truth … are lead to believe the Holy Scriptures.' The phrase occurs in exactly three KJV verses and belongs entirely to the Pastorals and Hebrews. Echo rather than allusion: no single one of the three can be isolated, and the Book of Mormon has made the expression a standing formula of its own. Registered because the chapter's argument turns on it three times and because a reader should know the phrase is Pauline rather than prophetic.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "15:8": [
+      {
+        "source": "Galatians 5:1",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "Stand fast therefore in the liberty wherewith Christ hath made us free, and be not entangled again with the yoke of bondage.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 5,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "recurrenceRefs": [
+          "Helaman 14:30"
+        ],
+        "provenance": {
+          "route": "Galatians 5:1 → KJV → Book of Mormon",
+          "other": "“Hath made us free” occurs in exactly one KJV verse, Galatians 5:1, and the fuller relative construction 'wherewith Christ hath made us free' likewise occurs in exactly one KJV verse. The Book of Mormon reproduces the relative clause with the pronoun changed: 'the thing wherewith they have been made free'.",
+          "significance": "Paul's sentence is an exhortation to stand fast; Samuel reports that the Lamanites already are. Recovering Galatians supplies the warning attached — 'be not entangled again with the yoke of bondage' — and the Book of Mormon has been telling the reader for two chapters what that yoke is here: not the law, but riches, which at 13:31 have been cursed so they cannot be held. And 15:9 immediately shows what the Lamanites do with their freedom, which is to bury their weapons and let themselves be trodden down. That is Galatians 5:13's 'by love serve one another' rather than 5:1's standing fast."
+        },
+        "note": "'As many as have come to this … are firm and steadfast in the faith, and in the thing wherewith they have been made free.' 'Wherewith Christ hath made us free' occurs in exactly one KJV verse, and the Book of Mormon reproduces its unusual relative construction — a freedom identified by the thing it was won with — while replacing 'liberty' with the vague 'thing'. Note that 'stand fast' at the head of Paul's sentence has become 'firm and steadfast' at the head of the Book of Mormon's, which is 1 Peter 5:9's phrase and is adjudicated separately at this verse. Compare 14:30, 'he hath made you free', where the same Pauline verb is already in the sermon.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      },
+      {
+        "source": "1 Peter 5:9",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "moderate",
+        "text": "Whom resist stedfast in the faith, knowing that the same afflictions are accomplished in your brethren that are in the world.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "1 Peter 5:9 → KJV → Book of Mormon",
+          "other": "“Stedfast in the faith” occurs in exactly one KJV verse, 1 Peter 5:9. Colossians 1:23's 'continue in the faith grounded and settled' and 1 Corinthians 16:13's 'stand fast in the faith' are the near neighbours and neither uses the adjective.",
+          "significance": "Peter's steadfastness is resistance to a devouring adversary, and the reason given is that the same afflictions are being borne by the brethren elsewhere in the world. Samuel's Lamanites are steadfast in the faith and are being trodden down and slain for it two verses later. What the source supplies is the comparative frame: they are not the only ones, which is the argument Samuel is making to a Nephite audience that thinks it is."
+        },
+        "note": "'Are firm and steadfast in the faith.' 'Stedfast in the faith' occurs in exactly one KJV verse; 1830 spells it 'steadfast', which is the modern form, so the orthographic evidence runs the other way here and is worth saying. Moderate: three words, and 'steadfast' is one of the Book of Mormon's own favourite words (compare the 'steadfast and immovable' formula), so the phrase may be arriving from its own usage rather than freshly from Peter. It is recorded separately from the Galatians link because the two halves of this verse borrow from two different epistles.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "15:12": [
+      {
+        "source": "1 Timothy 4:1",
+        "type": "allusion",
+        "subtype": "probable",
+        "confidence": "moderate",
+        "text": "Now the Spirit speaketh expressly, that in the latter times some shall depart from the faith, giving heed to seducing spirits, and doctrines of devils;",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 2,
+          "sequence": 4,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "recurrenceRefs": [
+          "Helaman 15:11"
+        ],
+        "provenance": {
+          "route": "1 Timothy 4:1 → KJV → Book of Mormon",
+          "other": "“In the latter times” occurs in exactly one KJV verse, 1 Timothy 4:1. The commoner KJV expression is 'in the last days' (Isaiah 2:2, Acts 2:17, 2 Timothy 3:1 and others) or 'in the latter days' (Jeremiah 23:20, Daniel 2:28), and the Book of Mormon uses those elsewhere; 'latter times' is Paul's alone.",
+          "significance": "Paul's latter times are when 'some shall depart from the faith'. Samuel's sentence puts the departure and the latter times in the same order across two verses — 15:11's 'even if they should dwindle in unbelief' and then 15:12's 'in the latter times, the promises of the Lord hath been extended' — and then reverses the outcome. Where 1 Timothy 4:1 makes the latter times the era of apostasy, Helaman 15:12 makes them the era in which the apostates are reclaimed. Recovering Paul is what shows the reversal is deliberate rather than accidental."
+        },
+        "note": "'In the latter times, the promises of the Lord hath been extended to our brethren, the Lamanites.' 'In the latter times' occurs in exactly one KJV verse, and that verse pairs the period with a falling away from the faith, which is what 15:11 has just described. Moderate: three words, and the sense is inverted from the source's. What argues for the borrowing is that the KJV offers three commoner ways of saying this and the text has chosen the singleton.",
+        "whyNot": "A short temporal formula, and the Book of Mormon's eschatological vocabulary is already saturated with 'latter day' language of its own. A reader who takes this as the text's own idiom rather than a citation of Paul has a fair case; the reversal of sense is the argument, and reversal is easier to assert than to prove.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      },
+      {
+        "source": "Job 13:25",
+        "type": "echo",
+        "subtype": "possible",
+        "confidence": "low",
+        "text": "Wilt thou break a leaf driven to and fro? and wilt thou pursue the dry stubble?",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 2,
+          "sequence": 2,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "provenance": {
+          "route": "Job 13:25 → KJV → Book of Mormon",
+          "other": "“Driven to and fro” occurs in exactly one KJV verse, Job 13:25, where it describes a leaf. The KJV's other 'to and fro' phrases are running (2 Chronicles 16:9, Zechariah 4:10), reeling (Isaiah 24:20) and being tossed (Ephesians 4:14).",
+          "significance": "Job's line is a question — 'Wilt thou break a leaf driven to and fro? and wilt thou pursue the dry stubble?' — put to a God who seems to be doing exactly that. Helaman 15:12 says the Lamanites will be driven to and fro, hunted, smitten and scattered, and then answers Job's question in the affirmative's opposite: 'the Lord shall be merciful unto them'. If the echo is real the verse is a reply to Job, which is more than the words alone can establish."
+        },
+        "note": "'Notwithstanding they shall be driven to and fro upon the face of the earth, and be hunted, and shall be smitten and scattered abroad.' 'Driven to and fro' occurs in exactly one KJV verse. Recorded at low because a KJV singleton this ordinary is weak evidence — the phrase is natural English and the Book of Mormon could reach it without Job — and because the surrounding verbs (hunted, smitten, scattered) belong to the deuteronomic curse vocabulary rather than to Job.",
+        "whyNot": "Four common words, a singleton only because the KJV had little occasion to use them. Nothing else in the verse points at Job, and the mercy that answers the driving is the Book of Mormon's own promise to the Lamanites, made repeatedly elsewhere without Joban language.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "15:13": [
+      {
+        "source": "Hebrews 13:20",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "moderate",
+        "text": "Now the God of peace, that brought again from the dead our Lord Jesus, that great shepherd of the sheep, through the blood of the everlasting covenant,",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "John 10:16"
+        ],
+        "provenance": {
+          "route": "Hebrews 13:20 → KJV → Book of Mormon",
+          "other": "“Great shepherd” occurs in exactly one KJV verse, Hebrews 13:20 ('that great shepherd of the sheep'). John 10:11's is the 'good shepherd' and 1 Peter 5:4's the 'chief Shepherd'; the KJV keeps the three adjectives distinct.",
+          "significance": "Two shepherd texts fused, and the join is the point. Hebrews 13:20 supplies the epithet and the resurrection frame ('brought again from the dead our Lord Jesus'), which is what the chapter has been about since 14:15; John 10:16 supplies the other sheep who are not of this fold and must also be brought — the verse the Book of Mormon will make its own at 3 Nephi 15:21. So Samuel's promise that the Lamanites will be 'numbered among his sheep' is stated in the vocabulary of the one KJV passage about sheep outside the fold, three books before the Book of Mormon makes that identification explicit."
+        },
+        "note": "'Their great and their true Shepherd, and be numbered among his sheep.' 'Great shepherd' occurs in exactly one KJV verse. The being numbered among the sheep is John 10:16's other fold rather than Hebrews', so the verse is composite. Moderate: 'great shepherd' is two words and the epithet 'true Shepherd' is the Book of Mormon's own (Alma 5:38-39, 1 Nephi 22:25), so what is being caught here is the KJV colouring of a formula the text had already made its own.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "15:14": [
+      {
+        "source": "Matthew 11:22",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "text": "But I say unto you, It shall be more tolerable for Tyre and Sidon at the day of judgment, than for you.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 4,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Luke 10:14"
+        ],
+        "recurrenceRefs": [
+          "Helaman 15:15"
+        ],
+        "provenance": {
+          "route": "Matthew 11:22 → KJV → Book of Mormon",
+          "other": "“Than for you” occurs in exactly two KJV verses, Matthew 11:22 and Luke 10:14, which are the same saying about Tyre and Sidon. 'More tolerable' occurs in six, always in this comparative-judgment formula. The Book of Mormon substitutes 'better' for 'more tolerable' and drops the day of judgment.",
+          "significance": "The formula's whole force is that the comparison is with the outsiders — the Gentile cities, the proverbially wicked ones — and the Book of Mormon takes it over exactly: the people who will fare better are the Lamanites, and the audience being told so is the covenant nation. Recovering the source supplies what Samuel does not say, which is when the comparison will be made: 'in the day of judgment'."
+        },
+        "note": "'It shall be better for them than for you, except ye repent.' 'Than for you' occurs in exactly two KJV verses, both the Tyre and Sidon saying, and this is the sentence that introduces the counterfactual at 15:15. Moderate on its own — the shared string is three common words — and it should be read with 15:15, where the mighty works and the counterfactual repentance make the identification of the source secure.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "15:15": [
+      {
+        "source": "Matthew 11:23",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "And thou, Capernaum, which art exalted unto heaven, shalt be brought down to hell: for if the mighty works, which have been done in thee, had been done in Sodom, it would have remained until this day.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 3,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Matthew 11:21",
+          "Luke 10:13",
+          "Matthew 11:20"
+        ],
+        "recurrenceRefs": [
+          "Helaman 15:14",
+          "Helaman 15:17"
+        ],
+        "variants": [
+          "1830 'shewn' → 1920 'shown' (twice)"
+        ],
+        "provenance": {
+          "route": "Matthew 11:21-23 (or Luke 10:13) → KJV → Book of Mormon",
+          "other": "“The mighty works” occurs in exactly four KJV verses, Matthew 11:21, Matthew 11:23, Matthew 13:54 and Luke 10:13. The construction is a counterfactual with three parts — mighty works, done in one city rather than another, and a repentance that would have followed — and it exists in the KJV only at Matthew 11:21, Matthew 11:23 and Luke 10:13. The evangelist cannot be settled here, and the catalogue records that rather than hiding it. tools/mediation-check.py returns two decisive points for Matthew 11:23, but both rest on material Helaman 15:15 does not reproduce (Sodom; sackcloth and ashes), so they are artifacts of the alignment and are set aside. Against Matthew, the clause order matches Luke: Luke 10:13 has 'had been done in Tyre and Sidon, WHICH HAVE BEEN DONE IN YOU' — them before you — and Helaman 15:15 has 'been shewn unto them WHICH HAVE BEEN SHEWN UNTO YOU'. Matthew 11:21 and 11:23 both put the hearers first. On the other hand the sermon's other borrowings in these two chapters are all Matthaean.",
+          "significance": "Jesus' saying is an indictment of privilege: the cities that saw the miracles did not repent, and the ones that never saw them would have. Samuel applies it to a nation that has just been given a list of miracles to expect. The suppressed clause in Matthew is the one that follows — 'thou, Capernaum, which art exalted unto heaven, shalt be brought down to hell' — and the Book of Mormon's audience has been told the same thing in chapter 13 in Sodom's terms. The counterfactual is a rebuke that cannot be answered, because the condition can never be tested; that is exactly why 15:15 ends 'ye can see of yourselves'."
+        },
+        "note": "'Had the mighty works been shewn unto them which have been shewn unto you … they never would again have dwindled in unbelief.' The three-part counterfactual is the synoptic saying about Tyre and Sidon, and the Book of Mormon has substituted 'shewn' for 'done' and 'dwindled in unbelief' for 'repented'. Which evangelist cannot be decided: the mediation tool's two decisive points both fall on words the Book of Mormon does not have, while the clause order — the others before the hearers — is Luke's rather than Matthew's, and the sermon's other borrowings are Matthew's. Recorded as Matthew with Luke 10:13 as a composite and the disagreement stated. The 1830 'shewn', modernised to 'shown' in 1920, preserves the KJV's orthography (CONVENTIONS §8), though the KJV's own verb here is 'done'.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "15:16": [
+      {
+        "source": "Amos 9:8",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "Behold, the eyes of the Lord GOD are upon the sinful kingdom, and I will destroy it from off the face of the earth; saving that I will not utterly destroy the house of Jacob, saith the LORD.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Amos 9:9"
+        ],
+        "recurrenceRefs": [
+          "Helaman 15:17"
+        ],
+        "provenance": {
+          "route": "Amos 9:8 → KJV → Book of Mormon",
+          "other": "“I will not utterly destroy” occurs in exactly one KJV verse, Amos 9:8, and it is the KJV's one sentence in which God announces destruction and then withholds it from a remnant in the same breath. 'Utterly destroy' by itself occurs in twelve, almost all of them commands to exterminate Canaanites or Amalekites.",
+          "significance": "The Book of Mormon splits Amos's sentence between two peoples. Amos 9:8 destroys the sinful kingdom from off the face of the earth 'saving that I will not utterly destroy the house of Jacob'; Helaman 15:16 gives the Lamanites the saving clause and 15:17 gives the Nephites the destruction, in the same words, one verse apart. Recovering Amos supplies the mechanism the Book of Mormon leaves out and then spends a thousand years enacting — 9:9's sifting of the house of Israel among all nations, 'yet shall not the least grain fall upon the earth', which is what 'in the day of my wisdom, they shall return again unto me' means."
+        },
+        "note": "'I will not utterly destroy them, but I will cause that in the day of my wisdom, they shall return again unto me' (15:16), against 'if they will not repent … I will utterly destroy them' (15:17). 'I will not utterly destroy' occurs in exactly one KJV verse, and Amos 9:8 is also the only KJV verse that puts the two verdicts in one sentence, which is what the Book of Mormon does across two. The machine stream returned the verse independently. Note that 1 Samuel 15:9 and 2 Chronicles 12:7 are the near matches and both are filed in the register.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "15:17": [
+      {
+        "source": "Exodus 10:2",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "moderate",
+        "text": "And that thou mayest tell in the ears of thy son, and of thy son’s son, what things I have wrought in Egypt, and my signs which I have done among them; that ye may know how that I am the LORD.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Matthew 11:20"
+        ],
+        "recurrenceRefs": [
+          "Helaman 15:15",
+          "Helaman 14:27"
+        ],
+        "provenance": {
+          "route": "Exodus 10:2 → KJV → Book of Mormon",
+          "other": "“Which I have done among them” occurs in exactly one KJV verse, Exodus 10:2, where the antecedent is 'my signs'. The 'mighty works' the Book of Mormon attaches to it are the synoptic saying's, ten KJV verses, all in the gospels.",
+          "significance": "Two economies of sign fused in one clause. Exodus 10:2 is spoken in the middle of the plagues and gives their purpose — that a father may tell his son, and that they may know the Lord — and the sign that follows it three verses later is the darkness Helaman 14:27 has already borrowed. The gospels' 'mighty works' come with the opposite outcome: the cities that saw them did not repent. Samuel's sentence has Exodus's grammar and Matthew's verdict, and the result is a threat: the signs were given, the knowing did not follow, and 'I will utterly destroy them'."
+        },
+        "note": "'I will utterly destroy them … because of their unbelief, notwithstanding the many mighty works which I have done among them.' 'Which I have done among them' occurs in exactly one KJV verse, and in Exodus 10:2 the works so described are the plagues — which is what chapter 14 has been promising, three days of darkness included. The pairing with 'mighty works' brings Matthew 11:20's unrepentant cities into the same clause. Moderate: a five-word run of ordinary words, and it may be coincidence; what raises it is that the Book of Mormon has just spent a chapter promising a plague and now describes it in the plague narrative's own phrase.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ]
+  }
+}

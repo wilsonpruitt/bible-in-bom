@@ -1,0 +1,82 @@
+[
+  {
+    "bomRef": "Helaman 4:3",
+    "source": "Jeremiah 26:5",
+    "category": "wrong-sense",
+    "sharedText": "hearken to the words",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "'Hearken to the words' is a KJV singleton, which is the strongest kind of evidence this project has, and it is worthless here. Jeremiah 26:5 is God's complaint that Judah will not hearken to the words of the prophets; Helaman 4:3 reports that the Lamanites 'would not hearken to the words of those dissenters', which is the one refusal to listen in the chapter that turns out well. The sense is not merely different, it is reversed: the Book of Mormon's non-hearkening is a mercy, Jeremiah's is the ground of judgement. Nothing else in verse 3 touches Jeremiah 26. Recorded at length because a singleton in the rarity tool is exactly the result that tempts an adjudicator to write a link without reading the second verse (ADJUDICATING §4)."
+  },
+  {
+    "bomRef": "Helaman 4:4",
+    "source": "Ezra 6:15",
+    "category": "formulaic",
+    "sharedText": "sixth year of the reign of",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "The chapter's highest-scoring run at verse 4 and one of several regnal-date matches the n-gram stream ranked across the chapter (also 1 Kings 16:8, 2 Chronicles 36:20 at 4:4 and 4:18). Helaman 4 dates seven of its twenty-six verses by 'the ... year of the reign of the Judges', and the KJV's regnal formula is the only English the phrase could be written in. Ezra 6:15 dates the finishing of the temple by Darius; there is no other contact. All the chapter's regnal-date candidates are covered by this entry."
+  },
+  {
+    "bomRef": "Helaman 4:11",
+    "source": "1 Corinthians 10:32",
+    "category": "common-vocabulary",
+    "sharedText": "to the church of God",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "'The church of God' occurs in a dozen KJV verses and is the Book of Mormon's own standing term for the Nephite church from Mosiah onward. 1 Corinthians 10:32 is about giving no offence to Jews, Gentiles or the church, which has nothing to do with Helaman 4:11's charge that the wickedness was found among those 'which professed to belong to the church of God'. No source is identifiable and none is needed."
+  },
+  {
+    "bomRef": "Helaman 4:16",
+    "source": "2 Samuel 10:4",
+    "category": "wrong-sense",
+    "sharedText": "the one half of their",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "A five-word run, and the run is arithmetic. 2 Samuel 10:4 is Hanun shaving off the one half of David's servants' beards; Helaman 4:16 is Moronihah recovering the one half of the Nephite lands. The words are identical and the referents share nothing. This is the shape ADJUDICATING §4 warns about — read the whole verse — and it is worth an entry because 'the one half of their' looks like a distinctive run and is in fact a fraction."
+  },
+  {
+    "bomRef": "Helaman 4:20",
+    "source": "Luke 21:24",
+    "category": "insufficient-verbal",
+    "sharedText": "trodden down",
+    "streams": [
+      "manual"
+    ],
+    "reason": "Considered and declined. Helaman 4:20 fears the Nephites will be 'overpowered, and trodden down, and slain, and destroyed' by a numerically superior enemy, which is close to Luke 21:24's 'Jerusalem shall be trodden down of the Gentiles' — and the Book of Mormon does borrow from Luke 21 elsewhere (Mosiah 7:18). But 'trodden down' occurs in ten KJV verses, seven of them Isaiah's, and no clause is shared: Luke's verb has a named city as subject and 'of the Gentiles' after it, and Helaman has a bare participle in a list of four. There is nothing to choose Luke over Isaiah 25:10 or 63:18 with, and the phrase is doing no work the list does not do without it."
+  },
+  {
+    "bomRef": "Helaman 4:24",
+    "source": "Judges 13:21",
+    "category": "common-vocabulary",
+    "sharedText": "the Lord did no more",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "The chapter's top-scoring candidate by rarity (2.25) and a six-word run, and it is an accident of the auxiliary. Judges 13:21 is 'the angel of the LORD did no more appear to Manoah'; Helaman 4:24 is 'the spirit of the Lord did no more preserve them'. What the two share is 'the LORD did no more' plus a verb, which is a construction, not a phrase. The verse's real dependence at that clause is Mosiah 1:13's 'he will no more preserve them' — a Book of Mormon source, not a biblical one — and the link is filed there as OT-via-earlier-BoM. Recorded because the machine's best score in the chapter falls on the one clause whose proximate model is not in the Bible at all."
+  },
+  {
+    "bomRef": "Helaman 4:24",
+    "source": "Isaiah 14:10",
+    "category": "better-source-identified",
+    "sharedText": "become weak",
+    "streams": [
+      "manual"
+    ],
+    "reason": "'Become weak' occurs in exactly two KJV verses, and Isaiah 14:10 — 'Art thou also become weak as we? art thou become like unto us?' — has both halves of Helaman 4:24's clause, 'become weak, like unto their brethren'. It is also thematically apt: Isaiah 14 is the taunt over a king brought low by pride, and Helaman 4 is a chapter about pride. It is nevertheless not the source. Judges 16:17 is the other of the two verses, and the Book of Mormon has already used it, at Mosiah 1:13, in a sentence Helaman 4:24-25 reproduces almost word for word — including 'preserve', which Isaiah 14 cannot supply, and 'matchless', which occurs in no KJV verse at all. The link is written at Helaman 4:24 with Judges 16:17 as source and Mosiah 1:13 as the proximate model; Isaiah 14:10 is recorded there as the alternative reading."
+  },
+  {
+    "bomRef": "Helaman 4:26",
+    "source": "Judges 16:17",
+    "category": "better-source-identified",
+    "sharedText": "become weak",
+    "streams": [
+      "manual"
+    ],
+    "reason": "Verse 26 repeats the chapter's key clause — 'thus had they become weak, because of their transgression' — and also supplies 'even man for man', which is nearer to Judges 16:17's 'be like any other man' than anything in verse 24. The borrowing is nevertheless adjudicated at 4:24, where the full Mosiah 1:13 sentence stands ('become weak, like unto their brethren' plus 'did no more preserve them' plus 'matchless power' at 4:25). Verse 26 is Mormon closing his own paragraph by restating it. A reader arriving at 4:26 is sent to 4:24."
+  }
+]

@@ -1,0 +1,421 @@
+{
+  "chapter": 11,
+  "adjudicated": "2026-09-07",
+  "adjudicator": "Opus",
+  "links": {
+    "11:4": [
+      {
+        "source": "2 Samuel 24:13",
+        "type": "figural",
+        "subtype": "type-scene",
+        "confidence": "moderate",
+        "text": "So Gad came to David, and told him, and said unto him, Shall seven years of famine come unto thee in thy land? or wilt thou flee three months before thine enemies, while they pursue thee? or that there be three days’ pestilence in thy land? now advise, and see what answer I shall return to him that sent me.",
+        "evidence": {
+          "vocabulary": 2,
+          "syntax": 1,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 3,
+          "attestation": 0
+        },
+        "kjvSpecific": "no",
+        "mediation": "direct-OT",
+        "composite": [
+          "2 Samuel 24:14",
+          "1 Chronicles 21:12",
+          "Jeremiah 29:17"
+        ],
+        "recurrenceRefs": [
+          "Helaman 11:14",
+          "Helaman 11:15"
+        ],
+        "provenance": {
+          "route": "2 Samuel 24:13-14 → Book of Mormon (form, not wording)",
+          "other": "No clause is shared. The three scourges named — famine, the sword or enemies, and pestilence — are the Jeremian triad, and “the famine and the pestilence” occurs in exactly two KJV verses, Jeremiah 24:10 and 29:17, both of which read 'the sword, the famine, and the pestilence'.",
+          "significance": "The KJV has exactly one scene in which a man is put to choosing among the three scourges: Gad offers David famine, flight before enemies, or pestilence, and David answers 'let us fall now into the hand of the LORD; for his mercies are great: and let me not fall into the hand of man.' Helaman 11:4 makes the same election and gives the same reason in different words — not the sword (which is the hand of man, wielded here by the Gadianton band) but famine, because famine will 'stir them up in remembrance of the Lord their God'. The transposition is that David chooses a punishment for a sin he has committed, while Nephi chooses one for a people who have not yet repented; the mercy David trusts is the mercy Nephi is counting on to work backwards, as a means of repentance rather than a mitigation of sentence."
+        },
+        "note": "'Do not suffer that this people shall be destroyed by the sword; but O Lord, rather let there be a famine in the land.' No wording is borrowed and the link is offered on form alone: the sword-or-famine election belongs to one biblical episode, and the reason given for the choice is David's reason. Filed as figural for that reason, at moderate rather than higher, since the triad of scourges was available to any reader of Jeremiah without David's scene attached to it.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "11:5": [
+      {
+        "source": "1 Kings 17:1",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "And Elijah the Tishbite, who was of the inhabitants of Gilead, said unto Ahab, As the LORD God of Israel liveth, before whom I stand, there shall not be dew nor rain these years, but according to my word.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "recurrenceRefs": [
+          "Helaman 11:13",
+          "Helaman 11:17",
+          "Helaman 10:6"
+        ],
+        "provenance": {
+          "route": "1 Kings 17:1 → KJV → Book of Mormon",
+          "other": "“according to my word” occurs in exactly one KJV verse, 1 Kings 17:1, where it is Elijah's claim that the drought he has just announced will end only at his say-so. Helaman 11:5 has 'according to the words of Nephi' and Helaman 11:13 has 'according to my words'; the singular-to-plural shift is the only change. The KJV has no other instance of a drought or famine made contingent on a named man's word.",
+          "significance": "This is the head of the chapter's controlling borrowing, and it should be read against Helaman 10:6. There the grant came out of Revelation 11:6, where the two witnesses 'have power to shut heaven, that it rain not in the days of their prophecy' — a verse that is itself the Apocalypse's compression of Elijah. Helaman 11 then spends the grant in Elijah's own terms: withheld rain at the prophet's word (11:5, from 1 Kings 17:1), the widow's confession that he is a man of God (11:8, from 1 Kings 17:24), the promise to send rain upon the earth (11:13, from 1 Kings 18:1), and the fulfilment (11:17). So chapter 10 licenses the prophet from Revelation and chapter 11 performs him from Kings, which is a two-stage borrowing the reader can only see by reading both chapters."
+        },
+        "note": "'And so it was done, according to the words of Nephi. And there was a great famine upon the land.' The one KJV verse in which weather is made contingent on a prophet's word is Elijah's oath before Ahab, and the Book of Mormon reproduces the operative phrase. Everything else in the chapter's drought sequence comes from the same two chapters of Kings.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "11:8": [
+      {
+        "source": "1 Kings 17:24",
+        "type": "quotation",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "And the woman said to Elijah, Now by this I know that thou art a man of God, and that the word of the LORD in thy mouth is truth.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "recurrenceRefs": [
+          "Helaman 11:5",
+          "Helaman 11:18"
+        ],
+        "provenance": {
+          "route": "1 Kings 17:24 → KJV → Book of Mormon",
+          "other": "“thou art a man of God” occurs in exactly one KJV verse, 1 Kings 17:24. 'A man of God' by itself occurs in ten, but only here is it a second-person confession, and only here does the confession carry the clause the Book of Mormon also has — 'Now by this I know that thou art a man of God' against 'Behold, we know that thou art a man of God'.",
+          "significance": "The speaker in 1 Kings is the widow of Zarephath, and what she is confessing is that a prophet who brought a famine can be trusted about life — she says it over her son restored. Helaman 11:8 puts the same nine words in the mouth of a starving nation asking that prophet to lift the famine he called down. The metalepsis is that the widow's clause continues 'and that the word of the LORD in thy mouth is truth', which is exactly what the Nephites go on to say in their own idiom: 'lest all the words which thou hast spoken concerning our destruction, be fulfilled.' They concede the truth of the word in order to ask that it not be kept."
+        },
+        "note": "Nine consecutive words, from the only KJV verse that has them, spoken in the same situation — a famine called down by a prophet, and a confession made to him about it. Below Skousen's sixteen-word threshold and so not among his 36; a quotation on CONVENTIONS §2's grounds, since a whole clause is reproduced from an identifiable verse. The machine ranked it, at a nine-word longest run, and it is the highest-value candidate in the dossier for this chapter.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "11:12": [
+      {
+        "source": "Jonah 3:9",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "Who can tell if God will turn and repent, and turn away from his fierce anger, that we perish not?",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Jonah 3:5",
+          "Jonah 3:8",
+          "Jonah 3:10"
+        ],
+        "recurrenceRefs": [
+          "Helaman 11:9",
+          "Helaman 11:11",
+          "Helaman 11:16"
+        ],
+        "provenance": {
+          "route": "Jonah 3:5-10 → KJV → Book of Mormon",
+          "other": "“turn away from his fierce anger” occurs in exactly one KJV verse, Jonah 3:9. 'Fierce anger' alone occurs in twenty, mostly Jeremiah, but nowhere else in the KJV is it the object of 'turn away' in a plea that the threatened destruction be withdrawn. The Book of Mormon asks it three times — 11:11, 11:12 and 11:16 — with 'thy fierce anger' at 11:12.",
+          "significance": "The whole episode is Jonah 3 with the prophet's temper reversed. Nineveh's king proclaims a fast and sackcloth; Helaman 11:9 has the people 'humble themselves in sackcloth'. Nineveh asks 'who can tell if God will turn and repent, and turn away from his fierce anger, that we perish not?'; Nephi asks 'wilt thou turn away thine anger, yea, thy fierce anger?'. Jonah 3:10 grants it, and Helaman 11:17 grants it. What the borrowing changes is the intercessor: in Jonah the prophet is angry that the city is spared, and here the prophet is the one asking, having called the calamity down himself in order to produce exactly this repentance. Helaman 11:16 — 'try again if they will serve thee' — is the sentence Jonah could not say."
+        },
+        "note": "'Wilt thou turn away thine anger, yea, thy fierce anger, and cause that this famine may cease in this land?' The clause is Nineveh's from the one KJV verse that has it, and the sackcloth three verses earlier is Nineveh's too. Adjudicated here rather than at 11:11 because 11:12 is where 'fierce' appears; 11:11 and 11:16 are the same prayer repeated and are recorded as recurrences.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "11:13": [
+      {
+        "source": "1 Kings 18:1",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "And it came to pass after many days, that the word of the LORD came to Elijah in the third year, saying, Go, shew thyself unto Ahab; and I will send rain upon the earth.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "1 Kings 17:1"
+        ],
+        "recurrenceRefs": [
+          "Helaman 11:5",
+          "Helaman 11:17"
+        ],
+        "provenance": {
+          "route": "1 Kings 18:1 (the rain) + 1 Kings 17:1 (the word) → KJV → Book of Mormon",
+          "other": "“send rain upon the earth” occurs in exactly one KJV verse, 1 Kings 18:1 — the word of the LORD to Elijah in the third year of the drought, 'Go, shew thyself unto Ahab; and I will send rain upon the earth'. The looser 'rain upon the earth' occurs in five (Genesis 2:5, 7:4, 1 Kings 17:14, 18:1, Job 5:10), and only 1 Kings 18:1 has the verb. Helaman 11:13 reads 'send forth rain upon the face of the earth'.",
+          "alternative": "James 5:17, the New Testament's summary of the same drought. mediation-check.py returns 1 decisive point for 1 Kings 17:1 over James 5:17 on this verse — the Book of Mormon has 'according to my word(s)', which is Kings's phrase and has no counterpart in James. The backbone under that verdict is one word ('years'), so it is thin; but the phrase it turns on is a KJV singleton, which is the kind of evidence a thin backbone does not weaken.",
+          "significance": "The direction of the borrowing is worth naming. In 1 Kings 18:1 God tells Elijah he will send rain; here Nephi asks God to send it. The Book of Mormon has consistently moved the initiative to the prophet across this chapter — Elijah announces a drought God has decided on, Nephi requests one (11:4) — and this verse completes the pattern by turning God's promise into the prophet's petition. The petition is then granted at 11:17 in the New Testament's words rather than in Kings's, which is the finding recorded there."
+        },
+        "note": "Two Elijah phrases in one sentence, both from the drought cycle: the rain of 1 Kings 18:1 and the 'according to my word' of 1 Kings 17:1, which Helaman pluralizes. The mediation test against James 5:17 comes out for Kings here, and comes out for James four verses later — see 11:17.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "11:15": [
+      {
+        "source": "Jeremiah 29:17",
+        "type": "echo",
+        "subtype": "probable",
+        "confidence": "moderate",
+        "text": "Thus saith the LORD of hosts; Behold, I will send upon them the sword, the famine, and the pestilence, and will make them like vile figs, that cannot be eaten, they are so evil.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 4,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Jeremiah 24:10",
+          "Jeremiah 14:12"
+        ],
+        "recurrenceRefs": [
+          "Helaman 11:4",
+          "Helaman 11:14"
+        ],
+        "provenance": {
+          "route": "Jeremiah 24:10 / 29:17 → KJV → Book of Mormon",
+          "other": "“the famine and the pestilence” occurs in exactly two KJV verses, Jeremiah 24:10 and 29:17, and in both it is the tail of the fixed triad 'the sword, the famine, and the pestilence'. Helaman 11:15 has 'the famine, and the pestilence and destruction', substituting the Book of Mormon's own third term for the KJV's first.",
+          "significance": "The chapter takes the Jeremian triad apart and reassembles it, and the seam shows at 11:14, where Nephi says he asked for a famine 'that the pestilence of the sword might cease'. 'Pestilence of the sword' is not a KJV phrase and not an English one: it is two members of the triad fused, the sword having been renamed with the noun that stood beside it. Read alongside 11:4, where the sword is traded for the famine, the chapter's argument is that the three scourges are interchangeable currency, which is precisely what Jeremiah's fixed formula assumes and never says."
+        },
+        "note": "The triad is formulaic in Jeremiah and would not on its own be a link. What makes it worth a row is 11:14's 'the pestilence of the sword', a fusion that only makes sense if the three terms were present together as a set, and the substitution here of 'destruction' for 'the sword' in the same set.",
+        "whyNot": "Sword, famine and pestilence appear together some twenty times in Jeremiah and Ezekiel; no particular verse can be identified, and the Book of Mormon may simply have absorbed the formula rather than any occurrence of it.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "11:17": [
+      {
+        "source": "James 5:18",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "And he prayed again, and the heaven gave rain, and the earth brought forth her fruit.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "OT-via-NT",
+        "composite": [
+          "James 5:17",
+          "1 Kings 18:45"
+        ],
+        "recurrenceRefs": [
+          "Helaman 11:9",
+          "Helaman 11:13"
+        ],
+        "provenance": {
+          "route": "1 Kings 17-18 via James 5:17-18 → KJV → Book of Mormon",
+          "other": "Both halves of James 5:18 are KJV singletons: “the heaven gave rain” occurs in exactly one KJV verse and “brought forth her fruit” occurs in exactly one KJV verse, both James 5:18. Helaman 11:13 asks that the earth 'may bring forth her fruit', and 11:17 reports that 'it did bring forth her fruit in the season of her fruit' — the feminine possessive included, which is what makes the contact specific rather than generic. 1 Kings 18:45, the narrative fulfilment in Kings, has no fruit and no earth: 'the heaven was black with clouds and wind, and there was a great rain'.",
+          "alternative": "1 Kings 18:45. mediation-check.py returns divergences pointing both ways here, and the split is instructive rather than genuinely balanced. The one decisive point it scores for Kings is 'it came to pass in the mean while that' against James's 'he prayed again and' — but 'and it came to pass' is the Book of Mormon's own universal connective, present in something like a third of its verses, so the tool is matching Nephite boilerplate rather than Elijah. The point scored for James rests on a KJV singleton. Weighed rather than counted, this verse is James's.",
+          "significance": "Chapter 11 is structurally James 5:17-18 and not 1 Kings: prophet prays that it not rain (11:4), it does not rain, 'he cried AGAIN unto the Lord' (11:9, against James's 'he prayed again'), and the earth brings forth her fruit (11:17). James is the only place in the Bible where the Elijah drought is told as a two-prayer sequence, because James is telling it to make a point about the prayer of a righteous man availing much (5:16) — which is the point of Helaman 11 and is not the point of 1 Kings 17-18, where Elijah's second prayer is a posture on Carmel and the narrative interest is the contest with Baal. So the chapter's frame is the epistle's compression, filled in with wording from Kings at 11:5, 11:8 and 11:13. Note also what James supplies that Kings does not: the phrase 'the earth brought forth her fruit', which is why Helaman's earth is a 'she'."
+        },
+        "note": "'The Lord did turn away his anger from the people, and caused that rain should fall upon the earth, insomuch that it did bring forth her fruit in the season of her fruit.' The fulfilment is told in James's words, not Kings's — Kings's rain scene has clouds, wind and Ahab riding to Jezreel, and no fruit at all. The mediation test splits, and the note above says why the split resolves for James: the tool's vote for Kings is a match on 'it came to pass', which is Mormon's connective and not a borrowing from anywhere.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "11:18": [
+      {
+        "source": "Luke 7:16",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "And there came a fear on all: and they glorified God, saying, That a great prophet is risen up among us; and, That God hath visited his people.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "recurrenceRefs": [
+          "Helaman 11:8"
+        ],
+        "provenance": {
+          "route": "Luke 7:16 → KJV → Book of Mormon",
+          "other": "“a great prophet” occurs in exactly one KJV verse, Luke 7:16, and that same verse also supplies the crowd's reaction the Book of Mormon puts beside it: 'they glorified God, saying, That a great prophet is risen up among us'. Helaman 11:18 has 'the people did rejoice, and glorify God … and they did esteem him as a great prophet'. Two elements, one KJV verse.",
+          "significance": "Luke 7:16 is the crowd at Nain, after Jesus raises the widow's son. That is the same episode 1 Kings 17:24 belongs to at the other end of the borrowing — the widow's son restored, and the woman's confession 'thou art a man of God' — and Luke has deliberately written Nain as an Elijah scene. Helaman 11 takes the widow's confession at 11:8 and the crowd's acclamation at 11:18 and puts them ten verses apart around the same prophet, which is what Luke does with them across a single pericope. The Book of Mormon's addition, 'and a man of God', joins the two verses explicitly."
+        },
+        "note": "'The people did rejoice, and glorify God … they did esteem him as a great prophet, and a man of God.' The KJV's one 'great prophet' is Luke 7:16, and it comes with the glorifying already attached; the trailing 'man of God' returns to 1 Kings 17:24, quoted at 11:8. Whether or not the writer knew that Luke 7 is itself modelled on 1 Kings 17, the two verses have arrived here together.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "11:19": [
+      {
+        "source": "2 Corinthians 11:5",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "For I suppose I was not a whit behind the very chiefest apostles.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 3,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "2 Corinthians 12:11"
+        ],
+        "provenance": {
+          "route": "2 Corinthians 11:5 → KJV → Book of Mormon",
+          "other": "“not a whit” occurs in exactly one KJV verse, 2 Corinthians 11:5 — 'For I suppose I was not a whit behind the very chiefest apostles'. The idiom appears nowhere else in the King James Bible in any form, and Paul's own restatement at 12:11 drops it ('in nothing am I behind the very chiefest apostles'). Helaman 11:19 reads 'was not a whit behind him', reproducing the whole idiom including the preposition. The 1830 and 1920 texts are identical here.",
+          "significance": "Paul's sentence is a defence of his own standing against apostles he will not name; the Book of Mormon makes it a narrator's compliment paid by one brother to another, and in doing so removes the sting the phrase carries in Paul, where 'I suppose' is doing heavy ironic work. It is also worth noting what the borrowing measures: Paul's comparison is with 'the very chiefest apostles', and Lehi's is with Nephi, which quietly puts Nephi in that class. The catalogue would not press the point except that Helaman 10:7 has already given Nephi the sealing keys of Matthew 16:19.",
+          "alternative": "2 Corinthians 12:11, if the sense rather than the idiom is thought decisive; but the idiom is what Helaman 11:19 actually has."
+        },
+        "note": "A four-word English idiom that occurs once in the KJV, reproduced whole with its preposition. This is as clean a borrowing as the chapter contains and it is doing no thematic work at all — which is itself the finding, since a phrase used simply because it was available says something about how the text's English was assembled.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "11:20": [
+      {
+        "source": "Isaiah 58:12",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "text": "And they that shall be of thee shall build the old waste places: thou shalt raise up the foundations of many generations; and thou shalt be called, The repairer of the breach, The restorer of paths to dwell in.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 4,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Isaiah 51:3",
+          "Isaiah 61:4"
+        ],
+        "provenance": {
+          "route": "Isaiah 58:12 → KJV → Book of Mormon",
+          "other": "“waste places” occurs in exactly four KJV verses, all in Isaiah (5:17, 51:3, 52:9, 58:12), and “build the old waste places” occurs in exactly one, Isaiah 58:12. Helaman 11:20 reads 'began to build up their waste places'. Isaiah 61:4 has the same promise with different nouns ('they shall build the old wastes').",
+          "significance": "Isaiah 58 is the fast chapter — the fast God chooses is to loose the bands of wickedness and deal bread to the hungry — and its promise of rebuilt waste places is the reward for that fast. Helaman 11 has just come through a famine ended by a people who 'humble themselves in sackcloth' (11:9), which is the fast Isaiah 58:5 dismisses as insufficient. The Book of Mormon gives them Isaiah 58:12's reward anyway, which is either a reading of the chapter or an unwitting collision with it; the note declines to decide."
+        },
+        "note": "'They began to build up their waste places, and began to multiply and spread.' The phrase is Isaiah's exclusively, and Isaiah 58:12 is the only verse in which it is the object of 'build'. Moderate rather than high because 'waste places' is a natural English phrase for ruined country and the Book of Mormon adds 'up' and drops 'old'.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "11:27": [
+      {
+        "source": "Acts 8:3",
+        "type": "echo",
+        "subtype": "possible",
+        "confidence": "moderate",
+        "text": "As for Saul, he made havock of the church, entering into every house, and haling men and women committed them to prison.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 2,
+          "sequence": 2,
+          "context": 3,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "recurrenceRefs": [
+          "Helaman 10:16",
+          "Helaman 10:17"
+        ],
+        "provenance": {
+          "route": "Acts 8:3 → KJV → Book of Mormon",
+          "other": "“havock” occurs in exactly one KJV verse, Acts 8:3, of Saul persecuting the church; the word occurs nowhere else in the King James Bible in any spelling. The Book of Mormon has 'did make great havoc', modernizing the -ck. Both 1830 and 1920 print 'havoc'.",
+          "significance": "Acts 8 is the chapter these two Helaman chapters keep returning to. Helaman 10:16-17 has Nephi taken by the Spirit and set down preaching from multitude to multitude, which is Philip at Acts 8:39-40; Helaman 10:15 has a crowd trying to put him in prison, which is what Acts 8:3 says Saul did with men and women; and now the robbers 'make great havoc' in Saul's word. Whether or not any one of these is deliberate, one short chapter of Acts is supplying vocabulary at three points in a row."
+        },
+        "note": "A KJV hapax reused. On its own this would be a weak row — 'havoc' is ordinary English and the Book of Mormon has dropped the King James spelling, which is the usual sign that a word came in from the language rather than from the page. It is recorded because of company: Acts 8 has already furnished Helaman 10:16-17 with Philip's translation by the Spirit and his subsequent circuit of preaching.",
+        "whyNot": "'Make havoc' was current English in 1829 and needed no biblical source; the modernized spelling weakens rather than supports a KJV route; and the sense is opposite in agent — Saul persecutes the church, the Gadianton robbers plunder a nation.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ]
+  }
+}

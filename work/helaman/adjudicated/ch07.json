@@ -1,0 +1,469 @@
+{
+  "chapter": 7,
+  "adjudicated": "2026-09-07",
+  "adjudicator": "Opus",
+  "links": {
+    "7:3": [
+      {
+        "source": "Genesis 11:28",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "text": "And Haran died before his father Terah in the land of his nativity, in Ur of the Chaldees.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 2,
+          "context": 3,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "provenance": {
+          "route": "Genesis 11:28 → KJV → Book of Mormon",
+          "other": "“land of his nativity” occurs in exactly one KJV verse. The plural and second-person forms are elsewhere — Ruth 2:11, Jeremiah 46:16, Ezekiel 23:15 — but the third-person masculine singular is Genesis 11:28's alone.",
+          "significance": "The KJV's one ‘land of his nativity’ is a death-notice: Haran dies at home, in Ur, before the family leaves it, and his death is the last thing recorded before Terah takes Abram out. Nephi comes back to the land of his nativity because the land northward would not have him, and the chapter that follows is a lament that he was born into the wrong days (7:7–9). The one verse the phrase comes from says that the land of your nativity is where you die if you stay."
+        },
+        "note": "‘Returned again unto the land of his nativity.’ A four-word run on a KJV singleton, and the only KJV occurrence of the phrase in this exact form is Genesis 11:28. The narrative shape is inverted — Genesis has a man who never leaves Ur, Helaman a man who leaves, is rejected, and comes back — which is why this is catalogued as an allusion rather than a quotation, and why the confidence is moderate: a writer could reach ‘land of his nativity’ from the KJV's stock of nativity phrases without having Haran in mind. What makes it worth recording is that the phrase sits at the head of a chapter about a prophet who wishes he had lived in his ancestor's generation instead of his own.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "7:4": [
+      {
+        "source": "Luke 20:20",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "moderate",
+        "text": "And they watched him, and sent forth spies, which should feign themselves just men, that they might take hold of his words, that so they might deliver him unto the power and authority of the governor.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 3,
+          "context": 4,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "recurrenceRefs": [
+          "Helaman 9:19"
+        ],
+        "provenance": {
+          "route": "Luke 20:20 → KJV → Book of Mormon",
+          "other": "“power and authority” occurs in exactly two KJV verses, Luke 9:1 and Luke 20:20, both Luke's. Luke 9:1 gives the phrase to the twelve over devils; Luke 20:20 gives it to a Roman governor. Helaman's is the political sense.",
+          "significance": "Recover Luke 20:20 and the borrowed phrase turns out to name what the Gadianton judges are about to do rather than what they have already done. Luke's ‘power and authority of the governor’ is the destination of a plot: spies feign themselves just men and try to take hold of a preacher's words so as to deliver him to it. Two chapters later that is exactly the scene — judges questioning Nephi ‘in divers ways, that they might cross him, that they might accuse him to death’ (9:19). The narrator uses the phrase at 7:4 to describe the office; the plot supplies the rest of Luke's verse at 9:19."
+        },
+        "note": "‘Those Gadianton robbers filling the judgement seats; having usurped the power and authority of the land.’ Six consecutive words of Luke 20:20, and the collocation is confined to Luke in the KJV. The n-gram stream ranked this first in the verse and was right for once. The substitution is ‘of the land’ for ‘of the governor’, which is the one change a text with no Roman governor has to make; everything else stands. Below Skousen's sixteen-word threshold and not one of his thirty-six.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "7:10": [
+      {
+        "source": "Habakkuk 2:1",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "text": "I will stand upon my watch, and set me upon the tower, and will watch to see what he will say unto me, and what I shall answer when I am reproved.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "recurrenceRefs": [
+          "Helaman 7:11",
+          "Helaman 7:14"
+        ],
+        "provenance": {
+          "route": "Habakkuk 2:1 → KJV → Book of Mormon",
+          "other": "“upon the tower” occurs in exactly one KJV verse. Towers are common in the KJV; a prophet on one is not.",
+          "significance": "The tower is the whole of Habakkuk's second chapter opening, and Habakkuk's first chapter is the complaint Nephi has just made. Habakkuk 1:4 — ‘the law is slacked, and judgment doth never go forth: for the wicked doth compass about the righteous; therefore wrong judgment proceedeth’ — is Helaman 7:4–5 in summary: judges laying aside the commandments, doing no justice, condemning the righteous and letting the wicked go unpunished. Habakkuk 1:13 asks why God holds his tongue ‘when the wicked devoureth the man that is more righteous than he’, and Helaman 7:24 tells the Nephites the Lamanites are more righteous than they. Then Habakkuk climbs the tower to wait for an answer, and gets one: write the vision, it will surely come. So Nephi's garden tower is the KJV's one prophetic tower, and what he receives on it — the vision of the murdered chief judge, announced in chapter 8 and verified in chapter 9 — is Habakkuk's answer in Nephite form. Neither text says this; the placement does."
+        },
+        "note": "‘It was upon a tower, which was in the garden of Nephi … Nephi had bowed himself upon the tower which was in his garden.’ The verse is unusually insistent about the tower, naming it three times in one sentence, and ‘upon the tower’ occurs in exactly one KJV verse: Habakkuk 2:1, where a prophet sets himself on one to wait for an answer to a complaint about corrupt judgment. Confidence is held at moderate because the verbal contact is three words and the tower has an obvious narrative job to do — Nephi has to be visible to passers-by for 7:11 to work. But the surrounding chapter reads Habakkuk 1 point for point, and the machine ranked Habakkuk 2:1 in the verse below without seeing why.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "7:11": [
+      {
+        "source": "Isaiah 53:12",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "text": "Therefore will I divide him a portion with the great, and he shall divide the spoil with the strong; because he hath poured out his soul unto death: and he was numbered with the transgressors; and he bare the sin of many, and made intercession for the transgressors.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 3,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "recurrenceRefs": [
+          "Helaman 7:14"
+        ],
+        "provenance": {
+          "route": "Isaiah 53:12 → KJV → Book of Mormon",
+          "alternative": "Psalm 42:4's ‘I pour out my soul in me’ is the other candidate and is also a KJV singleton in that form; but its preposition is ‘in’, and Helaman has ‘unto’ at both 7:11 and 7:14. Hannah's ‘poured out my soul before the LORD’ (1 Samuel 1:15) has a third preposition.",
+          "other": "“poured out his soul unto” occurs in exactly one KJV verse. The tell is the preposition: three different KJV verses pour out a soul, and only Isaiah 53:12 does it ‘unto’ something.",
+          "significance": "Isaiah 53:12 pours out a soul unto death, and it is the Servant's, poured out in intercession for transgressors. Helaman redirects the preposition's object to God — ‘pouring out his soul unto God upon the tower’ — while keeping the construction. What the borrowing does is make Nephi's grief intercessory rather than merely private: he is not mourning his own days but bearing the wickedness of his brethren, which is what 7:9 says outright and what the Servant song says of its subject. The metalepsis is exact and almost certainly unintended by any reader who does not check the preposition."
+        },
+        "note": "‘As he was pouring out his soul unto God upon the tower.’ The n-gram stream proposed Isaiah 53:12 on a four-word run and the run is the argument: ‘poured out his soul unto’ occurs in exactly one KJV verse, and Helaman uses the construction twice in four verses (7:11, 7:14). Moderate rather than high because ‘pour out the soul’ is a KJV idiom with three attested prepositions and a writer steeped in the Psalter could reach it without Isaiah 53; but the one that got used is the Servant's.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "7:13": [
+      {
+        "source": "Genesis 49:1",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "text": "And Jacob called unto his sons, and said, Gather yourselves together, that I may tell you that which shall befall you in the last days.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "provenance": {
+          "route": "Genesis 49:1 → KJV → Book of Mormon",
+          "other": "“that I may tell you” occurs in exactly one KJV verse. ‘Gather yourselves together’ on its own is in five, two of them Genesis 49:1–2; the seven-word run ‘yourselves together that I may tell you’ is Genesis 49:1's alone.",
+          "significance": "Genesis 49:1 is the last thing a patriarch says before he blesses his twelve sons and dies: gather, and I will tell you what shall befall you in the last days. Helaman 7:13 turns the sentence into a question and swaps its object — not what shall befall you, but your iniquities — and the swap is the point. Nephi has just spent six verses wishing he had lived in his father Nephi's generation (7:7–9); he then addresses a crowd in the formula of the patriarch whose gathered sons became the tribes. The blessing form arrives with its content replaced by an indictment. Chapters 8 and 9 then supply the missing half: he does tell them what shall befall them, and it befalls."
+        },
+        "note": "‘Behold, why have ye gathered yourselves together? That I may tell you of your iniquities?’ A seven-word run on the KJV's one occurrence of ‘that I may tell you’, and the highest-scoring machine candidate in the chapter. Two things make it a link rather than a coincidence of common words: the run crosses a clause boundary intact, and the Book of Mormon reproduces Genesis's sequence (gather → that I may tell you → what is coming) in order. Below Skousen's sixteen-word threshold and not among his thirty-six.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "7:17": [
+      {
+        "source": "Ezekiel 33:11",
+        "type": "quotation",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "Say unto them, As I live, saith the Lord GOD, I have no pleasure in the death of the wicked; but that the wicked turn from his way and live: turn ye, turn ye from your evil ways; for why will ye die, O house of Israel?",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Joel 2:13"
+        ],
+        "provenance": {
+          "route": "Ezekiel 33:11 → KJV → Book of Mormon",
+          "other": "“turn ye turn ye” occurs in exactly one KJV verse. ‘Why will ye die’ is in three — Jeremiah 27:13, Ezekiel 18:31 and Ezekiel 33:11 — and only Ezekiel 33:11 has both.",
+          "alternative": "The destination clause, ‘unto the Lord your God’, is not Ezekiel's; Ezekiel turns people from their evil ways. It is Joel 2:13's ‘turn unto the LORD your God’, which is the KJV's standing formula for the positive direction of repentance.",
+          "significance": "Ezekiel 33 is the watchman chapter: the prophet set over the house of Israel who must warn or bear the blood himself. Helaman 7 has just put its prophet on a tower (7:10, and see the Habakkuk 2:1 link there), and 7:29 has him insist the warning is not of himself. So the doubled imperative arrives from the one KJV chapter where the whole question is a watchman's liability for an unwarned city — and chapter 8 opens with the city trying to seize him for giving the warning."
+        },
+        "note": "‘O repent ye, repent ye! why will ye die? Turn ye, turn ye, unto the Lord your God.’ Two of Ezekiel 33:11's clauses in Ezekiel's order, one of them a KJV singleton. Catalogued as a quotation on the strength of ‘turn ye, turn ye … why will ye die’, which is reproduced as a unit and belongs to one verse; the Book of Mormon substitutes Joel 2:13's destination for Ezekiel's point of departure and prefixes a doubled ‘repent ye’ of its own, so the confidence is high rather than certain. Well below Skousen's sixteen-word threshold; this is not one of his thirty-six.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "7:18": [
+      {
+        "source": "John 10:11",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "I am the good shepherd: the good shepherd giveth his life for the sheep.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "John 10:11 → KJV → Book of Mormon",
+          "other": "“good shepherd” occurs in exactly two KJV verses, John 10:11 and John 10:14, and nowhere in the Old Testament. The adjective is John's.",
+          "significance": "Read with the Ezekiel 34:5 link at the next verse, this pair reproduces John 10's own dependence on Ezekiel 34 and keeps the two halves in their biblical order. John 10 is the New Testament's rewriting of Ezekiel's shepherd oracle — the hireling who flees, the sheep scattered, the shepherd who gathers — and Helaman 7:18–19 takes John's adjective for the shepherd and Ezekiel's fate for the flock, in two consecutive sentences. Refusing to hear the shepherd's voice is John 10:3–5 and 10:16, where hearing the voice is what makes a sheep his."
+        },
+        "note": "‘Ye will not hearken unto the voice of the good shepherd.’ ‘Good shepherd’ is not an Old Testament phrase; it occurs in exactly two KJV verses, both in John 10, and it is joined here to hearing the shepherd's voice, which is the same discourse's test of belonging. The Old Testament shepherd chapters have the flock and the scattering but never the adjective — which is what makes this a New Testament link at a verse whose sequel (7:19) is straight Ezekiel.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "7:19": [
+      {
+        "source": "Ezekiel 34:5",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "And they were scattered, because there is no shepherd: and they became meat to all the beasts of the field, when they were scattered.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "provenance": {
+          "route": "Ezekiel 34:5 → KJV → Book of Mormon",
+          "other": "“became meat to” occurs in exactly two KJV verses, Ezekiel 34:5 and Ezekiel 34:8, and both are in the shepherd oracle. ‘Meat for’ in the sense of carrion is spread across seventeen verses, mostly Jeremiah's fowls-and-beasts formula, but only Ezekiel 34 makes the flock's becoming meat the consequence of having no shepherd.",
+          "significance": "Ezekiel 34 is the chapter where God takes the flock away from the shepherds who fed themselves, and its structure is exactly Helaman's: because there is no shepherd the sheep are scattered and eaten (34:5), and therefore ‘I will seek out my sheep … and will gather them’ (34:11–13). Helaman 7:19 states the alternative as a threat rather than a promise — ‘instead of gathering you … he shall scatter you forth’ — which is Ezekiel 34 read backwards, with the gathering withheld. The judges of 7:4–5, who feed on office and money, are Ezekiel's shepherds who feed themselves."
+        },
+        "note": "‘Instead of gathering you, except ye will repent, behold he shall scatter you forth that ye shall become meat for dogs and wild beasts.’ The three terms — not gathered, scattered, become meat for beasts — are Ezekiel 34:5's three terms in Ezekiel's order, and the collocation of scattering with becoming meat belongs to that chapter alone; ‘meat’ in the carrion sense is common in the KJV, and ‘wild beasts’ is in ten verses, so the case rests on the sequence rather than on any one string. The addition is ‘dogs’, which Ezekiel does not have and which the KJV reserves for the deaths of Jezebel and Ahab's house. This was invisible to the n-gram stream, which proposed nothing at all for the verse.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "7:20": [
+      {
+        "source": "Deuteronomy 8:14",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "Then thine heart be lifted up, and thou forget the LORD thy God, which brought thee forth out of the land of Egypt, from the house of bondage;",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Deuteronomy 8:13"
+        ],
+        "recurrenceRefs": [
+          "Helaman 7:21",
+          "Helaman 7:26"
+        ],
+        "provenance": {
+          "route": "Deuteronomy 8:13-14 → KJV → Book of Mormon",
+          "other": "“thine heart be lifted up” occurs in exactly one KJV verse, and “thy silver and thy gold is multiplied” occurs in exactly one KJV verse — the two halves of Deuteronomy 8:13–14. ‘Forget the LORD thy God’ is in two verses, both in Deuteronomy 8.",
+          "significance": "Deuteronomy 8:12–14 is the KJV's one sustained account of how prosperity produces apostasy, and it names the steps in an order Helaman 7 follows across three verses: gold and silver multiplied (8:13 → 7:21), the heart lifted up (8:14 → 7:26), forgetting the God who brought you out (8:14 → 7:20). Helaman inverts the sequence — the forgetting is charged first and the causes given after — which is what a prosecutor does and not what a lawgiver does. Deuteronomy's clause for what is forgotten is ‘which brought thee forth out of the land of Egypt, from the house of bondage’; Helaman's is ‘in the very day that he hath delivered you’, which relocates the deliverance from an ancient exodus to a living memory and makes the ingratitude sharper."
+        },
+        "note": "‘O how could you have forgotten your God in the very day that he hath delivered you?’ The verbal contact at this verse alone is modest — forgetting God who delivered — but Deuteronomy 8:13–14's other two clauses are both KJV singletons and both turn up within six verses, at 7:21 (gold and silver) and 7:26 (lifted up because of riches). A source that accounts for a passage is preferred to one that accounts for a phrase in it (CONVENTIONS §6a), and no other KJV passage supplies all three. The link is filed here, at the forgetting, because that is where Deuteronomy 8:14 puts the weight.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "7:21": [
+      {
+        "source": "Exodus 20:16",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "Thou shalt not bear false witness against thy neighbour.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 4,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "OT-via-NT",
+        "composite": [
+          "Matthew 19:18"
+        ],
+        "provenance": {
+          "route": "Exodus 20:16 → Matthew 19:18 → KJV → Book of Mormon",
+          "other": "“bear false witness against thy neighbour” occurs in exactly two KJV verses, Exodus 20:16 and Deuteronomy 5:20 — the two Decalogues. No New Testament recitation keeps the neighbour clause: Matthew 19:18, Mark 10:19, Luke 18:20 and Romans 13:9 all stop at ‘bear false witness’.",
+          "significance": "The mediation runs both ways at once, and that is the finding. The order of the list is Matthew's — Matthew 19:18 is the only Gospel recitation that leads with murder, and Helaman leads with murder — while the clause that closes it, ‘against your neighbor’, survives only in the Decalogue itself. So a Nephite indictment of judges who take money reproduces Jesus's abbreviated commandment list and then restores from Exodus the words the Gospels dropped. ‘Plunder’ stands where every biblical list has adultery, which is what an indictment about riches needs and what no source supplies."
+        },
+        "note": "‘For the which ye do murder, and plunder, and steal, and bear false witness against your neighbor.’ Two sources fused. mediation-check.py returns two decisive points for Matthew 19:18, but the second of them is an artifact of spelling: the tool compares ‘against thy neighbour’ as a unit and Helaman reads ‘against your neighbor’, so it scores a clause the Book of Mormon plainly has as absent. Adjudicated by hand: the sequence is Matthew's, the neighbour clause is Exodus's, and the row is filed at Exodus 20:16 with Matthew 19:18 as composite because the clause that is unique to one verse-pair is the Decalogue's, not the Gospel's.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "7:22": [
+      {
+        "source": "Leviticus 26:37",
+        "type": "allusion",
+        "subtype": "paraphrase",
+        "confidence": "moderate",
+        "text": "And they shall fall one upon another, as it were before a sword, when none pursueth: and ye shall have no power to stand before your enemies.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "uncertain",
+        "mediation": "direct-OT",
+        "recurrenceRefs": [
+          "Helaman 8:5"
+        ],
+        "provenance": {
+          "route": "Leviticus 26:37 → KJV → Book of Mormon",
+          "other": "“power to stand before your enemies” occurs in exactly one KJV verse. Helaman substitutes ‘strength … to withstand against your enemies’, keeping the syntax and changing both nouns, which is why kjvSpecific is held at uncertain.",
+          "significance": "Leviticus 26 is the covenant-curse chapter, and 26:37's withdrawal of the power to stand is the point at which the curses become military. Helaman 7:22 makes the same move and adds the covenantal premise Leviticus leaves implicit — ‘as he hath hitherto done’ — so the threat is not that the enemy grows stronger but that a support is removed. The clause about the cities being taken away, and having no place in them, is answered by the judges at 8:5 and is adjudicated there, where John 11:48 supplies it."
+        },
+        "note": "‘The Lord will not grant unto you strength, as he hath hitherto done, to withstand against your enemies.’ A paraphrase rather than a run: the one KJV verse with this thought in this syntax is Leviticus 26:37, and every content word has been changed — strength for power, withstand against for stand before. Moderate, and kjvSpecific uncertain, because a paraphrase cannot show which English version it paraphrases. Recorded because the covenant-curse logic is the chapter's, and because the second half of the verse has a much harder-edged source that belongs at 8:5.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "7:23": [
+      {
+        "source": "Matthew 11:22",
+        "type": "allusion",
+        "subtype": "conceptual",
+        "confidence": "moderate",
+        "text": "But I say unto you, It shall be more tolerable for Tyre and Sidon at the day of judgment, than for you.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "Matthew 11:22 → KJV → Book of Mormon",
+          "other": "“than for you” occurs in exactly two KJV verses, Matthew 11:22 and Luke 10:14, which are the same saying. Matthew's is preferred only because Matthew 11:21's ground — mighty works done in you — is the ground Helaman 7:24 gives.",
+          "significance": "Matthew 11:21–24 is the KJV's one comparative-judgment oracle: the pagan cities would have repented if they had seen what you saw, therefore their case is better than yours. Helaman 7:23–24 runs the argument on the Lamanites, who occupy the place of Tyre and Sidon exactly — the outsiders who never had the knowledge and are therefore not answerable for it. The uncomfortable half of Matthew's saying is that the compliment to the outsider is not a compliment; it is a way of saying the insider is worse. Helaman keeps that."
+        },
+        "note": "‘It shall be better for the Lamanites than for you, except ye shall repent.’ The verbal contact is three words, and ‘than for you’ is not a distinctive string on its own; the case is that Helaman 7:23–24 reproduces the whole shape of Matthew 11:21–24 — comparative verdict, named outsider people, and the ground stated as knowledge received rather than deeds done (7:24, ‘they have not sinned against that great knowledge which ye have received’). Moderate because a reader could decline it as a common enough rhetorical move, and because the very next verse has a much stronger Old Testament source for the same argument.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "7:24": [
+      {
+        "source": "Ezekiel 16:52",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "text": "Thou also, which hast judged thy sisters, bear thine own shame for thy sins that thou hast committed more abominable than they: they are more righteous than thou: yea, be thou confounded also, and bear thy shame, in that thou hast justified thy sisters.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "1 Kings 3:14"
+        ],
+        "provenance": {
+          "route": "Ezekiel 16:52 → KJV → Book of Mormon",
+          "other": "“they are more righteous than” occurs in exactly one KJV verse. Habakkuk 1:13 has ‘the man that is more righteous than he’, which is the same comparison in a different grammar and belongs to the chapter's Habakkuk frame (see 7:10). The promise clause draws on 1 Kings 3:14's ‘I will lengthen thy days’ — ‘lengthen’ occurs in only two KJV verses.",
+          "significance": "Ezekiel 16 is the KJV's most sustained use of the comparative verdict, and its sting is that the sisters who come off better are Sodom and Samaria. Helaman puts the Lamanites in that position and adds the reason Ezekiel leaves to the chapter as a whole: greater knowledge, greater liability. What the borrowing carries with it is Ezekiel 16:53–55's sequel, in which the sisters are restored first and the accused city last — which is the Book of Mormon's long-range claim about the Lamanites, made here in Ezekiel's words and without argument."
+        },
+        "note": "‘For behold they are more righteous than you.’ Five consecutive words on a KJV singleton, and the surrounding argument is Ezekiel 16:51–52's: you have sinned worse than the people you despise, therefore they are more righteous than you and you bear your own shame. The one change is the pronoun — Ezekiel's ‘than thou’ for a personified city, Helaman's ‘than you’ for a crowd — which the KJV's own grammar requires once the addressee is plural. Verses 23 and 24 give the same verdict twice, once in Matthew's form and once in Ezekiel's; this is the stronger of the two.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "7:28": [
+      {
+        "source": "Luke 13:3",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "text": "I tell you, Nay: but, except ye repent, ye shall all likewise perish.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 4,
+          "context": 4,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Matthew 21:43"
+        ],
+        "provenance": {
+          "route": "Luke 13:3 → KJV → Book of Mormon",
+          "other": "“except ye repent ye shall” occurs in exactly two KJV verses, Luke 13:3 and Luke 13:5, which are the same sentence said twice. “shall be taken from you” occurs in exactly one KJV verse, Matthew 21:43.",
+          "significance": "Luke 13:1–5 is the passage where Jesus refuses to read a massacre and a collapsed tower as a verdict on the people they killed, and turns the question back on the hearers: except ye repent, ye shall all likewise perish. Helaman 7 has been arguing from a tower and about a coming massacre, and 7:28 answers with Luke's refrain. Matthew 21:43's clause then supplies what is taken and from whom — in Matthew a kingdom given to another nation, in Helaman lands — and Matthew 21 is the vineyard parable told against the chief priests, who two chapters later try to seize the teller and dare not because they fear the people. That is Helaman 8:4."
+        },
+        "note": "‘And except ye repent, ye shall perish; yea, even your lands shall be taken from you.’ Two New Testament sources in one sentence, each a near-singleton: Luke's doubled ‘except ye repent, ye shall all likewise perish’ with ‘all likewise’ dropped, and Matthew 21:43's ‘shall be taken from you’, which is the only KJV occurrence of that string. The closing clause, ‘destroyed from off the face of the earth’, is a Book of Mormon formula rather than a fresh borrowing and is not adjudicated here.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,401 @@
+{
+  "chapter": 9,
+  "adjudicated": "2026-09-07",
+  "adjudicator": "Opus",
+  "links": {
+    "9:5": [
+      {
+        "source": "Acts 5:11",
+        "type": "echo",
+        "subtype": "probable",
+        "confidence": "moderate",
+        "text": "And great fear came upon all the church, and upon as many as heard these things.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 3,
+          "attestation": 0
+        },
+        "kjvSpecific": "uncertain",
+        "mediation": "direct-NT",
+        "recurrenceRefs": [
+          "Helaman 8:4"
+        ],
+        "provenance": {
+          "route": "Acts 5:11 → KJV → Book of Mormon",
+          "other": "“fear came upon” occurs in exactly three KJV verses, Job 4:14, Acts 2:43 and Acts 5:11. Acts 5:11 is preferred on context, not on wording, which is why kjvSpecific is uncertain.",
+          "significance": "Acts 5 has already supplied this passage's strongest verbal link, at 8:4, and the sequence it supplies here is the rest of the same chapter: a man is found dead where authority sits, those who come in fall down, great fear comes upon all who hear, and the body is carried out and buried the next day (Acts 5:5-11 against Helaman 9:3-10). What the Book of Mormon reverses is the agency. In Acts the fear is of a power that killed; in Helaman the fear is of a prophecy that knew, and 9:5 says so exactly — 'fear came upon them, lest all the judgements which Nephi had spoken should come upon the people'."
+        },
+        "note": "'And fear came upon them, lest all the judgements which Nephi had spoken should come upon the people; therefore they did quake, and had fallen to the earth.' Three words, and on its own the phrase would not be worth a row. It is recorded because Acts 5 stands behind the preceding chapter on a nine-word singleton (8:4), because the Acts 5 sequence — sudden death at a seat of authority, bystanders falling, great fear on all who hear, burial the following day — runs through Helaman 9:3-10 in order, and because 'lest' recurs in both. Filed as an echo, at moderate, so that the register shows a proposal rather than a demonstration.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "9:9": [
+      {
+        "source": "Acts 16:23",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "And when they had laid many stripes upon them, they cast them into prison, charging the jailor to keep them safely:",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Matthew 14:3"
+        ],
+        "recurrenceRefs": [
+          "Helaman 9:38",
+          "Helaman 9:39"
+        ],
+        "provenance": {
+          "route": "Acts 16:23 → KJV → Book of Mormon",
+          "other": "“cast them into prison” occurs in exactly one KJV verse. The three-verb sequence around it — laid hold on, bound, put in prison — is Matthew 14:3's, of Herod and John the Baptist; 'laid hold on' by itself is in six verses.",
+          "significance": "The borrowing predicts the end of the chapter. Acts 16:23-34 is the KJV's one prison scene that turns into a conversion: Paul and Silas are cast into prison, the doors are opened, and the jailor and his house believe. Helaman 9:39 closes with the five men believed 'because of the testimony of the five, for they had been converted while they were in prison' — the same movement, with the converts inside rather than outside the cell. Read together, 9:9 and 9:39 bracket the chapter with Acts 16's two halves, and 9:38's 'set at liberty' completes it. Matthew 14:3's contribution is darker and is the sentence's opening: the arrest formula belongs to the imprisonment of a prophet by a court that will kill him."
+        },
+        "note": "'And it came to pass that they laid hold on them, and bound them, and cast them into prison.' Two sources in one sentence. Matthew 14:3 supplies the sequence — 'laid hold on John, and bound him, and put him in prison' — with the third verb changed, and the verb it is changed to makes 'cast them into prison', which occurs in exactly one KJV verse. That the substitution lands on the KJV's one Philippian-jail phrase, in a chapter whose prisoners are converted in prison and then set at liberty, is what lifts this above the ordinary arrest formula.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "9:16": [
+      {
+        "source": "Acts 8:9",
+        "type": "figural",
+        "subtype": "conceptual",
+        "confidence": "moderate",
+        "text": "But there was a certain man, called Simon, which beforetime in the same city used sorcery, and bewitched the people of Samaria, giving out that himself was some great one:",
+        "evidence": {
+          "vocabulary": 2,
+          "syntax": 1,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "no",
+        "mediation": "direct-NT",
+        "recurrenceRefs": [
+          "Helaman 9:41"
+        ],
+        "provenance": {
+          "route": "Acts 8:9-11 → KJV → Book of Mormon",
+          "other": "“some great one” occurs in exactly one KJV verse and “the great power of God” occurs in exactly one KJV verse, Acts 8:9 and 8:10. The Book of Mormon reproduces neither string; it has 'raise himself to be a great man, chosen of God, and a prophet' and, at 9:41, 'he is a god'.",
+          "significance": "Acts 8:9-11 is the KJV's one full account of the charge the judges lay here: a man who arranges a marvel so that a city will conclude he is great and divinely empowered, and whom the people accordingly call the great power of God, from the least to the greatest. Helaman 9 supplies both halves — the accusation at 9:16 and the popular verdict at 9:41, 'he is a god, for except he was a god, he could not know of all things' — and puts them on opposite sides of a demonstration that the marvel was genuine. The chapter is therefore constructed as an answer to Acts 8: the same evidence that made Simon a sorcerer makes Nephi a prophet, and the difference the text offers is that Nephi refuses the credit at 9:36, 'save it were given unto me by the power of God', which is Acts 8:10's phrase given back to God."
+        },
+        "note": "'This Nephi must have agreed with some one to slay the Judge, and then he might declare it unto us … that he might raise himself to be a great man, chosen of God, and a prophet.' Proposed on the shape of the accusation rather than on its words. What the judges describe is Simon Magus's career as Acts 8 describes it, down to the two elements Luke's singletons name — self-promotion to greatness and a crowd's conclusion that the man is divine power — and Helaman supplies the second at 9:41. Offered under CONVENTIONS §0a as an interesting and defensible reading.",
+        "whyNot": "The verbal contact is a single common adjective. Accusing a wonder-worker of fraud is a stock scene and the Book of Mormon has its own vocabulary for it; a reader who requires shared wording should decline this row and read 9:16 as the narrator's own invention.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "9:19": [
+      {
+        "source": "Luke 11:54",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "Laying wait for him, and seeking to catch something out of his mouth, that they might accuse him.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "recurrenceRefs": [
+          "Helaman 7:4"
+        ],
+        "provenance": {
+          "route": "Luke 11:53-54 → KJV → Book of Mormon",
+          "other": "“that they might accuse him” occurs in exactly three KJV verses, Matthew 12:10, Mark 3:2 and Luke 11:54. The first two are sabbath-healing traps; only Luke 11:54 is an interrogation, and only Luke 11:53 supplies the method — 'began to urge him vehemently, and to provoke him to speak of many things'.",
+          "significance": "Luke 11:53-54 follows immediately on the woes against the lawyers, and it is the lawyers who lay the trap; Helaman 9:19 is a bench of judges doing the same thing to a man who has just pronounced woes on them. Chapter 7:4 borrowed 'the power and authority' from Luke 20:20, which is the same manoeuvre in the same Gospel — spies feigning themselves just men to take hold of his words. So the catalogue's two entrapment links in Helaman both come from Luke, and Luke is the evangelist who twice makes questioning a preacher into a legal procedure. What Helaman adds is the object: not delivery to a governor but accusation 'to death', which is where Luke's sequence ends anyway."
+        },
+        "note": "'They began to question him in divers ways, that they might cross him, that they might accuse him to death.' Four words shared with three KJV verses, and the case for Luke 11:54 rests on which of the three it is: the Book of Mormon's judges question and cross-examine, which is Luke's scene and not Matthew 12's or Mark 3's, where the trap is a healing and not a word. 'Cross him' is not KJV vocabulary and is one of the chapter's several courtroom terms with no biblical parent — 'detect this man' at 9:17 is another. The borrowed clause sits inside a paragraph whose other elements, binding the prisoner and bringing him before the multitude, are the Gospel arrest formula generally rather than any one verse.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "9:21": [
+      {
+        "source": "Acts 7:51",
+        "type": "quotation",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "Ye stiffnecked and uncircumcised in heart and ears, ye do always resist the Holy Ghost: as your fathers did, so do ye.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "OT-via-NT",
+        "composite": [
+          "Matthew 23:17"
+        ],
+        "provenance": {
+          "route": "Leviticus 26:41 / Deuteronomy 10:16 → Acts 7:51 → KJV → Book of Mormon",
+          "other": "“stiffnecked and uncircumcised” occurs in exactly one KJV verse. The pairing exists nowhere else: 'uncircumcised in heart' is in three verses, Acts 7:51 and Ezekiel 44:7 and 44:9, and the Old Testament's only text that puts the two ideas together is Deuteronomy 10:16, which does it as an imperative — 'circumcise therefore the foreskin of your heart, and be no more stiffnecked'. “Ye fools and blind” occurs in exactly two KJV verses, Matthew 23:17 and 23:19.",
+          "significance": "Stephen's is the KJV's one speech in which a man on trial before a council turns and abuses his judges, and it is the speech that gets him killed. Helaman 9:19-21 has put Nephi in exactly that position — taken, bound, brought before the multitude, questioned so that they might accuse him to death — and the words he answers with are Stephen's. Recover Acts 7 and the borrowing carries a prediction with it: Stephen's next sentence asks which of the prophets their fathers did not persecute, and the chapter ends in a stoning. Helaman's ends the other way, with the prophet released and the judges confounded, which is the Book of Mormon's answer to the scene rather than its repetition of it. The Matthew 23 clause is the same manoeuvre in the same key: 'ye fools and blind' is Jesus abusing the men who will condemn him."
+        },
+        "note": "'O ye fools, ye uncircumsised of heart, ye blind, and ye stiff-necked people.' A four-term insult assembled from the KJV's two great denunciations of a religious court. Acts 7:51 is the only verse that joins stiffneckedness to uncircumcision of heart, and Matthew 23:17 the only formula 'ye fools and blind'; Helaman interleaves them — fools, uncircumcised, blind, stiffnecked — so that each source's pair is split by the other's. mediation-check.py finds no decisive divergence between Deuteronomy 10:16 and Acts 7:51, because the Book of Mormon reproduces no clause the two share; the mediation is argued instead from the collocation, which is Acts's alone, and from the adjectival grammar, which is Acts's and not Deuteronomy's imperative. The 1830's 'uncircumsised' is a compositor's spelling.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      },
+      {
+        "source": "Matthew 17:17",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "text": "Then Jesus answered and said, O faithless and perverse generation, how long shall I be with you? how long shall I suffer you? bring him hither to me.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 3,
+          "context": 4,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "Matthew 17:17 → KJV → Book of Mormon",
+          "other": "“how long shall I suffer you” occurs in exactly two KJV verses, Matthew 17:17 and Mark 9:19, which are the same saying. Luke 9:41 has it too in substance but reads 'how long shall I be with you, and suffer you'.",
+          "significance": "The KJV's one exasperated 'how long shall I suffer you' is spoken over a failure of faith — the disciples could not cast out the spirit — and it opens with 'O faithless and perverse generation'. Helaman transfers the question from Christ to God and from faithlessness to sin: 'do ye know how long the Lord your God will suffer you that ye shall go on in this your ways of sin?' The change of speaker is the interesting part. In the Gospels the one who has to put up with the generation is the one standing in front of it; here the prophet asks the question on God's behalf, which is what a man who has just been called a pretended prophet (9:27) needs the sentence to do.",
+          "alternative": "Mark 9:19 is verbally identical at the borrowed clause and cannot be excluded; Matthew is named because Matthew 23:17 is already in the same Book of Mormon sentence."
+        },
+        "note": "'Do ye know how long the Lord your God will suffer you that ye shall go on in this your ways of sin?' Six words shared with a Synoptic doublet, restated as an indirect question. Moderate: the clause is short, the two candidate verses cannot be told apart, and 'suffer' in the sense of tolerate is common KJV usage. It is kept because it stands in the same sentence as two other denunciation formulas and because the verse is otherwise a pure catena of borrowed abuse.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "9:22": [
+      {
+        "source": "James 5:1",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "Go to now, ye rich men, weep and howl for your miseries that shall come upon you.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "recurrenceRefs": [
+          "Helaman 8:27"
+        ],
+        "provenance": {
+          "route": "James 5:1 → KJV → Book of Mormon",
+          "other": "“weep and howl” occurs in exactly two KJV verses, Joel 1:5 and James 5:1, and Joel's is imperative to drunkards about wine. James 5:1 is the New Testament's only 'howl', and the only KJV verse that pairs the howling with a coming calamity addressed to the rich.",
+          "significance": "James 5:1-9 is a single paragraph, and Helaman has now borrowed from both ends of it: 5:9's judge standing before the door at 8:27, and 5:1's weeping and howling here, fourteen verses of Book of Mormon later and in the same confrontation. Between them James says the rich have heaped treasure together for the last days, which is 8:25's heaping up of wrath. What the recovered context supplies is the addressee. James is denouncing rich men who have kept back the labourers' hire; Helaman's audience is a bench of judges who let the guilty go for money (7:5). The catalogue's Helaman 7-9 links keep landing on the KJV's passages about venal wealth, and James 5 is the largest of them."
+        },
+        "note": "'O ye had ought to begin to howl and mourn, because of the great destruction at this time which doth await you, except ye shall repent.' James 5:1's structure entire: the imperative pair, the causal 'for/because', and the calamity that is coming upon you. 'Mourn' stands where James has 'weep', which is the one substitution, and it is the word Helaman has been using since 7:11. The strength of the row is that this is the third borrowing from James 5 in two chapters — 8:25, 8:27 and here — which is the recurrence criterion doing real work rather than decorating a single match.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "9:30": [
+      {
+        "source": "Mark 9:6",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "For he wist not what to say; for they were sore afraid.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 4,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "Mark 9:6 → KJV → Book of Mormon",
+          "other": "“wist not what to say” occurs in exactly one KJV verse. Mark 14:40 has the nearest variant, 'neither wist they what to answer him', and the Book of Mormon has Mark 9:6's form.",
+          "significance": "Mark 9:6 explains Peter's blurting at the Transfiguration: he did not know what to say, because they were sore afraid. Helaman 9:30 borrows the clause for a murderer's moment of exposure, and keeps the causal companion — 'he shall stand with fear, and wist not what to say' — so the fear-then-speechlessness order survives the transfer intact. The metalepsis is unflattering to no one and quietly good: the KJV's one sentence about a man with nothing to say is about a disciple in the presence of glory, and it is spent here on a fratricide in the presence of a prophet who already knows.",
+          "alternative": "An archaic KJV verb of this kind is also the sort of thing a nineteenth-century writer imitating scripture would reach for without a particular verse in mind; the reason for naming Mark 9:6 is that the four-word string is unique to it and the accompanying fear clause is unique to it too."
+        },
+        "note": "'And he shall stand with fear, and wist not what to say.' A five-word run on a KJV singleton, inside a prophecy given in advance and fulfilled at 9:37. 'Wist' occurs nowhere in Helaman except here, which is worth noting: the writer has reached for a verb he does not otherwise use, at the exact point where the KJV has one sentence containing it. The n-gram stream ranked it first in the verse and this time the ranking is right.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "9:31": [
+      {
+        "source": "Jeremiah 2:34",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "text": "Also in thy skirts is found the blood of the souls of the poor innocents: I have not found it by secret search, but upon all these.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "provenance": {
+          "route": "Jeremiah 2:34 → KJV → Book of Mormon",
+          "other": "“in thy skirts” occurs in exactly two KJV verses, Jeremiah 2:34 and Ezekiel 5:3, and only Jeremiah's has blood in them. It is the Bible's one instance of blood found on a garment's skirt as evidence of a murder.",
+          "significance": "This is the batch's best metalepsis after 8:27. Jeremiah 2:34 is not merely the one verse where blood is found in the skirts; its second clause is 'I have not found it by secret search, but upon all these' — that is, the evidence did not have to be hunted for, it was in plain view. Helaman 9:31 sends the judges to find exactly that, on the strength of a prophet's word and without a search, and the whole chapter is an argument about how Nephi could have known without being complicit. Jeremiah's clause answers the question the judges are asking at 9:16-17 and answers it in God's voice: the blood is not found by secret search. Neither text says this. The pair does."
+        },
+        "note": "'Ye shall examine him, and ye shall find blood upon the skirts of his cloak.' The KJV has one verse in which incriminating blood is found in a man's skirts, and the Book of Mormon reproduces its noun, its preposition and its verb, changing the possessive garment to a cloak. What makes the row strong is not the three words but the second half of Jeremiah's verse, which speaks directly to the chapter's forensic problem. Below Skousen's threshold and not one of his thirty-six.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "9:32": [
+      {
+        "source": "Genesis 4:9",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "text": "And the LORD said unto Cain, Where is Abel thy brother? And he said, I know not: Am I my brother’s keeper?",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Genesis 4:10"
+        ],
+        "recurrenceRefs": [
+          "Helaman 9:29",
+          "Helaman 9:35"
+        ],
+        "provenance": {
+          "route": "Genesis 4:9-10 → KJV → Book of Mormon",
+          "other": "“Where is Abel thy brother” occurs in exactly one KJV verse, and “thy brother's blood” occurs in exactly two, Genesis 4:10 and 4:11, both of the same interrogation.",
+          "significance": "Genesis 4:9-10 is the Bible's first murder inquiry and its shape is the shape of Helaman 9:29-35: the question that already knows the answer ('Have ye murdered your brother?'), the denial ('he shall deny unto you'), and then the blood itself as the witness that overrides the denial ('Do we not know that it is the blood of your brother?'). Cain's blood cries from the ground and Seantum's is on his cloak, but both are evidence God has and the interrogator has not obtained. The metalepsis reaches further than the wording: Genesis 4:10's next verse curses Cain to be a fugitive, and Helaman 9:8 has already had the crowd conclude that God smote the five 'that they could not flee from us'. The chapter's whole apparatus of fratricide, denial and blood-that-speaks is Genesis 4 run as a procedure."
+        },
+        "note": "'From whence cometh this blood? Do we not know that it is the blood of your brother?' The chapter asks Genesis 4:9's question at 9:29 — 'Have ye murdered your brother?' — receives Cain's answer at 9:28 and 9:30, and then produces Genesis 4:10's evidence here. The link is filed at 9:32 because that is where the two Genesis verses meet in one sentence, with 9:29 and 9:35 recorded as recurrences. The verbal contact is 'thy brother's blood' rewritten as 'the blood of your brother'; the argument is the sequence, which no other KJV passage supplies.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "9:34": [
+      {
+        "source": "Jeremiah 30:6",
+        "type": "echo",
+        "subtype": "probable",
+        "confidence": "moderate",
+        "text": "Ask ye now, and see whether a man doth travail with child? wherefore do I see every man with his hands on his loins, as a woman in travail, and all faces are turned into paleness?",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 2,
+          "sequence": 2,
+          "context": 3,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "provenance": {
+          "route": "Jeremiah 30:6 → KJV → Book of Mormon",
+          "other": "“paleness” occurs in exactly one KJV verse. The word is not otherwise in the Authorized Version at all, in any inflection.",
+          "significance": "Jeremiah 30:6-7 is the day of Jacob's trouble, and the paleness in it is terror at a coming judgment, seen on every face at once. Helaman narrows it to one face and makes it forensic: the paleness is not a response to a prophecy but the evidence that convicts a murderer, and the judges are told in advance to read it as such. A word the KJV uses once, for a nation, is spent here on a single man's guilt."
+        },
+        "note": "'Because of this fear and this paleness which hath come upon your face, behold, we know that thou art guilty.' A one-word borrowing, and the word occurs in exactly one KJV verse. Filed as an echo at moderate: a single noun, however rare, cannot demonstrate dependence, and 'look pale' at 9:33 is not KJV wording at all. It is worth a row because the writer needed a noun for the thing and the English Bible offered him precisely one.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "9:41": [
+      {
+        "source": "Acts 28:6",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "text": "Howbeit they looked when he should have swollen, or fallen down dead suddenly: but after they had looked a great while, and saw no harm come to him, they changed their minds, and said that he was a god.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "Acts 28:6 → KJV → Book of Mormon",
+          "other": "“said that he was a god” occurs in exactly one KJV verse. Acts 14:11's Lystra crowd say 'the gods are come down to us in the likeness of men', and Acts 12:22's say 'It is the voice of a god, and not of a man'; only Acts 28:6 has the bare predication.",
+          "significance": "All three of Luke's crowd-deification scenes are corrections, and Acts 28:6 is the mildest: Paul does not rebuke Malta as he rebukes Lystra, and Luke leaves the verdict standing without comment. Helaman 9:40-41 does the same — the narrator reports the two opinions, prophet and god, and moves on to chapter 10 without adjudicating, where the voice that comes to Nephi settles it by calling him blessed rather than divine. The borrowing brings with it the reason a crowd reaches the wrong conclusion in Acts: they inferred divinity from an escape they could not explain, which is exactly the inference at 9:41, 'except he was a god, he could not know of all things'."
+        },
+        "note": "'Behold, he is a god, for except he was a god, he could not know of all things.' Five words on a KJV singleton, with the tense shifted from the narrator's report to the crowd's own speech. Moderate rather than high because the words are common and a crowd calling a wonder-worker a god needs no source; what argues for Acts 28:6 is that the KJV says it in one place, that Helaman uses the same predication twice in one sentence, and that the chapter has already borrowed the accusation of self-deification from Acts 8:9 at 9:16.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      }
+    ]
+  }
+}

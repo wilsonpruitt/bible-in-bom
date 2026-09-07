@@ -1,0 +1,232 @@
+{
+  "chapter": 1,
+  "adjudicated": "2026-09-07",
+  "adjudicator": "Opus",
+  "links": {
+    "1:2": [
+      {
+        "source": "1 Kings 2:2",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "I go the way of all the earth: be thou strong therefore, and shew thyself a man;",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 1
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Joshua 23:14"
+        ],
+        "recurrenceRefs": [
+          "2 Nephi 1:14",
+          "Mosiah 1:9",
+          "Alma 1:1",
+          "Helaman 1:13"
+        ],
+        "provenance": {
+          "route": "1 Kings 2:1-2 → KJV → Book of Mormon",
+          "other": "“the way of all the earth” occurs in exactly two KJV verses, Joshua 23:14 and 1 Kings 2:2, and in both it is first person and spoken by the dying man himself ('I am going', 'I go'). The Book of Mormon has made it a third-person obituary, which no KJV verse does. mediation-check.py returns a DECISIVE verdict for Joshua 23:14 on a one-word backbone; that verdict is an artifact of Joshua's long trailing clause aligning against nothing, and the wording of the borrowed phrase itself is identical in the two verses. Context decides it, not the diff.",
+          "alternative": "Joshua 23:14, where Joshua rather than David speaks the sentence.",
+          "significance": "This is the fifth appearance of the KJV's dying-ruler sentence in the corpus and the first in Helaman, and the chapter it opens is the reason to prefer David's form of it over Joshua's. In 1 Kings 2 the sentence is the last thing David says before the succession collapses: within the same chapter Adonijah, a son who is not the designated heir, presses a claim and is put to death for it (2:24-25). Helaman 1:2-8 is that sequence — the ruler dies, three of his sons contend for the seat, and the one who tries to take it by force is condemned to death. The KJV supplies the sentence, and the sentence brings the chapter it stands in. Compare Hays on metalepsis: the borrowed clause is short, and what it recovers is the story around it."
+        },
+        "note": "'Pahoran had died, and gone the way of all the earth; therefore there began to be a serious contention concerning who should have the judgement seat among the brethren, which were the sons of Pahoran.' The phrase entered the corpus at 2 Nephi 1:14 and has been adjudicated three times since, most recently at Alma 1:1 for Mosiah's death; it re-enters here in a new book and a new hand, which is why it is given as a link rather than passed over as a recurrence (ADJUDICATING §4). What is new is the sequel. At Alma 1:1 the formula was negated — Mosiah left 'none to reign in his stead'. Here the succession does happen, and it happens the way 1 Kings 2 says it happens: contested, among brothers, with one of them executed. Well below Skousen's sixteen-word threshold and not among his thirty-six.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "1:5": [
+      {
+        "source": "1 Samuel 8:7",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "And the LORD said unto Samuel, Hearken unto the voice of the people in all that they say unto thee: for they have not rejected thee, but they have rejected me, that I should not reign over them.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 2,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 1
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "recurrenceRefs": [
+          "Mosiah 7:9",
+          "Mosiah 29:2",
+          "Helaman 1:6",
+          "Helaman 1:8",
+          "Helaman 1:13",
+          "Helaman 2:2"
+        ],
+        "provenance": {
+          "route": "1 Samuel 8:7 → KJV → Book of Mormon",
+          "other": "“voice of the people” occurs in exactly one KJV verse, 1 Samuel 8:7. Every other KJV 'voice of' is the voice of the LORD, of the people's own cry, or of one man; this is the only place the phrase names a constituency whose collective will is to be obeyed.",
+          "significance": "The catalogue adjudicated this phrase at Mosiah 7:9 and argued it again at Mosiah 29:2, where Mosiah abolished the kingship the KJV verse instituted. Helaman 1 is the third movement and the darkest: here the voice of the people does not choose a king or refuse one, it convicts a man and sentences him to death (1:8), and the execution is what produces the assassination in 1:9. In 1 Samuel 8:7 the voice of the people is a rejection of God that God tells Samuel to obey anyway. In Helaman 1 it is the only machinery left, and within four verses it has killed a claimant and got a chief judge murdered on his seat. Neither text says the mechanism fails; the borrowing lets the reader hear that it might."
+        },
+        "note": "'Pahoran was appointed by the voice of the people to be a Chief Judge and a governor.' The phrase carries the whole constitutional argument of Helaman 1-2 and occurs five times in these two chapters (1:5, 1:6, 1:8, 1:13, 2:2) — appointing, uniting, condemning, appointing again. Its KJV home is Samuel's rejection oracle, and Helaman is a new book with a new narrator, so the row is written out rather than left to Mosiah's (ADJUDICATING §4). The 1830 text reads 'a Chief Judge and a governor'; 1920 deletes the article, which does not bear on the source.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "1:7": [
+      {
+        "source": "Daniel 11:21",
+        "type": "allusion",
+        "subtype": "conceptual",
+        "confidence": "moderate",
+        "text": "And in his estate shall stand up a vile person, to whom they shall not give the honour of the kingdom: but he shall come in peaceably, and obtain the kingdom by flatteries.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 2,
+          "sequence": 2,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "recurrenceRefs": [
+          "Helaman 2:5"
+        ],
+        "provenance": {
+          "route": "Daniel 11:21 → KJV → Book of Mormon",
+          "other": "“obtain the kingdom” occurs in exactly one KJV verse, Daniel 11:21. “flatteries” occurs in exactly three KJV verses, all of them Daniel 11 (21, 32, 34). The KJV's other flattery vocabulary is devotional and not political: “flatter” occurs in exactly two KJV verses, Psalm 5:9 and Psalm 78:36, and both are about lying to God with the mouth.",
+          "significance": "Daniel 11:21 is the King James Bible's one sentence about a man who is denied the honour of the kingdom and gets it anyway by flattery, and it is the template the Book of Mormon uses for every usurper from here to the end of Helaman. Recovering Daniel's context supplies what Helaman 1:7 does not say: the vile person of Daniel 11 comes in 'peaceably', takes power through corrupted insiders (11:32), and ends by setting himself above every god. Paanchi's rebellion fails in one verse; Gadianton's version of the same manoeuvre at 2:5 succeeds, and by 3:23 his combinations are established in the land and unknown to the government."
+        },
+        "note": "'He was about to flatter away those people to rise up in rebellion against their brethren.' The Book of Mormon's political flattery — a losing claimant seducing a faction into installing him — has one KJV source and it is Daniel 11:21, where a man to whom 'they shall not give the honour of the kingdom' obtains it by flatteries. The catalogue has read Alma 61:4 in the neighbouring register (Pahoran's own complaint of 'great flattery' against those who took the judgement seat from him), and it is worth noticing that the sons of that Pahoran are the flatterers here. Filed moderate because the shared vocabulary is one word family and the KJV noun ('flatteries') is not the Book of Mormon's verb.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "1:8": [
+      {
+        "source": "1 Kings 2:25",
+        "type": "figural",
+        "subtype": "structural",
+        "confidence": "moderate",
+        "text": "And king Solomon sent by the hand of Benaiah the son of Jehoiada; and he fell upon him that he died.",
+        "evidence": {
+          "vocabulary": 1,
+          "syntax": 1,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 2,
+          "attestation": 0
+        },
+        "kjvSpecific": "no",
+        "mediation": "direct-OT",
+        "composite": [
+          "1 Kings 2:24"
+        ],
+        "recurrenceRefs": [
+          "Helaman 1:2"
+        ],
+        "provenance": {
+          "route": "1 Kings 2:13-25 → KJV → Book of Mormon",
+          "significance": "The verse three lines above this one quotes David's dying sentence (see 1:2), and this is what follows it in the source. Adonijah is the brother who is not given the seat, who gathers a party, and whom the successor executes for reaching after the kingdom; Paanchi is the brother who is not given the seat, who gathers a party, and whom the state executes for the same. The Book of Mormon has not borrowed 1 Kings 2's words here, but it has borrowed 1 Kings 2's shape, and it announced the borrowing four verses earlier with the one clause it did take verbatim."
+        },
+        "note": "'He was taken, and was tried according to the voice of the people, and condemned unto death; for he had raised up in rebellion, and sought to destroy the liberty of the people.' Read on its own this is a constitutional notice with no biblical wording in it. Read after 1:2 it is the second half of a KJV chapter whose first half the text has already quoted: David goes the way of all the earth, and his sons fight over the throne until the loser is put to death. The differences are the point of the row rather than an objection to it — Adonijah dies at a king's word and by an assassin's hand, Paanchi by trial and 'according to the voice of the people'. The Nephite state does with a court what Solomon did with Benaiah, and the source makes that visible.",
+        "whyNot": "There is no verbal contact at all: not one distinctive phrase of 1 Kings 2:24-25 appears here, and fratricidal succession disputes are common enough in Kings and Chronicles that Adonijah is not the only candidate. The row stands or falls with the quotation at 1:2; withdraw it if that link is withdrawn.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "1:13": [
+      {
+        "source": "2 Chronicles 1:8",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "text": "And Solomon said unto God, Thou hast shewed great mercy unto David my father, and hast made me to reign in his stead.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 2,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "recurrenceRefs": [
+          "Mosiah 6:4",
+          "Alma 1:1",
+          "Helaman 3:37"
+        ],
+        "provenance": {
+          "route": "2 Chronicles 1:8 → KJV → Book of Mormon",
+          "other": "“to reign in his stead” occurs in exactly one KJV verse, 2 Chronicles 1:8 — Solomon's own account of his accession. The KJV's ordinary regnal formula is the past 'reigned in his stead' (1 Kings 11:43 and dozens more); the infinitive is Solomon's alone. Helaman 1:13 substitutes the possessor: 'to reign in the stead of his brother Pahoran'.",
+          "significance": "The corpus has used this infinitive twice before and both times it marked a Solomonic accession: Mosiah 6:4, where Mosiah succeeds Benjamin, and Alma 1:1, where the formula is negated because there is no heir at all. Here it is neither a son nor an absence but a brother, and the text adds 'and it was according to his right' — the one thing Adonijah could not say. Solomon's sentence is a thanksgiving for being given a throne that was contested; Helaman gives it to the third of three contending brothers, the two ahead of him being dead and murdered respectively."
+        },
+        "note": "'Pacumeni was appointed, according to the voice of the people, to be a Chief Judge and a governor over the people, to reign in the stead of his brother Pahoran; and it was according to his right.' The KJV's one infinitive accession-clause, moved off the son and onto the brother. What makes the row worth writing rather than filing as a recurrence is the collision of two authorities in one sentence: the seat comes 'according to the voice of the people' (1 Samuel 8:7, the demand for a king) and 'according to his right' (dynastic succession), and the borrowed clause belongs to the second. The 1830 printing has the compositor's doubled 'govereor governor' here, corrected out in 1920; it bears on nothing but the press.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "1:14": [
+      {
+        "source": "2 Chronicles 26:14",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "text": "And Uzziah prepared for them throughout all the host shields, and spears, and helmets, and habergeons, and bows, and slings to cast stones.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 4,
+          "context": 4,
+          "rarity": 3,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "recurrenceRefs": [
+          "Alma 43:18",
+          "Alma 43:20"
+        ],
+        "provenance": {
+          "route": "2 Chronicles 26:14 → KJV → Book of Mormon",
+          "other": "2 Chronicles 26:14 is the King James Bible's one full quartermaster's inventory issued to a standing army — 'shields, and spears, and helmets, and habergeons, and bows, and slings to cast stones'. “shields and spears” occurs in exactly two KJV verses. The Book of Mormon's list keeps the shape and changes the contents: swords and cimeters for spears and slings, headplates for helmets, and 'all manner of shields of every kind' for the plain shields.",
+          "significance": "Uzziah's armoury is the verse the catalogue adjudicated behind the arming of both Nephite and Lamanite hosts at Alma 43:18-21, where the inventory is split between the two armies. Helaman 1:14 gives the whole of it to the Lamanites and adds the body armour the Nephites had monopolised in Alma 43 — headplates and breastplates. The borrowed KJV list is thereby doing narrative work: the equipment gap that decided Alma's wars has closed, which is exactly what the chapter goes on to show."
+        },
+        "note": "'Armed them with swords, and with cimeters, and with bows, and with arrows, and with headplates, and with breast-plates, and with all manner of shields of every kind.' A new book and a new war, so the row is written rather than left to Alma 43's (ADJUDICATING §4), and the argument for the source is made there. Filed moderate: the KJV's own words are largely replaced, and what carries the link is the form of the sentence — a named commander equipping a host, item by item, in a single 'and with' chain — rather than its vocabulary. 1830's 'headplates' and 'breast-plates' are respelled in 1920 and nothing turns on it.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ]
+  }
+}

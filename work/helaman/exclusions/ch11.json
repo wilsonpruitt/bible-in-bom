@@ -1,0 +1,98 @@
+[
+  {
+    "bomRef": "Helaman 11:1",
+    "source": "2 Kings 23:22",
+    "category": "formulaic",
+    "sharedText": "of the judges that",
+    "streams": ["machine-ngram"],
+    "reason": "Four words spanning a phrase boundary in a date formula the Book of Mormon prints eight times in this chapter alone ('the reign of the Judges'). 2 Kings 23:22 is dating Josiah's passover against the period of the Israelite judges. Nothing but the noun is shared, and the noun means a different office in each book."
+  },
+  {
+    "bomRef": "Helaman 11:5",
+    "source": "2 Kings 6:25",
+    "category": "better-source-identified",
+    "sharedText": "there was a great famine",
+    "streams": ["machine-ngram"],
+    "reason": "“there was a great famine” occurs in exactly one KJV verse, and the singleton is more tempting than it looks: 2 Kings 6:25 is the famine in besieged Samaria, an Elisha chapter, in a Helaman chapter that is running the Elijah-Elisha drought material hard, and it ends (2 Kings 7:1) with a prophet announcing the famine's end and being believed only after the fact. A reader would be right to notice it. It should still be declined: the shared string is five words of the plainest possible narrative English, the 2 Kings famine is caused by a siege rather than by drought or by any prophet's word, and every phrase in this chapter that is actually distinctive points at 1 Kings 17-18 instead — 'according to my word' (17:1) at this same verse, 'thou art a man of God' (17:24) at 11:8, 'send rain upon the earth' (18:1) at 11:13. The link is written at 1 Kings 17:1."
+  },
+  {
+    "bomRef": "Helaman 11:6",
+    "source": "Genesis 11:1",
+    "category": "common-vocabulary",
+    "sharedText": "and the whole earth was",
+    "streams": ["machine-ngram"],
+    "reason": "Genesis 11:1's 'the whole earth was of one language' and Helaman 11:6's 'the whole earth was smitten' share a subject and a copula. Babel has nothing to do with a drought, and the Book of Mormon's 'whole earth' here means the whole of a local land, as the next clause ('even among the Lamanites as well as among the Nephites') makes explicit."
+  },
+  {
+    "bomRef": "Helaman 11:7",
+    "source": "Acts 20:35",
+    "category": "wrong-sense",
+    "sharedText": "to remember the words of",
+    "streams": ["machine-ngram"],
+    "reason": "“remember the words of” occurs in exactly one KJV verse, so the rank is earned, and the sense is nonetheless opposed. Acts 20:35 is Paul's farewell at Miletus urging the Ephesian elders to remember a saying of Jesus about generosity, quoted approvingly and voluntarily. Helaman 11:7 has a starving people remembering the words of a prophet because the destruction he threatened is arriving. One is a treasured maxim, the other a returning threat. The formula 'remember the words of X' is also among the Book of Mormon's own stock phrases and needs no source."
+  },
+  {
+    "bomRef": "Helaman 11:8",
+    "source": "2 Chronicles 29:10",
+    "category": "insufficient-verbal",
+    "sharedText": "turn away from us",
+    "streams": ["machine-ngram"],
+    "reason": "The four words match and the grammar does not: 2 Chronicles 29:10 asks that God's fierce wrath 'may turn away from us', with wrath as the subject, while Helaman 11:8 asks that God 'turn away from us this famine', with God as subject and the famine as object. The prayer that God turn away his anger does appear in this chapter, three times, at 11:11, 11:12 and 11:16 — and its source is Jonah 3:9, the only KJV verse with 'turn away from his fierce anger', which is where the link is written. Hezekiah's covenant is a plausible-looking near miss."
+  },
+  {
+    "bomRef": "Helaman 11:8",
+    "source": "Numbers 25:1",
+    "category": "formulaic",
+    "sharedText": "and the people began to",
+    "streams": ["machine-ngram"],
+    "reason": "'The people began to' is Book of Mormon narrative connective tissue; it occurs twice in verse 7 alone. Numbers 25:1 is Israel's whoredom with the daughters of Moab at Shittim. Covered by the standing exclusion for connective matches (CONVENTIONS §5) and recorded once because the machine ranked it."
+  },
+  {
+    "bomRef": "Helaman 11:14",
+    "source": "Genesis 1:6",
+    "category": "better-source-identified",
+    "sharedText": "said, Let there be a",
+    "streams": ["machine-ngram"],
+    "reason": "The temptation here is large and should be named rather than passed over. Nephi quotes himself in the creation fiat's exact form — 'when I said, Let there be a famine' — and the narrator has already reported the result in the creation account's own idiom: 'and so it was done, according to the words of Nephi' (11:5), against Genesis 1's 'and it was so'. A prophet who has just been told at Helaman 10:8-10 that whatever he says will be done, saying 'Let there be', is a reading a careful editor would want. It is declined for two reasons. “let there be” occurs in exactly eleven KJV verses and is not confined to Genesis 1; and the whole phenomenon — a prophet's word determining the weather — has an exact and much rarer source that this chapter is demonstrably using, 1 Kings 17:1's 'there shall not be dew nor rain these years, but according to my word', where “according to my word” occurs in exactly one KJV verse. The link is written at 11:5. If the creation echo is there, it is riding on the Elijah borrowing rather than competing with it."
+  },
+  {
+    "bomRef": "Helaman 11:17",
+    "source": "1 Kings 18:45",
+    "category": "better-source-identified",
+    "sharedText": "(the rain that ends the drought)",
+    "streams": ["manual"],
+    "reason": "The obvious place to look for the end of an Elijah drought is the Kings narrative, and mediation-check.py even scores one decisive point for it here. That point is an artifact: it rests on 'it came to pass', which is the Book of Mormon's universal connective and not evidence of anything. Weighed rather than counted, 1 Kings 18:45 has no fruit, no earth and no feminine possessive, and offers instead clouds, wind and Ahab riding to Jezreel, none of which is here. The verse the Book of Mormon actually has is James 5:18, both of whose halves are KJV singletons, and the link is written there."
+  },
+  {
+    "bomRef": "Helaman 11:18",
+    "source": "Genesis 2:6",
+    "category": "formulaic",
+    "sharedText": "the whole face of the",
+    "streams": ["machine-ngram"],
+    "reason": "'The whole face of the land' is one of the Book of Mormon's most-used geographical formulas and appears twice within three verses here (11:18, 11:20). Genesis 2:6's mist watering 'the whole face of the ground' shares the formula and nothing else. Covered by the standing exclusion at CONVENTIONS §5; recorded once for the chapter and passed over at its other occurrences."
+  },
+  {
+    "bomRef": "Helaman 11:21",
+    "source": "Leviticus 26:6",
+    "category": "insufficient-verbal",
+    "sharedText": "peace in the land",
+    "streams": ["machine-ngram"],
+    "reason": "Leviticus 26:6, 'I will give peace in the land, and ye shall lie down, and none shall make you afraid', is the covenant blessing that answers the covenant curses of Leviticus 26:19-20 ('I will make your heaven as iron, and your earth as brass … neither shall your land yield her increase') — which is a drought-and-famine sequence resolving into peace, exactly the shape of Helaman 11. A reader could reasonably want the link. The wording will not support it: four common words, no shared clause, and the Book of Mormon's own year-summary formula ('did have exceeding great peace in the land') accounts for the sentence. Recorded so that the Leviticus 26 shape is on the register even though no verse of it is quoted."
+  },
+  {
+    "bomRef": "Helaman 11:28",
+    "source": "John 18:14",
+    "category": "wrong-sense",
+    "sharedText": "that it was expedient that",
+    "streams": ["machine-ngram"],
+    "reason": "A five-word match with the catalogue's most-cited New Testament sentence, and it is empty here. John 18:14 is Caiaphas's counsel 'that it was expedient that one man should die for the people', which the Book of Mormon does use — at 1 Nephi 4:13, where Nephi justifies killing Laban in Caiaphas's words and the link is adjudicated. Helaman 11:28 has no man dying for anyone: 'it was expedient that there should be a stop put to this work of destruction' is an administrative decision to send an army after bandits. 'Expedient' is one of the Book of Mormon's commonest adjectives and this is the impersonal construction, not the sacrificial one. A reader who arrives here from 1 Nephi 4:13 should be told the resemblance is the idiom only."
+  },
+  {
+    "bomRef": "Helaman 11:32",
+    "source": "Ezekiel 34:6",
+    "category": "formulaic",
+    "sharedText": "upon all the face of the",
+    "streams": ["machine-ngram"],
+    "reason": "Six words of the same geographical formula excluded at 11:18. ADJUDICATING §4 names 'scattered upon all the face of the earth' as the type case of a phrase the narrator has adopted as his own; Ezekiel 34:6's scattered flock is a shepherd oracle and has no other contact with a chapter about robbers in the mountains."
+  }
+]

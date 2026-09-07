@@ -1,0 +1,153 @@
+[
+  {
+    "bomRef": "Helaman 5:1",
+    "source": "Luke 1:27",
+    "category": "common-vocabulary",
+    "sharedText": "to a man whose name was",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "The chapter's second-highest-scoring candidate (rarity 2.50, six-word run) and pure introduction formula. Luke 1:27 is 'a virgin espoused to a man whose name was Joseph'; Helaman 5:1 is Nephi delivering up the judgement seat 'to a man whose name was Cezoram'. The KJV uses 'a man whose name was' to introduce a character six times over, and there is no other contact between the two verses. Recorded because a six-word run at rarity 2.50 is exactly the shape that gets mistaken for evidence (CONVENTIONS §9)."
+  },
+  {
+    "bomRef": "Helaman 5:7",
+    "source": "2 Corinthians 13:7",
+    "category": "formulaic",
+    "sharedText": "that ye should do that which is",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "A seven-word run at rarity 2.26, and the whole of it is grammar. Paul's clause ends 'honest' and Helaman's ends 'good'. 2 Corinthians 13:7 is about apostolic vindication ('not that we should appear approved, but that ye should do that which is honest, though we be as reprobates'); Helaman 5:7 is a father telling his sons to do good so that it may be written of them as it was of their namesakes. Nothing but the subordinate clause is shared, and it is the commonest way of saying the thing in KJV English."
+  },
+  {
+    "bomRef": "Helaman 5:9",
+    "source": "Acts 4:12",
+    "category": "insufficient-verbal",
+    "sharedText": "no other way nor means whereby man can be saved",
+    "streams": [
+      "manual"
+    ],
+    "reason": "Considered and declined on wording. Acts 4:12 — 'neither is there salvation in any other: for there is none other name under heaven given among men, whereby we must be saved' — is the KJV's exclusivity formula and is the obvious background to Helaman 5:9's 'there is no other way nor means whereby man can be saved, only through the atoning blood of Jesus Christ'. But the only words in common are 'whereby' and 'saved', and the Book of Mormon's construction ('no other way nor means') matches nothing in the KJV; 'atoning' is not a KJV word at all. This is a doctrine held in common, not a text borrowed, and the register records it so that a reader who expects Acts 4:12 here is told why it is absent."
+  },
+  {
+    "bomRef": "Helaman 5:12",
+    "source": "Ephesians 6:16",
+    "category": "insufficient-verbal",
+    "sharedText": "shafts",
+    "streams": [
+      "manual"
+    ],
+    "reason": "'His shafts in the whirlwind' invites Ephesians 6:16's 'fiery darts of the wicked', which is a KJV singleton the Book of Mormon uses elsewhere and which would fit a verse about the Devil's assault on a believer. It cannot be had here: 'shaft' in the KJV is only the shaft of the candlestick (Exodus 25:31, 37:17) and Isaiah 49:2's 'polished shaft', which is the servant, not a weapon of the adversary. The whirlwind is likelier from Nahum 1:3 or Proverbs 1:27 than from Ephesians. The verse's real dependence is Matthew 7:24-27 and Isaiah 28:16, both linked."
+  },
+  {
+    "bomRef": "Helaman 5:20",
+    "source": "Judges 21:21",
+    "category": "common-vocabulary",
+    "sharedText": "to go to the land of",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "A five-word travel formula in a one-line travel notice ('Nephi and Lehi did proceed from thence to go to the land of Nephi'). Judges 21:21 is the abduction of the daughters of Shiloh. No contact of any kind beyond the preposition string."
+  },
+  {
+    "bomRef": "Helaman 5:27",
+    "source": "Acts 28:29",
+    "category": "common-vocabulary",
+    "sharedText": "when they had said these words",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "Ranked first in the verse (rarity 1.50) on a five-word speech-tag: Acts 28:29 is 'And when he had said these words, the Jews departed'. The verse's real borrowing is the earthquake in the second half of the sentence, which is Acts 16:26 and is linked. Recorded because the machine's top candidate and the true source are in the same book of the KJV, twelve chapters apart, and only one of them has anything to do with the verse."
+  },
+  {
+    "bomRef": "Helaman 5:27",
+    "source": "1 Kings 6:15",
+    "category": "common-vocabulary",
+    "sharedText": "the walls of the",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "Matched at 5:27 and again at 5:31 on 'the walls of the', where 1 Kings 6:15 is Solomon boarding the walls of the temple with cedar. 'The walls of the prison' occurs in no KJV verse; the run is a definite article and a common noun. Covered here for both verses."
+  },
+  {
+    "bomRef": "Helaman 5:30",
+    "source": "1 Kings 16:31",
+    "category": "common-vocabulary",
+    "sharedText": "and it came to pass when",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "A six-word run at rarity 1.25, and all six words are the Book of Mormon's own narrative hinge — the standing exclusion at 1 Nephi 2:1 covers the family. Noted here only because the verse it lands on is the chapter's still-small-voice theophany, whose genuine source, 1 Kings 19:12, is fifteen verses further on in the same book and scored nothing at all. This is CONVENTIONS §9's point in one verse: the stream ranked the right book for the wrong reason."
+  },
+  {
+    "bomRef": "Helaman 5:40",
+    "source": "John 6:28",
+    "category": "better-source-identified",
+    "sharedText": "unto him, What shall we do, that",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "The chapter's best string match at this verse — a seven-word run at rarity 1.92, longer and closer than anything Acts 2:37 offers. It is still the wrong verse. John 6:28's question is asked of Jesus by a crowd that has just been fed and wants to know 'that we might work the works of God', and John 6 has no other contact with Helaman 5. Acts 2:37 has the same question in a passage whose next verse is Aminadab's answer at 5:41 ('Repent'), whose opening clause is reproduced at 5:48 ('And now when they heard this'), and whose surrounding chapter supplies the descent of the Spirit, the fire and the marvellous words at 5:45. The link is written at Acts 2:37; John 6:28 is the longer run and the shallower one."
+  },
+  {
+    "bomRef": "Helaman 5:43",
+    "source": "Exodus 13:21",
+    "category": "insufficient-verbal",
+    "sharedText": "a pillar of fire",
+    "streams": [
+      "machine-ngram",
+      "manual"
+    ],
+    "reason": "The n-gram stream matched Nehemiah 9:12 here and the Exodus original stands behind it. 'Pillar of fire' is CONVENTIONS §4's own example of a phrase common to every English Bible, so kjvSpecific could not be claimed for it in any case; but the greater objection is that the image is doing different work. Exodus's pillar goes before a marching people to give them light in the way; Helaman's encircles a stationary crowd inside a prison and does not move. The chapter's fire is Daniel 3's — fire that stands around people and does not burn them — and that link is written at 5:23. A reader arriving at 5:43 expecting the Exodus pillar is sent there."
+  },
+  {
+    "bomRef": "Helaman 5:44",
+    "source": "Jeremiah 38:6",
+    "category": "common-vocabulary",
+    "sharedText": "of the prison and they",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "Jeremiah in the dungeon of Malchiah is a genuine KJV prophet-in-prison story and therefore a tempting association for this chapter, but the match is on 'of the prison and they', four function words and a noun. Jeremiah's prison has mire and cords and no miracle; Helaman's has fire that does not take hold on the walls. The verse's real borrowing is 1 Peter 1:8, linked."
+  },
+  {
+    "bomRef": "Helaman 5:47",
+    "source": "Hosea 10:15",
+    "category": "common-vocabulary",
+    "sharedText": "unto you because of your",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "Ranked first in the verse at rarity 2.00 on a five-word run of function words, where Hosea's next words are 'great wickedness' and Helaman's are 'faith in my well beloved'. The sense is not merely different but opposite: Hosea 10:15 is Bethel's judgement, Helaman 5:47 is the voice's absolution. The verse's borrowings are John 20:19's greeting and Revelation 13:8's clause, both recorded on the link."
+  },
+  {
+    "bomRef": "Helaman 5:48",
+    "source": "Acts 2:37",
+    "category": "better-source-identified",
+    "sharedText": "Now when they heard this",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "A five-word verbatim run and the closest single string in the chapter to Acts 2:37 — closer than the 'what shall we do' at 5:40 where the Acts link is written. It is filed here rather than linked because the two halves belong to one borrowing: Acts 2:37 is a single verse containing both the crowd's hearing and the crowd's question, and Helaman has split it across 5:40 and 5:48 with the Pentecost itself (5:45) between them. Adjudicating both would double-count one source. A reader arriving at 5:48 is sent to 5:40, and to 5:45 for the descent of the Spirit."
+  },
+  {
+    "bomRef": "Helaman 5:50",
+    "source": "Luke 2:20",
+    "category": "common-vocabulary",
+    "sharedText": "they had heard and seen",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "Five words shared with the shepherds returning from the manger, 'glorifying and praising God for all the things that they had heard and seen'. The phrase is also Acts 4:20's ('we cannot but speak the things which we have seen and heard'), which is nearer in sense — witnesses compelled to testify — and neither can be isolated. 'Heard and seen' is the KJV's ordinary pair for eyewitness report, and Helaman 5:50 is an ordinary report."
+  },
+  {
+    "bomRef": "Helaman 5:51",
+    "source": "Ezekiel 32:27",
+    "category": "wrong-sense",
+    "sharedText": "their weapons of war",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "'Weapons of war' is the Book of Mormon's own standing military term and the laying down of them is its own recurring conversion image, established long before Helaman. Ezekiel 32:27 is the descent of the uncircumcised mighty into hell with their weapons of war laid under their heads — a burial, not a repentance. The gesture is superficially the same (weapons put down) and the meaning is the reverse."
+  }
+]

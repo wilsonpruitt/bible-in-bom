@@ -1,0 +1,406 @@
+{
+  "chapter": 3,
+  "adjudicated": "2026-09-07",
+  "adjudicator": "Opus",
+  "links": {
+    "3:14": [
+      {
+        "source": "John 21:25",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "text": "And there are also many other things which Jesus did, the which, if they should be written every one, I suppose that even the world itself could not contain the books that should be written. Amen.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 1
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "recurrenceRefs": [
+          "1 Nephi 6:3",
+          "Words of Mormon 1:5",
+          "Helaman 3:15"
+        ],
+        "provenance": {
+          "route": "John 21:25 → KJV → Book of Mormon",
+          "other": "“could not contain” occurs in exactly one KJV verse and “the world itself” occurs in exactly one KJV verse, and they are the same verse, John 21:25. The Book of Mormon writes 'cannot be contained in this work', substituting the book for the world as the thing too small to hold the record.",
+          "significance": "John 21:25 is the King James Bible's one sentence of editorial apology, and it is the sentence the Book of Mormon's abridgers reach for whenever they have to explain an omission — 1 Nephi 6:3 and Words of Mormon 1:5 before this. What Helaman 3:14 adds is the inventory. John says only 'many other things which Jesus did'; Mormon spends a whole verse listing what will not fit — wars, contentions, dissensions, preaching, prophecies, shipping, temples, synagogues, sanctuaries, righteousness, wickedness, murders, robbings, plundering, abominations, whoredoms. The borrowed excuse is being used to advertise the size of what is withheld, which is the opposite of John's reticence."
+        },
+        "note": "'A hundredth part of the proceedings of this people … cannot be contained in this work.' The pairing of an impossibly large record with a container too small for it is John 21:25's, and the two rarest strings in that verse are both singletons. A new book and a new stretch of Mormon's own editorial voice, so the row is written rather than left to 1 Nephi 6:3 (ADJUDICATING §4). Note that the Book of Mormon's 'hundredth part' is not from here: “hundredth part” occurs in exactly one KJV verse, Nehemiah 5:11, where it is a rate of interest to be restored, and the corpus uses the fraction as its own formula.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "3:15": [
+      {
+        "source": "Ecclesiastes 12:12",
+        "type": "echo",
+        "subtype": "possible",
+        "confidence": "low",
+        "text": "And further, by these, my son, be admonished: of making many books there is no end; and much study is a weariness of the flesh.",
+        "evidence": {
+          "vocabulary": 2,
+          "syntax": 1,
+          "sequence": 1,
+          "context": 3,
+          "rarity": 3,
+          "attestation": 0
+        },
+        "kjvSpecific": "uncertain",
+        "mediation": "direct-OT",
+        "recurrenceRefs": [
+          "Helaman 3:14"
+        ],
+        "provenance": {
+          "route": "Ecclesiastes 12:12 → KJV → Book of Mormon",
+          "other": "“many books” occurs in exactly one KJV verse, Ecclesiastes 12:12 — 'of making many books there is no end; and much study is a weariness of the flesh'. The rarity is real but the phrase is two ordinary words, which is why the row is filed low.",
+          "significance": "Both sentences are a writer's remark about the limits of writing, made at the point where a work is being closed off. Qoheleth's is a warning to a son that book-making has no end; Mormon's is a report that the books already exist in numbers he cannot carry, 'many books and many records of every kind'. If the echo is real, the Book of Mormon has taken the Bible's one weary sentence about too many books and used it to explain an abridgment — which is the same anxiety with the moral removed."
+        },
+        "note": "'There are many books and many records of every kind, and they have been kept chiefly by the Nephites.' The verse sits immediately after the John 21:25 borrowing at 3:14, and the two together make the closing gesture of the KJV's two most famous remarks about the impossibility of writing everything down. Recorded because the juxtaposition is worth a reader's attention, not because the wording proves anything.",
+        "whyNot": "A two-word singleton where both words are common is nearly worthless as evidence, and nothing else of Ecclesiastes 12 is present — no 'weariness of the flesh', no 'much study', no address to a son. A cautious reader should treat 3:15 as unlinked and keep only 3:14.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "3:20": [
+      {
+        "source": "1 Kings 2:3",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "text": "And keep the charge of the LORD thy God, to walk in his ways, to keep his statutes, and his commandments, and his judgments, and his testimonies, as it is written in the law of Moses, that thou mayest prosper in all that thou doest, and whithersoever thou turnest thyself:",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 3,
+          "attestation": 1
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "2 Chronicles 34:2",
+          "2 Chronicles 17:3"
+        ],
+        "recurrenceRefs": [
+          "1 Nephi 2:20",
+          "Mosiah 6:6",
+          "Jarom 1:9",
+          "Helaman 3:37"
+        ],
+        "provenance": {
+          "route": "1 Kings 2:3 → KJV → Book of Mormon",
+          "other": "“keep his statutes and his commandments” occurs in exactly two KJV verses, Deuteronomy 26:17 and 1 Kings 2:3, and so does the fuller triad “his statutes and his commandments and his judgments”. mediation-check.py separates them decisively on a six-word backbone: where Deuteronomy 26:17 ends the sentence with 'to hearken unto his voice', 1 Kings 2:3 continues 'that thou mayest prosper in all that thou doest' — and Helaman 3:20 ends 'insomuch that he did prosper in the land'. “that thou mayest prosper” occurs in exactly three KJV verses. The evaluation clause is a second source: “walked in the ways of David his father” occurs in exactly one KJV verse, 2 Chronicles 34:2 (Josiah), and “ways of his father” occurs in exactly one KJV verse, 2 Chronicles 17:3 (Jehoshaphat).",
+          "significance": "1 Kings 2:3 is David's dying charge to Solomon, and it is the verse immediately after the one Helaman 1:2 quoted to bury Pahoran. The book that opened by taking David's death sentence closes its third chapter by taking the charge that follows it, applied to a chief judge rather than a king — statutes, judgments, commandments, walking in his ways, and prospering, in the source's order. The Book of Mormon's promise 'inasmuch as ye will keep my commandments, ye shall prosper in the land' has been running on this verse since 1 Nephi 2:20, but here the whole charge is reassembled at once, and it is reassembled for a man who holds the judgement seat by the voice of the people. The Deuteronomistic evaluation of kings is being used to grade a republic's magistrate.",
+          "alternative": "Deuteronomy 26:17, which has the same triad of statutes, commandments and judgments but not the prospering."
+        },
+        "note": "'He did observe to keep the statutes, and the judgements, and the commandments of God; and he did do that which was right in the sight of God, continually; and he did walk after the ways of his father, insomuch that he did prosper in the land.' Four elements of 1 Kings 2:3 in 1 Kings' order, and the fifth — 'did that which was right in the sight of' — is the regnal-evaluation formula that 2 Chronicles 34:2 joins to 'walked in the ways of David his father'. The mediation is decided rather than defaulted: the only point at which Deuteronomy 26:17 and 1 Kings 2:3 diverge in wording is the ending, and the Book of Mormon has 1 Kings' ending. 1830 spells the plural 'judgements'; 1920 modernizes it, which is the KJV's own spelling being erased rather than restored.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "3:21": [
+      {
+        "source": "Jeremiah 33:15",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "text": "In those days, and at that time, will I cause the Branch of righteousness to grow up unto David; and he shall execute judgment and righteousness in the land.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "provenance": {
+          "route": "Jeremiah 33:15 → KJV → Book of Mormon",
+          "other": "“grow up unto” occurs in exactly one KJV verse, Jeremiah 33:15: 'will I cause the Branch of righteousness to grow up unto David; and he shall execute judgment and righteousness in the land'. The KJV's ordinary constructions are 'grow up' absolutely (Job 8:11, Malachi 4:2) or 'grow up as' a plant; the dative — growing up *unto* somebody — is Jeremiah's alone, and it is dynastic.",
+          "significance": "Recover the source and the verse is a succession oracle. Jeremiah 33:15 promises David a Branch that will grow up to him and execute judgment in the land, in a chapter whose next verses guarantee that David shall never want a man to sit upon the throne. Helaman 3:21 names two sons in the sentence after 3:20 has said their father filled the judgement seat with justice and equity and walked in the ways of *his* father — three generations of the same office — and says they 'began to grow up unto the Lord'. The Book of Mormon has taken the KJV's one phrase for a dynastic shoot and redirected it: the boys grow up not to their father but to the Lord, which is the point the rest of Helaman will make when Nephi gives up the judgement seat altogether (Helaman 5:1-4)."
+        },
+        "note": "'He gave unto the eldest the name of Nephi, and unto the youngest the name of Lehi. And they began to grow up unto the Lord.' A KJV singleton in a verse that is doing exactly the work the singleton does in Jeremiah — introducing the heirs on whom a line's future rests. Filed moderate because the shared string is three short words and Jeremiah 33 supplies nothing else here; what argues for it is that the redirection ('unto the Lord', not unto their father) is legible only if the KJV's phrase is heard behind it. The names are themselves the argument: the two sons are given the names of the founder and his father, which is the Branch idea in another idiom.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "3:25": [
+      {
+        "source": "Mark 7:37",
+        "type": "echo",
+        "subtype": "probable",
+        "confidence": "moderate",
+        "text": "And were beyond measure astonished, saying, He hath done all things well: he maketh both the deaf to hear, and the dumb to speak.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 2,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "Mark 7:37 → KJV → Book of Mormon",
+          "other": "“beyond measure astonished” occurs in exactly one KJV verse, Mark 7:37. Mark's other superlative is 'astonished out of measure' (10:26); the Book of Mormon has the word order of 7:37 with the participle moved — 'astonished beyond measure'.",
+          "significance": "In Mark 7:37 the people are beyond measure astonished at deaf ears opened and dumb mouths loosed, and they say 'He hath done all things well'. Helaman 3:25 puts the astonishment in the mouths of the professionals: it is the High Priests and the teachers, the men whose office is to produce exactly this result, who are 'themselves astonished beyond measure' at how many are being baptized. The KJV's crowd is amazed at a miracle done in front of it; the Book of Mormon's clergy are amazed at the success of their own ministry, which the next verse attributes to 'the work of the Lord'."
+        },
+        "note": "'So great was the prosperity of the church, and so many the blessings which were poured out upon the people, that even the High Priests and the teachers were themselves astonished beyond measure.' The King James Bible reaches for its strongest formula of astonishment once, and the Book of Mormon uses it at the one place in Helaman 3 where the narrative asks for a superlative. Filed as an echo rather than an allusion: the phrase is a stock intensifier as well as a singleton, and nothing else of Mark 7 is in view.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "3:28": [
+      {
+        "source": "Genesis 28:17",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "text": "And he was afraid, and said, How dreadful is this place! this is none other but the house of God, and this is the gate of heaven.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 2,
+          "sequence": 2,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 2
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Acts 8:37"
+        ],
+        "provenance": {
+          "route": "Genesis 28:17 → KJV → Book of Mormon",
+          "other": "“the gate of heaven” occurs in exactly one KJV verse, Genesis 28:17 — Jacob at Bethel: 'How dreadful is this place! this is none other but the house of God, and this is the gate of heaven.' The second half of the Book of Mormon's sentence is a New Testament formula: Acts 8:37, 'I believe that Jesus Christ is the Son of God', is one of the three third-person renditions of the title Frederick collects.",
+          "significance": "Recover Genesis 28:17 and the borrowing is an argument, not a decoration. In the KJV the gate of heaven is a *place* — one stone, one night, one man, and the word that goes with it is 'dreadful'. It is the most local sentence in the Bible. Helaman 3:28 takes the phrase off the place and predicates it of a condition: 'the gate of Heaven is open unto all, even to those who will believe on the name of Jesus Christ'. Jacob found the gate of heaven where he happened to be sleeping and was afraid of it; the Book of Mormon says it stands open, has no location, and admits anyone who believes. Compare Hays on metalepsis: what the echo recovers is precisely what the new sentence denies."
+        },
+        "note": "'Thus we see that the gate of Heaven is open unto all, even to those who will believe on the name of Jesus Christ, which is the Son of God.' The one KJV verse with the phrase is Jacob's at Bethel, and the sentence fuses it with the New Testament's confession formula, giving the verse an Old Testament image and a New Testament condition of entry. Filed moderate: the phrase is short and the theological commonplace could be reached without Genesis 28, but no other English scripture supplies the words. 1830's relative 'which is the Son of God' becomes 'who' in 1920, the ordinary modernization.",
+        "bibliography": [
+          "Frederick 2016: n. 62 — names Helaman 3:28 in his list of Book of Mormon verses carrying the third-person title 'Jesus Christ, Son of God', alongside Mark 1:1, Acts 8:37 and 2 Corinthians 1:19 as the New Testament's third-person renditions of it. He lists the verse in a footnote about the title's distribution; he proposes no source for it, and says nothing about Genesis 28:17."
+        ],
+        "status": "minority",
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "3:29": [
+      {
+        "source": "Hebrews 4:12",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "text": "For the word of God is quick, and powerful, and sharper than any twoedged sword, piercing even to the dividing asunder of soul and spirit, and of the joints and marrow, and is a discerner of the thoughts and intents of the heart.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 1
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Ephesians 6:11"
+        ],
+        "recurrenceRefs": [
+          "Mosiah 5:13",
+          "Alma 12:7",
+          "Alma 31:5"
+        ],
+        "provenance": {
+          "route": "Hebrews 4:12 → KJV → Book of Mormon",
+          "other": "“quick and powerful” occurs in exactly one KJV verse and “dividing asunder” occurs in exactly one KJV verse, and they are the same verse, Hebrews 4:12. The Book of Mormon has the adjectives verbatim and turns the participle into a finite verb: 'which shall divide asunder'. “wiles of the devil” occurs in exactly one KJV verse, Ephesians 6:11.",
+          "significance": "The Book of Mormon has kept Hebrews' two rare words and changed what the sword cuts. In Hebrews 4:12 the word of God divides asunder soul and spirit, joints and marrow: it cuts the hearer open, and the next clause makes it 'a discerner of the thoughts and intents of the heart'. In Helaman 3:29 it divides asunder 'all the cunning, and the snares, and the wiles of the Devil' — the blade has been turned outward, from the believer's interior onto an external enemy. The Ephesians singleton arrives in the same clause and brings the armour of God with it, so the verse is Hebrews' sword inside Ephesians' battle. The two KJV passages never meet; this verse marries them."
+        },
+        "note": "'Whosoever will lay hold upon the word of God, which is quick and powerful, which shall divide asunder all the cunning, and the snares, and the wiles of the Devil.' Two KJV singletons from one verse, plus a third from Ephesians 6:11, in eighteen words. The catalogue has adjudicated Hebrews 4:12 three times before, always for the discerning-of-thoughts clause (Mosiah 5:13, Alma 12:7, Alma 31:5); this is the first place in the corpus that takes 'quick and powerful' and the dividing. 1920 inserts 'may' ('whosoever will may lay hold'), which changes the sense of the Book of Mormon's clause and bears on no source. Below Skousen's sixteen-word threshold and not among his thirty-six.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      },
+      {
+        "source": "Matthew 7:14",
+        "type": "allusion",
+        "subtype": "paraphrase",
+        "confidence": "moderate",
+        "text": "Because strait is the gate, and narrow is the way, which leadeth unto life, and few there be that find it.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 2,
+          "sequence": 2,
+          "context": 4,
+          "rarity": 4,
+          "attestation": 1
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "recurrenceRefs": [
+          "1 Nephi 8:20",
+          "2 Nephi 9:41",
+          "Jacob 6:11"
+        ],
+        "provenance": {
+          "route": "Matthew 7:13-14 → KJV → Book of Mormon",
+          "other": "“strait is the gate” occurs in exactly one KJV verse, Matthew 7:14, where 'strait' is the adjective meaning narrow and governs the gate. The KJV never joins 'straight' to 'narrow'; the Book of Mormon's pair is its own coinage on a homophone, and the 1830 printing spells it 'straight' here, at 1 Nephi 8:20, and at Jacob 6:11's 'straight gate'.",
+          "significance": "This is a place where the 1830 running text is evidence and not merely a text choice (CONVENTIONS §8), and where the direction of later correction is the finding. At Jacob 6:11 the 1830 'enter in at the straight gate' was corrected in 1920 to 'strait gate' — back toward the KJV, because the KJV has a gate there to be corrected against. At Helaman 3:29 the noun is 'course', which is nobody's KJV phrase, so there was nothing to correct and 'straight and narrow' has stood in every edition since. The reader of a modern text therefore meets the Book of Mormon's best-known idiom at exactly the verse where the editors could not restore the source's word, and cannot see that the same page of the first edition spelled Matthew's gate the same way."
+        },
+        "note": "'And lead the man of Christ in a straight and narrow course across that everlasting gulf of misery.' The pairing of straitness with narrowness in a way that leads to life is Matthew 7:14's, adjudicated in the corpus at 1 Nephi 8:20, 2 Nephi 9:41 and Jacob 6:11; a new book and a new hand, so the row is written out (ADJUDICATING §4). What is proper to this verse is the noun: Matthew's is a way and a gate, the Book of Mormon's here is a 'course' across a gulf, which is a navigational image the KJV does not supply. Filed moderate accordingly — the borrowing is of an idiom the corpus already owns rather than of Matthew's sentence.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "3:30": [
+      {
+        "source": "Matthew 8:11",
+        "type": "quotation",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "And I say unto you, That many shall come from the east and west, and shall sit down with Abraham, and Isaac, and Jacob, in the kingdom of heaven.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 2
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Revelation 3:12"
+        ],
+        "recurrenceRefs": [
+          "Alma 7:25"
+        ],
+        "provenance": {
+          "route": "Matthew 8:11 → KJV → Book of Mormon",
+          "other": "“sit down with Abraham” occurs in exactly one KJV verse, Matthew 8:11, and Helaman 3:30 reproduces seven of its words in order: 'in the kingdom of Heaven, to sit down with Abraham, and Isaac, and with Jacob'. mediation-check.py returns five decisive points for Matthew over the Lukan parallel on a four-word backbone: Luke 13:28 has 'see' where Matthew has 'sit down with', and 'the kingdom of God' where Matthew and the Book of Mormon have 'the kingdom of heaven'. “go no more out” occurs in exactly two KJV verses, 2 Samuel 21:17 and Revelation 3:12.",
+          "alternative": "Luke 13:28-29, whose 'and all the prophets' is the one element Matthew lacks and the Book of Mormon appears to have.",
+          "significance": "The mediation test is decisive for Matthew and one detail resists it, which is worth stating rather than smoothing: the Book of Mormon adds 'and with all our holy fathers', and the only synoptic form with a comparable addition is Luke's 'and all the prophets'. The tool counts that against Luke, because the Book of Mormon does not have Luke's words; but it has Luke's element. Either the phrase is the Book of Mormon's own expansion of Matthew's patriarchal list, or Matthew's sentence has been supplemented from its Lukan double. The closing clause is a third source: Revelation 3:12's promise to him that overcometh, 'he shall go no more out', which in Revelation is a pillar fixed in the temple and here is a soul landed at the right hand of God."
+        },
+        "note": "'And land their souls, yea, their immortal souls, at the right hand of God, in the kingdom of Heaven, to sit down with Abraham, and Isaac, and with Jacob, and with all our holy fathers, to go no more out.' A seven-word run from Matthew 8:11 with the kingdom-clause moved in front of it, closed by two words of Revelation 3:12. Catalogued as a quotation on the strength of the run and the singleton behind it, though it is well below Skousen's sixteen-word threshold and is not one of his thirty-six. The catalogue reached Matthew 8:11 once before, at Alma 7:25, where the same eschatological table appears in Alma's charge to the people of Gideon; this is a different book and a fuller reproduction.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "3:35": [
+      {
+        "source": "2 Samuel 3:1",
+        "type": "echo",
+        "subtype": "probable",
+        "confidence": "moderate",
+        "text": "Now there was long war between the house of Saul and the house of David: but David waxed stronger and stronger, and the house of Saul waxed weaker and weaker.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 2,
+          "context": 3,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "provenance": {
+          "route": "2 Samuel 3:1 → KJV → Book of Mormon",
+          "other": "“stronger and stronger” occurs in exactly two KJV verses, 2 Samuel 3:1 and Job 17:9. mediation-check.py reports a DECISIVE point for Job on a two-word backbone, on the ground that the Book of Mormon lacks 2 Samuel's answering clause 'and the house of Saul waxed weaker and weaker' — an absence-artifact rather than a reading, and it is overruled here by the verb. 2 Samuel 3:1 has 'David waxed stronger and stronger'; Job 17:9 has 'shall be stronger and stronger'. Helaman 3:35 has 'did wax stronger and stronger', which is 2 Samuel's verb.",
+          "alternative": "Job 17:9, whose 'he that hath clean hands' sits closer to this verse's purifying and sanctification of hearts.",
+          "significance": "2 Samuel 3:1 is a sentence about a long war in which one house grows strong as another grows weak, and the Book of Mormon has taken it for a passage about persecution inside the church — the humble part of the people growing stronger in their humility while the proud part is 'lifted up in pride, even to the persecution of many of their brethren'. The KJV's antithesis is still doing the work even though the answering clause is not quoted: something is waxing weaker in Helaman 3 while the persecuted wax stronger, and by 3:36 the text names it as the pride that grew upon them from day to day."
+        },
+        "note": "'They did fast and pray oft, and did wax stronger and stronger in their humility, and firmer and firmer in the faith of Christ.' The formula and its verb are 2 Samuel's, and the Book of Mormon extends it by inventing a matching pair ('firmer and firmer') that the KJV does not have. Filed as an echo: the phrase is a stock intensifier in English by 1830 and no other element of 2 Samuel 3 is in view. Recorded here chiefly for the mediation, which the tool decides one way and the verb decides the other.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "3:37": [
+      {
+        "source": "2 Chronicles 1:8",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "And Solomon said unto God, Thou hast shewed great mercy unto David my father, and hast made me to reign in his stead.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 1
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "2 Chronicles 17:3",
+          "2 Chronicles 34:2"
+        ],
+        "recurrenceRefs": [
+          "Mosiah 6:4",
+          "Mosiah 11:1",
+          "Alma 1:1",
+          "Helaman 1:13",
+          "Helaman 3:20"
+        ],
+        "provenance": {
+          "route": "2 Chronicles 1:8 + 2 Chronicles 17:3 → KJV → Book of Mormon",
+          "other": "“to reign in his stead” occurs in exactly one KJV verse, 2 Chronicles 1:8 — Solomon's own account of his accession; the KJV's ordinary regnal formula is the past 'reigned in his stead'. “ways of his father” occurs in exactly one KJV verse, 2 Chronicles 17:3, of Jehoshaphat. mediation-check.py reports divergences pointing both ways and warns that the verse may be a composite; it is, and both halves are Chronicles'.",
+          "significance": "The Book of Mormon's regnal notice fuses two formulas the King James Bible never joins — the accession clause and the evaluation clause — and the catalogue has met the fusion before, at Mosiah 11:1, where Noah 'began to reign in his stead' and 'did not walk in the ways of his father'. That was the apostate form, keyed to 2 Chronicles 21:12, the KJV's one negative father-comparison. Helaman 3:37 is its exact positive: the same two-part formula, the same borrowed clauses, and this time the son does walk in the ways of his father. The Deuteronomistic historian's device for grading kings has been made to grade chief judges, and the two halves of the corpus's use of it now stand as a matched pair a hundred and thirty years apart in the narrative."
+        },
+        "note": "'Helaman died, and his eldest son Nephi began to reign in his stead. And it came to pass that he did fill the judgement seat with justice and equity; yea, he did keep the commandments of God, and did walk in the ways of his father.' Two KJV singletons in one sentence, from two chapters of 2 Chronicles, in the order Chronicles uses them: accession, then evaluation against the father. The verse also closes the chapter by repeating 3:20 almost word for word about the son — 'fill the judgement seat with justice and equity … walk in the ways of his father' — so the 1 Kings 2:3 charge adjudicated at 3:20 is being transmitted, in the source's own language, from Helaman to Nephi.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ]
+  }
+}

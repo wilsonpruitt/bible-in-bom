@@ -1,0 +1,112 @@
+[
+  {
+    "bomRef": "Helaman 7:1",
+    "source": "Exodus 4:20",
+    "category": "formulaic",
+    "sharedText": "returned to the land",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "The chapter's top-ranked candidate at verse 1 and worthless. 'Returned to the land of' is the KJV's ordinary way of saying a man went home; Exodus 4:20 has Moses going back to Egypt with the rod of God, Helaman 7:1 has Nephi coming south from the land northward, and the two share nothing but the verb and the preposition. The verse's one real contact with the KJV is two verses later, at 'the land of his nativity'."
+  },
+  {
+    "bomRef": "Helaman 7:1",
+    "source": "2 Chronicles 16:12",
+    "category": "formulaic",
+    "sharedText": "and ninth year of",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "Regnal-year boilerplate. The Book of Mormon dates by 'the sixty and ninth year of the reign of the Judges' throughout Helaman, and any KJV verse dating a king's reign will share four words with any of them. Asa's diseased feet have no other contact. 2 Chronicles 36:20's 'the reign of the' is excluded on the same evidence and is not given a separate entry."
+  },
+  {
+    "bomRef": "Helaman 7:5",
+    "source": "Exodus 20:14",
+    "category": "better-source-identified",
+    "sharedText": "commit adultery, and steal, and kill",
+    "streams": [
+      "manual"
+    ],
+    "reason": "A reader meeting 'commit adultery, and steal, and kill' at 7:5 will hear the Decalogue, and rightly. The link is not filed here because the fuller and more diagnostic list is sixteen verses later at 7:21 — 'murder, and plunder, and steal, and bear false witness against your neighbor' — where the neighbour clause identifies Exodus 20:16 and the order of the list identifies Matthew 19:18. 7:5's three verbs are in no KJV order (Exodus and Deuteronomy both run kill, adultery, steal) and carry no version signal on their own. See the adjudication at 7:21."
+  },
+  {
+    "bomRef": "Helaman 7:5",
+    "source": "Isaiah 5:23",
+    "category": "insufficient-verbal",
+    "sharedText": "justify the wicked for reward",
+    "streams": [
+      "manual"
+    ],
+    "reason": "Considered and declined at the level of a link, though it is close. Isaiah 5:23's woe against judges who 'justify the wicked for reward, and take away the righteousness of the righteous from him' states both halves of Helaman 7:5 — the wicked let go for money, the righteous condemned because of their righteousness — and Helaman 7:25-27 is a woe series like Isaiah 5:20-23. But not one content word is shared: Helaman has condemning, unpunished and money against Isaiah's justify, reward and righteousness. Proverbs 17:15's 'he that condemneth the just' is a KJV singleton and closer in one verb, but is a proverb rather than an indictment of a bench. The chapter's judicial complaint is adjudicated instead at 7:10, where Habakkuk 1:4 supplies the same charge and Habakkuk 2:1 supplies the tower."
+  },
+  {
+    "bomRef": "Helaman 7:7",
+    "source": "Deuteronomy 10:13",
+    "category": "formulaic",
+    "sharedText": "to keep the commandments of",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "'Keep the commandments of God' is the Book of Mormon's most frequent single formula and matches dozens of KJV verses. Deuteronomy 10:13 was ranked here only because the five-word window happened to close on it; nothing else in the verse touches Deuteronomy 10."
+  },
+  {
+    "bomRef": "Helaman 7:11",
+    "source": "1 Samuel 10:23",
+    "category": "formulaic",
+    "sharedText": "and they ran and",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "Four words of narrative connective. Saul being fetched and found a head taller than the people has no contact with men running to report a praying prophet. Covered in principle by the standing exclusion at 1 Nephi 2:1 and recorded only because it was ranked in a verse that does have a real link, to Isaiah 53:12."
+  },
+  {
+    "bomRef": "Helaman 7:22",
+    "source": "Jeremiah 46:16",
+    "category": "common-vocabulary",
+    "sharedText": "the land of our",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "Ranked because Jeremiah 46:16 contains 'the land of our nativity' and the chapter has already used 'the land of his nativity' at 7:3. The two are not the same borrowing: 7:22 reads 'the land of our possession', which shares only the article-noun-preposition frame, and Jeremiah 46:16 is a rout of Egyptian mercenaries. The nativity link is at 7:3 and its source is Genesis 11:28, which is the KJV's only verse with the singular masculine form."
+  },
+  {
+    "bomRef": "Helaman 7:23",
+    "source": "Deuteronomy 18:19",
+    "category": "common-vocabulary",
+    "sharedText": "hearken unto my words",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "A four-word run inside a divine first-person speech, and the temptation is that Deuteronomy 18:15-19 is the prophet-like-Moses oracle the Book of Mormon uses elsewhere and at length. Nothing else at 7:23 points there: Deuteronomy 18:19 threatens the man who will not hearken, Helaman 7:23 promises strength to the man who does, and the Book of Mormon verse has no prophet-raised-up, no 'in my name', and no requiring it of him. The phrase is the KJV's ordinary complement to 'thus saith the Lord'."
+  },
+  {
+    "bomRef": "Helaman 7:23",
+    "source": "Jeremiah 16:13",
+    "category": "wrong-sense",
+    "sharedText": "I will not shew",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "The 1830 spelling 'shew' is preserved here and makes the match look better than it is. Jeremiah 16:13 withholds favour from exiles in a foreign land; Helaman 7:23 withholds a demonstration of strength from the wicked while granting it to the penitent. The shared string is a negated verb and a pronoun. Worth an entry only because 'shew' is exactly the kind of KJV orthography that carries real evidence elsewhere in this catalogue (CONVENTIONS §8), and here it carries none."
+  },
+  {
+    "bomRef": "Helaman 7:27",
+    "source": "Hosea 10:15",
+    "category": "formulaic",
+    "sharedText": "unto you because of your",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "Five words of connective tissue joining a woe to its ground, which Helaman 7:25-27 does three times in three verses. Hosea 10:15's subject is Bethel and its verdict is the cutting off of the king of Israel; nothing else is shared. The threefold woe formula itself is closer to Isaiah 5:20-23 and Habakkuk 2:6-12 than to Hosea, and neither is proposed as a source here because the wording is the Book of Mormon's own."
+  },
+  {
+    "bomRef": "Helaman 7:29",
+    "source": "1 John 5:16",
+    "category": "wrong-sense",
+    "sharedText": "I do not say that",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "The highest-scoring candidate at the chapter's last verse and an accident of English word order. 1 John 5:16's 'I do not say that he shall pray for it' declines to command intercession for a sin unto death; Helaman 7:29's 'I do not say that these things shall be, of myself' disclaims the prophecy's origin, not its content. Same five words, opposite grammatical function — the Book of Mormon's clause is a denial of authorship and John's is a refusal to instruct. Luke 1:20's 'these things shall be' is excluded on the same evidence and is not given a separate entry."
+  }
+]

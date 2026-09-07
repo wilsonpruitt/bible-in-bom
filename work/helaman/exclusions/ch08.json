@@ -1,0 +1,123 @@
+[
+  {
+    "bomRef": "Helaman 8:21",
+    "source": "2 Kings 25:7",
+    "category": "better-source-identified",
+    "sharedText": "the sons of Zedekiah",
+    "streams": [
+      "scholarship",
+      "manual"
+    ],
+    "reason": "Hardy's apparatus cross-references both 2 Kings 25:7 and Jeremiah 39:6 at this verse; both report the sons of Zedekiah slain, and neither leaves the exception the Book of Mormon claims. The adjudicated link is filed at Jeremiah 39:6, whose immediately preceding verses (39:1-5) are the ones the surrounding argument (8:20) names Jeremiah's own fulfilled prophecy about — the context that makes one of the two witnesses the proximate one. 2 Kings 25:7 carries the identical clause and is not a distinct finding."
+  },
+  {
+    "bomRef": "Helaman 8:4",
+    "source": "Matthew 21:46",
+    "category": "better-source-identified",
+    "sharedText": "lay hands on him",
+    "streams": [
+      "manual"
+    ],
+    "reason": "A serious candidate, displaced on one noun. Matthew 21:46 — 'when they sought to lay hands on him, they feared the multitude, because they took him for a prophet' — has all three of Helaman 8:4's elements, including the reason, which the Book of Mormon does not state and which fits (8:9, 'if he had not been a prophet he could not have testified'). It is excluded because Matthew reads 'multitude' where Helaman and Acts 5:26 read 'people', and Acts 5:26 supplies nine consecutive words against Matthew's four. Luke 20:19 has the right noun and is retained as composite on the link. ADJUDICATING §4's warning about pronouns applies to nouns too: Matthew's crowd word is not Luke's, and the Book of Mormon has Luke's."
+  },
+  {
+    "bomRef": "Helaman 8:7",
+    "source": "2 Samuel 18:27",
+    "category": "wrong-sense",
+    "sharedText": "he is a good man",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "The n-gram stream's top candidate in the verse, on a six-word run, and the sense is unrelated. David says 'he is a good man, and cometh with good tidings' of a runner he has recognized at a distance by his gait; the phrase means a reliable messenger, not a righteous teacher, and nothing in 2 Samuel 18 involves a crowd, a division of opinion, or a threat to the man being discussed. John 7:12 has the same six words in the mouth of a divided multitude arguing about a preacher some believe and some think a deceiver, which is Helaman 8:7 exactly."
+  },
+  {
+    "bomRef": "Helaman 8:7",
+    "source": "Mark 11:23",
+    "category": "formulaic",
+    "sharedText": "those things which he saith",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "Five words of relative-clause connective. Mark 11:23 is the mountain cast into the sea and the believer who 'shall believe that those things which he saith shall come to pass'; the shared string is the frame around the content, and the content is a faith saying about prayer rather than a crowd's estimate of a prophet. Recorded because the run is long and because the verse's real second source, 1 Kings 13:32's 'surely come to pass', is a KJV singleton the n-gram stream ranked below this."
+  },
+  {
+    "bomRef": "Helaman 8:11",
+    "source": "Exodus 15:22",
+    "category": "common-vocabulary",
+    "sharedText": "the red sea and",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "Ranked on the name of the sea, which the Book of Mormon has to use and which occurs across two dozen KJV verses. Exodus 15:22 is Moses bringing Israel from the Red Sea into the wilderness of Shur, three days without water; it shares no event with Helaman 8:11. The verse's genuine Exodus contact is 14:22's 'upon the dry ground', and its most distinctive phrase comes from 2 Kings 2:14."
+  },
+  {
+    "bomRef": "Helaman 8:14",
+    "source": "Luke 17:20",
+    "category": "formulaic",
+    "sharedText": "of God should come",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "Four words spanning a title and a verb. Luke 17:20 is the Pharisees asking when the kingdom of God should come, and the shared string is 'of God should come' with 'kingdom' amputated on one side and 'Son' on the other. Matthew 27:40's 'the Son of God come', ranked at 8:20, is excluded on the same evidence and is not given a separate entry — it is the mocking 'if thou be the Son of God, come down from the cross', where 'come' belongs to the next clause. Both are the window closing one word early (ADJUDICATING §4)."
+  },
+  {
+    "bomRef": "Helaman 8:15",
+    "source": "Romans 1:4",
+    "category": "common-vocabulary",
+    "sharedText": "the Son of God",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "'The Son of God' is one of the KJV's commonest titles and one of the Book of Mormon's; the extra word that raised the score, 'with', begins an unrelated clause in each. Romans 1:4 declares Christ Son of God by the resurrection; Helaman 8:15 has men looking upon him with faith. No contact beyond the title."
+  },
+  {
+    "bomRef": "Helaman 8:18",
+    "source": "John 4:35",
+    "category": "formulaic",
+    "sharedText": "behold I say unto you",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "The Book of Mormon's standing discourse formula, matching hundreds of KJV verses; John 4:35 was ranked only because its own 'Behold, I say unto you, Lift up your eyes' happens to place the words in the same order. It is proposed again at 8:16 and 9:23 and passed over there in silence. Covered in principle by the standing exclusion at 1 Nephi 1:5."
+  },
+  {
+    "bomRef": "Helaman 8:21",
+    "source": "Exodus 10:11",
+    "category": "wrong-sense",
+    "sharedText": "they were driven out",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "Exodus 10:11 is Pharaoh expelling Moses and Aaron from his presence in the middle of the plague negotiations — 'and they were driven out from Pharaoh's presence'. Helaman 8:21 has the seed of Zedekiah driven out of the land of Jerusalem, which is an exile, not an ejection from a room. Four shared words, opposite scale. The verse's real source is the Zedekiah slaughter at Jeremiah 39:6 and 2 Kings 25:7, both of which Hardy's apparatus also cross-references."
+  },
+  {
+    "bomRef": "Helaman 8:21",
+    "source": "Mark 6:3",
+    "category": "formulaic",
+    "sharedText": "with us and they were",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "Five words of pure connective tissue. Mark 6:3 is the Nazareth crowd listing Jesus's sisters, 'are they not all here with us? And they were offended at him'; the run crosses the sentence boundary and joins two unrelated clauses. Isaiah 59:12's 'are with us and' is excluded on the same evidence and is not given a separate entry."
+  },
+  {
+    "bomRef": "Helaman 8:23",
+    "source": "Zechariah 10:5",
+    "category": "formulaic",
+    "sharedText": "is with them and",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "Four words of connective. Zechariah 10:5's mighty men treading down enemies in the mire share nothing with God manifesting himself to the prophets. Psalm 18:38, Exodus 13:8, 1 Samuel 9:6 and Jonah 3:10 are all ranked at this verse on runs of the same kind and are excluded on the same evidence; none is given a separate entry. The verse is the chapter's densest patch of Book of Mormon formula and its lowest-signal one."
+  },
+  {
+    "bomRef": "Helaman 8:26",
+    "source": "Joel 3:13",
+    "category": "insufficient-verbal",
+    "sharedText": "ripe",
+    "streams": [
+      "manual"
+    ],
+    "reason": "Considered because 'ye are ripening … for everlasting destruction' is a harvest-judgment figure and Joel 3:13 ('put ye in the sickle, for the harvest is ripe') is the KJV's clearest source for one, with Revelation 14:18 restating it. Declined because the Book of Mormon uses 'ripe' and 'ripening' for iniquity throughout, from 1 Nephi onward, as a formula of its own with no sickle, no harvest and no vine anywhere near it. The verse's borrowing is the two-word 'everlasting destruction' from 2 Thessalonians 1:9, and that is where the link is filed."
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "bomRef": "Helaman 10:3",
+    "source": "Deuteronomy 28:20",
+    "category": "formulaic",
+    "sharedText": "because of the wickedness of",
+    "streams": ["machine-ngram"],
+    "reason": "A five-word run of covenant-curse boilerplate. Deuteronomy 28:20 threatens vexation 'because of the wickedness of thy doings'; Helaman 10:3 explains why a prophet is depressed. The Book of Mormon uses the phrase constantly and it carries no source. The real contact in this verse is the rare verb 'pondering', catalogued at the link."
+  },
+  {
+    "bomRef": "Helaman 10:4",
+    "source": "Exodus 33:12",
+    "category": "formulaic",
+    "sharedText": "this people and thou hast not",
+    "streams": ["machine-ngram"],
+    "reason": "The six-word run is an artifact of two independent boilerplate strings meeting at a clause boundary — 'unto this people' ends one sentence and 'and thou hast not' begins the next. Exodus 33:12 is Moses complaining that God has not told him whom he will send; Helaman 10:4 is God commending Nephi for not fearing men. Nothing else of Exodus 33 is present, and the window is blind to the fact that it spans a full stop."
+  },
+  {
+    "bomRef": "Helaman 10:6",
+    "source": "Isaiah 11:4",
+    "category": "better-source-identified",
+    "sharedText": "smite the earth with",
+    "streams": ["machine-ngram"],
+    "reason": "The machine's top-ranked source for the phrase is the messianic judge of Isaiah 11:4, who smites the earth 'with the rod of his mouth'. It should not be taken. “smite the earth” occurs in exactly three KJV verses, and only one of them — Revelation 11:6 — also contains 'have power over', which Helaman 10:6 has immediately before it and in the same order. The link is written at Revelation 11:6, where the rest of the grant (shutting heaven against rain) is spent in Helaman 11. Malachi 4:6, the third instance, is a curse on the land at the end of the prophets and has no other contact here."
+  },
+  {
+    "bomRef": "Helaman 10:6",
+    "source": "Jeremiah 38:15",
+    "category": "wrong-sense",
+    "sharedText": "I declare it unto thee",
+    "streams": ["machine-ngram"],
+    "reason": "A genuine five-word match and the senses are opposed. In Jeremiah 38:15 the prophet refuses to speak — 'If I declare it unto thee, wilt thou not surely put me to death?' — and the clause is the protasis of a refusal made by a man in a dungeon to the king who put him there. In Helaman 10:6 God declares to Nephi, in the presence of angels, a grant of power. The same five words face in opposite directions, and there is an ironic near-miss worth naming: Helaman 10:15 has the crowd trying to put Nephi in prison, which is where Jeremiah is speaking from. It is a coincidence of narrative furniture, not a borrowing."
+  },
+  {
+    "bomRef": "Helaman 10:6",
+    "source": "Psalm 23:5",
+    "category": "common-vocabulary",
+    "sharedText": "in the presence of mine",
+    "streams": ["machine-ngram"],
+    "reason": "“in the presence of mine” occurs in exactly one KJV verse, which is why it ranked, and the singleton is real but empty: Psalm 23:5's noun is 'enemies' and Helaman 10:6's is 'angels', and everything the phrase shares is the preposition and the possessive. Nothing else of Psalm 23 is anywhere in the chapter. The possible Lukan source of the phrase (Luke 15:10) is recorded as a low-confidence link at the verse."
+  },
+  {
+    "bomRef": "Helaman 10:11",
+    "source": "Revelation 21:22",
+    "category": "insufficient-verbal",
+    "sharedText": "the Lord God ... the Almighty",
+    "streams": ["manual"],
+    "reason": "A temptation worth naming because the chapter has just been talking about a temple. “the Lord God Almighty” occurs in exactly one KJV verse — Revelation 21:22, 'I saw no temple therein: for the Lord God Almighty and the Lamb are the temple of it' — three verses after Helaman 10:8 gave Nephi power to rend a temple in twain, which is a pairing a careful reader would want. It will not bear the weight. The determiner is what makes Revelation 21:22 a singleton, and the shorter 'Lord God Almighty' occurs in five KJV verses, all in Revelation (4:8, 11:17, 15:3, 16:7, 21:22). Helaman 10:11 does not have even that: it has 'the Lord God, who is the Almighty', a relative-clause periphrasis matching no KJV verse. The commonplace was available to any nineteenth-century writer without Revelation 21."
+  },
+  {
+    "bomRef": "Helaman 10:12",
+    "source": "Job 42:7",
+    "category": "formulaic",
+    "sharedText": "the Lord had spoken these words unto",
+    "streams": ["machine-ngram"],
+    "reason": "“had spoken these words unto” occurs in exactly one KJV verse and the singleton is worthless, exactly as CONVENTIONS §9 says of this same verse — Job 42:7 was the pilot's standing example of rare boilerplate outranking real links. The construction is a speech-closing formula ('when X had spoken these words unto Y') that the KJV writes a dozen ways and the Book of Mormon writes constantly; the rarity measures the KJV's preference for 'when he had thus spoken', not any relation between Job and Nephi. Job's clause introduces God's rebuke of Eliphaz; Helaman's introduces a prophet turning back toward a crowd."
+  },
+  {
+    "bomRef": "Helaman 10:15",
+    "source": "Luke 4:29",
+    "category": "better-source-identified",
+    "sharedText": "that they might cast him",
+    "streams": ["machine-ngram"],
+    "reason": "The window closes one word early, in the way ADJUDICATING §4 warns about: Luke 4:29's next word is 'down headlong' off a cliff, Helaman 10:15's is 'into prison'. But the machine is pointing at the right episode for the wrong reason, and the register should say so. Luke 4:29-30 is the Nazareth crowd that tries to destroy the prophet and out of whose midst he passes untouched, which is precisely Helaman 10:15-16 — and the link for that is written at 10:16, on John 5:13's 'conveyed' and Acts 8:39-40's Spirit-borne removal, where the verbal evidence actually is. Luke 4:30 is recorded there as a composite."
+  },
+  {
+    "bomRef": "Helaman 10:16",
+    "source": "Luke 20:26",
+    "category": "insufficient-verbal",
+    "sharedText": "and they could not take",
+    "streams": ["machine-ngram"],
+    "reason": "The five words agree and the object does not: Luke 20:26's verb is 'take hold of his words' — the spies fail to catch Jesus in speech — while Helaman 10:16's is 'take him', a failed physical arrest. The scene the Book of Mormon is actually running here is the failed arrest of John 7:44-46 (opened at 10:1) and the escape of John 5:13, both catalogued. Luke 20:26 shares a negated auxiliary and a very common verb."
+  },
+  {
+    "bomRef": "Helaman 10:18",
+    "source": "Ezekiel 20:8",
+    "category": "formulaic",
+    "sharedText": "and would not hearken unto",
+    "streams": ["machine-ngram"],
+    "reason": "Refusal-to-hearken is one of the Book of Mormon's most-used formulas and one of the KJV's; the phrase appears in Helaman 10:13, 10:15 and 10:18 alone. Covered by the standing exclusion for connective matches (CONVENTIONS §5); recorded once here because Ezekiel 20:8 was ranked, and passed over in silence at its other occurrences."
+  }
+]

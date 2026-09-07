@@ -1,0 +1,132 @@
+[
+  {
+    "bomRef": "Helaman 13:1",
+    "source": "Deuteronomy 10:13",
+    "category": "formulaic",
+    "sharedText": "to keep the commandments of",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "The standing exclusion for this chapter. Samuel's sermon is delivered in the KJV's narrative and homiletic boilerplate throughout, and the n-gram stream returns it at a dozen verses: 13:2 (Acts 10:42 and 1 Kings 19:21, 'preach unto the people' / 'unto the people and they did'), 13:4 (Job 34:23, 'that he should enter into'), 13:16 (Deuteronomy 20:15, 'all the cities which are'), 13:17 and 13:32 (Haggai 1:9 and Isaiah 19:20, both scoring only on 'saith the Lord of hosts'), 13:18 (Ezekiel 21:7 and Jeremiah 25:27, 'to pass saith the Lord' and 'no more because of the'), 13:20 (Joshua 7:12, 'before their enemies because they'), 13:22 (Exodus 8:28, 'the Lord your God in'), 13:26 (Hebrews 13:7 and 11:6, 'unto you the word of' and 'that he is a') and 13:33 (Isaiah 12:4, 'in that day shall ye say'). Every one is the connective tissue covered by the standing exclusion at 1 Nephi 1:5, and none shares a content word that construes. Deuteronomy 10:13 is listed here as the representative because 13:1's 'keep the commandments of God, according to the law of Moses' is the Book of Mormon's own summary formula for Lamanite observance and is used identically at 15:5."
+  },
+  {
+    "bomRef": "Helaman 13:5",
+    "source": "Ezekiel 21:9",
+    "category": "insufficient-verbal",
+    "sharedText": "sword",
+    "streams": [
+      "manual"
+    ],
+    "reason": "Worth saying plainly that Samuel's opening image has no King James source. 'The sword of justice hangeth over this people … the sword of justice falleth upon this people' is the Book of Mormon's own phrase: 'sword of justice' occurs in no KJV verse at all. The KJV's sharpened-and-furbished sword of Ezekiel 21:9-11 is the nearest thing to a personified sword of judgment and shares nothing but the noun; the hanging sword is Damocles, not scripture. Filed because a reader who goes looking for the biblical background of the sermon's first image should be told there is none, and because the phrase is one of the Book of Mormon's most distinctive coinages (Alma 26:19, 60:29 and elsewhere)."
+  },
+  {
+    "bomRef": "Helaman 13:10",
+    "source": "2 Kings 10:30",
+    "category": "better-source-identified",
+    "sharedText": "of the fourth generation",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "A five-word run and the wrong fourth generation. 2 Kings 10:30 is the Lord's reward to Jehu — his children to the fourth generation will sit on Israel's throne — which is a promise of dynastic continuity, the opposite of what 13:10 threatens. 'Fourth generation' occurs in seven KJV verses; the four that matter are the jealous-God formula of Exodus 20:5, Exodus 34:7, Numbers 14:18 and Deuteronomy 5:9, because those alone pair the span with the verb 'visiting', and Helaman 13:10 uses 'visit' three times in one sentence. The link is at Exodus 20:5."
+  },
+  {
+    "bomRef": "Helaman 13:12",
+    "source": "Acts 19:32",
+    "category": "common-vocabulary",
+    "sharedText": "the more part",
+    "streams": [
+      "manual"
+    ],
+    "reason": "A genuine King James idiom with no King James passage behind it. 'The more part' occurs in exactly two KJV verses, Acts 19:32 (the confused assembly at Ephesus) and Acts 27:12 (the ship's council at Fair Havens), and the Book of Mormon uses it three times in this sermon alone (13:12, 15:5, 15:6) in senses that have nothing to do with either. This is the kind of evidence that bears on the project's general claim — the text's English is Jacobean down to its quantifiers — without being evidence of dependence on any verse. Recorded so that the phrase is countable rather than accepted as a link."
+  },
+  {
+    "bomRef": "Helaman 13:13",
+    "source": "2 Kings 1:10",
+    "category": "better-source-identified",
+    "sharedText": "fire come down from heaven",
+    "streams": [
+      "manual"
+    ],
+    "reason": "The obvious match on the fire clause, and it is superseded. 'Fire come down from heaven' occurs in three KJV verses, two of them Elijah calling down fire on the captains of fifty (2 Kings 1:10, 1:12) and one the beast's false wonder (Revelation 13:13). None involves a city, and none involves sparing. Helaman 13:13-14 is built on the other proposition entirely — a city destroyed unless righteous people are found inside it, and spared 'for the righteous' sake' — and the only KJV sentence that states it is Genesis 18:26, 'then I will spare all the place for their sakes', a KJV singleton. The fire itself is Sodom's, Genesis 19:24. Filed because Elijah's fire is the phrase a reader will find first and the wrong answer."
+  },
+  {
+    "bomRef": "Helaman 13:14",
+    "source": "Genesis 18:26",
+    "category": "better-source-identified",
+    "sharedText": "for the righteous' sake, that it is spared",
+    "streams": [
+      "manual"
+    ],
+    "reason": "Cross-reference, not a rejection. 13:14's 'it is for the righteous' sake, that it is spared' is the closest verbal contact in the passage with Genesis 18:26's 'I will spare all the place for their sakes', but the argument the two verses share begins at 13:13 and the link is adjudicated there. A reader browsing verse by verse should be sent one verse back rather than shown nothing."
+  },
+  {
+    "bomRef": "Helaman 13:21",
+    "source": "Deuteronomy 8:18",
+    "category": "better-source-identified",
+    "sharedText": "hath not hearkened unto the words of him who gave them unto you",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "Cross-reference. The Deuteronomy 8 material — the God who gives the power to get wealth, and the forgetting that follows prosperity — runs across 13:21-22 and is adjudicated at 13:22, where 'ye do not remember the Lord your God' supplies the verb that makes the identification. The machine's own proposal here, 2 Kings 22:13 ('because our fathers have not hearkened unto the words of this book'), is a six-word run on 'hearkened unto the words of' whose object is Josiah's rediscovered law-book and not a giver of riches; it is not the source."
+  },
+  {
+    "bomRef": "Helaman 13:24",
+    "source": "2 Samuel 16:6",
+    "category": "wrong-sense",
+    "sharedText": "cast stones at",
+    "streams": [
+      "manual"
+    ],
+    "reason": "A KJV singleton in the wrong direction. 'Cast stones at' occurs in exactly one KJV verse, 2 Samuel 16:6, where Shimei casts stones at David — a private cursing of a king in flight, not a judicial stoning and not the killing of a prophet. Helaman 13:24's 'cast stones at them, and do slay them' belongs with the prophet-killing complex of Matthew 23:37 ('thou that killest the prophets, and stonest them'), which is what 13:25 goes on to quote. Recorded because an absolute rarity is the strongest kind of evidence this catalogue uses and it has to be able to say when one does not count."
+  },
+  {
+    "bomRef": "Helaman 13:26",
+    "source": "Acts 7:51",
+    "category": "better-source-identified",
+    "sharedText": "stiffnecked … your fathers … slain them",
+    "streams": [
+      "manual"
+    ],
+    "reason": "The other New Testament indictment for killing the prophets, and it loses. Stephen's speech has almost everything Helaman 13:24-29 has — 'Ye stiffnecked and uncircumcised in heart and ears … as your fathers did, so do ye. Which of the prophets have not your fathers persecuted? and they have slain them' — and Helaman 13:29 even has 'ye hardened and ye stiffnecked people'. But 'stiffnecked' occurs in nine KJV verses, eight of them Mosaic, so it points at Exodus 32-34 as readily as at Acts; and the two decisive phrases in this passage are Matthew's and only Matthew's. 'In the days of our fathers' occurs in exactly one KJV verse, Matthew 23:30, and 'blind guides' in exactly two, Matthew 23:16 and 23:24. Stephen's speech has no counterfactual disclaimer and no guides. Filed at length because Acts 7 is the reference a well-read editor would reach for and the wording will not support it."
+  },
+  {
+    "bomRef": "Helaman 13:26",
+    "source": "1 Samuel 14:39",
+    "category": "formulaic",
+    "sharedText": "as the Lord liveth",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "'As the Lord liveth' is the King James oath formula and occurs across Judges, Samuel, Kings, Ruth, Jeremiah and Hosea; the stream returns 1 Samuel 14:39 and Judges 8:19 here because both continue 'as the LORD liveth, if …', which is Samuel's construction too. It is a formula, not a source. Noted separately from the chapter's standing exclusion only because it is a formula with real Hebraic weight — the text's use of it is evidence about its register, and about nothing else."
+  },
+  {
+    "bomRef": "Helaman 13:32",
+    "source": "Joel 1:5",
+    "category": "better-source-identified",
+    "sharedText": "weep and howl",
+    "streams": [
+      "manual"
+    ],
+    "reason": "tools/kjv-rarity.py returns two verses for 'weep and howl', and one of them is an artifact of punctuation. Joel 1:5 reads 'Awake, ye drunkards, and weep; and howl, all ye drinkers of wine' — two imperatives to two audiences across a clause break, addressed to drunkards over the failure of the wine. James 5:1 has the phrase as a unit and addresses rich men whose riches are about to fail, which is Helaman 13:32's situation exactly, and James 5:2-3 then supplies three further KJV singletons that the lament at 13:33-35 works through. The link is at 13:32."
+  },
+  {
+    "bomRef": "Helaman 13:35",
+    "source": "James 5:3",
+    "category": "better-source-identified",
+    "sharedText": "we have hid up our treasures, and they have slipped away",
+    "streams": [
+      "manual"
+    ],
+    "reason": "Cross-reference. The lament at 13:33-36 is where the chapter's two strongest links actually pay off — James 5:1-3, adjudicated at 13:32, and Psalm 73:18, adjudicated at 13:31 — and neither is a fresh borrowing here. A reader who arrives at these verses looking for the source of 'our riches are gone from us' and of the slipperiness should be sent to both."
+  },
+  {
+    "bomRef": "Helaman 13:37",
+    "source": "Revelation 12:9",
+    "category": "insufficient-verbal",
+    "sharedText": "demons",
+    "streams": [
+      "manual"
+    ],
+    "reason": "Filed for what it shows about the text's vocabulary rather than about a source. 'Behold we are surrounded by demons' has no King James background at all: the word 'demons' occurs in no KJV verse, the King James Bible always saying 'devils' (Revelation 12:9's dragon is 'called the Devil, and Satan'). This is one of the few points in the sermon where the English is not the KJV's, and it is worth having in the register precisely because the catalogue's claim is about the places where it is. The following clause, 'encircled about by the angels of him who hath sought to destroy our souls', is likewise the Book of Mormon's own idiom."
+  }
+]

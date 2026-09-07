@@ -1,0 +1,72 @@
+[
+  {
+    "bomRef": "Helaman 14:4",
+    "source": "Ezekiel 47:22",
+    "category": "formulaic",
+    "sharedText": "and it shall come to pass that ye shall",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "The standing exclusion for this chapter, and the one place in the book where it needs saying twice, because chapter 14 is a list of prophecies and every item begins with the same connective. The stream's longest run in the chapter is nine words at Ezekiel 47:22 and every word of it is 'and it shall come to pass that ye shall'. The same applies to 14:2 (2 Corinthians 11:25, 'a night and a day' — Paul's shipwreck), 14:7 (Ezekiel 38:20, 'shall fall to the'), 14:11 and 14:12 (Psalm 141:6 and 2 Corinthians 2:4, 'shall hear my words' and 'that ye might know the'), 14:12 (Luke 1:3 and Isaiah 48:3, both scoring only on 'all things from the beginning'), 14:15 (John 11:24 and John 20:9, 'he shall rise again' and 'again from the dead'), 14:20 and 14:27 (Acts 19:8, 'for the space of three'), 14:21 (Genesis 1:29, 'upon the face of'), 14:22 and 14:28 (Zechariah 5:3 and Ezekiel 34:6, 'the face of the whole earth' and 'upon all the face of'), 14:26 (Revelation 17:7, 'and the angel said unto me') and 14:30 (Joshua 23:16, 'he hath given unto you'). None shares a content word that construes; all are covered by the standing exclusion at 1 Nephi 1:5."
+  },
+  {
+    "bomRef": "Helaman 14:8",
+    "source": "John 9:35",
+    "category": "better-source-identified",
+    "sharedText": "believe on the Son of God",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "The machine's top match at this verse, and it is the wrong Johannine verse. John 9:35 is a question put to one man — 'Dost thou believe on the Son of God?' — with no promise attached. Helaman 14:8 is a universal conditional with everlasting life as its apodosis, which is the form of John 3:36 ('He that believeth on the Son hath everlasting life'); the fuller subject 'the Son of God' comes from 1 John 5:10. The link is at John 3:36 with 1 John 5:10 as composite. Worth an entry because 'believe on the Son of God' is the longer run and the weaker match, which is the pilot's standing lesson about run length (CONVENTIONS §9)."
+  },
+  {
+    "bomRef": "Helaman 14:16",
+    "source": "Genesis 3:22",
+    "category": "insufficient-verbal",
+    "sharedText": "cut off from the presence of the Lord",
+    "streams": [
+      "manual"
+    ],
+    "reason": "The chapter's densest theological sentence has no King James source, and the reason is worth recording: 'cut off from the presence of the Lord', 'the fall of Adam', 'the first death' and 'spiritual death' are the Book of Mormon's own settled vocabulary, worked out at 2 Nephi 9 and Alma 12, and Samuel is using it as received doctrine rather than reaching for scripture. The KJV's expulsion from Eden (Genesis 3:22-24) has the driving out but not the formula, and 'spiritual death' occurs in no KJV verse at all. Filed so the register can show where the sermon stops quoting; the borrowings resume at 14:18 with the Baptist's axe."
+  },
+  {
+    "bomRef": "Helaman 14:20",
+    "source": "Isaiah 13:10",
+    "category": "better-source-identified",
+    "sharedText": "the sun shall be darkened",
+    "streams": [
+      "manual"
+    ],
+    "reason": "The Old Testament half of a mediation test, recorded as a negative result so the negatives stay countable. 'The sun shall be darkened' occurs in exactly two KJV verses, Isaiah 13:10 and Mark 13:24, the second quoting the first. mediation-check.py returns two decisive points, both against Isaiah: the Book of Mormon reproduces neither 'in his going forth' nor 'to shine', the two clauses Isaiah has and Mark drops. The order confirms it — Isaiah runs stars, sun, moon; the Book of Mormon runs sun, moon, stars with Mark. The link is at Mark 13:24."
+  },
+  {
+    "bomRef": "Helaman 14:22",
+    "source": "Matthew 27:51",
+    "category": "better-source-identified",
+    "sharedText": "rent in twain",
+    "streams": [
+      "manual"
+    ],
+    "reason": "Cross-reference. 'Yea, they shall be rent in twain' is the closest verbal contact in the chapter with the KJV's account of the crucifixion signs — the phrase occurs in exactly two KJV verses, Matthew 27:51 and Mark 15:38, both of the temple veil — but the sentence begins at 14:21 with the yielding up of the ghost and the shaking of the earth, and the link is adjudicated there. A reader arriving at 14:22 should be sent one verse back rather than shown nothing."
+  },
+  {
+    "bomRef": "Helaman 14:24",
+    "source": "Isaiah 6:11",
+    "category": "insufficient-verbal",
+    "sharedText": "cities shall become desolate",
+    "streams": [
+      "manual"
+    ],
+    "reason": "A real prophetic commonplace with no verse behind it. Cities laid waste and left without inhabitant are Isaiah's, Jeremiah's and Ezekiel's stock — Isaiah 6:11's 'until the cities be wasted without inhabitant' is the nearest — and 'many highways shall be broken up' has no KJV analogue at all, the King James Bible's highways being either built up (Isaiah 40:3, already in view at 14:9) or lying waste (Isaiah 33:8). The verse is a list of earthquake damage in the Book of Mormon's own words. Filed rather than passed over because a reader who has just been shown Isaiah 40:3-4 at 14:9 and 14:23 will reasonably expect the highway of 14:24 to belong to the same block, and it does not."
+  },
+  {
+    "bomRef": "Helaman 14:29",
+    "source": "John 3:18",
+    "category": "insufficient-verbal",
+    "sharedText": "condemned … their own condemnation",
+    "streams": [
+      "manual"
+    ],
+    "reason": "Close, and it does not land. John 3:18-19 — 'he that believeth not is condemned already … And this is the condemnation, that light is come into the world' — is the KJV's nearest statement of self-incurred condemnation for unbelief, and Helaman 13:29 has already borrowed from John 3:19, which makes the temptation real. But 14:29's 'if they are condemned, they bring upon themselves their own condemnation' shares only the noun, and the doctrine it states is the Book of Mormon's own agency argument, completed at 14:30-31 out of Deuteronomy 30 rather than out of John. Recorded so the John 3 borrowing at 13:29 is not silently extended to a verse that does not carry it."
+  }
+]

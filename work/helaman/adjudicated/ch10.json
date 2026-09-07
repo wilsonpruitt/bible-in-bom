@@ -1,0 +1,481 @@
+{
+  "chapter": 10,
+  "adjudicated": "2026-09-07",
+  "adjudicator": "Opus",
+  "links": {
+    "10:1": [
+      {
+        "source": "John 7:43",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "So there was a division among the people because of him.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "John 7:43 → KJV → Book of Mormon",
+          "other": "“a division among the people” occurs in exactly one KJV verse, John 7:43. John uses the noun of the crowd twice more (9:16, 10:19) but never in this phrase; elsewhere the KJV's word for a split people is 'divided' or 'strife'.",
+          "significance": "Recover John 7 and the parallel is not merely verbal. The division there is over whether a man teaching in the temple is the Christ; it happens while the officers sent to arrest him fail to take him (7:44-46), and the chapter ends 'every man went unto his own house' (7:53) before Jesus goes to the mount of Olives. Helaman 10 runs the same sequence in the same order: a division among the people (10:1), the prophet left alone and going toward his own house (10:2), and at 10:15-16 officers who 'could not take him'. The borrowed clause is the head of a borrowed scene."
+        },
+        "note": "'There arose a division among the people, insomuch that they divided hither and thither, and went their ways, leaving Nephi alone.' The one KJV verse with this phrase is the crowd's split over Jesus in the temple, and what follows in Helaman 10 follows what follows in John 7 — the failed arrest at 10:15-16 in particular. The n-gram stream ranked it; the sequence is what makes it a link rather than a coincidence.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "10:3": [
+      {
+        "source": "Luke 2:19",
+        "type": "echo",
+        "subtype": "probable",
+        "confidence": "moderate",
+        "text": "But Mary kept all these things, and pondered them in her heart.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Luke 2:51"
+        ],
+        "provenance": {
+          "route": "Luke 2:19 → KJV → Book of Mormon",
+          "other": "The verb is nearly absent from the KJV. “pondered” occurs in exactly one KJV verse, Luke 2:19; the imperative 'ponder' occurs in two, Proverbs 4:26 and 5:6, both of paths rather than of sayings. There is no KJV 'pondering'. So the KJV's single instance of pondering something one has been told is Mary's.",
+          "significance": "Nephi walks home 'pondering upon the things which the Lord had shewn unto him', then 'as he was thus pondering in his heart' a voice from heaven addresses him by name and calls him blessed. That is the shape of Luke 1-2 and not of any Old Testament call: Mary keeps the things she has been told and ponders them in her heart, and the words spoken over her are 'Blessed art thou among women'. The blessing formula arrives one verse later at 10:4, which is where the borrowing becomes hard to write off."
+        },
+        "note": "Two contacts, neither decisive alone: the rare verb, and the phrase 'in his heart' governing it. What raises it above coincidence is what stands next to it — the voice of 10:4 opens 'Blessed art thou, Nephi', and the KJV pairs pondering-in-the-heart with a 'Blessed art thou' address exactly once, in Luke's infancy narrative. 1830 reads 'shewn' at 10:2 where 1920 reads 'shown', keeping the KJV's orthography (CONVENTIONS §8).",
+        "whyNot": "'Ponder' is ordinary nineteenth-century English and needs no KJV source at all; the Book of Mormon uses it freely elsewhere. If the word came in from the language rather than the book, the Luke contact evaporates and only 'in his heart' is left, which is nothing.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "10:4": [
+      {
+        "source": "Matthew 16:17",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "And Jesus answered and said unto him, Blessed art thou, Simon Barjona: for flesh and blood hath not revealed it unto thee, but my Father which is in heaven.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Matthew 16:18",
+          "Matthew 16:19"
+        ],
+        "recurrenceRefs": [
+          "Helaman 10:6",
+          "Helaman 10:7"
+        ],
+        "provenance": {
+          "route": "Matthew 16:17-19 → KJV → Book of Mormon",
+          "other": "“Blessed art thou” occurs in exactly five KJV verses — Psalm 119:12 (O LORD), Ecclesiastes 10:17 (O land), Luke 1:28 and 1:42 (among women), and Matthew 16:17. Matthew 16:17 is the only one of the five in which the formula is followed by a person's name.",
+          "significance": "This is the first term of a three-verse sequence, and the sequence is the argument. Matthew 16 runs: 'Blessed art thou, Simon Barjona' (17) → 'thou art Peter, and upon this rock I will build my church' (18) → 'I will give unto thee the keys … whatsoever thou shalt bind on earth shall be bound in heaven' (19). Helaman 10 runs: 'Blessed art thou, Nephi' (4) → 'Behold, thou art Nephi, and I am God' (6) → 'whatsoever ye shall seal on earth, shall be sealed in heaven' (7). Three elements, same order, no other KJV passage containing any two of them. What the transfer does is worth saying: the naming clause is rewritten so that the answering half is not a new name for the man but the identity of the speaker — 'thou art Nephi, and I am God' — which removes the rock and the church and leaves the commission standing on the asymmetry between the two."
+        },
+        "note": "'Blessed art thou, Nephi, for those things which thou hast done.' Taken alone this is a five-verse formula and would not be a link. It is a link because of what comes with it: the only KJV verse that addresses a named man as 'Blessed art thou' is the one that continues 'thou art Peter' and 'whatsoever thou shalt bind on earth', and Helaman 10:6 and 10:7 supply both continuations in Matthew's order. Adjudicated here as the head of the sequence; 10:7 carries the verbal case.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      },
+      {
+        "source": "John 5:30",
+        "type": "echo",
+        "subtype": "possible",
+        "confidence": "moderate",
+        "text": "I can of mine own self do nothing: as I hear, I judge: and my judgment is just; because I seek not mine own will, but the will of the Father which hath sent me.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 4,
+          "sequence": 2,
+          "context": 4,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "John 6:38"
+        ],
+        "provenance": {
+          "route": "John 5:30 / 6:38 → KJV → Book of Mormon",
+          "other": "“mine own will” occurs in exactly two KJV verses, John 5:30 and John 6:38, and in both the clause is the same antithesis: not my own will, but the will of him that sent me. The Book of Mormon inverts the persons — the messenger is praised in the second person for not having sought his own — and substitutes 'life' for 'will' in the first limb while keeping 'will' in the second.",
+          "significance": "The antithesis is the Johannine Son's self-description, and the voice that speaks it here speaks it about Nephi. Note also that the substitution is not idle: 'hast not sought thine own life' is what makes the formula fit a prophet standing in front of a crowd that will shortly try to imprison him (10:15), where 'own will' would not."
+        },
+        "note": "'Thou hast not feared them, and hast not sought thine own life, but hath sought my will, and to keep my commandments.' The not-X-but-my-will construction is the Fourth Gospel's, twice, and nowhere else in the KJV. 1830's 'hath sought' — a plain grammatical slip that 1920 corrected to 'hast' — is worth recording here because it shows the clause being assembled rather than copied (CONVENTIONS §8).",
+        "whyNot": "No phrase is reproduced. The shared material is a rhetorical shape plus the two words 'my will', and self-denial before God is common enough in scripture that a writer could reach this sentence without John.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "10:5": [
+      {
+        "source": "Acts 7:22",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "And Moses was learned in all the wisdom of the Egyptians, and was mighty in words and in deeds.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 3,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Luke 24:19"
+        ],
+        "provenance": {
+          "route": "Acts 7:22 → KJV → Book of Mormon",
+          "other": "The KJV has the collocation twice and in two orders. “mighty in words” occurs in exactly one KJV verse, Acts 7:22, of Moses — 'mighty in words and in deeds'. “mighty in deed” occurs in exactly one KJV verse, Luke 24:19, of Jesus — 'a prophet mighty in deed and word before God'. Helaman 10:5 reads 'mighty in word and in deed', which is Acts 7:22's order with Luke 24:19's singular nouns.",
+          "alternative": "Luke 24:19, if the singulars are thought to weigh more than the order. The two verses are by the same author and the phrase is idiomatic to him; a case can be made either way, which is why the row records both.",
+          "significance": "Word before deed is Moses's order, and Moses is who this promise is making Nephi into: the next verse gives him power to 'smite the earth with famine, and with pestilence', which is the Egyptian plague repertoire, and chapter 11 will have him shut the heavens. Stephen's speech is also the passage this catalogue keeps finding behind Nephite call narratives (see 1 Nephi 17:8's 'which I shall shew thee', Acts 7:3). The alternative order would make him a prophet like Jesus instead; the text as it stands chose Moses."
+        },
+        "note": "'I will make thee mighty in word and in deed, in faith and in works.' The KJV supplies this collocation exactly twice, once of Moses and once of Jesus, and the two differ in the order of the nouns. The Book of Mormon has Moses's order. That is a small datum and it points the same way the rest of the chapter does.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      },
+      {
+        "source": "John 15:7",
+        "type": "echo",
+        "subtype": "probable",
+        "confidence": "moderate",
+        "text": "If ye abide in me, and my words abide in you, ye shall ask what ye will, and it shall be done unto you.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 4,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "1 John 5:14",
+          "John 15:16"
+        ],
+        "provenance": {
+          "route": "John 15:7 (+ 1 John 5:14 for the proviso) → KJV → Book of Mormon",
+          "other": "“it shall be done unto” occurs in exactly two KJV verses, Obadiah 1:15 (retribution, 'as thou hast done, it shall be done unto thee') and John 15:7. Only John's is a promise about asking. The proviso attached to it in Helaman — that he will not ask contrary to God's will — is the qualification 1 John 5:14 puts on the same promise: 'if we ask any thing according to his will, he heareth us'.",
+          "significance": "The Book of Mormon's move is to make the Johannine safeguard structural rather than conditional. In 1 John the answer depends on whether the asking happens to accord with God's will; here God guarantees in advance that it will — 'for thou shalt not ask that which is contrary to my will' — which converts a condition on prayer into a description of a man. That is the theological content of the whole promise, and the two New Testament verses are what it is built out of."
+        },
+        "note": "'All things shall be done unto thee according to thy word, for thou shalt not ask that which is contrary to my will.' The unlimited-asking promise and its will-of-God proviso are a recognizable Johannine pair (John 15:7, 15:16; 1 John 5:14), and the sentence has both halves in order. The verbal contact is short and the argument rests on the pairing rather than on any one phrase.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "10:6": [
+      {
+        "source": "Revelation 11:6",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "These have power to shut heaven, that it rain not in the days of their prophecy: and have power over waters to turn them to blood, and to smite the earth with all plagues, as often as they will.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "recurrenceRefs": [
+          "Helaman 11:4",
+          "Helaman 11:5",
+          "Helaman 11:17"
+        ],
+        "provenance": {
+          "route": "Revelation 11:6 → KJV → Book of Mormon",
+          "other": "“smite the earth” occurs in exactly three KJV verses: Isaiah 11:4 (with the rod of his mouth), Malachi 4:6 (with a curse), and Revelation 11:6. “have power over” occurs in exactly three KJV verses: Esther 9:1, Daniel 11:43, and Revelation 11:6. Revelation 11:6 is the only KJV verse that has both, and it has them in Helaman 10:6's order — power over, then smite the earth with.",
+          "significance": "Revelation 11:6 describes the two witnesses: 'These have power to shut heaven, that it rain not in the days of their prophecy: and have power over waters to turn them to blood, and to smite the earth with all plagues, as often as they will.' Helaman 10:6-7 gives Nephi that grant, and Helaman 11 spends it exactly as the verse specifies — at 11:4 he asks that the rain be withheld, at 11:5 a famine follows, at 11:17 he asks for the rain back. So the prophet who is being made into Moses in 10:5 is being equipped out of the Apocalypse, and the passage the equipment comes from is about two prophets whose city kills them and whose corpses lie in the street. That is a reading of Helaman 10:15-16, where the crowd tries to seize him and cannot."
+        },
+        "note": "'Ye shall have power over this people, and shall smite the earth with famine, and with pestilence, and destruction.' Two three-verse KJV phrases meet in one verse of the KJV and in one verse of the Book of Mormon, in the same order. The confirmation is at one remove: the powers named in Revelation 11:6 that Helaman 10:6 does not list are the ones Nephi goes on to exercise in chapter 11.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      },
+      {
+        "source": "Luke 15:10",
+        "type": "echo",
+        "subtype": "possible",
+        "confidence": "low",
+        "text": "Likewise, I say unto you, there is joy in the presence of the angels of God over one sinner that repenteth.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 2,
+          "sequence": 1,
+          "context": 3,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Luke 12:8",
+          "Psalm 23:5"
+        ],
+        "provenance": {
+          "route": "Luke 15:10 → KJV → Book of Mormon",
+          "other": "“presence of the angels” occurs in exactly one KJV verse, Luke 15:10. The nearest competitor is Luke 12:8-9's 'before the angels of God'. The genitive that Helaman 10:6 actually has — 'in the presence of mine angels', with the first-person possessive — has no KJV parallel at all; the KJV's one 'in the presence of mine' is Psalm 23:5's 'mine enemies'.",
+          "significance": "If the phrase is Luke's, the declaration is being made in the setting Luke reserves for joy over one sinner who repents — which is the errand Nephi is being sent on two verses later ('Except ye repent, ye shall be smitten'). The 1830 prints 'angles', a compositor's transposition corrected in 1920; it is worth noting because it shows the word was set from dictation or from a hand, not copied from a Bible page."
+        },
+        "note": "'I declare it unto thee in the presence of mine angles.' Recorded rather than argued. The prepositional phrase is Lukan in the KJV and nowhere else, but the possessive that makes Helaman's version distinctive is not in the KJV at all, so the borrowing, if there is one, has been reworked past the point where it can be demonstrated.",
+        "whyNot": "'In the presence of' is among the commonest prepositional phrases in the KJV (Genesis 23:11, Psalm 23:5 and dozens more), and angels attending a divine declaration is a scriptural commonplace requiring no particular source. The only distinctive element — 'mine angels' — is precisely the element the KJV does not have.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "10:7": [
+      {
+        "source": "Matthew 18:18",
+        "type": "quotation",
+        "subtype": "close-verbal",
+        "confidence": "certain",
+        "text": "Verily I say unto you, Whatsoever ye shall bind on earth shall be bound in heaven: and whatsoever ye shall loose on earth shall be loosed in heaven.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 1
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Matthew 16:19",
+          "Luke 10:19"
+        ],
+        "recurrenceRefs": [
+          "Helaman 10:4"
+        ],
+        "provenance": {
+          "route": "Matthew 18:18 (wording and number) + Matthew 16:19 (setting) → KJV → Book of Mormon",
+          "other": "“loosed in heaven” occurs in exactly two KJV verses, Matthew 16:19 and Matthew 18:18, and they differ in exactly one respect that matters here: 16:19 is singular throughout ('whatsoever THOU shalt bind … THOU shalt loose'), 18:18 plural ('whatsoever YE shall bind … YE shall loose'). Helaman 10:7 is plural — 'whatsoever ye shall seal … whatsoever ye shall loose' — and so reproduces Matthew 18:18's pronoun, not Matthew 16:19's, in a speech addressed to one man. The opening clause is a third verse again: “Behold, I give unto you power” is Luke 10:19's, the commission of the seventy.",
+          "alternative": "Matthew 16:19 alone, which is the passage the surrounding verses are following (see 10:4). The pronoun rules it out as the source of this verse's wording while leaving it as the source of its setting.",
+          "significance": "The one word that is not the KJV's is the one the passage exists to change: 'bind' becomes 'seal', in both verbs' first limb, while 'loose' is kept. Bind/loose is a matched pair of rabbinic legal verbs; seal/loose is not a pair at all, and the substitution pulls the grant out of the courtroom and into the language of documents and covenants. Recover Matthew 18 and the context sharpens it further — 18:18's promise is given to a congregation that has just been told how to expel an unrepentant member (18:15-17), which is the situation Nephi is in from 10:11 onward. The reader who follows the echo home finds a text about a community's power over its own impenitent."
+        },
+        "note": "Fourteen consecutive words of Matthew 18:18 with one substitution ('seal' for 'bind') and one omission. Below Skousen's sixteen-word threshold for his KJV-quotation list, so this is not one of his 36; it is catalogued as a quotation on CONVENTIONS §2's grounds, since a clause is reproduced from an identifiable verse. The mediation datum is the pronoun: the frame around this verse is Matthew 16's singular address to a named man (10:4, 10:6), but the clause itself is Matthew 18's plural, and the Book of Mormon keeps the plural even though its speaker is addressing one person.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "10:8": [
+      {
+        "source": "Matthew 27:51",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "And, behold, the veil of the temple was rent in twain from the top to the bottom; and the earth did quake, and the rocks rent;",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Mark 15:38",
+          "Matthew 21:21"
+        ],
+        "provenance": {
+          "route": "Matthew 27:51 / Mark 15:38 → KJV → Book of Mormon",
+          "other": "“rent in twain” occurs in exactly two KJV verses, Matthew 27:51 and Mark 15:38, and both are the same event: the veil of the temple at the moment of the crucifixion. Luke's parallel at 23:45 avoids the phrase ('rent in the midst'). There is no KJV instance of the phrase applied to anything but that veil.",
+          "significance": "Nephi is given power to say to a temple the two words the King James Bible says about a temple exactly once, and the once is Golgotha. The metalepsis is unusually clean because the borrowing is anticipatory in the text's own chronology: what Nephi could do by a word, God will do at the death of Christ, and 3 Nephi 8 will report the fulfilment. The sentence is also the first of the three impossibilities of 10:8-10, and it is the only one not drawn from the Gospel faith-sayings — the mountain and the smiting come from Matthew 21:21 (see 10:9). This one comes from the passion narrative, which is a different kind of borrowing lodged inside a series of the other kind."
+        },
+        "note": "'If ye shall say unto this temple, It shall be rent in twain, and it shall be done.' The frame is Matthew 21:21's (see the following verse); the content of the impossibility is not. 'Rent in twain' belongs to one event in the KJV, and the object it belongs to is a temple, which is the object here. The 1830 keeps a conjunction ('and it shall be done') that 1920 deletes in both 10:8 and 10:9, restoring Matthew 21:21's asyndeton — a change away from the running text and toward the source.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "10:9": [
+      {
+        "source": "Matthew 21:21",
+        "type": "quotation",
+        "subtype": "close-verbal",
+        "confidence": "certain",
+        "text": "Jesus answered and said unto them, Verily I say unto you, If ye have faith, and doubt not, ye shall not only do this which is done to the fig tree, but also if ye shall say unto this mountain, Be thou removed, and be thou cast into the sea; it shall be done.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Mark 11:23",
+          "Luke 3:5",
+          "Isaiah 40:4"
+        ],
+        "recurrenceRefs": [
+          "Helaman 10:8",
+          "Helaman 10:10",
+          "1 Nephi 17:46"
+        ],
+        "provenance": {
+          "route": "Matthew 21:21 (frame) + Luke 3:5 (the levelling word) → KJV → Book of Mormon",
+          "other": "“if ye shall say unto this mountain” occurs in exactly one KJV verse, Matthew 21:21. The saying exists in three KJV forms and the pronouns separate them: Matthew 17:20 'ye shall say unto this mountain, Remove hence'; Mark 11:23 'whosoever shall say unto this mountain'; Matthew 21:21 'if ye shall say unto this mountain'. The Book of Mormon has Matthew 21:21's conditional-plural, and closes with that verse's 'it shall be done' rather than Mark's 'he shall have whatsoever he saith'.",
+          "alternative": "Mark 11:23, which the n-gram stream ranked second here. It shares 'say unto this mountain, Be thou' but not the conditional, and its apodosis is different.",
+          "significance": "Where Matthew's mountain is 'removed' and 'cast into the sea', Helaman's is 'cast down and become smooth' — and that second verb is the one place the sentence leaves Matthew. mediation-check.py returns a decisive result for Luke 3:5 over Isaiah 40:4 on it: Isaiah 40:4 levels the ground into 'plain', Luke 3:5 renders the same prophecy 'the rough ways shall be made smooth', and “made smooth” occurs in exactly one KJV verse, Luke 3:5. The backbone under that verdict is thin — Helaman shares only 'mountain' and 'smooth' with either verse, and the seven words the tool counts are shared between Isaiah and Luke rather than with the Book of Mormon — so it is offered as a secondary contact, not as the verse's source. What it suggests is that the faith-saying has been finished with the Baptist's levelling prophecy in its Lukan form. The catalogue adjudicated that same Isaiah-via-Luke 'smooth' at 1 Nephi 17:46.",
+          "mt": "Isaiah 40:4 — 'and the rough places plain', against Luke 3:5's 'the rough ways shall be made smooth'."
+        },
+        "note": "Six consecutive words of Matthew 21:21, from the only KJV verse that has them, closing with that verse's apodosis. Below Skousen's sixteen-word threshold and so not one of his 36. The interest is in the one clause that is not Matthew's: 'become smooth', where the levelling vocabulary is Luke 3:5's rendering of Isaiah 40:4 rather than Isaiah's own.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "10:16": [
+      {
+        "source": "John 5:13",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "And he that was healed wist not who it was: for Jesus had conveyed himself away, a multitude being in that place.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Acts 8:39",
+          "Acts 8:40",
+          "Luke 4:30"
+        ],
+        "recurrenceRefs": [
+          "Helaman 10:17"
+        ],
+        "provenance": {
+          "route": "John 5:13 (the verb) + Acts 8:39-40 (the mode and its sequel) → KJV → Book of Mormon",
+          "other": "“conveyed” occurs in exactly one KJV verse, John 5:13 — 'for Jesus had conveyed himself away, a multitude being in that place'. The Book of Mormon's 'conveyed away out of the midst of them' has the KJV's single instance of the verb in the KJV's own sense, escape from a crowd, and adds the adverb the KJV attaches to it. Separately, “caught away” occurs in exactly one KJV verse, Acts 8:39, where the Spirit of the Lord removes Philip from the road.",
+          "significance": "Two rare KJV escapes are being used at once and they do different work. John 5:13 supplies the word and the situation — a multitude, and a man who is simply not there any more. Acts 8:39-40 supplies the mechanism and the consequence: Philip is carried off by the Spirit and is next found 'preaching in all the cities'. Helaman 10:17 is that sequel verbatim in substance — 'he did go forth in the spirit, from multitude to multitude, declaring the word of God'. So the verse is a Johannine disappearance completed by a Lukan itinerary, and the crowd that could not take him is left, as in John 7:44-46, holding nothing."
+        },
+        "note": "'They could not take him to cast him into prison: for he was taken by the spirit, and conveyed away out of the midst of them.' The KJV uses 'convey' once in all sixty-six books, of Jesus slipping away from a crowd; the Book of Mormon uses it here, of a prophet slipping away from a crowd. The next verse then supplies Philip's sequel. Note that the failed arrest ('they could not take him') closes the John 7 frame opened at 10:1.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "10:18": [
+      {
+        "source": "Mark 3:24",
+        "type": "echo",
+        "subtype": "possible",
+        "confidence": "moderate",
+        "text": "And if a kingdom be divided against itself, that kingdom cannot stand.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 2,
+          "context": 4,
+          "rarity": 3,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Mark 3:25",
+          "Matthew 12:25",
+          "Luke 11:17"
+        ],
+        "provenance": {
+          "route": "Mark 3:24-25 / Matthew 12:25 → KJV → Book of Mormon",
+          "other": "“divided against” occurs in exactly seven KJV verses. Six of the seven are the Beelzebub saying in its three Synoptic forms (Matthew 12:25, 12:26; Mark 3:24, 3:25; Luke 11:17, 11:18); the seventh is Luke 12:53, the household divided by the gospel. The reflexive plural Helaman has, 'divided against themselves', is in none of them — the KJV's forms are 'against itself' and 'against himself'.",
+          "significance": "The Beelzebub saying's point is that a kingdom so divided 'cannot stand', and the Book of Mormon supplies the consequence the saying withholds: they 'began to slay one another with the sword'. Read with 10:1, the chapter is framed by two divisions — John 7:43's division over a prophet's words at the beginning, and the Synoptic kingdom-divided at the end — and the second is what the first becomes when the words are refused."
+        },
+        "note": "'They were divided against themselves, and began to slay one another with the sword.' The idiom is the Gospels' and effectively only the Gospels', though the Book of Mormon's reflexive plural matches no single verse. Recorded because the chapter's closing sentence is doing with the phrase what the Synoptic saying says it does — a divided house falls.",
+        "whyNot": "'Divided against' is available as plain English and the exact form here is in no KJV verse, so the link rests on a distribution rather than on a string. A reader could reasonably say the Book of Mormon simply describes a civil war.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ]
+  }
+}

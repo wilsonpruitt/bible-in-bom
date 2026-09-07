@@ -1,0 +1,72 @@
+[
+  {
+    "bomRef": "Helaman 1:1",
+    "source": "1 Chronicles 26:31",
+    "category": "formulaic",
+    "sharedText": "in the fortieth year of the reign of",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "An eight-word run and the highest-scoring candidate in the chapter, and it is pure dating formula. “fortieth year of the reign” occurs in exactly one KJV verse, which is why it ranked, but the rarity is arithmetic: the KJV dates by regnal year constantly and simply had occasion to write 'fortieth' once. 1 Chronicles 26:31 is a Levitical genealogy noting when the Hebronites were mustered; Helaman 1:1 opens a civil crisis. The Book of Mormon dates every chapter of Helaman this way (1:14, 2:1, 3:1, 3:18, 3:32, 3:37 and the rest), so the formula cannot be a borrowing from the one KJV verse that happens to share the numeral. This entry covers every 'in the Nth year of the reign of the judges' candidate in chapters 1-3; they are not listed individually."
+  },
+  {
+    "bomRef": "Helaman 1:9",
+    "source": "Matthew 27:3",
+    "category": "wrong-sense",
+    "sharedText": "saw that he was condemned",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "A five-word run, and the temptation is real, because both verses are about a man's death sentence producing a violent consequence. But the senses are opposed at every point that matters. In Matthew 27:3 the man who sees the condemnation is the betrayer, the condemned man is innocent, and the consequence is the betrayer's remorse and suicide. In Helaman 1:9 those who see the condemnation are the condemned man's own faction, the condemned man is guilty of armed rebellion, and the consequence is that they hire an assassin to murder the judge. Judas repents of a killing; Paanchi's party commissions one. Nothing else of Matthew 27 is present."
+  },
+  {
+    "bomRef": "Helaman 1:10",
+    "source": "Judges 3:26",
+    "category": "insufficient-verbal",
+    "sharedText": "(the assassin's escape)",
+    "streams": [
+      "manual"
+    ],
+    "reason": "Typology pulls hard here and the wording will not bear it — the Exodus 2:2 'goodly' case in 1 Nephi is the model for this kind of entry. Kishkumen gains private access to a ruler, kills him where he sits, and gets away because the pursuit is too slow; that is the Ehud narrative of Judges 3:15-26, down to the detail that the killer is not recognised (Helaman 1:12, 'he was in disguise'; Judges 3:19, 'I have a secret errand unto thee'). But Judges 3:26 reads 'And Ehud escaped while they tarried, and passed beyond the quarries, and escaped unto Seirath', and Helaman 1:10 reads 'so speedy was the flight of Kishkumen, that no man could overtake him'. There is not one shared distinctive word. “no man could” occurs in exactly four KJV verses and none of them is a pursuit. Recorded here so that a reader who sees the type is told the catalogue saw it too and declined to catalogue it as dependence."
+  },
+  {
+    "bomRef": "Helaman 1:15",
+    "source": "Luke 1:27",
+    "category": "formulaic",
+    "sharedText": "a man whose name was",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "“a man whose name was” occurs in exactly one KJV verse, which is why the machine ranked it, and it is still the bare KJV formula for introducing a named character. The catalogue filed the same candidate at Alma 43:35 and the same reason applies: nothing connects the annunciation to a Lamanite commander but the syntax of naming somebody."
+  },
+  {
+    "bomRef": "Helaman 1:21",
+    "source": "1 Kings 14:10",
+    "category": "wrong-sense",
+    "sharedText": "against the wall",
+    "streams": [
+      "manual"
+    ],
+    "reason": "The best entry in this chapter's register, and it has to be written out because a reader who finds it will otherwise assume we missed it. Pacumeni is the last of the three contending sons of Pahoran; he flees to the city wall and Coriantumr 'did smite him against the wall', which ends the house of Pahoran in a single clause. In the King James Bible 'against the wall' in a dynastic-extinction context is a fixed idiom — 'him that pisseth against the wall' — used at 1 Kings 14:10, 1 Kings 21:21, 2 Kings 9:8 and 1 Samuel 25:22 and 34 for the wholesale cutting off of the males of a condemned house. The coincidence of idiom and situation is striking and it is a coincidence: the KJV's phrase is a coarse periphrasis for a man, the object of its preposition is not a real wall anybody is killed against, and the Book of Mormon's wall is a literal city wall a man is struck into. “against the wall” occurs in exactly eight KJV verses; five are that idiom and the rest are Balaam's foot and Solomon's chambers."
+  },
+  {
+    "bomRef": "Helaman 1:22",
+    "source": "2 Chronicles 15:8",
+    "category": "insufficient-verbal",
+    "sharedText": "took courage",
+    "streams": [
+      "manual"
+    ],
+    "reason": "“took courage” occurs in exactly two KJV verses, 2 Chronicles 15:8 and Acts 28:15, and the Book of Mormon's clause is 'his heart took courage', which is neither. Both KJV verses are about a man encouraged by good news from God — Asa hearing Oded's prophecy, Paul seeing the brethren at Appii forum — and both are followed by an act of reform or thanksgiving. Coriantumr takes courage from having sacked a city and resolves to sack the rest of the land. Two rare words in an opposed setting, and no other contact with either verse."
+  },
+  {
+    "bomRef": "Helaman 1:27",
+    "source": "1 Samuel 6:19",
+    "category": "common-vocabulary",
+    "sharedText": "the people with a great slaughter",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "A six-word run, and “with a great slaughter” occurs in exactly eight KJV verses — Judges 11:33, 15:8, 1 Samuel 6:19, 14:30, 19:8, 23:5, 2 Chronicles 13:17 and 28:5. It is the King James Bible's standing formula for a decisive military defeat and the Book of Mormon uses it as such throughout the war chapters; a standing exclusion covers it at Mosiah 10. 1 Samuel 6:19 is in any case the wrong sort of slaughter: the LORD smiting Bethshemesh for looking into the ark, not an army destroying a city."
+  }
+]

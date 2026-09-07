@@ -1,0 +1,529 @@
+{
+  "chapter": 12,
+  "adjudicated": "2026-09-07",
+  "adjudicator": "Opus",
+  "links": {
+    "12:2": [
+      {
+        "source": "Deuteronomy 8:13",
+        "type": "allusion",
+        "subtype": "extended",
+        "confidence": "high",
+        "text": "And when thy herds and thy flocks multiply, and thy silver and thy gold is multiplied, and all that thou hast is multiplied;",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 1
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Deuteronomy 8:14",
+          "Deuteronomy 8:11",
+          "Deuteronomy 8:17"
+        ],
+        "recurrenceRefs": [
+          "Helaman 12:3",
+          "Helaman 12:5"
+        ],
+        "provenance": {
+          "route": "Deuteronomy 8:11-17 → KJV → Book of Mormon",
+          "other": "Three separate counts converge on one paragraph of Deuteronomy. “thy flocks multiply” occurs in exactly one KJV verse, Deuteronomy 8:13, which is also the KJV's inventory of prosperity — herds, flocks, silver, gold — and Helaman 12:2 has the same four in the same pairs ('their flocks, and their herds, and in gold, and in silver'). “thine heart be lifted up” occurs in exactly one KJV verse, Deuteronomy 8:14, and Helaman 12:5 has 'how quick to be lifted up in pride'. “forget the Lord thy God” occurs in exactly two KJV verses, Deuteronomy 8:14 and 8:19, and Helaman 12:2 has 'do forget the Lord their God'.",
+          "significance": "This is the passage the Book of Mormon's whole cyclical philosophy of history is built out of, and it is worth saying that it is one paragraph rather than a general biblical atmosphere. Deuteronomy 8:11-17 gives the sequence exactly as Helaman 12:2 gives it: eat and be full, build houses, multiply herds and flocks and silver and gold, and then — 'then thine heart be lifted up, and thou forget the LORD thy God'. Mormon's contribution is the word 'then' made explicit and temporal: 'yea, then is the time that they do harden their hearts'. Where Moses warns a people about a danger, Mormon reports it as a law that has already operated, which is what turns a paranesis into a theory of history. Deuteronomy 8:17's 'My power and the might of mine hand hath gotten me this wealth' is the sentence Helaman 12:2 replaces with 'their ease, and their exceeding great prosperity'."
+        },
+        "note": "'In the increase of their fields, their flocks, and their herds, and in gold, and in silver … yea, then is the time that they do harden their hearts, and do forget the Lord their God.' Deuteronomy 8:13-14 in order, with two KJV singletons inside it and the third element ('lifted up') three verses later at 12:5. Nothing else in the KJV runs prosperity → forgetting in this vocabulary.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      },
+      {
+        "source": "Matthew 7:6",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "Give not that which is holy unto the dogs, neither cast ye your pearls before swine, lest they trample them under their feet, and turn again and rend you.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "Matthew 7:6 → KJV → Book of Mormon",
+          "other": "“trample them under their feet” occurs in exactly one KJV verse, Matthew 7:6, and so does the shorter “under their feet”; the KJV's other three uses of 'trample' are 'under feet' (Psalm 91:13) and 'in my fury' (Isaiah 63:3). Helaman 12:2 reads 'trample under their feet the Holy One'. The object matters as much as the verb: the thing trampled in Matthew 7:6 is 'that which is holy', a phrase occurring in exactly two KJV verses.",
+          "significance": "Matthew 7:6 is about giving holy things to those who will not know what they are: pearls before swine, and holy things to dogs, who trample them and turn and rend the giver. Helaman 12:2 puts the Holy One himself in the place of the trampled holy thing, so that the people who have been given prosperity are the dogs of the saying. That reading is available only by recovering the source — nothing in Helaman 12 mentions dogs or swine — and it sharpens the preceding clause, since the list of gifts in 12:2 is precisely a list of holy things given to people who will not know what they are."
+        },
+        "note": "'They do trample under their feet the Holy One.' Five words from the KJV's only instance of the phrase, with the source verse's object ('that which is holy') converted into a person. The Book of Mormon uses 'trample under their feet' elsewhere; this is the Helaman occurrence and the argument is made here.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "12:3": [
+      {
+        "source": "Judges 2:18",
+        "type": "figural",
+        "subtype": "structural",
+        "confidence": "moderate",
+        "text": "And when the LORD raised them up judges, then the LORD was with the judge, and delivered them out of the hand of their enemies all the days of the judge: for it repented the LORD because of their groanings by reason of them that oppressed them and vexed them.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 2,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "uncertain",
+        "mediation": "direct-OT",
+        "composite": [
+          "Judges 2:14",
+          "Judges 2:19",
+          "Nehemiah 9:27"
+        ],
+        "recurrenceRefs": [
+          "Helaman 12:2"
+        ],
+        "provenance": {
+          "route": "Judges 2:14-19 → Book of Mormon (structure, with one phrase)",
+          "other": "“hands of their enemies” occurs in exactly one KJV verse, Judges 2:14; the singular “out of the hand of their enemies” occurs in exactly two, Judges 2:18 and Nehemiah 9:27, both of them statements of the deliverance cycle. Helaman 12:2 has 'delivering them out of the hands of their enemies', which is Judges 2:18's clause with Judges 2:14's plural noun.",
+          "significance": "Judges 2:14-19 is the Old Testament's one explicit statement that the cycle repeats: God sells them into the hands of their enemies, raises a judge, delivers them out of the hand of their enemies, and 'when the judge was dead … they returned, and corrupted themselves more than their fathers'. Helaman 12:1-3 states the same law in the same order and adds the theological conclusion Judges leaves implicit — that the affliction is not merely punitive but is the only instrument that works: 'except the Lord doth chasten his people with many afflictions … they will not remember him.' Note the setting: Helaman's own chapters are dated by the reign of the judges, and the chapter that states the Judges cycle is the summary of a book of Nephite judges. Whether that is design or coincidence, it is the right frame in which to read the borrowing."
+        },
+        "note": "Filed as figural because the argument is the shape rather than the wording — one clause of Judges 2:18 appears at 12:2 and nothing else is reproduced. What is being borrowed is the deliverance-and-relapse cycle as an explicit doctrine, which the KJV states outright in exactly one passage, and which Helaman 12 states as its thesis.",
+        "whyNot": "The prosperity-and-forgetting law is already fully supplied by Deuteronomy 8:11-17, catalogued at 12:2 on much stronger verbal grounds, and a reader could reasonably hold that Judges 2 adds nothing the Deuteronomy passage has not already given.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "12:6": [
+      {
+        "source": "Proverbs 1:25",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "text": "But ye have set at nought all my counsel, and would none of my reproof:",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Proverbs 1:30",
+          "Proverbs 1:24"
+        ],
+        "recurrenceRefs": [
+          "Helaman 12:5"
+        ],
+        "provenance": {
+          "route": "Proverbs 1:24-30 → KJV → Book of Mormon",
+          "other": "“set at nought” occurs in exactly five KJV verses (Proverbs 1:25; Mark 9:12; Acts 4:11, 19:27; Romans 14:10), and Proverbs 1:25 is the only one of the five whose object is counsel — 'ye have set at nought all my counsel, and would none of my reproof'. Helaman 12:6 reads 'they do set at nought his counsels'. Proverbs 1:30 restates it: 'They would none of my counsel: they despised all my reproof.'",
+          "significance": "Read with the verse before it, the borrowing is larger than the phrase. Helaman 12:5 ends 'how slow to walk in wisdom's paths', and Proverbs 1-4 is the KJV's one sustained personification of Wisdom as a speaker with paths ('her ways are ways of pleasantness, and all her paths are peace', 3:17). Helaman 12:5-6 therefore has Wisdom's paths and Wisdom's complaint in consecutive verses, and turns her first-person rebuke into a third-person description of the same refusal. The Book of Mormon's addition — 'they will not that he should be their guide' — is what Proverbs 1:33 promises to those who do listen."
+        },
+        "note": "'They do set at nought his counsels, and they will not that he should be their guide.' The idiom is available from four New Testament verses as well, but only Proverbs 1:25 attaches it to counsel, and only Proverbs supplies the wisdom's-paths image standing in the previous verse. Moderate rather than high because 'set at nought' was ordinary English and the plural 'counsels' is the Book of Mormon's own.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "12:8": [
+      {
+        "source": "Hebrews 4:12",
+        "type": "echo",
+        "subtype": "probable",
+        "confidence": "moderate",
+        "text": "For the word of God is quick, and powerful, and sharper than any twoedged sword, piercing even to the dividing asunder of soul and spirit, and of the joints and marrow, and is a discerner of the thoughts and intents of the heart.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 2,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "Hebrews 4:12 → KJV → Book of Mormon",
+          "other": "“dividing asunder” occurs in exactly one KJV verse, Hebrews 4:12. 'Asunder' by itself occurs in twenty-one, always with a different verb — break, cleave, part, cut, divide it asunder — and never in this nominal form. Helaman 12:8 reads 'the dust of the earth moveth hither and thither, to the dividing asunder, at the command of our great and everlasting God'.",
+          "significance": "The KJV's one 'dividing asunder' is what the word of God does — 'For the word of God is quick, and powerful, and sharper than any twoedged sword, piercing even to the dividing asunder of soul and spirit' — and Helaman 12:8 is the opening term of a passage about nothing but that: 'at his voice doth the hills and the mountains tremble' (12:9), 'by the power of his voice' three times over (12:10-12), 'if he saith unto the earth, Move, and it is moved' (12:13). So the borrowed phrase names the faculty the following ten verses illustrate, and it does so at the exact hinge where the sermon turns from human nothingness to divine speech. Hebrews 4:12's other half — 'a discerner of the thoughts and intents of the heart' — is the subject of everything Helaman 12 has said up to this point."
+        },
+        "note": "Two words, but they are the KJV's only instance of them, and they sit at the head of a fourteen-verse meditation on the power of God's voice — which is what Hebrews 4:12 attributes them to. Filed as echo because no clause is reproduced and the syntax has been changed past recovery: Hebrews's phrase is a genitive of what the word divides, Helaman's is an adverbial of result.",
+        "whyNot": "'Divide asunder' is common enough English that the participle could be independent, and Helaman's phrase is doing a different grammatical job. If the contact is accidental the verse loses nothing, since its argument stands on its own.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "12:9": [
+      {
+        "source": "Nahum 1:5",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "The mountains quake at him, and the hills melt, and the earth is burned at his presence, yea, the world, and all that dwell therein.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "recurrenceRefs": [
+          "Helaman 12:11",
+          "Helaman 12:12"
+        ],
+        "provenance": {
+          "route": "Nahum 1:5 → KJV → Book of Mormon",
+          "other": "“the mountains quake” occurs in exactly one KJV verse and “the hills melt” occurs in exactly one KJV verse, and it is the same verse, Nahum 1:5 — the KJV's only line pairing quaking mountains with hills. Helaman 12:9 reads 'at his voice doth the hills and the mountains tremble and quake'. Nahum 1:5 continues 'and the earth is burned at his presence, yea, the world, and all that dwell therein', against Helaman 12:11's 'by the power of his voice, doth the whole earth shake'.",
+          "significance": "Nahum 1:2-6 is the KJV's most compressed theophany, and its rhetorical question is 'Who can stand before his indignation?' — which is the question Helaman 12:7-8 has just answered from the other end, with man 'less than the dust of the earth'. What Helaman adds is the mechanism: Nahum's mountains quake 'at him', Helaman's quake 'at his voice', and the next three verses insist on it — 'by the power of his voice' — so that a theophany of presence has been rewritten as a theophany of speech. That is the same move the Hebrews 4:12 echo makes one verse earlier and the same one Matthew 21:21 supplies at 12:17."
+        },
+        "note": "'At his voice doth the hills and the mountains tremble and quake.' Both of the KJV's relevant singletons are in Nahum 1:5, and the Book of Mormon has both nouns and the verb. The substitution of 'tremble' for 'melt' is what lets the sentence keep both mountains and hills in one predicate where Nahum splits them.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "12:10": [
+      {
+        "source": "Luke 3:5",
+        "type": "echo",
+        "subtype": "probable",
+        "confidence": "moderate",
+        "text": "Every valley shall be filled, and every mountain and hill shall be brought low; and the crooked shall be made straight, and the rough ways shall be made smooth;",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 4,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "OT-via-NT",
+        "composite": [
+          "Isaiah 40:4"
+        ],
+        "recurrenceRefs": [
+          "Helaman 10:9",
+          "1 Nephi 17:46"
+        ],
+        "provenance": {
+          "route": "Isaiah 40:4 via Luke 3:5 → KJV → Book of Mormon",
+          "other": "“made smooth” occurs in exactly one KJV verse, Luke 3:5, which is Luke's rendering of Isaiah 40:4; Isaiah's own KJV wording is 'the rough places plain', and 'smooth' is nowhere in Isaiah 40. Helaman 12:10 reads 'they are broken up and become smooth, yea, even like unto a valley', and Luke 3:5 is also the verse that supplies the valley: 'Every valley shall be filled, and every mountain and hill shall be brought low'.",
+          "significance": "This is the third appearance of the Lukan 'smooth' in the catalogue and the pattern is now visible. 1 Nephi 17:46 has 'rough places be made smooth, and smooth places shall be broken up'; Helaman 10:9 has a mountain told to 'be thou cast down and become smooth'; Helaman 12:10 has both of 1 Nephi 17:46's verbs together — 'broken up and become smooth'. Each time the levelling is an assertion of divine power over terrain rather than a prophecy of a road for the Lord, which is what it is in Isaiah and in Luke. The Book of Mormon has taken the Baptist's prophecy and used it as evidence in a natural-theology argument, and it has taken it in the New Testament's word and not the Old Testament's.",
+          "mt": "Isaiah 40:4 — 'and the rough places plain', against Luke 3:5's 'the rough ways shall be made smooth'."
+        },
+        "note": "'By the power of his voice, they are broken up and become smooth, yea, even like unto a valley.' The mediation datum is one word and it is decisive on rarity: the KJV's only 'made smooth' is Luke's, not Isaiah's. Written as a fresh row rather than a bare recurrence because the pairing with 'broken up' is new here and reproduces 1 Nephi 17:46's pair exactly, across a book boundary (ADJUDICATING §4).",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "12:15": [
+      {
+        "source": "Joshua 10:13",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "And the sun stood still, and the moon stayed, until the people had avenged themselves upon their enemies. Is not this written in the book of Jasher? So the sun stood still in the midst of heaven, and hasted not to go down about a whole day.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 4
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Joshua 10:12",
+          "Joshua 10:14",
+          "2 Kings 20:11",
+          "Isaiah 38:8"
+        ],
+        "recurrenceRefs": [
+          "Helaman 12:14"
+        ],
+        "provenance": {
+          "route": "Joshua 10:12-14 (the standing still) + 2 Kings 20:11 / Isaiah 38:8 (the going back) → KJV → Book of Mormon",
+          "other": "“the sun stood still” occurs in exactly one KJV verse, Joshua 10:13, where it occurs twice. Joshua 10:13 also has 'hasted not to go down about a whole day', against Helaman 12:14's 'that it lengthen out the day for many hours'. The other element is not Joshua's: the sun or its shadow going BACK is the sign given to Hezekiah, where the LORD 'brought the shadow ten degrees backward' (2 Kings 20:11) and 'the sun returned ten degrees' (Isaiah 38:8). Helaman 12:14-15 has both — 'Thou shalt go back' from Hezekiah's sign, 'the sun standeth still' from Joshua's.",
+          "significance": "The two miracles are welded together and then explained, which is the striking thing here. Helaman 12:15 does not merely report the sign; it offers a cosmology to account for it — 'it appeareth unto man that the sun standeth still; yea, and behold, this is so: for sure it is the earth that moveth, and not the sun.' The verse takes the KJV's two solar miracles, keeps their words, and reassigns their mechanism from the sun to the earth, so that Joshua's language is preserved as a report of appearances while the physics behind it is corrected. That is a use of scripture the catalogue has not met before: the borrowing is quoted in order to be glossed as phenomenological. Hardy's apparatus cross-references Joshua 10:12-14 at this verse.",
+          "alternative": "2 Kings 20:11 / Isaiah 38:8 alone, if the 'go back' of 12:14 is weighted above the 'standeth still' of 12:15. Both are present and the row treats them as a composite."
+        },
+        "note": "'And thus according to his word, the earth goeth back, and it appeareth unto man that the sun standeth still.' The KJV's one 'the sun stood still' is Joshua 10:13, and the lengthened day comes with it; the going back is Hezekiah's sign from a different book. Hardy's cross-reference at this verse points to Joshua 10:12-14 and is the reason this row is not `citationsPending`.",
+        "bibliography": [
+          "Hardy MSI at Hel 12.15 (cross-reference to Joshua 10:12-14)"
+        ],
+        "status": "majority",
+        "streams": [
+          "scholarship",
+          "manual"
+        ]
+      }
+    ],
+    "12:16": [
+      {
+        "source": "Isaiah 51:10",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "Art thou not it which hath dried the sea, the waters of the great deep; that hath made the depths of the sea a way for the ransomed to pass over?",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Genesis 7:11"
+        ],
+        "provenance": {
+          "route": "Isaiah 51:10 → KJV → Book of Mormon",
+          "other": "“waters of the great deep” occurs in exactly one KJV verse, Isaiah 51:10 — 'Art thou not it which hath dried the sea, the waters of the great deep' — and that verse also supplies the Book of Mormon's verb. 'The great deep' without 'waters' occurs in exactly three (Genesis 7:11, Isaiah 51:10, Amos 7:4), and only Isaiah's is dried up. Helaman 12:16 reads 'if he saith unto the waters of the great deep, Be thou dried up, and it is done'.",
+          "significance": "Isaiah 51:9-10 addresses the arm of the LORD and asks it to wake as in the days of Rahab and the dragon, and the drying of the sea it names is the Red Sea — 'that hath made the depths of the sea a way for the ransomed to pass over'. Helaman 12:16 keeps the phrase and drops the deliverance: the drying is offered as a specimen of power, with no Israel walking through it. Every one of the marvels in 12:13-17 has been stripped this way — Joshua's long day with no battle, Hezekiah's sign with no illness, the Exodus sea with no crossing — because the argument of the sermon is about the nothingness of man and not about salvation history. That systematic stripping is the finding, and it is only visible once the sources are identified."
+        },
+        "note": "Five words from the KJV's only instance of the phrase, with that verse's own verb ('dried') attached. The machine ranked Isaiah 51:10 first here, which it earned.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "12:17": [
+      {
+        "source": "Matthew 21:21",
+        "type": "echo",
+        "subtype": "probable",
+        "confidence": "moderate",
+        "text": "Jesus answered and said unto them, Verily I say unto you, If ye have faith, and doubt not, ye shall not only do this which is done to the fig tree, but also if ye shall say unto this mountain, Be thou removed, and be thou cast into the sea; it shall be done.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 4,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Hosea 10:8",
+          "Luke 23:30",
+          "Revelation 6:16"
+        ],
+        "recurrenceRefs": [
+          "Helaman 10:8",
+          "Helaman 10:9"
+        ],
+        "provenance": {
+          "route": "Matthew 21:21 (frame, via Helaman 10:9) + Hosea 10:8 / Luke 23:30 (the falling) → KJV → Book of Mormon",
+          "other": "The frame 'if he saith unto this mountain, Be thou … and behold it is done' is Helaman 10:9's, which is Matthew 21:21's; “if ye shall say unto this mountain” occurs in exactly one KJV verse. What is new here is the mountain's errand. Matthew's mountain is 'removed' and 'cast into the sea'; Helaman's is 'raised up, and come over and fall upon that city, that it be buried up'. Mountains falling on people is a separate biblical topos — Hosea 10:8's 'they shall say to the mountains, Cover us; and to the hills, Fall on us', quoted by Jesus at Luke 23:30 and by the kings of the earth at Revelation 6:16.",
+          "significance": "The two sources are made to change places, and that is the point of the row. In Hosea, Luke and Revelation it is the guilty who beg the mountains to fall on them, as a mercy hiding them from the face of him that sitteth on the throne; here God commands the mountain to fall on the city as judgment. And the frame that carries it is the faith-saying, in which a mountain is moved by a believer's word. So a promise about faith and a plea for annihilation have been fused into a sentence about God burying a city — which 3 Nephi 8-9 will report happening.",
+          "alternative": "A simple recurrence of the Helaman 10:9 formula, with no second source. The 'fall upon that city' clause is what argues against reading it that way."
+        },
+        "note": "Written as a link rather than left to `recurrenceRefs` because the second half of the sentence is not a repetition of anything in chapter 10. The mountain-formula returns, but its object has been changed from the sea to a city, and the changed object has its own biblical background. Moderate: no clause of Hosea, Luke or Revelation is reproduced, and the argument for their presence is the topos rather than the words.",
+        "whyNot": "Helaman 10:9 has already established the mountain formula as this narrator's own, and ADJUDICATING §4's default is that a phrase re-used within a book is the writer using his formula. Only the falling-on-a-city clause resists that reading.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "12:18": [
+      {
+        "source": "Joshua 7:21",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "When I saw among the spoils a goodly Babylonish garment, and two hundred shekels of silver, and a wedge of gold of fifty shekels weight, then I coveted them, and took them; and, behold, they are hid in the earth in the midst of my tent, and the silver under it.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Joshua 6:18",
+          "Joshua 7:12",
+          "Joshua 7:13"
+        ],
+        "recurrenceRefs": [
+          "Helaman 12:19"
+        ],
+        "provenance": {
+          "route": "Joshua 6:18 + 7:12-21 → KJV → Book of Mormon",
+          "other": "“hid in the earth” occurs in exactly one KJV verse, Joshua 7:21 — Achan's confession that the Babylonish garment, the silver and the wedge of gold 'are hid in the earth in the midst of my tent'. Helaman 12:18 reads 'if a man hideth up a treasure in the earth'. The other term of the sentence comes from the same episode: Joshua 6:18 warns 'keep yourselves from the accursed thing, lest ye make yourselves accursed, when ye take of the accursed thing, and make the camp of Israel a curse', and Joshua 7:12-13 twice repeats that Israel cannot stand 'because ye were accursed'.",
+          "significance": "Every element of Helaman 12:18-19 is in Joshua 7 and only there: valuables buried in the earth, a curse attaching to them because of the iniquity of the man who buried them, and the curse falling on the man rather than on the goods. What the Book of Mormon changes is the outcome. Achan's treasure is dug up, displayed before the LORD, and destroyed with him; Helaman 12:19 says the opposite — 'no man shall find thee from this time henceforth and forever, and behold, no man getteth it henceforth and forever'. The buried thing is not recovered, and the curse is a permanent concealment rather than an exposure. That inversion is what makes this passage the Book of Mormon's aetiology for the 'slippery treasures' of Mormon 1:18 and Helaman 13:31-36, and it is a reading of Achan's story turned inside out."
+        },
+        "note": "'If a man hideth up a treasure in the earth, and the Lord shall say, Let it be accursed, because of the iniquity of him that hath hid it up, behold, it shall be accursed.' The KJV's one 'hid in the earth' is Achan's, and the accursed thing is Achan's chapter. The machine offered Ezekiel 9:9 and Luke 12:33 here; neither has a curse or buried spoil.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "12:21": [
+      {
+        "source": "Leviticus 22:3",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "text": "Say unto them, Whosoever he be of all your seed among your generations, that goeth unto the holy things, which the children of Israel hallow unto the LORD, having his uncleanness upon him, that soul shall be cut off from my presence: I am the LORD.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 2,
+          "context": 3,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "OT-via-earlier-BoM",
+        "recurrenceRefs": [
+          "2 Nephi 1:20",
+          "2 Nephi 4:4"
+        ],
+        "provenance": {
+          "route": "Leviticus 22:3 → KJV → 2 Nephi 1:20 → Helaman 12:21",
+          "other": "“cut off from my presence” occurs in exactly one KJV verse, Leviticus 22:3, where the priest who approaches the holy things in uncleanness is cut off. Within the Book of Mormon the phrase is Lehi's covenant formula, adjudicated at 2 Nephi 1:20 and 4:4, and it recurs in the third person ('cut off from the presence of the Lord') at 1 Nephi 2:21, 2 Nephi 5:20 and 9:6 and in Alma. Helaman 12:21 is its only occurrence in Helaman.",
+          "significance": "The mediation call is the point of this row. Helaman 12:21 is not reaching past six hundred years of its own text to Leviticus; it is quoting the promise the Book of Mormon's own first prophet gave his sons — 'inasmuch as ye will not keep my commandments ye shall be cut off from my presence' — and applying it to any man whatever, at the close of a sermon on the human race. The clause's KJV origin is real and is recorded at 2 Nephi 1:20; what Helaman adds is the generalization, which is why the row is worth writing rather than leaving to a cross-reference. Note also what the generalization costs: in Leviticus and in 2 Nephi the cutting off is conditional on a covenant, and here it is stated of 'a man', with 'because of thine iniquities' as the whole of the condition."
+        },
+        "note": "'If the Lord shall say, Because of thine iniquities, thou shalt be cut off from my presence.' The phrase is a KJV singleton but its proximate model is Lehi's, not Leviticus's, and the mediation field says so. Adjudicated as a link rather than as a bare recurrence because a reader of Helaman meets it here for the first time in this book (ADJUDICATING §4).",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "12:24": [
+      {
+        "source": "John 1:16",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "And of his fulness have all we received, and grace for grace.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 3
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "John 1:16 → KJV → Book of Mormon",
+          "other": "Both distinctive phrases of Helaman 12:24 are KJV singletons and both are in one verse. “grace for grace” occurs in exactly one KJV verse, John 1:16, and “his fulness” occurs in exactly one KJV verse, the same one: 'And of his fulness have all we received, and grace for grace.' Helaman 12:24 reads 'may God grant, in his great fulness, that men might be brought unto repentance and good works, that they might be restored unto grace, for grace according to their works'.",
+          "alternative": "None. Nothing else in the KJV supplies either phrase.",
+          "significance": "The prepositions have been changed and they carry the argument. In John, 'of his fulness have all we received' — the fulness is the source out of which grace comes, and 'grace for grace' is grace succeeding grace, without measure or condition. Helaman 12:24 makes the fulness a manner ('in his great fulness') and attaches to the borrowed phrase a clause John does not have and would not accept: 'according to their works'. So the sentence takes the New Testament's least conditional statement about grace and conditions it, in a chapter whose closing quotation (12:26, from John 5:29) is likewise about what men have done. Whether that is a misreading of John or a deliberate correction of him is the question the row leaves open; what is not in doubt is that the two verses are the Fourth Gospel's."
+        },
+        "note": "Two KJV singletons from one verse, in the same order they occur in it. Frederick 2016 treats Helaman 12:24 in the same stretch of argument as John 1:1, 1:14, 1:16 and 1:17 (co-occurrence, per data/frederick-refs.json). That is a fact about where his discussion falls, not an attribution of this identification to him: his book is an argument about the presence of the Gospel of John in Latter-day Saint scripture and carries no list of proposed sources (CONVENTIONS §3a).",
+        "bibliography": [
+          "Frederick 2016: Helaman 12:24 discussed in proximity to John 1:16"
+        ],
+        "status": "majority",
+        "streams": [
+          "scholarship",
+          "manual"
+        ]
+      }
+    ],
+    "12:26": [
+      {
+        "source": "John 5:29",
+        "type": "quotation",
+        "subtype": "explicit",
+        "confidence": "high",
+        "text": "And shall come forth; they that have done good, unto the resurrection of life; and they that have done evil, unto the resurrection of damnation.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 4
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Daniel 12:2",
+          "2 Thessalonians 1:9"
+        ],
+        "provenance": {
+          "route": "John 5:29, with Daniel 12:2's adjective → KJV → Book of Mormon",
+          "other": "The frame is John's: 'they that have done good … and they that have done evil' is eleven consecutive words of John 5:29, and the Book of Mormon marks it as a quotation ('fulfilling the words which saith'). The predicate is not John's. John reads 'unto the resurrection of life' and 'unto the resurrection of damnation'; Helaman reads 'shall have everlasting life' and 'shall have everlasting damnation'. 'Everlasting life' is Daniel 12:2's phrase in the verse John 5:29 is built on — 'many of them that sleep in the dust of the earth shall awake, some to everlasting life, and some to shame and everlasting contempt' — and “everlasting damnation” occurs in exactly zero KJV verses. The Book of Mormon has coined it by putting Daniel's adjective on John's noun.",
+          "alternative": "Daniel 12:2 alone. mediation-check.py returns divergences pointing both ways, which is correct and not a failure: the syntax is decisively John's and the adjective is decisively Daniel's, so the verse is a composite and the note says so rather than choosing.",
+          "significance": "Mormon is quoting, and what he quotes does not exist. The formula 'fulfilling the words which saith' presents this as a citation of scripture, and the sentence cited is a conflation of a verse of John with a word from Daniel that produces a phrase — 'everlasting damnation' — the King James Bible never prints. Two things follow. First, this is a clean instance of the corpus's characteristic mode: not transcription but recomposition inside the KJV's own vocabulary. Second, the conflation is not arbitrary, since Daniel 12:2 is the passage John 5:28-29 is itself reworking; the Book of Mormon has, in effect, restored to John's sentence the adjective John's source used, which is either a very good ear or a very good accident. Hardy's apparatus cross-references John 5:29 here.",
+          "mt": "Daniel 12:2 — 'some to everlasting life, and some to shame and everlasting contempt.'"
+        },
+        "note": "'Fulfilling the words which saith, They that have done good, shall have everlasting life; and they that have done evil, shall have everlasting damnation.' Eleven words of John 5:29 under an explicit citation formula, with John's 'resurrection of' replaced twice by Daniel 12:2's 'everlasting'. Below Skousen's sixteen-word threshold and so not among his 36. The closing 'cast off from the presence of the Lord' at 12:25 is the KJV's judgment idiom from 2 Thessalonians 1:9, where it stands beside 'everlasting destruction'.",
+        "bibliography": [
+          "Hardy MSI at Hel 12.26 (cross-reference to John 5:29)"
+        ],
+        "status": "majority",
+        "streams": [
+          "machine-ngram",
+          "scholarship",
+          "manual"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+[
+  {
+    "bomRef": "Helaman 15:4",
+    "source": "Lamentations 4:6",
+    "category": "formulaic",
+    "sharedText": "the iniquity of the",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "The standing exclusion for this chapter. Lamentations 4:6 scores on 'of the iniquity of the' and shares no content word with 15:4's 'the iniquity of the tradition of their fathers'; the same applies to 15:6 (Leviticus 17:5, 'that they may bring'), 15:7 (1 John 3:19 and Revelation 22:6, 'of the truth and' and 'of the holy prophets'), 15:9 (Acts 27:12, 'by any means they'), 15:11 (John 16:4 and 1 Kings 16:7, 'the time shall come' and 'and also by the'), 15:12 (Leviticus 16:29, 'unto you that in the') and 15:17 (Judges 2:18 and 1 Samuel 29:6, 'the Lord because of their' and 'as the Lord liveth'). All are the connective boilerplate covered by the standing exclusion at 1 Nephi 1:5."
+  },
+  {
+    "bomRef": "Helaman 15:2",
+    "source": "Luke 21:24",
+    "category": "better-source-identified",
+    "sharedText": "trodden down",
+    "streams": [
+      "manual"
+    ],
+    "reason": "A tempting tie-breaker that will not hold. Helaman 15:2's woe on those with child is verbally identical in Matthew 24:19, Mark 13:17 and Luke 21:23, so a reader looking for a way to choose between the three will notice that Luke alone continues, one verse later, with 'Jerusalem shall be trodden down of the Gentiles' — and that Helaman 15:2 ends 'therefore they shall be trodden down, and shall be left to perish'. It does not decide anything: 'trodden down' occurs in ten KJV verses, seven of them Isaiah's, and the Book of Mormon uses it again seven verses later at 15:9 of the Lamanites lying down before their enemies, where no Olivet context is in view. The link is at Matthew 24:19, on the sequence argument from 15:1, and this row records why the apparently decisive detail was not allowed to overturn it."
+  },
+  {
+    "bomRef": "Helaman 15:9",
+    "source": "Isaiah 2:4",
+    "category": "insufficient-verbal",
+    "sharedText": "will not lift their swords",
+    "streams": [
+      "manual"
+    ],
+    "reason": "The verse a reader will expect, and it is not being quoted. 'They have buried their weapons of war … and will not lift their swords against them' looks like Isaiah 2:4's 'nation shall not lift up sword against nation' (and Micah 4:3's), but the Book of Mormon's own narrative supplies everything here: the burial of the weapons is Alma 24:17-19, told at length, and Samuel is reminding a Nephite audience of an event in their own recent history rather than of a prophecy. The machine's proposal, Ezekiel 32:27 ('their weapons of war'), is the phrase but not the act — Ezekiel's fallen mighty go down to the grave WITH their weapons under their heads, which is the opposite gesture. Filed because the Isaiah expectation is strong and the passage is one of the Book of Mormon's most famous, and because getting it wrong would put a swords-into-ploughshares reading on a text that is about martyrdom."
+  },
+  {
+    "bomRef": "Helaman 15:16",
+    "source": "1 Samuel 15:9",
+    "category": "wrong-sense",
+    "sharedText": "not utterly destroy them",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "A five-word run and the sense is opposed. In 1 Samuel 15:9 Saul and the people 'would not utterly destroy' the best of the Amalekite livestock — a disobedience for which Saul loses the kingdom in the same chapter. Helaman 15:16's 'I will not utterly destroy them' is God announcing mercy on his own initiative. The verb phrase is shared and the theology is inverted. 2 Chronicles 12:7 is the more interesting near miss and is filed separately."
+  },
+  {
+    "bomRef": "Helaman 15:16",
+    "source": "2 Chronicles 12:7",
+    "category": "better-source-identified",
+    "sharedText": "I will not destroy them but I will",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "The closest thing in the KJV to Helaman 15:16's structure, and it loses on one adverb. 2 Chronicles 12:7 — 'They have humbled themselves; therefore I will not destroy them, but I will grant them some deliverance' — has the withheld destruction, the adversative 'but I will', and a mercy granted on account of repentance, which is the whole shape of the Book of Mormon verse. What it does not have is 'utterly', and 'I will not utterly destroy' occurs in exactly one KJV verse, Amos 9:8. Amos also supplies what Chronicles cannot: a remnant preserved through a sifting among all nations (9:9), which is what 'in the day of my wisdom, they shall return again unto me' describes and what Chronicles' short reprieve from Shishak does not. Filed at length because the two candidates are genuinely close and the rarer phrase is what settles it."
+  },
+  {
+    "bomRef": "Helaman 15:17",
+    "source": "Jeremiah 25:9",
+    "category": "formulaic",
+    "sharedText": "I will utterly destroy them",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "'Utterly destroy' occurs in twelve KJV verses and the first-person future form is spread across Numbers 21:2, Jeremiah 25:9 and Jeremiah 50:21 without any one of them being distinctive. The stream returns Jeremiah 25:9 and Numbers 21:2 here on four-word runs. 15:17's borrowing is not the threat but its counterpart in the preceding verse: Amos 9:8 is the KJV's one sentence holding both verdicts together, and the link is at 15:16."
+  }
+]

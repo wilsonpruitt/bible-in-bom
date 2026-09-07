@@ -1,0 +1,52 @@
+[
+  {
+    "bomRef": "Helaman 2:1",
+    "source": "John 7:12",
+    "category": "formulaic",
+    "sharedText": "among the people concerning",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "A four-word run of connective tissue. John 7:12 is 'much murmuring among the people concerning him' at the feast of tabernacles; Helaman 2:1 is 'a contention again among the people concerning who should fill the judgement seat'. The shared string is a prepositional phrase with no content, and the Book of Mormon uses 'among the people concerning' whenever a dispute has a subject."
+  },
+  {
+    "bomRef": "Helaman 2:3",
+    "source": "Jeremiah 34:10",
+    "category": "common-vocabulary",
+    "sharedText": "which had entered into",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "A four-word run whose next word decides against it, which is the trap ADJUDICATING §4 names. Jeremiah 34:10's covenant is the manumission of Hebrew slaves, entered into by princes and people before the LORD and then broken; Helaman 2:3's covenant is a conspiracy of silence over a murder. Both are 'covenants entered into' because that is the King James Bible's ordinary verb for the act. Nothing else of Jeremiah 34 is present, and the real source of this verse's language is Proverbs 1:10-19, catalogued at the link."
+  },
+  {
+    "bomRef": "Helaman 2:5",
+    "source": "Daniel 11:21",
+    "category": "better-source-identified",
+    "sharedText": "flattery in exchange for the seat",
+    "streams": [
+      "manual"
+    ],
+    "reason": "Not a rejection: the link is real and it is adjudicated at Helaman 1:7, where Paanchi is the first man in the book to flatter a faction into installing him. Gadianton's version here is the fuller parallel — Daniel 11:21's man obtains a kingdom he was not given the honour of, and Gadianton bargains for a judgement seat he has no claim to, promising his band 'power and authority among the people' as Daniel 11:39's figure 'shall cause them to rule over many, and shall divide the land for gain'. Recorded here under CONVENTIONS §4's rule that a narrator's second use of his own formula is not a fresh borrowing, and under the ruling of 2026-09-07 that a verse whose strongest phrase is adjudicated elsewhere gets a pointer rather than silence."
+  },
+  {
+    "bomRef": "Helaman 2:9",
+    "source": "Judges 5:27",
+    "category": "wrong-sense",
+    "sharedText": "fell down dead",
+    "streams": [
+      "manual"
+    ],
+    "reason": "“fell down dead” occurs in exactly one KJV verse and it is Sisera at Jael's feet in Deborah's song, which makes it a tempting singleton for 'that he fell dead without a groan'. It should not be taken. Judges 5:27 is poetry and its whole effect is repetition and delay — 'he bowed, he fell, he lay down: at her feet he bowed, he fell' — three lines to say what Helaman 2:9 says in four words, and the death is a tent-peg through the temples of a sleeping man, not a stab to the heart of a walking one. The Book of Mormon's clause is also not the KJV's: it has 'fell dead', without the adverb that makes the singleton. The assassination this verse is built on is Joab's, catalogued at the link."
+  },
+  {
+    "bomRef": "Helaman 2:13",
+    "source": "Matthew 13:40",
+    "category": "wrong-sense",
+    "sharedText": "in the end of this",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "A five-word run and an instructive near miss. Matthew 13:40's phrase is 'in the end of this world' — the eschatological harvest, tares gathered and burned. Helaman 2:13's is 'in the end of this book', and verse 14 exists specifically to stop the reader taking it any larger: 'Behold I do not mean the end of the Book of Helaman, but I mean the end of the Book of Nephi.' The Book of Mormon is making a bibliographic cross-reference and the KJV verse is describing the last judgment. That said, the two are not wholly unrelated in effect — what Mormon promises at the end of his book is 'the overthrow, yea, almost the entire destruction of the people of Nephi' — and the entry is written at length because a reader may fairly want the resonance noted even though the dependence will not stand."
+  }
+]
