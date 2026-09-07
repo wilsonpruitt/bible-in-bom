@@ -51,7 +51,7 @@ type Link = {
 };
 ```
 Plus two sidecar files the site renders but the reader rarely opens:
-- `data/exclusions.json` — the exclusion register: every tempting parallel rejected, with the reason. This is what makes "definitive" defensible.
+- `data/exclusions.json` — the exclusion register: every tempting parallel rejected, with the reason, **plus cross-references from a verse to another verse where its borrowing is actually adjudicated** (RULED 2026-09-07, after Mosiah 11:14/11:19 used it that way first). A verse whose strongest phrase is adjudicated elsewhere in the book gets a `better-source-identified` row here rather than silence — this is what makes "definitive" defensible for readers browsing verse by verse, not only for the register's own completeness.
 - `data/kjv-phrases.json` — the Index Verborum: phrase → BoM occurrences → KJV backgrounds ("natural man", "steadfast and immovable", "works of righteousness").
 
 Rule carried over from Catena and stated on the site: **the machine finds candidates; it never decides.** Every record has a human adjudication note.
@@ -234,6 +234,14 @@ Steps 1–3 and 6 are pattern-following build work (Sonnet). Steps 4–5 are aut
 - Whether to email the colleague for the 96-record export.
 - ~~Confirm 1830-as-running-text~~ — RULED 2026-09-05: 1830, done (§2).
 - **NEW: OpenScripture licensing.** Email BYU-ODH for a permission statement, or plan to cross-verify the published 1830 running text against Wikisource before the site goes live. Not blocking further build work — only blocking publication.
+- ~~Mosiah 29:2 vs. 7:9~~ — RULED 2026-09-07: kept as its own link. A phrase can return to its source, not just recur as formula; codified in ADJUDICATING.md §4.
+- ~~Exclusion register scope~~ — RULED 2026-09-07: the register also carries `better-source-identified` cross-references between two accepted links, not rejections only. PLAN §3 updated.
+- ~~`variants` field~~ — RULED 2026-09-07: stays prose-only inside `provenance`/`note`. Not wired up structurally unless a future need (site rendering, cross-corpus query) actually requires it.
+
+## 10a. Pre-publication punch list
+Small, deferred items — none blocking Alma or any future book, all cheap to clear in one pass before the site goes live:
+- **1 Nephi 8:12, "exceeding great joy."** A KJV singleton (Matthew 2:10) used 11 times in the corpus; 1 Nephi predates the convention of catching this, so 8:12 itself has no link. Needs one small dispatch plus a `recurrenceRefs` update on the other 10 occurrences.
+- **Jonah 3:8, used three times in Mosiah** (9:17, 24:10 as full links; 21:14 as a route citation), each individually defended by a different agent but never reviewed together. Fold into the general first-book/cross-book consistency sweep this list implies doing before publication.
 
 ## 11. Progress log
 - **2026-09-05 (Sonnet):** Acquired and reconstructed all three Book of Mormon edition texts (1830/1920/current) and the full KJV, via BYU-ODH's OpenScripture word-alignment dataset and Project Gutenberg #10. Built the 1830-vs-1920/current variant register (18,836 rows). Caught and corrected a real error along the way: Gutenberg's BoM text (#17) is the current copyrighted LDS wording, not 1920 as originally assumed — documented in `text/SOURCES.md` so it isn't reintroduced.

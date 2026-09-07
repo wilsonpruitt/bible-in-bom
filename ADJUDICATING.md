@@ -165,6 +165,15 @@ The pilot's best rows share a shape. Aim for it, and do not manufacture it.
   rather than restating it. The exclusion form is for repeats a reader would
   meet twice in one sitting; the link form is for the same phrase re-entering
   in a different hand.
+
+  **A phrase can return to its source, not just recur.** *Ratified 2026-09-07
+  after Mosiah 29:2 raised it.* "Voice of the people" is adjudicated at Mosiah
+  7:9 (1 Samuel 8:7, Israel's demand for a king) and used again, within the
+  same book, at 29:2 — Mosiah's abolition of that same kingship. The default
+  above still governs a narrator reusing his own formula; it does not govern a
+  phrase's second use being the argument, because the passage it first
+  translated is the passage now being answered. Write the full link when that
+  is true, and say in the note why this use is not the formula recurring.
 - **Check the pronoun.** `hardness of THEIR hearts` is Mark 3:5 and `hardness of
   YOUR hearts` is Matthew 19:8, and 1 Nephi uses each in its correct grammatical
   setting. `mediation-check.py` deliberately ignores single common words to avoid
