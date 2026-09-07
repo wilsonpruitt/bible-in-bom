@@ -1,0 +1,58 @@
+[
+  {
+    "bomRef": "Alma 55:3",
+    "source": "Luke 14:32",
+    "category": "insufficient-verbal",
+    "sharedText": "peace",
+    "streams": ["manual"],
+    "reason": "Registered because a reader who knows the parable will feel the pull and there is nothing to hold it. 'I will seek death among them, until they shall sue for peace' is the one place in these war chapters where suing for peace is named as the object of a campaign, and the KJV's one sentence for the act is Luke 14:32's 'he sendeth an ambassage, and desireth conditions of peace' — a KJV singleton, and the conclusion of a parable about a king who sits down first and counts whether ten thousand can meet twenty thousand, which is the arithmetic Alma 55 is doing. But 'sue for peace' is not the KJV's idiom at any point, no word of Luke 14:31-32 appears in the verse, and the parable's king is calculating his own weakness while Moroni is calculating his enemy's. A thematic neighbour, not a source."
+  },
+  {
+    "bomRef": "Alma 55:5",
+    "source": "Ezra 5:14",
+    "category": "formulaic",
+    "sharedText": "one whose name was",
+    "streams": ["machine-ngram"],
+    "reason": "Worth a line only because the count is misleading. 'One whose name was' is a KJV singleton and the machine ranked it accordingly, but the singleton is an accident of the article: 'whose name was' introduces a named person in thirty-eight KJV verses, and the Book of Mormon's 'they found one, whose name was Laman' is that default construction with the indefinite pronoun the sentence happens to need. Ezra 5:14's Sheshbazzar is the governor entrusted with the temple vessels; Alma 55:5's Laman is a servant of a murdered king recruited to impersonate the enemy. No contact beyond the naming formula."
+  },
+  {
+    "bomRef": "Alma 55:16",
+    "source": "Daniel 8:18",
+    "category": "wrong-sense",
+    "sharedText": "in a deep sleep",
+    "streams": ["manual"],
+    "reason": "'In a deep sleep' occurs in exactly two KJV verses, Daniel 8:18 and 10:9, which is the kind of count that ordinarily carries a link in this catalogue — and it will not carry one here. Both Daniel verses are the prophet's involuntary trance under the hand of an angel, a state of revelation from which he is raised upright; Alma 55:15-16's Lamanite guards are unconscious from drink and are about to be robbed of their city. The sense is not merely different but opposite in value: Daniel's deep sleep is the condition of seeing, and the guards' is the condition of seeing nothing. The wider phrase 'deep sleep' occurs in ten verses, including Genesis 2:21 and 15:12 and 1 Samuel 26:12, where the LORD's deep sleep on Saul's camp lets David take the spear from his bolster — nearer in situation than Daniel, and still nothing but the two-word phrase in common. Recorded so that the Daniel count does not tempt a later pass."
+  },
+  {
+    "bomRef": "Alma 55:23",
+    "source": "Matthew 15:30",
+    "category": "wrong-sense",
+    "sharedText": "cast them at the feet",
+    "streams": ["manual"],
+    "reason": "'Cast them down at' is a KJV singleton, at Matthew 15:30, and 'cast them at the' occurs in no KJV verse at all — so the closest the Bible comes to Alma 55:23's 'cast them at the feet of the Nephites, pleading for mercy' is a crowd laying the lame and the blind at Jesus' feet to be healed. The direction of the act is inverted: in Matthew what is cast down is people, laid there by others who want them raised; in Alma what is cast down is weapons, laid there by their owners in surrender. The nearest genuine parallels for laying goods at the feet of a victor — Acts 4:35, 4:37, 5:2, 'laid them down at the apostles' feet' — use 'laid', not 'cast', and are acts of voluntary generosity in a church. The Book of Mormon's phrase is its own."
+  },
+  {
+    "bomRef": "Alma 55:23",
+    "source": "Ezekiel 32:27",
+    "category": "common-vocabulary",
+    "sharedText": "their weapons of war",
+    "streams": ["machine-ngram"],
+    "reason": "The chapter's top-ranked candidate and a good illustration of what the n-gram score measures. 'Weapons of war' occurs in nine KJV verses and is the Book of Mormon war narrative's standing term, used three times in this chapter alone (55:16 twice, 55:23); the four- and six-word runs the machine found are that phrase plus the connectives on either side of it. Ezekiel 32:27's uncircumcised mighty go down to hell with their weapons of war and their swords under their heads — buried armed, the opposite of Alma 55:23, where the chief captains surrender theirs and live."
+  },
+  {
+    "bomRef": "Alma 55:26",
+    "source": "Ezekiel 10:6",
+    "category": "formulaic",
+    "sharedText": "and it came to pass that when he had",
+    "streams": ["machine-ngram"],
+    "reason": "A nine-word run, the longest in the chapter, and pure boilerplate: 'and it came to pass, that when he had' is the KJV's standard narrative hinge and the Book of Mormon's most frequent sentence-opening. Covered in kind by the standing exclusion at 1 Nephi 2:1; noted here only because the run length will look significant to anyone scanning the candidate file."
+  },
+  {
+    "bomRef": "Alma 55:31",
+    "source": "Psalm 141:9",
+    "category": "insufficient-verbal",
+    "sharedText": "snares",
+    "streams": ["manual"],
+    "reason": "'The snares which they have laid for me' is a KJV singleton and it is the Bible's exact situation here — an enemy's snares that the speaker asks God to keep him out of, followed at 141:10 by the enemies falling into their own nets while he escapes, which is the arc of Alma 55:29-32 to the letter. But the contact is one content word. 'Snares' occurs in fifteen KJV verses and 'in their snares' in none, and Alma 55:31's clause is 'they could not be taken in their snares', where the closest KJV construction, 'taken in the snare' (Isaiah 24:18, Jeremiah 48:44), is used of a man who is taken and not of one who escapes. The verse's other candidate, 'not slow to remember the Lord their God', touches Nehemiah 4:14's 'remember the LORD' — but Nehemiah 4:14 is already adjudicated in this book at Alma 43:45, on two of its singletons, and two common words here cannot reopen it. Recorded because both pulls are real and neither is a link."
+  }
+]

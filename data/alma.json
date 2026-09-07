@@ -31135,7 +31135,38 @@
       "ch": 55,
       "ref": "55:9",
       "text": "Now when the Lamanites heard these words, they received him with joy.— And they said unto him, Give us of your wine, that we may drink; we are glad that ye have thus taken wine with you, for we are weary.",
-      "links": []
+      "links": [
+        {
+          "source": "Exodus 17:2",
+          "type": "allusion",
+          "subtype": "close-verbal",
+          "confidence": "high",
+          "text": "Wherefore the people did chide with Moses, and said, Give us water that we may drink. And Moses said unto them, Why chide ye with me? wherefore do ye tempt the LORD?",
+          "evidence": {
+            "vocabulary": 4,
+            "syntax": 5,
+            "sequence": 4,
+            "context": 5,
+            "rarity": 5,
+            "attestation": 0
+          },
+          "kjvSpecific": "yes",
+          "mediation": "direct-OT",
+          "provenance": {
+            "route": "Exodus 17:2 → KJV → Book of Mormon",
+            "other": "“that we may drink” occurs in exactly one KJV verse, Exodus 17:2, and “give us water” occurs in exactly one KJV verse as well — the same one. The whole KJV has one sentence of the form 'give us <drink> that we may drink', and it is Israel's at Rephidim.",
+            "significance": "The verse Alma 55:9 is worded out of is the verse that names Massah and Meribah — 'because they tempted the LORD, saying, Is the LORD among us, or not?' (Exodus 17:7). Recover that context and the guards' demand becomes the archetypal demand for drink that is really a test of God, and the answer to it, in Exodus, is water struck from a rock by the man they were chiding. Here the answer is wine deliberately prepared in its strength, and the men who insist on it lose the city in their sleep. The Book of Mormon has taken the KJV's one formula for demanding drink and put it in the mouths of the people it is about to destroy with drink."
+          },
+          "note": "'Give us of your wine, that we may drink.' The four-word clause is a KJV singleton and its source is Israel demanding water of Moses. The structural parallel is exact and easy to miss: in both places a demand for drink is made of a man who resists it (Moses answers 'why chide ye with me?'; Laman answers 'let us keep of our wine till we go against the Nephites to battle'), and in both places the resistance only sharpens the demand — Alma 55:10's 'this saying only made them more desirous to drink of the wine' is the narrative equivalent of Exodus 17:3's 'and the people thirsted there for water, and the people murmured'. The machine stream found the string; what it could not see is that the two refusals match as well as the two demands.",
+          "bibliography": [],
+          "status": "novel",
+          "citationsPending": true,
+          "streams": [
+            "machine-ngram",
+            "manual"
+          ]
+        }
+      ]
     },
     {
       "id": "55:10",
@@ -31163,14 +31194,109 @@
       "ch": 55,
       "ref": "55:13",
       "text": "And it came to pass that they did take of the wine freely, and it was pleasant to their taste; therefore they took of it more freely; and it was strong, having been prepared in its strength.",
-      "links": []
+      "links": [
+        {
+          "source": "Genesis 3:6",
+          "type": "allusion",
+          "subtype": "close-verbal",
+          "confidence": "high",
+          "text": "And when the woman saw that the tree was good for food, and that it was pleasant to the eyes, and a tree to be desired to make one wise, she took of the fruit thereof, and did eat, and gave also unto her husband with her; and he did eat.",
+          "evidence": {
+            "vocabulary": 4,
+            "syntax": 5,
+            "sequence": 5,
+            "context": 5,
+            "rarity": 5,
+            "attestation": 0
+          },
+          "kjvSpecific": "yes",
+          "mediation": "direct-OT",
+          "recurrenceRefs": [
+            "Alma 12:22"
+          ],
+          "provenance": {
+            "route": "Genesis 3:6 → KJV → Book of Mormon",
+            "other": "“it was pleasant to” occurs in exactly one KJV verse, Genesis 3:6, and “pleasant to the” occurs in exactly three KJV verses, of which two are Eden (Genesis 2:9, 3:6). The KJV's other 'pleasant' constructions are 'pleasant land', 'pleasant vessels', 'pleasant plant' — attributive, not this predicate-plus-sense idiom.",
+            "significance": "Genesis 3:6 supplies not one phrase but a sequence, and Alma 55:13 has the sequence: a thing perceived as pleasant to a sense, and then taken. 'It was pleasant to the eyes ... she took of the fruit thereof' becomes 'it was pleasant to their taste; therefore they took of it more freely'. The metalepsis is that the reader who recovers Genesis 3 recovers the outcome as well: the pleasantness is the bait, the taking is the fall, and the sentence immediately after the taking is 'and the eyes of them both were opened'. Alma 55:22's Lamanites likewise wake to find out what they have done — 'when the Lamanites awoke in the morning, they beheld that they were surrounded'. A military stratagem is being narrated in the grammar of the first temptation, and the wine, like the fruit, is not poisoned. It only has to be pleasant."
+          },
+          "note": "'They did take of the wine freely, and it was pleasant to their taste; therefore they took of it more freely.' Two elements of Genesis 3:6 in Genesis's own order, one of them a KJV singleton, and the substitution of taste for eyes is precisely what the new object requires. The n-gram stream did propose Genesis 3:6 here, on the four words alone; the argument is the second half of the verse, 'she took of', which the window could not reach across the intervening clause. Note that the source is already at work elsewhere in this book — Alma 12:22 stands on Genesis 3 as a whole — but there the reference is doctrinal and stated, and here it is verbal and silent, which is the more interesting of the two.",
+          "bibliography": [],
+          "status": "novel",
+          "citationsPending": true,
+          "streams": [
+            "machine-ngram",
+            "manual"
+          ]
+        }
+      ]
     },
     {
       "id": "55:14",
       "ch": 55,
       "ref": "55:14",
       "text": "And it came to pass they did drink and were merry, and by and by they were all drunken.",
-      "links": []
+      "links": [
+        {
+          "source": "Genesis 43:34",
+          "type": "allusion",
+          "subtype": "close-verbal",
+          "confidence": "moderate",
+          "text": "And he took and sent messes unto them from before him: but Benjamin’s mess was five times so much as any of theirs. And they drank, and were merry with him.",
+          "evidence": {
+            "vocabulary": 4,
+            "syntax": 4,
+            "sequence": 3,
+            "context": 4,
+            "rarity": 5,
+            "attestation": 0
+          },
+          "kjvSpecific": "yes",
+          "mediation": "direct-OT",
+          "provenance": {
+            "route": "Genesis 43:34 → KJV → Book of Mormon",
+            "other": "“drank and were merry” occurs in exactly one KJV verse, Genesis 43:34, and “were merry” occurs in exactly two, that verse and Judges 16:25. The Book of Mormon's own auxiliary idiom supplies “did drink,” which occurs in exactly one KJV verse, Zechariah 7:6, so the underlying agreement is with the KJV's three-word run.",
+            "significance": "Genesis 43:34 is the drinking-scene of a man whose identity the drinkers do not know. Joseph seats his brothers, sends them portions from his own table, and they drink and are merry with him while he is still the Egyptian to them; the recognition comes two chapters later. Alma 55:8-14 is the same scene with the same concealment and the opposite motive: Laman is a Nephite in Lamanite mouth, he tells them what they want to hear ('behold, I am a Lamanite'), he presses the drink on them by pretending to withhold it, and they drink and are merry with a man who is not who he says he is. The Book of Mormon has borrowed the KJV's one phrase for a merry drinking-party and attached it to the KJV's own story of a host in disguise."
+          },
+          "note": "'They did drink and were merry, and by and by they were all drunken.' Three words, but they are the KJV's only occurrence of the collocation and the narrative frame around them matches at the point that matters — a party drinking with a host who is not what he appears. Below Skousen's sixteen-word threshold by a wide margin and not one of his quotations; the case rests on rarity and on the disguise, not on length.",
+          "whyNot": "The agreement is three ordinary words and the Book of Mormon's own 'did drink' breaks even that. 'Merry' with drink is a natural English collocation and a reader could reasonably hold that no source is needed.",
+          "bibliography": [],
+          "status": "novel",
+          "citationsPending": true,
+          "streams": [
+            "manual"
+          ]
+        },
+        {
+          "source": "Judges 16:25",
+          "type": "allusion",
+          "subtype": "conceptual",
+          "confidence": "moderate",
+          "text": "And it came to pass, when their hearts were merry, that they said, Call for Samson, that he may make us sport. And they called for Samson out of the prison house; and he made them sport: and they set him between the pillars.",
+          "evidence": {
+            "vocabulary": 3,
+            "syntax": 2,
+            "sequence": 4,
+            "context": 5,
+            "rarity": 4,
+            "attestation": 0
+          },
+          "kjvSpecific": "yes",
+          "mediation": "direct-OT",
+          "provenance": {
+            "route": "Judges 16:25 → KJV → Book of Mormon",
+            "other": "“were merry” occurs in exactly two KJV verses, Genesis 43:34 and Judges 16:25. The second is the only one where the merriment is a garrison's and the man they are making merry over is their prisoner.",
+            "significance": "This is the shape of the whole chapter, not one phrase of it. Judges 16:25 is the last hour of the Philistine lords: their hearts are merry, they send to the prison house for the captive they have disarmed, and the captive brings the building down on them. Alma 55 runs the same reversal in slow motion — the guards drink until they are merry, the prisoners inside the wall are armed while they sleep, and the captors wake surrounded by the men they were holding. Where the Book of Mormon departs from Judges is where the argument is: Samson kills more at his death than in his life, and Moroni, given the identical opening at 55:18, refuses it — 'he did not delight in murder or bloodshed'. The chapter borrows the Philistine feast and then declines the Philistine ending."
+          },
+          "note": "'They did drink and were merry, and by and by they were all drunken' — and by 55:22 the prisoners are armed and the drinkers are surrounded. The verbal contact is two words in a KJV pair, which on its own would be an echo at best; what carries the link is that Judges 16:25 is the Bible's one scene of drunken captors and an armed captive, and that Alma 55 reproduces it element for element and then withholds the massacre. Recorded as an allusion rather than figural because the two-word contact is with the rarer half of a two-verse set, and because 55:16-17's arming of prisoners 'even to their women, and all those of their children' is the Judges scene's crowd (16:27, 'and there were upon the roof about three thousand men and women') on the other side of the wall.",
+          "whyNot": "Two words of contact, and 'merry' is unavoidable English for a drunken company. A reader who declines typological argument will see nothing here but a coincidence of adjective.",
+          "bibliography": [],
+          "status": "novel",
+          "citationsPending": true,
+          "streams": [
+            "manual"
+          ]
+        }
+      ]
     },
     {
       "id": "55:15",
@@ -31205,7 +31331,39 @@
       "ch": 55,
       "ref": "55:19",
       "text": "But behold this was not the desire of Moroni. He did not delight in murder or bloodshed; but he delighted in the saving of his people from destruction; and for this cause he might not bring upon him injustice, he would not fall upon the Lamanites and destroy them in their drunkennes.",
-      "links": []
+      "links": [
+        {
+          "source": "Hebrews 11:7",
+          "type": "echo",
+          "subtype": "close-verbal",
+          "confidence": "moderate",
+          "text": "By faith Noah, being warned of God of things not seen as yet, moved with fear, prepared an ark to the saving of his house; by the which he condemned the world, and became heir of the righteousness which is by faith.",
+          "evidence": {
+            "vocabulary": 3,
+            "syntax": 4,
+            "sequence": 3,
+            "context": 4,
+            "rarity": 5,
+            "attestation": 0
+          },
+          "kjvSpecific": "yes",
+          "mediation": "direct-NT",
+          "provenance": {
+            "route": "Hebrews 11:7 → KJV → Book of Mormon",
+            "other": "“the saving of his” occurs in exactly one KJV verse, Hebrews 11:7. The KJV's ordinary noun for the thing is 'salvation' or 'deliverance'; the verbal noun 'saving' governing a possessive is Hebrews' construction and nobody else's in the canon.",
+            "significance": "Hebrews 11:7 is the verse in which a man who has been warned prepares something in advance, and the preparing is credited as the saving of the people belonging to him while the world outside is condemned. Alma 55 has the same two motions in the same order and three verses apart: 'Moroni had prepared his men with weapons of war' (55:16), and 'he delighted in the saving of his people from destruction' (55:19). What the recovered context adds is the clause between them — 'by the which he condemned the world'. Moroni's refusal at 55:18-19 is exactly a refusal to condemn: he has the drunken army at his mercy and does not take it, and the sentence in which he declines is worded out of the KJV's one verse about being saved while others drown."
+          },
+          "note": "'He delighted in the saving of his people from destruction.' Four words, but 'the saving of his' is a KJV singleton and it sits in a chapter whose central action is a preparation made in secret that preserves one household of people from a destruction the preparer could have inflicted. Hebrews 11 is a demonstrated working index for this corpus — the 1 Nephi pass found it used in its own order across four chapters — which raises the prior for a phrase of it turning up as the description of a deliverance.",
+          "whyNot": "The phrase is a natural English construction and the shared words are all function words but one; the link rests almost entirely on the singleton count and on Hebrews 11's track record elsewhere in the corpus rather than on anything distinctive in Alma 55:19 itself.",
+          "bibliography": [],
+          "status": "novel",
+          "citationsPending": true,
+          "streams": [
+            "machine-ngram",
+            "manual"
+          ]
+        }
+      ]
     },
     {
       "id": "55:20",
@@ -31282,7 +31440,38 @@
       "ch": 55,
       "ref": "55:30",
       "text": "And many times did they atempt to administer of their wine to the Nephites, that they might destroy them with poison or with drunkenness.",
-      "links": []
+      "links": [
+        {
+          "source": "Deuteronomy 32:33",
+          "type": "allusion",
+          "subtype": "conceptual",
+          "confidence": "moderate",
+          "text": "Their wine is the poison of dragons, and the cruel venom of asps.",
+          "evidence": {
+            "vocabulary": 3,
+            "syntax": 2,
+            "sequence": 3,
+            "context": 5,
+            "rarity": 5,
+            "attestation": 0
+          },
+          "kjvSpecific": "yes",
+          "mediation": "direct-OT",
+          "provenance": {
+            "route": "Deuteronomy 32:33 → KJV → Book of Mormon",
+            "other": "“poison” occurs in exactly eight KJV verses and “wine is the poison” occurs in exactly one. Deuteronomy 32:33 is the only place in the whole Bible where wine and poison stand in the same sentence; the other seven poison verses are all about serpents' venom or the tongue (Job 6:4, Job 20:16, Psalm 58:4, Psalm 140:3, Romans 3:13, James 3:8) or about beasts sent in judgement (Deuteronomy 32:24). tools/mediation-check.py, run against Romans 3:13 — the New Testament's one poison verse, which quotes Psalm 140:3 rather than Deuteronomy 32 — returns one decisive point for Deuteronomy: the Book of Mormon has 'wine', which is Deuteronomy 32:33's noun, and not 'throat', which is Romans 3:13's. The route is direct-OT.",
+            "significance": "The possessive is what makes this worth recording. Deuteronomy 32:32-33 is the Song of Moses on the enemy: *their* vine is of the vine of Sodom, *their* grapes are grapes of gall, *their* wine is the poison of dragons. Alma 55:30-32 is a paragraph of exactly that possessive — 'their wine', four times in three verses, always the enemy's and always suspected of being poison — and it ends by making the Song's metaphor literal and testable: 'if their wine would poison a Lamanite, it would also poison a Nephite; and thus they did try all their liquors'. The Book of Mormon has taken the one KJV verse that calls an enemy's wine poison and turned it into a field protocol."
+          },
+          "note": "'Many times did they attempt to administer of their wine to the Nephites, that they might destroy them with poison or with drunkenness.' Two content words, but they are two the KJV joins once, and the chapter has already spent seventeen verses making the enemy's wine the instrument of destruction. Deuteronomy 32:33's alternative to poison is drunkenness in the next breath of the same Song (32:42's 'I will make mine arrows drunk with blood'), and Alma 55:30 names both together as the two things the wine might do.",
+          "whyNot": "The verbal contact is 'wine' and 'poison' and nothing else — no shared phrase, no shared syntax. A reader may hold that a besieged army suspecting the enemy's drink of being poisoned needs no source at all, and that the coincidence with Deuteronomy 32:33 is an artifact of how rarely the KJV mentions poison.",
+          "bibliography": [],
+          "status": "novel",
+          "citationsPending": true,
+          "streams": [
+            "manual"
+          ]
+        }
+      ]
     },
     {
       "id": "55:31",
@@ -31331,7 +31520,41 @@
       "ch": 56,
       "ref": "56:2",
       "text": "And these are the words which he wrote, saying: My dearly beloved brother, Moroni, as well in the Lord as in the tribulations of our warfare; behold, my beloved brother, I have somewhat to tell you concerning our warfare in this part of the land.",
-      "links": []
+      "links": [
+        {
+          "source": "2 Corinthians 10:4",
+          "type": "allusion",
+          "subtype": "close-verbal",
+          "confidence": "moderate",
+          "text": "(For the weapons of our warfare are not carnal, but mighty through God to the pulling down of strong holds;)",
+          "evidence": {
+            "vocabulary": 3,
+            "syntax": 3,
+            "sequence": 3,
+            "context": 4,
+            "rarity": 5,
+            "attestation": 0
+          },
+          "kjvSpecific": "yes",
+          "mediation": "direct-NT",
+          "recurrenceRefs": [
+            "Alma 56:21"
+          ],
+          "provenance": {
+            "route": "2 Corinthians 10:4 → KJV → Book of Mormon",
+            "other": "“our warfare” occurs in exactly one KJV verse, 2 Corinthians 10:4. The noun itself is rare — “warfare” occurs in exactly five KJV verses — and in the possessive it is Paul's alone. “strong holds” is commoner (nineteen KJV verses), so it carries nothing by itself; what is worth noting is that Alma 56 uses both of 2 Corinthians 10:4's two distinctive nouns, at 56:2 and again at 56:21 ('we were not desirous to make an attack upon them in their strong holds').",
+            "significance": "Helaman's letter opens in the register of a Pauline epistle — a named addressee, 'my dearly beloved brother', the pairing 'as well in the Lord as in the tribulations of our warfare' — and the phrase it reaches for is from the one Pauline passage that insists the warfare in question is not the kind fought with weapons. 2 Corinthians 10:3-4 says 'though we walk in the flesh, we do not war after the flesh: for the weapons of our warfare are not carnal'. Alma 56 then spends fifty-five verses on weapons that emphatically are carnal, and ends by saying that the young men who carried them 'fought as if with the strength of God' and that not one of them fell. The letter borrows Paul's phrase for a spiritual campaign and applies it to an actual one, and the chapter's own explanation of the outcome — strength that is not the soldiers' own — is Paul's 'mighty through God' arriving by a different road."
+          },
+          "note": "'My dearly beloved brother, Moroni, as well in the Lord as in the tribulations of our warfare.' 'Our warfare' is a KJV singleton and it belongs to 2 Corinthians 10:4; the epistolary frame around it is Pauline in shape, and 'strong holds', the other distinctive noun of that verse, returns at 56:21. Recorded at moderate because a first-person plural possessive on a common noun is easy to generate independently, and because the two words are nineteen verses apart in the Book of Mormon rather than adjacent as they are in Paul.",
+          "whyNot": "Two words, one of them a pronoun. 'Warfare' is ordinary English and 'our warfare' would be produced by anyone writing a war letter in the first person plural; the KJV singleton may be an accident of how seldom the KJV uses the noun at all.",
+          "bibliography": [],
+          "status": "novel",
+          "citationsPending": true,
+          "streams": [
+            "manual"
+          ]
+        }
+      ]
     },
     {
       "id": "56:3",
@@ -31576,7 +31799,40 @@
       "ch": 56,
       "ref": "56:37",
       "text": "yea, even to a considerable distance, insomuch that when they saw the army of Antipus pursuing them, with their mights, they did not turn to the right nor to the left, but pursued their march in a straight course after us; and, as we supposed, it was their intent to slay us before Antipus should overtake them, and this that they might not be surrounded by our people.",
-      "links": []
+      "links": [
+        {
+          "source": "2 Samuel 2:19",
+          "type": "allusion",
+          "subtype": "close-verbal",
+          "confidence": "high",
+          "text": "And Asahel pursued after Abner; and in going he turned not to the right hand nor to the left from following Abner.",
+          "evidence": {
+            "vocabulary": 4,
+            "syntax": 5,
+            "sequence": 5,
+            "context": 5,
+            "rarity": 5,
+            "attestation": 0
+          },
+          "kjvSpecific": "yes",
+          "mediation": "direct-OT",
+          "recurrenceRefs": [
+            "Alma 56:40"
+          ],
+          "provenance": {
+            "route": "2 Samuel 2:19 → KJV → Book of Mormon",
+            "other": "“turned not to the right hand” occurs in exactly one KJV verse, 2 Samuel 2:19. The fuller formula “to the right hand nor to the left” occurs in exactly five KJV verses, and the other four are all about conduct rather than pursuit: two are requests to pass peaceably through a country (Numbers 20:17, Deuteronomy 2:27), one is obedience to a judicial sentence (Deuteronomy 17:11), one is Proverbs 4:27 on moral straightness, and 2 Chronicles 34:2 is Josiah's walk. 2 Samuel 2:19 is the only KJV verse in which the phrase describes a man chasing another man.",
+            "significance": "The recovered context is the whole point and it is grim. Asahel's refusal to turn to the right hand or the left is not praised in 2 Samuel 2; it is the reason he dies. Abner turns and warns him twice — 'turn thee aside to thy right hand or to thy left' (2:21), 'wherefore should I smite thee to the ground?' (2:22) — and Asahel will not, and Abner kills him with the hinder end of the spear. Alma 56:37 gives the phrase to the Lamanite army pursuing Helaman, and gives it in the same posture: the pursuer who will not deviate, running down a smaller force, with a second army closing behind. Helaman even names the danger Abner named — 'it was their intent to slay us before Antipus should overtake them, and this that they might not be surrounded by our people' — and the outcome is the one 2 Samuel 2 predicts for the man who does not turn aside. At 56:40 the phrase is turned around and applied to Helaman himself, so both parties in the chase are Asahel, and neither can afford to be."
+          },
+          "note": "'They did not turn to the right nor to the left, but pursued their march in a straight course after us.' The KJV's one pursuit-verse using this formula, and the Book of Mormon has it in a pursuit. The one departure is the dropped noun: every KJV instance reads 'right hand', and Alma 56:37 and 56:40 both read 'right' alone, which is the phrase compressed rather than a different phrase. Note that 56:40 uses it twice more in three lines, once of the Lamanites and once of Helaman — a doubling that reads as a writer working a borrowed formula rather than reaching for an idiom of his own.",
+          "bibliography": [],
+          "status": "novel",
+          "citationsPending": true,
+          "streams": [
+            "manual"
+          ]
+        }
+      ]
     },
     {
       "id": "56:38",
@@ -31639,14 +31895,82 @@
       "ch": 56,
       "ref": "56:46",
       "text": "For as I had ever called them my sons, (for they were all of them very young,) even so they said unto me, Father, behold, our God is with us, and he will not suffer that we shall fall; then let us go forth; we would not slay our brethren, if they would let us alone; therefore let us go, lest they should overpower the army of Antipus.",
-      "links": []
+      "links": [
+        {
+          "source": "Isaiah 8:10",
+          "type": "allusion",
+          "subtype": "close-verbal",
+          "confidence": "high",
+          "text": "Take counsel together, and it shall come to nought; speak the word, and it shall not stand: for God is with us.",
+          "evidence": {
+            "vocabulary": 4,
+            "syntax": 4,
+            "sequence": 4,
+            "context": 5,
+            "rarity": 5,
+            "attestation": 0
+          },
+          "kjvSpecific": "yes",
+          "mediation": "direct-OT",
+          "provenance": {
+            "route": "Isaiah 8:10 → KJV → Book of Mormon",
+            "other": "“God is with us” occurs in exactly one KJV verse, Isaiah 8:10 — the translation of Immanuel worked into the oracle itself. Matthew 1:23 has the interpretation without the verb ('Emmanuel, which being interpreted is, God with us'), so the finite clause the Book of Mormon uses is Isaiah's and not the Gospel's.",
+            "significance": "Isaiah 8:9-10 is a war oracle addressed to armies, and the sons of the stripling warriors answer their commander with its last clause. Recover the context and the whole of what Helaman's young men are claiming becomes visible: 'Associate yourselves, O ye people, and ye shall be broken in pieces … Take counsel together, and it shall come to nought; speak the word, and it shall not stand: for God is with us.' That is a promise that an enemy's confederacy and an enemy's plan will fail, which is exactly the news of Alma 56 — Ammoron's orders at 56:18 and 56:20 keep his armies from attacking, the pursuit at 56:37 is a plan that comes to nought, and the chapter closes with the pursuers surrendering. The young men say four words and the source supplies the argument for them. Note also that the KJV's sole occurrence of the clause sits between the two Immanuel verses (Isaiah 7:14, 8:8), so the phrase these sons of a converted people use of themselves is the name given to a promised child."
+          },
+          "note": "'Father, behold, our God is with us, and he will not suffer that we shall fall.' A KJV singleton, and the one place in the Bible where the clause is a finite sentence rather than a gloss on a name. The interpolated possessive ('our God is with us') is the Book of Mormon making the clause the speakers' own, and it fits the chapter's insistence that this faith was taught to them and not inherited from the fathers, who had buried their weapons. The second half of the young men's answer, 'he will not suffer that we shall fall', is then cashed out at 56:56, where not one of them has fallen.",
+          "bibliography": [],
+          "status": "novel",
+          "citationsPending": true,
+          "streams": [
+            "manual"
+          ]
+        }
+      ]
     },
     {
       "id": "56:47",
       "ch": 56,
       "ref": "56:47",
       "text": "Now they never had fought, yet they did not fear death; and they did think more upon the liberty of their fathers, than they did upon their lives; yea, they had been taught by their mothers, that if they did not doubt, that God would deliver them.",
-      "links": []
+      "links": [
+        {
+          "source": "Matthew 21:21",
+          "type": "echo",
+          "subtype": "conceptual",
+          "confidence": "moderate",
+          "text": "Jesus answered and said unto them, Verily I say unto you, If ye have faith, and doubt not, ye shall not only do this which is done to the fig tree, but also if ye shall say unto this mountain, Be thou removed, and be thou cast into the sea; it shall be done.",
+          "evidence": {
+            "vocabulary": 3,
+            "syntax": 4,
+            "sequence": 3,
+            "context": 4,
+            "rarity": 4,
+            "attestation": 0
+          },
+          "kjvSpecific": "yes",
+          "mediation": "direct-NT",
+          "composite": [
+            "Mark 11:23"
+          ],
+          "recurrenceRefs": [
+            "Alma 57:26"
+          ],
+          "provenance": {
+            "route": "Matthew 21:21 → KJV → Book of Mormon",
+            "other": "“doubt not” occurs in exactly one KJV verse, Matthew 21:21. The word appears in thirteen KJV verses altogether, but in nine of them it is the adverbial 'no doubt' or the noun; the only two places where doubting is negated as a condition of a promise are Matthew 21:21 and its Markan double, Mark 11:23's 'shall not doubt in his heart, but shall believe'.",
+            "significance": "The mothers' teaching is given in the grammar of the KJV's mountain-moving saying: a negated doubt as the condition, and a guaranteed outcome as the apodosis. What the Book of Mormon changes is who holds the condition. In Matthew the promise is to the one who does not doubt; in Alma 56:47-48 the young men do not doubt because their mothers did not, and the sentence they actually say is about someone else's certainty — 'we do not doubt our mothers knew it'. That is a displacement worth naming: the faith that moves the mountain has been made hereditary and second-hand, and the chapter treats that as a strength rather than a defect.",
+            "alternative": "James 1:6's 'ask in faith, nothing wavering' is the same doctrine in different words and could stand behind the sentiment without any of Matthew's wording."
+          },
+          "note": "'They had been taught by their mothers, that if they did not doubt, that God would deliver them.' The conditional is the KJV's and so is the negated verb, though the Book of Mormon inflects it ('did not doubt', 'do not doubt') rather than reproducing Matthew's imperative form 'doubt not'. Filed as an echo, not an allusion, because the only shared content word is 'doubt' and the shape of the sentence is doing most of the work.",
+          "whyNot": "One content word. Doubt is the natural antonym for the faith the passage is about, and a writer describing a taught confidence would arrive at the negation without any source. The rarity count is real but it measures the KJV's vocabulary, not this verse's dependence.",
+          "bibliography": [],
+          "status": "novel",
+          "citationsPending": true,
+          "streams": [
+            "manual"
+          ]
+        }
+      ]
     },
     {
       "id": "56:48",
@@ -31709,7 +32033,74 @@
       "ch": 56,
       "ref": "56:56",
       "text": "But behold, to my great joy, there had not one soul of them fallen to the earth; yea, and they had fought as if with the strength of God; yea, never was men known to have fought with such miraculous strength; and with such mighty power did they fall upon the Lamanites, that they did frighten them; and for this cause did the Lamanites deliver themselves up as prisoners of war.",
-      "links": []
+      "links": [
+        {
+          "source": "2 Samuel 14:11",
+          "type": "allusion",
+          "subtype": "close-verbal",
+          "confidence": "high",
+          "text": "Then said she, I pray thee, let the king remember the LORD thy God, that thou wouldest not suffer the revengers of blood to destroy any more, lest they destroy my son. And he said, As the LORD liveth, there shall not one hair of thy son fall to the earth.",
+          "evidence": {
+            "vocabulary": 4,
+            "syntax": 5,
+            "sequence": 4,
+            "context": 5,
+            "rarity": 5,
+            "attestation": 0
+          },
+          "kjvSpecific": "yes",
+          "mediation": "direct-OT",
+          "composite": [
+            "1 Samuel 14:45",
+            "1 Kings 1:52"
+          ],
+          "recurrenceRefs": [
+            "Alma 57:25"
+          ],
+          "provenance": {
+            "route": "2 Samuel 14:11 → KJV → Book of Mormon",
+            "other": "“one hair of thy son” occurs in exactly one KJV verse, 2 Samuel 14:11, and “not one hair” in exactly two, that verse and 1 Samuel 14:45. The verb phrase “fall to the earth” occurs in exactly three KJV verses; taking earth and ground together, the KJV's fixed formula 'there shall not one hair … fall to the earth/ground' occurs at 1 Samuel 14:45, 2 Samuel 14:11 and 1 Kings 1:52 and nowhere else. Alma 56:56 has the formula with 'earth', which is 2 Samuel 14:11's and 1 Kings 1:52's word, and with 'soul' substituted for 'hair'.",
+            "significance": "All three KJV verses carrying this formula are guarantees that a particular young man under sentence of death will be spared: Jonathan, whom the people rescue from his father's oath after he alone attacked a garrison and wrought a great salvation; the widow of Tekoah's surviving son, spared from the avengers of blood; and Adonijah, spared on condition. Two of the three are pleas made by a parent or on a son's behalf, and 2 Samuel 14:11 is the mother's. Alma 56:56 reports the outcome of a battle fought by two thousand sons whose commander calls them his own and whose mothers' faith is the chapter's stated cause of their survival, and it reports it in the formula the KJV reserves for a threatened son who is spared. 1 Samuel 14:45 sharpens it further: Jonathan is the KJV's one young man who attacks a superior garrison on the conviction that 'there is no restraint to the LORD to save by many or by few', which is the doctrine Helaman's letter exists to demonstrate."
+          },
+          "note": "'There had not one soul of them fallen to the earth.' The KJV has one way of saying that a young man in danger will not be lost, and this is it, with 'soul' for 'hair' because two thousand men and not one man is the quantity in view. The substitution is the Book of Mormon's, and it is not a weakening: 'not one hair' is a figure for total preservation and 'not one soul' makes the same claim literally. The 1830 reading is unchanged here, so nothing in the transmission is doing the work.",
+          "bibliography": [],
+          "status": "novel",
+          "citationsPending": true,
+          "streams": [
+            "manual"
+          ]
+        },
+        {
+          "source": "Numbers 31:49",
+          "type": "figural",
+          "subtype": "type-scene",
+          "confidence": "moderate",
+          "text": "And they said unto Moses, Thy servants have taken the sum of the men of war which are under our charge, and there lacketh not one man of us.",
+          "evidence": {
+            "vocabulary": 1,
+            "syntax": 2,
+            "sequence": 4,
+            "context": 5,
+            "rarity": 5,
+            "attestation": 0
+          },
+          "kjvSpecific": "no",
+          "mediation": "direct-OT",
+          "provenance": {
+            "route": "Numbers 31:48-49 → KJV → Book of Mormon",
+            "other": "“there lacketh not one man” occurs in exactly one KJV verse and so does “taken the sum of the men of war”; both are Numbers 31:49. There is no verbal contact with Alma 56:55-56 at all — the Book of Mormon numbers rather than takes the sum, and its men are souls rather than men — so the count is recorded to show that the scene is a KJV singleton, not to claim the wording.",
+            "significance": "This catalogue declined Numbers 31:49 once already, at Alma 49:23, on the ground that not one word is shared and the Book of Mormon's 'not a single soul' is in no KJV verse. That reasoning was right there and it does not reach here, because Alma 56:55 supplies what 49:23 lacked: the muster itself. Numbers 31:48-49 is a scene, not a phrase — subordinate officers come to the commander after a battle, report that they have counted the men under their charge, and report that none is missing — and Alma 56:55-56 is that scene entire, with the added detail that Helaman counts 'fearing lest there were many of them slain' and that the report reaches Moroni as a letter, which is the only form a subordinate's post-battle census can take at this distance. The KJV has exactly one such scene. That the Book of Mormon reproduces it without reproducing a word of it is the finding."
+          },
+          "note": "'I numbered those young men which had fought with me, fearing lest there were many of them slain. But behold, to my great joy, there had not one soul of them fallen to the earth.' Filed as figural under CONVENTIONS §2 because the link is at the level of the scene and there is no shared wording to test; kjvSpecific is 'no' for the same reason, and no claim about the King James English is being made. The verbal case at this verse is carried by the separate row on 2 Samuel 14:11. Compare the exclusion at Alma 49:23, which sent the same source away for want of exactly what 56:55 provides.",
+          "whyNot": "Zero verbal contact, and a commander counting his men after a battle is a natural thing to narrate. If Numbers 31:49 is the only KJV instance, that may say more about how rarely the KJV narrates a muster than about where Alma 56:55 came from — and a reader who applied the Alma 49:23 reasoning consistently would decline this row too.",
+          "bibliography": [],
+          "status": "novel",
+          "citationsPending": true,
+          "streams": [
+            "manual"
+          ]
+        }
+      ]
     },
     {
       "id": "56:57",
@@ -31863,7 +32254,40 @@
       "ch": 57,
       "ref": "57:21",
       "text": "yea, and they did obey and observe to perform every word of command with exactness; yea, and even according to their faith, it was done unto them; and I did remember the words which they said unto me that their mothers had taught them.",
-      "links": []
+      "links": [
+        {
+          "source": "Matthew 9:29",
+          "type": "quotation",
+          "subtype": "close-verbal",
+          "confidence": "certain",
+          "text": "Then touched he their eyes, saying, According to your faith be it unto you.",
+          "evidence": {
+            "vocabulary": 5,
+            "syntax": 5,
+            "sequence": 5,
+            "context": 5,
+            "rarity": 5,
+            "attestation": 0
+          },
+          "kjvSpecific": "yes",
+          "mediation": "direct-NT",
+          "composite": [
+            "Matthew 8:13"
+          ],
+          "provenance": {
+            "route": "Matthew 9:29 + Matthew 8:13 → KJV → Book of Mormon",
+            "other": "“according to your faith” occurs in exactly one KJV verse and “be it unto you” occurs in exactly one KJV verse; both are Matthew 9:29, which is the whole of the sentence. “be it done unto” occurs in exactly one KJV verse, Matthew 8:13's 'as thou hast believed, so be it done unto thee'. “according to thy faith” occurs in no KJV verse at all, so the possessive the Book of Mormon inflects is the one the KJV actually has.",
+            "significance": "Every KJV verse standing behind this sentence is a healing. Matthew 9:29 is said to two blind men who have just answered 'Yea, Lord' to 'Believe ye that I am able to do this?'; Matthew 8:13 is said to the centurion whose servant is healed in the selfsame hour; Matthew 15:28, the third of the family, restores a daughter. Alma 57:21 puts the formula on a battlefield, and the payoff is four verses later: two hundred of the two thousand and sixty have fainted from loss of blood, 'there was not one soul of them which did perish', and not one of them is unwounded. The metalepsis is exact and it is the chapter's argument — these young men are not preserved from wounds, they are preserved through them, which is what a healing is. Note also what the tense does. Matthew's clause is an optative said before the outcome; the Book of Mormon's is an indicative said after it, and 57:21 immediately adds 'and I did remember the words which they said unto me that their mothers had taught them', so the report of the fulfilment is joined to the memory of the promise at 56:47-48."
+          },
+          "note": "'Yea, and even according to their faith, it was done unto them.' The clause is Matthew 9:29's entire saying with the person changed from second to third and the verb realized as a past indicative, and its two halves are separately KJV singletons. The realized verb is not Matthew 9:29's own — 'be it done unto' is Matthew 8:13's — so the sentence fuses the two healing formulas of Matthew 8-9, which stand nineteen verses apart in one stretch of miracle narratives. Catalogued as a quotation on the completeness of the reproduction and the double singleton, not on length: at six words it is far below Skousen's sixteen-word threshold and it is not one of his thirty-six.",
+          "bibliography": [],
+          "status": "novel",
+          "citationsPending": true,
+          "streams": [
+            "manual"
+          ]
+        }
+      ]
     },
     {
       "id": "57:22",
@@ -31905,7 +32329,37 @@
       "ch": 57,
       "ref": "57:27",
       "text": "Now this was the faith of these of which I have spoken; they are young, and their minds are firm; and they do put their trust in God continually.",
-      "links": []
+      "links": [
+        {
+          "source": "1 Chronicles 5:20",
+          "type": "allusion",
+          "subtype": "close-verbal",
+          "confidence": "moderate",
+          "text": "And they were helped against them, and the Hagarites were delivered into their hand, and all that were with them: for they cried to God in the battle, and he was intreated of them; because they put their trust in him.",
+          "evidence": {
+            "vocabulary": 4,
+            "syntax": 4,
+            "sequence": 4,
+            "context": 5,
+            "rarity": 4,
+            "attestation": 0
+          },
+          "kjvSpecific": "yes",
+          "mediation": "direct-OT",
+          "provenance": {
+            "route": "1 Chronicles 5:20 → KJV → Book of Mormon",
+            "other": "“they put their trust in him” occurs in exactly one KJV verse, 1 Chronicles 5:20. The wider phrase “put their trust in” occurs in exactly six KJV verses, and the other five are all devotional rather than narrative — Psalm 2:12, 5:11, 9:10, 17:7 and Proverbs 30:5, where trusting God is praised in the abstract. 1 Chronicles 5:20 is the only place in the King James Bible where putting one's trust in God is given as the recorded cause of winning a particular battle.",
+            "significance": "1 Chronicles 5:18-22 is the KJV's one battle report constructed as an argument from faith rather than from numbers. It counts the men of war exactly (forty-four thousand seven hundred and threescore, 'valiant men, men able to bear buckler and sword'), states the enemy's losses, and then gives the cause: they cried to God in the battle, he was intreated of them, because they put their trust in him. Alma 57:25-27 is that report in the same order — the exact count of two thousand and sixty and the two hundred who fainted, the thousand slain brethren set against them, and then the cause: 'we do justly ascribe it to the miraculous power of God, because of their exceeding faith … they do put their trust in God continually.' Helaman is writing the one kind of war dispatch the King James Bible contains, and he is using its concluding formula for his own conclusion."
+          },
+          "note": "'They are young, and their minds are firm; and they do put their trust in God continually.' The phrase is a KJV singleton in the one KJV battle narrative that ends by ascribing the victory to it, and Alma 57:26-27 is doing precisely that ascription. Held at moderate rather than high because 'put their trust in' is a live devotional idiom across the Psalms and the Book of Mormon could have taken it from there; what argues for Chronicles is not the words alone but the fact that the words arrive at the same point in the same kind of document.",
+          "bibliography": [],
+          "status": "novel",
+          "citationsPending": true,
+          "streams": [
+            "manual"
+          ]
+        }
+      ]
     },
     {
       "id": "57:28",
@@ -32038,14 +32492,79 @@
       "ch": 58,
       "ref": "58:10",
       "text": "therefore we did pour out our souls in prayer to God, that he would strengthen us and deliver us out of the hands of our enemies; yea, and also give us strength, that we might retain our cities, and our lands, and our possessions, for the support of our people.",
-      "links": []
+      "links": [
+        {
+          "source": "Luke 6:12",
+          "type": "allusion",
+          "subtype": "close-verbal",
+          "confidence": "moderate",
+          "text": "And it came to pass in those days, that he went out into a mountain to pray, and continued all night in prayer to God.",
+          "evidence": {
+            "vocabulary": 4,
+            "syntax": 3,
+            "sequence": 2,
+            "context": 4,
+            "rarity": 5,
+            "attestation": 0
+          },
+          "kjvSpecific": "yes",
+          "mediation": "direct-NT",
+          "composite": [
+            "Psalm 42:4",
+            "1 Samuel 1:15"
+          ],
+          "provenance": {
+            "route": "Luke 6:12 → KJV → Book of Mormon",
+            "other": "'In prayer to God' occurs in exactly one KJV verse, Luke 6:12. The other half of the clause is the pour-out-the-soul idiom, which the KJV has twice and in two grammatical forms: Psalm 42:4's present 'I pour out my soul in me' and 1 Samuel 1:15's past 'I have poured out my soul before the LORD'. Alma 58:10 has the present, which is the Psalm's; 'pour out our' occurs in no KJV verse at all.",
+            "alternative": "That the four words are an unremarkable English construction anyone could compose independently. The count says otherwise about the KJV, but not about 1829.",
+            "significance": "Recover Luke 6:12 and the phrase turns out to belong, in the King James Bible, to one man on one night: it is the vigil Jesus keeps alone on a mountain, and it is the only all-night prayer the Gospels give him. What Alma 58 does with it is hand it to an army. A body of starving soldiers in a fortified camp prays in the words the KJV reserves for Christ's solitary vigil, and the next verse answers them the way Luke's vigil is answered — with a naming and a sending. Luke's morning produces the twelve; Helaman's produces the assurance, the peace, and the two thousand who do not die."
+          },
+          "note": "'Therefore we did pour out our souls in prayer to God, that he would strengthen us and deliver us out of the hands of our enemies.' Two KJV idioms meet in one clause and neither is the war-narrative language the chapter has been running for nine verses. The pouring out of the soul is the Psalter's and Hannah's — private, distressed, and answered; 'in prayer to God' is a Lukan singleton. Held at moderate because the second is only four words long and the shared vocabulary with the first is two; what argues for the row is that a chapter otherwise built out of provisions, spies and strong holds changes register entirely for one sentence, and changes into scripture's register.",
+          "bibliography": [],
+          "status": "novel",
+          "citationsPending": true,
+          "streams": [
+            "manual"
+          ]
+        }
+      ]
     },
     {
       "id": "58:11",
       "ch": 58,
       "ref": "58:11",
       "text": "Yea, and it came to pass that the Lord our God did visit us with assurances, that he would deliver us; yea, insomuch that he did speak peace to our souls, and did grant unto us as great faith, and did cause us that we should hope for our deliverance in him;",
-      "links": []
+      "links": [
+        {
+          "source": "Psalm 85:8",
+          "type": "allusion",
+          "subtype": "close-verbal",
+          "confidence": "moderate",
+          "text": "I will hear what God the LORD will speak: for he will speak peace unto his people, and to his saints: but let them not turn again to folly.",
+          "evidence": {
+            "vocabulary": 4,
+            "syntax": 4,
+            "sequence": 3,
+            "context": 5,
+            "rarity": 4,
+            "attestation": 0
+          },
+          "kjvSpecific": "yes",
+          "mediation": "direct-OT",
+          "provenance": {
+            "route": "Psalm 85:8 → KJV → Book of Mormon",
+            "other": "'Speak peace' occurs in exactly three KJV verses: Psalm 28:3, Psalm 85:8 and Zechariah 9:10. Only one of the three has God as the speaker and a people as the hearer, and that is Psalm 85:8. The preposition is the awkward datum — 'speak peace to' with 'to' rather than 'unto' is itself a KJV singleton, and it belongs to Psalm 28:3, where the workers of iniquity 'speak peace to their neighbours, but mischief is in their hearts'. Alma 58:11 has Psalm 28's preposition and Psalm 85's sense.",
+            "significance": "Psalm 85 is not a psalm of private consolation; it is a national one, addressed to a land God has already once turned back from captivity and asking him to do it again — 'Wilt thou not revive us again: that thy people may rejoice in thee?' The verse the Book of Mormon borrows is the psalm's hinge, the moment the speaker stops petitioning and listens for the answer, and what follows it is 'Surely his salvation is nigh them that fear him; that glory may dwell in our land'. Helaman's epistle is a report on whether glory will dwell in the land, written by a man who has just told the chief judge he fears the judgments of God on it. The psalm supplies not only the phrase but the shape of the paragraph: petition (58:10), a pause to hear (58:11), and an answer about the land."
+          },
+          "note": "'Insomuch that he did speak peace to our souls, and did grant unto us as great faith, and did cause us that we should hope for our deliverance in him.' The answer to the prayer of 58:10 is given in the words of the one KJV verse in which God speaks peace to a people, and the sentence keeps the psalm's sequence — the speaking, then the hope. Held at moderate because the object is changed from 'his people' to 'our souls', which is the Book of Mormon's own idiom rather than the psalm's; the 1830's 'as great faith', flattened to 'great faith' in 1920, preserves a comparative whose second term the sentence never supplies.",
+          "bibliography": [],
+          "status": "novel",
+          "citationsPending": true,
+          "streams": [
+            "manual"
+          ]
+        }
+      ]
     },
     {
       "id": "58:12",
@@ -32248,7 +32767,43 @@
       "ch": 58,
       "ref": "58:40",
       "text": "But behold, they have received many wounds; nevertheless they stand fast in that liberty wherewith God hath made them free; and they are strict to remember the Lord their God, from day to day; yea, they do observe to keep his statutes, and his judgements, and his commandments continually; and their faith is strong in the prophecies concerning that which is to come.",
-      "links": []
+      "links": [
+        {
+          "source": "Galatians 5:1",
+          "type": "quotation",
+          "subtype": "explicit",
+          "confidence": "certain",
+          "text": "Stand fast therefore in the liberty wherewith Christ hath made us free, and be not entangled again with the yoke of bondage.",
+          "evidence": {
+            "vocabulary": 5,
+            "syntax": 5,
+            "sequence": 5,
+            "context": 5,
+            "rarity": 5,
+            "attestation": 1
+          },
+          "kjvSpecific": "yes",
+          "mediation": "direct-NT",
+          "recurrenceRefs": [
+            "Alma 44:2",
+            "Alma 49:7",
+            "Alma 58:41",
+            "Alma 61:21"
+          ],
+          "provenance": {
+            "route": "Galatians 5:1 → KJV → Book of Mormon",
+            "other": "'Liberty wherewith' is a KJV singleton, and so is the whole run 'wherewith Christ hath made us free'. 'Stand fast' occurs in nine KJV verses and is Pauline in seven of them; the Book of Mormon has taken the one where it governs liberty. 'Made them free' occurs in no KJV verse, which is the mark of the substitution: the phrase had to be re-pronouned to fit.",
+            "significance": "The book of Alma has been quarrying Galatians 5:1 for fifteen chapters, and always from the back end. Moroni throws the yoke of bondage at Zerahemnah (44:2); the narrator uses it twice of Amalickiah (49:7, 49:26); the whole political vocabulary of the war chapters — liberty, freedom, bondage — is the vocabulary of that one verse. What happens at 58:40 is that the front half finally arrives, and it arrives attached to the two thousand young men. The verse's substitution is the argument: Paul writes 'the liberty wherewith Christ hath made us free' of a freedom from the law, and Helaman writes 'that liberty wherewith God hath made them free' of soldiers who have received many wounds and lost no one. Read Galatians back into it and the sentence claims that the political liberty these chapters have spent twenty pages defending with swords is the same liberty Paul tells the Galatians not to trade for a yoke — and the clause is picked up and repeated word for word three chapters later, when Pahoran closes his reply to Moroni by blessing 'all those who stand fast in that liberty wherewith God hath made them free' (61:21). Whatever else divides the two epistles, they end in the same borrowed sentence."
+          },
+          "note": "'Nevertheless they stand fast in that liberty wherewith God hath made them free.' The clause reproduces Galatians 5:1's opening entire, with two changes and no others: 'therefore in the' becomes 'in that', and 'Christ hath made us free' becomes 'God hath made them free'. 'Liberty wherewith' occurs in exactly one KJV verse. This falls well below Skousen's sixteen-word threshold and is not one of his thirty-six, but it is a complete clause taken from a verse the chapter can be shown to know at both ends — 58:41 immediately returns to it, 'the Lord our God who hath redeemed us and made us free' — and the argument for its earlier half was made at Alma 44:2. The 1830's 'hath' was modernized to 'has' in 1920, so the first edition preserves the KJV's verb form as well as its words.",
+          "bibliography": [],
+          "status": "novel",
+          "streams": [
+            "manual",
+            "machine-ngram"
+          ]
+        }
+      ]
     },
     {
       "id": "58:41",
@@ -32332,7 +32887,41 @@
       "ch": 59,
       "ref": "59:11",
       "text": "And now when Moroni saw that the city of Nephihah was lost, he was exceeding sorrowful, and began to doubt, because of the wickedness of the people, whether they should not fall into the hands of their brethren.",
-      "links": []
+      "links": [
+        {
+          "source": "Matthew 26:22",
+          "type": "allusion",
+          "subtype": "close-verbal",
+          "confidence": "high",
+          "text": "And they were exceeding sorrowful, and began every one of them to say unto him, Lord, is it I?",
+          "evidence": {
+            "vocabulary": 4,
+            "syntax": 5,
+            "sequence": 4,
+            "context": 5,
+            "rarity": 5,
+            "attestation": 0
+          },
+          "kjvSpecific": "yes",
+          "mediation": "direct-NT",
+          "recurrenceRefs": [
+            "Alma 35:15"
+          ],
+          "provenance": {
+            "route": "Matthew 26:22 → KJV → Book of Mormon",
+            "other": "'Exceeding sorrowful' occurs in three KJV verses and all three are Passion-week verses: Matthew 26:22, Matthew 26:38 and Mark 14:34. The corpus has used the phrase once before, at Alma 35:15, where the source is the Gethsemane pair. Here the phrase runs one word further — 'exceeding sorrowful and began' occurs in exactly 1 KJV verse, and it belongs not to Gethsemane but to the table.",
+            "alternative": "Matthew 26:38 / Mark 14:34, the Gethsemane form, which is the source of the corpus's other use at Alma 35:15. It is ruled out by the continuation: neither Gethsemane verse has 'and began', and both put the sorrow in a soul rather than in a company.",
+            "significance": "Recover Matthew 26:22 and it is the one moment in the Gospels when a body of loyal men is told that one of their own has betrayed them, and answers not with denial but with self-suspicion — 'Lord, is it I?' Alma 59 is the Book of Mormon's version of that table. Moroni has just learned that a city was lost for want of the reinforcements he asked for, he is exceeding sorrowful and he begins to doubt; 59:12 immediately extends the doubt to every one of his chief captains, which is Matthew's 'every one of them'; and 59:13 names what he thinks the cause is — a government indifferent to the freedom of its country. The chapter is thirteen verses long and its whole function is to move a commander from grief to the suspicion of treachery, which is Matthew 26:22's function exactly. What the borrowing supplies, and what Alma 59 never says, is the answer to the question. The disciples ask 'Lord, is it I?'; Moroni does not ask it, and Alma 60 is what he writes instead. Pahoran's reply at 61:9 — 'I am not angry, but do rejoice in the greatness of your heart' — is a correction of an accusation that Matthew's disciples were careful not to make."
+          },
+          "note": "'He was exceeding sorrowful, and began to doubt, because of the wickedness of the people.' The four words 'exceeding sorrowful, and began' occur in exactly one KJV verse, and the sentence they open in Alma has the same shape as the one they open in Matthew: a sorrow that turns immediately into a suspicion about the company. The n-gram stream ranked this fifth among the candidates at this verse and behind two chronological formulas, which is §9's point about the recall floor. The 1830 and 1920 agree on the wording here; what carries the row is the collocation, not any variant.",
+          "bibliography": [],
+          "status": "novel",
+          "streams": [
+            "manual",
+            "machine-ngram"
+          ]
+        }
+      ]
     },
     {
       "id": "59:12",
@@ -32409,14 +32998,83 @@
       "ch": 60,
       "ref": "60:9",
       "text": "But behold, this is not all: Ye have withheld your provisions from them, insomuch that many have fought and bled out their lives because of their great desires which they had for the welfare of this people; yea, and this they have done, when they were about to perish with hunger, because of your exceeding great neglect towards them.",
-      "links": []
+      "links": [
+        {
+          "source": "Luke 15:17",
+          "type": "allusion",
+          "subtype": "close-verbal",
+          "confidence": "high",
+          "text": "And when he came to himself, he said, How many hired servants of my father’s have bread enough and to spare, and I perish with hunger!",
+          "evidence": {
+            "vocabulary": 3,
+            "syntax": 3,
+            "sequence": 2,
+            "context": 5,
+            "rarity": 5,
+            "attestation": 0
+          },
+          "kjvSpecific": "yes",
+          "mediation": "direct-NT",
+          "recurrenceRefs": [
+            "2 Nephi 1:24",
+            "Mosiah 21:17",
+            "Alma 60:35"
+          ],
+          "provenance": {
+            "route": "Luke 15:17 → KJV → Book of Mormon",
+            "other": "'Perish with hunger' occurs in exactly 1 KJV verse, Luke 15:17. Moroni uses it twice in this one epistle, at 60:9 of his own men and at 60:35 of what God will not allow; the corpus has it at 2 Nephi 1:24 and Mosiah 21:17, and both of those are adjudicated to the same source. The Book of Mormon has no competing idiom for starvation of its own: 'famish', the KJV's other word for it, appears once in the whole corpus and only inside the transcribed Isaiah of 2 Nephi 15:13.",
+            "significance": "The prodigal's line is not a description of hunger but a comparison: he perishes with hunger while his father's hired servants have bread enough and to spare, and the sentence exists to make the contrast unbearable. That is precisely the rhetorical work Alma 60:9 needs. Moroni is not reporting a famine; he is contrasting men who 'bled out their lives' at the front with a government sitting in the heart of the country 'surrounded by security' (60:19), and the comparison is his whole argument. Recover Luke 15 and the borrowing carries the parable's next move with it — the starving son's remedy is to go home and confront the household that has bread — which is exactly what Moroni threatens at 60:30 and 60:35: 'I come unto you even into the land of Zarahemla', 'he will give unto us of your food, even if it must be by the sword'. The parable's return is a repentance; Moroni's is an invasion."
+          },
+          "note": "'When they were about to perish with hunger, because of your exceeding great neglect towards them.' Three words, but a KJV singleton, and the same three words close the epistle at 60:35 with the argument reversed — there it is God who 'will not suffer that we should perish with hunger'. The corpus has used the phrase twice before and this is its first appearance in Alma; the row is written here rather than carried from Mosiah 21:17 because a new book is a new hand (ADJUDICATING §4) and because Moroni does something with it neither earlier user does, which is to make a starving army's complaint into an accusation against the people who have the bread.",
+          "bibliography": [],
+          "status": "novel",
+          "citationsPending": true,
+          "streams": [
+            "manual"
+          ]
+        }
+      ]
     },
     {
       "id": "60:10",
       "ch": 60,
       "ref": "60:10",
       "text": "And now, my beloved brethren; for ye had ought to be beloved; yea, and ye had ought to have stirred yourselves more diligently for the welfare and the freedom of this people: but behold, ye have neglected them, insomuch that the blood of thousands shall come upon your heads for vengeance; yea, for known unto God were all their cries, and all their sufferings.",
-      "links": []
+      "links": [
+        {
+          "source": "Acts 15:18",
+          "type": "allusion",
+          "subtype": "close-verbal",
+          "confidence": "high",
+          "text": "Known unto God are all his works from the beginning of the world.",
+          "evidence": {
+            "vocabulary": 5,
+            "syntax": 5,
+            "sequence": 5,
+            "context": 4,
+            "rarity": 5,
+            "attestation": 0
+          },
+          "kjvSpecific": "yes",
+          "mediation": "direct-NT",
+          "recurrenceRefs": [
+            "1 Nephi 9:6",
+            "Words of Mormon 1:7"
+          ],
+          "provenance": {
+            "route": "Acts 15:18 → KJV → Book of Mormon",
+            "other": "'Known unto God are all' occurs in exactly 1 KJV verse, Acts 15:18. The only other KJV verse with 'known unto God' at all is Philippians 4:6, where the direction is reversed — requests made known unto God. Alma 60:10 has the Acts word order intact and changes one word: 'known unto God were all their cries, and all their sufferings.'",
+            "significance": "Acts 15:18 is the closing line of James's speech at the Jerusalem council, and its function there is jurisdictional: it settles a dispute between two parties about what may be required of a body of believers by asserting that God has already seen the whole matter. Moroni's sentence does the same work in a fight between a general and a government about what may be required of soldiers. But the substitution is where the row earns its place. James says God knows all his works; Moroni says God knew all their cries and all their sufferings — the object is changed from the divine acts to the human casualties, and the tense from the timeless present to a completed past. Recover Acts and the borrowing quietly claims that the dead of the Nephite garrisons stand in the record where God's own works stand in James's. That is the ground of the sentence's first half, 'the blood of thousands shall come upon your heads for vengeance'."
+          },
+          "note": "'Yea, for known unto God were all their cries, and all their sufferings.' Five words of a KJV singleton in their KJV order, with the verb moved to the past and the object replaced. The corpus reaches Acts 15:18 twice before, at 1 Nephi 9:6 and Words of Mormon 1:7, and in both places for the doctrinal claim that the Lord knows all things; this is the first use of the verse's actual wording, and it is put to a forensic purpose rather than a doctrinal one. The 1830 and 1920 agree here.",
+          "bibliography": [],
+          "status": "novel",
+          "citationsPending": true,
+          "streams": [
+            "manual"
+          ]
+        }
+      ]
     },
     {
       "id": "60:11",
@@ -32507,7 +33165,47 @@
       "ch": 60,
       "ref": "60:23",
       "text": "Do ye suppose that God will look upon you as guiltless, while ye sit still and behold these things? Behold I say unto you, Nay. Now I would that ye should remember that God hath said that The inward vessel shall be cleansed first, and then shall the outer vessel be cleansed also.",
-      "links": []
+      "links": [
+        {
+          "source": "Matthew 23:26",
+          "type": "allusion",
+          "subtype": "paraphrase",
+          "confidence": "high",
+          "text": "Thou blind Pharisee, cleanse first that which is within the cup and platter, that the outside of them may be clean also.",
+          "evidence": {
+            "vocabulary": 4,
+            "syntax": 4,
+            "sequence": 5,
+            "context": 5,
+            "rarity": 5,
+            "attestation": 3
+          },
+          "kjvSpecific": "yes",
+          "mediation": "direct-NT",
+          "composite": [
+            "Luke 11:39",
+            "Matthew 23:25"
+          ],
+          "recurrenceRefs": [
+            "Alma 60:24"
+          ],
+          "provenance": {
+            "route": "Matthew 23:26, with Luke 11:39 → KJV → Book of Mormon",
+            "other": "Two of the saying's three moving parts are KJV singletons and both belong to Matthew 23:26: 'cleanse first' occurs in exactly 1 KJV verse, and so does 'clean also'. The third, 'inward', is Luke's — Matthew 23:26 reads 'that which is within', while Luke 11:39 has 'your inward part'. Neither Gospel has 'vessel'; both have 'the cup and the platter'. tools/mediation-check.py returns one decisive point for each Gospel and reports the divergences as pointing both ways, which is the finding: the Book of Mormon's saying is neither evangelist's wording but a fusion of the two.",
+            "alternative": "Luke 11:39-41 alone, which supplies 'inward' and the Pharisees but neither of the two singletons and not the first/also structure that gives the saying its shape.",
+            "significance": "Moroni does not quote this as a saying of Jesus. He introduces it with 'God hath said', as a standing word of scripture, and then applies it to a civil government — 'it will be expedient that we contend no more with the Lamanites until we have first cleansed our inward vessel; yea, even the great head of our government' (60:24). Recover Matthew 23 and the context is the chapter of woes against men who 'sit in Moses' seat' (23:2), and the whole indictment is that they are diligent about what is visible and negligent about what is not. Moroni has been building that charge for twenty-two verses in exactly Matthew's terms: three times he accuses Pahoran of sitting — 'sit upon your thrones' (60:7, 60:11), 'sit in idleness' (60:22) — and three times of neglect. The cup saying arrives as the seal on that argument, and it converts a private-purity image into a constitutional one: the vessel to be cleansed first is the head of state. Whether the appropriation is deliberate or not, the effect is that the Book of Mormon's one use of Jesus's Pharisee-woe is aimed at a legislature."
+          },
+          "note": "'Now I would that ye should remember that God hath said that The inward vessel shall be cleansed first, and then shall the outer vessel be cleansed also.' Marked in the text as a citation — 'God hath said' — but not reproduced as one: the wording is a paraphrase, and the two phrases that pin it are Matthew 23:26's 'cleanse first' and 'clean also', each a KJV singleton, while the adjective 'inward' comes from Luke 11:39's parallel. 'Outer' is the Book of Mormon's own supply; the KJV's word in both Gospels is 'outside', and its four uses of 'outer' are Ezekiel's court and Matthew's darkness. Hardy's study edition cross-references Matthew 23:25-26 at this verse. Recorded as an allusion rather than a quotation because no clause survives intact, and at high rather than certain because a saying this compressed could in principle be independent — but two singletons from one verse, in that verse's order, is not the shape of independence.",
+          "bibliography": [
+            "Hardy MSI at Alma 60.23 (Matthew 23:25-26)"
+          ],
+          "status": "majority",
+          "streams": [
+            "scholarship",
+            "manual"
+          ]
+        }
+      ]
     },
     {
       "id": "60:24",
@@ -32535,7 +33233,39 @@
       "ch": 60,
       "ref": "60:27",
       "text": "and I will come unto you, and if there be any among you that hath a desire for freedom, yea, if there be even a spark of freedom remaining, behold I will stir up insurrections among you, even until those who hath desires to usurp power and authority, shall become extinct;",
-      "links": []
+      "links": [
+        {
+          "source": "Isaiah 13:17",
+          "type": "allusion",
+          "subtype": "strong-verbal",
+          "confidence": "moderate",
+          "text": "Behold, I will stir up the Medes against them, which shall not regard silver; and as for gold, they shall not delight in it.",
+          "evidence": {
+            "vocabulary": 4,
+            "syntax": 4,
+            "sequence": 3,
+            "context": 4,
+            "rarity": 5,
+            "attestation": 0
+          },
+          "kjvSpecific": "yes",
+          "mediation": "uncertain",
+          "provenance": {
+            "route": "Isaiah 13:17 → KJV → Book of Mormon, or Isaiah 13:17 → 2 Nephi 23:17 → Book of Mormon; see below",
+            "other": "'I will stir up' occurs in exactly 1 KJV verse, Isaiah 13:17, and the Book of Mormon has the four-word opening 'Behold, I will stir up' twice: here, and at 2 Nephi 23:17, which is the corpus's own transcription of Isaiah 13. The transcription departs from the KJV in its second half ('which shall not regard silver and gold, nor they shall not delight in it') but reproduces the opening exactly, so the two routes are verbally indistinguishable at the only words Alma 60:27 shares. Mediation is recorded as uncertain for that reason, and the reason is the whole of it — this is not a default.",
+            "significance": "Isaiah 13 is the burden of Babylon, and 13:17 is the verse in which God announces the instrument of its fall: a people stirred up against a capital that is 'the glory of kingdoms' (13:19). Moroni's charge against Pahoran three verses later is 'your love of glory, and the vain things of the world' (60:32). What he says at 60:27 is 'behold I will stir up insurrections among you, even until those who hath desires to usurp power and authority, shall become extinct' — the sentence in which a general announces that he will raise a rising inside his own nation's capital. He speaks it in the grammar of Isaiah 13:17, which is God's grammar, in the first person, about a city his book calls Zarahemla and Isaiah calls Babylon. It is the most theologically reckless sentence in the epistle and the borrowing is what makes it so."
+          },
+          "note": "'Behold I will stir up insurrections among you.' Four words of a KJV singleton, kept in order and in the first person, with the object changed from a foreign army to a domestic rising. Held at moderate rather than high because the run is short and 'stir up' is ordinary English, and because the corpus already contains the source verse verbatim at 2 Nephi 23:17, so the borrowing cannot be shown to reach here from the KJV rather than from the Nephite record's own Isaiah. What argues for the row is the company the phrase keeps: Isaiah 13's charge against Babylon is glory and vain magnificence, and Alma 60:32's charge against the government is 'your love of glory, and the vain things of the world'.",
+          "whyNot": "Four words is thin, and a general threatening to raise an insurrection has an obvious reason to say 'I will stir up' without any source at all. The row rests on the count plus the Isaiah 13:19 / Alma 60:32 pairing, and a reader who declines the second will rightly decline the first.",
+          "bibliography": [],
+          "status": "novel",
+          "citationsPending": true,
+          "streams": [
+            "machine-ngram",
+            "manual"
+          ]
+        }
+      ]
     },
     {
       "id": "60:28",
@@ -32549,7 +33279,37 @@
       "ch": 60,
       "ref": "60:29",
       "text": "Behold it is time, yea, the time is now at hand, that except ye do bestir yourselves in the defence of your country and your little ones, the sword of justice doth hang over you; yea, and it shall fall upon you and visit you even to your utter destruction.",
-      "links": []
+      "links": [
+        {
+          "source": "2 Samuel 5:24",
+          "type": "allusion",
+          "subtype": "close-verbal",
+          "confidence": "moderate",
+          "text": "And let it be, when thou hearest the sound of a going in the tops of the mulberry trees, that then thou shalt bestir thyself: for then shall the LORD go out before thee, to smite the host of the Philistines.",
+          "evidence": {
+            "vocabulary": 3,
+            "syntax": 2,
+            "sequence": 2,
+            "context": 5,
+            "rarity": 5,
+            "attestation": 0
+          },
+          "kjvSpecific": "yes",
+          "mediation": "direct-OT",
+          "provenance": {
+            "route": "2 Samuel 5:24 → KJV → Book of Mormon",
+            "other": "'Bestir' occurs in exactly 1 KJV verse, 2 Samuel 5:24, and in exactly one Book of Mormon verse, Alma 60:29. It is a word neither book uses twice.",
+            "significance": "The KJV's one use of the word is a divine order to a king about the timing of an attack: David is to wait for the sound in the mulberry trees and then bestir himself, because at that moment the LORD goes out before him to smite the Philistines. It is the Bible's clearest statement that there is a right moment to move an army and that failing to move at it forfeits a battle God had already given. Alma 60:29 is that verse turned into an accusation — 'Behold it is time, yea, the time is now at hand, that except ye do bestir yourselves in the defence of your country and your little ones, the sword of justice doth hang over you.' Moroni's sentence begins by announcing the moment and ends by naming the penalty for missing it, which is 2 Samuel 5:24's structure with the promise removed and a threat put in its place. The whole epistle argues that the government has heard the sound and not moved."
+          },
+          "note": "A one-word row, and the word is a KJV singleton in a book that reuses very little. 'Bestir' is not ordinary nineteenth-century English either; where it survives it survives as a biblicism, and the verse it comes from is about the exact subject of Alma 60 — a commander waiting for a government that will not move at the appointed time. Held at moderate because a single word cannot carry syntax or sequence, and the note is the argument (CONVENTIONS §3a): what makes the row worth having is that 2 Samuel 5:24's sense arrives with its word.",
+          "bibliography": [],
+          "status": "novel",
+          "citationsPending": true,
+          "streams": [
+            "manual"
+          ]
+        }
+      ]
     },
     {
       "id": "60:30",
@@ -32577,14 +33337,109 @@
       "ch": 60,
       "ref": "60:33",
       "text": "Ye know that ye do transgress the laws of God, and ye do know that ye do trample them under your feet. Behold, the Lord saith unto me, If those whom ye have appointed your governors, do not repent of their sins and iniquities, ye shall go up to battle against them.",
-      "links": []
+      "links": [
+        {
+          "source": "Matthew 7:6",
+          "type": "allusion",
+          "subtype": "close-verbal",
+          "confidence": "high",
+          "text": "Give not that which is holy unto the dogs, neither cast ye your pearls before swine, lest they trample them under their feet, and turn again and rend you.",
+          "evidence": {
+            "vocabulary": 5,
+            "syntax": 4,
+            "sequence": 4,
+            "context": 4,
+            "rarity": 5,
+            "attestation": 0
+          },
+          "kjvSpecific": "yes",
+          "mediation": "direct-NT",
+          "recurrenceRefs": [
+            "Alma 5:53",
+            "3 Nephi 14:6"
+          ],
+          "provenance": {
+            "route": "Matthew 7:6 → KJV → Book of Mormon",
+            "other": "'Trample them under' occurs in exactly 1 KJV verse, Matthew 7:6, and Alma 60:33 reproduces it with one pronoun changed: 'ye do trample them under your feet' for 'lest they trample them under their feet'. The KJV's usual verb for this action is 'tread' or 'trodden'; 'trample' occurs in only three KJV verses altogether. Alma 5:53 has the verb with a divine object and is adjudicated to Hebrews 10:29 with Matthew 7:6 as a composite; this is the corpus's closest reproduction of Matthew's actual run.",
+            "significance": "Matthew 7:6 is about entrusting holy things to keepers who will not keep them, and its second half is what the trampling leads to: the swine 'turn again and rend you'. Alma 60:33 has both halves in two sentences. The first names the trampling and its object — 'ye do transgress the laws of God, and ye do know that ye do trample them under your feet' — and the second is the rending: 'Behold, the Lord saith unto me, If those whom ye have appointed your governors, do not repent of their sins and iniquities, ye shall go up to battle against them.' Recover Matthew and the verse supplies the premise Moroni never states, which is that the laws of God were a holy thing given into the keeping of men who proved to be the wrong keepers. The corpus will later transcribe Matthew 7:6 entire at 3 Nephi 14:6; here it is being used before it is quoted."
+          },
+          "note": "Five words of a KJV singleton with one pronoun changed, in a verse whose second sentence supplies Matthew's own consequence. Written here rather than carried from Alma 5:53 because 5:53's phrase is 'trample the holy one under your feet', which is why that row's primary source is Hebrews 10:29; the KJV run that Matthew 7:6 actually contains appears in Alma only at 60:33.",
+          "bibliography": [],
+          "status": "novel",
+          "citationsPending": true,
+          "streams": [
+            "manual"
+          ]
+        },
+        {
+          "source": "1 Kings 22:14",
+          "type": "allusion",
+          "subtype": "close-verbal",
+          "confidence": "moderate",
+          "text": "And Micaiah said, As the LORD liveth, what the LORD saith unto me, that will I speak.",
+          "evidence": {
+            "vocabulary": 4,
+            "syntax": 4,
+            "sequence": 3,
+            "context": 5,
+            "rarity": 5,
+            "attestation": 0
+          },
+          "kjvSpecific": "yes",
+          "mediation": "direct-OT",
+          "provenance": {
+            "route": "1 Kings 22:14 → KJV → Book of Mormon",
+            "other": "'The LORD saith unto me' occurs in exactly 1 KJV verse, 1 Kings 22:14. The bare 'saith unto me' occurs in six, four of them in Revelation, where the speaker is an angel and not the Lord.",
+            "significance": "1 Kings 22 is the King James Bible's set piece on a prophet, a king and a war council. Two kings are about to go up to Ramoth-gilead; four hundred prophets tell them to go and prosper; Micaiah alone says he will speak only what the LORD saith unto him, and what he then says is that Israel will be scattered on the hills as sheep that have not a shepherd, because 'these have no master' (22:17). Moroni's clause introduces the one moment in his epistle when he stops arguing and claims a word: 'Behold, the Lord saith unto me, If those whom ye have appointed your governors, do not repent of their sins and iniquities, ye shall go up to battle against them.' He is in Micaiah's position and says so in Micaiah's words — the lone voice against a body of men who govern a war — and the word he brings is Micaiah's word inverted. Micaiah forbids a battle a king wants; Moroni commands one nobody wants, and against the governors themselves."
+          },
+          "note": "'Behold, the Lord saith unto me' is a five-word KJV singleton and the machine found it on a six-word run. Held at moderate because the words are the plainest possible way in English to introduce a divine communication, so the count is a fact about the KJV rather than proof of borrowing; what raises it is that the KJV's one instance is the scene Alma 60 has been re-enacting since verse 1 — a war council, a governing body committed to a course, and one man claiming the only word from God in the room.",
+          "bibliography": [],
+          "status": "novel",
+          "citationsPending": true,
+          "streams": [
+            "machine-ngram",
+            "manual"
+          ]
+        }
+      ]
     },
     {
       "id": "60:34",
       "ch": 60,
       "ref": "60:34",
       "text": "And now behold, I Moroni am constrained, according to the covenant which I have made to keep the commandments of my God; therefore I would that ye should adhear to the word of God, and send speedily unto me of your provisions and of your men, and also to Helaman.",
-      "links": []
+      "links": [
+        {
+          "source": "Psalm 119:115",
+          "type": "quotation",
+          "subtype": "close-verbal",
+          "confidence": "high",
+          "text": "Depart from me, ye evildoers: for I will keep the commandments of my God.",
+          "evidence": {
+            "vocabulary": 5,
+            "syntax": 5,
+            "sequence": 5,
+            "context": 5,
+            "rarity": 5,
+            "attestation": 0
+          },
+          "kjvSpecific": "yes",
+          "mediation": "direct-OT",
+          "provenance": {
+            "route": "Psalm 119:115 → KJV → Book of Mormon",
+            "other": "'Keep the commandments of my God' occurs in exactly 1 KJV verse, Psalm 119:115, and so does the shorter 'the commandments of my God'. The Book of Mormon's usual form of this formula is second or third person — 'keep the commandments of God', 'his commandments' — and 'commandments of my God' occurs in exactly one Book of Mormon verse, this one. Both the KJV and the corpus use the first-person possessive once each.",
+            "significance": "Psalm 119:115 is a verse of separation, and it is the only one in the psalm that addresses anyone but God: 'Depart from me, ye evildoers: for I will keep the commandments of my God.' The keeping of the commandments is given there as the reason for the break — the psalmist dismisses the company because he intends to obey. Moroni's use is identical in function and unstated in its first half. He writes 'I Moroni am constrained, according to the covenant which I have made to keep the commandments of my God' at the point in the epistle where he has just been told nothing and is about to march on Zarahemla, and the covenant he invokes is the ground of a separation from the men he is writing to. Recover the psalm and the sentence's missing clause is supplied: depart from me, ye evildoers. Two verses later he tells them he is coming."
+          },
+          "note": "Six words reproduced exactly from a verse in which they occur once in the whole King James Bible. This falls below Skousen's sixteen-word threshold and is not among his thirty-six, but the clause is complete and the possessive is distinctive: 'commandments of my God' occurs once in the King James Bible and once in the Book of Mormon. Catalogued as a quotation on CONVENTIONS §2's ground that length does not decide the category — a complete clause from a KJV singleton is a quotation whatever its length.",
+          "bibliography": [],
+          "status": "novel",
+          "citationsPending": true,
+          "streams": [
+            "machine-ngram",
+            "manual"
+          ]
+        }
+      ]
     },
     {
       "id": "60:35",
@@ -32626,14 +33481,86 @@
       "ch": 61,
       "ref": "61:4",
       "text": "And it is those who have sought to take away the judgement seat from me, that have been the cause of this great iniquity; for they have used great flattery; and they have led away the hearts of many people, which will be the cause of sore affliction among us; they have withheld our provisions, and have daunted our freemen, that they have not come unto you.",
-      "links": []
+      "links": [
+        {
+          "source": "2 Samuel 15:6",
+          "type": "figural",
+          "subtype": "type-scene",
+          "confidence": "moderate",
+          "text": "And on this manner did Absalom to all Israel that came to the king for judgment: so Absalom stole the hearts of the men of Israel.",
+          "evidence": {
+            "vocabulary": 2,
+            "syntax": 1,
+            "sequence": 4,
+            "context": 5,
+            "rarity": 3,
+            "attestation": 0
+          },
+          "kjvSpecific": "uncertain",
+          "mediation": "direct-OT",
+          "composite": [
+            "2 Samuel 15:4",
+            "2 Samuel 15:10",
+            "2 Samuel 15:14"
+          ],
+          "recurrenceRefs": [
+            "Alma 61:5",
+            "Alma 61:8"
+          ],
+          "provenance": {
+            "route": "2 Samuel 15:4-14 → KJV → Book of Mormon",
+            "other": "'Stole the hearts' is a KJV singleton at 2 Samuel 15:6; the Book of Mormon has 'led away the hearts', which is its own idiom (Alma 46:10) and not the KJV's verb. The catalogue adjudicates the verbal borrowing of that idiom at Mosiah 27:9 and Alma 17:29; this row is not about the words.",
+            "alternative": "Daniel 11:21 and 11:32 give the KJV its political 'flatteries', and a reader who wants a source for Pahoran's 'great flattery' alone would take it there rather than to Absalom.",
+            "significance": "The sequence, not the vocabulary, is the argument. 2 Samuel 15 is the KJV's one full account of a coup mounted from the judgment seat: Absalom stations himself where 'any man that had a controversy came to the king for judgment' and wishes aloud that he 'were made judge in the land' (15:4); he steals the hearts of Israel (15:6); he is proclaimed king in Hebron (15:10); and the lawful ruler flees the capital rather than fight for it (15:14). Alma 61:4-8 runs the same four beats in the same order — rebels who 'have sought to take away the judgement seat', hearts led away, a king appointed over them in the captured capital, and Pahoran driven out to Gideon. Nothing in the epistle names Absalom, which is what makes it worth recording: if the pattern is borrowed, it is borrowed whole and silently, and it supplies the one thing Pahoran's letter needs and never argues for — that a chief judge who abandons his capital is not thereby a coward."
+          },
+          "note": "'It is those who have sought to take away the judgement seat from me … they have used great flattery; and they have led away the hearts of many people.' A figural row, filed under CONVENTIONS §0a with its thinness stated. The verbal contact is one displaced idiom, and the catalogue has already adjudicated that idiom against 2 Samuel 15:6 twice, so nothing here rests on it. What rests on this row is the shape of verses 4 through 8, which reproduces the Absalom rebellion's distinctive order — judgment seat, hearts, usurped kingship, flight of the rightful ruler — a sequence the KJV tells once. Moroni's epistle in Alma 60 had accused Pahoran of sitting 'upon a thoughtless stupor' in the seat of government; the reply's first move is to describe the loss of that seat in the terms of the Bible's one story where losing it is the innocent party's fate.",
+          "whyNot": "There is no verbal contact worth the name. 'Led away the hearts' is the Book of Mormon's own phrase, used of Amalickiah at Alma 46:10 before Pahoran uses it here, and a rebellion that captures a capital and crowns a king will resemble Absalom's whether or not anyone was reading 2 Samuel. The row stands or falls on whether the ordering of four common elements is evidence, and a reasonable reader can say it is not.",
+          "bibliography": [],
+          "status": "novel",
+          "citationsPending": true,
+          "streams": [
+            "manual"
+          ]
+        }
+      ]
     },
     {
       "id": "61:5",
       "ch": 61,
       "ref": "61:5",
       "text": "And behold, they have driven me out before them, and I have fled to the land of Gideon, with as many men as it were possible that I could get.",
-      "links": []
+      "links": [
+        {
+          "source": "1 Samuel 26:19",
+          "type": "echo",
+          "subtype": "possible",
+          "confidence": "moderate",
+          "text": "Now therefore, I pray thee, let my lord the king hear the words of his servant. If the LORD have stirred thee up against me, let him accept an offering: but if they be the children of men, cursed be they before the LORD; for they have driven me out this day from abiding in the inheritance of the LORD, saying, Go, serve other gods.",
+          "evidence": {
+            "vocabulary": 3,
+            "syntax": 3,
+            "sequence": 2,
+            "context": 4,
+            "rarity": 5,
+            "attestation": 0
+          },
+          "kjvSpecific": "yes",
+          "mediation": "direct-OT",
+          "provenance": {
+            "route": "1 Samuel 26:19 → KJV → Book of Mormon",
+            "other": "'Have driven me out' occurs in exactly one KJV verse. The longer 'they have driven me' likewise resolves to 1 Samuel 26:19 alone.",
+            "significance": "The KJV has one man who says that they have driven him out, and it is David, complaining to Saul from the far side of a hill about being expelled from 'the inheritance of the LORD'. Pahoran, writing from the land of Gideon after the loss of Zarahemla, uses the same sentence. Taken with the row at 61:4 the two halves of David's career are doing the same work in four verses: the exile of 1 Samuel and the coup of 2 Samuel, both of them stories in which the legitimate ruler is out of his capital and is not thereby illegitimate. That is precisely the charge Alma 60 laid against Pahoran and precisely what this letter has to answer."
+          },
+          "note": "'They have driven me out before them, and I have fled to the land of Gideon.' Four words, but they are a KJV singleton and they are spoken in the Bible by the anointed king in flight. The machine stream proposed the verse on the string alone; what makes it more than a string is that the situation matches — a rightful ruler displaced by his own people, protesting his legitimacy from outside the seat of power — and that the surrounding verses are running the Absalom sequence catalogued at 61:4. Held at moderate: the phrase is ordinary English and could be reinvented by anyone describing an expulsion.",
+          "bibliography": [],
+          "status": "novel",
+          "citationsPending": true,
+          "streams": [
+            "machine-ngram",
+            "manual"
+          ]
+        }
+      ]
     },
     {
       "id": "61:6",
@@ -32668,7 +33595,37 @@
       "ch": 61,
       "ref": "61:10",
       "text": "And now behold we will resist wickedness even unto bloodshed. We would not shed the blood of the Lamanites, if they would stay in their own land.",
-      "links": []
+      "links": [
+        {
+          "source": "Hebrews 12:4",
+          "type": "allusion",
+          "subtype": "close-verbal",
+          "confidence": "high",
+          "text": "Ye have not yet resisted unto blood, striving against sin.",
+          "evidence": {
+            "vocabulary": 4,
+            "syntax": 4,
+            "sequence": 4,
+            "context": 5,
+            "rarity": 5,
+            "attestation": 0
+          },
+          "kjvSpecific": "yes",
+          "mediation": "direct-NT",
+          "provenance": {
+            "route": "Hebrews 12:4 → KJV → Book of Mormon",
+            "other": "Hebrews 12:4 is seven words long and two of its three phrases are KJV singletons: “resisted unto blood” occurs in exactly one KJV verse and “striving against sin” occurs in exactly one KJV verse. 'Resist' in any form occurs in only ten KJV verses, nine of them in the New Testament; Alma 61 uses the word five times in five verses.",
+            "significance": "'Ye have not yet resisted unto blood, striving against sin' is a reproach in Hebrews: the readers' struggle against sin has not yet cost them anything, and the writer means martyrdom, not war. Pahoran answers the reproach in the affirmative and in the literal sense — 'we will resist wickedness even unto bloodshed' — and the sentence that follows makes the blood other people's, not his own: 'we would not shed the blood of the Lamanites, if they would stay in their own land'. The metalepsis is the whole point. Recover Hebrews 12's context and the resistance unto blood is Christ's, 'who for the joy that was set before him endured the cross'; Alma 61:10-14 converts the passive endurance of the epistle into a doctrine of just war, and does it with the epistle's own vocabulary. This is the pivot of Pahoran's ethics and it is built out of a seven-word verse."
+          },
+          "note": "'And now behold we will resist wickedness even unto bloodshed.' Four content words, and three of them — resist, unto, blood — are Hebrews 12:4's, in Hebrews 12:4's order, with 'wickedness' standing where the KJV has 'sin'. The remaining KJV occurrence of 'unto blood' is Ezekiel 35:6, where blood pursues the guilty and no one resists anything, so the phrase resolves to Hebrews without ambiguity. Taken with the Matthew 5:39 row at 61:14, the epistle's argument for fighting is assembled from the two KJV verses about resistance that most obviously forbid it.",
+          "bibliography": [],
+          "status": "novel",
+          "citationsPending": true,
+          "streams": [
+            "manual"
+          ]
+        }
+      ]
     },
     {
       "id": "61:11",
@@ -32689,21 +33646,120 @@
       "ch": 61,
       "ref": "61:13",
       "text": "But behold he doth not command us that we shall subject ourselves to our enemies, but that we should put our trust in him, and he will deliver us.",
-      "links": []
+      "links": [
+        {
+          "source": "Daniel 3:17",
+          "type": "allusion",
+          "subtype": "strong-verbal",
+          "confidence": "high",
+          "text": "If it be so, our God whom we serve is able to deliver us from the burning fiery furnace, and he will deliver us out of thine hand, O king.",
+          "evidence": {
+            "vocabulary": 4,
+            "syntax": 4,
+            "sequence": 4,
+            "context": 5,
+            "rarity": 5,
+            "attestation": 0
+          },
+          "kjvSpecific": "yes",
+          "mediation": "direct-OT",
+          "composite": [
+            "Daniel 3:18"
+          ],
+          "recurrenceRefs": [
+            "Alma 61:12"
+          ],
+          "provenance": {
+            "route": "Daniel 3:17-18 → KJV → Book of Mormon",
+            "other": "'He will deliver us' occurs in exactly one KJV verse, Daniel 3:17, and in exactly one Book of Mormon verse, this one. The companion phrase from the same verse, 'able to deliver us', is likewise a KJV singleton and is adjudicated at 1 Nephi 4:3; the two halves of Daniel 3:17 therefore enter the Book of Mormon at its first chapter of narrative and at its last epistle, and nowhere in between.",
+            "significance": "Daniel 3:17-18 is the KJV's model of principled refusal: our God is able to deliver us and he will deliver us, but if not, we still will not serve. Alma 61:12-13 puts the same two clauses in the same order and inverts the condition — 'we would subject ourselves to the yoke of bondage, if it were requisite with the justice of God … but behold he doth not command us that we shall subject ourselves to our enemies, but that we should put our trust in him, and he will deliver us'. Where the three young men submit to the furnace because God has not promised rescue, Pahoran declines submission because God has not commanded it. The borrowed sentence is the hinge on which the reversal turns, and the reversal is what licenses the war: obedience in Daniel means going into the fire, and here it means going to Zarahemla."
+          },
+          "note": "'That we should put our trust in him, and he will deliver us.' A KJV singleton reproduced verbatim, in a two-verse structure that reproduces Daniel 3:17-18's conditional as well as its wording. The catalogue takes the phrase's other half at 1 Nephi 4:3, where Nephi cites the deliverance of the fathers from the Egyptians; this row is a fresh borrowing rather than a recurrence, because it is a different clause of the verse, in a different book, doing the opposite work — Nephi invokes Daniel's confidence to justify a killing, Pahoran invokes it to decline a surrender.",
+          "bibliography": [],
+          "status": "novel",
+          "citationsPending": true,
+          "streams": [
+            "machine-ngram",
+            "manual"
+          ]
+        }
+      ]
     },
     {
       "id": "61:14",
       "ch": 61,
       "ref": "61:14",
       "text": "Therefore my beloved brother Moroni, let us resist evil; and whatsoever evil we cannot resist with our words, yea, such as rebellions and dissensions, let us resist them with our swords, that we may retain our freedom, that we may rejoice in the great privilege of our church and in the cause of our Redeemer and our God.",
-      "links": []
+      "links": [
+        {
+          "source": "Matthew 5:39",
+          "type": "allusion",
+          "subtype": "close-verbal",
+          "confidence": "moderate",
+          "text": "But I say unto you, That ye resist not evil: but whosoever shall smite thee on thy right cheek, turn to him the other also.",
+          "evidence": {
+            "vocabulary": 3,
+            "syntax": 4,
+            "sequence": 3,
+            "context": 5,
+            "rarity": 5,
+            "attestation": 0
+          },
+          "kjvSpecific": "yes",
+          "mediation": "direct-NT",
+          "provenance": {
+            "route": "Matthew 5:39 → KJV → Book of Mormon",
+            "other": "'Resist not evil' occurs in exactly one KJV verse. The Book of Mormon reproduces that verse without the negative at 3 Nephi 12:39, in its own Sermon; 'resist evil' as a positive imperative occurs in the Book of Mormon only here.",
+            "significance": "Two Book of Mormon verses contain the phrase. One is 3 Nephi 12:39, where the risen Christ quotes Matthew 5:39 as it stands — 'resist not evil'. The other is this one, where a chief governor writes 'let us resist evil … let us resist them with our swords'. The catalogue cannot say which was composed first, but a reader of the finished book meets Pahoran's sentence four hundred pages before the Sermon that contradicts it, and then meets the contradiction. Metalepsis here works by suppression: Matthew 5:39's next clause is 'whosoever shall smite thee on thy right cheek, turn to him the other also', and Pahoran's next clause is the sword. The one verse of the KJV that forbids resistance supplies the words with which resistance is urged."
+          },
+          "note": "'Let us resist evil; and whatsoever evil we cannot resist with our words … let us resist them with our swords.' The verbal contact is two words, and they are not rare words; what is rare is their pairing, which the KJV makes once and makes negative. Held at moderate rather than high because a writer wanting a positive imperative to resist evil could reach it without Matthew — James 4:7's 'resist the devil' is close by, and 'resist' is scattered across nine other New Testament verses. What tips it is the company: the same paragraph has already taken Hebrews 12:4 (61:10) and Daniel 3:17 (61:13), so the chapter is demonstrably assembling its war ethic out of the KJV's resistance vocabulary, and Matthew 5:39 is the verse that vocabulary is most conspicuously borrowed against.",
+          "whyNot": "Two common words, and the Book of Mormon reverses the polarity of the only thing that makes them rare. A reader could hold that the resemblance to Matthew 5:39 is an accident of the English verb, and that the sentence's real background is the general New Testament exhortation to resist (James 4:7, 1 Peter 5:9) with no particular verse in view.",
+          "bibliography": [],
+          "status": "novel",
+          "citationsPending": true,
+          "streams": [
+            "manual"
+          ]
+        }
+      ]
     },
     {
       "id": "61:15",
       "ch": 61,
       "ref": "61:15",
       "text": "Therefore come unto me speedily, with a few of your men, and leave the remainder in the charge of Lehi and Teancum; give unto them power to conduct the war in that part of the land, according to the spirit of God, which is also the spirit of freedom which is in them.",
-      "links": []
+      "links": [
+        {
+          "source": "2 Corinthians 3:17",
+          "type": "echo",
+          "subtype": "conceptual",
+          "confidence": "moderate",
+          "text": "Now the Lord is that Spirit: and where the Spirit of the Lord is, there is liberty.",
+          "evidence": {
+            "vocabulary": 2,
+            "syntax": 2,
+            "sequence": 2,
+            "context": 5,
+            "rarity": 4,
+            "attestation": 0
+          },
+          "kjvSpecific": "yes",
+          "mediation": "direct-NT",
+          "provenance": {
+            "route": "2 Corinthians 3:17 → KJV → Book of Mormon",
+            "other": "'There is liberty' occurs in exactly one KJV verse. 'Spirit of the Lord is' occurs in two, Luke 4:18 and 2 Corinthians 3:17; only the second predicates liberty of the Spirit. The Book of Mormon's word here is 'freedom', not 'liberty', which is why this is filed as an echo — though the same chapter uses 'liberty' for the same thing at 61:9 and 61:21.",
+            "significance": "'The spirit of God, which is also the spirit of freedom which is in them' is an identification, not a description, and the KJV makes that identification once: 'Now the Lord is that Spirit: and where the Spirit of the Lord is, there is liberty.' Paul is contrasting the veiled reading of Moses with the unveiled reading of Christ; the liberty is hermeneutical and interior. Pahoran gives Lehi and Teancum a commission to conduct a war 'according to the spirit of God, which is also the spirit of freedom'. If 2 Corinthians 3:17 is behind it, the sentence completes what Galatians 5:1 began three verses earlier: the chapter has taken Paul's two great statements about Christian liberty and made them the charter of a standing army. That is the reading; the wording alone will not compel it."
+          },
+          "note": "Proposed under CONVENTIONS §0a. There is no shared string — the Book of Mormon has 'freedom' where Paul has 'liberty' — so this is an echo on the strength of the proposition rather than the words: the equation of God's Spirit with freedom is Pauline and, in the KJV, is made in one verse. It is offered because the chapter's other borrowings make the Pauline liberty vocabulary demonstrably present (61:9, 61:12, 61:21 = Galatians 5:1), and because a reader who has been sent from 61:9 to the Galatians 5:1 row at Alma 58:40 should also be shown where that verse's companion would fall.",
+          "whyNot": "No verbal contact at all. 'Spirit of freedom' is the Book of Mormon's own phrase, coined at Alma 51:6-7 with the freemen and used here without any sign of a source; a writer who had already made liberty the theme of a letter needs no epistle of Paul to call the impulse behind it a spirit.",
+          "bibliography": [],
+          "status": "novel",
+          "citationsPending": true,
+          "streams": [
+            "manual"
+          ]
+        }
+      ]
     },
     {
       "id": "61:16",
@@ -32892,7 +33948,49 @@
       "ch": 62,
       "ref": "62:21",
       "text": "And it came to pass that they were on the east, by the entrance; and they were all asleep. And now Moroni returned to his army, and caused that they should prepare in haste strong cords and ladders, to be let down from the top of the wall into the inner part of the wall.",
-      "links": []
+      "links": [
+        {
+          "source": "Joshua 2:15",
+          "type": "allusion",
+          "subtype": "conceptual",
+          "confidence": "moderate",
+          "text": "Then she let them down by a cord through the window: for her house was upon the town wall, and she dwelt upon the wall.",
+          "evidence": {
+            "vocabulary": 4,
+            "syntax": 3,
+            "sequence": 4,
+            "context": 5,
+            "rarity": 5,
+            "attestation": 0
+          },
+          "kjvSpecific": "yes",
+          "mediation": "direct-OT",
+          "composite": [
+            "Joshua 2:1",
+            "2 Corinthians 11:33",
+            "Acts 9:25"
+          ],
+          "recurrenceRefs": [
+            "Alma 62:20",
+            "Alma 62:22",
+            "Alma 62:23",
+            "Alma 62:36"
+          ],
+          "provenance": {
+            "route": "Joshua 2:1-15 → KJV → Book of Mormon",
+            "other": "“by a cord” occurs in exactly one KJV verse, Joshua 2:15, and that verse is also the KJV's one instance of a cord, a wall and a letting-down in a single sentence. The New Testament has the manoeuvre twice more, both of Paul at Damascus: “let down by the wall” occurs in exactly one KJV verse, 2 Corinthians 11:33, and Acts 9:25 has “let him down by the wall in a basket”. Neither of those has a cord. In the Book of Mormon “let down” occurs only at Alma 62:21 and 62:23, and “with a cord” only at 62:36 — three verses of one chapter, and nowhere else in the volume.",
+            "significance": "Every biblical descent by cord over a city wall is an escape: Rahab's spies get out of Jericho, Michal's David gets out of the house, Paul gets out of Damascus. Alma 62 reverses the vector twice in seventeen verses. Moroni's men go down the wall to get *into* Nephihah, and Teancum goes down a wall on a cord to get into the Lamanite camp. The reversal is what makes the borrowing legible as more than a coincidence of siegecraft, and it is thematically exact: the manoeuvre that in scripture preserves a life is used here to take a city and, at 62:36, to kill a king and lose the killer. Note too what precedes it. Moroni goes up the wall by night “to spy out in what part of the city the Lamanites did camp”, which is Joshua 2:1's errand — men sent by night to spy out a walled city — and the cord follows the spying in Joshua as it follows it here. The city is taken “without the loss of one soul” (62:26), which is Jericho's outcome for Rahab's household and not for anyone else in it."
+          },
+          "note": "“They should prepare in haste strong cords and ladders, to be let down from the top of the wall into the inner part of the wall.” The nouns are ordinary and the combination is not: cord, wall, and a body let down over it is one KJV verse in the Old Testament and two in the New, and the Book of Mormon confines the whole vocabulary to this chapter. Filed as an allusion at moderate rather than high because siege narrative will independently produce ropes and walls, and because the Book of Mormon adds ladders, which no source has. What argues for dependence is the order of operations — night reconnaissance of a walled city, then a descent by cord — which is Joshua 2 in miniature and inverted.",
+          "whyNot": "Ropes over walls are what armies actually use, and a writer describing an escalade needs no biblical model to reach for one. The strongest single string, “by a cord”, is at 62:36 and not here, and the Book of Mormon never uses the KJV's “let down by the wall”.",
+          "bibliography": [],
+          "status": "novel",
+          "citationsPending": true,
+          "streams": [
+            "manual"
+          ]
+        }
+      ]
     },
     {
       "id": "62:22",
@@ -33025,7 +34123,42 @@
       "ch": 62,
       "ref": "62:40",
       "text": "And there had been murders, and contentions, and dissensions, and all manner of iniquity among the people of Nephi; nevertheless, for the righteous’ sake, yea, because of the prayers of the righteous, they were spared.",
-      "links": []
+      "links": [
+        {
+          "source": "Genesis 18:26",
+          "type": "allusion",
+          "subtype": "conceptual",
+          "confidence": "moderate",
+          "text": "And the LORD said, If I find in Sodom fifty righteous within the city, then I will spare all the place for their sakes.",
+          "evidence": {
+            "vocabulary": 3,
+            "syntax": 2,
+            "sequence": 3,
+            "context": 5,
+            "rarity": 4,
+            "attestation": 0
+          },
+          "kjvSpecific": "uncertain",
+          "mediation": "direct-OT",
+          "composite": [
+            "Genesis 18:23",
+            "Genesis 18:24"
+          ],
+          "provenance": {
+            "route": "Genesis 18:23-32 → KJV → Book of Mormon",
+            "other": "“spare the place” occurs in exactly one KJV verse, Genesis 18:24, and “spare all the place for their sakes” is its answer at 18:26; “fifty righteous” occurs in exactly three verses, all of them in this bargaining. “For the righteous' sake” in that exact form occurs in no KJV verse, which is why the catalogue filed the parallel at Alma 45:15 as insufficient-verbal — there was nothing there but the idea. Here the verb arrives with it: the Nephites “were spared”.",
+            "significance": "Genesis 18 is the Bible's one sustained argument that a wicked city may be left standing on account of the righteous inside it, and the terms it settles on are exactly Mormon's: sparing, a place, and the righteous as the reason. What Mormon adds is the mechanism. Abraham's fifty righteous need only exist; Mormon's righteous pray — “because of the prayers of the righteous, they were spared” — which converts a bare arithmetic of merit into intercession, and thereby makes Abraham's own role in Genesis 18, the intercessor standing before the LORD, part of what is being borrowed rather than merely the frame around it. The verse closes a war narrative in which the Nephites have just executed everyone who would not fight; the sentence that spares them is the sentence God offered Sodom."
+          },
+          "note": "“There had been murders, and contentions, and dissensions, and all manner of iniquity among the people of Nephi; nevertheless, for the righteous' sake, yea, because of the prayers of the righteous, they were spared.” The catalogue declined this source at Alma 45:15 for want of any wording to test, and records that decision in the exclusion register; at 62:40 the wording is present — a people spared, for the sake of the righteous among them — and the sentence structure follows Genesis 18's own: the iniquity is stated first and at length, and the sparing is the concession that follows it. Held at moderate. The shared words are common, and only their configuration is rare.",
+          "whyNot": "No string of any length is shared. “Spare”, “righteous” and “sake” are among the KJV's commonest religious vocabulary, and the doctrine that a land is preserved for the righteous within it is the Book of Mormon's own from 2 Nephi 1:7 onward and does not need Genesis to state it here.",
+          "bibliography": [],
+          "status": "novel",
+          "citationsPending": true,
+          "streams": [
+            "manual"
+          ]
+        }
+      ]
     },
     {
       "id": "62:41",
@@ -33095,7 +34228,42 @@
       "ch": 62,
       "ref": "62:50",
       "text": "yea, they did remember how great things the Lord had done for them, that he had delivered them from death, and from bonds, and from prisons, and from all manner of afflictions; and he had delivered them out of the hands of their enemies.",
-      "links": []
+      "links": [
+        {
+          "source": "Judges 8:34",
+          "type": "allusion",
+          "subtype": "close-verbal",
+          "confidence": "high",
+          "text": "And the children of Israel remembered not the LORD their God, who had delivered them out of the hands of all their enemies on every side:",
+          "evidence": {
+            "vocabulary": 5,
+            "syntax": 4,
+            "sequence": 5,
+            "context": 5,
+            "rarity": 5,
+            "attestation": 0
+          },
+          "kjvSpecific": "yes",
+          "mediation": "direct-OT",
+          "composite": [
+            "Mark 5:19",
+            "1 Samuel 12:24"
+          ],
+          "provenance": {
+            "route": "Judges 8:34 → KJV → Book of Mormon",
+            "other": "Judges 8:34 is a fourteen-word verse and two of its phrases are KJV singletons: “remembered not the Lord their God” occurs in exactly one KJV verse and “delivered them out of the hands” occurs in exactly one KJV verse. Both are in Alma 62:49-50, in Judges' order, with the negative removed. Separately, “how great things” at the head of 62:50 belongs to a five-verse KJV family (1 Samuel 12:24, Mark 5:19, Mark 5:20, Luke 8:39, Acts 9:16); the Book of Mormon's “the Lord had done for them” has Mark's divine title rather than Samuel's “he” or Luke's “God”, which is the form already adjudicated at 1 Nephi 7:11 and 2 Nephi 1:1 and is listed here as a composite rather than given a second row.",
+            "significance": "Judges 8:34 is the epitaph on Gideon's generation — the sentence with which the book of Judges announces that deliverance did not take. Alma 62:49-50 is the epitaph on the war chapters, and it is Judges 8:34 read backwards clause for clause. “Remembered not the Lord their God” becomes “neither were they slow to remember the Lord their God”; “delivered them out of the hands of all their enemies” becomes “he had delivered them out of the hands of their enemies”. Mormon is writing the notice that Judges refused to write. The metalepsis costs him something, because a reader who recovers Judges 8:34 also recovers what stands on either side of it — 8:33, where Israel goes a-whoring after Baalim “as soon as Gideon was dead”, and 9:1, where Abimelech makes himself king over Shechem and murders his brothers. Alma 62:52 records that Helaman died; Helaman 1 opens with a contention over the judgment seat and a political murder. The borrowed verse carries its own sequel, and the sequel arrives on schedule."
+          },
+          "note": "“Neither were they slow to remember the Lord their God … yea, they did remember how great things the Lord had done for them … and he had delivered them out of the hands of their enemies.” Two KJV singletons out of one fourteen-word verse, in the source's order, with the source's polarity reversed. This is the strongest link in Alma 62 and the machine stream found it: Judges 8:34 scored an eight-word run at this verse. The reversal is the whole interest — the Book of Mormon takes the Old Testament's flattest statement that Israel forgot its deliverer and uses it, negated, as its own certificate of a people who did not.",
+          "bibliography": [],
+          "status": "novel",
+          "citationsPending": true,
+          "streams": [
+            "machine-ngram",
+            "manual"
+          ]
+        }
+      ]
     },
     {
       "id": "62:51",
@@ -33123,7 +34291,43 @@
       "ch": 63,
       "ref": "63:2",
       "text": "and he was a just man, and he did walk uprightly before God; and he did observe to do good continually, to keep the commandments of the Lord his God; and also did his brother.",
-      "links": []
+      "links": [
+        {
+          "source": "Mark 6:20",
+          "type": "allusion",
+          "subtype": "close-verbal",
+          "confidence": "moderate",
+          "text": "For Herod feared John, knowing that he was a just man and an holy, and observed him; and when he heard him, he did many things, and heard him gladly.",
+          "evidence": {
+            "vocabulary": 4,
+            "syntax": 3,
+            "sequence": 3,
+            "context": 3,
+            "rarity": 3,
+            "attestation": 0
+          },
+          "kjvSpecific": "yes",
+          "mediation": "direct-NT",
+          "recurrenceRefs": [
+            "Enos 1:1"
+          ],
+          "provenance": {
+            "route": "Mark 6:20 → KJV → Book of Mormon",
+            "alternative": "Genesis 6:9, 'Noah was a just man and perfect in his generations, and Noah walked with God', is the other candidate and has the better claim on the verse's second clause: the Book of Mormon's 'he did walk uprightly before God' is a walking-with-God formula and Mark has none. Genesis 6:5's 'only evil continually' occurs in exactly one KJV verse and stands three verses from it, which makes the Book of Mormon's 'do good continually' its exact inversion. The catalogue prefers Mark on the strength of the two consecutive matching phrases and records Genesis 6 here because the chapter that follows is a shipbuilding and a drowning.",
+            "other": "“a just man” occurs in eight KJV verses; the longer “he was a just man” narrows to Mark 6:20 and Acts 10:22, and only Mark 6:20 continues with a form of 'observe'. The Book of Mormon's own 'walk uprightly before' God is the corpus's formula, used at Alma 53:21 in the same breath as keeping the commandments and registered there.",
+            "significance": "The corpus's first use of this sentence is Enos 1:1 — 'knowing my father, that he was a just man' — and it is the last thing said of Shiblon, as it was the first thing said of Enos's father. The frame closes the book of Alma on the words it uses to open a genealogy. Read back into Mark, the phrase is Herod's estimate of John the Baptist: Herod 'feared John, knowing that he was a just man and an holy, and observed him', and the next scene is the head on a charger. Nothing in Alma 63 asks for that; but the KJV's one sentence pairing a just man with observing is spoken by the man about to kill him, and the Book of Mormon uses it of two men — Enos's father and Shiblon — who die peacefully and hand on the record."
+          },
+          "note": "'And he was a just man, and he did walk uprightly before God; and he did observe to do good continually.' Six words match Mark 6:20 exactly and the verb that follows matches its sense. Filed at moderate: 'a just man' is in eight KJV verses, 'observe to do' in eighteen (almost all Deuteronomic), and the Book of Mormon may simply be assembling common pious English. What holds it at moderate rather than lower is that Enos 1:1 makes the same six-word match and the catalogue accepted it there, so this is the formula re-entering in Mormon's hand at the end of the book it opened.",
+          "whyNot": "Every component is common. The 1830 reading adds nothing, and the second clause — 'walk uprightly before God … to keep the commandments of the Lord his God' — is the Book of Mormon's own stock description (Alma 53:21), which weakens any claim that the sentence as a whole was assembled from Mark.",
+          "bibliography": [],
+          "status": "novel",
+          "citationsPending": true,
+          "streams": [
+            "machine-ngram",
+            "manual"
+          ]
+        }
+      ]
     },
     {
       "id": "63:3",
@@ -33144,7 +34348,41 @@
       "ch": 63,
       "ref": "63:5",
       "text": "And it came to pass that Hagoth, he being an exceeding curious man, therefore he went forth and built him an exceeding large ship, on the borders of the land Bountiful, by the land Desolation, and launched it forth into the West Sea, by the narrow neck which led into the land northward.",
-      "links": []
+      "links": [
+        {
+          "source": "Exodus 35:32",
+          "type": "echo",
+          "subtype": "possible",
+          "confidence": "moderate",
+          "text": "And to devise curious works, to work in gold, and in silver, and in brass,",
+          "evidence": {
+            "vocabulary": 3,
+            "syntax": 1,
+            "sequence": 1,
+            "context": 4,
+            "rarity": 4,
+            "attestation": 0
+          },
+          "kjvSpecific": "yes",
+          "mediation": "direct-OT",
+          "composite": [
+            "Exodus 35:31"
+          ],
+          "provenance": {
+            "route": "Exodus 35:30-32 → KJV → Book of Mormon",
+            "other": "“curious works” occurs in exactly one KJV verse, Exodus 35:32. The adjective 'curious' occurs in ten KJV verses altogether: eight are the 'curious girdle' of the ephod (Exodus 28, Exodus 39, Leviticus 8), one is Exodus 35:32's devising of curious works, and the tenth is Acts 19:19's 'curious arts', meaning magic. Not one of the ten means inquisitive.",
+            "significance": "In the King James Bible 'curious' is a word about craft, not about temperament: it describes the elaborately wrought girdle of the high priest's ephod and the works Bezaleel is filled with the spirit of God to devise. Alma 63:5 calls Hagoth 'an exceeding curious man' and immediately has him build a ship — the KJV's sense exactly, and the sense the word had already begun to lose. The metalepsis, if the borrowing is real, is that the KJV's one man described by this word is Bezaleel, the craftsman of the tabernacle, whose skill is a gift of the Spirit; Hagoth's skill produces vessels that carry five thousand people out of the narrative and, at 63:8, probably to the bottom of the sea. The catalogue has already taken the neighbouring verse of the same passage — Exodus 31:5, Bezaleel's metalwork — at 2 Nephi 5:15."
+          },
+          "note": "'He being an exceeding curious man, therefore he went forth and built him an exceeding large ship.' There is no shared string; the link is a single word used in the KJV's sense. That is worth recording because the word is a false friend: a modern reader takes 'curious' as inquisitive, the 1830's Hagoth is plainly a skilled builder, and skilled is what the word means in every one of the KJV's ten uses of it. The 1920 edition changed the adverb around it — 'exceeding' to 'exceedingly' — without touching 'curious', so the archaism survives into the current text unexplained.",
+          "whyNot": "One word, and it was not only the KJV's. Webster's 1828 dictionary still gives 'artful; nicely diligent' and 'wrought with care and art' among the senses of curious, so a writer in 1829 could reach the craft sense without the Bible. Nothing else in Alma 63:5 touches Exodus 35, and Hagoth is never said to be filled with any spirit.",
+          "bibliography": [],
+          "status": "novel",
+          "citationsPending": true,
+          "streams": [
+            "manual"
+          ]
+        }
+      ]
     },
     {
       "id": "63:6",
@@ -33165,7 +34403,40 @@
       "ch": 63,
       "ref": "63:8",
       "text": "And it came to pass that they were never heard of more.— And we suppose that they were drowned up in the depths of the sea. And it came to pass that one other ship also did sail forth; and whither she did go, we know not.",
-      "links": []
+      "links": [
+        {
+          "source": "Matthew 18:6",
+          "type": "allusion",
+          "subtype": "close-verbal",
+          "confidence": "high",
+          "text": "But whoso shall offend one of these little ones which believe in me, it were better for him that a millstone were hanged about his neck, and that he were drowned in the depth of the sea.",
+          "evidence": {
+            "vocabulary": 4,
+            "syntax": 4,
+            "sequence": 4,
+            "context": 5,
+            "rarity": 5,
+            "attestation": 0
+          },
+          "kjvSpecific": "yes",
+          "mediation": "direct-NT",
+          "recurrenceRefs": [
+            "1 Nephi 8:32"
+          ],
+          "provenance": {
+            "route": "Matthew 18:6 → KJV → Book of Mormon",
+            "other": "“drowned in the depth” occurs in exactly one KJV verse and “depth of the sea” occurs in exactly one KJV verse — both Matthew 18:6, the KJV's only drowning in a depth. The plural 'depths of the sea' belongs to three other verses (Psalm 68:22, Isaiah 51:10, Micah 7:19) and none of them drowns anyone. The 1830 and 1920 both read 'drowned UP in the depths of the sea'; the current edition deletes 'up', which moves the sentence closer to Matthew 18:6 than either of the earlier texts.",
+            "significance": "The argument for the phrase itself is made at 1 Nephi 8:32 and is not restated; what is new is the company it keeps. Matthew 18:6 is not a shipwreck text. It is the sentence in which Jesus says that whoever offends one of these little ones would be better off drowned in the depth of the sea, and the little ones are what Alma 63:6 has just put on board — 'many of the Nephites which did enter therein, and did sail forth with much provisions, and also many women and children'. Recover the source and the emigration reads as an offence rather than an accident: the KJV's one drowning in the depths is the fate of the man who destroys children, and Mormon's narrator applies it, in a sentence beginning 'we suppose', to a company of children who were never heard of more. He does not say whose fault it was. The borrowed clause says it for him."
+          },
+          "note": "'They were never heard of more.— And we suppose that they were drowned up in the depths of the sea.' A double KJV singleton reproduced with one interpolated word, and the interpolated word is the one the modern edition removed — an 1830 reading that hides the borrowing and a 1920s revision that, unusually, restores it (CONVENTIONS §8). Given as a link rather than a recurrence because 1 Nephi is a different book and a different hand (ADJUDICATING §4): Nephi drowns the wicked of a dream in the depths of a fountain, and Mormon drowns real colonists, women and children among them, in the sea itself. Confidence is high on the wording and the reading in provenance.significance is offered as a reading.",
+          "bibliography": [],
+          "status": "novel",
+          "citationsPending": true,
+          "streams": [
+            "manual"
+          ]
+        }
+      ]
     },
     {
       "id": "63:9",

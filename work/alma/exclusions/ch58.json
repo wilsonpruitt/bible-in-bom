@@ -1,0 +1,58 @@
+[
+  {
+    "bomRef": "Alma 58:9",
+    "source": "2 Corinthians 11:3",
+    "category": "formulaic",
+    "sharedText": "fear lest by any means",
+    "streams": ["machine-ngram"],
+    "reason": "The five-word run is exact and the idiom is genuinely restricted — 'lest by any means' occurs in exactly three KJV verses (1 Corinthians 8:9, 2 Corinthians 11:3, Galatians 2:2), all Pauline — and 2 Corinthians 11:3 is the only one of the three that governs it with a verb of fearing, as Alma 58:9 does. It is nonetheless not a borrowing to adjudicate here. The Book of Mormon has absorbed the phrase as its own connective and uses it in seven places across six books (2 Nephi 5:14, Jacob 1:7, Mosiah 9:11, Alma 43:25, Alma 58:9, Helaman 15:9, 3 Nephi 1:7), with no consistent Pauline content attached to it; the argument that it is a KJV Pauline idiom rather than a natural English one is made at Jacob 1:7, in the provenance of the Hebrews 3:8 link there. Alma 58:9 is that formula recurring, and nothing in the verse touches 2 Corinthians 11 otherwise."
+  },
+  {
+    "bomRef": "Alma 58:15",
+    "source": "Psalm 83:4",
+    "category": "common-vocabulary",
+    "sharedText": "cut them off from",
+    "streams": ["machine-ngram"],
+    "reason": "Worth recording because the thematic pull is real and the wording will not carry it. Psalm 83 is the Psalter's one catalogue of a confederacy of nations plotting the extinction of Israel, and the war chapters of Alma are about a confederacy plotting the extinction of the Nephites; a reader who wanted a psalm behind Alma 56-62 would reach for this one. But the four shared words are a preposition and a common military verb, and their functions are opposite: in the psalm the enemies say 'let us cut them off from being a nation', in Alma 58:15 the enemies fear that they themselves will be cut off from their supply line. Nothing else in the chapter touches Psalm 83."
+  },
+  {
+    "bomRef": "Alma 58:20",
+    "source": "Matthew 2:12",
+    "category": "wrong-sense",
+    "sharedText": "that they should not return to",
+    "streams": ["machine-ngram", "manual"],
+    "reason": "The n-gram stream ranked this first in the chapter and the temptation is larger than the run it found, because Matthew 2:12 supplies both halves of a pattern Alma 58 has: men prevented from returning to a hostile power (58:20, the Lamanite spies cut off so 'that they should not return to the city') and a party evading that power by an alternate route (58:26, Helaman marching 'by another way'). 'Another way' occurs in four KJV verses and Matthew 2:12 is one of them. It is declined on sense, and the senses are opposed in the way the register's model entries are. In Matthew the not-returning is a mercy: the magi are warned in a dream and depart, and the warning saves both them and the child. In Alma the not-returning is a killing — Gid and Teomner rise from ambush and cut the spies down precisely so that no report reaches the city — and the alternate march six verses later is not an escape from a king but a night attack on a city. The two elements are also six verses apart, in different hands, with no shared vocabulary between them. This is the Herod trap the pilot named at 1 Nephi 3."
+  },
+  {
+    "bomRef": "Alma 58:28",
+    "source": "Hebrews 9:22",
+    "category": "wrong-sense",
+    "sharedText": "without the shedding of blood",
+    "streams": ["manual"],
+    "reason": "The closest verbal approach to Hebrews 9:22 anywhere in the Book of Mormon, and still a refusal. 'Shedding of blood' is a KJV singleton and 'without shedding' is a second singleton in the same verse — 'without shedding of blood is no remission' — and Alma 58:28 reads 'by this stratagem, we did take possession of the city of Manti, without the shedding of blood'. Five of the six words, in order, including the preposition that the register's earlier candidates (Mosiah 20:22, Mosiah 29:40, Alma 52:4) all lacked. It is declined for the reason those were: Hebrews means sacrificial blood and means that its shedding is the condition of forgiveness, so 'without shedding of blood' names a fatal deficiency, the state in which no one is forgiven. Alma 58:28 uses the same five words to name a military success — a city taken and nobody killed. The one place in the corpus where the phrase carries Hebrews' argument rather than colliding with it is Alma 34:13, where Amulek is arguing what Hebrews 9 argues, and the link sits there. A reader who meets the phrase here should be sent to 34:13 and told why this occurrence, which looks more like the source, is further from it."
+  },
+  {
+    "bomRef": "Alma 58:33",
+    "source": "1 Corinthians 15:57",
+    "category": "insufficient-verbal",
+    "sharedText": "God ... given us victory",
+    "streams": ["manual"],
+    "reason": "A near miss recorded because the count flatters it. 'Us the victory' occurs in exactly one KJV verse, 1 Corinthians 15:57 — 'thanks be to God, which giveth us the victory through our Lord Jesus Christ' — and Alma 58:33 has 'we trust that our God, who hath given us victory over those lands'. The article is the whole difference and it is the difference that matters: dropping 'the' turns a singleton into ordinary English, and 'victory' itself occurs in twelve KJV verses, including 2 Samuel 23:10's 'the LORD wrought a great victory' in a battle narrative much nearer Alma 58's subject than Paul's is. There is a real thematic attraction here — Paul's victory is over death, and Helaman's paragraph ends six verses later with two thousand young men of whom 'even one soul hath not been slain' — but that is the adjudicator's construction and not the text's, and the wording gives nothing to build it on."
+  },
+  {
+    "bomRef": "Alma 58:39",
+    "source": "Jude 1:24",
+    "category": "wrong-sense",
+    "sharedText": "kept them from falling",
+    "streams": ["manual"],
+    "reason": "'Keep ... from falling' looks decisive and is not. It occurs in three KJV verses (Psalm 56:13, Psalm 116:8, Jude 1:24), and only Jude has God as the keeper of persons rather than of feet: 'him that is able to keep you from falling, and to present you faultless'. Alma 58:39 has 'the Lord hath supported them, yea, and kept them from falling by the sword'. The last three words undo it. Jude's falling is moral — it is the danger the whole epistle is about, apostasy, and being kept from it is what makes the kept faultless — whereas Alma's falling is dying, and 'fall by the sword' is a KJV idiom in its own right and a common one. The Book of Mormon has not borrowed Jude's clause; it has laid its own object on a verb the KJV uses with a different one, and the sentence means the men were not killed."
+  },
+  {
+    "bomRef": "Alma 58:40",
+    "source": "1 Kings 2:3",
+    "category": "common-vocabulary",
+    "sharedText": "to keep his statutes and his",
+    "streams": ["machine-ngram"],
+    "reason": "The six-word run is real, and 'keep his statutes' narrows to just two KJV verses — 1 Kings 2:3, David's dying charge to Solomon, and Deuteronomy 26:17, the covenant-avouching formula — either of which would suit the sons of the people of Ammon, who are young men keeping a covenant made by their parents. It is declined because the triad itself is Deuteronomic boilerplate: statutes, judgments and commandments stand together in some fifteen KJV verses, in every permutation, and Alma 58:40's order (statutes, judgments, commandments) matches none of them exactly, including neither of the two that share the run. Nothing else in the verse touches either candidate, and the verse's borrowing is elsewhere in it — Galatians 5:1, filed as a link."
+  }
+]

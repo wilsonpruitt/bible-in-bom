@@ -1,0 +1,201 @@
+{
+  "chapter": 55,
+  "adjudicated": "2026-09-07",
+  "adjudicator": "Opus",
+  "links": {
+    "55:9": [
+      {
+        "source": "Exodus 17:2",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "Wherefore the people did chide with Moses, and said, Give us water that we may drink. And Moses said unto them, Why chide ye with me? wherefore do ye tempt the LORD?",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 5,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "provenance": {
+          "route": "Exodus 17:2 → KJV → Book of Mormon",
+          "other": "“that we may drink” occurs in exactly one KJV verse, Exodus 17:2, and “give us water” occurs in exactly one KJV verse as well — the same one. The whole KJV has one sentence of the form 'give us <drink> that we may drink', and it is Israel's at Rephidim.",
+          "significance": "The verse Alma 55:9 is worded out of is the verse that names Massah and Meribah — 'because they tempted the LORD, saying, Is the LORD among us, or not?' (Exodus 17:7). Recover that context and the guards' demand becomes the archetypal demand for drink that is really a test of God, and the answer to it, in Exodus, is water struck from a rock by the man they were chiding. Here the answer is wine deliberately prepared in its strength, and the men who insist on it lose the city in their sleep. The Book of Mormon has taken the KJV's one formula for demanding drink and put it in the mouths of the people it is about to destroy with drink."
+        },
+        "note": "'Give us of your wine, that we may drink.' The four-word clause is a KJV singleton and its source is Israel demanding water of Moses. The structural parallel is exact and easy to miss: in both places a demand for drink is made of a man who resists it (Moses answers 'why chide ye with me?'; Laman answers 'let us keep of our wine till we go against the Nephites to battle'), and in both places the resistance only sharpens the demand — Alma 55:10's 'this saying only made them more desirous to drink of the wine' is the narrative equivalent of Exodus 17:3's 'and the people thirsted there for water, and the people murmured'. The machine stream found the string; what it could not see is that the two refusals match as well as the two demands.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "55:13": [
+      {
+        "source": "Genesis 3:6",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "And when the woman saw that the tree was good for food, and that it was pleasant to the eyes, and a tree to be desired to make one wise, she took of the fruit thereof, and did eat, and gave also unto her husband with her; and he did eat.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "recurrenceRefs": [
+          "Alma 12:22"
+        ],
+        "provenance": {
+          "route": "Genesis 3:6 → KJV → Book of Mormon",
+          "other": "“it was pleasant to” occurs in exactly one KJV verse, Genesis 3:6, and “pleasant to the” occurs in exactly three KJV verses, of which two are Eden (Genesis 2:9, 3:6). The KJV's other 'pleasant' constructions are 'pleasant land', 'pleasant vessels', 'pleasant plant' — attributive, not this predicate-plus-sense idiom.",
+          "significance": "Genesis 3:6 supplies not one phrase but a sequence, and Alma 55:13 has the sequence: a thing perceived as pleasant to a sense, and then taken. 'It was pleasant to the eyes ... she took of the fruit thereof' becomes 'it was pleasant to their taste; therefore they took of it more freely'. The metalepsis is that the reader who recovers Genesis 3 recovers the outcome as well: the pleasantness is the bait, the taking is the fall, and the sentence immediately after the taking is 'and the eyes of them both were opened'. Alma 55:22's Lamanites likewise wake to find out what they have done — 'when the Lamanites awoke in the morning, they beheld that they were surrounded'. A military stratagem is being narrated in the grammar of the first temptation, and the wine, like the fruit, is not poisoned. It only has to be pleasant."
+        },
+        "note": "'They did take of the wine freely, and it was pleasant to their taste; therefore they took of it more freely.' Two elements of Genesis 3:6 in Genesis's own order, one of them a KJV singleton, and the substitution of taste for eyes is precisely what the new object requires. The n-gram stream did propose Genesis 3:6 here, on the four words alone; the argument is the second half of the verse, 'she took of', which the window could not reach across the intervening clause. Note that the source is already at work elsewhere in this book — Alma 12:22 stands on Genesis 3 as a whole — but there the reference is doctrinal and stated, and here it is verbal and silent, which is the more interesting of the two.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "55:14": [
+      {
+        "source": "Genesis 43:34",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "text": "And he took and sent messes unto them from before him: but Benjamin’s mess was five times so much as any of theirs. And they drank, and were merry with him.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 3,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "provenance": {
+          "route": "Genesis 43:34 → KJV → Book of Mormon",
+          "other": "“drank and were merry” occurs in exactly one KJV verse, Genesis 43:34, and “were merry” occurs in exactly two, that verse and Judges 16:25. The Book of Mormon's own auxiliary idiom supplies “did drink,” which occurs in exactly one KJV verse, Zechariah 7:6, so the underlying agreement is with the KJV's three-word run.",
+          "significance": "Genesis 43:34 is the drinking-scene of a man whose identity the drinkers do not know. Joseph seats his brothers, sends them portions from his own table, and they drink and are merry with him while he is still the Egyptian to them; the recognition comes two chapters later. Alma 55:8-14 is the same scene with the same concealment and the opposite motive: Laman is a Nephite in Lamanite mouth, he tells them what they want to hear ('behold, I am a Lamanite'), he presses the drink on them by pretending to withhold it, and they drink and are merry with a man who is not who he says he is. The Book of Mormon has borrowed the KJV's one phrase for a merry drinking-party and attached it to the KJV's own story of a host in disguise."
+        },
+        "note": "'They did drink and were merry, and by and by they were all drunken.' Three words, but they are the KJV's only occurrence of the collocation and the narrative frame around them matches at the point that matters — a party drinking with a host who is not what he appears. Below Skousen's sixteen-word threshold by a wide margin and not one of his quotations; the case rests on rarity and on the disguise, not on length.",
+        "whyNot": "The agreement is three ordinary words and the Book of Mormon's own 'did drink' breaks even that. 'Merry' with drink is a natural English collocation and a reader could reasonably hold that no source is needed.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      },
+      {
+        "source": "Judges 16:25",
+        "type": "allusion",
+        "subtype": "conceptual",
+        "confidence": "moderate",
+        "text": "And it came to pass, when their hearts were merry, that they said, Call for Samson, that he may make us sport. And they called for Samson out of the prison house; and he made them sport: and they set him between the pillars.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 2,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "provenance": {
+          "route": "Judges 16:25 → KJV → Book of Mormon",
+          "other": "“were merry” occurs in exactly two KJV verses, Genesis 43:34 and Judges 16:25. The second is the only one where the merriment is a garrison's and the man they are making merry over is their prisoner.",
+          "significance": "This is the shape of the whole chapter, not one phrase of it. Judges 16:25 is the last hour of the Philistine lords: their hearts are merry, they send to the prison house for the captive they have disarmed, and the captive brings the building down on them. Alma 55 runs the same reversal in slow motion — the guards drink until they are merry, the prisoners inside the wall are armed while they sleep, and the captors wake surrounded by the men they were holding. Where the Book of Mormon departs from Judges is where the argument is: Samson kills more at his death than in his life, and Moroni, given the identical opening at 55:18, refuses it — 'he did not delight in murder or bloodshed'. The chapter borrows the Philistine feast and then declines the Philistine ending."
+        },
+        "note": "'They did drink and were merry, and by and by they were all drunken' — and by 55:22 the prisoners are armed and the drinkers are surrounded. The verbal contact is two words in a KJV pair, which on its own would be an echo at best; what carries the link is that Judges 16:25 is the Bible's one scene of drunken captors and an armed captive, and that Alma 55 reproduces it element for element and then withholds the massacre. Recorded as an allusion rather than figural because the two-word contact is with the rarer half of a two-verse set, and because 55:16-17's arming of prisoners 'even to their women, and all those of their children' is the Judges scene's crowd (16:27, 'and there were upon the roof about three thousand men and women') on the other side of the wall.",
+        "whyNot": "Two words of contact, and 'merry' is unavoidable English for a drunken company. A reader who declines typological argument will see nothing here but a coincidence of adjective.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "55:19": [
+      {
+        "source": "Hebrews 11:7",
+        "type": "echo",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "text": "By faith Noah, being warned of God of things not seen as yet, moved with fear, prepared an ark to the saving of his house; by the which he condemned the world, and became heir of the righteousness which is by faith.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 4,
+          "sequence": 3,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "Hebrews 11:7 → KJV → Book of Mormon",
+          "other": "“the saving of his” occurs in exactly one KJV verse, Hebrews 11:7. The KJV's ordinary noun for the thing is 'salvation' or 'deliverance'; the verbal noun 'saving' governing a possessive is Hebrews' construction and nobody else's in the canon.",
+          "significance": "Hebrews 11:7 is the verse in which a man who has been warned prepares something in advance, and the preparing is credited as the saving of the people belonging to him while the world outside is condemned. Alma 55 has the same two motions in the same order and three verses apart: 'Moroni had prepared his men with weapons of war' (55:16), and 'he delighted in the saving of his people from destruction' (55:19). What the recovered context adds is the clause between them — 'by the which he condemned the world'. Moroni's refusal at 55:18-19 is exactly a refusal to condemn: he has the drunken army at his mercy and does not take it, and the sentence in which he declines is worded out of the KJV's one verse about being saved while others drown."
+        },
+        "note": "'He delighted in the saving of his people from destruction.' Four words, but 'the saving of his' is a KJV singleton and it sits in a chapter whose central action is a preparation made in secret that preserves one household of people from a destruction the preparer could have inflicted. Hebrews 11 is a demonstrated working index for this corpus — the 1 Nephi pass found it used in its own order across four chapters — which raises the prior for a phrase of it turning up as the description of a deliverance.",
+        "whyNot": "The phrase is a natural English construction and the shared words are all function words but one; the link rests almost entirely on the singleton count and on Hebrews 11's track record elsewhere in the corpus rather than on anything distinctive in Alma 55:19 itself.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "55:30": [
+      {
+        "source": "Deuteronomy 32:33",
+        "type": "allusion",
+        "subtype": "conceptual",
+        "confidence": "moderate",
+        "text": "Their wine is the poison of dragons, and the cruel venom of asps.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 2,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "provenance": {
+          "route": "Deuteronomy 32:33 → KJV → Book of Mormon",
+          "other": "“poison” occurs in exactly eight KJV verses and “wine is the poison” occurs in exactly one. Deuteronomy 32:33 is the only place in the whole Bible where wine and poison stand in the same sentence; the other seven poison verses are all about serpents' venom or the tongue (Job 6:4, Job 20:16, Psalm 58:4, Psalm 140:3, Romans 3:13, James 3:8) or about beasts sent in judgement (Deuteronomy 32:24). tools/mediation-check.py, run against Romans 3:13 — the New Testament's one poison verse, which quotes Psalm 140:3 rather than Deuteronomy 32 — returns one decisive point for Deuteronomy: the Book of Mormon has 'wine', which is Deuteronomy 32:33's noun, and not 'throat', which is Romans 3:13's. The route is direct-OT.",
+          "significance": "The possessive is what makes this worth recording. Deuteronomy 32:32-33 is the Song of Moses on the enemy: *their* vine is of the vine of Sodom, *their* grapes are grapes of gall, *their* wine is the poison of dragons. Alma 55:30-32 is a paragraph of exactly that possessive — 'their wine', four times in three verses, always the enemy's and always suspected of being poison — and it ends by making the Song's metaphor literal and testable: 'if their wine would poison a Lamanite, it would also poison a Nephite; and thus they did try all their liquors'. The Book of Mormon has taken the one KJV verse that calls an enemy's wine poison and turned it into a field protocol."
+        },
+        "note": "'Many times did they attempt to administer of their wine to the Nephites, that they might destroy them with poison or with drunkenness.' Two content words, but they are two the KJV joins once, and the chapter has already spent seventeen verses making the enemy's wine the instrument of destruction. Deuteronomy 32:33's alternative to poison is drunkenness in the next breath of the same Song (32:42's 'I will make mine arrows drunk with blood'), and Alma 55:30 names both together as the two things the wine might do.",
+        "whyNot": "The verbal contact is 'wine' and 'poison' and nothing else — no shared phrase, no shared syntax. A reader may hold that a besieged army suspecting the enemy's drink of being poisoned needs no source at all, and that the coincidence with Deuteronomy 32:33 is an artifact of how rarely the KJV mentions poison.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ]
+  }
+}

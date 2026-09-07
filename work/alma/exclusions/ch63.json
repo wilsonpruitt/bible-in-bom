@@ -1,0 +1,52 @@
+[
+  {
+    "bomRef": "Alma 63:2",
+    "source": "Genesis 6:9",
+    "category": "better-source-identified",
+    "sharedText": "was a just man … walk … God",
+    "streams": [
+      "manual"
+    ],
+    "reason": "A near miss recorded because the chapter makes it inviting. Genesis 6:9's 'Noah was a just man … and Noah walked with God' accounts for both of Alma 63:2's opening clauses, and Genesis 6:5's 'only evil continually' — a KJV singleton three verses earlier — is exactly inverted by 'do good continually'; and the next thing that happens in Alma 63 is that a man builds a very large ship and a shipload of people drown. But the verse's actual six-word run is Mark 6:20's 'he was a just man', which Genesis does not have (it has 'Noah was'), and Mark alone continues with a form of 'observe'. The link is filed at 63:2 on Mark 6:20 with Genesis 6:9 recorded there as the alternative; this row exists so that a reader who arrives at the verse with Noah in mind is told the flood reading was weighed."
+  },
+  {
+    "bomRef": "Alma 63:2",
+    "source": "Deuteronomy 6:25",
+    "category": "formulaic",
+    "sharedText": "observe to do … the commandments of the Lord",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "'Observe to do' occurs in eighteen KJV verses, fourteen of them in Deuteronomy, where it is the fixed formula for commandment-keeping ('observe to do all these commandments before the LORD our God'). Alma 63:2 uses it of doing good rather than of doing commandments, and the clause that follows — 'to keep the commandments of the Lord his God' and 'walk uprightly before God' — is the Book of Mormon's own stock description of a righteous man, used in the same pairing at Alma 53:21. Deuteronomic in register, not dependent on any one Deuteronomic verse."
+  },
+  {
+    "bomRef": "Alma 63:4",
+    "source": "2 Kings 13:10",
+    "category": "formulaic",
+    "sharedText": "in the thirty and seventh year of",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "The regnal-year dating formula, set out at length at Alma 4:1, 28:7 and 35:13. The Book of Mormon dates continuously by the year of the reign of the judges and so must produce every ordinal in turn; the KJV dates the kings of Israel and Judah the same way, so a serial counter will collide with 2 Kings and 2 Chronicles about once a chapter. 2 Kings 15:8 scores at 63:9 and 2 Chronicles 16:12 at 63:10 and 63:16 for the same reason. No signal."
+  },
+  {
+    "bomRef": "Alma 63:8",
+    "source": "Micah 7:19",
+    "category": "better-source-identified",
+    "sharedText": "the depths of the sea",
+    "streams": [
+      "manual"
+    ],
+    "reason": "The Book of Mormon's plural 'depths of the sea' matches Micah 7:19, Psalm 68:22 and Isaiah 51:10 rather than Matthew's singular 'depth', and Micah's is the memorable one — God casting all their sins into the depths of the sea. It is the wrong verse. None of the three plural verses drowns anybody: Micah's depths swallow sins, Isaiah's are dried into a road for the ransomed, and the Psalm's are a place God brings his people back from. Only Matthew 18:6 puts a drowning in a depth, and it supplies the Book of Mormon's verb as well as its noun; it is filed as the link at this verse. Recorded because the plural is a real divergence from the proposed source and a reader is entitled to see it accounted for."
+  },
+  {
+    "bomRef": "Alma 63:14",
+    "source": "Ezekiel 32:17",
+    "category": "formulaic",
+    "sharedText": "and it came to pass also in this year",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "Ezekiel 32:17's 'It came to pass also in the twelfth year' is a dating formula meeting the Book of Mormon's universal narrative opener. Six words, all of them furniture. Covered in kind by the standing exclusion at 1 Nephi 1:5."
+  }
+]

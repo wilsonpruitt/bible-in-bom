@@ -1,0 +1,214 @@
+{
+  "chapter": 61,
+  "adjudicated": "2026-09-07",
+  "adjudicator": "Opus",
+  "links": {
+    "61:4": [
+      {
+        "source": "2 Samuel 15:6",
+        "type": "figural",
+        "subtype": "type-scene",
+        "confidence": "moderate",
+        "text": "And on this manner did Absalom to all Israel that came to the king for judgment: so Absalom stole the hearts of the men of Israel.",
+        "evidence": {
+          "vocabulary": 2,
+          "syntax": 1,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 3,
+          "attestation": 0
+        },
+        "kjvSpecific": "uncertain",
+        "mediation": "direct-OT",
+        "composite": [
+          "2 Samuel 15:4",
+          "2 Samuel 15:10",
+          "2 Samuel 15:14"
+        ],
+        "recurrenceRefs": [
+          "Alma 61:5",
+          "Alma 61:8"
+        ],
+        "provenance": {
+          "route": "2 Samuel 15:4-14 → KJV → Book of Mormon",
+          "other": "'Stole the hearts' is a KJV singleton at 2 Samuel 15:6; the Book of Mormon has 'led away the hearts', which is its own idiom (Alma 46:10) and not the KJV's verb. The catalogue adjudicates the verbal borrowing of that idiom at Mosiah 27:9 and Alma 17:29; this row is not about the words.",
+          "alternative": "Daniel 11:21 and 11:32 give the KJV its political 'flatteries', and a reader who wants a source for Pahoran's 'great flattery' alone would take it there rather than to Absalom.",
+          "significance": "The sequence, not the vocabulary, is the argument. 2 Samuel 15 is the KJV's one full account of a coup mounted from the judgment seat: Absalom stations himself where 'any man that had a controversy came to the king for judgment' and wishes aloud that he 'were made judge in the land' (15:4); he steals the hearts of Israel (15:6); he is proclaimed king in Hebron (15:10); and the lawful ruler flees the capital rather than fight for it (15:14). Alma 61:4-8 runs the same four beats in the same order — rebels who 'have sought to take away the judgement seat', hearts led away, a king appointed over them in the captured capital, and Pahoran driven out to Gideon. Nothing in the epistle names Absalom, which is what makes it worth recording: if the pattern is borrowed, it is borrowed whole and silently, and it supplies the one thing Pahoran's letter needs and never argues for — that a chief judge who abandons his capital is not thereby a coward."
+        },
+        "note": "'It is those who have sought to take away the judgement seat from me … they have used great flattery; and they have led away the hearts of many people.' A figural row, filed under CONVENTIONS §0a with its thinness stated. The verbal contact is one displaced idiom, and the catalogue has already adjudicated that idiom against 2 Samuel 15:6 twice, so nothing here rests on it. What rests on this row is the shape of verses 4 through 8, which reproduces the Absalom rebellion's distinctive order — judgment seat, hearts, usurped kingship, flight of the rightful ruler — a sequence the KJV tells once. Moroni's epistle in Alma 60 had accused Pahoran of sitting 'upon a thoughtless stupor' in the seat of government; the reply's first move is to describe the loss of that seat in the terms of the Bible's one story where losing it is the innocent party's fate.",
+        "whyNot": "There is no verbal contact worth the name. 'Led away the hearts' is the Book of Mormon's own phrase, used of Amalickiah at Alma 46:10 before Pahoran uses it here, and a rebellion that captures a capital and crowns a king will resemble Absalom's whether or not anyone was reading 2 Samuel. The row stands or falls on whether the ordering of four common elements is evidence, and a reasonable reader can say it is not.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "61:5": [
+      {
+        "source": "1 Samuel 26:19",
+        "type": "echo",
+        "subtype": "possible",
+        "confidence": "moderate",
+        "text": "Now therefore, I pray thee, let my lord the king hear the words of his servant. If the LORD have stirred thee up against me, let him accept an offering: but if they be the children of men, cursed be they before the LORD; for they have driven me out this day from abiding in the inheritance of the LORD, saying, Go, serve other gods.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 2,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "provenance": {
+          "route": "1 Samuel 26:19 → KJV → Book of Mormon",
+          "other": "'Have driven me out' occurs in exactly one KJV verse. The longer 'they have driven me' likewise resolves to 1 Samuel 26:19 alone.",
+          "significance": "The KJV has one man who says that they have driven him out, and it is David, complaining to Saul from the far side of a hill about being expelled from 'the inheritance of the LORD'. Pahoran, writing from the land of Gideon after the loss of Zarahemla, uses the same sentence. Taken with the row at 61:4 the two halves of David's career are doing the same work in four verses: the exile of 1 Samuel and the coup of 2 Samuel, both of them stories in which the legitimate ruler is out of his capital and is not thereby illegitimate. That is precisely the charge Alma 60 laid against Pahoran and precisely what this letter has to answer."
+        },
+        "note": "'They have driven me out before them, and I have fled to the land of Gideon.' Four words, but they are a KJV singleton and they are spoken in the Bible by the anointed king in flight. The machine stream proposed the verse on the string alone; what makes it more than a string is that the situation matches — a rightful ruler displaced by his own people, protesting his legitimacy from outside the seat of power — and that the surrounding verses are running the Absalom sequence catalogued at 61:4. Held at moderate: the phrase is ordinary English and could be reinvented by anyone describing an expulsion.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "61:10": [
+      {
+        "source": "Hebrews 12:4",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "Ye have not yet resisted unto blood, striving against sin.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "Hebrews 12:4 → KJV → Book of Mormon",
+          "other": "Hebrews 12:4 is seven words long and two of its three phrases are KJV singletons: “resisted unto blood” occurs in exactly one KJV verse and “striving against sin” occurs in exactly one KJV verse. 'Resist' in any form occurs in only ten KJV verses, nine of them in the New Testament; Alma 61 uses the word five times in five verses.",
+          "significance": "'Ye have not yet resisted unto blood, striving against sin' is a reproach in Hebrews: the readers' struggle against sin has not yet cost them anything, and the writer means martyrdom, not war. Pahoran answers the reproach in the affirmative and in the literal sense — 'we will resist wickedness even unto bloodshed' — and the sentence that follows makes the blood other people's, not his own: 'we would not shed the blood of the Lamanites, if they would stay in their own land'. The metalepsis is the whole point. Recover Hebrews 12's context and the resistance unto blood is Christ's, 'who for the joy that was set before him endured the cross'; Alma 61:10-14 converts the passive endurance of the epistle into a doctrine of just war, and does it with the epistle's own vocabulary. This is the pivot of Pahoran's ethics and it is built out of a seven-word verse."
+        },
+        "note": "'And now behold we will resist wickedness even unto bloodshed.' Four content words, and three of them — resist, unto, blood — are Hebrews 12:4's, in Hebrews 12:4's order, with 'wickedness' standing where the KJV has 'sin'. The remaining KJV occurrence of 'unto blood' is Ezekiel 35:6, where blood pursues the guilty and no one resists anything, so the phrase resolves to Hebrews without ambiguity. Taken with the Matthew 5:39 row at 61:14, the epistle's argument for fighting is assembled from the two KJV verses about resistance that most obviously forbid it.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "61:13": [
+      {
+        "source": "Daniel 3:17",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "text": "If it be so, our God whom we serve is able to deliver us from the burning fiery furnace, and he will deliver us out of thine hand, O king.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Daniel 3:18"
+        ],
+        "recurrenceRefs": [
+          "Alma 61:12"
+        ],
+        "provenance": {
+          "route": "Daniel 3:17-18 → KJV → Book of Mormon",
+          "other": "'He will deliver us' occurs in exactly one KJV verse, Daniel 3:17, and in exactly one Book of Mormon verse, this one. The companion phrase from the same verse, 'able to deliver us', is likewise a KJV singleton and is adjudicated at 1 Nephi 4:3; the two halves of Daniel 3:17 therefore enter the Book of Mormon at its first chapter of narrative and at its last epistle, and nowhere in between.",
+          "significance": "Daniel 3:17-18 is the KJV's model of principled refusal: our God is able to deliver us and he will deliver us, but if not, we still will not serve. Alma 61:12-13 puts the same two clauses in the same order and inverts the condition — 'we would subject ourselves to the yoke of bondage, if it were requisite with the justice of God … but behold he doth not command us that we shall subject ourselves to our enemies, but that we should put our trust in him, and he will deliver us'. Where the three young men submit to the furnace because God has not promised rescue, Pahoran declines submission because God has not commanded it. The borrowed sentence is the hinge on which the reversal turns, and the reversal is what licenses the war: obedience in Daniel means going into the fire, and here it means going to Zarahemla."
+        },
+        "note": "'That we should put our trust in him, and he will deliver us.' A KJV singleton reproduced verbatim, in a two-verse structure that reproduces Daniel 3:17-18's conditional as well as its wording. The catalogue takes the phrase's other half at 1 Nephi 4:3, where Nephi cites the deliverance of the fathers from the Egyptians; this row is a fresh borrowing rather than a recurrence, because it is a different clause of the verse, in a different book, doing the opposite work — Nephi invokes Daniel's confidence to justify a killing, Pahoran invokes it to decline a surrender.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "61:14": [
+      {
+        "source": "Matthew 5:39",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "text": "But I say unto you, That ye resist not evil: but whosoever shall smite thee on thy right cheek, turn to him the other also.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 4,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "Matthew 5:39 → KJV → Book of Mormon",
+          "other": "'Resist not evil' occurs in exactly one KJV verse. The Book of Mormon reproduces that verse without the negative at 3 Nephi 12:39, in its own Sermon; 'resist evil' as a positive imperative occurs in the Book of Mormon only here.",
+          "significance": "Two Book of Mormon verses contain the phrase. One is 3 Nephi 12:39, where the risen Christ quotes Matthew 5:39 as it stands — 'resist not evil'. The other is this one, where a chief governor writes 'let us resist evil … let us resist them with our swords'. The catalogue cannot say which was composed first, but a reader of the finished book meets Pahoran's sentence four hundred pages before the Sermon that contradicts it, and then meets the contradiction. Metalepsis here works by suppression: Matthew 5:39's next clause is 'whosoever shall smite thee on thy right cheek, turn to him the other also', and Pahoran's next clause is the sword. The one verse of the KJV that forbids resistance supplies the words with which resistance is urged."
+        },
+        "note": "'Let us resist evil; and whatsoever evil we cannot resist with our words … let us resist them with our swords.' The verbal contact is two words, and they are not rare words; what is rare is their pairing, which the KJV makes once and makes negative. Held at moderate rather than high because a writer wanting a positive imperative to resist evil could reach it without Matthew — James 4:7's 'resist the devil' is close by, and 'resist' is scattered across nine other New Testament verses. What tips it is the company: the same paragraph has already taken Hebrews 12:4 (61:10) and Daniel 3:17 (61:13), so the chapter is demonstrably assembling its war ethic out of the KJV's resistance vocabulary, and Matthew 5:39 is the verse that vocabulary is most conspicuously borrowed against.",
+        "whyNot": "Two common words, and the Book of Mormon reverses the polarity of the only thing that makes them rare. A reader could hold that the resemblance to Matthew 5:39 is an accident of the English verb, and that the sentence's real background is the general New Testament exhortation to resist (James 4:7, 1 Peter 5:9) with no particular verse in view.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "61:15": [
+      {
+        "source": "2 Corinthians 3:17",
+        "type": "echo",
+        "subtype": "conceptual",
+        "confidence": "moderate",
+        "text": "Now the Lord is that Spirit: and where the Spirit of the Lord is, there is liberty.",
+        "evidence": {
+          "vocabulary": 2,
+          "syntax": 2,
+          "sequence": 2,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "2 Corinthians 3:17 → KJV → Book of Mormon",
+          "other": "'There is liberty' occurs in exactly one KJV verse. 'Spirit of the Lord is' occurs in two, Luke 4:18 and 2 Corinthians 3:17; only the second predicates liberty of the Spirit. The Book of Mormon's word here is 'freedom', not 'liberty', which is why this is filed as an echo — though the same chapter uses 'liberty' for the same thing at 61:9 and 61:21.",
+          "significance": "'The spirit of God, which is also the spirit of freedom which is in them' is an identification, not a description, and the KJV makes that identification once: 'Now the Lord is that Spirit: and where the Spirit of the Lord is, there is liberty.' Paul is contrasting the veiled reading of Moses with the unveiled reading of Christ; the liberty is hermeneutical and interior. Pahoran gives Lehi and Teancum a commission to conduct a war 'according to the spirit of God, which is also the spirit of freedom'. If 2 Corinthians 3:17 is behind it, the sentence completes what Galatians 5:1 began three verses earlier: the chapter has taken Paul's two great statements about Christian liberty and made them the charter of a standing army. That is the reading; the wording alone will not compel it."
+        },
+        "note": "Proposed under CONVENTIONS §0a. There is no shared string — the Book of Mormon has 'freedom' where Paul has 'liberty' — so this is an echo on the strength of the proposition rather than the words: the equation of God's Spirit with freedom is Pauline and, in the KJV, is made in one verse. It is offered because the chapter's other borrowings make the Pauline liberty vocabulary demonstrably present (61:9, 61:12, 61:21 = Galatians 5:1), and because a reader who has been sent from 61:9 to the Galatians 5:1 row at Alma 58:40 should also be shown where that verse's companion would fall.",
+        "whyNot": "No verbal contact at all. 'Spirit of freedom' is the Book of Mormon's own phrase, coined at Alma 51:6-7 with the freemen and used here without any sign of a source; a writer who had already made liberty the theme of a letter needs no epistle of Paul to call the impulse behind it a spirit.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ]
+  }
+}

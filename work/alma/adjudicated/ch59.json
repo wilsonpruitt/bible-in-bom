@@ -1,0 +1,42 @@
+{
+  "chapter": 59,
+  "adjudicated": "2026-09-07",
+  "adjudicator": "Opus",
+  "links": {
+    "59:11": [
+      {
+        "source": "Matthew 26:22",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "And they were exceeding sorrowful, and began every one of them to say unto him, Lord, is it I?",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 5,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "recurrenceRefs": [
+          "Alma 35:15"
+        ],
+        "provenance": {
+          "route": "Matthew 26:22 → KJV → Book of Mormon",
+          "other": "'Exceeding sorrowful' occurs in three KJV verses and all three are Passion-week verses: Matthew 26:22, Matthew 26:38 and Mark 14:34. The corpus has used the phrase once before, at Alma 35:15, where the source is the Gethsemane pair. Here the phrase runs one word further — 'exceeding sorrowful and began' occurs in exactly 1 KJV verse, and it belongs not to Gethsemane but to the table.",
+          "alternative": "Matthew 26:38 / Mark 14:34, the Gethsemane form, which is the source of the corpus's other use at Alma 35:15. It is ruled out by the continuation: neither Gethsemane verse has 'and began', and both put the sorrow in a soul rather than in a company.",
+          "significance": "Recover Matthew 26:22 and it is the one moment in the Gospels when a body of loyal men is told that one of their own has betrayed them, and answers not with denial but with self-suspicion — 'Lord, is it I?' Alma 59 is the Book of Mormon's version of that table. Moroni has just learned that a city was lost for want of the reinforcements he asked for, he is exceeding sorrowful and he begins to doubt; 59:12 immediately extends the doubt to every one of his chief captains, which is Matthew's 'every one of them'; and 59:13 names what he thinks the cause is — a government indifferent to the freedom of its country. The chapter is thirteen verses long and its whole function is to move a commander from grief to the suspicion of treachery, which is Matthew 26:22's function exactly. What the borrowing supplies, and what Alma 59 never says, is the answer to the question. The disciples ask 'Lord, is it I?'; Moroni does not ask it, and Alma 60 is what he writes instead. Pahoran's reply at 61:9 — 'I am not angry, but do rejoice in the greatness of your heart' — is a correction of an accusation that Matthew's disciples were careful not to make."
+        },
+        "note": "'He was exceeding sorrowful, and began to doubt, because of the wickedness of the people.' The four words 'exceeding sorrowful, and began' occur in exactly one KJV verse, and the sentence they open in Alma has the same shape as the one they open in Matthew: a sorrow that turns immediately into a suspicion about the company. The n-gram stream ranked this fifth among the candidates at this verse and behind two chronological formulas, which is §9's point about the recall floor. The 1830 and 1920 agree on the wording here; what carries the row is the collocation, not any variant.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual",
+          "machine-ngram"
+        ]
+      }
+    ]
+  }
+}

@@ -13675,6 +13675,568 @@
         "machine-ngram"
       ],
       "reason": "A six-word run and the chapter's highest-scoring machine candidate after the Genesis 3 block, from Jotham's parable of the trees, where the question is whether Shechem has dealt well with Jerubbaal 'according to the deserving of his hands'. The shared string is the KJV's ordinary recompense frame — compare Exodus 21:31's 'according to this judgment shall it be done unto him' — and carries no signal. Alma 42:28's real interest is the phrase that follows it, 'according to the restoration of God', which has no KJV parent at all; the borrowed vocabulary in this sentence is Romans 2:6's 'according to his deeds', filed at 42:27."
+    },
+    {
+      "bomRef": "Alma 55:3",
+      "source": "Luke 14:32",
+      "category": "insufficient-verbal",
+      "sharedText": "peace",
+      "streams": [
+        "manual"
+      ],
+      "reason": "Registered because a reader who knows the parable will feel the pull and there is nothing to hold it. 'I will seek death among them, until they shall sue for peace' is the one place in these war chapters where suing for peace is named as the object of a campaign, and the KJV's one sentence for the act is Luke 14:32's 'he sendeth an ambassage, and desireth conditions of peace' — a KJV singleton, and the conclusion of a parable about a king who sits down first and counts whether ten thousand can meet twenty thousand, which is the arithmetic Alma 55 is doing. But 'sue for peace' is not the KJV's idiom at any point, no word of Luke 14:31-32 appears in the verse, and the parable's king is calculating his own weakness while Moroni is calculating his enemy's. A thematic neighbour, not a source."
+    },
+    {
+      "bomRef": "Alma 55:5",
+      "source": "Ezra 5:14",
+      "category": "formulaic",
+      "sharedText": "one whose name was",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "Worth a line only because the count is misleading. 'One whose name was' is a KJV singleton and the machine ranked it accordingly, but the singleton is an accident of the article: 'whose name was' introduces a named person in thirty-eight KJV verses, and the Book of Mormon's 'they found one, whose name was Laman' is that default construction with the indefinite pronoun the sentence happens to need. Ezra 5:14's Sheshbazzar is the governor entrusted with the temple vessels; Alma 55:5's Laman is a servant of a murdered king recruited to impersonate the enemy. No contact beyond the naming formula."
+    },
+    {
+      "bomRef": "Alma 55:16",
+      "source": "Daniel 8:18",
+      "category": "wrong-sense",
+      "sharedText": "in a deep sleep",
+      "streams": [
+        "manual"
+      ],
+      "reason": "'In a deep sleep' occurs in exactly two KJV verses, Daniel 8:18 and 10:9, which is the kind of count that ordinarily carries a link in this catalogue — and it will not carry one here. Both Daniel verses are the prophet's involuntary trance under the hand of an angel, a state of revelation from which he is raised upright; Alma 55:15-16's Lamanite guards are unconscious from drink and are about to be robbed of their city. The sense is not merely different but opposite in value: Daniel's deep sleep is the condition of seeing, and the guards' is the condition of seeing nothing. The wider phrase 'deep sleep' occurs in ten verses, including Genesis 2:21 and 15:12 and 1 Samuel 26:12, where the LORD's deep sleep on Saul's camp lets David take the spear from his bolster — nearer in situation than Daniel, and still nothing but the two-word phrase in common. Recorded so that the Daniel count does not tempt a later pass."
+    },
+    {
+      "bomRef": "Alma 55:23",
+      "source": "Ezekiel 32:27",
+      "category": "common-vocabulary",
+      "sharedText": "their weapons of war",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "The chapter's top-ranked candidate and a good illustration of what the n-gram score measures. 'Weapons of war' occurs in nine KJV verses and is the Book of Mormon war narrative's standing term, used three times in this chapter alone (55:16 twice, 55:23); the four- and six-word runs the machine found are that phrase plus the connectives on either side of it. Ezekiel 32:27's uncircumcised mighty go down to hell with their weapons of war and their swords under their heads — buried armed, the opposite of Alma 55:23, where the chief captains surrender theirs and live."
+    },
+    {
+      "bomRef": "Alma 55:23",
+      "source": "Matthew 15:30",
+      "category": "wrong-sense",
+      "sharedText": "cast them at the feet",
+      "streams": [
+        "manual"
+      ],
+      "reason": "'Cast them down at' is a KJV singleton, at Matthew 15:30, and 'cast them at the' occurs in no KJV verse at all — so the closest the Bible comes to Alma 55:23's 'cast them at the feet of the Nephites, pleading for mercy' is a crowd laying the lame and the blind at Jesus' feet to be healed. The direction of the act is inverted: in Matthew what is cast down is people, laid there by others who want them raised; in Alma what is cast down is weapons, laid there by their owners in surrender. The nearest genuine parallels for laying goods at the feet of a victor — Acts 4:35, 4:37, 5:2, 'laid them down at the apostles' feet' — use 'laid', not 'cast', and are acts of voluntary generosity in a church. The Book of Mormon's phrase is its own."
+    },
+    {
+      "bomRef": "Alma 55:26",
+      "source": "Ezekiel 10:6",
+      "category": "formulaic",
+      "sharedText": "and it came to pass that when he had",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "A nine-word run, the longest in the chapter, and pure boilerplate: 'and it came to pass, that when he had' is the KJV's standard narrative hinge and the Book of Mormon's most frequent sentence-opening. Covered in kind by the standing exclusion at 1 Nephi 2:1; noted here only because the run length will look significant to anyone scanning the candidate file."
+    },
+    {
+      "bomRef": "Alma 55:31",
+      "source": "Psalm 141:9",
+      "category": "insufficient-verbal",
+      "sharedText": "snares",
+      "streams": [
+        "manual"
+      ],
+      "reason": "'The snares which they have laid for me' is a KJV singleton and it is the Bible's exact situation here — an enemy's snares that the speaker asks God to keep him out of, followed at 141:10 by the enemies falling into their own nets while he escapes, which is the arc of Alma 55:29-32 to the letter. But the contact is one content word. 'Snares' occurs in fifteen KJV verses and 'in their snares' in none, and Alma 55:31's clause is 'they could not be taken in their snares', where the closest KJV construction, 'taken in the snare' (Isaiah 24:18, Jeremiah 48:44), is used of a man who is taken and not of one who escapes. The verse's other candidate, 'not slow to remember the Lord their God', touches Nehemiah 4:14's 'remember the LORD' — but Nehemiah 4:14 is already adjudicated in this book at Alma 43:45, on two of its singletons, and two common words here cannot reopen it. Recorded because both pulls are real and neither is a link."
+    },
+    {
+      "bomRef": "Alma 58:9",
+      "source": "2 Corinthians 11:3",
+      "category": "formulaic",
+      "sharedText": "fear lest by any means",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "The five-word run is exact and the idiom is genuinely restricted — 'lest by any means' occurs in exactly three KJV verses (1 Corinthians 8:9, 2 Corinthians 11:3, Galatians 2:2), all Pauline — and 2 Corinthians 11:3 is the only one of the three that governs it with a verb of fearing, as Alma 58:9 does. It is nonetheless not a borrowing to adjudicate here. The Book of Mormon has absorbed the phrase as its own connective and uses it in seven places across six books (2 Nephi 5:14, Jacob 1:7, Mosiah 9:11, Alma 43:25, Alma 58:9, Helaman 15:9, 3 Nephi 1:7), with no consistent Pauline content attached to it; the argument that it is a KJV Pauline idiom rather than a natural English one is made at Jacob 1:7, in the provenance of the Hebrews 3:8 link there. Alma 58:9 is that formula recurring, and nothing in the verse touches 2 Corinthians 11 otherwise."
+    },
+    {
+      "bomRef": "Alma 58:15",
+      "source": "Psalm 83:4",
+      "category": "common-vocabulary",
+      "sharedText": "cut them off from",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "Worth recording because the thematic pull is real and the wording will not carry it. Psalm 83 is the Psalter's one catalogue of a confederacy of nations plotting the extinction of Israel, and the war chapters of Alma are about a confederacy plotting the extinction of the Nephites; a reader who wanted a psalm behind Alma 56-62 would reach for this one. But the four shared words are a preposition and a common military verb, and their functions are opposite: in the psalm the enemies say 'let us cut them off from being a nation', in Alma 58:15 the enemies fear that they themselves will be cut off from their supply line. Nothing else in the chapter touches Psalm 83."
+    },
+    {
+      "bomRef": "Alma 58:20",
+      "source": "Matthew 2:12",
+      "category": "wrong-sense",
+      "sharedText": "that they should not return to",
+      "streams": [
+        "machine-ngram",
+        "manual"
+      ],
+      "reason": "The n-gram stream ranked this first in the chapter and the temptation is larger than the run it found, because Matthew 2:12 supplies both halves of a pattern Alma 58 has: men prevented from returning to a hostile power (58:20, the Lamanite spies cut off so 'that they should not return to the city') and a party evading that power by an alternate route (58:26, Helaman marching 'by another way'). 'Another way' occurs in four KJV verses and Matthew 2:12 is one of them. It is declined on sense, and the senses are opposed in the way the register's model entries are. In Matthew the not-returning is a mercy: the magi are warned in a dream and depart, and the warning saves both them and the child. In Alma the not-returning is a killing — Gid and Teomner rise from ambush and cut the spies down precisely so that no report reaches the city — and the alternate march six verses later is not an escape from a king but a night attack on a city. The two elements are also six verses apart, in different hands, with no shared vocabulary between them. This is the Herod trap the pilot named at 1 Nephi 3."
+    },
+    {
+      "bomRef": "Alma 58:28",
+      "source": "Hebrews 9:22",
+      "category": "wrong-sense",
+      "sharedText": "without the shedding of blood",
+      "streams": [
+        "manual"
+      ],
+      "reason": "The closest verbal approach to Hebrews 9:22 anywhere in the Book of Mormon, and still a refusal. 'Shedding of blood' is a KJV singleton and 'without shedding' is a second singleton in the same verse — 'without shedding of blood is no remission' — and Alma 58:28 reads 'by this stratagem, we did take possession of the city of Manti, without the shedding of blood'. Five of the six words, in order, including the preposition that the register's earlier candidates (Mosiah 20:22, Mosiah 29:40, Alma 52:4) all lacked. It is declined for the reason those were: Hebrews means sacrificial blood and means that its shedding is the condition of forgiveness, so 'without shedding of blood' names a fatal deficiency, the state in which no one is forgiven. Alma 58:28 uses the same five words to name a military success — a city taken and nobody killed. The one place in the corpus where the phrase carries Hebrews' argument rather than colliding with it is Alma 34:13, where Amulek is arguing what Hebrews 9 argues, and the link sits there. A reader who meets the phrase here should be sent to 34:13 and told why this occurrence, which looks more like the source, is further from it."
+    },
+    {
+      "bomRef": "Alma 58:33",
+      "source": "1 Corinthians 15:57",
+      "category": "insufficient-verbal",
+      "sharedText": "God ... given us victory",
+      "streams": [
+        "manual"
+      ],
+      "reason": "A near miss recorded because the count flatters it. 'Us the victory' occurs in exactly one KJV verse, 1 Corinthians 15:57 — 'thanks be to God, which giveth us the victory through our Lord Jesus Christ' — and Alma 58:33 has 'we trust that our God, who hath given us victory over those lands'. The article is the whole difference and it is the difference that matters: dropping 'the' turns a singleton into ordinary English, and 'victory' itself occurs in twelve KJV verses, including 2 Samuel 23:10's 'the LORD wrought a great victory' in a battle narrative much nearer Alma 58's subject than Paul's is. There is a real thematic attraction here — Paul's victory is over death, and Helaman's paragraph ends six verses later with two thousand young men of whom 'even one soul hath not been slain' — but that is the adjudicator's construction and not the text's, and the wording gives nothing to build it on."
+    },
+    {
+      "bomRef": "Alma 58:39",
+      "source": "Jude 1:24",
+      "category": "wrong-sense",
+      "sharedText": "kept them from falling",
+      "streams": [
+        "manual"
+      ],
+      "reason": "'Keep ... from falling' looks decisive and is not. It occurs in three KJV verses (Psalm 56:13, Psalm 116:8, Jude 1:24), and only Jude has God as the keeper of persons rather than of feet: 'him that is able to keep you from falling, and to present you faultless'. Alma 58:39 has 'the Lord hath supported them, yea, and kept them from falling by the sword'. The last three words undo it. Jude's falling is moral — it is the danger the whole epistle is about, apostasy, and being kept from it is what makes the kept faultless — whereas Alma's falling is dying, and 'fall by the sword' is a KJV idiom in its own right and a common one. The Book of Mormon has not borrowed Jude's clause; it has laid its own object on a verb the KJV uses with a different one, and the sentence means the men were not killed."
+    },
+    {
+      "bomRef": "Alma 58:40",
+      "source": "1 Kings 2:3",
+      "category": "common-vocabulary",
+      "sharedText": "to keep his statutes and his",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "The six-word run is real, and 'keep his statutes' narrows to just two KJV verses — 1 Kings 2:3, David's dying charge to Solomon, and Deuteronomy 26:17, the covenant-avouching formula — either of which would suit the sons of the people of Ammon, who are young men keeping a covenant made by their parents. It is declined because the triad itself is Deuteronomic boilerplate: statutes, judgments and commandments stand together in some fifteen KJV verses, in every permutation, and Alma 58:40's order (statutes, judgments, commandments) matches none of them exactly, including neither of the two that share the run. Nothing else in the verse touches either candidate, and the verse's borrowing is elsewhere in it — Galatians 5:1, filed as a link."
+    },
+    {
+      "bomRef": "Alma 61:6",
+      "source": "Philippians 1:7",
+      "category": "common-vocabulary",
+      "sharedText": "in the defence",
+      "streams": [
+        "manual"
+      ],
+      "reason": "'In the defence' is a KJV singleton, and the temptation is real in a chapter this Pauline — Pahoran's letter is already carrying Galatians 5:1 and is about to carry Hebrews 12:4. But Paul's phrase is 'in the defence and confirmation of the gospel', a forensic defence made from prison, and Pahoran's men flock to arms 'in the defence of their country'. The two senses of the noun have nothing to do with each other, and 'the defence of their country' is a standing Book of Mormon formula (Alma 43:9, 43:45, 46:12, 48:10) long before this chapter. Rarity without contact."
+    },
+    {
+      "bomRef": "Alma 61:8",
+      "source": "Judges 9:8",
+      "category": "common-vocabulary",
+      "sharedText": "a king over them",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "The n-gram stream's best offer at this verse, and Jotham's parable of the trees choosing a king is thematically apt enough that a careful reader might take it. It should not be taken. 'A king over them' and 'king over this people' (1 Kings 14:2, also proposed) are the KJV's ordinary way of saying what they say; the phrase occurs across Judges, 1 Samuel, 1 Kings and Revelation with no distinguishing feature, and nothing else in Alma 61:8 touches Judges 9. The chapter's real background at this point is the Absalom sequence catalogued at 61:4, where the crowning of a usurper in the captured capital belongs to a pattern rather than to a phrase."
+    },
+    {
+      "bomRef": "Alma 61:15",
+      "source": "Romans 1:4",
+      "category": "better-source-identified",
+      "sharedText": "according to the spirit of",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "Five words, four of them function words. Romans 1:4's 'according to the spirit of holiness' is a christological formula about the resurrection and has nothing to do with a military commission; the run is the collision of 'according to' with 'the spirit of'. The verse does have a proposed source — 2 Corinthians 3:17, the KJV's one identification of the Spirit of the Lord with liberty — and it is filed as a link at moderate."
+    },
+    {
+      "bomRef": "Alma 61:17",
+      "source": "Psalm 71:16",
+      "category": "better-source-identified",
+      "sharedText": "in the strength of our God",
+      "streams": [
+        "manual"
+      ],
+      "reason": "A cross-reference, not a rejection. 'In the strength of the Lord' is one of the KJV's two occurrences of the phrase (Psalm 71:16, Micah 5:4) and is the one with the Book of Mormon's verb of going; the catalogue adjudicates it at Mosiah 9:17 and, within Alma, at 46:20, and the argument is not restated. Alma 61:17-18 is the fullest single use — 'in the strength of our God' at 17, a Book of Mormon singleton, and 'in the strength of the Lord' at 18 — but it is Pahoran taking up a formula the book has used since Zeniff, not a fresh borrowing. Registered so that a reader arriving at 61:17 is sent to Alma 46:20."
+    },
+    {
+      "bomRef": "Alma 61:20",
+      "source": "Deuteronomy 5:33",
+      "category": "formulaic",
+      "sharedText": "the Lord hath commanded you that ye should",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "An eight-word run made entirely of the KJV's commonest commissioning boilerplate; Numbers 15:23 and John 15:16 score on the same string for the same reason. Deuteronomy 5:33's subject is walking in all the ways of the Lord and Alma 61:20's is a punitive expedition against dissenters. Covered in kind by the standing exclusion at 1 Nephi 1:5."
+    },
+    {
+      "bomRef": "Alma 61:21",
+      "source": "Galatians 5:1",
+      "category": "better-source-identified",
+      "sharedText": "stand fast in that liberty wherewith God hath made them free",
+      "streams": [
+        "manual"
+      ],
+      "reason": "The fullest form of Galatians 5:1 in the Book of Mormon — eleven of Paul's words in Paul's order, with 'God' for 'Christ' and 'them' for 'us' as the only substitutions. It is adjudicated at Alma 58:40, where the same clause arrives in Helaman's epistle about the two thousand young men and where the borrowing is argued; the chapter's own use of the verse across 61:9, 61:12 and 61:21 is set out in the register at 61:9. Registered so that a reader arriving at the last sentence of the last epistle in Alma is sent to both."
+    },
+    {
+      "bomRef": "Alma 59:1",
+      "source": "Ezekiel 1:1",
+      "category": "formulaic",
+      "sharedText": "Now it came to pass in the thirtieth year",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "The chapter's top machine candidate, on a nine-word run and the chapter's highest rarity score, and it is worth nothing — which is why it is worth writing down. 'In the thirtieth year' is a KJV singleton and Ezekiel 1:1 is where it lives, so the arithmetic of the n-gram stream is correct and its conclusion is not. The Book of Mormon dates almost every chapter of the war narrative with the same frame, 'now it came to pass in the [ordinal] year of the reign of the judges', and the ordinal that happens to fall here is the one Ezekiel also uses; the year before and the year after would have matched nothing. Ezekiel's thirtieth year is a captive's dating of a vision by the river Chebar and shares no subject, no actor and no clause with Moroni reading Helaman's epistle. This is CONVENTIONS §9's rare-boilerplate case in its purest form."
+    },
+    {
+      "bomRef": "Alma 59:11",
+      "source": "Hebrews 10:31",
+      "category": "wrong-sense",
+      "sharedText": "fall into the hands of",
+      "streams": [
+        "machine-ngram",
+        "manual"
+      ],
+      "reason": "'Fall into the hands', plural, is a KJV singleton — Hebrews 10:31, 'It is a fearful thing to fall into the hands of the living God' — and the Book of Mormon uses the phrase thirteen times, three of them in these two chapters (58:8, 59:9, 59:11). The register has already declined it once, at Alma 43:10, on the ground that Hebrews makes God the danger while Alma makes God the reason for the danger, and the ruling stands here. What is new at 59:11 is that the falling is now caused by wickedness — 'he began to doubt, because of the wickedness of the people, whether they should not fall into the hands of their brethren' — which is the logic of Hebrews 10:26-31, where those who sin wilfully are given no more sacrifice and left to the living God's hands. It does not reverse the judgment, because the theology of a wicked people delivered to its enemies is Deuteronomy 28's and not Hebrews', and the hands in Alma are explicitly their brethren's. The phrase is the Book of Mormon's own military idiom by this point in the narrative."
+    },
+    {
+      "bomRef": "Alma 59:12",
+      "source": "Deuteronomy 28:20",
+      "category": "formulaic",
+      "sharedText": "because of the wickedness of",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "A genuine KJV singleton used as a Book of Mormon formula. 'Because of the wickedness of' occurs in exactly one KJV verse, Deuteronomy 28:20, and in twelve Book of Mormon verses; it is adjudicated as a link at its first appearance, 1 Nephi 3:17, where the consequence attached to it is the destruction of Jerusalem and Deuteronomy 28's covenant curse is doing real work. Alma 59:11 and 59:12 use it twice in successive verses of the same subject, with no other Deuteronomy 28 vocabulary in the chapter — the curse chapter's own 'smitten before thine enemies' (28:25) is likewise a singleton and is not here. Within Alma the formula has already appeared at 8:14. Registered so that a reader meeting it twice in two verses is sent to 1 Nephi 3:17 rather than shown nothing."
+    },
+    {
+      "bomRef": "Alma 56:2",
+      "source": "Philippians 4:1",
+      "category": "common-vocabulary",
+      "sharedText": "dearly beloved",
+      "streams": [
+        "manual"
+      ],
+      "reason": "Registered because the epistolary frame is genuinely Pauline and this is the phrase a reader will reach for. 'Dearly beloved' occurs in nine KJV verses — Jeremiah 12:7 and eight in the epistles, of which Philippians 4:1 ('my brethren dearly beloved and longed for … my dearly beloved') and 2 Timothy 1:2 ('my dearly beloved son') are the closest in form to Helaman's 'my dearly beloved brother, Moroni'. No one of the eight can be the source, and the vocative is the standing form of address in this correspondence (compare Alma 54 and 58). The chapter's Pauline link is filed at 56:2 on 'our warfare', which is a singleton; this is the same observation without a verse attached to it."
+    },
+    {
+      "bomRef": "Alma 56:9",
+      "source": "1 Samuel 17:56",
+      "category": "better-source-identified",
+      "sharedText": "did march at the head of these two thousand young men",
+      "streams": [
+        "manual"
+      ],
+      "reason": "A cross-reference, not a rejection. 'I Helaman, did march at the head of these two thousand young men' repeats Alma 53:22's 'Helaman did march at the head of his two thousand stripling soldiers' almost word for word, and 53:22 is where the borrowing is adjudicated — on 'stripling', a KJV singleton at 1 Samuel 17:56 and the David typology the whole Ammonite sequence is built on. Helaman's letter is retelling the same march from the inside, so the repetition is the writer quoting his own narrative rather than the King James Bible a second time. Sent to 53:22, and see 56:57, where the word itself returns."
+    },
+    {
+      "bomRef": "Alma 56:21",
+      "source": "2 Corinthians 10:4",
+      "category": "better-source-identified",
+      "sharedText": "in their strong holds",
+      "streams": [
+        "manual"
+      ],
+      "reason": "The second of 2 Corinthians 10:4's two distinctive nouns, and it will not carry a row of its own: 'strong holds' occurs in nineteen KJV verses, most of them David's wilderness refuges or the fortresses of Moab, and the Book of Mormon war narrative uses the term throughout for a fortified city. What makes it worth registering is its company — Alma 56 has both 'our warfare' (a KJV singleton) and 'strong holds' from the one Pauline verse that joins them, nineteen verses apart. Filed as a cross-reference to the link at 56:2, where the argument is made."
+    },
+    {
+      "bomRef": "Alma 56:43",
+      "source": "Jeremiah 5:26",
+      "category": "insufficient-verbal",
+      "sharedText": "snare",
+      "streams": [
+        "manual"
+      ],
+      "reason": "'They might catch us in their snare' is the chapter's one hunting metaphor and the KJV has several that would fit — Jeremiah 5:26's 'they lay wait, as he that setteth snares; they set a trap, they catch men', Psalm 35:8's net that catches the man who hid it, Psalm 10:9's lion that catches the poor in his net. None of them is verbally closer than the single word 'snare', and 'in their snare' occurs in no KJV verse at all. The same judgement was made at Alma 55:31 against Psalm 141:9. Registered so that the two snare verses of this pair of chapters are both accounted for."
+    },
+    {
+      "bomRef": "Alma 56:52",
+      "source": "Acts 28:15",
+      "category": "common-vocabulary",
+      "sharedText": "took courage",
+      "streams": [
+        "manual"
+      ],
+      "reason": "'Took courage' occurs in exactly two KJV verses, 2 Chronicles 15:8 (Asa, on hearing a prophecy) and Acts 28:15 (Paul, on meeting the brethren at Appii forum), and a two-verse count would ordinarily be enough to look at. It is not enough here for two reasons. The Book of Mormon has made the phrase its own — it occurs a dozen times from 1 Nephi 4:35 onward, usually as 'his heart did take courage' — and Alma 56:52's clause is a near-verbatim repetition of Alma 52:24, 'when the Lamanites saw that he began to flee, they took courage and pursued them with vigor', which is the same feigned retreat four chapters earlier. Both KJV instances are moreover of a godly man heartened by God's word or God's people, and both Book of Mormon instances are of the Lamanite army heartened by a retreat that is a trap."
+    },
+    {
+      "bomRef": "Alma 56:57",
+      "source": "1 Samuel 17:56",
+      "category": "better-source-identified",
+      "sharedText": "stripling",
+      "streams": [
+        "manual"
+      ],
+      "reason": "'The remainder I took and joined them to my stripling Ammonites.' The word is a KJV singleton and it is the strongest single-word borrowing in this part of the book, but it is adjudicated at Alma 53:22, where it first enters and where the David typology that licenses it is argued. This is the same narrator using his own established name for the same two thousand men, four verses after calling them 'those young men'. Sent to 53:22."
+    },
+    {
+      "bomRef": "Alma 62:1",
+      "source": "Acts 28:15",
+      "category": "common-vocabulary",
+      "sharedText": "took courage",
+      "streams": [
+        "manual"
+      ],
+      "reason": "“His heart did take courage” on receiving Pahoran's letter is close in situation to Acts 28:15, where Paul, meeting the brethren at Appii forum, “thanked God, and took courage”; the KJV has the phrase in only two verses (the other is 2 Chronicles 15:8, Asa after Oded's prophecy). But the shared string is two words of ordinary English, the Book of Mormon adds “his heart did”, which neither source has, and encouragement on the arrival of good news needs no model. Recorded because the rarity count invites the link and the count is not enough."
+    },
+    {
+      "bomRef": "Alma 62:4",
+      "source": "Isaiah 49:22",
+      "category": "better-source-identified",
+      "sharedText": "standard",
+      "streams": [
+        "manual"
+      ],
+      "reason": "“He did raise the standard of liberty in whatsoever place he did enter” tempts a reader toward Isaiah's raised standard (“set up my standard to the people”, Isaiah 49:22; “lift up a standard”, Isaiah 59:19), and Isaiah 49 is a chapter the Book of Mormon transcribes entire at 1 Nephi 21. It should not be taken here. “Standard” occurs in nineteen KJV verses, most of them Numbers' tribal ensigns, and the phrase “raise the standard” occurs in none. The title of liberty is the Book of Mormon's own object, made and adjudicated at Alma 46:12 against Nehemiah 4:14 and 1 Kings 11:30; 62:4 is Moroni carrying the thing he made there."
+    },
+    {
+      "bomRef": "Alma 62:23",
+      "source": "Jeremiah 39:4",
+      "category": "better-source-identified",
+      "sharedText": "the city by night",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "A six-word run, and the temptation is stronger than usual because the source is the fall of Jerusalem — the event on which the whole Book of Mormon is founded — and because Zedekiah's flight, like Moroni's escalade, involves a wall at night. But the direction is opposed at every point: Zedekiah and his men of war go “forth out of the city by night” between the two walls to escape a siege, and Moroni's men are “let down into the city by night” to take one. Jeremiah 52:7 scores the same run because it is the same sentence twice. The verse's proposed source is Joshua 2:15, filed at 62:21, where the cord and the wall are, and where the same inversion of direction is the argument."
+    },
+    {
+      "bomRef": "Alma 62:28",
+      "source": "2 Samuel 2:23",
+      "category": "formulaic",
+      "sharedText": "and it came to pass that as many as",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "A nine-word run consisting of the Book of Mormon's universal narrative opener plus “as many as”. Abner kills Asahel with the hinder end of a spear and the bystanders stand still; Moroni grants the Lamanite prisoners' request to join the people of Ammon. Nothing is shared but the connective. Covered in kind by the standing exclusion at 1 Nephi 1:5, and recorded here only because the run length is the longest in the chapter and would otherwise look like a finding."
+    },
+    {
+      "bomRef": "Alma 62:36",
+      "source": "Judges 4:21",
+      "category": "better-source-identified",
+      "sharedText": "a javelin … he did not awake",
+      "streams": [
+        "manual"
+      ],
+      "reason": "A cross-reference, not a rejection, and the second half of an argument made elsewhere. Teancum's killing of Amalickiah at Alma 51:34 is adjudicated against Jael and Sisera, and 52:1 against Judges 4:22; 62:36 is the same type-scene run a second time on Amalickiah's brother — a sleeping king, a weapon driven home by a lone assassin at night. What is new here is that it fails on the one detail Judges 4:21 insists on. Jael's Sisera “died”, without waking; Alma 51:34 keeps that, noting that Teancum “did cause the death of the king immediately, that he did not awake his servants”. At 62:36 “the king did awake his servant before he died, insomuch that they did pursue Teancum, and slew him.” The type-scene is repeated in order to be broken, and the break costs Teancum his life. Registered here so that a reader arriving at 62:36 is sent to Alma 51:34."
+    },
+    {
+      "bomRef": "Alma 62:37",
+      "source": "1 Kings 2:2",
+      "category": "better-source-identified",
+      "sharedText": "gone the way of all the earth",
+      "streams": [
+        "manual"
+      ],
+      "reason": "A cross-reference within the book. The formula occurs in exactly two KJV verses, Joshua 23:14 and 1 Kings 2:2, and enters the corpus at 2 Nephi 1:14 in Lehi's mouth; within Alma it is adjudicated at 1:1, of Mosiah. This is Mormon using his own inherited formula and the argument is not restated. It is worth noting what he uses it on. In both KJV verses and in every earlier Book of Mormon occurrence the phrase belongs to an old man taking leave of his people in an ordered succession — Joshua, David, Lehi, Mosiah, Alma. Teancum is stabbed to death in an enemy camp in the middle of the night while attempting a murder. The formula is applied to him anyway, in the same sentence that calls him “a true friend to liberty”, and the effect is to enrol an assassin's death among the peaceful ones."
+    },
+    {
+      "bomRef": "Alma 62:38",
+      "source": "1 Samuel 19:8",
+      "category": "common-vocabulary",
+      "sharedText": "slew them with a great slaughter",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "A seven-word run, and no source can be identified behind it. “With a great slaughter” occurs in eight KJV verses spread across Joshua, Judges, 1 Samuel, 1 Kings and 2 Chronicles, and it is the KJV's standard notice of a decisive field victory; four of the eight attach it to the same verb the Book of Mormon uses. The phrase is real biblical English rather than boilerplate, which is why it is registered rather than passed over, but it points at a genre and not at a verse."
+    },
+    {
+      "bomRef": "Alma 62:48",
+      "source": "Exodus 1:7",
+      "category": "insufficient-verbal",
+      "sharedText": "multiply … wax exceeding",
+      "streams": [
+        "manual"
+      ],
+      "reason": "“Began to multiply and to wax exceeding strong again in the land” sits close to Exodus 1:7's “multiplied, and waxed exceeding mighty; and the land was filled with them”, and the KJV has “waxed exceeding” in only two verses. The Book of Mormon's adjective is “strong”, not “mighty”, and the corpus's growth formula is already sourced elsewhere — Genesis 47:27 at Jarom 1:8 and Mosiah 2:2, Exodus 1:10 at Mosiah 9:11 — so nothing distinctive is left over for Exodus 1:7 to explain. Registered because the Exodus reading is thematically inviting at a moment when Nephite prosperity is about to turn, and because a careful reader would want to know it was considered."
+    },
+    {
+      "bomRef": "Alma 63:2",
+      "source": "Deuteronomy 6:25",
+      "category": "formulaic",
+      "sharedText": "observe to do … the commandments of the Lord",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "'Observe to do' occurs in eighteen KJV verses, fourteen of them in Deuteronomy, where it is the fixed formula for commandment-keeping ('observe to do all these commandments before the LORD our God'). Alma 63:2 uses it of doing good rather than of doing commandments, and the clause that follows — 'to keep the commandments of the Lord his God' and 'walk uprightly before God' — is the Book of Mormon's own stock description of a righteous man, used in the same pairing at Alma 53:21. Deuteronomic in register, not dependent on any one Deuteronomic verse."
+    },
+    {
+      "bomRef": "Alma 63:2",
+      "source": "Genesis 6:9",
+      "category": "better-source-identified",
+      "sharedText": "was a just man … walk … God",
+      "streams": [
+        "manual"
+      ],
+      "reason": "A near miss recorded because the chapter makes it inviting. Genesis 6:9's 'Noah was a just man … and Noah walked with God' accounts for both of Alma 63:2's opening clauses, and Genesis 6:5's 'only evil continually' — a KJV singleton three verses earlier — is exactly inverted by 'do good continually'; and the next thing that happens in Alma 63 is that a man builds a very large ship and a shipload of people drown. But the verse's actual six-word run is Mark 6:20's 'he was a just man', which Genesis does not have (it has 'Noah was'), and Mark alone continues with a form of 'observe'. The link is filed at 63:2 on Mark 6:20 with Genesis 6:9 recorded there as the alternative; this row exists so that a reader who arrives at the verse with Noah in mind is told the flood reading was weighed."
+    },
+    {
+      "bomRef": "Alma 63:4",
+      "source": "2 Kings 13:10",
+      "category": "formulaic",
+      "sharedText": "in the thirty and seventh year of",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "The regnal-year dating formula, set out at length at Alma 4:1, 28:7 and 35:13. The Book of Mormon dates continuously by the year of the reign of the judges and so must produce every ordinal in turn; the KJV dates the kings of Israel and Judah the same way, so a serial counter will collide with 2 Kings and 2 Chronicles about once a chapter. 2 Kings 15:8 scores at 63:9 and 2 Chronicles 16:12 at 63:10 and 63:16 for the same reason. No signal."
+    },
+    {
+      "bomRef": "Alma 63:8",
+      "source": "Micah 7:19",
+      "category": "better-source-identified",
+      "sharedText": "the depths of the sea",
+      "streams": [
+        "manual"
+      ],
+      "reason": "The Book of Mormon's plural 'depths of the sea' matches Micah 7:19, Psalm 68:22 and Isaiah 51:10 rather than Matthew's singular 'depth', and Micah's is the memorable one — God casting all their sins into the depths of the sea. It is the wrong verse. None of the three plural verses drowns anybody: Micah's depths swallow sins, Isaiah's are dried into a road for the ransomed, and the Psalm's are a place God brings his people back from. Only Matthew 18:6 puts a drowning in a depth, and it supplies the Book of Mormon's verb as well as its noun; it is filed as the link at this verse. Recorded because the plural is a real divergence from the proposed source and a reader is entitled to see it accounted for."
+    },
+    {
+      "bomRef": "Alma 63:14",
+      "source": "Ezekiel 32:17",
+      "category": "formulaic",
+      "sharedText": "and it came to pass also in this year",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "Ezekiel 32:17's 'It came to pass also in the twelfth year' is a dating formula meeting the Book of Mormon's universal narrative opener. Six words, all of them furniture. Covered in kind by the standing exclusion at 1 Nephi 1:5."
+    },
+    {
+      "bomRef": "Alma 57:21",
+      "source": "Deuteronomy 5:32",
+      "category": "common-vocabulary",
+      "sharedText": "observe to perform every word of command",
+      "streams": [
+        "manual"
+      ],
+      "reason": "Registered because the observation is worth keeping even though the verse cannot be pinned. 'They did obey and observe to perform every word of command with exactness' uses the King James Bible's standing formula for covenant obedience — 'observe to do' occurs in eighteen KJV verses, thirteen of them in Deuteronomy — and applies it to a captain's orders in the field rather than to the commandments of God. That transfer is the interesting thing and the register is the place for it; no single Deuteronomy verse can be the source of an eighteen-fold formula, and 'observe to perform' occurs in no KJV verse at all. Deuteronomy 5:32 is named here rather than any of the other seventeen for a reason a later pass should see: it is the one that continues 'ye shall not turn aside to the right hand or to the left', which is the formula this catalogue has just linked at Alma 56:37 to 2 Samuel 2:19. The two phrases are adjacent in Deuteronomy 5:32 and eleven chapters apart in Helaman's letter, which is a coincidence worth recording and not enough to move the 56:37 link, where the singleton 'turned not to the right hand' and the pursuit setting both point to 2 Samuel."
+    },
+    {
+      "bomRef": "Alma 57:25",
+      "source": "2 Samuel 14:11",
+      "category": "better-source-identified",
+      "sharedText": "there was not one soul of them which did perish",
+      "streams": [
+        "manual"
+      ],
+      "reason": "A cross-reference, not a rejection. 'There was not one soul of them which did perish' is the second statement of the claim adjudicated at Alma 56:56, where 'there had not one soul of them fallen to the earth' reproduces the King James Bible's fixed formula for the preservation of a threatened young man ('there shall not one hair … fall to the earth', 1 Samuel 14:45, 2 Samuel 14:11, 1 Kings 1:52). Here the formula is dropped and only the claim survives — 'perish' for 'fall to the earth' — so this verse has the theology of 56:56 without its wording, and the wording is where the argument lives. Sent to 56:56. Note that 57:25 adds the qualification that makes the whole sequence coherent: not one perished, and not one was unwounded."
+    },
+    {
+      "bomRef": "Alma 57:26",
+      "source": "Matthew 21:21",
+      "category": "better-source-identified",
+      "sharedText": "whosoever did not doubt",
+      "streams": [
+        "manual"
+      ],
+      "reason": "A cross-reference. 'Whosoever did not doubt, that they should be preserved by his marvellous power' is the third appearance in two chapters of the negated-doubt conditional adjudicated at Alma 56:47, against Matthew 21:21's 'if ye have faith, and doubt not' (a KJV singleton) and Mark 11:23's 'shall not doubt in his heart'. Helaman is quoting the mothers' teaching back at the moment it is vindicated, so this is the writer repeating his own report rather than the King James Bible a second time. Sent to 56:47. Worth noting for the variant register that the 1830 reading here is 'marvellous', the King James spelling, which later editions modernize — see CONVENTIONS §8; the phrase 'marvellous power' is in no KJV verse, so nothing hangs on it beyond the orthography."
+    },
+    {
+      "bomRef": "Alma 57:32",
+      "source": "Acts 28:15",
+      "category": "better-source-identified",
+      "sharedText": "take courage",
+      "streams": [
+        "manual"
+      ],
+      "reason": "The second occurrence in two chapters, and declined for the reasons given at Alma 56:52: 'took courage' occurs in exactly two KJV verses (2 Chronicles 15:8, Acts 28:15) but the Book of Mormon has made the phrase its own across a dozen passages from 1 Nephi 4:35, and both KJV instances are of a godly man heartened by God's word or God's people. Here it is Lamanite prisoners heartened by the cry of an approaching army, and the courage carries them onto Nephite swords in the next verse. Sent to 56:52."
+    },
+    {
+      "bomRef": "Alma 57:35",
+      "source": "Daniel 2:20",
+      "category": "better-source-identified",
+      "sharedText": "blessed is the name of our God",
+      "streams": [
+        "manual"
+      ],
+      "reason": "'And blessed is the name of our God: for behold, it is he that hath delivered us.' The doxology is real and it is adjudicated in this book at Alma 19:12, against Daniel 2:20's 'Blessed be the name of God for ever and ever' — one of only three KJV verses carrying 'blessed be the name'. The rest of Gid's sentence will not carry a row of its own. 'Delivered out of the hands of our enemies' is the Book of Mormon's own plural formula, used eight times from Mosiah 9:17 onward, and the KJV's four instances all read 'hand' (1 Samuel 4:3, 12:10, 2 Samuel 19:9, Luke 1:74); 'hath done this great thing for us' is close to 1 Samuel 12:24's singleton 'how great things he hath done for you' and to 1 Samuel 12:16's 'this great thing', but neither is close enough to displace the corpus formula, and the Book of Mormon's own Mark 5:19 borrowing for that idea was adjudicated long before, at 1 Nephi 7:11. Sent to 19:12."
+    },
+    {
+      "bomRef": "Alma 57:36",
+      "source": "Hebrews 4:10",
+      "category": "better-source-identified",
+      "sharedText": "have entered into the rest of their God",
+      "streams": [
+        "manual"
+      ],
+      "reason": "The closest call in this chapter. 'Entered into his rest' is a KJV singleton at Hebrews 4:10 and 'enter into his rest' is a second singleton at Hebrews 3:18, and Alma 57:36's perfect — 'the souls of them which has been slain, have entered into the rest of their God' — matches Hebrews 4:10's tense rather than 3:18's infinitive, which is a real distinction and an argument for a fresh row. Two things hold it back. Hebrews 3:18 is already adjudicated in this book at Alma 13:6, on the same four words and with the mediation against Psalm 95:11 settled there; and 'the rest of the Lord' is by this point the Book of Mormon's own standing phrase, running from Alma 12:36-37 and 13:12-16 through 16:17 to 60:13 and Moroni 7:3, so the possessive here is the corpus formula rather than a second reach for Hebrews. Recorded at length because the possessive form does have its own KJV singleton — Hebrews 4:9's 'a rest to the people of God' — which Alma 13:6 does not account for, and a later pass may reasonably decide this row differently. Sent to 13:6."
+    },
+    {
+      "bomRef": "Alma 61:9",
+      "source": "Galatians 5:1",
+      "category": "better-source-identified",
+      "sharedText": "stand fast in that liberty … God hath made us free",
+      "streams": [
+        "manual"
+      ],
+      "reason": "A cross-reference within the book, not a rejection. Galatians 5:1 is the verse the war chapters have been quarrying since Alma 44:2, and its front half is adjudicated at Alma 58:40, three chapters before this one; the argument is made there and is not restated. What Alma 61 adds is completeness. This is the only chapter in the Book of Mormon that carries the whole of Galatians 5:1: the liberty clause at 61:9 ('my soul standeth fast in that liberty, in the which God hath made us free'), the yoke of bondage at 61:12, and at 61:21 the fullest form of the opening clause anywhere in the volume, with the relative 'wherewith' that 61:9 had replaced with Pahoran's own 'in the which' — a connective he uses three times in 61:8 — restored intact. Read against Paul, the distribution is an argument: Galatians 5:1 forbids returning to the yoke, and 61:12 concedes that Pahoran would accept it 'if it were requisite with the justice of God', which is the exception Paul does not allow. Registered at all three verses so that a reader of Pahoran's epistle is sent to Alma 58:40 rather than shown nothing."
+    },
+    {
+      "bomRef": "Alma 61:12",
+      "source": "Galatians 5:1",
+      "category": "better-source-identified",
+      "sharedText": "yoke of bondage",
+      "streams": [
+        "manual"
+      ],
+      "reason": "'We would subject ourselves to the yoke of bondage, if it were requisite with the justice of God.' The phrase is a KJV singleton and the Book of Mormon's use of it is adjudicated at Mosiah 21:13 and, within Alma, at 44:2, where Moroni throws it at Zerahemnah; the argument is not restated. Its interest here is the conditional attached to it, which is set out in the register at 61:9 with the rest of the chapter's Galatians material."
+    },
+    {
+      "bomRef": "Alma 60:1",
+      "source": "Genesis 42:6",
+      "category": "formulaic",
+      "sharedText": "the governor over the land",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "The chapter's highest-scoring machine candidate and a genuinely tempting one, which is why it is written up rather than passed over. 'Governor over the land' occurs in exactly two KJV verses, Genesis 42:6 and Jeremiah 41:2, and Genesis 42:6 is Joseph in Egypt — the man who controls the grain, addressed by starving brethren who have come to him for food. Alma 60 is a demand for food addressed to the governor over the land. The resemblance is entirely in the situation and none of it is in the words: 'governor over the land' is the standing title of Pahoran's office throughout Alma 50-62, used dozens of times by a narrator who needed a title and had this one, and Alma 60:1 uses it in the flat administrative sense of a letter's address line. Nothing else in the epistle touches Genesis 42, and the direction of the Joseph story is exactly reversed — Joseph feeds the brethren who wronged him."
+    },
+    {
+      "bomRef": "Alma 60:2",
+      "source": "Luke 7:40",
+      "category": "common-vocabulary",
+      "sharedText": "I have somewhat to say unto",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "Already declined twice in this book, at Alma 39:1 and Alma 41:1, and declined again here on the same ground: 'I have somewhat to say unto thee' is the King James Bible's polite formula for opening a difficult subject, it occurs in two verses (1 Kings 2:14 and Luke 7:40) which agree word for word, and the Book of Mormon has adopted it as Alma's own preface — 37:38, 41:1, 53:10, and here. Luke 7:40 remains apt in the way it was apt at 39:1, since Jesus says it to a Pharisee who is silently condemning, and Moroni says it 'by the way of condemnation'; but a formula used four times by one book is the book's, and no other Luke 7 material is present."
+    },
+    {
+      "bomRef": "Alma 60:10",
+      "source": "Acts 18:6",
+      "category": "better-source-identified",
+      "sharedText": "blood ... upon your heads",
+      "streams": [
+        "manual"
+      ],
+      "reason": "'Your blood be upon your own heads' is Acts 18:6, and the corpus has adjudicated that verse four times — 2 Nephi 9:44, Jacob 1:19, Jacob 2:2, Mosiah 2:28 — always for the same gesture, a leader shaking his garments clean of a people's blood. Alma 60:10's 'the blood of thousands shall come upon your heads for vengeance' has the head and the blood and none of the gesture, and it inverts the direction: in every Book of Mormon use of Acts 18:6 the speaker is clearing himself, whereas Moroni is charging someone else. 'Upon your heads' without 'own' is not Acts 18:6's phrase at all — the KJV's only verse for it is Ezekiel 24:23, about headgear. The verse does have a source, Acts 15:18, filed as a link on its second half. Registered so that a reader who recognizes the blood-on-the-head idiom is sent to the four places where it is actually adjudicated."
+    },
+    {
+      "bomRef": "Alma 60:13",
+      "source": "Hebrews 3:18",
+      "category": "better-source-identified",
+      "sharedText": "enter into the rest of the Lord their God",
+      "streams": [
+        "manual"
+      ],
+      "reason": "'They do enter into the rest of the Lord their God' is the standing Book of Mormon formula, not a fresh borrowing. It occurs at Alma 12:36, 12:37, 13:16, 16:17, here, and Moroni 7:3; its mediation was settled at Jacob 1:7, where the KJV's Psalm 95 and the KJV's Hebrews 3-4 diverge and the corpus takes the epistle's form, and Alma 16:17 already carries a register entry to the same effect. What is new at 60:13 is only the application — Moroni uses the formula to argue that the righteous who fall in battle are not lost — and that is his argument, not Hebrews'."
+    },
+    {
+      "bomRef": "Alma 60:23",
+      "source": "Joshua 2:19",
+      "category": "insufficient-verbal",
+      "sharedText": "guiltless ... blood ... upon his head",
+      "streams": [
+        "manual"
+      ],
+      "reason": "Worth recording because the pairing is exact and the distance defeats it. Joshua 2:19 is the King James Bible's one verse that holds blood-upon-the-head and guiltlessness in a single sentence — 'his blood shall be upon his head, and we will be guiltless' — and it is precisely a compact about who bears the responsibility when protection is or is not extended to people inside a house, which is the whole subject of Moroni's epistle. Alma 60 has both halves: 'the blood of thousands shall come upon your heads' at 60:10 and 'will God look upon you as guiltless' at 60:23. But thirteen verses separate them, no other word of Joshua 2 is present, and 'guiltless' occurs in ten KJV verses while the blood-on-the-head idiom is the corpus's own by way of Acts 18:6. The compact is the adjudicator's construction from two ordinary phrases, and it is registered as such."
+    },
+    {
+      "bomRef": "Alma 60:31",
+      "source": "Proverbs 10:3",
+      "category": "common-vocabulary",
+      "sharedText": "the Lord will not suffer",
+      "streams": [
+        "machine-ngram"
+      ],
+      "reason": "The machine ranked this on a five-word run and it looks better than it is, because Proverbs 10:3 is about food — 'The LORD will not suffer the soul of the righteous to famish' — and Alma 60:35 four verses later says 'God will not suffer that we should perish with hunger'. Two considerations sink it. 'Will not suffer' occurs in six KJV verses in six unrelated senses, so the run identifies nothing; and the word that would make Proverbs 10:3 decisive, 'famish', is a KJV singleton that Alma 60 does not use — the corpus's phrase for starving is Luke 15:17's, filed as a link at 60:9. Proverbs 10:3 is what a reader arrives at by working backwards from a theme; the wording arrives at Luke."
     }
   ]
 }

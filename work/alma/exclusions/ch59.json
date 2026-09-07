@@ -1,0 +1,26 @@
+[
+  {
+    "bomRef": "Alma 59:1",
+    "source": "Ezekiel 1:1",
+    "category": "formulaic",
+    "sharedText": "Now it came to pass in the thirtieth year",
+    "streams": ["machine-ngram"],
+    "reason": "The chapter's top machine candidate, on a nine-word run and the chapter's highest rarity score, and it is worth nothing — which is why it is worth writing down. 'In the thirtieth year' is a KJV singleton and Ezekiel 1:1 is where it lives, so the arithmetic of the n-gram stream is correct and its conclusion is not. The Book of Mormon dates almost every chapter of the war narrative with the same frame, 'now it came to pass in the [ordinal] year of the reign of the judges', and the ordinal that happens to fall here is the one Ezekiel also uses; the year before and the year after would have matched nothing. Ezekiel's thirtieth year is a captive's dating of a vision by the river Chebar and shares no subject, no actor and no clause with Moroni reading Helaman's epistle. This is CONVENTIONS §9's rare-boilerplate case in its purest form."
+  },
+  {
+    "bomRef": "Alma 59:11",
+    "source": "Hebrews 10:31",
+    "category": "wrong-sense",
+    "sharedText": "fall into the hands of",
+    "streams": ["machine-ngram", "manual"],
+    "reason": "'Fall into the hands', plural, is a KJV singleton — Hebrews 10:31, 'It is a fearful thing to fall into the hands of the living God' — and the Book of Mormon uses the phrase thirteen times, three of them in these two chapters (58:8, 59:9, 59:11). The register has already declined it once, at Alma 43:10, on the ground that Hebrews makes God the danger while Alma makes God the reason for the danger, and the ruling stands here. What is new at 59:11 is that the falling is now caused by wickedness — 'he began to doubt, because of the wickedness of the people, whether they should not fall into the hands of their brethren' — which is the logic of Hebrews 10:26-31, where those who sin wilfully are given no more sacrifice and left to the living God's hands. It does not reverse the judgment, because the theology of a wicked people delivered to its enemies is Deuteronomy 28's and not Hebrews', and the hands in Alma are explicitly their brethren's. The phrase is the Book of Mormon's own military idiom by this point in the narrative."
+  },
+  {
+    "bomRef": "Alma 59:12",
+    "source": "Deuteronomy 28:20",
+    "category": "formulaic",
+    "sharedText": "because of the wickedness of",
+    "streams": ["machine-ngram"],
+    "reason": "A genuine KJV singleton used as a Book of Mormon formula. 'Because of the wickedness of' occurs in exactly one KJV verse, Deuteronomy 28:20, and in twelve Book of Mormon verses; it is adjudicated as a link at its first appearance, 1 Nephi 3:17, where the consequence attached to it is the destruction of Jerusalem and Deuteronomy 28's covenant curse is doing real work. Alma 59:11 and 59:12 use it twice in successive verses of the same subject, with no other Deuteronomy 28 vocabulary in the chapter — the curse chapter's own 'smitten before thine enemies' (28:25) is likewise a singleton and is not here. Within Alma the formula has already appeared at 8:14. Registered so that a reader meeting it twice in two verses is sent to 1 Nephi 3:17 rather than shown nothing."
+  }
+]
