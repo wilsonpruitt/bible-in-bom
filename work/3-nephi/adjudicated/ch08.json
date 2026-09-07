@@ -1,0 +1,623 @@
+{
+ "chapter": 8,
+ "adjudicated": "2026-09-07",
+ "adjudicator": "Opus",
+ "links": {
+  "8:1": [
+   {
+    "source": "John 13:10",
+    "type": "allusion",
+    "subtype": "close-verbal",
+    "confidence": "high",
+    "text": "Jesus saith to him, He that is washed needeth not save to wash his feet, but is clean every whit: and ye are clean, but not all.",
+    "evidence": {
+     "vocabulary": 4,
+     "syntax": 3,
+     "sequence": 2,
+     "context": 4,
+     "rarity": 5,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "provenance": {
+     "route": "John 13:10 → KJV → Book of Mormon",
+     "other": "“every whit” occurs in exactly four KJV verses — Deuteronomy 13:16, 1 Samuel 3:18, John 7:23 and John 13:10 — and only two of them attach it to cleanness. “clean every whit” occurs in exactly one KJV verse. Of the pair, John 7:23's is a healing ('I have made a man every whit whole') and John 13:10's is a washing, which is the sense 3 Nephi 8:1 needs.",
+     "significance": "Recover the context and the borrowed idiom turns out to have an exception built into it. John 13:10 is spoken at the supper, over the feet of the disciples, and its second half is 'and ye are clean, but not all' — the evangelist's note that Jesus 'knew who should betray him'. Mormon uses the phrase to certify a record-keeper: no man could do a miracle in the name of Jesus 'save he were cleansed every whit from his iniquity'. The KJV's one occurrence of the phrase is the one place where being clean every whit is asserted of a company and immediately withdrawn from one of them. A chapter that is about to narrate the crucifixion opens by vouching for its witness in the words Jesus used on the night he was betrayed."
+    },
+    "note": "'There was not any man which could do a miracle in the name of Jesus, save he were cleansed every whit from his iniquity.' The colophon that opens the destruction narrative is doing what a colophon does — certifying the record — and it certifies it with a Johannine idiom. 'Every whit' is not ordinary nineteenth-century English for 'entirely'; it is King James English, and its cleanness sense is confined to two verses of John. Well below Skousen's sixteen-word threshold and not one of his passages: the case rests on the rarity of the collocation, not on length.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "manual"
+    ]
+   }
+  ],
+  "8:5": [
+   {
+    "source": "Mark 4:37",
+    "type": "allusion",
+    "subtype": "close-verbal",
+    "confidence": "high",
+    "text": "And there arose a great storm of wind, and the waves beat into the ship, so that it was now full.",
+    "evidence": {
+     "vocabulary": 4,
+     "syntax": 4,
+     "sequence": 3,
+     "context": 3,
+     "rarity": 5,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "provenance": {
+     "route": "Mark 4:37 → KJV → Book of Mormon",
+     "other": "“there arose a great storm” occurs in exactly one KJV verse. Matthew 8:24 has 'there arose a great tempest in the sea' and Luke 8:23 'there came down a storm of wind'; the exact run 'there arose a great storm' is Mark's alone.",
+     "alternative": "Jonah 1:4, 'the LORD sent out a great wind into the sea, and there was a mighty tempest', is the other candidate storm and shares no run with the verse.",
+     "significance": "The King James Bible has one 'great storm' and it is the squall on Galilee that Jesus stills with 'Peace, be still', after which the disciples ask 'What manner of man is this, that even the wind and the sea obey him?' 3 Nephi 8 answers that question by removing the man from the boat. The storm that in Mark demonstrates his authority over wind and sea is here raised at his death and not stilled for three hours; the calm comes only in 3 Nephi 9, and it comes as his voice. Recovering Mark makes the tempest an argument rather than a catastrophe."
+    },
+    "note": "'There arose a great storm, such an one as never had been known in all the land.' Helaman 14:23 had prophesied 'great tempests', not a storm; the narration reaches instead for the four-word run that in the KJV belongs to one episode. What follows in 3 Nephi 8:6-7 — tempest, thunder, lightnings — is the Book of Mormon's own vocabulary, so the borrowing is the opening clause only.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "machine-ngram",
+     "manual"
+    ]
+   }
+  ],
+  "8:7": [
+   {
+    "source": "Exodus 9:24",
+    "type": "echo",
+    "subtype": "conceptual",
+    "confidence": "moderate",
+    "text": "So there was hail, and fire mingled with the hail, very grievous, such as there was none like it in all the land of Egypt since it became a nation.",
+    "evidence": {
+     "vocabulary": 3,
+     "syntax": 4,
+     "sequence": 3,
+     "context": 5,
+     "rarity": 4,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-OT",
+    "composite": [
+     "Exodus 11:6"
+    ],
+    "recurrenceRefs": [
+     "3 Nephi 8:5",
+     "3 Nephi 8:20"
+    ],
+    "provenance": {
+     "route": "Exodus 9:24 → KJV → Book of Mormon",
+     "other": "“such as there was none like” occurs in exactly two KJV verses, Exodus 9:24 and Exodus 11:6, and both are plague formulae — the seventh plague and the tenth. Revelation 16:18's 'such as was not since men were upon the earth' is the only other superlative of the kind and is worded quite differently.",
+     "significance": "This is the frame the whole chapter is built in, and 8:20 confirms it. The KJV's formula for an unprecedented disaster in a named land belongs to the plagues of Egypt; 3 Nephi says it twice in three verses, of a fire that takes a city (8:8, against Exodus 9:24's 'fire mingled with the hail') and of lightnings. Then 8:20 supplies the ninth plague's felt darkness and 8:21 removes the exemption Exodus 10:23 grants Israel. The destruction is narrated as an Egyptian plague sequence visited on a covenant people, which reverses the source's whole point: in Exodus the formula marks what God does to the oppressor while his people sit in the light."
+    },
+    "note": "'Such an one as never had been known in all the land' (8:5), 'such as never had been known in all the land' (8:7). The doubled superlative bounded by 'in all the land' is the shape of Exodus 9:24 and 11:6, where the bound is 'in all the land of Egypt'. Not a verbal quotation — the Book of Mormon has 'never had been known' where Exodus has 'there was none like it' — and filed as an echo for that reason; what carries it is that the formula is repeated exactly as Exodus repeats it, and that the chapter goes on to take two further plagues from the same run of chapters.",
+    "whyNot": "The shared material is a construction rather than a phrase, and any narrator describing an unprecedented storm may reach for 'such as never had been known'. Taken alone this row would not be worth writing; it is filed because 8:20's Exodus 10:21 borrowing is a KJV singleton and makes the plague frame something the chapter demonstrably has rather than something a reader supplies.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "manual"
+    ]
+   }
+  ],
+  "8:12": [
+   {
+    "source": "Exodus 20:18",
+    "type": "echo",
+    "subtype": "close-verbal",
+    "confidence": "moderate",
+    "text": "And all the people saw the thunderings, and the lightnings, and the noise of the trumpet, and the mountain smoking: and when the people saw it, they removed, and stood afar off.",
+    "evidence": {
+     "vocabulary": 4,
+     "syntax": 4,
+     "sequence": 3,
+     "context": 3,
+     "rarity": 4,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-OT",
+    "recurrenceRefs": [
+     "3 Nephi 8:17",
+     "3 Nephi 8:19",
+     "Helaman 14:21",
+     "Helaman 14:26"
+    ],
+    "provenance": {
+     "route": "Exodus 20:18 → KJV → Helaman 14:21 → Book of Mormon",
+     "other": "“thunderings and the lightnings” occurs in exactly one KJV verse. Without the articles the pair is commoner: Revelation has 'thunderings, and lightnings' four times and 'voices, and thunders, and lightnings' once. What is peculiar to Exodus 20:18 is the definite-article series, which is what 3 Nephi 8:12 and 8:17 have and what Helaman 14:21 and 14:26 do not.",
+     "significance": "Exodus 20:18 is the theophany at Sinai: the people see the thunderings and the lightnings and stand afar off, and out of that noise comes the law. 3 Nephi 8 runs the same list three times over a landscape being destroyed, and out of the noise, in 3 Nephi 9, comes a voice giving a law — 'the law in me is fulfilled'. The chapter is worth reading as a Sinai in which the mountain is not one mountain but a mountain thrown up over a city (8:10)."
+    },
+    "note": "'The tempest, and the whirlwinds, and the thunderings, and the lightnings, and the exceeding great quaking of the whole earth.' The machine ranked Exodus 20:18 first in this chapter and it is right to; the articled series is a KJV singleton and 3 Nephi has it twice (8:12, 8:17) and again without 'the whirlwinds' at 8:19. Samuel had prophesied 'thunderings and lightnings' bare (Helaman 14:21, 14:26), so the definite articles enter with the narration, not with the prophecy. Moderate because the articles may simply be English: a narrator listing four known phenomena will article them whether or not he has Sinai in view.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "machine-ngram",
+     "manual"
+    ]
+   }
+  ],
+  "8:13": [
+   {
+    "source": "Isaiah 40:4",
+    "type": "allusion",
+    "subtype": "paraphrase",
+    "confidence": "high",
+    "text": "Every valley shall be exalted, and every mountain and hill shall be made low: and the crooked shall be made straight, and the rough places plain:",
+    "evidence": {
+     "vocabulary": 4,
+     "syntax": 3,
+     "sequence": 3,
+     "context": 5,
+     "rarity": 5,
+     "attestation": 1
+    },
+    "kjvSpecific": "yes",
+    "mediation": "OT-via-earlier-BoM",
+    "composite": [
+     "Luke 3:5"
+    ],
+    "recurrenceRefs": [
+     "1 Nephi 17:46",
+     "Helaman 14:23",
+     "Helaman 14:24",
+     "Helaman 14:9"
+    ],
+    "provenance": {
+     "route": "Isaiah 40:4 + Luke 3:5 → KJV → 1 Nephi 17:46 → Book of Mormon",
+     "other": "“rough places” occurs in exactly one KJV verse, Isaiah 40:4, where the predicate is 'plain'. “made smooth” occurs in exactly one KJV verse, Luke 3:5, where the noun is 'ways'. 'Smooth places' — Isaiah's noun with Luke's adjective — appears in no KJV verse at all. It appears in 1 Nephi 17:46.",
+     "alternative": "Read as a fresh borrowing from the KJV, mediation-check.py returns no decisive divergence at 8:13: Isaiah 40:4 and Luke 3:5 differ at 'exalted/filled' and 'made/brought', which 3 Nephi does not reproduce, and the two forms it does reproduce are one word from each. The verse cannot settle its own mediation against the Bible. It settles decisively against the Book of Mormon.",
+     "significance": "1 Nephi 17:46 argues from God's power over the landscape: 'by his word, he can cause that rough places be made smooth, and smooth places shall be broken up'. The second clause is Nephi's own invention — it reverses Isaiah's promise and has no biblical source — and 3 Nephi 8:13 is where it happens. 'The highways were broken up, and the level roads were spoiled, and many smooth places became rough.' The catalogue's normal finding is that a Book of Mormon verse is worded out of the KJV; this one is worded out of a Book of Mormon verse that was itself worded out of two KJV verses, and the intervening step is visible because the phrase it contributes exists in no Bible. Isaiah's highway prepared for the Lord is unbuilt at his death by the same vocabulary that promised it."
+    },
+    "note": "Helaman 14:24 had prophesied that 'many highways shall be broken up' and Helaman 14:23 that mountains and valleys would change places, which is Isaiah 40:4 read as seismology. 3 Nephi 8:13 fulfils both and adds a third clause Samuel never spoke: 'many smooth places became rough'. That clause is 1 Nephi 17:46's, inverted — Nephi had God making rough places smooth and breaking smooth places up, and here the smoothing runs backwards. The KJV supplies 'rough places' (Isaiah) and 'smooth' (Luke) but never their combination; the combination is the Book of Mormon's own, made in 1 Nephi and cashed here, four hundred years and one authorial voice later.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "manual"
+    ]
+   }
+  ],
+  "8:14": [
+   {
+    "source": "Acts 2:20",
+    "type": "echo",
+    "subtype": "possible",
+    "confidence": "moderate",
+    "text": "The sun shall be turned into darkness, and the moon into blood, before the great and notable day of the Lord come:",
+    "evidence": {
+     "vocabulary": 3,
+     "syntax": 3,
+     "sequence": 1,
+     "context": 4,
+     "rarity": 5,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "recurrenceRefs": [
+     "3 Nephi 8:24",
+     "3 Nephi 8:25"
+    ],
+    "provenance": {
+     "route": "Acts 2:20 → KJV → Book of Mormon",
+     "other": "“great and notable” occurs in exactly one KJV verse. “notable” occurs in exactly five, of which this is the only one that pairs it with 'great'. Acts 2:20 is Peter's Pentecost citation of Joel 2:31, and 'notable' is where the KJV's Acts departs from the KJV's Joel.",
+     "significance": "Ten verses apart, this chapter uses both halves of a King James discrepancy. Joel 2:31 reads 'the great and terrible day of the LORD'; Acts 2:20, quoting it, reads 'the great and notable day of the Lord'. 3 Nephi 8:14 has 'great and notable' and 3 Nephi 8:24-25 has 'great and terrible', and no other English pair of adjectives in the chapter behaves this way. Whatever produced this text had both readings of one verse available and distributed them — the Old Testament form to the mourners' cry, where the day of the LORD is being invoked, and the New Testament form to the cities. That is not a fact a reader can get from either testament alone."
+    },
+    "note": "'Many great and notable cities were sunk.' Taken by itself the phrase is unremarkable English and would not be worth a row. It is filed because of what stands ten verses later: 'O that we had repented before this great and terrible day' (8:24, 8:25), which mediation-check.py shows decisively to be Joel 2:31's form and not Acts 2:20's. The chapter thereby contains both of the KJV's renderings of one Hebrew phrase, and the machine cannot see the pair because they are eleven verses apart.",
+    "whyNot": "'Notable' is ordinary English and could reach a description of cities without Acts. The row is a pairing argument, not a verbal one: it depends entirely on 8:24, and a reader who declines the pairing should decline this link and keep the other.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "manual"
+    ]
+   }
+  ],
+  "8:16": [
+   {
+    "source": "2 Kings 2:11",
+    "type": "echo",
+    "subtype": "conceptual",
+    "confidence": "moderate",
+    "text": "And it came to pass, as they still went on, and talked, that, behold, there appeared a chariot of fire, and horses of fire, and parted them both asunder; and Elijah went up by a whirlwind into heaven.",
+    "evidence": {
+     "vocabulary": 2,
+     "syntax": 2,
+     "sequence": 4,
+     "context": 4,
+     "rarity": 3,
+     "attestation": 0
+    },
+    "kjvSpecific": "uncertain",
+    "mediation": "direct-OT",
+    "composite": [
+     "2 Kings 2:16",
+     "Deuteronomy 34:6"
+    ],
+    "provenance": {
+     "route": "2 Kings 2:11-17 → KJV → Book of Mormon",
+     "other": "'Carried away in the whirlwind' appears in no KJV verse; “in the whirlwind” occurs in exactly one, Nahum 1:3, where it is the LORD's way and not a man's removal. “no man knoweth of his” occurs in exactly one KJV verse, Deuteronomy 34:6, of Moses' unfound grave.",
+     "significance": "There are two men in the King James Bible whose end is a disappearance nobody can locate, and both are the men this book's founding chapters run on. Elijah goes up by a whirlwind and fifty men search three days and do not find him (2 Kings 2:16-17); Moses is buried and 'no man knoweth of his sepulchre unto this day'. 3 Nephi 8:16 gives an unnumbered crowd of ordinary people both endings at once — the whirlwind and the unknown grave — during three days in which nobody can see. The sign of a prophet's translation has become a way of dying."
+    },
+    "note": "'There were some which were carried away in the whirlwind; and whither they went, no man knoweth, save they know that they were carried away.' No KJV run is reproduced, which is why this is an echo and not an allusion; the case is the coincidence of two rare narrative facts, removal by whirlwind and an unlocatable end, in a passage whose surrounding chapters have used 2 Kings 2 before (1 Nephi 4:2 draws on 2 Kings 2:8). The three days of 2 Kings 2:17 and the three days of 3 Nephi 8:23 are the same number and, as far as the wording goes, a coincidence.",
+    "whyNot": "Not one distinctive word is shared. A whirlwind is the obvious agent for people vanishing in a storm, and 'no man knoweth' occurs in exactly six KJV verses, none of them Deuteronomy 34:6's construction. A reader who wants verbal contact before recording a link should decline this one; it is here because the catalogue prefers to say it looked.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "manual"
+    ]
+   }
+  ],
+  "8:18": [
+   {
+    "source": "Matthew 27:51",
+    "type": "allusion",
+    "subtype": "close-verbal",
+    "confidence": "high",
+    "text": "And, behold, the veil of the temple was rent in twain from the top to the bottom; and the earth did quake, and the rocks rent;",
+    "evidence": {
+     "vocabulary": 5,
+     "syntax": 4,
+     "sequence": 4,
+     "context": 5,
+     "rarity": 5,
+     "attestation": 1
+    },
+    "kjvSpecific": "yes",
+    "mediation": "OT-via-earlier-BoM",
+    "recurrenceRefs": [
+     "Helaman 14:21",
+     "Helaman 14:22"
+    ],
+    "variants": [
+     "3 Nephi 8:18 1830 'yea' → 1920 deleted"
+    ],
+    "provenance": {
+     "route": "Matthew 27:51 → KJV → Helaman 14:21-22 → Book of Mormon",
+     "other": "“rent in twain” occurs in exactly two KJV verses, Matthew 27:51 and Mark 15:38, and in both it is the veil of the temple. “the rocks rent” occurs in exactly one KJV verse, Matthew 27:51, which is therefore the only verse in the Bible holding both phrases.",
+     "significance": "The 1830 reading is the evidence. 3 Nephi 8:18 begins 'And behold, the rocks were rent in twain; yea, they were broken up' — and Helaman 14:22, Samuel's prophecy, reads 'yea, they shall be rent in twain, and shall ever after be found in seams, and in cracks, and in broken fragments'. The narration answers the prophecy clause for clause, 'yea' included, and reverses its order of seams, cracks and fragments to fragments, seams and cracks. The 1920 edition deleted the 'yea', and with it the plainest sign that this sentence is quoting Helaman 14 rather than Matthew 27. What Matthew supplies, at one remove, is the transferred verb: in the KJV the thing rent in twain is a temple curtain, and in the Book of Mormon it is the bedrock of a continent with no temple to tear."
+    },
+    "note": "The verbal case for Matthew 27:51 was made at Helaman 14:21, where three phrases from two consecutive KJV verses arrive together; it is not restated here. What 3 Nephi 8:18 adds is that the fulfilment is worded from the prophecy and not freshly from the gospel — 'in seams, and in cracks' and 'broken fragments' are Helaman 14:22's words, not Matthew's, and Matthew's 'the earth did quake' has already been used at 8:12 and 8:17 in the Book of Mormon's own 'quaking'. This is an across-the-book repeat and gets a full row on that ground (ADJUDICATING §4): a reader of 3 Nephi is meeting the rent rocks for the first time in this hand.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "manual"
+    ]
+   }
+  ],
+  "8:19": [
+   {
+    "source": "Acts 5:7",
+    "type": "allusion",
+    "subtype": "close-verbal",
+    "confidence": "high",
+    "text": "And it was about the space of three hours after, when his wife, not knowing what was done, came in.",
+    "evidence": {
+     "vocabulary": 5,
+     "syntax": 5,
+     "sequence": 3,
+     "context": 2,
+     "rarity": 5,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "composite": [
+     "Matthew 27:45"
+    ],
+    "provenance": {
+     "route": "Acts 5:7 → KJV → Book of Mormon",
+     "other": "“about the space of three hours” occurs in exactly one KJV verse, and so does the shorter “space of three hours”. Matthew 27:45, which is where the three hours of the crucifixion darkness actually come from, does not contain the phrase: it counts 'from the sixth hour … unto the ninth hour' and never names the interval.",
+     "significance": "The chapter needs a three-hour span because the gospels have one, and the gospels do not have the words for it. So the duration comes from Matthew 27:45 by arithmetic and the phrase comes from Acts 5:7 by quotation — and Acts 5:7 is the interval between Ananias's death and Sapphira's, the three hours in which a woman walks in not knowing what has happened. 3 Nephi 8:19 is a verse about people who do not yet know what has happened either. Whether that resonance was intended or not, the borrowing is the kind this catalogue exists to record: a New Testament phrase pulled from a wholly unrelated episode to measure a New Testament event that had no phrase of its own."
+    },
+    "note": "'They did last for about the space of three hours; and it was said by some that the time was greater; nevertheless, all these great and terrible things were done in about the space of three hours.' The six-word run occurs twice in one verse and in exactly one verse of the Bible. Note what the number has done: Samuel prophesied thunderings and lightnings 'for the space of many hours' (Helaman 14:21, 14:26), and the narration converts 'many' into the synoptic three — assigning to the tempest the span Matthew gives the darkness, while the darkness itself keeps Samuel's three days. The chapter has both of the crucifixion's canonical intervals and has put them on different phenomena.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "machine-ngram",
+     "manual"
+    ]
+   },
+   {
+    "source": "Deuteronomy 10:21",
+    "type": "allusion",
+    "subtype": "close-verbal",
+    "confidence": "high",
+    "text": "He is thy praise, and he is thy God, that hath done for thee these great and terrible things, which thine eyes have seen.",
+    "evidence": {
+     "vocabulary": 4,
+     "syntax": 4,
+     "sequence": 3,
+     "context": 4,
+     "rarity": 5,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-OT",
+    "provenance": {
+     "route": "Deuteronomy 10:21 → KJV → Book of Mormon",
+     "other": "“great and terrible things” occurs in exactly one KJV verse. “great and terrible” occurs in exactly seven, but the others attach it to a wilderness (Deuteronomy 1:19, 8:15), to God (Nehemiah 1:5, 4:14), to his name (Psalm 99:3) and to the day of the LORD (Joel 2:31). Only Deuteronomy 10:21 has the neuter plural, and only Deuteronomy 10:21 pairs it with 'done'.",
+     "significance": "Deuteronomy 10:21 is a summary of the Exodus: the great and terrible things God did for Israel are the plagues and the sea, and Moses' point is that Israel's eyes saw them done to somebody else. 3 Nephi 8:19 uses the phrase, with its verb, of what has just been done to the Nephites — and the chapter has been narrating an Egyptian plague sequence since 8:5 (Exodus 9:24) and will complete it at 8:20 with the felt darkness of Exodus 10:21. So the summary formula for the plagues arrives attached to the plagues, on the wrong side of them. This is the sharpest instance in the chapter of a borrowing that inverts its source's beneficiary."
+    },
+    "note": "'All these great and terrible things were done in about the space of three hours.' Five words in sequence from a KJV singleton, with the source's own verb. 'Great and terrible' is a formula this chapter likes — 8:6, 8:11, 8:12, 8:24, 8:25 — but only at 8:19 does it take Deuteronomy 10:21's exact noun and predicate, and the chapter's other uses of the formula are adjectival, of a tempest, a destruction and a day.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "machine-ngram",
+     "manual"
+    ]
+   },
+   {
+    "source": "Matthew 27:45",
+    "type": "allusion",
+    "subtype": "strong-verbal",
+    "confidence": "high",
+    "text": "Now from the sixth hour there was darkness over all the land unto the ninth hour.",
+    "evidence": {
+     "vocabulary": 4,
+     "syntax": 3,
+     "sequence": 4,
+     "context": 5,
+     "rarity": 5,
+     "attestation": 1
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "recurrenceRefs": [
+     "3 Nephi 8:20",
+     "3 Nephi 8:22",
+     "3 Nephi 8:3",
+     "Helaman 14:27"
+    ],
+    "provenance": {
+     "route": "Matthew 27:45 → KJV → Book of Mormon",
+     "other": "“darkness over all the land” occurs in exactly one KJV verse. Luke 23:44, narrating the same three hours, reads 'there was a darkness over all the earth'; Mark 15:33 reads 'over the whole land'.",
+     "alternative": "Luke 23:44. mediation-check.py returns 'And it was about' as a decisive point for Luke, and that result should not be used: the 'about' in 3 Nephi 8:19 belongs to 'about the space of three hours', which is Acts 5:7's idiom, and the tool has matched a generic opening. The real test is land against earth, and the tool cannot see it because it aligns 'land unto' against 'earth until' as one unit and reports neither.",
+     "significance": "Every statement about the darkness in this chapter says 'land' — 8:3 'over the face of the land', 8:19 'darkness upon the face of the land', 8:20 'thick darkness upon the face of all the land', 8:22 'upon the face of the land' — while the seismic damage in the same chapter takes 'earth' (8:17, 8:18 'the face of the whole earth'). That distribution follows the King James Bible's own split: Matthew's darkness is over the land, Luke's is over the earth, and 3 Nephi assigns Matthew's noun to the darkness in all four places it mentions it. Samuel's prophecy had not: Helaman 14:27 says darkness 'should cover the face of the whole earth'. The narration corrects the prophecy toward Matthew."
+    },
+    "note": "'And then behold, there was darkness upon the face of the land.' The verbal contact is short, but the phrase it belongs to is a KJV singleton and the alternative — Luke's 'over all the earth' — is available in the same chapter of the same story, which makes the choice testable. It is tested by distribution rather than by a single verse, and the distribution is four for four. What the chapter does not take from Matthew is the duration: Matthew's darkness lasts three hours and 3 Nephi's lasts three days, the three hours having gone to the tempest (8:19).",
+    "whyNot": "A verse-by-verse mediation test fails here — mediation-check.py finds no decisive divergence at 8:20, and its report at 8:19 is a false positive. The argument is cumulative across four verses and one chapter of Helaman, which is weaker than a single decisive word and is stated as such.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "manual"
+    ]
+   }
+  ],
+  "8:20": [
+   {
+    "source": "Exodus 10:21",
+    "type": "allusion",
+    "subtype": "close-verbal",
+    "confidence": "high",
+    "text": "And the LORD said unto Moses, Stretch out thine hand toward heaven, that there may be darkness over the land of Egypt, even darkness which may be felt.",
+    "evidence": {
+     "vocabulary": 4,
+     "syntax": 3,
+     "sequence": 4,
+     "context": 5,
+     "rarity": 5,
+     "attestation": 1
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-OT",
+    "composite": [
+     "Exodus 10:22",
+     "Exodus 10:23"
+    ],
+    "recurrenceRefs": [
+     "Helaman 14:27",
+     "3 Nephi 8:3",
+     "3 Nephi 8:21",
+     "3 Nephi 8:23"
+    ],
+    "provenance": {
+     "route": "Exodus 10:21-23 → KJV → Book of Mormon",
+     "other": "“darkness which may be felt” occurs in exactly one KJV verse. “thick darkness” occurs in exactly nine, of which Exodus 10:22 is the only one that is three days long — 'a thick darkness in all the land of Egypt three days'. 3 Nephi 8:20 has both the thickness and the feeling in a single sentence, and 8:23 supplies the three days.",
+     "significance": "Samuel the Lamanite prophesied three days of darkness and the Helaman adjudication filed Exodus 10:22 for it, noting that the ninth plague is a plague from which Israel is exempt — 'all the children of Israel had light in their dwellings' (Exodus 10:23) — and that Helaman 14:27 states no exemption. 3 Nephi 8 closes that question in the strongest terms available: 8:21 says there could be no light 'at all', not by candle, torch or kindled fire, and 8:22 that neither sun nor moon nor stars were seen. There is no Goshen. And the detail 3 Nephi adds to the prophecy is precisely the one Exodus 10:21 supplies and Exodus 10:22 does not — that the darkness can be felt. The plague has been run without the covenant exemption that was its whole point."
+    },
+    "note": "'The inhabitants thereof which had not fallen, could feel the vapour of darkness.' Palpable darkness is one of the strangest images in the King James Bible and it exists in exactly one verse. Helaman 14:20, 14:27 promised three days of no light and said nothing about touching it; the narration adds the touch, and adds it from the verse immediately before the one Samuel's prophecy was built on. The 1830 spelling 'vapour' is the KJV's and was Americanised to 'vapor' in 1920, which is the usual pattern (CONVENTIONS §8) and here it removes nothing but orthography — 'vapour of darkness' is not a KJV phrase in any spelling.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "manual"
+    ]
+   }
+  ],
+  "8:21": [
+   {
+    "source": "Zephaniah 1:12",
+    "type": "echo",
+    "subtype": "possible",
+    "confidence": "low",
+    "text": "And it shall come to pass at that time, that I will search Jerusalem with candles, and punish the men that are settled on their lees: that say in their heart, The LORD will not do good, neither will he do evil.",
+    "evidence": {
+     "vocabulary": 2,
+     "syntax": 1,
+     "sequence": 1,
+     "context": 3,
+     "rarity": 5,
+     "attestation": 0
+    },
+    "kjvSpecific": "uncertain",
+    "mediation": "direct-OT",
+    "provenance": {
+     "route": "Zephaniah 1:12 → KJV → Book of Mormon",
+     "other": "“candles” occurs in exactly one KJV verse; the singular 'candle' is commoner, in about a dozen. Zephaniah 1:15, three verses on, is one of the nine 'thick darkness' verses and belongs to the same oracle: 'a day of wrath, a day of trouble and distress, a day of wasteness and desolation, a day of darkness and gloominess, a day of clouds and thick darkness'.",
+     "significance": "The KJV's one plural 'candles' are God's, and he is carrying them through a darkened Jerusalem to find the men who said he would do neither good nor harm. 3 Nephi 8:21 takes the candles away from the people who need them, in a city being punished for the same complacency, three verses before the same prophet's catalogue of a day of darkness and thick darkness. Read that way the verse is Zephaniah's oracle from the inside: the light that cannot be kindled is the light by which the search is made."
+    },
+    "note": "'There could be no light, because of the darkness, neither candles, neither torches.' The word is a KJV singleton and the setting of the singleton is a punitive darkness over a doomed city, which is exactly 3 Nephi 8's setting. That is the whole case, and it is thin: candles are what a nineteenth-century writer would name first when saying that nothing would light.",
+    "whyNot": "One common noun, in the plural, and no other contact with Zephaniah 1 anywhere in the chapter. 'Neither candles, neither torches' is a natural pair in English and needs no source; the Book of Mormon's sentence is about the physical impossibility of fire, Zephaniah's about a search. Recorded at 'low' because a reader who checks the rarity of 'candles' will find the singleton and should be told the catalogue found it too and did not think it carried weight.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "manual"
+    ]
+   }
+  ],
+  "8:22": [
+   {
+    "source": "2 Peter 2:17",
+    "type": "allusion",
+    "subtype": "close-verbal",
+    "confidence": "high",
+    "text": "These are wells without water, clouds that are carried with a tempest; to whom the mist of darkness is reserved for ever.",
+    "evidence": {
+     "vocabulary": 4,
+     "syntax": 3,
+     "sequence": 2,
+     "context": 4,
+     "rarity": 5,
+     "attestation": 1
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "recurrenceRefs": [
+     "1 Nephi 8:23",
+     "1 Nephi 12:17",
+     "2 Nephi 5:21",
+     "Mosiah 12:36"
+    ],
+    "provenance": {
+     "route": "2 Peter 2:17 → KJV → Book of Mormon",
+     "other": "“mist of darkness” occurs in exactly one KJV verse. The Book of Mormon's plural, 'mists of darkness', appears in no KJV verse.",
+     "significance": "The phrase entered this book at 1 Nephi 8:23, in Lehi's dream, where the mist of darkness blinds those on the path to the tree, and 1 Nephi 12:17 glosses it as 'the temptations of the devil, which blindeth the eyes and hardeneth the hearts of the children of men'. 3 Nephi 8:22 makes it weather. What was a figure for temptation in the founding vision is here a meteorological fact over a destroyed country, and the same clause that contains it also contains the sun, the moon and the stars — so the dream's image is being used to explain a physical darkness that no astronomy accounts for. 2 Peter's own context is a judgement oracle against false teachers, 'clouds that are carried with a tempest', which the chapter has had since 8:6."
+    },
+    "note": "Across a book boundary from its earlier adjudications, so the row is written rather than excluded (ADJUDICATING §4): a reader of 3 Nephi meets the phrase here in Mormon's hand and should be shown its source. The argument for 2 Peter 2:17 was made at 1 Nephi 8:23 and is not restated. What is new in 3 Nephi is the pluralisation and the literalisation — 'so great were the mists of darkness which were upon the face of the land' — and the fact that the phrase now sits inside the KJV's other darkness vocabulary rather than inside a vision.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "manual"
+    ]
+   }
+  ],
+  "8:23": [
+   {
+    "source": "Amos 8:3",
+    "type": "allusion",
+    "subtype": "close-verbal",
+    "confidence": "moderate",
+    "text": "And the songs of the temple shall be howlings in that day, saith the Lord GOD: there shall be many dead bodies in every place; they shall cast them forth with silence.",
+    "evidence": {
+     "vocabulary": 4,
+     "syntax": 2,
+     "sequence": 3,
+     "context": 5,
+     "rarity": 5,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-OT",
+    "recurrenceRefs": [
+     "3 Nephi 8:25"
+    ],
+    "provenance": {
+     "route": "Amos 8:3, 8:9-10 → KJV → Book of Mormon",
+     "other": "“howlings” occurs in exactly one KJV verse. The singular 'howling' is commoner — Isaiah 15:8, Jeremiah 25:36, Zechariah 11:3 and two others — but 3 Nephi 8:25 has the plural, 'thus were the howlings of the people great and terrible', which is Amos's form.",
+     "significance": "Amos 8 is the oracle a reader of a crucifixion-darkness narrative most needs, and it stands behind more of this chapter than one word. Amos 8:3 turns the songs of the temple into howlings and fills every place with dead bodies; Amos 8:9-10 is the KJV's clearest promise of a darkness at midday — 'I will cause the sun to go down at noon, and I will darken the earth in the clear day' — and immediately adds 'I will turn your feasts into mourning, and all your songs into lamentation … and I will make it as the mourning of an only son'. 3 Nephi 8:23-25 has the darkness, the mourning, the howlings, and mourners crying 'in one place' and 'in another place' as Amos has dead bodies 'in every place'. The mourning of an only son is what the chapter is nominally about."
+    },
+    "note": "'There was great mourning, and howling, and weeping among all the people continually.' The verse's own contact with Amos 8:3 is one word, but it is a KJV singleton and the chapter uses it twice, taking the plural at 8:25. What raises this above a lexical coincidence is Amos 8:9-10, whose sequence — sun darkened out of season, then mourning and lamentation over a land — is 3 Nephi 8:22-25's sequence. Moderate rather than high because no run of two words is shared with any verse of Amos 8; the case is one rare word plus a matched order of events.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "manual"
+    ]
+   }
+  ],
+  "8:24": [
+   {
+    "source": "Joel 2:31",
+    "type": "allusion",
+    "subtype": "close-verbal",
+    "confidence": "high",
+    "text": "The sun shall be turned into darkness, and the moon into blood, before the great and terrible day of the LORD come.",
+    "evidence": {
+     "vocabulary": 4,
+     "syntax": 4,
+     "sequence": 4,
+     "context": 5,
+     "rarity": 5,
+     "attestation": 1
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-OT",
+    "recurrenceRefs": [
+     "3 Nephi 8:25",
+     "3 Nephi 8:22",
+     "3 Nephi 8:14"
+    ],
+    "provenance": {
+     "route": "Joel 2:31 → KJV → Book of Mormon",
+     "other": "“great and terrible day” occurs in exactly one KJV verse. Acts 2:20 quotes Joel 2:31 at Pentecost and renders the same phrase 'the great and notable day of the Lord'; Malachi 4:5 has the third English form, 'the great and dreadful day of the LORD'.",
+     "alternative": "Acts 2:20, excluded by the mediation test. mediation-check.py finds one decisive divergence between the two candidates and the Book of Mormon has Joel's side of it: 'terrible', not 'notable', on a backbone of five further shared words (sun, turned, darkness, moon, blood).",
+     "significance": "This is the chapter's clearest mediation result and it runs against the direction of the chapter. Everything else here has been mediated — the rocks through Helaman 14, the smooth places through 1 Nephi 17, the darkness through Matthew rather than Luke — and the mourners' cry goes straight to the Old Testament, past the New Testament sermon that quotes it. The recovery is worth having: Joel 2:31 is the verse whose first half reads 'the sun shall be turned into darkness, and the moon into blood', and two verses earlier 3 Nephi 8:22 has said that neither the sun nor the moon nor the stars could be seen. The mourners cry about the great and terrible day out of the one KJV verse that had already told them what the sky would look like on it. Peter, preaching the same verse fifty days after the events this chapter narrates, said 'notable'; the Nephites say 'terrible', and the chapter had already spent Acts's word on its cities at 8:14."
+    },
+    "note": "'O that we had repented before this great and terrible day.' Four words from a KJV singleton, spoken twice (8:24, 8:25), in a passage that has just described the sun and moon going dark. The chapter's other five uses of 'great and terrible' are adjectival — a tempest, two destructions, a set of things done, the howlings — and only here does it modify 'day', which is what makes Joel and not the general formula the source.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "manual"
+    ]
+   }
+  ],
+  "8:25": [
+   {
+    "source": "Matthew 23:37",
+    "type": "allusion",
+    "subtype": "paraphrase",
+    "confidence": "moderate",
+    "text": "O Jerusalem, Jerusalem, thou that killest the prophets, and stonest them which are sent unto thee, how often would I have gathered thy children together, even as a hen gathereth her chickens under her wings, and ye would not!",
+    "evidence": {
+     "vocabulary": 4,
+     "syntax": 3,
+     "sequence": 4,
+     "context": 5,
+     "rarity": 4,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "OT-via-earlier-BoM",
+    "composite": [
+     "Luke 13:34"
+    ],
+    "recurrenceRefs": [
+     "Helaman 13:25",
+     "Helaman 13:33",
+     "Helaman 13:24"
+    ],
+    "provenance": {
+     "route": "Matthew 23:37 → KJV → Helaman 13:33 → Book of Mormon",
+     "other": "“killest the prophets” occurs in exactly two KJV verses, Matthew 23:37 and Luke 13:34, and both continue 'and stonest them'. mediation-check.py finds no decisive divergence between them at this verse: the two differ at 'thou that/which', 'gathereth/doth gather' and 'chickens/brood', none of which 3 Nephi reproduces.",
+     "alternative": "Luke 13:34 cannot be excluded on wording. Helaman 13:25, the Book of Mormon verse that first works this material, was adjudicated to Matthew 23:30 — Matthew's form of the fathers-and-prophets saying, which Luke has at 11:47-48 in different words — so the earlier link in the same chain favours Matthew, and the mediation is recorded as such with that qualification stated.",
+     "significance": "The cry is not a fresh borrowing at all: it is the fulfilment of a scripted lament. Samuel the Lamanite told the Nephites what they would say — 'O that I had repented, and had not killed the prophets, and stoned them, and cast them out' (Helaman 13:33) — and 3 Nephi 8:25 reports them saying it, in the plural and with 'before this great and terrible day' spliced in from Joel. So the chain runs Matthew 23:37 → Helaman 13:25 and 13:33 → 3 Nephi 8:25, and each step is visible. What Matthew supplies at the far end is the triad of killing, stoning and the mothers and children: 'how often would I have gathered thy children together, even as a hen gathereth her chickens'. 3 Nephi's mourners name 'our mothers, and our fair daughters, and our children', which is the gathering that did not happen."
+    },
+    "note": "'O that we had repented … and had not killed and stoned the prophets, and cast them out; then would our mothers, and our fair daughters, and our children have been spared.' The proximate model is Helaman 13:33 almost word for word, with 'I' made 'we' and Joel's day inserted; Helaman 13 in turn is built on Matthew 23, where 'cast them out' comes from Samuel's own 'ye do cast out the prophets' (Helaman 13:24) rather than from the gospel. The row sits here rather than at Helaman because a reader of 3 Nephi meets the cry as speech, in a new book and a new hand, and because the chapter's other lament (8:24) is Joel's and this one is not.",
+    "whyNot": "The Matthew/Luke choice cannot be settled from this verse and is argued from the earlier link in the same chain, which is an inference and not a test. And because the wording is so close to Helaman 13:33, a reader may reasonably say the only real link here is to Helaman and that the biblical row belongs there.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "manual"
+    ]
+   }
+  ]
+ }
+}

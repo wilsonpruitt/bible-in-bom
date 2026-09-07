@@ -1,0 +1,576 @@
+{
+ "chapter": 26,
+ "adjudicated": "2026-09-07",
+ "adjudicator": "Opus",
+ "links": {
+  "26:1": [
+   {
+    "source": "Mark 4:34",
+    "type": "allusion",
+    "subtype": "close-verbal",
+    "confidence": "high",
+    "evidence": {
+     "vocabulary": 4,
+     "syntax": 4,
+     "sequence": 3,
+     "context": 5,
+     "rarity": 5,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "composite": [
+     "Matthew 13:34",
+     "Luke 24:27"
+    ],
+    "provenance": {
+     "route": "Mark 4:34 (with its Matthean parallel, Matthew 13:34) → KJV → Book of Mormon",
+     "other": "“expounded all things” occurs in exactly one KJV verse, Mark 4:34. The other half of the Book of Mormon's clause, “unto the multitude”, occurs in exactly four KJV verses, and the only one of the four that is about Jesus teaching is Matthew 13:34 — which is Mark 4:34's own Synoptic parallel and shares its second half word for word (“without a parable spake he not unto them”). So both halves of 3 Nephi 26:1 come from the two verses of one Synoptic pair.",
+     "significance": "The metalepsis is a reversal, and it is the premise of the whole chapter. In Mark 4:34 expounding all things is precisely what Jesus does NOT do for the multitude: they get parables, and the exposition is reserved for the disciples when they are alone. 3 Nephi 26:1 takes that sentence and inverts its economy — here he expounds all things *unto the multitude*, and holds nothing back. The withholding does not disappear; it moves. Five verses later it is Mormon who cannot write a hundredth part (26:6), who is forbidden to write what the babes utter (26:16), and who keeps back a lesser part against the reader's faith (26:8-11). Mark's secret is repositioned from Christ to his abridger."
+    },
+    "note": "'He expounded them unto the multitude: and he did expound all things unto them, both great and small.' The verb is rare in the King James Bible — six verses — and the phrase “expounded all things” occurs in exactly one of them. That verse is Mark 4:34, where the object of the expounding is the disciples and the multitude are the ones excluded from it; the Book of Mormon keeps the phrase and swaps the audience. Luke 24:27 belongs in the same family and may be the closer situational model, since it is the risen Christ expounding the scriptures 'beginning at Moses and all the prophets', which is what 26:3 goes on to describe ('even from the beginning'). The machine's top candidate here was 2 Chronicles 20:24, a heap of corpses seen from a watchtower; the real source is not in the candidate list at all, which is CONVENTIONS §9's point about the n-gram stream being a recall floor.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "manual"
+    ],
+    "text": "But without a parable spake he not unto them: and when they were alone, he expounded all things to his disciples."
+   }
+  ],
+  "26:3": [
+   {
+    "source": "2 Peter 3:10",
+    "type": "allusion",
+    "subtype": "close-verbal",
+    "confidence": "high",
+    "evidence": {
+     "vocabulary": 5,
+     "syntax": 4,
+     "sequence": 5,
+     "context": 5,
+     "rarity": 5,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "composite": [
+     "2 Peter 3:12",
+     "Matthew 24:35"
+    ],
+    "provenance": {
+     "route": "2 Peter 3:10 → KJV → Book of Mormon",
+     "other": "“melt with fervent heat” occurs in exactly two KJV verses, 2 Peter 3:10 and 2 Peter 3:12, and nowhere else in scripture do the elements melt at all. 2 Peter 3:10 is also the only verse in the Bible that holds both that clause and “the heavens shall pass away” in one sentence; the Book of Mormon reproduces the pair in 2 Peter's order. “shall pass away” occurs in six KJV verses, of which Matthew 24:35, Mark 13:31 and Luke 21:33 supply the fuller 'heaven and earth shall pass away' that the Book of Mormon's 'the heavens and the earth should pass away' actually reads.",
+     "significance": "Recover 2 Peter 3 and the borrowed sentence turns out to sit inside an argument about a delayed revelation and a withheld word — which is this chapter's subject and not its imagery. 2 Peter 3 answers scoffers who ask 'Where is the promise of his coming?' by saying the delay is the Lord's longsuffering (3:9); it ends by conceding that in Paul's epistles are 'some things hard to be understood, which they that are unlearned and unstable wrest … unto their own destruction' (3:16). Ten verses later in 3 Nephi, greater things are withheld from those who will not believe 'unto their condemnation' (26:10). The chapter takes 2 Peter's cosmology in verse 3 and, without quoting it again, arrives at 2 Peter's doctrine of who may safely be given more."
+    },
+    "note": "'Even until the elements should melt with fervent heat … and the heavens and the earth should pass away.' The two clauses are the two halves of 2 Peter 3:10 in 2 Peter's own order, and the first of them has no other home in the King James Bible. The 1830 text reads 'should' throughout where the KJV reads 'shall', which is the tense the surrounding indirect discourse requires ('he did expound … that …') and not a departure from the source.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "machine-ngram",
+     "manual"
+    ],
+    "text": "But the day of the Lord will come as a thief in the night; in the which the heavens shall pass away with a great noise, and the elements shall melt with fervent heat, the earth also and the works that are therein shall be burned up."
+   },
+   {
+    "source": "Isaiah 34:4",
+    "type": "allusion",
+    "subtype": "close-verbal",
+    "confidence": "high",
+    "evidence": {
+     "vocabulary": 4,
+     "syntax": 4,
+     "sequence": 4,
+     "context": 4,
+     "rarity": 5,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-OT",
+    "composite": [
+     "Revelation 6:14"
+    ],
+    "provenance": {
+     "route": "Isaiah 34:4 → KJV → Book of Mormon",
+     "other": "“together as a scroll” occurs in exactly one KJV verse, Isaiah 34:4. Revelation 6:14 is the New Testament's use of the same image and reads 'the heaven departed as a scroll when it is rolled together'; mediation-check.py returns two decisive points for Isaiah and none for Revelation, because the Book of Mormon has Isaiah's word order (the participle before the noun) and lacks Revelation's trailing 'when it is rolled together' entirely. The Book of Mormon's verb is neither: “wrapt together” occurs in no KJV verse.",
+     "significance": "Isaiah 34:4 is the collapse of the heavens over Edom, a local judgment written in cosmic terms; Revelation 6:14 had already lifted it out of Edom and made it universal. 3 Nephi 26:3 takes the Isaian form and puts it to the universal use — the pattern of the whole chapter, which reaches for Old Testament wording and New Testament scope."
+    },
+    "note": "'And the earth should be wrapt together as a scroll.' The image has exactly one Old Testament home and one New Testament reuse, and the mediation test settles it for the Old: the Book of Mormon follows Isaiah's construction rather than Revelation's inverted one. What it does not follow is Isaiah's verb — Isaiah rolls, Revelation rolls, the Book of Mormon wraps, and “wrapt together” is in no King James verse at all. Note also that the subject has moved: in Isaiah it is the heavens that are rolled up and in 3 Nephi it is the earth, with the heavens left for the next clause and 2 Peter's.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "machine-ngram",
+     "manual"
+    ],
+    "text": "And all the host of heaven shall be dissolved, and the heavens shall be rolled together as a scroll: and all their host shall fall down, as the leaf falleth off from the vine, and as a falling fig from the fig tree."
+   },
+   {
+    "source": "Matthew 25:31",
+    "type": "allusion",
+    "subtype": "strong-verbal",
+    "confidence": "moderate",
+    "evidence": {
+     "vocabulary": 3,
+     "syntax": 3,
+     "sequence": 4,
+     "context": 5,
+     "rarity": 5,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "provenance": {
+     "route": "Matthew 25:31 → KJV → Book of Mormon",
+     "other": "“come in his glory” occurs in exactly one KJV verse, Matthew 25:31. The Synoptic parallels read otherwise — Mark 8:38 'when he cometh in the glory of his Father', Luke 9:26 'in his own glory' — so the Book of Mormon has Matthew's form of the phrase and not the others'.",
+     "significance": "Matthew 25:31 is the opening line of the sheep-and-goats judgment, and what the Book of Mormon does with it is to keep reading. 3 Nephi 26:3 borrows the coming; 26:4 supplies the assize — all nations gathered before him, separated as a shepherd divides — and 26:5 supplies the two destinations. The borrowing is not a phrase but a position in a passage: the chapter picks up Matthew 25 at verse 31 and stays with it through to its end."
+    },
+    "note": "'Even from the beginning until the time that he should come in his glory.' Three words, but they are three words the King James Bible uses once, and the two verses that follow in 3 Nephi walk through the scene that Matthew 25:31 introduces. Held at moderate because the phrase alone would not carry it; the case is the sequence.",
+    "whyNot": "A three-word run is thin, and 'come in his glory' is an obvious enough English rendering of a common idea that independent coinage cannot be excluded. The link rests on 26:4-5 continuing Matthew 25's scene, which is an argument about arrangement rather than wording.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "machine-ngram",
+     "manual"
+    ],
+    "text": "When the Son of man shall come in his glory, and all the holy angels with him, then shall he sit upon the throne of his glory:"
+   }
+  ],
+  "26:4": [
+   {
+    "source": "Revelation 20:12",
+    "type": "allusion",
+    "subtype": "close-verbal",
+    "confidence": "high",
+    "evidence": {
+     "vocabulary": 4,
+     "syntax": 4,
+     "sequence": 4,
+     "context": 5,
+     "rarity": 5,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "composite": [
+     "Revelation 7:9",
+     "Revelation 20:13"
+    ],
+    "provenance": {
+     "route": "Revelation 20:12, with the fourfold formula of Revelation 7:9 → KJV → Book of Mormon",
+     "other": "“stand before God” occurs in exactly one KJV verse, Revelation 20:12. “according to their works” occurs in exactly three, of which two are Revelation 20:12 and 20:13. The list is Revelation's other fixed formula: “nations and kindreds and people and tongues” occurs in exactly one KJV verse, Revelation 7:9, whose crowd 'stood before the throne' — the Book of Mormon has the same four members and sends them to stand before God rather than the throne.",
+     "significance": "This is the chapter's key, and it is metaleptic in Hays's strict sense: the point lies in what Revelation 20:12 says and 3 Nephi 26:4 does not repeat. In Revelation the dead stand before God and 'the books were opened', and they are judged 'out of those things which were written in the books'. 3 Nephi borrows the standing and the judging and drops the books — and then spends the next fourteen verses on nothing but books and what may be put in them: a hundredth part cannot be written (26:6), the greater part is on the plates of Nephi (26:7), a lesser part is written to try the reader's faith (26:8-11), the children's words are forbidden to be written (26:16), and what the disciples saw is 'not lawful to be written' (26:18). The verse that founds the judgment on a complete written record is the verse this chapter quotes at the head of an argument for an incomplete one."
+    },
+    "note": "'All people, and all kindreds, and all nations and tongues shall stand before God, to be judged of their works.' Two rarities converge in one sentence: the fourfold list is Revelation's and occurs in that order in exactly one verse, and “stand before God” occurs in exactly one verse, the great white throne of Revelation 20:12, which also supplies 'according to their works'. The Book of Mormon has fused Revelation's census of the redeemed with Revelation's assize of the dead. Neither is quoted at length; both are unmistakable.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "manual"
+    ],
+    "text": "And I saw the dead, small and great, stand before God; and the books were opened: and another book was opened, which is the book of life: and the dead were judged out of those things which were written in the books, according to their works."
+   }
+  ],
+  "26:5": [
+   {
+    "source": "John 5:29",
+    "type": "allusion",
+    "subtype": "close-verbal",
+    "confidence": "high",
+    "evidence": {
+     "vocabulary": 5,
+     "syntax": 4,
+     "sequence": 5,
+     "context": 5,
+     "rarity": 5,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "composite": [
+     "Daniel 12:2"
+    ],
+    "provenance": {
+     "route": "John 5:29, with Daniel 12:2's adjective restored → KJV → Book of Mormon",
+     "other": "Both halves are KJV singletons in the same verse: “resurrection of life” occurs in exactly one KJV verse and “resurrection of damnation” occurs in exactly one KJV verse, and it is John 5:29 both times. Run against Daniel 12:2 — the Old Testament passage John is reworking — mediation-check.py returns decisive points BOTH ways, which it flags as a composite rather than a bug: the frame ('they that have done good … they that have done evil … unto the resurrection of') is John's, and the adjective 'everlasting' attached to life is Daniel's ('some to everlasting life'), which John does not have.",
+     "significance": "The split is worth naming. A writer following John alone would have written 'the resurrection of life'; a writer following Daniel alone would not have reached 'damnation' at all. 3 Nephi 26:5 has John's antithesis with Daniel's adjective inside it — the New Testament verse read back through the Old Testament verse it depends on. Compare the same move at 26:15, where Isaiah's wording is preferred over the Gospel paraphrase of it."
+    },
+    "note": "'If they be good, to the resurrection of everlasting life; and if they be evil, to the resurrection of damnation.' John 5:29 is the only verse in the King James Bible that puts two resurrections in one antithesis and gives them these names, and the Book of Mormon reproduces the antithesis, the conditional, and both nouns. The one word that is not John's is 'everlasting', which is Daniel 12:2's — the source behind John's own sentence. The 1830 reading 'which was before the world began' (1920: 'who') is preserved in the running text.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "machine-ngram",
+     "manual"
+    ],
+    "text": "And shall come forth; they that have done good, unto the resurrection of life; and they that have done evil, unto the resurrection of damnation."
+   },
+   {
+    "source": "2 Timothy 1:9",
+    "type": "echo",
+    "subtype": "probable",
+    "confidence": "moderate",
+    "evidence": {
+     "vocabulary": 3,
+     "syntax": 3,
+     "sequence": 3,
+     "context": 4,
+     "rarity": 4,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "composite": [
+     "Titus 1:2"
+    ],
+    "provenance": {
+     "route": "2 Timothy 1:9 → KJV → Book of Mormon",
+     "other": "“before the world began” occurs in exactly two KJV verses, 2 Timothy 1:9 and Titus 1:2. Only one of the two attaches it to Christ: “in Christ Jesus before the world began” occurs in exactly one KJV verse, 2 Timothy 1:9, and the Book of Mormon writes 'which is in Christ, which was before the world began'.",
+     "significance": "2 Timothy 1:9 makes the pre-mundane grace the ground of a calling that is 'not according to our works'. 3 Nephi 26:5 has just said the opposite in Revelation's words — men are judged 'of their works' — and then attaches the pre-mundane clause to mercy, justice and holiness together. Whether the tension is felt or accidental, the verse holds both halves of the New Testament's own difficulty about works and grace in a single sentence."
+    },
+    "note": "'According to the mercy, and the justice, and the holiness which is in Christ, which was before the world began.' The collocation of Christ with the phrase 'before the world began' has one home in the King James Bible. Held at moderate: the phrase is short, and Titus 1:2 shows it was available without the Christological attachment.",
+    "whyNot": "Four words, and nothing else of 2 Timothy 1 is present. The reason for preferring 2 Timothy 1:9 over Titus 1:2 — the words 'in Christ' immediately preceding — is a matter of two more words, and a reader who thinks the phrase simply idiomatic in this register would not be unreasonable.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "manual"
+    ],
+    "text": "Who hath saved us, and called us with an holy calling, not according to our works, but according to his own purpose and grace, which was given us in Christ Jesus before the world began,"
+   }
+  ],
+  "26:6": [
+   {
+    "source": "John 21:25",
+    "type": "allusion",
+    "subtype": "close-verbal",
+    "confidence": "high",
+    "evidence": {
+     "vocabulary": 4,
+     "syntax": 4,
+     "sequence": 4,
+     "context": 5,
+     "rarity": 5,
+     "attestation": 1
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "recurrenceRefs": [
+     "1 Nephi 6:3",
+     "Words of Mormon 1:5",
+     "Helaman 3:14",
+     "3 Nephi 5:8"
+    ],
+    "provenance": {
+     "route": "John 21:25 → KJV → Book of Mormon",
+     "other": "“things which Jesus did” occurs in exactly three KJV verses — Luke 9:43, John 11:45 and John 21:25 — and only John 21:25 is about whether they can be written. “should be written” occurs in exactly one KJV verse, John 21:25. The Book of Mormon's own fraction is not biblical in this sense: “hundredth part” occurs in exactly one KJV verse, Nehemiah 5:11, where it is a rate of interest, and the standing exclusion for that stands at Words of Mormon 1:5.",
+     "significance": "The catalogue has recorded this idiom four times already, and this is the occurrence where it comes home. At 1 Nephi 6:3, Words of Mormon 1:5, Helaman 3:14 and 3 Nephi 5:8 the abridger borrows John's apology for omission and applies it to wars, proceedings, records — subjects John 21:25 is not about. Here the subject is the one John 21:25 actually names: the things which Jesus did, which cannot all be written. The phrase has returned to its source (ADJUDICATING §4), and that is why this row is written in full rather than filed as a repeat pointing back to 5:8."
+    },
+    "note": "'There cannot be written in this book, even a hundredth part of the things which Jesus did truly teach unto the people.' The last sentence of the Fourth Gospel is the King James Bible's one editorial apology for an incomplete record, and the Book of Mormon has used it as such since 1 Nephi. What distinguishes this occurrence from the four before it is that the shared words are now the ones that matter: 'the things which Jesus did' is John 21:25's own subject, and 5:8 shared no such phrase. The verbal contact remains a substitution rather than a reproduction — 'cannot be written in this book' for 'could not contain the books that should be written' — but it is a closer substitution than any of the earlier rows, and it sits in John's situation rather than beside it.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "machine-ngram",
+     "manual"
+    ],
+    "text": "And there are also many other things which Jesus did, the which, if they should be written every one, I suppose that even the world itself could not contain the books that should be written. Amen."
+   }
+  ],
+  "26:13": [
+   {
+    "source": "Luke 24:30",
+    "type": "allusion",
+    "subtype": "close-verbal",
+    "confidence": "high",
+    "evidence": {
+     "vocabulary": 4,
+     "syntax": 3,
+     "sequence": 4,
+     "context": 5,
+     "rarity": 4,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "composite": [
+     "Matthew 26:26",
+     "Luke 24:35",
+     "Acts 2:46"
+    ],
+    "provenance": {
+     "route": "Luke 24:30 → KJV → Book of Mormon",
+     "other": "“blessed it and brake” occurs in exactly two KJV verses, Matthew 26:26 and Luke 24:30. Of the two, only Luke 24:30 is a post-resurrection meal, and only Luke 24:30 is followed by a verse that turns the act into a mode of recognition — “breaking of bread” occurs in exactly two KJV verses, Luke 24:35 and Acts 2:42. Matthew 26:26 supplies the pronoun the Book of Mormon carries ('blessed it', 'gave it'), which Luke 24:30 lacks ('brake, and gave to them'), so the wording is a conflation of the two.",
+     "significance": "Luke 24:30-35 is the only place in the King James Bible where a risen Christ breaks bread, and its point is that he 'was known of them in breaking of bread' — a single meal that ends in recognition and immediate disappearance. 3 Nephi 26:13 has the same act with the temporal marker changed: 'he did shew himself unto them oft, and did break bread oft'. The Emmaus moment, which in Luke happens once and is over, becomes here a standing practice. Recognition is not the issue, because these disciples already know him; repetition is."
+    },
+    "note": "'He did shew himself unto them oft, and did break bread oft, and bless it, and give it unto them.' The three verbs in that order, applied to bread, are the institution formula, and the Book of Mormon reorders them — break, bless, give, against the Gospels' bless, break, give. The 1830 'shew' is the King James spelling and is what makes the borrowing visible; 1920's 'show' obscures it (CONVENTIONS §8). Luke 24:30 is preferred to Matthew 26:26 on the situation rather than the syntax: this is the risen Christ eating with his disciples, which the Last Supper is not. The rest of the verse's setting — teaching, daily bread, and at 26:19 all things in common — is Acts 2:42-46's description of the same community, which is where 26:19's link goes.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "manual"
+    ],
+    "text": "And it came to pass, as he sat at meat with them, he took bread, and blessed it, and brake, and gave to them."
+   }
+  ],
+  "26:14": [
+   {
+    "source": "Mark 7:35",
+    "type": "allusion",
+    "subtype": "strong-verbal",
+    "confidence": "moderate",
+    "evidence": {
+     "vocabulary": 3,
+     "syntax": 3,
+     "sequence": 4,
+     "context": 5,
+     "rarity": 5,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "composite": [
+     "Isaiah 35:6",
+     "Mark 7:37"
+    ],
+    "provenance": {
+     "route": "Mark 7:35 → KJV → Book of Mormon",
+     "other": "“the string of his tongue was loosed” occurs in exactly one KJV verse, Mark 7:35, and it is the only verse in the Bible in which anyone's tongue is loosed at all. The Book of Mormon writes 'he did loose their tongues … and loosed their tongues that they could utter', which is the same act in the same words minus Mark's 'string'. Isaiah 35:6, the front half of the block Hardy cross-references at 26:15, supplies the Old Testament form: 'the tongue of the dumb sing'.",
+     "significance": "Mark 7:35 has two clauses — 'straightway his ears were opened, and the string of his tongue was loosed' — and 3 Nephi uses both, in reverse order and across a verse boundary: tongues loosed at 26:14, the ears of the deaf unstopped at 26:15. Mark 7:37 then glosses the healing in Isaiah's own terms ('he maketh both the deaf to hear, and the dumb to speak'), which is exactly the pairing the Book of Mormon has made. Whichever way the dependence runs, the two verses reproduce a nexus — Isaiah 35:5-6 read through Mark 7 — that the King James Bible itself supplies as a unit."
+    },
+    "note": "'He did loose their tongues, and they did speak unto their fathers great and marvellous things … and loosed their tongues that they could utter.' The verbal contact is two words, 'tongue' and 'loosed', and it would be nothing on its own; what makes it a link is that it is the King James Bible's only instance of the idea, and that the very next verse of 3 Nephi supplies the other clause of the same source verse. The 1830 spelling 'marvellous' is the KJV's and is modernized in 1920. Note that the deafness and dumbness here are not the children's — nothing says they were mute — so the healing formula is being used of an enabling, not a cure.",
+    "whyNot": "Two shared words, and the Book of Mormon drops the distinctive noun ('string'). The case rests almost entirely on the 26:14/26:15 pairing reproducing Mark 7:35's two clauses; a reader who takes 'loose the tongue' to be ordinary English rather than a borrowing has a fair objection, and the phrase does not otherwise occur in the King James Bible in that ordinary sense either way.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "manual"
+    ],
+    "text": "And straightway his ears were opened, and the string of his tongue was loosed, and he spake plain."
+   }
+  ],
+  "26:15": [
+   {
+    "source": "Isaiah 35:5",
+    "type": "allusion",
+    "subtype": "close-verbal",
+    "confidence": "high",
+    "evidence": {
+     "vocabulary": 5,
+     "syntax": 4,
+     "sequence": 4,
+     "context": 5,
+     "rarity": 5,
+     "attestation": 3
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-OT",
+    "composite": [
+     "Isaiah 35:6",
+     "Matthew 11:5"
+    ],
+    "provenance": {
+     "route": "Isaiah 35:5 → KJV → Book of Mormon",
+     "other": "“unstopped” occurs in exactly one KJV verse, Isaiah 35:5, and “ears of the deaf shall be unstopped” occurs in exactly one KJV verse, the same one. Matthew 11:5 and Luke 7:22 are the New Testament's use of the Isaiah 35 catalogue, and mediation-check.py is decisive for Isaiah: the Book of Mormon reads 'opened the eyes of their blind', which is Isaiah's 'the eyes of the blind shall be opened', not Matthew's 'the blind receive their sight'. “eyes of the blind” by itself occurs in six KJV verses and settles nothing; the participle does.",
+     "significance": "The interesting result is that the wording and the list come from different places. The verbs are Isaiah's, decisively; but the Book of Mormon's inventory — sick, lame, blind, deaf, and then 'raised a man from the dead' — is Matthew 11:5's, because Isaiah 35 has no raising of the dead in it and Matthew 11:5 does ('the dead are raised up'). So 26:15 answers John the Baptist's question in Isaiah's vocabulary: the sign-list by which Jesus identified himself to John is here a report of what he had already done among another people, with the Gospel's paraphrase corrected back to the prophet's words."
+    },
+    "note": "'Opened the eyes of their blind, and unstopped the ears of the deaf.' Nine words of Isaiah 35:5 in Isaiah's order, containing a word the King James Bible uses exactly once. The clause before it, 'their sick, and their lame', reaches Isaiah 35:6 ('then shall the lame man leap as an hart'), which is the verse behind 26:14's loosed tongues as well — so the two verses together work through Isaiah 35:5-6 as a block. This is one of two rows in the chapter that Hardy's apparatus cross-references (Isaiah 35:4-5); the verbal case here is our own and the mediation result against Matthew 11:5 is the part worth having.",
+    "bibliography": [
+     "Hardy MSI at 3 Ne 26.15 (Isaiah 35:4-5)"
+    ],
+    "status": "majority",
+    "streams": [
+     "machine-ngram",
+     "manual"
+    ],
+    "text": "Then the eyes of the blind shall be opened, and the ears of the deaf shall be unstopped."
+   }
+  ],
+  "26:16": [
+   {
+    "source": "Matthew 21:16",
+    "type": "figural",
+    "subtype": "type-scene",
+    "confidence": "moderate",
+    "evidence": {
+     "vocabulary": 2,
+     "syntax": 1,
+     "sequence": 3,
+     "context": 5,
+     "rarity": 3,
+     "attestation": 0
+    },
+    "kjvSpecific": "uncertain",
+    "mediation": "OT-via-NT",
+    "composite": [
+     "Psalm 8:2",
+     "Matthew 21:15"
+    ],
+    "provenance": {
+     "route": "Psalm 8:2 as quoted at Matthew 21:15-16 → KJV → Book of Mormon",
+     "other": "“out of the mouth of babes” occurs in exactly two KJV verses, Psalm 8:2 and Matthew 21:16, the second quoting the first. mediation-check.py returns no decisive divergence, because the Book of Mormon reproduces neither continuation — not the Psalm's 'ordained strength' nor Matthew's 'perfected praise' — so the mediation is argued from setting rather than from wording, as CONVENTIONS §7 allows. The setting is decisively Matthew's: a temple, children uttering what the adults are made to hear, and the adults unable to answer it.",
+     "significance": "Matthew 21:15-16 is the only place in the King James Bible where children speak in the temple and their elders have to reckon with it, and Jesus settles the matter by quoting Psalm 8 at them. 3 Nephi 26:16 has the multitude gathered at the temple in Bountiful to hear the babes, and there is no objection at all — the elders come back the next morning specifically to listen. The Gospel's contest is resolved before it starts, and what the children say is then forbidden to be written, which is a suppression Matthew's scene has no equivalent for."
+    },
+    "note": "'Even babes did open their mouths, and utter marvellous things.' Two words of contact — babes, mouths — and that is the whole verbal case, which is why this is filed as figural rather than as an allusion. What earns it a row is that the King James Bible has exactly one scene of this shape and 3 Nephi 26:14-16 is built on it: children given speech, in the temple, in the hearing of a gathered adult multitude, uttering praise their elders had not expected. The 1830 'marvellous' is the KJV spelling.",
+    "whyNot": "No distinctive phrase is shared, and 'babes' plus 'mouths' will follow from the subject matter without any borrowing at all. The mediation test cannot be run, so the choice of Matthew over the Psalm rests entirely on the temple setting. A reader who declines the whole row is not making an error, and the register would be dishonest if it did not say so.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "manual"
+    ],
+    "text": "And said unto him, Hearest thou what these say? And Jesus saith unto them, Yea; have ye never read, Out of the mouth of babes and sucklings thou hast perfected praise?"
+   }
+  ],
+  "26:17": [
+   {
+    "source": "Acts 19:5",
+    "type": "allusion",
+    "subtype": "conceptual",
+    "confidence": "moderate",
+    "evidence": {
+     "vocabulary": 3,
+     "syntax": 3,
+     "sequence": 4,
+     "context": 5,
+     "rarity": 3,
+     "attestation": 0
+    },
+    "kjvSpecific": "uncertain",
+    "mediation": "direct-NT",
+    "composite": [
+     "Acts 19:6",
+     "Acts 2:38",
+     "Acts 8:16",
+     "Matthew 28:19"
+    ],
+    "provenance": {
+     "route": "Acts 19:5-6, with the commission of Matthew 28:19 → KJV → Book of Mormon",
+     "other": "“baptized in the name of the Lord Jesus” occurs in exactly two KJV verses, Acts 8:16 and Acts 19:5. The Book of Mormon's shorter form, 'baptized in the name of Jesus', occurs in no KJV verse — which is why kjvSpecific is recorded as uncertain here rather than yes. “filled with the Holy Ghost” occurs in eight KJV verses, every one of them in Luke or Acts.",
+     "significance": "The two Acts verses that use the formula are a matched pair, and the Book of Mormon's sentence takes a side. Acts 8:16 is the negative case — at Samaria they 'were baptized in the name of the Lord Jesus' and the Holy Ghost 'was fallen upon none of them' until the apostles came down. Acts 19:5-6 is the positive case: baptized in that name, and the Holy Ghost came on them. 3 Nephi 26:17 states the positive case as a rule ('as many as were baptized … were filled with the Holy Ghost'), which is precisely what Acts 8:16 exists to deny can be assumed. Note too that the name is the Acts formula and not the trinitarian one Christ gave these same disciples at 3 Nephi 11:25."
+    },
+    "note": "'The disciples whom Jesus had chosen, began from that time forth to baptize and to teach … and as many as were baptized in the name of Jesus, were filled with the Holy Ghost.' Teaching and baptizing in that pair is the commission of Matthew 28:19-20, and the chapter completes it at 26:20; the baptismal formula and the promise attached to it are Acts's. Held at moderate because no phrase is reproduced exactly: the Book of Mormon says 'in the name of Jesus' where the King James Bible always says 'in the name of the Lord Jesus'.",
+    "whyNot": "Nothing here is a verbatim run. The case is that the sequence — chosen disciples, teaching, baptism in Jesus' name, the Holy Ghost following — is Acts's and occurs in Acts twice; a reader could hold that early-Christian practice as described anywhere would produce the same sentence.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "manual"
+    ],
+    "text": "When they heard this, they were baptized in the name of the Lord Jesus."
+   }
+  ],
+  "26:18": [
+   {
+    "source": "2 Corinthians 12:4",
+    "type": "allusion",
+    "subtype": "close-verbal",
+    "confidence": "high",
+    "evidence": {
+     "vocabulary": 5,
+     "syntax": 5,
+     "sequence": 5,
+     "context": 5,
+     "rarity": 5,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "composite": [
+     "2 Corinthians 12:2"
+    ],
+    "provenance": {
+     "route": "2 Corinthians 12:4 → KJV → Book of Mormon",
+     "other": "“unspeakable words” occurs in exactly one KJV verse, 2 Corinthians 12:4, and “caught up into paradise” occurs in exactly one KJV verse, the same one. The whole of the Book of Mormon's clause is that verse's second half with two substitutions: 'things' for 'words', and 'written' for 'utter'. 'Not lawful' by itself is common — fourteen KJV verses — but thirteen of them are sabbath and legal disputes and none is about a vision.",
+     "significance": "Paul's sentence is the New Testament's charter for a revelation that exists and may not be reported, and it locates the prohibition in speech: a man may not *utter* what he heard. 3 Nephi 26:18 moves it to the page — the things are 'not lawful to be written'. That single substitution is the chapter in miniature. Everything Mormon has said since 26:6 is about the limits of a record rather than the limits of speech: Christ expounded all things aloud to the multitude (26:1), the multitude heard the babes (26:16), and it is only the writing that is forbidden (26:16, 26:18) or deferred (26:9-11). Paul's unspeakable words become Mormon's unwritable ones, and the catalogue's readers are on the wrong side of the substitution by construction."
+    },
+    "note": "'And many of them saw and heard unspeakable things, which are not lawful to be written.' This is the closest verbal contact in the chapter and rests on a King James singleton. 2 Corinthians 12:4 reads 'heard unspeakable words, which it is not lawful for a man to utter'; 3 Nephi 26:18 reads 'saw and heard unspeakable things, which are not lawful to be written'. The clause structure, the adjective, the legal negative and the infinitive of communication all survive; what changes is the verb, and the change is the argument. Below Skousen's sixteen-word threshold for a quotation and catalogued as an allusion accordingly (CONVENTIONS §2).",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "manual"
+    ],
+    "text": "How that he was caught up into paradise, and heard unspeakable words, which it is not lawful for a man to utter."
+   }
+  ],
+  "26:19": [
+   {
+    "source": "Acts 4:32",
+    "type": "allusion",
+    "subtype": "close-verbal",
+    "confidence": "high",
+    "evidence": {
+     "vocabulary": 4,
+     "syntax": 4,
+     "sequence": 3,
+     "context": 5,
+     "rarity": 4,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "composite": [
+     "Acts 2:44",
+     "Acts 2:42"
+    ],
+    "recurrenceRefs": [
+     "4 Nephi 1:3"
+    ],
+    "provenance": {
+     "route": "Acts 4:32 → KJV → Book of Mormon",
+     "other": "“had all things common” occurs in exactly two KJV verses, Acts 2:44 and Acts 4:32, and nowhere else in scripture. The Book of Mormon's 'they had all things common' matches Acts 4:32's pronoun and clause exactly; Acts 2:44 reads 'and had all things common' without the subject. The phrase enters the Book of Mormon here and returns once, at 4 Nephi 1:3.",
+     "significance": "Read on, and Acts 4:32 turns out to be the verse before the Book of Mormon's own problem. Acts 4:32-37 describes the community of goods and names Barnabas, who sold a field and laid the whole price at the apostles' feet; Acts 5:1-2 then names Ananias, who 'kept back part of the price' and died for it. 3 Nephi 26 is a chapter about keeping back part — a hundredth part written, a lesser part given, a greater part withheld (26:6-11) — and it reaches for the community that held all things common as its closing image. We do not claim the writer meant the juxtaposition. But the source passage's next episode is about a withheld portion, and this is the catalogue's business to record."
+    },
+    "note": "'They had all things common among them, every man dealing justly, one with another.' Four words with two homes in the King James Bible, both in Acts's descriptions of the Jerusalem church, and the surrounding verses of 3 Nephi assemble the rest of that description: teaching and ministering (26:19, cf. Acts 2:42), breaking bread (26:13, cf. Acts 2:46), baptism and the Holy Ghost (26:17, cf. Acts 2:38). The chapter is not borrowing a phrase; it is reproducing Acts 2-4's portrait of a church and using Acts's own words to do it. 'Every man dealing justly' is the Book of Mormon's addition and has no King James parallel.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "machine-ngram",
+     "manual"
+    ],
+    "text": "And the multitude of them that believed were of one heart and of one soul: neither said any of them that ought of the things which he possessed was his own; but they had all things common."
+   }
+  ],
+  "26:20": [
+   {
+    "source": "Mark 11:6",
+    "type": "echo",
+    "subtype": "probable",
+    "confidence": "moderate",
+    "evidence": {
+     "vocabulary": 3,
+     "syntax": 3,
+     "sequence": 2,
+     "context": 4,
+     "rarity": 5,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "composite": [
+     "Matthew 21:6",
+     "Matthew 28:20"
+    ],
+    "provenance": {
+     "route": "Mark 11:6 and Matthew 21:6 conflated, in the setting of Matthew 28:20 → KJV → Book of Mormon",
+     "other": "Two singletons, one on each side of a Synoptic parallel: “as Jesus had commanded” occurs in exactly one KJV verse, Mark 11:6, and “as Jesus commanded them” occurs in exactly one KJV verse, Matthew 21:6. Both report the same errand, the fetching of the colt. The Book of Mormon reads 'even as Jesus had commanded them', which takes Mark's 'even … had' and Matthew's 'them' — so the mediation test between the two forms does not resolve; the verse has both, and mediation-check.py's one decisive point is an absence rather than a reading.",
+     "significance": "The wording comes from the colt-fetching, but the situation is the Great Commission's: “all things whatsoever I have commanded you” occurs in exactly one KJV verse, Matthew 28:20, and 3 Nephi 26:17-20 works through Matthew 28:19-20 in order — chosen disciples, teaching, baptizing, and finally doing all things as commanded. The chapter ends its account of the church with the sentence Matthew ends his Gospel with, in the words two other Gospels use for a small act of obedience whose point the doers could not yet see."
+    },
+    "note": "'They did do all things, even as Jesus had commanded them.' A short clause, but every part of it is a King James singleton in one Gospel or another, and the Book of Mormon has assembled it from both members of a Synoptic pair rather than following either. Held at moderate: the phrase is the plainest possible statement of obedience and could be written by anyone, and the argument is that the chapter has by this point already reproduced the other two clauses of Matthew 28:19-20.",
+    "whyNot": "'As Jesus had commanded them' is not a distinctive form of words in the way that 'unstopped' or 'unspeakable words' are — its rarity in the King James Bible is close to arithmetic, since the KJV rarely needs to say it. The conflation argument cuts both ways: a text that matches neither source exactly may be matching neither.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "machine-ngram",
+     "manual"
+    ],
+    "text": "And they said unto them even as Jesus had commanded: and they let them go."
+   }
+  ]
+ }
+}

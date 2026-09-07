@@ -1,0 +1,524 @@
+{
+  "chapter": 5,
+  "adjudicated": "2026-09-07",
+  "adjudicator": "Opus",
+  "links": {
+    "5:1": [
+      {
+        "source": "Acts 3:21",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "recurrenceRefs": [
+          "1 Nephi 3:20",
+          "Mosiah 13:33"
+        ],
+        "provenance": {
+          "route": "Acts 3:21 → KJV → Book of Mormon",
+          "other": "“holy prophets” occurs in exactly four KJV verses — Luke 1:70, Acts 3:21, 2 Peter 3:2 and Revelation 22:6 — and every one of them is in the New Testament. The Old Testament never calls a prophet holy. Acts 3:21 is the one that adds the totalising 'all': 'all his holy prophets'.",
+          "alternative": "2 Peter 3:2, 'the words which were spoken before by the holy prophets', supplies the noun 'words' that 3 Nephi 5:1 has and Acts 3:21 lacks; the two verses between them account for the whole phrase.",
+          "significance": "Acts 3:21 is Peter at Solomon's porch defining what all the holy prophets spoke about: 'the times of restitution of all things'. 3 Nephi 5 borrows the epithet at its first verse and then, twenty-two verses later, writes a restitution — 'the restoring all the house of Jacob unto the knowledge of the covenant' (5:25), gathered 'from the four quarters of the earth' (5:24). The chapter opens with the KJV's vocabulary for prophecy-fulfilled and closes with the specific prophecy Acts 3:21 says all of them were about. Neither text says this; the shape of the chapter does."
+        },
+        "note": "'Not a living soul … which did doubt in the least thing in the words of all the holy prophets which had spoken.' The epithet is a New Testament one: “holy prophets” occurs in exactly four KJV verses and all four are in the New Testament, which is a small anachronism sitting inside a large one, since the verse is dated to the twenty-sixth year after the sign of Christ's birth. The catalogue adjudicated the fuller form of the phrase at 1 Nephi 3:20, where 'the mouth of all the holy prophets' comes with 'since the world began' attached; this row is written rather than registered as a repeat because 3 Nephi is a different book and Mormon is a different hand (ADJUDICATING §4). What is new here is the use: at 1 Nephi 3:20 the prophets are cited as a source of words, here as a body whose words are all now demonstrably true.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "Whom the heaven must receive until the times of restitution of all things, which God hath spoken by the mouth of all his holy prophets since the world began."
+      },
+      {
+        "source": "Acts 1:16",
+        "type": "echo",
+        "subtype": "probable",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 4,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "recurrenceRefs": [
+          "3 Nephi 5:2"
+        ],
+        "provenance": {
+          "route": "Acts 1:16 → KJV → Book of Mormon",
+          "other": "“must needs have been fulfilled” occurs in exactly one KJV verse, Acts 1:16, and “must needs” occurs in exactly 12. Of those twelve, Acts 1:16 is the only one whose subject is scripture and whose predicate is fulfilment.",
+          "alternative": "Matthew 18:7 is the closer string — “must needs be that” occurs in exactly one KJV verse and that is it — but its subject is the coming of offences, not the fulfilling of prophecy. The Book of Mormon has Matthew's syntax and Acts' sense.",
+          "significance": "Acts 1:16 is Peter explaining Judas: the scripture must needs have been fulfilled, and the fulfilment in question is a betrayal. The construction exists in the KJV to say that a bad outcome was nevertheless written. 3 Nephi 5:1-2 turns it to the opposite service — a people who have watched the signs arrive and now reason backward from the arrival to the necessity."
+        },
+        "note": "'For they knew that it must needs be that they must be fulfilled', repeated at 5:2 as 'they knew it must needs be that all things should come to pass'. The idiom is not English of any period at large; it is the KJV's, twelve times, and only Acts 1:16 joins it to scripture being fulfilled. Held at moderate and not higher because the two candidate verses split: the exact string belongs to Matthew 18:7 and the sense belongs to Acts 1:16, and a writer with the whole KJV in his ear could reach the sentence from either. The 1830 reading is quoted; 1920 deletes 'thing' and 'in' from 5:1 without touching this clause.",
+        "whyNot": "No word of Acts 1:16 beyond the two-word idiom is present — no Holy Ghost, no mouth of David, no Judas — and the doubled use at 5:1 and 5:2 looks more like a writer's tic than a citation. A reader who declined this row and filed both verses as formulaic would not be unreasonable.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ],
+        "text": "Men and brethren, this scripture must needs have been fulfilled, which the Holy Ghost by the mouth of David spake before concerning Judas, which was guide to them that took Jesus."
+      }
+    ],
+    "5:3": [
+      {
+        "source": "Acts 26:7",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Luke 2:37"
+        ],
+        "provenance": {
+          "route": "Acts 26:7, with Luke 2:37 → KJV → Book of Mormon",
+          "other": "“serving God” occurs in exactly one KJV verse, Acts 26:7, and “served God with” occurs in exactly one, Luke 2:37. Those are the only two verses in the King James Bible that predicate serving God of a continuous day-and-night practice: “serve God” occurs in exactly five verses and none of the other three (Exodus 3:12, Malachi 3:14, Hebrews 12:28) has anything to do with time of day. 3 Nephi 5:3 takes Luke's syntax — served God with [a manner] — and Acts' word order, 'day and night', where Luke 2:37 reads 'night and day'.",
+          "significance": "Acts 26:7 is Paul on trial before Agrippa, and the people he describes as 'instantly serving God day and night' are 'our twelve tribes', waiting on a promise. This chapter ends by gathering those tribes: 'all the remnant of the seed of Jacob, which are scattered abroad' (5:24), 'restoring all the house of Jacob unto the knowledge of the covenant' (5:25). The one KJV verse that says what 5:3 says about worship is the one that attaches it to the twelve tribes and the promise they hope to come to — which is precisely what 5:24-25 promises them. Recover the context and 5:3's converted Nephites are put in the posture the New Testament assigns to scattered Israel, twenty verses before the chapter says they are scattered Israel."
+        },
+        "note": "'They did forsake all their sins, and their abominations, and their whoredoms, and did serve God with all diligence, day and night.' Two KJV singletons in one clause, from the only two verses in the Bible that describe anyone serving God around the clock. The join is visible: the frame 'served God with —' is Luke's, the ordering 'day and night' is Acts'. Well below Skousen's sixteen-word threshold and not one of his passages, but the collocation is absolutely rare and the thematic payoff is in the same chapter. Note that the third element, 'with all diligence', is not from either: “with all diligence” occurs in exactly one KJV verse, Proverbs 4:23, where it governs keeping the heart, and the Book of Mormon uses the phrase as a formula of its own throughout Mosiah and Alma. See the exclusion register at this verse.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "Unto which promise our twelve tribes, instantly serving God day and night, hope to come. For which hope’s sake, king Agrippa, I am accused of the Jews."
+      }
+    ],
+    "5:4": [
+      {
+        "source": "Luke 4:18",
+        "type": "allusion",
+        "subtype": "conceptual",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 2,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "OT-via-NT",
+        "composite": [
+          "Isaiah 61:1"
+        ],
+        "provenance": {
+          "route": "Isaiah 61:1 → Luke 4:18 → KJV → Book of Mormon",
+          "other": "“set at liberty” occurs in exactly four KJV verses: Jeremiah 34:16, Luke 4:18, Acts 26:32 and Hebrews 13:23. Isaiah 61:1, which Luke 4:18 quotes, does not have it — Isaiah reads 'proclaim liberty to the captives, and the opening of the prison to them that are bound'. 'Set at liberty' is the form the KJV New Testament gives the verse, following the Septuagint's phrasing where the Hebrew has the release of prisoners.",
+          "alternative": "tools/mediation-check.py returns Isaiah 61:1 as the decisive form, on the ground that the Book of Mormon has Isaiah's 'prison' where Luke has 'blind'. That result is an artifact and is overridden here: the robbers of 3 Nephi 5:4 are literally cast into prison, so the word is supplied by the narrative and carries no evidence either way. The word that is not supplied by the narrative is 'liberty', and it is Luke's.",
+          "significance": "Luke 4:18 is the Nazareth sermon — the text Jesus reads and then closes the book on, saying it is fulfilled in their ears. Its programme is preaching to the poor and liberty for prisoners. 3 Nephi 5:4 executes that programme with a jailer's literalism: the prisoners are actual prisoners, the preaching is done at them in their cells, and the liberty is conditional on a covenant to commit no more murders. The chapter is set in the years immediately after Christ's birth-sign and immediately before his appearance in 3 Nephi 11, and the Nephite state is here running the Nazareth manifesto as criminal policy."
+        },
+        "note": "'They did cast their prisoners into prison, and did cause the word of God to be preached unto them; and as many as would repent of their sins and enter into a covenant that they would murder no more, were set at liberty.' Three of Luke 4:18's four clauses are here in Luke's order — preaching, captives, liberty — and the fourth, recovering of sight, is the one Luke added to Isaiah and the one the Book of Mormon has no use for. The mediation is the point: the verse behind Luke 4:18 is Isaiah 61:1, and Isaiah's English is 'proclaim liberty', not 'set at liberty'. The Book of Mormon has the New Testament's wording of an Old Testament promise, in a book whose narrator has not yet met the New Testament.",
+        "whyNot": "'Set at liberty' was ordinary legal English in 1829 and would need no source at all; the phrase appears in Acts 26:32 and Hebrews 13:23 of prisoners with no Isaianic freight whatever. Held at moderate because the case rests on the company the phrase keeps in this verse rather than on the phrase itself.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "The Spirit of the Lord is upon me, because he hath anointed me to preach the gospel to the poor; he hath sent me to heal the brokenhearted, to preach deliverance to the captives, and recovering of sight to the blind, to set at liberty them that are bruised,"
+      }
+    ],
+    "5:5": [
+      {
+        "source": "Acts 9:1",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "recurrenceRefs": [
+          "1 Nephi 18:17",
+          "Alma 54:16",
+          "Alma 54:19"
+        ],
+        "provenance": {
+          "route": "Acts 9:1 → KJV → Book of Mormon",
+          "other": "“breathing out threatenings” occurs in exactly one KJV verse, Acts 9:1, and the noun 'threatenings' occurs in exactly two, Acts 9:1 and Acts 4:29. The whole idiom is confined to Acts. The catalogue adjudicated the borrowing at 1 Nephi 18:17 and wrote it again at Alma 54:19 across the book boundary; this row is the third such crossing and the argument is not restated.",
+          "significance": "The catalogue has recorded this phrase three times now, and 3 Nephi 5:5 is where its context finally arrives whole. Acts 9:1's breather-out of threatenings is Saul on the Damascus road, and the next thing that happens to him is conversion — he is struck down, blinded, taught, baptised, and set to preaching. 3 Nephi 5:4-5 splits the robbers into exactly those two outcomes and puts the Acts 9 phrase on the wrong half. Those who repent and covenant are 'set at liberty' in Luke 4:18's words; those 'found breathing out threatenings against their brethren' are 'condemned and punished according to the law'. The verse borrows the description of a man the New Testament goes on to convert and applies it to the men this chapter refuses to convert."
+        },
+        "note": "'Yea, as many as were found breathing out threatenings against their brethren, were condemned and punished according to the law.' A four-word run from a KJV singleton, in the correct grammatical setting — breathing out threatenings *against* somebody, as Saul does against the disciples of the Lord. Written rather than registered as a repeat because 3 Nephi is a new book and a new voice (ADJUDICATING §4); the argument for KJV specificity was made at 1 Nephi 18:17 and is not made again. What this occurrence adds is that it sits one verse after a Lukan borrowing about setting prisoners at liberty, so the chapter has both halves of the Saul narrative — the threatenings and the release — within two sentences, assigned to opposite parties.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "And Saul, yet breathing out threatenings and slaughter against the disciples of the Lord, went unto the high priest,"
+      }
+    ],
+    "5:8": [
+      {
+        "source": "John 21:25",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 1
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "recurrenceRefs": [
+          "1 Nephi 6:3",
+          "Words of Mormon 1:5",
+          "Helaman 3:14"
+        ],
+        "provenance": {
+          "route": "John 21:25 → KJV → Book of Mormon",
+          "other": "“could not contain” occurs in exactly one KJV verse, John 21:25. The Book of Mormon writes 'cannot contain', which occurs in exactly four verses, three of them the temple prayer's 'the heaven of heavens cannot contain thee' and the fourth 1 Corinthians 7:9 on continence — none of them about books. The container-too-small idiom applied to a written record is John 21:25's alone.",
+          "significance": "John 21:25 is the last sentence of the Fourth Gospel and the King James Bible's only editorial apology for omission. Mormon has used it before — 1 Nephi 6:3, Words of Mormon 1:5, Helaman 3:14 — and here he uses it in the same breath as the other verse this chapter runs on: 'many things transpired which, in the eyes of some, would be great and marvellous; nevertheless, they cannot all be written in this book'. See the Revelation 15:3 row at this verse. The abridger's excuse and the hymn's adjective arrive in one sentence, and between them they say that what is being withheld is God's works."
+        },
+        "note": "'This book cannot contain even a hundredth part of what was done among so many people.' The idiom is John's — a record too large for the thing meant to hold it — and it is the fourth time the catalogue has recorded it in the Book of Mormon. Written rather than excluded as a repeat because 3 Nephi is a new book (ADJUDICATING §4); the fullest argument is at Helaman 3:14, where the same abridger writes 'a hundredth part of the proceedings of this people … cannot be contained in this work' seven chapters earlier. The fraction is not John's and is not the Bible's: “hundredth part” occurs in exactly one KJV verse, Nehemiah 5:11, where it is a rate of interest, and the Book of Mormon uses it as its own measure of what will not fit.",
+        "whyNot": "The verbal contact is a substitution, not a reproduction — 'cannot contain' for 'could not contain', 'this book' for 'the world itself'. Held at moderate on that ground, as the earlier rows in this family were.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "And there are also many other things which Jesus did, the which, if they should be written every one, I suppose that even the world itself could not contain the books that should be written. Amen."
+      },
+      {
+        "source": "Revelation 15:3",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 1
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Revelation 15:1"
+        ],
+        "recurrenceRefs": [
+          "1 Nephi 1:14",
+          "1 Nephi 14:7",
+          "Jacob 4:8",
+          "Helaman 16:16",
+          "3 Nephi 4:32",
+          "3 Nephi 5:18"
+        ],
+        "variants": [
+          "1830 marvellous → 1920 marvelous"
+        ],
+        "provenance": {
+          "route": "Revelation 15:3 → KJV → Book of Mormon",
+          "other": "“great and marvellous” occurs in exactly two KJV verses and both are Revelation 15 — 15:1 of the sign in heaven and 15:3 of God's works. The 1830 prints 'marvellous' with the KJV's double l; 1920 modernized it to 'marvelous', so the first edition shows the borrowing in its spelling and the current text does not (CONVENTIONS §8).",
+          "significance": "This is the first half of a pair. Revelation 15:3 reads 'Great and marvellous are thy works, Lord God Almighty; just and true are thy ways, thou King of saints', and Mormon takes one half of it here and the other half ten verses later: 'I know the record which I make to be a just and a true record' (5:18). In Revelation the two predicates belong to God — his works and his ways. Mormon distributes them across his own editorial problem: the deeds he cannot write down are the great and marvellous ones, and the writing he can vouch for is the just and true one. He does not claim the first for himself and he does claim the second. Note also that the same verse stands behind the catalogue's flagship link at 1 Nephi 1:14, at the head of the whole book, and behind 3 Nephi 4:32 twelve verses earlier: the Book of Mormon's opening narrator and its closing editor reach for the same hymn."
+        },
+        "note": "'There had many things transpired which, in the eyes of some, would be great and marvellous.' Two words, but they are confined in the King James Bible to a single chapter, and 3 Nephi 5:18 takes the rest of the same sentence. Held at moderate rather than higher because the adjectival pair has become one of the Book of Mormon's own formulas by this point in the corpus — 1 Nephi 14:7, Jacob 4:8, Helaman 16:16 — so a writer could produce it without reaching for Revelation at all. What lifts it above a formula here is the company: the same verse's other half arrives at 5:18, in the same editorial passage, in Mormon's own voice.",
+        "whyNot": "Two words is very little, and the qualification 'in the eyes of some' distances the narrator from the adjective in a way Revelation's doxology does not. Taken alone this row would be a formulaic exclusion; it is written because of 5:18.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "And they sing the song of Moses the servant of God, and the song of the Lamb, saying, Great and marvellous are thy works, Lord God Almighty; just and true are thy ways, thou King of saints."
+      }
+    ],
+    "5:13": [
+      {
+        "source": "Mark 1:1",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 2
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "John 19:38",
+          "Acts 8:37"
+        ],
+        "provenance": {
+          "route": "Mark 1:1, with John 19:38 → KJV → Book of Mormon",
+          "other": "“Jesus Christ the Son of God” occurs in exactly one KJV verse, Mark 1:1 — the two names and the title in that order and adjacent. The near neighbours are not the same string: Acts 8:37 reads 'Jesus Christ is the Son of God' and 2 Corinthians 1:19 'the Son of God, Jesus Christ'. Separately, “a disciple of Jesus” occurs in exactly one KJV verse, John 19:38. 3 Nephi 5:13's twelve words run the two singletons together: 'I am a disciple of Jesus Christ, the Son of God.'",
+          "significance": "John 19:38's one disciple of Jesus is Joseph of Arimathaea, 'but secretly for fear of the Jews' — a disciple defined by concealment, who declares himself only to ask for a body. Mark 1:1's phrase is the opposite: the title of a book, published at its head. 3 Nephi 5:13 is Mormon breaking into his own abridgement to say who he is, and the sentence he uses is the concealed disciple's designation joined to the evangelist's title page. The whole force of the verse is that the self-identification is no longer secret — it is what he has been 'called of him to declare'."
+        },
+        "note": "'Behold I am a disciple of Jesus Christ, the Son of God. I have been called of him to declare his word among his people, that they might have everlasting life.' Two KJV singletons spliced at the word 'Jesus'. The second half runs on into Johannine vocabulary — “have everlasting life” occurs in exactly two KJV verses, John 3:16 and John 6:40, and John 6:40 also supplies 'the will of him that sent me', which 3 Nephi 5:14 answers with 'according to the will of God'. This is the Book of Mormon's editor giving himself a Christian credential in the New Testament's exact words, four hundred years after the events of 3 Nephi and six hundred after Lehi; the anachronism is the finding, not an objection to it (CONVENTIONS §3a).",
+        "bibliography": [
+          "Frederick 2016 (co-occurrence only: our index records that 3 Nephi 5:13 is discussed within 1,500 characters of citations of Mark 1:1 and Acts 8:37; he proposes no source here, and the argument above is the catalogue's own)"
+        ],
+        "status": "minority",
+        "streams": [
+          "manual",
+          "scholarship"
+        ],
+        "text": "The beginning of the gospel of Jesus Christ, the Son of God;"
+      }
+    ],
+    "5:18": [
+      {
+        "source": "Revelation 15:3",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 1
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "recurrenceRefs": [
+          "1 Nephi 1:14",
+          "1 Nephi 14:23",
+          "2 Nephi 26:7",
+          "Alma 29:8",
+          "3 Nephi 5:8"
+        ],
+        "provenance": {
+          "route": "Revelation 15:3 → KJV → Book of Mormon",
+          "other": "“just and true” occurs in exactly one KJV verse, Revelation 15:3. The near misses are not it: Revelation 16:7 and 19:2 read 'true and righteous', Deuteronomy 32:4 'just and right', Revelation 15:3 alone has the pair in this order.",
+          "significance": "The second half of the pair begun at 5:8. Revelation 15:3 is the song of Moses and of the Lamb, sung by those who have gotten the victory: 'Great and marvellous are thy works, Lord God Almighty; just and true are thy ways, thou King of saints.' Mormon has taken 'great and marvellous' for the deeds he cannot record and 'just and true' for the record he can. The metalepsis is a modest one and worth naming precisely: the hymn predicates both of God, and Mormon, who is scrupulous about not claiming the first — the marvellous things are only 'in the eyes of some', and he confesses at 5:18 that 'we are not able to write' much of what he has — claims the second outright for a document he made with his own hands (5:11). The one thing an abridger can offer, in the Book of Mormon's own borrowed language, is the ways rather than the works."
+        },
+        "note": "'And I know the record which I make to be a just and a true record.' Three words from a KJV singleton, and the fourth borrowing this catalogue has recorded from Revelation 15:3 after 1 Nephi 1:14, 1 Nephi 14:23 and Alma 29:8. The construction with the article repeated — 'a just and a true record' — is the Book of Mormon's habit, not the KJV's, and it does not weaken the identification: the pair itself has exactly one home in the King James Bible. The row is written rather than excluded as a repeat because Revelation 15:3's earlier appearance in this book, at 3 Nephi 4:32, borrows a different phrase from it ('Lord God Almighty'), so this is not the same borrowing recurring but a different clause of the same verse arriving in the same chapter as 5:8.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "And they sing the song of Moses the servant of God, and the song of the Lamb, saying, Great and marvellous are thy works, Lord God Almighty; just and true are thy ways, thou King of saints."
+      }
+    ],
+    "5:20": [
+      {
+        "source": "Joshua 24:17",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "recurrenceRefs": [
+          "Mosiah 7:20",
+          "Alma 22:9"
+        ],
+        "variants": [
+          "1830 Saviour → 1920 Savior"
+        ],
+        "provenance": {
+          "route": "Joshua 24:17 → KJV → Book of Mormon",
+          "other": "“our fathers out of the land” occurs in exactly one KJV verse, Joshua 24:17. The exodus formula at large is everywhere — 'out of the land of Egypt' fills the Pentateuch — but the first-person-plural possessive is Joshua's alone, and the catalogue adjudicated it at Mosiah 7:20 on that ground. The 1830 spells the divine title 'Saviour' with the KJV's u; 1920 Americanized it to 'Savior' (CONVENTIONS §8).",
+          "significance": "Joshua 24 is the covenant renewal at Shechem, and 24:17 is the people's answer to 'choose you this day whom ye will serve'. Every previous Book of Mormon use of the formula keeps that setting — Limhi at a temple with a gathered people (Mosiah 7:20), Aaron before Lamoni's father (Alma 22:9). Mormon's use is private. He is alone with his plates, naming himself, and the creed that in Joshua is recited by a nation in assembly is here recited by one man as a reason to bless God for his own literacy: 'he hath given me and my people so much knowledge unto the salvation of our souls'. The parenthesis is the tell — '(and no one knew it save it were himself and those which he brought out of that land)' — an exodus with no witnesses, in the words of the exodus with the most."
+        },
+        "note": "'That he brought our fathers out of the land of Jerusalem.' Jerusalem stands where Joshua 24:17 has Egypt, which is the Book of Mormon's standing substitution in exodus recitals and has been since 1 Nephi. This row is written rather than registered as a repeat of Mosiah 7:20 because 3 Nephi is a different book and this is Mormon speaking in his own person rather than a character in the narrative (ADJUDICATING §4). What is new is the pairing with 'my Saviour Jesus Christ' in the same sentence: Joshua's creed is being said to a Christ, six hundred years before the KJV New Testament that names him.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ],
+        "text": "For the LORD our God, he it is that brought us up and our fathers out of the land of Egypt, from the house of bondage, and which did those great signs in our sight, and preserved us in all the way wherein we went, and among all the people through whom we passed:"
+      }
+    ],
+    "5:24": [
+      {
+        "source": "Revelation 20:8",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "OT-via-NT",
+        "composite": [
+          "Isaiah 11:12"
+        ],
+        "recurrenceRefs": [
+          "1 Nephi 19:16",
+          "3 Nephi 5:26"
+        ],
+        "provenance": {
+          "route": "Isaiah 11:12 → Revelation 20:8 → KJV → Book of Mormon",
+          "other": "“four quarters of the earth” occurs in exactly one KJV verse, Revelation 20:8. “four quarters” occurs in exactly four — Deuteronomy 22:12 of a garment's corners, 1 Chronicles 9:24 of the porters' stations, Jeremiah 49:36 'the four quarters of heaven', and Revelation 20:8. The gathering prophecy the sentence is otherwise reciting, Isaiah 11:12, reads 'the four corners of the earth'; “four corners of the earth” occurs in exactly two verses, Isaiah 11:12 and Revelation 7:1.",
+          "alternative": "Isaiah 11:12 is the source of the thought and of everything else in 5:24-26 — the assembling, the dispersed, the remnant. It is not the source of these five words.",
+          "significance": "tools/mediation-check.py returns one decisive point and it is this one: the Book of Mormon has 'quarters' (Revelation 20:8) where Isaiah 11:12 has 'corners'. The finding matters because of what the two verses do. Isaiah 11:12 gathers Israel home; Revelation 20:8 is Satan released from his prison after the thousand years, going out to the four quarters of the earth to deceive the nations and 'gather them together to battle'. The Book of Mormon's promise of the gathering of Jacob is worded with the King James Bible's one phrase for the mustering of Gog and Magog. The catalogue recorded the same substitution at 1 Nephi 19:16 and held it at moderate on the ground that 'quarters' and 'corners' are near-synonyms; the repetition here, in a different book and a different hand, and repeated again two verses later at 5:26, makes the reading harder to put down to chance."
+        },
+        "note": "'And as surely as the Lord liveth will he gather in from the four quarters of the earth, all the remnant of the seed of Jacob.' Five words from a KJV singleton, doing the opposite of what the singleton does. The mediation is the argument: the underlying prophecy is Isaiah 11:12, which the passage follows in substance through 5:26 — assemble, gather, the dispersed — but at every point where Isaiah's English and Revelation's differ, the Book of Mormon has Revelation's. 'As the Lord liveth' is a separate matter and is not evidence: it occurs in thirty-seven KJV verses and is the standard oath formula.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ],
+        "text": "And shall go out to deceive the nations which are in the four quarters of the earth, Gog, and Magog, to gather them together to battle: the number of whom is as the sand of the sea."
+      },
+      {
+        "source": "James 1:1",
+        "type": "echo",
+        "subtype": "probable",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "James 1:1 → KJV → Book of Mormon",
+          "other": "“which are scattered abroad” occurs in exactly one KJV verse, James 1:1. The bare verb is common — “scattered abroad” occurs in exactly 11 verses, five of them in Acts of the persecuted church — but the relative clause in this exact form has one home, and its antecedent there is 'the twelve tribes'.",
+          "significance": "A seam is visible in this clause and it is worth marking. '…which are scattered abroad upon all the face of the earth' is two KJV singletons welded end to end: the first four words are James 1:1's address to the twelve tribes of the dispersion, and the last seven are Ezekiel 34:6's 'my flock was scattered upon all the face of the earth', which the Book of Mormon adopted as its own dispersion formula back in 1 Nephi 10:12 and has used ever since. The verse reaches for the corpus's habitual phrase and prefixes it with the New Testament's address to the scattered tribes, which is exactly what the sentence is about."
+        },
+        "note": "'All the remnant of the seed of Jacob, which are scattered abroad upon all the face of the earth.' The referent is identical to James's — the dispersed tribes of Jacob — and the wording of the relative clause has one KJV home. Held at moderate because 'which are scattered abroad' is a natural relative clause on an ordinary verb and a writer could compose it without James; what makes it worth recording is that the antecedent matches. See the exclusion register at this verse for the Ezekiel 34:6 half of the clause, which is standing formula and not a fresh borrowing.",
+        "whyNot": "Four words, none of them rare individually, and the surrounding clause is demonstrably the Book of Mormon's own formula. A reader who filed the whole clause under the standing dispersion exclusion would be taking a defensible line.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ],
+        "text": "James, a servant of God and of the Lord Jesus Christ, to the twelve tribes which are scattered abroad, greeting."
+      }
+    ],
+    "5:26": [
+      {
+        "source": "Isaiah 11:12",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Revelation 20:8"
+        ],
+        "recurrenceRefs": [
+          "3 Nephi 5:24",
+          "1 Nephi 19:16"
+        ],
+        "provenance": {
+          "route": "Isaiah 11:12 → KJV → Book of Mormon",
+          "other": "“gather together the dispersed” occurs in exactly one KJV verse, Isaiah 11:12, and the substantive “the dispersed” occurs in exactly two, Isaiah 11:12 and John 7:35. 3 Nephi 5:26's 'from whence they have been dispersed' is the only place in this chapter where Isaiah's own vocabulary surfaces rather than Revelation's.",
+          "significance": "Two verses of one sentence divide the evidence cleanly, and the link is placed where the wording is rather than where the theme is (CONVENTIONS §6a). 5:24 gathers 'from the four quarters of the earth', which is Revelation 20:8's phrase and not Isaiah's; 5:26 gathers 'from the four quarters of the earth, unto their own lands, from whence they have been dispersed', and 'dispersed' is Isaiah's word and not Revelation's. So the passage is not following one verse or the other but holding both, and the seam runs through a single sentence. Isaiah 11:12 also accounts for what the chapter has been saying since 5:23 — an ensign, an assembling of outcasts, a remnant — and the whole peroration reads as Isaiah 11:11-12 re-narrated with one phrase swapped out."
+        },
+        "note": "'And then shall they be gathered in from the four quarters of the earth, unto their own lands, from whence they have been dispersed.' The verb, the object and the destination are Isaiah 11:12's — gather together the dispersed, assemble the outcasts, from the four corners of the earth — and only the single word 'quarters' is not. The catalogue records the Revelation phrase at 5:24 and Isaiah's own word here, because that is where each sits. Note that 'unto their own lands' is not from Isaiah: “own lands” occurs in exactly 0 KJV verses, and the plural is the Book of Mormon's, which has many lands where Isaiah has one.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "And he shall set up an ensign for the nations, and shall assemble the outcasts of Israel, and gather together the dispersed of Judah from the four corners of the earth."
+      },
+      {
+        "source": "Isaiah 49:26",
+        "type": "echo",
+        "subtype": "conceptual",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 2,
+          "sequence": 2,
+          "context": 5,
+          "rarity": 3,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "OT-via-earlier-BoM",
+        "recurrenceRefs": [
+          "1 Nephi 21:26",
+          "1 Nephi 22:13",
+          "2 Nephi 6:18"
+        ],
+        "provenance": {
+          "route": "Isaiah 49:26 → 1 Nephi 21:26 (transcribed) → Book of Mormon",
+          "other": "“thy Redeemer” occurs in exactly seven KJV verses and all seven are in Isaiah 41-60. Isaiah 49:26 is the one that joins the title to knowing and to Jacob: 'all flesh shall know that I the LORD am thy Saviour and thy Redeemer, the mighty One of Jacob.' Isaiah 60:16 has the same three-part formula and is the only real competitor.",
+          "alternative": "Isaiah 60:16, 'thou shalt know that I the LORD am thy Saviour and thy Redeemer', is nearly identical and is a gathering chapter too. Isaiah 49:26 is preferred only because it names Jacob, which this passage names four times, and because the Book of Mormon has it transcribed at 1 Nephi 21:26 and quoted twice more.",
+          "significance": "This is why the mediation is 'OT-via-earlier-BoM' rather than 'direct-OT'. Isaiah 49 is not an outside text for a Book of Mormon writer: it stands transcribed in full at 1 Nephi 21 and is expounded at 1 Nephi 22:13 and 2 Nephi 6:18, so a later narrator reaching for 'know … Saviour … Redeemer … Jacob' is reaching for something already inside his own record. The chapter's closing sentence answers, in the corpus's own voice, the verse the corpus copied out six hundred years earlier."
+        },
+        "note": "Four elements of Isaiah 49:26 are present across 3 Nephi 5:20-26 and not one of them contiguously: 'my Saviour Jesus Christ' at 5:20 (1830 spelling, KJV's u), 'the house of Jacob' at 5:21 and again at 5:25, 'then shall they know their Redeemer' at 5:26. Isaiah 49:26 has all four in nine words. This is the split-agreement case CONVENTIONS §9 says the n-gram stream cannot see by construction, and it did not see it: no candidate in the dossier proposes Isaiah 49. Recorded because the peroration is otherwise built out of Isaiah 11 and it would be odd for the one Isaian gathering-verse the Book of Mormon has already copied out to be absent from it.",
+        "whyNot": "No run longer than two words, and 'Redeemer' and 'Saviour' are among the commonest titles in the corpus. The row rests entirely on the co-occurrence of four elements spread over seven verses, which is a weaker kind of evidence than this catalogue usually accepts, and a reader could reasonably hold that the passage simply has Isaiah 11 and nothing else.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "And I will feed them that oppress thee with their own flesh; and they shall be drunken with their own blood, as with sweet wine: and all flesh shall know that I the LORD am thy Saviour and thy Redeemer, the mighty One of Jacob."
+      }
+    ]
+  }
+}

@@ -1,0 +1,337 @@
+{
+  "chapter": 2,
+  "adjudicated": "2026-09-07",
+  "adjudicator": "Opus",
+  "links": {
+    "2:1": [
+      {
+        "source": "Deuteronomy 13:1",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "If there arise among you a prophet, or a dreamer of dreams, and giveth thee a sign or a wonder,",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Deuteronomy 13:2",
+          "Deuteronomy 13:3"
+        ],
+        "recurrenceRefs": [
+          "1 Nephi 2:11"
+        ],
+        "provenance": {
+          "route": "Deuteronomy 13:1-3 → KJV → Book of Mormon",
+          "other": "“a sign or a wonder” occurs in exactly one KJV verse, Deuteronomy 13:1. The plural “signs and wonders” occurs in fourteen and is worthless as a pointer; the singular disjunctive pair is Deuteronomy's alone, and it is the pair the Book of Mormon has.",
+          "significance": "Recover the statute and the verse changes character. Deuteronomy 13 is the one place in the King James Bible where a sign or a wonder is a thing to be discounted: the sign may come to pass, and the prophet is still to be refused, 'for the LORD your God proveth you, to know whether ye love the LORD your God.' The people of Zarahemla, nine years after a sign that did come to pass, decide it was 'wrought by men, and by the power of the Devil' — which is to say they apply Deuteronomy 13 to the nativity of Christ, and use the law's licence to discount a fulfilled sign as their reason for discounting this one. The statute's own next clause supplies the verdict they cannot see: the sign is the proving, and they are failing it."
+        },
+        "note": "'Began to be less and less astonished at a sign or a wonder from Heaven.' The five-word run is the chapter's clearest verbal contact with the KJV and it lands on the Bible's only occurrence of the phrase. The wider frame is already an established borrowing in this corpus: 1 Nephi 2:11 builds Laman and Lemuel's complaint against Lehi out of the same statute's 'dreamer of dreams' and its penalty. What is new here is the first half of the statute rather than the second, and the borrowing is a good deal more literal. Note that the machine ranked Deuteronomy 13:1 first in this chapter and was, for once, right.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      },
+      {
+        "source": "Luke 2:20",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "And the shepherds returned, glorifying and praising God for all the things that they had heard and seen, as it was told unto them.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "recurrenceRefs": [
+          "Helaman 16:14"
+        ],
+        "provenance": {
+          "route": "Luke 2:20 → KJV → Book of Mormon",
+          "other": "“they had heard and seen” occurs in exactly one KJV verse, Luke 2:20. The order is the unusual one: “seen and heard” occurs in five KJV verses and is the ordinary English sequence, “heard and seen” in three, and only Luke 2:20 has the full four-word run the Book of Mormon reproduces.",
+          "significance": "The metalepsis is exact and it is an inversion. Luke 2:20 is the last verse of the shepherds' night: they have been given a sign, they have gone and found it as told, and they return glorifying God 'for all the things that they had heard and seen.' 3 Nephi 2:1 is the same sentence with the verb reversed — the people 'began to disbelieve all which they had heard and seen.' Both populations have received the same news by the same route, an angelic announcement followed by a verified sign; the shepherds' response is the KJV's, and the Nephites' response is the KJV's clause with belief taken out of it. Helaman 16:14 had already put the Zarahemla crowd in the shepherds' position by borrowing Luke 2:10; nine years later, in a different book, the narrator uses the closing verse of the same episode to say what became of them."
+        },
+        "note": "'And began to disbelieve all which they had heard and seen.' The four-word run is a KJV singleton and its verse is the nativity — which is the event this chapter is counting the years from. The machine ranked Luke 2:20 here on the n-gram alone, without seeing why it mattered. Below Skousen's sixteen-word threshold and not one of his thirty-six; the case rests on the singleton and on the fact that the source verse is the one Gospel verse describing how people who received this particular sign responded to it.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      },
+      {
+        "source": "John 12:40",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "text": "He hath blinded their eyes, and hardened their heart; that they should not see with their eyes, nor understand with their heart, and be converted, and I should heal them.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 1
+        },
+        "kjvSpecific": "yes",
+        "mediation": "OT-via-NT",
+        "composite": [
+          "Isaiah 6:10",
+          "John 12:37"
+        ],
+        "recurrenceRefs": [
+          "1 Nephi 12:17",
+          "Mosiah 11:29",
+          "Alma 10:25",
+          "3 Nephi 2:2"
+        ],
+        "provenance": {
+          "route": "Isaiah 6:10 → John 12:40 → KJV → Book of Mormon",
+          "other": "The KJV renders Isaiah 6:10 four times and only one of them supplies these two verbs. Isaiah 6:10 itself has 'make the heart of this people fat' and 'shut their eyes'; Matthew 13:15 and Acts 28:27 have 'waxed gross' and 'their eyes they have closed'; Mark 4:12 drops the clause. “blinded their eyes” occurs in exactly one KJV verse and “hardened their heart” occurs in exactly one KJV verse, and it is the same verse, John 12:40. mediation-check.py returns no decisive divergence, because the Book of Mormon reproduces none of the points at which Isaiah and John overlap — the case is made instead by the two words Isaiah does not contain at all.",
+          "significance": "John 12:40 is not quoted here for its verbs alone. Its setting is John 12:37, 'though he had done so many miracles before them, yet they believed not on him' — a population that has watched signs and declined them, which is precisely 3 Nephi 2:1's subject and 3 Nephi 2:3's ('they did not believe that there should be any more signs or wonders given'). The suppressed correspondence is the agent. In John the blinding and the hardening are God's judicial act on people who have already refused; in 3 Nephi 2:2 the same two verbs are given to Satan. The Book of Mormon takes John's diagnosis of unbelief after miracles and reassigns its subject, which is the reassignment 2 Corinthians 4:4 had already made (see the row at 2:2)."
+        },
+        "note": "'They began to be hard in their hearts, and blind in their minds', and at 2:2 'he did blind their eyes'. The pairing of blinded eyes with a hardened heart is confined in the KJV to John 12:40, and it is an established route in this corpus — adjudicated at 1 Nephi 12:17, again at Mosiah 11:29 and Alma 10:25, each time with the same OT-via-NT result. Written as a fresh row rather than a cross-reference because this is a new book and because the chapter does something the earlier three do not: it splits the pair across two verses and swaps 'minds' for 'heart' in the first half, which is 2 Corinthians 3:14's noun, not John's.",
+        "bibliography": [],
+        "status": "majority",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "2:2": [
+      {
+        "source": "Psalm 2:1",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "Why do the heathen rage, and the people imagine a vain thing?",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Psalm 2:2"
+        ],
+        "recurrenceRefs": [
+          "Helaman 16:22"
+        ],
+        "provenance": {
+          "route": "Psalm 2:1 → KJV → Book of Mormon, not via Acts 4:25",
+          "alternative": "Acts 4:25, which quotes the psalm and is the reading Helaman 16:22 leans toward.",
+          "other": "“imagine a vain thing” occurs in exactly one KJV verse, Psalm 2:1; “imagine vain things” occurs in exactly one KJV verse, Acts 4:25. The two verses differ at four points and the Book of Mormon reproduces one of them: mediation-check.py returns 'thing', Psalm 2:1's singular, against Acts 4:25's plural, and finds no other divergence the verse touches. The qualification is real and should be stated: the decision rests on a single word, and the Book of Mormon's own formula flexes in number — Helaman 16:22 has 'many more things did the people imagine up in their hearts, which were foolish and vain', which is the plural and was left 'uncertain' there for exactly this reason. What the pair of verses shows is that the formula has taken both KJV forms; what this verse shows is that here it has the psalm's.",
+          "significance": "Psalm 2 is the conspiracy of the nations 'against the LORD, and against his anointed'. Acts 4 hears that psalm fulfilled in Herod, Pilate and the crowd who had just crucified Jesus. 3 Nephi 2:2 is the psalm's opening line applied to a population deciding, in the tenth year after his birth and twenty-four years before Acts 4, that 'the doctrine of Christ was a foolish and a vain thing'. The recovered context supplies the object the Book of Mormon's clause conspicuously lacks: what is being imagined against is not an argument but an Anointed, and the singular 'thing' that is vain in the psalm is the imagining, while the thing called vain in 3 Nephi 2:2 is the doctrine of Christ. The verse hands the psalm's own verdict back to the people who pronounce it."
+        },
+        "note": "'Imagining up some vain thing in their hearts.' The collocation of a people imagining with a vain thing belongs in the KJV to Psalm 2:1 and to the one verse that quotes it. This is the second use of the formula in as many chapters of narrative across a book boundary; the argument for the source was made at Helaman 16:22 and is not restated. What is new is that this occurrence can decide its own mediation and that one could not. Filed at 'high' rather than 'moderate' because the singular strengthens the case Helaman 16:22 could only gesture at, and because the doctrinal context here — an anointed one denied — is the psalm's own, not merely compatible with it.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      },
+      {
+        "source": "2 Corinthians 4:4",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "text": "In whom the god of this world hath blinded the minds of them which believe not, lest the light of the glorious gospel of Christ, who is the image of God, should shine unto them.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 1
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "2 Corinthians 3:14"
+        ],
+        "recurrenceRefs": [
+          "3 Nephi 2:1"
+        ],
+        "provenance": {
+          "route": "2 Corinthians 4:4 → KJV → Book of Mormon; with 2 Corinthians 3:14",
+          "other": "“blinded the minds” occurs in exactly one KJV verse, 2 Corinthians 4:4; “minds were blinded” occurs in exactly one KJV verse, 2 Corinthians 3:14. The participle 'blinded' occurs in only five KJV verses altogether — John 12:40, Romans 11:7, 2 Corinthians 3:14, 2 Corinthians 4:4 and 1 John 2:11 — and 3 Nephi 2:1-2 draws on three of them: the two that blind minds and the one that blinds eyes.",
+          "significance": "This is the verse that reassigns the agent. John 12:40 has God blinding eyes; 2 Corinthians 4:4 has 'the god of this world' doing it, and doing it specifically to 'them which believe not', and doing it so that the gospel of Christ shall not shine on them. Every element is in 3 Nephi 2:2 in that order: an adversary takes possession, he blinds, the blinded are the unbelieving, and the effect is that the doctrine of Christ is not seen for what it is. Recovering Paul's clause supplies the motive the Book of Mormon's sentence states as a bare result — the blinding is not incidental to the disbelief, it is done for it."
+        },
+        "note": "'And thus did satan get possession of the hearts of the people again, insomuch that he did blind their eyes, and lead them away to believe that the doctrine of Christ was a foolish and a vain thing.' The clause runs the two halves of 2 Corinthians 4:4 in Paul's own sequence, satanic agent then blinded unbelievers then obscured gospel of Christ. Its neighbour at 2:1, 'blind in their minds', is the KJV's noun for the object of that blinding and appears in no other collocation in the Bible outside these two Corinthian verses. Below Skousen's threshold and not among his thirty-six; the case is the double singleton plus the sequence.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      },
+      {
+        "source": "Romans 16:18",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "text": "For they that are such serve not our Lord Jesus Christ, but their own belly; and by good words and fair speeches deceive the hearts of the simple.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 4,
+          "sequence": 2,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Romans 16:17",
+          "Romans 16:20"
+        ],
+        "provenance": {
+          "route": "Romans 16:17-20 → KJV → Book of Mormon",
+          "other": "“deceive the hearts” occurs in exactly one KJV verse, Romans 16:18. The Book of Mormon reproduces five consecutive words of it, 'deceive the hearts of the', and completes the phrase with 'people' where Paul has 'simple'.",
+          "significance": "The three nouns of 3 Nephi 2:2 — deceived hearts, the doctrine of Christ, and Satan — sit within four verses of each other in Romans 16 and nowhere else in the KJV in that combination. Paul warns against those who 'cause divisions and offences contrary to the doctrine which ye have learned' (16:17), says they 'deceive the hearts of the simple' (16:18), and closes 'the God of peace shall bruise Satan under your feet shortly' (16:20). Recovering the paragraph turns the Book of Mormon's sentence into a compressed reading of it — the deceivers work against a doctrine, the doctrine is Christ's, and the power behind them is the one Paul expects to be trodden down."
+        },
+        "note": "'To lead away and deceive the hearts of the people.' A five-word run on a KJV singleton, and the machine's own top-ranked candidate for this verse. Moderate rather than high because 'deceive the hearts of X' is a natural English completion and because nothing else of Romans 16 is verbally present; what carries the row above an accident is that the rest of the verse assembles the other two terms of Paul's paragraph.",
+        "whyNot": "The shared string is one clause and its final noun is changed. 'Deceive' and 'hearts' are both ordinary Book of Mormon vocabulary — 'deceive the hearts' is not a phrase this text needed Paul to supply — and the doctrine-and-Satan context could be coincidence of subject matter rather than of source, since a chapter about a population being turned against Christ has nowhere else to go.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      },
+      {
+        "source": "Matthew 12:24",
+        "type": "echo",
+        "subtype": "conceptual",
+        "confidence": "moderate",
+        "text": "But when the Pharisees heard it, they said, This fellow doth not cast out devils, but by Beelzebub the prince of the devils.",
+        "evidence": {
+          "vocabulary": 2,
+          "syntax": 1,
+          "sequence": 2,
+          "context": 5,
+          "rarity": 2,
+          "attestation": 0
+        },
+        "kjvSpecific": "no",
+        "mediation": "direct-NT",
+        "recurrenceRefs": [
+          "Helaman 16:6"
+        ],
+        "provenance": {
+          "route": "Matthew 12:24 → KJV → Book of Mormon; adjudicated at Helaman 16:6",
+          "significance": "The Beelzebub charge is the Gospels' one settled answer to an undeniable sign, and it is the answer 3 Nephi 2:2 gives: the works are conceded and their power is reassigned. What has changed since Helaman 16:6 is who is making the charge. There it was a crowd shouting at a preacher; here it is the population's considered account of the heavens, arrived at over nine years and recorded by the narrator as the settled state of the country."
+        },
+        "note": "'That it was wrought by men, and by the power of the Devil.' The reasoning is Matthew 12:24's — the sign happened, therefore the devil did it — and this corpus adjudicated it at Helaman 16:6, where the same crowd's cry assembled Matthew 12:24 with John 10:20 and John 19:15. The row is given again rather than cross-referenced because 3 Nephi is a new book and a reader shown nothing here would be told there is no borrowing. Recorded as an echo, not an allusion: “power of the devil” occurs in no KJV verse, and the contact is with the argument rather than with any wording.",
+        "whyNot": "There is no verbal contact whatever. The link rests on the shape of the accusation and on its having been established in the immediately preceding chapter of narrative; a reader who declines the Helaman 16:6 row should decline this one with it.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "2:7": [
+      {
+        "source": "Acts 3:18",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "text": "But those things, which God before had shewed by the mouth of all his prophets, that Christ should suffer, he hath so fulfilled.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 4,
+          "sequence": 3,
+          "context": 4,
+          "rarity": 3,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "John 11:27"
+        ],
+        "recurrenceRefs": [
+          "1 Nephi 22:20"
+        ],
+        "provenance": {
+          "route": "Acts 3:18 → KJV → Book of Mormon; predicate from John 11:27",
+          "other": "The four-word run 'prophets that Christ should' is shared with Acts 3:18 and with no other KJV verse. “should come into the world” occurs in exactly two KJV verses, John 6:14 and John 11:27, both of them confessions that Jesus is the one the prophets meant.",
+          "significance": "Acts 3 is a page this corpus already works from: 1 Nephi 22:20 takes Deuteronomy 18 in Acts 3:22's wording rather than Moses's. Here the frame is Acts 3:18's — what the prophets said Christ should do — and the predicate is swapped from Peter's 'suffer' to John's 'come into the world'. That swap is the chapter's argument in miniature. Peter is looking back at a passion; 3 Nephi 2:7 is nine years past a nativity and has not reached the passion yet, so it takes the apostolic sentence about prophecy fulfilled and fills it with the only event that has happened."
+        },
+        "note": "'From the time which the sign was given, which was spoken of by the prophets, that Christ should come into the world.' Two KJV frames fused: Acts 3:18's clause about the prophets and what Christ should do, and John's 'should come into the world'. Moderate because both halves are short and the second is doctrinally ordinary; what recommends the row is the syntactic frame, which is Acts 3:18's and not Matthew 3:3's, and the fact that the Book of Mormon has already drawn on Acts 3 in a chapter the catalogue treats as one of its principal results.",
+        "whyNot": "Four words and five words, neither a singleton, in a verse whose purpose is chronological bookkeeping rather than argument. A writer stating that prophets foretold Christ's coming would produce something close to this without a source.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "2:9": [
+      {
+        "source": "2 Kings 2:17",
+        "type": "figural",
+        "subtype": "type-scene",
+        "confidence": "moderate",
+        "text": "And when they urged him till he was ashamed, he said, Send. They sent therefore fifty men; and they sought three days, but found him not.",
+        "evidence": {
+          "vocabulary": 1,
+          "syntax": 1,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 1,
+          "attestation": 0
+        },
+        "kjvSpecific": "no",
+        "mediation": "direct-OT",
+        "composite": [
+          "2 Kings 2:16",
+          "Deuteronomy 34:6",
+          "Hebrews 11:5"
+        ],
+        "recurrenceRefs": [
+          "Alma 45:19"
+        ],
+        "provenance": {
+          "route": "2 Kings 2:16-17 → KJV → Book of Mormon, through the Book of Mormon's own disappearance type-scene",
+          "other": "There is no shared distinctive wording, and the row should be read as making no claim to any. “and was not found” occurs in exactly one KJV verse, Hebrews 11:5, and the Book of Mormon's clause is 'could no where be found', which is not it; see the exclusion register at this verse for the 1 Samuel 10 phrases that are verbally closer and thematically wrong.",
+          "significance": "The Bible has one scene for the disappearance of a prophet who has not been reported dead, and it is Elijah's: the sons of the prophets suspect the Spirit of the LORD has taken him up, they send fifty men, they search, and they do not find him. Deuteronomy 34:6 supplies the other half of the pattern, a grave no man knows. The Book of Mormon has already run both of them together and said so out loud at Alma 45:19, where Alma is 'taken up by the spirit, or buried by the hand of the Lord, even as Moses'. 3 Nephi 2:9 gives the same scene without the gloss and with the search made explicit — 'could no where be found in all the land' — and puts it at the point where the record changes hands. The unstated correspondence is what the type is for: a reader who has met Alma 45 knows what a Nephite record-keeper who cannot be found has become, and the narrator does not have to say it."
+        },
+        "note": "'And Nephi, which was the father of Nephi, which had the charge of the records, did not return to the land of Zarahemla, and could no where be found in all the land.' Nine words of narrative, and they reproduce the elements of 2 Kings 2:16-17 in order: a prophet who does not come back, a search, a search that covers the country, a failure to find. The Book of Mormon's own precedent at Alma 45:18-19 is what licenses reading it that way, since that passage names Moses and offers translation and burial as the two options for exactly this kind of exit. Filed as figural because there is no wording to test, and the row would be dishonest at any confidence that implied there were.",
+        "whyNot": "Not one distinctive word is shared with 2 Kings 2, and a narrator who wanted to record only that a man went missing would write this sentence. The whole weight is on the type-scene and on Alma 45:19 having used it; if that Alma row is withdrawn, this one goes with it.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ]
+  }
+}

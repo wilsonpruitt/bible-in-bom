@@ -1,0 +1,84 @@
+[
+  {
+    "bomRef": "3 Nephi 30:1",
+    "source": "Mark 1:1",
+    "category": "better-source-identified",
+    "sharedText": "Jesus Christ, the Son of",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "A six-word run and the highest longest-run candidate in the verse, and it is the wrong title. Mark 1:1 and Matthew 1:1 both give 'Jesus Christ, the Son of —' and neither completes it with 'the living God': Mark has 'the Son of God', Matthew 'the son of David'. The Book of Mormon's clause is 'Jesus Christ, the Son of the living God', and that full phrase belongs to exactly two KJV verses, Matthew 16:16 and John 6:69, where the link is written. Recorded because the run length invites the mistake: the machine ranks Mark 1:1 above Matthew 16:16 on contiguity, and contiguity is measuring the generic half of the phrase. The same entry covers Matthew 1:1 and 2 John 1:3, which share the same generic run."
+  },
+  {
+    "bomRef": "3 Nephi 30:1",
+    "source": "Acts 14:15",
+    "category": "insufficient-verbal",
+    "sharedText": "the living God, which",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "The most tempting of the machine's proposals in this chapter, because the situation is right and the wording is not. Acts 14:15 is Paul and Barnabas at Lystra, preaching to a Gentile crowd 'that ye should turn from these vanities unto the living God' — a Gentile audience, an imperative to turn, and the living God, which is exactly the three things 3 Nephi 30 does. But the only shared string is 'the living God, which', and the 'which' is a relative pronoun attached to different antecedents in the two verses (Paul's introduces the creator; the Book of Mormon's introduces a command given to Mormon). 'The living God' occurs in thirty KJV verses. The verse's actual borrowing is the fuller title 'the Son of the living God', which Acts 14:15 does not have, and the Gentile-turn idiom is accounted for at 30:2 by Zechariah 1:3-4 and Romans 15:11. Written up at length because a reader who notices the Lystra parallel should be told the catalogue noticed it and declined it on the wording."
+  },
+  {
+    "bomRef": "3 Nephi 30:2",
+    "source": "2 Corinthians 12:20",
+    "category": "better-source-identified",
+    "sharedText": "envyings ... strifes",
+    "streams": [
+      "manual"
+    ],
+    "reason": "The vice list of this verse — lyings, deceivings, whoredoms, secret abominations, idolatries, murders, priestcrafts, envyings, strifes — is the corpus's own recurring catalogue, and it was adjudicated for this book at 3 Nephi 21:19, where the same Pauline candidate was declined. The reasoning there governs here and is not repeated: 2 Corinthians 12:20 is the only KJV verse holding both 'envyings' and 'strifes', but the two are not adjacent in it, and the members that carry the Book of Mormon's list are not Paul's — 'priestcrafts' occurs in no KJV verse at all. The same list runs at 2 Nephi 26:21, 3 Nephi 16:10, 3 Nephi 21:19, 4 Nephi 1:16 and Alma 16:18. A reader who arrives at 30:2 and recognises Galatians 5:19-21 or 2 Corinthians 12:20 is sent to the register entry at 21:19."
+  },
+  {
+    "bomRef": "3 Nephi 30:2",
+    "source": "2 Peter 2:13",
+    "category": "wrong-sense",
+    "sharedText": "deceivings",
+    "streams": [
+      "manual"
+    ],
+    "reason": "“deceivings” occurs in exactly one KJV verse, 2 Peter 2:13, which is the strongest kind of evidence this catalogue recognises and it still fails, for two reasons. First the sense: 2 Peter's 'deceivings' are the revelries of false teachers who feast at the church's love-feasts — 'sporting themselves with their own deceivings while they feast with you' — and the word there is a noun for dissipation, not for lies told to somebody. The Book of Mormon's 'lyings and deceivings' is a pair of nouns for acts of deception, and is fixed as such by the word it is coupled to. Second the distribution: 'deceivings' appears in five Book of Mormon verses across four books (3 Nephi 1:22, 21:19, 30:2, Alma 16:18, Mormon 8:31), always in the same vice list and never near anything else of 2 Peter 2. A King James hapax that the corpus has naturalised into a standing formula is evidence about the corpus's English, not about this verse's source — the same finding as the 'done away' entry at 3 Nephi 21:19."
+  },
+  {
+    "bomRef": "3 Nephi 30:2",
+    "source": "2 Chronicles 7:14",
+    "category": "better-source-identified",
+    "sharedText": "wicked ways ... my people, which are",
+    "streams": [
+      "machine-ngram",
+      "manual"
+    ],
+    "reason": "A real two-point contact with one verse, and it loses on a pronoun. 2 Chronicles 7:14 is one of only two KJV verses containing 'wicked ways' and one of only two containing 'my people, which are', and 3 Nephi 30:2 has something answering to both — 'from your wicked ways' near its opening and 'numbered with my people, which are of the house of Israel' at its close. The temptation is strong because Solomon's verse is the King James Bible's standing promise that repentance is answered by forgiveness. But the Book of Mormon reads 'your wicked ways', and 2 Chronicles reads 'their wicked ways'; the only KJV verse with 'your wicked ways' is Ezekiel 20:44, which is where the link sends the phrase, inside Zechariah 1:4's frame. The second contact is likewise displaced: 'my people, which are' in 2 Chronicles completes as 'called by my name' and in Exodus 3:7 as 'in Egypt', while the Book of Mormon's clause is about Gentiles being counted in with Israel, which is Romans 15:10's 'Rejoice, ye Gentiles, with his people' — the verse immediately before the source of this verse's opening vocative. 2 Chronicles 7:14 is adjudicated as a link elsewhere in the corpus, at Mosiah 29:20."
+  },
+  {
+    "bomRef": "3 Nephi 30:2",
+    "source": "Isaiah 53:12",
+    "category": "insufficient-verbal",
+    "sharedText": "numbered with",
+    "streams": [
+      "manual"
+    ],
+    "reason": "Worth recording precisely because the reading it would produce is attractive. “numbered with” occurs in exactly four KJV verses: Isaiah 53:12 and its quotation at Mark 15:28 ('he was numbered with the transgressors'), and Acts 1:17 and 1:26 (Matthias numbered with the eleven). Isaiah 53:12 is in the Book of Mormon in full at Mosiah 14:12, so the phrase is demonstrably available to the corpus, and the inversion almost writes itself: the one who was numbered with the transgressors ends the book by offering to number the Gentiles with his people. The catalogue declines it. Two words is not enough to carry a source when the second of them is 'with', the Book of Mormon has none of the surrounding language of either Isaiah 53 or Acts 1, and the clause it does complete — 'numbered with my people' — is answered by Romans 15:10 in the same catena that supplies this verse's opening vocative, which needs no inversion to explain it. mediation-check.py was run on Isaiah 53:12 against Mark 15:28 and returned no decisive point, Mark reproducing Isaiah verbatim in the shared span, so even had the link been written the mediation could not have been settled."
+  },
+  {
+    "bomRef": "3 Nephi 30:2",
+    "source": "Ezekiel 36:25",
+    "category": "insufficient-verbal",
+    "sharedText": "and from all your",
+    "streams": [
+      "machine-ngram",
+      "manual"
+    ],
+    "reason": "Typology pulls hard here and the wording will not bear it. Ezekiel 36:25-27 is the Old Testament's water-and-Spirit passage and the standard proof text behind Christian baptism: sprinkled clean water, cleansing 'from all your filthiness, and from all your idols', then a new heart, then 'I will put my spirit within you'. 3 Nephi 30:2 has the same three movements in the same order — turn 'from all your wickedness and abominations', be baptized, be filled with the Holy Ghost — and even shares Ezekiel's list of idols. But the only shared string is the connective 'and from all your', and the Book of Mormon's sequence is fully accounted for by Acts 2:38, which has all four of its members in its order and shares its actual vocabulary ('remission', 'Holy Ghost'). Recorded so that a reader who sees Ezekiel 36 behind this verse is told the catalogue saw it and put the link where the words are."
+  },
+  {
+    "bomRef": "3 Nephi 30:2",
+    "source": "Genesis 45:18",
+    "category": "wrong-sense",
+    "sharedText": "and come unto me",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "“and come unto me” occurs in exactly two KJV verses, Genesis 45:18 and Isaiah 55:3, which is why it ranked. Genesis 45:18 is Pharaoh telling Joseph to fetch his family down to Egypt for the fat of the land, and nothing in it is a summons to repentance. Isaiah 55:3 is much closer in kind — 'Incline your ear, and come unto me: hear, and your soul shall live; and I will make an everlasting covenant with you' — an imperative to hear, an invitation to come, and a covenant, which is the shape of this chapter. It is not written as a link because 'come unto me' is the settled idiom of this book, used at 3 Nephi 9:14, 12:19, 12:23, 18:25 and 27:20 and adjudicated at 9:22 against Isaiah 45:22 and Matthew 11:28, and because Zechariah 1:3's 'Turn ye unto me' already stands inside the construction this verse borrows. Registered for both verses under Genesis 45:18, the one the machine proposed."
+  }
+]

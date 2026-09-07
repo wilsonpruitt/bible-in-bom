@@ -1,0 +1,343 @@
+{
+  "chapter": 6,
+  "adjudicated": "2026-09-07",
+  "adjudicator": "Opus",
+  "links": {
+    "6:8": [
+      {
+        "source": "Isaiah 62:10",
+        "type": "echo",
+        "subtype": "possible",
+        "confidence": "moderate",
+        "text": "Go through, go through the gates; prepare ye the way of the people; cast up, cast up the highway; gather out the stones; lift up a standard for the people.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 2,
+          "sequence": 1,
+          "context": 3,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "provenance": {
+          "route": "Isaiah 62:10 → KJV → Book of Mormon",
+          "other": "“cast up the highway” occurs in exactly one KJV verse. “cast up” occurs in seven, of which only Isaiah 62:10 and Jeremiah 18:15 (“a way not cast up”) use it of making a road; the rest raise siege banks or throw dust on heads. The collocation of the verb with the noun is therefore effectively Isaiah's.",
+          "alternative": "Isaiah 57:14, 'Cast ye up, cast ye up, prepare the way', has the verb in the same sense without the noun.",
+          "significance": "The KJV builds a highway exactly twice, and both times it is the road by which a scattered people comes home to its God — Isaiah 40:3's highway in the desert and Isaiah 62:10's highway with the stones gathered out of it and a standard lifted over it. 3 Nephi 6:7-8 is a public-works notice: cities built anew, old cities repaired, highways cast up, roads from land to land. Read against Isaiah the notice is not neutral infrastructure. It is the language of preparing the way, placed in the last years of peace before the Lord actually comes to this people in chapter 11, and the chapter then spends twenty verses showing the people making themselves unfit to receive him. The road is built and the standard is not lifted."
+        },
+        "note": "'And there were many highways cast up, and many roads made, which led from city to city.' The verb is the tell: English has many ways to say that a road was built, and 'cast up' is the KJV's, used of a highway in one verse only. Everything else here is the Book of Mormon's own — the plural 'highways', the pairing with 'roads made', the city-to-city itinerary — so this is registered as an echo and not more. What is borrowed is a single Isaianic construction, not a clause.",
+        "whyNot": "Two words, and 'cast up' had a plain technical sense in nineteenth-century English road-building independent of any Bible. A reader who wants to call this common idiom rather than borrowing is not being unreasonable; the case rests on the KJV's own restriction of the phrase to Isaiah's homecoming road.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": ["manual"]
+      }
+    ],
+    "6:10": [
+      {
+        "source": "James 4:16",
+        "type": "allusion",
+        "subtype": "conceptual",
+        "confidence": "high",
+        "text": "But now ye rejoice in your boastings: all such rejoicing is evil.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 2,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 1
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": ["James 4:13", "James 5:6"],
+        "recurrenceRefs": ["Helaman 4:13"],
+        "provenance": {
+          "route": "James 4:13-5:6 → KJV → Book of Mormon",
+          "other": "“boastings” in the plural occurs in exactly one KJV verse, James 4:16. “buy and sell, and get gain” occurs in exactly one, James 4:13. “Ye have condemned and killed the just” occurs in exactly one, James 5:6. All three are inside a single continuous denunciation.",
+          "significance": "This is the chapter's structure, borrowed whole. James runs: the merchant who will go into such a city and buy and sell and get gain (4:13) → 'ye rejoice in your boastings: all such rejoicing is evil' (4:16) → 'Go to now, ye rich men, weep and howl for your miseries that shall come upon you' (5:1) → 'ye have condemned and killed the just; and he doth not resist you' (5:6). 3 Nephi 6 runs: lifted up unto pride and boastings because of their exceeding great riches (6:10) → 'for there were many merchants in the land' (6:11) → the rich and the learned distinguished by ranks (6:12) → the judges condemn the prophets and put them to death secretly, and the prophets do not resist (6:23-25) → and in chapter 8 the miseries come, on the rich cities by name. Not one of James's clauses is quoted at length; his sequence is followed from end to end, and the Book of Mormon supplies the destruction that James only threatens. The metalepsis is the last verse of the sequence: 'he doth not resist you' is the whole content of 3 Nephi 6:13's other party, who receive railing and would not turn and revile again."
+        },
+        "note": "'Some were lifted up unto pride and boastings, because of their exceeding great riches.' The single distinctive word is 'boastings', a KJV singleton in the plural, and by itself it would be worth no more than the moderate echo the catalogue gave it at Helaman 4:13. What lifts it here is what stands in the next verse: 'for there were many merchants in the land'. James 4:13-16 is the KJV's one passage that puts a merchant, his gain, and his boastings in that order, and 3 Nephi 6:10-11 puts riches, boastings and merchants in the same order across a verse break. The rest of James's paragraph then supplies the rest of the chapter — see the provenance note.",
+        "whyNot": "The verbal base is one rare word plus a common noun; a reader who declines the sequence argument is left with 'boastings' alone, which is a moderate echo at best. The case is a claim about order, not about wording, and it is held at high because the order holds for four consecutive elements and not because any clause is reproduced.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": ["manual"]
+      }
+    ],
+    "6:13": [
+      {
+        "source": "1 Peter 3:9",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "certain",
+        "text": "Not rendering evil for evil, or railing for railing: but contrariwise blessing; knowing that ye are thereunto called, that ye should inherit a blessing.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 1
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "recurrenceRefs": ["Alma 41:13"],
+        "provenance": {
+          "route": "1 Peter 3:9 → KJV → Book of Mormon",
+          "other": "“railing for railing” occurs in exactly one KJV verse. The noun 'railing' in this reciprocal construction exists nowhere else in the Authorized Version, and no modern translation preserves it — RSV and NRSV read 'reviling for reviling', NIV 'insult with insult' — so the phrase is the KJV's English and not merely the New Testament's sense.",
+          "significance": "Peter's clause is a prohibition with a promise attached: do not render railing for railing, 'knowing that ye are thereunto called, that ye should inherit a blessing'. 3 Nephi 6:13 divides one people along exactly that line — 'some did return railing for railing, while others would receive railing … and would not turn and revile again' — and the next verse tells you which half inherited: the church was broken up in all the land save among the few who 'were firm, and steadfast, and immoveable'. The suppressed half of Peter's verse, the inheritance, is what 6:14 hands out."
+        },
+        "note": "'Some did return railing for railing.' Three words, reproduced exactly from the only KJV verse that contains them, and the verse's own construction is preserved: Peter's 'rendering … railing for railing' becomes 'return railing for railing', a synonym in the participle and nothing else changed. Far below Skousen's sixteen-word threshold and not one of his long quotations; the strength here is absolute rarity, not length. The verse then goes on to describe the other party in the words of 1 Peter 2:23, catalogued separately below, so both of the Petrine singletons in this argument are present in one Book of Mormon sentence.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": ["manual"]
+      },
+      {
+        "source": "1 Peter 2:23",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "Who, when he was reviled, reviled not again; when he suffered, he threatened not; but committed himself to him that judgeth righteously:",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "1 Peter 2:23 → KJV → Book of Mormon",
+          "other": "“reviled not again” occurs in exactly one KJV verse; the bare collocation 'revile again' occurs in none. The Book of Mormon's 'would not turn and revile again' inserts one verb into the KJV's phrase and keeps the adverb that makes it reciprocal.",
+          "significance": "The subject of 1 Peter 2:23 is Christ under trial — reviled, suffering, and committing himself 'to him that judgeth righteously'. 3 Nephi 6:13 gives that posture to the people who will shortly be arraigned before judges who do not judge righteously, and 6:23 has those judges put them to death secretly. Peter's Christ is the model of the Nephite martyrs of 6:23 before Christ has arrived in the book at all, and the trial the chapter builds toward in 6:25-30 is a trial of the judges rather than of the just — which is Peter's clause completed rather than quoted."
+        },
+        "note": "'While others would receive railing, and persecution, and all manner of afflictions, and would not turn and revile again, but were humble and penitent before God.' The second Petrine singleton in the same sentence. Peter's 'when he was reviled, reviled not again' is a description of Christ's silence under trial; the Book of Mormon converts it from a participial description to a refusal ('would not turn and revile again') and supplies the direction of the alternative — 'humble and penitent before God' where Peter has 'committed himself to him that judgeth righteously'.",
+        "whyNot": "'Revile' is an ordinary English verb, and the reciprocal 'again' could be reached without Peter. It is held at high rather than certain on its own; the reason it is not registered lower is that the immediately preceding clause of the same Book of Mormon verse quotes 1 Peter 3:9's singleton, which makes an independent arrival at 2:23's very unlikely.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": ["manual"]
+      }
+    ],
+    "6:14": [
+      {
+        "source": "1 Corinthians 15:58",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "Therefore, my beloved brethren, be ye stedfast, unmoveable, always abounding in the work of the Lord, forasmuch as ye know that your labour is not in vain in the Lord.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 3,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 1
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "recurrenceRefs": ["1 Nephi 2:10", "Mosiah 5:15", "Alma 1:25"],
+        "provenance": {
+          "route": "1 Corinthians 15:58 → KJV → Book of Mormon",
+          "other": "“stedfast, unmoveable” occurs in exactly one KJV verse; “unmoveable” in exactly two, the other being the grounded ship of Acts 27:41. The 1830 spells the second adjective 'immoveable', keeping the -eable of the KJV's own orthography, where 1920 modernises to 'immovable'.",
+          "significance": "Paul's pair closes his resurrection chapter: because the dead rise, be stedfast and unmoveable, 'forasmuch as ye know that your labour is not in vain in the Lord'. 3 Nephi 6 has just described men 'testifying unto them concerning the redemption which the Lord would make for his people; or in other words, the resurrection of Christ' (6:20), and the only people in the land who hold when the church breaks up are described in the adjectives Paul attaches to that doctrine. The chapter puts the resurrection preaching and the resurrection-grounded steadfastness in the same twenty verses, which is the order of 1 Corinthians 15 itself."
+        },
+        "note": "'They were firm, and steadfast, and immoveable, willing with all diligence to keep the commandments of the Lord.' Paul's adjective pair, in Paul's order, with a third adjective prefixed. The catalogue adjudicated this at 1 Nephi 2:10 and it has since become one of the Book of Mormon's own formulae (Mosiah 5:15, Alma 1:25); the row is written again here because a new book is a new hand and because 3 Nephi's use is not simply the formula recurring — the converted Lamanites are the exception that survives the breaking up of the church, and the argument for the phrase's source was made at 1 Nephi 2:10 rather than restated here.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": ["manual"]
+      }
+    ],
+    "6:17": [
+      {
+        "source": "2 Timothy 2:26",
+        "type": "allusion",
+        "subtype": "conceptual",
+        "confidence": "moderate",
+        "text": "And that they may recover themselves out of the snare of the devil, who are taken captive by him at his will.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 2,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "uncertain",
+        "mediation": "direct-NT",
+        "recurrenceRefs": ["2 Nephi 1:18", "Alma 12:6"],
+        "provenance": {
+          "route": "2 Timothy 2:26 → KJV → Book of Mormon",
+          "other": "“taken captive by him at his will” occurs in exactly one KJV verse. “carried about” occurs in four, of which Ephesians 4:14 ('carried about with every wind of doctrine, by the sleight of men, and cunning craftiness, whereby they lie in wait to deceive') is the only one about deception.",
+          "alternative": "Ephesians 4:14 supplies the verb the Book of Mormon actually uses; 2 Timothy 2:26 supplies the doctrine. The verse may be reaching for both.",
+          "significance": "2 Timothy 2:26's peculiarity is the possessive: the captives act at the devil's will, not their own, which is as close as the KJV comes to saying that the damned are moved by another's volition. 3 Nephi 6:17 states that doctrine twice over in one sentence — 'whithersoever he desired to carry them, and to do whatsoever iniquity he desired they should' — and then, in the very next verse, revokes it: 'they did not sin ignorantly … therefore they did wilfully rebel.' Paul's clause exists to explain why such people can be recovered; the Book of Mormon quotes the captivity and then withdraws the excuse."
+        },
+        "note": "'The people having been delivered up … to be carried about by the temptations of the Devil whithersoever he desired to carry them, and to do whatsoever iniquity he desired they should.' The verbal contact is thin and the conceptual contact is exact: the devil's desire, not the sinner's, is the grammatical subject of what the sinner does, which in the KJV is 2 Timothy 2:26's construction alone. Registered as an allusion at moderate because the wording is the Book of Mormon's throughout — 'delivered up', 'carried about', 'whithersoever' are all reachable without Paul.",
+        "whyNot": "No phrase of more than two words is shared with either candidate. If the doctrine of the devil's directing will was already the Book of Mormon's own — and 2 Nephi 1:18 and Alma 12:6 suggest it was by this point — then 3 Nephi 6:17 needs no source at all, and the row should be read as a note on where that doctrine's English came from rather than as a borrowing at this verse.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": ["manual"]
+      }
+    ],
+    "6:18": [
+      {
+        "source": "Hebrews 10:26",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "text": "For if we sin wilfully after that we have received the knowledge of the truth, there remaineth no more sacrifice for sins,",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 3
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": ["Numbers 15:28"],
+        "recurrenceRefs": ["Alma 39:6"],
+        "provenance": {
+          "route": "Numbers 15:27-31 → Hebrews 10:26 → KJV → Book of Mormon",
+          "mt": "The distinction the verse turns on is Numbers 15:27-31, where the soul that sins bishgagah (in error) is atoned for and the soul that acts beyad ramah (with a high hand) is cut off. The KJV renders the pair 'through ignorance' / 'presumptuously'.",
+          "other": "“sin wilfully” occurs in exactly one KJV verse. “ignorantly” occurs in exactly four, of which Numbers 15:28 is the only one in the sacrificial law that the Hebrews argument is reworking. The Book of Mormon's sentence contains both adverbs and neither source contains the other.",
+          "significance": "Hebrews 10:26 is the New Testament's restatement of the Numbers law with the terms changed — 'wilfully' where Numbers has 'presumptuously', received knowledge where Numbers has the high hand — and its consequence in 10:27 is not a penalty but the removal of the remedy, followed by 'a certain fearful looking for of judgment and fiery indignation, which shall devour the adversaries'. 3 Nephi 6:18 states the condition; two chapters later 3 Nephi 8-9 supplies the fiery indignation, by name and by city. Read the two together and the catalogue's cleanest instance of metalepsis in this book: the verse that establishes that these people cannot plead ignorance is the verse whose unquoted next clause is the fire that takes them."
+        },
+        "note": "'Now they did not sin ignorantly, for they knew the will of God concerning them, for it had been taught unto them; therefore they did wilfully rebel against God.' Both halves of the KJV's ignorance/wilfulness distinction are here in one sentence, and they come from two different books. 'Wilfully', paired with prior knowledge and with rebellion rather than error, is Hebrews 10:26's singleton and Hebrews 10:26's argument. 'Ignorantly' is the Levitical adverb of Numbers 15:28, which Hebrews does not use. `mediation-check.py` on 3 Nephi 6:18 against Numbers 15:28 and Hebrews 10:26 returns decisive points in both directions and flags the verse as a composite, which is the right answer: the wilfulness is mediated through Hebrews, the ignorance is not. The catalogue already reads Hebrews 10:26-29 behind Alma 39:6, where the wilfulness is present but the ignorance clause is not; 3 Nephi 6:18 is the fuller form.",
+        "bibliography": ["Hardy MSI at 3 Ne 6.18 (Hebrews 10:26)"],
+        "status": "majority",
+        "streams": ["scholarship", "manual"]
+      }
+    ],
+    "6:20": [
+      {
+        "source": "Acts 2:31",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "He seeing this before spake of the resurrection of Christ, that his soul was not left in hell, neither his flesh did see corruption.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "Psalm 16:10 → Acts 2:31 → KJV → Book of Mormon",
+          "other": "“the resurrection of Christ” occurs in exactly one KJV verse. The New Testament otherwise says 'the resurrection of the dead', 'the resurrection of Jesus Christ' (1 Peter 1:3, 3:21) or 'his resurrection'; the bare genitive with the title alone is Peter's at Pentecost and nowhere else.",
+          "significance": "Acts 2:31 is Peter arguing that a prophet who lived long before the event 'seeing this before spake of the resurrection of Christ' — that is, it is the New Testament's own warrant for pre-Christian prophecy of a resurrection not yet accomplished. 3 Nephi 6:20 needs precisely that warrant and takes precisely that phrase: men inspired from heaven, testifying 'concerning the redemption which the Lord would make for his people; or in other words, the resurrection of Christ'. The gloss 'or in other words' is doing the work Peter's exegesis of Psalm 16 does, and it lands on Peter's four words. There is no better instance in the chapter of a borrowing whose source supplies the argument for the borrowing's own possibility."
+        },
+        "note": "'Or in other words, the resurrection of Christ; and they did testify boldly of his death and sufferings.' Four words from the only KJV verse that contains them, in a sentence whose whole purpose is to say that pre-Christian prophets preached a post-Christian doctrine. The wider verse keeps Peter's company: 'testify boldly' answers to the boldness of Acts 4:13 and 4:31, and 'his death and sufferings' to Acts 3:18's 'that Christ should suffer'. Registered against Acts 2:31 alone because that is where the singleton is.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": ["machine-ngram", "manual"]
+      }
+    ],
+    "6:21": [
+      {
+        "source": "Luke 11:52",
+        "type": "allusion",
+        "subtype": "conceptual",
+        "confidence": "high",
+        "text": "Woe unto you, lawyers! for ye have taken away the key of knowledge: ye entered not in yourselves, and them that were entering in ye hindered.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 2,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": ["Luke 11:49"],
+        "provenance": {
+          "route": "Luke 11:45-54 → KJV → Book of Mormon",
+          "other": "“lawyers” occurs in exactly five KJV verses and every one of them is in Luke; four (11:45, 11:46, 11:52, and by continuation 11:53-54's reaction) belong to one scene. The singular 'lawyer' occurs in three, two of them also Luke. There is no other book of the Bible in which a lawyer exists as a party.",
+          "significance": "Luke 11 is the only passage in scripture where lawyers as a class are (a) reproved, (b) made furious by the reproof, and (c) charged in the same breath with the blood of the prophets: 'I will send them prophets and apostles, and some of them they shall slay and persecute … it shall be required of this generation' (11:49-51), and then 11:53-54, 'the scribes and the Pharisees began to urge him vehemently … laying wait for him, to catch something out of his mouth, that they might accuse him.' 3 Nephi 6:21-23 reproduces all three movements in order and then does what Luke only predicts: the lawyers are angry at those who testify, and the prophets are taken and put to death. The suppressed clause is 11:51's 'it shall be required of this generation' — and it is required of this generation, in chapter 8."
+        },
+        "note": "'Those which were angry, were chiefly the Chief Judges, and they which had been High Priests, and lawyers; yea, all they which were lawyers, were angry with those which testified of these things.' The word is the point. The Book of Mormon's opposition party in this chapter is chief judges, former high priests and lawyers, and 'lawyers' is a King James word that exists only in Luke, only as a bloc, and only under a woe. The verse repeats the noun twice in one sentence and singles the lawyers out as the party that is angry to a man, which is Luke's own emphasis at 11:45 — the lawyer who objects that he too has been reproached.",
+        "whyNot": "The verbal base is a single noun; no phrase is shared. The case rests on the noun's distribution and on the three-part correspondence set out in the provenance note, and a reader who takes 'lawyers' as simply the ordinary English word for the profession — which the Book of Mormon has used since Alma 10 — will decline it.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": ["manual"]
+      }
+    ],
+    "6:22": [
+      {
+        "source": "John 18:31",
+        "type": "allusion",
+        "subtype": "conceptual",
+        "confidence": "high",
+        "text": "Then said Pilate unto them, Take ye him, and judge him according to your law. The Jews therefore said unto him, It is not lawful for us to put any man to death:",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "recurrenceRefs": ["Mosiah 26:11"],
+        "provenance": {
+          "route": "John 18:31 → KJV → Book of Mormon",
+          "other": "“put any man to death” occurs in exactly one KJV verse. “the governor of the land” occurs in none; the KJV's eight 'governor of the —' phrases are of a city, a house, the Jews, or a feast. What is borrowed is the jurisdictional rule, not the title.",
+          "significance": "John 18:31 is the only verse in the Bible that states the arrangement 3 Nephi 6:22 states as Nephite law: a religious-legal establishment with full power to condemn and no power to execute, the execution reserved to a civil governor. Everything that follows in both narratives follows from that one disability. In John it produces the transfer to Pilate and the crucifixion under Roman authority; in 3 Nephi it produces the secret executions of 6:23, carried out precisely so that 'the knowledge of their death came not unto the governor of the land, until after their death'. The Book of Mormon's judges do what the Sanhedrin of John 18 is prevented from doing, by concealment rather than by referral — and the chapter that establishes this is four chapters from the crucifixion itself, which the book will narrate from the other side of the world in 3 Nephi 8."
+        },
+        "note": "'Now there was no lawyer, nor Judge, nor High Priest, that could have power to condemn any one to death, save their condemnation was signed by the governor of the land.' The singleton wording sits two verses later — 6:24's 'that any man should be put to death, except they had power from the governor of the land' inverts John's 'not lawful for us to put any man to death' — but the link is catalogued here, where the rule and the personnel are given together, and 6:24 is cross-referenced in the exclusion register. The personnel are John's: a high priest, a court, and lawyers, unable to kill. The catalogue has already read the other half of John 18:31 at Mosiah 26:11, where Alma remands the accused 'that thou may judge them according to their crimes' — so the two halves of one KJV verse are used in two different books for the two different sides of the same jurisdictional problem.",
+        "whyNot": "The shared words are reordered rather than reproduced, and a legal system in which a local court needs a governor's warrant to execute is not so peculiar that it could only be got from John. The strength of the row is that this is the one place the KJV describes such a system, and that the Book of Mormon's next verse turns on evading it.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": ["manual"]
+      }
+    ],
+    "6:30": [
+      {
+        "source": "Deuteronomy 17:14",
+        "type": "figural",
+        "subtype": "structural",
+        "confidence": "moderate",
+        "text": "When thou art come unto the land which the LORD thy God giveth thee, and shalt possess it, and shalt dwell therein, and shalt say, I will set a king over me, like as all the nations that are about me;",
+        "evidence": {
+          "vocabulary": 2,
+          "syntax": 2,
+          "sequence": 2,
+          "context": 5,
+          "rarity": 3,
+          "attestation": 0
+        },
+        "kjvSpecific": "uncertain",
+        "mediation": "direct-OT",
+        "composite": ["1 Samuel 8:5"],
+        "provenance": {
+          "route": "Deuteronomy 17:14 / 1 Samuel 8:5 → KJV → Book of Mormon",
+          "other": "“set a king over” occurs in exactly three KJV verses — Deuteronomy 17:14, 1 Samuel 10:19 and 1 Samuel 12:13 — and all three belong to the single biblical topos of a people asking for a king. The Book of Mormon reads 'establish a king over the land', which is none of them; only the preposition and the noun are shared.",
+          "significance": "The Deuteronomic and Samuel passages are the Bible's account of a people freely choosing a king and being warned what it will cost them — 'ye shall cry out in that day because of your king which ye shall have chosen'. 3 Nephi 6:30 is the same transaction with the consent removed: not a people asking, but a conspiracy covenanting in secret 'to destroy the governor, and to establish a king over the land, that the land should no more be at liberty, but should be subject unto kings'. Israel demands a king to judge it; the Nephite judges demand a king to protect them from judgment. The Book of Mormon's own version of 1 Samuel 8 is Mosiah 29, where the kingship is abolished by the voice of the people, and 3 Nephi 6:30 is the undoing of that chapter by a covenant taken in the dark."
+        },
+        "note": "The chapter's last verse, and it is the biblical demand for a king inverted at every point that carries weight. What survives verbally is only 'a king over', and the Book of Mormon's verb is 'establish' where all three KJV verses have 'set'; the link is registered as figural for that reason, not as an allusion. What makes it worth registering at all is that this is the closing act of the sequence the chapter has been building — merchants, ranks, angry lawyers, murdered prophets — and it lands on the one political act the Deuteronomic law legislates for in advance.",
+        "whyNot": "Two words, one of them a preposition. If the Book of Mormon's kingship discourse is taken as self-sufficient by this point in the corpus — and after Mosiah 29 it plainly is — then 3 Nephi 6:30 needs no biblical source, and this row records a resonance rather than a dependence. It is kept because a reader who knows Deuteronomy 17 will hear it, and the catalogue should say whether it heard it too.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": ["manual"]
+      }
+    ]
+  }
+}

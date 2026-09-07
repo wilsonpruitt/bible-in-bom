@@ -1,0 +1,460 @@
+{
+ "chapter": 3,
+ "adjudicated": "2026-09-07",
+ "adjudicator": "Opus",
+ "links": {
+  "3:2": [
+   {
+    "source": "Acts 24:3",
+    "type": "allusion",
+    "subtype": "close-verbal",
+    "confidence": "high",
+    "evidence": {
+     "vocabulary": 4,
+     "syntax": 3,
+     "sequence": 4,
+     "context": 5,
+     "rarity": 4,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "composite": [
+     "Acts 23:26",
+     "Acts 24:2",
+     "Acts 26:25"
+    ],
+    "recurrenceRefs": [
+     "3 Nephi 3:3"
+    ],
+    "provenance": {
+     "route": "Acts 23:26 + 24:2-3 (the letter and the exordium to a governor) → KJV → Book of Mormon",
+     "other": "“most noble” occurs in exactly three KJV verses: Esther 6:9 (“the king’s most noble princes”, plural and adjectival), Acts 24:3 and Acts 26:25. Both New Testament instances are vocatives addressed to a Roman provincial governor — Felix and Festus. The epistolary form of the same address is Acts 23:26, “Claudius Lysias unto the most excellent governor Felix sendeth greeting”, which is the KJV’s one letter from a military commander to a governor.",
+     "alternative": "Esther 6:9 is the only Old Testament carrier of the phrase, and Esther is a book of royal letters carried through a province (8:10, 8:13) that this chapter has otherwise touched only at the level of noise. It will not account for the vocative, which is what is being reproduced.",
+     "significance": "Metalepsis of genre rather than of sentence. Recover the context of “most noble” and the letter’s addressee is standing where Felix and Festus stand: a provincial governor being worked on, in his own title, by a professional advocate. Acts 24:2-3 is the KJV’s set-piece of official flattery — Tertullus opening the prosecution with “Seeing that by thee we enjoy great quietness, and that very worthy deeds are done unto this nation by thy providence, we accept it always, and in all places, most noble Felix, with all thankfulness” — and Giddianhi’s exordium does the identical work in the identical order: praise of the governor’s administration (“your firmness, and also the firmness of your people”), a concession that the praise is sincere (“ye do stand well, as if ye were supported by the hand of a God”), and only then the demand. The unstated correspondence is that Tertullus is lying and everyone in Acts 24 knows it. The Book of Mormon narrator supplies at 3:11-12 the reply Felix never gave: Lachoneus “was exceedingly astonished, because of the boldness of Giddianhi” and “could not be frightened by the demands and the threatenings of a robber”."
+    },
+    "note": "“Lachoneus, most noble and Chief Governor of the land”, and again a sentence later at 3:3, “most noble Lachoneus”. Two words, and on their own they would be nothing; what makes the link is that the King James Bible uses this vocative twice and both times to a governor, that the Book of Mormon supplies the office in the same breath, and that the sentence it opens is a captatio benevolentiae of exactly the Acts 24 shape. Well below Skousen’s sixteen-word threshold and not a quotation on any definition — the case is rarity plus office plus epistolary genre, argued together, and it should be read as such rather than as a reproduced clause.",
+    "whyNot": "Two words. “Noble” is ordinary English and “most noble” is the natural superlative a nineteenth-century writer would reach for in a mock-formal salutation without any biblical prompting at all; the Acts parallel may be a fact about English epistolary convention rather than about this text’s sources.",
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "manual"
+    ],
+    "text": "We accept it always, and in all places, most noble Felix, with all thankfulness.",
+    "bibliography": []
+   }
+  ],
+  "3:5": [
+   {
+    "source": "Philemon 1:19",
+    "type": "allusion",
+    "subtype": "close-verbal",
+    "confidence": "moderate",
+    "evidence": {
+     "vocabulary": 4,
+     "syntax": 4,
+     "sequence": 4,
+     "context": 4,
+     "rarity": 3,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "composite": [
+     "1 Corinthians 16:21",
+     "2 Thessalonians 3:17",
+     "Galatians 6:11"
+    ],
+    "provenance": {
+     "route": "Philemon 1:19 → KJV → Book of Mormon",
+     "other": "“with mine own hand” occurs in exactly five KJV verses: 1 Samuel 25:33, 1 Corinthians 16:21, Galatians 6:11, 2 Thessalonians 3:17 and Philemon 1:19. Four of the five are Pauline letter-closings and the fifth (Abigail on David’s avenging himself) is not epistolary at all. Philemon 1:19 is the one that pairs the formula with a verb of writing in the perfect — “I Paul have written it with mine own hand” — which is the construction 3:5 has.",
+     "significance": "In the KJV the autograph formula is a mark of authentication a dictating writer adds so the recipient can trust the letter; 2 Thessalonians 3:17 says so outright, “the token in every epistle: so I write.” Giddianhi is authenticating a threat. He also signs twice — “I am Giddianhi” at the end of 3:9 and again at the end of 3:10 — which is the signature repeated where Paul repeats it, after the argument rather than before it. The datum that matters most here is the 1830 reading. The first edition has “therefore I have wrote this epistle, sealing it with mine own hand”; the 1920 correction to “have written” is a grammatical tidy-up that happens to move the text onto Philemon 1:19’s exact participle. That is CONVENTIONS §8’s second case running the usual direction in reverse — a later edition correcting the text back toward its source — and it means the modern text shows this borrowing more plainly than the running text does, not less."
+    },
+    "note": "“Therefore I have wrote this epistle, sealing it with mine own hand.” Four words from a five-verse KJV phrase, four of whose five carriers are the closing autograph of a Pauline letter, dropped into the closing movement of a letter. The link matters chiefly because of what stands two verses later: 3:7 reproduces the slave/brother/partner triad of Philemon 1:16-17, so a single twenty-five-verse epistle is being touched twice, once in the signature position and once in the argument. Either contact alone would be thin; the pair is not.",
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "machine-ngram",
+     "manual"
+    ],
+    "text": "I Paul have written it with mine own hand, I will repay it: albeit I do not say to thee how thou owest unto me even thine own self besides.",
+    "bibliography": []
+   }
+  ],
+  "3:7": [
+   {
+    "source": "Philemon 1:16",
+    "type": "allusion",
+    "subtype": "strong-verbal",
+    "confidence": "high",
+    "evidence": {
+     "vocabulary": 4,
+     "syntax": 3,
+     "sequence": 4,
+     "context": 5,
+     "rarity": 5,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "composite": [
+     "Philemon 1:17",
+     "Philemon 1:19"
+    ],
+    "provenance": {
+     "route": "Philemon 1:16-17 → KJV → Book of Mormon",
+     "other": "Three absolute rarities from one short letter. “not now as a servant” occurs in exactly one KJV verse and “a brother beloved” occurs in exactly one KJV verse, both Philemon 1:16; “receive him as myself” occurs in exactly one KJV verse, Philemon 1:17, whose governing noun is the one Giddianhi uses — “if thou count me therefore a partner”. “partner” occurs in exactly three KJV verses (Proverbs 29:24, 2 Corinthians 8:23, Philemon 1:17) and “partners” in exactly two, both in Luke 5’s fishing boats.",
+     "alternative": "The Book of Mormon writes “slaves” where the KJV writes “servant”. “slaves” occurs in exactly one KJV verse, Revelation 18:13, in a cargo list — so the word is not from this source and is the writer’s own English. What is reproduced is the antithesis and its terms, not the noun.",
+     "significance": "Philemon is the only letter in the Bible whose whole business is converting a slave into a brother, and Giddianhi’s offer states its three terms in Philemon’s own order: not a slave, a brother, a partner. Recover the context and every term inverts. Paul asks a master to surrender a legal claim over one man and undertakes the cost himself — “I will repay it”, 1:19, the very verse whose autograph formula stands at 3:5; Giddianhi asks a nation to surrender its cities, lands and possessions and calls the surrender fraternity. Paul’s “partner” is a bond of the gospel; Giddianhi’s partnership is “of all our substance”, i.e. of plunder, and its condition is that Lachoneus’ people “become acquainted with our secret works”. The one New Testament letter about manumission has been made the script for an offer of confederacy in a robber band, and the fact that the same twenty-five verses supply the signature line two verses earlier is what turns a coincidence of vocabulary into a reading of the epistle as a whole."
+    },
+    "note": "“Yield yourselves up unto us, and unite with us … and become our brethren, that ye may be like unto us; not our slaves, but our brethren, and partners of all our substance.” No clause is reproduced, but the argumentative skeleton of Philemon 1:16-17 is — the not-a-slave-but-a-brother antithesis, which the KJV states once, followed immediately by the reception of that brother as a “partner”, which the KJV also states once. Taken with 3:5 this is two contacts with one very short epistle in three verses of a single letter, in the two positions (argument and signature) a reader of Philemon would notice first.",
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "manual"
+    ],
+    "text": "Not now as a servant, but above a servant, a brother beloved, specially to me, but how much more unto thee, both in the flesh, and in the Lord?",
+    "bibliography": []
+   },
+   {
+    "source": "Genesis 34:15",
+    "type": "figural",
+    "subtype": "type-scene",
+    "confidence": "moderate",
+    "evidence": {
+     "vocabulary": 2,
+     "syntax": 2,
+     "sequence": 4,
+     "context": 5,
+     "rarity": 4,
+     "attestation": 0
+    },
+    "kjvSpecific": "uncertain",
+    "mediation": "direct-OT",
+    "composite": [
+     "Genesis 34:16",
+     "Genesis 34:22",
+     "Genesis 34:23"
+    ],
+    "provenance": {
+     "route": "Genesis 34:15-23 → KJV → Book of Mormon (narrative form, not wording)",
+     "other": "The Genesis phrases are all singletons and none of them is reproduced. “be as we be” occurs in exactly one KJV verse (34:15), “become one people” occurs in exactly one KJV verse (34:16), “consent unto us” occurs in exactly one KJV verse (34:22). The Book of Mormon’s corresponding phrases — “unite with us”, “that ye may be like unto us” — share no distinctive word with any of them; “unite” occurs in exactly one KJV verse, Psalm 86:11, and not in this sense at all.",
+     "significance": "Genesis 34 is the King James Bible’s one negotiated merger between an armed party and a people it could destroy, and its terms are Giddianhi’s terms in Giddianhi’s order: dwell with us, be as we be, become one people, and then — said aside, to his own city — “Shall not their cattle and their substance and every beast of theirs be ours?” That last is the sentence 3:7 says out loud: “partners of all our substance”. The type-scene is a confederacy offered in bad faith by the party that means to end up with the other’s goods, and it closes in Genesis with a general slaughter and the taking of the flocks and herds — which is what 3:13 and 3:22 are moving out of reach when Lachoneus gathers the flocks and herds into one place. The inversion worth naming is that in Genesis the deceit is on the side that accepts and in 3 Nephi it is on the side that offers."
+    },
+    "note": "Under CONVENTIONS §0a this is put on the table rather than left out. The sentence is a bad-faith offer of merger from an armed party to a people it has just threatened, stating its terms as kinship and shared substance while intending the substance; that is the Shechem negotiation of Genesis 34 in outline, and Genesis 34 is the only such negotiation in the KJV. The wording is entirely the Book of Mormon’s own, so this is figural in the strict sense and is catalogued as such.",
+    "whyNot": "There is no verbal contact at all — not one distinctive shared word — and the resemblance is at the level of a situation that any writer inventing an extortionate ultimatum could arrive at independently. Circumcision, intermarriage and the rape of Dinah, which are what Genesis 34 is actually about, have no counterpart here. If the Philemon link above accounts for the verse’s wording, this row is a reading of the scene and not a claim of dependence, and it should be withdrawn the moment a source with actual wording is found for it.",
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "machine-ngram",
+     "manual"
+    ],
+    "text": "But in this will we consent unto you: If ye will be as we be, that every male of you be circumcised;",
+    "bibliography": []
+   }
+  ],
+  "3:10": [
+   {
+    "source": "Hebrews 9:22",
+    "type": "echo",
+    "subtype": "possible",
+    "confidence": "moderate",
+    "evidence": {
+     "vocabulary": 3,
+     "syntax": 2,
+     "sequence": 2,
+     "context": 3,
+     "rarity": 5,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "recurrenceRefs": [
+     "Alma 34:13",
+     "Alma 52:4",
+     "3 Nephi 9:19"
+    ],
+    "provenance": {
+     "route": "Hebrews 9:22 → KJV → Book of Mormon",
+     "other": "“shedding of blood” occurs in exactly one KJV verse, Hebrews 9:22. tools/mediation-check.py was run against Leviticus 17:11, the law the Hebrews verse summarizes, and returned one decisive point: the Book of Mormon has Hebrews 9:22’s “without shedding of blood” and nothing of Leviticus’ atonement clause. So the phrase is the New Testament’s formulation of the law, not the law’s own.",
+     "significance": "Hebrews 9:22 is the KJV’s statement that remission cannot be had without blood. Giddianhi’s letter offers precisely a remission without blood — hand over the lands and possessions and nobody dies — and prices a nation’s surrender in the sentence the epistle uses to say that nothing is remitted cheaply. The within-book arc is the part worth recording: the same three words return in 3 Nephi at 9:19, in the voice of Christ, abolishing the thing Hebrews says is indispensable — “ye shall offer up unto me no more the shedding of blood”. Six chapters separate a robber’s bloodless bargain from a bloodless sacrifice, and the phrase they share is a KJV singleton."
+    },
+    "note": "“I hope that ye will deliver up your lands, and your possessions, without the shedding of blood.” Three words, absolutely rare, and the argument for the row is the rarity plus the placement rather than any further contact with Hebrews 9. The phrase was adjudicated for this catalogue at Alma 34:13, where Alma’s last-sacrifice argument genuinely runs alongside Hebrews 9; the row is written again here because 3 Nephi is a new book and a new hand, and because 3 Nephi 9:19 will take the same words up in the opposite direction. The argument for the source is made at Alma 34:13 and is not restated.",
+    "whyNot": "“Without the shedding of blood” is the Book of Mormon’s standing idiom for a bloodless military outcome — Alma 58:28 takes a city “without the shedding of blood” in exactly this neutral sense — so its appearance in an ultimatum proves only that the writer had the phrase, not that he was thinking of Hebrews when he used it. The sense in the source (no remission of sin) and the sense here (no casualties) are not the same sense.",
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "manual"
+    ],
+    "text": "And almost all things are by the law purged with blood; and without shedding of blood is no remission.",
+    "bibliography": []
+   }
+  ],
+  "3:14": [
+   {
+    "source": "Nehemiah 4:9",
+    "type": "echo",
+    "subtype": "possible",
+    "confidence": "moderate",
+    "evidence": {
+     "vocabulary": 3,
+     "syntax": 2,
+     "sequence": 4,
+     "context": 5,
+     "rarity": 3,
+     "attestation": 0
+    },
+    "kjvSpecific": "uncertain",
+    "mediation": "direct-OT",
+    "composite": [
+     "Nehemiah 4:13",
+     "Nehemiah 4:16",
+     "Nehemiah 4:22"
+    ],
+    "recurrenceRefs": [
+     "3 Nephi 3:12",
+     "3 Nephi 3:25",
+     "3 Nephi 3:26"
+    ],
+    "provenance": {
+     "route": "Nehemiah 4:9 (with 4:13-22) → KJV → Book of Mormon",
+     "other": "“a watch against” occurs in exactly one KJV verse, Nehemiah 4:9, and “set a watch” occurs in exactly two (Nehemiah 4:9 and Psalm 141:3, which is about the mouth). Neither string is reproduced here; what the Book of Mormon has is the collocation of praying, watching and “day and night” against a named enemy, and “day and night” by itself occurs in exactly 28 KJV verses and settles nothing.",
+     "significance": "Nehemiah 4 is the King James Bible’s one sustained account of a people fortifying a place against a threatened raid, and 3 Nephi 3:12-26 reproduces its whole programme in Nehemiah’s order: prayer to God for strength (3:12; Nehemiah 4:9a), fortifications built (3:14; Nehemiah 4:6), a watch set round about against the enemy day and night (3:14; Nehemiah 4:9b, 4:22), armament with shields and bucklers under one commander’s direction (3:26; Nehemiah 4:13, 4:16), and the enemy’s design frustrated without a battle. Nehemiah’s enemies are also, like the Gadianton band, an adversary drawn partly from within the province."
+    },
+    "note": "“Guards round about, to watch them, and to guard them from the robbers, day and night”, preceded two verses earlier by a governor causing his people to “cry unto the Lord for strength”. Recorded as an echo, at the level of the paragraph rather than the phrase: no clause of Nehemiah 4 is reproduced, but the chapter is the KJV’s only template for what Lachoneus does, and the Book of Mormon runs the template’s items in the template’s order across 3:12-26.",
+    "whyNot": "Every individual element is common. Fortifying, watching and praying under threat are what any besieged people do, and the only rare string in the source (“a watch against”) is not in the Book of Mormon at all. If this row is right it is right about the shape of a chapter, which is the weakest kind of evidence in the apparatus and the easiest to construct after the fact.",
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "manual"
+    ],
+    "text": "Nevertheless we made our prayer unto our God, and set a watch against them day and night, because of them.",
+    "bibliography": []
+   }
+  ],
+  "3:19": [
+   {
+    "source": "Revelation 19:10",
+    "type": "echo",
+    "subtype": "conceptual",
+    "confidence": "moderate",
+    "evidence": {
+     "vocabulary": 3,
+     "syntax": 2,
+     "sequence": 2,
+     "context": 4,
+     "rarity": 4,
+     "attestation": 0
+    },
+    "kjvSpecific": "uncertain",
+    "mediation": "direct-NT",
+    "composite": [
+     "Ephesians 1:17"
+    ],
+    "provenance": {
+     "route": "Ephesians 1:17 + Revelation 19:10 → KJV → Book of Mormon",
+     "other": "The Book of Mormon’s pairing has no single KJV carrier and has to be assembled from two. “the spirit of prophecy” occurs in exactly one KJV verse, Revelation 19:10; “the spirit of wisdom and revelation” occurs in exactly one KJV verse, Ephesians 1:17. “spirit of revelation” on its own occurs in exactly 0 KJV verses, which is the fact that keeps kjvSpecific at ‘uncertain’: half the formula is not King James English.",
+     "significance": "The chapter is defining a Nephite constitutional rule — that the commander of the armies must be a man with the spirit of revelation and of prophecy, except in times of wickedness — and it defines it with the two KJV phrases that treat prophecy and revelation as a possessed faculty rather than an event. Revelation 19:10 is where the New Testament identifies that faculty with “the testimony of Jesus”, which is a striking thing to have standing behind a rule about who may command an army. The catalogue records the composite rather than choosing between the halves, because the Book of Mormon’s sentence is a fusion and not a citation of either."
+    },
+    "note": "“Some one that had the spirit of revelation, and also of prophecy.” Proposed under CONVENTIONS §0a as a composite: neither half of the formula is the Book of Mormon’s invention, both halves are KJV singletons, and no KJV verse joins them. What makes it worth a row rather than silence is that the phrase is doing institutional work here — it is the stated qualification for high command — and that its two sources are the KJV’s two verses about a permanent spiritual endowment.",
+    "whyNot": "“Spirit of revelation” is not a KJV phrase, and the pairing of revelation with prophecy is common enough in nineteenth-century religious English (and in the Book of Mormon’s own usage) to need no biblical model. A reader who declines this row loses nothing but the observation that the two halves are separately rare.",
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "manual"
+    ],
+    "text": "And I fell at his feet to worship him. And he said unto me, See thou do it not: I am thy fellowservant, and of thy brethren that have the testimony of Jesus: worship God: for the testimony of Jesus is the spirit of prophecy.",
+    "bibliography": []
+   }
+  ],
+  "3:20": [
+   {
+    "source": "Deuteronomy 1:41",
+    "type": "figural",
+    "subtype": "type-scene",
+    "confidence": "moderate",
+    "evidence": {
+     "vocabulary": 2,
+     "syntax": 2,
+     "sequence": 5,
+     "context": 5,
+     "rarity": 3,
+     "attestation": 0
+    },
+    "kjvSpecific": "no",
+    "mediation": "direct-OT",
+    "composite": [
+     "Deuteronomy 1:42",
+     "Deuteronomy 1:43",
+     "Numbers 14:40",
+     "Numbers 14:42",
+     "Numbers 14:45"
+    ],
+    "recurrenceRefs": [
+     "3 Nephi 3:21",
+     "3 Nephi 3:26"
+    ],
+    "provenance": {
+     "route": "Deuteronomy 1:41-44, with its Numbers 14:40-45 parallel → KJV → Book of Mormon (narrative form)",
+     "other": "Verbal contact is slight and is honestly reported as such. “let us go up” occurs in exactly six KJV verses and none of them is this story; the shared elements are ‘go up’, the mountain and the proposal to fight, all common. “weapons of war”, which is Deuteronomy 1:41’s distinctive noun phrase and reappears at 3 Nephi 3:26, occurs in exactly 9 KJV verses and cannot carry weight on its own.",
+     "significance": "The King James Bible has one scene in which a people proposes, on its own initiative, to go up into the mountain and fall upon its enemies, and is told not to. Numbers 14:40-42 and its retelling at Deuteronomy 1:41-43 give the oracle in the form Gidgiddoni gives it: ‘Go not up … that ye be not smitten before your enemies’, because the LORD is not among you. In Deuteronomy they gird on their weapons of war, go up presumptuously anyway, and are chased ‘as bees do’ and destroyed. 3 Nephi 3:20-26 runs the same scene and inverts its outcome at every joint: the people propose the ascent, the prophet-commander forbids it in the same terms (‘if we should go up against them, the Lord would deliver us into their hands’), the people obey, and the arming with weapons of war that in Deuteronomy 1:41 precedes disobedience here follows obedience, at 3:26, as preparation for waiting. The unstated correspondence is that the Nephites at Zarahemla are the Exodus generation given a second run at Hormah, and they pass."
+    },
+    "note": "“Pray unto the Lord, and let us go up upon the mountains, and into the wilderness, that we may fall upon the robbers and destroy them, in their own lands.” No wording is borrowed; the scene is. What makes it more than a coincidence of military common sense is the completeness of the sequence — popular initiative, ascent into the hill country, a prophet’s refusal on the ground that the Lord would not be with them, and the arming that follows — and the fact that Gidgiddoni’s reply at 3:21 is built out of King James idiom from a different but adjacent refusal (1 Samuel 26:10-11, catalogued at that verse). The catalogue records this one as figural and expects a reader to be able to decline it.",
+    "whyNot": "There is no distinctive shared wording, and a besieged people wanting to take the offensive while its commander refuses is the commonest situation in the literature of war. The Deuteronomy scene turns on the presence or absence of the LORD among a rebellious people; nothing in 3 Nephi 3 says the Nephites who propose the sortie are rebelling, and they obey at once.",
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "manual"
+    ],
+    "text": "Then ye answered and said unto me, We have sinned against the LORD, we will go up and fight, according to all that the LORD our God commanded us. And when ye had girded on every man his weapons of war, ye were ready to go up into the hill.",
+    "bibliography": []
+   }
+  ],
+  "3:21": [
+   {
+    "source": "1 Samuel 26:11",
+    "type": "allusion",
+    "subtype": "close-verbal",
+    "confidence": "high",
+    "evidence": {
+     "vocabulary": 4,
+     "syntax": 3,
+     "sequence": 4,
+     "context": 5,
+     "rarity": 4,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-OT",
+    "composite": [
+     "1 Samuel 26:10",
+     "1 Samuel 24:6",
+     "1 Kings 21:3"
+    ],
+    "provenance": {
+     "route": "1 Samuel 26:10-11 → KJV → Book of Mormon",
+     "other": "“the Lord forbid” occurs in exactly three KJV verses — 1 Samuel 24:6, 1 Samuel 26:11 and 1 Kings 21:3 — and “as the Lord liveth” occurs in exactly 27, which alone would prove nothing. What locates the source is that 3 Nephi 3:21 uses both idioms inside one speech, and the only place in the King James Bible where they stand in adjacent verses is 1 Samuel 26:10-11: ‘As the LORD liveth, the LORD shall smite him … The LORD forbid that I should stretch forth mine hand against the LORD’s anointed.’ tools/mediation-check.py was run on 1 Samuel 26:10 against 1 Samuel 24:6 and found no decisive divergence — the two Davidic refusals are worded too alike at the points 3:21 reproduces — so the case for chapter 26 rests on the adjacency of the two idioms rather than on a word.",
+     "significance": "The two idioms come with an argument attached, and it is Gidgiddoni’s argument. David refuses to strike an enemy who is delivered into his hand, and gives as his reason that the LORD will do it in his own time and by his own means — ‘the LORD shall smite him; or his day shall come to die; or he shall descend into battle, and perish’ — so that the right course is to decline the initiative and wait. Gidgiddoni refuses to go up against the robbers, on the ground that going up would deliver his people into their hands and waiting will deliver them into his: ‘we will not go against them, but we will wait till they shall come against us; therefore, as the Lord liveth, if we do this, he will deliver them into our hands.’ Recover the source and the strategic doctrine the chapter is famous for is the Davidic refusal to take a providential shortcut, argued in the KJV’s own two oath-formulas for that refusal. It also puts a hard edge on the scene: what David declines to strike is the LORD’s anointed, and what Gidgiddoni declines to strike is a band drawn from his own countrymen (3:11)."
+    },
+    "note": "“The Lord forbid; for if we should go up against them, the Lord would deliver us into their hands … therefore, as the Lord liveth, if we do this, he will deliver them into our hands.” Neither formula is rare enough to identify a source by itself, but their co-occurrence is: 1 Samuel 26:10-11 is the one place in the KJV where they stand together, and it is a refusal to take the offensive argued exactly as Gidgiddoni argues it. This is what CONVENTIONS §3 means by confidence decoupled from volume — the shared text is two stock phrases, and the dependence is nevertheless the best explanation, because the phrases arrive together and bring their argument with them.",
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "machine-ngram",
+     "manual"
+    ],
+    "text": "The LORD forbid that I should stretch forth mine hand against the LORD’s anointed: but, I pray thee, take thou now the spear that is at his bolster, and the cruse of water, and let us go.",
+    "bibliography": []
+   }
+  ],
+  "3:22": [
+   {
+    "source": "Ezra 10:7",
+    "type": "allusion",
+    "subtype": "close-verbal",
+    "confidence": "moderate",
+    "evidence": {
+     "vocabulary": 4,
+     "syntax": 4,
+     "sequence": 4,
+     "context": 4,
+     "rarity": 3,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-OT",
+    "recurrenceRefs": [
+     "3 Nephi 3:13",
+     "3 Nephi 3:24",
+     "3 Nephi 3:25"
+    ],
+    "provenance": {
+     "route": "Ezra 10:7 → KJV → Book of Mormon",
+     "other": "“made proclamation” occurs in exactly two KJV verses, Exodus 32:5 and Ezra 10:7; “gather themselves together” occurs in exactly 8. Ezra 10:7 is the only KJV verse that has both, and it is the only one in which a proclamation is issued throughout a territory ordering a whole people to gather themselves together to one city. The Book of Mormon reproduces the five-word run ‘that they should gather themselves together’ at 3:22 and again at 3:24, in each case governed by Lachoneus’ proclamation ‘gone forth throughout all the face of the land’.",
+     "significance": "Ezra 10 is not just the right vocabulary but the right event. A proclamation goes out through Judah and Jerusalem; everyone assembles at one place within three days on pain of forfeiting his substance (10:8); they sit trembling in the open, confess, and repent. 3 Nephi 3:13-25 does all of it — proclamation through the whole land, gathering to one appointed place with the flocks and herds and all their substance, and then, at 3:25, ‘they did fear the words which had been spoken by Lachoneus, insomuch that they did repent of all their sins’. The KJV’s one mass gathering-by-proclamation is also its one mass gathering that ends in national repentance, which is what the Book of Mormon needs this gathering to do."
+    },
+    "note": "“The proclamation of Lachoneus had gone forth throughout all the face of the land … to the place which had been appointed, that they should gather themselves together.” A five-word run plus ‘proclamation … throughout’, from the one KJV verse that joins the two. The link is placed here rather than at 3:13, where the proclamation is first issued, because 3:13 has only ‘gather together’ and the reflexive that matches Ezra is at 3:22; the register carries a cross-reference at 3:13 pointing here (CONVENTIONS §6a).",
+    "whyNot": "Both halves of the phrase are ordinary King James administrative English, and a writer describing a general muster would arrive at ‘proclamation’ and ‘gather themselves together’ without a model. The row rests on the two appearing together and on the repentance at 3:25, not on anything unrepeatable.",
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "machine-ngram",
+     "manual"
+    ],
+    "text": "And they made proclamation throughout Judah and Jerusalem unto all the children of the captivity, that they should gather themselves together unto Jerusalem;",
+    "bibliography": []
+   }
+  ],
+  "3:26": [
+   {
+    "source": "Matthew 26:22",
+    "type": "allusion",
+    "subtype": "close-verbal",
+    "confidence": "high",
+    "evidence": {
+     "vocabulary": 5,
+     "syntax": 5,
+     "sequence": 5,
+     "context": 3,
+     "rarity": 5,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "composite": [
+     "Mark 14:19"
+    ],
+    "provenance": {
+     "route": "Matthew 26:22 → KJV → Book of Mormon",
+     "other": "“were exceeding sorrowful” occurs in exactly one KJV verse, Matthew 26:22, and the 1830 reproduces its opening five words exactly: ‘And they were exceeding sorrowful’. tools/mediation-check.py was run against the Markan parallel, Mark 14:19, and returned one decisive point: the Book of Mormon has Matthew’s ‘were exceeding’ and not Mark’s ‘began to be’. The wider phrase ‘exceeding sorrowful’ occurs in exactly three KJV verses — Matthew 26:22, Matthew 26:38 and Mark 14:34, the last two both Gethsemane — so every carrier of the phrase belongs to one night.",
+     "significance": "This is a CONVENTIONS §8 case of the strongest kind: the borrowing is visible in the running text and invisible in the modern one. 1830 reads ‘And they were exceeding sorrowful’; the 1920 edition regularized ‘exceeding’ to ‘exceedingly’, and “exceedingly sorrowful” occurs in exactly 0 KJV verses, so a reader of the current text has no way to see that the sentence begins with five words of Matthew. Recover the source and the transfer is pointed. Matthew 26:22 is the Twelve’s reaction to ‘one of you shall betray me’ — the KJV’s one company grieving over treachery from inside its own number. 3 Nephi 3:26 applies it to a people whose besiegers are, by the narrator’s own account at 3:11, dissenters from among themselves, men ‘that had received no wrong, save it were they had wronged themselves, by dissenting away’. The sorrow is not fear of an army; it is grief at defection, which is what the source verse is about."
+    },
+    "note": "“And they were exceeding sorrowful because of their enemy.” Five words of a KJV singleton, in the same grammatical position, opening the sentence as it opens Matthew’s. Below Skousen’s sixteen-word threshold and catalogued as an allusion rather than a quotation, but the rarity is absolute, the mediation test decides against Mark, and the 1830 preserves the form the 1920 destroyed. The context score is held at 3 because a besieged people grieving is not, on its face, the Last Supper; the reading offered in `significance` — that the grief in both places is grief at betrayal from within — is an argument a reader may decline without touching the verbal case.",
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "machine-ngram",
+     "manual"
+    ],
+    "text": "And they were exceeding sorrowful, and began every one of them to say unto him, Lord, is it I?",
+    "bibliography": []
+   }
+  ],
+  "3:13": [
+   {
+    "source": "Genesis 12:5",
+    "type": "allusion",
+    "subtype": "close-verbal",
+    "confidence": "high",
+    "evidence": {
+     "vocabulary": 4,
+     "syntax": 3,
+     "sequence": 3,
+     "context": 4,
+     "rarity": 5,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-OT",
+    "composite": [
+     "Genesis 46:32",
+     "Genesis 47:1"
+    ],
+    "provenance": {
+     "route": "Genesis 12:5 + Genesis 46:32-47:1 (two patriarchal migrations) → KJV → Book of Mormon",
+     "other": "“and all their substance” occurs in exactly one KJV verse, Genesis 12:5, Abram's own departure from Haran carrying \"all their substance that they had gathered.\" “flocks and their herds and all” occurs in exactly two, Genesis 46:32 and 47:1, Jacob's household bringing their flocks and herds down into Egypt. Lachoneus's proclamation fuses both: “their flocks and their herds, and all their substance”.",
+     "significance": "Two migrations answer to two motives. Abram's move is a call away from a besieging famine toward a promise; Jacob's is flight from a famine into a foreign king's protection. Lachoneus's gathering is neither a call nor a flight to safety abroad but a mustering against robbers, ordered by a native governor rather than God or Pharaoh — the vocabulary of patriarchal migration applied to a wartime evacuation. The verse is quoted again in summary at 3 Nephi 4:3 (an exclusion, see that row), so the phrase is used twice for the one event: commanded here, executed there."
+    },
+    "note": "“Their flocks and their herds, and all their substance” welds Genesis 12:5's KJV singleton to the two-verse phrase of Genesis 46:32/47:1 in one clause. Both are Genesis migrations carrying a household's substance to a place of safety; Lachoneus's proclamation borrows the vocabulary of patriarchal relocation for a defensive gathering of the whole Nephite nation into one place.",
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "machine-ngram",
+     "manual"
+    ],
+    "text": "And Abram took Sarai his wife, and Lot his brother’s son, and all their substance that they had gathered, and the souls that they had gotten in Haran; and they went forth to go into the land of Canaan; and into the land of Canaan they came.",
+    "bibliography": []
+   }
+  ]
+ }
+}

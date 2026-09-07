@@ -1,0 +1,478 @@
+{
+ "chapter": 10,
+ "adjudicated": "2026-09-07",
+ "adjudicator": "Opus",
+ "links": {
+  "10:1": [
+   {
+    "source": "Revelation 8:1",
+    "type": "allusion",
+    "subtype": "close-verbal",
+    "confidence": "moderate",
+    "text": "And when he had opened the seventh seal, there was silence in heaven about the space of half an hour.",
+    "evidence": {
+     "vocabulary": 4,
+     "syntax": 4,
+     "sequence": 3,
+     "context": 5,
+     "rarity": 5,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "recurrenceRefs": [
+     "3 Nephi 10:2"
+    ],
+    "provenance": {
+     "route": "Revelation 8:1 → KJV → Book of Mormon",
+     "other": "“there was silence in” occurs in exactly one KJV verse, and “space of half an hour” occurs in exactly one KJV verse — the same one. “the space of” by itself occurs in sixteen, so the measured interval is ordinary KJV idiom; what is not ordinary is silence being the thing measured. Revelation 8:1 is the only verse in the Bible where a silence is given a duration.",
+     "alternative": "‘Silence in the land’ could be plain English narration, and the Book of Mormon's own destruction sequence (3 Nephi 8) supplies every other element of the scene without help from Revelation.",
+     "significance": "Recover Revelation 8:1's context and the borrowing acquires a position in a sequence. The silence at the opening of the seventh seal is an interval between judgments: the seals are finished, the seven trumpets have not yet sounded, and heaven waits. 3 Nephi 10:1-2 puts its silence at the same joint. The three days of destruction are over, the voice has not yet spoken again, and the people stop howling for the space of many hours. In Revelation the silence precedes the trumpet-angels; here it precedes the voice of Christ at 10:3, and then a second, longer silence of the whole book — the ministry itself — begins at chapter 11. The catalogue notes the parallel without claiming the writer worked it out: what is demonstrable is that the one KJV sentence about a timed silence stands behind this one."
+    },
+    "note": "‘And after these sayings there was silence in the land for the space of many hours … therefore there was silence in all the land for the space of many hours.’ The clause is repeated at 10:2, which is itself a signal that it is being handled as a formula rather than composed twice. Four of its words are Revelation 8:1's in order, and the frame around them — a silence quantified in hours — is Revelation 8:1's and nobody else's in the King James Bible. The differences are the differences of scale a translator of an apocalypse into a chronicle would make: heaven becomes the land, half an hour becomes many hours. This falls well below Skousen's sixteen-word threshold and is not one of his passages; it is catalogued as an allusion on rarity, not on length.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "machine-ngram",
+     "manual"
+    ]
+   }
+  ],
+  "10:4": [
+   {
+    "source": "Matthew 23:37",
+    "type": "quotation",
+    "subtype": "explicit",
+    "confidence": "certain",
+    "text": "O Jerusalem, Jerusalem, thou that killest the prophets, and stonest them which are sent unto thee, how often would I have gathered thy children together, even as a hen gathereth her chickens under her wings, and ye would not!",
+    "evidence": {
+     "vocabulary": 5,
+     "syntax": 5,
+     "sequence": 5,
+     "context": 5,
+     "rarity": 5,
+     "attestation": 3
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "composite": [
+     "Luke 13:34"
+    ],
+    "recurrenceRefs": [
+     "3 Nephi 8:25",
+     "3 Nephi 10:5",
+     "3 Nephi 10:6",
+     "3 Nephi 10:12"
+    ],
+    "provenance": {
+     "route": "Matthew 23:37 → KJV → Book of Mormon",
+     "other": "“hen gathereth her chickens” occurs in exactly one KJV verse; “under her wings” occurs in exactly two, Matthew 23:37 and its Lukan parallel at Luke 13:34. Luke's form of the clause is ‘as a hen doth gather her brood under her wings’. The Book of Mormon has ‘gathereth’ and ‘chickens’, which are Matthew's two words and not Luke's two words.",
+     "significance": "The Book of Mormon does not quote the lament once; it conjugates it. Matthew has one verb in one tense — a completed refusal, ‘how often WOULD I have gathered you … and ye would not’. 3 Nephi 10 says it three times in three tenses: ‘how oft HAVE I gathered you … and have nourished you’ (10:4), ‘how oft WOULD I have gathered you … and ye would not’ (10:5, Matthew's own form), ‘how oft WILL I gather you … if ye will repent’ (10:6). The New Testament's closed lament over a city already judged is opened at both ends: backwards into a history of care, forwards into an offer. That is the argument of the chapter, and it is made by inflecting a borrowed sentence."
+    },
+    "note": "‘How oft have I gathered you as a hen gathereth her chickens under her wings, and have nourished you.’ Ten consecutive words of Matthew 23:37, from the only verse in the KJV containing ‘hen gathereth her chickens’. The mediation test is between the two Synoptic forms, not between an Old Testament source and its New Testament citation, and it is decisive on two independent points: the Book of Mormon has Matthew's finite ‘gathereth’ against Luke's periphrastic ‘doth gather’, and Matthew's ‘chickens’ against Luke's ‘brood’. Both are Matthew's. Note what is added and what is dropped: the addressees are no longer ‘O Jerusalem, Jerusalem’ but ‘O ye people of these great cities which have fallen’, and the speaker's opening clause about killing and stoning prophets is withheld — it returns, transposed, at 10:12.",
+    "bibliography": [],
+    "status": "consensus",
+    "citationsPending": true,
+    "streams": [
+     "machine-ngram",
+     "manual"
+    ]
+   },
+   {
+    "source": "Isaiah 1:2",
+    "type": "allusion",
+    "subtype": "strong-verbal",
+    "confidence": "moderate",
+    "text": "Hear, O heavens, and give ear, O earth: for the LORD hath spoken, I have nourished and brought up children, and they have rebelled against me.",
+    "evidence": {
+     "vocabulary": 3,
+     "syntax": 3,
+     "sequence": 3,
+     "context": 5,
+     "rarity": 4,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-OT",
+    "provenance": {
+     "route": "Isaiah 1:2 → KJV → Book of Mormon",
+     "other": "“nourished and brought up” occurs in exactly one KJV verse. ‘Nourished’ in any form occurs in ten, and Isaiah 1:2 is the only one of the ten in which God is the subject and his own people are the object.",
+     "significance": "The added clause supplies what Matthew's lament assumes but never states — the history of care that makes the refusal culpable. In the King James Bible that history has one classic expression, and it is the opening of Isaiah's prophetic lawsuit, addressed to heaven and earth as witnesses against a nation. Bringing Isaiah 1:2 into the hen sentence lets the Book of Mormon say in one breath what Isaiah and Matthew say separately: I fed you, and you would not."
+    },
+    "note": "‘… and have nourished you.’ Matthew 23:37 has no such clause; the Book of Mormon adds four words to a sentence it is otherwise reproducing exactly, and the addition is the point of interest. The KJV's one verse in which God nourishes his people is Isaiah 1:2, where the nourishing is immediately answered by rebellion — which is the answer 10:5 goes on to give in Matthew's own words, ‘and ye would not’. The verbal contact is a single participle, so this is recorded as an allusion and no higher.",
+    "whyNot": "Only one content word is shared. ‘Nourish’ is a natural verb to reach for once the image is a hen and her chickens, and a writer could arrive at it from the metaphor alone without Isaiah 1:2 in view.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "manual"
+    ]
+   }
+  ],
+  "10:5": [
+   {
+    "source": "Matthew 23:37",
+    "type": "quotation",
+    "subtype": "extended",
+    "confidence": "certain",
+    "text": "O Jerusalem, Jerusalem, thou that killest the prophets, and stonest them which are sent unto thee, how often would I have gathered thy children together, even as a hen gathereth her chickens under her wings, and ye would not!",
+    "evidence": {
+     "vocabulary": 5,
+     "syntax": 5,
+     "sequence": 5,
+     "context": 5,
+     "rarity": 5,
+     "attestation": 3
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "recurrenceRefs": [
+     "3 Nephi 8:25",
+     "3 Nephi 10:4",
+     "3 Nephi 10:6"
+    ],
+    "provenance": {
+     "route": "Matthew 23:37 → KJV → Book of Mormon",
+     "other": "“and ye would not” occurs in exactly five KJV verses — Genesis 42:22, Deuteronomy 1:43, Isaiah 30:15, Matthew 23:37 and Luke 13:34 — and in all five it closes a divine or paternal reproach. On its own it would identify nothing; sitting nine words after ‘hen gathereth her chickens’ it is the last clause of the verse being quoted.",
+     "significance": "Verse 5 is the member of the triad in which the borrowing is exact, and it is also the member in which Jerusalem re-enters. Matthew's lament is addressed to a city; the Book of Mormon has readdressed it to the fallen cities of the New World; and here, mid-sentence, the original addressee is folded back in — ‘ye that dwell at Jerusalem, as ye that have fallen’. The two audiences are made one audience by a comparison, and the sentence that judged Jerusalem is thereby made to judge Zarahemla on the same terms."
+    },
+    "note": "‘How oft would I have gathered you, as a hen gathereth her chickens under her wings … and ye would not.’ Adjudicated as a distinct row from 10:4 rather than as a repetition, because this is the verse that carries Matthew's own tense and Matthew's own closing clause, both of which 10:4 replaced. The Book of Mormon says the sentence three times and only once says it as Matthew says it; that once is here. See 10:4 for the mediation test against Luke 13:34, which the Matthaean ‘gathereth’ and ‘chickens’ decide on two independent points.",
+    "bibliography": [],
+    "status": "consensus",
+    "citationsPending": true,
+    "streams": [
+     "machine-ngram",
+     "manual"
+    ]
+   },
+   {
+    "source": "Acts 2:14",
+    "type": "allusion",
+    "subtype": "close-verbal",
+    "confidence": "moderate",
+    "text": "But Peter, standing up with the eleven, lifted up his voice, and said unto them, Ye men of Judaea, and all ye that dwell at Jerusalem, be this known unto you, and hearken to my words:",
+    "evidence": {
+     "vocabulary": 4,
+     "syntax": 4,
+     "sequence": 2,
+     "context": 4,
+     "rarity": 5,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "recurrenceRefs": [
+     "3 Nephi 10:13"
+    ],
+    "provenance": {
+     "route": "Acts 2:14 → KJV → Book of Mormon",
+     "other": "“ye that dwell at Jerusalem” occurs in exactly one KJV verse. The KJV's usual formulae are ‘the inhabitants of Jerusalem’ (some two dozen verses) and ‘them that dwell in Jerusalem’ (Acts 1:19, Acts 13:27); ‘dwell AT Jerusalem’ with this preposition is Peter's alone.",
+     "significance": "This chapter reaches into Acts 2 twice. Peter's Pentecost address opens with ‘all ye that dwell at Jerusalem’ and reaches its prophetic climax at Acts 2:19, ‘blood, and fire, and vapour of smoke’ — which is the verse standing behind 3 Nephi 10:13's catalogue of deaths. A voice from heaven addressing survivors of a darkness and an earthquake, and doing so in the vocabulary of the sermon that interprets exactly such signs as the last days, is a coherent use of one chapter and not two coincidences."
+    },
+    "note": "‘Ye that dwell at Jerusalem, as ye that have fallen.’ Five words from a KJV singleton, dropped into the middle of the Matthew 23:37 quotation. The interesting thing is the syntax it lands in: Matthew's lament was addressed TO Jerusalem, and here Jerusalem is a third party compared to the addressees rather than the addressee itself. Acts 2:14 is the KJV verse that supplies a way of naming the residents of Jerusalem in the vocative-adjacent ‘ye that’ construction the sentence needs.",
+    "whyNot": "Five words, one of which is a place-name the context requires in any case, and no other contact with Acts 2:14's sentence. A writer needing to say ‘you who live in Jerusalem’ has few English options and this is one of them.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "machine-ngram",
+     "manual"
+    ]
+   }
+  ],
+  "10:6": [
+   {
+    "source": "Jeremiah 24:7",
+    "type": "allusion",
+    "subtype": "close-verbal",
+    "confidence": "moderate",
+    "text": "And I will give them an heart to know me, that I am the LORD: and they shall be my people, and I will be their God: for they shall return unto me with their whole heart.",
+    "evidence": {
+     "vocabulary": 4,
+     "syntax": 4,
+     "sequence": 3,
+     "context": 5,
+     "rarity": 4,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-OT",
+    "composite": [
+     "Acts 11:23"
+    ],
+    "recurrenceRefs": [
+     "3 Nephi 10:4",
+     "3 Nephi 10:5"
+    ],
+    "provenance": {
+     "route": "Jeremiah 24:7 → KJV → Book of Mormon",
+     "other": "“return unto me with” occurs in exactly one KJV verse, and it continues ‘their whole heart’. The Book of Mormon reads ‘return unto me with full purpose of heart’. “purpose of heart” also occurs in exactly one KJV verse, Acts 11:23; ‘full purpose of heart’ occurs in none. The Book of Mormon phrase is a splice of the two, keeping Jeremiah's clause and substituting Acts's noun for Jeremiah's ‘whole’.",
+     "significance": "Jeremiah 24 is the vision of the two baskets of figs, and 24:7 is the promise attached to the good figs — the exiles carried away to Babylon, whom God will bring back and give a heart to know him. 3 Nephi 10:6 is spoken to the survivors of a national catastrophe on precisely that model: a spared remnant, sorted from a destroyed majority, offered a return conditional on their heart. The verse the Book of Mormon reaches for is the KJV's own promise to the sorted-and-spared, and 10:12's account of who was spared is a sorting of good figs from bad in all but the image."
+    },
+    "note": "‘How oft will I gather you as a hen gathereth her chickens under her wings, if ye will repent and return unto me with full purpose of heart.’ The hen clause is Matthew 23:37, adjudicated at 10:4-5, and is not re-argued here; what is new in verse 6 is the condition attached to it, and the condition is Jeremiah's. The substitution of ‘full purpose’ for ‘whole heart’ is a genuine improvement on the source's rhythm and is the phrase the Book of Mormon then uses as a formula elsewhere, which is what one would expect of a borrowing that has been absorbed rather than transcribed.",
+    "whyNot": "Four words, and ‘return unto me’ is the standard KJV language of repentance (Joel 2:12, Zechariah 1:3, Malachi 3:7 all have a form of it). The singleton status of “return unto me with” is partly an artifact of the preposition.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "machine-ngram",
+     "manual"
+    ]
+   }
+  ],
+  "10:7": [
+   {
+    "source": "Matthew 23:38",
+    "type": "allusion",
+    "subtype": "conceptual",
+    "confidence": "moderate",
+    "text": "Behold, your house is left unto you desolate.",
+    "evidence": {
+     "vocabulary": 2,
+     "syntax": 2,
+     "sequence": 5,
+     "context": 5,
+     "rarity": 2,
+     "attestation": 0
+    },
+    "kjvSpecific": "uncertain",
+    "mediation": "direct-NT",
+    "composite": [
+     "Ezekiel 6:6"
+    ],
+    "recurrenceRefs": [
+     "3 Nephi 10:5"
+    ],
+    "provenance": {
+     "route": "Matthew 23:37-38 → KJV → Book of Mormon",
+     "other": "“left unto you desolate” occurs in exactly two KJV verses, Matthew 23:38 and Luke 13:35, so the Synoptic test that decided 10:4 cannot be run here — the Book of Mormon shares none of the four distinctive words. The wording it does share is Ezekiel's: “your dwellingplaces” occurs in exactly one KJV verse, Ezekiel 6:6, where the cities in them are laid waste and the high places made desolate. ‘The places of your dwellings’ is that compound noun unpacked.",
+     "significance": "The case rests on sequence, and the sequence is the finding. 3 Nephi 10:5 quotes Matthew 23:37; 3 Nephi 10:7 says what Matthew 23:38 says, in the same position and as the same consequence of the same refusal; and 3 Nephi 10:14 quotes Matthew 24:15 verbatim. Three consecutive stations of the Olivet material appear in the Book of Mormon in the source's own order, spread across ten verses. The one substantive departure is doctrinal rather than verbal: Matthew's desolation is announced flatly, and the Book of Mormon's is conditional — ‘But if not’ — and bounded, ‘until the time of the fulfilling of the covenant to your fathers’. The verse takes Matthew's sentence of abandonment and gives it a term."
+    },
+    "note": "‘But if not, O house of Israel, the places of your dwellings shall become desolate, until the time of the fulfilling of the covenant to your fathers.’ What follows the hen lament in Matthew is the desolation of the house, and what follows it here is the desolation of the dwellings; the position in the argument is identical and the wording is not. The verbal supply comes instead from Ezekiel 6:6, whose ‘dwellingplaces’ is the KJV's one word for the thing being made desolate. This row is filed on the strength of its place in a sequence rather than on shared vocabulary, and it should be read as the middle term between 10:5 and 10:14 rather than as a link that would stand alone.",
+    "whyNot": "Outside the word ‘desolate’ there is no verbal contact with Matthew 23:38 at all, and ‘desolate’ occurs in well over a hundred KJV verses. Withdraw this row if the Matthew 24:15 quotation at 10:14 is ever shown to have reached the chapter independently of Matthew 23, since the sequence argument is the whole of the case.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "manual"
+    ]
+   }
+  ],
+  "10:10": [
+   {
+    "source": "Jeremiah 31:13",
+    "type": "allusion",
+    "subtype": "close-verbal",
+    "confidence": "high",
+    "text": "Then shall the virgin rejoice in the dance, both young men and old together: for I will turn their mourning into joy, and will comfort them, and make them rejoice from their sorrow.",
+    "evidence": {
+     "vocabulary": 4,
+     "syntax": 4,
+     "sequence": 4,
+     "context": 5,
+     "rarity": 5,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-OT",
+    "composite": [
+     "John 16:20"
+    ],
+    "provenance": {
+     "route": "Jeremiah 31:13 → KJV → Book of Mormon",
+     "other": "“mourning into joy” occurs in exactly one KJV verse. The passive construction the Book of Mormon uses — ‘was turned into joy’ — is John 16:20's, where the subject is ‘your sorrow’; “turned into joy” occurs in exactly two KJV verses, John 16:20 and Job 41:22. So the nouns are Jeremiah's and the voice of the verb is John's.",
+     "significance": "Jeremiah 31 is the chapter of the new covenant with the house of Israel — ‘I will make a new covenant with the house of Israel’ (31:31) — and of Rachel weeping for her children and refusing to be comforted. Three verses earlier this chapter said ‘until the time of the fulfilling of the covenant to your fathers’ (10:7) and addressed ‘O house of Israel’ (10:6). The mourners whose mourning is turned to joy at 10:10 are therefore being described in the words of the KJV's one promise to turn Israel's mourning to joy, taken from the KJV's principal chapter about the covenant that 10:7 has just named as the term of their desolation. The two verses are three apart in the Book of Mormon and twenty apart in Jeremiah, and they are doing one thing."
+    },
+    "note": "‘And their mourning was turned into joy, and their lamentations into the praise and thanksgiving unto the Lord Jesus Christ, their Redeemer.’ The reversal formula is Jeremiah 31:13's, with Jeremiah's active promise (‘I will turn’) reported as an accomplished passive, which is how a chronicle records a fulfilled oracle. That the passive is also John 16:20's form is worth recording but is not needed for the case: John has ‘sorrow’ where both Jeremiah and the Book of Mormon have ‘mourning’, which is the word that carries the rarity.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "manual"
+    ]
+   }
+  ],
+  "10:12": [
+   {
+    "source": "Matthew 23:37",
+    "type": "allusion",
+    "subtype": "strong-verbal",
+    "confidence": "high",
+    "text": "O Jerusalem, Jerusalem, thou that killest the prophets, and stonest them which are sent unto thee, how often would I have gathered thy children together, even as a hen gathereth her chickens under her wings, and ye would not!",
+    "evidence": {
+     "vocabulary": 4,
+     "syntax": 3,
+     "sequence": 4,
+     "context": 5,
+     "rarity": 5,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "recurrenceRefs": [
+     "3 Nephi 8:25",
+     "3 Nephi 10:4",
+     "3 Nephi 10:5"
+    ],
+    "provenance": {
+     "route": "Matthew 23:37 → KJV → Book of Mormon",
+     "other": "“killest the prophets” occurs in exactly two KJV verses and “stonest them” occurs in exactly two — Matthew 23:37 and Luke 13:34 in both cases, which is to say the clause exists in the KJV only as the opening of this lament. “them which are sent unto thee” occurs in exactly one KJV verse, and it is Matthew's form of the relative; Luke has ‘them that are sent unto thee’. Compare also Matthew 10:41, where “receiveth a prophet” occurs in exactly one KJV verse, for the positive form of the test.",
+     "significance": "This is the chapter's best row and it is a case of metalepsis in the strict sense. At 10:4-5 the Book of Mormon quotes the second half of Matthew 23:37 and conspicuously withholds the first half — ‘thou that killest the prophets, and stonest them which are sent unto thee’ — which in Matthew is the accusation that explains why the gathering failed. Seven verses later the suppressed clause returns, inverted, as the criterion of survival: the spared are ‘they which received the prophets, and stoned them not’. The unstated point of correspondence, in Hays's phrase, is that the whole population has been sorted by the standard Matthew applies to Jerusalem, and that the Book of Mormon has answered Matthew's question — why would ye not? — by exhibiting the minority who would. Nothing in either text says this; the pair of quotations says it."
+    },
+    "note": "‘And it was they which received the prophets, and stoned them not.’ The clause is built out of Matthew 23:37's opening accusation by negation: Jerusalem stones the prophets sent to her, and these did not. The verbal contact is one verb, but that verb's KJV distribution is confined to this lament and its Lukan double, and this chapter has already quoted the lament twice. Read as an isolated verse the row would be thin; read as the completion of a quotation deliberately truncated at 10:4, it is the strongest thing in the chapter. Note that the criterion also runs backwards through 3 Nephi 9:11, where the destroyed are those who cast out and killed the prophets — the sorting is the same sorting, stated once positively and once negatively.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "manual"
+    ]
+   },
+   {
+    "source": "Revelation 16:6",
+    "type": "allusion",
+    "subtype": "close-verbal",
+    "confidence": "moderate",
+    "text": "For they have shed the blood of saints and prophets, and thou hast given them blood to drink; for they are worthy.",
+    "evidence": {
+     "vocabulary": 4,
+     "syntax": 4,
+     "sequence": 3,
+     "context": 5,
+     "rarity": 5,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "composite": [
+     "Revelation 17:6"
+    ],
+    "provenance": {
+     "route": "Revelation 16:6 → KJV → Book of Mormon",
+     "other": "“blood of saints” occurs in exactly one KJV verse and “blood of the saints” occurs in exactly one; they are Revelation 16:6 and Revelation 17:6 respectively, and the Book of Mormon's ‘shed the blood of the saints’ takes the verb from the first and the article from the second. “shed the blood” occurs in exactly four KJV verses, of which Revelation 16:6 is the only one where the blood is a martyr's.",
+     "significance": "Revelation 16:6 is not a description but a verdict: it is the angel of the waters justifying a bowl of wrath — they shed the blood of saints and prophets, therefore they are given blood to drink, therefore they are worthy. 3 Nephi 10:12 states the same principle from the other side, as the ground on which a minority was NOT destroyed. Putting the two clauses of verse 12 together, the spared are defined by not having done the two things the KJV names as grounds for judgment: not stoning the sent prophets (Matthew 23:37) and not shedding the blood of the saints (Revelation 16:6). The verse is a two-clause citation of the New Testament's criteria for deserving a catastrophe."
+    },
+    "note": "‘And it was they which had not shed the blood of the saints, which were spared.’ Six words in order from a phrase that exists in the KJV only in Revelation, and only in the two verses that pronounce Babylon guilty. The word ‘saints’ doing this work in a pre-Christian narrative voice is itself worth flagging: the Book of Mormon uses the KJV's specifically apocalyptic vocabulary of martyrdom to grade the dead of a New World earthquake.",
+    "whyNot": "‘Shed blood’ is ordinary KJV idiom for murder, and a writer describing the killing of holy men might reach ‘shed the blood of the saints’ without Revelation in view. The rarity counts above are what carry the row.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "machine-ngram",
+     "manual"
+    ]
+   }
+  ],
+  "10:13": [
+   {
+    "source": "Acts 2:19",
+    "type": "allusion",
+    "subtype": "close-verbal",
+    "confidence": "high",
+    "text": "And I will shew wonders in heaven above, and signs in the earth beneath; blood, and fire, and vapour of smoke:",
+    "evidence": {
+     "vocabulary": 5,
+     "syntax": 3,
+     "sequence": 3,
+     "context": 5,
+     "rarity": 5,
+     "attestation": 1
+    },
+    "kjvSpecific": "yes",
+    "mediation": "OT-via-earlier-BoM",
+    "recurrenceRefs": [
+     "1 Nephi 19:11",
+     "1 Nephi 22:18",
+     "3 Nephi 8:20",
+     "3 Nephi 10:14"
+    ],
+    "provenance": {
+     "mt": "Joel 2:30 — ‘blood, and fire, and PILLARS of smoke’.",
+     "route": "Joel 2:30 → Acts 2:19 → KJV → 1 Nephi 19:11 / 22:18 → 3 Nephi 10:13",
+     "other": "“vapour of smoke” occurs in exactly one KJV verse, Acts 2:19. “pillars of smoke” occurs in exactly two, Song of Solomon 3:6 and Joel 2:30 — and Joel 2:30 is the verse Acts 2:19 is quoting. The Book of Mormon has Peter's noun, not Joel's, here as at 1 Nephi 22:18. The 1830 spells ‘vapor’ in both places against the KJV's ‘vapour’.",
+     "significance": "The mediation is doubly indirect and that is the finding. The wording is Joel's by way of Acts, which the catalogue established at 1 Nephi 22:18; but the proximate model at 3 Nephi 10:13 is not the New Testament, it is Nephi. 1 Nephi 19:11 forecast destruction ‘by tempest, by fire, and by smoke, and vapour of darkness, and by the opening of the earth’, and 3 Nephi 10:13-14 reports it as ‘the vapor of smoke and of darkness … by fire, and by smoke, and by tempests, and by whirlwinds, and by the opening of the earth’ — the same list, in nearly the same order, with the two ‘vapour’ phrases of 1 Nephi 19:11 and 22:18 fused into one. So the route runs Joel → Peter → the KJV → Nephi → Mormon, and 10:14's demand that the reader search the scriptures to see the prophecies fulfilled is, on the text's own terms, a demand to check this list against that one."
+    },
+    "note": "‘Neither were they overpowered by the vapor of smoke and of darkness.’ Two KJV-derived phrases are fused: Acts 2:19's ‘vapour of smoke’, quoted at 1 Nephi 22:18, and ‘vapour of darkness’, which is 1 Nephi 19:11's own coinage and which 3 Nephi 8:20 has already used at the moment of the darkness itself. The mediation is filed as OT-via-earlier-BoM rather than OT-via-NT because Acts supplies only one of the two halves and because the whole clause sits inside a list that reproduces Nephi's prophecy item by item; the underlying divergence from Joel, however, is the same divergence adjudicated at 1 Nephi 22:18, and the Book of Mormon is on Peter's side of it in both places.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "manual"
+    ]
+   }
+  ],
+  "10:14": [
+   {
+    "source": "Matthew 24:15",
+    "type": "quotation",
+    "subtype": "explicit",
+    "confidence": "certain",
+    "text": "When ye therefore shall see the abomination of desolation, spoken of by Daniel the prophet, stand in the holy place, (whoso readeth, let him understand:)",
+    "evidence": {
+     "vocabulary": 5,
+     "syntax": 5,
+     "sequence": 4,
+     "context": 5,
+     "rarity": 5,
+     "attestation": 2
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "composite": [
+     "Mark 13:14"
+    ],
+    "recurrenceRefs": [
+     "3 Nephi 10:5",
+     "3 Nephi 10:7"
+    ],
+    "provenance": {
+     "route": "Matthew 24:15 → KJV → Book of Mormon",
+     "other": "“whoso readeth” occurs in exactly one KJV verse and “let him understand” occurs in exactly one — both Matthew 24:15. Mark's parallel is worded differently: “let him that readeth understand” occurs in exactly one KJV verse, Mark 13:14. The Book of Mormon has Matthew's word order, not Mark's, and the whole of the shared material is Matthew's five words in Matthew's sequence. (The mediation tool also reports two further ‘decisive’ points against Mark; those are artifacts of the verse boundary, since Matthew 24:15 simply ends where Mark 13:14 continues. The parenthesis itself is the real test and it is unambiguous.)",
+     "significance": "Matthew's parenthesis is an aside to the reader of the Gospel, and its content is that a prophecy of Daniel about desolation is about to be recognised in an event. The Book of Mormon puts the same aside in the same office at the end of its own account of a desolation, and then makes the reference explicit in the next breath: ‘he that hath the scriptures, let him search them, and see and behold if all these deaths and destructions … is not unto the fulfilling of the prophecies of many of the holy prophets.’ Where Matthew asks the reader to identify one prophecy of Daniel with one abomination, the Book of Mormon asks the reader to identify a whole class of prophecies with a whole catalogue of catastrophes. And it does so with the clause that, in the source, belongs to the Olivet discourse begun by the lament this chapter has quoted three times. 3 Nephi 10 runs Matthew 23:37 (at 10:4-5), Matthew 23:38 (at 10:7) and Matthew 24:15 (at 10:14) in the source's order."
+    },
+    "note": "‘And now whoso readeth, let him understand.’ Five words verbatim from a KJV singleton, and the Synoptic test is decisive: Matthew has ‘whoso readeth, let him understand’ and Mark has ‘let him that readeth understand’, and the Book of Mormon has Matthew's. This falls below Skousen's sixteen-word threshold and is not one of his passages; it is catalogued as a quotation because a complete clause is reproduced exactly from a verse that is identifiably its source, which is the test CONVENTIONS §2 sets. The borrowing carries a structural claim with it — an aside from narrator to reader, in the second person, breaking a description of ruin — and the Book of Mormon reproduces the function as well as the words.",
+    "bibliography": [],
+    "status": "consensus",
+    "citationsPending": true,
+    "streams": [
+     "machine-ngram",
+     "manual"
+    ]
+   },
+   {
+    "source": "John 5:39",
+    "type": "allusion",
+    "subtype": "strong-verbal",
+    "confidence": "high",
+    "text": "Search the scriptures; for in them ye think ye have eternal life: and they are they which testify of me.",
+    "evidence": {
+     "vocabulary": 4,
+     "syntax": 4,
+     "sequence": 4,
+     "context": 5,
+     "rarity": 5,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "recurrenceRefs": [
+     "3 Nephi 10:15",
+     "3 Nephi 10:16",
+     "3 Nephi 10:17"
+    ],
+    "provenance": {
+     "route": "John 5:39 → KJV → Book of Mormon",
+     "other": "“search the scriptures” occurs in exactly one KJV verse. The nearest relative is Acts 17:11's ‘searched the scriptures daily’, of the Bereans; John 5:39 is the only imperative.",
+     "significance": "Recover John 5:39 and the next three verses of 3 Nephi 10 turn out to be its second clause. John's imperative is followed immediately by its ground — ‘and they are they which testify of ME’ — and the Book of Mormon's imperative is followed by 10:16, ‘because they testified particular concerning US’, and by 10:17, ‘those things which testifies of US’. The 1830's ‘testifies’ with a plural subject preserves the singular concord of John's ‘testify of me’ more visibly than the 1920 edition's corrected ‘testify’ does. So the chapter takes over both halves of John 5:39 and changes exactly one word in the second half: the scriptures testify not of Christ but of the remnant of the seed of Joseph. That substitution is a considerable claim, and it is made entirely by a pronoun."
+    },
+    "note": "‘He that hath the scriptures, let him search them.’ The KJV's one ‘search the scriptures’ is John 5:39, and the Book of Mormon has broken it into a relative clause and an object pronoun while keeping both content words. What makes the row more than a two-word match is what follows: verses 15-17 supply John 5:39's own continuation — the scriptures as a body of witness — with the object of the witness changed from the speaker to the audience. Note also the 1830 reading at 10:17, ‘those things which testifies of us’, where the later editions read ‘these things which testify of us’: the first edition keeps the singular verb that John's clause has, and the modern text does not.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "manual"
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,142 @@
+[
+  {
+    "bomRef": "3 Nephi 5:1",
+    "source": "Matthew 18:7",
+    "category": "better-source-identified",
+    "sharedText": "it must needs be that",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "The highest-scoring candidate in the chapter and it scores for a real reason: “must needs be that” occurs in exactly one KJV verse, Matthew 18:7, and the Book of Mormon reproduces it twice, at 5:1 and 5:2. But Matthew 18:7 is about the inevitability of offences — 'Woe unto the world because of offences! for it must needs be that offences come' — and 3 Nephi 5:1-2 is about the inevitability of prophecy being fulfilled. The verse that joins this idiom to fulfilment is Acts 1:16, 'this scripture must needs have been fulfilled', and the link is written there. Recorded here because a reader who runs the string and finds a singleton will land on Matthew, and should be told the catalogue landed there too and moved."
+  },
+  {
+    "bomRef": "3 Nephi 5:2",
+    "source": "Acts 3:10",
+    "category": "formulaic",
+    "sharedText": "and they knew that it",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "A five-word run of pure connective tissue — 'and they knew that it' — matched against a verse about the lame man at the Beautiful gate. Nothing else of Acts 3:10 is present, and 5:2's own 'they knew it must needs be' is adjudicated at 5:1. Covered in principle by the standing boilerplate exclusion; listed because it ranked second in the chapter."
+  },
+  {
+    "bomRef": "3 Nephi 5:3",
+    "source": "Proverbs 4:23",
+    "category": "formulaic",
+    "sharedText": "with all diligence",
+    "streams": [
+      "manual"
+    ],
+    "reason": "A genuine and tempting singleton: “with all diligence” occurs in exactly one KJV verse, Proverbs 4:23, 'Keep thy heart with all diligence; for out of it are the issues of life.' The temptation is doubled by the fact that 3 Nephi 5:5 sorts the unrepentant precisely by what they 'still continue to have … in their hearts', so a reader could construct a contrast in which those who serve God with all diligence have kept their hearts and those who did not have not. The wording will not bear it. In Proverbs the phrase governs guarding an inward thing; in 3 Nephi it governs an outward practice of worship, and the noun 'heart' is two verses away and attached to the opposite party. The Book of Mormon uses 'with all diligence' as a standing formula of its own — Jacob 1, Enos 1, Mosiah 7, Alma 21, 2 Nephi 6 among others — which is what a phrase looks like when it has stopped being a borrowing. The real sources of 5:3 are Acts 26:7 and Luke 2:37, adjudicated at the verse."
+  },
+  {
+    "bomRef": "3 Nephi 5:4",
+    "source": "Amos 7:2",
+    "category": "formulaic",
+    "sharedText": "and it came to pass that when they had",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "An eight-word run and the longest in the chapter; it is the Book of Mormon's narrative hinge matched against Amos's locust vision. Covered by the standing exclusion filed at 1 Nephi 2:1, and listed here only because its length will draw a reader's eye."
+  },
+  {
+    "bomRef": "3 Nephi 5:4",
+    "source": "Revelation 13:15",
+    "category": "wrong-sense",
+    "sharedText": "as many as would",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "Four connective words, but the inversion is neat enough to be worth denying explicitly. Revelation 13:15 is 'as many as would not worship the image of the beast should be killed'; 3 Nephi 5:4 is 'as many as would repent of their sins … were set at liberty'. Compulsory worship on pain of death against voluntary repentance rewarded with release — a reader could build something here. There is nothing to build it out of: no shared vocabulary beyond the four-word connective, and 5:4's actual source, Luke 4:18, accounts for the whole sentence."
+  },
+  {
+    "bomRef": "3 Nephi 5:14",
+    "source": "1 Peter 2:15",
+    "category": "common-vocabulary",
+    "sharedText": "the will of God, that",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "Worth a register entry as a caution about rarity counts. The machine ranks this because “the will of God that” occurs in exactly one KJV verse — but the count is an artifact of punctuation. 1 Peter 2:15 reads 'For so is the will of God, that with well doing ye may put to silence…', where 'that' opens a new clause; the string is only rare because the KJV happens to place a comma there and nowhere else. The Book of Mormon's phrase is the ordinary one: “according to the will of God” occurs in exactly three KJV verses (Romans 8:27, Galatians 1:4, 1 Peter 4:19), and the corpus uses it constantly. No other contact with 1 Peter 2 — no well doing, no foolish men, no silence."
+  },
+  {
+    "bomRef": "3 Nephi 5:17",
+    "source": "1 John 1:1",
+    "category": "insufficient-verbal",
+    "sharedText": "seen with mine own eyes",
+    "streams": [
+      "manual"
+    ],
+    "reason": "The strongest thing the catalogue declined in this chapter, and it is declined on a count. 3 Nephi 5:13-17 assembles the whole Johannine eyewitness apparatus in order: a disciple who has been 'called of him to declare his word … that they might have everlasting life' (5:13), and then 'a record of the things which I have seen with mine own eyes' (5:17). 1 John 1:1-3 has the same three moves — 'which we have seen with our eyes … declare we unto you … that eternal life, which was with the Father'. But the verbal test fails where it should pass. “seen with our eyes” occurs in exactly one KJV verse, 1 John 1:1, and the Book of Mormon does not have it: “mine own eyes” occurs in exactly 0 KJV verses, and the possessive-plus-'own' construction is the corpus's own idiom, not the King James Bible's. The dossier's proposal here, John 8:38, fails for the same reason and is worse — 'I speak that which I have seen with my Father' is about the Son's origin, not about testimony. Recorded so a reader who sees the Johannine shape is told the catalogue saw it and would not put a link on it."
+  },
+  {
+    "bomRef": "3 Nephi 5:19",
+    "source": "Ezekiel 20:17",
+    "category": "wrong-sense",
+    "sharedText": "make an end of",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "“make an end of” occurs in exactly five KJV verses and in every one of them it means to destroy or to finish off — Ezekiel 20:17 'neither did I make an end of them in the wilderness', Isaiah 38:13, Daniel 9:24 'to make an end of sins'. 3 Nephi 5:19 means to stop talking: 'now I make an end of my saying which is of myself'. The Book of Mormon's own 'make an end' formula for closing a discourse runs from 1 Nephi to Moroni and has no biblical parent; the KJV never uses the phrase of speech."
+  },
+  {
+    "bomRef": "3 Nephi 5:21",
+    "source": "2 Samuel 6:12",
+    "category": "wrong-sense",
+    "sharedText": "hath blessed the house of",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "A five-word run and a singleton — “hath blessed the house” occurs in exactly one KJV verse — and it is still arithmetic rather than evidence. “blessed the house of” occurs in exactly two verses, 2 Samuel 6:12 and 1 Chronicles 13:14, and they are the same episode: the ark lodging three months with Obededom the Gittite and prospering his household. 3 Nephi 5:21 is 'Surely he hath blessed the house of Jacob, and hath been merciful unto the seed of Joseph' — a national covenant formula, where the KJV verse is a domestic anecdote about a man who kept a box. 'The house of Jacob' itself occurs in eighteen KJV verses and is Isaiah's phrase, which is where this chapter's peroration is drawing from; see the Isaiah 11:12 link at 5:26."
+  },
+  {
+    "bomRef": "3 Nephi 5:23",
+    "source": "2 Timothy 3:7",
+    "category": "common-vocabulary",
+    "sharedText": "to the knowledge of the",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "Five connective words. The machine proposes 2 Timothy 3:7 here and 1 Timothy 2:4 at 5:25 for the same string, and both KJV verses complete it as 'the knowledge of the truth' — a fixed Pastoral-epistle collocation — while 3 Nephi completes it as 'the knowledge of the Lord their God' (5:23) and 'the knowledge of the covenant' (5:25). The one that completes differently is the one that matters: the Book of Mormon's phrase belongs with Isaiah 11:9, 'the earth shall be full of the knowledge of the LORD', which is the chapter Isaiah 11:12 comes from and which the peroration is already using. One entry covers both verses."
+  },
+  {
+    "bomRef": "3 Nephi 5:24",
+    "source": "Ezekiel 34:6",
+    "category": "better-source-identified",
+    "sharedText": "scattered upon all the face of the earth",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "A genuine KJV singleton — “upon all the face of the earth” occurs in exactly one KJV verse — and by 3 Nephi it is the Book of Mormon's own dispersion formula, adjudicated as a composite element at 1 Nephi 10:12 and excluded as a repeat at 1 Nephi 13:39, 1 Nephi 14:14, Alma 29:2 and Helaman 11 among others. What is worth adding here is where the formula stops: the clause is 'which are scattered abroad upon all the face of the earth', and its first four words are a different KJV singleton, James 1:1's address to the twelve tribes of the dispersion. The link is written on that half at 5:24; this half is standing formula."
+  },
+  {
+    "bomRef": "3 Nephi 5:24",
+    "source": "1 Samuel 29:6",
+    "category": "formulaic",
+    "sharedText": "surely as the Lord liveth",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "“the Lord liveth” occurs in exactly 37 KJV verses and is the King James Bible's standard oath. 1 Samuel 29:6 ranks only because Achish happens to precede it with 'surely', as 3 Nephi 5:24 does; the verse is a Philistine king certifying David's good conduct and has no other contact with a gathering prophecy. The formula recurs at 5:26 ('as the Lord liveth, so shall it be') and is not evidence at either verse."
+  },
+  {
+    "bomRef": "3 Nephi 5:26",
+    "source": "Revelation 20:8",
+    "category": "better-source-identified",
+    "sharedText": "the four quarters of the earth",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "The same KJV singleton the machine ranks first at 5:24, and it is the same borrowing two verses later within one sentence of argument. Adjudicated at 5:24, where the mediation test against Isaiah 11:12 is run and 'quarters' rather than 'corners' is shown to be decisive. What 5:26 adds is Isaiah's own word, 'dispersed', which 5:24 lacks, and the link on that is written at 5:26."
+  },
+  {
+    "bomRef": "3 Nephi 5:26",
+    "source": "Jeremiah 49:36",
+    "category": "wrong-sense",
+    "sharedText": "from the four quarters",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "Ranked at both 5:24 and 5:26, and it is the wrong half of the phrase. Jeremiah 49:36 reads 'the four quarters of heaven', not of the earth, and it is a scattering rather than a gathering: 'I will scatter them toward all those winds; and there shall be no nation whither the outcasts of Elam shall not come.' The Book of Mormon has 'of the earth', which is Revelation 20:8's, and gathers rather than scatters. Recorded because Jeremiah 49:36's 'outcasts' is a word this chapter's real Isaian source, Isaiah 11:12, also uses, and a reader could be drawn across on it."
+  }
+]

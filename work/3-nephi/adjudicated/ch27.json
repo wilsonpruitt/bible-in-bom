@@ -1,0 +1,681 @@
+{
+ "chapter": 27,
+ "adjudicated": "2026-09-07",
+ "adjudicator": "Opus",
+ "links": {
+  "27:2": [
+   {
+    "source": "Matthew 20:32",
+    "type": "allusion",
+    "subtype": "close-verbal",
+    "confidence": "moderate",
+    "text": "And Jesus stood still, and called them, and said, What will ye that I shall do unto you?",
+    "evidence": {
+     "vocabulary": 4,
+     "syntax": 4,
+     "sequence": 3,
+     "context": 3,
+     "rarity": 5,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "composite": [
+     "1 Kings 3:5"
+    ],
+    "provenance": {
+     "route": "Matthew 20:32 → KJV → Book of Mormon",
+     "other": "“what will ye that I shall” occurs in exactly one KJV verse, Matthew 20:32. The Book of Mormon changes one word of it, “do” to “give”, and “Ask what I shall give thee” occurs in exactly two KJV verses, 1 Kings 3:5 and its doublet 2 Chronicles 1:7 — God to Solomon at Gibeon. The 1830 “saith unto them” for a past narration is retained throughout this chapter and modernised to “said” in 1920.",
+     "significance": "In Matthew the question is put to two blind men sitting by the road at Jericho, and the thing asked for is sight. Here it is put to the twelve at the end of forty days of instruction, and the thing asked for is a name for the church. The one KJV substitution is the interesting one: replacing “do” with “give” turns Matthew's roadside question into the formula of the only other place in the KJV where God invites a request open-endedly, God to Solomon in the dream at Gibeon, where the thing asked for is an understanding heart to judge a people and the granting of it founds a temple. A question about what to call a house of worship is asked in the words of the man who built one."
+    },
+    "note": "“What will ye that I shall give unto you?” — six words of Matthew 20:32 with a single substitution, from the only KJV verse that has the clause. The setting supplies the reason for the substitution: nobody here is asking to be healed, and the disciples' answer at 27:3 is a request for instruction rather than a request for a thing. Below any quotation threshold on length; recorded as an allusion because the clause is a KJV singleton and the substitution is legible.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "machine-ngram",
+     "manual"
+    ]
+   }
+  ],
+  "27:6": [
+   {
+    "source": "Matthew 10:22",
+    "type": "allusion",
+    "subtype": "close-verbal",
+    "confidence": "high",
+    "text": "And ye shall be hated of all men for my name’s sake: but he that endureth to the end shall be saved.",
+    "evidence": {
+     "vocabulary": 5,
+     "syntax": 4,
+     "sequence": 4,
+     "context": 5,
+     "rarity": 5,
+     "attestation": 1
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "composite": [
+     "Matthew 24:13"
+    ],
+    "recurrenceRefs": [
+     "3 Nephi 15:9",
+     "3 Nephi 27:17"
+    ],
+    "provenance": {
+     "route": "Matthew 10:22 + Matthew 24:13 → KJV → Book of Mormon",
+     "other": "“he that endureth to the end” occurs in exactly one KJV verse, Matthew 10:22; “the same shall be saved” occurs in exactly two, Matthew 24:13 and Mark 13:13, which both read “he that shall endure unto the end”. `mediation-check.py` on 3 Nephi 27:6 against Matthew 10:22 and Matthew 24:13 returns one decisive divergence and it falls to Matthew 10:22: the Book of Mormon has “endureth to”, not “shall endure unto”. It then takes “the same shall be saved”, which Matthew 10:22 does not have. The clause as it stands is in no KJV verse.",
+     "significance": "The composite is not decorative; it is doing exactly the work the surrounding verses need. 27:5-7 is an argument that the church must bear Christ's name, and Matthew 10:22 is the KJV's one verse where enduring to the end is set against being hated “for my name's sake” — the endurance saying in its name-bearing form. Matthew 24:13 and Mark 13:13 carry the same saying but attach it to the abomination of desolation. The Book of Mormon takes the wording of the name verse and the cadence of the eschatological one, and the sentence it builds — “whoso taketh upon him my name, and endureth to the end” — is Matthew 10:22 read as a definition of discipleship rather than a warning about persecution. The suppressed half of Matthew 10:22 is the hatred, which this chapter will not need until 27:32."
+    },
+    "note": "The verse fuses the two Synoptic forms of one saying and takes the diagnostic word from each. Matthew 10:22's “endureth to the end” is a KJV singleton and it is what the Book of Mormon has; Matthew 24:13's “the same shall be saved” is what it appends. Matthew 10:22 was adjudicated at 3 Nephi 15:9 for a different half of the verse, and this is not that borrowing recurring: 15:9 is about endurance under hatred, 27:6 is about endurance under a name, and the fusion with Matthew 24:13 appears only here.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "machine-ngram",
+     "manual"
+    ]
+   }
+  ],
+  "27:11": [
+   {
+    "source": "Matthew 7:19",
+    "type": "allusion",
+    "subtype": "close-verbal",
+    "confidence": "moderate",
+    "text": "Every tree that bringeth not forth good fruit is hewn down, and cast into the fire.",
+    "evidence": {
+     "vocabulary": 5,
+     "syntax": 4,
+     "sequence": 3,
+     "context": 4,
+     "rarity": 4,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "composite": [
+     "Matthew 3:10"
+    ],
+    "recurrenceRefs": [
+     "3 Nephi 14:19",
+     "3 Nephi 27:17"
+    ],
+    "provenance": {
+     "route": "Matthew 7:19 → KJV → Book of Mormon",
+     "other": "“hewn down and cast into the fire” occurs in exactly three KJV verses — Matthew 3:10, Matthew 7:19 and Luke 3:9 — and in all three the subject is a tree that bears no good fruit. 3 Nephi 14:19 transcribes Matthew 7:19 verbatim as part of the sermon at the temple; the clause returns twice in this chapter, at 27:11 and 27:17, with no tree in either.",
+     "significance": "The clause is being re-used against a new subject, and that is the finding. In the three KJV verses the thing hewn down is a fruitless tree, an image with a long agricultural life and no institutional edge to it. Here it is a church — one built on the works of men or the works of the devil — and then at 27:17 an individual who does not endure. The metaphor's vehicle has been discarded and its verdict kept, which is a use of Matthew 7:19 that Matthew 7 does not make: John's axe at Matthew 3:10 is laid to the root of the trees, and the Book of Mormon lays it to the root of a congregation."
+    },
+    "note": "“They are hewn down and cast into the fire, from whence there is no return.” Six words of a clause that stands in exactly three KJV verses, all of the fruitless tree. It is a second use — 3 Nephi 14:19 already reproduced Matthew 7:19 whole — but not the narrator reusing his own formula: the sermon quoted the tree, this verse drops the tree and applies the sentence to a church, and adds a clause no KJV verse has, “from whence there is no return”. Confidence is held at moderate because the clause is short and its distribution across three verses gives no way to pick between Matthew 7:19 and its two parallels; Matthew 7 is named because this chapter is otherwise saturated with it.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "manual"
+    ]
+   }
+  ],
+  "27:12": [
+   {
+    "source": "Revelation 14:13",
+    "type": "allusion",
+    "subtype": "strong-verbal",
+    "confidence": "high",
+    "text": "And I heard a voice from heaven saying unto me, Write, Blessed are the dead which die in the Lord from henceforth: Yea, saith the Spirit, that they may rest from their labours; and their works do follow them.",
+    "evidence": {
+     "vocabulary": 5,
+     "syntax": 5,
+     "sequence": 3,
+     "context": 5,
+     "rarity": 5,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "provenance": {
+     "route": "Revelation 14:13 → KJV → Book of Mormon",
+     "other": "“their works do follow them” occurs in exactly one KJV verse, Revelation 14:13, and the Book of Mormon has all five words in order. The idiom is not otherwise available in English scripture: the KJV's usual formula for judgement by deeds is “according to their works” (Revelation 20:12, 20:13), which this chapter also uses at 27:14, 27:15 and 27:25.",
+     "significance": "This is the chapter's sharpest inversion and it turns on nothing but context. In Revelation 14:13 the clause is a beatitude, spoken by a voice from heaven and confirmed by the Spirit: the dead who die in the Lord are blessed, they rest from their labours, and their works follow them into that rest as a comfort and a credential. In 3 Nephi 27:12 the same five words are the reason for a sentence of destruction — “for their works do follow them: for it is because of their works that they are hewn down”. Recover Revelation's context and the borrowing reads as a deliberate reversal of its polarity: what follows the blessed dead into rest is what follows the unblessed into the fire, and the difference is not in the following but in the works. The Book of Mormon has taken the KJV's one phrase for posthumous vindication and made it a phrase for posthumous liability."
+    },
+    "note": "A KJV singleton reproduced exactly, and reproduced with its verdict reversed. Revelation 14:13 says the works of those who die in the Lord follow them; 3 Nephi 27:12 says the works of those built on the works of men follow them, and immediately glosses what following means — “it is because of their works that they are hewn down”. Well below any quotation threshold on length, and catalogued as an allusion on the strength of the singleton and the exactness of the run. Whether the reversal is designed or accidental cannot be shown from the text; that it is a reversal can.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "machine-ngram",
+     "manual"
+    ]
+   }
+  ],
+  "27:13": [
+   {
+    "source": "John 6:38",
+    "type": "allusion",
+    "subtype": "close-verbal",
+    "confidence": "high",
+    "text": "For I came down from heaven, not to do mine own will, but the will of him that sent me.",
+    "evidence": {
+     "vocabulary": 4,
+     "syntax": 4,
+     "sequence": 4,
+     "context": 5,
+     "rarity": 4,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "composite": [
+     "John 4:34"
+    ],
+    "provenance": {
+     "route": "John 6:38 → KJV → Book of Mormon",
+     "other": "“to do the will of” occurs in exactly one KJV verse, John 4:34 (“My meat is to do the will of him that sent me, and to finish his work”); “the will of him that sent me” occurs in three, all in John (4:34, 6:38, 6:39). The Book of Mormon writes “to do the will of my Father, because my Father sent me”, which converts John's periphrasis — “him that sent me” — into a named Father and a separate causal clause.",
+     "significance": "The definition of the gospel that this chapter is famous for is given in Johannine vocabulary and Johannine sequence, and what it drops is as telling as what it keeps. John 6:38's sentence begins “I came down from heaven”; 3 Nephi 27:13 begins “I came into the world”, which is the formula of 1 Timothy 1:15 and John 18:37 rather than the descent language of John 6, and which suits a speaker who is at that moment standing in a hemisphere the fourth gospel does not know about. John 6:38 also states the will negatively — not mine own — and the Book of Mormon deletes the negation, so that a saying framed in John as a denial of independent agency becomes here a bare statement of commission. The suppressed half is the polemic: in John 6 the sentence is spoken to a murmuring crowd that will not have him, and it is the ground of his refusal to lose any of them, which is the argument this chapter returns to at 27:30-32."
+    },
+    "note": "“I came into the world to do the will of my Father, because my Father sent me.” Three of the four distinctive elements of John 6:38 are present in John's order — coming, doing the will, being sent — and the fourth, the negation, is removed. “To do the will of” is a KJV singleton at John 4:34, which supplies the same clause in the same construction; the fusion is the ordinary Johannine idiom rather than a pointed composite, and the link is written on John 6:38 because it, not 4:34, is a first-person definition of why he came.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "manual"
+    ]
+   }
+  ],
+  "27:14": [
+   {
+    "source": "John 12:32",
+    "type": "allusion",
+    "subtype": "close-verbal",
+    "confidence": "high",
+    "text": "And I, if I be lifted up from the earth, will draw all men unto me.",
+    "evidence": {
+     "vocabulary": 5,
+     "syntax": 4,
+     "sequence": 4,
+     "context": 5,
+     "rarity": 5,
+     "attestation": 1
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "composite": [
+     "John 12:33"
+    ],
+    "recurrenceRefs": [
+     "1 Nephi 11:33",
+     "2 Nephi 26:24",
+     "3 Nephi 27:15"
+    ],
+    "provenance": {
+     "route": "John 12:32-33 → KJV → Book of Mormon",
+     "other": "“draw all men unto me” occurs in exactly one KJV verse, John 12:32, and the Book of Mormon has it twice in two verses (27:14, 27:15). John 12:33 is the evangelist's gloss on it: “This he said, signifying what death he should die.”",
+     "significance": "This is metalepsis with the gloss written back into the saying. John 12:32 says only “lifted up from the earth”, and the phrase is a riddle the crowd immediately objects to at 12:34; the fourth gospel resolves it in the narrator's aside at 12:33, which tells the reader that the lifting up is a manner of death without naming it. 3 Nephi 27:14 names it — “lifted up upon the cross”, twice in one verse — and so folds John's editorial explanation into the speech John gives it about. It then does something John does not: it makes the figure reciprocal, so that being lifted up by men is answered by men being lifted up by the Father “to stand before me, to be judged of their works”. In John the lifting up draws; here it also weighs, and the same verb carries the crucifixion, the resurrection of the dead and the verdict."
+    },
+    "note": "The one KJV verse with “draw all men unto me”, used twice in consecutive verses and each time expanded. What the expansion supplies is precisely John 12:33 — the death that “lifted up” means — which the fourth gospel keeps outside the saying as a narrator's note. The link is filed at 27:14 because that is where the cross is named and where the figure is turned round; 27:15 repeats the clause at greater length and with a fuller verbal run, and is recorded in `recurrenceRefs` rather than given its own row.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "machine-ngram",
+     "manual"
+    ]
+   }
+  ],
+  "27:16": [
+   {
+    "source": "Exodus 20:7",
+    "type": "allusion",
+    "subtype": "close-verbal",
+    "confidence": "high",
+    "text": "Thou shalt not take the name of the LORD thy God in vain; for the LORD will not hold him guiltless that taketh his name in vain.",
+    "evidence": {
+     "vocabulary": 4,
+     "syntax": 4,
+     "sequence": 3,
+     "context": 5,
+     "rarity": 5,
+     "attestation": 3
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-OT",
+    "composite": [
+     "Deuteronomy 5:11"
+    ],
+    "recurrenceRefs": [
+     "Mosiah 13:15",
+     "2 Nephi 26:32"
+    ],
+    "provenance": {
+     "route": "Exodus 20:7 → KJV → Book of Mormon",
+     "other": "“hold him guiltless” occurs in exactly two KJV verses, Exodus 20:7 and its Deuteronomy 5:11 doublet, and they are word-for-word identical in the relevant clause; `mediation-check.py` on the pair returns “identical wording — no test available here”, so the third commandment can be identified as the source but the Exodus and Deuteronomy forms of it cannot be told apart. The word “guiltless” alone stands in ten KJV verses, of which one more couples it with holding — 1 Kings 2:9, David instructing Solomon to “hold him not guiltless”, which is a sentence of death on Shimei and has nothing to do with a name.",
+     "significance": "Both KJV verses that hold a man guiltless do it in the negative, and both do it about the divine name: the LORD will not hold him guiltless that taketh his name in vain. This chapter has spent eleven verses on taking the name — 27:5, “ye must take upon you the name of Christ”; 27:6, “whoso taketh upon him my name”; 27:7, everything done and every prayer offered in that name — and it now says “him will I hold guiltless before my Father”. The commandment's clause is repeated with its negation removed and its speaker changed: the Lord who in Exodus will not acquit the man who takes the name emptily here acquits the man who takes it and endures. Reading the source recovers the condition the Book of Mormon has left unstated, which is that a name taken can be taken in vain, and 27:11's church built on the works of men is what that looks like."
+    },
+    "note": "Hardy cross-references Exodus 20:7 at this verse, and the verbal warrant is “hold him guiltless”, which stands in exactly two KJV verses, the third commandment in each of its two forms. The Book of Mormon reverses the polarity of the clause and keeps its subject-matter: Exodus withholds acquittal from a man who misuses the name, 3 Nephi 27:16 grants it to a man who is baptized in it and endures. Which of the two KJV forms is in view cannot be settled from the wording, since they are identical here; “direct-OT” is recorded because neither is quoted in the New Testament and there is no mediating form to test.",
+    "bibliography": [
+     "Hardy MSI at 3 Ne 27.16 (cross-references Exodus 20:7)"
+    ],
+    "status": "majority",
+    "streams": [
+     "scholarship",
+     "manual"
+    ]
+   }
+  ],
+  "27:19": [
+   {
+    "source": "Revelation 7:14",
+    "type": "allusion",
+    "subtype": "conceptual",
+    "confidence": "moderate",
+    "text": "And I said unto him, Sir, thou knowest. And he said to me, These are they which came out of great tribulation, and have washed their robes, and made them white in the blood of the Lamb.",
+    "evidence": {
+     "vocabulary": 3,
+     "syntax": 3,
+     "sequence": 3,
+     "context": 5,
+     "rarity": 4,
+     "attestation": 1
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "composite": [
+     "Revelation 1:5"
+    ],
+    "recurrenceRefs": [
+     "1 Nephi 12:11",
+     "Alma 5:21",
+     "Alma 13:11"
+    ],
+    "provenance": {
+     "route": "Revelation 7:14 → KJV → Book of Mormon (via a figure already established at 1 Nephi 12:11)",
+     "other": "“washed their robes” occurs in exactly one KJV verse, Revelation 7:14; “washed their garments” occurs in none. “Washed us from our sins in his own blood” occurs in exactly one, Revelation 1:5, and is the only KJV verse that puts the washing in the speaker's own blood. The Book of Mormon's clause — “washed their garments in my blood” — has Revelation 7:14's verb and possessive, Revelation 1:5's first-person blood, and a noun from neither.",
+     "significance": "Every earlier Book of Mormon use of this figure is third-person and follows Revelation 7:14's grammar: garments made white in the blood of the Lamb (1 Nephi 12:11, Alma 13:11), a robe made white through the blood (Alma 5:21). 3 Nephi 27:19 is the first time the speaker is the Lamb. What in Revelation is a vision explained to a seer by an elder is here said by the one whose blood it is, in the first person, to people who have handled his wounds five chapters earlier. The image loses its apocalyptic frame and gains a speaker."
+    },
+    "note": "The verbal contact is real but narrow — washing, a garment, blood — and it is the possessive that carries it: “washed their” plus blood is Revelation 7:14's construction, and the substitution of “garments” for “robes” matches the form the figure has taken throughout the Book of Mormon since 1 Nephi 12:11. Confidence is moderate rather than high because by this point the phrase is the corpus's own idiom as much as Revelation's, and a reader could reasonably file the borrowing at 1 Nephi 12:11 and count this a later use of it. It is given a row because a new book, a new speaker and the shift to “my blood” change what the figure asserts.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "manual"
+    ]
+   },
+   {
+    "source": "Hebrews 3:18",
+    "type": "echo",
+    "subtype": "possible",
+    "confidence": "moderate",
+    "text": "And to whom sware he that they should not enter into his rest, but to them that believed not?",
+    "evidence": {
+     "vocabulary": 3,
+     "syntax": 3,
+     "sequence": 2,
+     "context": 4,
+     "rarity": 4,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "composite": [
+     "Hebrews 4:1"
+    ],
+    "recurrenceRefs": [
+     "Alma 13:6"
+    ],
+    "provenance": {
+     "route": "Hebrews 3:18 → KJV → Book of Mormon",
+     "other": "“into his rest” occurs in exactly three KJV verses, Hebrews 3:18, 4:1 and 4:10, and “enter into his rest” in exactly one, Hebrews 3:18. “Rest” used absolutely for the state the faithful are admitted to is a Hebrews idiom and nowhere else a KJV one.",
+     "significance": "The Book of Mormon puts two entrances in one sentence — “no unclean thing can enter into his kingdom; therefore nothing entereth into his rest” — and only the second is scriptural English. Hebrews 3:18 supplies it, and supplies with it a condition: the wilderness generation was sworn out of the rest for unbelief, “they could not enter in because of unbelief” (3:19). 3 Nephi 27:19 states the condition positively, “because of their faith”, and adds repentance and endurance to it. What is recovered by reading Hebrews 3 is that the rest is something a covenant people can be excluded from after being brought out, which is exactly the anxiety 27:32 will voice about the fourth generation."
+    },
+    "note": "An echo, not more: the shared string is three words and the argument for it is that “his rest” as a destination is Hebrews' vocabulary and not the KJV's generally. It is recorded because the whole clause structure of 27:19 — entry barred, a condition of faith supplied — is Hebrews 3:18-4:1's, and because the same source stands behind Alma 13:6.",
+    "whyNot": "Three words is thin, “rest” for the state of the saved is common Christian English by 1830 quite apart from Hebrews, and the Book of Mormon has used “enter into the rest of the Lord” often enough that this may be its own formula rather than a fresh borrowing. A reader who declines this row loses nothing from the chapter's argument.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "manual"
+    ]
+   }
+  ],
+  "27:21": [
+   {
+    "source": "John 14:12",
+    "type": "allusion",
+    "subtype": "close-verbal",
+    "confidence": "high",
+    "text": "Verily, verily, I say unto you, He that believeth on me, the works that I do shall he do also; and greater works than these shall he do; because I go unto my Father.",
+    "evidence": {
+     "vocabulary": 4,
+     "syntax": 4,
+     "sequence": 4,
+     "context": 5,
+     "rarity": 5,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "recurrenceRefs": [
+     "3 Nephi 18:16",
+     "3 Nephi 27:28"
+    ],
+    "provenance": {
+     "route": "John 14:12 → KJV → Book of Mormon",
+     "other": "“the works that I do shall he do also” occurs in exactly one KJV verse, John 14:12. The Book of Mormon writes “the works which ye have seen me do, that shall ye also do”, keeping the verb, the object and the “also” and changing the person from singular to plural and the relative clause from believing to having seen. Both this verse and 27:21's second clause open on “Verily, verily I say unto you”, which is John 14:12's own opening.",
+     "significance": "The two halves of John 14:12 are split across this chapter and separated by seven verses. 27:21 has the first — the works that I do shall ye do also — and 27:28 has the last, “And now I go unto the Father”, which is the reason John 14:12 gives for the promise. What falls out in between is the clause that stands between them in John: “greater works than these shall he do”. The Book of Mormon promises the same works and not greater ones, and it changes the qualifying condition from believing on him to having seen him, which is available to these hearers and to nobody after them. Recovering John 14 recovers a promise deliberately narrowed."
+    },
+    "note": "“For the works which ye have seen me do, that shall ye also do; for that which ye have seen me do, even that shall ye do.” The construction is John 14:12's, from the only KJV verse that has it, and the doubling for emphasis is the Book of Mormon's own. “What ye have seen me do” is also Judges 9:48, Abimelech at mount Zalmon telling his men to copy him with an axe, which the n-gram stream ranks here; that is a coincidence of a very ordinary English clause and is filed in the register.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "manual"
+    ]
+   }
+  ],
+  "27:25": [
+   {
+    "source": "Revelation 20:12",
+    "type": "allusion",
+    "subtype": "strong-verbal",
+    "confidence": "high",
+    "text": "And I saw the dead, small and great, stand before God; and the books were opened: and another book was opened, which is the book of life: and the dead were judged out of those things which were written in the books, according to their works.",
+    "evidence": {
+     "vocabulary": 5,
+     "syntax": 4,
+     "sequence": 4,
+     "context": 5,
+     "rarity": 5,
+     "attestation": 1
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "recurrenceRefs": [
+     "2 Nephi 29:11",
+     "Mosiah 16:10",
+     "Alma 11:41",
+     "3 Nephi 27:26"
+    ],
+    "provenance": {
+     "route": "Revelation 20:12 → KJV → Book of Mormon",
+     "other": "“judged out of those things which were written in the books” occurs in exactly one KJV verse, Revelation 20:12, and it is the only verse in the Bible where judgement is said to proceed out of books in the plural. 3 Nephi 27:25 has “out of the books which have been written, and which shall be written, shall this people be judged” and 27:26 “out of the books which shall be written, shall the world be judged”; the KJV's governing phrase “according to their works” appears in both, at 27:25 as “their works” and at 27:14, 27:15 and 27:26 in full.",
+     "significance": "Revelation 20:12 is a vision of a future assize: the books already exist, they are opened, and the dead are judged from them. 3 Nephi 27:23-26 makes the same books a present writing assignment — “Write the things which ye have seen and heard”, “write the works of this people” — and puts the disciples on the composing end of the volumes John saw opened. That is the metalepsis, and it is unusually consequential: it makes the act of record-keeping that produces the Book of Mormon itself an act of drafting the evidence at the last judgement, and it explains why 27:23 has to carve out an exception for “those which are forbidden”. A book that will be read against the world is a book with things properly left out of it."
+    },
+    "note": "The one KJV verse that judges out of books, reworked into a commission to write them. The link is filed at 27:25, where the phrase “out of the books ... shall this people be judged” first stands, and 27:26 repeats it of the world and is recorded in `recurrenceRefs`. Revelation 20:12 is used elsewhere in the corpus, always of the judgement scene itself (2 Nephi 29:11, Mosiah 16:10, Alma 11:41); this is the only place it is turned round to describe the making of the books.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "manual"
+    ]
+   }
+  ],
+  "27:27": [
+   {
+    "source": "2 Peter 3:11",
+    "type": "allusion",
+    "subtype": "close-verbal",
+    "confidence": "moderate",
+    "text": "Seeing then that all these things shall be dissolved, what manner of persons ought ye to be in all holy conversation and godliness,",
+    "evidence": {
+     "vocabulary": 4,
+     "syntax": 4,
+     "sequence": 3,
+     "context": 4,
+     "rarity": 4,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "composite": [
+     "Matthew 19:28"
+    ],
+    "variants": [
+     "1830 “had ye ought to be” → 1920 “ought ye to be”"
+    ],
+    "provenance": {
+     "route": "2 Peter 3:11 → KJV → Book of Mormon",
+     "other": "“What manner of persons ought ye to be” occurs in exactly one KJV verse, 2 Peter 3:11; “what manner of” alone stands in eighteen. The Book of Mormon substitutes “men” for “persons”. The 1830 reading is “what manner of men had ye ought to be”, which is not English of any Bible; 1920 emended it to “what manner of men ought ye to be”.",
+     "significance": "The 1830 variant is the evidence here, and it runs the way CONVENTIONS §8 predicts: the first edition has a non-scriptural construction, “had ye ought to be”, and the 1920 correction moves the sentence back toward the KJV verse behind it rather than away from it. The borrowing is plainer in the modern text than in the running text, which is the reverse of the usual pattern and worth recording as such. What 2 Peter 3:11 asks the question about is the dissolution of the elements at the day of the Lord; 3 Nephi 27:27 asks it about sitting as judges of this people, and answers it in a way 2 Peter does not dare — “Even as I am”. Peter's rhetorical question expects holy conversation; this one expects the questioner's own character."
+    },
+    "note": "The interrogative is a KJV singleton in this form and the Book of Mormon changes one noun. What makes the row worth having is the 1830 reading: “had ye ought to be” is the running text, and the 1920 edition's repair of it produces the KJV's exact word order. Confidence is moderate because the 1830 construction is far enough from 2 Peter that a reader could take the resemblance to be the later editors' work rather than the first edition's; on that reading the link belongs to 1920 and not to 1830, which is itself a finding.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "manual"
+    ]
+   }
+  ],
+  "27:29": [
+   {
+    "source": "Matthew 7:8",
+    "type": "allusion",
+    "subtype": "close-verbal",
+    "confidence": "high",
+    "text": "For every one that asketh receiveth; and he that seeketh findeth; and to him that knocketh it shall be opened.",
+    "evidence": {
+     "vocabulary": 5,
+     "syntax": 4,
+     "sequence": 4,
+     "context": 4,
+     "rarity": 4,
+     "attestation": 3
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "composite": [
+     "Matthew 7:7"
+    ],
+    "recurrenceRefs": [
+     "3 Nephi 14:7",
+     "3 Nephi 14:8"
+    ],
+    "provenance": {
+     "route": "Matthew 7:7-8 → KJV → Book of Mormon",
+     "other": "“That asketh receiveth” occurs in exactly two KJV verses, Matthew 7:8 and Luke 11:10, which are word-for-word identical in the KJV and so cannot be told apart here; “him that knocketh it shall be opened” occurs in the same two and nowhere else. Matthew is named because everything else in this chapter's Sermon material is Matthean and because 3 Nephi 14:7-8 transcribes Matthew 7:7-8 verbatim, seeking and all. 27:29 does not: it drops the seeking clause from both halves, so that a threefold saying becomes twofold, and it replaces “Ask, and it shall be given you” with “ask, and ye shall receive”, which is John 16:24's form and a KJV singleton there. The surviving run — “he that asketh, receiveth, and unto him that knocketh, it shall be opened” — is Matthew 7:8 minus its middle clause, with “unto” added before “him”, a preposition no KJV verse has here.",
+     "significance": "The abridgement is the argument. Matthew's saying is a triad and its middle term, seeking and finding, is the one that admits of not having arrived; the Book of Mormon's second pass keeps the two terms that resolve — asking is answered, knocking is opened — and drops the one that searches. Read against 27:30, where the joy is already full and “none of them are lost”, the pruning is consistent: this is a discourse to people who have found."
+    },
+    "note": "Hardy cross-references Matthew 7:7-8 here, and this is the chapter's second engagement with the saying — 3 Nephi 14:7-8 gave it whole. It is written as a fresh link rather than filed as a repeat because the second pass is a reworking and not a copy: the seeking clause is gone from both halves, and the opening imperative has been replaced from John 16:24, which is adjudicated separately at this verse. Below any quotation threshold once the omissions are counted.",
+    "bibliography": [
+     "Hardy MSI at 3 Ne 27.29 (cross-references Matthew 7:7-8)"
+    ],
+    "status": "majority",
+    "streams": [
+     "scholarship",
+     "machine-ngram",
+     "manual"
+    ]
+   },
+   {
+    "source": "John 16:24",
+    "type": "allusion",
+    "subtype": "close-verbal",
+    "confidence": "high",
+    "text": "Hitherto have ye asked nothing in my name: ask, and ye shall receive, that your joy may be full.",
+    "evidence": {
+     "vocabulary": 5,
+     "syntax": 4,
+     "sequence": 4,
+     "context": 5,
+     "rarity": 5,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "recurrenceRefs": [
+     "3 Nephi 27:30",
+     "3 Nephi 27:31"
+    ],
+    "provenance": {
+     "route": "John 16:24 → KJV → Book of Mormon",
+     "other": "“Ask, and ye shall receive” occurs in exactly one KJV verse, John 16:24; Matthew 7:7 and Luke 11:9 both read “Ask, and it shall be given you”. The Book of Mormon has John's form. “That your joy may be full” occurs in two verses, John 16:24 and 1 John 1:4, and “fulness of joy” in exactly one, Psalm 16:11.",
+     "significance": "This is the strongest single finding in the chapter and it depends on reading three verses together. 27:29 substitutes John 16:24's imperative into a Matthew 7 saying — “ask, and ye shall receive” where Matthew has “it shall be given you” — and then 27:30 and 27:31 supply John 16:24's own continuation, which Matthew 7 does not have: “my joy is great, even unto fulness”, “in them I have fulness of joy”. The suppressed half of the borrowed clause has been recovered and written out in the following two verses. That is metalepsis performed rather than implied, and it also reverses the possessive: John's promise is that your joy may be full, and the Book of Mormon's report is that his is."
+    },
+    "note": "The chapter takes the ask-and-receive saying from Matthew 7 but takes its verb from John, and “ask, and ye shall receive” is a KJV singleton at John 16:24. The reason for the substitution appears immediately: John 16:24 ends “that your joy may be full”, and 27:30-31 is about nothing else — fulness of joy, in the Son, in the Father and in the holy angels. The two verses that follow the borrowing are the rest of the verse it was borrowed from.",
+    "bibliography": [],
+    "status": "novel",
+    "citationsPending": true,
+    "streams": [
+     "machine-ngram",
+     "manual"
+    ]
+   }
+  ],
+  "27:32": [
+   {
+    "source": "John 17:12",
+    "type": "allusion",
+    "subtype": "extended",
+    "confidence": "high",
+    "text": "While I was with them in the world, I kept them in thy name: those that thou gavest me I have kept, and none of them is lost, but the son of perdition; that the scripture might be fulfilled.",
+    "evidence": {
+     "vocabulary": 5,
+     "syntax": 4,
+     "sequence": 5,
+     "context": 5,
+     "rarity": 5,
+     "attestation": 3
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "recurrenceRefs": [
+     "3 Nephi 27:30",
+     "3 Nephi 27:31"
+    ],
+    "variants": [
+     "1830 and 1920 both read “none of them are lost” against the KJV's “is lost”"
+    ],
+    "provenance": {
+     "route": "John 17:12 → KJV → Book of Mormon",
+     "other": "“None of them is lost” occurs in exactly one KJV verse, John 17:12; “none of them” alone stands in thirteen. “Son of perdition” occurs in exactly two, John 17:12 and 2 Thessalonians 2:3, and only John 17:12 has both. The Book of Mormon reads “none of them are lost”, a plural verb the KJV does not have and that 1920 did not correct — unlike 1 Nephi 1:20's “tender mercies ... is over all”, which 1920 restored to the KJV's “are”.",
+     "significance": "One KJV sentence is dismantled across three Book of Mormon verses. John 17:12 reads “none of them is lost, but the son of perdition”, a single clause with a single exception attached; 3 Nephi 27:30 says “none of them are lost”, 27:31 repeats “none of them are lost”, and 27:32 supplies the exception — “even as was the son of perdition” — after an intervening sentence and applies it not to one man but to a generation four removed. The effect is to hold the two halves of Jesus's high-priestly report apart long enough for the reader to feel the first as unqualified before the qualification arrives, and to make the exception corporate. Judas's place in the sentence is filled by the fourth generation of the Nephites, and the chapter that opened by naming the church closes by losing it."
+    },
+    "note": "Hardy cross-references John 17:12 at this verse. The clause “none of them is lost” is a KJV singleton, and the Book of Mormon has it twice in the two preceding verses before delivering John's own exception here. The 1830 plural “are lost” is not the KJV's grammar and survived into 1920, which is worth recording alongside the cases where a later edition corrected such an agreement back toward the source. Adjudicated as an extended allusion rather than a quotation because no continuous run of John 17:12 is reproduced — the borrowing is of a sentence's architecture and of two of its rare phrases, taken apart and redistributed.",
+    "bibliography": [
+     "Hardy MSI at 3 Ne 27.32 (cross-references John 17:12)"
+    ],
+    "status": "majority",
+    "streams": [
+     "scholarship",
+     "manual"
+    ]
+   },
+   {
+    "source": "Matthew 6:19",
+    "type": "allusion",
+    "subtype": "close-verbal",
+    "confidence": "high",
+    "text": "Lay not up for yourselves treasures upon earth, where moth and rust doth corrupt, and where thieves break through and steal:",
+    "evidence": {
+     "vocabulary": 5,
+     "syntax": 4,
+     "sequence": 3,
+     "context": 5,
+     "rarity": 5,
+     "attestation": 3
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "composite": [
+     "Matthew 26:15"
+    ],
+    "recurrenceRefs": [
+     "3 Nephi 13:19",
+     "3 Nephi 13:20"
+    ],
+    "provenance": {
+     "route": "Matthew 6:19 → KJV → Book of Mormon",
+     "other": "“Thieves break through and steal” occurs in exactly one KJV verse, Matthew 6:19. The Book of Mormon transcribed that verse whole at 3 Nephi 13:19 as part of the sermon at the temple, and returns to it here with the clause intact but the object changed: what moth corrupts and thieves steal is no longer a treasure laid up on earth but the price paid for Christ. “Sell me for silver, and for gold” has no KJV parallel; the nearest are Matthew 26:15's covenant for thirty pieces of silver and Amos 2:6's “sold the righteous for silver”.",
+     "significance": "This is the second-use case that ADJUDICATING §4 reserves for a phrase returning to its source rather than a narrator repeating his own formula, and the return is what makes the verse. In Matthew 6:19 the corruptible treasure is what a disciple is told not to accumulate; in 3 Nephi 27:32 it is what a disciple's descendants accept in exchange for the speaker. The sermon's warning is being cashed out as a prophecy of betrayal, and the vocabulary that framed it as prudence — moth, thieves, breaking through — now frames it as apostasy. The son of perdition named in the same verse sold him for silver too, and Matthew 6:19 stands between the two acts as the standard both fail."
+    },
+    "note": "Hardy cross-references Matthew 6:19 at this verse. The clause “thieves break through and steal” is a KJV singleton, and this is its second appearance in 3 Nephi — 13:19 has the whole of Matthew 6:19 verbatim. It is written as a link rather than filed as a within-book repeat because the second use is the argument: the treasure that moth corrupts has become the price of the Messiah, and the sermon's own image is turned against the people who heard it.",
+    "bibliography": [
+     "Hardy MSI at 3 Ne 27.32 (cross-references Matthew 6:19)"
+    ],
+    "status": "majority",
+    "streams": [
+     "scholarship",
+     "manual"
+    ]
+   }
+  ],
+  "27:33": [
+   {
+    "source": "Matthew 7:14",
+    "type": "allusion",
+    "subtype": "extended",
+    "confidence": "high",
+    "text": "Because strait is the gate, and narrow is the way, which leadeth unto life, and few there be that find it.",
+    "evidence": {
+     "vocabulary": 5,
+     "syntax": 4,
+     "sequence": 3,
+     "context": 5,
+     "rarity": 5,
+     "attestation": 4
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "composite": [
+     "Matthew 7:13"
+    ],
+    "recurrenceRefs": [
+     "3 Nephi 14:13",
+     "3 Nephi 14:14"
+    ],
+    "variants": [
+     "1830 “straight gate” / “straight is the gate” → 1920 “strait” in both places",
+     "1830 “many there be that traveleth therein” → 1920 “travel therein”"
+    ],
+    "provenance": {
+     "route": "Matthew 7:13-14 → KJV → Book of Mormon",
+     "other": "3 Nephi 14:13-14 transcribes Matthew 7:13-14 in Matthew's order and almost word for word: wide gate first, strait gate second, “leadeth to destruction”, “many there be which go in thereat”. 27:33 reverses the order to put life first, changes “leadeth” to “leads” in both members, changes “destruction” to “death”, and changes “many there be which go in thereat” to “many there be that traveleth therein”. The 1830 spelling is “straight” in both places at 27:33 and at 14:13-14, corrected to the KJV's “strait” in 1920.",
+     "significance": "That the second pass is a free reworking and not a copy of the first is the finding, and it is what licenses calling this a fresh borrowing from Matthew rather than the book quoting itself. A writer working from 3 Nephi 14 would have reproduced its order and its “destruction”; this verse reproduces neither, yet keeps Matthew 7:14's rare run “and narrow is the way ... and few there be that find it” intact. Reversing the members also changes the rhetoric: Matthew ends on the narrow way as the thing few find, and 3 Nephi 27:33 ends on the broad way and the crowd travelling it, which sets up the clause from John 9:4 that follows and gives the chapter a close on nightfall rather than on life."
+    },
+    "note": "Hardy cross-references Matthew 7:13-14 here. Both members of the saying are present with their distinctive KJV wording, but in Matthew's reverse order and with three substitutions, none of which comes from the verbatim version the same book gave at 3 Nephi 14:13-14. The 1830 “straight” for “strait” is the KJV's homophone rather than its word and is corrected in 1920; it does not affect the identification, since “straight gate” is not a KJV reading at all.",
+    "bibliography": [
+     "Hardy MSI at 3 Ne 27.33 (cross-references Matthew 7:13-14)"
+    ],
+    "status": "majority",
+    "streams": [
+     "scholarship",
+     "machine-ngram",
+     "manual"
+    ]
+   },
+   {
+    "source": "John 9:4",
+    "type": "allusion",
+    "subtype": "close-verbal",
+    "confidence": "high",
+    "text": "I must work the works of him that sent me, while it is day: the night cometh, when no man can work.",
+    "evidence": {
+     "vocabulary": 5,
+     "syntax": 4,
+     "sequence": 3,
+     "context": 5,
+     "rarity": 5,
+     "attestation": 3
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "recurrenceRefs": [
+     "Alma 34:33"
+    ],
+    "provenance": {
+     "route": "John 9:4 → KJV → Book of Mormon",
+     "other": "“The night cometh” occurs in exactly one KJV verse, John 9:4, and “no man can work” in exactly one, the same. The Book of Mormon has both, joined as John joins them: “until the night cometh, wherein no man can work.” The only alteration is “wherein” for “when”.",
+     "significance": "Nothing in Matthew 7:13-14 leads to a nightfall; the strait-gate saying ends on the few who find life, and the clause bolted onto it here comes from a different gospel and a different occasion — Jesus before the man born blind, explaining why the works have to be done now. Recover John 9 and the borrowed clause brings its subject with it: the works of him that sent me, which is the phrase this chapter has been circling since 27:13 (“the will of my Father, because my Father sent me”) and 27:21 (“the works which ye have seen me do”). The chapter's last words are therefore a time limit on the works it has spent thirty verses defining, and the broad way full of travellers is where the dark falls. Hardy cross-references John 9:4 at this verse; the pairing with Matthew 7:13 is the Book of Mormon's."
+    },
+    "note": "Two KJV singletons in one clause, both from John 9:4, appended to a Matthew 7 saying that has no such ending. It is the clearest composite in the chapter: the sermon material is Matthean and the sentence that closes it is Johannine, and the join is visible because nothing in Matthew 7 prepares for night. Alma 34:33 uses the same verse for the same purpose — a deadline on labour — in a different book, and is recorded in `recurrenceRefs`.",
+    "bibliography": [
+     "Hardy MSI at 3 Ne 27.33 (cross-references John 9:4)"
+    ],
+    "status": "majority",
+    "streams": [
+     "scholarship",
+     "manual"
+    ]
+   }
+  ]
+ }
+}

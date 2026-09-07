@@ -1,0 +1,92 @@
+[
+  {
+    "bomRef": "3 Nephi 14:1",
+    "source": "Luke 6:37",
+    "category": "better-source-identified",
+    "sharedText": "Judge not",
+    "streams": [
+      "manual"
+    ],
+    "reason": "This entry stands for the whole Sermon on the Plain, and it is written out once here rather than eleven times through the chapter. Luke 6:20-49 and Luke 11:9-13 carry most of what 3 Nephi 14 says, and a reader who knows the synoptic problem will reasonably ask whether the Nephite Sermon might be closer to Luke anywhere. It is not, at any of the eleven verses where the two Gospels are worded differently. tools/mediation-check.py returns a decisive result for Matthew at 14:2 (three points), 14:3 (one: “considerest” not “perceivest”), 14:4 (three), 14:7 (one), 14:9 (two), 14:12 (two), 14:13 (four), 14:16 (four), 14:18 (two), 14:21 (three), 14:23 (four), 14:24 (one), 14:25 (four) and 14:27 (two), and at no verse in the chapter does it return a decisive result for Luke. Verses 8 and 10 are the only ones where the two Gospels do not differ, and they are recorded as undecidable in their own rows rather than assigned to Luke by default. At this verse specifically, Luke 6:37 reads “Judge not, and ye shall not be judged: condemn not, and ye shall not be condemned: forgive, and ye shall be forgiven”, three members where Matthew and 3 Nephi have one, and “condemn not” occurs in exactly one KJV verse and is absent here. Individual Lukan candidates are filed separately below only where the divergence teaches something the general result does not."
+  },
+  {
+    "bomRef": "3 Nephi 14:1",
+    "source": "John 5:24",
+    "category": "better-source-identified",
+    "sharedText": "Verily, verily, I say unto you",
+    "streams": [
+      "manual"
+    ],
+    "reason": "A real and interesting observation, filed here rather than as a link because the chapter is not its first use. “Verily, verily, I say unto you” occurs in exactly 20 KJV verses and every one of the twenty is in the Gospel of John; Matthew's Jesus never doubles the word. So the formula that introduces this Matthean chapter is Johannine, and 3 Nephi 14:1 is joining a saying from one Gospel to a formula from another. But the seam is not made here: the doubled “verily” is already the risen Christ's habitual formula in this book from 3 Nephi 11:29 onward (11:31, 11:35, 11:39, then 12:13, 12:14, 12:26, 12:32, 12:34, 13:1), so by chapter 14 it is the narrator's own idiom and not a fresh borrowing. ADJUDICATING §4: adjudicate at first use. A reader who meets it at 14:1 is sent to 3 Nephi 11:29. The count above is worth carrying to whichever chapter takes that row."
+  },
+  {
+    "bomRef": "3 Nephi 14:6",
+    "source": "Proverbs 20:25",
+    "category": "wrong-sense",
+    "sharedText": "that which is holy",
+    "streams": [
+      "manual"
+    ],
+    "reason": "“that which is holy” occurs in exactly two KJV verses, Matthew 7:6 and Proverbs 20:25, and a two-verse rarity on a four-word phrase is the kind of count that normally earns a row. It does not here, because the senses have nothing in common. Proverbs 20:25 is about rash vows — “It is a snare to the man who devoureth that which is holy, and after vows to make enquiry” — where the holy thing is consecrated food eaten by the man who consecrated it, and the danger is to him. Matthew 7:6's holy thing is given away to those who will trample it, and the danger is to the thing and then to the giver. Nothing else of Proverbs 20 is anywhere near this chapter, and the whole of the rest of the verse is Matthew's, three King James singletons deep. Recorded so that the count is on file and the decision visible."
+  },
+  {
+    "bomRef": "3 Nephi 14:11",
+    "source": "Luke 11:13",
+    "category": "better-source-identified",
+    "sharedText": "If ye then being evil know how to give good gifts unto your children",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "The only candidate the n-gram stream proposed in this chapter that is not from Matthew 7, and it scored 8.70 on a nineteen-word run — which is exactly what one would expect, because Luke 11:13 shares its first sixteen words with Matthew 7:11. The last dozen are where they part, and the Book of Mormon goes with Matthew at every point: “your Father which is in heaven” not Luke's “your heavenly Father”, and “good things to them that ask him” not Luke's “the Holy Spirit to them that ask him”. “good things to them that ask him” occurs in exactly one KJV verse. Worth recording twice over: first because it is the chapter's best illustration of CONVENTIONS §9 — a long contiguous run is a recall floor and not a ranking, and here the longest non-Matthean run in the chapter belongs to the source that is wrong; and second because tools/mediation-check.py cannot resolve this pair, returning “no decisive divergence” where three plain divergences exist. Its matcher scores the three adjacent replacements as “neither”. The Matthean reading here was made by eye against the two printed verses, and the tool's limitation is flagged in the link's provenance."
+  },
+  {
+    "bomRef": "3 Nephi 14:19",
+    "source": "Matthew 3:10",
+    "category": "better-source-identified",
+    "sharedText": "hewn down, and cast into the fire",
+    "streams": [
+      "manual"
+    ],
+    "reason": "“hewn down, and cast into the fire” occurs in exactly three KJV verses — Matthew 3:10, Matthew 7:19 and Luke 3:9 — so the eight-word run does not by itself say which of the three is in view, and the Book of Mormon has used the Baptist's form before (Alma 5:52 carries the axe clause, “the axe is laid at the root of the tree”, which belongs to Matthew 3:10 and Luke 3:9 and not to the Sermon). Here the Sermon's form is the right one on two grounds. The axe clause is absent, and the relative pronoun is Matthew 7:19's: “every tree that bringeth not forth good fruit” occurs in exactly one KJV verse, because Matthew 3:10 reads “which bringeth not” and Luke 3:9 reads “every tree therefore which”. Luke 3:9 is excluded on the same evidence and is not filed separately."
+  },
+  {
+    "bomRef": "3 Nephi 14:23",
+    "source": "Luke 13:27",
+    "category": "better-source-identified",
+    "sharedText": "depart from me",
+    "streams": [
+      "manual"
+    ],
+    "reason": "Luke 13:26-27 is the closest thing the third Gospel has to Matthew 7:22-23, and it matters here because Luke, not Matthew, preserves the Old Testament wording behind the saying: Psalm 6:8 reads “Depart from me, all ye workers of iniquity” and Luke 13:27 reads “depart from me, all ye workers of iniquity”, while Matthew 7:23 recasts the phrase as “depart from me, ye that work iniquity”. 3 Nephi has Matthew's recasting. tools/mediation-check.py returns four decisive points against Luke — “profess unto them” not “tell you”, “never knew” not “know”, no “not whence ye are”, and “that work” not “workers of” — and three against the Psalm. The positive finding is carried as a link at 14:23 with source Psalm 6:8 and mediation OT-via-NT; this entry records the third candidate that the same test disposes of."
+  },
+  {
+    "bomRef": "3 Nephi 14:25",
+    "source": "Luke 6:48",
+    "category": "better-source-identified",
+    "sharedText": "beat upon that house",
+    "streams": [
+      "manual"
+    ],
+    "reason": "Filed separately from the general Lukan entry because this is the one place where Luke's version is not merely shorter but tells a different story. Luke's wise man “digged deep, and laid the foundation on a rock”, and what assails the house is one flood and one stream that beats “vehemently”. Matthew's man simply builds on rock, and three things come: rain, floods, winds. 3 Nephi has Matthew's three, in Matthew's order, with no digging and no “vehemently”, and it keeps them in that order again at 3 Nephi 18:13 outside the quoted block. “founded upon a rock” occurs in exactly two KJV verses, this one and Luke 6:48, which is why the pair is worth adjudicating rather than passing over."
+  },
+  {
+    "bomRef": "3 Nephi 14:26",
+    "source": "Revelation 13:1",
+    "category": "wrong-sense",
+    "sharedText": "upon the sand",
+    "streams": [
+      "manual"
+    ],
+    "reason": "“upon the sand” occurs in exactly two KJV verses, Matthew 7:26 and Revelation 13:1, and the Book of Mormon has drawn on Revelation elsewhere often enough that a two-verse rarity deserves a look. There is nothing here. Revelation 13:1 is John standing on the seashore watching a beast rise out of the sea; the sand is where the seer stands, not what anything is built on. The whole of the surrounding verse is Matthew 7:26, and “shall be likened unto” occurs in exactly one KJV verse."
+  },
+  {
+    "bomRef": "3 Nephi 14:1",
+    "source": "Matthew 7:28",
+    "category": "insufficient-verbal",
+    "sharedText": "(the omitted conclusion of the Sermon)",
+    "streams": [
+      "manual"
+    ],
+    "reason": "A negative entry, recorded because a reader collating this chapter against Matthew 7 will notice the absence and should be told it was seen. 3 Nephi 14 reproduces Matthew 7:1-27 and stops; Matthew 7:28-29 — “the people were astonished at his doctrine: for he taught them as one having authority, and not as the scribes” — has no counterpart anywhere in 3 Nephi. 3 Nephi 15:1 supplies its own conclusion instead, “when Jesus had ended these sayings he cast his eyes round about on the multitude”. The omission is intelligible on the Book of Mormon's own terms, since there are no scribes in the audience to be compared with, but it is worth recording that the transcription's boundaries are not arbitrary: it begins where Matthew's chapter begins and ends where Matthew's discourse ends, one verse before Matthew's chapter does."
+  }
+]

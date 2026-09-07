@@ -1,0 +1,112 @@
+[
+  {
+    "bomRef": "3 Nephi 11:1",
+    "source": "Daniel 5:2",
+    "category": "formulaic",
+    "sharedText": "the temple which was in",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "The highest-scoring candidate in the chapter's opening verse, and it is a locative formula. 3 Nephi 11:1 reads “round about the temple which was in the land Bountiful”; Daniel 5:2 reads “the vessels … which his father Nebuchadnezzar had taken out of the temple which was in Jerusalem.” The five shared words are 'the temple which was in' followed by a place name, which is simply how the KJV specifies which temple is meant, and Daniel 5 — Belshazzar's feast, the desecration of the vessels, the writing on the wall — has nothing else in common with a crowd gathered to marvel at a landscape. Recorded because it ranked first and a reader scanning the machine output would meet it first."
+  },
+  {
+    "bomRef": "3 Nephi 11:3",
+    "source": "Hebrews 4:12",
+    "category": "insufficient-verbal",
+    "sharedText": "(a piercing word)",
+    "streams": [
+      "manual"
+    ],
+    "reason": "The typological pull is real and the wording will not carry it. 3 Nephi 11:3 has a voice that 'did pierce them that did hear, to the centre … did pierce them to the very soul'; Hebrews 4:12 has the word of God 'sharper than any twoedged sword, piercing even to the dividing asunder of soul and spirit'. Both are about divine speech that penetrates, both name the soul, and 'pierce' occurs in only four KJV verses. But the shared vocabulary is one verb and one noun, in different grammatical roles, and Hebrews' distinctive machinery — the twoedged sword, the joints and marrow, the discerning of thoughts — is entirely absent. The verse's real borrowings are 1 Kings 19:11-12's structure of negations and Luke 24:32's burning heart, both catalogued as links at this verse; Hebrews 4:12 is what a reader expects to find and does not."
+  },
+  {
+    "bomRef": "3 Nephi 11:8",
+    "source": "Revelation 7:9",
+    "category": "insufficient-verbal",
+    "sharedText": "clothed in a white robe",
+    "streams": [
+      "manual"
+    ],
+    "reason": "A tempting near-miss on rarity. 'White robes' occurs in exactly three KJV verses, all in Revelation (6:11, 7:9, 7:13), and 'clothed in white' in exactly two, both also Revelation (3:5, 4:4, in each case 'clothed in white raiment'). But the KJV never writes 'a white robe' in the singular, and every Revelation occurrence is plural and collective — the martyrs under the altar, the innumerable multitude, the twenty-four elders — where 3 Nephi 11:8 dresses one descending figure. Mark 16:5's 'clothed in a long white garment' is the nearest single-figure parallel and shares only the adjective. No source can be identified below the level of 'white clothing marks a heavenly visitant', which is not a link. The verse's real borrowing is Luke 24:36, catalogued here."
+  },
+  {
+    "bomRef": "3 Nephi 11:12",
+    "source": "Acts 9:4",
+    "category": "wrong-sense",
+    "sharedText": "fell to the earth",
+    "streams": [
+      "manual"
+    ],
+    "reason": "The elements are present and the order is wrong. Acts 9:4 has Saul 'fell to the earth, and heard a voice saying unto him'; 3 Nephi 11:12 has the multitude fall to the earth after Christ has spoken and been seen. 'Fell to the earth' occurs in exactly three KJV verses. But the Damascus-road sequence is voice-then-prostration and its point is that the hearer cannot see; 3 Nephi's is see-then-hear-then-prostrate, and the falling is explicitly caused not by the voice but by recollection — 'for they remembered that it had been prophesied among them that Christ should shew himself unto them after his ascension into Heaven'. The prostration here is recognition, not blindness. Note that the 1830 'shew' was modernised to 'show' in 1920, so the verse does carry KJV orthography; it just does not carry Acts 9."
+  },
+  {
+    "bomRef": "3 Nephi 11:14",
+    "source": "Micah 5:2",
+    "category": "wrong-sense",
+    "sharedText": "come forth unto me that",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "The exact trap ADJUDICATING §4 describes, with the added temptation that both verses mention Israel. Micah 5:2 reads 'out of thee shall he come forth unto me that is to be ruler in Israel'; 3 Nephi 11:14 reads 'Arise and come forth unto me, that ye may thrust your hands into my side … that I am the God of Israel'. The five-word run is genuine, and it is a run across a clause boundary in one text and not in the other: in Micah 'unto me' is the Father's, and 'that' introduces a relative clause describing the ruler; in 3 Nephi 'unto me' is Christ's, addressed to a crowd, and 'that' introduces a purpose clause. The two 'me's are different persons and the two 'that's are different parts of speech. The verse's real sources are John 20:25-27 and Isaiah 54:5, both catalogued as links here."
+  },
+  {
+    "bomRef": "3 Nephi 11:15",
+    "source": "Amos 7:2",
+    "category": "formulaic",
+    "sharedText": "and it came to pass that when they had",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "A nine-word run and pure narrative boilerplate — the longest match in the chapter and the least informative, which is CONVENTIONS §9's point about the n-gram stream exactly. Covered by the standing exclusion at 1 Nephi 2:1. Amos 7:2 concerns locusts eating the grass of the land. Recorded once here because the run length would otherwise make it look important to anyone reading the dossier; the other 'and it came to pass' matches in the chapter (11:1, 11:3, 11:4, 11:8, 11:9, 11:12, 11:13, 11:16, 11:18) are passed over in silence."
+  },
+  {
+    "bomRef": "3 Nephi 11:17",
+    "source": "John 12:3",
+    "category": "better-source-identified",
+    "sharedText": "the feet of Jesus and",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "A real five-word run and a genuine collocation — 'at the feet of Jesus' is a KJV singleton at Luke 8:35, and John 12:3 has Mary anointing 'the feet of Jesus'. But the anointing at Bethany contributes nothing else, and the chapter's actual borrowing from the feet-of-Jesus material lies two verses later: 3 Nephi 11:19 has Nephi 'kiss his feet', and 'kissed his feet' occurs in exactly one KJV verse, Luke 7:38 — the sinful woman in the Pharisee's house, which is also the passage John 12:3 is habitually confused with. The link is catalogued at 11:19 against Luke 7:38. A reader who arrives at 11:17 expecting a feet-of-Jesus source should be sent there."
+  },
+  {
+    "bomRef": "3 Nephi 11:19",
+    "source": "2 Samuel 24:20",
+    "category": "common-vocabulary",
+    "sharedText": "and bowed himself before the",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "A five-word run of court protocol. Araunah 'bowed himself before the king on his face upon the ground'; Nephi 'bowed himself before the Lord'. The KJV uses this construction for approaching a superior throughout the historical books, and nothing else of 2 Samuel 24 — the census, the plague, the threshingfloor — is in view. The distinctive material in 11:19 is the kiss, not the bow, and it is catalogued as a link to Luke 7:38."
+  },
+  {
+    "bomRef": "3 Nephi 11:23",
+    "source": "Psalm 89:24",
+    "category": "formulaic",
+    "sharedText": "in my name shall",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "Four connective words. Psalm 89:24 reads 'in my name shall his horn be exalted', where the speaker is the LORD and the horn is David's; 3 Nephi 11:23 reads 'in my name shall ye baptize them'. The shared string is a prepositional phrase plus an auxiliary, and the Psalm's subject matter — the Davidic covenant and its faithfulness formula — is not in the chapter. The verse's real contacts are with Acts 8:36-39 and Acts 2:38, catalogued as a link here."
+  },
+  {
+    "bomRef": "3 Nephi 11:33",
+    "source": "John 5:39",
+    "category": "better-source-identified",
+    "sharedText": "they are they which",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "This one is not noise: 'they are they which' occurs in exactly one KJV verse, John 5:39, and the Book of Mormon reproduces it verbatim. It is filed here rather than as a link of its own because it is a relative construction rather than a content phrase, and because the sentence it sits in is governed by Mark 16:16 and by Paul's 'inherit the kingdom of God' — the borrowing is catalogued as part of the Mark 16:16 row at this verse, with John 5:39 in its composite. Worth noting for the Index Verborum that the 1830's 'they are they which' was modernised to 'who' in 1920, erasing the KJV form."
+  },
+  {
+    "bomRef": "3 Nephi 11:41",
+    "source": "Acts 13:47",
+    "category": "insufficient-verbal",
+    "sharedText": "unto the ends of the earth",
+    "streams": [
+      "manual"
+    ],
+    "reason": "A live mediation question that the wording cannot settle, recorded because the machinery was run on it. Isaiah 49:6 reads 'that thou mayest be my salvation unto the end of the earth' and Acts 13:47, quoting it, reads 'for salvation unto the ends of the earth'; mediation-check.py returns one decisive point for Acts, on the plural 'ends'. But the plural is not diagnostic here: 'unto the ends of the earth' occurs in six KJV verses, four of them in the Psalms, so the Book of Mormon's plural could come from any of them or from none. Beyond those five words 3 Nephi 11:41 — 'go forth unto this people, and declare the words which I have spoken' — has no contact with Isaiah 49:6 or Acts 13:47 at all: no light, no Gentiles, no salvation, no servant. The commission's nearest relative is Acts 1:8's 'unto the uttermost part of the earth', which shares no wording either. Recorded so that a reader who runs the same check is told the catalogue ran it and declined the result."
+  }
+]

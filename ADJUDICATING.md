@@ -40,12 +40,27 @@ Nephi"` (the canonical title) instead of Hardy's own bare section label
 Check first:
 
 ```bash
-grep -n "^Third Nephi\s*$" text/hardy-msi-raw.txt   # must return exactly one line
+python3.11 -c "print(open('text/hardy-msi-raw.txt').read().replace('\x0c',''))" \
+    | grep -n "^Third Nephi\s*$"   # must return exactly one line
 ```
 
 Hardy's own labels, not the canonical book titles, are what actually sit on
 their own line in the appendix — confirm the exact string before trusting a
-clean exit code.
+clean exit code. **A plain `grep` on the raw file will find nothing here**, even
+for a correct label: `pdftotext` leaves `\x0c` form-feed bytes at each page
+break, and the label's own line starts `\f\fThird Nephi`, not `Third Nephi` —
+`parse-hardy.py` strips them before matching (`full = RAW.read_text().replace
+("\x0c", "")`), so the check must strip them too or it reports a correct label
+as missing (found on 3 Nephi: `grep -n "^Third Nephi\s*$"` alone returns
+nothing even though the label is right there and the parse succeeds).
+
+**A book whose apparatus spans many chapters carries no per-chapter label at
+all.** Hardy's own section headers can be page RANGES rather than one label
+per chapter — his headers for 3 Nephi read "3 Nephi 12.1–18.39" and "3 Nephi
+19.15–26.14", so several whole chapters (11, for instance) legitimately have
+zero Hardy rows with no parse failure behind it. Confirm against
+`data/hardy-refs.json` directly (grep for the book name) before assuming a
+chapter with no rows is a gap.
 
 ```bash
 python3.11 tools/parse-hardy.py --book "2 Nephi" \

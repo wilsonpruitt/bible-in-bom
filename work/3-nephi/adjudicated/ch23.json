@@ -1,0 +1,295 @@
+{
+  "chapter": 23,
+  "adjudicated": "2026-09-07",
+  "adjudicator": "Opus",
+  "links": {
+    "23:1": [
+      {
+        "source": "John 13:34",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "text": "A new commandment I give unto you, That ye love one another; as I have loved you, that ye also love one another.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 5,
+          "sequence": 4,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "recurrenceRefs": [
+          "Jacob 3:9"
+        ],
+        "provenance": {
+          "route": "John 13:34 → KJV → Book of Mormon",
+          "other": "“commandment I give unto you” occurs in exactly one KJV verse, John 13:34, and “I give unto you that ye” occurs in exactly one KJV verse, the same one. The formula is used twice in the whole Book of Mormon, at Jacob 3:9 and here.",
+          "significance": "John 13:34 is spoken at the last supper, to the Twelve, hours before the passion, and its content is the one commandment the Fourth Gospel calls new: love one another. 3 Nephi 23:1 puts the identical frame in the risen Christ's mouth to the Nephite twelve and fills it with a different object — not love one another but search these things diligently. The substitution is the reading. A farewell commandment about how the disciples are to treat each other becomes a farewell commandment about how they are to read, and it is issued four verses before the demonstration that their own book was defective."
+        },
+        "note": "'Yea, a commandment I give unto you, that ye search these things diligently.' Two King James singletons in one clause and both belong to John 13:34: the six-word run “commandment I give unto you” and the frame “I give unto you that ye”, which in the KJV introduces the new commandment and nothing else. Well below Skousen's sixteen-word threshold, so it is catalogued as an allusion and is not one of his long quotations. The Book of Mormon has used the formula once before, at Jacob 3:9, where the content is likewise supplied by the local argument rather than by John; that is its only other occurrence, and a fresh row is given here because a new book is a new hand.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      },
+      {
+        "source": "1 Peter 1:10",
+        "type": "echo",
+        "subtype": "conceptual",
+        "confidence": "moderate",
+        "text": "Of which salvation the prophets have enquired and searched diligently, who prophesied of the grace that should come unto you:",
+        "evidence": {
+          "vocabulary": 2,
+          "syntax": 2,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "uncertain",
+        "mediation": "direct-NT",
+        "composite": [
+          "1 Peter 1:11"
+        ],
+        "recurrenceRefs": [
+          "3 Nephi 23:5"
+        ],
+        "provenance": {
+          "route": "1 Peter 1:10-12 → KJV → Book of Mormon",
+          "other": "“searched diligently” occurs in exactly one KJV verse, 1 Peter 1:10. The Book of Mormon's 'search these things' is in no KJV verse and appears nowhere else in the Book of Mormon.",
+          "significance": "1 Peter 1:10-12 is the New Testament's one paragraph in which prophecy is described as a reading problem: the prophets 'enquired and searched diligently', the Spirit in them 'testified beforehand', and what they found was ministered not to themselves but to a later audience. Every one of those three moves is made across 3 Nephi 23:1-5 — search diligently (23:1), Isaiah's words 'hath been, and shall be' (23:3), and 'Search the prophets: for many there be that testify of these things' addressed to a Gentile future (23:4-5). If the echo holds it explains a choice the next rows have to account for anyway: why the imperative at 23:5 is 'Search the prophets' and not John 5:39's 'Search the scriptures'. Peter's paragraph is about prophets specifically."
+        },
+        "note": "'Ye had ought to search these things. Yea, a commandment I give unto you, that ye search these things diligently.' The verbal contact is thin — one verb and one adverb, in different grammatical forms — and the row is written because the paragraph behind it does everything this unit of 3 Nephi does. Proposed under CONVENTIONS §0a as a link worth the risk rather than a demonstration; a reader who wants a source with wording in it should take the John 5:39 row at 23:5 and leave this one.",
+        "whyNot": "The shared lexemes are 'search' and 'diligently' and neither is distinctive on its own; 'search' stands in 46 KJV verses. The constructions differ at every point: 1 Peter reports in the past tense about prophets, 3 Nephi commands in the imperative to disciples, and the participial 'Searching what' of 1 Peter 1:11 has no counterpart here. The coherence is at the level of the paragraph, which is the level at which coincidence is cheapest.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "23:4": [
+      {
+        "source": "Revelation 1:19",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "Write the things which thou hast seen, and the things which are, and the things which shall be hereafter;",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "Revelation 1:19 → KJV → Book of Mormon",
+          "other": "“write the things which” occurs in exactly one KJV verse, Revelation 1:19, and “which shall be hereafter” occurs in exactly one KJV verse, the same one. 'Hath been, and shall be' is in no KJV verse.",
+          "significance": "Revelation 1:19 is the glorified Christ's commission to a seer to write, and it divides what is to be written into three tenses — what thou hast seen, what is, what shall be hereafter. 3 Nephi sets the same two elements side by side across two verses: 23:3 says of Isaiah's words that they 'hath been, and shall be', and 23:4 says 'write the things which I have told you'. Recover Revelation and the tense-division that 23:3 makes about a prophet's words turns out to be the tense-division Revelation makes about the book its seer is being told to write. The scene that follows in 3 Nephi is then the darker half of the same commission: a risen Christ auditing a written record and finding a required entry missing, which is the anxiety Revelation ends on at 22:18-19."
+        },
+        "note": "'Therefore give heed to my words: write the things which I have told you.' “Write the things which” is a King James singleton and its one verse is the risen Christ's commission to John on Patmos. The setting agrees at every load-bearing point — a glorified Christ, a seer, an order to commit what has just been said to writing, and a named future audience, 3 Nephi's 'they shall go forth unto the Gentiles' against Revelation's seven churches. The 1830 reads 'hath been' at 23:3 where 1920 reads 'have been'; the singular is the older wording and does not bear on the source, but it is the 1830 text that keeps 23:3 and 23:4 sounding like one sentence.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "23:5": [
+      {
+        "source": "Deuteronomy 18:19",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "text": "And it shall come to pass, that whosoever will not hearken unto my words which he shall speak in my name, I will require it of him.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Mark 16:16"
+        ],
+        "recurrenceRefs": [
+          "1 Nephi 22:20",
+          "3 Nephi 20:23",
+          "3 Nephi 11:33"
+        ],
+        "provenance": {
+          "route": "Deuteronomy 18:19 → KJV → Book of Mormon",
+          "alternative": "Acts 3:23 quotes Deuteronomy 18:19 and is the form the Book of Mormon follows elsewhere; tools/mediation-check.py returns two decisive points against it here.",
+          "other": "“hearken unto my words” occurs in exactly one KJV verse, Deuteronomy 18:19. Its New Testament quotation does not preserve the phrase: Deuteronomy's 'whosoever ... hearken unto my words which he shall speak' becomes Acts 3:23's 'every soul, which will not hear that prophet'. tools/mediation-check.py finds two decisive divergences between the two and the Book of Mormon has Deuteronomy's form at both — 'whosoever' not 'every soul which', and 'hearken unto my words' not 'hear that prophet'.",
+          "significance": "This is a recorded counter-example to the corpus's strongest tendency. Deuteronomy 18 enters the Book of Mormon three times and the other two follow Acts rather than Deuteronomy: 1 Nephi 22:20 reproduces twenty-six continuous words of Acts 3:22-23, and 3 Nephi 20:23 — three chapters earlier in this same discourse — has Acts' 'every soul which will not hear that prophet'. Here, at the one point where Acts does not carry the phrase, the wording is Deuteronomy's own. And the sanction is inverted. Deuteronomy 18:19 is a threat: whosoever will NOT hearken, I will require it of him. 3 Nephi 23:5 is a promise: whosoever WILL hearken, the same shall be saved. Christ has already claimed at 20:23 to be the prophet Deuteronomy 18 promises; three chapters later he takes that prophet's penalty clause, deletes its negative, and reads it as a beatitude."
+        },
+        "note": "'And whosoever will hearken unto my words, and repenteth, and is baptized, the same shall be saved.' Six words of Deuteronomy 18:19 in Deuteronomy's order with one word removed — 'whosoever will [not] hearken unto my words' — and “hearken unto my words” is a King James singleton. The rest of the sentence is not Deuteronomy's: the condition ('repenteth, and is baptized') and the apodosis ('the same shall be saved') are Mark 16:16's, already adjudicated in this book at 3 Nephi 11:33, so the verse welds the Deuteronomic prophet's sanction onto the Marcan baptismal formula and turns both into a single promise. What makes the row worth its space is the mediation result rather than the volume: this is the one Old Testament verse the Book of Mormon is elsewhere demonstrably taking through Acts, and here it is not.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      },
+      {
+        "source": "John 5:39",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "Search the scriptures; for in them ye think ye have eternal life: and they are they which testify of me.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "recurrenceRefs": [
+          "3 Nephi 10:14",
+          "3 Nephi 15:10"
+        ],
+        "provenance": {
+          "route": "John 5:39 → KJV → Book of Mormon",
+          "other": "“search the scriptures” occurs in exactly one KJV verse, John 5:39, and “they which testify” occurs in exactly one KJV verse, the same one. “testify of me” occurs in exactly two KJV verses, John 5:39 and John 15:26.",
+          "significance": "The source was adjudicated for this book at 3 Nephi 10:14, where Mormon breaks John's imperative into a relative clause, and used again at 15:10 as a gloss on Matthew 7:12. This verse is catalogued rather than cross-referred because it is the only place in the Book of Mormon that reproduces John 5:39's actual shape — imperative, causal 'for', clause of testimony — and because it alters exactly one word of it. John's object is 'the scriptures'; here it is 'the prophets'. The substitution earns its keep one verse later: 23:6 distinguishes 'the Scriptures ... which they had received' from 'other Scriptures I would that ye should write, that ye have not', and a canon that is about to be found deficient is not the thing to send a reader to. The prophets can be searched when the scriptures are incomplete."
+        },
+        "note": "'Search the prophets: for many there be that testify of these things.' John 5:39 is the King James Bible's one sentence holding a command to search, a causal clause and a verb of testimony in that order, and both of its distinguishing phrases are singletons. Two changes are made: 'the scriptures' becomes 'the prophets', and the object of the testimony moves from the speaker ('testify of me') to the events under discussion ('testify of these things'). The second change is the one 3 Nephi 10:14-17 also made, so it is the book's settled handling of the verse and not a fresh departure. Written as a link rather than as a within-book repeat under ADJUDICATING §4 because what is borrowed here is the syntax the earlier rows dismantled; a reader who meets this verse and is shown nothing has been told there is no borrowing in it.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "23:6": [
+      {
+        "source": "Luke 24:27",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "And beginning at Moses and all the prophets, he expounded unto them in all the scriptures the things concerning himself.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Mark 4:34"
+        ],
+        "recurrenceRefs": [
+          "3 Nephi 23:14",
+          "3 Nephi 26:1"
+        ],
+        "provenance": {
+          "route": "Luke 24:27 + Mark 4:34 → KJV → Book of Mormon",
+          "other": "“expounded unto them” occurs in exactly one KJV verse, Luke 24:27, and “all the scriptures” occurs in exactly one KJV verse, the same one. “expounded all” occurs in exactly one KJV verse, Mark 4:34. The bare word 'expounded' stands in six KJV verses, of which only these two have Jesus as its subject.",
+          "significance": "Luke 24:27 is the risen Christ on the Emmaus road, beginning at Moses and all the prophets and expounding in all the scriptures the things concerning himself. 3 Nephi 23 is that half-verse held open for a whole chapter, with the road replaced by a written record laid before him and his eyes cast upon it. What Luke cannot supply is the audit, and that is what this chapter adds: at 23:6 the expounding is finished and the risen Christ says there are 'other Scriptures I would that ye should write, that ye have not'. Recover Luke 24 and the addition reads as an answer to a gap Luke leaves open, since Luke's Christ expounds a canon and the reader is never told what was in it or whether anything was missing from it."
+        },
+        "note": "'After he had expounded all the Scriptures unto them which they had received.' The clause lays the King James Bible's only two 'expounded' sentences about Jesus over each other: Luke 24:27's “expounded unto them” and “all the scriptures”, both singletons and both from the Emmaus road, and Mark 4:34's “expounded all”, where Jesus expounds all things privately to his disciples when they are alone. Neither source has the Book of Mormon's word order, and the fusion 'expounded all the Scriptures unto them' is what produces it. The 1830 keeps the historic present 'he saith unto them' twice in this verse where 1920 reads 'said', which is the KJV narrative idiom surviving in the first edition and erased later. The construction returns at 23:14 and again at 3 Nephi 26:1; both are cross-referred here rather than argued again.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "23:9": [
+      {
+        "source": "Matthew 27:52",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "text": "And the graves were opened; and many bodies of the saints which slept arose,",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 3,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 3
+        },
+        "kjvSpecific": "yes",
+        "mediation": "OT-via-earlier-BoM",
+        "composite": [
+          "Matthew 27:53"
+        ],
+        "recurrenceRefs": [
+          "Helaman 14:25",
+          "3 Nephi 23:11"
+        ],
+        "provenance": {
+          "route": "Matthew 27:52-53 → KJV → Helaman 14:25 → 3 Nephi 23:9",
+          "other": "“appeared unto many” occurs in exactly one KJV verse, Matthew 27:53, and “bodies of the saints” occurs in exactly one KJV verse, Matthew 27:52. 'Many saints' is in no KJV verse: it is Helaman 14:25's compression of Matthew's 'many bodies of the saints', and 3 Nephi 23:9 takes it in that compressed form.",
+          "significance": "The proximate model is not Matthew but Helaman 14:25, and the chapter says so: Christ states that he commanded Samuel to prophesy this, and Helaman 14:25 is where Samuel does, on two Matthaean singletons. What 3 Nephi then does to Helaman is the finding. Helaman has graves opened, dead yielded up, and many saints appearing unto many; 3 Nephi drops the graves, keeps 'many saints ... appear unto many', and adds a third verb that stands in neither Helaman nor Matthew — 'should minister unto them', repeated at 23:11 and written into the record at 23:13. So the chapter whose entire subject is a record found incomplete supplies, in the very sentence that rebukes the omission, a detail neither of its own sources contains. Matthew's saints walk into the holy city and are seen; the Nephite saints minister."
+        },
+        "note": "'That there were many saints which should arise from the dead, and should appear unto many, and should minister unto them.' The distinguishing phrase is “appeared unto many”, a King James singleton at Matthew 27:53, and it arrives here already fitted to a Nephite setting by Helaman 14:25 — which is why the mediation is recorded as running through the Book of Mormon's own earlier text and not straight from the gospel. Two departures from Helaman are worth noting: 'arise from the dead' replaces Helaman's 'graves shall be opened, and shall yield up many of their dead', and is nearer Matthew's 'the saints which slept arose' than Helaman was; and 'minister unto them' is new. The 1830 reads 'many saints which should arise' where 1920 reads 'who', keeping Matthew 27:52's own relative pronoun in 'the saints which slept arose'; the 1830 also asks 'Were it not so?' where 1920 asks 'Was it not so?'. The mediation value is filed as OT-via-earlier-BoM, which is the right category under a wrong name — the ultimate source is a New Testament verse. PLAN §7 already has that enum open for a ruling; this row is another instance of it.",
+        "bibliography": [
+          "Hardy MSI at 3 Ne 23.9 (Matthew 27:52-53)"
+        ],
+        "status": "majority",
+        "streams": [
+          "scholarship",
+          "manual"
+        ]
+      },
+      {
+        "source": "John 12:28",
+        "type": "allusion",
+        "subtype": "conceptual",
+        "confidence": "moderate",
+        "text": "Father, glorify thy name. Then came there a voice from heaven, saying, I have both glorified it, and will glorify it again.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 2,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "John 13:31",
+          "John 13:32"
+        ],
+        "provenance": {
+          "route": "John 12:28 + John 13:31-32 → KJV → Book of Mormon",
+          "other": "“glorify thy name” occurs in exactly four KJV verses — Psalm 86:9, Psalm 86:12, John 12:28 and Revelation 15:4 — and only John 12:28 addresses the Father and dates the hour of the passion. “glorified in him” occurs in exactly two KJV verses, John 13:31 and John 13:32. 'Glorify his name' is in no KJV verse at all.",
+          "significance": "The Book of Mormon dates the resurrection of the saints by a Johannine clock. John 12:23-28 is the hour arriving — 'the hour is come, that the Son of man should be glorified' — and ends in the prayer 'Father, glorify thy name'; John 13:31-32 answers that prayer four times over, with God glorified 'in him' and glorifying him 'in himself'. 3 Nephi 23:9 collapses the prayer and its answer into a single time-reference for an event that Matthew 27:53 dates plainly, 'after his resurrection'. The effect is to move the Nephite dead out of Matthew's chronology and into John's hour: what Samuel was commanded to predict is not a date but a glorification."
+        },
+        "note": "'At the day that the Father should glorify his name in me.' No King James verse reads 'glorify his name', and the clause looks assembled from the two that come nearest: John 12:28's 'Father, glorify thy name', spoken as the hour of the passion arrives, and John 13:31-32's 'God is glorified in him', which supplies the otherwise unaccountable 'in me'. Held at moderate confidence because nothing is quoted — the phrase is built rather than borrowed. What carries the row is that both halves come from two adjacent chapters of one gospel and that the referent of the Book of Mormon's clause, the day of the crucifixion and resurrection, is the referent of both.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ]
+  }
+}

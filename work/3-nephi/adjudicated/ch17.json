@@ -1,0 +1,718 @@
+{
+  "chapter": 17,
+  "adjudicated": "2026-09-07",
+  "adjudicator": "Opus",
+  "links": {
+    "17:1": [
+      {
+        "source": "Matthew 26:18",
+        "type": "quotation",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "And he said, Go into the city to such a man, and say unto him, The Master saith, My time is at hand; I will keep the passover at thy house with my disciples.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "Matthew 26:18 → KJV → Book of Mormon",
+          "other": "“my time is at hand” occurs in exactly one KJV verse, Matthew 26:18. The nearest competitors are John's “mine hour is not yet come” (John 2:4, 7:30, 8:20) and Matthew 26:45's “the hour is at hand”, neither of which is the Book of Mormon's wording.",
+          "significance": "The metalepsis is worth recovering in full. In Matthew 26:18 the clause is not a general statement about mortality; it is the sentence by which Jesus commandeers an upper room, and the words that follow it in the same verse are “I will keep the passover at thy house with my disciples.” In the KJV, “my time is at hand” is the formula that introduces the Last Supper. 3 Nephi 17:1 uses it to announce a departure — and the chapter it introduces ends with Jesus promising to come again on the morrow (17:3), which he does in chapter 18, where he institutes the bread and the wine. The catalogue's claim is that the Passover setting is not incidental to the borrowing: the phrase arrives one chapter before the New World's supper, in the position Matthew gives it."
+        },
+        "note": "'Behold, my time is at hand.' Five words reproduced exactly from the only KJV verse that contains them, in the mouth of the same speaker and at a structurally comparable moment. It is catalogued as a quotation on the grounds set out in CONVENTIONS §2 — a complete clause reproduced verbatim from an identifiably single source — and it should be read as one, but it falls well below Skousen's sixteen-word operational threshold and is not one of his thirty-six; a reader collating this catalogue against his list should not expect to find it there. The 1830 reading 'he saith unto them' (1920: 'said') keeps the KJV present-tense narrative verb that Matthew 26:18 also uses of the Master.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "17:2": [
+      {
+        "source": "John 16:12",
+        "type": "allusion",
+        "subtype": "conceptual",
+        "confidence": "moderate",
+        "text": "I have yet many things to say unto you, but ye cannot bear them now.",
+        "evidence": {
+          "vocabulary": 2,
+          "syntax": 3,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "uncertain",
+        "mediation": "direct-NT",
+        "composite": [
+          "John 12:49"
+        ],
+        "provenance": {
+          "route": "John 16:12 → KJV → Book of Mormon",
+          "other": "“ye cannot bear them now” occurs in exactly one KJV verse, John 16:12. The Book of Mormon substitutes 'understand' for 'bear' and 'at this time' for 'now', which is why the machine streams do not see it at all.",
+          "significance": "John 16:12 is the one place in the gospels where Jesus stops teaching because the hearers have reached their capacity, and it stands in the farewell discourse, immediately before the promise of the Spirit who will 'guide you into all truth' (16:13). 3 Nephi 17:2-3 makes the same move and supplies a different remedy: go home, ponder, ask the Father, and I will come tomorrow. The suppressed correspondence is that the Book of Mormon replaces the Paraclete's future guidance with a night's reflection and a second visit — the deferral is a day, not a dispensation."
+        },
+        "note": "'I perceive that ye are weak, that ye cannot understand all my words which I am commanded of the Father to speak unto you at this time.' No run of shared words survives, and the link is proposed on the shape of the sentence rather than its vocabulary: an admission that there is more to say, a stated incapacity in the hearers, and a deferral — which is John 16:12 and nothing else in the KJV. The second half of the verse reaches for a different Johannine sentence: 'which I am commanded of the Father to speak' answers John 12:49, 'the Father which sent me, he gave me a commandment, what I should say, and what I should speak.' The two halves of 3 Nephi 17:2 correspond to two Johannine sayings about the limits of what Jesus says and why.",
+        "whyNot": "Verbal contact is genuinely thin — 'cannot' and the Father are the only shared content, and the deferral of teaching to a later occasion is a common enough narrative device that no source need be posited. A reader may decline this row without declining the John 15:16 link at the next verse, which is verbal.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "17:3": [
+      {
+        "source": "John 15:16",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "Ye have not chosen me, but I have chosen you, and ordained you, that ye should go and bring forth fruit, and that your fruit should remain: that whatsoever ye shall ask of the Father in my name, he may give it you.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "John 15:16 → KJV → Book of Mormon",
+          "other": "The discrimination is exact and worth stating. “ask of the Father in my name” occurs in exactly one KJV verse, John 15:16; “ask the Father in my name” occurs in exactly one KJV verse, John 16:23. The two verses differ by the preposition and by nothing else, and 3 Nephi 17:3 reads 'ask of the Father, in my name', which is John 15:16's form.",
+          "significance": "A one-word discrimination inside a single Johannine discourse, and it decides which verse is in view. The dossier ranked both candidates; only one of them is the Book of Mormon's wording. What is recovered with John 15:16 is the vine discourse and the commissioning of the eleven — 'I have chosen you, and ordained you' — spoken to disciples who are being sent out. 3 Nephi 17:3 addresses the whole multitude with the promise John gives to the ordained few, which is of a piece with the chapter's levelling of the Jerusalem material onto a congregation of two and a half thousand men, women and children (17:25)."
+        },
+        "note": "'And ask of the Father, in my name, that ye may understand.' Six words in the KJV's exact order, from the only verse that has them in that order. The preposition is the whole argument: John 16:23 is the near-identical rival and it reads 'ask the Father', so a writer working from memory of the general Johannine promise would land on either, and this text lands on one. The 1830 comma after 'Father' is the first edition's punctuation and does not affect the reading.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "17:4": [
+      {
+        "source": "John 14:28",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "Ye have heard how I said unto you, I go away, and come again unto you. If ye loved me, ye would rejoice, because I said, I go unto the Father: for my Father is greater than I.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Matthew 15:24"
+        ],
+        "provenance": {
+          "route": "John 14:28 → KJV → Book of Mormon",
+          "other": "“I go unto the Father” occurs in exactly one KJV verse, John 14:28. John's other departure formulas are worded differently — 'I go my way to him that sent me' (16:5), 'I go to the Father' (16:10, 16:17), 'I leave the world, and go to the Father' (16:28) — and none of them is the Book of Mormon's string. “lost sheep of the house of Israel” occurs in exactly two KJV verses, Matthew 10:6 and 15:24.",
+          "significance": "John 14:28's whole point is that a departure is cause for rejoicing, and the verse that carries the formula ends 'for my Father is greater than I' — the sentence the fourth century fought over. 3 Nephi 17:4 takes the departure clause and immediately turns it to an errand the fourth gospel never gives it: not ascension but a further ministry, to the lost tribes. That fusion is the finding. The second element, 'lost … of Israel', is Matthew's phrase for the limit of Jesus's own commission ('I am not sent but unto the lost sheep of the house of Israel'), and here it names the people he is going on to; the Book of Mormon converts a restriction into an itinerary, and adds the gloss that answers the objection buried in Matthew's word — 'they are not lost unto the Father, for he knoweth whither he hath taken them.'"
+        },
+        "note": "'But now I go unto the Father, and also to shew myself unto the lost tribes of Israel.' The first clause reproduces the KJV singleton exactly; the second reworks Matthew's 'lost sheep of the house of Israel' into 'the lost tribes of Israel' and then argues with the adjective. The 1830 'shew' is the KJV spelling, modernized to 'show' in 1920 — CONVENTIONS §8 — and it is worth noting that the machine's top-ranked candidate here was Romans 15:25, 'But now I go unto Jerusalem to minister unto the saints', which shares five words of connective English with the verse and no content at all. Where the run is longest is not where the source is.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "17:6": [
+      {
+        "source": "1 John 3:17",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "text": "But whoso hath this world’s good, and seeth his brother have need, and shutteth up his bowels of compassion from him, how dwelleth the love of God in him?",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 2,
+          "context": 3,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Colossians 3:12",
+          "Philippians 2:1"
+        ],
+        "recurrenceRefs": [
+          "3 Nephi 17:7"
+        ],
+        "provenance": {
+          "route": "1 John 3:17 (+ Colossians 3:12) → KJV → Book of Mormon",
+          "other": "The KJV's three collocations of bowels with pity-words are each singletons: “bowels of compassion” occurs in exactly one KJV verse, 1 John 3:17; “bowels of mercies” occurs in exactly one KJV verse, Colossians 3:12; “bowels and mercies” occurs in exactly one KJV verse, Philippians 2:1.",
+          "significance": "The Book of Mormon says it twice, one verse apart, and takes a different KJV singleton each time: 'my bowels is filled with compassion' at 17:6 and 'my bowels is filled with mercy' at 17:7. Between them the two clauses exhaust the King James Bible's stock of bowel-and-pity phrases. What is recovered from 1 John 3:17 is that the phrase there appears only in the negative — the man who shuts his bowels of compassion up — so the KJV never once shows compassionate bowels open. 3 Nephi 17:6-7 is the sentence 1 John 3:17 implies and does not write."
+        },
+        "note": "'Behold, my bowels is filled with compassion towards you.' The idiom is not English; it is the King James Bible's calque, and the Book of Mormon has both halves of it within two verses. The 1830 reading is a grammatical singular — 'my bowels IS filled' — corrected to 'are' in 1920, and it belongs in the record for the reason CONVENTIONS §8 gives: the direction of the change is toward the source, since the KJV construes 'bowels' as a plural throughout. The first edition shows a writer using a borrowed idiom without its borrowed concord.",
+        "whyNot": "The bowels idiom is frequent enough across the KJV as a whole (Genesis, Isaiah, Jeremiah, Lamentations, Philippians, Colossians, Philemon, 1 John) that no one verse can be shown to be in view; what the counts establish is that the collocation is King James English, not that 1 John 3:17 specifically is the source. Confidence is held at moderate for that reason.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "17:7": [
+      {
+        "source": "Matthew 14:14",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "text": "And Jesus went forth, and saw a great multitude, and was moved with compassion toward them, and he healed their sick.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 3,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Matthew 14:18"
+        ],
+        "recurrenceRefs": [
+          "3 Nephi 17:9"
+        ],
+        "provenance": {
+          "route": "Matthew 14:14-18 → KJV → Book of Mormon",
+          "other": "Two KJV singletons, four verses apart in one pericope. “healed their sick” occurs in exactly one KJV verse, Matthew 14:14. “Bring them hither” occurs in exactly one KJV verse, Matthew 14:18. 3 Nephi 17:7 has the second phrase twice and the substance of the first, together with the compassion that Matthew 14:14 supplies as the motive.",
+          "significance": "This is the chapter's best case of metalepsis and it turns on what Matthew 14:18's 'Bring them hither to me' refers to. It is not said of the sick. It is said of the five loaves and the two fishes, and the sentence after it is the blessing and breaking of the bread. 3 Nephi 17:7 says 'bring them hither' of human beings — twice — and the chapter that follows, 3 Nephi 18, is the institution of the bread and the wine among the Nephites. The Book of Mormon has taken the compassion and the healing from the front of Matthew's pericope and the summons from its middle, and set them one chapter before its own breaking of bread. Read alongside 17:1's 'my time is at hand', the chapter is framed at both ends by verses the KJV reserves for a meal."
+        },
+        "note": "'Bring them hither, and I will heal them: for I have compassion upon you.' Matthew 14:13-21 is a single scene: a great multitude follows Jesus, he is moved with compassion, he heals their sick, and he then feeds them. Every one of those four elements is in 3 Nephi 17:7-9, and two of the phrases occur nowhere else in the King James Bible. 'Moved with compassion' itself is too widely distributed to prove anything — five verses, Matthew 9:36, 14:14, 18:27, Mark 1:41 and 6:34 — but 'healed their sick' is Matthew 14:14's alone, and it is the verse in which compassion and healing are joined.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      },
+      {
+        "source": "John 5:3",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "In these lay a great multitude of impotent folk, of blind, halt, withered, waiting for the moving of the water.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 3,
+          "sequence": 4,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Matthew 15:30"
+        ],
+        "provenance": {
+          "route": "John 5:3 + Matthew 15:30 → KJV → Book of Mormon",
+          "other": "The King James Bible has exactly two catalogues of disability of this shape, and 3 Nephi 17:7 takes words from both. “blind, halt, withered” occurs in exactly one KJV verse, John 5:3. “lame, blind” occurs in exactly one KJV verse, Matthew 15:30, whose full list is 'lame, blind, dumb, maimed'. Between them the two verses supply blind, halt, withered, lame and maimed — five of the Book of Mormon's seven categories — and 'maimed' otherwise appears only at Matthew 18:8, Leviticus 22:22 and Luke 14:13, 21.",
+          "significance": "Recovering John 5:3's context makes the fusion pointed. Its great multitude of blind, halt and withered are lying at Bethesda 'waiting for the moving of the water' — waiting, that is, for a healing that comes intermittently and to one at a time, and the verse leads directly into the healing of a single man who has waited thirty-eight years. Matthew 15:30's crowd, by contrast, are cast down at Jesus's feet and 'he healed them'. 3 Nephi 17:9 takes the Matthean outcome and universalises it: 'he did heal them every one'. The catalogue's reading is that the Book of Mormon lists the Bethesda sufferers and gives them the Galilean ending."
+        },
+        "note": "'Have ye any that are lame, or blind, or halt, or maimed, or leprous, or that are withered, or that are deaf, or that are afflicted in any manner.' Seven categories in a row, five of them from the two KJV verses that catalogue disability in exactly this way, and 'halt' and 'withered' — the two least common — coming from the one verse that has them together. The Book of Mormon's list is longer than either source and adds 'leprous' and 'deaf', which is the ordinary way a borrowed list gets extended.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "17:9": [
+      {
+        "source": "Acts 5:16",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "There came also a multitude out of the cities round about unto Jerusalem, bringing sick folks, and them which were vexed with unclean spirits: and they were healed every one.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "Acts 5:16 → KJV → Book of Mormon",
+          "other": "“healed every one” occurs in exactly one KJV verse, Acts 5:16, and “sick folks” occurs in exactly one KJV verse, the same one. The Book of Mormon's clause is 'he did heal them every one'.",
+          "significance": "The metalepsis here is about who is doing the healing. Acts 5:16 is not a gospel verse; it is the summary of the apostolic signs in Solomon's porch, after Pentecost, when Jesus is absent and the multitude brings its sick to the twelve. 3 Nephi 17:9 gives the risen Christ in person the sentence the King James Bible reserves for what his apostles did without him. The chapter is thick with the same register — 'with one accord', which the KJV uses thirteen times and eleven of them in Acts, and the counting of the crowd in souls at 17:25 — so the borrowing is not isolated: 3 Nephi 17 narrates a visitation of Christ in the vocabulary of the book of Acts."
+        },
+        "note": "'All the multitude, with one accord, did go forth, with their sick, and their afflicted … and he did heal them every one as they were brought forth unto him.' Both halves of Acts 5:16 are here — a multitude bringing its sick, and the completeness of the outcome — and the completeness clause is a KJV singleton. The dossier's top-ranked candidate for this verse was Ezekiel 10:6 on the strength of a nine-word run of 'and it came to pass that when he had', which is the standing formulaic case and carries nothing; the real source shares four words and is decisive. CONVENTIONS §9 on the n-gram stream as a recall floor rather than a ranking is exactly borne out here.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "17:10": [
+      {
+        "source": "Luke 7:38",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "And stood at his feet behind him weeping, and began to wash his feet with tears, and did wipe them with the hairs of her head, and kissed his feet, and anointed them with the ointment.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 5,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "Luke 7:38 → KJV → Book of Mormon",
+          "other": "“wash his feet” occurs in exactly four KJV verses — Genesis 24:32, Psalm 58:10, Luke 7:38 and John 13:10 — and only Luke 7:38 washes them with tears. Kissing the feet is rarer still: “kiss his feet” occurs in exactly zero KJV verses, and 'kissed his feet' appears at Luke 7:38 and nowhere else. The Book of Mormon's combination of kissing and tears on the feet has one source in the King James Bible.",
+          "significance": "Luke 7:36-50 is the anointing by the woman who was a sinner, and the gestures are hers alone: the host has given Jesus no water for his feet and no kiss, and Jesus says so (7:44-45) — 'thou gavest me no water for my feet: but she hath washed my feet with tears … thou gavest me no kiss.' The point of the scene is that the tears and the kissing are what a forgiven sinner does and a respectable host does not. 3 Nephi 17:10 assigns both gestures to an entire congregation of the healed and the whole together, which converts a private and scandalous act into a corporate liturgy. The word the Book of Mormon substitutes is doing work: not 'wash' but 'bathe', which removes the servile connotation Luke's verb carries and leaves only the weeping."
+        },
+        "note": "'As many as could come for the multitude did kiss his feet, insomuch that they did bathe his feet with their tears.' Both of the woman's distinctive gestures, in Luke's order, from the only KJV verse that has them. The substitution of 'bathe' for 'wash' is the kind of departure that argues for dependence rather than against it — a writer reproducing the KJV mechanically has no reason to change the verb, and the change is consistent, since the Book of Mormon's crowd is not performing the service of a host.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "17:11": [
+      {
+        "source": "Matthew 19:13",
+        "type": "figural",
+        "subtype": "type-scene",
+        "confidence": "moderate",
+        "text": "Then were there brought unto him little children, that he should put his hands on them, and pray: and the disciples rebuked them.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 2,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 3,
+          "attestation": 1
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Mark 10:13",
+          "Luke 18:16"
+        ],
+        "recurrenceRefs": [
+          "3 Nephi 17:21"
+        ],
+        "provenance": {
+          "route": "Matthew 19:13-15 / Mark 10:13-16 / Luke 18:15-17 → KJV → Book of Mormon",
+          "other": "The synoptic scene is worded three ways and the Book of Mormon's noun-phrase discriminates between them. Mark 10:13 reads 'young children'; Matthew 19:13-14 and Luke 18:16 read 'little children'. “suffer little children” occurs in exactly two KJV verses, Matthew 19:14 and Luke 18:16. 3 Nephi 17:11-12 and 21 say 'little children' four times and never 'young children', so the bringing of the children follows Matthew and Luke, not Mark — while the blessing at 17:21 follows Mark alone (see that verse).",
+          "significance": "What the Book of Mormon removes is the rebuke. In all three synoptic accounts the disciples rebuke those who bring the children, and the saying 'suffer little children' is a rebuke of the rebuke. Here Jesus commands the children to be brought before anyone objects, and the sentence that occupies the structural place of the disciples' interference is 17:12's 'the multitude gave way till they had all been brought unto him'. The scene has been rewritten so that the obstacle is only the size of the crowd."
+        },
+        "note": "'He commanded that their little children should be brought.' There is no run of shared words here — the link is the type-scene, and it is claimed as figural rather than verbal for that reason. What makes it adjudicable at all is the noun: the King James Bible's account of this episode exists in three versions, and the Book of Mormon's phrase belongs to two of them. The verbal case is made at 17:21, where the wording is; this row records the scene at its first use so that a reader working through the chapter is not left to infer it.",
+        "whyNot": "A command to bring children forward requires no source, and a figural link on a scene this well known risks recording the reader's memory rather than the text's dependence. The row is held at moderate and rests entirely on the 'little children' / 'young children' discrimination, which would be withdrawn if the phrase turned out to be the Book of Mormon's own standing usage rather than a choice made here.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "17:14": [
+      {
+        "source": "John 11:33",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "When Jesus therefore saw her weeping, and the Jews also weeping which came with her, he groaned in the spirit, and was troubled.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 5,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 1
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "John 11:38",
+          "John 12:27"
+        ],
+        "recurrenceRefs": [
+          "3 Nephi 17:21",
+          "3 Nephi 17:22"
+        ],
+        "provenance": {
+          "route": "John 11:33-38 → KJV → Book of Mormon",
+          "other": "Groaning is attributed to Jesus in exactly two KJV verses, both in one pericope: “groaned in the spirit” occurs in exactly one KJV verse, John 11:33, and “groaning in himself” occurs in exactly one KJV verse, John 11:38. 3 Nephi 17:14's 'groaned within himself' is John 11:38's construction with John 11:33's verb tense. 'Troubled' with Jesus as subject and the Father addressed is John 12:27, where “my soul troubled” occurs in exactly one KJV verse.",
+          "significance": "This is the chapter's structural finding and it runs across seven verses. In the King James Bible Jesus groans twice and weeps twice, and all four are in narrow compass: he groans at John 11:33 and 11:38, and he weeps at John 11:35 and Luke 19:41. 3 Nephi 17 has him groan once (17:14) and weep twice (17:21, 17:22), in John's own sequence of groaning-then-weeping. What is suppressed is the setting. John's groaning and weeping are at a grave; Luke's weeping is over a city about to be destroyed. 3 Nephi 17:14 supplies the reason for the groan explicitly — 'I am troubled because of the wickedness of the people of the house of Israel' — which is Luke 19:41-44's subject exactly, and then spends the weeping on the children instead. The Book of Mormon has taken the King James Bible's whole stock of Christ's grief and redistributed it: the mourning that belonged to a dead man and a doomed city now belongs to an apostate nation and to its children."
+        },
+        "note": "'Jesus groaned within himself, and saith, Father, I am troubled.' Two of the three elements are Johannine singletons and the third is the address. John 11:33 pairs the groaning with being troubled in a single clause, which is what 3 Nephi 17:14 does; John 11:38's reflexive 'in himself' is what the Book of Mormon's 'within himself' reproduces; and 'Father, I am troubled' answers John 12:27's 'Now is my soul troubled … Father, save me from this hour'. The alternative candidate for the troubling is John 13:21, 'When Jesus had thus said, he was troubled in spirit', which is close and which the machine proposed at 17:5 on other grounds; it is declined in the register at that verse. Note that 'I am troubled' by itself is a KJV singleton at Psalm 38:6 and belongs to David's affliction, not to grief over others — that candidate is excluded below.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "17:16": [
+      {
+        "source": "1 Corinthians 2:9",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "But as it is written, Eye hath not seen, nor ear heard, neither have entered into the heart of man, the things which God hath prepared for them that love him.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 5,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 1
+        },
+        "kjvSpecific": "yes",
+        "mediation": "OT-via-NT",
+        "composite": [
+          "Isaiah 64:4"
+        ],
+        "recurrenceRefs": [
+          "3 Nephi 17:17"
+        ],
+        "provenance": {
+          "mt": "Isaiah 64:3 in the Hebrew numbering; the Masoretic text has no third member and no heart.",
+          "route": "Isaiah 64:4 → 1 Corinthians 2:9 → KJV → Book of Mormon",
+          "alternative": "Isaiah 64:4, which 1 Corinthians 2:9 is quoting; declined on the evidence below.",
+          "other": "“nor ear heard” occurs in exactly one KJV verse, 1 Corinthians 2:9, and “entered into the heart of man” occurs in exactly one KJV verse, the same one. The Book of Mormon's 'hearts of men' is a plural rewording: “hearts of men” occurs in exactly zero KJV verses.",
+          "significance": "The mediation is the finding and it is decided by order and by membership, not by any single word. Isaiah 64:4 runs heard → ear → eye seen, has no heart in it at all, and turns on what God has prepared 'for him that waiteth for him'. 1 Corinthians 2:9 reverses Isaiah's order to eye → ear and then adds a third faculty Isaiah does not have, the heart of man. 3 Nephi 17:16-17 reads eye → ear (17:16) → 'neither can the hearts of men conceive' (17:17): Paul's order, and Paul's third member. The Book of Mormon therefore has the New Testament form of an Old Testament verse, and it has the part of the New Testament form that is not in the Old Testament at all. That is as clean an OT-via-NT case as the corpus offers, and unlike most of them it does not depend on a single discriminating word — it depends on a member of the list existing."
+        },
+        "note": "'The eye hath never seen, neither hath the ear heard, before, so great and marvellous things as we saw and heard Jesus speak unto the Father.' Split across two verses, the Book of Mormon reproduces the eye-ear-heart triad of 1 Corinthians 2:9 in Paul's order. Running mediation-check.py on 17:16 alone returns no decisive divergence, because the eye and ear clauses are common to both candidates; the decision is made by 17:17's heart, which only Paul has. This is a case where the tool's per-verse verdict has to be read across the sentence boundary — a variant of the split-agreement blindness CONVENTIONS §9 records for the n-gram stream. The 1830 'marvellous' preserves the KJV's doubled l, modernized in 1920 (CONVENTIONS §8), and the interpolated 'before' in 17:16 is Hardy's crux at this verse — the first edition's word order admits 'heard before, so great', which is a note about the Book of Mormon's own text and not about the source.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "17:17": [
+      {
+        "source": "John 21:25",
+        "type": "echo",
+        "subtype": "conceptual",
+        "confidence": "moderate",
+        "text": "And there are also many other things which Jesus did, the which, if they should be written every one, I suppose that even the world itself could not contain the books that should be written. Amen.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 2,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "uncertain",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "John 21:25 → KJV → Book of Mormon",
+          "other": "“could not contain the books” occurs in exactly one KJV verse, John 21:25. The Book of Mormon does not reproduce that clause; the shared element is the topos of unwritability, and the shared words are only 'written' and the negation.",
+          "significance": "John 21:25 is the last verse of the fourth gospel, and its function is to close a record by declaring the record incomplete. 3 Nephi 17:15-17 does the same work at the centre of its own account rather than at the end: the things Jesus prayed 'cannot be written', 'neither can there be written by any man'. The suppressed correspondence is about what kind of book each is. John's excess is of deeds — many other things which Jesus did — and the limit is the world's shelf space, offered with a shrug ('I suppose'). The Book of Mormon's excess is of a single prayer, and the limit is not physical but absolute: no tongue can speak it and no heart conceive it. Where John says the archive would be too large, 3 Nephi says the thing is of another order than writing."
+        },
+        "note": "'And no tongue can speak, neither can there be written by any man.' Recorded because the unwritability topos is distinctive enough to be worth a row and because John 21:25 is the King James Bible's one instance of it applied to Jesus, but the verbal contact is genuinely slight and the row should be read as a gesture rather than a demonstration. Note that the same two verses of 3 Nephi carry a much stronger link to 1 Corinthians 2:9, adjudicated at 17:16; a reader who declines this row loses nothing there.",
+        "whyNot": "Only 'written' is shared, and inexpressibility formulas are common in devotional English independently of John. The alternative account — that 17:15-17 is developing 1 Corinthians 2:9's 'eye hath not seen' into a general statement about the limits of report, with no second source at all — is entirely adequate to the evidence, and if it is right this row should be withdrawn.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "17:18": [
+      {
+        "source": "1 Kings 8:54",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "And it was so, that when Solomon had made an end of praying all this prayer and supplication unto the LORD, he arose from before the altar of the LORD, from kneeling on his knees with his hands spread up to heaven.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "2 Chronicles 7:1"
+        ],
+        "recurrenceRefs": [
+          "3 Nephi 17:13",
+          "3 Nephi 17:15",
+          "3 Nephi 17:24",
+          "3 Nephi 19:35"
+        ],
+        "provenance": {
+          "route": "1 Kings 8:54 (with 2 Chronicles 7:1-3) → KJV → Book of Mormon",
+          "alternative": "2 Chronicles 7:1, the parallel account, which shares the same opening clause; and Matthew 11:1, 'when Jesus had made an end of commanding his twelve disciples', which the machine ranked first here and which is excluded below.",
+          "other": "“made an end of praying” occurs in exactly two KJV verses, 1 Kings 8:54 and 2 Chronicles 7:1 — the two accounts of one event, Solomon's dedication of the temple. The two diverge immediately afterwards: Kings continues 'he arose from before the altar', Chronicles continues 'the fire came down from heaven'. 3 Nephi 17:18 reads 'he arose', which is the Kings form; 3 Nephi 17:24 has fire coming down from heaven, which is the Chronicles sequel. “the fire came down from heaven” occurs in exactly one KJV verse, 2 Chronicles 7:1.",
+          "significance": "This is the chapter's largest unclaimed structure and the reason to run the mediation test on an Old Testament pair rather than only on OT-and-NT pairs. Solomon's dedication is the King James Bible's one narrative of a leader kneeling before an assembly, praying at a temple, rising when the prayer ends, fire descending from heaven, and the people falling on the ground to worship. 3 Nephi 17 is set at the temple in Bountiful (3 Nephi 11:1), and it has all five: the multitude kneels on the ground (17:13), Jesus kneels and prays (17:15), he makes an end of praying and arises (17:18), fire comes down and encircles the children (17:24), and the healed have already bowed at his feet and worshipped (17:10). The Book of Mormon has narrated Christ's prayer at its temple in the vocabulary and the order of the dedication of Solomon's. The suppressed correspondence is that at the dedication the fire consumes the burnt offering and the glory fills the house; here the fire consumes nothing and encircles children, and what it marks is not a sacrifice accepted but children unharmed."
+        },
+        "note": "'When Jesus had made an end of praying unto the Father, he arose.' Two words decide between the parallel accounts. The clause 'made an end of praying' belongs to Solomon in both Kings and Chronicles and to nobody else in the King James Bible; 'he arose' immediately after it belongs to Kings alone. mediation-check.py on 1 Kings 8:54 against 2 Chronicles 7:1 returns 'he arose' as the decisive point, and the Book of Mormon has the Kings form — then, six verses later, takes the Chronicles continuation as well. This is the first of the Book of Mormon's two uses of the phrase; 3 Nephi 19:35 is the second, and by CONVENTIONS §4 that later occurrence is the same narrator's formula rather than a fresh borrowing.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "17:20": [
+      {
+        "source": "John 15:11",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "text": "These things have I spoken unto you, that my joy might remain in you, and that your joy might be full.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 3,
+          "context": 4,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "John 16:24",
+          "John 3:29"
+        ],
+        "provenance": {
+          "route": "John 15:11 → KJV → Book of Mormon",
+          "other": "The fullness-of-joy formula is Johannine and it is always the hearers' joy that is full: “your joy may be full” occurs in exactly two KJV verses, John 16:24 and 1 John 1:4, and John 15:11 and 16:22-24 supply the rest. The one place Jesus speaks of his own joy in this idiom is John 15:11, where it 'remains in you' rather than being full; John 3:29 is the Baptist's, and there the joy 'is fulfilled'. “my joy is full” occurs in exactly zero KJV verses.",
+          "significance": "The Book of Mormon says something the King James Bible never quite says. Across the Johannine corpus the construction is carefully distributed — Jesus's joy remains in the disciples, the disciples' joy is made full — and the first-person predicate 'my joy is full' exists nowhere. What 3 Nephi 17:18-20 does is complete the circuit in the wrong direction: the multitude's joy is so great they are overcome (17:18), and Jesus then says his own is full (17:20). The joy that in John flows from Christ to the disciples is here returned from the congregation to Christ, and the sentence that records it is a Johannine formula with its person changed."
+        },
+        "note": "'Blessed are ye because of your faith. And now behold, my joy is full.' The idiom is unmistakably John's and the exact string is in no KJV verse, which is the argument rather than an objection to it: a borrowing that changes the pronoun is doing something, and here the change is legible. Held at moderate because the formula is common enough within John that no single verse can be shown to be in view, and because 'full' with 'joy' is not distinctive English on its own.",
+        "whyNot": "Four Johannine verses are equally close and none matches; the row asserts a family rather than a source, and a reader who wants a verse-level link should decline it.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "17:21": [
+      {
+        "source": "Mark 10:16",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "And he took them up in his arms, put his hands upon them, and blessed them.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 1
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Matthew 19:13"
+        ],
+        "recurrenceRefs": [
+          "3 Nephi 17:11"
+        ],
+        "provenance": {
+          "route": "Mark 10:16 → KJV → Book of Mormon",
+          "alternative": "Matthew 19:15, the parallel, which reads 'he laid his hands on them, and departed thence'; Luke 18:15-17 has no blessing at all.",
+          "other": "“took them up in his arms” occurs in exactly one KJV verse, Mark 10:16, and “put his hands upon them, and blessed” occurs in exactly one KJV verse, the same one. Mark is the only evangelist who reports a blessing: Matthew 19:15 has the laying on of hands and a departure, Luke 18:16-17 has the saying and nothing else. mediation-check.py on Mark 10:16 against Matthew 19:15 returns 'blessed them' as decisive for Mark.",
+          "significance": "The chapter takes its children from Matthew and Luke and its blessing from Mark, and the split is consistent. 'Little children' — Matthew's and Luke's noun, never Mark's 'young children' — governs 17:11, 17:12 and 17:21; 'blessed them' — Mark's verb, in neither of the others — governs 17:21. What Mark supplies and the other two do not is the physical gesture of taking each child up, and 3 Nephi 17:21's 'one by one' is the Book of Mormon's way of saying what Mark's 'took them up in his arms' implies: that the blessing was individual and not collective. Recovering Mark's context also recovers what the Book of Mormon has already deleted — the disciples' rebuke, which in all three synoptics is the reason the scene exists."
+        },
+        "note": "'He took their little children, one by one, and blessed them, and prayed unto the Father for them.' Two of the three verbs are Mark 10:16's and the third, praying, is Matthew 19:13's ('that he should put his hands on them, and pray'), which no other account has. The verse is a fusion of the two synoptic versions that report an action, taking the blessing from one and the prayer from the other, and it is done with the noun-phrase of the third. The figural row at 17:11 records the scene at its first appearance; this is where the wording is, and CONVENTIONS §6a's rule about putting the link where the wording is applies.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      },
+      {
+        "source": "John 11:35",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "Jesus wept.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 1
+        },
+        "kjvSpecific": "no",
+        "mediation": "direct-NT",
+        "composite": [
+          "Luke 19:41"
+        ],
+        "recurrenceRefs": [
+          "3 Nephi 17:14",
+          "3 Nephi 17:22"
+        ],
+        "provenance": {
+          "route": "John 11:35 (with Luke 19:41) → KJV → Book of Mormon",
+          "other": "The King James Bible reports Jesus weeping in exactly two places. “Jesus wept” occurs in exactly one KJV verse, John 11:35; “wept over it” occurs in exactly one KJV verse, Luke 19:41, where 'he beheld the city, and wept over it'. The Book of Mormon's 'he wept' is not a KJV string in this application — “he wept” occurs in exactly three KJV verses, Genesis 45:2, Hosea 12:4 and Mark 14:72, and the weeper in all three is Joseph, Jacob and Peter respectively.",
+          "significance": "Two weepings, and the Book of Mormon has both. Jesus weeps twice in 3 Nephi 17, at 21 and again at 22, which is the number of times he weeps in the entire King James Bible; and the chapter has already given him the groan that in John immediately precedes the first of them. The suppressed material is what he wept for. John's tears are at a grave and are followed by a resurrection; Luke's are over Jerusalem and are followed by the prediction that not one stone will be left on another. 3 Nephi 17:14 has already named the second of those subjects — Jesus is troubled 'because of the wickedness of the people of the house of Israel', which is Luke 19:41-44's grief exactly — and then, having named it, spends both weepings on the children instead. The catalogue's reading is that this is the chapter's central transposition: the King James Bible's Christ weeps over the dead and the doomed, and the Book of Mormon's weeps over the living and the blessed."
+        },
+        "note": "'And when he had said these words, he wept … And when he had done this he wept again.' The link is claimed on rarity of the fact rather than on the string: 'he wept' is ordinary English and the KJV uses it of three other men, but the KJV reports Jesus weeping in exactly two verses and the Book of Mormon gives him exactly two weepings in seven lines. kjvSpecific is 'no' because there is no phrasing here that could distinguish the KJV from any other English version; what is being catalogued is a numerical and structural correspondence, not a verbal one, and the row is honest about that.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "17:24": [
+      {
+        "source": "John 1:51",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "And he saith unto him, Verily, verily, I say unto you, Hereafter ye shall see heaven open, and the angels of God ascending and descending upon the Son of man.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Matthew 4:11",
+          "2 Chronicles 7:1"
+        ],
+        "recurrenceRefs": [
+          "3 Nephi 17:18"
+        ],
+        "provenance": {
+          "mt": "Genesis 28:12, the ladder at Bethel, which John 1:51 is quoting.",
+          "route": "John 1:51 (quoting Genesis 28:12) → KJV → Book of Mormon",
+          "other": "“angels of God ascending” occurs in exactly two KJV verses, Genesis 28:12 and John 1:51 — Jacob's ladder and the promise to Nathanael. “heaven opened” occurs in exactly two KJV verses, Acts 10:11 and Revelation 19:11, and “the heavens were opened” occurs in exactly two KJV verses, Ezekiel 1:1 and Matthew 3:16; the Book of Mormon's 'they saw the Heavens open' with angels descending is John 1:51's combination. For the ministering angels, “angels came and ministered” occurs in exactly one KJV verse, Matthew 4:11.",
+          "significance": "John 1:51 is a promise, and 3 Nephi 17:24 is the only place in either canon where somebody reports seeing it. Nathanael is told 'hereafter ye shall see heaven open, and the angels of God ascending and descending upon the Son of man', and the fourth gospel never narrates the fulfilment. Here the heavens open, the angels come down, and the Son of man is standing in the midst — but they descend on the children, not on him, and they descend in fire, which John's ladder has no room for. The fire is Solomon's: it comes down from heaven immediately after Jesus has made an end of praying and arisen (17:18), which is the sequence of 2 Chronicles 7:1, and the people who see it in Chronicles bow themselves to the ground and worship, as this multitude has done at 17:10. The verse therefore holds two suppressed contexts at once — a promise from the first chapter of John, and the acceptance of a temple's dedication."
+        },
+        "note": "'They saw the Heavens open, and they saw angels descending out of Heaven as it were, in the midst of fire … and the angels did minister unto them.' The Johannine promise supplies the opened heaven and the descending angels; Matthew 4:11 supplies the ministering, in the only KJV verse where angels minister to anyone. The fire is not from either and is the strongest reason to read the whole passage against 2 Chronicles 7 — a fire from heaven following directly on the end of a prayer is that chapter's event and no other's. Note that the Book of Mormon's angels only descend: John's ascend and descend, and Genesis 28:12's ascend first. Removing the ascent removes the ladder, which is what the fire replaces.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "17:25": [
+      {
+        "source": "John 19:35",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "text": "And he that saw it bare record, and his record is true: and he knoweth that he saith true, that ye might believe.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "3 John 1:12",
+          "John 21:24"
+        ],
+        "provenance": {
+          "route": "John 19:35 / 3 John 1:12 → KJV → Book of Mormon",
+          "other": "The eyewitness-attestation formula is Johannine and nowhere else. “record is true” occurs in exactly three KJV verses, John 8:14, John 19:35 and 3 John 1:12, all Johannine; “his record is true” occurs in exactly one KJV verse, John 19:35; and “know that our record is true” occurs in exactly one KJV verse, 3 John 1:12. The Book of Mormon's 'they know that their record is true' is 3 John 1:12's clause with the persons shifted from first to third — which is what a narrator reporting other people's testimony has to do to it.",
+          "significance": "John 19:35 is the note attached to the spear-thrust: the one place the fourth gospel steps out of narrative to certify that an eyewitness saw what has just been described and that his testimony can be trusted. It certifies a death. 3 Nephi 17:25 puts the same certification on the opposite event — angels descending in fire on children — and does it at greater length, adding the detail John's formula does not need, that 'they all of them did see and hear, every man for himself', and then the head-count. The Book of Mormon has taken the gospel's device for guaranteeing a hard fact and applied it to its least credible one."
+        },
+        "note": "'The multitude did see and hear, and bear record; and they know that their record is true.' The clause is Johannine attestation-language, and the closest single verse is 3 John 1:12's 'ye know that our record is true' rather than John 19:35, though 19:35 is where the device is used to certify an event. Held at moderate rather than high because 'bear record' is common across John and Revelation — five KJV verses for the exact form — and because a narrator asserting that his witnesses are reliable does not require a source.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      },
+      {
+        "source": "Acts 2:41",
+        "type": "echo",
+        "subtype": "possible",
+        "confidence": "moderate",
+        "text": "Then they that gladly received his word were baptized: and the same day there were added unto them about three thousand souls.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 4,
+          "sequence": 3,
+          "context": 4,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "recurrenceRefs": [
+          "3 Nephi 17:9"
+        ],
+        "provenance": {
+          "route": "Acts 2:41 → KJV → Book of Mormon",
+          "alternative": "Numbers 26:37, which supplies the numeral 'two thousand and five hundred' and was the machine's top candidate; excluded below.",
+          "other": "“about three thousand souls” occurs in exactly one KJV verse, Acts 2:41. It is the King James Bible's only approximate head-count of a crowd expressed in souls; elsewhere souls are counted exactly (Genesis 46:27's threescore and ten, Acts 27:37's two hundred threescore and sixteen, 1 Peter 3:20's eight).",
+          "significance": "The count is the last thing in the chapter and it is the Pentecost count with the number changed. Acts 2:41 measures the first Christian congregation on the day the Spirit came in fire; 3 Nephi 17:25 measures a congregation on the day fire came down and angels ministered, and it counts them in the same units and with the same 'about'. Taken with 17:9's 'with one accord' — a phrase the KJV uses thirteen times, eleven of them in Acts — and with the Acts 5:16 healing summary behind that same verse, the chapter closes with its third borrowing from the Jerusalem church's founding narrative. The catalogue's proposal is that 3 Nephi 17 is not only a gospel scene: it is a gospel scene told with the vocabulary of Acts, and the head-count is where that becomes hard to miss."
+        },
+        "note": "'They were in number about two thousand and five hundred souls; and they did consist of men, women and children.' The shared element is a formula, not a phrase — 'about N souls' as the way to size a congregation — and it belongs to one KJV verse. What the Book of Mormon adds is the composition of the crowd, which Acts does not give, and which the chapter needs because it has just spent ten verses on the children.",
+        "whyNot": "Only 'about' and 'souls' are shared, and both are ordinary; a reader may fairly say that counting people in souls is King James English generally rather than Acts 2:41 in particular. The row rests on the Acts register established at 17:9 as much as on itself, and if that link were withdrawn this one would weaken with it.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+[
+  {
+    "bomRef": "3 Nephi 23:2",
+    "source": "Acts 11:18",
+    "category": "insufficient-verbal",
+    "sharedText": "also to the Gentiles",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "Worth the entry because the coherence is better than the wording. “also to the Gentiles” occurs in exactly one KJV verse, Acts 11:18, and that verse is the moment the Jerusalem church concedes that the Gentiles are inside the covenant — which is precisely the inference 3 Nephi 23:2 draws from Isaiah ('he spake as touching all things concerning my people which are of the house of Israel; therefore it must needs be that he must speak also to the Gentiles'). But the shared string is four function words with one content word in it, the syntax is unrelated (Acts has 'hath God also to the Gentiles granted repentance unto life'; 3 Nephi has an infinitive complement of 'speak'), and nothing else of Acts 11 is anywhere near. The verse's other candidate, Matthew 18:7's 'it must needs be that', is a Book of Mormon connective used at twenty-one places in the corpus and is covered by the standing exclusion at 1 Nephi 1:5."
+  },
+  {
+    "bomRef": "3 Nephi 23:3",
+    "source": "Revelation 1:19",
+    "category": "better-source-identified",
+    "sharedText": "hath been, and shall be",
+    "streams": [
+      "manual"
+    ],
+    "reason": "A cross-reference rather than a rejection. 23:3's 'all things that he spake, hath been, and shall be' is the second and third terms of Revelation 1:19's threefold division of what a seer is to write, but the verse that actually carries the King James wording is the next one: 23:4's 'write the things which I have told you' against Revelation 1:19's “write the things which”, a singleton. The link is adjudicated at 23:4 and the significance field there argues 23:3 as part of it. A reader who arrives at 23:3 should go to 23:4."
+  },
+  {
+    "bomRef": "3 Nephi 23:5",
+    "source": "Mark 16:16",
+    "category": "better-source-identified",
+    "sharedText": "and is baptized ... the same shall be saved",
+    "streams": [
+      "machine-ngram",
+      "manual"
+    ],
+    "reason": "“and is baptized” occurs in exactly one KJV verse, Mark 16:16, and so does “is baptized shall be saved”, so the machine is right that the phrase is here. It is not a fresh borrowing. Mark 16:16 is adjudicated for this book at 3 Nephi 11:33, where Christ states his doctrine and reproduces both limbs of Mark's antithesis; 23:5 is the same speaker reusing his own formula twelve chapters later, with 'believeth' replaced by 'hearken unto my words, and repenteth'. It is recorded in the composite and recurrenceRefs of the Deuteronomy 18:19 row at this verse, which is where the new material is. 'The same shall be saved' by itself occurs in exactly two KJV verses, Matthew 24:13 and Mark 13:13, both of enduring to the end, and neither is in view."
+  },
+  {
+    "bomRef": "3 Nephi 23:9",
+    "source": "Ephesians 5:14",
+    "category": "better-source-identified",
+    "sharedText": "arise from the dead",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "The highest-scoring machine candidate anywhere in this chapter, and it is pointing at the wrong verse. “arise from the dead” occurs in exactly one KJV verse, Ephesians 5:14, which is why it ranked; but the sentence it belongs to is a baptismal or hymnic fragment addressed to a sleeper ('Awake thou that sleepest, and arise from the dead, and Christ shall give thee light') and has no saints, no appearing, and no resurrection narrative. The verse's real source is Matthew 27:52-53 by way of Helaman 14:25, adjudicated at this verse. The coincidence is nonetheless worth one line: Matthew 27:52 describes its risen saints as 'the saints which slept arose', and the KJV's only other pairing of sleep with rising from the dead is the Ephesians verse the machine found."
+  },
+  {
+    "bomRef": "3 Nephi 23:10",
+    "source": "Mark 8:4",
+    "category": "formulaic",
+    "sharedText": "and his disciples answered him",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "A five-word run that is a singleton in both directions — “and his disciples answered” occurs in exactly one KJV verse and “his disciples answered him” occurs in exactly one KJV verse, both Mark 8:4, and the clause occurs once in the whole Book of Mormon, here — and it is still narrative boilerplate. The KJV's usual form is 'his disciples said unto him' (five verses) or 'answered and said'; Mark 8:4 happens to be the one place it inverts them, and the rarity is arithmetic rather than distinctive. The senses are also opposed: Mark's disciples answer with the obtuse question that shows they have forgotten the first feeding, while 3 Nephi's answer correctly and confirm the prophecy. The reply itself, 'Yea, Lord', occurs in exactly five KJV verses and identifies no source."
+  },
+  {
+    "bomRef": "3 Nephi 23:11",
+    "source": "Mark 8:21",
+    "category": "insufficient-verbal",
+    "sharedText": "How be it that ye have not",
+    "streams": [
+      "manual"
+    ],
+    "reason": "Registered because the rebuke is unmistakably synoptic in shape and the wording will not quite carry it. 'How is it that ye ...?' is the King James Jesus' standing form of reproach to his disciples — Mark 4:40 'how is it that ye have no faith?', Mark 8:21 'How is it that ye do not understand?', Matthew 16:11, Luke 12:56 — and 3 Nephi 23:11 is exactly that: Christ turning on the disciples over a failure they should not have made. But “how is it that ye” occurs in exactly seven KJV verses, which is too many to identify a source, and the Book of Mormon does not have the phrase. Both 1830 and 1920 read 'How be it that ye have not written this thing', a construction in no KJV verse; the KJV's 'howbeit' is one word and adversative, not interrogative. A reader who hears Mark here is hearing a register, not a borrowing."
+  },
+  {
+    "bomRef": "3 Nephi 23:13",
+    "source": "Genesis 50:12",
+    "category": "formulaic",
+    "sharedText": "according as he commanded",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "“according as he commanded” occurs in exactly one KJV verse, Genesis 50:12 — 'And his sons did unto him according as he commanded them' — and the singleton is worthless. It is the King James Bible's ordinary compliance formula in a slightly less common inflection ('as the LORD commanded', 'according to all that ... commanded'), and Genesis 50:12 is Jacob's burial. 3 Nephi 23:13 records a scribal correction. No content word beyond 'commanded' is shared."
+  },
+  {
+    "bomRef": "3 Nephi 23:13",
+    "source": "Esther 8:9",
+    "category": "formulaic",
+    "sharedText": "it was written according",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "The chapter's other arithmetic singleton: “it was written according” occurs in exactly one KJV verse, Esther 8:9, in the course of a hundred-and-twenty-word clause about Mordecai's decree being copied out to a hundred and twenty-seven provinces in every province's own writing. The shared four words are a passive verb and a preposition. Filed with the Genesis 50:12 entry above: 23:13 is a one-sentence compliance notice and it will match any KJV verse that reports an order carried out."
+  },
+  {
+    "bomRef": "3 Nephi 23:14",
+    "source": "Luke 24:27",
+    "category": "better-source-identified",
+    "sharedText": "expounded all the Scriptures ... expounded unto them",
+    "streams": [
+      "manual"
+    ],
+    "reason": "A cross-reference, not a rejection. 23:14's 'when Jesus had expounded all the Scriptures in one ... he commanded them that they should teach the things which he had expounded unto them' repeats the fusion of Luke 24:27 and Mark 4:34 that is adjudicated eight verses earlier at 23:6, where the argument for it is made. The one element 23:14 adds, 'in one', is not from either source and is not from any KJV verse. Later occurrences of the same construction at 3 Nephi 24:1 and 3 Nephi 26:1 are cross-referred from 23:6 as well. The chapter's other candidates here, Matthew 13:53 and Matthew 19:1, are the eight-word run 'and it came to pass that when Jesus had', which is the KJV's own discourse-closing formula and the Book of Mormon's commonest connective; the standing exclusion at 1 Nephi 2:1 covers it."
+  }
+]

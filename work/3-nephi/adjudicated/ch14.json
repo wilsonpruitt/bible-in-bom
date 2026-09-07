@@ -1,0 +1,1044 @@
+{
+  "chapter": 14,
+  "adjudicated": "2026-09-07",
+  "adjudicator": "Opus",
+  "links": {
+    "14:1": [
+      {
+        "source": "Matthew 7:1",
+        "type": "quotation",
+        "subtype": "extended",
+        "confidence": "certain",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 5
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "Matthew 7:1 → KJV → Book of Mormon",
+          "significance": "Recover the context and Matthew 7:1 is not the head of a discourse but the hinge of one: the Sermon on the Mount runs unbroken from Matthew 5:3 to 7:27, and the chapter break at 7:1 is a printer's convenience of the thirteenth century, not a joint in the text. 3 Nephi divides its Sermon at exactly the same three places — 12, 13, 14 for Matthew 5, 6, 7. The Book of Mormon's Sermon at the Temple therefore reproduces not only the Authorized Version's English but the Authorized Version's chapter divisions, which is a fact about the printed page rather than about a discourse delivered in Galilee.",
+          "other": "“Judge not” occurs in exactly seven KJV verses, of which only Matthew 7:1 and Luke 6:37 govern judgement of one's neighbour; the rest (2 Chronicles 19:6, Isaiah 1:23, Jeremiah 5:28, John 7:24, 1 Corinthians 4:3) are about magistrates or about Paul."
+        },
+        "note": "The Sermon resumes where Matthew 7 begins, and the saying is reproduced entire: “that ye be not judged” occurs in exactly one KJV verse. The synoptic alternative is Luke 6:37, “Judge not, and ye shall not be judged: condemn not, and ye shall not be condemned”; 3 Nephi has Matthew's purpose clause and none of Luke's three-part expansion, and that choice holds without a single lapse through all twenty-seven verses of this chapter. What is added is not Lukan either: the frame sentence, and the Johannine “Verily, verily, I say unto you”, which stands in Matthew's mouth nowhere in the Gospels.",
+        "bibliography": [
+          "Hardy MSI, section heading at 3 Ne 14: “Parables of Discipleship (Matthew 7.1–27)”"
+        ],
+        "status": "consensus",
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ],
+        "recurrenceRefs": [
+          "Alma 41:15"
+        ],
+        "text": "Judge not, that ye be not judged."
+      },
+      {
+        "source": "Matthew 5:2",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "And he opened his mouth, and taught them, saying,",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 3,
+          "attestation": 1
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "Matthew 5:2 → KJV → Book of Mormon",
+          "other": "“opened his mouth” occurs in exactly five KJV verses (Matthew 5:2, Matthew 17:27, Acts 8:35, Acts 10:34, Revelation 13:6); only Matthew 5:2 is the opening of a discourse to a multitude.",
+          "significance": "The word that carries the argument is “again”. In Matthew the gesture happens once, at 5:2, and never recurs; here it is said to happen a second time. But the Book of Mormon's own opening of the Sermon, at 3 Nephi 12:1, has Jesus “stretch forth his hand unto the multitude, and cry unto them saying” — he does not open his mouth there. So the antecedent of “again” is not in the Book of Mormon at all. It is in Matthew 5:2, a chapter the Nephite Sermon paraphrases but at this point does not reproduce. The narrator is counting a gesture his own text never recorded, which is what it looks like when a frame is written around a source the writer has in view and the reader does not."
+        },
+        "note": "“He turned again to the multitude, and did open his mouth unto them again, saying.” Neither half of the frame is in Matthew 7, and both halves are doing repair work on the transposition. “Turned again to the multitude” answers 3 Nephi 13:25, where the Nephite Sermon inserts a turn toward the twelve that Matthew 6:25 does not have; “open his mouth” reaches back past that insertion to the gesture with which Matthew 5:2 began the whole discourse. The seam is visible because the repair is visible.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "14:2": [
+      {
+        "source": "Matthew 7:2",
+        "type": "quotation",
+        "subtype": "extended",
+        "confidence": "certain",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 3,
+          "attestation": 5
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "Matthew 7:2 → KJV → Book of Mormon",
+          "significance": "The 1830 reads “judgement” and 1920 corrected it to the KJV's “judgment” — one of the two places in this chapter where a later edition moved the Book of Mormon toward its source rather than away from it (compare 14:13–14). CONVENTIONS §8: the direction of an editorial change is itself evidence, and here the direction is restorative.",
+          "other": "Luke 6:38's clause is embedded in the giving saying (“good measure, pressed down, and shaken together, and running over”), none of which is here."
+        },
+        "note": "Word for word Matthew 7:2, and the mediation test is decisive at three points. Luke 6:38 carries the same saying — “for with the same measure that ye mete withal it shall be measured to you again” — and 3 Nephi has Matthew's “what judgment ye judge, ye shall be judged, and with what” against Luke's “the same”, lacks Luke's “that”, and lacks Luke's “withal”. “measured to you again” occurs in exactly two KJV verses, and those two are precisely Matthew 7:2 and Luke 6:38, so the phrase alone could not have chosen between them; the surrounding clause does.",
+        "bibliography": [
+          "Hardy MSI, section heading at 3 Ne 14: “Parables of Discipleship (Matthew 7.1–27)”"
+        ],
+        "status": "consensus",
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ],
+        "recurrenceRefs": [
+          "Alma 41:15"
+        ],
+        "text": "For with what judgment ye judge, ye shall be judged: and with what measure ye mete, it shall be measured to you again."
+      }
+    ],
+    "14:3": [
+      {
+        "source": "Matthew 7:3",
+        "type": "quotation",
+        "subtype": "extended",
+        "confidence": "certain",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 3,
+          "attestation": 5
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "Matthew 7:3 → KJV → Book of Mormon",
+          "significance": "This is the cleanest single-word mediation in the chapter and it is worth stating as a rule rather than a curiosity: wherever Matthew and Luke preserve the same saying in different English, 3 Nephi has Matthew's English. A discourse delivered independently in the New World has no reason to prefer one first-century Greek redaction's Jacobean translation over another's at the level of a synonym.",
+          "other": "“the beam” occurs in exactly six KJV verses; two of them (Judges 16:14, Habakkuk 2:11) are literal timbers and the other four are this saying in its two forms."
+        },
+        "note": "Identical to Matthew 7:3, and the single word that separates Matthew from Luke is the word the Book of Mormon has. Luke 6:41 is otherwise the same sentence — “And why beholdest thou the mote that is in thy brother's eye” — but reads “perceivest not the beam” where Matthew reads “considerest not the beam”. 3 Nephi reads “considerest”. “the mote” occurs in exactly five KJV verses, three in Matthew 7 and two in Luke 6, so the noun is no help; the verb settles it.",
+        "bibliography": [
+          "Hardy MSI, section heading at 3 Ne 14: “Parables of Discipleship (Matthew 7.1–27)”"
+        ],
+        "status": "consensus",
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ],
+        "text": "And why beholdest thou the mote that is in thy brother’s eye, but considerest not the beam that is in thine own eye?"
+      }
+    ],
+    "14:4": [
+      {
+        "source": "Matthew 7:4",
+        "type": "quotation",
+        "subtype": "extended",
+        "confidence": "certain",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 3,
+          "attestation": 5
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "Matthew 7:4 → KJV → Book of Mormon",
+          "significance": "The strongest 1830 evidence in the chapter sits here. The first edition reads “Let me pull out the mote out of thine eye”, which is the King James wording exactly, awkward doubled preposition and all; the 1920 edition removed the first “out” and the current text still reads “Let me pull the mote out of thine eye”. The borrowing is therefore plainer in the running text of this catalogue than in any Book of Mormon a reader is likely to own, and the editorial change ran away from the source, not toward it (CONVENTIONS §8).",
+          "other": "“thou hypocrite”, which the next verse carries, occurs in exactly three KJV verses (Matthew 7:5, Luke 6:42, Luke 13:15)."
+        },
+        "note": "Matthew 7:4 entire. Luke 6:42 tells the same joke at greater length and diverges at three testable points: Luke has “Either how canst thou say”, Matthew “Or how wilt thou say”; Luke “the mote that is in thine eye”, Matthew “the mote out of thine eye”; and Luke runs verses 4 and 5 together into one sentence. 3 Nephi has Matthew at every point, including the verse division.",
+        "bibliography": [
+          "Hardy MSI, section heading at 3 Ne 14: “Parables of Discipleship (Matthew 7.1–27)”"
+        ],
+        "status": "consensus",
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ],
+        "text": "Or how wilt thou say to thy brother, Let me pull out the mote out of thine eye; and, behold, a beam is in thine own eye?"
+      }
+    ],
+    "14:5": [
+      {
+        "source": "Matthew 7:5",
+        "type": "quotation",
+        "subtype": "extended",
+        "confidence": "certain",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 3,
+          "attestation": 5
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "Matthew 7:5 → KJV → Book of Mormon",
+          "significance": "Three of the four editorial deletions in this chapter fall in verses 4 and 5, and all three delete the same word from the same construction. Whoever prepared the 1920 text was smoothing a Jacobean idiom he found redundant, and in doing so he removed the clearest verbal fingerprint the mote-and-beam passage carries. It is a small demonstration of why the 1830 wording is this catalogue's running text.",
+          "other": "The saying's vocabulary is confined to these five verses in the whole KJV: “the mote” occurs in exactly five KJV verses and “the beam” in exactly six, and outside Matthew 7 and Luke 6 the only “beam” verses are a weaver's beam and a beam in a wall."
+        },
+        "note": "Matthew 7:5 entire, and the second half of the 1830 finding: the first edition twice reads “cast out the beam out of” and “cast out the mote out of”, both of which are the KJV's, and 1920 deleted both instances of “out”. Luke 6:42's version of the same clause reverses the adverb (“cast out first the beam”) and substitutes “pull out” for the second “cast out”; 3 Nephi has neither.",
+        "bibliography": [
+          "Hardy MSI, section heading at 3 Ne 14: “Parables of Discipleship (Matthew 7.1–27)”"
+        ],
+        "status": "consensus",
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ],
+        "text": "Thou hypocrite, first cast out the beam out of thine own eye; and then shalt thou see clearly to cast out the mote out of thy brother’s eye."
+      }
+    ],
+    "14:6": [
+      {
+        "source": "Matthew 7:6",
+        "type": "quotation",
+        "subtype": "extended",
+        "confidence": "certain",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 5
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "Matthew 7:6 → KJV → Book of Mormon",
+          "significance": "Matthew 7:6 is one of the Book of Mormon's most heavily worked biblical phrases, and this is where it is finally quoted whole. The catalogue already carries seven links to it before this chapter — 1 Nephi 19:7, Mosiah 29:22, Alma 5:53, Alma 60:33, Helaman 4:22, 6:39 and 12:2 — spread across five books and four narrators, every one of them using “trample under their feet” for contempt of the holy. A phrase that has been the Book of Mormon's own idiom for a thousand years of its internal chronology is here handed back to Jesus as a quotation. That is metalepsis running in an unusual direction: the source arrives last, and the reader who has met the idiom seven times meets its warrant on the eighth.",
+          "other": "“that which is holy” occurs in exactly two KJV verses, Matthew 7:6 and Proverbs 20:25, the latter about rash vows and consecrated food; “unto the dogs” occurs in exactly two KJV verses, Matthew 7:6 and Mark 7:27."
+        },
+        "note": "Matthew 7:6 without a variation of any kind, and it is built out of three King James singletons: “pearls before swine” occurs in exactly one KJV verse, “trample them under their feet” occurs in exactly one KJV verse, and “turn again and rend you” occurs in exactly one KJV verse. No synoptic parallel exists — the saying is Matthean special material — so mediation is settled by the absence of an alternative rather than by a divergence.",
+        "bibliography": [
+          "Hardy MSI, section heading at 3 Ne 14: “Parables of Discipleship (Matthew 7.1–27)”"
+        ],
+        "status": "consensus",
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ],
+        "recurrenceRefs": [
+          "1 Nephi 19:7",
+          "Mosiah 29:22",
+          "Alma 5:53",
+          "Alma 60:33",
+          "Helaman 4:22",
+          "Helaman 6:39",
+          "Helaman 12:2"
+        ],
+        "text": "Give not that which is holy unto the dogs, neither cast ye your pearls before swine, lest they trample them under their feet, and turn again and rend you."
+      }
+    ],
+    "14:7": [
+      {
+        "source": "Matthew 7:7",
+        "type": "quotation",
+        "subtype": "extended",
+        "confidence": "certain",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 5
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "Matthew 7:7 → KJV → Book of Mormon",
+          "significance": "The triad returns at 3 Nephi 27:29 in Jesus' own summary — “ask, and ye shall receive; knock, and it shall be opened unto you” — compressed to two members and re-worded, which is what the Book of Mormon normally does with a Matthean saying. Chapter 14 is the exception that shows the rule: everywhere else the Sermon is paraphrased, and here alone it is transcribed."
+        },
+        "note": "Matthew 7:7 with one word added: the 1830 reads “Ask, and it shall be given unto you” where both Matthew 7:7 and Luke 11:9 read “given you”. The addition is not Lukan and it was never edited out — 1920 and the current text keep it — so it is a Book of Mormon reading rather than an 1830 printer's slip, most likely assimilation to “opened unto you” at the end of the same sentence, where “unto” is the KJV's own. The mediation is still decisive for Matthew: “and it shall be opened unto you” occurs in exactly two KJV verses, Matthew 7:7 and Luke 11:9, and Luke prefixes “And I say unto you”, which 3 Nephi does not have.",
+        "bibliography": [
+          "Hardy MSI, section heading at 3 Ne 14: “Parables of Discipleship (Matthew 7.1–27)”"
+        ],
+        "status": "consensus",
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ],
+        "recurrenceRefs": [
+          "1 Nephi 10:19",
+          "2 Nephi 4:35",
+          "2 Nephi 9:42",
+          "2 Nephi 32:4",
+          "3 Nephi 27:29"
+        ],
+        "text": "Ask, and it shall be given you; seek, and ye shall find; knock, and it shall be opened unto you:"
+      }
+    ],
+    "14:8": [
+      {
+        "source": "Matthew 7:8",
+        "type": "quotation",
+        "subtype": "extended",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 2,
+          "attestation": 5
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "Matthew 7:8 → KJV → Book of Mormon",
+          "significance": "Worth recording precisely because it is negative. A chapter that agrees with Matthew against Luke twenty times running is not thereby shown to agree with Matthew here; it is shown that the question does not arise here. Hays's criterion of Volume has nothing to measure when the two candidate sources are identical, and honesty about that is what makes the twenty positive results worth something.",
+          "alternative": "Luke 11:10, which is verbally identical in the KJV and cannot be excluded on wording."
+        },
+        "note": "Matthew 7:8 exactly. This is one of the few verses in the chapter that cannot settle its own mediation: Luke 11:10 reproduces Matthew 7:8 word for word in the KJV, so there is no point of divergence to test. “every one that asketh” occurs in exactly two KJV verses, and they are those two. The verse is assigned to Matthew on the company it keeps — the verse before it and the verse after it are both decisively Matthean — not on evidence of its own.",
+        "bibliography": [
+          "Hardy MSI, section heading at 3 Ne 14: “Parables of Discipleship (Matthew 7.1–27)”"
+        ],
+        "status": "consensus",
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ],
+        "text": "For every one that asketh receiveth; and he that seeketh findeth; and to him that knocketh it shall be opened."
+      }
+    ],
+    "14:9": [
+      {
+        "source": "Matthew 7:9",
+        "type": "quotation",
+        "subtype": "extended",
+        "confidence": "certain",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 5
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "Matthew 7:9 → KJV → Book of Mormon",
+          "significance": "The 1830 preserves the KJV's “whom” and its resumptive “will he give him a stone”; the 1920 edition changed “whom” to “who” and deleted the “he”, producing “who, if his son ask bread, will give him a stone”, which is in no King James verse. Two words of grammatical tidying, and the sentence stops being a quotation."
+        },
+        "note": "Matthew 7:9 entire, and the divergence from Luke is structural rather than lexical. Luke 11:11 recasts the question — “If a son shall ask bread of any of you that is a father, will he give him a stone? or if he ask a fish, will he for a fish give him a serpent?” — folding the next verse into this one and dropping Matthew's opening. 3 Nephi keeps Matthew's “Or what man is there of you”, keeps the verse boundary, and keeps “whom, if his son ask bread”: “his son ask bread” occurs in exactly one KJV verse.",
+        "bibliography": [
+          "Hardy MSI, section heading at 3 Ne 14: “Parables of Discipleship (Matthew 7.1–27)”"
+        ],
+        "status": "consensus",
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ],
+        "text": "Or what man is there of you, whom if his son ask bread, will he give him a stone?"
+      }
+    ],
+    "14:10": [
+      {
+        "source": "Matthew 7:10",
+        "type": "quotation",
+        "subtype": "extended",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 3,
+          "attestation": 5
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "Matthew 7:10 → KJV → Book of Mormon",
+          "significance": "Versification is not usually evidence, and here it is. The Book of Mormon's chapter and verse divisions are modern, but the units of thought they divide follow Matthew's, including at the two places (verses 9–10, verses 4–5) where Luke's arrangement would have produced a different join."
+        },
+        "note": "Matthew 7:10 exactly. Like verse 8 this one carries no decisive divergence of its own — “ask a fish” occurs in exactly two KJV verses, Matthew 7:10 and Luke 11:11 — but the verse division does the work instead: Luke has no separate fish verse, having folded the clause into 11:11. 3 Nephi has Matthew's two verses where Luke has one sentence.",
+        "bibliography": [
+          "Hardy MSI, section heading at 3 Ne 14: “Parables of Discipleship (Matthew 7.1–27)”"
+        ],
+        "status": "consensus",
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ],
+        "text": "Or if he ask a fish, will he give him a serpent?"
+      }
+    ],
+    "14:11": [
+      {
+        "source": "Matthew 7:11",
+        "type": "quotation",
+        "subtype": "extended",
+        "confidence": "certain",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 5
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "Matthew 7:11 → KJV → Book of Mormon",
+          "significance": "This is the one verse in the chapter where preferring Matthew changes the sense rather than the phrasing. A risen Christ instructing a people he has just baptized with fire and the Holy Ghost (3 Nephi 12:1) has, in Luke's form of the saying, an obvious reason to promise the Spirit; the Book of Mormon takes the form that promises “good things” instead. Whatever else is going on, the chapter is not selecting its synoptic readings for their fit with its own narrative.",
+          "other": "“give good gifts” occurs in exactly two KJV verses, Matthew 7:11 and Luke 11:13, which is the shared half of the saying; every word on which they differ goes Matthew's way here. Note that tools/mediation-check.py returns no decisive point for this verse — the divergences are adjacent and the matcher scores them “neither” — and the reading above is by eye against the two printed verses."
+        },
+        "note": "Matthew 7:11 entire, and the sharpest doctrinal divergence between the two synoptic forms falls exactly here. Matthew's Father gives “good things to them that ask him”; Luke 11:13's heavenly Father gives “the Holy Spirit to them that ask him”. 3 Nephi has “good things”, and it also has Matthew's “your Father which is in heaven” against Luke's “your heavenly Father”. “good things to them that ask him” occurs in exactly one KJV verse and “which is in heaven give” occurs in exactly one KJV verse, and that verse is Matthew 7:11 both times.",
+        "bibliography": [
+          "Hardy MSI, section heading at 3 Ne 14: “Parables of Discipleship (Matthew 7.1–27)”"
+        ],
+        "status": "consensus",
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ],
+        "recurrenceRefs": [
+          "1 Nephi 10:19",
+          "2 Nephi 32:4"
+        ],
+        "text": "If ye then, being evil, know how to give good gifts unto your children, how much more shall your Father which is in heaven give good things to them that ask him?"
+      }
+    ],
+    "14:12": [
+      {
+        "source": "Matthew 7:12",
+        "type": "quotation",
+        "subtype": "extended",
+        "confidence": "certain",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 3,
+          "attestation": 5
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "Matthew 7:12 → KJV → Book of Mormon",
+          "significance": "The closing clause is the interesting one. “This is the law and the prophets” is a claim about the Hebrew scriptures, and it is spoken here to a people who have just been told, and will be told again at 3 Nephi 15:4–5, that the law of Moses is fulfilled and has an end. The Book of Mormon takes the clause over unchanged and then spends the next chapter explaining it away; at 15:10 Jesus reuses the phrase with a different referent, “this is the law and the prophets, for they truly testified of me”. The quotation creates the problem that the following chapter exists to solve.",
+          "other": "“the law and the prophets” occurs in exactly six KJV verses, so the phrase is not distinctive on its own; what identifies the source is that Matthew 7:12 is the only one of the six attached to the golden rule."
+        },
+        "note": "The golden rule in Matthew's form, entire. Luke 6:31 has the same rule in half the words — “And as ye would that men should do to you, do ye also to them likewise” — and the test is decisive twice: 3 Nephi has Matthew's opening “Therefore all things whatsoever” against Luke's “And as”, and Matthew's closing “for this is the law and the prophets” against Luke's “likewise”.",
+        "bibliography": [
+          "Hardy MSI, section heading at 3 Ne 14: “Parables of Discipleship (Matthew 7.1–27)”"
+        ],
+        "status": "consensus",
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ],
+        "recurrenceRefs": [
+          "3 Nephi 15:10"
+        ],
+        "text": "Therefore all things whatsoever ye would that men should do to you, do ye even so to them: for this is the law and the prophets."
+      }
+    ],
+    "14:13": [
+      {
+        "source": "Matthew 7:13",
+        "type": "quotation",
+        "subtype": "extended",
+        "confidence": "certain",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 5
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "Matthew 7:13 → KJV → Book of Mormon",
+          "significance": "The 1830 reads “straight gate”, not the KJV's “strait gate”, and so does every other Book of Mormon occurrence of the phrase in the first edition — Jacob 6:11, 3 Nephi 14:14, 3 Nephi 27:33, and the cognate “straightness of the path” at 2 Nephi 31:9. The 1920 edition restored “strait”. Two things follow. First, the substitution is of a homophone, not a synonym: “straight” and “strait” sound identical and mean opposite things here, since the point of the gate is that it is narrow, not that it is direct. Second, it is consistent across four books, which makes it the Book of Mormon's own orthography rather than a compositor's slip. A borrowing that arrives spelled by ear is evidence about how it arrived. The same verse then shows the opposite editorial motion: 1830's “that leadeth to destruction” and “many there be which go in thereat” are the KJV's relative pronouns, and 1920 changed both to “which” and “who”, away from the source. One verse, one restoration and two erasures.",
+          "other": "We considered treating this verse as mediated by the Book of Mormon's own earlier use — Jacob 6:11 is already catalogued as a quotation of Matthew 7:13–14 and shares the “straight” spelling — and declined it: everything in the verse except the spelling follows Matthew word for word, including the two clauses Jacob 6:11 does not have, so the proximate model is the King James page and the spelling is the Book of Mormon's habit imposed on it."
+        },
+        "note": "Matthew 7:13, and three of its phrases are King James singletons: “enter ye in at the” occurs in exactly one KJV verse, “wide is the gate” occurs in exactly one KJV verse, and “go in thereat” occurs in exactly one KJV verse. The Lukan alternative, Luke 13:24, shares only “strait gate” and is decisively excluded at four points: it reads “Strive to enter in”, it has no wide gate, no broad way, no destruction, and no “thereat”.",
+        "bibliography": [
+          "Hardy MSI, section heading at 3 Ne 14: “Parables of Discipleship (Matthew 7.1–27)”"
+        ],
+        "status": "consensus",
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ],
+        "recurrenceRefs": [
+          "1 Nephi 8:20",
+          "1 Nephi 12:17",
+          "2 Nephi 9:41",
+          "2 Nephi 31:9",
+          "Jacob 6:11",
+          "3 Nephi 27:33"
+        ],
+        "text": "Enter ye in at the strait gate: for wide is the gate, and broad is the way, that leadeth to destruction, and many there be which go in thereat:"
+      }
+    ],
+    "14:14": [
+      {
+        "source": "Matthew 7:14",
+        "type": "quotation",
+        "subtype": "extended",
+        "confidence": "certain",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 5
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "Matthew 7:14 → KJV → Book of Mormon",
+          "significance": "The pair 13–14 is the single most productive passage of Matthew 7 in the Book of Mormon before this chapter: the catalogue already carries it at 1 Nephi 8:20 and 12:17 (the strait and narrow path of Lehi's dream), 2 Nephi 9:41, 2 Nephi 31:9, Jacob 6:11 and Helaman 3:29. When Jesus quotes it here he is quoting the verse out of which the Book of Mormon's most famous image was built five hundred years earlier in its own chronology. At 3 Nephi 27:33 he returns to it a third time and rearranges it, putting the narrow gate first and the wide gate second."
+        },
+        "note": "Matthew 7:14 entire: “strait is the gate” occurs in exactly one KJV verse and “few there be that find it” occurs in exactly one KJV verse, so the verse identifies its own source twice over. The 1830's “straight” for “strait” is the same homophone as in verse 13 and was likewise restored in 1920.",
+        "bibliography": [
+          "Hardy MSI, section heading at 3 Ne 14: “Parables of Discipleship (Matthew 7.1–27)”",
+          "Hardy MSI at 3 Ne 27.33, cross-referencing 3 Ne 14.13–14 (Mt 7.13–14) and noting that there “v. 13 is split and v. 14 is inserted”"
+        ],
+        "status": "consensus",
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ],
+        "recurrenceRefs": [
+          "1 Nephi 8:20",
+          "2 Nephi 9:41",
+          "2 Nephi 31:9",
+          "Jacob 6:11",
+          "Helaman 3:29",
+          "3 Nephi 27:33"
+        ],
+        "text": "Because strait is the gate, and narrow is the way, which leadeth unto life, and few there be that find it."
+      }
+    ],
+    "14:15": [
+      {
+        "source": "Matthew 7:15",
+        "type": "quotation",
+        "subtype": "extended",
+        "confidence": "certain",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 5
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "Matthew 7:15 → KJV → Book of Mormon",
+          "significance": "Three singletons in seventeen words is the highest concentration of King James-specific vocabulary in the chapter, and it is the kind of row that needs no argument at all. It is worth noticing what the Book of Mormon does with the saying elsewhere: at Alma 5:60 the figure is inverted — the good shepherd calls, and “if a wolf entereth” he drives it out — and at 4 Nephi 1:34 the phrase “false prophets” returns in the account of the church's decay a century after this sermon was preached."
+        },
+        "note": "Matthew 7:15 entire, and it is three King James singletons end to end: “beware of false prophets” occurs in exactly one KJV verse, “in sheep's clothing” occurs in exactly one KJV verse, and “ravening wolves” occurs in exactly one KJV verse. Matthean special material; Luke has no parallel.",
+        "bibliography": [
+          "Hardy MSI, section heading at 3 Ne 14: “Parables of Discipleship (Matthew 7.1–27)”"
+        ],
+        "status": "consensus",
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ],
+        "recurrenceRefs": [
+          "Alma 5:60",
+          "4 Nephi 1:34"
+        ],
+        "text": "Beware of false prophets, which come to you in sheep’s clothing, but inwardly they are ravening wolves."
+      }
+    ],
+    "14:16": [
+      {
+        "source": "Matthew 7:16",
+        "type": "quotation",
+        "subtype": "extended",
+        "confidence": "certain",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 5
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "Matthew 7:16 → KJV → Book of Mormon",
+          "significance": "Luke's version reverses which fruit goes with which plant. Matthew asks whether men gather grapes of thorns or figs of thistles; Luke asks whether they gather figs of thorns or grapes of a bramble. A tradition transmitted independently to another hemisphere might be expected to preserve the sense; this one preserves the pairing, which is the part of the saying that carries no meaning at all."
+        },
+        "note": "Matthew 7:16 entire. “grapes of thorns” occurs in exactly one KJV verse and “figs of thistles” occurs in exactly one KJV verse. Luke 6:44 has the same proverb with different plants and a different frame — “For every tree is known by his own fruit. For of thorns men do not gather figs, nor of a bramble bush gather they grapes” — and the test is decisive at four points, including the bramble bush, which 3 Nephi does not have.",
+        "bibliography": [
+          "Hardy MSI, section heading at 3 Ne 14: “Parables of Discipleship (Matthew 7.1–27)”"
+        ],
+        "status": "consensus",
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ],
+        "text": "Ye shall know them by their fruits. Do men gather grapes of thorns, or figs of thistles?"
+      }
+    ],
+    "14:17": [
+      {
+        "source": "Matthew 7:17",
+        "type": "quotation",
+        "subtype": "extended",
+        "confidence": "certain",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 5
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "Matthew 7:17 → KJV → Book of Mormon",
+          "significance": "The good-tree saying reaches the Book of Mormon three times independently of this chapter — Jacob's allegory of the olive tree, Alma 5, Helaman 14 — and every one of those uses the Matthew 7:19 formula about hewing down rather than this verse's contrast. Chapter 14 supplies the two verses of the paragraph the rest of the Book of Mormon never quotes.",
+          "other": "“corrupt tree” occurs in exactly three KJV verses, Matthew 7:17, Matthew 7:18 and Luke 6:43."
+        },
+        "note": "Matthew 7:17 entire. “bringeth forth evil fruit” occurs in exactly one KJV verse. Luke 6:43 states the same principle negatively and with “corrupt fruit” for Matthew's “evil fruit”; the Book of Mormon has Matthew's positive form and Matthew's adjective.",
+        "bibliography": [
+          "Hardy MSI, section heading at 3 Ne 14: “Parables of Discipleship (Matthew 7.1–27)”"
+        ],
+        "status": "consensus",
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ],
+        "text": "Even so every good tree bringeth forth good fruit; but a corrupt tree bringeth forth evil fruit."
+      }
+    ],
+    "14:18": [
+      {
+        "source": "Matthew 7:18",
+        "type": "quotation",
+        "subtype": "extended",
+        "confidence": "certain",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 5
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "Matthew 7:18 → KJV → Book of Mormon",
+          "significance": "The deleted “can” is the only word this chapter loses from Matthew, and it costs the sentence its parallelism without changing its sense. Set beside the added “unto” at verse 7, it gives the measure of the whole chapter's divergence from its source: across twenty-seven verses and something over six hundred words, one word added, one word dropped, one spelling changed, and one “whoso” for “whosoever”."
+        },
+        "note": "Matthew 7:18 with one deletion: the KJV reads “neither can a corrupt tree bring forth good fruit” and the 1830 reads “neither a corrupt tree bring forth good fruit”, dropping the auxiliary. No edition has restored it. “cannot bring forth evil fruit” occurs in exactly one KJV verse, and the deletion leaves that singleton intact. The Lukan alternative is excluded twice over: Luke 6:43 reads “bringeth not forth” where Matthew and 3 Nephi read “cannot bring forth”, and Luke reads “corrupt fruit” where Matthew and 3 Nephi read “evil fruit”.",
+        "bibliography": [
+          "Hardy MSI, section heading at 3 Ne 14: “Parables of Discipleship (Matthew 7.1–27)”"
+        ],
+        "status": "consensus",
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ],
+        "recurrenceRefs": [
+          "Jacob 6:7"
+        ],
+        "text": "A good tree cannot bring forth evil fruit, neither can a corrupt tree bring forth good fruit."
+      }
+    ],
+    "14:19": [
+      {
+        "source": "Matthew 7:19",
+        "type": "quotation",
+        "subtype": "extended",
+        "confidence": "certain",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 5
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "Matthew 7:19 → KJV → Book of Mormon",
+          "significance": "This is the Book of Mormon's single most reused sentence from Matthew 7 — Jacob 5:26 and 5:42, Jacob 6:7, Alma 5:52, Helaman 14:18, and again from Jesus' own mouth at 3 Nephi 27:11 and 27:17. Alma 5:52 is the instructive one: it quotes the saying with the axe clause attached (“the axe is laid at the root of the tree”), which is to say it quotes the Baptist's form, from Matthew 3:10 or Luke 3:9. Here, four hundred years later in the narrative, Jesus quotes the Sermon's form without the axe. The Book of Mormon distinguishes between the two King James settings of one sentence."
+        },
+        "note": "Matthew 7:19 entire, and the choice among the KJV's three forms of the saying is testable. “hewn down, and cast into the fire” occurs in exactly three KJV verses — Matthew 3:10, Matthew 7:19 and Luke 3:9 — but the first and third belong to John the Baptist and both prefix “the axe is laid unto the root of the trees”, which is not here. The remaining discriminator is the relative pronoun: “every tree that bringeth not forth good fruit” occurs in exactly one KJV verse, because Matthew 3:10 reads “which bringeth not” and Luke 3:9 reads “every tree therefore which”. 3 Nephi reads “that”.",
+        "bibliography": [
+          "Hardy MSI, section heading at 3 Ne 14: “Parables of Discipleship (Matthew 7.1–27)”"
+        ],
+        "status": "consensus",
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ],
+        "composite": [
+          "Matthew 3:10"
+        ],
+        "recurrenceRefs": [
+          "Jacob 5:26",
+          "Jacob 5:42",
+          "Jacob 6:7",
+          "Alma 5:52",
+          "Helaman 14:18",
+          "3 Nephi 27:11",
+          "3 Nephi 27:17"
+        ],
+        "text": "Every tree that bringeth not forth good fruit is hewn down, and cast into the fire."
+      }
+    ],
+    "14:20": [
+      {
+        "source": "Matthew 7:20",
+        "type": "quotation",
+        "subtype": "extended",
+        "confidence": "certain",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 3,
+          "attestation": 5
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "Matthew 7:20 → KJV → Book of Mormon",
+          "significance": "Moroni quotes this verse at the end of the book and changes one word: “I remember the word of God, which saith, By their works ye shall know them” (Moroni 7:5). Fruits become works, and a saying about discerning false prophets becomes a saying about judging whether a deed is good — which is the argument of Moroni 7 as a whole. It is the same kind of substitution the Book of Mormon makes constantly outside this chapter, and its absence inside the chapter is what makes chapter 14 anomalous."
+        },
+        "note": "Matthew 7:20, the inclusio that closes the fruits paragraph. “by their fruits” occurs in exactly two KJV verses, and both are this paragraph's frame, Matthew 7:16 and 7:20; Luke's version of the saying (6:44) reads “every tree is known by his own fruit” and has no such repetition.",
+        "bibliography": [
+          "Hardy MSI, section heading at 3 Ne 14: “Parables of Discipleship (Matthew 7.1–27)”",
+          "Hardy MSI at Moro 7.5, cross-referencing 3 Ne 14.20 and Mt 7.20"
+        ],
+        "status": "consensus",
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ],
+        "recurrenceRefs": [
+          "Moroni 7:5"
+        ],
+        "text": "Wherefore by their fruits ye shall know them."
+      }
+    ],
+    "14:21": [
+      {
+        "source": "Matthew 7:21",
+        "type": "quotation",
+        "subtype": "extended",
+        "confidence": "certain",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 5
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "Matthew 7:21 → KJV → Book of Mormon",
+          "significance": "“The kingdom of heaven” is a Matthean expression: it occurs in exactly 32 KJV verses and every one of them is in Matthew, where the other evangelists write “the kingdom of God”. So the phrase in a Nephite Jesus' mouth is not merely biblical, it is specific to one Gospel's editorial habit, and that habit is a fact about Greek redaction rather than about anything said aloud.",
+          "other": "“will of my Father” occurs in exactly two KJV verses, Matthew 7:21 and Matthew 12:50."
+        },
+        "note": "Matthew 7:21 entire. “doeth the will of my Father” occurs in exactly one KJV verse. The Lukan counterpart, Luke 6:46, is a bare rebuke — “And why call ye me, Lord, Lord, and do not the things which I say?” — with no kingdom, no entering, and no Father; the test is decisive at three points, all of them Matthew's.",
+        "bibliography": [
+          "Hardy MSI, section heading at 3 Ne 14: “Parables of Discipleship (Matthew 7.1–27)”"
+        ],
+        "status": "consensus",
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ],
+        "text": "Not every one that saith unto me, Lord, Lord, shall enter into the kingdom of heaven; but he that doeth the will of my Father which is in heaven."
+      }
+    ],
+    "14:22": [
+      {
+        "source": "Matthew 7:22",
+        "type": "quotation",
+        "subtype": "extended",
+        "confidence": "certain",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 5
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "Matthew 7:22 → KJV → Book of Mormon",
+          "significance": "Three of the verse's clauses turn on “in thy name”, and the people being addressed are, in the Book of Mormon's own narrative, people who have just been baptized in that name by the twelve Jesus named eight chapters earlier. The saying warns against a confidence that the surrounding chapters are in the act of creating."
+        },
+        "note": "Matthew 7:22 entire, punctuation apart. “in that day, Lord” occurs in exactly one KJV verse, “have we not prophesied” occurs in exactly one KJV verse, and “many wonderful works” occurs in exactly one KJV verse. Matthean special material in this form; Luke 13:26's nearest equivalent is “We have eaten and drunk in thy presence, and thou hast taught in our streets”, which shares nothing.",
+        "bibliography": [
+          "Hardy MSI, section heading at 3 Ne 14: “Parables of Discipleship (Matthew 7.1–27)”"
+        ],
+        "status": "consensus",
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ],
+        "text": "Many will say to me in that day, Lord, Lord, have we not prophesied in thy name? and in thy name have cast out devils? and in thy name done many wonderful works?"
+      }
+    ],
+    "14:23": [
+      {
+        "source": "Matthew 7:23",
+        "type": "quotation",
+        "subtype": "extended",
+        "confidence": "certain",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 5
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "Matthew 7:23 → KJV → Book of Mormon",
+          "significance": "Mosiah 26:27 puts this sentence in God's mouth four hundred years before Jesus speaks it here, and puts it there in Matthew's wording, not the Psalm's. So the chapter's quotation of Matthew 7:23 is the second time the catalogue has met the verse in the Book of Mormon and the first time it is presented as a quotation."
+        },
+        "note": "Matthew 7:23 entire. “I never knew you” occurs in exactly one KJV verse and “depart from me, ye that work iniquity” occurs in exactly one KJV verse. The saying exists in the KJV in three forms and 3 Nephi has Matthew's at every testable point (see the separate row on Psalm 6:8 below): against Luke 13:27 it reads “profess unto them” not “tell you”, “never knew” not “know”, and “ye that work iniquity” not “all ye workers of iniquity”.",
+        "bibliography": [
+          "Hardy MSI, section heading at 3 Ne 14: “Parables of Discipleship (Matthew 7.1–27)”"
+        ],
+        "status": "consensus",
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ],
+        "recurrenceRefs": [
+          "Mosiah 26:27"
+        ],
+        "text": "And then will I profess unto them, I never knew you: depart from me, ye that work iniquity."
+      },
+      {
+        "source": "Psalm 6:8",
+        "type": "allusion",
+        "subtype": "paraphrase",
+        "confidence": "high",
+        "text": "Depart from me, all ye workers of iniquity; for the LORD hath heard the voice of my weeping.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 2,
+          "sequence": 3,
+          "context": 4,
+          "rarity": 2,
+          "attestation": 2
+        },
+        "kjvSpecific": "yes",
+        "mediation": "OT-via-NT",
+        "composite": [
+          "Matthew 7:23"
+        ],
+        "provenance": {
+          "route": "Psalm 6:8 → Matthew 7:23 → KJV → Book of Mormon",
+          "other": "“workers of iniquity” occurs in exactly 21 KJV verses, overwhelmingly in the Psalms; Psalm 6:8 is the one that pairs it with “Depart from me”, and Luke 13:27 quotes it in that form. Matthew 7:23 does not: he writes “ye that work iniquity”.",
+          "significance": "This is the chapter's one Old Testament source, and it does not arrive from the Old Testament. Psalm 6:8 reads “Depart from me, all ye workers of iniquity”; Luke 13:27 keeps the Psalm's noun phrase; Matthew 7:23 breaks it into a relative clause, “ye that work iniquity”. 3 Nephi 14:23 has Matthew's relative clause, lacks the Psalm's “all”, and carries Matthew's preface “And then will I profess unto them, I never knew you”, which is in neither the Psalm nor Luke. Three decisive points, all Matthean. Recover what the borrowing suppresses and the metalepsis is sharp: in the Psalm the speaker is a man dismissing his enemies because God has heard his weeping; in Matthew, and here, the speaker is the judge and the dismissal is final. The Book of Mormon inherits the Psalm's sentence only after the First Gospel has reassigned the speaker."
+        },
+        "note": "The Old Testament stands behind Matthew 7:23 and the mediation test settles which route it took. Psalm 6:8 is the source of “depart from me” plus “iniquity”, and tools/mediation-check.py returns three decisive points for Matthew against the Psalm: the Book of Mormon has Matthew's whole first clause, lacks the Psalm's “all”, and reads “that work” rather than “workers of”. The same three points exclude Luke 13:27, which follows the Psalm's wording here. The verse therefore reaches 3 Nephi through the New Testament, not from the Psalter that a Nephite record claims to carry on the plates of brass.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "14:24": [
+      {
+        "source": "Matthew 7:24",
+        "type": "quotation",
+        "subtype": "extended",
+        "confidence": "certain",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 5
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "Matthew 7:24 → KJV → Book of Mormon",
+          "significance": "Jesus applies this parable to himself twice in the surrounding chapters, and both times in the Book of Mormon's own words rather than Matthew's: at 3 Nephi 11:39–40, “whoso buildeth upon this, buildeth upon my rock … but he buildeth upon a sandy foundation”, and again at 18:13. Both use “sandy foundation”, which is in no KJV verse, and both arrive before the parable itself is quoted. The paraphrase precedes the quotation by three chapters."
+        },
+        "note": "Matthew 7:24 with one substitution: the KJV reads “whosoever heareth these sayings of mine” and 3 Nephi reads “whoso heareth”, the Book of Mormon's ordinary form (compare 3 Nephi 15:1, “whoso remembereth these sayings of mine”). Everything else is Matthew's: “wise man, which built” occurs in exactly one KJV verse. Luke 6:47–48 tells the parable with a different builder — a man who “digged deep, and laid the foundation on a rock” — and no likening formula at all.",
+        "bibliography": [
+          "Hardy MSI, section heading at 3 Ne 14: “Parables of Discipleship (Matthew 7.1–27)”"
+        ],
+        "status": "consensus",
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ],
+        "recurrenceRefs": [
+          "2 Nephi 28:28",
+          "Helaman 5:12",
+          "3 Nephi 11:39",
+          "3 Nephi 18:13",
+          "3 Nephi 15:1"
+        ],
+        "text": "Therefore whosoever heareth these sayings of mine, and doeth them, I will liken him unto a wise man, which built his house upon a rock:"
+      }
+    ],
+    "14:25": [
+      {
+        "source": "Matthew 7:25",
+        "type": "quotation",
+        "subtype": "extended",
+        "confidence": "certain",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 5
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "Matthew 7:25 → KJV → Book of Mormon",
+          "significance": "The triad rain-floods-winds is what the Book of Mormon actually carries away from this parable. Helaman 5:12 has “the mighty storm … his hail and his mighty storm shall beat upon you”; 3 Nephi 18:13 has “when the rain descends, and the floods come, and the winds blow, and beat upon them”, which is this verse's three agents in this verse's order with the tenses shifted. The order is arbitrary and it survives every retelling."
+        },
+        "note": "Matthew 7:25 entire, and the mediation is decisive at four points. Luke 6:48 has one water and no wind — “when the flood arose, the stream beat vehemently upon that house” — where Matthew has three agents in a fixed order: rain, floods, winds. 3 Nephi has Matthew's three, in Matthew's order, and lacks Luke's “vehemently”. “founded upon a rock” occurs in exactly two KJV verses, Matthew 7:25 and, in a different construction, Luke 6:48.",
+        "bibliography": [
+          "Hardy MSI, section heading at 3 Ne 14: “Parables of Discipleship (Matthew 7.1–27)”"
+        ],
+        "status": "consensus",
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ],
+        "recurrenceRefs": [
+          "Helaman 5:12",
+          "3 Nephi 18:13"
+        ],
+        "text": "And the rain descended, and the floods came, and the winds blew, and beat upon that house; and it fell not: for it was founded upon a rock."
+      }
+    ],
+    "14:26": [
+      {
+        "source": "Matthew 7:26",
+        "type": "quotation",
+        "subtype": "extended",
+        "confidence": "certain",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 5
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "Matthew 7:26 → KJV → Book of Mormon",
+          "significance": "The Book of Mormon reached this verse long before it quoted it: 1 Nephi 8:26 and 12:18 build the great and spacious building of Lehi's dream on it, and 2 Nephi 28:28 warns against the man “built upon a sandy foundation”. Nephi's dream turns a parable about two houses into a landscape with one, and the building that stands “as it were in the air” is the foolish builder's house with the sand removed.",
+          "other": "“upon the sand” occurs in exactly two KJV verses, Matthew 7:26 and Revelation 13:1, where John stands upon the sand of the sea."
+        },
+        "note": "Matthew 7:26 entire. “shall be likened unto” occurs in exactly one KJV verse, and “these sayings of mine” occurs in exactly two, Matthew 7:24 and 7:26, the two halves of this parable. Luke 6:49's foolish builder “built an house upon the earth without a foundation”; the sand is Matthew's.",
+        "bibliography": [
+          "Hardy MSI, section heading at 3 Ne 14: “Parables of Discipleship (Matthew 7.1–27)”"
+        ],
+        "status": "consensus",
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ],
+        "recurrenceRefs": [
+          "1 Nephi 8:26",
+          "1 Nephi 12:18",
+          "2 Nephi 28:28",
+          "Helaman 5:12"
+        ],
+        "text": "And every one that heareth these sayings of mine, and doeth them not, shall be likened unto a foolish man, which built his house upon the sand:"
+      }
+    ],
+    "14:27": [
+      {
+        "source": "Matthew 7:27",
+        "type": "quotation",
+        "subtype": "extended",
+        "confidence": "certain",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 5
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "Matthew 7:27 → KJV → Book of Mormon",
+          "significance": "This clause is the most widely distributed sentence of Matthew 7 in the Book of Mormon and the catalogue has met it repeatedly before now: 1 Nephi 8:26 and 11:36 (“the fall thereof was exceeding great”), 1 Nephi 22:14 (“that great and abominable church shall tumble to the dust, and great shall be the fall of it”), 2 Nephi 28:18, Helaman 5:12. In every one of those the falling thing is a building or a church, and in every one the wording is adapted. Here alone it is Matthew's, unaltered, and the falling thing is a house in a parable. Read across the whole book, chapter 14 is the source arriving after four hundred pages of its own echoes — which is the shape of the finding the catalogue keeps making, and the reason a chapter that is 'only' a transcription is worth twenty-seven rows."
+        },
+        "note": "Matthew 7:27 entire, and the last verse of the Nephite Sermon. “great was the fall of it” occurs in exactly one KJV verse. Luke 6:49 ends “and the ruin of that house was great”, which the Book of Mormon does not have anywhere; every one of its eight uses of the clause is built on Matthew's noun. Matthew 7:28–29, the crowd's astonishment, is not carried over — 3 Nephi 15:1 substitutes its own frame.",
+        "bibliography": [
+          "Hardy MSI, section heading at 3 Ne 14: “Parables of Discipleship (Matthew 7.1–27)”",
+          "Hardy MSI note at 3 Ne 14.27: “This concludes the Nephite version of the Sermon on the Mount. Note that 3 Ne 14 reproduces Mt 7 almost exactly.”"
+        ],
+        "status": "consensus",
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ],
+        "recurrenceRefs": [
+          "1 Nephi 8:26",
+          "1 Nephi 11:36",
+          "1 Nephi 22:14",
+          "2 Nephi 28:18",
+          "Helaman 5:12",
+          "3 Nephi 11:40",
+          "3 Nephi 18:13"
+        ],
+        "text": "And the rain descended, and the floods came, and the winds blew, and beat upon that house; and it fell: and great was the fall of it."
+      }
+    ]
+  }
+}

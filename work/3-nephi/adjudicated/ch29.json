@@ -1,0 +1,330 @@
+{
+  "chapter": 29,
+  "adjudicated": "2026-09-07",
+  "adjudicator": "Opus",
+  "links": {
+    "29:2": [
+      {
+        "source": "2 Peter 3:2",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "moderate",
+        "text": "That ye may be mindful of the words which were spoken before by the holy prophets, and of the commandment of us the apostles of the Lord and Saviour:",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "2 Peter 3:4",
+          "2 Peter 3:9"
+        ],
+        "recurrenceRefs": [
+          "3 Nephi 5:1",
+          "1 Nephi 3:20"
+        ],
+        "provenance": {
+          "route": "2 Peter 3:2-9 → KJV → Book of Mormon",
+          "other": "“holy prophets” occurs in exactly four KJV verses — Luke 1:70, Acts 3:21, 2 Peter 3:2 and Revelation 22:6 — all of them in the New Testament. “the words which were spoken” occurs in exactly two, 2 Peter 3:2 and Jude 1:17, and only 2 Peter 3:2 attaches it to the prophets. “the promise of his coming” and “not slack concerning his promise” each occur in exactly one KJV verse, 2 Peter 3:4 and 3:9.",
+          "alternative": "Acts 3:21, which the catalogue took as the source of the same epithet at 3 Nephi 5:1, with 2 Peter 3:2 recorded there as the alternative. Acts 3:21 has ‘by the mouth of all his holy prophets’ and no noun ‘words’; 2 Peter 3:2 has ‘the words’ and no ‘mouth’. The Book of Mormon here has ‘the words of the Lord, which have been spoken by the holy prophets’ — words, no mouth — and tools/mediation-check.py returns 2 Peter 3:2 on both of those points.",
+          "significance": "This is where the alternative left open at 3 Nephi 5:1 is decided, and it is decided by what the sentence goes on to say rather than by the epithet itself. 2 Peter 3:2 is not a stray verse: it is the premise of the only scoffing-oracle in the New Testament, and the two verses after it are the scoffers of the last days saying ‘Where is the promise of his coming?’, answered seven verses later by ‘The Lord is not slack concerning his promise’. 3 Nephi 29:2 reproduces that whole movement in one sentence — the words spoken by the holy prophets shall all be fulfilled, and ye need not say that the Lord delays his coming. Mormon has taken 2 Peter 3's premise and 2 Peter 3's objection and 2 Peter 3's answer, and compressed eight verses into a clause and a half. Recovering the source's context tells the reader what Mormon thinks the Gentiles who receive his book will be: not disbelievers but scoffers, and specifically 2 Peter's scoffers, whose complaint is about timing."
+        },
+        "note": "'The words of the Lord, which have been spoken by the holy prophets, shall all be fulfilled; and ye need not say that the Lord delays his coming.' The epithet on its own is a repeat — the catalogue adjudicated it at 3 Nephi 5:1 and does not restate the argument — but a repeat is not what this verse is. At 5:1 the choice between Acts 3:21 and 2 Peter 3:2 could not be made on the wording alone; here the phrase arrives with 2 Peter 3's own objection attached to it in the same breath, which settles the choice for this verse and is a fresh borrowing in its own right. Held at moderate because the shared string with 3:2 is four words long and the rest of the case is contextual: the argument is the sequence premise-objection-answer, not the clause.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      },
+      {
+        "source": "Matthew 24:48",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "But and if that evil servant shall say in his heart, My lord delayeth his coming;",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Luke 12:45"
+        ],
+        "recurrenceRefs": [
+          "3 Nephi 29:3"
+        ],
+        "provenance": {
+          "route": "Matthew 24:48 → KJV → Book of Mormon",
+          "other": "“delayeth his coming” occurs in exactly two KJV verses, Matthew 24:48 and Luke 12:45, and they are the same saying in the two synoptics. “say in his heart” occurs in exactly the same two. tools/mediation-check.py returns Matthew 24:48, but only on an absence: the Book of Mormon lacks Luke's long tail about beating the menservants. The two forms differ otherwise by 'evil' and 'shall', and the Book of Mormon has neither, so the assignment to Matthew is the weaker half of this row.",
+          "significance": "The evil servant's sentence is not an opinion about eschatology; in Matthew it is the thing a servant says when he has decided the master is not watching, and the parable's point is that the saying is the sin. Mormon has given the Gentiles who scoff at his book the evil servant's line, which means the chapter's charge is not error but presumption — acting as though the delay were licence. Note what the catalogue can see here that a modern reader cannot: the very next verse of 3 Nephi says 'ye need not imagine in your hearts', and the KJV's evil servant says his line 'in his heart'. The saying and its location are both borrowed, split across a verse break."
+        },
+        "note": "'Ye need not say that the Lord delays his coming.' This is the strongest verbal row in the chapter and the machine stream proposed nothing for the verse at all: the n-gram windows found no run because the Book of Mormon has modernised the verb ('delays' for 'delayeth') and dropped the possessive subject, leaving 'his coming' as the only contiguous survivor. Read as a saying rather than a string it is exact — the KJV has one saying about a lord who delays his coming, it is spoken by a servant in his own heart, and it is quoted only to be condemned. The Book of Mormon quotes it in the same posture, as a thing 'ye need not say'.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "29:3": [
+      {
+        "source": "Zechariah 8:17",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "text": "And let none of you imagine evil in your hearts against his neighbour; and love no false oath: for all these are things that I hate, saith the LORD.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 3,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "provenance": {
+          "route": "Zechariah 8:17 → KJV → Book of Mormon",
+          "other": "“imagine evil in your hearts” occurs in exactly one KJV verse, Zechariah 8:17. “in your hearts” occurs in exactly thirteen, and Zechariah 8:17 is the only one of the thirteen whose verb is 'imagine'. The construction ‘imagine … in your hearts’ is therefore a KJV singleton, which is what the Book of Mormon has, with its own object substituted for 'evil'.",
+          "alternative": "Psalm 2:1, 'Why do the heathen rage, and the people imagine a vain thing?', brings 'imagine' and 'vain' together in one clause and is addressed to exactly 3 Nephi 29's audience, the Gentiles set against the LORD's purpose. It is rejected as the source because its 'vain thing' is the plotting, not the word plotted against, and because it has no 'in your hearts'; but a reader who notices it has noticed something, and the two verses may both be in play.",
+          "significance": "Zechariah 8 is the KJV's densest short chapter on precisely 3 Nephi 29's subject: God returning to Zion, the remnant gathered from the east country and the west, 'they shall be my people, and I will be their God, in truth and in righteousness' (8:8), and the promise that what he has now purposed to do he will not repent of (8:14-15). Its prohibition against imagining evil in the heart sits at the end of that argument as the behaviour the restored covenant forbids. Mormon has taken the prohibition and pointed it at unbelief in the restoration itself — the thing Zechariah 8 forbids you to imagine against your neighbour is what 3 Nephi 29 forbids you to imagine against the promise."
+        },
+        "note": "'And ye need not imagine in your hearts, that the words which have been spoken are vain.' The verb and its location are the KJV's, from the one verse in which they occur together, and the object has been swapped: Zechariah forbids imagining evil, Mormon forbids imagining vanity. The row is held at moderate because a single verb plus a common prepositional phrase is thin evidence taken alone, and because the immediately preceding verse has already borrowed 'say in his heart' from Matthew 24:48 — the two sources are competing for the same clause, and it is possible that 29:3's 'in your hearts' is simply Matthew's phrase pluralised. What tips it to Zechariah is 'imagine', which Matthew does not have and which the KJV never elsewhere puts in the heart.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "29:4": [
+      {
+        "source": "Deuteronomy 28:15",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "text": "But it shall come to pass, if thou wilt not hearken unto the voice of the LORD thy God, to observe to do all his commandments and his statutes which I command thee this day; that all these curses shall come upon thee, and overtake thee:",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Deuteronomy 28:45",
+          "Deuteronomy 32:41"
+        ],
+        "provenance": {
+          "route": "Deuteronomy 28:15 → KJV → Book of Mormon",
+          "other": "“overtake thee” occurs in exactly three KJV verses and all three are in Deuteronomy 28 — 28:2 of the blessings, 28:15 and 28:45 of the curses. “shall come upon thee, and overtake thee” occurs in exactly one, Deuteronomy 28:15. Outside that chapter the King James Bible does not use the verb of a sanction pursuing a person at all. “take hold on judgment” occurs in exactly one KJV verse, Deuteronomy 32:41, which is the only place in the KJV where God's hand holds judgment as a sword is held.",
+          "alternative": "The image of the sword itself is not borrowed. The catalogue's standing entry at Helaman 13:5 records that ‘sword of justice’ occurs in no KJV verse and is a Book of Mormon coinage, and that judgment is not disturbed here; Deuteronomy 32:41 is offered as the nearest KJV picture of the same thing, not as its wording.",
+          "significance": "The whole of 3 Nephi 29 is an argument that the covenant is still running, and the verb Mormon picks for its sanction is the one verb the King James Bible reserves for covenant sanctions. Deuteronomy 28 uses it twice in both directions — the blessings 'shall come on thee, and overtake thee' if thou hearken, the curses 'shall come upon thee, and overtake thee' if thou wilt not — and the condition attached to the curse at 28:45 is 'because thou hearkenedst not unto the voice of the LORD thy God', which is what spurning at the doings of the Lord amounts to. Recover the source and the threat in 29:4 stops being a general warning and becomes a clause of the same covenant whose fulfilment 29:1 has just announced. The chapter says the covenant is beginning to be kept; the borrowing says both halves of it are."
+        },
+        "note": "'If ye shall spurn at his doings, he will cause it that it shall soon overtake you.' A single verb, but a verb that in the KJV belongs to one chapter: every occurrence of 'overtake thee' is in Deuteronomy 28, and the fuller run 'shall come upon thee, and overtake thee' is a KJV singleton there. The rest of the verse is Mormon's own — 'spurn' occurs in no KJV verse, and neither does 'doings of the Lord', which is worth saying because the KJV's fifty uses of 'doings' are almost all human and mostly evil. The 1830 reads 'he will cause it that it shall soon overtake you' where 1920 deletes the first 'it'; the deletion tidies the grammar and does not touch the borrowing.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "29:5": [
+      {
+        "source": "Isaiah 5:19",
+        "type": "figural",
+        "subtype": "structural",
+        "confidence": "moderate",
+        "text": "That say, Let him make speed, and hasten his work, that we may see it: and let the counsel of the Holy One of Israel draw nigh and come, that we may know it!",
+        "evidence": {
+          "vocabulary": 1,
+          "syntax": 3,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 2,
+          "attestation": 0
+        },
+        "kjvSpecific": "uncertain",
+        "mediation": "direct-OT",
+        "composite": [
+          "Isaiah 5:12"
+        ],
+        "recurrenceRefs": [
+          "3 Nephi 29:6",
+          "3 Nephi 29:7"
+        ],
+        "provenance": {
+          "route": "Isaiah 5:11-25 → KJV → Book of Mormon",
+          "other": "“Woe unto him that” occurs in exactly five KJV verses — Isaiah 45:9 and 45:10, Jeremiah 22:13, Habakkuk 2:15 and 2:19 — and the serial form, one woe after another on a different offence, is Isaiah 5:8-23 and Habakkuk 2:6-19. Note against the KJV that the Book of Mormon spells the interjection 'Wo': “Wo unto” occurs in no KJV verse, which is a fact about orthography rather than about dependence but is worth having on the record. “hasten his work” occurs in exactly one KJV verse, Isaiah 5:19; “regard not the work” in exactly one, Isaiah 5:12.",
+          "alternative": "Habakkuk 2:6-19 is the closer formal model for a chain of woes and the closer verbal one for 'Woe to him that', and a reader who prefers it is not wrong about the form. It is not preferred here because Habakkuk's five woes are on greed, violence and idols, and have nothing to do with scoffing at the timing of God's work.",
+          "significance": "Metalepsis in the strict sense: the interest is in what Isaiah 5 says that 3 Nephi 29 does not. Isaiah's woe-series contains the KJV's one portrait of men who mock the delay of God's work — 'Let him make speed, and hasten his work, that we may see it' — and, seven verses earlier, of men who 'regard not the work of the LORD, neither consider the operation of his hands'. Those are the two charges of 3 Nephi 29 exactly, in Isaiah's order: first that the doings of the Lord are not regarded (29:4-5), then that his coming is late (29:2). Isaiah's series ends at 5:25 with 'therefore is the anger of the LORD kindled … and his hand is stretched out still' — a hand held out in judgment, which is what 29:4 has just put a sword into."
+        },
+        "note": "'Wo unto him that spurneth at the doings of the Lord; yea, wo unto him that shall deny the Christ and his works.' Verses 5, 6 and 7 are a chain of three woes, each on a distinct form of contempt, and that is a form the King James Bible has in exactly two places: Isaiah 5 and Habakkuk 2. Isaiah 5 is preferred because it is the one whose offences are these offences — despising the work of the LORD and jeering at its delay. The link is figural and the wording is not shared: 'spurn' is not a KJV word, 'doings of the Lord' occurs in no KJV verse, and the Book of Mormon's 'Wo' is not the KJV's 'Woe'. It is recorded because a reader hearing a triple woe against scoffers is hearing a scriptural form, and the catalogue should say which one and on what evidence rather than leave the resemblance unclaimed.",
+        "whyNot": "There is no verbal contact worth the name — not one distinctive shared word between 3 Nephi 29:5-7 and Isaiah 5:11-25. The case rests entirely on the coincidence of a rhetorical form (serial woes) with a subject matter (contempt for God's work, mockery of its delay), and either could have been arrived at independently by a writer who had simply read the prophets. A reader who declines this row and keeps only the verbal links in 29:6-7 has lost nothing the catalogue can prove.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "29:6": [
+      {
+        "source": "1 Corinthians 12:10",
+        "type": "allusion",
+        "subtype": "paraphrase",
+        "confidence": "high",
+        "text": "To another the working of miracles; to another prophecy; to another discerning of spirits; to another divers kinds of tongues; to another the interpretation of tongues:",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 5,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "1 Corinthians 12:9",
+          "1 Corinthians 12:30",
+          "1 Corinthians 14:6"
+        ],
+        "provenance": {
+          "route": "1 Corinthians 12:8-30 and 14:6 → KJV → Book of Mormon",
+          "other": "“the working of miracles” and “divers kinds of tongues” each occur in exactly one KJV verse, 1 Corinthians 12:10. “gifts of healing” occurs in exactly two, 1 Corinthians 12:9 and 12:30, and nowhere else in the Bible. “by revelation, or by” occurs in exactly one KJV verse, 1 Corinthians 14:6 — 'except I shall speak to you either by revelation, or by knowledge, or by prophesying, or by doctrine' — which is the King James Bible's only serial 'or by' list of ways the Spirit speaks, and it is the syntax 3 Nephi 29:6 is written in. “the power of the Holy Ghost” occurs in exactly one KJV verse, Romans 15:13.",
+          "significance": "1 Corinthians 12:29-30 is where Paul turns his own list into a series of questions expecting the answer no — 'Are all prophets? … Have all the gifts of healing? do all speak with tongues?' — which is the one place in the KJV where the catalogue of gifts is put in the negative. 3 Nephi 29:6 is that inversion carried one step further: not 'do all speak with tongues' but 'the Lord no longer worketh by … tongues'. The list Paul assembled to prove that the Spirit is various is quoted by Mormon to name what a later age will deny the Spirit does at all, and the reader who recovers 1 Corinthians 12 finds the same six items being used to make the opposite point. The chapter's charge against the Gentiles is thus put in the Gentiles' own apostle's words."
+        },
+        "note": "'That shall say, the Lord no longer worketh by revelation, or by prophecy, or by gifts, or by tongues, or by healings, or by the power of the Holy Ghost.' Five of the six items are the vocabulary of one chapter of the New Testament and of no other: healings and gifts and prophecy and tongues are 1 Corinthians 12's inventory, where 'gifts of healing' and 'divers kinds of tongues' are KJV rarities found there and essentially nowhere else. The sixth item, revelation, and the serial 'or by' that strings them all together, come from 1 Corinthians 14:6, whose 'by revelation, or by knowledge, or by prophesying, or by doctrine' is a KJV singleton and is the only KJV sentence built the way this one is. Below any quotation threshold — no continuous run exceeds three words — but the composition is unmistakable: it is Paul's list, in Paul's syntax, negated.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "29:7": [
+      {
+        "source": "John 17:12",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "While I was with them in the world, I kept them in thy name: those that thou gavest me I have kept, and none of them is lost, but the son of perdition; that the scripture might be fulfilled.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "John 17:12 → KJV → Book of Mormon",
+          "other": "“son of perdition” occurs in exactly two KJV verses, John 17:12 and 2 Thessalonians 2:3. “get gain” occurs in exactly one, James 4:13 — adjudicated in this book at 3 Nephi 6:10 and first at 2 Nephi 26:20, and registered here rather than re-argued.",
+          "alternative": "2 Thessalonians 2:3, where the son of perdition is the eschatological man of sin. It is ruled out by the Book of Mormon's own attribution: 29:7 says the doom is 'according to the word of Christ', and of the two KJV verses only John 17:12 is a word of Christ — 2 Thessalonians 2:3 is Paul's. That the phrase 'the word of Christ' is itself Colossians 3:16's does not weaken the point; the clause is a citation formula, and it points where it points.",
+          "significance": "Recover John 17:12 and the identity of the son of perdition is Judas, and the sentence Mormon has built becomes exact rather than merely severe. The man 3 Nephi 29:7 condemns is one who denies that Christ works miracles and does it for money; the man John 17:12 calls the son of perdition is one who was with Christ through the miracles and sold him for money. 'For whom there was no mercy' answers John's 'none of them is lost, but the son of perdition' — the single exception to a kept flock. Neither text says the scoffer is Judas. The link says it: to deny Christ's works for gain is to take the one place in the twelve that was not kept."
+        },
+        "note": "'That there can be no miracle wrought by Jesus Christ, for to get gain; for he that doeth this, shall become like unto the son of perdition, for whom there was no mercy, according to the word of Christ.' The borrowed phrase is short and its rarity does the work: two verses in the King James Bible contain it, and the Book of Mormon tells the reader which of the two it means by attributing the doom to the word of Christ. The 1830 reading matters here and the modern text hides it. In 1830 the sentence runs 'no miracle wrought by Jesus Christ, for to get gain', with the KJV's 'for to' before the infinitive and the gain attached to the denial; 1920 moved the phrase forward to 'shall say at that day, to get gain, that there can be no miracle' and dropped 'for', which both breaks the King James idiom and reassigns the motive from the doctrine to the speaker. The first edition reads as a single accusation of denying Christ's works for money, which is the accusation John 17:12's son of perdition answers to.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "29:8": [
+      {
+        "source": "Lamentations 2:15",
+        "type": "allusion",
+        "subtype": "conceptual",
+        "confidence": "moderate",
+        "text": "All that pass by clap their hands at thee; they hiss and wag their head at the daughter of Jerusalem, saying, Is this the city that men call The perfection of beauty, The joy of the whole earth?",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Lamentations 2:16"
+        ],
+        "recurrenceRefs": [
+          "1 Nephi 19:14",
+          "3 Nephi 16:9"
+        ],
+        "provenance": {
+          "route": "Lamentations 2:15-16 → KJV → Book of Mormon",
+          "other": "“they hiss” occurs in exactly two KJV verses, Lamentations 2:15 and 2:16, and they are consecutive. “an hissing” occurs in exactly six, all of them formulae in which a place is made a hissing rather than sentences in which people hiss at somebody. Lamentations 2:15-16 is therefore the King James Bible's only passage where the verb has a human subject deriding a named Jewish object, which is the grammar 3 Nephi 29:8 uses.",
+          "alternative": "1 Kings 9:7-8, whose 'a proverb and a byword' plus 'shall hiss' the catalogue has already adjudicated behind the Book of Mormon's compound 'a hiss and a byword' at 1 Nephi 19:14 and at 3 Nephi 16:9. That compound is not what 29:8 has: here 'hiss' is a finite verb in a list of three things the Gentiles are told to stop doing, with the Jews as its object, and the 1 Kings verses supply a noun, not a verb with a victim.",
+          "significance": "In Lamentations the hissers are the enemies who pass by a ruined Jerusalem and say 'we have swallowed her up: certainly this is the day that we looked for'. Their derision is not of the Jews' religion but of their visible ruin, and it is offered in the poem as evidence that God has finished with them. That is precisely the reading 3 Nephi 29:8 forbids: the Gentiles who hiss at the Jews are reading the scattering as an ending, and Mormon's answer is that the covenant is a thing sworn and the ruin is an interval. Recover the source and the prohibition acquires its ground — Lamentations records the hissing at the very moment the covenant looked broken, which is exactly when it was not."
+        },
+        "note": "'Ye need not any longer hiss, nor spurn, nor make game of the Jews, nor of any of the remnant of the house of Israel.' Two of the three verbs are the Book of Mormon's own — 'spurn' and 'make game' occur in no KJV verse — and the third is the KJV's standing gesture of contempt at a fallen Israel. What identifies Lamentations 2:15-16 rather than the six 'astonishment and an hissing' formulae is the grammar: the Book of Mormon needs people hissing at the Jews, and only Lamentations supplies that, twice in consecutive verses. Held at moderate because one verb is thin, and because the Book of Mormon may simply be using a prophetic commonplace rather than this passage of it.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "29:9": [
+      {
+        "source": "2 Samuel 14:19",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "moderate",
+        "text": "And the king said, Is not the hand of Joab with thee in all this? And the woman answered and said, As thy soul liveth, my lord the king, none can turn to the right hand or to the left from ought that my lord the king hath spoken: for thy servant Joab, he bade me, and he put all these words in the mouth of thine handmaid:",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 3,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "provenance": {
+          "route": "2 Samuel 14:19 → KJV → Book of Mormon",
+          "other": "“to the right hand or to the left” occurs in exactly ten KJV verses. Nine of the ten are the walking idiom — 'thou shalt not turn aside to the right hand, or to the left' — in which the one who might turn is the person addressed and the thing not to be turned from is the law. “none can turn” occurs in exactly one KJV verse, 2 Samuel 14:19, which is the tenth, and the only one in which the phrase means that a decree already spoken cannot be deflected by anybody.",
+          "alternative": "Deuteronomy 5:32, 17:20, 28:14, Joshua 1:7 and 23:6 and the rest of the walking-idiom family. They are the commoner form and any of them could have furnished the words, but none of them furnishes the sense: in all of them the turning is disobedience by the hearer, and in 3 Nephi 29:9 the turning is an attempt to divert the Lord.",
+          "significance": "The Book of Mormon has taken a directional idiom and made its 'right hand' a literal hand — 'turn the right hand of the Lord unto the left' — which is why the machine streams could not see the borrowing and why it is worth recording. That literalising is prepared five verses earlier: 29:4 has already put the sword of his justice into the Lord's right hand, so by 29:9 the right hand is an object in the chapter and not a compass point. Recover 2 Samuel 14:19 and the argument sharpens further: the woman of Tekoah is telling David that nothing can deflect what the king has already spoken, and she is saying it at the moment she has been caught staging a parable to change his mind. 3 Nephi 29:9's Gentiles are in her position and are told the same thing, with the added point that the covenant is not a verdict a petitioner might yet talk the king out of."
+        },
+        "note": "'Ye need not suppose that ye can turn the right hand of the Lord unto the left, that he may not execute judgement unto the fulfilling of the covenant.' The phrase is common and the use is not. In nine of its ten KJV occurrences the right hand and the left are directions a person is told not to stray into; in the tenth, 2 Samuel 14:19, they are the impossibility of deflecting what a king has decreed, which is the sense 3 Nephi 29:9 needs and takes. Held at moderate because the shared string is the commonest form of the idiom and the argument turns on sense rather than rarity. One 1830 detail runs against the usual direction of these findings: the first edition spells 'judgement', which is not the King James spelling, and 1920 changed it to the KJV's 'judgment' — an edition moving the text toward the source rather than away from it, as at 1 Nephi 1:20.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ]
+  }
+}

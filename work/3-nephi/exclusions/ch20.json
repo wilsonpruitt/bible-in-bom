@@ -1,0 +1,58 @@
+[
+  {
+    "bomRef": "3 Nephi 20:8",
+    "source": "Revelation 7:16",
+    "category": "better-source-identified",
+    "sharedText": "shall never hunger nor thirst",
+    "streams": ["manual"],
+    "reason": "The Book of Mormon's clause is “their soul shall never hunger nor thirst, but shall be filled”, and the two KJV candidates for a hunger-and-thirst promise are Revelation 7:16, “They shall hunger no more, neither thirst any more”, and John 6:35, “he that cometh to me shall never hunger; and he that believeth on me shall never thirst”. John wins on two counts. “Never hunger” occurs in exactly one KJV verse and it is John 6:35; Revelation has “hunger no more”, a different construction. And Revelation 7:16 accounts for a third of the Book of Mormon verse and nothing else in it — the first two thirds are about eating a bread that is a body and drinking a wine that is blood, which is John 6:54-56 and is absent from Revelation 7 entirely. The link is written at John 6:35 with John 6:54 and 6:56 as composite."
+  },
+  {
+    "bomRef": "3 Nephi 20:13",
+    "source": "Luke 13:29",
+    "category": "better-source-identified",
+    "sharedText": "from the east, and from the west",
+    "streams": ["machine-ngram"],
+    "reason": "The highest-scoring candidate in the chapter's first fifteen verses, on a ten-word run, and it is the wrong one of the two verses that share the phrase. “From the east and from the west” occurs in exactly two KJV verses, Psalm 107:3 and Luke 13:29. Psalm 107:3 is a gathering — “And gathered them out of the lands, from the east, and from the west, from the north, and from the south” — and 3 Nephi 20:13 is a gathering: “shall the remnants … be gathered in from the east, and from the west, and from the south, and from the north.” Luke 13:29 is a banquet scene, and the people who come from the four quarters in it do so in order to “sit down in the kingdom of God” while the sons of the kingdom are thrust out; the verb is not gathering and the sense is exclusion, not restoration. A moderate link is written at Psalm 107:3 instead, with the caveat that the Book of Mormon's order of the quarters (east, west, south, north) matches neither candidate."
+  },
+  {
+    "bomRef": "3 Nephi 20:22",
+    "source": "Luke 21:26",
+    "category": "wrong-sense",
+    "sharedText": "the powers of heaven",
+    "streams": ["manual"],
+    "reason": "“Powers of heaven” occurs in exactly one KJV verse, Luke 21:26, which makes it the strongest-looking candidate a rarity search returns for this verse and makes it worth refusing in writing. Luke's clause is “the powers of heaven shall be SHAKEN” — the cosmic dissolution of the Olivet discourse, listed alongside men's hearts failing them for fear. 3 Nephi 20:22's clause is “the powers of heaven shall be IN THE MIDST OF THIS PEOPLE; yea, even I will be in the midst of you” — a promise of presence in a verse about establishing a New Jerusalem. The one shared phrase is doing opposite work in the two verses: in Luke the heavenly powers are the thing destabilized, here they are the thing granted. The catalogue writes an echo at Revelation 21:2 for this verse's “New Jerusalem” instead, and records that the remainder of the verse has no verbal source it can identify — Ezekiel 37:26-27 and Zechariah 2:10-11 are the nearest in sense and share no wording."
+  },
+  {
+    "bomRef": "3 Nephi 20:23",
+    "source": "Acts 7:37",
+    "category": "better-source-identified",
+    "sharedText": "A prophet shall the Lord your God raise up unto you of your brethren, like unto me",
+    "streams": ["machine-ngram"],
+    "reason": "Stephen quotes the prophet-like-unto-Moses oracle at Acts 7:37 in wording identical to Peter's at Acts 3:22 for its first twenty-one words — “raise up unto you of your brethren” occurs in exactly these two KJV verses and nowhere else — so the machine proposes both and the choice has to be made on what follows. Acts 7:37 stops at “him shall ye hear”; Acts 3:22 continues “in all things whatsoever he shall say unto you”, and 3 Nephi 20:23 has those twelve words in full. Acts 3 then supplies the sanction clause that occupies the second half of the Book of Mormon verse — “every soul, which will not hear that prophet, shall be destroyed from among the people” (Acts 3:23) — for which Acts 7 has no equivalent at all. The link is written at Acts 3:22 with Acts 3:23 and Deuteronomy 18:15, 18-19 as composite. This is the same disposition the pilot reached at 1 Nephi 22:20, where the identical pair of candidates arose."
+  },
+  {
+    "bomRef": "3 Nephi 20:34",
+    "source": "Isaiah 49:13",
+    "category": "better-source-identified",
+    "sharedText": "break forth into … for the LORD hath comforted his people",
+    "streams": ["manual"],
+    "reason": "Isaiah 49:13 is the other KJV verse that joins a breaking-forth to the clause “for the LORD hath comforted his people”, and a reader arriving at 3 Nephi 20:34 with a concordance will meet it. It reads “break forth into SINGING, O mountains”; Isaiah 52:9 reads “Break forth into JOY, sing together, ye waste places of Jerusalem”, and the Book of Mormon has joy, the singing together and the waste places — “break forth into joy” and “waste places of Jerusalem” are each KJV singletons at Isaiah 52:9. Isaiah 49:13 also has no Jerusalem redeemed in it, which is how 3 Nephi 20:34 ends. The same displacement was filed at 3 Nephi 16:19, where the corpus quotes the same verse without alteration; it is repeated here because a reader browsing chapter 20 has no reason to look at chapter 16's register."
+  },
+  {
+    "bomRef": "3 Nephi 20:41",
+    "source": "2 Corinthians 6:17",
+    "category": "better-source-identified",
+    "sharedText": "touch not … unclean",
+    "streams": ["manual"],
+    "reason": "A genuine mediation candidate and the most interesting refusal in the chapter, because it is refused on the evidence rather than on the sense. Isaiah 52:11 reads “touch NO unclean thing”; 2 Corinthians 6:17 quotes it as “touch NOT the unclean thing”; and 3 Nephi 20:41 reads “touch NOT that which is unclean”, whose negative is Paul's and not Isaiah's. That is exactly the kind of one-word divergence on which the pilot's sixteen OT-via-NT rows were decided, so it deserves a hearing. It loses on volume. mediation-check.py returns three decisive points and all three favour Isaiah: the Book of Mormon opens “Depart ye, depart ye, go ye out from thence”, where Paul has “Wherefore come out from among them, and be ye separate, saith the Lord”; it keeps “from thence”, which Paul drops; and it keeps the whole of “go ye out of the midst of her; be ye clean, that bear the vessels of the Lord”, eighteen consecutive words for which Paul substitutes “and I will receive you”. One shared negative against eighteen shared words. The link is written at Isaiah 52:11 as direct-OT, and the shared “not” is recorded in that row's provenance as a sense-agreement with Paul that is not a verbal borrowing from him."
+  },
+  {
+    "bomRef": "3 Nephi 20:44",
+    "source": "Ezekiel 27:35",
+    "category": "wrong-sense",
+    "sharedText": "astonished at thee",
+    "streams": ["manual"],
+    "reason": "A trap of the exact kind ADJUDICATING §4 warns about, and one that a rarity check run on the Book of Mormon's own wording walks straight into. 3 Nephi 20:44 reads “As many were ASTONISHED at thee”; Isaiah 52:14, its source, reads “As many were ASTONIED at thee”. The Book of Mormon's participle is therefore not in Isaiah 52:14 at all, and “astonished at thee” occurs in exactly three KJV verses — Ezekiel 26:16, 27:35 and 28:19 — every one of them in the oracles against Tyre. The parallel is an artifact of a modernized spelling: “astonied” is the King James form and occurs in ten of its verses, “astonished” is what displaced it, and every edition of the Book of Mormon has the later word. Nothing else in 3 Nephi 20:44 is Ezekiel's, and the twenty words after the participle — “his visage was so marred more than any man, and his form more than the sons of men” — are Isaiah 52:14 verbatim, carrying the KJV singleton “his visage was so marred”. Ezekiel 26:16 and 28:19 are covered by this entry and not listed separately."
+  }
+]

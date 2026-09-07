@@ -1,0 +1,711 @@
+{
+  "chapter": 21,
+  "adjudicated": "2026-09-07",
+  "adjudicator": "Opus (hand-adjudicated verse by verse; not a mechanical Isaiah collation — see the note at the head of the file)",
+  "note": "3 Nephi 21 continues the discourse begun in chapter 20 and is not a transcribed block in the sense of tools/collate-isaiah.py. Its two large quotations, Isaiah 52 and Micah 5:8-15, are rewritten as they are quoted — 'saith the LORD' becomes 'saith the Father' throughout, second-person address becomes third-person description, and two of the passages (Isaiah 52:12, 52:15, Micah 5:8-9, the Deuteronomy 18:19 sanction) are quoted here for the SECOND time in the same sermon, in a different form from their first citation in chapter 20. Those second forms are the chapter's principal finding and are the reason each verse is adjudicated by hand.",
+  "links": {
+    "21:7": [
+      {
+        "source": "Ezekiel 24:27",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "text": "In that day shall thy mouth be opened to him which is escaped, and thou shalt speak, and be no more dumb: and thou shalt be a sign unto them; and they shall know that I am the LORD.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 4,
+          "sequence": 3,
+          "context": 3,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "provenance": {
+          "route": "Ezekiel 24:27 → KJV → Book of Mormon",
+          "other": "“a sign unto them” occurs in exactly one KJV verse, Ezekiel 24:27, and in exactly one Book of Mormon verse, this one — the corpus never uses the phrase again.",
+          "significance": "Ezekiel 24:27 is the hinge of Ezekiel's commission: the prophet's mouth is opened on the day the fugitive arrives from the fallen city, and the prophet himself becomes the sign that Israel is meant to read. 3 Nephi 21:7 asks the same of a record rather than a man — the coming forth of a book is the sign, and the thing to be known from it is that the Father's work has begun. The borrowed clause carries Ezekiel's grammar of signs intact: a sign given to a scattered people, whose content is not information but the identity of the one acting."
+        },
+        "note": "“It shall be a sign unto them, that they may know that the work of the Father hath already commenced.” The phrase “a sign unto them” occurs in exactly one KJV verse, Ezekiel 24:27, where it is followed by exactly the same purpose clause — “and they shall know that I am the LORD” answering “that they may know that the work of the Father hath already commenced.” Sign plus knowledge-clause is a small unit of two elements, and it is well below any quotation threshold; what recommends it is that the Book of Mormon uses the phrase once in 6,000 verses and the KJV uses it once in 31,000, and that both uses do the same work in the same order.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "21:8": [
+      {
+        "source": "Isaiah 52:15",
+        "type": "quotation",
+        "subtype": "extended",
+        "confidence": "certain",
+        "text": "So shall he sprinkle many nations; the kings shall shut their mouths at him: for that which had not been told them shall they see; and that which they had not heard shall they consider.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 5
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "recurrenceRefs": [
+          "3 Nephi 20:45"
+        ],
+        "provenance": {
+          "route": "Isaiah 52:15 → KJV → Book of Mormon",
+          "other": "“kings shall shut their mouths” occurs in exactly one KJV verse. The twenty-one words from “for that which had not been told them” to “shall they consider” are reproduced without a single change, which is above Skousen's sixteen-word operational threshold for a long quotation — though whether he counts this passage among his thirty-six cannot be checked, since the itemized list is unobtainable (PLAN §4.1).",
+          "significance": "Christ has already quoted Isaiah 52:15 nine verses earlier, at 3 Nephi 20:45, inside the continuous Isaiah 52:11-15 block. Here he quotes it again and re-times it: “And when that day shall come” replaces Isaiah's “So shall he sprinkle many nations”, and the silenced kings are relocated from the servant's exaltation to the coming forth of a record among the Gentiles. Dropping “at him” is what makes the move possible — with the servant removed from the clause, the kings fall silent before a thing seen and heard rather than before a person."
+        },
+        "note": "Three departures from the KJV, all at the head: Isaiah's “So shall he sprinkle many nations” is replaced by “And when that day shall come, it shall come to pass”; “the kings” loses its article; and “at him” is dropped. What follows is twenty-one words verbatim. The 1830 reading is itself the evidence here (CONVENTIONS §8): at 3 Nephi 20:45 the first edition prints “for that which had been told them shall they see”, dropping the KJV's “not” and inverting the sense, and 1920 restored it. The first edition therefore contains one defective and one exact citation of the same verse nine verses apart, and this is the exact one — a first-edition fact that the modern text, having repaired 20:45, no longer shows.",
+        "bibliography": [
+          "Hardy MSI at 3 Ne 21.8 (Isa 52.15; cf. 3 Ne 20.45)"
+        ],
+        "status": "consensus",
+        "streams": [
+          "scholarship",
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "21:9": [
+      {
+        "source": "Acts 13:41",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "text": "Behold, ye despisers, and wonder, and perish: for I work a work in your days, a work which ye shall in no wise believe, though a man declare it unto you.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 1
+        },
+        "kjvSpecific": "yes",
+        "mediation": "OT-via-NT",
+        "composite": [
+          "Habakkuk 1:5"
+        ],
+        "provenance": {
+          "mt": "Habakkuk 1:5 — 'for I WILL WORK A WORK in your days WHICH YE WILL NOT BELIEVE, THOUGH IT BE TOLD YOU.'",
+          "route": "Habakkuk 1:5 → Acts 13:41 → KJV → Book of Mormon",
+          "other": "“work a work” occurs in exactly two KJV verses, Habakkuk 1:5 and Acts 13:41 — the prophecy and Paul's citation of it at Antioch. The two diverge at the end of the sentence, and tools/mediation-check.py returns one decisive point: Habakkuk has “though it be told you”, Acts has “though a man declare it unto you”, and the Book of Mormon has “although a man shall declare it unto them”. Every other divergence between the two is a place where 3 Nephi reads with neither.",
+          "significance": "This is a mediation result of the kind CONVENTIONS §7 exists for, and it turns on one word: 'a man'. Habakkuk's unbelieved work is told; Acts's unbelieved work is declared by a man, and 3 Nephi's is too. Recover the context of the New Testament form and the borrowing acquires a target — Acts 13:41 is the closing threat of Paul's synagogue sermon, quoted against hearers who are about to reject the message and so hand it to the Gentiles (Acts 13:46, 'lo, we turn to the Gentiles'). 3 Nephi 21 is doing the reverse motion with the same verse: a work brought forth by the Gentiles, disbelieved by some among them, which will be the sign that the covenant with Israel is resuming. Hardy's apparatus glosses the 'man' of this verse as Joseph Smith Jr.; it cites no biblical source at the verse."
+        },
+        "note": "“For my sake shall the Father work a work … and there shall be among them which will not believe it, although a man shall declare it unto them.” Three elements of Acts 13:41 survive in Acts's order — working a work, not believing it, and a man declaring it — and the third is the one that decides the source. The Old Testament verse behind Acts, Habakkuk 1:5, has no man in it at all: the work there is simply 'told'. So the Book of Mormon has the sermon's wording, not the prophet's, in a chapter whose whole subject is a message rejected by its first hearers and carried to the Gentiles. The shared run is short and the case rests on the collocation plus the single decisive substitution, not on length.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      },
+      {
+        "source": "Isaiah 29:14",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "Therefore, behold, I will proceed to do a marvellous work among this people, even a marvellous work and a wonder: for the wisdom of their wise men shall perish, and the understanding of their prudent men shall be hid.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 2
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "recurrenceRefs": [
+          "2 Nephi 27:26",
+          "1 Nephi 14:7",
+          "1 Nephi 22:8"
+        ],
+        "provenance": {
+          "route": "Isaiah 29:14 → KJV → Book of Mormon",
+          "other": "“a marvellous work among” occurs in exactly one KJV verse, Isaiah 29:14 — 'I will proceed to do a marvellous work among this people, even a marvellous work and a wonder'. 3 Nephi 21:9 reads 'a marvellous work among them'. Note what is NOT borrowed: “great and marvellous” is the Book of Mormon's own settled formula, used twenty-four times from 1 Nephi 1:14 onward, where it is taken from Revelation 15:3; here it is prefixed to Isaiah's noun phrase rather than drawn from Revelation afresh.",
+          "significance": "Isaiah 29 is the chapter the Book of Mormon has already mined twice at length (2 Nephi 27 quotes it entire, around the sealed book that the learned cannot read), and Isaiah 29:14's marvellous work is glossed in its own verse as the perishing of 'the wisdom of their wise men'. 3 Nephi 21:9-10 then does exactly that: it announces the marvellous work and immediately says 'I will shew unto them that my wisdom is greater than the cunning of the Devil'. The wisdom contest is Isaiah's, recovered from the half of the verse that is not quoted."
+        },
+        "note": "Isaiah 29:14's “marvellous work” arrives here fused with the Book of Mormon's own habitual intensifier. The KJV singleton is precise — “a marvellous work among” occurs in exactly one KJV verse — and the object is the same in both: a people among whom God will do something they will not be able to account for. The Isaiah half of this verse and the Acts 13:41 half are two sources in one clause, which is why both are catalogued: 'work a work' is Acts's, 'a marvellous work among them' is Isaiah's, and the sentence needs both to be what it is.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "21:10": [
+      {
+        "source": "Isaiah 52:14",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "As many were astonied at thee; his visage was so marred more than any man, and his form more than the sons of men:",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 2,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 4
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Isaiah 52:13"
+        ],
+        "recurrenceRefs": [
+          "3 Nephi 20:43",
+          "3 Nephi 20:44"
+        ],
+        "provenance": {
+          "route": "Isaiah 52:13-14 → KJV → Book of Mormon (via the block quoted at 3 Nephi 20:43-44)",
+          "other": "“marred” occurs in five KJV verses; three are potters' and vintners' spoilage (Jeremiah 13:7, 18:4, Nahum 2:2), one is a wineskin (Mark 2:22), and only Isaiah 52:14 marrs a person. 'My servant' opens Isaiah 52:13, the verse quoted at 3 Nephi 20:43. The verse's one distinctive word is decisive on its own: “marred more than” occurs in exactly one KJV verse, Isaiah 52:14.",
+          "significance": "Metalepsis in the strict sense. Thirteen verses earlier Christ quoted Isaiah 52:13-14 of himself: 'Behold, my servant shall deal prudently … his visage was so marred more than any man.' Here the same two words — 'my servant', 'marred' — are transferred to a different figure, and the transfer is what the verse is for: this servant is marred but not killed, and unlike Isaiah's he is healed. Isaiah 52:13-53:12 never heals its servant; the healing in that poem happens to other people, by his stripes. 3 Nephi 21:10 detaches the marring from the atoning death and gives it a survivor. Recovering the suppressed context is exactly what makes the sentence legible: the latter-day servant is being placed inside the Servant Song without being made the Servant."
+        },
+        "note": "“The life of my servant shall be in my hand; therefore they shall not hurt him, although he shall be marred because of them. Yet I will heal him.” Two words carry the link, and both were on the page a few minutes earlier in the discourse: 'my servant' from Isaiah 52:13 and 'marred' from Isaiah 52:14, quoted at 3 Nephi 20:43-44. There is no continuous run and the verbal contact is thin, which is why this is catalogued as an allusion and not a quotation; what makes it high confidence is that the source was quoted verbatim by the same speaker in the same sermon, so availability, in the ordinary sense, is not in question here even though it is for the corpus at large (CONVENTIONS §3a).",
+        "bibliography": [
+          "Hardy MSI at 3 Ne 21.10 (compare Isa 52.13-14; 3 Ne 20.43-44)"
+        ],
+        "status": "majority",
+        "streams": [
+          "scholarship",
+          "manual"
+        ]
+      }
+    ],
+    "21:11": [
+      {
+        "source": "Deuteronomy 18:19",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "text": "And it shall come to pass, that whosoever will not hearken unto my words which he shall speak in my name, I will require it of him.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 4
+        },
+        "kjvSpecific": "yes",
+        "mediation": "OT-via-earlier-BoM",
+        "composite": [
+          "Acts 3:23"
+        ],
+        "recurrenceRefs": [
+          "1 Nephi 22:20",
+          "3 Nephi 20:23",
+          "1 Nephi 2:18"
+        ],
+        "provenance": {
+          "mt": "Deuteronomy 18:19 — 'And it shall come to pass, that WHOSOEVER WILL NOT HEARKEN UNTO MY WORDS which he shall speak in my name, I WILL REQUIRE IT OF HIM.' Acts 3:23 — 'And it shall come to pass, that EVERY SOUL, WHICH WILL NOT HEAR THAT PROPHET, SHALL BE DESTROYED FROM AMONG THE PEOPLE.'",
+          "route": "Deuteronomy 18:19 → Acts 3:23 → 1 Nephi 22:20 → Book of Mormon",
+          "other": "tools/mediation-check.py returns two decisive points, both for Deuteronomy: the Book of Mormon has “whosoever” where Acts has “every soul, which”, and “not believe in my words” against Deuteronomy's “not hearken unto my words” where Acts has “not hear that prophet”. The apodosis belongs to neither: Deuteronomy has “I will require it of him”, Acts has “shall be destroyed from among the people”, and 3 Nephi has “they shall be cut off from among my people”. “Cut off” for “destroyed” is the Book of Mormon's own reading, introduced at 1 Nephi 22:20 and repeated at 3 Nephi 20:23. Note also that “hearken unto my words”, the phrase Deuteronomy 18:19 supplies and this verse negates as “believe in my words”, occurs in exactly one KJV verse — that verse — which is why 21:22's positive restatement is catalogued too.",
+          "significance": "This is the OT-via-earlier-BoM case CONVENTIONS §7 anticipates, and it is unusually clean because the same sentence appears twice in the same sermon in two different forms. At 3 Nephi 20:23 Christ quotes the Mosaic prophecy in Acts 3:22-23's wording — 'every soul which will not hear that prophet' — as 1 Nephi 22:20 had. Thirty-four verses later he quotes it again and the protasis has reverted to Deuteronomy 18:19: 'whosoever will not … my words'. What does not revert is the verb. Both citations read 'cut off', which is in neither biblical source and is the reading 1 Nephi 22:20 established. So the proximate model here is not the Bible on either side; it is the Book of Mormon's own settled form of the sanction, with a fresh Deuteronomic protasis fitted to it. The substitution that makes the verse do its work is orthogonal to all of this: 'will not hearken unto my words' becomes 'will not believe in my words, which am Jesus Christ' — the Mosaic prophet's words are identified as the Book of Mormon, and refusing the book is made the disqualifying act."
+        },
+        "note": "“Whosoever will not believe in my words … they shall be cut off from among my people which are of the covenant.” The mediation test is decisive twice over and it points two ways at once. Against Acts 3:23 the protasis is Deuteronomy's; against Deuteronomy 18:19 the apodosis has a 'from among the people' clause Deuteronomy does not have. The reading that reconciles them is that neither Bible verse is the proximate source: 1 Nephi 22:20 fused Acts 3:22-23's sermon-form with 'cut off' for 'destroyed', 3 Nephi 20:23 repeated that fusion, and 21:11 inherits the fused apodosis while going back to Deuteronomy for the front of the sentence. Hardy's apparatus reaches the same chain by a different route, cross-referencing Deuteronomy 18:19 with Acts 3:23 and 1 Nephi 22:20 at this verse and observing that the term 'cut off' is what ties the Mosaic sanction to the Micah oracle beginning in the next verse, where it recurs six times. The parenthesis '(it shall be done even as Moses said)' is the text saying so itself.",
+        "bibliography": [
+          "Hardy MSI at 3 Ne 21.11n (Deut 18.19; cf. Acts 3.23; cf. 1 Ne 22.20)",
+          "Hardy MSI at 3 Ne 20.23n (Acts 3.23 reads “destroyed”)"
+        ],
+        "status": "majority",
+        "streams": [
+          "scholarship",
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "21:12": [
+      {
+        "source": "Micah 5:8",
+        "type": "quotation",
+        "subtype": "extended",
+        "confidence": "certain",
+        "text": "And the remnant of Jacob shall be among the Gentiles in the midst of many people as a lion among the beasts of the forest, as a young lion among the flocks of sheep: who, if he go through, both treadeth down, and teareth in pieces, and none can deliver.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 5
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "recurrenceRefs": [
+          "3 Nephi 16:14",
+          "3 Nephi 16:15",
+          "3 Nephi 20:16"
+        ],
+        "provenance": {
+          "route": "Micah 5:8 → KJV → Book of Mormon",
+          "other": "Three separate phrases of this verse are KJV singletons: “young lion among the flocks” occurs in exactly one KJV verse, “teareth in pieces” occurs in exactly one KJV verse, and “none can deliver” occurs in exactly one KJV verse — all three of them Micah 5:8.",
+          "significance": "3 Nephi 21:12-18 and 21:21 reproduce Micah 5:8-15 continuously, the longest Micah quotation anywhere in the Bible or the Book of Mormon. The quotation is not the finding; the substitutions are. Two run through the whole block: 'saith the LORD' becomes 'saith the Father' (21:14), and the second-person address of Micah's oracle is converted into third-person description of the Gentiles. Recover Micah's context and the reversal is the point — Micah 5:10-15 is a threat against Israel's own war-machine and idolatry, spoken to Israel; in 3 Nephi the same words are turned outward and spoken against the Gentiles, with the remnant of Jacob standing where Micah's God stands. This verse is also the third and closest of three passes at Micah 5:8 in 3 Nephi, and the sequence is the argument. At 16:14 the verse enters as a threat withheld, with only its two verbs ('go through', 'tread down') and no lion. At 20:16 the lion appears but the subject is converted to direct address — 'ye shall be among them, as a lion'. Only here is Micah's own subject restored: 'my people which are a remnant of Jacob, shall be among the Gentiles'. The quotation moves toward its source as the discourse proceeds, which is the opposite of what a fading formula does."
+        },
+        "note": "A thirty-four word run against Micah 5:8 with two changes: Micah's 'the remnant of Jacob' becomes 'my people which are a remnant of Jacob', and 'in the midst of many people' becomes 'yea, in the midst of them'. Everything from 'as a lion among the beasts of the forest' to 'and none can deliver' is verbatim, and three of its phrases occur nowhere else in the King James Bible. This is the fullest of the book's three uses of the verse and it is not the first: 3 Nephi 16:14 and 20:16 precede it. Under ADJUDICATING §4 a repeat within a book is normally recorded rather than re-linked, but the rule's own exception applies — the phrase is not recurring, it is returning to its source, and it arrives here more nearly Micah's than at either earlier stop. Hardy sets this verse and the eleven that follow under the heading 'Jesus Quotes Micah 5.8-15'.",
+        "bibliography": [
+          "Hardy MSI at 3 Ne 21.13n (Mic 5.8-9, noting the same verses were quoted at 3 Ne 20.16-17)"
+        ],
+        "status": "consensus",
+        "streams": [
+          "scholarship",
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "21:13": [
+      {
+        "source": "Micah 5:9",
+        "type": "quotation",
+        "subtype": "extended",
+        "confidence": "certain",
+        "text": "Thine hand shall be lifted up upon thine adversaries, and all thine enemies shall be cut off.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 5
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "recurrenceRefs": [
+          "3 Nephi 20:17"
+        ],
+        "provenance": {
+          "route": "Micah 5:9 → KJV → Book of Mormon",
+          "other": "“hand shall be lifted up upon” occurs in exactly one KJV verse, Micah 5:9.",
+          "significance": "3 Nephi 21:12-18 and 21:21 reproduce Micah 5:8-15 continuously, the longest Micah quotation anywhere in the Bible or the Book of Mormon. The quotation is not the finding; the substitutions are. Two run through the whole block: 'saith the LORD' becomes 'saith the Father' (21:14), and the second-person address of Micah's oracle is converted into third-person description of the Gentiles. Recover Micah's context and the reversal is the point — Micah 5:10-15 is a threat against Israel's own war-machine and idolatry, spoken to Israel; in 3 Nephi the same words are turned outward and spoken against the Gentiles, with the remnant of Jacob standing where Micah's God stands. Here the direction of drift is the reverse of 21:12's: 3 Nephi 20:17 reproduced Micah 5:9 with its pronouns nearly intact ('Thy hand … thine adversaries … thine enemies'), and this citation converts all three to 'their'. That is not carelessness but consistency — 21:12 had already replaced Micah's addressee with a described third party, so the oracle spoken TO the remnant at 20:17 is now spoken ABOUT it."
+        },
+        "note": "Fourteen of Micah 5:9's seventeen words, with the second-person pronouns — its only other content — turned to third person throughout: 'Their hand … their adversaries … all their enemies'. The KJV construction 'hand shall be lifted up upon' occurs in exactly one KJV verse. The verse also supplies the first of the six occurrences of 'cut off' that run through the rest of the quoted block, and it is the same verb the previous verse used for the Mosaic sanction — which is why 21:11 and 21:12-18 read as one argument rather than two quotations laid end to end.",
+        "bibliography": [
+          "Hardy MSI at 3 Ne 21.13n (Mic 5.8-9)"
+        ],
+        "status": "consensus",
+        "streams": [
+          "scholarship",
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "21:14": [
+      {
+        "source": "Micah 5:10",
+        "type": "quotation",
+        "subtype": "extended",
+        "confidence": "certain",
+        "text": "And it shall come to pass in that day, saith the LORD, that I will cut off thy horses out of the midst of thee, and I will destroy thy chariots:",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 4
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "provenance": {
+          "route": "Micah 5:10 → KJV → Book of Mormon",
+          "other": "“cut off thy horses” occurs in exactly one KJV verse, Micah 5:10.",
+          "significance": "3 Nephi 21:12-18 and 21:21 reproduce Micah 5:8-15 continuously, the longest Micah quotation anywhere in the Bible or the Book of Mormon. The quotation is not the finding; the substitutions are. Two run through the whole block: 'saith the LORD' becomes 'saith the Father' (21:14), and the second-person address of Micah's oracle is converted into third-person description of the Gentiles. Recover Micah's context and the reversal is the point — Micah 5:10-15 is a threat against Israel's own war-machine and idolatry, spoken to Israel; in 3 Nephi the same words are turned outward and spoken against the Gentiles, with the remnant of Jacob standing where Micah's God stands."
+        },
+        "note": "Nineteen words verbatim from 'that I will cut off thy horses' to 'and I will destroy thy chariots', with one substitution and one addition. The substitution is the one that governs the whole block: Micah's “saith the LORD” becomes “saith the Father”, and it is repeated at 21:20. The addition is the head of the verse, “Yea, wo be unto the Gentiles, except they repent”, which redirects an oracle Micah aimed at Israel's own cavalry onto the Gentiles and makes it conditional on repentance — the condition is not in Micah, where the disarming is announced flat. “cut off thy horses” occurs in exactly one KJV verse.",
+        "bibliography": [],
+        "status": "consensus",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "21:15": [
+      {
+        "source": "Micah 5:11",
+        "type": "quotation",
+        "subtype": "extended",
+        "confidence": "certain",
+        "text": "And I will cut off the cities of thy land, and throw down all thy strong holds:",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 4
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "provenance": {
+          "route": "Micah 5:11 → KJV → Book of Mormon",
+          "other": "“throw down all thy strong holds” occurs in exactly one KJV verse, Micah 5:11. The 1830 reading “strong holds” is the KJV's two-word form; 1920 and the current text read “strongholds”.",
+          "significance": "3 Nephi 21:12-18 and 21:21 reproduce Micah 5:8-15 continuously, the longest Micah quotation anywhere in the Bible or the Book of Mormon. The quotation is not the finding; the substitutions are. Two run through the whole block: 'saith the LORD' becomes 'saith the Father' (21:14), and the second-person address of Micah's oracle is converted into third-person description of the Gentiles. Recover Micah's context and the reversal is the point — Micah 5:10-15 is a threat against Israel's own war-machine and idolatry, spoken to Israel; in 3 Nephi the same words are turned outward and spoken against the Gentiles, with the remnant of Jacob standing where Micah's God stands."
+        },
+        "note": "Seventeen words reproduced without a single change of wording. The only thing that moves is the punctuation and, later, the spelling: the 1830 prints “strong holds” as two words, which is the King James Bible's own form, and 1920 closed it to “strongholds” (CONVENTIONS §8). The first edition therefore shows the borrowing at this verse in a way the modern text no longer does. “throw down all thy strong holds” occurs in exactly one KJV verse.",
+        "bibliography": [],
+        "status": "consensus",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "21:16": [
+      {
+        "source": "Micah 5:12",
+        "type": "quotation",
+        "subtype": "extended",
+        "confidence": "certain",
+        "text": "And I will cut off witchcrafts out of thine hand; and thou shalt have no more soothsayers:",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 4
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "provenance": {
+          "route": "Micah 5:12 → KJV → Book of Mormon",
+          "other": "“cut off witchcrafts” occurs in exactly one KJV verse, Micah 5:12. 1830 and the Printer's Manuscript read “out of thy hand” with Micah; 1920 and the current text read “out of thy land”.",
+          "significance": "3 Nephi 21:12-18 and 21:21 reproduce Micah 5:8-15 continuously, the longest Micah quotation anywhere in the Bible or the Book of Mormon. The quotation is not the finding; the substitutions are. Two run through the whole block: 'saith the LORD' becomes 'saith the Father' (21:14), and the second-person address of Micah's oracle is converted into third-person description of the Gentiles. Recover Micah's context and the reversal is the point — Micah 5:10-15 is a threat against Israel's own war-machine and idolatry, spoken to Israel; in 3 Nephi the same words are turned outward and spoken against the Gentiles, with the remnant of Jacob standing where Micah's God stands."
+        },
+        "note": "Micah 5:12 entire, with 'thine hand' modernized to 'thy hand' and nothing else altered. This is the chapter's best first-edition reading (CONVENTIONS §8): the 1830 prints “out of thy hand”, which is Micah's noun, and 1920 changed it to “out of thy land”, which is not — so a later edition moved the text AWAY from its source, the opposite of the correction seen at 3 Nephi 20:45. Hardy's apparatus records the Printer's Manuscript and 1830 reading and marks it as agreeing with Micah 5:12. “cut off witchcrafts” occurs in exactly one KJV verse.",
+        "bibliography": [],
+        "status": "consensus",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "21:17": [
+      {
+        "source": "Micah 5:13",
+        "type": "quotation",
+        "subtype": "extended",
+        "confidence": "certain",
+        "text": "Thy graven images also will I cut off, and thy standing images out of the midst of thee; and thou shalt no more worship the work of thine hands.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 4
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "provenance": {
+          "route": "Micah 5:13 → KJV → Book of Mormon",
+          "other": "“standing images” occurs in exactly one KJV verse, Micah 5:13, and “no more worship” occurs in exactly one KJV verse, also Micah 5:13.",
+          "significance": "3 Nephi 21:12-18 and 21:21 reproduce Micah 5:8-15 continuously, the longest Micah quotation anywhere in the Bible or the Book of Mormon. The quotation is not the finding; the substitutions are. Two run through the whole block: 'saith the LORD' becomes 'saith the Father' (21:14), and the second-person address of Micah's oracle is converted into third-person description of the Gentiles. Recover Micah's context and the reversal is the point — Micah 5:10-15 is a threat against Israel's own war-machine and idolatry, spoken to Israel; in 3 Nephi the same words are turned outward and spoken against the Gentiles, with the remnant of Jacob standing where Micah's God stands."
+        },
+        "note": "Micah 5:13 entire, with two changes. Micah's inverted 'Thy graven images also will I cut off' is regularized to 'thy graven images I will also cut off', and 'the work of thine hands' is pluralized to 'the works of thy hands'. “standing images” occurs in exactly one KJV verse and “no more worship” occurs in exactly one KJV verse — both of them this one, so the verse is identifiable from either half alone.",
+        "bibliography": [],
+        "status": "consensus",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "21:18": [
+      {
+        "source": "Micah 5:14",
+        "type": "quotation",
+        "subtype": "extended",
+        "confidence": "certain",
+        "text": "And I will pluck up thy groves out of the midst of thee: so will I destroy thy cities.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 4
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "provenance": {
+          "route": "Micah 5:14 → KJV → Book of Mormon",
+          "other": "“pluck up thy groves” occurs in exactly one KJV verse, Micah 5:14.",
+          "significance": "3 Nephi 21:12-18 and 21:21 reproduce Micah 5:8-15 continuously, the longest Micah quotation anywhere in the Bible or the Book of Mormon. The quotation is not the finding; the substitutions are. Two run through the whole block: 'saith the LORD' becomes 'saith the Father' (21:14), and the second-person address of Micah's oracle is converted into third-person description of the Gentiles. Recover Micah's context and the reversal is the point — Micah 5:10-15 is a threat against Israel's own war-machine and idolatry, spoken to Israel; in 3 Nephi the same words are turned outward and spoken against the Gentiles, with the remnant of Jacob standing where Micah's God stands."
+        },
+        "note": "Micah 5:14 reproduced word for word, nineteen words, the only alteration being the colon to a semicolon. “pluck up thy groves” occurs in exactly one KJV verse. The verse carries the block's one piece of dead vocabulary intact — the KJV's 'groves' translates the Asherah poles of the Hebrew, an institution with no plausible referent in the world the surrounding chapter describes, and the text keeps it rather than adapt it, which is what a transcription does and a paraphrase does not.",
+        "bibliography": [],
+        "status": "consensus",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "21:21": [
+      {
+        "source": "Micah 5:15",
+        "type": "quotation",
+        "subtype": "extended",
+        "confidence": "certain",
+        "text": "And I will execute vengeance in anger and fury upon the heathen, such as they have not heard.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 5
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "provenance": {
+          "route": "Micah 5:15 → KJV → Book of Mormon",
+          "other": "“such as they have not heard” occurs in exactly one KJV verse, Micah 5:15, and “execute vengeance” occurs in exactly two, Psalm 149:7 and Micah 5:15.",
+          "significance": "3 Nephi 21:12-18 and 21:21 reproduce Micah 5:8-15 continuously, the longest Micah quotation anywhere in the Bible or the Book of Mormon. The quotation is not the finding; the substitutions are. Two run through the whole block: 'saith the LORD' becomes 'saith the Father' (21:14), and the second-person address of Micah's oracle is converted into third-person description of the Gentiles. Recover Micah's context and the reversal is the point — Micah 5:10-15 is a threat against Israel's own war-machine and idolatry, spoken to Israel; in 3 Nephi the same words are turned outward and spoken against the Gentiles, with the remnant of Jacob standing where Micah's God stands. Micah 5:15 closes the oracle by turning outward: having disarmed and de-idolized his own people through verses 10-14, God executes vengeance 'upon the heathen'. 3 Nephi keeps the closing verse but has already spent verses 14-18 aiming the disarming at the Gentiles, so the final clause has to be re-pointed — 'upon them, even as upon the heathen'. The heathen become the measure of a punishment rather than its object, and the Gentiles take the place Israel held in Micah."
+        },
+        "note": "Micah 5:15 with two departures, and the first is the one that carries the argument: Micah reads 'I will execute vengeance in anger and fury upon the heathen', and 3 Nephi drops 'in anger and' and inserts 'upon them, even as' before 'upon the heathen'. The comparison is new; in Micah the heathen ARE the recipients. Hardy's apparatus flags the omission at this verse, noting that Micah 5:15 reads 'execute vengeance in anger and fury'. Nine words run continuously from 'upon the heathen, such as they have not heard', and 'such as they have not heard' occurs in exactly one KJV verse. This is the last verse of the Micah 5:8-15 block; the two verses before it, 21:19-20, are the Book of Mormon's own insertion into the middle of the quotation.",
+        "bibliography": [
+          "Hardy MSI at 3 Ne 21.21n (Mic 5.15 reads “execute vengeance in anger and fury”)"
+        ],
+        "status": "consensus",
+        "streams": [
+          "scholarship",
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "21:22": [
+      {
+        "source": "Deuteronomy 18:19",
+        "type": "echo",
+        "subtype": "probable",
+        "confidence": "moderate",
+        "text": "And it shall come to pass, that whosoever will not hearken unto my words which he shall speak in my name, I will require it of him.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 2,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "recurrenceRefs": [
+          "3 Nephi 21:11",
+          "1 Nephi 2:18",
+          "1 Nephi 22:20"
+        ],
+        "provenance": {
+          "route": "Deuteronomy 18:19 → KJV → Book of Mormon",
+          "other": "“hearken unto my words” occurs in exactly one KJV verse, Deuteronomy 18:19. The Book of Mormon uses the phrase twelve times, from 1 Nephi 2:18 onward, so it is a corpus formula and not a fresh borrowing on its own.",
+          "significance": "What makes this worth a row is position, not vocabulary. Eleven verses earlier the same chapter quoted Deuteronomy 18:19 outright, in its negative form: 'whosoever will not believe in my words … shall be cut off'. Here the formula returns in the positive — 'if they will repent, and hearken unto my words' — and the promise attached is admission to the covenant rather than excision from it. The Mosaic sanction and its reversal frame the Micah quotation between them, and the frame is built out of the same verse."
+        },
+        "note": "“But if they will repent, and hearken unto my words, and harden not their hearts, I will establish my church among them.” The phrase 'hearken unto my words' occurs in exactly one KJV verse, Deuteronomy 18:19 — the sanction clause of the prophet-like-unto-Moses oracle — and 21:11 has just quoted that verse, in its negative form, as the condition of being cut off. This verse is its apodosis inverted. The case is recorded at moderate confidence because the vocabulary alone would not support it.",
+        "whyNot": "'Hearken unto my words' is a Book of Mormon formula used twelve times across five books, and its KJV singleton status is very likely the reason the corpus adopted it in the first place rather than evidence that this particular occurrence reaches back to Deuteronomy. Strip the context and this is 3 Nephi speaking its own idiom. The row rests entirely on the proximity of 21:11's explicit quotation of the same verse; a reader who thinks eleven verses is too far apart to count should decline it.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "21:23": [
+      {
+        "source": "Revelation 3:12",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "text": "Him that overcometh will I make a pillar in the temple of my God, and he shall go no more out: and I will write upon him the name of my God, and the name of the city of my God, which is new Jerusalem, which cometh down out of heaven from my God: and I will write upon him my new name.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 4,
+          "sequence": 3,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Revelation 21:2"
+        ],
+        "recurrenceRefs": [
+          "3 Nephi 20:22",
+          "3 Nephi 21:24",
+          "Ether 13:3"
+        ],
+        "provenance": {
+          "route": "Revelation 3:12 → KJV → Book of Mormon",
+          "other": "“new Jerusalem” occurs in exactly two KJV verses, Revelation 3:12 and Revelation 21:2, and in both it descends from heaven rather than being built. Of the two, 3:12 is the closer formal match here, because it alone frames the phrase as a name conferred on a city — 'the name of the city of my God, which is new Jerusalem' against 'a city, which shall be called the New Jerusalem'.",
+          "significance": "The reversal is the finding. In both Revelation verses the new Jerusalem comes down out of heaven, finished; the city is received, not constructed. In 3 Nephi 21:23 it is a building project with a labour force — Gentile converts assisting the remnant of Jacob, and the house of Israel arriving to help. The name is John's and the verb is not. Ether 13:3 will later restore Revelation's own verb ('which should come down out of Heaven'), so the corpus holds both readings, and this verse is where the descending city is put on the ground and given builders."
+        },
+        "note": "“That they may build a city, which shall be called the New Jerusalem.” The name occurs in exactly two KJV verses. This is not the first occurrence in the discourse — 3 Nephi 20:22 has already said of this land 'it shall be a new Jerusalem', and the catalogue keys that verse to Revelation 21:2, the descending city — but 21:23 is where the city is named as a city and given a construction, and the naming formula tracks Revelation 3:12's rather than 21:2's: 'the name of the city of my God, which is new Jerusalem' against 'a city, which shall be called the New Jerusalem'. The two rows are keyed to the two Revelation verses deliberately, because the discourse uses them for two different things. Recorded at moderate confidence because a two-word proper name is thin evidence of dependence on one of two verses, and because the phrase is by this point established in the discourse.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "21:26": [
+      {
+        "source": "Isaiah 11:12",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "text": "And he shall set up an ensign for the nations, and shall assemble the outcasts of Israel, and gather together the dispersed of Judah from the four corners of the earth.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "recurrenceRefs": [
+          "3 Nephi 21:27",
+          "3 Nephi 21:1",
+          "2 Nephi 21:12"
+        ],
+        "provenance": {
+          "route": "Isaiah 11:12 → KJV → Book of Mormon",
+          "other": "“the dispersed of” occurs in exactly one KJV verse, Isaiah 11:12 — 'gather together the dispersed of Judah from the four corners of the earth'. 3 Nephi 21:26 and 21:27 read 'all the dispersed of my people'; the only other Book of Mormon verse with the construction is 2 Nephi 21:12, which is the transcription of Isaiah 11:12 itself and so reads 'the dispersed of Judah'. Isaiah 11 has already been transcribed whole into the corpus at 2 Nephi 21, so the KJV wording was available to this chapter by two routes and no test distinguishes them.",
+          "significance": "Isaiah 11:12 is the gathering verse — the ensign for the nations, the outcasts assembled, the dispersed collected from the four corners — and it is the verse the Book of Mormon's whole gathering programme is built on. 3 Nephi 21:26 takes its distinctive noun phrase and does two things to it: 'of Judah' becomes 'of my people', which widens the gathering past the tribe Isaiah names, and the agent changes. In Isaiah God sets up an ensign and the nations do the assembling; here 'the work of the Father shall commence', and the ensign is a preached gospel. The chapter's opening promise, 'I shall gather in from their long dispersion' (21:1), is the same verse in paraphrase before it is used in Isaiah's own words here."
+        },
+        "note": "“At that day shall the work of the Father commence among all the dispersed of my people; yea, even the tribes which have been lost.” The construction 'the dispersed of [X]' occurs in exactly one KJV verse. The chapter uses it twice, at 21:26 and 21:27, and the corpus's only other instance is the verbatim Isaiah transcription at 2 Nephi 21:12; 21:1's 'gather in from their long dispersion' anticipates it in the chapter's first sentence, so the whole chapter is framed by a verse it quotes only once and only partially. Recorded at moderate confidence: three words is little, and Isaiah 11 is transcribed whole at 2 Nephi 21, which means the phrase was already inside the corpus and this may be the corpus quoting itself.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "21:27": [
+      {
+        "source": "1 Peter 1:17",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "text": "And if ye call on the Father, who without respect of persons judgeth according to every man’s work, pass the time of your sojourning here in fear:",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "recurrenceRefs": [
+          "3 Nephi 21:26",
+          "Moroni 2:2"
+        ],
+        "provenance": {
+          "route": "1 Peter 1:17 → KJV → Book of Mormon",
+          "other": "“call on the Father” occurs in exactly one KJV verse, 1 Peter 1:17 — 'And if ye call on the Father, who without respect of persons judgeth according to every man's work'. The Book of Mormon has it twice, here and at Moroni 2:2. The commoner biblical idiom is 'call on the name of the Lord' or 'call upon God'; addressing the invocation to the Father specifically is what makes the phrase rare.",
+          "significance": "This is the strongest piece of metalepsis in the chapter, and it depends on where 1 Peter 1:17 sits. The letter is addressed 'to the strangers scattered throughout Pontus, Galatia, Cappadocia, Asia, and Bithynia' (1 Peter 1:1) — that is, to a dispersion — and 1:17 tells those addressees to call on the Father and to 'pass the time of your sojourning here in fear'. 3 Nephi 21:27 has, in one sentence, precisely those two elements: 'all the dispersed of my people' and 'that they may call on the Father in my name'. The one KJV verse that instructs a scattered people to call on the Father is quoted in the one Book of Mormon verse about a scattered people being taught to call on the Father. Neither text says the other is in view; the collocation says it."
+        },
+        "note": "“The work shall commence among all the dispersed of my people, with the Father, to prepare the way whereby they may come unto me, that they may call on the Father in my name.” Four words, but 'call on the Father' occurs in exactly one KJV verse, and that verse belongs to a letter written to the diaspora — which is the subject of this sentence. What the Book of Mormon adds is the mediating clause: 1 Peter's readers call on the Father directly, and here they do it 'in my name', with Christ as the way prepared. Moderate confidence: the run is short, and the phrase could be assembled from ordinary devotional English without 1 Peter. The rarity count and the shared addressee are what carry it.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "21:29": [
+      {
+        "source": "Isaiah 52:12",
+        "type": "quotation",
+        "subtype": "close-verbal",
+        "confidence": "certain",
+        "text": "For ye shall not go out with haste, nor go by flight: for the LORD will go before you; and the God of Israel will be your rereward.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 5
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "recurrenceRefs": [
+          "3 Nephi 20:42"
+        ],
+        "provenance": {
+          "route": "Isaiah 52:12 → KJV → Book of Mormon",
+          "other": "“nor go by flight” occurs in exactly one KJV verse, Isaiah 52:12. The 1830 spells the closing word “rereward”, which is the KJV's spelling and which occurs in six KJV verses; 1920 and the current text modernize it to “rearward”, a spelling in no King James verse (CONVENTIONS §8).",
+          "significance": "Isaiah 52:12 is the second-Exodus verse — the departure from Babylon that is not to be a flight, because unlike the first Exodus it is not a rout. Christ quoted it verbatim at 3 Nephi 20:42, inside the Isaiah 52:11-15 block, in the second person: 'ye shall not go out with haste … the Lord will go before you'. Here he quotes it a second time and converts every pronoun to the third person, so that the verse describes the gathering rather than commanding it — and, in the process, the speaker changes. Isaiah's 'the LORD will go before you; and the God of Israel will be your rereward' has two divine titles for one figure; 3 Nephi has 'I will go before them, saith the Father, and I will be their rereward', collapsing both onto the Father and putting the sentence in his mouth. The chapter that began by promising a sign ends with the Father as the rearguard of his own gathering."
+        },
+        "note": "Isaiah 52:12 with the pronouns turned and one preposition changed: 'ye shall not go out with haste' becomes 'they shall not go out in haste'. 'Nor go by flight' is verbatim and occurs in exactly one KJV verse. The 1830 reading is the evidence here (CONVENTIONS §8): it prints 'rereward', the King James Bible's archaic spelling of the rearguard, and 1920 modernized it to 'rearward' — so the first edition displays the borrowing in a word the modern text has silently normalized out of visibility. Christ has already quoted this verse at 3 Nephi 20:42; that citation kept Isaiah's second person and Isaiah's 'the Lord'. This one does not, and both changes point the same way, at a Father who speaks in the first person throughout the chapter.",
+        "bibliography": [
+          "Hardy MSI at 3 Ne 21.29n (Isa 52.12, with significant changes; cf. 3 Ne 20.42)"
+        ],
+        "status": "consensus",
+        "streams": [
+          "scholarship",
+          "machine-ngram",
+          "manual"
+        ]
+      },
+      {
+        "source": "Isaiah 52:11",
+        "type": "echo",
+        "subtype": "possible",
+        "confidence": "moderate",
+        "text": "Depart ye, depart ye, go ye out from thence, touch no unclean thing; go ye out of the midst of her; be ye clean, that bear the vessels of the LORD.",
+        "evidence": {
+          "vocabulary": 2,
+          "syntax": 2,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 2,
+          "attestation": 3
+        },
+        "kjvSpecific": "uncertain",
+        "mediation": "direct-OT",
+        "recurrenceRefs": [
+          "3 Nephi 20:41"
+        ],
+        "provenance": {
+          "route": "Isaiah 52:11 → KJV → Book of Mormon",
+          "other": "'Go out' and 'go ye out' are common KJV idiom and no rarity count supports this row; what supports it is sequence. Isaiah 52:11 and 52:12 are consecutive, and 3 Nephi 21:29 places 'they shall go out from all nations' immediately before its quotation of 52:12, in Isaiah's order.",
+          "significance": "Isaiah 52:11's departure is a departure from somewhere — 'go ye out from thence … go ye out of the midst of her' — and the somewhere is Babylon, with the vessels of the Lord carried out by clean hands. 3 Nephi 21:29 has 'they shall go out from all nations', which universalizes the exit: every nation is now the Babylon being left. That reading depends on recovering Isaiah's antecedent, which the Book of Mormon verse deliberately does not supply."
+        },
+        "note": "“And they shall go out from all nations” — the clause that introduces the Isaiah 52:12 quotation, and it appears to reach back one verse. Christ quoted Isaiah 52:11 at 3 Nephi 20:41 ('Depart ye, depart ye, go ye out from thence'), and here the same verb reappears in the same position relative to 52:12, with 'from thence' replaced by 'from all nations'. Hardy's apparatus makes the same connection at this verse. Catalogued as an echo at moderate confidence because the verbal contact is two very common words; the case is one of sequence and of the speaker having quoted the source verse thirty-four verses earlier in the same sermon.",
+        "bibliography": [
+          "Hardy MSI at 3 Ne 21.29n (compare Isa 52.11; 3 Ne 20.41)"
+        ],
+        "status": "majority",
+        "streams": [
+          "scholarship",
+          "manual"
+        ]
+      }
+    ]
+  }
+}

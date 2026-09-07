@@ -1,0 +1,82 @@
+[
+  {
+    "bomRef": "3 Nephi 3:4",
+    "source": "1 Kings 20:42",
+    "category": "insufficient-verbal",
+    "sharedText": "utter destruction",
+    "streams": ["manual"],
+    "reason": "“utter destruction” occurs in exactly two KJV verses, 1 Kings 20:42 and Zechariah 14:11, so a reader who checks the rarity will be tempted, and the entry is here to say the catalogue checked it too. Neither verse will do. 1 Kings 20:42 is a prophet condemning Ahab for having spared a king he was to have devoted to destruction — the phrase there renders the ban, the herem, a thing decreed by God and carried out on his behalf. Zechariah 14:11 promises the abolition of the ban from a restored Jerusalem. Giddianhi uses the words as a commander's threat about what his troops would do if released: “they would visit you with utter destruction”. Two words, one of them the ordinary intensifier, in a sense the KJV never has for them, and nothing else of 1 Kings 20 anywhere near."
+  },
+  {
+    "bomRef": "3 Nephi 3:6",
+    "source": "Exodus 22:24",
+    "category": "wrong-sense",
+    "sharedText": "you with the sword",
+    "streams": ["machine-ngram"],
+    "reason": "A five-word run and one of the higher machine scores in the chapter. The senses are opposed in the way that matters most. Exodus 22:24 is the LORD's threat against Israelites who afflict the widow and the fatherless — “I will kill you with the sword; and your wives shall be widows, and your children fatherless” — that is, a judgment on oppressors, executed by God, on behalf of the defenceless. 3 Nephi 3:6 is an oppressor's threat against a people who have done him no wrong, and the sword is his own army's. The Book of Mormon's clause is in any case “visit you with the sword”, which is not Exodus's verb; “kill you with the sword” it does not have. The shared string is the preposition and its object."
+  },
+  {
+    "bomRef": "3 Nephi 3:8",
+    "source": "Isaiah 43:17",
+    "category": "insufficient-verbal",
+    "sharedText": "extinct",
+    "streams": ["manual"],
+    "reason": "“extinct” occurs in exactly two KJV verses, Job 17:1 (“my days are extinct”) and Isaiah 43:17, and Isaiah's is the apposite one: an army and its power that “shall lie down together, they shall not rise: they are extinct, they are quenched as tow”, which is Pharaoh's host at the sea. Giddianhi threatens to bring an army down until a people “shall become extinct”. One rare word, used in the same domain, and that is the whole of it: no shared construction, no shared syntax, and the direction is reversed — in Isaiah the army is what is extinguished, here the army is what extinguishes. Recorded because the word is genuinely rare in the KJV and a rarity check alone would make this look stronger than it is."
+  },
+  {
+    "bomRef": "3 Nephi 3:8",
+    "source": "Numbers 32:20",
+    "category": "formulaic",
+    "sharedText": "if ye will do this",
+    "streams": ["machine-ngram"],
+    "reason": "The chapter's second-highest n-gram score (2.00), and it is a bare conditional. Numbers 32:20 is Moses's terms to Reuben and Gad — “If ye will do this thing, if ye will go armed before the LORD to war” — and Giddianhi's is an ultimatum with the same hinge repeated in both polarities two clauses apart (“if ye will do this … but if ye will not do this”). The construction is the King James Bible's ordinary way of stating a condition and the Book of Mormon uses it continuously. This entry also covers Genesis 34:15's “unto you if ye will”, which the machine ranked at the same verse: Genesis 34 is genuinely in play in this chapter, but at 3:7 and as a narrative form, where it is catalogued — not through this string."
+  },
+  {
+    "bomRef": "3 Nephi 3:12",
+    "source": "Genesis 6:9",
+    "category": "insufficient-verbal",
+    "sharedText": "was a just man",
+    "streams": ["manual"],
+    "reason": "This is the entry the Exodus 2:2 “goodly” case in 1 Nephi is the model for: a typology pulls hard and the wording will not bear it. “was a just man” occurs in exactly two KJV verses, Genesis 6:9 (Noah) and Mark 6:20 (Herod's estimate of John the Baptist). The Noah reading is the seductive one, because what this just man immediately does is gather a whole population together with their flocks and their herds and all their substance into one place, seal it round with fortifications, and preserve them alive through a destruction that carries off everyone outside. But there is no ark, no water, no covenant and no remnant language anywhere in the chapter, and “just man” is a stock KJV commendation — the shared string is four words of which three are function words. Mark 6:20 fits the situation better than Genesis does (a ruler confronted with a man he cannot intimidate) and it fits it backwards, since there the ruler fears the just man and here the just man is the ruler. Declined at any confidence, and recorded so that a reader who sees the flood type is told the catalogue saw it too."
+  },
+  {
+    "bomRef": "3 Nephi 3:13",
+    "source": "Genesis 46:32",
+    "category": "formulaic",
+    "sharedText": "their flocks and their herds and all their substance",
+    "streams": ["machine-ngram"],
+    "reason": "A seven-word run at 3:13 and again at 3:22, and the highest-scoring candidate in the chapter after it is repeated (Numbers 31:9, rarity 3.50, is the same list in a different order and is covered by this entry). “Flocks and herds” with “all their substance” is the King James Bible's standing inventory for a household on the move — Genesis 12:5, 13:5, 24:35, 46:32, 47:1, Exodus 10:9, 12:38, Numbers 31:9, 32:1 and many more — and the Book of Mormon uses it for every migration it narrates. Genesis 46-47 scores highest only because Joseph's brothers happen to bring the same three items in the same order. Nothing of the Goshen settlement is present here, and the machine's other proposals against this string (Genesis 12:5, Genesis 47:1) fall with it."
+  },
+  {
+    "bomRef": "3 Nephi 3:13",
+    "source": "Ezra 10:7",
+    "category": "better-source-identified",
+    "sharedText": "sent a proclamation … that they should gather together … unto one place",
+    "streams": ["machine-ngram", "manual"],
+    "reason": "Not a rejection of the source but a redirection to where its wording actually lands. Lachoneus' proclamation is issued here, and the Ezra 10:7 link is real — but 3:13 reads “that they should gather together”, without the reflexive, while 3:22 and 3:24 both read “that they should gather themselves together”, which is Ezra's five-word run verbatim, and 3:22 supplies “throughout all the face of the land” against Ezra's “throughout Judah and Jerusalem”. CONVENTIONS §6a: put the link where the wording is. The adjudication is at 3 Nephi 3:22 and a reader who arrives at 3:13 should go there."
+  },
+  {
+    "bomRef": "3 Nephi 3:15",
+    "source": "Judges 8:19",
+    "category": "formulaic",
+    "sharedText": "as the Lord liveth",
+    "streams": ["machine-ngram"],
+    "reason": "“as the Lord liveth” occurs in exactly 27 KJV verses and is the Bible's standard oath formula; Judges 8:19 ranked only because the machine's window caught the following “if” as well. The Book of Mormon uses the formula throughout and this chapter uses it twice, here in Lachoneus' warning and again in Gidgiddoni's answer at 3:21. The second occurrence is catalogued, and not for this phrase's own sake: at 3:21 it stands in one speech with “the Lord forbid”, and 1 Samuel 26:10-11 is the only place in the KJV where those two idioms are adjacent. Nothing of that argument applies at 3:15, where the oath stands alone."
+  },
+  {
+    "bomRef": "3 Nephi 3:20",
+    "source": "Exodus 3:18",
+    "category": "wrong-sense",
+    "sharedText": "into the wilderness that we may",
+    "streams": ["machine-ngram"],
+    "reason": "The top-scoring candidate in the chapter (rarity 3.00, a six-word run) and worthless, which is CONVENTIONS §9's point about the n-gram stream being a recall floor rather than a ranking. Exodus 3:18 is Moses and the elders asking Pharaoh for leave to go “three days' journey into the wilderness, that we may sacrifice to the LORD our God”: a request made by slaves to their master, for a religious purpose, in order to leave. 3 Nephi 3:20 is a free people asking their own commander for leave to go into the wilderness that they may fall upon robbers and destroy them: an offensive military proposal. The shared six words are the destination and a purpose clause, and every content word after them differs. The real source-question at this verse is the type-scene of Deuteronomy 1:41-44, which is catalogued as a figural link and shares no wording at all — an instructive pairing, since the machine's best string here points nowhere and the link that is worth having was invisible to it."
+  },
+  {
+    "bomRef": "3 Nephi 3:26",
+    "source": "Ezekiel 39:9",
+    "category": "common-vocabulary",
+    "sharedText": "with shields, and with bucklers",
+    "streams": ["manual"],
+    "reason": "“bucklers” occurs in exactly five KJV verses and is a rare enough word to be worth checking, but “shields and bucklers” as a phrase occurs in exactly 0 — the KJV pairs them only in lists that also carry spears, bows or habergeons (2 Chronicles 23:9, Ezekiel 38:4, Ezekiel 39:9), and Song of Solomon 4:4 and Job 15:26 are not armouries at all. Ezekiel 39:9 is the closest (“both the shields and the bucklers, the bows and the arrows”) and is a prophecy of Israel burning the weapons of a defeated invader for seven years, which is the opposite of arming. “Buckler” is simply the King James word for a small shield and the Book of Mormon's armament lists use it throughout the war chapters. The link that this verse does carry is at its first clause, to Matthew 26:22."
+  }
+]

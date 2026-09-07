@@ -1,0 +1,98 @@
+[
+  {
+    "bomRef": "3 Nephi 26:1",
+    "source": "2 Chronicles 20:24",
+    "category": "better-source-identified",
+    "sharedText": "unto the multitude and",
+    "streams": ["machine-ngram"],
+    "reason": "The chapter's opening candidate and a four-word run, and it is the n-gram stream at its least useful. 2 Chronicles 20:24 is Judah looking out from the watch tower of the wilderness at the dead bodies of Moab and Ammon; 3 Nephi 26:1 is Christ expounding scripture. The words they share are a preposition, an article and a noun. The real source of this verse is in neither the candidate list nor anywhere near it: “expounded all things” occurs in exactly one KJV verse, Mark 4:34, and “unto the multitude” occurs in exactly four, of which the only one about Jesus teaching is Matthew 13:34 — which is Mark 4:34's own Synoptic parallel. Both links are filed at 26:1."
+  },
+  {
+    "bomRef": "3 Nephi 26:2",
+    "source": "Malachi 4:1-2",
+    "category": "better-source-identified",
+    "sharedText": "(the scriptures Christ has just given)",
+    "streams": ["scholarship"],
+    "reason": "Hardy's apparatus cross-references Malachi 4:1-2 here, and the reference is right as a back-pointer and wrong as a verbal one. 3 Nephi 26:2 reads 'These Scriptures which ye had not with you, the Father commanded that I should give unto you' — a demonstrative pointing back at the Malachi text transcribed at 3 Nephi 24-25, which is where the catalogue has collated it verse by verse (Malachi 4:1 at 3 Nephi 25:1, Malachi 4:2 at 25:2). Verse 2 itself shares not one word with Malachi 4. This is CONVENTIONS §6a's second bullet: a study edition is right to tell its reader what 'these scriptures' means at the point the phrase occurs, and a catalogue of verbal dependence puts the link where the wording is. The row is discharged, and a reader who arrives at 26:2 from Hardy is sent to 25:1-2. Note that this verse sits at the chapter boundary where our own extract of Hardy formerly mis-keyed the Malachi 4:1-2 and 4:2 notes across 25/26; the correction stands in data/hardy-corrections.json and the current keying is the printed apparatus's."
+  },
+  {
+    "bomRef": "3 Nephi 26:5",
+    "source": "Exodus 17:12",
+    "category": "common-vocabulary",
+    "sharedText": "the one on the one … and the other on the other",
+    "streams": ["machine-ngram"],
+    "reason": "The highest-scoring candidate in the chapter, tied with 2 Samuel 2:13, and a six-word run in each — and it is a King James correlative idiom with no content. The construction is 'the one on the one side, and the other on the other side', and the KJV uses it for whatever happens to be paired: Aaron and Hur propping up Moses' hands at Rephidim (Exodus 17:12), Joab's men and Abner's men facing each other across the pool of Gibeon (2 Samuel 2:13), the cherubim, the pillars, the doorposts. 3 Nephi 26:5 uses it of the two resurrections 'being on a parallel', and changes the noun that governs it from 'side' to 'hand', which neither KJV verse has. Nothing else of either verse is present. The verse's real dependence is on John 5:29, filed as a link at 26:5, where both halves of the antithesis are KJV singletons."
+  },
+  {
+    "bomRef": "3 Nephi 26:6",
+    "source": "Nehemiah 5:11",
+    "category": "better-source-identified",
+    "sharedText": "hundredth part of the",
+    "streams": ["machine-ngram"],
+    "reason": "“hundredth part” occurs in exactly one KJV verse, Nehemiah 5:11, where it is the rate of interest the nobles are made to restore to their brethren, and the standing wrong-sense exclusion for it was filed at Words of Mormon 1:5 and repeated at Jacob 3:13. It is Mormon's own measure of what will not fit in a record — six occurrences across the Book of Mormon, five of them his — and not a borrowing from a chapter about usury. What the verse does borrow is the idiom around the fraction rather than the fraction itself: “things which Jesus did” occurs in exactly three KJV verses and “should be written” occurs in exactly one, both of them John 21:25, which is filed as a link at this verse."
+  },
+  {
+    "bomRef": "3 Nephi 26:6",
+    "source": "John 11:45",
+    "category": "better-source-identified",
+    "sharedText": "the things which Jesus did",
+    "streams": ["machine-ngram"],
+    "reason": "A five-word run and a genuine near-miss, which is why it needs writing out rather than passing over. “things which Jesus did” occurs in exactly three KJV verses — Luke 9:43, John 11:45 and John 21:25 — and the machine ranked the wrong one of the three. John 11:45 is the crowd at Bethany who saw the raising of Lazarus and believed; the phrase there is about witnessed deeds producing faith. 3 Nephi 26:6 is about deeds that cannot be got into a book, which is John 21:25's subject and only John 21:25's: 'there are also many other things which Jesus did, the which, if they should be written every one …'. The link is filed at 26:6 against John 21:25."
+  },
+  {
+    "bomRef": "3 Nephi 26:9",
+    "source": "Romans 10:20",
+    "category": "wrong-sense",
+    "sharedText": "made manifest unto them",
+    "streams": ["machine-ngram"],
+    "reason": "Worth an entry because the rarity is real and misleading: “made manifest unto them” occurs in exactly one KJV verse. That verse is Paul quoting Isaiah 65:1 — 'I was made manifest unto them that asked not after me' — and its whole force is that the manifestation went to people who had made no approach and had no faith, which Paul applies to the Gentiles against Israel. 3 Nephi 26:9 is the exact inverse: the greater things are made manifest only to those who have first received the lesser and believed, and are withheld from the rest 'unto their condemnation' (26:10). The one KJV verse with the phrase says revelation is unearned by definition; the Book of Mormon verse says it is conditional. A four-word run with the argument reversed is a coincidence of English, not a borrowing. The temptation is sharpened by 26:8's 'from the Gentiles', which is Romans 10-11's subject — and that is a reason to say why we declined it rather than to accept it."
+  },
+  {
+    "bomRef": "3 Nephi 26:11",
+    "source": "1 Kings 21:3",
+    "category": "wrong-sense",
+    "sharedText": "the Lord forbid it",
+    "streams": ["manual"],
+    "reason": "The register's best entry in this chapter, because the string match is exact and the grammar is opposite. “the LORD forbid” occurs in exactly three KJV verses — 1 Samuel 24:6, 1 Samuel 26:11 and 1 Kings 21:3 — and in all three it is an optative oath formula meaning 'God forbid that I should', spoken by a man refusing to do something: David refusing to strike Saul, twice, and Naboth refusing to sell the inheritance of his fathers. 1 Kings 21:3 even matches the object pronoun, 'The LORD forbid it me'. In 3 Nephi 26:11 the same four words are a plain past indicative with the Lord as the grammatical subject — Mormon was about to write the whole record 'but the Lord forbid it, saying, I will try the faith of my people'. Somebody actually did the forbidding. The situational rhyme is close enough to tempt (a man refusing to hand over his fathers' inheritance; an abridger refusing to hand over his fathers' record) and it is a rhyme, not a dependence."
+  },
+  {
+    "bomRef": "3 Nephi 26:13",
+    "source": "Acts 19:8",
+    "category": "wrong-sense",
+    "sharedText": "for the space of three",
+    "streams": ["machine-ngram"],
+    "reason": "A five-word run and a KJV singleton — “for the space of” occurs in exactly one KJV verse — and the catalogue has declined it twice already, at 2 Nephi 25:13 and Mosiah 7:1, for the reason ADJUDICATING §4 names: the run ends one word early. Acts 19:8 continues 'months', of Paul disputing in the Ephesian synagogue; 3 Nephi 26:13 continues 'days'. The phrase is in any case one of Mormon's commonest connectives, occurring some sixty-five times across the Book of Mormon, and cannot be a fresh borrowing here. This entry covers the candidate for the rest of 3 Nephi."
+  },
+  {
+    "bomRef": "3 Nephi 26:14",
+    "source": "Revelation 15:3",
+    "category": "better-source-identified",
+    "sharedText": "great and marvellous",
+    "streams": ["machine-ngram"],
+    "reason": "“great and marvellous” occurs in exactly two KJV verses, Revelation 15:1 and Revelation 15:3, and the catalogue treats it as a genuine borrowing — it is adjudicated at 1 Nephi 1:14 and at a dozen places since. Within 3 Nephi it is first adjudicated at 4:32 and argued again at 5:8 and 5:18, so by ADJUDICATING §4 its reappearances in this book are the same narrator using his own adopted formula rather than fresh borrowings. 26:14 ('great and marvellous things') and 26:16 ('utter marvellous things') are two such reappearances; the argument for the family is at 3 Nephi 4:32. Recorded here rather than passed over in silence because the 1830 spelling 'marvellous' is the KJV's and is modernized in 1920, so a reader working from the first edition will see the match and should be told where it is adjudicated."
+  },
+  {
+    "bomRef": "3 Nephi 26:15",
+    "source": "Acts 7:26",
+    "category": "wrong-sense",
+    "sharedText": "shewed himself unto them",
+    "streams": ["machine-ngram"],
+    "reason": "The chapter's second-highest-scoring candidate and a four-word exact run in the 1830 text, which is the point worth recording: 1830 reads 'shewed' and 1920 reads 'showed', so the match is exact in the first edition and half-lost in the modern one (CONVENTIONS §8). It is still not a borrowing. Acts 7:26 is Stephen's summary of Moses going out on the second day and finding two Hebrews fighting — 'he shewed himself unto them as they strove' — and the verb there means he came into their view uninvited and was rebuffed. 3 Nephi 26:15 is the risen Christ appearing to disciples who are expecting him. 'Shew oneself unto' is the ordinary King James idiom for appearing to somebody (Leviticus's leper to the priest, 1 Kings's Elijah to Ahab), and its concentration here is a fact about the 1830 orthography, not about Acts 7."
+  },
+  {
+    "bomRef": "3 Nephi 26:15",
+    "source": "Genesis 22:15",
+    "category": "insufficient-verbal",
+    "sharedText": "heaven the second time",
+    "streams": ["machine-ngram"],
+    "reason": "Four words, and typology pulls at them: Genesis 22:15 is the angel of the LORD calling to Abraham out of heaven the second time, immediately after the binding of Isaac, to swear the covenant — a second heavenly word confirming what the first had demanded, in the King James Bible's most-read scene of a father and a son. 3 Nephi 26:15 is a chronological note about Christ's second ascension. The shared words are 'heaven', 'the second time', and nothing else; the Book of Mormon's clause is 'after he had ascended into Heaven the second time', where Genesis's is 'called unto Abraham out of heaven the second time'. Direction of motion, speaker and subject all differ. Filed so that a reader who sees the Abrahamic pattern knows the catalogue looked and declined it."
+  },
+  {
+    "bomRef": "3 Nephi 26:21",
+    "source": "Romans 16:16",
+    "category": "insufficient-verbal",
+    "sharedText": "the church of Christ",
+    "streams": ["manual"],
+    "reason": "Recorded for its negative result, which is the useful kind here. 3 Nephi 26:21 names the community — 'they which were baptized in the name of Jesus, were called the church of Christ' — and a reader will reasonably look for a King James warrant. There is none: “the church of Christ” occurs in no KJV verse. The nearest is Romans 16:16's plural, 'the churches of Christ salute you', which is a greeting from congregations rather than a name for the body, and the King James Bible otherwise says 'the church of God' (eight KJV verses, including 1 Corinthians 1:2) or simply 'the church'. So the name this verse gives the church is not the King James Bible's, and the catalogue should say so plainly rather than reach for Romans 16:16. The verse's actual dependence is on the Acts baptismal formula, filed as a link at 26:17. The 1830 'which' is corrected to 'who' in 1920."
+  }
+]

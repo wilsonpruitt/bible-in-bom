@@ -1,0 +1,112 @@
+[
+  {
+    "bomRef": "3 Nephi 29:1",
+    "source": "2 Chronicles 6:11",
+    "category": "formulaic",
+    "sharedText": "made with the children of Israel",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "The chapter's top-scoring machine candidate, on a six-word run, and “made with the children of Israel” is in fact a KJV singleton — which is exactly why the register has to explain the rejection rather than assume it. The rarity is arithmetic. Every word of the run is ordinary: 'the children of Israel' is the King James Bible's standard designation for the nation and appears in hundreds of verses, and 'made with' is the ordinary verb for cutting a covenant. That 2 Chronicles 6:11 is the only verse in which the two happen to meet is shown by its own synoptic parallel, 1 Kings 8:21, which says the same thing about the same ark with 'which he made with our fathers' — the formula is variable, so its one fixed instance identifies nothing. The senses are unrelated besides: 2 Chronicles 6:11 is Solomon reporting that the covenant is inside the ark he has housed, 3 Nephi 29:1 is Mormon announcing that its terms are beginning to be kept in the last days. Note also that the Book of Mormon's subject is 'the Father', which is not KJV covenant language anywhere."
+  },
+  {
+    "bomRef": "3 Nephi 29:1",
+    "source": "Leviticus 26:36",
+    "category": "common-vocabulary",
+    "sharedText": "the lands of their inheritance",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "The machine matched 'the lands of their' against Leviticus 26:36's 'the lands of their enemies', which is the wrong noun in the wrong sense — Leviticus is describing Israelites scattered and terrified in foreign territory, 3 Nephi 29:1 their restoration to their own. 'Lands of their inheritance' in the plural is a Book of Mormon formula and not a KJV phrase; the KJV says 'the land of your inheritance' or 'his inheritance', in the singular. Filed because Leviticus 26 genuinely does stand behind this chapter's theology of a remembered covenant (26:42, 'then will I remember my covenant with Jacob'), so a reader may reasonably expect a link here, and the catalogue's answer is that the theology is shared and the wording is not."
+  },
+  {
+    "bomRef": "3 Nephi 29:2",
+    "source": "Acts 3:21",
+    "category": "better-source-identified",
+    "sharedText": "spoken by the holy prophets",
+    "streams": [
+      "manual"
+    ],
+    "reason": "Acts 3:21 is where the catalogue adjudicated this epithet in this book, at 3 Nephi 5:1, and it recorded 2 Peter 3:2 there as the alternative it could not exclude on the wording alone. At 29:2 the wording does decide: the Book of Mormon has the noun 'words', which 2 Peter 3:2 has and Acts 3:21 lacks, and lacks 'by the mouth of all his', which Acts 3:21 has. tools/mediation-check.py returns 2 Peter 3:2 on both points. What settles it beyond the string is the company the phrase keeps — the same sentence goes on to forbid saying that the Lord delays his coming, which is 2 Peter 3:4's scoffers answered by 2 Peter 3:9, two and seven verses after 3:2. The link is written at 29:2 to 2 Peter 3:2; Acts 3:21 remains the right reading at 5:1, where the totalising 'all' is present and the scoffing context is not."
+  },
+  {
+    "bomRef": "3 Nephi 29:3",
+    "source": "Psalm 2:1",
+    "category": "insufficient-verbal",
+    "sharedText": "imagine … vain",
+    "streams": [
+      "manual"
+    ],
+    "reason": "A tempting near-miss and the register should say so. Psalm 2:1 is the one KJV verse that puts 'imagine' and 'vain' in a single clause, and it puts them in the mouth of exactly this chapter's audience — 'Why do the heathen rage, and the people imagine a vain thing?' — with the object of the raging being the LORD and his anointed. But the two words are doing different jobs in the two verses. In the psalm the vain thing is the plot, and its vanity is the poet's verdict on it; in 3 Nephi 29:3 the vanity is what the scoffers allege of God's words, and the sentence forbids the allegation. Nothing else of Psalm 2 is present, and 'vain' occurs in 102 KJV verses. The link at 29:3 goes to Zechariah 8:17 instead, on 'imagine … in your hearts', which is the construction the Book of Mormon actually has; Psalm 2:1 is recorded in that row's provenance as a possibility rather than dismissed."
+  },
+  {
+    "bomRef": "3 Nephi 29:4",
+    "source": "Leviticus 18:3",
+    "category": "wrong-sense",
+    "sharedText": "the doings of the",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "'The doings of the land' occurs in exactly one KJV verse, Leviticus 18:3, which is why a four-word window ranked it, and the sense is the opposite of what 3 Nephi 29:4 needs. Leviticus 18:3 forbids Israel to imitate the doings of Egypt and Canaan; 'doings' there is a word for other people's abominations, and that is how the KJV uses it almost everywhere — 'the evil of your doings', 'the fruit of his doings', 'according to his doings will he recompense him'. 3 Nephi 29:4-5 makes the doings God's own and the offence contempt for them. 'Doings of the Lord' occurs in no KJV verse at all; the closest the King James Bible comes is 'his doings' of God at Psalm 9:11 and Isaiah 12:4, where the verb is 'declare' and the sense is praise. This is a Book of Mormon usage, and the register should say that plainly rather than let a rare-string match stand in for one."
+  },
+  {
+    "bomRef": "3 Nephi 29:5",
+    "source": "Isaiah 45:9",
+    "category": "insufficient-verbal",
+    "sharedText": "Woe unto him that",
+    "streams": [
+      "manual"
+    ],
+    "reason": "'Woe unto him that' occurs in exactly five KJV verses and Isaiah 45:9 is the one whose subject fits — 'Woe unto him that striveth with his Maker' is a woe on contending with what God is doing, which is 3 Nephi 29:5's charge. It is declined as a source for two reasons. First, the wording stops at the formula: the Book of Mormon continues 'that spurneth at the doings of the Lord', which shares nothing with 'striveth with his Maker', and the potter-and-clay figure that occupies the rest of Isaiah 45:9 is absent from 3 Nephi 29 entirely. Second, the mediation test is empty. Romans 9:20 reworks Isaiah 45:9 into 'who art thou that repliest against God', and tools/mediation-check.py finds the Book of Mormon following neither form at any point of divergence — it has neither Isaiah's clay nor Paul's thing formed, neither 'striveth' nor 'repliest'. A verse whose NT reworking and OT original are equally absent is not the source of the sentence. The chapter's woe-series is instead catalogued as a figural link to Isaiah 5's, where the offences match."
+  },
+  {
+    "bomRef": "3 Nephi 29:6",
+    "source": "2 Corinthians 12:1",
+    "category": "wrong-sense",
+    "sharedText": "revelations of the Lord",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "A four-word run and a genuine rarity — 'revelations of the Lord' in the plural is 2 Corinthians 12:1's phrase — and it is the wrong kind of revelation. Paul's plural is his own visions, introduced with an apology for boasting of them ('It is not expedient for me doubtless to glory') and followed by the third heaven and the thorn in the flesh. 3 Nephi 29:6's plural is the category of divine self-disclosure whose continuance is being denied. Nothing of 2 Corinthians 12 is present. The verse's real source is one chapter of Paul, but the other letter: 1 Corinthians 12's inventory of gifts, strung on 1 Corinthians 14:6's serial 'or by', which is where the link is filed."
+  },
+  {
+    "bomRef": "3 Nephi 29:7",
+    "source": "James 4:13",
+    "category": "better-source-identified",
+    "sharedText": "get gain",
+    "streams": [
+      "manual"
+    ],
+    "reason": "'Get gain' occurs in exactly one KJV verse, James 4:13, and it is the Book of Mormon's standing term for corrupt religious and civil profit. It is not adjudicated afresh here: the argument was made at 2 Nephi 26:20 and, within this book, at 3 Nephi 6:10, where James 4:13-5:6 supplies the merchants, the boastings and the condemning of the just across a whole paragraph. At 29:7 the phrase arrives alone, with none of James's surrounding material, and is a writer using his own established formula. The 1830 form 'for to get gain' is worth noting for a different reason and is discussed in the John 17:12 row at this verse: the first edition attaches the gain to the denial and keeps the KJV's 'for to' before the infinitive, and 1920 moved the phrase and dropped 'for'."
+  },
+  {
+    "bomRef": "3 Nephi 29:8",
+    "source": "Leviticus 6:5",
+    "category": "wrong-sense",
+    "sharedText": "which he hath sworn",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "'Which he hath sworn' occurs in exactly one KJV verse, and the KJV singleton is a trap here. Leviticus 6:5 is about a man who has sworn falsely over property he denied holding, and the clause introduces the restitution he owes plus a fifth part. 3 Nephi 29:8's clause is 'he will do unto them according to that which he hath sworn', where the swearer is the Lord and the oath is the covenant with Israel. The two uses share four words and no situation, and the rare string is an accident of English: the KJV's ordinary way of saying what 29:8 says is an oath sworn to the fathers — 'The oath which he sware to our father Abraham' (Luke 1:73), 'which thou hast sworn unto our fathers from the days of old' (Micah 7:20) — and the Book of Mormon uses none of those forms. Filed because a rarity count run without reading the verse would put this in the catalogue."
+  },
+  {
+    "bomRef": "3 Nephi 29:8",
+    "source": "1 Kings 9:7",
+    "category": "better-source-identified",
+    "sharedText": "(hissing at Israel)",
+    "streams": [
+      "manual"
+    ],
+    "reason": "1 Kings 9:7-8 is where the catalogue has twice put the Book of Mormon's hissing — at 1 Nephi 19:14 and at 3 Nephi 16:9, both on the compound 'a hiss and a byword', which is 9:7's 'a proverb and a byword' with 9:8's hissing substituted for 'proverb'. A reader arriving at 29:8 will expect the same source and should be told why it is not used. 29:8 does not have the compound. It has 'hiss' as a finite verb in a list of three things the Gentiles are told to stop doing, with the Jews as its direct object, and the 1 Kings verses give a noun in a formula about a desolate house at which passers-by are astonished. The KJV supplies the required grammar in exactly one place, Lamentations 2:15-16, where enemies hiss at the daughter of Jerusalem, and the link is filed there."
+  },
+  {
+    "bomRef": "3 Nephi 29:9",
+    "source": "Deuteronomy 5:32",
+    "category": "better-source-identified",
+    "sharedText": "to the right hand or to the left",
+    "streams": [
+      "manual"
+    ],
+    "reason": "The phrase occurs in exactly ten KJV verses and Deuteronomy 5:32 heads the commonest family of them — Deuteronomy 17:20, 28:14, Joshua 1:7 and 23:6, 2 Kings 22:2 and the rest — in all of which the sense is 'do not stray from the law'. That is the family a reader or a machine will reach for first, and it is the wrong one: in every member of it the person who might turn is the one addressed, and what he must not turn from is the commandment. 3 Nephi 29:9 has the Gentiles trying to turn the Lord's hand, not their own feet. The link is filed at 2 Samuel 14:19, the tenth occurrence and the only one where the idiom means that what the king has already spoken cannot be deflected — 'none can turn' is a KJV singleton there — which is the sense 29:9 requires."
+  }
+]

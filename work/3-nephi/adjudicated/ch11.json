@@ -1,0 +1,947 @@
+{
+  "chapter": 11,
+  "adjudicated": "2026-09-07",
+  "adjudicator": "Opus",
+  "links": {
+    "11:3": [
+      {
+        "source": "1 Kings 19:12",
+        "type": "allusion",
+        "subtype": "structural",
+        "confidence": "high",
+        "text": "And after the earthquake a fire; but the LORD was not in the fire: and after the fire a still small voice.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 5,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "1 Kings 19:11"
+        ],
+        "recurrenceRefs": [
+          "1 Nephi 17:45"
+        ],
+        "provenance": {
+          "route": "1 Kings 19:11-12 → KJV → Book of Mormon",
+          "other": "“still small voice” occurs in exactly one KJV verse, 1 Kings 19:12, and the Book of Mormon has already used it at 1 Nephi 17:45, where it is adjudicated. 3 Nephi 11:3 does not repeat the phrase; it reproduces the sentence-shape around it.",
+          "alternative": "The negations could be read as the narrator's own attempt to describe an unfamiliar sound, owing nothing to Elijah.",
+          "significance": "Recover Horeb and the borrowing argues something the verse does not say. At 1 Kings 19:11-12 the LORD is *not* in the wind, *not* in the earthquake, *not* in the fire, and the small voice is what remains when the theophanic machinery has been cleared away — a rebuke to a prophet who wanted fire. 3 Nephi 11 comes immediately after three chapters of exactly that machinery: the tempest, the earthquakes, the fire that burned Zarahemla, the three days of darkness of 3 Nephi 8-10. The chapter that follows the destruction opens by telling the reader that the voice is not loud, and it does so in Elijah's syntax. The catastrophe was not where God was."
+        },
+        "note": "“It was not a harsh voice, neither was it a loud voice; nevertheless, and notwithstanding it being a small voice, it did pierce them.” The words “still small voice” are not here, and that is why the machine streams did not see this. What is here is 1 Kings 19:11-12's construction: a run of negations of loud phenomena, then an adversative, then a small voice — and “small voice” as a description of divine speech has no other model in the KJV. The Book of Mormon had already quoted 1 Kings 19:12 outright at 1 Nephi 17:45 (“he hath spoken unto you in a still small voice”), so the source is demonstrably in the corpus's repertoire; what 3 Nephi 11:3 does is take the frame rather than the phrase.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      },
+      {
+        "source": "Luke 24:32",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "And they said one to another, Did not our heart burn within us, while he talked with us by the way, and while he opened to us the scriptures?",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Luke 24:14",
+          "Luke 24:15"
+        ],
+        "provenance": {
+          "route": "Luke 24:13-32 → KJV → Book of Mormon",
+          "other": "“our heart burn within us” occurs in exactly one KJV verse, Luke 24:32. The n-gram stream did propose Luke 24:15 here, but only on the connective “it came to pass that while they”; the real contact is seventeen verses further down the road.",
+          "significance": "Metalepsis of a precise kind. In Luke the burning heart is *retrospective*: the two disciples name it only after the breaking of bread, when “their eyes were opened, and they knew him”, and what made it burn was that “he opened to us the scriptures.” 3 Nephi 11 moves the burn to the front. The hearts burn at verse 3, and the crowd still cannot make out a word of what is being said; recognition does not arrive until verse 8, and then only wrongly (“they thought it was an angel”). Luke's readers are told what the sensation meant before they are told what caused it; the Nephites are given the sensation and made to wait five verses for the cause."
+        },
+        "note": "The Emmaus frame is set up before the phrase lands. Two verses earlier the people are “conversing one with another” about “this Jesus Christ, of which the sign had been given, concerning his death” — which is Luke 24:14-15's disciples “talking together of all these things which had happened” as “Jesus himself drew near”, unrecognised. Then the voice comes and “did cause their hearts to burn”, and the only KJV verse in which a heart burns at the presence of the risen Christ is Luke 24:32. Note that the 1830 punctuation closes the verse with a dash, holding the burn open into verse 4.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual",
+          "machine-ngram"
+        ]
+      }
+    ],
+    "11:5": [
+      {
+        "source": "Acts 1:10",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "And while they looked stedfastly toward heaven as he went up, behold, two men stood by them in white apparel;",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Acts 1:11"
+        ],
+        "provenance": {
+          "route": "Acts 1:10-11 → KJV → Book of Mormon",
+          "other": "“stedfastly toward heaven” occurs in exactly one KJV verse, Acts 1:10. The 1830 spells it “steadfastly” and modernises “toward” to “towards”, which is why a literal string search misses it; the collocation is Luke's and nobody else's.",
+          "significance": "Acts 1:11 is the promise the whole chapter is about to cash: “this same Jesus, which is taken up from you into heaven, shall so come in like manner as ye have seen him go into heaven.” 3 Nephi 11:5 puts a crowd in the posture of Acts 1:10 — eyes fixed on the sky — and three verses later a man descends out of heaven; and at 11:12 the narrator explains the crowd's collapse by saying they remembered “that Christ should shew himself unto them after his ascension into Heaven.” The Book of Mormon has taken the KJV's one verse of upward staring and supplied the sequel Acts withholds. The men in white apparel tell the apostles to stop looking up. Here the looking up is rewarded."
+        },
+        "note": "“They did look steadfastly towards Heaven, from whence the sound came.” Two rare elements in one clause: the adverb-plus-direction collocation that the KJV uses exactly once, and the direction of gaze that in Acts belongs to the ascension. Both this verse and 11:12 keep the ascension explicitly in view, so the context is not incidental — the chapter is narrating a return, and it borrows the vocabulary of the departure to do it.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "11:7": [
+      {
+        "source": "Matthew 17:5",
+        "type": "quotation",
+        "subtype": "explicit",
+        "confidence": "certain",
+        "text": "While he yet spake, behold, a bright cloud overshadowed them: and behold a voice out of the cloud, which said, This is my beloved Son, in whom I am well pleased; hear ye him.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 1
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Matthew 3:17",
+          "John 12:28"
+        ],
+        "provenance": {
+          "route": "Matthew 17:5 → KJV → Book of Mormon",
+          "other": "“my beloved Son, in whom I am well pleased” occurs in exactly four KJV verses (Matthew 3:17, Matthew 17:5, Mark 1:11, 2 Peter 1:17). “hear ye him” occurs in exactly two (Matthew 17:5 and John 10:20, where it means the opposite — “he hath a devil, and is mad; why hear ye him?”). Only Matthew 17:5 holds both, and Mark 9:7 and Luke 9:35 read “hear him” without the “ye”.",
+          "alternative": "Matthew 3:17, the baptismal voice, supplies the same eleven words and is the more famous verse; it cannot supply the imperative.",
+          "significance": "The transfiguration voice, not the baptismal one. In Matthew 17:5 “hear ye him” is spoken over Moses and Elias on the mountain, and its force is that the Law and the Prophets have just been superseded as the party one listens to. 3 Nephi 11 is about to do the same thing to the Nephite record: within a chapter Christ will replace the law of Moses (3 Nephi 12:46-47, 15:4-5) as the standing authority. The Father's introduction is chosen from the one KJV scene in which the sentence already means that."
+        },
+        "note": "Eleven words of Matthew 17:5 in order, then its imperative, with one interpolation. What the Book of Mormon changes is instructive: “This is” becomes “Behold”, appropriate to a voice addressing a crowd rather than three men under a cloud; and “in whom I have glorified my name” is inserted, which is the third heavenly-voice scene of the Gospels, John 12:28 (“Father, glorify thy name. Then came there a voice from heaven, saying, I have both glorified it”). So the verse compounds two of the KJV's three voices from heaven and drops the baptismal one — which the chapter will pick up separately at 11:35. Running mediation-check.py between Matthew 3:17 and Matthew 17:5 returns no decisive divergence, because the two agree at every point the Book of Mormon reproduces of the shared clause; the evidence here is an inclusion rather than a variant, and “hear ye him” settles it.",
+        "bibliography": [
+          "Frederick 2016 (index: 3 Nephi 11:7 is discussed in proximity to John 1:2-4, 1:11-12, 1:17, 14:10 and 17:1 — co-occurrence in his argument about the Gospel of John, not a proposed source for this verse)"
+        ],
+        "status": "majority",
+        "streams": [
+          "manual",
+          "machine-ngram"
+        ]
+      }
+    ],
+    "11:8": [
+      {
+        "source": "Luke 24:36",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "And as they thus spake, Jesus himself stood in the midst of them, and saith unto them, Peace be unto you.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "John 20:19",
+          "Luke 24:37"
+        ],
+        "provenance": {
+          "route": "Luke 24:36-37 → KJV → Book of Mormon",
+          "other": "“stood in the midst of them” occurs in exactly one KJV verse, Luke 24:36 — the risen Christ's first appearance to the assembled disciples. John 20:19 has the shorter “stood in the midst” in the same scene.",
+          "significance": "Luke's next sentence is the point. “But they were terrified and affrighted, and supposed that they had seen a spirit” (24:37) — the appearance is met with a category error, and the rest of Luke 24 is spent correcting it by touch (“handle me, and see”). 3 Nephi 11:8 makes the same error with a different term: “they wist not what it meant: for they thought it was an angel that had appeared unto them”, and the correction that follows at 11:14-15 is likewise by touch. The Book of Mormon is not merely borrowing Luke's stage direction; it is borrowing his plot — apparition, misidentification, tactile proof — and running it at the scale of a multitude."
+        },
+        "note": "“He came down and stood in the midst of them.” The clause is the KJV's one description of the risen Christ arriving among his gathered disciples, and it arrives here at exactly the corresponding narrative moment. The 1830 keeps the singular verb of the following clause (“the eyes of the whole multitude was turned upon him”, corrected to “were” in 1920), which is worth noting only because it shows the sentence is the Book of Mormon's own construction around a borrowed clause rather than a transcription.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      },
+      {
+        "source": "Acts 12:9",
+        "type": "echo",
+        "subtype": "possible",
+        "confidence": "moderate",
+        "text": "And he went out, and followed him; and wist not that it was true which was done by the angel; but thought he saw a vision.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 2,
+          "sequence": 4,
+          "context": 3,
+          "rarity": 3,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Acts 12:11"
+        ],
+        "recurrenceRefs": [
+          "3 Nephi 11:15"
+        ],
+        "provenance": {
+          "route": "Acts 12:9-11 → KJV → Book of Mormon",
+          "other": "“wist not” occurs in exactly nine KJV verses, too many to identify a source alone; “know of a surety” occurs in exactly two (Genesis 15:13 and Acts 12:11). Acts 12:9 is the only KJV verse joining “wist not” to the misperception of an angel, and Acts 12:11 is the only one joining “know of a surety” to an angel correctly identified.",
+          "alternative": "Both phrases are ordinary Jacobean English and the Book of Mormon uses “wist not” elsewhere; the sequence may be coincidence.",
+          "significance": "If the borrowing is real it is inverted, which is the interesting part. Peter “wist not that it was true which was done by the angel; but thought he saw a vision”, and comes to himself with “Now I know of a surety, that the Lord hath sent his angel” — a man who mistakes a real deliverance for an apparition. The Nephites make the opposite mistake in the same two phrases: they take a real man for an angel, and are brought to “know of a surety” by handling him. Acts moves from vision to fact; 3 Nephi moves from messenger to person."
+        },
+        "note": "Two rare phrases in Acts 12's own order, seven verses apart in Acts and seven verses apart here. 11:8 has “wist not what it meant: for they thought it was an angel that had appeared unto them”, which is Acts 12:9's “wist not … but thought he saw a vision” with the angel moved from cause to misidentification; 11:15 closes with “did know of a surety, and did bear record”, which is Acts 12:11's phrase. Filed under CONVENTIONS §0a as a link worth putting on the table rather than one I would defend hard, with the whyNot attached.",
+        "whyNot": "Neither phrase is a singleton, the sense is inverted at both points, and nothing else of Acts 12 — Herod, the prison, the iron gate, Rhoda — appears anywhere in the chapter. A reader who declines this is being reasonable; the case rests entirely on the two phrases occurring in the same order in both texts.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "11:10": [
+      {
+        "source": "John 11:27",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "text": "She saith unto him, Yea, Lord: I believe that thou art the Christ, the Son of God, which should come into the world.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 4,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "John 6:14"
+        ],
+        "recurrenceRefs": [
+          "3 Nephi 11:15"
+        ],
+        "provenance": {
+          "route": "John 11:27 → KJV → Book of Mormon",
+          "other": "“should come into the world” occurs in exactly two KJV verses, John 6:14 (“that prophet that should come into the world”) and John 11:27 (“thou art the Christ, the Son of God, which should come into the world”). The formula is Johannine and appears nowhere else in the Bible.",
+          "significance": "John 11:27 is Martha's confession at the grave of Lazarus, spoken to a man who is about to prove it by raising the dead. 3 Nephi 11:10 turns the confession into a self-identification: the sentence the KJV gives to a mourner meeting the resurrection is here spoken by the risen man to a mourning nation. And the chapter returns the formula to the crowd at 11:15 — “of whom it was written by the prophets that should come” — so the confession is made twice, once by Christ about himself and once by the multitude about him."
+        },
+        "note": "“Behold I am Jesus Christ, of which the prophets testified that should come into the world.” The relative construction is John's and only John's. The 1830 reads “of which” where 1920 reads “of whom”, and 1830's “that should come” where 1920 reads “that shall come” — both changes move the sentence away from the KJV's own relative-pronoun idiom, so the first edition shows the borrowing more plainly than the current text does (CONVENTIONS §8).",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual",
+          "machine-ngram"
+        ]
+      }
+    ],
+    "11:11": [
+      {
+        "source": "John 18:11",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "Then said Jesus unto Peter, Put up thy sword into the sheath: the cup which my Father hath given me, shall I not drink it?",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "John 17:4",
+          "John 5:36"
+        ],
+        "provenance": {
+          "route": "John 18:11 → KJV → Book of Mormon",
+          "other": "“the cup which my Father hath given me” occurs in exactly one KJV verse, John 18:11. “I have glorified thee” occurs in exactly one, John 17:4. The Book of Mormon reads “the Father” where John 18:11 reads “my Father”, which is John 5:36's article (“the works which the Father hath given me”); mediation-check.py run against John 5:36 and John 18:11 returns one decisive point for John 18:11, on “cup”.",
+          "significance": "The two verses this sentence is built from stand on either side of the crossing of the brook Cedron. John 17:4 (“I have glorified thee on the earth: I have finished the work which thou gavest me to do”) closes the high-priestly prayer; John 18:11 (“the cup which my Father hath given me, shall I not drink it?”) is spoken in the garden minutes later, at the arrest. Between them lies John 18:1, the passion's first step. So the risen Christ's summary of his own suffering is assembled out of the last two sentences he speaks in John before it begins — the prayer that says the work is done and the rebuke that says the cup will be drunk — with the drinking, which John never narrates, supplied in the past tense."
+        },
+        "note": "“I have drank out of that bitter cup which the Father hath given me, and have glorified the Father.” Six words of John 18:11 and the substance of John 17:4 in one sentence. Note what is not KJV: “bitter cup” occurs in no KJV verse at all — the Gospels never call the cup bitter — and “the sins of the world” in the plural occurs in none either, against John 1:29's singular singleton “taketh away the sin of the world”. The chapter is working from John's vocabulary and inflecting it, not transcribing it. The 1830 “drank” was corrected to “drunk” in 1920.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual",
+          "machine-ngram"
+        ]
+      },
+      {
+        "source": "John 8:12",
+        "type": "allusion",
+        "subtype": "conceptual",
+        "confidence": "moderate",
+        "text": "Then spake Jesus again unto them, saying, I am the light of the world: he that followeth me shall not walk in darkness, but shall have the light of life.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 2,
+          "context": 4,
+          "rarity": 3,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "John 1:4",
+          "John 11:25",
+          "John 1:29"
+        ],
+        "provenance": {
+          "route": "John 8:12 + John 1:4 → KJV → Book of Mormon",
+          "other": "“the light of the world” occurs in exactly three KJV verses (Matthew 5:14, John 8:12, John 9:5); the two Johannine ones are Jesus's self-predication. The compound “the light and the life” occurs in no KJV verse — it is a fusion, and its warrant is John 1:4, “In him was life; and the life was the light of men.”",
+          "significance": "The Book of Mormon does here what a reader of John's prologue does: it collapses the two predicates John holds apart. John 8:12 gives “I am the light of the world”; John 11:25 gives “I am the resurrection, and the life”; John 1:4 is the one verse that puts life and light in a single clause and makes one the source of the other. “I am the light and the life of the world” is the prologue's sentence rewritten as an ego eimi saying, which is exactly the move John himself never quite makes."
+        },
+        "note": "Not a quotation — the phrase is a compound the KJV does not contain — but every element is Johannine and the compound has a Johannine warrant. Recorded at moderate because the fusion is the Book of Mormon's own and the individual halves are among the most widely repeated sentences in Christian speech; the argument is the *combination*, not the vocabulary.",
+        "whyNot": "“Light of the world” and “life of the world” are common enough in devotional English by 1830 that neither needs a KJV verse behind it, and the fusion could be independent of John 1:4 entirely.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "11:14": [
+      {
+        "source": "John 20:27",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "certain",
+        "text": "Then saith he to Thomas, Reach hither thy finger, and behold my hands; and reach hither thy hand, and thrust it into my side: and be not faithless, but believing.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 1
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "John 20:25",
+          "Luke 24:39"
+        ],
+        "recurrenceRefs": [
+          "3 Nephi 11:15"
+        ],
+        "provenance": {
+          "route": "John 20:25-27 → KJV → Book of Mormon",
+          "other": "“thrust it into my side” occurs in exactly one KJV verse, John 20:27; “the print of the nails” occurs in exactly one, John 20:25. The two are eight words apart in the Book of Mormon's sentence and two verses apart in John. The feet come from neither: John mentions only hands and side, and it is Luke 24:39 that reads “Behold my hands and my feet”.",
+          "significance": "The Book of Mormon fuses the demand with the permission. In John, “the print of the nails” is Thomas's *condition* for believing — a sentence of unbelief, spoken to the other disciples in Jesus's absence — and “thrust it into my side” is Jesus's answer to it a week later, given to one man and immediately rebuked (“be not faithless, but believing”). 3 Nephi 11:14 puts both in Christ's own mouth, unprompted, as an invitation issued to a whole nation before anyone has doubted, and the reason given is not the curing of unbelief but the establishing of identity: “that ye may know that I am the God of Israel.” What John treats as a concession to one disciple's weakness, 3 Nephi treats as the evidentiary basis of a covenant, and 11:15 has the multitude take it up “one by one” — Thomas's private test administered as a public ordinance. Note also that Luke's feet are added, so the wounds catalogued are the full five of Western devotion rather than John's three."
+        },
+        "note": "The chapter's flagship, and the machine streams found none of it — “thrust your hands into my side” and “thrust it into my side” share no contiguous window long enough to score. Two KJV singletons from adjacent verses of one pericope, in the source's own order, with a third Gospel supplying the feet. Below Skousen's sixteen-word threshold for a quotation, and catalogued as an allusion for that reason, though the dependence is not seriously deniable: there is no other verse in the Bible from which “the prints of the nails” could come. Note the Book of Mormon's plural “prints”, against John's singular, and the plural “your hands” for John's singular “thy hand” — the invitation has been rescaled from one man to two thousand five hundred.",
+        "bibliography": [],
+        "status": "consensus",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      },
+      {
+        "source": "Isaiah 54:5",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "text": "For thy Maker is thine husband; the LORD of hosts is his name; and thy Redeemer the Holy One of Israel; The God of the whole earth shall he be called.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Isaiah 54:8"
+        ],
+        "recurrenceRefs": [
+          "3 Nephi 22:5"
+        ],
+        "provenance": {
+          "route": "Isaiah 54:5 → KJV → Book of Mormon",
+          "other": "“God of the whole earth” occurs in exactly one KJV verse, Isaiah 54:5, where it stands beside “the Holy One of Israel”: “thy Redeemer the Holy One of Israel; The God of the whole earth shall he be called.” The Book of Mormon's pair — “the God of Israel, and the God of the whole earth” — reproduces both halves of that apposition with the second title verbatim.",
+          "significance": "Eleven chapters later, in this same sermon and to this same congregation, Christ reads Isaiah 54 aloud in full; 3 Nephi 22:5 comes back as “thy Redeemer, the Holy One of Israel; The God of the whole earth shall he be called.” So the title by which he identifies himself at the moment the wounds are shown is drawn from the one chapter of Isaiah he will later quote entire — and Isaiah 54 is the chapter of the forsaken wife regathered, “For a small moment have I forsaken thee; but with great mercies will I gather thee” (54:7). A people who have just spent three chapters buried in darkness are told, in Isaiah 54's own words, who is standing in front of them, and are then given Isaiah 54 to keep."
+        },
+        "note": "The self-identification at the centre of the chapter is a KJV singleton, and it is not a decorative one: “God of the whole earth” is the universalising title, and it is joined here to the particular one, “God of Israel”, in the order Isaiah 54:5 joins them. The link is filed here, at the wording, rather than at 3 Nephi 22 where the whole chapter is transcribed; 22:5 is recorded in recurrenceRefs so the two can be read together.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "11:17": [
+      {
+        "source": "Matthew 21:9",
+        "type": "echo",
+        "subtype": "probable",
+        "confidence": "moderate",
+        "text": "And the multitudes that went before, and that followed, cried, saying, Hosanna to the son of David: Blessed is he that cometh in the name of the Lord; Hosanna in the highest.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 2,
+          "sequence": 3,
+          "context": 4,
+          "rarity": 3,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Psalm 113:2",
+          "Luke 8:35"
+        ],
+        "provenance": {
+          "route": "Matthew 21:9 → KJV → Book of Mormon",
+          "other": "“Hosanna” occurs in exactly five KJV verses (Matthew 21:9, 21:15, Mark 11:9, 11:10, John 12:13) and every one of them is the triumphal entry — the word enters English only through that pericope. “Blessed be the name” occurs in exactly three (Job 1:21, Psalm 113:2, Daniel 2:20), none of them with Hosanna; Matthew 21:9 has the variant “Blessed is he that cometh in the name of the Lord”. “At the feet of Jesus” occurs in exactly one, Luke 8:35.",
+          "significance": "The acclamation is imported whole from the entry into Jerusalem — the one occasion in the Gospels when a crowd greets Jesus as king — and it is here answered rather than ignored. In Matthew the Hosanna is followed within two verses by the cleansing of the temple and within a week by the crucifixion; the chief priests hear the children shouting it and are “sore displeased” (21:15). 3 Nephi 11:17 has the crowd shout it at the temple in Bountiful with nobody to object, and the worship the Jerusalem crowd could not complete — “they did fall down at the feet of Jesus, and did worship him” — is completed here.",
+          "alternative": "'Blessed be the name of the Most High God' is a standard doxological formula and its nearest KJV wording is Psalm 113:2, not Matthew."
+        },
+        "note": "The evidence is the word Hosanna itself, which has no existence in English scripture outside the triumphal entry, joined to a doxology whose wording is not Matthew's. Recorded as an echo at moderate confidence: the shout is unmistakably the Gospels' and the sentence after it is not. “Most High God” is common in the KJV (eleven verses, from Melchizedek to the Gerasene demoniac) and does nothing to narrow the source.",
+        "whyNot": "Only one word is actually shared with Matthew 21:9. The rest of the verse is built from formulae the KJV distributes widely, and a Hosanna requires no particular verse behind it once the word is in the language.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual",
+          "machine-ngram"
+        ]
+      }
+    ],
+    "11:19": [
+      {
+        "source": "Luke 7:38",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "moderate",
+        "text": "And stood at his feet behind him weeping, and began to wash his feet with tears, and did wipe them with the hairs of her head, and kissed his feet, and anointed them with the ointment.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "Luke 7:38 → KJV → Book of Mormon",
+          "other": "“kissed his feet” occurs in exactly one KJV verse, Luke 7:38 — the woman in the Pharisee's house. The gesture is named again at 7:45 (“hath not ceased to kiss my feet”) and nowhere else in scripture.",
+          "significance": "The metalepsis is in Luke 7:45, where the kissing of the feet is used against Simon: “Thou gavest me no kiss: but this woman … hath not ceased to kiss my feet.” In Luke the gesture belongs to a sinner, is proportioned to how much she has been forgiven (7:47), and shames the host who omitted it. Here it is Nephi — the chief disciple, the man just called out of the crowd and given authority to baptize — who performs the omitted host's courtesy in the sinner's manner. The one KJV act of kissing Christ's feet is an act of penitence, and the Book of Mormon assigns it to the man about to be ordained."
+        },
+        "note": "Four words, one of them a KJV singleton in this collocation, and the surrounding clause (“bowed himself before the Lord”) is generic. Moderate rather than high because the gesture is natural enough to be invented independently; but the KJV supplies exactly one precedent for it and the chapter is otherwise saturated with Gospel wording, so an independent invention here would be the exception in its own context.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "11:21": [
+      {
+        "source": "Matthew 28:18",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "And Jesus came and spake unto them, saying, All power is given unto me in heaven and in earth.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Matthew 28:19"
+        ],
+        "recurrenceRefs": [
+          "3 Nephi 11:25"
+        ],
+        "provenance": {
+          "route": "Matthew 28:18-19 → KJV → Book of Mormon",
+          "other": "“All power is given unto me” occurs in exactly one KJV verse, Matthew 28:18, and “Go ye therefore, and teach all nations” in exactly one, Matthew 28:19. Matthew 28:18-19 is the KJV's only conferral of baptismal authority by the risen Christ, and 3 Nephi 11:21-25 follows it in order: the power given (28:18 / 11:21), the delegation to others (28:19 / 11:22), the formula (28:19 / 11:25).",
+          "significance": "Matthew's commission is given before the ascension, to eleven men, on a mountain in Galilee, and its horizon is “all nations”. 3 Nephi 11:21 reverses the chronology in the same breath as it borrows the words: “I give unto you power that ye shall baptize this people, when I am again ascended into heaven.” The authority is granted after an ascension that has already happened, for use after a second one, and it is bounded to “this people” rather than all nations. The Book of Mormon is not copying the Great Commission so much as arguing that there was a second issue of it, out of Matthew's sequence and outside Matthew's geography."
+        },
+        "note": "“I give unto you power that ye shall baptize this people” is Matthew 28:18's “All power is given unto me in heaven and in earth” turned outward into 28:19's “Go ye therefore … baptizing them”, with the two verses' logic (power, therefore baptize) preserved and their grammar recast as a direct grant. The verbatim material is held back for 11:25, adjudicated separately; what is borrowed here is the sequence.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "11:23": [
+      {
+        "source": "Acts 8:38",
+        "type": "allusion",
+        "subtype": "conceptual",
+        "confidence": "moderate",
+        "text": "And he commanded the chariot to stand still: and they went down both into the water, both Philip and the eunuch; and he baptized him.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 1
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Acts 8:39",
+          "Acts 2:38"
+        ],
+        "recurrenceRefs": [
+          "3 Nephi 11:26"
+        ],
+        "provenance": {
+          "route": "Acts 8:36-39 → KJV → Book of Mormon",
+          "other": "“went down both into the water” occurs in exactly one KJV verse, Acts 8:38, and “come up out of the water” in exactly one, Acts 8:39 (Mark 1:10 has the participial “coming up out of the water”). Acts 8:36-39 is the KJV's only baptism narrated as a descent into water and a return out of it, and it is the only one preceded by a stated condition of belief.",
+          "significance": "The Book of Mormon turns a narrative into a rubric. Acts 8 tells what Philip and the eunuch did once, in a desert, on the eunuch's own initiative (“See, here is water; what doth hinder me to be baptized?”); 3 Nephi 11:23-26 converts the same two movements — “ye shall go down and stand in the water”, “come forth again out of the water” — into the standing instruction, with the condition of belief moved from the candidate's request to the officiant's warrant (“whoso repenteth of his sins through your words, and desireth to be baptized in my name”). The one immersion the KJV narrates end to end becomes the shape of every immersion."
+        },
+        "note": "The verbal contact is genuine but distributed: neither singleton is reproduced intact, and the Book of Mormon writes “go down and stand in the water” and “come forth again out of the water” where Acts writes “went down both into” and “come up out of”. What makes the link worth recording is that this is the only KJV passage supplying both halves of the motion in that order, and that the passage's conditional structure (repentance, desire, then the act) is reproduced with it. Acts 2:38 supplies the standing formula 'repent, and be baptized every one of you in the name of Jesus Christ'.",
+        "whyNot": "No phrase is reproduced exactly, and the down-and-up description of immersion is entailed by the practice rather than by any text.",
+        "bibliography": [
+          "Frederick 2016 (index: 3 Nephi 11:23 is discussed in proximity to Acts 2:38, Acts 8:16 and John 3:18 — co-occurrence in his argument, not a proposed source)"
+        ],
+        "status": "majority",
+        "streams": [
+          "manual",
+          "machine-ngram"
+        ]
+      }
+    ],
+    "11:25": [
+      {
+        "source": "Matthew 28:19",
+        "type": "quotation",
+        "subtype": "explicit",
+        "confidence": "certain",
+        "text": "Go ye therefore, and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghost:",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 1
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "recurrenceRefs": [
+          "3 Nephi 11:21"
+        ],
+        "provenance": {
+          "route": "Matthew 28:19 → KJV → Book of Mormon",
+          "other": "“in the name of the Father, and of the Son, and of the Holy Ghost” occurs in exactly one KJV verse, Matthew 28:19. The n-gram stream scores this the highest candidate in the chapter — a fifteen-word run at rarity 6.66 — and it is the one place in the chapter where the machine and the reader agree without argument.",
+          "significance": "Matthew's participle becomes a first-person performative. In Matthew the words describe what the eleven are to do (“baptizing them in the name of…”); in 3 Nephi 11:25 they are the words to be said aloud, prefaced by the officiant's warrant (“Having authority given me of Jesus Christ”) and closed with “Amen.” The KJV's only trinitarian baptismal phrase is thereby converted from narrative description into liturgical text — the shortest possible route from a Gospel sentence to a rubric, and one the chapter has spent four verses preparing (11:24, “these are the words which ye shall say, calling them by name”)."
+        },
+        "note": "The clause is reproduced entire, including the KJV's doubled “and of”, which no modern version keeps in that form. This is the chapter's one unambiguous quotation on any definition, Skousen's threshold included: fifteen consecutive words from a verse that is the sole KJV occurrence of them.",
+        "bibliography": [],
+        "status": "consensus",
+        "citationsPending": true,
+        "streams": [
+          "manual",
+          "machine-ngram"
+        ]
+      }
+    ],
+    "11:27": [
+      {
+        "source": "1 John 5:7",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "text": "For there are three that bear record in heaven, the Father, the Word, and the Holy Ghost: and these three are one.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "1 John 5:8"
+        ],
+        "recurrenceRefs": [
+          "3 Nephi 11:32",
+          "3 Nephi 11:36"
+        ],
+        "provenance": {
+          "route": "1 John 5:7 (Comma Johanneum) → KJV → Book of Mormon",
+          "other": "“these three are one” occurs in exactly one KJV verse, 1 John 5:7, and so does “three that bear record”. This is the strongest kjvSpecific claim available anywhere in the corpus: 1 John 5:7's heavenly witnesses are absent from every Greek manuscript before the fourteenth century, absent from the critical editions, and absent from modern English versions, which read simply 'For there are three that bear witness'. A text dependent on this sentence is dependent not merely on the KJV's English but on the KJV's canon.",
+          "significance": "Recover the context and the chapter's structure follows from it. 1 John 5:7-8 gives two triads: three that bear record in heaven, “the Father, the Word, and the Holy Ghost: and these three are one”, and immediately three that bear witness in earth, “the Spirit, and the water, and the blood.” 3 Nephi 11 is a chapter about water. The trinitarian formula is stated at 11:27 as the *reason* for the baptismal wording just given (“for behold … the Father, and the Son, and the Holy Ghost are one”), the threefold bearing of record is spelled out at 11:32, and the “are one” returns at 11:36 — so the Comma's heavenly triad is deployed exactly where its own verse deploys it, adjacent to the water. Whatever one thinks of the Comma's authenticity, the Book of Mormon has read it in its place."
+        },
+        "note": "“The Father, and the Son, and the Holy Ghost are one” — the KJV's one sentence asserting that the three are one, with 'the Word' replaced by 'the Son', which is the substitution the Comma's own trinitarian reading requires. The link is filed here at first use; 11:32's threefold bearing of record and 11:36's second “are one” are recorded in recurrenceRefs, and 11:32 carries its own row because it takes a different clause of the same verse.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      },
+      {
+        "source": "John 14:11",
+        "type": "quotation",
+        "subtype": "close-verbal",
+        "confidence": "certain",
+        "text": "Believe me that I am in the Father, and the Father in me: or else believe me for the very works’ sake.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "John 14:10",
+          "John 10:30"
+        ],
+        "provenance": {
+          "route": "John 14:10-11 + John 10:30 → KJV → Book of Mormon",
+          "other": "“I am in the Father, and the Father in me” occurs in exactly two KJV verses, John 14:10 and 14:11, and nowhere else in scripture. “I and my Father are one” occurs in exactly one, John 10:30. The n-gram stream caught the first (a ten-word run at rarity 2.71) and missed the second, because the Book of Mormon inverts it.",
+          "significance": "The inversion is the finding. John 10:30 reads “I and my Father are one”; 3 Nephi 11:27 reads “the Father and I are one”, putting the Father first and dropping the possessive — and it does so immediately after a sentence in which the Father has already been named twice ahead of the Son. In John the sentence is a claim made under hostile questioning, and the Jews take up stones at the next verse. Here it is offered as the doctrinal ground of a baptismal formula, and the reordering quietly removes the offence: the Son is no longer the subject asserting parity but the second term in the Father's sentence."
+        },
+        "note": "Nine consecutive words of John 14:10-11 followed by John 10:30 reordered. Both are among the most-quoted sentences in the New Testament, which is why attestation is scored low rather than high — a link this famous is not evidence of a *reading* of John, only of access to it. What makes it worth a row is what sits around it: the KJV's two Johannine mutual-indwelling verses and its one 'are one' verse are all pulled into a single sentence, and that sentence is doing the work 1 John 5:7 does two clauses earlier.",
+        "bibliography": [],
+        "status": "consensus",
+        "citationsPending": true,
+        "streams": [
+          "manual",
+          "machine-ngram"
+        ]
+      }
+    ],
+    "11:29": [
+      {
+        "source": "John 8:44",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "text": "Ye are of your father the devil, and the lusts of your father ye will do. He was a murderer from the beginning, and abode not in the truth, because there is no truth in him. When he speaketh a lie, he speaketh of his own: for he is a liar, and the father of it.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "1 John 3:8",
+          "Proverbs 15:18"
+        ],
+        "provenance": {
+          "route": "John 8:44 + 1 John 3:8 → KJV → Book of Mormon",
+          "other": "“the father of it” occurs in exactly one KJV verse, John 8:44 — the devil as father of lies. “Is of the devil” occurs in exactly one, 1 John 3:8. “Stirreth up” occurs in exactly eight, of which four are Proverbs on strife (10:12, 15:18, 28:25, 29:22) and one, Proverbs 15:18, contains both the stirring and the anger: “A wrathful man stirreth up strife.”",
+          "significance": "The substitution is the argument. John 8:44 makes the devil the father of *lying* — “when he speaketh a lie, he speaketh of his own: for he is a liar, and the father of it” — and it is said in the middle of the most contentious dispute in the Fourth Gospel, a chapter that ends with stones being taken up. 3 Nephi 11:29 keeps John's genitive construction exactly and changes the noun: the devil is now “the father of contention”, and what he authors is not falsehood but disputation. Read back into John 8, the substitution proposes that the dispute in which Jesus called his opponents the devil's children was itself the devil's work — which is a reading of John 8 the Book of Mormon has made by changing one word."
+        },
+        "note": "Two singletons and a proverb in one sentence: “is not of me, but is of the Devil” (1 John 3:8), “which is the father of contention” (John 8:44's construction with the noun replaced), and “stirreth up the hearts of men to contend with anger” (the Proverbs formula, where anger and stirring up strife are paired four times). The verse is the hinge of the chapter's argument against disputation, and it is assembled entirely from KJV parts. The 1830 “which is the father” was modernised to “who is the father” in 1920, moving away from the KJV's relative.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "11:32": [
+      {
+        "source": "Acts 17:30",
+        "type": "quotation",
+        "subtype": "explicit",
+        "confidence": "certain",
+        "text": "And the times of this ignorance God winked at; but now commandeth all men every where to repent:",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "Acts 17:30 → KJV → Book of Mormon",
+          "other": "“all men every where to repent” occurs in exactly one KJV verse, Acts 17:30, and the seven-word run is the second-highest-scoring candidate in the chapter. Critically, the 1830 prints it as two words — “all men, every where, to repent” — matching the KJV's own “every where”; the 1920 edition closed it up to “everywhere”, which appears in no KJV verse.",
+          "significance": "Acts 17:30 does not end where the Book of Mormon stops quoting. Paul's sentence continues: “because he hath appointed a day, in the which he will judge the world in righteousness by that man whom he hath ordained; whereof he hath given assurance unto all men, in that he hath raised him from the dead.” The command to universal repentance is grounded, in its own verse, on the resurrection of a particular man — and here it is spoken by that man, standing in front of a crowd that has just handled his wounds. The Areopagus speech's warrant is the assembly's own experience an hour earlier."
+        },
+        "note": "Seven consecutive words of a KJV singleton, and the clearest case in the chapter for CONVENTIONS §8: the 1830's two-word “every where” is the KJV's spelling and 1920's “everywhere” is not, so the first edition preserves a borrowing the current text has quietly effaced. The surrounding clause “and believe in me” is the Book of Mormon's addition; Acts 17:30 stops at repentance.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual",
+          "machine-ngram"
+        ]
+      },
+      {
+        "source": "1 John 5:7",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "text": "For there are three that bear record in heaven, the Father, the Word, and the Holy Ghost: and these three are one.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "recurrenceRefs": [
+          "3 Nephi 11:27",
+          "3 Nephi 11:35",
+          "3 Nephi 11:36"
+        ],
+        "provenance": {
+          "route": "1 John 5:7 (Comma Johanneum) → KJV → Book of Mormon",
+          "other": "“three that bear record” occurs in exactly one KJV verse, 1 John 5:7. The verb form the Book of Mormon uses twice here, “beareth record”, occurs in no KJV verse at all — the KJV inflects it as “bear record” (four verses) or “beareth witness”. So the phrase is borrowed and then conjugated into a form the source never uses.",
+          "significance": "1 John 5:7 asserts that there are three witnesses and that they are one; it does not say what each of them witnesses to. 3 Nephi 11:32 supplies the missing predicates and makes them reciprocal: the Son bears record of the Father, the Father of the Son, the Holy Ghost of both. The Comma's bare arithmetic is turned into a circuit, and the circuit is then used, four verses later at 11:36, to close on the Comma's own conclusion — “for the Father, and I, and the Holy Ghost, are one.” The chapter has read 1 John 5:7 as a sentence with a gap in it and filled the gap."
+        },
+        "note": "A separate row from 11:27 because it takes a different clause of the same verse: 11:27 has the Comma's “these three are one”, 11:32 has its “three that bear record”, and only together do they reproduce 1 John 5:7 whole. CONVENTIONS §4's trap about repeats within a book does not apply, since this is not the same phrase recurring but the second half of one verse arriving five verses after the first.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "11:33": [
+      {
+        "source": "Mark 16:16",
+        "type": "quotation",
+        "subtype": "paraphrase",
+        "confidence": "certain",
+        "text": "He that believeth and is baptized shall be saved; but he that believeth not shall be damned.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "1 Corinthians 15:50",
+          "John 5:39"
+        ],
+        "recurrenceRefs": [
+          "3 Nephi 11:34"
+        ],
+        "provenance": {
+          "route": "Mark 16:16 → KJV → Book of Mormon",
+          "other": "“believeth and is baptized” occurs in exactly one KJV verse, Mark 16:16, and “shall be damned” occurs in exactly one, the same verse. 3 Nephi 11:33-34 reproduces both halves of Mark's antithesis in Mark's order and adds nothing to its logic. “They are they which” occurs in exactly one KJV verse, John 5:39, and “inherit the kingdom of God” in exactly four, all Pauline.",
+          "significance": "This is the chapter's second dependence on a passage the KJV contains and the modern critical editions do not. Mark 16:16 belongs to the longer ending of Mark, absent from Sinaiticus and Vaticanus and bracketed or footnoted in every modern version; 1 John 5:7, six verses earlier at 3 Nephi 11:27, is the Comma Johanneum. The two doctrinally load-bearing propositions of Christ's own statement of his doctrine — that the Godhead is one, and that belief plus baptism is the condition of salvation — rest on the two most famous textually disputed passages in the King James New Testament. That is a finding about availability in Hays's sense inverted (CONVENTIONS §3a): these sentences were not merely unavailable in 600 BC, they were unavailable to any Greek reader of the first four centuries."
+        },
+        "note": "Mark's sentence, split across two verses and recast in the Book of Mormon's “whoso” idiom: “he that believeth and is baptized shall be saved; but he that believeth not shall be damned” becomes “whoso believeth in me, and is baptized, the same shall be saved” (11:33) and “whoso believeth not in me, and is not baptized, shall be damned” (11:34). The addition is “and is not baptized” in the negative limb, which Mark conspicuously omits — Mark damns unbelief alone, 3 Nephi damns unbelief and unbaptism together. Catalogued as a quotation on subtype paraphrase rather than allusion because both of the verse's distinguishing phrases are singletons and the whole propositional structure is carried over. The trailing clause “they are they which shall inherit the kingdom of God” fuses John 5:39's relative construction with Paul's formula; the 1830 “which” was modernised to “who” in 1920, moving away from the KJV.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual",
+          "machine-ngram"
+        ]
+      }
+    ],
+    "11:35": [
+      {
+        "source": "Matthew 3:11",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "text": "I indeed baptize you with water unto repentance. but he that cometh after me is mightier than I, whose shoes I am not worthy to bear: he shall baptize you with the Holy Ghost, and with fire:",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 4,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Luke 3:16"
+        ],
+        "provenance": {
+          "route": "Matthew 3:11 or Luke 3:16 → KJV → Book of Mormon",
+          "other": "“with the Holy Ghost, and with fire” occurs in exactly two KJV verses, Matthew 3:11 and Luke 3:16, which are John the Baptist's forecast of the coming one in the two Gospels that record it. mediation-check.py cannot separate them here: its one 'decisive' point is a false positive on the word 'bear', which in 3 Nephi 11:35 belongs to 'bear record' and in Matthew 3:11 to bearing shoes. The Book of Mormon reproduces only the material the two verses share, so the Matthew/Luke question is undecidable at this verse.",
+          "significance": "The chapter has now taken both halves of Matthew 3. The Father's voice at 11:7 is the beloved-Son formula that Matthew 3:17 gives at the Jordan (routed through Matthew 17:5, which alone adds 'hear ye him'); the Father's witness at 11:35 is Matthew 3:11's baptism of fire and the Holy Ghost, which in Matthew is John's prediction of what the one coming after him will do. In 3 Nephi neither belongs to a baptism scene at the Jordan: the promise of fire is what the Father does to the person who believes the Son, and the forerunner's forecast has become the Father's own act of attestation."
+        },
+        "note": "“He will visit him with fire, and with the Holy Ghost.” Note the inversion — both KJV verses read “with the Holy Ghost, and with fire”, and the Book of Mormon puts fire first, which is not the order of either source and not the order the Book of Mormon uses elsewhere. Moderate rather than high because the shared phrase is short and the source cannot be narrowed below two verses; the inversion is recorded because it is the kind of departure that shows a writer working from memory rather than from a page.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "11:38": [
+      {
+        "source": "Matthew 18:3",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "And said, Verily I say unto you, Except ye be converted, and become as little children, ye shall not enter into the kingdom of heaven.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Luke 18:17",
+          "Mark 10:15",
+          "1 Corinthians 6:9"
+        ],
+        "recurrenceRefs": [
+          "3 Nephi 11:37"
+        ],
+        "provenance": {
+          "route": "Matthew 18:3 + Luke 18:17 → KJV → Book of Mormon",
+          "other": "“become as little children” occurs in exactly one KJV verse, Matthew 18:3; “as a little child” occurs in exactly two, Mark 10:15 and Luke 18:17, of which only Luke reads “shall in no wise enter therein”. mediation-check.py run on Matthew 18:3 against Luke 18:17 returns decisive points in BOTH directions — Matthew's for the verb phrase, Luke's for the singular child and the 'in no wise' — which is the tool's signature for a composite rather than a failure.",
+          "significance": "The three synoptic forms of the saying disagree about what the child is for. In Matthew the child is a *conversion*: 'Except ye be converted, and become as little children'. In Mark and Luke the child is a *manner of receiving*: 'whosoever shall not receive the kingdom of God as a little child'. 3 Nephi 11:37-38 takes Matthew's verb and Mark and Luke's singular noun, and then attaches both to baptism, which none of the three does — 'ye must repent, and become as a little child, and be baptized in my name'. The saying about children becomes a rubric about candidates, and the child that in the Gospels is an image of reception becomes, in a chapter that has just forbidden infant candidates nothing and required repentance of everyone, a description of the baptized adult."
+        },
+        "note": "A clean both-ways mediation result. The Book of Mormon has Matthew's 'become as' with Mark and Luke's 'a little child' (singular, against Matthew's plural 'little children'), Luke's 'in no wise' (1830 'in nowise'), and Paul's 'inherit the kingdom of God' where all three Gospels have 'enter'. Four sources in eighteen words, and no single verse accounts for the sentence. 11:37 gives the same saying with the clauses in a different order ('become as a little child, and be baptized' / 'be baptized … and become as a little child') and is recorded in recurrenceRefs rather than given its own row.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "11:39": [
+      {
+        "source": "Matthew 16:18",
+        "type": "quotation",
+        "subtype": "close-verbal",
+        "confidence": "certain",
+        "text": "And I say also unto thee, That thou art Peter, and upon this rock I will build my church; and the gates of hell shall not prevail against it.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 1
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "recurrenceRefs": [
+          "3 Nephi 11:40"
+        ],
+        "provenance": {
+          "route": "Matthew 16:18 → KJV → Book of Mormon",
+          "other": "“gates of hell” occurs in exactly one KJV verse, Matthew 16:18; “shall not prevail against” occurs in exactly three (Jeremiah 1:19, 15:20, Matthew 16:18). The n-gram stream ranks this the chapter's second candidate, a nine-word run at rarity 4.67.",
+          "significance": "Every term of Matthew 16:18 is reassigned. In Matthew the rock is Peter or his confession, the thing built on it is 'my church', and the gates of hell 'shall not prevail against IT' — a singular pronoun with the church as its antecedent. 3 Nephi 11:39 makes the rock Christ's doctrine ('whoso buildeth upon this, buildeth upon my rock'), makes the thing built the individual believer, and reads 'shall not prevail against THEM'. The promise of institutional indefectibility becomes a promise to each person who holds the doctrine, and the church — the only thing Matthew's sentence is about — has disappeared from it."
+        },
+        "note": "Eight of Matthew 16:18's words in order with one pronoun changed, and the source phrase is a KJV singleton. The whole of 11:39-40 is a fusion of the KJV's two rock-building sayings: Matthew 16:18's church on the rock and Matthew 7:24-27's house on rock or sand, which nothing in the Gospels joins. 11:40 carries the second half and is adjudicated separately.",
+        "bibliography": [
+          "Frederick 2016 (index: 3 Nephi 11:30 and 11:39 are discussed in proximity to Matthew 16:18 — co-occurrence in his argument, not a proposed source)"
+        ],
+        "status": "majority",
+        "streams": [
+          "manual",
+          "machine-ngram"
+        ]
+      }
+    ],
+    "11:40": [
+      {
+        "source": "Matthew 7:26",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "And every one that heareth these sayings of mine, and doeth them not, shall be likened unto a foolish man, which built his house upon the sand:",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Matthew 7:27",
+          "Luke 6:49",
+          "Matthew 7:25"
+        ],
+        "recurrenceRefs": [
+          "3 Nephi 11:39"
+        ],
+        "provenance": {
+          "route": "Matthew 7:24-27 + Luke 6:48-49 → KJV → Book of Mormon",
+          "other": "“sandy foundation” occurs in no KJV verse — it is a fusion of Matthew's 'sand' with Luke 6:49's 'without a foundation'. “The winds blew, and beat” occurs in exactly two KJV verses, Matthew 7:25 and 7:27. mediation-check.py run on Matthew 7:26 against Luke 6:49 reports two decisive points for Luke, but both are artefacts of the alignment catching the single word 'foundation' and the single word 'beat'; read whole, the flood and the winds are Matthew's and Luke has neither.",
+          "significance": "Matthew 7:24-27 is the close of the Sermon on the Mount, and 3 Nephi 12-14 is about to deliver that sermon to this congregation — the parable of the two houses arrives in its own place at 3 Nephi 14:24-27. So the chapter uses the sermon's peroration two chapters before quoting it, and uses it to say something the sermon does not: in Matthew the two builders are distinguished by whether they DO the sayings, and in 3 Nephi 11:40 they are distinguished by whether they 'declare more or less than this' — the doctrinal test replaces the obedience test, and the sandy foundation becomes the fate of anyone who adds to the formula just given."
+        },
+        "note": "Matthew's imagery in Matthew's order with Luke's noun spliced in: 'buildeth upon a sandy foundation' (Matthew's sand, Luke's foundation) and 'when the floods come, and the winds beat upon them' (Matthew 7:27's 'the floods came, and the winds blew, and beat upon that house', compressed by a verb). The 1830 reads 'the gates of hell standeth open', corrected to 'stand' in 1920. Recorded at high rather than certain because no clause is reproduced entire — the borrowing is unmistakable but every phrase has been shortened.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ]
+  }
+}

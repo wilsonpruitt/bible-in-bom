@@ -1,0 +1,93 @@
+[
+  {
+    "bomRef": "3 Nephi 17:1",
+    "source": "John 18:1",
+    "category": "formulaic",
+    "sharedText": "when Jesus had spoken these words",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "The dossier's highest-ranked candidate in the chapter, a seven-word verbatim run, and “when Jesus had spoken these words” occurs in exactly one KJV verse — John 18:1, the sentence that takes Jesus over the brook Cedron into the garden. The temptation is real because the chapter that follows is full of passion-narrative material: kneeling, prayer, groaning, weeping. It is nevertheless the Book of Mormon's own narrative formula. The clause appears at 3 Nephi 12:1, 13:25, 14:1, 15:11, 17:1 and 18:26 — six times in seven chapters, five of them before this verse — and the wider form 'had spoken these words' runs through 1 Nephi as well. By CONVENTIONS §4 a phrase a narrator has adopted is adjudicated at first use and not re-borrowed each time it recurs, and first use in this book is 3 Nephi 12:1. The KJV singleton status is arithmetic: the King James Bible had occasion to write this particular six-word chain once, and the Book of Mormon writes it whenever Jesus stops speaking. The genuine link at this verse is to Matthew 26:18, on 'my time is at hand', which is not a formula anywhere."
+  },
+  {
+    "bomRef": "3 Nephi 17:5",
+    "source": "John 13:21",
+    "category": "better-source-identified",
+    "sharedText": "when Jesus had thus (said/spoken) ... troubled",
+    "streams": [
+      "machine-ngram",
+      "manual"
+    ],
+    "reason": "John 13:21 is proposed on a four-word run of narrative formula, 'when Jesus had thus', and would be pure noise but for its second clause: 'he was troubled in spirit, and testified'. Nine verses later the Book of Mormon has Jesus troubled (17:14), and a reader who has both verses in view will want to join them. The join is declined here and made at 17:14 instead, where the wording decides it. 3 Nephi 17:14 reads 'groaned within himself … Father, I am troubled', which reproduces John 11:38's reflexive construction and John 11:33's pairing of groaning with being troubled, and addresses the Father as John 12:27 does; John 13:21 has neither the groan nor the Father, and its trouble is over Judas. The 17:5 candidate is the same formula that produced the John 18:1 entry above and carries the same weight."
+  },
+  {
+    "bomRef": "3 Nephi 17:9",
+    "source": "Ezekiel 10:6",
+    "category": "formulaic",
+    "sharedText": "and it came to pass that when he had",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "A nine-word run and the top-scoring candidate at this verse, and it is the standing case: 'and it came to pass that when he had' is the Book of Mormon's continuous narrative connective and the KJV's, and Ezekiel 10:6 is about the man clothed in linen taking fire from between the cherubim. Listed rather than passed over in silence only because the rank is conspicuous and because it sits directly on top of one of the chapter's strongest links — the real source at 17:9 is Acts 5:16, which shares four words and a KJV singleton. This is the pilot's finding about the n-gram stream (CONVENTIONS §9) in one verse: the longest run and the true source are not the same candidate, and are not close."
+  },
+  {
+    "bomRef": "3 Nephi 17:13",
+    "source": "Matthew 27:20",
+    "category": "wrong-sense",
+    "sharedText": "the multitude that they should",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "A five-word run, ranked first at this verse, and the senses are opposed at the only point that matters. Matthew 27:20 reads 'the chief priests and elders persuaded the multitude that they should ask Barabbas, and destroy Jesus'; 3 Nephi 17:13 reads 'he commanded the multitude that they should kneel down upon the ground'. The KJV verse is the one place in the passion narrative where somebody instructs a crowd what to do with Jesus and the instruction is to kill him; the Book of Mormon verse is Jesus instructing a crowd to kneel before he prays for them. Shared are a definite article, a noun the KJV uses ninety times, and a subjunctive. Nothing else of Matthew 27 is anywhere near this chapter."
+  },
+  {
+    "bomRef": "3 Nephi 17:14",
+    "source": "Psalm 38:6",
+    "category": "better-source-identified",
+    "sharedText": "I am troubled",
+    "streams": [
+      "manual"
+    ],
+    "reason": "Recorded because it is a KJV singleton and singletons are the evidence this catalogue leans on hardest, so one that should be declined needs to be shown being declined. “I am troubled” occurs in exactly one KJV verse, Psalm 38:6 — 'I am troubled; I am bowed down greatly; I go mourning all the day long' — and 3 Nephi 17:14 has the clause exactly. But Psalm 38 is a penitential psalm and the trouble is the speaker's own: his sin, his wounds, his friends standing aloof. The Book of Mormon's Jesus is troubled about somebody else's wickedness, and the sentence he says it in addresses the Father, which the psalm never does. The Johannine passages adjudicated at this verse — John 11:33's 'he groaned in the spirit, and was troubled', John 11:38's 'groaning in himself', John 12:27's 'Now is my soul troubled … Father' — supply the groan, the reflexive, the trouble and the address together, and the psalm supplies only the third of those. A rare string in the wrong grammatical person is the trap ADJUDICATING §4 names, and this is a clean instance of it."
+  },
+  {
+    "bomRef": "3 Nephi 17:14",
+    "source": "Deuteronomy 28:20",
+    "category": "common-vocabulary",
+    "sharedText": "because of the wickedness of",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "“because of the wickedness of” occurs in exactly one KJV verse, Deuteronomy 28:20, and the thematic fit is not absurd: the Deuteronomic curse falls on Israel for wickedness, and 3 Nephi 17:14 has Jesus troubled 'because of the wickedness of the people of the house of Israel'. But the rarity is an artifact of the exact preposition chain and nothing else. 'Wickedness' appears in more than a hundred KJV verses, 'the wickedness of' in dozens, and Deuteronomy's own near-parallels at 9:4 and 9:5 read 'for the wickedness of these nations' — the same claim with a different preposition. What the Book of Mormon shares with Deuteronomy 28:20 is five words of ordinary causal English and the general idea that Israel's wickedness has consequences, which is the premise of most of the Old Testament. The verse's real dependence is Johannine and is adjudicated as such."
+  },
+  {
+    "bomRef": "3 Nephi 17:18",
+    "source": "Matthew 11:1",
+    "category": "better-source-identified",
+    "sharedText": "Jesus had made an end of",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "The best machine proposal in the chapter and it is still displaced. Matthew 11:1 reads 'when Jesus had made an end of commanding his twelve disciples', which gives a five-word run with the right subject, and it ranked first here. But the Book of Mormon's clause is 'made an end of PRAYING', and the KJV has that phrase in exactly two verses — 1 Kings 8:54 and 2 Chronicles 7:1, the two accounts of Solomon's dedication of the temple. “made an end of commanding” occurs in exactly two KJV verses, Genesis 49:33 and Matthew 11:1, and neither is about prayer. This is the trap ADJUDICATING §4 describes as the window closing one word early: the run is longest through 'end of' and the word that follows it is what identifies the source. Once the Solomon verses are in view the rest of the chapter reorganises around them — kneeling, rising, fire from heaven at 17:24, the people prostrate and worshipping at 17:10 — which is the argument made at the link."
+  },
+  {
+    "bomRef": "3 Nephi 17:23",
+    "source": "John 19:26",
+    "category": "insufficient-verbal",
+    "sharedText": "Behold your/thy ...",
+    "streams": [
+      "manual"
+    ],
+    "reason": "Typology pulls hard and the wording will not bear it, which is the Exodus 2:2 'goodly' case again. 3 Nephi 17:23 reads 'Behold your little ones', and the King James Bible's one Christological use of that construction is from the cross: 'Woman, behold thy son!' (John 19:26), answered by 'Behold thy mother!' (19:27) — the verses in which Jesus, dying, consigns a child and a parent to one another. A chapter this saturated in Johannine material (11:33, 11:35, 1:51, 15:16, 14:28, 19:35 are all adjudicated here) makes the parallel tempting, and the sense is even apt, since Jesus is presenting children to the multitude as their charge. It is declined because 'behold' plus a possessive is not distinctive: the KJV uses 'Behold thy' and 'Behold your' dozens of times, of kings, mothers, sons, gods and calves, and there is no second point of contact — no cross, no consignment, no naming of a person to a person. Recorded so that a reader who sees the crucifixion scene here is told the catalogue saw it and would not write it."
+  },
+  {
+    "bomRef": "3 Nephi 17:25",
+    "source": "Numbers 26:37",
+    "category": "wrong-sense",
+    "sharedText": "two thousand and five hundred",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "The machine's top candidate at the closing verse, on a five-word run, and it deserves writing up because the coincidence has a second layer that makes it look like a finding. Numbers 26:37 gives the census of the sons of Ephraim as 'thirty and two thousand and five hundred', and 3 Nephi 17:25 numbers its multitude at 'about two thousand and five hundred souls' — and the Book of Mormon's people are Josephites, so a reader may well feel that a Josephite head-count has been taken from a Josephite census. It has not. The shared string is a numeral, and it is not even the same numeral: Numbers reads thirty-two thousand five hundred and the Book of Mormon reads two thousand five hundred, so the run is produced by chopping the KJV's number in the middle. Numbers 26 is a wilderness muster of fighting men by tribe; 3 Nephi 17:25 counts 'men, women and children' who have just seen angels. The chapter's real numbering formula is Acts 2:41's 'about three thousand souls', which shares the approximation, the unit and the syntax, and which is adjudicated at this verse."
+  }
+]

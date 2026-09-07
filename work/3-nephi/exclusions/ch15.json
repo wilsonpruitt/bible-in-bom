@@ -1,0 +1,82 @@
+[
+  {
+    "bomRef": "3 Nephi 15:2",
+    "source": "Daniel 6:5",
+    "category": "common-vocabulary",
+    "sharedText": "concerning the law of",
+    "streams": ["machine-ngram"],
+    "reason": "“Concerning the law of” occurs in exactly one KJV verse, which is why it ranked, and the rarity is an accident of the genitive: Daniel 6:5 reads “concerning the law of his God” and 3 Nephi 15:2 reads “concerning the law of Moses”, so the shared string is a preposition, an article and a noun that both sentences happen to complete differently. Daniel 6:5 is the satraps' conspiracy to find a charge against Daniel; 3 Nephi 15:2 is a crowd marvelling at a teaching. The real borrowing in this verse is 2 Corinthians 5:17, which the n-gram stream did not propose at all because the Book of Mormon's reported speech shifts Paul's present tense to a pluperfect and the contiguous window breaks at the verb."
+  },
+  {
+    "bomRef": "3 Nephi 15:8",
+    "source": "Deuteronomy 31:16",
+    "category": "wrong-sense",
+    "sharedText": "covenant which I have made",
+    "streams": ["machine-ngram"],
+    "reason": "A six-word run, and “covenant which I have made” occurs in exactly one KJV verse, so the candidate deserves an answer rather than silence. The senses are opposed. In Deuteronomy 31:16 the LORD tells Moses that after his death Israel will “break my covenant which I have made with them” — the clause exists to predict the covenant's rupture, and the verb governing it is “break”. In 3 Nephi 15:8 the same words are the subject of the opposite claim: “the covenant which I have made with my people, is not all fulfilled”, which is an assertion that the covenant is still running, in a verse whose whole point is to distinguish the covenant (unfinished) from the law (ended). Nothing else of Deuteronomy 31 is present, and the Book of Mormon's covenant language here is its own, running from 1 Nephi 22 through 3 Nephi 20-21."
+  },
+  {
+    "bomRef": "3 Nephi 15:9",
+    "source": "John 8:12",
+    "category": "better-source-identified",
+    "sharedText": "I am the law, and the light",
+    "streams": ["manual"],
+    "reason": "“Behold, I am the law, and the light” is a genuine echo of the Johannine self-declaration, and it is adjudicated in this book already: John 8:12 stands behind 3 Nephi 9:18, “I am the light and the life of the world”, and the same formula recurs at 3 Nephi 11:11. By the time it reaches 15:9 it is the speaker's established self-designation within the Book of Mormon rather than a fresh borrowing (ADJUDICATING §4), and what is new in 15:9 is not “the light” but “the law” — an addition with no King James model, made because the chapter is arguing that the law of Moses ends in a person. A reader who arrives here looking for John 8:12 should be sent to 3 Nephi 9:18. The links at 15:9 are for the two halves of the sentence that follow: Isaiah 45:22 with Amos 5:4, and Matthew 10:22 with John 10:28."
+  },
+  {
+    "bomRef": "3 Nephi 15:11",
+    "source": "John 18:1",
+    "category": "better-source-identified",
+    "sharedText": "when Jesus had spoken these words",
+    "streams": ["machine-ngram"],
+    "reason": "The highest-scoring candidate in the chapter after John 10:16, and a King James singleton: “when Jesus had spoken these words” occurs in exactly one KJV verse, John 18:1, where it closes the farewell discourse and opens the passion. The temptation is real, because 3 Nephi 15:11 also stands at the join between a long address and what follows it. But the clause is not this verse's property — it is 3 Nephi's standing narrative formula for a transition, used at 13:25, here at 15:11, and again at 18:26, always followed by the speaker turning to “the twelve whom he had chosen” or “the disciples whom he had chosen”. It enters the book at 3 Nephi 13:25 and should be adjudicated there if anywhere; a reader who meets it at 15:11 is meeting the third occurrence of a house formula, not a borrowing from John 18. Note also that the formula's King James home is a verse the Book of Mormon shares nothing else with: no garden, no brook Cedron, no going forth."
+  },
+  {
+    "bomRef": "3 Nephi 15:11",
+    "source": "Acts 1:2",
+    "category": "insufficient-verbal",
+    "sharedText": "whom he had chosen",
+    "streams": ["manual"],
+    "reason": "“Whom he had chosen” occurs in exactly two KJV verses, Psalm 105:26 (Aaron) and Acts 1:2 (“the apostles whom he had chosen”), and the second of those has the right referent — a body of chosen apostles receiving commandments from the risen Christ, which is exactly the situation of 3 Nephi 15:11-24. It is still not enough. The four words are the ordinary English relative, the Book of Mormon carries the phrase as a fixed epithet for the Nephite twelve (3 Nephi 13:25, 18:26, 18:36, Moroni 2:1), and Acts 1:2's distinctive material — the ascension, the forty days, the Holy Ghost as the medium of the commandments — is absent here. Recorded because a reader who notices the Acts parallel should be told the catalogue noticed it and declined it."
+  },
+  {
+    "bomRef": "3 Nephi 15:12",
+    "source": "Acts 13:47",
+    "category": "better-source-identified",
+    "sharedText": "a light unto this people",
+    "streams": ["manual"],
+    "reason": "The obvious source for a commission phrased as being “a light” to a people is the Servant text, Isaiah 49:6, and its New Testament citation at Acts 13:47 — and this is exactly the mediation case CONVENTIONS §7 exists for, so it was tested rather than assumed. tools/mediation-check.py on 3 Nephi 15:12 against Isaiah 49:6 and Acts 13:47 reports no decisive divergence and, more usefully, that the Book of Mormon reproduces neither candidate at any point where they differ: it has no “Gentiles”, no “salvation”, no “ends of the earth”, and its light is “unto this people”, which is the opposite of the Servant's outward direction. The wording follows the Sermon at the Temple's own localisation of Matthew 5:14 at 3 Nephi 12:14 (“the light of this people”), and the link is filed there. Worth recording because the Servant reading is the natural one and because 3 Nephi 16 does turn to the Gentiles four verses later, which makes the wrong source look even more plausible than it is."
+  },
+  {
+    "bomRef": "3 Nephi 15:15",
+    "source": "Numbers 36:3",
+    "category": "insufficient-verbal",
+    "sharedText": "the other tribes of the",
+    "streams": ["machine-ngram"],
+    "reason": "A five-word run and a King James singleton — “the other tribes of the” occurs in exactly one KJV verse — with a second hook that makes it more tempting than it should be: Numbers 36 is about inheritance passing between tribes, and 3 Nephi 15:13 has just said “this is the land of your inheritance”. The sense will not carry it. Numbers 36:3 is a legal objection about heiresses marrying outside their tribe and their land being reassigned; 3 Nephi 15:15 is about tribes of Israel the Father has “led away out of the land” and about whom the speaker was forbidden to tell the Jerusalem audience. The shared words are the ordinary English for naming tribes other than the ones in view, and the Book of Mormon's “other tribes” is its own category, taken up again at 15:20 and 3 Nephi 16:1-4 without any further contact with Numbers."
+  },
+  {
+    "bomRef": "3 Nephi 15:17",
+    "source": "Ezekiel 37:24",
+    "category": "better-source-identified",
+    "sharedText": "one shepherd",
+    "streams": ["manual"],
+    "reason": "The shepherd oracle behind John 10:16 is Ezekiel's, and a reader tracing “one fold, and one shepherd” to its Old Testament root will arrive at Ezekiel 34:23 and 37:24. The catalogue's link is at John 10:16 and the mediation was decided rather than defaulted (CONVENTIONS §7). “One shepherd” occurs in exactly four KJV verses — Ecclesiastes 12:11, Ezekiel 34:23, Ezekiel 37:24 and John 10:16 — and tools/mediation-check.py on 3 Nephi 15:17 against Ezekiel 37:24 and John 10:16 returns four decisive points for John and none for Ezekiel: the Book of Mormon has “other sheep I have, which are not of this fold”, “them also I must bring”, “they shall hear my voice” and “one fold”, and none of Ezekiel's David, servant, king over them, judgments or statutes. The oracle reaches 3 Nephi in its Johannine form and only in that form. Filed here so that Ezekiel 34 and 37 are not silently absent from a chapter that is manifestly about one flock under one shepherd."
+  },
+  {
+    "bomRef": "3 Nephi 15:22",
+    "source": "Mark 6:49",
+    "category": "wrong-sense",
+    "sharedText": "they supposed it had been",
+    "streams": ["machine-ngram"],
+    "reason": "The best temptation in the chapter's register. “They supposed it had been” occurs in exactly one KJV verse, a five-word run, and both sentences are about disciples getting a supernatural identification wrong in the presence of Jesus. But the errors are of different kinds and the phrase's grammar shows it. In Mark 6:49 the disciples see something on the water and mistake a person for a class of being: “they supposed it had been a spirit”. In 3 Nephi 15:22 the Jerusalem hearers mistake the referent of a saying: “they supposed it had been the Gentiles”. Mark's “it” is a figure walking on the sea; the Book of Mormon's “it” is the phrase “other sheep”, and the object of the supposition is an interpretation, not an apparition. The idiom is the King James's ordinary way of reporting a mistaken supposition and nothing else of Mark 6 is present — no sea, no walking, no crying out, no fourth watch."
+  },
+  {
+    "bomRef": "3 Nephi 15:22",
+    "source": "Ephesians 3:6",
+    "category": "insufficient-verbal",
+    "sharedText": "that the Gentiles should be",
+    "streams": ["machine-ngram"],
+    "reason": "A five-word run and a King James singleton — “the Gentiles should be” occurs in exactly one KJV verse — and the context is genuinely apt, since Ephesians 3 is Paul's account of a Gentile inclusion that was “hid” in earlier ages and revealed later, which is close to what 3 Nephi 15:22-23 says about the Jerusalem hearers' failure to understand. The verbal contact is nevertheless a subject, a modal and a copula, and the two sentences complete them incompatibly: Ephesians has the Gentiles becoming fellowheirs of the promise, and 3 Nephi has them being “converted through their preaching”, where “their” are the Nephite disciples. The Book of Mormon's own doctrine of Gentile conversion through a Nephite record is developed at length in 3 Nephi 16 and 20-21 with no further contact with Ephesians."
+  }
+]

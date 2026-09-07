@@ -1,0 +1,825 @@
+{
+  "chapter": 1,
+  "adjudicated": "2026-09-07",
+  "adjudicator": "Opus",
+  "links": {
+    "1:1": [
+      {
+        "source": "Genesis 42:6",
+        "type": "echo",
+        "subtype": "possible",
+        "confidence": "low",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 1,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "uncertain",
+        "mediation": "direct-OT",
+        "provenance": {
+          "route": "Genesis 42:6 → KJV → Book of Mormon",
+          "other": "“The governor over the land” occurs in exactly one KJV verse, Genesis 42:6. The nearest others are Genesis 45:26 and Acts 7:10, both also of Joseph, and Jeremiah 40:5 of Gedaliah.",
+          "significance": "If the phrase is a borrowing, it is a quiet one and it is placed at the head of the book. The only man the King James Bible calls the governor over the land is Joseph in Egypt, and the Book of Mormon's Lehites are Joseph's descendants by their own repeated claim. Lachoneus governs in the year the sign of Christ's birth is given, and the verse the title comes from is the verse where Joseph's brethren, not knowing him, bow before him. The catalogue records the possibility and does not press it."
+        },
+        "note": "'Lachoneus was the Chief Judge and the governor over the land.' The five-word run is a King James singleton, which is normally decisive evidence in this catalogue; here it is not, because the phrase is also ordinary English for an ordinary office, and nothing else in the verse touches Genesis 42. Recorded at low confidence so that a reader who wants the Joseph resonance can see it and a reader who does not can decline it.",
+        "whyNot": "Rarity is the only thing this row has. There is no shared syntax beyond the title itself, no narrative contact with Genesis 42, and no reason a writer needing an English word for a provincial ruler would have had to take one from scripture. A five-word King James singleton that is also a natural English phrase is the one shape of rarity evidence this project cannot lean on, and the row is filed to say so.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ],
+        "text": "And Joseph was the governor over the land, and he it was that sold to all the people of the land: and Joseph’s brethren came, and bowed down themselves before him with their faces to the earth."
+      }
+    ],
+    "1:4": [
+      {
+        "source": "Acts 5:12",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "recurrenceRefs": [
+          "Helaman 16:23"
+        ],
+        "provenance": {
+          "route": "Acts 5:12 → KJV → Book of Mormon",
+          "other": "“Wrought among the people” occurs in exactly one KJV verse, Acts 5:12, which is also the only verse holding the whole of “signs and wonders wrought among the people”. “Signs and wonders” by itself occurs in fourteen.",
+          "significance": "Acts 5:12 is the summary verse of the apostolic church at its high point — the whole company with one accord in Solomon's porch while signs are worked among the people — and it is immediately followed by the arrest of the apostles. The Book of Mormon has used it once already, at Helaman 16:23, where the signs are worked and the people are not held. Here it opens the year of the nativity sign, and the same pattern follows: the signs come, and the chapter ends with lyings, dissension and robbers. The borrowed clause carries its sequel with it."
+        },
+        "note": "'There began to be greater signs and greater miracles wrought among the people.' The four-word run is a King James singleton and belongs to Acts 5:12, where it is signs and wonders rather than signs and miracles. This is the second use of the verse in the Book of Mormon; it was adjudicated at Helaman 16:23, seven verses earlier in a continuous reading but in a different book and under a different heading, and the argument for the source is made there. The row is written again rather than cross-referenced because 3 Nephi is a separate reader page and the borrowing is the first thing this book does.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ],
+        "text": "And by the hands of the apostles were many signs and wonders wrought among the people; (and they were all with one accord in Solomon’s porch."
+      }
+    ],
+    "1:5": [
+      {
+        "source": "2 Timothy 2:18",
+        "type": "allusion",
+        "subtype": "conceptual",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "recurrenceRefs": [
+          "3 Nephi 1:6"
+        ],
+        "provenance": {
+          "route": "2 Timothy 2:18 → KJV → Book of Mormon",
+          "other": "“Is past already” occurs in exactly one KJV verse, 2 Timothy 2:18. The King James Bible has no other place where a promised event is denied on the ground that its time has run out.",
+          "significance": "Paul's Hymenaeus and Philetus say the resurrection is past already and thereby overthrow the faith of some. The Nephite dissenters say the time for Samuel's sign is past and thereby try to overthrow the faith of the believers — and the next verse says exactly that, 'your joy and your faith concerning this thing, hath been vain'. The Book of Mormon's argument against a delayed sign is built out of the King James Bible's one passage about a denied resurrection, which is also the event the sign announces the possibility of. Recovering that context is what makes the mockery legible as more than local scepticism."
+        },
+        "note": "'The time was past for the words to be fulfilled, which was spoken by Samuel, the Lamanite.' The structure is 2 Timothy 2:18's: a claim that the awaited thing is already past, made by named parties within the community, with the overthrow of others' faith as its stated effect. The verbal contact is 'concerning' and 'past' and the faith-overthrowing consequence rather than a reproduced run, which is why this is moderate rather than high; but 2 Timothy 2:18 is the only King James verse that makes this move, and 1 Corinthians 15 supplies the vocabulary of the answer one verse later.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ],
+        "text": "Who concerning the truth have erred, saying that the resurrection is past already; and overthrow the faith of some."
+      }
+    ],
+    "1:6": [
+      {
+        "source": "1 Corinthians 15:17",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "1 Corinthians 15:14"
+        ],
+        "recurrenceRefs": [
+          "3 Nephi 1:5",
+          "3 Nephi 1:8"
+        ],
+        "provenance": {
+          "route": "1 Corinthians 15:17 (with 15:14) → KJV → Book of Mormon",
+          "other": "“Your faith is vain” occurs in exactly one KJV verse, 1 Corinthians 15:17, and “your faith is also vain” in exactly one, 1 Corinthians 15:14. The two are eight words apart in Paul's argument and nowhere else in the King James Bible is a reader's faith called vain.",
+          "significance": "Paul's sentence is a conditional he means to refute: if Christ be not raised, your faith is vain. The Nephite mockers use it as an assertion — your faith has been vain — about a Christ who has not yet been born. And the believers' reply, at 1:8, is Paul's own conclusion in Paul's own words: 'that they might know that their faith had not been vain.' So the chapter stages 1 Corinthians 15 as a live argument, with the mockers holding the protasis and the sign settling it. Nothing in the Book of Mormon's narrative requires this vocabulary; the King James Bible's one passage about a faith made vain supplies it."
+        },
+        "note": "'Your joy and your faith concerning this thing, hath been vain' (1:6) against 'your faith is vain' (1 Corinthians 15:17) and 'your faith is also vain' (15:14), the King James Bible's only two verses in which faith is called vain, both in the same paragraph. The Book of Mormon then answers with the same phrase negated at 1:8, 'that their faith had not been vain', which is the shape of Paul's refutation. Below Skousen's threshold for a quotation and catalogued as an allusion on the §2 rule.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ],
+        "text": "And if Christ be not raised, your faith is vain; ye are yet in your sins."
+      }
+    ],
+    "1:8": [
+      {
+        "source": "Zechariah 14:7",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Zechariah 14:6"
+        ],
+        "recurrenceRefs": [
+          "3 Nephi 1:15",
+          "3 Nephi 1:19",
+          "Helaman 14:4"
+        ],
+        "provenance": {
+          "route": "Zechariah 14:6-7 → KJV → Book of Mormon",
+          "other": "“Shall be one day” occurs in exactly one KJV verse and “not day, nor night” occurs in exactly one, both Zechariah 14:7, which also carries the only King James occurrence of “at evening time”. Revelation 21:25 and 22:5 supply “there shall be no night there”, but neither has the day-that-is-one-day.",
+          "significance": "Zechariah 14 is the King James Bible's day of the LORD: the mount of Olives splits, the nations are gathered against Jerusalem, and the one day known to the LORD is neither day nor night but light at evening. The Book of Mormon takes that day and makes it the night of the nativity. Recover the source's context and the sign given to the Nephites is not merely astronomical but eschatological — the day Zechariah dates to the LORD's coming in judgement is spent, in 3 Nephi, on his coming in a body. The chapter then works through the rest of Zechariah's verse in order: 'at evening time it shall be light' becomes 1:15's going down of the sun with no darkness, and 'not day, nor night' becomes 1:19's night as light as mid-day."
+        },
+        "note": "'That day, and that night, and that day, which shall be as one day, as if there were no night.' Two King James singletons stand behind this, both in Zechariah 14:7: 'shall be one day' and 'not day, nor night'. The 1830 reading is what shows it — 'which SHALL be as one day' reproduces Zechariah's 'it shall be one day which shall be' word for word, and the 1920 edition's change to 'should' moves the clause away from its source (CONVENTIONS §8). Samuel's original prophecy at Helaman 14:4 has the idea — 'as if it were one day, and there were no night' — but not this wording; the King James phrasing enters the Book of Mormon here, in the narrator's summary of it, and not in the prophecy itself. That is the sort of thing a running text in first-edition wording exists to make visible.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ],
+        "text": "But it shall be one day which shall be known to the LORD, not day, nor night: but it shall come to pass, that at evening time it shall be light."
+      }
+    ],
+    "1:11": [
+      {
+        "source": "1 Kings 18:42",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "provenance": {
+          "route": "1 Kings 18:42 → KJV → Book of Mormon",
+          "other": "“Down upon the earth” occurs in exactly one KJV verse, 1 Kings 18:42, and so does “himself down upon the earth”. Prostration is ordinarily 'on his face to the ground' or 'to the earth' in the King James Bible; the preposition pair here belongs to Elijah on Carmel alone.",
+          "significance": "The King James Bible's one man who casts himself down upon the earth is Elijah, on the top of Carmel, praying for the sign that will settle a public contest between the prophet of the LORD and a people who have gone after other gods — a contest in which the unbelieving party has already been told to name the terms and the day. 3 Nephi 1 is that scene: a day has been set, the sign is the whole question, and the prophet goes apart and puts himself on the ground. Whether the borrowing was deliberate or not, the posture it copies is the posture of a prophet waiting on a sign he has staked lives on."
+        },
+        "note": "'He went out and bowed himself down upon the earth, and cried mightily to his God.' The four-word run is a King James singleton, and its verse is 1 Kings 18:42, Elijah at the end of the Carmel contest. The machine stream found it and ranked it first for this verse, which is unusual — the n-gram stream is a recall floor and rarely puts the right verse on top (CONVENTIONS §9) — but the context test independently agrees, because the situation is Carmel's: a public trial of a prophet's word, a deadline, and a prophet on the ground waiting for the sky.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ],
+        "text": "So Ahab went up to eat and to drink. And Elijah went up to the top of Carmel; and he cast himself down upon the earth, and put his face between his knees,"
+      },
+      {
+        "source": "Jonah 3:8",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "recurrenceRefs": [
+          "Mosiah 9:17",
+          "Alma 8:16",
+          "Alma 22:17",
+          "3 Nephi 1:12"
+        ],
+        "provenance": {
+          "route": "Jonah 3:8 → KJV → Book of Mormon",
+          "other": "“Cry mightily” occurs in exactly one KJV verse, Jonah 3:8, and so does “mightily unto God”. The Book of Mormon has made the phrase its own from Mosiah 9:17 onward.",
+          "significance": "Jonah 3:8 is a city under a dated sentence of destruction crying mightily unto God, and the sentence is lifted. 3 Nephi 1 is a body of believers under a dated sentence of destruction, and the prophet cries mightily on their behalf, and the sentence is lifted — by the arrival of the very sign the sentence was framed to punish them for expecting. The correspondence is closer here than at any of the Book of Mormon's earlier uses of the phrase, which is the reason for writing the row rather than only cross-referencing it."
+        },
+        "note": "'Cried mightily to his God' (1:11), repeated at 1:12 as 'cried mightily unto the Lord'. The King James Bible says this once, at Jonah 3:8. By 3 Nephi the phrase is a Book of Mormon formula — Mosiah 9:17, Alma 8:16, Alma 22:17 — and a formula recurring is ordinarily registered as a recurrence and not re-argued (ADJUDICATING §4). It is written out here because the deadline structure of Jonah 3 is present in this chapter and nowhere else the phrase has been used, so the second occurrence is doing more than the formula.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ],
+        "text": "But let man and beast be covered with sackcloth, and cry mightily unto God: yea, let them turn every one from his evil way, and from the violence that is in their hands."
+      }
+    ],
+    "1:13": [
+      {
+        "source": "Luke 21:28",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Revelation 1:3"
+        ],
+        "recurrenceRefs": [
+          "Mosiah 7:18",
+          "Alma 1:4",
+          "3 Nephi 1:14"
+        ],
+        "provenance": {
+          "route": "Luke 21:28 (with Revelation 1:3) → KJV → Book of Mormon",
+          "other": "“Lift up your heads” occurs in exactly three KJV verses: Psalm 24:7 and 24:9, where the heads belong to gates, and Luke 21:28. “The time is at hand” occurs in exactly two, Revelation 1:3 and 22:10, the opening and closing of that book.",
+          "significance": "Luke 21:28 stands inside the Olivet discourse, where the signs precede the coming of the Son of man, and its consolation is addressed to people watching a terrifying sky. The Lord's word to Nephi reproduces both halves — the imperative and the causal clause that grounds it — but changes what is imminent: not redemption at the end but the birth at the beginning. The one text in the King James Bible that tells frightened watchers to lift their heads because deliverance is near is a text about the second coming, and the Book of Mormon has put it in the mouth of the Lord on the eve of the first."
+        },
+        "note": "'Lift up your head and be of good cheer: for behold, the time is at hand.' Luke 21:28 has 'lift up your heads; for your redemption draweth nigh' — the same imperative followed by the same causal 'for' announcing an imminent deliverance. The 1830 singular 'head' is a departure from all three King James occurrences of the phrase, which weakens the verbal case and does not touch the syntactic one. 'The time is at hand' is Revelation's frame-phrase, used twice in the chapter (1:13, 1:14) as Revelation uses it twice; it is folded in as a composite rather than given its own row.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ],
+        "text": "And when these things begin to come to pass, then look up, and lift up your heads; for your redemption draweth nigh."
+      },
+      {
+        "source": "John 18:37",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "John 18:37 → KJV → Book of Mormon",
+          "other": "“Came I into the world” occurs in exactly one KJV verse, John 18:37. 'Into the world' unqualified occurs in eighteen, most of them Johannine, but the first-person perfect with the inverted pronoun is Pilate's hall alone.",
+          "significance": "This is the chapter's sharpest metalepsis and it is easy to miss. The only place in the King James Bible where Jesus says 'came I into the world' is his answer to Pilate at the trial: 'To this end was I born, and for this cause came I into the world, that I should bear witness unto the truth.' It is a statement about his birth made on the day of his death. The Book of Mormon takes it back to the night before the birth and has the unborn Christ say it in the future tense — 'on the morrow come I into the world' — and then completes the sentence with John's own purpose clause turned outward: 'to shew unto the world that I will fulfil all.' Recover the source and the annunciation to Nephi is worded out of the interrogation by Pilate; the beginning is announced in the words of the end."
+        },
+        "note": "'On the morrow come I into the world, to shew unto the world that I will fulfil all.' The run is a King James singleton and belongs to John 18:37, where the same clause is followed by 'that I should bear witness unto the truth' — a purpose clause in the same position that the Book of Mormon fills with fulfilment rather than witness. The machine stream did propose John 18:37 here, on the shared strings 'i into the world' and 'the world that i', without any way of seeing what makes the verse the right one.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ],
+        "text": "Pilate therefore said unto him, Art thou a king then? Jesus answered, Thou sayest that I am a king. To this end was I born, and for this cause came I into the world, that I should bear witness unto the truth. Every one that is of the truth heareth my voice."
+      },
+      {
+        "source": "Acts 3:18",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Luke 1:70",
+          "Acts 3:21"
+        ],
+        "recurrenceRefs": [
+          "1 Nephi 3:20",
+          "2 Nephi 9:2",
+          "Mosiah 13:33",
+          "3 Nephi 1:26"
+        ],
+        "provenance": {
+          "route": "Acts 3:18, with Luke 1:70 and Acts 3:21 → KJV → Book of Mormon",
+          "other": "“By the mouth of all his prophets” occurs in exactly one KJV verse, Acts 3:18, which also carries the only occurrence of “he hath so fulfilled”. “Mouth of his holy prophets” occurs in exactly one, Luke 1:70, and “mouth of all his holy prophets” in exactly one, Acts 3:21.",
+          "significance": "Three King James verses hold this formula and all three are third-person statements about God: he spake by the mouth of his holy prophets, he hath so fulfilled what he shewed by the mouth of all his prophets. The Book of Mormon puts the formula in the first person and the future — 'I will fulfil all that which I have caused to be spoken by the mouth of my Holy Prophets' — so that the speaker becomes both the God who spoke through the prophets and the thing they spoke of. Luke 1:70 is the sharpest of the three to recover, because it is Zacharias's Benedictus, said over the birth of the forerunner; the formula that belongs to the New Testament's nativity is here spoken by the one about to be born."
+        },
+        "note": "'I will fulfil all that which I have caused to be spoken by the mouth of my Holy Prophets.' Acts 3:18 is the closest of the three candidates because it alone joins the mouth-of-the-prophets formula to the verb 'shew' and to fulfilment — 'those things, which God before had shewed by the mouth of all his prophets … he hath so fulfilled' — and the Book of Mormon has 'to shew unto the world that I will fulfil'. The 1830 spelling 'shew' preserves the King James form that later editions modernized to 'show', which is part of the evidence (CONVENTIONS §8). Luke 1:70 and Acts 3:21 supply 'holy prophets', which Acts 3:18 lacks, and are folded in as composites. The formula is an established Book of Mormon borrowing from 1 Nephi 3:20 onward; what is new here is the first person.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ],
+        "text": "But those things, which God before had shewed by the mouth of all his prophets, that Christ should suffer, he hath so fulfilled."
+      }
+    ],
+    "1:14": [
+      {
+        "source": "John 1:11",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 3,
+          "attestation": 4
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "recurrenceRefs": [
+          "Mosiah 3:9",
+          "3 Nephi 9:16"
+        ],
+        "provenance": {
+          "route": "John 1:11 → KJV → Book of Mormon",
+          "other": "“Unto his own” occurs in exactly eight KJV verses, of which only John 1:11 has it as the object of a coming; the others are a man returning to his own house, family or place. The Book of Mormon converts the third person to the first.",
+          "significance": "John 1:11 is the Prologue's verdict — 'He came unto his own, and his own received him not' — and the second half is what the Book of Mormon leaves unsaid here. At 3 Nephi 1:14 the coming is announced and nothing is said about reception; the chapter then supplies its own answer in narrative, since the people the sign is given to are the people who had set a day to kill the believers, and by 1:22 Satan is at work to keep them from believing what they have seen. The unstated clause is the point of quoting the stated one."
+        },
+        "note": "'Behold, I come unto my own.' John 1:11 in the first person and the present tense. The Book of Mormon uses the sentence twice, here on the eve of the birth and again at 3 Nephi 9:16 after the destruction, where it appears in full with the rejection clause attached — so the second use closes what this one opens.",
+        "bibliography": [
+          "Frederick 2016 — in his discussion of 3 Nephi 9:16 ('I came unto my own and my own received me not') as an allusion to the Johannine Prologue, he points back to 3 Nephi 1:14 as an earlier Book of Mormon passage where 'the pre-mortal Jesus proclaimed that “Behold, I come unto my own”'. He treats this verse as an earlier instance of the same Johannine wording; his argument is about Joseph Smith's use of John and about a nineteenth-century audience, not about a source apparatus."
+        ],
+        "status": "majority",
+        "streams": [
+          "scholarship",
+          "manual"
+        ],
+        "text": "He came unto his own, and his own received him not."
+      },
+      {
+        "source": "2 John 1:3",
+        "type": "echo",
+        "subtype": "possible",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 2,
+          "context": 3,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "2 John 1:3 → KJV → Book of Mormon",
+          "other": "“The Son of the Father” occurs in exactly one KJV verse, 2 John 1:3. Matthew 28:19's 'of the Father, and of the Son' is the far commoner formula and is a different construction: two coordinate members, not one in the genitive of the other.",
+          "significance": "3 Nephi 1:14 is the most tangled christological sentence in the chapter — 'to do the will, both of the Father, and of the Son of the Father, because of me, and of the Son, because of my flesh' — and the 1837 and later editions of the Book of Mormon are famously nervous about exactly this kind of Father-Son identification. The title that carries the tangle is a King James singleton from a two-hundred-word epistle. Whatever the sentence means, its distinctive term is not free-standing English; it is 2 John's."
+        },
+        "note": "'The Son of the Father.' A King James singleton, at 2 John 1:3, and a title the New Testament otherwise avoids. The machine stream proposed both 2 John 1:3 and Matthew 28:19 here; Matthew's is the formulaic coordinate pair that any trinitarian sentence produces, while 2 John's is the genitive construction the Book of Mormon actually has. Moderate rather than high because the phrase is generable — a writer working out a Father-and-Son sentence could arrive at it without a source — and because there is no other contact with 2 John anywhere in the verse.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ],
+        "text": "Grace be with you, mercy, and peace, from God the Father, and from the Lord Jesus Christ, the Son of the Father, in truth and love."
+      }
+    ],
+    "1:15": [
+      {
+        "source": "Deuteronomy 16:6",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "provenance": {
+          "route": "Deuteronomy 16:6 → KJV → Book of Mormon",
+          "other": "“At the going down of the sun” occurs in exactly one KJV verse, Deuteronomy 16:6. Sunset is normally 'at even', 'when the sun was down', or 'about the going down of the sun' (Joshua 10:27, 2 Chronicles 18:34); this exact form is unique.",
+          "significance": "The one King James verse that fixes an hour with these words fixes the hour of the passover: 'there thou shalt sacrifice the passover at even, at the going down of the sun, at the season that thou camest forth out of Egypt.' The Book of Mormon uses it for the hour at which the night failed to fall before Christ was born. So the moment of the nativity sign is dated by the formula that dates the killing of the passover lamb, at the one place in the law where that hour is legislated — and the connection between the birth and the sacrifice is made by the clock rather than by any statement in the text. Compare the Zechariah 14:7 borrowing at 1:8: Zechariah's 'at evening time it shall be light' is the other half of this same evening, and Zechariah 14 ends in a feast too."
+        },
+        "note": "'At the going down of the sun, there was no darkness.' A six-word King James singleton, and its verse is the passover legislation of Deuteronomy 16:6. The machine stream ranked it second here on the shared run and had no way to weigh what the run's only verse is about. Note that the borrowing supplies the hour and then negates what the hour ordinarily brings: in Deuteronomy the sun goes down and the lamb is killed, here the sun goes down and the darkness does not come.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ],
+        "text": "But at the place which the LORD thy God shall choose to place his name in, there thou shalt sacrifice the passover at even, at the going down of the sun, at the season that thou camest forth out of Egypt."
+      }
+    ],
+    "1:16": [
+      {
+        "source": "Matthew 28:4",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "Matthew 28:4 → KJV → Book of Mormon",
+          "other": "“Became as dead men” occurs in exactly one KJV verse, Matthew 28:4. The King James Bible's other 'as dead' constructions are Revelation 1:17 ('I fell at his feet as dead'), Hebrews 11:12 ('as good as dead') and Isaiah 59:10 ('as dead men' in desolate places), none of which is a fall at a sign.",
+          "significance": "Matthew 28:4 is the resurrection morning: the men posted to guard against the sign shake for fear of it and become as dead men, while the women who came expecting something are told not to fear. 3 Nephi 1:16 is the same tableau at the other end of the life. The men who had appointed a day to put the believers to death fall to the earth and become as if they were dead, at the sign they had staked the executions on not coming; the believers, who watched steadfastly, are the ones left standing. The Book of Mormon's nativity is described in the words of the King James Bible's resurrection, and the party that is struck down is in both cases the guard."
+        },
+        "note": "'There were many which had not believed the words of the prophets, fell to the earth, and became as if they were dead.' Matthew 28:4 is the only King James verse in which people become as dead men, and it is the only one in which they do so out of fear at a sign they were posted to prevent. The Book of Mormon expands 'as dead men' into 'as if they were dead', which is why this is catalogued as an allusion and not a quotation; the situation, not the run, is what carries it. Note the 1830 reading 'the word of the prophets' in the second half of the verse, changed to 'words' in 1920 — the singular is the older text, and this catalogue prints it.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ],
+        "text": "And for fear of him the keepers did shake, and became as dead men."
+      }
+    ],
+    "1:21": [
+      {
+        "source": "Matthew 2:2",
+        "type": "figural",
+        "subtype": "type-scene",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 2,
+          "syntax": 1,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 1,
+          "attestation": 1
+        },
+        "kjvSpecific": "no",
+        "mediation": "direct-NT",
+        "composite": [
+          "Numbers 24:17"
+        ],
+        "recurrenceRefs": [
+          "Helaman 14:5"
+        ],
+        "provenance": {
+          "route": "Matthew 2:1-10 (with Numbers 24:17) → KJV → Book of Mormon",
+          "other": "No distinctive wording is shared. Matthew 2:2 has 'we have seen his star in the east'; Numbers 24:17 has 'there shall come a Star out of Jacob'. The Book of Mormon's clause is four words long and its only content word is 'star'.",
+          "significance": "This is the only element of the Nephite sign that has no function in the narrative. The night without darkness is what saves the believers from execution and is argued about for three chapters; the new star does nothing, is never referred to again, and is reported in a single sentence with no witnesses named. It is there because the King James nativity has a star. The catalogue records it as a figural link for that reason: the borrowing is of a scene, not of words, and a reader who is shown nothing here has been told there is no borrowing, which is not true."
+        },
+        "note": "'A new star did appear, according to the word.' There is no verbal contact worth the name, and the row is filed as figural on the §2 rule. What justifies it is that the sign is otherwise inert: Samuel promised it at Helaman 14:5 and nothing in the Book of Mormon ever uses it. In Matthew the star is the whole machinery of the second chapter, and in Numbers 24:17 — the verse the Christian tradition reads Matthew's star out of — it is the sign of a ruler out of Jacob. The Nephite star is a sign with no consequence, which is what a borrowed one looks like.",
+        "whyNot": "One shared noun. Nothing in the wording points at Matthew rather than at Numbers, or at either rather than at nothing; a writer inventing a birth-sign for a people watching the sky might reach for a star unaided. Numbers 24:17 was already tried at Helaman 14:5 and taken there at low confidence for the same reason. The row would be withdrawn if the star were ever put to narrative use elsewhere in the Book of Mormon, since the argument here rests on its having none.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ],
+        "text": "Saying, Where is he that is born King of the Jews? for we have seen his star in the east, and are come to worship him."
+      }
+    ],
+    "1:22": [
+      {
+        "source": "John 12:40",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 1
+        },
+        "kjvSpecific": "yes",
+        "mediation": "OT-via-NT",
+        "altSource": "Isaiah 6:10",
+        "recurrenceRefs": [
+          "1 Nephi 12:17",
+          "Mosiah 11:29",
+          "Alma 10:25"
+        ],
+        "provenance": {
+          "mt": "Isaiah 6:10, of which John 12:40 is the New Testament's citation; the King James forms differ substantially.",
+          "route": "Isaiah 6:10 → John 12:40 → KJV → Book of Mormon",
+          "other": "“Hardened their heart” occurs in exactly one KJV verse and “blinded their eyes” occurs in exactly one, both John 12:40. “And be converted” occurs in exactly two, John 12:40 and Acts 3:19; Isaiah 6:10 reads 'and convert'.",
+          "alternative": "Isaiah 6:10, the verse John is quoting, which has 'make the heart of this people fat' and 'convert' where John has 'hardened their heart' and 'be converted'.",
+          "significance": "John 12:40 stands three verses after 'though he had done so many miracles before them, yet they believed not on him' — which is the exact complaint of 3 Nephi 1:22, where the hardening is worked so that the people 'might not believe in those signs and wonders which they had seen'. John's citation is his explanation for signs that fail to persuade, and the Book of Mormon has borrowed the explanation along with the words. The difference is the ending: John's people are not converted and are not healed; the Book of Mormon's more part are converted unto the Lord."
+        },
+        "note": "`mediation-check.py` returns a decisive result at one word. Isaiah 6:10 reads 'and convert, and be healed'; John 12:40 reads 'and be converted, and I should heal them'; the Book of Mormon reads 'were converted unto the Lord'. The passive is John's and it is not Isaiah's, and the two verbs framing the sentence — hardening the heart and blinding the eyes — are King James singletons in John 12:40 and are absent from the Isaiah verse he is quoting. This is the fourth Book of Mormon use of John 12:40 the catalogue has recorded and the first where the diagnostic word is 'converted' rather than the hardening pair; the earlier rows at 1 Nephi 12:17, Mosiah 11:29 and Alma 10:25 rest on the verbs alone. Together they make the same finding four times: where the King James Old Testament and its own New Testament citation diverge, the Book of Mormon has the New Testament's form.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ],
+        "text": "He hath blinded their eyes, and hardened their heart; that they should not see with their eyes, nor understand with their heart, and be converted, and I should heal them."
+      },
+      {
+        "source": "2 Thessalonians 2:9",
+        "type": "allusion",
+        "subtype": "conceptual",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 2,
+          "sequence": 3,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "2 Thessalonians 2:11"
+        ],
+        "provenance": {
+          "route": "2 Thessalonians 2:9-11 → KJV → Book of Mormon",
+          "other": "“Lying wonders” occurs in exactly one KJV verse, 2 Thessalonians 2:9, which is also the only King James verse joining Satan, signs and wonders, and lying in one clause. 'Signs and wonders' alone occurs in fourteen.",
+          "significance": "Paul's man of sin comes 'after the working of Satan with all power and signs and lying wonders', and God sends strong delusion 'that they should believe a lie'. The Book of Mormon has every element and has inverted the mechanism: the wonders here are genuine and it is the report about them that Satan falsifies, so the lying attaches not to the signs but to the account of them. That inversion is the interesting part. A writer with 2 Thessalonians 2 in mind and a true sign to narrate has to move the lie somewhere, and the place it moves to is the press."
+        },
+        "note": "'There began to be lyings sent forth among the people, by satan … that they might not believe in those signs and wonders which they had seen.' The three distinctive elements of 2 Thessalonians 2:9 — Satan working, signs and wonders, and lying — are all present, but redistributed. Moderate rather than high because no run is reproduced and because the sense is turned around; the row is written rather than excluded because the co-occurrence of these three in one King James verse is unique, and because 2 Thessalonians 2:11's 'that they should believe a lie' is the purpose clause the Book of Mormon's 'to the intent that they might not believe' answers.",
+        "whyNot": "The parallel is a redistribution, not a reproduction: in Paul the wonders are the lie, here the wonders are true and the lies are about them. A reader could reasonably hold that a narrator describing propaganda against a miracle would arrive at 'lyings … that they might not believe' without help, and that 'signs and wonders' — fourteen King James verses — is doing no identifying work.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ],
+        "text": "Even him, whose coming is after the working of Satan with all power and signs and lying wonders,"
+      }
+    ],
+    "1:23": [
+      {
+        "source": "Mark 1:4",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Matthew 3:11",
+          "Luke 3:3"
+        ],
+        "recurrenceRefs": [
+          "Alma 6:2"
+        ],
+        "provenance": {
+          "route": "Mark 1:4 (with Luke 3:3 and Matthew 3:11) → KJV → Book of Mormon",
+          "other": "“Baptism of repentance” occurs in exactly four KJV verses — Mark 1:4, Luke 3:3, Acts 13:24 and Acts 19:4 — and in the first two it is joined to 'for the remission of sins', which is the whole of the Book of Mormon's clause. “Unto repentance” occurs in exactly two, Matthew 3:11 and Hebrews 6:6.",
+          "significance": "Mark 1:4 and Luke 3:3 describe John the Baptist, in the wilderness, baptizing unto repentance for the remission of sins immediately before the one he is preparing for arrives. 3 Nephi 1:23 puts Nephi in that position exactly: the birth has just happened, the appearance is coming, and the prophet goes out baptizing in John's formula. The Book of Mormon does not call Nephi a forerunner; the borrowed clause does it instead, and the reader who recovers the source finds that Nephi has been given the Baptist's job description at the moment when a forerunner is what the narrative needs."
+        },
+        "note": "'Baptizing unto repentance, in the which, there were a great remission of sins.' The two halves are Mark 1:4's and Luke 3:3's, 'the baptism of repentance for the remission of sins', with 'unto repentance' from Matthew 3:11 supplying the preposition. Mark 1:4 is taken as the proximate form because it alone puts the baptizing and the preaching in the wilderness before the coming one, which is Nephi's position here. The 1830 reading is 'there were a great remission of sins', corrected to 'was' in 1920.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ],
+        "text": "John did baptize in the wilderness, and preach the baptism of repentance for the remission of sins."
+      }
+    ],
+    "1:24": [
+      {
+        "source": "Matthew 22:29",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Mark 12:24"
+        ],
+        "recurrenceRefs": [
+          "Jacob 2:23"
+        ],
+        "provenance": {
+          "route": "Matthew 22:29 → KJV → Book of Mormon",
+          "other": "“Ye do err” occurs in exactly one KJV verse and “not knowing the scriptures” occurs in exactly one, both Matthew 22:29. Mark 12:24 is the same saying in the second person interrogative, 'Do ye not therefore err, because ye know not the scriptures'.",
+          "significance": "Matthew 22:29 is Jesus' answer to the Sadducees, who have used a scriptural argument — the levirate law — to disprove the resurrection. The Book of Mormon uses his rebuke against Nephites who have used a scriptural argument to abolish the law of Moses. In both cases the error is not ignorance of scripture but a wrong inference from it, and in both cases the corrective is a point about what the law is for rather than about what it says. The chapter has now run Sadducee to Sadducee: it opened with people denying a promised event because its time was past (1:5, and see 2 Timothy 2:18 there) and closes with people mis-reading the law, which are the two errors Matthew 22 and 2 Timothy 2 respectively assign to that party's argument."
+        },
+        "note": "'Now in this thing they did err, having not understood the Scriptures.' Both halves are Matthew 22:29's and both are King James singletons: 'ye do err' and 'not knowing the scriptures'. The Book of Mormon changes the person and the participle — third for second, 'having not understood' for 'not knowing' — and keeps the order and the logic. Already an established borrowing at Jacob 2:23; the row is written again because 3 Nephi is a different book and because the object of the rebuke here, a scriptural argument about the law of Moses, is much closer to Matthew's situation than Jacob's was.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ],
+        "text": "Jesus answered and said unto them, Ye do err, not knowing the scriptures, nor the power of God."
+      }
+    ],
+    "1:25": [
+      {
+        "source": "Matthew 5:18",
+        "type": "quotation",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 4
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Matthew 5:17"
+        ],
+        "recurrenceRefs": [
+          "Alma 34:13",
+          "Alma 25:15"
+        ],
+        "provenance": {
+          "route": "Matthew 5:18 → KJV → Book of Mormon",
+          "other": "“One jot or one tittle” occurs in exactly one KJV verse, Matthew 5:18. “Jot” occurs in exactly one; “tittle” occurs in exactly two, Matthew 5:18 and Luke 16:17. Both words are Tyndale's coinages for the Greek iota and keraia and have no independent English life.",
+          "significance": "Matthew 5:18 belongs to the Sermon on the Mount, which the resurrected Christ will deliver to this same people twenty-one chapters later, at 3 Nephi 12-14 — and when he does, he will say at 3 Nephi 12:18 that the law is fulfilled in him. The Book of Mormon has therefore given the Nephites the sentence before the sermon that contains it, and used it to settle the opposite question: Matthew's 'till all be fulfilled' is deployed here to prove the law is still binding, and will be quoted again in this same book to prove it is not. Recovering the source turns 1:25 into a set-up for 3 Nephi 12, which is the chapter that resolves it."
+        },
+        "note": "'That one jot nor tittle should not pass away, till it should all be fulfilled.' Matthew 5:18 has 'one jot or one tittle shall in no wise pass from the law, till all be fulfilled'. Both content words are King James rarities — 'jot' a singleton, 'tittle' in two verses — and neither exists in English outside the translation of this saying. The 1830 reading is 'one jot NOR tittle', changed to 'or' in 1920 toward the King James form; the direction of that change is worth recording (CONVENTIONS §8), since the later edition is the one that looks more like the source. Twelve continuous words is below Skousen's sixteen-word threshold and this is not among his thirty-six; it is catalogued as a quotation on the §2 rule, because the clause is complete and its verse is unmistakable.",
+        "bibliography": [
+          "Hardy MSI at 3 Ne 1.25 (Matthew 5:18)"
+        ],
+        "status": "majority",
+        "streams": [
+          "scholarship",
+          "machine-ngram",
+          "manual"
+        ],
+        "text": "For verily I say unto you, Till heaven and earth pass, one jot or one tittle shall in no wise pass from the law, till all be fulfilled."
+      },
+      {
+        "source": "James 5:16",
+        "type": "echo",
+        "subtype": "possible",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 2,
+          "context": 3,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "James 5:16 → KJV → Book of Mormon",
+          "other": "“Confess your faults” occurs in exactly one KJV verse, James 5:16. 'Faults' occurs in four verses altogether — Genesis 41:9, Psalm 19:12, James 5:16 and 1 Peter 2:20 — and only James has them confessed.",
+          "significance": "James 5:16 makes the confession of faults a mutual act within the congregation, 'one to another', and attaches healing to it. The Book of Mormon's dissenters confess in the same terms and are restored to the body they had divided; the whole episode of 1:24-25 is a congregational dispute settled without discipline, which is James's subject in that chapter."
+        },
+        "note": "'Did confess their faults.' A King James singleton in the second person, moved to the third. The word 'faults' is rare enough in the translation to make the phrase noticeable, but it is three words and the construction is unremarkable English, so the row is an echo at moderate rather than an allusion. It is recorded because 1:25 is otherwise a Matthew 5 verse and this is the one clause in it that is not.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ],
+        "text": "Confess your faults one to another, and pray one for another, that ye may be healed. The effectual fervent prayer of a righteous man availeth much."
+      }
+    ],
+    "1:26": [
+      {
+        "source": "Luke 1:19",
+        "type": "echo",
+        "subtype": "probable",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "recurrenceRefs": [
+          "Alma 39:19",
+          "Helaman 13:7"
+        ],
+        "provenance": {
+          "route": "Luke 1:19 → KJV → Book of Mormon",
+          "other": "“Glad tidings” occurs in exactly four KJV verses: Luke 1:19, Luke 8:1, Acts 13:32 and Romans 10:15. The angelic announcement at Luke 2:10 reads 'good tidings of great joy', not 'glad'.",
+          "significance": "Luke 1:19 is Gabriel to Zacharias: 'I am Gabriel, that stand in the presence of God; and am sent to speak unto thee, and to shew thee these glad tidings.' It is the King James Bible's first nativity announcement, and it is made to a man who has just refused to believe the sign. 3 Nephi 1:26 is the year's summary — glad tidings brought to a people because of signs that came to pass — and the people it is brought to are the ones who spent the year refusing to believe those signs. The parallel is at the level of the situation, and it is the reason for preferring Luke 1:19 to the other three occurrences."
+        },
+        "note": "'Bringing glad tidings unto the people because of the signs which did come to pass.' Two words, in a phrase the King James Bible uses four times, so the row rests on context rather than rarity and is filed as an echo. What tips it toward Luke 1:19 rather than Romans 10:15 is that the tidings are tied to a sign and that the chapter is a nativity chapter; the machine stream instead proposed Revelation 22:18 here on 'the words of the prophecy of', which is a King James singleton and the wrong verse — see the exclusion register.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ],
+        "text": "And the angel answering said unto him, I am Gabriel, that stand in the presence of God; and am sent to speak unto thee, and to shew thee these glad tidings."
+      }
+    ],
+    "1:27": [
+      {
+        "source": "Psalm 10:8",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "provenance": {
+          "route": "Psalm 10:8 → KJV → Book of Mormon",
+          "other": "“Murder the innocent” occurs in exactly one KJV verse, Psalm 10:8, which is also one of only two verses with “in the secret places” (the other is Song of Solomon 2:14, of a dove in the clefts of a rock). 'Secret places' unqualified occurs in nine.",
+          "significance": "Psalm 10 is the King James Bible's portrait of the organised predator: he sits in the lurking places, he murders the innocent in the secret places, he lies in wait secretly as a lion in his den, he catches the poor and draws them into his net. That is the Gadianton robbers entire, and Psalm 10's complaint — 'Why standeth thou afar off, O LORD? why hidest thou thyself in times of trouble?' — is the note 3 Nephi 1 ends on, with the sign given and the land no safer."
+        },
+        "note": "'Their holds and their secret places … therefore they did commit many murders.' The agreement with Psalm 10:8 is split across the sentence — secret places at one end, murder at the other — which is precisely the shape the n-gram stream cannot see, and it did not propose the verse (CONVENTIONS §9). What it did propose here, Ezra 3:13 on 'the people could not', is boilerplate. Moderate rather than high: the two elements are separated in the Book of Mormon by twenty words, and 'secret' is the Book of Mormon's own standing word for the Gadiantons, so the collocation could be its own.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ],
+        "text": "He sitteth in the lurking places of the villages: in the secret places doth he murder the innocent: his eyes are privily set against the poor."
+      }
+    ],
+    "1:29": [
+      {
+        "source": "Luke 1:80",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Luke 2:40"
+        ],
+        "provenance": {
+          "route": "Luke 1:80 and Luke 2:40 → KJV → Book of Mormon",
+          "other": "“Waxed strong” occurs in exactly two KJV verses, Luke 1:80 and Luke 2:40, and both read 'And the child grew, and waxed strong in spirit'. The bare phrase “wax strong” occurs in no KJV verse at all.",
+          "significance": "Luke uses the sentence twice and only twice: once for John the Baptist and once for Jesus, as the hinge between each nativity account and the ministry it leads to. The Book of Mormon puts it, in a chapter about the nativity, on the Lamanite children who grow up and are led away to the Gadianton robbers — and substitutes 'in years' for Luke's 'in spirit', which is the whole of the difference. The children in the King James verses grow strong in spirit and become the forerunner and the Lord; these grow strong in years and become brigands. If the borrowing is deliberate it is bitter, and if it is not, the chapter has still ended by spending Luke's growth formula on the rising generation it is lamenting."
+        },
+        "note": "'They had many children which did grow up and began to wax strong in years.' The King James Bible has 'waxed strong' in exactly two verses, Luke 1:80 and Luke 2:40, and both are the identical clause 'the child grew, and waxed strong in spirit'; the Book of Mormon has the growing and the waxing strong in Luke's order and replaces the qualifier. Moderate rather than high because the shared material is one verb phrase and because 'wax strong' is available from the Old Testament's 'waxed great' family; what holds the row up is that the exact form is Luke's alone, that both its occurrences are nativity verses, and that this is a nativity chapter.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ],
+        "text": "And the child grew, and waxed strong in spirit, and was in the deserts till the day of his shewing unto Israel."
+      }
+    ]
+  }
+}

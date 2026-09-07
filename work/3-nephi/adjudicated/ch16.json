@@ -1,0 +1,442 @@
+{
+  "chapter": 16,
+  "adjudicated": "2026-09-07",
+  "adjudicator": "Opus",
+  "links": {
+    "16:1": [
+      {
+        "source": "John 10:16",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "And other sheep I have, which are not of this fold: them also I must bring, and they shall hear my voice; and there shall be one fold, and one shepherd.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 5,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 1
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "recurrenceRefs": [
+          "1 Nephi 22:25",
+          "3 Nephi 15:17",
+          "3 Nephi 15:21",
+          "3 Nephi 16:3"
+        ],
+        "provenance": {
+          "route": "John 10:16 → KJV → Book of Mormon",
+          "other": "'One fold, and one shepherd' occurs in exactly one KJV verse, John 10:16, and is reproduced intact at 16:3. The clause reworked here, 'which are not of this fold', is likewise John's and no other verse's.",
+          "significance": "The interesting thing at 16:1 is the substitution, not the borrowing. The discourse has already given John 10:16 twice, verbatim both times, at 15:17 and 15:21, where the Nephites are identified as the other sheep. Now the same sentence is spoken again with one word changed — 'not of this fold' becomes 'not of this land' — and the change is what licenses a third group. A fold cannot be subdivided without dissolving John's figure, since the whole point of 10:16 is that there is finally one of them; a land can, and the verse goes on to distinguish this land, the land of Jerusalem, and 'any parts of that land round about'. The Book of Mormon has converted an ecclesial metaphor into a geography so that it can be applied twice, and then at 16:3 restores the metaphor unaltered — 'that there may be one fold, and one shepherd' — once the geographical work is done."
+        },
+        "note": "'I have other sheep, which are not of this land.' Ten of the twelve words are John 10:16's and one of the two that are not is doing all the work: 'land' for 'fold'. The verse is the third use of John 10:16 in as many chapters and the first that alters it, and the alteration is systematic — 16:1 divides the world by land, 16:3 reunites it by fold. Note also that the KJV's inverted 'other sheep I have', preserved exactly at 15:17 and 15:21, is here normalized to 'I have other sheep', which is what a writer does when he is rephrasing rather than citing. Well below Skousen's sixteen-word threshold and not among his quotations.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "16:4": [
+      {
+        "source": "Romans 11:25",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "For I would not, brethren, that ye should be ignorant of this mystery, lest ye should be wise in your own conceits; that blindness in part is happened to Israel, until the fulness of the Gentiles be come in.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 1
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Romans 11:20"
+        ],
+        "recurrenceRefs": [
+          "1 Nephi 15:13",
+          "2 Nephi 10:2"
+        ],
+        "provenance": {
+          "route": "Romans 11:25 → KJV → Book of Mormon",
+          "other": "'Fulness of the Gentiles' occurs in exactly one KJV verse, Romans 11:25. 'Because of unbelief' occurs in exactly three, Romans 11:20, Hebrews 3:19 and Hebrews 4:6; only Romans 11:20 is about Israel.",
+          "significance": "The whole of Romans 11:20-25 is compressed into one sentence and in Paul's order. Israel does not ask (blindness in part is happened to Israel); the remnant is scattered 'because of their unbelief' (11:20, 'because of unbelief they were broken off'); the Gentiles receive the record; and the remnant 'may be brought in' through 'the fulness of the Gentiles' (11:25, 'until the fulness of the Gentiles be come in'). Recover Paul's context and the metalepsis is severe: Romans 11:25 makes the Gentile fulness a terminus after which 'all Israel shall be saved', and it is addressed to Gentiles precisely to stop them boasting. 3 Nephi 16 takes the same clause and builds the next six verses out of the warning attached to it — the Gentiles who are lifted up in pride have the gospel taken from among them (16:10), which is Romans 11:21-22's severity. The book that Paul wrote against Gentile presumption is being used, in Christ's mouth, to threaten it."
+        },
+        "note": "'That through the fulness of the Gentiles, the remnant of their seed which shall be scattered forth upon the face of the earth, because of their unbelief, may be brought in.' A KJV singleton and a three-word rarity from the same Pauline paragraph, arriving together and in Paul's sequence. The argument for Romans 11:25 as the source was made at 1 Nephi 15:13 and is not restated; the row is written here rather than deferred because this is a new book, a new speaker, and — unlike 1 Nephi 15 — a passage that goes on to develop Paul's warning as well as his promise.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      },
+      {
+        "source": "John 16:23",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "text": "And in that day ye shall ask me nothing. Verily, verily, I say unto you, Whatsoever ye shall ask the Father in my name, he will give it you.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 3,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "John 16:23 → KJV → Book of Mormon",
+          "other": "'Ask the Father in my name' occurs in exactly one KJV verse, John 16:23. John 15:16 has the nearest rival, 'whatsoever ye shall ask of the Father in my name', with the preposition the Book of Mormon does not have.",
+          "significance": "John 16:23 is a promise with no failure condition — 'whatsoever ye shall ask the Father in my name, he will give it you' — and 3 Nephi 16:4 turns it into a hypothesis about non-asking: if the disciples at Jerusalem 'do not ask the Father in my name', a whole dispensation of record-keeping is set in motion to compensate. The clause that in John guarantees an answer is here the clause whose omission produces the Book of Mormon. Worth noting that the same KJV verse also carries the 'Verily, verily, I say unto you' with which this chapter opens at 16:1 and repeats at 16:9 and 16:16; the discourse is speaking in the register of John 16 throughout."
+        },
+        "note": "A five-word KJV singleton, and the surrounding sentence is Johannine at every joint — the double amen, the Father asked in the Son's name, the Holy Ghost as the giver of knowledge (John 16:13). Held at moderate rather than high because the phrase is short and because the Book of Mormon's use is negated, which weakens the sequence evidence: the borrowing is a formula being reversed rather than a clause being carried over.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "16:9": [
+      {
+        "source": "1 Kings 9:7",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "text": "Then will I cut off Israel out of the land which I have given them; and this house, which I have hallowed for my name, will I cast out of my sight; and Israel shall be a proverb and a byword among all people:",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 3,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "1 Kings 9:8"
+        ],
+        "recurrenceRefs": [
+          "1 Nephi 19:14"
+        ],
+        "provenance": {
+          "route": "1 Kings 9:7-8 → KJV → Book of Mormon",
+          "other": "'A hiss and a byword' is not a KJV phrase; it is 1 Kings 9:7's 'a proverb and a byword' with 9:8's 'shall hiss' put in place of 'proverb'. 'A proverb and a byword' occurs in exactly three KJV verses — Deuteronomy 28:37, 1 Kings 9:7 and 2 Chronicles 7:20 — and only the 1 Kings/2 Chronicles pair also supplies the hissing.",
+          "significance": "The compound was adjudicated at 1 Nephi 19:14 and the argument is not restated. What 3 Nephi 16:9 adds is the other half of 1 Kings 9:7. Nephi took only the byword; here the verse arrives with its neighbouring clause attached — Israel 'cast out from among them' answers 'will I cast out of my sight', and the two stand in the same order as in 1 Kings. The verbal case is therefore better here than at its first adjudication, which is why the row is written rather than excluded. The metalepsis runs into the next verses: 1 Kings 9:7 opens 'Then will I cut off Israel out of the land which I have given them', and two verses later 3 Nephi 16:11 answers with Leviticus 26:42's 'then will I remember my covenant'. The same first-person 'Then will I' formula that pronounces the sentence is the one that revokes it."
+        },
+        "note": "'To be smitten, and to be afflicted, and to be slain, and to be cast out from among them, and to become hated by them, and to become a hiss and a by-word among them.' The distinctive pairing and the casting-out are both 1 Kings 9:7's, in its order. 1830's hyphenated 'by-word' is the KJV's word regularized by 1920 to 'byword'; the hyphen is the compositor's, not a variant reading. Moderate rather than high because what is reproduced is a pairing spliced from two verses rather than a continuous clause.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "16:10": [
+      {
+        "source": "Romans 11:22",
+        "type": "echo",
+        "subtype": "conceptual",
+        "confidence": "moderate",
+        "text": "Behold therefore the goodness and severity of God: on them which fell, severity; but toward thee, goodness, if thou continue in his goodness: otherwise thou also shalt be cut off.",
+        "evidence": {
+          "vocabulary": 1,
+          "syntax": 2,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 1,
+          "attestation": 0
+        },
+        "kjvSpecific": "no",
+        "mediation": "direct-NT",
+        "composite": [
+          "Romans 11:21"
+        ],
+        "provenance": {
+          "route": "Romans 11:21-22 → KJV → Book of Mormon",
+          "alternative": "'Lifted up in the pride of their hearts' is a standing Book of Mormon formula (Jacob 2:13, Alma 4:8, Helaman 3:33 and many more) and carries no Pauline wording; the structural match may be a common inference from the same premise rather than a borrowing.",
+          "significance": "Paul's grafted branch is warned that its standing is conditional — 'be not highminded, but fear', 'otherwise thou also shalt be cut off' — and 3 Nephi 16:10 states exactly that condition with exactly that consequence, in the same position in the same argument: the Gentiles are lifted up above all nations, and the fulness of the gospel is taken 'from among them'. The Book of Mormon's version withdraws the gospel rather than the branch, which is the substitution that matters: for Paul the Gentile can be cut off from the olive tree, for 3 Nephi 16 the gospel can be cut off from the Gentile, and the difference is precisely the one a nineteenth-century restorationist argument needs."
+        },
+        "note": "The verse follows 16:4's Romans 11:25 by exactly the interval Paul's own warning follows his promise, and it says what Romans 11:21-22 says: Gentile presumption forfeits Gentile privilege. Recorded because the sequence evidence is strong even where the vocabulary is nil — 16:4 takes the singleton from Romans 11:25 and 16:10 takes the argument from three verses above it. See CONVENTIONS §0a: the row is proposed, not asserted.",
+        "whyNot": "There is no shared distinctive wording at all. 'Lifted up in the pride of their hearts' is the Book of Mormon's own idiom and none of Paul's four load-bearing terms — highminded, boast, graffed, cut off — appears. A reader who declines this row is declining a structural argument, not a verbal one, and the catalogue's own rule is that a bare cross-reference is not a link; what carries it here is that the adjacent verse 16:4 has already established Romans 11 as the passage in use.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "16:11": [
+      {
+        "source": "Leviticus 26:42",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "Then will I remember my covenant with Jacob, and also my covenant with Isaac, and also my covenant with Abraham will I remember; and I will remember the land.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Leviticus 26:33"
+        ],
+        "provenance": {
+          "route": "Leviticus 26:42 → KJV → Book of Mormon",
+          "other": "'Then will I remember my covenant' occurs in exactly one KJV verse, Leviticus 26:42. Ezekiel 16:60's 'I will remember my covenant with thee' is the nearest rival and lacks the 'then'.",
+          "significance": "The word that carries this is 'then'. In Leviticus 26 it is a hinge: the chapter has spent nine verses on the curse — scattered among the heathen, the land desolate, the cities waste, pining away in the enemies' land — and at v. 40 the confession of iniquity turns it, so that v. 42's 'then will I remember my covenant' is the first mercy in the chapter. 3 Nephi 16:8-11 reproduces that shape exactly and at the same length: the scattering, the treading down, the smiting and the byword occupy 16:8-9, the mercies and judgements are weighed at 16:9, and 16:11 opens 'and then will I remember my covenant'. The Book of Mormon is not quoting a covenant formula out of the air; it is running Leviticus 26's own sequence and taking the hinge verse at the hinge."
+        },
+        "note": "A six-word KJV singleton arriving at the structural position it occupies in its source. The substitution is instructive: Leviticus remembers the covenant 'with Jacob … Isaac … Abraham', naming patriarchs, while 3 Nephi 16:11 remembers it 'which I have made unto my people, O house of Israel', naming the nation — the covenant has been transposed from ancestors to a scattered remnant, which is the transposition the whole chapter is for.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "16:12": [
+      {
+        "source": "1 Timothy 2:4",
+        "type": "echo",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "text": "Who will have all men to be saved, and to come unto the knowledge of the truth.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 4,
+          "sequence": 2,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "1 Timothy 2:4 → KJV → Book of Mormon",
+          "other": "'Come unto the knowledge' occurs in exactly one KJV verse, 1 Timothy 2:4. 2 Timothy 3:7's 'come to the knowledge of the truth' and Hebrews 10:26's 'received the knowledge of the truth' are the near neighbours and neither has the Book of Mormon's preposition.",
+          "significance": "1 Timothy 2:4 is the New Testament's most compact statement that God's saving intention has no national boundary, and three verses later Paul names himself 'a teacher of the Gentiles'. 3 Nephi 16:12 puts the phrase in the mouth of the God who has just promised that 'the Gentiles shall not have power over you' — the universalism is retained and the direction reversed, so that the object of the knowledge is not 'the truth' but 'the fulness of my Gospel', and the ones brought to it are the house of Israel rather than the nations."
+        },
+        "note": "A four-word KJV singleton, and the substitution at its end is the argument: 1 Timothy's 'knowledge of the truth' becomes 'the knowledge of the fulness of my Gospel', which is this chapter's governing phrase (16:4, 16:7, 16:10 twice, 16:12). Held at moderate: four words is little, and the collocation is close enough to ordinary devotional English that a writer might reach it without the verse. 1830's 'I will shew unto thee' preserves the KJV spelling that 1920 modernized to 'show'; on the candidate the machine ranks on that phrase, see the exclusion register at this verse.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "16:14": [
+      {
+        "source": "Micah 5:8",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "And the remnant of Jacob shall be among the Gentiles in the midst of many people as a lion among the beasts of the forest, as a young lion among the flocks of sheep: who, if he go through, both treadeth down, and teareth in pieces, and none can deliver.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 3
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Isaiah 10:6"
+        ],
+        "recurrenceRefs": [
+          "3 Nephi 16:15",
+          "3 Nephi 20:16",
+          "3 Nephi 21:12"
+        ],
+        "provenance": {
+          "route": "Micah 5:8 → KJV → Book of Mormon",
+          "other": "Micah 5:8 is the only KJV verse holding the remnant of Jacob, the Gentiles, going through and treading down in one sentence. The exact phrase 'tread them down', which 16:15 supplies, occurs in exactly one KJV verse, Isaiah 10:6 — God commissioning a nation 'against an hypocritical nation … to tread them down like the mire of the streets' — which is precisely 16:15's threat and may be fused here.",
+          "significance": "This is where Micah 5:8 enters 3 Nephi, and it enters as a threat withheld: 'I will not suffer my people … to go through among them, and tread them down.' Four chapters later the same verse is quoted almost in full and as a promise granted (20:16, 21:12, 'as a lion among the beasts of the forest … who, if he goeth through, both treadeth down and teareth in pieces, and none can deliver'). So the chapter that first reaches for Micah reaches for it in the negative, and the pair 16:14/16:15 is the conditional of which 20:16 is the fulfilled apodosis. Recover Micah's own context and the reversal is sharper still: in Micah the remnant among the Gentiles is a lion by nature and the treading is what it does, not what it is permitted to do. 3 Nephi makes it a licence the Father grants or withholds on the Gentiles' repentance."
+        },
+        "note": "Hardy's apparatus cross-references Micah 5:8 at this verse and the wording bears it: 'go through' and 'tread down' are Micah's two verbs, in Micah's order, applied to Micah's two parties. The link is written at 16:14 with 16:15 in recurrenceRefs because 16:14 is the negation and 16:15 the assertion of one sentence, and because the fuller quotation at 20:16 will restore the lion that both verses here suppress. Far below any quotation threshold; the case rests on the collocation, not the length.",
+        "bibliography": [
+          "Hardy MSI at 3 Ne 16.14 (Micah 5:8)"
+        ],
+        "status": "majority",
+        "streams": [
+          "scholarship",
+          "manual"
+        ]
+      }
+    ],
+    "16:15": [
+      {
+        "source": "Matthew 5:13",
+        "type": "quotation",
+        "subtype": "extended",
+        "confidence": "certain",
+        "text": "Ye are the salt of the earth: but if the salt have lost his savour, wherewith shall it be salted? it is thenceforth good for nothing, but to be cast out, and to be trodden under foot of men.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 4
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "recurrenceRefs": [
+          "3 Nephi 12:13"
+        ],
+        "provenance": {
+          "route": "Matthew 5:13 → KJV → Book of Mormon",
+          "other": "'Thenceforth good for nothing' occurs in exactly one KJV verse, Matthew 5:13. mediation-check.py against Luke 14:35 returns four decisive points for Matthew and none for Luke: the Book of Mormon has 'thenceforth good' where Luke has 'neither fit', 'nothing' where Luke has 'the land, nor yet for the dunghill', and the whole trodden-under-foot clause, which Luke lacks. Mark 9:50 has 'saltness' and is not in view.",
+          "significance": "The salt saying has already been given in this book, at 3 Nephi 12:13, in the Sermon at Bountiful — and given there in an altered form: 'I give unto you to be the salt of the earth; but if the salt shall lose its savor, wherewith shall the earth be salted?' Matthew's 'it' has become 'the earth' and his 'have lost his savour' has become 'shall lose its savor'. Here, four chapters later, the saying returns and returns to the King James wording: 'salt that hath lost his savour, which is thenceforth good for nothing, but to be cast out, and to be trodden under foot'. The 1830 text makes this visible and the 1920 text hides it — 1830 reads 'his savour', which is the KJV's, and 1920 changed it to 'its savor', which assimilates 16:15 back to the modernized 12:13. The first edition therefore shows a text that departs from Matthew when it is preaching the sermon and reverts to Matthew when it is pronouncing the curse.",
+          "alternative": "Luke 14:34-35 and Mark 9:50 are the synoptic parallels; both are excluded by the mediation test above."
+        },
+        "note": "Seventeen consecutive words of Matthew 5:13, and the one substitution in them is the entire point. Matthew's salt is trodden 'under foot of men'; 3 Nephi 16:15's is trodden 'under foot of my people, O house of Israel' — so the treading down that Micah 5:8 promised two verses earlier, and that 16:14 withheld, is here supplied as the fulfilment of the Sermon on the Mount's own threat, with Israel put in the place of Matthew's anonymous 'men'. The reversal is total: at 12:13 the salt is the disciples and the saying is an exhortation; at 16:15 the salt is the unrepentant Gentiles and the saying is a sentence. This is the case CONVENTIONS §4 and ADJUDICATING §4 contemplate — a phrase whose second use within one book is the argument rather than the narrator's formula recurring — and the link is written in full for that reason. The seventeen-word run is one word above Skousen's sixteen-word threshold; whether he lists it we cannot say, since the KJQ list is unobtainable (PLAN §4.1), and nothing here should be read as claiming he does.",
+        "bibliography": [
+          "Hardy MSI at 3 Ne 16.15 (Matthew 5:13)"
+        ],
+        "status": "majority",
+        "streams": [
+          "scholarship",
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "16:18": [
+      {
+        "source": "Isaiah 52:8",
+        "type": "quotation",
+        "subtype": "explicit",
+        "confidence": "certain",
+        "text": "Thy watchmen shall lift up the voice; with the voice together shall they sing: for they shall see eye to eye, when the LORD shall bring again Zion.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 4
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "recurrenceRefs": [
+          "3 Nephi 20:32"
+        ],
+        "provenance": {
+          "route": "Isaiah 52:8 → KJV → Book of Mormon",
+          "other": "'See eye to eye' occurs in exactly one KJV verse, Isaiah 52:8. 'Lift up the voice' occurs in exactly two, Isaiah 52:8 and Ezekiel 21:22. The verse is reproduced word for word with no substantive departure, the only difference being the printing of 'the Lord' for the KJV's small-capital 'LORD', which is a compositor's choice and not a reading.",
+          "significance": "The quotation is formally introduced — 'when the words of the prophet Isaiah shall be fulfilled, which saith' — which makes it the first named Isaiah citation of the risen Christ's discourse and puts a marker on where the block begins. It begins one verse after the verse the New Testament quotes: Romans 10:15 cites Isaiah 52:7, 'how beautiful are the feet of them that preach the gospel of peace', and 3 Nephi 16 starts at 52:8, leaving 52:7 to be supplied later at 20:40. What the chapter takes first is not the herald but the watchmen who see him coming."
+        },
+        "note": "A twenty-eight word verbatim reproduction of Isaiah 52:8, well above Skousen's threshold. The reason to catalogue it rather than treat it as a transcribed Isaiah block is what happens to it afterwards: at 3 Nephi 20:32 the same verse returns recast — 'Then shall their watchmen lift up their voice … for they shall see eye to eye' — third person for second, and the closing clause 'when the Lord shall bring again Zion' dropped. 16:18 is the King James verse; 20:32 is the King James verse rewritten. The catalogue records both and the difference between them is the finding.",
+        "bibliography": [],
+        "status": "consensus",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "16:19": [
+      {
+        "source": "Isaiah 52:9",
+        "type": "quotation",
+        "subtype": "explicit",
+        "confidence": "certain",
+        "text": "Break forth into joy, sing together, ye waste places of Jerusalem: for the LORD hath comforted his people, he hath redeemed Jerusalem.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 4
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "recurrenceRefs": [
+          "3 Nephi 20:34"
+        ],
+        "provenance": {
+          "route": "Isaiah 52:9 → KJV → Book of Mormon",
+          "other": "'Break forth into joy' and 'waste places of Jerusalem' each occur in exactly one KJV verse, Isaiah 52:9. 'Hath comforted his people' occurs in exactly two, Isaiah 49:13 and 52:9; 49:13 reads 'break forth into singing' and lacks the waste places, and is displaced here (see the exclusion register).",
+          "significance": "The verse is reproduced without alteration, which is what makes 3 Nephi 20:34 legible: there the same verse reads 'Then shall they break forth into joy — sing together, ye waste places of Jerusalem: for the Father hath comforted his people'. The LORD of Isaiah has become the Father, and a second-person imperative has become a third-person prediction. Neither change is present here. Chapter 16 gives Isaiah; chapter 20 gives Isaiah interpreted."
+        },
+        "note": "Twenty-two words of Isaiah 52:9 verbatim, carrying two KJV singletons. Catalogued rather than passed over as transcription for the reason given at 16:18 — the value of the row is that it fixes the unaltered form against which the recast repetition at 20:34 can be read.",
+        "bibliography": [],
+        "status": "consensus",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "16:20": [
+      {
+        "source": "Isaiah 52:10",
+        "type": "quotation",
+        "subtype": "explicit",
+        "confidence": "certain",
+        "text": "The LORD hath made bare his holy arm in the eyes of all the nations; and all the ends of the earth shall see the salvation of our God.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 4
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Acts 28:28"
+        ],
+        "recurrenceRefs": [
+          "3 Nephi 20:35"
+        ],
+        "provenance": {
+          "route": "Isaiah 52:10 → KJV → Book of Mormon",
+          "other": "'Made bare his holy arm', 'in the eyes of all the nations' and 'the ends of the earth shall see' each occur in exactly one KJV verse, Isaiah 52:10. The one departure is the possessive: Isaiah reads 'the salvation of our God' and 3 Nephi 16:20 reads 'the salvation of God'. 'The salvation of our God' occurs in exactly two KJV verses, Psalm 98:3 and Isaiah 52:10; 'the salvation of God' without the possessive occurs in exactly three, Psalm 50:23, Luke 3:6 and Acts 28:28.",
+          "alternative": "Luke 3:6, 'And all flesh shall see the salvation of God', is the obvious candidate for the dropped possessive, since it quotes Isaiah 40:5 in a form that has no 'our'. mediation-check.py against it returns two decisive points for Isaiah 52:10 and none for Luke: the Book of Mormon keeps Isaiah's whole first clause, which Luke lacks entirely, and keeps 'the ends of the earth' where Luke has 'flesh'. The mediation is therefore direct-OT, and the single-word divergence is not explained by Luke.",
+          "significance": "The dropped 'our' is the one thing in this chapter's Isaiah block that is not the King James Bible, and it is not idle. Isaiah 52:10's possessive binds the speaker to the people whose God is being displayed; delete it and the salvation belongs to nobody in particular, which is exactly what a chapter about the salvation passing from Israel to the Gentiles and back requires. Two of the three KJV verses that read 'the salvation of God' without the possessive make the same move — Luke 3:6 universalizes Isaiah 40:5 to 'all flesh', and Acts 28:28, the last speech of the book of Acts, says 'the salvation of God is sent unto the Gentiles, and that they will hear it', which is 3 Nephi 16's entire thesis in fourteen words. Then watch what chapter 20 does with the gap: at 20:35 the missing possessive is filled, and filled with the chapter's own theology — 'all the ends of the earth shall see the salvation of the Father; and the Father and I are one'. 16:20 removes 'our'; 20:35 supplies 'the Father'. The catalogue's claim is that these are one operation performed in two stages, and that the first stage is only visible if you notice a deleted word."
+        },
+        "note": "Twenty-seven words of Isaiah 52:10 with a single one-word departure, and the departure carries the argument. Hardy's apparatus cross-references Isaiah 52:8-10 at this verse, keying the block to its last member; the catalogue writes a link at each of 16:18, 16:19 and 16:20 so that the three verses' very different relations to their source — two verbatim, one altered — can be seen separately. Note also that 3 Nephi 20 supplies not only the recast repetition of these three verses (20:32-35) but the whole of the surrounding chapter, Isaiah 52:1-3, 6-7 and 11-15, at 20:36-45. Chapter 16 takes the middle of Isaiah 52 and chapter 20 comes back for the frame.",
+        "bibliography": [
+          "Hardy MSI at 3 Ne 16.20 (Isaiah 52:8-10)"
+        ],
+        "status": "majority",
+        "streams": [
+          "scholarship",
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ]
+  }
+}

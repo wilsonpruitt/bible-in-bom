@@ -1,0 +1,712 @@
+{
+  "chapter": 19,
+  "adjudicated": "2026-09-07",
+  "adjudicator": "Opus",
+  "links": {
+    "19:2": [
+      {
+        "source": "Acts 2:6",
+        "type": "echo",
+        "subtype": "possible",
+        "confidence": "moderate",
+        "text": "Now when this was noised abroad, the multitude came together, and were confounded, because that every man heard them speak in his own language.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 2,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Luke 1:65",
+          "Acts 2:3",
+          "Acts 2:4"
+        ],
+        "recurrenceRefs": [
+          "3 Nephi 19:3",
+          "3 Nephi 19:4",
+          "3 Nephi 19:13"
+        ],
+        "provenance": {
+          "route": "Acts 2:6 → KJV → Book of Mormon",
+          "other": "“noised abroad” occurs in exactly two KJV verses, Luke 1:65 and Acts 2:6; the Book of Mormon uses it twice in two verses here (19:2, 19:3). Within Acts 2:6 the phrase is immediately followed by “the multitude came together”, which occurs in exactly one KJV verse — and 19:4 opens “when the multitude was gathered together”. Luke 1:65's setting is the naming of John the Baptist, and it has no second element in common.",
+          "alternative": "Luke 1:65, “all these sayings were noised abroad throughout all the hill country of Judaea”, is the other occurrence and is a closer match for the sense of news travelling overnight through a countryside. Nothing but the Pentecost sequence chooses between them.",
+          "significance": "Read as a whole, 19:1-14 is Acts 2 with the order of its parts kept: a report noised abroad (19:2-3, Acts 2:6), a multitude assembling in consequence (19:4, Acts 2:6), and then the descent of the Holy Ghost with fire on the assembled disciples while the crowd looks on and testifies (19:13-14, Acts 2:3-4). The Nephite twelve receive at their own Pentecost what the Jerusalem twelve received at theirs, and the KJV phrase that opens the Jerusalem account is the phrase that opens this one. Two words is thin evidence for that reading on its own, which is why it is graded moderate; the argument is the sequence, not the phrase."
+        },
+        "note": "“And it was noised abroad among the people immediately … yea, and even all the night it was noised abroad concerning Jesus.” Two words, from a two-verse KJV phrase, but placed at the head of a chapter that then reproduces Acts 2's sequence — assembly, Holy Ghost, fire, witnessing multitude — in Acts 2's order. Proposed under CONVENTIONS §0a as worth putting on the table; a reader who declines the verbal link is still owed the observation about the sequence.",
+        "whyNot": "“Noised abroad” is the natural King James English for a rumour spreading and the Book of Mormon writer had two verses to have picked it up from. Nothing else of Acts 2:6 — the confounding, the languages — is present, and the assembling verb at 19:4 is “gathered together”, not Acts's “came together”.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "19:12": [
+      {
+        "source": "Acts 8:39",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "text": "And when they were come up out of the water, the Spirit of the Lord caught away Philip, that the eunuch saw him no more: and he went on his way rejoicing.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Mark 1:10"
+        ],
+        "recurrenceRefs": [
+          "3 Nephi 19:13"
+        ],
+        "provenance": {
+          "route": "Acts 8:39 → KJV → Book of Mormon",
+          "other": "“come up out of the water” occurs in exactly one KJV verse, Acts 8:39. The only other KJV description of anyone emerging from a baptism is Mark 1:10's “coming up out of the water”, and Matthew 3:16's “went up straightway out of the water”; the Book of Mormon has the participle of neither but the perfect of Acts — 19:12 “he came up out of the water”, 19:13 “had come up out of the water”. tools/mediation-check.py finds no divergence the Book of Mormon reproduces except the absent clauses of Mark, so the case rests on the verbal form.",
+          "significance": "Acts 8:39 is the KJV's one verse about a man coming up out of the water and the Spirit acting immediately: Philip is caught away, and the eunuch goes on his way rejoicing. 3 Nephi 19:12-13 keeps the sequence and redirects the Spirit — the men who come up out of the water are not left behind by the Holy Ghost but filled with it. The other candidate, Mark 1:10, would make Nephi's baptism the Lord's own; that reading is available and the wording does not support it."
+        },
+        "note": "“And he came up out of the water, and began to baptize.” Five words matching the KJV's only occurrence of the phrase, in the chapter's one narrated baptism, and the very next verse repeats it. Below Skousen's sixteen-word threshold and not one of his passages.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "19:13": [
+      {
+        "source": "Matthew 3:11",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "I indeed baptize you with water unto repentance. but he that cometh after me is mightier than I, whose shoes I am not worthy to bear: he shall baptize you with the Holy Ghost, and with fire:",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Luke 3:16",
+          "Acts 2:3",
+          "Acts 2:4",
+          "Acts 10:44"
+        ],
+        "provenance": {
+          "route": "Matthew 3:11 (or Luke 3:16) → KJV → Book of Mormon",
+          "other": "“the Holy Ghost, and with fire” occurs in exactly two KJV verses, Matthew 3:11 and Luke 3:16 — the Baptist's promise in each synoptic. tools/mediation-check.py finds no point at which those two diverge that 3 Nephi 19:13 reproduces, so the synoptic cannot be chosen and the mediation is recorded as direct-NT without a gospel. Two further phrases sit alongside it: “filled with the Holy Ghost” occurs in exactly eight KJV verses, all Lukan (Luke 1:15, 1:41, 1:67; Acts 2:4, 4:8, 4:31, 9:17, 13:9), and Acts 10:44's “the Holy Ghost fell on” is the KJV's one idiom for the Spirit descending on a group unbidden (with Acts 11:15).",
+          "significance": "This is the verse where the Baptist's promise is reported as kept, and the report is assembled out of the KJV's own vocabulary for that keeping. John says the coming one “shall baptize you with the Holy Ghost, and with fire”; Acts 2 is where the fire arrives and Luke's phrase “filled with the Holy Ghost” is coined for it; Acts 10:44 supplies the falling. 3 Nephi 19:13 has all three in one sentence — fell upon them, filled, and with fire — so the Nephite disciples receive, in a single clause, what the Bible distributes across the promise, the Pentecost, and the Gentile Pentecost. Note also what is absent: no tongues. Acts 2:4's other half, “began to speak with other tongues”, is exactly the element 19:32-34 will replace with words that cannot be uttered at all."
+        },
+        "note": "“The Holy Ghost did fall upon them, and they were filled with the Holy Ghost, and with fire.” The last six words are the Baptist's promise verbatim, from a phrase in only two KJV verses; “fall upon” and “filled with” are Luke's own Acts idioms for its fulfilment. The 1830 and the current text are identical here.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "19:15": [
+      {
+        "source": "John 20:19",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "Then the same day at evening, being the first day of the week, when the doors were shut where the disciples were assembled for fear of the Jews, came Jesus and stood in the midst, and saith unto them, Peace be unto you.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "John 20:26",
+          "Luke 24:36"
+        ],
+        "recurrenceRefs": [
+          "3 Nephi 11:8",
+          "3 Nephi 19:18"
+        ],
+        "provenance": {
+          "route": "John 20:19 → KJV → Book of Mormon",
+          "other": "“came Jesus and stood in the midst” occurs in exactly one KJV verse, John 20:19; John 20:26 has the same clause split by an interposed phrase (“then came Jesus, the doors being shut, and stood in the midst”). The bare “stood in the midst” occurs in exactly six KJV verses, of which three are resurrection appearances (Luke 24:36, John 20:19, 20:26) — so the phrase alone is not decisive and the finite verb before the name is what makes it so.",
+          "alternative": "Luke 24:36, “Jesus himself stood in the midst of them”, is the source this catalogue adopted at 3 Nephi 11:8, where the Book of Mormon has “stood in the midst of them” with the pronoun. 19:15 drops the pronoun, which is John's form and not Luke's.",
+          "significance": "This verse and 19:18 walk John 20 in John's order. At 20:19 Jesus comes and stands in the midst; at 20:26 he does it a second time, eight days later, for Thomas; at 20:28 Thomas answers “My Lord and my God.” 3 Nephi 19:15 is the coming and standing, 19:16-17 the interval, and 19:18 the confession — except that the confession is made by all twelve, and made in prayer rather than in astonishment. The metalepsis is in what John 20 supplies and 3 Nephi does not repeat: the doors shut for fear of the Jews. The Nephite disciples are in an open place before a multitude, and the same appearance that consoled a frightened remnant here inaugurates a public church."
+        },
+        "note": "“Behold, Jesus came and stood in the midst, and ministered unto them.” John 20:19's clause with the word order inverted, at precisely the corresponding narrative moment — the risen Christ arriving unannounced among gathered disciples. The catalogue has already given 3 Nephi 11:8 to Luke 24:36 on the strength of “of them”; that pronoun is absent here, which is what moves this verse to John.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "19:18": [
+      {
+        "source": "John 20:28",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "And Thomas answered and said unto him, My LORD and my God.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 3,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "recurrenceRefs": [
+          "3 Nephi 19:15",
+          "3 Nephi 19:22"
+        ],
+        "provenance": {
+          "route": "John 20:28 → KJV → Book of Mormon",
+          "other": "“my Lord and my God” occurs in exactly one KJV verse, John 20:28. It is the only place in the King James Bible where a disciple addresses Jesus as God, and it is the last thing said to him in the Fourth Gospel before its first ending.",
+          "significance": "3 Nephi 19:18 takes Thomas's exclamation and makes it a liturgy: “they did pray unto Jesus, calling him their Lord and their God” — first person singular to third person plural, an outburst to a practice. That conversion is what the chapter then has to defend, and it does defend it: at 19:22 Christ tells the Father “they pray unto me because I am with them”, which is an answer to an objection the text never states. So the one KJV verse in which Christ is called God by a disciple becomes, in the Book of Mormon, the warrant for prayer addressed to Christ — with a warrant of its own supplied four verses later, and withdrawn again by the argument's own logic, since the reason given is presence. Recovering John 20's context sharpens it further: Thomas says it because he has touched the wounds, and Jesus immediately answers “blessed are they that have not seen, and yet have believed.”"
+        },
+        "note": "“And they did pray unto Jesus, calling him their Lord and their God.” Five words of a KJV singleton, and the singleton is Thomas's confession — the chapter having already put the twelve in John 20's room at 19:15. The Book of Mormon converts the vocative into a description of what the disciples call him, which is why this is an allusion and not a quotation.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "19:19": [
+      {
+        "source": "Matthew 26:39",
+        "type": "allusion",
+        "subtype": "structural",
+        "confidence": "high",
+        "text": "And he went a little farther, and fell on his face, and prayed, saying, O my Father, if it be possible, let this cup pass from me: nevertheless not as I will, but as thou wilt.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Matthew 26:40",
+          "Matthew 26:42",
+          "Matthew 26:43",
+          "Matthew 26:44",
+          "Matthew 26:45",
+          "Mark 14:35"
+        ],
+        "recurrenceRefs": [
+          "3 Nephi 19:24",
+          "3 Nephi 19:27",
+          "3 Nephi 19:30",
+          "3 Nephi 19:31",
+          "3 Nephi 19:35"
+        ],
+        "provenance": {
+          "route": "Matthew 26:39-45 → KJV → Book of Mormon",
+          "other": "The frame is Matthew's and it is built of KJV singletons. “went a little farther” occurs in exactly one KJV verse (Matthew 26:39); “he cometh unto the disciples” in exactly one (26:40); “he came and found them asleep again” in exactly one (26:43); “the third time, saying the same words” in exactly one (26:44). Mark 14:35 has “went forward a little, and fell on the ground”; Luke 22:41 has “was withdrawn from them about a stone's cast, and kneeled down”. tools/mediation-check.py returns divergences pointing both ways between Matthew and Mark, which is the expected signature of a composite: the Book of Mormon's “went a little way off” is neither gospel's exact wording, and “bowed himself to the earth” is neither Matthew's “fell on his face” nor Mark's “fell on the ground”.",
+          "alternative": "Genesis 33:3's “bowed himself to the ground” is a KJV singleton and the closest match for the posture clause; it is registered as an exclusion at this verse, because Jacob approaching Esau has nothing else to do with the scene.",
+          "significance": "This is the chapter's governing borrowing and it runs to 19:35. Gethsemane's shape is: Jesus withdraws a little way and prays (26:39); he returns to the disciples and finds them asleep, and says watch and pray (26:40-41); he goes away a second time and prays (26:42); he returns and finds them asleep again (26:43); he goes away and prays the third time, saying the same words (26:44); he comes to them a third time and speaks (26:45). 3 Nephi 19 keeps every joint of it — 19:19 (withdraws), 19:24 (returns), 19:27 (second withdrawal), 19:30 (returns), 19:31 (third withdrawal), 19:35 (returns and speaks) — and changes exactly one thing. Each time he returns, the disciples are not asleep. 19:24: “they did still continue, without ceasing, to pray unto him”; 19:30: “they did pray steadfastly, without ceasing”. So the command that Gethsemane's disciples failed, “Watch and pray, that ye enter not into temptation”, is kept here, and 19:26's “Pray on” answers 26:45's “Sleep on now, and take your rest” word for word in form and opposite in sense. Matthew 26:44 supplies one more inversion: there the third prayer is “the same words”, here (19:32) the third prayer is words that cannot be written or spoken at all. This is Gethsemane run again with the disciples awake — and the chapter's whole doctrinal payload, prayer offered to Christ, is placed inside the one gospel scene in which Christ prays alone and is not attended."
+        },
+        "note": "“Jesus departed out of the midst of them, and went a little way off from them and bowed himself to the earth, and he saith.” On its own the verse is a modest echo: “a little” is shared with Matthew and Mark, the posture with neither. The link is graded high on the structure rather than the wording, because 19:19, 19:24, 19:27, 19:30, 19:31 and 19:35 reproduce Matthew 26:39-45's six movements in order and without omission, and the one systematic departure — the disciples pray instead of sleeping — is legible only against that source. 1830 reads “he saith”, changed to “said” in 1920.",
+        "whyNot": "There is no long verbal run anywhere in the sequence, and a scene of a man repeatedly withdrawing to pray needs no literary source. A reader who thinks three withdrawals is simply what earnest prayer looks like will not be moved by “a little”, and the argument then rests entirely on the count and the order.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "19:20": [
+      {
+        "source": "John 11:41",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "Then they took away the stone from the place where the dead was laid. And Jesus lifted up his eyes, and said, Father, I thank thee that thou hast heard me.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "John 15:19"
+        ],
+        "recurrenceRefs": [
+          "3 Nephi 19:28"
+        ],
+        "provenance": {
+          "route": "John 11:41 + John 15:19 → KJV → Book of Mormon",
+          "other": "“Father, I thank thee” occurs in exactly one KJV verse, John 11:41, and so does the fuller “Father, I thank thee that thou hast”. The verse's closing clause is a second singleton: “I have chosen you out of the world” occurs in exactly one KJV verse, John 15:19. Both prayers in this chapter open with the Lazarus formula (19:20 and 19:28).",
+          "significance": "The Book of Mormon's Christ opens his prayer with the only words in the King James Bible by which Jesus thanks the Father — and they are the words spoken over an open tomb, immediately before Lazarus is called out. Recover that context and the thanksgiving is not general: John 11:42 explains it as spoken aloud “because of the people which stand by, that they may believe that thou hast sent me.” 3 Nephi 19:20 is likewise a prayer prayed within earshot of a watching multitude and about their believing. The closing clause then reaches to John 15:19, where being chosen out of the world is the reason the world hates the disciples; here it is the reason they have received the Holy Ghost."
+        },
+        "note": "“Father, I thank thee that thou hast given the Holy Ghost unto these whom I have chosen … I have chosen them out of the world.” Two KJV singletons bracketing one verse, both Johannine, both from prayers or farewell discourse. Nine words matching John 11:41 at the head and eight matching John 15:19 at the foot — below Skousen's sixteen-word threshold in each half, and not one of his passages.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "19:23": [
+      {
+        "source": "John 17:21",
+        "type": "quotation",
+        "subtype": "close-verbal",
+        "confidence": "certain",
+        "text": "That they all may be one; as thou, Father, art in me, and I in thee, that they also may be one in us: that the world may believe that thou hast sent me.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 4
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "John 17:20"
+        ],
+        "recurrenceRefs": [
+          "3 Nephi 19:29"
+        ],
+        "provenance": {
+          "route": "John 17:20-21 → KJV → Book of Mormon",
+          "other": "“as thou, Father, art in me” occurs in exactly one KJV verse, John 17:21, and “which shall believe on me through their word” occurs in exactly one, John 17:20. 3 Nephi 19:23 has the first verbatim and the second with one substitution: “which shall believe on their words”, dropping “on me through” and pluralising “word”. 1830 reads “all they which shall believe”, modernised to “all those who shall believe” in 1920, which moves the clause further from John.",
+          "significance": "This is the hinge of the whole prayer and the substitution is where the argument lives. John 17:20 prays for those who will believe on Jesus through the apostles' word; 3 Nephi 19:23 prays for those who will believe on the apostles' words, and then adds the clause John does not have — “that they may believe in me”. Belief in the messengers is made the antecedent of belief in Christ rather than its synonym, which is a claim about the standing of a text and its witnesses, made inside a prayer about unity. The suppressed half of John 17:21 is the purpose clause: “that the world may believe that thou hast sent me.” The Book of Mormon stops at “that we may be one” and leaves the world out of it, which 19:29 will then make explicit by importing John 17:9's “I pray not for the world”."
+        },
+        "note": "“That I may be in them as thou, Father, art in me, that we may be one.” Six words of John 17:21 verbatim, from a clause in that one KJV verse, inside a sentence that has already reworked John 17:20. Hardy cross-references John 17:20-22 at this verse.",
+        "bibliography": [
+          "Hardy MSI at 3 Ne 19.23 (cross-references John 17:20-22)"
+        ],
+        "status": "majority",
+        "streams": [
+          "scholarship",
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "19:24": [
+      {
+        "source": "Romans 8:26",
+        "type": "allusion",
+        "subtype": "conceptual",
+        "confidence": "moderate",
+        "text": "Likewise the Spirit also helpeth our infirmities: for we know not what we should pray for as we ought: but the Spirit itself maketh intercession for us with groanings which cannot be uttered.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Matthew 10:19",
+          "Matthew 6:7"
+        ],
+        "recurrenceRefs": [
+          "3 Nephi 13:7",
+          "3 Nephi 19:34"
+        ],
+        "provenance": {
+          "route": "Romans 8:26 → KJV → Book of Mormon",
+          "other": "“what we should pray for” occurs in exactly one KJV verse, Romans 8:26. The other half of 3 Nephi 19:24's clause, “it was given unto them what they should pray”, is the shape of Matthew 10:19, where “it shall be given you in that same hour” occurs in exactly one KJV verse. For the first half of the verse the source is not the Bible directly: “much speaking” and “vain repetitions” each occur in exactly one KJV verse, Matthew 6:7, and 3 Nephi 13:7 has already reproduced that verse whole.",
+          "significance": "Romans 8:26 says the Spirit supplies what a praying man does not know how to ask, and it says so with a phrase — “groanings which cannot be uttered” — that this chapter picks up again at 19:32-34, where Christ's own third prayer cannot be written or uttered by man. So the same Pauline verse underwrites both halves of the chapter's theory of prayer: what the disciples pray is given them, and what Christ prays cannot be said. And the disciples' restraint is obedience to a sermon this book has already reported: at 13:7, the Nephite Sermon on the Mount, they were told not to be heard for their much speaking. 19:24's “they did not multiply many words” is the narrator certifying that the congregation kept the rule."
+        },
+        "note": "“They did not multiply many words, for it was given unto them what they should pray.” Three strands, none of them a long run: Matthew 6:7's prohibition, already given to these hearers at 3 Nephi 13:7 and here reported as kept; Matthew 10:19's promise that what to say will be given in the hour; and Romans 8:26, the KJV's only verse about not knowing what one should pray for. Graded moderate because no single strand would carry the verse alone.",
+        "whyNot": "The Book of Mormon's actual words — “multiply many words” — are in no KJV verse; “multiply words” occurs in none. The link is to the ideas of three verses and to one four-word run from Romans, and a reader who wants a verbal case will find only the run.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "19:25": [
+      {
+        "source": "Numbers 6:25",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "The LORD make his face shine upon thee, and be gracious unto thee:",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 4
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Numbers 6:26",
+          "Psalm 4:6"
+        ],
+        "provenance": {
+          "route": "Numbers 6:24-26 → KJV → Book of Mormon",
+          "other": "Numbers 6:25 has “make his face shine upon thee” and 6:26 “lift up his countenance upon thee”; the Book of Mormon has both elements fused — “his countenance did smile upon them, and the light of his countenance did shine upon them”. The word Numbers lacks is “light”: “the light of thy countenance” occurs in exactly four KJV verses, Psalm 4:6, 44:3, 89:15 and 90:8, all Psalms. tools/mediation-check.py finds no divergence between Numbers 6:25 and Psalm 4:6 that this verse reproduces — both elements are present — so the composite is recorded rather than a choice made.",
+          "significance": "The verse opens “Jesus blessed them”, and what follows is the priestly blessing being performed rather than recited. Numbers 6:23 tells Aaron and his sons “On this wise ye shall bless the children of Israel”, and the wise is: face shine upon thee, countenance lifted upon thee, peace. Here the blessing has no words at all — it is a smile and a shining — and the recipients become what the blessing describes, white as the face and garments of the one blessing them. The Aaronic formula's grammar is petition (“The LORD make his face shine”); 3 Nephi 19:25 reports it in the indicative, with the LORD present and doing it. That is what a study edition's cross-reference to Numbers 6:22-27 gestures at, and it is worth spelling out."
+        },
+        "note": "“Jesus blessed them … his countenance did smile upon them, and the light of his countenance did shine upon them.” The blessing of Numbers 6:24-26 enacted rather than spoken, with the Psalms' “light of thy countenance” supplying the noun Numbers does not use. Hardy cross-references Numbers 6:22-27 at this verse.",
+        "bibliography": [
+          "Hardy MSI at 3 Ne 19.25 (cross-references Numbers 6:22-27)"
+        ],
+        "status": "majority",
+        "streams": [
+          "scholarship",
+          "manual"
+        ]
+      },
+      {
+        "source": "Mark 9:3",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "And his raiment became shining, exceeding white as snow; so as no fuller on earth can white them.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Matthew 17:2"
+        ],
+        "recurrenceRefs": [
+          "3 Nephi 19:30"
+        ],
+        "provenance": {
+          "route": "Mark 9:3 + Matthew 17:2 → KJV → Book of Mormon",
+          "other": "“no fuller on earth” occurs in exactly one KJV verse, Mark 9:3, and it is the King James Bible's only whiteness superlative bounded by the earth. 3 Nephi 19:25 closes “there could be nothing upon earth so white as the whiteness thereof”. Matthew 17:2 supplies the other element — “his face did shine as the sun, and his raiment was white as the light” — matching the Book of Mormon's pairing of a shining countenance with white garments. Luke 9:29 has “white and glistering” and no earth-clause. tools/mediation-check.py finds Matthew 17:2's form where it and Daniel 7:9 diverge, on “did shine”.",
+          "significance": "3 Nephi 19:25 is a transfiguration, and the person transfigured is not Jesus. The KJV's two transfiguration accounts are ransacked for their two distinctive details — Matthew's shining face, Mark's superlative that no earthly fuller could match the white — and both are transferred to the disciples: “they were as white as the countenance, and also the garments of Jesus.” Mark's fuller is the point of the metalepsis. His clause exists to say the whiteness was not produced by any human process, and the Book of Mormon keeps the disclaimer and drops the fuller, leaving “nothing upon earth so white”. What Mark says of Christ's clothes on the mountain, 3 Nephi says of praying men on a plain — and 19:30 completes it, “they were white, even as Jesus.”"
+        },
+        "note": "“There could be nothing upon earth so white as the whiteness thereof.” Mark 9:3's earth-bounded superlative, from the KJV's only verse that contains one, joined to Matthew 17:2's shining countenance — and applied to the disciples rather than to Christ. Note that the surrounding words are the Book of Mormon's own; the borrowing is the figure, not a run.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "19:28": [
+      {
+        "source": "John 17:19",
+        "type": "allusion",
+        "subtype": "paraphrase",
+        "confidence": "high",
+        "text": "And for their sakes I sanctify myself, that they also might be sanctified through the truth.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 4,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 3,
+          "attestation": 4
+        },
+        "kjvSpecific": "uncertain",
+        "mediation": "direct-NT",
+        "composite": [
+          "John 17:17",
+          "John 17:20",
+          "John 11:41"
+        ],
+        "recurrenceRefs": [
+          "3 Nephi 19:20",
+          "3 Nephi 19:23"
+        ],
+        "provenance": {
+          "route": "John 17:17-20 → KJV → Book of Mormon",
+          "other": "“sanctify them through thy truth” occurs in exactly one KJV verse, John 17:17, and John 17:19 repeats the verb twice more. The Book of Mormon does not use the word: 19:28 says “purified” four times where John says “sanctify/sanctified” three times, in the same position in the same prayer. That substitution is what holds kjvSpecific at uncertain — the sentence tracks John's structure closely and its distinctive verb not at all. The verse also reopens with John 11:41's formula, “Father, I thank thee that thou hast”, which occurs in exactly one KJV verse.",
+          "significance": "John 17:17-19 is the petition of the high-priestly prayer that asks for the disciples' consecration on the ground of Christ's own; 3 Nephi 19:28 asks for the same thing on the ground of the disciples' faith, and says so three times — “because of their faith … through faith on their words … even as they are purified in me.” Faith replaces truth as the medium of sanctification. That is a substantive change to what the prayer asks for, and it is made without disturbing a single joint of the sentence it is made in."
+        },
+        "note": "“Father, I thank thee that thou hast purified those which I have chosen, because of their faith … that they may be purified in me.” The second prayer opens with John 11:41's formula for the second time and then reproduces the movement of John 17:17-20 with “purified” standing throughout where John has “sanctified”. Frederick reads 3 Nephi 19 as “a lengthy variation of the intercessory prayer” and singles out verses 28-29 as “alluding in particular to John 17”; his interest is in what a nineteenth-century reader would hear, not in identifying a source verse, and he names none.",
+        "bibliography": [
+          "Frederick 2016: 5"
+        ],
+        "status": "majority",
+        "streams": [
+          "scholarship",
+          "manual"
+        ]
+      }
+    ],
+    "19:29": [
+      {
+        "source": "John 17:9",
+        "type": "quotation",
+        "subtype": "close-verbal",
+        "confidence": "certain",
+        "text": "I pray for them: I pray not for the world, but for them which thou hast given me; for they are thine.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 5
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "John 17:10",
+          "John 17:21"
+        ],
+        "recurrenceRefs": [
+          "3 Nephi 19:23"
+        ],
+        "provenance": {
+          "route": "John 17:9-10, 17:21 → KJV → Book of Mormon",
+          "other": "“I pray not for the world” occurs in exactly one KJV verse, John 17:9, and the Book of Mormon reproduces the whole of its second clause — thirteen consecutive words, “I pray not for the world, but for them which thou hast given” — interrupted only by the 1830's added “unto” before “me”, which 1920 deleted, moving the text back toward John. The verse then closes with two more singletons: “as thou, Father, art in me” (John 17:21) and “I am glorified in them” (John 17:10). 1830's “them which” was changed to “those whom” in 1920.",
+          "significance": "This is the one place in the chapter where the borrowing is long enough to be a quotation on any definition, and it is the place where the prayer's logic is most changed. John 17:9's ground for the restriction is possession — “for they are thine”. 3 Nephi 19:29's ground is merit: “because of their faith”, the third time in two verses. And John 17:10's “I am glorified in them” is a statement of fact in the indicative; here it becomes a petition, “that I may be glorified in them”. So the Book of Mormon takes the high-priestly prayer's most exclusive sentence, keeps it word for word, and shifts both its warrant and its mood. The 1830 reading is the sharper witness to the borrowing in one respect and the weaker in another: “given unto me” is not John's, and the 1920 correction quietly restored John's phrase.",
+          "alternative": "Isaiah 60:21 ends “that I may be glorified”, which is where the n-gram stream pointed; John 17:10's “I am glorified in them” supplies the prepositional phrase Isaiah lacks and is registered as the source."
+        },
+        "note": "“Father, I pray not for the world, but for them which thou hast given unto me out of the world … that I may be glorified in them.” A thirteen-word run from John 17:9 — still below Skousen's sixteen-word threshold, and not one of his 36 passages — plus two further KJV singletons from John 17:10 and 17:21. Hardy cross-references John 17:6-9 at this verse; Frederick quotes 19:28-29 whole and describes them as alluding in particular to John 17.",
+        "bibliography": [
+          "Hardy MSI at 3 Ne 19.29 (cross-references John 17:6-9)",
+          "Frederick 2016: 5"
+        ],
+        "status": "consensus",
+        "streams": [
+          "scholarship",
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "19:33": [
+      {
+        "source": "Matthew 13:15",
+        "type": "echo",
+        "subtype": "conceptual",
+        "confidence": "moderate",
+        "text": "For this people’s heart is waxed gross, and their ears are dull of hearing, and their eyes they have closed; lest at any time they should see with their eyes and hear with their ears, and should understand with their heart, and should be converted, and I should heal them.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 2,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 3,
+          "attestation": 0
+        },
+        "kjvSpecific": "uncertain",
+        "mediation": "uncertain",
+        "composite": [
+          "Isaiah 6:10",
+          "Acts 16:14"
+        ],
+        "recurrenceRefs": [
+          "3 Nephi 19:35",
+          "3 Nephi 19:36"
+        ],
+        "provenance": {
+          "route": "Isaiah 6:10, in one of its New Testament forms (Matthew 13:15, John 12:40, Acts 28:27) → KJV → Book of Mormon",
+          "other": "“understand with their heart” occurs in exactly four KJV verses — Isaiah 6:10 and its three New Testament quotations, Matthew 13:15, John 12:40 and Acts 28:27. Every one of them is negative: the phrase exists in the King James Bible only inside the prophecy that this people will NOT understand with their heart. 3 Nephi 19:33 reads “they did understand in their hearts”, with the preposition and the number both changed. Separately, “whose heart the Lord opened” occurs in exactly one KJV verse, Acts 16:14, and 19:33 has “their hearts were open”.",
+          "significance": "The mediation cannot be settled and the reason is itself worth recording. tools/mediation-check.py, run on Isaiah 6:10 against Matthew 13:15, returns no divergence that 3 Nephi 19:33 reproduces: the phrase is identical in the Hebrew prophet and in Matthew's quotation of him, so the Book of Mormon's four words cannot say which page they came from. What can be said is the reversal. Isaiah 6:10 is the commission to make a people's heart fat so that they shall not understand; the Book of Mormon takes its one distinctive clause and reports it fulfilled in the affirmative — hearts open, hearts understanding — over a multitude that has just heard words no man can write. If Matthew's is the form in view, the reversal is pointed, because the same chapter of Matthew supplies 19:35 (13:58) and 19:36 (13:17), and 13:16-17 is precisely where Matthew turns from the unhearing crowd to the disciples whose eyes are blessed because they see.",
+          "alternative": "Acts 16:14's opened heart is the closer match for “their hearts were open” and has nothing else in common with the verse; it is recorded here as the other half of the composite rather than as the source."
+        },
+        "note": "“Their hearts were open, and they did understand in their hearts the words which he prayed.” Four words from a phrase the King James Bible uses only in the Isaiah 6:10 hardening oracle and its three New Testament citations, here inverted into a report that the hearing did occur. Graded moderate: the contact is real and rare, the wording is altered at two points, and the mediation is undecidable on the evidence of this verse.",
+        "whyNot": "“Understand with their heart” is not an unusual thing for an English writer to say about comprehension, and its KJV rarity may be an accident of the one oracle that happens to phrase it that way. If the reversal is not deliberate the link is nothing.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "19:34": [
+      {
+        "source": "2 Corinthians 12:4",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "How that he was caught up into paradise, and heard unspeakable words, which it is not lawful for a man to utter.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Romans 8:26"
+        ],
+        "recurrenceRefs": [
+          "3 Nephi 19:32",
+          "3 Nephi 19:24"
+        ],
+        "provenance": {
+          "route": "2 Corinthians 12:4 → KJV → Book of Mormon",
+          "other": "“unspeakable words” occurs in exactly one KJV verse and “not lawful for a man to utter” occurs in exactly one, both 2 Corinthians 12:4. It is the King James Bible's only account of words heard and not repeatable. The Book of Mormon's clause at 19:34 is “neither can they be uttered by man”, and at 19:32 “tongue cannot speak the words which he prayed, neither can be written by man”. Romans 8:26's “groanings which cannot be uttered” is the KJV's one other unutterable speech and is the verse this catalogue records at 19:24.",
+          "significance": "The change is from prohibition to incapacity, and it is the whole point. Paul's words are unutterable because it is not lawful — a restriction laid on the hearer, who could speak them and may not. 3 Nephi 19:32-34 makes it a limit of the instrument: tongue cannot speak them, they cannot be written, they cannot be uttered by man. Read against Matthew 26:44, which the chapter has been following since 19:19, this is where the Gethsemane frame breaks: Matthew's third prayer is reported as “the same words”, and the third prayer here has no words that can be reported at all. And it completes the pair with 19:24 — the disciples are given what they should pray, and what Christ prays cannot be given to anyone."
+        },
+        "note": "“So great and marvellous were the words which he prayed, that they cannot be written, neither can they be uttered by man.” Both distinctive elements of 2 Corinthians 12:4 are present — the unutterability and the agent “man” — with the ground moved from law to possibility. 1830 keeps the KJV spelling “marvellous”, modernised to “marvelous” in 1920.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "19:35": [
+      {
+        "source": "Matthew 8:10",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "When Jesus heard it, he marvelled, and said to them that followed, Verily I say unto you, I have not found so great faith, no, not in Israel.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Luke 7:9"
+        ],
+        "provenance": {
+          "route": "Matthew 8:10 (or Luke 7:9) → KJV → Book of Mormon",
+          "other": "“so great faith” occurs in exactly two KJV verses, Matthew 8:10 and Luke 7:9, which are the same saying about the centurion; so does its completion, “no, not in Israel”. tools/mediation-check.py finds no divergence between the two that 3 Nephi 19:35 reproduces — the Book of Mormon keeps only the words the synoptics share — so the gospel cannot be chosen and the mediation is recorded as direct-NT without one.",
+          "significance": "The King James Bible has exactly one measurement of faith by comparison with Israel, and it is Jesus marvelling at a Gentile soldier: I have not found so great faith, no, not in Israel. 3 Nephi 19:35 reuses the measurement with the terms enlarged — “So great faith have I never seen among all the Jews” — so a comparison Jesus once made between one centurion and his own nation is now made between a whole people and that nation. The metalepsis cuts against the borrower: the centurion's faith consisted in not needing Christ to come under his roof, and these disciples have had Christ standing bodily in the midst of them for two days."
+        },
+        "note": "“So great faith have I never seen among all the Jews.” Three words from a phrase in only two KJV verses, both the centurion pericope, with the comparison term changed from “in Israel” to “among all the Jews” and the verb from “found” to “seen”. The reordering is what keeps this an allusion rather than a quotation.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      },
+      {
+        "source": "Matthew 13:58",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "And he did not many mighty works there because of their unbelief.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Mark 6:5",
+          "Matthew 11:1"
+        ],
+        "recurrenceRefs": [
+          "3 Nephi 19:36"
+        ],
+        "provenance": {
+          "route": "Matthew 13:58 + Mark 6:5 → KJV → Book of Mormon",
+          "other": "“because of their unbelief” occurs in exactly two KJV verses, Matthew 13:58 and Mark 6:6, both in the Nazareth episode. tools/mediation-check.py, run against Mark 6:5, returns divergences pointing both ways: the Book of Mormon has Mark's modal, “could not”, against Matthew's flat “did not many”, and Matthew's cause clause, “because of their unbelief”, against Mark's “save that he laid his hands upon a few sick folk”. “could there do no mighty work” occurs in exactly one KJV verse (Mark 6:5) and “he did not many mighty works there” in exactly one (Matthew 13:58). The verse's opening frame is a third singleton: “Jesus had made an end of” occurs in exactly one KJV verse, Matthew 11:1, where the completed activity is commanding his twelve disciples and here it is praying.",
+          "significance": "3 Nephi 19:35-36 is built out of Matthew 13 — 13:58 here and 13:17 in the next verse — and Matthew 13:58 is the closing sentence of that chapter, the verdict on Christ's own countrymen. The Book of Mormon has Christ deliver that verdict himself, in the first person, as an unfavourable comparison with the people in front of him: he could not shew the Jews so great miracles, and these have seen greater. Recover Matthew's context and the sentence is about Nazareth, his home town, where “a prophet is not without honour, save in his own country” — so the failure being reported is not the Jews' in general but the failure of the people who knew him. Note the composite's shape: the modal is Mark's and the causal clause is Matthew's, which is the ordinary signature of a writer working from a memory of both synoptics rather than from one page."
+        },
+        "note": "“Wherefore I could not shew unto them so great miracles, because of their unbelief.” Mark 6:5's “could not” fused with Matthew 13:58's “because of their unbelief”, in a verse whose narrative frame — “when Jesus had made an end of” — is itself a KJV singleton from Matthew 11:1. The 1830's “shew” is the KJV spelling; 1920 modernised it to “show”, which obscures the register.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "19:36": [
+      {
+        "source": "Matthew 13:17",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "For verily I say unto you, That many prophets and righteous men have desired to see those things which ye see, and have not seen them; and to hear those things which ye hear, and have not heard them.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 2
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Luke 10:24"
+        ],
+        "recurrenceRefs": [
+          "3 Nephi 19:35",
+          "3 Nephi 19:33"
+        ],
+        "provenance": {
+          "route": "Matthew 13:17 → KJV → Book of Mormon",
+          "other": "“which ye see, and have not seen them” occurs in exactly two KJV verses, Matthew 13:17 and Luke 10:24, which are the same beatitude on the disciples' eyes. tools/mediation-check.py returns one decisive point and it favours Matthew: 3 Nephi 19:36 opens “Verily I say unto you”, which is Matthew 13:17's “For verily I say unto you”; Luke 10:24 reads “For I tell you”. Matthew's other distinctive term, “righteous men”, against Luke's “kings”, is not reproduced.",
+          "significance": "Matthew 13:16-17 blesses the disciples' eyes and ears against the prophets and righteous men who desired to see and hear and did not. 3 Nephi 19:36 keeps the seeing-and-hearing antithesis and changes the losing party from the prophets of the past to the Jews of the present — “there are none of them that have seen so great things as ye have seen”. That completes what 19:35 began, and it means the chapter closes with three separate contacts with Matthew 13: the hardening oracle at 19:33 (13:15), the Nazareth verdict at 19:35 (13:58), and this beatitude. Matthew 13 is the gospel chapter about who is given to understand and who is not, and 3 Nephi 19 answers it verse by verse in the affirmative — these hearts understood, these eyes have seen — which is a considerable claim to have made out of borrowed clauses."
+        },
+        "note": "“There are none of them that have seen so great things as ye have seen; neither have they heard so great things as ye have heard.” The antithesis and the verily-formula of Matthew 13:17, with the mediation settled by the opening words against the Lukan parallel. Frederick quotes this verse and reads it as hinting at the superiority of the Book of Mormon apostles and people to those of the Old World; that is a claim about its rhetorical effect, not an identification of a source, and he names no verse.",
+        "bibliography": [
+          "Frederick 2016: 5-6"
+        ],
+        "status": "majority",
+        "streams": [
+          "manual"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,647 @@
+{
+ "chapter": 15,
+ "adjudicated": "2026-09-07",
+ "adjudicator": "Opus",
+ "links": {
+  "15:1": [
+   {
+    "source": "Matthew 7:28",
+    "type": "quotation",
+    "subtype": "close-verbal",
+    "confidence": "certain",
+    "text": "And it came to pass, when Jesus had ended these sayings, the people were astonished at his doctrine:",
+    "evidence": {
+     "vocabulary": 5,
+     "syntax": 5,
+     "sequence": 5,
+     "context": 5,
+     "rarity": 5,
+     "attestation": 1
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "composite": [
+     "Matthew 7:24",
+     "Matthew 7:26"
+    ],
+    "recurrenceRefs": [
+     "3 Nephi 14:24",
+     "3 Nephi 14:26"
+    ],
+    "provenance": {
+     "route": "Matthew 7:28 (with 7:24, 7:26) → KJV → Book of Mormon",
+     "other": "“when Jesus had ended these sayings” occurs in exactly one KJV verse. “these sayings of mine, and doeth them” occurs in exactly two, Matthew 7:24 and 7:26, both of which the Book of Mormon has already reproduced at 3 Nephi 14:24 and 14:26. One Book of Mormon sentence therefore closes the sermon with Matthew's closing formula and summarises it with Matthew's peroration.",
+     "significance": "Matthew 7:28's suppressed continuation is the crowd's reaction and its ground: “the people were astonished at his doctrine: for he taught them as one having authority, and not as the scribes” (7:29). 3 Nephi 15 is that unstated clause turned into an argument. The chapter's whole business is the authority by which a speaker can declare the law of Moses at an end, and it answers in the first person what Matthew reports as a crowd's impression: “I am he that gave the law, and I am he which covenanted with my people Israel” (15:5). Matthew's audience infers the authority; this one is told its source."
+    },
+    "note": "The Sermon at the Temple ends at 3 Nephi 14:27, and 15:1 opens with the clause the King James Bible uses to close the Sermon on the Mount, in the identical structural position — “when Jesus had ended these sayings”, which occurs in exactly one KJV verse. What follows diverges: Matthew turns to the crowd's astonishment, and the Book of Mormon instead reaches back four verses in the same chapter to the parable of the two builders, so that “these sayings of mine, and doeth them” — two KJV verses, Matthew 7:24 and 7:26 — arrives with the wise man's house replaced by a promise of resurrection. The sentence is a seam, and both halves of it are Matthew 7.",
+    "bibliography": [],
+    "status": "novel",
+    "streams": [
+     "machine-ngram",
+     "manual"
+    ]
+   },
+   {
+    "source": "John 6:44",
+    "type": "allusion",
+    "subtype": "close-verbal",
+    "confidence": "high",
+    "text": "No man can come to me, except the Father which hath sent me draw him: and I will raise him up at the last day.",
+    "evidence": {
+     "vocabulary": 4,
+     "syntax": 4,
+     "sequence": 4,
+     "context": 5,
+     "rarity": 4,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "composite": [
+     "John 6:40",
+     "John 6:54"
+    ],
+    "recurrenceRefs": [
+     "3 Nephi 15:24"
+    ],
+    "provenance": {
+     "route": "John 6:44 (with 6:40, 6:54) → KJV → Book of Mormon",
+     "other": "“raise him up at the last day” occurs in exactly three KJV verses, John 6:40, 6:44 and 6:54, all in one discourse; the Book of Mormon inverts the word order to “him will I raise up at the last day”. “at the last day” occurs in exactly five, four of them in the same chapter of John.",
+     "significance": "The reward clause is not a decoration. John 6's refrain sits inside an argument about the Father's giving and drawing — “all that the Father giveth me shall come to me” (6:37), “except the Father which hath sent me draw him” (6:44) — and that is the note this chapter closes on twenty-three verses later: “ye are numbered among them which the Father hath given me” (15:24). The chapter opens and shuts on the same Johannine premise, that the audience in front of the speaker is an audience the Father assigned him, which is exactly the premise 15:13-21 needs in order to explain why there was a second flock at all."
+    },
+    "note": "“Therefore whoso remembereth these sayings of mine, and doeth them, him will I raise up at the last day.” The protasis is Matthew 7:24; the apodosis is not. Matthew promises the wise builder a house that stands, and this verse promises resurrection in the refrain of John 6, where “raise him up at the last day” occurs in exactly three KJV verses and nowhere else in the Bible. The chapter's first sentence therefore welds the end of the Sermon on the Mount to the Bread of Life discourse, which is a fair announcement of what the next twenty-three verses do: the Matthaean material is expounded, and it is expounded in John's vocabulary throughout.",
+    "bibliography": [],
+    "status": "novel",
+    "streams": [
+     "manual"
+    ]
+   }
+  ],
+  "15:2": [
+   {
+    "source": "2 Corinthians 5:17",
+    "type": "quotation",
+    "subtype": "close-verbal",
+    "confidence": "certain",
+    "text": "Therefore if any man be in Christ, he is a new creature: old things are passed away; behold, all things are become new.",
+    "evidence": {
+     "vocabulary": 5,
+     "syntax": 4,
+     "sequence": 5,
+     "context": 5,
+     "rarity": 5,
+     "attestation": 4
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "recurrenceRefs": [
+     "3 Nephi 15:3",
+     "3 Nephi 15:7"
+    ],
+    "provenance": {
+     "route": "2 Corinthians 5:17 → KJV → Book of Mormon",
+     "other": "Two King James singletons in one verse: “old things are passed away” occurs in exactly one KJV verse and “all things are become new” occurs in exactly one, and they are the same verse. tools/mediation-check.py against Isaiah 43:18 (“Remember ye not the former things, neither consider the things of old”) returns three decisive points for Paul at every place the two differ: the Book of Mormon has “old things” and “all things ... new”, not Isaiah's “former things” and “things of old”. The apocalyptic commonplace reaches this chapter in its Pauline form only.",
+     "significance": "Paul's sentence is about a person — “if any man be in Christ, he is a new creature” — and the old things that pass away are the old man's. 3 Nephi 15 hears it as a statement about a legal dispensation, and the next six verses are spent forcing that reading: the old thing that has passed away is the law of Moses, and the marvelling is at the transfer. The catalogue's interest is that the transfer is unannounced. Nothing in 15:2 marks the words as a quotation; they are simply the saying the hearers cannot construe, and the reader who recovers 2 Corinthians 5:17 finds a soteriological formula being used as a periodisation."
+    },
+    "note": "“They understood not the saying, That old things had passed away, and that all things had become new.” This is 2 Corinthians 5:17 with one change, and the change is grammatical rather than substantive: the King James present (“are passed away ... are become new”) becomes a pluperfect because the clause is being reported rather than uttered. That shift is why the machine never proposed it — an n-gram stream reading contiguous windows loses the run at the verb, and it ranked Luke 2:50 first in this verse instead (CONVENTIONS §9). Both halves of Paul's sentence are King James singletons, and both are here, in order, and the verse says outright that they were said before and misunderstood, which is a claim only a quotation can make.",
+    "bibliography": [
+     "Hardy MSI at 3 Ne 15.2 (2 Corinthians 5:17)"
+    ],
+    "status": "consensus",
+    "streams": [
+     "scholarship",
+     "manual"
+    ]
+   },
+   {
+    "source": "Luke 2:50",
+    "type": "allusion",
+    "subtype": "probable",
+    "confidence": "moderate",
+    "text": "And they understood not the saying which he spake unto them.",
+    "evidence": {
+     "vocabulary": 3,
+     "syntax": 4,
+     "sequence": 3,
+     "context": 4,
+     "rarity": 5,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "provenance": {
+     "route": "Luke 2:50 → KJV → Book of Mormon",
+     "other": "“understood not the saying” occurs in exactly one KJV verse. The looser formula “they understood not” occurs in exactly six — Mark 9:32, Luke 2:50, Luke 9:45, John 8:27, John 10:6 and Acts 7:25 — and only Luke 2:50 has the definite article with the singular noun.",
+     "significance": "Recover Luke 2:50's setting and it is the boy Jesus in the temple, and the saying his parents cannot understand is “wist ye not that I must be about my Father's business?” 3 Nephi 15 is also set at a temple, its hearers also fail to understand a saying, and by 15:18 the thing they cannot understand has become specifically a matter of what the Father has and has not commanded him to say. The one King James verse about a saying of Jesus not understood is a verse about a saying concerning the Father, which is the subject this chapter drives toward."
+    },
+    "note": "The machine ranked this first in the verse and it is not the verse's source — 2 Corinthians 5:17 is — but it is not therefore nothing. “Understood not the saying” occurs in exactly one KJV verse, and the Book of Mormon has it with the article and the singular intact, introducing a quotation the hearers cannot place. Catalogued at moderate confidence as a plausible second layer on a verse whose primary borrowing is secure.",
+    "whyNot": "The contact is four words of an idiom the King James Bible has in looser form six times over and the Book of Mormon uses constantly, and this chapter's own three later formulas for incomprehension (15:18, 15:22, 15:23) are worded differently, which is what one expects of a narrator's habit rather than a borrowing. Nothing else of Luke 2 is present.",
+    "bibliography": [],
+    "status": "novel",
+    "streams": [
+     "machine-ngram",
+     "manual"
+    ]
+   }
+  ],
+  "15:3": [
+   {
+    "source": "John 3:7",
+    "type": "allusion",
+    "subtype": "strong-verbal",
+    "confidence": "high",
+    "text": "Marvel not that I said unto thee, Ye must be born again.",
+    "evidence": {
+     "vocabulary": 5,
+     "syntax": 5,
+     "sequence": 4,
+     "context": 5,
+     "rarity": 5,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "provenance": {
+     "route": "John 3:7 → KJV → Book of Mormon",
+     "other": "“Marvel not that I said unto” occurs in exactly one KJV verse. The Book of Mormon's only change is thee → you, which the setting requires: John's Jesus is answering one man, this one a multitude that “marvelled, and wondered” (15:2).",
+     "significance": "John 3:7's suppressed remainder is “Ye must be born again”, and its addressee is a master of Israel who cannot construe a saying about newness because he keeps hearing it as a statement about the old order — how can a man enter the second time into his mother's womb. 3 Nephi 15:2-3 is the same exchange with the terms made explicit: the hearers marvel “concerning the law of Moses”, and what they cannot construe is “that old things had passed away, and that all things had become new”. The King James Bible has exactly one rebuke of the form “Marvel not that I said unto”, and it is addressed to a teacher of the law who cannot hear that his order is finished. That is precisely this chapter's audience and precisely this chapter's subject, and neither text says so."
+    },
+    "note": "“And he saith unto them, Marvel not that I said unto you, that old things had passed away.” Five words that occur together in one King James verse, deployed to do the same work: to stop an audience marvelling at a saying about newness and then to explain the saying. The two halves of 15:3 are drawn from different books — John 3:7 supplies the rebuke, 2 Corinthians 5:17 the saying rebuked — and the join is invisible in the running text, which is the usual shape of this chapter's borrowing.",
+    "bibliography": [],
+    "status": "novel",
+    "streams": [
+     "machine-ngram",
+     "manual"
+    ]
+   }
+  ],
+  "15:5": [
+   {
+    "source": "Romans 10:4",
+    "type": "allusion",
+    "subtype": "conceptual",
+    "confidence": "high",
+    "text": "For Christ is the end of the law for righteousness to every one that believeth.",
+    "evidence": {
+     "vocabulary": 4,
+     "syntax": 3,
+     "sequence": 3,
+     "context": 5,
+     "rarity": 5,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "recurrenceRefs": [
+     "3 Nephi 15:8"
+    ],
+    "provenance": {
+     "route": "Romans 10:4 → KJV → Book of Mormon",
+     "other": "“the end of the law” occurs in exactly one KJV verse. The bare phrase “hath an end” also occurs in exactly one — Mark 3:26, of Satan's divided kingdom — which is an accident of English and not a source; the contact is with Romans 10:4's noun phrase, which the Book of Mormon converts into a predicate.",
+     "significance": "Paul's τέλος is famously undecidable between terminus and goal, and the King James “end” preserves the ambiguity exactly. 3 Nephi 15:5 and 15:8 resolve it, and resolve it temporally: the law “hath an end”, the covenant with Israel does not (15:8), and the prophets are not destroyed because their referents are still future (15:6-7). What Paul leaves as a christological claim — Christ is the law's end for righteousness to everyone who believes — becomes a chronological one, and the qualifying clauses that carry Paul's whole soteriology (“for righteousness to every one that believeth”) are the part not taken over."
+    },
+    "note": "“Therefore, the law in me is fulfilled: for I have come to fulfil the law; therefore, it hath an end.” The King James Bible speaks of the end of the law once, at Romans 10:4, and the Book of Mormon says of the law in the first person what Paul says of Christ in the third, keeping the noun and dropping the qualifications. The 1830 text repeats the predicate three verses later — “the law which was given unto Moses, hath an end in me” (15:8) — and the two together are the chapter's thesis about the law of Moses; the surrounding verses run “fulfil” and “fulfilled” six times in five verses, which is Matthew 5:17's verb, so the sentence is Pauline in its noun and Matthaean in its verb.",
+    "bibliography": [],
+    "status": "novel",
+    "streams": [
+     "manual"
+    ]
+   },
+   {
+    "source": "John 1:17",
+    "type": "allusion",
+    "subtype": "conceptual",
+    "confidence": "moderate",
+    "text": "For the law was given by Moses, but grace and truth came by Jesus Christ.",
+    "evidence": {
+     "vocabulary": 3,
+     "syntax": 3,
+     "sequence": 2,
+     "context": 5,
+     "rarity": 5,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "composite": [
+     "Haggai 2:5"
+    ],
+    "recurrenceRefs": [
+     "3 Nephi 9:15",
+     "3 Nephi 9:16",
+     "3 Nephi 9:17"
+    ],
+    "provenance": {
+     "route": "John 1:17 (with Haggai 2:5) → KJV → Book of Mormon",
+     "other": "“the law was given by Moses” occurs in exactly one KJV verse. For the second clause, “covenanted” occurs in exactly four KJV verses — 2 Chronicles 7:18, Haggai 2:5, Matthew 26:15 and Luke 22:5 — and Haggai 2:5 is the only one where God is the subject and Israel at the exodus the object: “the word that I covenanted with you when ye came out of Egypt”.",
+     "significance": "The Johannine Prologue's one sentence about the law divides agency between two names: the law came by Moses, grace and truth by Jesus Christ. This verse refuses the division and keeps both for the speaker, and the refusal is the premise of the chapter — he can end the law because he gave it, and he can say the covenant is unfinished (15:8) because he made it. Note that 3 Nephi has already built the risen Christ's self-declaration out of the Prologue at 9:15-18, so the Prologue is a text this book is demonstrably working in when it reaches this claim."
+    },
+    "note": "“Behold, I am he that gave the law, and I am he which covenanted with my people Israel.” Two self-identifications in one sentence, and the first stands directly against the King James Bible's only statement about who gave the law: John 1:17's “the law was given by Moses”, against 15:4's “the law ... that was given unto Moses” and 15:5's “I am he that gave the law”. The Book of Mormon is not reproducing John 1:17; it is reversing its preposition, and doing so in a book that has already drawn its christology from the same twelve verses of John. The second clause reaches for Haggai 2:5, the one place in the King James Bible where God says he covenanted with Israel at the exodus.",
+    "whyNot": "The contact with John 1:17 is a reversal of agency and a shared subject rather than reproduced wording: “gave the law” is not John's phrase, and the assertion that Christ gave the law of Moses is a standing Book of Mormon position (3 Nephi 15:5 is not its first statement) which could be reached without John. Catalogued at moderate because the reversal is exact and because the Prologue is demonstrably in this book's hands six chapters earlier, not because the words match.",
+    "bibliography": [],
+    "status": "novel",
+    "streams": [
+     "manual"
+    ]
+   }
+  ],
+  "15:6": [
+   {
+    "source": "Matthew 5:17",
+    "type": "allusion",
+    "subtype": "strong-verbal",
+    "confidence": "high",
+    "text": "Think not that I am come to destroy the law, or the prophets: I am not come to destroy, but to fulfil.",
+    "evidence": {
+     "vocabulary": 4,
+     "syntax": 4,
+     "sequence": 4,
+     "context": 5,
+     "rarity": 5,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "recurrenceRefs": [
+     "3 Nephi 12:17",
+     "3 Nephi 12:18"
+    ],
+    "provenance": {
+     "route": "Matthew 5:17 → KJV → 3 Nephi 12:17 → 3 Nephi 15:6",
+     "other": "“destroy the law” occurs in exactly one KJV verse. The Book of Mormon reproduced Matthew 5:17 entire three chapters earlier, at 3 Nephi 12:17, inside the Sermon at the Temple.",
+     "significance": "Matthew 5:17 holds “the law” and “the prophets” together under one verb and one denial, and leaves them together. 3 Nephi 15:4-8 prises them apart and gives each a different answer: the law is fulfilled and “hath an end”, but “I do not destroy the prophets”, because prophecy still has referents that have not arrived (15:7, “things which is to come”). The exposition therefore uses Matthew's own denial — not come to destroy — to license a distinction Matthew does not draw, and the suppressed half of the source, “I am not come to destroy, but to fulfil”, supplies the verb the passage runs on: “fulfil” or “fulfilled” appears six times in 15:4-8."
+    },
+    "note": "“Behold, I do not destroy the prophets: for as many as have not been fulfilled in me ... shall all be fulfilled.” The saying was given whole at 3 Nephi 12:17 as part of the sermon, and this is not the narrator recurring to his own formula but the exposition returning to its text — the case ADJUDICATING §4 ratified at Mosiah 29:2, where a phrase's second use is the argument because the passage it first translated is the passage now being answered. Here the answering is a division: Matthew's single clause about the law and the prophets is split down the middle, and only half of it survives the fulfilment. Recorded as a link rather than a repeat for that reason, and because a reader who meets 15:6 with nothing attached has been told the chapter is not expounding Matthew 5:17, which is the one thing it is unmistakably doing.",
+    "bibliography": [],
+    "status": "novel",
+    "streams": [
+     "manual"
+    ]
+   }
+  ],
+  "15:9": [
+   {
+    "source": "Isaiah 45:22",
+    "type": "allusion",
+    "subtype": "strong-verbal",
+    "confidence": "moderate",
+    "text": "Look unto me, and be ye saved, all the ends of the earth: for I am God, and there is none else.",
+    "evidence": {
+     "vocabulary": 4,
+     "syntax": 4,
+     "sequence": 4,
+     "context": 4,
+     "rarity": 5,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-OT",
+    "composite": [
+     "Amos 5:4"
+    ],
+    "recurrenceRefs": [
+     "3 Nephi 9:22",
+     "2 Nephi 33:10"
+    ],
+    "provenance": {
+     "route": "Isaiah 45:22 (with Amos 5:4) → KJV → Book of Mormon",
+     "other": "“Look unto me” occurs in exactly one KJV verse. “and ye shall live” occurs in exactly five, of which Amos 5:4 and 5:6 are the two where it answers an imperative God addresses to the house of Israel (“Seek ye me, and ye shall live”); the other three are the dry bones of Ezekiel 37. “remnant of Joseph” occurs in exactly one KJV verse, Amos 5:15.",
+     "significance": "The Amos context keeps paying three verses later. Amos 5 threatens that the LORD will “break out like fire in the house of Joseph” (5:6) and hopes he “will be gracious unto the remnant of Joseph” (5:15), and 3 Nephi 15:12 addresses these hearers as “a remnant of the house of Joseph”. So an imperative-plus-promise borrowed from Amos's summons to Israel is followed, within four verses, by Amos's own name for the survivors. Neither text draws the line; the sequence does."
+    },
+    "note": "“Look unto me, and endure to the end, and ye shall live.” The imperative is a King James singleton, and its interest here is that this book has used Isaiah 45:22 once already, at 3 Nephi 9:22, where the same speaker kept Isaiah's addressees and changed the verb — “repent, and come unto me ye ends of the earth, and be saved.” Six chapters later he restores Isaiah's verb exactly and changes the other half instead, and the substitute is Amos's: “and ye shall live”, the promise attached to God's imperative to the house of Israel at Amos 5:4 and 5:6. The catalogue records both uses because the pair is the evidence: a source used twice with complementary substitutions is being handled, not remembered.",
+    "whyNot": "“Look unto me” is three words, and Isaiah 45:22 is already established as a text this book draws on, so the second use could be the speaker's own idiom rather than a fresh borrowing. The Amos half rests on a five-verse phrase and a thematic cluster rather than on a run of words, and “endure to the end”, which sits between the two halves, is Book of Mormon boilerplate from 1 Nephi onward.",
+    "bibliography": [],
+    "status": "novel",
+    "streams": [
+     "manual"
+    ]
+   },
+   {
+    "source": "Matthew 10:22",
+    "type": "allusion",
+    "subtype": "close-verbal",
+    "confidence": "high",
+    "text": "And ye shall be hated of all men for my name’s sake: but he that endureth to the end shall be saved.",
+    "evidence": {
+     "vocabulary": 4,
+     "syntax": 4,
+     "sequence": 4,
+     "context": 4,
+     "rarity": 5,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "composite": [
+     "John 10:28"
+    ],
+    "recurrenceRefs": [
+     "3 Nephi 27:6"
+    ],
+    "provenance": {
+     "route": "Matthew 10:22 (with John 10:28) → KJV → Book of Mormon",
+     "other": "“endureth to the end” occurs in exactly one KJV verse, Matthew 10:22 (Matthew 24:13 and Mark 13:13 read “endure unto the end”). “I give unto them eternal life” occurs in exactly one, John 10:28.",
+     "significance": "The apodosis is the finding. 3 Nephi 27:6 has Matthew's own consequence — “endureth to the end, the same shall be saved” — so the Book of Mormon knows the King James clause and can reproduce it when it wants to. Here it does not: the reward is John 10:28's, from six verses before the “other sheep” saying this chapter is about to quote twice. Recover that context and the promise is one Jesus makes specifically to his sheep, in the discourse whose unfinished business fills 15:13-24 — “I give unto them eternal life; and they shall never perish, neither shall any man pluck them out of my hand”, followed at 10:29 by “My Father, which gave them me”, which is where 15:24 ends up."
+    },
+    "note": "“For unto him that endureth to the end, will I give eternal life.” The protasis is a King James singleton and Matthew's; the apodosis is not Matthew's. Matthew 10:22 promises that the endurer “shall be saved”, and the Book of Mormon can and does say exactly that elsewhere (3 Nephi 27:6). What it substitutes here is John 10:28's promise to the sheep, in a chapter that quotes John 10:16 twice — so the substitution runs in the direction the whole chapter runs, from the Synoptic saying to the Johannine discourse behind it.",
+    "bibliography": [],
+    "status": "novel",
+    "streams": [
+     "machine-ngram",
+     "manual"
+    ]
+   }
+  ],
+  "15:10": [
+   {
+    "source": "Matthew 7:12",
+    "type": "allusion",
+    "subtype": "strong-verbal",
+    "confidence": "high",
+    "text": "Therefore all things whatsoever ye would that men should do to you, do ye even so to them: for this is the law and the prophets.",
+    "evidence": {
+     "vocabulary": 5,
+     "syntax": 4,
+     "sequence": 4,
+     "context": 5,
+     "rarity": 5,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "composite": [
+     "John 5:39"
+    ],
+    "recurrenceRefs": [
+     "3 Nephi 14:12"
+    ],
+    "provenance": {
+     "route": "Matthew 7:12 (with John 5:39) → KJV → 3 Nephi 14:12 → 3 Nephi 15:10",
+     "other": "“this is the law and the prophets” occurs in exactly one KJV verse; the looser “the law and the prophets” occurs in exactly six. “they are they which testify of me” occurs in exactly one KJV verse, John 5:39.",
+     "significance": "John 5:39's suppressed setting is an accusation: it is said to people who search the scriptures for eternal life and will not come to the one the scriptures testify of. 3 Nephi 15 has just spent six verses on hearers who cannot let go of the law of Moses, and it closes the exposition by stating as settled fact (“for they truly testified of me”) what John 5 states as a charge against an audience. The word “truly” is doing the work: it converts a disputed claim into a summary."
+    },
+    "note": "Matthew's tag for the sum of scripture returns, three verses after being reproduced at 3 Nephi 14:12 in its Matthaean place as the coda to the golden rule, and it returns detached — attached now to “the commandments” the speaker has just given, and then glossed by a second source: “for they truly testified of me.” That gloss is John 5:39's, the King James Bible's one sentence in which the antecedent of “they” is the scriptures and the predicate is testimony to Christ. The effect of the fusion is a quiet shift of antecedent — Matthew's “this” summarises a commandment, John's “they” are the scriptures — and the sentence ends up claiming that law and prophets alike were always testimony, which is the conclusion 15:4-9 has been building toward.",
+    "bibliography": [],
+    "status": "novel",
+    "streams": [
+     "machine-ngram",
+     "manual"
+    ]
+   }
+  ],
+  "15:12": [
+   {
+    "source": "Matthew 5:14",
+    "type": "allusion",
+    "subtype": "close-verbal",
+    "confidence": "moderate",
+    "text": "Ye are the light of the world. A city that is set on an hill cannot be hid.",
+    "evidence": {
+     "vocabulary": 4,
+     "syntax": 4,
+     "sequence": 3,
+     "context": 5,
+     "rarity": 4,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "uncertain",
+    "composite": [
+     "John 13:35"
+    ],
+    "recurrenceRefs": [
+     "3 Nephi 12:14"
+    ],
+    "provenance": {
+     "route": "Matthew 5:14 → KJV → 3 Nephi 12:14 → 3 Nephi 15:12. FLAGGED: the `mediation` vocabulary has no value for an NT source reaching a verse through an earlier Book of Mormon passage — `OT-via-earlier-BoM` names the Old Testament case only — so the field is recorded as `uncertain` and the route is given here in full. This needs Wilson's ruling (CONVENTIONS §7).",
+     "other": "“the light of the world” occurs in exactly three KJV verses, Matthew 5:14, John 8:12 and John 9:5, and 3 Nephi 15:12 has none of them: its phrase is “a light unto this people”, and “light of this people” occurs in no KJV verse at all. The wording therefore follows 3 Nephi 12:14 (“I give unto you to be the light of this people”), not Matthew directly. “ye are my disciples” occurs in exactly one KJV verse, John 13:35.",
+     "significance": "The narrowing is the point. At 12:14 the saying was addressed to the whole multitude and its “world” had already been localised to “this people”; here Matthew's own “Ye are” is restored, the localisation is kept, and the addressee shrinks to the twelve alone (15:11). Everything that follows — the land of inheritance, the withheld disclosure at Jerusalem, the identification of the other sheep — is private teaching, and it opens by telling twelve men that they, and not the crowd they were standing in, are the light of this people. John 13:35's “ye are my disciples” belongs to the same manoeuvre: it too is said to the twelve alone, after a public ministry has ended."
+    },
+    "note": "“Ye are my disciples; and ye are a light unto this people, which are a remnant of the house of Joseph.” Two King James formulas in one clause, and neither is taken in its King James form. “The light of the world” occurs in exactly three KJV verses and this verse has none of them; what it has is the sermon's own localisation from 3 Nephi 12:14, with Matthew's “Ye are” put back and the audience cut down from a multitude to twelve. Catalogued at moderate because the proximate model is a Book of Mormon verse rather than the King James text, which is a route the schema's mediation values cannot express — see provenance.route.",
+    "bibliography": [],
+    "status": "novel",
+    "streams": [
+     "manual"
+    ]
+   }
+  ],
+  "15:14": [
+   {
+    "source": "John 12:49",
+    "type": "allusion",
+    "subtype": "conceptual",
+    "confidence": "high",
+    "text": "For I have not spoken of myself; but the Father which sent me, he gave me a commandment, what I should say, and what I should speak.",
+    "evidence": {
+     "vocabulary": 4,
+     "syntax": 3,
+     "sequence": 3,
+     "context": 5,
+     "rarity": 5,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "recurrenceRefs": [
+     "3 Nephi 15:15",
+     "3 Nephi 15:16",
+     "3 Nephi 15:18",
+     "3 Nephi 15:19",
+     "3 Nephi 16:3"
+    ],
+    "provenance": {
+     "route": "John 12:49 → KJV → Book of Mormon",
+     "other": "“gave me a commandment” occurs in exactly one KJV verse. The Book of Mormon's negative form, “given me commandment”, occurs in no KJV verse, which is what one expects of a construction being reused rather than copied.",
+     "significance": "John 12:49-50 is the last sentence of Jesus's public ministry in that Gospel, and the disclosure 3 Nephi 15:14-16 says was withheld is the “other sheep” saying of John 10:16 — the one place in John where Jesus mentions hearers outside the fold and then says nothing further about them. So the chapter takes the Fourth Gospel's own reticence about the other sheep and gives it a cause, using the Fourth Gospel's own rule for why Jesus says anything at all. The metalepsis runs both ways: John 12:49 explains 3 Nephi 15:14, and 3 Nephi 15:14 purports to explain the silence after John 10:16."
+    },
+    "note": "“And not at any time hath the Father given me commandment that I should tell it unto your brethren at Jerusalem.” Six verses of this chapter turn on a principle the New Testament states once, and states only in John: that Jesus speaks what the Father commanded him to speak and nothing else. “For I have not spoken of myself; but the Father which sent me, he gave me a commandment, what I should say, and what I should speak.” The Book of Mormon's contribution is to run the rule negatively — 15:14 and 15:15 say what he was not commanded to tell, 15:16 what he was, 15:18 that he was commanded to stop, 15:19 that he is now commanded to tell it here. John's rule accounts for what Jesus said; 3 Nephi 15 uses it to account for what he did not.",
+    "bibliography": [],
+    "status": "novel",
+    "streams": [
+     "manual"
+    ]
+   }
+  ],
+  "15:17": [
+   {
+    "source": "John 10:16",
+    "type": "quotation",
+    "subtype": "close-verbal",
+    "confidence": "certain",
+    "text": "And other sheep I have, which are not of this fold: them also I must bring, and they shall hear my voice; and there shall be one fold, and one shepherd.",
+    "evidence": {
+     "vocabulary": 5,
+     "syntax": 5,
+     "sequence": 5,
+     "context": 5,
+     "rarity": 5,
+     "attestation": 5
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "recurrenceRefs": [
+     "3 Nephi 15:21",
+     "3 Nephi 16:3"
+    ],
+    "provenance": {
+     "route": "John 10:16 → KJV → Book of Mormon",
+     "other": "A thirty-word verbatim reproduction, well above Skousen's sixteen-word operational threshold, though this passage is not one of his thirty-six (CONVENTIONS §2). Five of its phrases are King James singletons on their own: “other sheep”, “not of this fold”, “them also I must bring”, “they shall hear my voice” and “and there shall be one fold” each occur in exactly one KJV verse. The only departures are the loss of the opening “And”, which the Book of Mormon's framing clause displaces, and a semicolon for the King James colon. On mediation: the shepherd oracle behind John is Ezekiel's, and “one shepherd” occurs in exactly four KJV verses — Ecclesiastes 12:11, Ezekiel 34:23, Ezekiel 37:24 and John 10:16. tools/mediation-check.py against Ezekiel 37:24 returns four decisive points for John at every place the two candidates differ: the Book of Mormon has “other sheep I have, which are not of this fold” and “one fold”, and none of Ezekiel's David, servant, king, judgments or statutes. The oracle reaches this chapter in its Johannine form only.",
+     "significance": "Everything this chapter does afterwards depends on a feature of the King James wording rather than of the Greek. John's second noun is ποίμνη, a flock, distinct from the αὐλή, the fold, of the first half of the verse; the English tradition renders both as “fold”, following the Vulgate's *unum ovile*, and modern versions separate them again as “one flock, one shepherd”. The Book of Mormon reproduces the conflation, and reproduces it twice (15:17, 15:21). It matters because the argument of 15:17-24 is about two enclosures becoming one — sheep who are “not of this fold” being brought so that there is “one fold” — and that is a reading the King James “fold” supports and the Greek does not."
+    },
+    "note": "The verse the whole chapter has been approaching, quoted entire and without a seam. It arrives inside 15:16's frame — “This much did the Father command me, That I should tell unto them” — so it is presented not as scripture cited but as the speaker's own earlier words repeated, which is exactly what John 10:16 is. Five phrases of it are King James singletons, and there is no other candidate: the Ezekiel shepherd oracles behind John share only the two words “one shepherd” and none of the wording the Book of Mormon actually reproduces. What CONVENTIONS §4 calls the KJV-specific claim is unusually sharp here, because the conflation of flock and fold in the English tradition is what makes 15:17-24's argument about two folds becoming one available at all.",
+    "bibliography": [
+     "Hardy MSI at 3 Ne 15.17 (John 10:16)"
+    ],
+    "status": "consensus",
+    "streams": [
+     "scholarship",
+     "machine-ngram",
+     "manual"
+    ]
+   }
+  ],
+  "15:18": [
+   {
+    "source": "John 10:6",
+    "type": "allusion",
+    "subtype": "conceptual",
+    "confidence": "moderate",
+    "text": "This parable spake Jesus unto them: but they understood not what things they were which he spake unto them.",
+    "evidence": {
+     "vocabulary": 3,
+     "syntax": 3,
+     "sequence": 3,
+     "context": 5,
+     "rarity": 3,
+     "attestation": 0
+    },
+    "kjvSpecific": "uncertain",
+    "mediation": "direct-NT",
+    "composite": [
+     "John 8:27"
+    ],
+    "provenance": {
+     "route": "John 10:6 (with John 8:27) → KJV → Book of Mormon",
+     "other": "“they understood not” occurs in exactly six KJV verses: Mark 9:32, Luke 2:50, Luke 9:45, John 8:27, John 10:6 and Acts 7:25. Two of the six are the ones that matter here — John 10:6, ten verses before the saying 15:17 has just quoted, and John 8:27, “They understood not that he spake to them of the Father”, which occurs in exactly one KJV verse and shares this verse's object.",
+     "significance": "John 10:6 records the incomprehension and does not explain it: “This parable spake Jesus unto them: but they understood not what things they were which he spake unto them.” 3 Nephi 15:18 supplies both a cause (“stiffneckedness and unbelief”) and a consequence John does not record — that the discourse was therefore cut short, and that everything the reader might have wanted John 10 to say about the other sheep was withheld for that reason. The chapter is reading a gap in the Fourth Gospel as deliberate."
+    },
+    "note": "“And now because of stiffneckedness and unbelief, they understood not my word; therefore I was commanded to say no more of the Father concerning this thing unto them.” The verse that reports the failure of the Good Shepherd discourse in John is John 10:6, ten verses before the saying just quoted, and its verb is the one used here. The second clause pulls in John 8:27, the King James Bible's one sentence about people not understanding that Jesus “spake to them of the Father” — which is the precise thing 15:18 says he stopped doing. Catalogued at moderate: the argument is the coincidence of a common formula with the specific discourse under discussion, not the wording.",
+    "whyNot": "“They understood not” is a two-word formula the King James Bible has six times and the Book of Mormon has constantly, and 15:22-23 uses a differently-worded variant three times over, which suggests a narrator's habit rather than a borrowing. Nothing else of John 10:6 or John 8:27 is reproduced, and the case would collapse entirely if the chapter were not already quoting John 10:16 verbatim one verse earlier.",
+    "bibliography": [],
+    "status": "novel",
+    "streams": [
+     "manual"
+    ]
+   }
+  ],
+  "15:21": [
+   {
+    "source": "John 10:16",
+    "type": "quotation",
+    "subtype": "close-verbal",
+    "confidence": "certain",
+    "text": "And other sheep I have, which are not of this fold: them also I must bring, and they shall hear my voice; and there shall be one fold, and one shepherd.",
+    "evidence": {
+     "vocabulary": 5,
+     "syntax": 5,
+     "sequence": 5,
+     "context": 5,
+     "rarity": 5,
+     "attestation": 5
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "recurrenceRefs": [
+     "3 Nephi 15:17",
+     "3 Nephi 16:3"
+    ],
+    "provenance": {
+     "route": "John 10:16 → KJV → Book of Mormon",
+     "other": "The second full reproduction in five verses: “other sheep” occurs in exactly one KJV verse, and the rest of the rarity evidence is set out at 15:17 and not repeated here. The 1830 reads “ye are they of which I said” where 1920 has “of whom I said” — the first edition keeps the King James relative, which is the relative of the source clause itself (“other sheep I have, which are not of this fold”), and 1920's correction to the personal “whom” moves the sentence away from its model even as it improves the grammar. CONVENTIONS §8's second case exactly.",
+     "significance": "John 10:16 is one of the Fourth Gospel's genuinely unresolved sentences — commentators divide over whether the other sheep are Diaspora Jews, Gentiles, or a later generation of Christians — and it resolves nothing itself. 3 Nephi 15:21 does the one thing the source refuses to do: it names them, and it names them in the second person, to twelve men standing in front of the speaker. The two verses that follow then rule out the reading the Jerusalem hearers are said to have taken (the Gentiles, 15:22) and explain why the Gentiles cannot be meant (they will not hear his voice, 15:23). The quotation is thus not decoration but the premise of an exegesis, and the repetition is what makes the exegesis possible: 15:17 gives the words as spoken at Jerusalem, 15:21 gives them again as fulfilled here."
+    },
+    "note": "John 10:16 quoted a second time, and catalogued rather than filed as a repeat because the repetition is the argument — the case ADJUDICATING §4 ratified at Mosiah 29:2. At 15:17 the words are reported as what the Father commanded him to say at Jerusalem; at 15:21 the same words return with an identification prefixed, “ye are they of which I said”, which is the interpretive act the whole chapter exists to perform. A reader who met 15:21 with a bare cross-reference back to 15:17 would be told that the second occurrence carries nothing new, and it carries the point.",
+    "bibliography": [
+     "Frederick 2016: n. 70 — quotes 3 Nephi 15:21-22 as the Book of Mormon's own confirmation that the “other sheep” of John 10:16 are the Nephites. His argument in that passage is about the allusion to John 10:16 in D&C 10:59-62, and the Book of Mormon verses appear in a footnote as evidence for it; he proposes no source apparatus for 3 Nephi."
+    ],
+    "status": "consensus",
+    "streams": [
+     "scholarship",
+     "machine-ngram",
+     "manual"
+    ]
+   }
+  ],
+  "15:23": [
+   {
+    "source": "John 14:21",
+    "type": "allusion",
+    "subtype": "strong-verbal",
+    "confidence": "high",
+    "text": "He that hath my commandments, and keepeth them, he it is that loveth me: and he that loveth me shall be loved of my Father, and I will love him, and will manifest myself to him.",
+    "evidence": {
+     "vocabulary": 4,
+     "syntax": 3,
+     "sequence": 4,
+     "context": 5,
+     "rarity": 5,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "composite": [
+     "John 14:22"
+    ],
+    "provenance": {
+     "route": "John 14:21-22 → KJV → Book of Mormon",
+     "other": "“manifest myself” occurs in exactly one KJV verse, John 14:21, and the verse immediately following it is the disciples' question about precisely the restriction 3 Nephi 15:23 describes: “Lord, how is it that thou wilt manifest thyself unto us, and not unto the world?”",
+     "significance": "John 14 never answers Judas's question directly. It answers obliquely and at length, by promising “the Spirit of truth; whom the world cannot receive” (14:17) and who “shall teach you all things” (14:26) — so the mode of the restricted manifestation is the Comforter, and John leaves the reader to assemble that. 3 Nephi 15:23 assembles it in one clause: “that I should not manifest myself unto them, save it were by the Holy Ghost.” The Book of Mormon supplies the missing apodosis of John 14:22, and supplies it in John 14's own terms. Note that this is the second time in ten verses the chapter takes a Johannine silence as its subject — 15:14-18 explains what Jesus was not commanded to say, and 15:23 explains to whom he would not appear. Read together they turn the Fourth Gospel's reticence into a doctrine."
+    },
+    "note": "“That I should not manifest myself unto them, save it were by the Holy Ghost.” The King James Bible uses “manifest myself” once, and the next verse of that same chapter asks the question this sentence answers: how is it that thou wilt manifest thyself unto us, and not unto the world? The Book of Mormon has the reflexive verb, the restriction, and the excepted mode, and John 14 has the verb, the restriction, and — spread over ten verses rather than one clause — the mode. The borrowing is small in volume and exact in function, which is the shape CONVENTIONS §3a calls thematic coherence doing the work that vocabulary cannot.",
+    "bibliography": [],
+    "status": "novel",
+    "streams": [
+     "manual"
+    ]
+   }
+  ],
+  "15:24": [
+   {
+    "source": "John 5:36",
+    "type": "allusion",
+    "subtype": "strong-verbal",
+    "confidence": "high",
+    "text": "But I have greater witness than that of John: for the works which the Father hath given me to finish, the same works that I do, bear witness of me, that the Father hath sent me.",
+    "evidence": {
+     "vocabulary": 4,
+     "syntax": 4,
+     "sequence": 4,
+     "context": 5,
+     "rarity": 5,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "composite": [
+     "John 5:37"
+    ],
+    "recurrenceRefs": [
+     "3 Nephi 15:10",
+     "3 Nephi 11:11"
+    ],
+    "provenance": {
+     "route": "John 5:36-37 → KJV → Book of Mormon",
+     "other": "“the Father hath given me” occurs in exactly one KJV verse, John 5:36, where the thing given is works rather than people; the Book of Mormon transfers the phrase to persons, which is John 6:37 and 17:6's usage but not their wording. “nor seen his shape” occurs in exactly one KJV verse, John 5:37, the verse immediately before it. The chapter's characteristic adverbial “at any time” (15:14, 15:15, 15:23) is John 5:37's too; “at any time” occurs in exactly eighteen KJV verses.",
+     "significance": "John 5:36-39 is a single continuous argument about witness — the works the Father gave, the Father's voice never heard, the scriptures that testify — and this chapter draws on all three parts of it: 15:10 takes John 5:39's “testify of me”, and 15:24 takes 5:36 and reverses 5:37. The metalepsis is the reversal. What John 5 lists as the Jerusalem hearers' disqualifications is what 3 Nephi 15:24 lists as the Nephite twelve's credentials, and the chapter has just spent ten verses (15:14-23) explaining exactly why the two audiences differ. The closing sentence is therefore not a benediction but the conclusion of the argument, and it is made of the same paragraph of John that the argument's opening was made of."
+    },
+    "note": "“But behold, ye have both heard my voice, and seen me; and ye are my sheep, and ye are numbered among them which the Father hath given me.” Two adjacent verses of John stand behind one sentence, and the first is inverted. John 5:37 is a charge against Jerusalem — “Ye have neither heard his voice at any time, nor seen his shape” — and here the “neither ... nor” becomes “both ... and”, with the object moved from the Father's voice and shape to the speaker's own. The second clause then takes John 5:36's phrase, a King James singleton, and applies “given me” to persons instead of works. The 1830 reads “them which the Father hath given me” against 1920's “those whom”, so the first edition preserves the King James relative here as it does at 15:21; the modernisation quietly removes the last word-for-word contact with John 5:36 (CONVENTIONS §8).",
+    "bibliography": [],
+    "status": "novel",
+    "streams": [
+     "machine-ngram",
+     "manual"
+    ]
+   }
+  ]
+ }
+}

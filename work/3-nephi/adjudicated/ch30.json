@@ -1,0 +1,157 @@
+{
+  "chapter": 30,
+  "adjudicated": "2026-09-07",
+  "adjudicator": "Opus",
+  "links": {
+    "30:1": [
+      {
+        "source": "Matthew 16:16",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "And Simon Peter answered and said, Thou art the Christ, the Son of the living God.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 3,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 1
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "John 6:69"
+        ],
+        "recurrenceRefs": [
+          "2 Nephi 31:16",
+          "1 Nephi 11:6"
+        ],
+        "provenance": {
+          "route": "Matthew 16:16 (or John 6:69) → KJV → Book of Mormon",
+          "other": "“the Son of the living God” occurs in exactly two KJV verses, Matthew 16:16 and John 6:69, and both are Peter speaking. The two are not separable on wording here: they differ only at “the Christ” / “that Christ”, and the Book of Mormon has the name “Jesus Christ” in that slot rather than either article, so mediation-check.py returns no decisive point. Matthew 16:16 is named as the source on context alone — Hardy's apparatus cross-references Matthew 16:18 at 3 Nephi 27:8, three chapters earlier in this same book, where Christ names his church; John 6 has no comparable footprint in 3 Nephi. Mark 1:1's “Jesus Christ, the Son of God” is the nearer word order and the wrong title; it is registered as an exclusion.",
+          "alternative": "John 6:69, which is the identical six words in a different scene.",
+          "significance": "The last chapter of the book opens by naming Jesus with the one title the King James Bible reserves to Peter's confession, and the confession is the one Christ answered by promising to build his church and by handing over the keys. Recover that context and the summons that follows reads differently: a Gentile world that received the church through Peter's confession is addressed under Peter's own words for its founder, and told to turn. The title also closes an arc the corpus opened — Nephi ends his own book with “the example of the Son of the living God” (2 Nephi 31:16), and Mormon opens his last with the same phrase; what was there a pattern for individual endurance is here the authority behind a national demand."
+        },
+        "note": "'Hearken, O ye Gentiles, and hear the words of Jesus Christ, the Son of the living God.' Six words reproduced exactly, from one of only two KJV verses that contain them, in a sentence that is otherwise Mormon's own. The title is not the ordinary New Testament way of naming Jesus — “Jesus Christ, the Son of God” is Mark 1:1's formula and is what a writer reaching for a generic solemn title would produce — and the extra word 'living' is what makes the phrase countable. Below Skousen's sixteen-word threshold and not one of his 36 quotations; it is catalogued as an allusion, not a quotation, because no clause of Matthew 16:16 comes with it.",
+        "bibliography": [],
+        "status": "majority",
+        "citationsPending": true,
+        "streams": [
+          "manual",
+          "machine-ngram"
+        ]
+      }
+    ],
+    "30:2": [
+      {
+        "source": "Romans 15:11",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "And again, Praise the Lord, all ye Gentiles; and laud him, all ye people.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "OT-via-NT",
+        "composite": [
+          "Romans 15:10",
+          "Romans 15:12",
+          "Psalm 117:1"
+        ],
+        "provenance": {
+          "mt": "Psalm 117:1 — 'O praise the LORD, all ye nations: praise him, all ye people.' The KJV renders the same word 'nations' in the Psalm and 'Gentiles' in Paul's quotation of it.",
+          "route": "Psalm 117:1 → Romans 15:11 → KJV → Book of Mormon",
+          "other": "“all ye Gentiles” occurs in exactly one KJV verse, Romans 15:11, and “ye Gentiles” as a vocative in exactly two, Romans 15:10 and 15:11 — both inside Paul's four-quotation catena at Romans 15:9-12. mediation-check.py returns one decisive point: where Psalm 117:1 reads 'nations praise' the Book of Mormon has Romans 15:11's 'Gentiles', so the address exists in English only because of the KJV's choice to translate the Psalm's word one way in the Psalter and another way in Romans. The Book of Mormon uses this vocative once in the whole corpus, here.",
+          "significance": "The catena Paul builds at Romans 15:9-12 exists to prove one thing: that the Gentiles are brought in to praise God *with* Israel, not instead of it — 'Rejoice, ye Gentiles, with his people' (15:10, quoting Deuteronomy 32:43), then 'Praise the Lord, all ye Gentiles' (15:11), then 'in him shall the Gentiles trust' (15:12). 3 Nephi 30:2 takes its vocative from the second of those verses and its conclusion from the first: 'that ye may be numbered with my people, which are of the house of Israel.' Two contacts with one four-verse passage, split across the whole length of a very long verse, and the argument the passage was written to make is the argument the Book of Mormon's last chapter closes on. This is the chapter, and the n-gram stream cannot see it — the two contacts are ninety words apart (CONVENTIONS §9)."
+        },
+        "note": "'Turn, all ye Gentiles ... that ye may be numbered with my people, which are of the house of Israel.' The opening vocative is a KJV singleton and the closing clause is the point of the passage the singleton comes from. What makes the borrowing visible rather than merely apt is the mediation: the Psalm the KJV translates as 'all ye nations' is the same verse Romans translates as 'all ye Gentiles', and a book whose whole final address is to Gentiles takes the form the KJV only supplies in Paul. Note also that Paul's catena is a promise and 3 Nephi's use is a condition — Romans announces that the Gentiles do rejoice with his people; 3 Nephi says they may be numbered with them if they turn.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      },
+      {
+        "source": "Zechariah 1:4",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "Be ye not as your fathers, unto whom the former prophets have cried, saying, Thus saith the LORD of hosts; Turn ye now from your evil ways, and from your evil doings: but they did not hear, nor hearken unto me, saith the LORD.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Zechariah 1:3",
+          "Ezekiel 20:44"
+        ],
+        "recurrenceRefs": [
+          "Mormon 5:22"
+        ],
+        "provenance": {
+          "route": "Zechariah 1:3-4 → KJV → Book of Mormon",
+          "other": "Two King James singletons meet in one clause. “your evil doings” occurs in exactly one KJV verse, Zechariah 1:4, and “evil doings” occurs in exactly one KJV verse, the same one; “your wicked ways” occurs in exactly one KJV verse, Ezekiel 20:44, and “wicked ways” in exactly two, Ezekiel 20:44 and 2 Chronicles 7:14. Zechariah 1:4 supplies the frame — 'Turn ye now from your evil ways, and from your evil doings' — and the Book of Mormon reproduces it with the adjective of the first member swapped for the only other King James adjective that governs 'ways' in this construction. The pronoun decides between the two candidates for that member: the Book of Mormon has 'your wicked ways', which is Ezekiel 20:44's, not 2 Chronicles 7:14's 'their wicked ways'.",
+          "alternative": "2 Chronicles 7:14 ('turn from their wicked ways', and 'my people, which are'), which touches this verse twice and is registered as an exclusion; the pronoun sends the first contact to Ezekiel and Romans 15:10 accounts for the second.",
+          "significance": "Zechariah 1:2-6 is the preface to the whole book of Zechariah and it is a summons to a returned people not to repeat their fathers' refusal; 3 Nephi 30 is the closing summons of a book to a people who have the record their fathers refused. Recover the rest of Zechariah 1:4 and the metalepsis is exact: the clause the Book of Mormon borrows ends 'but they did not hear, nor hearken unto me, saith the LORD' — and the two verbs of that failure are the two imperatives with which this chapter opens, 'Hearken, O ye Gentiles, and hear'. The pairing of hearing and hearkening is common prophetic idiom (25 KJV verses hold both words), so this is not itself the evidence; the evidence is the two singletons. But the fit is worth naming, because a chapter that borrows Zechariah's demand opens by asking for precisely what Zechariah says was withheld. Ezekiel 20:44, the source of the swapped adjective, contributes the same shape at its own end: 'not according to your wicked ways, nor according to your corrupt doings, O ye house of Israel' — ways and doings paired, and closing on the house of Israel, which is also where 3 Nephi 30:2 closes."
+        },
+        "note": "'Turn, all ye Gentiles, from your wicked ways, and repent of your evil doings.' The construction is Zechariah 1:4's entire: an imperative 'turn', 'from your [adjective] ways', 'and ... your evil doings', in that order, and the second member is a King James hapax. The first member is the other King James hapax that fits the slot. Zechariah 1:3's 'Turn ye unto me' also stands behind the verse's later 'come unto me'. Recorded at high because two independent singletons in one construction is about as strong as verbal evidence gets without a reproduced clause, and because neither phrase is Book of Mormon house idiom — 'wicked ways' occurs twice in the whole corpus and 'evil doings' four times.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      },
+      {
+        "source": "Acts 2:38",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "moderate",
+        "text": "Then Peter said unto them, Repent, and be baptized every one of you in the name of Jesus Christ for the remission of sins, and ye shall receive the gift of the Holy Ghost.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 2,
+          "attestation": 2
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "recurrenceRefs": [
+          "3 Nephi 11:23",
+          "3 Nephi 12:2",
+          "3 Nephi 27:20",
+          "2 Nephi 31:11",
+          "Helaman 5:40"
+        ],
+        "provenance": {
+          "route": "Acts 2:38 → KJV → Book of Mormon",
+          "other": "No single phrase here is rare: “remission of sins” occurs in exactly 7 KJV verses and “filled with the Holy Ghost” occurs in exactly 8 KJV verses, though all eight of the latter are Luke's, five of them in Acts. What is rare is the order. Acts 2:38 puts four members in one sentence — repent, be baptized in the name, remission of sins, receive the Holy Ghost — and 3 Nephi 30:2 has all four in that order and no other Book of Mormon verse does. 3 Nephi 11:23 has the baptismal rubric without the remission or the Spirit; 3 Nephi 12:2 has the Spirit before the remission; 3 Nephi 27:20 has repentance, coming, baptism and sanctification but no remission of sins.",
+          "significance": "Acts 2:38 is Peter's answer to the crowd at Pentecost, which is the KJV's one scene of a mass Gentile-facing summons answered by baptism, and it is spoken by the same Peter whose confession supplies the title in 30:1. The book's last words to the Gentiles are the first words the church ever spoke to a crowd."
+        },
+        "note": "Acts 2:38 is adjudicated in this book at 3 Nephi 11:23, where it stands behind the baptismal rubric, and CONVENTIONS' default is that a formula's later occurrences in the same book are the writer using his own formula (ADJUDICATING §4). This row is written anyway, on the ground the Mosiah 29:2 ruling names: the second use is the argument. Every other occurrence in 3 Nephi is partial and in its own order; this one, in the book's closing sentence, restores all four members of Acts 2:38 in Acts' sequence, and does so in an address to Gentiles, which is Acts 2:38's own setting once Acts 10 has extended it. A reader arriving at the last verse of the book should be shown the verse it is built on.",
+        "whyNot": "Nothing here is verbally distinctive on its own; the case rests entirely on the sequence, and the sequence is also standard Christian catechetical order, which a nineteenth-century writer would have had without reaching for a text. The formula is thoroughly naturalised in the corpus (2 Nephi 31:11-17, Mosiah 18:10, 3 Nephi 11:23-27, 12:1-2, 27:20), so this may be the house formula reaching its fullest statement rather than a fresh borrowing. Confidence is held at moderate for that reason.",
+        "bibliography": [],
+        "status": "majority",
+        "citationsPending": true,
+        "streams": [
+          "manual",
+          "machine-ngram"
+        ]
+      }
+    ]
+  }
+}

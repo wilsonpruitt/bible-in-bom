@@ -1,0 +1,815 @@
+{
+ "chapter": 18,
+ "adjudicated": "2026-09-07",
+ "adjudicator": "Opus",
+ "links": {
+  "18:2": [
+   {
+    "source": "Matthew 15:35",
+    "type": "allusion",
+    "subtype": "close-verbal",
+    "confidence": "high",
+    "text": "And he commanded the multitude to sit down on the ground.",
+    "evidence": {
+     "vocabulary": 4,
+     "syntax": 5,
+     "sequence": 4,
+     "context": 5,
+     "rarity": 4,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "composite": [
+     "Matthew 14:19",
+     "Mark 8:6",
+     "Mark 6:39",
+     "Luke 9:14"
+    ],
+    "recurrenceRefs": [
+     "3 Nephi 18:3",
+     "3 Nephi 18:4"
+    ],
+    "provenance": {
+     "route": "Matthew 15:35 (with Matthew 14:19 / Mark 8:6) → KJV → Book of Mormon",
+     "other": "“commanded the multitude to sit down” occurs in exactly two KJV verses, Matthew 14:19 (on the grass) and Matthew 15:35 (on the ground); Mark 8:6 has ‘commanded the people to sit down on the ground’ and Mark 6:39 ‘sit down by companies upon the green grass’. All four are feeding miracles. No Last Supper narrative seats anybody: in Matthew 26:20 and Mark 14:18 the disciples are already ‘sat down’ when the meal begins, and Luke 22:14 has them ‘sat down’ with him.",
+     "significance": "This is the first of three verses (18:2, 18:3, 18:4) in which the institution of the sacrament is narrated in the King James Bible’s language for the feeding of the multitudes rather than its language for the Last Supper. The KJV formula for seating a crowd before a meal belongs entirely to the loaves-and-fishes stories, and 3 Nephi 18 opens with it — a multitude of two thousand five hundred (17:25) seated on the ground while bread is broken. Recovering that context makes the chapter’s shape legible: what follows is not a farewell supper for twelve but a public feeding, and the eucharistic reading of a public feeding is precisely the move John 6 makes."
+    },
+    "note": "‘He commanded the multitude that they should sit themselves down upon the earth.’ The command is unnecessary to the sacrament and has no Last Supper precedent; it is the fixed opening move of the KJV feeding narratives, where the crowd must be seated before the loaves are taken. The Book of Mormon substitutes ‘upon the earth’ for ‘on the ground’ and adds the reflexive ‘sit themselves down’, which is why the n-gram stream ranked Matthew 27:20 (‘persuaded the multitude that they should’) above it — the machine saw the syntax of commanding a multitude and missed the meal.",
+    "status": "novel",
+    "bibliography": [],
+    "streams": [
+     "manual"
+    ],
+    "citationsPending": true
+   }
+  ],
+  "18:3": [
+   {
+    "source": "Luke 24:30",
+    "type": "allusion",
+    "subtype": "close-verbal",
+    "confidence": "high",
+    "text": "And it came to pass, as he sat at meat with them, he took bread, and blessed it, and brake, and gave to them.",
+    "evidence": {
+     "vocabulary": 5,
+     "syntax": 4,
+     "sequence": 4,
+     "context": 5,
+     "rarity": 5,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "composite": [
+     "Matthew 14:19",
+     "Mark 8:6",
+     "Luke 9:16",
+     "Matthew 26:26"
+    ],
+    "recurrenceRefs": [
+     "3 Nephi 18:6",
+     "3 Nephi 20:3"
+    ],
+    "provenance": {
+     "route": "Luke 24:30 (with the feeding miracles) → KJV → Book of Mormon; ‘blessed it’ from Matthew 26:26 / Mark 14:22",
+     "other": "The King James Bible divides sharply on one word. “and brake it, and gave” occurs in exactly three KJV verses — Matthew 26:26, Mark 14:22 and Luke 22:19, which are the three Synoptic institution narratives and nothing else. “and brake, and gave”, without the object, occurs in exactly four KJV verses — Matthew 14:19, Mark 8:6, Luke 9:16 and Luke 24:30, which are three feeding miracles and the meal at Emmaus, and no institution narrative at all. 3 Nephi 18:3 has the objectless form: ‘he took of the bread, and brake, and blessed it; and he gave unto the disciples’. Separately, “took bread, and blessed it” occurs in exactly two KJV verses, Matthew 26:26 and Luke 24:30 — Mark 14:22 has ‘blessed’ without the object and Luke 22:19 and 1 Corinthians 11:24 have ‘gave thanks’ instead.",
+     "alternative": "Matthew 26:26, which supplies ‘blessed it’ and ‘gave … to the disciples’ and is the obvious source if the objectless ‘brake’ is thought accidental.",
+     "significance": "Luke 24:30 is the risen Christ breaking bread with disciples who do not yet know him, and Luke 24:31 completes it: ‘their eyes were opened, and they knew him; and he vanished out of their sight’ — “he vanished out of their sight” occurs in exactly one KJV verse. 3 Nephi 18 is a risen Christ breaking bread, and it ends at 18:38-39 with a cloud so that the multitude ‘could not see Jesus’ and he is gone. The Emmaus meal is the KJV’s one account of the resurrected Jesus presiding at a table, it is the only such account in which the breaking of bread is itself the recognition (Luke 24:35, ‘how he was known of them in breaking of bread’), and it ends the way this chapter ends. Whether or not the objectless ‘brake’ was chosen, the chapter borrows the shape of the one KJV meal that matches its own situation."
+    },
+    "note": "‘He took of the bread, and brake, and blessed it; and he gave unto the disciples.’ Four elements in order — took, brake, blessed, gave — with blessing and breaking inverted against every KJV form of the sentence, which is itself worth recording: 18:5 (‘break bread, and bless it’) and 18:6 (‘broken bread, and blessed it’) keep the same inversion, so it is the composer’s order and not a slip. The discriminating word is the object of ‘brake’. All three Synoptic institution narratives break the bread transitively; the feeding miracles and Emmaus break it intransitively; the Book of Mormon breaks it intransitively. The link falls well below Skousen’s sixteen-word threshold for a quotation and is catalogued as an allusion. The 1830 first edition carries a compositor’s dittograph at exactly this word — ‘and berak brake, and blessed it’ — deleted by 1920.",
+    "status": "novel",
+    "bibliography": [],
+    "streams": [
+     "manual"
+    ],
+    "citationsPending": true
+   }
+  ],
+  "18:4": [
+   {
+    "source": "Matthew 14:20",
+    "type": "allusion",
+    "subtype": "close-verbal",
+    "confidence": "high",
+    "text": "And they did all eat, and were filled: and they took up of the fragments that remained twelve baskets full.",
+    "evidence": {
+     "vocabulary": 4,
+     "syntax": 4,
+     "sequence": 4,
+     "context": 5,
+     "rarity": 4,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "composite": [
+     "Matthew 15:37",
+     "Mark 6:42",
+     "Mark 8:8",
+     "John 6:12"
+    ],
+    "recurrenceRefs": [
+     "3 Nephi 18:5",
+     "3 Nephi 18:9",
+     "3 Nephi 20:9"
+    ],
+    "provenance": {
+     "route": "Matthew 14:20 / 15:37 / Mark 6:42 / Mark 8:8 → KJV → Book of Mormon",
+     "other": "“did all eat, and were filled” occurs in exactly three KJV verses, Matthew 14:20, Matthew 15:37 and Mark 6:42; Mark 8:8 has ‘So they did eat, and were filled’. “and were filled” occurs in exactly eight KJV verses, and every one that concerns eating is a feeding miracle or John 6:26 looking back on one. Being filled is not part of any Last Supper account, where the quantity of bread is a morsel and the point is not satiety.",
+     "significance": "3 Nephi 18 says it four times in six verses — the disciples eat and are filled (18:4), the multitude eats and is filled (18:5), and both drink and are filled (18:9) — from bread and wine fetched by a few men for a crowd of two thousand five hundred. The narrative is silent about how that is possible, and it is silent because the wording has already answered: this is the KJV’s feeding-miracle vocabulary, in which a crowd is satisfied from provisions that could not have satisfied it. John 6 is the text that draws the eucharistic conclusion from exactly that miracle, and John 6 is what the second half of this chapter is made of (18:23, 18:25, 18:29)."
+    },
+    "note": "‘And when they had eat, and were filled’. The verb is the KJV’s feeding-miracle verb, and the Book of Mormon repeats it at 18:5 and twice at 18:9 for the wine as well, which is a use no KJV verse makes of it — nobody in the Bible is filled with wine at a meal of Jesus. Taken with 18:2’s seating and 18:3’s objectless ‘brake’, the institution of the sacrament in this chapter is narrated throughout in the language of the loaves and fishes. The 1830 reads ‘when they had eat’, corrected to ‘eaten’ in 1920; the KJV’s own form at Matthew 14:20 is ‘did all eat’.",
+    "status": "novel",
+    "bibliography": [],
+    "streams": [
+     "manual"
+    ],
+    "citationsPending": true
+   }
+  ],
+  "18:5": [
+   {
+    "source": "Revelation 2:26",
+    "type": "echo",
+    "subtype": "possible",
+    "confidence": "moderate",
+    "text": "And he that overcometh, and keepeth my works unto the end, to him will I give power over the nations:",
+    "evidence": {
+     "vocabulary": 3,
+     "syntax": 4,
+     "sequence": 2,
+     "context": 2,
+     "rarity": 5,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "provenance": {
+     "route": "Revelation 2:26 → KJV → Book of Mormon",
+     "other": "“to him will I give power” occurs in exactly one KJV verse, Revelation 2:26, the promise to the overcomer at Thyatira. The nearest competitor is Deuteronomy 1:36, ‘to him will I give the land’, which the n-gram stream ranked alongside it.",
+     "significance": "The ordination formula for the man who will administer the sacrament borrows the King James Bible’s one sentence conferring power on a named individual, and that sentence is eschatological: what the overcomer is given power over is the nations, which he rules with a rod of iron. If the borrowing is real, the office of breaking bread is instituted in the words of a promise about ruling at the end — which is the direction 18:12-13 immediately takes, into the rock, the sandy foundation and the gates of hell."
+    },
+    "note": "‘There shall one be ordained among you, and to him will I give power that he shall break bread, and bless it.’ A six-word run reproducing a KJV singleton exactly, in a first-person divine speech, which is the setting Revelation 2:26 has. Proposed under CONVENTIONS §0a as worth putting on the table rather than left to the machine’s list; the rarity is real and the context is not.",
+    "whyNot": "‘To him will I give power that…’ is ordinary English for conferring an office and the Book of Mormon may simply have written it. Nothing else in 18:5 has any contact with Revelation 2, and the object of the power — breaking bread for a congregation — is as far from power over the nations as it could be. The evidence is one string and its rarity.",
+    "status": "novel",
+    "streams": [
+     "machine-ngram",
+     "manual"
+    ],
+    "bibliography": [],
+    "citationsPending": true
+   }
+  ],
+  "18:7": [
+   {
+    "source": "Luke 22:19",
+    "type": "allusion",
+    "subtype": "strong-verbal",
+    "confidence": "high",
+    "text": "And he took bread, and gave thanks, and brake it, and gave unto them, saying, This is my body which is given for you: this do in remembrance of me.",
+    "evidence": {
+     "vocabulary": 4,
+     "syntax": 4,
+     "sequence": 4,
+     "context": 5,
+     "rarity": 5,
+     "attestation": 1
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "composite": [
+     "1 Corinthians 11:24"
+    ],
+    "recurrenceRefs": [
+     "3 Nephi 18:11"
+    ],
+    "provenance": {
+     "route": "Luke 22:19 / 1 Corinthians 11:24 → KJV → Book of Mormon",
+     "other": "“in remembrance of me” occurs in exactly three KJV verses, Luke 22:19, 1 Corinthians 11:24 and 1 Corinthians 11:25 — that is, in the two institution accounts that have the remembrance command and in no other. Matthew and Mark do not have it. “given for you” occurs in exactly one KJV verse, Luke 22:19; 1 Corinthians 11:24 has ‘broken for you’.",
+     "significance": "The KJV’s formula is ‘my body which is given for you … in remembrance of me’. The Book of Mormon keeps the frame and replaces the participle: ‘in remembrance of my body, which I have shewn unto you’. Given and broken are both passion words; shewn is not. Seven chapters earlier the same body was put into the hands of this same multitude — ‘thrust your hands into my side, and … feel the prints of the nails’ (3 Nephi 11:14) — and the sacrament here remembers not a body about to be broken but a body that has already been handled. That is the single most consequential departure in the chapter, and it is one word."
+    },
+    "note": "‘And this shall ye do in remembrance of my body, which I have shewn unto you.’ The remembrance command is the Lukan-Pauline layer of the institution, absent from Matthew and Mark, and it enters here after three verses that were worded out of the feeding miracles — so the chapter takes its narration from one set of KJV texts and its liturgy from another. The Book of Mormon also splits the single Pauline formula in two, attaching remembrance to the body at 18:7 and to the blood at 18:11, where Luke 22:19 and 1 Corinthians 11:24-25 attach it to the bread and (in Paul) the cup. The 1830 ‘shewn’ preserves the KJV spelling, modernised to ‘shown’ in 1920.",
+    "status": "novel",
+    "bibliography": [],
+    "streams": [
+     "manual"
+    ],
+    "citationsPending": true
+   }
+  ],
+  "18:11": [
+   {
+    "source": "Luke 22:20",
+    "type": "allusion",
+    "subtype": "strong-verbal",
+    "confidence": "high",
+    "text": "Likewise also the cup after supper, saying, This cup is the new testament in my blood, which is shed for you.",
+    "evidence": {
+     "vocabulary": 5,
+     "syntax": 4,
+     "sequence": 4,
+     "context": 5,
+     "rarity": 5,
+     "attestation": 1
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "composite": [
+     "1 Corinthians 11:25",
+     "Matthew 26:28"
+    ],
+    "recurrenceRefs": [
+     "3 Nephi 18:7"
+    ],
+    "provenance": {
+     "route": "Luke 22:20 → KJV → Book of Mormon",
+     "other": "“which is shed for you” occurs in exactly one KJV verse, Luke 22:20. Matthew 26:28 and Mark 14:24 read ‘shed for many’; 1 Corinthians 11:25 has no shedding clause at all. The Book of Mormon has ‘my blood, which I have shed for you’ — Luke’s pronoun, not Matthew’s.",
+     "significance": "Luke’s cup-word is the one that narrows the atonement to the people at the table: shed for you, not for many. Spoken to a Nephite multitude a world and a generation away from that table, the second person keeps its force only if the audience has been enlarged — which is what 3 Nephi 15:21 and 16:1 have just claimed, that these are the other sheep. Luke 22:20’s ‘you’ is quietly made to include them."
+    },
+    "note": "‘Ye shall do it in remembrance of my blood, which I have shed for you.’ The one KJV verse with this clause is Luke’s, and the Book of Mormon converts its passive to an active perfect — ‘which I have shed’ for ‘which is shed’ — which is the tense a risen speaker needs and which no KJV institution narrative could supply, since all four are spoken before the death. The same conversion happened at 18:7 (‘which I have shewn’ for ‘which is given’). Two verses, the same grammatical move, both times pulling the formula out of anticipation and into retrospect.",
+    "status": "novel",
+    "bibliography": [],
+    "streams": [
+     "manual"
+    ],
+    "citationsPending": true
+   }
+  ],
+  "18:13": [
+   {
+    "source": "Matthew 7:27",
+    "type": "allusion",
+    "subtype": "close-verbal",
+    "confidence": "moderate",
+    "text": "And the rain descended, and the floods came, and the winds blew, and beat upon that house; and it fell: and great was the fall of it.",
+    "evidence": {
+     "vocabulary": 5,
+     "syntax": 4,
+     "sequence": 5,
+     "context": 4,
+     "rarity": 4,
+     "attestation": 3
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "composite": [
+     "Matthew 7:25",
+     "Matthew 7:26",
+     "Matthew 16:18"
+    ],
+    "recurrenceRefs": [
+     "3 Nephi 11:39",
+     "3 Nephi 11:40",
+     "3 Nephi 14:25",
+     "3 Nephi 14:27"
+    ],
+    "provenance": {
+     "route": "Matthew 7:24-27 → KJV → Book of Mormon (already at 3 Nephi 14:24-27 and 11:39-40)",
+     "other": "“the rain descended, and the floods came” occurs in exactly two KJV verses, Matthew 7:25 and Matthew 7:27, the two halves of the same parable.",
+     "alternative": "3 Nephi 11:40, the Book of Mormon’s own prior fusion of this parable with Matthew 16:18, which accounts for everything in 18:13 except the rain.",
+     "significance": "What makes this worth a row rather than a cross-reference is one element. 3 Nephi 11:40 had already fused Matthew 7 with Matthew 16:18 — sandy foundation, gates of hell, ‘when the floods come, and the winds beat upon them’ — and in doing so it dropped the rain, which is the first of Matthew’s three. 18:13 restores it: ‘when the rain descends, and the floods come, and the winds blow, and beat upon them’. The full triad is back, in Matthew’s order, in the present tense. A speaker recycling his own earlier sentence does not usually recover a missing element of its source."
+    },
+    "note": "‘Are not built upon my rock, but are built upon a sandy foundation; and when the rain descends, and the floods come, and the winds blow, and beat upon them, they shall fall.’ Hardy’s apparatus cross-references Matthew 7:24-27 at this verse. The catalogue’s own position is that the proximate model is 3 Nephi 11:40, where the same speaker has already welded this parable to Matthew 16:18 in almost these words — the standing rule (ADJUDICATING §4) is that a formula’s later uses within one book belong in `recurrenceRefs`, not in fresh rows. The row is written anyway because 18:13 has something 11:40 lacks and Matthew 7:25/27 has: the rain. That is the argument, and it is thin enough to be worth stating plainly. The parable itself is adjudicated verse by verse at 3 Nephi 14:24-27; the gates-of-hell half of the sentence is registered as an exclusion at this verse pointing back to 11:39-40. The 1830 reads ‘the gates of hell is already open to receive them’, singular verb and ‘already’, both changed in 1920 to ‘are ready’.",
+    "whyNot": "Everything in 18:13 except the word ‘rain’ is present at 3 Nephi 11:40, and a composer repeating a sentence he wrote seven chapters earlier could easily have filled it out from memory of the parable he had also just transcribed in full at 14:24-27. On that reading there is no fresh contact with Matthew 7 here at all, and the row should collapse into a cross-reference.",
+    "bibliography": [
+     "Hardy MSI at 3 Ne 18.13 (Matthew 7:24-27)"
+    ],
+    "status": "majority",
+    "streams": [
+     "manual"
+    ]
+   }
+  ],
+  "18:15": [
+   {
+    "source": "2 Timothy 2:26",
+    "type": "allusion",
+    "subtype": "close-verbal",
+    "confidence": "moderate",
+    "text": "And that they may recover themselves out of the snare of the devil, who are taken captive by him at his will.",
+    "evidence": {
+     "vocabulary": 4,
+     "syntax": 3,
+     "sequence": 3,
+     "context": 4,
+     "rarity": 5,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "composite": [
+     "Matthew 26:41"
+    ],
+    "provenance": {
+     "route": "2 Timothy 2:26 → KJV → Book of Mormon",
+     "other": "“captive by him” occurs in exactly one KJV verse, 2 Timothy 2:26, and it is the only verse in the Bible in which a person is a captive of the devil. “watch and pray” occurs in exactly two KJV verses, Matthew 26:41 and Mark 13:33.",
+     "significance": "Paul’s sentence is about recovery — the servant of the Lord instructing opponents ‘if God peradventure will give them repentance’, so that they may get themselves out of the snare. 3 Nephi 18:15 uses the same captivity as the thing prayer prevents, and then the rest of the chapter carries out Paul’s recovery: 18:30-32 forbids casting a man out, requires the disciples to keep ministering to him, and expects that he ‘will return and repent’. The verse that supplies the danger at 18:15 supplies the pastoral programme of 18:30-32 as well."
+    },
+    "note": "‘Ye must watch and pray always, lest ye be tempted by the devil, and ye are led away captive by him.’ Two elements, each rare and each from a different place. ‘Watch and pray’ is Gethsemane’s imperative, which returns three verses later at 18:18 in its fuller form; ‘captive by him’ with the devil as antecedent is a KJV singleton. The Book of Mormon expands ‘taken’ to ‘led away’, which is common OT wording for deportation and may be why the n-gram stream proposed nothing here at all.",
+    "whyNot": "The two shared words are short and the syntax around them is not Paul’s: 2 Timothy has a relative clause about those already captive, the Book of Mormon a purpose clause about avoiding capture. If ‘led away captive’ is read as the Old Testament exile idiom the Book of Mormon uses elsewhere, 2 Timothy 2:26 drops out and only ‘by him’ remains.",
+    "status": "novel",
+    "bibliography": [],
+    "streams": [
+     "manual"
+    ],
+    "citationsPending": true
+   }
+  ],
+  "18:16": [
+   {
+    "source": "John 13:15",
+    "type": "allusion",
+    "subtype": "close-verbal",
+    "confidence": "high",
+    "text": "For I have given you an example, that ye should do as I have done to you.",
+    "evidence": {
+     "vocabulary": 4,
+     "syntax": 4,
+     "sequence": 4,
+     "context": 5,
+     "rarity": 5,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "recurrenceRefs": [
+     "3 Nephi 18:6",
+     "3 Nephi 18:24"
+    ],
+    "provenance": {
+     "route": "John 13:15 → KJV → Book of Mormon",
+     "other": "“I have given you an example” occurs in exactly one KJV verse, John 13:15. The word ‘example’ in the sense of a pattern to imitate is otherwise rare in the KJV and never on Jesus’ lips.",
+     "significance": "John 13:15 is the footwashing — the act John puts where the Synoptics put the institution of the supper, in a Gospel that has no institution narrative at all. So the one KJV verse in which Jesus says he has given an example belongs to John’s substitute for the Lord’s Supper, and the Book of Mormon attaches it to a supper it has just instituted. The chapter is doing at 18:16 what it does at 18:29: putting the Johannine material and the Synoptic-Pauline material into the same rite, which neither testament does."
+    },
+    "note": "‘As I have prayed among you, even so shall ye pray … I have set an example for you.’ The KJV’s sentence has two limbs — the example given, and ‘that ye should do as I have done to you’ — and 3 Nephi 18 uses both, the second limb ten verses earlier at 18:6 (‘this shall ye always observe to do, even as I have done’) and again at 18:24 (‘that which ye have seen me do’). The Book of Mormon changes ‘given’ to ‘set’, which is not the KJV’s verb for it and is the reason the phrase drops below the n-gram threshold. What is transferred is John 13:15’s logic: an act performed by Jesus in front of disciples, then commanded as a standing ordinance on the ground that they saw him do it.",
+    "status": "novel",
+    "bibliography": [],
+    "streams": [
+     "manual"
+    ],
+    "citationsPending": true
+   }
+  ],
+  "18:18": [
+   {
+    "source": "Luke 22:31",
+    "type": "quotation",
+    "subtype": "close-verbal",
+    "confidence": "certain",
+    "text": "And the Lord said, Simon, Simon, behold, Satan hath desired to have you, that he may sift you as wheat:",
+    "evidence": {
+     "vocabulary": 5,
+     "syntax": 5,
+     "sequence": 5,
+     "context": 5,
+     "rarity": 5,
+     "attestation": 1
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "composite": [
+     "Matthew 26:41",
+     "Mark 14:38"
+    ],
+    "recurrenceRefs": [
+     "3 Nephi 18:15"
+    ],
+    "provenance": {
+     "route": "Luke 22:31 → KJV → Book of Mormon, with the watch-and-pray clause from Matthew 26:41 / Mark 14:38",
+     "other": "“sift you as wheat” occurs in exactly one KJV verse, Luke 22:31. “lest ye enter into temptation” occurs in exactly two KJV verses, Mark 14:38 and Luke 22:46; Matthew 26:41 has ‘that ye enter not into temptation’. “watch and pray” occurs in exactly two KJV verses, Matthew 26:41 and Mark 13:33 — Mark 14:38 reads ‘Watch ye and pray’. So the Book of Mormon’s sentence takes its first clause from Matthew’s form and its second from Mark’s.",
+     "significance": "This is the chapter’s clearest evidence that Luke 22 is being followed as a sequence and not merely quarried. Luke gives the institution at 22:19-20 and the sifting of Simon at 22:31; 3 Nephi 18 gives the institution at 18:7-11 and the sifting at 18:18, twelve verses apart in one and eleven in the other. Recover Luke’s context and the recipient changes everything: in Luke the sifting is addressed to one man who will deny Jesus that night, and Jesus’ answer is ‘I have prayed for thee, that thy faith fail not’ (22:32). 3 Nephi 18 turns the second person singular into a plural addressed to a whole multitude, and replaces Jesus’ intercession with a standing command that they pray for themselves — which is what 18:19-21 then legislates, down to praying in families."
+    },
+    "note": "‘Ye must watch and pray always, lest ye enter into temptation; for satan desireth to have you, that he may sift you as wheat.’ Ten consecutive words of Luke 22:31 with one change of tense: ‘hath desired’ becomes ‘desireth’. The phrase is a KJV singleton and the surrounding sentence is welded to the Gethsemane command, which itself appears in both its Matthean and Markan forms across 18:15 and 18:18. Below Skousen’s sixteen-word threshold and therefore not one of his thirty-six, but a reproduced clause from an identifiable single source, which is what CONVENTIONS §2 calls a quotation.",
+    "status": "novel",
+    "bibliography": [],
+    "streams": [
+     "manual"
+    ],
+    "citationsPending": true
+   }
+  ],
+  "18:20": [
+   {
+    "source": "John 16:23",
+    "type": "quotation",
+    "subtype": "close-verbal",
+    "confidence": "certain",
+    "text": "And in that day ye shall ask me nothing. Verily, verily, I say unto you, Whatsoever ye shall ask the Father in my name, he will give it you.",
+    "evidence": {
+     "vocabulary": 5,
+     "syntax": 5,
+     "sequence": 4,
+     "context": 5,
+     "rarity": 5,
+     "attestation": 1
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "composite": [
+     "Matthew 21:22",
+     "John 15:16"
+    ],
+    "recurrenceRefs": [
+     "3 Nephi 16:4"
+    ],
+    "provenance": {
+     "route": "John 16:23 + Matthew 21:22 → KJV → Book of Mormon",
+     "other": "“whatsoever ye shall ask the Father in my name” occurs in exactly one KJV verse, John 16:23; John 15:16 has ‘whatsoever ye shall ask of the Father in my name’, with the preposition, which the Book of Mormon does not have. “believing, ye shall receive” occurs in exactly one KJV verse, Matthew 21:22.",
+     "significance": "Two KJV singletons fused in one sentence, from two Gospels, and the seam is where the Book of Mormon inserts its own qualification: ‘which is right’. John 16:23 promises without condition and Matthew 21:22 conditions only on believing; the Book of Mormon adds a condition on the petition itself, and then makes the whole thing a standing law of prayer for a church (18:19-21). Recovering John 16:23’s context sharpens it further — ‘in that day’ is the day after Jesus goes to the Father, which is exactly what he announces at 18:27 and 18:35 and performs at 18:39."
+    },
+    "note": "‘Whatsoever ye shall ask the Father in my name, which is right, believing that ye shall receive, and behold it shall be given unto you.’ Nine words of John 16:23 in order, then four of Matthew 21:22, then John’s apodosis restored in the passive. Both halves are KJV singletons and the machine found the first without the second, which is the usual pattern: the n-gram stream cannot see a source whose contribution begins after a clause boundary. The same John 16:23 promise stands behind 3 Nephi 16:4, where only the bare ‘ask the Father in my name’ survives; here the whole clause is present, so the row is written fresh.",
+    "status": "novel",
+    "bibliography": [],
+    "streams": [
+     "manual"
+    ],
+    "citationsPending": true
+   }
+  ],
+  "18:22": [
+   {
+    "source": "Matthew 19:14",
+    "type": "allusion",
+    "subtype": "close-verbal",
+    "confidence": "high",
+    "text": "But Jesus said, Suffer little children, and forbid them not, to come unto me: for of such is the kingdom of heaven.",
+    "evidence": {
+     "vocabulary": 4,
+     "syntax": 5,
+     "sequence": 4,
+     "context": 5,
+     "rarity": 4,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "composite": [
+     "Mark 10:14",
+     "Luke 18:16"
+    ],
+    "recurrenceRefs": [
+     "3 Nephi 9:22",
+     "3 Nephi 17:21"
+    ],
+    "provenance": {
+     "route": "Matthew 19:14 / Mark 10:14 / Luke 18:16 → KJV → Book of Mormon",
+     "other": "“forbid them not” occurs in exactly three KJV verses, Matthew 19:14, Mark 10:14 and Luke 18:16 — the three Synoptic tellings of one incident and nothing else. All three pair it with ‘suffer’ and ‘come unto me’, and 3 Nephi 18:22 has all three words: ‘suffer them that they may come unto you, and forbid them not’.",
+     "significance": "The chapter before this one is the blessing of the children (3 Nephi 17:11-24), so the KJV verse being borrowed is the one the narrative has just enacted. What 18:22 does with it is the finding: the words Jesus uses in the Gospels to stop disciples turning away children are turned into a general law of assembly forbidding the disciples to turn away anyone at all. ‘Come unto me’ becomes ‘come unto you’ — the object of the welcome shifts from Christ to the church, and the sentence becomes church order rather than a rebuke."
+    },
+    "note": "‘Ye shall not forbid any man from coming unto you … but suffer them that they may come unto you, and forbid them not.’ Three distinctive words of a KJV three-verse phrase, in the KJV’s own construction, with the pronoun moved from Christ to the disciples. The n-gram stream instead ranked Ezekiel 16:33 first here on ‘that they may come unto’, which is registered as an exclusion. Mark 10:14 is already adjudicated at 3 Nephi 9:22 for a different clause of the same verse (‘of such is the kingdom’), so the recurrence is noted rather than argued again.",
+    "status": "novel",
+    "bibliography": [],
+    "streams": [
+     "manual"
+    ],
+    "citationsPending": true
+   }
+  ],
+  "18:23": [
+   {
+    "source": "John 6:37",
+    "type": "allusion",
+    "subtype": "strong-verbal",
+    "confidence": "high",
+    "text": "All that the Father giveth me shall come to me; and him that cometh to me I will in no wise cast out.",
+    "evidence": {
+     "vocabulary": 4,
+     "syntax": 4,
+     "sequence": 4,
+     "context": 5,
+     "rarity": 5,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "composite": [
+     "John 9:34",
+     "John 16:2"
+    ],
+    "recurrenceRefs": [
+     "3 Nephi 18:30",
+     "3 Nephi 18:32"
+    ],
+    "provenance": {
+     "route": "John 6:37 → KJV → Book of Mormon",
+     "other": "“in no wise cast out” occurs in exactly one KJV verse, John 6:37, and “him that cometh to me” occurs in exactly one KJV verse, the same one. The pairing of coming to Christ with not being cast out is unique to it.",
+     "significance": "Three times in ten verses the chapter forbids casting out — 18:23 of those who come, 18:30 of the unworthy, 18:32 out of the synagogues — and it is the same prohibition each time. John 6:37 is the promise; John’s Gospel is also the book in which being cast out of the synagogue is the standing penalty for confessing Christ (9:22, 9:34, 12:42, 16:2, ‘They shall put you out of the synagogues’). 3 Nephi 18:32 names the synagogue explicitly. Read together, the chapter takes the one thing John’s Jesus promises he will never do, and the one thing John’s opponents habitually do, and makes the first a binding rule against the second."
+    },
+    "note": "‘But ye shall pray for them, and shall not cast them out; and if it so be that they come unto you oft, ye shall pray for them.’ The two elements of John 6:37 — coming, and not being cast out — in that order, with the Book of Mormon’s usual transfer of the pronoun from Christ to the disciples. The verbal contact is a construction rather than a run of words, which is why no machine stream proposed it; ‘cast them out’ by itself occurs in sixteen KJV verses and identifies nothing. What identifies John 6:37 is that it is the only verse where the two halves stand together, and that the rest of the chapter (18:25, 18:29) is demonstrably working through John 6.",
+    "status": "novel",
+    "bibliography": [],
+    "streams": [
+     "manual"
+    ],
+    "citationsPending": true
+   }
+  ],
+  "18:25": [
+   {
+    "source": "John 6:67",
+    "type": "allusion",
+    "subtype": "close-verbal",
+    "confidence": "moderate",
+    "text": "Then said Jesus unto the twelve, Will ye also go away?",
+    "evidence": {
+     "vocabulary": 3,
+     "syntax": 3,
+     "sequence": 4,
+     "context": 5,
+     "rarity": 5,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "composite": [
+     "John 6:66",
+     "John 6:37"
+    ],
+    "recurrenceRefs": [
+     "3 Nephi 18:23",
+     "3 Nephi 18:29"
+    ],
+    "provenance": {
+     "route": "John 6:66-67 → KJV → Book of Mormon",
+     "other": "“Will ye also go away” occurs in exactly one KJV verse, John 6:67. In John it follows immediately on 6:66, ‘From that time many of his disciples went back, and walked no more with him’ — the desertion caused by the flesh-and-blood saying of 6:53-56, which 3 Nephi 18:29 borrows four verses later.",
+     "significance": "John 6 runs feeding (6:11-13) → come to me and I will not cast you out (6:37) → eat my flesh and drink my blood (6:53-56) → many go away (6:66-67). 3 Nephi 18 runs feeding and filling (18:2-9) → come unto you, do not cast out (18:22-23) → go away / come unto me (18:25) → eateth my flesh and blood (18:29) → do not cast him out (18:30-32). The elements are John 6’s and so, nearly, is the order; the difference is that John 6 ends in desertion and 3 Nephi 18 ends by legislating against it. Where John’s Jesus watches disciples walk away and asks the twelve whether they will too, this Jesus says he has commanded that none of them should go away."
+    },
+    "note": "‘Ye see that I have commanded that none of you should go away, but rather have commanded that ye should come unto me, that ye might feel and see.’ The two verbs are John 6:67’s ‘go away’ and John 6:37’s ‘come to me’, set against each other as they are in John, and the sentence is a flat denial of the Johannine outcome. Taken alone the contact is thin — ‘go away’ occurs in twelve KJV verses. It is proposed because of what stands around it: 18:23 has John 6:37’s not-casting-out, 18:29 has John 6:54’s eating of flesh, and the chapter’s opening has John 6’s feeding. The row records the sequence, not the two words.",
+    "whyNot": "The verbal evidence at this verse is two ordinary words, and ‘feel and see’ points at 3 Nephi 11:14-15 rather than at John. If the John 6 sequence elsewhere in the chapter is judged coincidental, nothing here survives on its own.",
+    "status": "novel",
+    "bibliography": [],
+    "streams": [
+     "manual"
+    ],
+    "citationsPending": true
+   }
+  ],
+  "18:29": [
+   {
+    "source": "1 Corinthians 11:29",
+    "type": "quotation",
+    "subtype": "close-verbal",
+    "confidence": "certain",
+    "text": "For he that eateth and drinketh unworthily, eateth and drinketh damnation to himself, not discerning the Lord’s body.",
+    "evidence": {
+     "vocabulary": 5,
+     "syntax": 5,
+     "sequence": 5,
+     "context": 5,
+     "rarity": 5,
+     "attestation": 2
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "composite": [
+     "John 6:54",
+     "1 Corinthians 11:27",
+     "John 6:53"
+    ],
+    "recurrenceRefs": [
+     "3 Nephi 18:28",
+     "3 Nephi 18:30"
+    ],
+    "provenance": {
+     "route": "1 Corinthians 11:27-29 fused with John 6:53-54 → KJV → Book of Mormon",
+     "other": "“damnation to himself” occurs in exactly one KJV verse, 1 Corinthians 11:29. “unworthily” occurs in exactly two KJV verses, 1 Corinthians 11:27 and 11:29, and nowhere else in the Bible; 3 Nephi uses it twice in two verses (18:28, 18:29) and ‘unworthy’ once more. “eateth and drinketh” occurs in exactly two KJV verses, Mark 2:16 and 1 Corinthians 11:29. From the other side, “whoso eateth” occurs in exactly one KJV verse, John 6:54, ‘Whoso eateth my flesh, and drinketh my blood’.",
+     "alternative": "1 Corinthians 11:27 alone, if ‘my flesh and blood’ is read as the Book of Mormon’s own idiom rather than as John’s.",
+     "significance": "This is the chapter’s densest verse and it is a weld. Paul supplies the warning — the adverb, the doubled verb, the damnation — and Paul never says ‘flesh’: at 11:27 his phrase is ‘the body and blood of the Lord’, a KJV singleton. John supplies ‘whoso eateth’ and the flesh-and-blood pair, and John’s discourse contains no warning about unworthiness at all. The New Testament’s two eucharistic hard sayings are on opposite sides of the canon and address opposite problems; 3 Nephi 18:29 is a single sentence containing both. Note also what the fusion costs: ‘flesh and blood’ as a unit occurs in five KJV verses, and in every one of them it means human nature, not sacramental food."
+    },
+    "note": "‘For whoso eateth and drinketh my flesh and blood unworthily, eateth and drinketh damnation to his soul.’ Paul’s clause is reproduced almost intact — the doubled ‘eateth and drinketh’ on both sides of the adverb, the adverb itself, and the damnation — with one substitution: ‘to himself’ becomes ‘to his soul’. The object of the eating is John’s, not Paul’s, and the opening ‘whoso eateth’ is John 6:54’s own first two words. Paul’s explanatory tag, ‘not discerning the Lord’s body’, is dropped and replaced by an administrative rule (18:28-30): the disciples are to know who is unworthy and forbid him. That converts Paul’s self-examination into a gatekeeping duty, which is the pastoral question the rest of the chapter answers.",
+    "status": "novel",
+    "bibliography": [],
+    "streams": [
+     "manual"
+    ],
+    "citationsPending": true
+   }
+  ],
+  "18:31": [
+   {
+    "source": "John 10:14",
+    "type": "allusion",
+    "subtype": "close-verbal",
+    "confidence": "high",
+    "text": "I am the good shepherd, and know my sheep, and am known of mine.",
+    "evidence": {
+     "vocabulary": 4,
+     "syntax": 4,
+     "sequence": 3,
+     "context": 5,
+     "rarity": 5,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "recurrenceRefs": [
+     "3 Nephi 16:1"
+    ],
+    "provenance": {
+     "route": "John 10:14 → KJV → Book of Mormon",
+     "other": "“know my sheep” occurs in exactly one KJV verse, John 10:14.",
+     "significance": "John 10:14’s knowing is mutual and is the ground of the shepherd’s laying down his life for the flock; here it is cited as the ground for keeping a man out of it — ‘he shall not be numbered among my people, that he may not destroy my people: for behold I know my sheep’. The Book of Mormon then adds a word John does not have: ‘and they are numbered’. Numbering sheep is a shepherd’s act nowhere in John 10 and is what makes the sentence an argument about membership rolls rather than about intimacy. The other-sheep verse of the same discourse, John 10:16, is already at work at 3 Nephi 15:21 and 16:1, so this chapter’s shepherd language is continuous with the discourse the visit has been quoting for three chapters."
+    },
+    "note": "‘He shall not be numbered among my people, that he may not destroy my people: for behold I know my sheep, and they are numbered.’ Three words of a KJV singleton, in the first person, in a speech that has been drawing on John 10 since 15:21. The verse turns the shepherd’s knowledge into an audit — the same verb, ‘numbered’, governs both the excluded man and the sheep, so that being known and being counted are made one thing. Note that 18:32 immediately reverses direction and forbids casting the man out of the synagogues, so the exclusion of 18:31 is from the roll and not from the assembly.",
+    "status": "novel",
+    "bibliography": [],
+    "streams": [
+     "manual"
+    ],
+    "citationsPending": true
+   }
+  ],
+  "18:33": [
+   {
+    "source": "1 Corinthians 11:34",
+    "type": "allusion",
+    "subtype": "close-verbal",
+    "confidence": "high",
+    "text": "And if any man hunger, let him eat at home; that ye come not together unto condemnation. And the rest will I set in order when I come.",
+    "evidence": {
+     "vocabulary": 4,
+     "syntax": 4,
+     "sequence": 5,
+     "context": 5,
+     "rarity": 5,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "recurrenceRefs": [
+     "3 Nephi 18:29"
+    ],
+    "provenance": {
+     "route": "1 Corinthians 11:34 → KJV → Book of Mormon",
+     "other": "“unto condemnation” occurs in exactly one KJV verse, 1 Corinthians 11:34, and “come not together unto condemnation” occurs in exactly one KJV verse, the same one. The Book of Mormon reads ‘that ye come not under condemnation’ — one preposition apart.",
+     "significance": "The sequence is the finding. 1 Corinthians 11 gives the institution (11:23-25), then the unworthy eating and its damnation (11:27-29), then closes the instruction with ‘that ye come not together unto condemnation’ (11:34). 3 Nephi 18 gives the institution (18:3-11), then the unworthy eating and its damnation (18:28-29), then closes with ‘that ye come not under condemnation’ (18:33). Two chapters, the same three moves, the same two rare words at the same point in the sequence. Whatever else the chapter is doing, at 18:28-34 it is following the shape of 1 Corinthians 11 from the warning to the sign-off."
+    },
+    "note": "‘Therefore keep these sayings which I have commanded you, that ye come not under condemnation.’ The KJV’s phrase is unique to 1 Corinthians 11:34 and the substitution of ‘under’ for ‘together unto’ is exactly the kind of change that hides a borrowing from an n-gram search — nothing proposed this verse, and it is one of the two or three strongest in the chapter. Paul’s ‘together’ is doing work the Book of Mormon does not need, since his condemnation attaches to the assembly convening badly; here it attaches to individual disobedience, and the phrase is generalised accordingly.",
+    "status": "novel",
+    "bibliography": [],
+    "streams": [
+     "manual"
+    ],
+    "citationsPending": true
+   }
+  ],
+  "18:34": [
+   {
+    "source": "1 Corinthians 11:18",
+    "type": "echo",
+    "subtype": "probable",
+    "confidence": "moderate",
+    "text": "For first of all, when ye come together in the church, I hear that there be divisions among you; and I partly believe it.",
+    "evidence": {
+     "vocabulary": 3,
+     "syntax": 3,
+     "sequence": 5,
+     "context": 5,
+     "rarity": 4,
+     "attestation": 0
+    },
+    "kjvSpecific": "uncertain",
+    "mediation": "direct-NT",
+    "composite": [
+     "1 Corinthians 1:10"
+    ],
+    "recurrenceRefs": [
+     "3 Nephi 11:28",
+     "3 Nephi 18:33"
+    ],
+    "provenance": {
+     "route": "1 Corinthians 11:18 (with 1:10) → KJV → Book of Mormon",
+     "other": "“divisions among you” occurs in exactly two KJV verses, 1 Corinthians 1:10 and 1 Corinthians 11:18; “no divisions among you” occurs in exactly one KJV verse, 1 Corinthians 1:10. The Book of Mormon’s word is ‘disputations’, which is not the KJV’s word here at all.",
+     "significance": "1 Corinthians 11 gives its sacrament instruction because of divisions in the assembly (11:18-19), and closes it so that they may not come together unto condemnation (11:34). 3 Nephi 18 gives its sacrament commandments ‘because of the disputations which hath been among you’ (18:34), immediately after ‘that ye come not under condemnation’ (18:33). Both the motive and the sign-off are in Paul’s order. That the Book of Mormon reaches for its own word rather than Paul’s is what keeps this at moderate; that it reaches for it at Paul’s point in Paul’s argument is why the row exists."
+    },
+    "note": "‘I give you these commandments, because of the disputations which hath been among you beforetime. And blessed are ye if ye have no disputations among you.’ The second sentence has 1 Corinthians 1:10’s construction — that there be no divisions among you — with a different noun, and the first has 1 Corinthians 11:18’s function: the divisions are the reason the sacrament instruction is being given. The link is structural rather than verbal and is proposed as such. The 1830 ‘hath been among you beforetime’ keeps a KJV word (‘beforetime’) that 1920 simply deleted.",
+    "whyNot": "‘Disputations’ is the Book of Mormon’s own term and 3 Nephi 11:28-29 has already forbidden disputations twice, without any Pauline framing, so 18:34 may be looking back to 11:28 and not to Corinth. There is no shared distinctive word: the argument is entirely from the position of the sentence in a sequence, and a reader who declines the 1 Corinthians 11 sequence at 18:29 and 18:33 should decline this too.",
+    "status": "novel",
+    "bibliography": [],
+    "streams": [
+     "manual"
+    ],
+    "citationsPending": true
+   }
+  ],
+  "18:35": [
+   {
+    "source": "John 16:7",
+    "type": "allusion",
+    "subtype": "close-verbal",
+    "confidence": "high",
+    "text": "Nevertheless I tell you the truth; It is expedient for you that I go away: for if I go not away, the Comforter will not come unto you; but if I depart, I will send him unto you.",
+    "evidence": {
+     "vocabulary": 4,
+     "syntax": 4,
+     "sequence": 4,
+     "context": 5,
+     "rarity": 5,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "composite": [
+     "John 14:28",
+     "John 16:10"
+    ],
+    "recurrenceRefs": [
+     "3 Nephi 18:27"
+    ],
+    "provenance": {
+     "route": "John 16:7 → KJV → Book of Mormon",
+     "other": "“it is expedient” occurs in exactly two KJV verses, John 11:50 and John 16:7. The n-gram stream instead proposed John 14:28 here, on ‘I go unto the Father’, which is the phrase’s home but carries no expediency.",
+     "significance": "Both KJV occurrences are in John and both are about a departure that benefits others, and the other one is Caiaphas: ‘it is expedient for us, that one man should die for the people’ (John 11:50), which the catalogue has already met at 1 Nephi 4:13. So the King James Bible uses this construction twice, once for the death of Jesus as political calculation and once for his going to the Father as gift, and 3 Nephi 18:35 has the second with the first standing behind it. The metalepsis is available whether or not it was intended: the expediency that killed him and the expediency that takes him to the Father are the same word.",
+     "alternative": "John 14:28 for ‘I go unto the Father’, which the Book of Mormon also has — but 14:28 has no expediency clause and no ‘for your sakes’."
+    },
+    "note": "‘And now I go unto the Father, because it is expedient that I should go unto the Father, for your sakes.’ John 16:7’s three elements are all present — the going, the expediency of the going, and the benefit to the hearers — in John’s order, with ‘for your sakes’ for John’s ‘for you’ and ‘unto the Father’ for John’s ‘away’ (which John himself supplies at 16:10 and 14:28). What John gives as the reason — that the Comforter cannot come while he stays — is not stated here but is performed: the last thing Jesus does before departing is give the disciples power to bestow the Holy Ghost (18:36-37).",
+    "status": "novel",
+    "bibliography": [],
+    "streams": [
+     "manual"
+    ],
+    "citationsPending": true
+   }
+  ],
+  "18:37": [
+   {
+    "source": "Acts 8:19",
+    "type": "allusion",
+    "subtype": "close-verbal",
+    "confidence": "high",
+    "text": "Saying, Give me also this power, that on whomsoever I lay hands, he may receive the Holy Ghost.",
+    "evidence": {
+     "vocabulary": 4,
+     "syntax": 4,
+     "sequence": 4,
+     "context": 5,
+     "rarity": 5,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "composite": [
+     "Acts 8:17",
+     "Acts 8:18"
+    ],
+    "recurrenceRefs": [
+     "3 Nephi 18:36"
+    ],
+    "provenance": {
+     "route": "Acts 8:17-19 → KJV → Book of Mormon",
+     "other": "“he may receive the Holy Ghost” occurs in exactly one KJV verse, Acts 8:19, and “the Holy Ghost was given” occurs in exactly one KJV verse, Acts 8:18. Acts 8:14-19 is the King James Bible’s only passage in which a power to confer the Holy Ghost by touch is spoken of as a transferable thing.",
+     "significance": "Recover the context and the borrowing acquires an edge the Book of Mormon does not comment on. The KJV’s one account of a power to give the Holy Ghost is the account of a man who tries to buy it — Simon offers the apostles money, and Peter answers ‘Thy money perish with thee, because thou hast thought that the gift of God may be purchased with money’ (Acts 8:20). 3 Nephi 18:37 confers exactly that power, by touch, on twelve men, and immediately withholds the words — ‘the multitude heard not the words which he spake’. The one thing the KJV says about this power is that it is not for sale and not for onlookers; this chapter gives it in silence, in front of a crowd that cannot hear."
+    },
+    "note": "‘The disciples bear record that he gave them power to give the Holy Ghost.’ Two of the three content words — power, and the giving of the Holy Ghost — with the touching of the disciples one by one at 18:36 supplying the third, which in Acts 8 is the laying on of hands. The whole verse is constructed on a passage no machine stream proposed, since ‘give the Holy Ghost’ as a string occurs in no KJV verse at all: the KJV always writes it as the Holy Ghost being received or given, never as a person giving it. The 1830 has ‘bear record’ twice where 1920 reads ‘bare’, and ‘shew’ where 1920 reads ‘show’.",
+    "status": "novel",
+    "bibliography": [],
+    "streams": [
+     "manual"
+    ],
+    "citationsPending": true
+   }
+  ],
+  "18:38": [
+   {
+    "source": "Luke 9:34",
+    "type": "allusion",
+    "subtype": "close-verbal",
+    "confidence": "high",
+    "text": "While he thus spake, there came a cloud, and overshadowed them: and they feared as they entered into the cloud.",
+    "evidence": {
+     "vocabulary": 5,
+     "syntax": 4,
+     "sequence": 4,
+     "context": 4,
+     "rarity": 5,
+     "attestation": 0
+    },
+    "kjvSpecific": "yes",
+    "mediation": "direct-NT",
+    "composite": [
+     "Acts 1:9",
+     "Matthew 17:5",
+     "Mark 9:7",
+     "Luke 24:51"
+    ],
+    "recurrenceRefs": [
+     "3 Nephi 11:7",
+     "3 Nephi 18:39"
+    ],
+    "provenance": {
+     "route": "Luke 9:34 → KJV → Book of Mormon, doing the work of Acts 1:9",
+     "other": "“there came a cloud” occurs in exactly one KJV verse, Luke 9:34; Matthew 17:5 has ‘a bright cloud overshadowed them’ and Mark 9:7 ‘there was a cloud that overshadowed them’. For the departure, “a cloud received him” occurs in exactly one KJV verse, Acts 1:9, and “carried up into heaven” occurs in exactly one KJV verse, Luke 24:51.",
+     "significance": "The KJV has two clouds around Jesus and they do opposite things. At the Transfiguration the cloud comes down and the disciples enter it and hear the Father’s voice; at the Ascension the cloud takes him up and out of sight. 3 Nephi 18:38-39 uses the Transfiguration’s wording to do the Ascension’s work: ‘there came a cloud and overshadowed the multitude, that they could not see Jesus … he departed from them, and ascended into Heaven’. The transfer is legible because this book has already used the other end of Luke 9 — 3 Nephi 11:7 quotes the voice out of the cloud. So the visit closes with the cloud that opened it, turned from a theophany the disciples walk into to a screen they are left behind."
+    },
+    "note": "‘There came a cloud and overshadowed the multitude, that they could not see Jesus.’ Six words of a KJV singleton, with the object changed from the disciples to the multitude and a purpose clause added that Luke has no room for. The purpose clause is the Ascension’s: Acts 1:9’s cloud receives him ‘out of their sight’, which is the only reason a cloud is ever said in the Bible to prevent seeing Jesus. Luke 24:51’s ‘parted from them, and carried up into heaven’ stands behind 18:39’s ‘departed from them, and ascended into Heaven’ at one remove, since the Book of Mormon uses ‘ascended’, which is John’s verb (John 20:17) rather than Luke’s.",
+    "status": "novel",
+    "bibliography": [],
+    "streams": [
+     "manual"
+    ],
+    "citationsPending": true
+   }
+  ]
+ }
+}
