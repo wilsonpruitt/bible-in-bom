@@ -133,29 +133,64 @@ def main() -> None:
             #              produced a false decisive between Isaiah 6:10 and Acts
             #              28:27 on the Jarom pass; this is the guard against it.
             is_insertion = not an or not bn
+            other_full = set(map(norm, words(kjv[other])))
+            base_full = set(map(norm, words(kjv[base])))
 
-            def informative(span: str) -> bool:
-                toks = span.split()
-                if not toks:
-                    return False
-                if any(t not in stop for t in toks) is False:
+            def content(span: str) -> list[str]:
+                return [t for t in span.split() if t not in stop]
+
+            def distinguishes(span: str, other_side_full: set[str]) -> bool:
+                """At least one of the span's content words is present in the
+                BoM verse AND does not also occur in the OTHER candidate's own
+                verse — i.e. the BoM's presence of that word genuinely favours
+                this side, rather than being shared vocabulary difflib happened
+                to align here.
+
+                Two bugs, both from the Mosiah 1-3 pass, made that necessary:
+
+                'scourge' is a word both Mark 10:34 and Matthew 20:19 actually
+                contain, but difflib aligned it into one opcode only, so the
+                old code credited it to whichever candidate happened to hold
+                it. The `other_side_full` check catches that: a word shared by
+                both candidates' full verses is never distinguishing, no
+                matter which opcode it landed in.
+
+                At Mosiah 2:11, 'might' is correctly Deuteronomy 6:5's, but the
+                span on Mark 12:30's side was 'mind, and with all thy strength
+                this is the first commandment' — Mark's own trailing sentence
+                as well as the divergence. Requiring EVERY word in that span to
+                match the BoM (the original check) failed on 'first' and
+                'commandment', hiding the fact that 'mind' and 'strength' are
+                independently in the BoM verse too — Mosiah 2:11 conflates both
+                sources. Requiring only ONE distinguishing word, not all of
+                them, is what makes a real conflation like this visible instead
+                of reporting a false single-sided DECISIVE.
+
+                A pure insertion still needs a RARE distinguishing word, same
+                as before — this only changes ALL-vs-ANY, not the rarity bar."""
+                toks = content(span)
+                candidates = [t for t in toks if t in bom_norm and t not in other_side_full]
+                if not candidates:
                     return False
                 if is_insertion:
-                    return any(df.get(t, 0) <= RARE_ENOUGH for t in toks if t not in stop)
+                    return any(df.get(t, 0) <= RARE_ENOUGH for t in candidates)
                 return True
 
-            in_a = bool(an) and an in bom_flat and informative(an)
-            in_b = bool(bn) and bn in bom_flat and informative(bn)
-            # A single differing word is the cleanest kind of test.
-            # A single differing word is the cleanest kind of test — but only if the
-            # word is distinctive enough that its presence means something.
+            in_a = bool(an) and distinguishes(an, other_full)
+            in_b = bool(bn) and distinguishes(bn, base_full)
+            # A single differing word is the cleanest kind of test — but only if
+            # the word is distinctive enough that its presence means something,
+            # and it must not ALSO occur in the other candidate's own verse
+            # (see `distinguishes` above for why that check exists).
             if not in_a and not in_b and (i2 - i1) <= 1 and (j2 - j1) <= 1:
                 insertion = not an or not bn
-                for span, present in ((an, "a"), (bn, "b")):
+                for span, present, other_side_full in ((an, "a", other_full), (bn, "b", base_full)):
                     if not span or span in stop:
                         continue
                     if insertion and df.get(span, 0) > RARE_ENOUGH:
                         continue          # a common word inserted proves nothing
+                    if span in other_side_full:
+                        continue          # shared vocabulary difflib misaligned, not a divergence
                     if span in bom_norm:
                         if present == "a": in_a = True
                         else: in_b = True

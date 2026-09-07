@@ -58,8 +58,16 @@ WORDS = re.compile(r"[A-Za-z0-9']+")
 
 
 def phrase_pattern(query: str) -> str:
-    """The regex for a word sequence, indifferent to the punctuation between."""
-    return PHRASE_SEP.join(re.escape(w) for w in WORDS.findall(norm(query)))
+    """The regex for a word sequence, indifferent to the punctuation between.
+
+    Wrapped in \\b at both ends so a query word only matches a whole word.
+    Without this, a rarity count for "rust" silently included every verse
+    with "thrust" or "trusted" — the query matched as a substring anywhere,
+    not as the word itself. Found 2026-09-07 on the Mosiah 7-9 pass, which
+    caught it by hand and avoided claiming a count; the gate should catch it
+    instead."""
+    body = PHRASE_SEP.join(re.escape(w) for w in WORDS.findall(norm(query)))
+    return rf"\b{body}\b"
 
 
 def search(kjv, query: str, as_regex: bool):
