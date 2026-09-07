@@ -1,0 +1,156 @@
+{
+  "chapter": 50,
+  "adjudicated": "2026-09-07",
+  "adjudicator": "Opus",
+  "links": {
+    "50:4": [
+      {
+        "source": "2 Chronicles 26:15",
+        "type": "allusion",
+        "subtype": "conceptual",
+        "confidence": "moderate",
+        "text": "And he made in Jerusalem engines, invented by cunning men, to be on the towers and upon the bulwarks, to shoot arrows and great stones withal. And his name spread far abroad; for he was marvellously helped, till he was strong.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 2,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "uncertain",
+        "mediation": "direct-OT",
+        "composite": [
+          "2 Chronicles 26:9",
+          "2 Chronicles 26:16",
+          "2 Chronicles 32:5"
+        ],
+        "recurrenceRefs": [
+          "Alma 50:18",
+          "Alma 50:21"
+        ],
+        "provenance": {
+          "route": "2 Chronicles 26:9-16 → KJV → Book of Mormon",
+          "other": "'Built towers' occurs in exactly two KJV verses, 2 Chronicles 26:9 and 26:10, both of Uzziah. 'Arrows and great stones' occurs in exactly one, 2 Chronicles 26:15, and it is the only verse in the Bible that puts towers, arrows and stones in a single engineering sentence. The Book of Mormon does not reproduce either phrase — it has 'towers' and 'the stones and the arrows' in the reversed order — which is what holds this at moderate.",
+          "significance": "2 Chronicles 26 is the KJV's one sustained account of a king who fortifies his way to safety, and it does not end well: 'his name spread far abroad; for he was marvellously helped, till he was strong. But when he was strong, his heart was lifted up to his destruction' (26:15-16). Alma 50 follows the same curve inside twenty verses. The fortifications go up (50:1-6), the people 'did prosper exceedingly, and they became exceeding rich; yea, and they did multiply, and were strong in the land' (50:18), and the narrator then explains at once that what destroys this people is 'their quarrellings, and their contentions; yea, their murderings, and their plunderings, their idolatry, their whoredoms' (50:21) — Uzziah's transgression at the moment of his strength, distributed across a nation. The link is worth having for that reason and not for its wording: recover 26:16 and Alma 50:18's prosperity notice stops being a happy ending."
+        },
+        "note": "'He caused towers to be erected that overlooked those works of pickets; and he caused places of security to be built upon those towers, that the stones and the arrows of the Lamanites could not hurt them.' The King James Bible has two fortification set pieces, Uzziah's in 2 Chronicles 26:9-15 and Hezekiah's in 32:5, and Alma 50:1-6 is built from the elements of both — towers, walls raised, engines on the towers against arrows and stones, strongholds round about every city. Uzziah is the closer of the two because his towers carry the shooting engines and because his account supplies the moral the chapter goes on to draw. Held at moderate: nothing is quoted, and a writer describing earthworks, timbers, pickets and towers is describing a real technology, not necessarily a text.",
+        "whyNot": "The vocabulary is technical and common. Towers, walls, stones and arrows appear in every KJV siege, and the strongest single count here — 'arrows and great stones' at 2 Chronicles 26:15 — is a phrase the Book of Mormon does not use. The case is the sequence (fortify, prosper, grow strong, be destroyed by what strength permits) rather than the words.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "50:19": [
+      {
+        "source": "1 Kings 8:26",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "And now, O God of Israel, let thy word, I pray thee, be verified, which thou spakest unto thy servant David my father.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 5,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "2 Chronicles 6:17",
+          "1 Kings 9:6",
+          "1 Kings 9:7"
+        ],
+        "recurrenceRefs": [
+          "Alma 50:21"
+        ],
+        "provenance": {
+          "route": "1 Kings 8:26 (doublet at 2 Chronicles 6:17) → KJV → Book of Mormon",
+          "other": "'Verified' occurs in exactly three KJV verses: Genesis 42:20, where Joseph tests his brothers, and 1 Kings 8:26 with its Chronicles doublet 2 Chronicles 6:17, which are the same sentence of Solomon's dedication prayer. The doublet cannot be decided here — mediation-check.py finds no divergence the Book of Mormon reproduces — though Alma's simple preterite 'he spake unto Lehi' sits nearer 1 Kings's 'thou spakest' than 2 Chronicles's 'thou hast spoken'.",
+          "alternative": "2 Chronicles 6:17, verbally indistinguishable at every point Alma 50:19 touches.",
+          "significance": "Solomon asks that a promise made to a named father be verified, at the dedication of the temple, and the promise is the conditional dynastic covenant: keep my commandments and thy children shall not fail. Alma 50:19-21 declares that the promise made to a named father has been verified, and then quotes it — and the promise quoted at 50:20 is the conditional prosperity clause of 1 Nephi 2:20-21, whose biblical shape is the same Kings covenant, down to the threat at 1 Kings 9:6-7 of being cut off out of the land. So the narrator does not merely borrow a rare word; he takes over Solomon's whole speech act. The difference is the tense. Solomon prays that the word may be verified; the Nephite historian reports that it has been, 'even at this time'."
+        },
+        "note": "'His words are verified, even at this time, which he spake unto Lehi, saying.' 'Verified' is one of the rarer words in the KJV and two of its three occurrences are one sentence — Solomon's 'let thy word be verified, which thou spakest unto thy servant David my father'. The Book of Mormon reproduces its frame exactly: word(s) + verified + relative clause + 'spake unto' + the named patriarch. Alma 50:21 then repeats it ('these promises have been verified'), which is what a writer does with a formula he has just picked up rather than a word he happened to use. Well below Skousen's sixteen-word threshold and catalogued as an allusion.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "50:22": [
+      {
+        "source": "Job 36:12",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "text": "But if they obey not, they shall perish by the sword, and they shall die without knowledge.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Job 36:11"
+        ],
+        "provenance": {
+          "route": "Job 36:11-12 → KJV → Book of Mormon",
+          "other": "'Perish by the sword' occurs in exactly one KJV verse, Job 36:12. The KJV's ordinary idioms are 'fall by the sword' (some thirty verses) and 'die by the sword'; 'perish' with 'by the sword' is Elihu's alone.",
+          "significance": "Elihu's couplet is a two-branch conditional: 'If they obey and serve him, they shall spend their days in prosperity, and their years in pleasures. But if they obey not, they shall perish by the sword, and they shall die without knowledge.' Alma 50:22 is that couplet with both branches intact and the second one expanded — the faithful 'were delivered at all times', the wicked are 'consigned to bondage, or to perish by the sword, or to dwindle in unbelief'. The third term is the finding: 'dwindle in unbelief' is the Book of Mormon's standing phrase, and here it stands in Job's slot for 'die without knowledge'. Recovering Elihu's context shows the Nephite historian using a wisdom text, not a covenant text, to explain his own nation's history — and Elihu is the speaker God does not answer, which the narrator either does not know or does not mind."
+        },
+        "note": "'And those who were faithful in keeping the commandments of the Lord, were delivered at all times, whilst thousands of their wicked brethren have been consigned to bondage, or to perish by the sword, or to dwindle in unbelief, and mingle with the Lamanites.' The sentence is Job 36:11-12's two-branch conditional in the same order, and its one distinctive phrase is a KJV singleton. Preceding verses supply the prosperity half in Elihu's own terms ('they did prosper exceedingly', 50:18). The n-gram stream did not propose this: it is split across a clause boundary in the way CONVENTIONS §9 describes.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "50:39": [
+      {
+        "source": "Deuteronomy 1:16",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "text": "And I charged your judges at that time, saying, Hear the causes between your brethren, and judge righteously between every man and his brother, and the stranger that is with him.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Proverbs 31:9"
+        ],
+        "recurrenceRefs": [
+          "Mosiah 29:11",
+          "Mosiah 29:28"
+        ],
+        "provenance": {
+          "route": "Deuteronomy 1:16 → KJV → Book of Mormon",
+          "other": "'Judge righteously' occurs in exactly two KJV verses, Deuteronomy 1:16 and Proverbs 31:9. Deuteronomy 1:16 is the charge Moses gives the judges he has just appointed; Proverbs 31:9 is a mother's advice to a king about the poor and needy. The Nephite judgeship is a bench, not a throne, which is what puts Deuteronomy first.",
+          "significance": "Mosiah 29 built the Nephite judgeship out of Deuteronomy 1: the qualification of the judges at 29:11 comes from 1:13, the warning not to respect persons at 29:28 from 1:17. Deuteronomy 1:16 — 'Hear the causes between your brethren, and judge righteously between every man and his brother, and the stranger that is with him' — is the verse of that charge Mosiah's account left unused, and it surfaces here, in the oath sworn by the first man to inherit the office rather than be elected to it. The judgeship's founding charter is being recited at the point where it becomes hereditary, which is the anxiety Alma 51 will act on."
+        },
+        "note": "'He was appointed Chief Judge, and Governor over the people, with an oath, and sacred ordinance to judge righteously, and to keep the peace, and the freedom of the people.' Pahoran's oath of office uses one of the KJV's two occurrences of 'judge righteously', and uses it in Deuteronomy 1:16's setting — a charge to a judge over brethren. The preceding verse's 'perfect uprightness before God' (50:37) is in no KJV verse, but 'uprightness' is what the KJV pairs with righteous judging (Psalm 9:8), so the two verses together read as the language of the biblical bench rather than of a nineteenth-century one. Moderate rather than high: two words, and the second of the two KJV verses cannot be ruled out.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      }
+    ]
+  }
+}

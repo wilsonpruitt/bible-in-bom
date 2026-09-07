@@ -1,0 +1,161 @@
+{
+  "chapter": 51,
+  "adjudicated": "2026-09-07",
+  "adjudicator": "Opus",
+  "links": {
+    "51:6": [
+      {
+        "source": "1 Corinthians 7:22",
+        "type": "echo",
+        "subtype": "possible",
+        "confidence": "moderate",
+        "text": "For he that is called in the Lord, being a servant, is the Lord’s freeman: likewise also he that is called, being free, is Christ’s servant.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 2,
+          "sequence": 2,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "uncertain",
+        "mediation": "direct-NT",
+        "composite": [
+          "Galatians 5:1"
+        ],
+        "recurrenceRefs": [
+          "Alma 51:7",
+          "Alma 51:13",
+          "Alma 51:17",
+          "Alma 51:21"
+        ],
+        "provenance": {
+          "route": "1 Corinthians 7:22 (+ Galatians 5:1) → KJV → Book of Mormon",
+          "other": "'Freeman' occurs in exactly one KJV verse, 1 Corinthians 7:22; 'free men' in none. The other half of the chapter's political vocabulary — liberty, being made free, the yoke of bondage — is Galatians 5:1, itself a KJV singleton for 'yoke of bondage' and adjudicated at Mosiah 21:13 and 23:13.",
+          "significance": "The two Pauline verses behind the word are both about a freedom that is not political. Paul's freeman is a slave who has been called in the Lord; Paul's liberty is the liberty wherewith Christ made us free, and the yoke to avoid is circumcision. Alma 51 takes both and makes them a party register: men 'took upon them the name of freemen', they had 'sworn or covenanted to maintain their rights, and the privileges of their religion, by a free government', and by 51:21 the beaten king-men are made 'to fight valiantly for their freedom from bondage'. Recover the sources and the chapter's politics turn out to be spoken in the vocabulary of Christian manumission — which is exactly the register in which the Book of Mormon's freemen understand a constitutional dispute about the office of chief judge."
+        },
+        "note": "'Those who were desirous that Pahoran should remain Chief Judge over the land, took upon them the name of freemen.' The naming of a party is a deliberate act in the narrative and the word chosen has one occurrence in the King James Bible. Set beside the chapter's other half — the king-men, and the freedom-from-bondage of 51:21 — the pair of party names is built out of the KJV's two Pauline statements about liberty and servitude. Recorded at 51:6, where the name is conferred; the vocabulary runs through the chapter and is listed in recurrenceRefs.",
+        "whyNot": "'Freeman' is ordinary English in 1829 and carried a specific American political sense — a qualified voter — that fits Alma 51 better than 1 Corinthians 7:22 does. The KJV singleton may therefore be a coincidence of the KJV's own vocabulary rather than evidence of borrowing, and the confidence is moderate for that reason. What keeps the row is the company: the same chapter's liberty-and-bondage antithesis is Galatians 5:1's, and the two Pauline verses stand together.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "51:18": [
+      {
+        "source": "Isaiah 10:33",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "text": "Behold, the Lord, the LORD of hosts, shall lop the bough with terror: and the high ones of stature shall be hewn down, and the haughty shall be humbled.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Isaiah 2:11",
+          "Isaiah 10:34"
+        ],
+        "recurrenceRefs": [
+          "Alma 51:8",
+          "Alma 51:17",
+          "Alma 51:21"
+        ],
+        "provenance": {
+          "route": "Isaiah 10:33 → KJV → Book of Mormon",
+          "other": "‘High ones of stature’ occurs in exactly one KJV verse, Isaiah 10:33, and ‘the haughty shall be humbled’ occurs in exactly one KJV verse, the same one — two absolute rarities in a single line. The verb they frame, ‘hewn down’, occurs in five verses (Isaiah 10:33, Isaiah 33:9, Matthew 3:10, Matthew 7:19, Luke 3:9). mediation-check.py finds no divergence between Isaiah 10:33 and Matthew 3:10 that Alma 51:18 reproduces, because the two words the Book of Mormon takes are the two words the candidates share. The context decides instead: Matthew’s axe, tree, fruit and fire are all absent here, and Isaiah’s stature, haughtiness and humbling are all present in the surrounding verses.",
+          "alternative": "Matthew 3:10, which supplies the same two words and is the source adjudicated at Alma 5:52. The same phrase routes to different sources at different points of this book, and the discriminator is the company it keeps.",
+          "significance": "Isaiah 10:33-34 is the felling of Assyria under the figure of a forest: the LORD of hosts lops the bough, the high ones of stature are hewn down, the haughty are humbled, and Lebanon falls by a mighty one. Alma 51 does the whole figure in prose and drops the trees. What Moroni pulls down is 'their pride and their nobility'; what falls is people 'which professed the blood of nobility'; and what happens to the survivors is that they are 'brought down to humble themselves' (51:21) — Isaiah's three terms, high stature, hewing down, humbling of the haughty, in Isaiah's order. The suppressed half of the borrowing is the agent. In Isaiah it is the LORD of hosts who lops the bough, and the passage is about a foreign empire; in Alma it is a Nephite general with an army, against four thousand of his own countrymen. The verse that makes the humbling divine is the verse Alma 51:18 does not quote."
+        },
+        "note": "'They did pull down their pride and their nobility, insomuch, that as they did lift their weapons of war to fight against the men of Moroni, they were hewn down, and levelled to the earth.' 'Hewn down' is the Book of Mormon's borrowed verb elsewhere too, but at Alma 5:52 it arrives inside Matthew 3:10's axe-and-tree sentence and here it arrives inside Isaiah 10:33's, with 'high birth' at 51:8 for the high ones of stature and 'brought down to humble themselves' at 51:21 for the haughty humbled. Neither singleton is reproduced word for word — this is not a quotation and falls far below Skousen's threshold — but the three elements of the Isaiah line are all present within four verses and in its sequence, which is what carries the confidence.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "51:33": [
+      {
+        "source": "1 Samuel 26:7",
+        "type": "allusion",
+        "subtype": "type-scene",
+        "confidence": "high",
+        "text": "So David and Abishai came to the people by night: and, behold, Saul lay sleeping within the trench, and his spear stuck in the ground at his bolster: but Abner and the people lay round about him.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "uncertain",
+        "mediation": "direct-OT",
+        "composite": [
+          "1 Samuel 26:12",
+          "Judges 7:11",
+          "2 Samuel 4:5"
+        ],
+        "recurrenceRefs": [
+          "Alma 51:35",
+          "Alma 51:36"
+        ],
+        "provenance": {
+          "route": "1 Samuel 26:7-12 → KJV → Book of Mormon",
+          "other": "'Went out by night' occurs in exactly one KJV verse, Nehemiah 2:13, which is a night inspection of broken walls and not this scene; the singleton is recorded and set aside. 'Heat of the day' occurs in four, of which 2 Samuel 4:5 is the assassination of a sleeping king by two men. 1 Samuel 26 supplies no distinctive phrase at all — its evidence is that every element of Alma 51:33-36 is in it, in order.",
+          "significance": "1 Samuel 26 is the Bible's one night raid on a sleeping enemy camp, and it is famous for the killing that does not happen. David and one companion go by night into the camp; the king lies asleep with his spear beside him; Abishai asks leave to smite him with the spear even to the earth at once; David forbids it, takes the spear away, and 'no man saw it, nor knew it, neither awaked'. Alma 51 runs the episode with the restraint removed: Teancum and one servant go by night into the camp, the king is asleep, the weapon goes into him, and still 'he did not awake his servants'. The suppressed point of correspondence is David's reason for staying his hand — 'who can stretch forth his hand against the LORD's anointed, and be guiltless?' Amalickiah is a Nephite dissenter wearing a Lamanite crown, and the book has just spent fifty verses arguing that no one in this land should be anointed at all."
+        },
+        "note": "'Teancum and his servant stole forth and went out by night, and went into the camp of Amalickiah; and behold, sleep had overpowered them, because of their much fatigue.' The scene is assembled rather than quoted. Two men entering a hostile camp at night, one of them a servant, is 1 Samuel 26:7 and Judges 7:11 (Gideon with Phurah his servant); a whole army so asleep that the intruders come and go unnoticed is 1 Samuel 26:12's deep sleep from the LORD, here given a naturalistic cause; and the heat of the day that makes a king sleep through his own murder is 2 Samuel 4:5. There is no shared clause, and 'kjvSpecific' is left uncertain accordingly — the case is the sequence, which 51:35-36 completes by having Teancum return and wake his own men, as David returns and calls across the valley. The 1 Samuel restraint material is live in this part of the book — Alma 44:1 borrows from 1 Samuel 24:10, the other episode in which David has Saul in his hand and lets him go — which is context for reading Teancum’s night raid as the same scene with the opposite ending.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "51:34": [
+      {
+        "source": "Judges 4:21",
+        "type": "allusion",
+        "subtype": "type-scene",
+        "confidence": "high",
+        "text": "Then Jael Heber’s wife took a nail of the tent, and took an hammer in her hand, and went softly unto him, and smote the nail into his temples, and fastened it into the ground: for he was fast asleep and weary. So he died.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "uncertain",
+        "mediation": "direct-OT",
+        "composite": [
+          "Judges 3:21",
+          "2 Samuel 4:7",
+          "1 Samuel 26:8"
+        ],
+        "provenance": {
+          "route": "Judges 4:21 → KJV → Book of Mormon",
+          "other": "'Went softly' and 'fast asleep' each occur in exactly two KJV verses, and Judges 4:21 is one of the two in both cases — it is the only verse in the Bible that holds a tent, a sleeper, a weapon driven through the body and a silent approach together. The Book of Mormon reproduces none of the words: 'stole privily' for 'went softly', 'sleep had overpowered them' for 'fast asleep and weary'. 'Javelin' occurs in six KJV verses, five of them Saul's, and Saul's javelin is thrown at David and misses every time.",
+          "significance": "The King James Bible has three tent-and-chamber assassinations of an enemy commander by one person: Ehud and Eglon, Jael and Sisera, Rechab and Baanah with Ishbosheth. Jael's is the one the Book of Mormon is closest to, and the reason is the weariness — Sisera is killed because he has fled far and is 'fast asleep and weary', which is precisely the explanation Alma 51:33 gives for why the Lamanite camp cannot be roused. Recover Judges 4 and the borrowing acquires an argument the Book of Mormon does not make out loud: Sisera's death is sung in Judges 5 as the deliverance of Israel, and the weapon is the domestic tool of the person the story treats as least likely to be holding it. Teancum's javelin, by contrast, is the weapon Saul kept in his hand to throw at David — the KJV's javelin is a king's weapon, used badly — and here it is carried into a king's tent by a man who is not a king, and used once."
+        },
+        "note": "'Teancum stole privily into the tent of the king, and put a javelin to his heart; and he did cause the death of the king immediately, that he did not awake his servants.' Judges 4:21 is the model for the scene and no word of it is reproduced; the case rests on the four elements arriving together — the tent, the silent approach, the sleeper who cannot be woken, the single fatal thrust — and on the weariness that Judges 4:21 and Alma 51:33 both supply as the reason the sleep is that deep. Abishai's 'let me smite him with the spear even to the earth at once, and I will not smite him the second time' (1 Samuel 26:8) is the closest the KJV comes to the Book of Mormon's insistence that one blow did it. Left kjvSpecific uncertain: a figural link of this kind has no wording to test, and what is being followed is a narrative shape rather than an English translation.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,291 @@
+{
+  "chapter": 38,
+  "adjudicated": "2026-09-07",
+  "adjudicator": "Opus",
+  "links": {
+    "38:4": [
+      {
+        "source": "2 Timothy 3:11",
+        "type": "allusion",
+        "subtype": "conceptual",
+        "confidence": "high",
+        "text": "Persecutions, afflictions, which came unto me at Antioch, at Iconium, at Lystra; what persecutions I endured: but out of them all the Lord delivered me.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "2 Timothy 3:10",
+          "Acts 14:19"
+        ],
+        "recurrenceRefs": [
+          "Alma 38:3",
+          "Alma 38:5"
+        ],
+        "provenance": {
+          "route": "2 Timothy 3:10-11 → KJV → Book of Mormon",
+          "other": "“the Lord delivered me” occurs in exactly one KJV verse, 2 Timothy 3:11, and “out of them all” occurs in exactly two, of which this is one. The catalogue of virtues immediately before it — 2 Timothy 3:10, 'my doctrine, manner of life, purpose, faith, longsuffering, charity, patience' — is the KJV's only list that pairs longsuffering with patience as things one man has observed in another.",
+          "significance": "2 Timothy is an old apostle's last letter to a younger man he has trained, and 3:10-11 is the point where he appeals to what that young man has personally watched him endure. Alma 38:3-5 reverses the direction and keeps everything else: it is the old man telling the young one what HE has endured, and it runs the same list — patience and longsuffering (3:10), persecutions and afflictions culminating in a stoning (3:11), and deliverance out of them all. The stoning is what makes the correspondence hard to put down. 2 Timothy 3:11 names Lystra, and the one thing the reader of Acts knows about Lystra is Acts 14:19, 'having stoned Paul, drew him out of the city, supposing he had been dead.' Alma 38:4's 'thou wast stoned' has no other biblical model in which stoning is survived and the survivor is afterwards addressed about it."
+        },
+        "note": "'For I knew that thou wast in bonds; yea, and I also knew that thou wast stoned for the word's sake; and thou didst bear all these things with patience, because the Lord was with thee: and now thou knowest that the Lord did deliver thee.' Four elements in 2 Timothy's order — patience and longsuffering listed at 38:3, imprisonment, a stoning, and 'the Lord delivered me' — with the persons exchanged. The verbal contact is a KJV singleton in the last clause and nothing longer elsewhere, which is why this is filed as an allusion rather than a quotation; what carries it is the sequence. The n-gram stream proposed Genesis 26:28 and 1 Kings 2:15 here and could not see this, because the agreement is distributed across three Book of Mormon verses and two source verses (CONVENTIONS §9).",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      },
+      {
+        "source": "Mark 4:17",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "text": "And have no root in themselves, and so endure but for a time: afterward, when affliction or persecution ariseth for the word’s sake, immediately they are offended.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "Mark 4:17 → KJV → Book of Mormon",
+          "other": "“for the word's sake” occurs in exactly one KJV verse, Mark 4:17. The apostrophe is the reason to run the tool rather than grep: `kjv-rarity.py` normalizes the KJV's curly form, which a naive search misses.",
+          "significance": "Mark 4:17 is the stony ground of the parable of the sower: the hearers who receive the word with gladness, have no root in themselves, and are offended when 'affliction or persecution ariseth for the word's sake'. Alma is commending a son who did the opposite — he was stoned for the word's sake and 'didst bear all these things with patience'. The suppressed correspondence is a good one: the KJV's only occurrence of the phrase names the persecution that makes shallow converts fall away, and Alma applies it to the one man in his family who did not."
+        },
+        "note": "'Thou wast stoned for the word's sake.' A four-word KJV singleton, and it lands in a chapter that has just been about the Zoramites, whose defect in Alma 31-35 is precisely rootlessness under pressure. Moderate rather than high because the phrase is short and unremarkable as English; what argues for the borrowing is that it is nevertheless unique in the KJV, and that the 1830 keeps the possessive singular ('the word's sake') that Mark has, rather than the plural or the generic 'for my sake'.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "38:9": [
+      {
+        "source": "Acts 4:12",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "Neither is there salvation in any other: for there is none other name under heaven given among men, whereby we must be saved.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 1
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "recurrenceRefs": [
+          "2 Nephi 25:20",
+          "2 Nephi 31:21",
+          "Mosiah 3:17",
+          "Mosiah 5:8"
+        ],
+        "provenance": {
+          "route": "Acts 4:12 → KJV → Book of Mormon",
+          "other": "“whereby we must be saved” occurs in exactly one KJV verse and “none other name under heaven” occurs in exactly one KJV verse, and both are Acts 4:12.",
+          "significance": "Peter says this to the Sanhedrin, under arrest, in answer to the question 'by what power, or by what name, have ye done this?' It is a courtroom answer about the source of a healing. The Book of Mormon has made it a father's answer to a son about the source of his own knowledge — 38:6 has just insisted 'I know these things of myself' is exactly what Alma does NOT claim — so Peter's exclusive clause arrives as the content of a private testimony rather than a public defence. The first person plural of 'whereby WE must be saved' is preserved in effect by Alma's 'whereby man can be saved', which generalises rather than narrows it."
+        },
+        "note": "'There is no other way nor means whereby man can be saved, only in and through Christ.' The catalogue adjudicates this formula first at 2 Nephi 25:20 and again at Mosiah 3:17; the argument for the KJV singletons is made there and is not restated. The row is given here rather than passed over because Alma is a new book and this is its first use of the formula (ADJUDICATING §4). What Alma 38:9 adds is the doubling 'no other way nor means', which imports the chapter's own vocabulary — 'means' is Alma 37:6-7's word for the small things by which God works — so the exclusivity claim and the chapter before it are stitched together at this verse.",
+        "bibliography": [],
+        "status": "majority",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "38:10": [
+      {
+        "source": "1 Corinthians 9:25",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "And every man that striveth for the mastery is temperate in all things. Now they do it to obtain a corruptible crown; but we an incorruptible.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "1 Corinthians 9:25 → KJV → Book of Mormon",
+          "other": "“temperate in all things” occurs in exactly one KJV verse, 1 Corinthians 9:25. The adjective is rare in the KJV altogether: elsewhere only in the qualifications for bishops and elders at 1 Timothy 3:2 (as 'sober') and Titus 1:8, 2:2.",
+          "significance": "1 Corinthians 9:24-27 is Paul's athletic figure: they which run in a race run all, every man that striveth for the mastery is temperate in all things, they for a corruptible crown and we for an incorruptible, and so 'I keep under my body, and bring it into subjection: lest that by any means, when I have preached to others, I myself should be a castaway.' The passage is about a preacher's self-discipline as the condition of his own salvation, which is exactly what Alma 38:10-12 is: continue to teach, be temperate, do not be lifted up, bridle your passions, refrain from idleness. Two verses later Alma reaches for James 3:2's bridling, which is the New Testament's other figure for keeping the body under, so the whole counsel to Shiblon is assembled from the Bible's two passages about a teacher restraining himself."
+        },
+        "note": "'And I would that ye would be diligent and temperate in all things.' A four-word KJV singleton, given as an instruction where Paul gives it as an observation about athletes, and paired with 'diligent' — which is the word Alma has used twice to Helaman (37:20) and which is not Paul's. The 1830 and 1920 agree here. Below Skousen's threshold and not one of his passages.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "38:11": [
+      {
+        "source": "Jeremiah 9:23",
+        "type": "echo",
+        "subtype": "conceptual",
+        "confidence": "moderate",
+        "text": "Thus saith the LORD, Let not the wise man glory in his wisdom, neither let the mighty man glory in his might, let not the rich man glory in his riches:",
+        "evidence": {
+          "vocabulary": 2,
+          "syntax": 3,
+          "sequence": 4,
+          "context": 4,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "uncertain",
+        "mediation": "direct-OT",
+        "provenance": {
+          "route": "Jeremiah 9:23 → KJV → Book of Mormon",
+          "other": "“glory in his wisdom” occurs in exactly one KJV verse and “the mighty man glory” occurs in exactly one KJV verse, and both are Jeremiah 9:23 — but the Book of Mormon reproduces neither phrase, only the pair of nouns and the prohibition around them.",
+          "alternative": "1 Corinthians 1:31 and 2 Corinthians 10:17 quote Jeremiah, but they quote 9:24 ('he that glorieth, let him glory in the Lord') and drop the triad entirely, so neither can be the route for a sentence whose content is the triad's first two members.",
+          "significance": "Jeremiah 9:23 forbids three boasts in a fixed order — wisdom, might, riches — and Alma forbids the first two in that order and omits the third. The omission is legible: Shiblon is a missionary among the Zoramites, and riches are the sin Alma has just spent four chapters assigning to them (Alma 31:24-28, 32:2), not to his son. Compare Hays on thematic coherence: the borrowing has been trimmed to the person addressed.",
+          "mt": "The Hebrew triad is the same; nothing in the judgment turns on the versions."
+        },
+        "note": "'See that ye are not lifted up unto pride; yea, see that ye do not boast in your own wisdom, nor of your much strength.' A prohibition of boasting in wisdom followed immediately by a prohibition of boasting in strength is Jeremiah 9:23's structure and, so far as the KJV goes, only Jeremiah 9:23's. `mediation-check.py` against 1 Corinthians 1:31 returns no decisive divergence, because the Book of Mormon reproduces none of the words the two candidates differ over; the mediation is argued instead from the content, since Paul never carries the wisdom-and-might pair across. The phrase returns at Alma 39:2, where Alma tells the other son 'thou didst go on unto boasting in thy strength, and thy wisdom' — the same pair in reverse order, and a rebuke where 38:11 was a caution; the register cross-references it there rather than adjudicating it twice.",
+        "whyNot": "There is no shared distinctive wording at all. Alma's verb is 'boast', Jeremiah's is 'glory'; Alma's noun is 'strength', Jeremiah's is 'might'. Boasting in one's own wisdom is also a commonplace of the wisdom books (Proverbs 3:7, 26:12) and of the Book of Mormon's own moralising, and a reader who thinks the pairing is coincidence has a case.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "recurrenceRefs": [
+          "Alma 39:2"
+        ]
+      }
+    ],
+    "38:12": [
+      {
+        "source": "James 3:2",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "text": "For in many things we offend all. If any man offend not in word, the same is a perfect man, and able also to bridle the whole body.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 4,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "James 1:26"
+        ],
+        "provenance": {
+          "route": "James 3:2 → KJV → Book of Mormon",
+          "other": "“bridle” occurs in exactly 9 KJV verses, and in eight of them it is a noun — a literal bridle for a horse, an ass, a mule, or Sennacherib. James 3:2 is the only KJV verse in which it is a transitive verb governing a part of a person, 'able also to bridle the whole body'; James 1:26's 'bridleth not his tongue' is the same usage in an inflected form.",
+          "significance": "James 3:2-3 explains its own metaphor in the next breath — 'we put bits in the horses' mouths, that they may obey us; and we turn about their whole body' — so the figure is not restraint for its own sake but steering: a bridled body goes where it is directed. Alma's clause has the same shape and supplies the destination James leaves implicit: 'bridle all your passions, THAT YE MAY BE FILLED WITH LOVE'. The purpose clause is the Book of Mormon's contribution, and it turns a warning about self-control into an argument that restraint is what makes room for charity."
+        },
+        "note": "'See that ye bridle all your passions, that ye may be filled with love.' The KJV's one verbal use of 'bridle' with a human object, redirected from the body and the tongue to the passions. Moderate rather than high because a single verb is thin evidence and because 'bridle' in this sense was ordinary nineteenth-century English; what argues for James is the surrounding paragraph, which is a list of a teacher's disciplines and which James 3:1 opens ('My brethren, be not many masters, knowing that we shall receive the greater condemnation') exactly where Alma's list of instructions to a teacher begins.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "38:13": [
+      {
+        "source": "Matthew 6:5",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "text": "And when thou prayest, thou shalt not be as the hypocrites are: for they love to pray standing in the synagogues and in the corners of the streets, that they may be seen of men. Verily I say unto you, They have their reward.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 3,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Matthew 6:7"
+        ],
+        "recurrenceRefs": [
+          "Alma 33:7"
+        ],
+        "provenance": {
+          "route": "Matthew 6:5-7 → KJV → Book of Mormon",
+          "other": "“seen of men” occurs in exactly two KJV verses, Matthew 6:5 and Matthew 23:5, both of them about ostentatious piety. Matthew 6:7's 'they shall be heard for their much speaking' supplies the verb Alma actually uses.",
+          "significance": "Matthew 6:5-7 gives three faults of prayer in order: praying to be seen of men, praying in public places, and vain repetition. The Zoramites of Alma 31 commit all three — they mount the Rameumptom one by one, they say the same words every week, and Alma 31:14 notes that every man says the selfsame prayer. Alma 38:13 is the moral drawn from that scene, and it fuses Matthew's first and third faults into one clause: 'they pray to be heard of men, and to be praised for their wisdom.' The catalogue has already filed Matthew 6:6, the closet, at Alma 33:7 — where it is offered as the remedy. So the Sermon on the Mount's prayer paragraph is used across Alma in its own order: the fault at 31, the remedy at 33, the instruction at 38."
+        },
+        "note": "'Do not pray as the Zoramites do, for ye have seen that they pray to be heard of men, and to be praised for their wisdom.' Alma has 'heard of men' where Matthew 6:5 has 'seen of men' and Matthew 6:7 has 'heard for their much speaking' — a substitution that fits the Zoramite prayer as Alma 31 describes it, which was audible and formal rather than merely conspicuous. Moderate because the exact three-word run is not reproduced; the sequence and the setting carry it. The addition 'to be praised for their wisdom' returns the paragraph to 38:11's prohibition of boasting in one's own wisdom two verses earlier.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "38:14": [
+      {
+        "source": "Luke 18:11",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "The Pharisee stood and prayed thus with himself, God, I thank thee, that I am not as other men are, extortioners, unjust, adulterers, or even as this publican.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Luke 18:13",
+          "Luke 18:14"
+        ],
+        "recurrenceRefs": [
+          "Alma 31:18"
+        ],
+        "provenance": {
+          "route": "Luke 18:10-14 → KJV → Book of Mormon",
+          "other": "“God, I thank thee” occurs in exactly one KJV verse and “as other men are” occurs in exactly one KJV verse, and both are Luke 18:11. “be merciful to me a sinner” occurs in exactly one KJV verse, Luke 18:13, the publican's answering prayer.",
+          "significance": "This is the case ADJUDICATING §4 was amended for on 2026-09-07: a phrase returning to its source rather than merely recurring. Alma 31:18 put the Pharisee's prayer in the Zoramites' mouths without naming it — 'we thank thee, O God, that we are a chosen and a holy people' — and left the reader to notice. Alma 38:13-14 names the Zoramites explicitly, quotes the Pharisee again in the first person Alma is warning his son against, and then supplies what Alma 31 never had: the publican. 'O Lord, forgive my unworthiness, and remember my brethren in mercy' is Luke 18:13's prayer with its two nouns kept and its violence removed, and 'acknowledge your unworthiness before God at all times' is Luke 18:14's moral, 'he that humbleth himself shall be exalted.' The parable is therefore split across two chapters of Alma with seven chapters between them, the wrong prayer given as narrative and the right one as instruction — which is a use of Luke that neither half of it makes alone."
+        },
+        "note": "'Do not say, O God, I thank thee that we are better than our brethren; but rather say, O Lord, forgive my unworthiness, and remember my brethren in mercy.' The KJV singleton is reproduced exactly, vocative and all, and the comparison that follows it — 'better than our brethren' — is Luke's 'not as other men are' with the Book of Mormon's own kinship term substituted for Luke's strangers, which is the whole difference between a Pharisee despising outsiders and a Nephite despising Zoramites. A full link rather than a recurrence of Alma 31:18 because the second use is the argument: the verse quoted at 31:18 is the verse now being answered, and the answer (Luke 18:13-14) is new material. Compare the Mosiah 7:9 / 29:2 case, on which the rule was ratified.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,237 @@
+{
+  "chapter": 47,
+  "adjudicated": "2026-09-07",
+  "adjudicator": "Opus",
+  "links": {
+    "47:4": [
+      {
+        "source": "2 Samuel 13:3",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 5,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Genesis 3:1"
+        ],
+        "recurrenceRefs": [
+          "Alma 12:4",
+          "Alma 47:11",
+          "Alma 47:30"
+        ],
+        "provenance": {
+          "route": "2 Samuel 13:3 → KJV → Book of Mormon",
+          "other": "“A very subtil man” occurs in exactly one KJV verse, 2 Samuel 13:3, of Jonadab. The King James spelling is “subtil”, which the 1830 already modernizes to “subtle” — the spelling is the one place where this borrowing is less visible in the first edition than the rest of the chapter's are, and it is recorded rather than smoothed over. The adjective itself is rare: “subtil” stands in only three KJV verses, Genesis 3:1, 2 Samuel 13:3 and Proverbs 7:10.",
+          "significance": "Jonadab is the King James Bible's one named schemer, introduced by this exact epithet and by nothing else — he has no acts of his own, only a plan he puts into another man's head, and the plan detonates the whole succession crisis of 2 Samuel 13-18: Amnon's rape of Tamar, Absalom's revenge, Absalom's coup. Alma 47:4 gives Amalickiah Jonadab's epithet and then makes him his own Absalom: “he laid the plan in his heart to dethrone the king.” Recover 2 Samuel 13 and the chapter that follows in the Book of Mormon is legible as a compressed rerun of the Absalom cycle — the schemer's epithet here, Absalom's twice-refused summons at 47:11, and Absalom's stolen hearts at 47:30, three verses from three consecutive chapters of one biblical narrative inside thirty verses of one Book of Mormon chapter. That concentration is the chapter's finding, and it is exactly Hays's criterion of recurrence: it is the repeated resort to one stretch of scripture, not any single phrase, that makes the dependence hard to decline."
+        },
+        "note": "“He being a very subtle man to do evil.” Four words reproducing a KJV singleton, and the four words are a character label rather than a piece of narrative furniture — the King James Bible applies them to exactly one person. The Book of Mormon adds “to do evil”, which the KJV does not, and modernizes the spelling. This catalogue already carries 2 Samuel 13:3 as a composite at Alma 12:4, where the subject is the devil's subtlety and no string is reproduced; here the string is reproduced and the subject is a man, so the row is written in full.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "But Amnon had a friend, whose name was Jonadab, the son of Shimeah David’s brother: and Jonadab was a very subtil man."
+      }
+    ],
+    "47:11": [
+      {
+        "source": "2 Samuel 14:29",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "2 Samuel 14:30",
+          "2 Kings 1:9",
+          "2 Kings 1:13"
+        ],
+        "recurrenceRefs": [
+          "Alma 47:12",
+          "Alma 47:4",
+          "Alma 47:30"
+        ],
+        "provenance": {
+          "route": "2 Samuel 14:29 → KJV → Book of Mormon",
+          "other": "“Sent again the second time” occurs in exactly one KJV verse, 2 Samuel 14:29, and the Book of Mormon has it word for word: “Amalickiah sent again the second time.” The KJV verse continues “he would not come”; Alma 47:11 continues “Lehonti would not”. The longer “again the second time” without the verb is spread over six verses and would prove nothing; the auxiliary is what closes the count.",
+          "significance": "2 Samuel 14:29 is Absalom, home from exile and beginning his campaign, unable to get the army's commander to come to him. He sends twice, is twice refused, and escalates — in 14:30 by setting Joab's barley field on fire, which finally brings Joab down. Alma 47:10-13 runs the identical sequence with the identical arithmetic and one change: Amalickiah sends four times rather than two, and instead of forcing his man down he climbs the mount himself. Recover Absalom's context and the shape of what follows is already given — a commander drawn into a usurper's confidence is a commander who has agreed to serve a coup. Joab survives it; Lehonti is poisoned by degrees. The Old Testament's other man on a mountain top who is repeatedly ordered to come down is Elijah in 2 Kings 1:9-13, where three companies are sent and the third captain's plea is what brings the prophet down safely; that scene supplies the mount and the escalating count, and this catalogue uses its opening verse at 1 Nephi 4:1. Alma 47 fuses the two and reverses both outcomes: the man who comes down off the mount is the one who dies."
+        },
+        "note": "Five consecutive words from the only KJV verse that contains them, followed in both texts by the same refusal (“he would not come” / “Lehonti would not”), inside a scene that reproduces the biblical situation — a usurper summoning a soldier who will not come to him, and escalating when refused. The chapter's other Absalom contacts at 47:4 and 47:30 are what raise this from a coincidence of five words to a sustained borrowing. Below Skousen's sixteen-word threshold, and not a quotation. The register's entry at this verse explains why Nehemiah 6:2-4, which a reader will also think of, is not the source.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ],
+        "text": "Therefore Absalom sent for Joab, to have sent him to the king; but he would not come to him: and when he sent again the second time, he would not come."
+      }
+    ],
+    "47:24": [
+      {
+        "source": "2 Samuel 20:9",
+        "type": "figural",
+        "subtype": "type-scene",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 2,
+          "syntax": 2,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 3,
+          "attestation": 0
+        },
+        "kjvSpecific": "no",
+        "mediation": "direct-OT",
+        "composite": [
+          "2 Samuel 20:10",
+          "Judges 3:21",
+          "2 Samuel 4:6"
+        ],
+        "provenance": {
+          "route": "2 Samuel 20:9-10 → KJV → Book of Mormon",
+          "other": "The Book of Mormon's verb is not the King James Bible's. “Stabbed” occurs in no KJV verse at all, and “gore” as a noun in none — the KJV's verb “gore” at Exodus 21:28 is what an ox does. The KJV's formula for exactly this act is “smote him under the fifth rib”, in four verses (2 Samuel 2:23, 3:27, 4:6, 20:10), and every one of them is a political assassination. Alma 47:24 has the scene and declines the formula, which is a fact about this row worth as much as the resemblance.",
+          "significance": "Joab greets Amasa with his right hand out, asks after his health, and kills him with the other hand before the greeting is finished. Alma 47:23-24 builds the same trap out of a different courtesy: the king extends his hand to raise a bowing servant, in what the text stops to explain is “a token of peace”, and the raised man drives in the knife. In both, the gesture that guarantees safety is the gesture that delivers the victim, and in both the killer is a subordinate manoeuvring for the command. What Alma 47 adds is the explanation of the custom — the narrator tells the reader what the raised hand means before showing it betrayed, which is how the scene works on a reader who does not know Joab. Compare Hays on metalepsis: this is the case where the precursor is doing structural work the surface has deliberately made unnecessary."
+        },
+        "note": "The killing of the Lamanite king is the KJV's treacherous-greeting assassination — Joab and Amasa, and behind it Ehud in the summer parlour — with the weapon concealed inside a ceremony of peace. It is figural, not verbal: no phrase is shared, the Book of Mormon's “stabbed … to the heart” is not King James English, and “he fell to the earth” is the only string with any KJV pedigree, and it stands in two verses, one of them Paul on the Damascus road, which has nothing to do with this. Held at moderate because the type-scene is specific and the chapter's other borrowings all come from the same run of 2 Samuel, and no higher because a treacherous greeting is a thing that happens as well as a thing that is written.",
+        "whyNot": "There is no shared wording, and Alma 47:24 pointedly does not use the one KJV idiom that would have settled the question. A reader who requires verbal contact for anything but an avowed type-scene should decline this row and read the assassination as invented narrative.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "And Joab said to Amasa, Art thou in health, my brother? And Joab took Amasa by the beard with the right hand to kiss him."
+      }
+    ],
+    "47:30": [
+      {
+        "source": "2 Samuel 15:6",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "2 Samuel 15:13"
+        ],
+        "recurrenceRefs": [
+          "Alma 17:29",
+          "Alma 47:4",
+          "Alma 47:11"
+        ],
+        "provenance": {
+          "route": "2 Samuel 15:6 → KJV → Book of Mormon",
+          "other": "“Stole the hearts” occurs in exactly one KJV verse, 2 Samuel 15:6 — “so Absalom stole the hearts of the men of Israel.” “The hearts of the men” occurs in exactly two, 15:6 and 15:13, both of Absalom's coup. Alma 47:30 has “thus Amalickiah, by his fraud, gained the hearts of the people”; the noun phrase and the summarizing “so/thus” are the KJV's, the verb is not.",
+          "significance": "This catalogue adjudicated the phrase at Alma 17:29, where Ammon hopes to “win the hearts of these my fellow servants … that I may lead them to believe in my words” — a missionary borrowing a usurper's sentence and meaning it well. Alma 47:30 is not that formula recurring. It is the sentence going home. Amalickiah does with the hearts of the Lamanites exactly what Absalom did with the hearts of Israel: takes a throne by winning a people away from its king, by fraud, having first arranged that the king's own servants be blamed for his death. ADJUDICATING §4 ratified this case in 2026-09-07 at Mosiah 29:2 — a phrase's second use can be the argument when the passage it first translated is the passage now being enacted — and this is the same shape. Ammon steals hearts for God; Amalickiah steals them for himself, which is what the words meant in the first place."
+        },
+        "note": "“Thus Amalickiah, by his fraud, gained the hearts of the people.” The King James Bible has one heart-stealing sentence and it belongs to the Bible's chief usurper, in the chapter that begins his coup. The full row is written here rather than cross-referenced to Alma 17:29 because this is the third contact with 2 Samuel 13-15 in one chapter (13:3 at 47:4, 14:29 at 47:11) and because, unlike at 17:29, the borrower is doing what Absalom did. The verb is changed — “gained” for “stole” — which is Amalickiah's own euphemism and the one word a reader should notice.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ],
+        "text": "And on this manner did Absalom to all Israel that came to the king for judgment: so Absalom stole the hearts of the men of Israel."
+      }
+    ],
+    "47:35": [
+      {
+        "source": "1 Kings 2:22",
+        "type": "figural",
+        "subtype": "structural",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 2,
+          "syntax": 2,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 3,
+          "attestation": 0
+        },
+        "kjvSpecific": "no",
+        "mediation": "direct-OT",
+        "composite": [
+          "2 Samuel 3:7",
+          "2 Samuel 16:21",
+          "2 Samuel 12:8"
+        ],
+        "provenance": {
+          "route": "1 Kings 2:22 (with 2 Samuel 3:7 and 16:21) → KJV → Book of Mormon",
+          "other": "No wording is shared. “Took her to wife” occurs in exactly one KJV verse, Luke 20:30, where it belongs to the Sadducees' levirate riddle and has nothing to do with a throne; it is registered as an exclusion at this verse rather than counted as evidence.",
+          "significance": "The King James Bible states the rule this verse depends on, and states it in one sentence: “ask for him the kingdom also.” Solomon says it of Adonijah's request for Abishag, his father's last companion, and he says it as though the inference were too obvious to argue — a claim on the dead king's woman is a claim on the dead king's throne, which is why Abner's taking of Rizpah is treated as treason in 2 Samuel 3:7 and why Ahithophel's advice to Absalom in 16:21 is to go in to his father's concubines publicly. Alma 47:35 draws the same inference in the same breath: “took her unto him to wife; and thus by his fraud … he obtained the kingdom.” The Book of Mormon does not explain the connection between the marriage and the crown any more than 1 Kings 2:22 does, which is the mark of a convention taken over whole rather than reasoned out."
+        },
+        "note": "Amalickiah's last act is to marry the widow of the king he had killed, and the sentence puts the marriage and the kingdom in one clause without connecting them. That silence is the evidence: the equation is a biblical one, stated outright at 1 Kings 2:22 and assumed at 2 Samuel 3:7 and 16:21, and a writer with the KJV in his ear would not need to explain it. Figural, and honestly so — there is no shared wording at all, and the row rests entirely on a convention plus the chapter's demonstrated appetite for 2 Samuel.",
+        "whyNot": "Marrying a dead king's widow to legitimate a usurpation is a commonplace of monarchy and of historical fiction about monarchy, available to any nineteenth-century reader of Shakespeare as readily as of Kings. Nothing in the wording points anywhere, and a reader may reasonably hold that the catalogue is here recording a shared institution rather than a shared text.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "And king Solomon answered and said unto his mother, And why dost thou ask Abishag the Shunammite for Adonijah? ask for him the kingdom also; for he is mine elder brother; even for him, and for Abiathar the priest, and for Joab the son of Zeruiah."
+      }
+    ],
+    "47:36": [
+      {
+        "source": "Judges 3:7",
+        "type": "echo",
+        "subtype": "probable",
+        "confidence": "moderate",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 4,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "1 Samuel 12:9",
+          "Deuteronomy 8:14"
+        ],
+        "provenance": {
+          "route": "Judges 3:7 → KJV → Book of Mormon",
+          "other": "“Forgat the LORD their God” occurs in exactly two KJV verses, Judges 3:7 and 1 Samuel 12:9. Alma 47:36 has “entirely forgetting the Lord their God”, with the participle for the preterite and an adverb the KJV does not supply.",
+          "significance": "Judges 3:7 is the first sentence of the Judges cycle proper — Israel does evil, forgets the LORD, serves Baalim, and is sold into a foreign hand — and 1 Samuel 12:9 is Samuel's summary of the same cycle at the moment Israel asks for a king. Alma 47:36 uses the formula for Nephite dissenters who have gone over to the Lamanites and become worse than their hosts, and the chapter it closes has just installed a foreign king over them. The Deuteronomistic diagnosis has been transferred from a people who forget God in prosperity to a people who forget him in defection, and the Book of Mormon keeps the diagnosis's terms while inverting its direction of travel: in Judges the forgetting brings the foreign power in, here it is the consequence of having gone out."
+        },
+        "note": "“Drinking in with the traditions of the Lamanites; giving way to indolence, and all manner of lasciviousness; yea, entirely forgetting the Lord their God.” The closing phrase is the King James Bible's apostasy formula, which stands in exactly two verses and marks the opening and the summary of the same historical cycle. It is an echo rather than an allusion because the Book of Mormon changes the tense and inserts an adverb, and because this is the kind of pious clause a writer steeped in the KJV would produce without reaching for a verse.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ],
+        "text": "And the children of Israel did evil in the sight of the LORD, and forgat the LORD their God, and served Baalim and the groves."
+      }
+    ]
+  }
+}

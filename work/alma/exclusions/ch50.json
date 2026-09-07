@@ -1,0 +1,34 @@
+[
+  {
+    "bomRef": "Alma 50:20",
+    "source": "1 Kings 9:6",
+    "category": "better-source-identified",
+    "sharedText": "will not keep my commandments … cut off",
+    "streams": [
+      "machine-ngram",
+      "manual"
+    ],
+    "reason": "The verse is a quotation, and the text says so: 'his words … which he spake unto Lehi, saying: Blessed art thou, and thy children …' What is quoted is 1 Nephi 2:20-21, the conditional promise of prosperity and of being cut off from the presence of the Lord, and that is where its biblical sources are adjudicated — 1 Kings 2:3 and Ezekiel 20:6 at 1 Nephi 2:20, Genesis 4:16 at 1 Nephi 2:21. The n-gram stream's proposal of 1 Kings 9:6 ('will not keep my commandments … then will I cut off Israel out of the land') is not wrong about the family: 1 Kings 8-9 is the Solomonic covenant text, and the link filed at Alma 50:19 argues that this whole passage is running on it. But the promise itself is quoted from earlier in the Book of Mormon, not from Kings, and a reader should be sent to 1 Nephi 2:20 for the words and to Alma 50:19 for the frame."
+  },
+  {
+    "bomRef": "Alma 50:30",
+    "source": "Genesis 16:6",
+    "category": "insufficient-verbal",
+    "sharedText": "(no shared wording — a beaten maidservant who flees)",
+    "streams": [
+      "manual"
+    ],
+    "reason": "A typological expectation the wording will not bear, and worth recording because the expectation is strong. Morianton 'was angry with one of his maidservants, and he fell upon her, and beat her much', and she flees to Moroni's camp and tells him everything — which is the Bible's one scene of a beaten maidservant in flight, Hagar at Genesis 16:6, 'when Sarai dealt hardly with her, she fled from her face'. Judges 19 offers the other candidate, the Levite's concubine, whose flight ends in civil war. Neither will do. Not one word is shared with either; 'maidservant' in the KJV occurs only in law codes and lists of property (Exodus 20:17, Deuteronomy 5:21, Jeremiah 34:9); and the two biblical flights run the other way from this one — Hagar's flight is reversed by an angel who sends her back, the concubine's precipitates a war, while this woman's flight prevents one. The inversion is the interesting thing about the episode, but an inversion of a scene that shares no language is a reading, not a link."
+  },
+  {
+    "bomRef": "Alma 50:35",
+    "source": "1 Thessalonians 2:5",
+    "category": "better-source-identified",
+    "sharedText": "flattering words",
+    "streams": [
+      "machine-ngram",
+      "manual"
+    ],
+    "reason": "A KJV singleton — 'flattering words' occurs only at 1 Thessalonians 2:5, where Paul denies using them — and the Book of Mormon's standing term for demagoguery, eight times from Mosiah 11:7 onward. It is adjudicated at Mosiah 11:7, of Noah and his priests, and already registered as a recurrence at Alma 46:7 for Amalickiah. Alma 50:35's use is the narrator's own, in a parenthesis explaining why Morianton's people fought ('being inspired by his wickedness and his flattering words'), and it is the same formula a third time. Sent to Mosiah 11:7."
+  }
+]

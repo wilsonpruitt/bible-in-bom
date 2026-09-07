@@ -1,0 +1,43 @@
+[
+  {
+    "bomRef": "Alma 49:1",
+    "source": "Deuteronomy 1:3",
+    "category": "common-vocabulary",
+    "sharedText": "in the eleventh month … day of the month",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "A rarity count that looks decisive and is not, and worth the register for that reason. 'In the eleventh month' occurs in exactly one KJV verse, Deuteronomy 1:3, so the n-gram stream ranks it first for Alma 49:1 — but the singleton is an artifact of the biblical calendar's coverage rather than of a distinctive phrase. The frame around it, 'in the Nth month … on the Nth day of the month', occurs in 52 KJV verses, and the eleventh month simply has almost nothing dated to it. Deuteronomy 1:3 dates Moses's farewell address; Alma 49:1 dates the approach of a Lamanite army on Ammonihah, and shares no word with it that the other 51 dating formulas do not also supply. An absolute rarity is the strongest evidence this project has (ADJUDICATING §3.1) precisely when the phrase is a choice; here the writer chose a month, not a phrase."
+  },
+  {
+    "bomRef": "Alma 49:7",
+    "source": "Galatians 5:1",
+    "category": "better-source-identified",
+    "sharedText": "the yoke of bondage",
+    "streams": [
+      "machine-ngram",
+      "manual"
+    ],
+    "reason": "A genuine KJV singleton — 'yoke of bondage' occurs only at Galatians 5:1 — and a real borrowing, but not one to adjudicate here. It is already carried in the corpus at Mosiah 21:13 and Mosiah 23:13, where the Limhi and Alma bondage narratives use it of an actual servitude, and within the book of Alma its first appearance is at 44:2, five chapters earlier, in Moroni's speech to Zerahemnah. Alma 49:7 and 49:26 are the phrase recurring as the narrator's own formula for what Amalickiah wants and does not get (ADJUDICATING §4), and the whole verse of Galatians 5:1 — liberty, being made free, the yoke — supplies the political vocabulary of Alma 46-51 rather than of any one verse in it. Registered here because a reader meeting the phrase twice in this chapter should be sent to where the argument is made."
+  },
+  {
+    "bomRef": "Alma 49:23",
+    "source": "Numbers 31:49",
+    "category": "better-source-identified",
+    "sharedText": "there lacketh not one man of us",
+    "streams": [
+      "manual"
+    ],
+    "reason": "'There was not a single soul of the Nephites which were slain' against more than a thousand Lamanite dead is the KJV's one-sided muster report, and Numbers 31:49 is the KJV's one instance of it in words — 'thy servants have taken the sum of the men of war which are under our charge, and there lacketh not one man of us', a singleton. It is tempting and it is the wrong home. No word is shared; the Book of Mormon's phrasing ('not a single soul') is in no KJV verse; and the chapter has a better account of the asymmetry in the Sennacherib oracle already adjudicated at 49:2, where 185,000 of the besieging host fall and Jerusalem loses nobody. Alma 49:24's fifty wounded also breaks the Numbers 31 claim, which is absolute. Sent to 49:2."
+  },
+  {
+    "bomRef": "Alma 49:25",
+    "source": "Revelation 12:6",
+    "category": "wrong-sense",
+    "sharedText": "fled into the wilderness",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "A four-word run and the senses are opposed. In Revelation 12:6 the woman flees into the wilderness to a place prepared of God, where she is fed for 1,260 days: flight as divine preservation, and the wilderness as sanctuary. In Alma 49:25 a defeated Lamanite army flees into the wilderness because its captains are all dead, and the wilderness is where beaten armies go in this book from Alma 2:37 onward. The Book of Mormon's wilderness is a route and a refuge for the righteous elsewhere; here it is a rout. The candidate is the n-gram stream matching a phrase that any narrative of a defeat in KJV English would produce."
+  }
+]

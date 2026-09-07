@@ -1,0 +1,58 @@
+[
+  {
+    "bomRef": "Alma 42:2",
+    "source": "2 Chronicles 5:12",
+    "category": "wrong-sense",
+    "sharedText": "at the east end of the",
+    "streams": ["machine-ngram"],
+    "reason": "A five-word run and a genuine puzzle, but not a link. Genesis 3:24, which Alma 42:2 is quoting at length, reads 'at the east of the garden of Eden'; the Book of Mormon reads 'at the east END of the garden of Eden', and the KJV's only 'east end' is 2 Chronicles 5:12, where the Levite singers stand at the east end of the altar at Solomon's dedication. Nothing else in that verse or its chapter is anywhere near Alma 42, and a temple platform is not a garden. The added word is better explained as the ordinary English of 1829 filling out a compressed KJV phrase — but it is worth registering, because the departure is stable across every edition and a reader collating Alma 42:2 against Genesis 3:24 will notice it and look for a source."
+  },
+  {
+    "bomRef": "Alma 42:3",
+    "source": "Genesis 3:5",
+    "category": "better-source-identified",
+    "sharedText": "knowing good and evil",
+    "streams": ["machine-ngram"],
+    "reason": "The serpent's promise, 'ye shall be as gods, knowing good and evil', shares four words with Alma 42:3 and is the closer match for the Book of Mormon's participle ('knowing' rather than Genesis 3:22's 'to know'). But the verse Alma is quoting is 3:22, at sixteen consecutive words, and everything else in his sentence — putting forth the hand, taking also of the tree of life, eating, living for ever — is 3:22's and not 3:5's. Genesis 3:5 is recorded in the composite of that link, and adjudicated in its own right at Alma 12:31 and Mosiah 16:3. What it contributes here is the plural 'gods' that Alma 42:3 declines to use, having replaced 3:22's 'as one of us' with 'as God'."
+  },
+  {
+    "bomRef": "Alma 42:6",
+    "source": "Hebrews 9:27",
+    "category": "better-source-identified",
+    "sharedText": "it was appointed unto man to die",
+    "streams": ["manual"],
+    "reason": "'It was appointed unto man to die' is Hebrews 9:27's 'it is appointed unto men once to die', a KJV singleton, and the link is adjudicated at Alma 12:27 — 'it was appointed unto man that they must die; and after death, they must come to judgment' — where the Book of Mormon also keeps Hebrews' second clause about the judgment following. Alma 42:6 is the same speaker's shorter restatement of the same argument thirty chapters later, with the judgment clause dropped and the consequence changed to being cut off from the face of the earth. Registered because a reader meeting the phrase at the head of Alma 42's account of the Fall will want the argument, which is at 12:27."
+  },
+  {
+    "bomRef": "Alma 42:23",
+    "source": "Revelation 20:12",
+    "category": "better-source-identified",
+    "sharedText": "to be judged according to their works",
+    "streams": ["machine-ngram", "manual"],
+    "reason": "The fifth appearance in Alma of the standing judgment formula from Revelation 20:12-13 ('stand before God … judged … according to their works'). It is adjudicated at Alma 3:26 and 11:41-44, and given a fresh row at Alma 40:21 only because the chapter there is moving through Revelation 20 in John's own order, taking the first resurrection from 20:5-6 five verses earlier. Alma 42:23 has no such structural argument behind it; it is Alma's own formula in his own letter, three chapters on. The verse's Pauline variant of the same principle, 'according to his deeds' at 42:27, is the one that gets a link, because Romans 2:6 is a different KJV singleton and the change of noun is deliberate."
+  },
+  {
+    "bomRef": "Alma 42:26",
+    "source": "Matthew 25:34",
+    "category": "better-source-identified",
+    "sharedText": "prepared from the foundation of the world",
+    "streams": ["manual"],
+    "reason": "'From the foundation of the world' occurs in six KJV verses and the Book of Mormon uses it constantly; within Alma alone it is adjudicated at 5:16, 8:26, 12:25, 13:3 and 22:13, with Matthew 25:34's 'inherit the kingdom prepared for you from the foundation of the world' as the usual head. Alma 12:25 is the nearest parallel to this verse — the plan of redemption 'laid from the foundation of the world' — and the argument belongs there. What 42:26 changes is the participle, 'prepared' for 'laid', which is Matthew's word; that is a point for Matthew over Revelation 13:8 in general and not evidence of a fresh borrowing here."
+  },
+  {
+    "bomRef": "Alma 42:28",
+    "source": "Judges 9:16",
+    "category": "formulaic",
+    "sharedText": "done unto him according to the",
+    "streams": ["machine-ngram"],
+    "reason": "A six-word run and the chapter's highest-scoring machine candidate after the Genesis 3 block, from Jotham's parable of the trees, where the question is whether Shechem has dealt well with Jerubbaal 'according to the deserving of his hands'. The shared string is the KJV's ordinary recompense frame — compare Exodus 21:31's 'according to this judgment shall it be done unto him' — and carries no signal. Alma 42:28's real interest is the phrase that follows it, 'according to the restoration of God', which has no KJV parent at all; the borrowed vocabulary in this sentence is Romans 2:6's 'according to his deeds', filed at 42:27."
+  },
+  {
+    "bomRef": "Alma 42:13",
+    "source": "Ecclesiastes 5:6",
+    "category": "common-vocabulary",
+    "sharedText": "destroy the work of",
+    "streams": ["machine-ngram"],
+    "reason": "Four shared words and no contact of sense. Ecclesiastes 5:6 warns against rash vows — do not tell the angel it was an error, lest God be angry and 'destroy the work of thine hands'. Alma 42:13's 'destroy the work of justice' is the pivot of a syllogism about whether mercy can override a penalty, and 'work of justice' is the Book of Mormon's own abstraction, in no KJV verse. Registered because the run is exact and the verse is the theological centre of the chapter, so a reader will look for a source here and should be told there is none."
+  }
+]

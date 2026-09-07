@@ -1,0 +1,258 @@
+{
+  "chapter": 44,
+  "adjudicated": "2026-09-07",
+  "adjudicator": "Opus",
+  "links": {
+    "44:1": [
+      {
+        "source": "1 Samuel 24:10",
+        "type": "allusion",
+        "subtype": "conceptual",
+        "confidence": "high",
+        "text": "Behold, this day thine eyes have seen how that the LORD had delivered thee to day into mine hand in the cave: and some bade me kill thee: but mine eye spared thee; and I said, I will not put forth mine hand against my lord; for he is the LORD’s anointed.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "1 Samuel 24:11",
+          "1 Samuel 24:18",
+          "1 Samuel 24:19"
+        ],
+        "recurrenceRefs": [
+          "Alma 44:6",
+          "Alma 44:7",
+          "Alma 44:11",
+          "Alma 12:19",
+          "Jacob 3:14"
+        ],
+        "provenance": {
+          "route": "1 Samuel 24:10-19 → KJV → Book of Mormon",
+          "other": "'Delivered thee to day into mine hand' occurs in exactly one KJV verse. The speech-closing formula the chapter uses eight verses later — 'when Zerahemnah had made an end of speaking these words' (44:10) — reproduces 1 Samuel 24:16 ('when David had made an end of speaking these words unto Saul'), which is also a KJV singleton and is adjudicated in this catalogue at Jacob 3:14 and again at Alma 12:19. Two singletons from the same short chapter, sixteen verses apart in the source and nine apart here.",
+          "significance": "1 Samuel 24 is the Bible's set piece on holding an enemy's life and declining to take it: David has Saul in the cave, his men quote him an oracle telling him to strike, he cuts a token instead, and then argues the case aloud to the man he spared. Alma 44:1-11 is that scene with the arithmetic reversed — the spared party here is the aggressor, not the anointed king, and the argument does not work. Moroni makes David's speech ('ye are in our hands, yet we do not desire to slay you'), receives Zerahemnah's refusal rather than Saul's tears, and has to make the offer twice. The chapter closes the frame in the negative: where 1 Samuel 24 ends with an enemy weeping and swearing, Alma 44 ends with an enemy 'exceeding wroth' and a slaughter resumed."
+        },
+        "note": "'Ye know that ye are in our hands, yet we do not desire to slay you.' No clause is reproduced at 44:1 itself, but the situation is 1 Samuel 24's exactly — enemy in hand, killing declined, the declining then made into a speech — and the chapter carries two of that chapter's KJV singletons, 24:10's 'delivered … into mine hand' construction and 24:16's speech-closing formula at 44:10. The interest of the row is what the Book of Mormon does with the scene rather than that it uses it: David's mercy converts Saul, Moroni's does not convert Zerahemnah, and 44:17-18 is what the source has no room for.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "44:2": [
+      {
+        "source": "Galatians 5:1",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "Stand fast therefore in the liberty wherewith Christ hath made us free, and be not entangled again with the yoke of bondage.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "recurrenceRefs": [
+          "Mosiah 21:13",
+          "Mosiah 23:13",
+          "Alma 43:48",
+          "Alma 43:49",
+          "Alma 44:5"
+        ],
+        "provenance": {
+          "route": "Galatians 5:1 → KJV → Book of Mormon",
+          "other": "'Yoke of bondage' occurs in exactly one KJV verse. The Book of Mormon uses it five times; the first is Mosiah 21:13, where it is adjudicated, and Mosiah 23:13 takes the other half of the same verse ('stand fast in this liberty wherewith ye have been made free'). This is its first appearance in Alma.",
+          "significance": "The row is worth writing again in a new book because Alma 43-44 is the one place in the Book of Mormon that puts both halves of Galatians 5:1 into a single argument and makes them the terms of a war. The liberty half runs through 43:26, 43:45, 43:48-50 ('their liberty, yea, their freedom from bondage') and returns at 44:5 as 'that liberty which binds us to our lands and our country'; the yoke half is 44:2, where Moroni denies wanting to impose it and immediately charges the Lamanites with wanting exactly that. Paul's antithesis is between the freedom of the gospel and the law's servitude — a purely religious opposition with no political content whatever — and Alma 44 spends it on a treaty negotiation, then hands it back to religion in the same breath: 'ye are angry with us because of our religion.' The 1830's 'liberty' has not been touched by any later edition, so the Pauline pair stands in every printing."
+        },
+        "note": "'Neither do we desire to bring any one to the yoke of bondage. But this is the very cause for which ye have come against us.' A KJV singleton reproduced entire. Recorded across the book boundary under ADJUDICATING §4 rather than restating the argument made at Mosiah 21:13; what is new here is that the verse's other half is running simultaneously through the surrounding chapter, so that Moroni's terms of peace are Galatians 5:1 taken apart and used as a political vocabulary.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "44:3": [
+      {
+        "source": "1 Samuel 17:47",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "And all this assembly shall know that the LORD saveth not with sword and spear: for the battle is the LORD’s, and he will give you into our hands.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "1 Samuel 17:45",
+          "1 Samuel 17:46"
+        ],
+        "recurrenceRefs": [
+          "Alma 44:5",
+          "Alma 44:7",
+          "Alma 44:11",
+          "1 Nephi 3:29"
+        ],
+        "provenance": {
+          "route": "1 Samuel 17:45-47 → KJV → Book of Mormon",
+          "other": "'Into our hands' occurs in exactly four KJV verses (Deuteronomy 3:3, Joshua 2:24, Judges 16:24, 1 Samuel 17:47); only 1 Samuel 17:47 is spoken to the enemy's face before the fighting. 'The battle is the Lord's' is a KJV singleton in the same verse. Two verses earlier, 'in the name of the LORD of hosts' (17:45) occurs in two KJV verses, and Alma 44:5 opens 'I command you, in the name of that all-powerful God'.",
+          "significance": "David's speech to Goliath is the Bible's only pre-combat address delivered by the victor to the loser on the field, and it has three moves: I come in the name of God, God has delivered you, and the point of it is that the assembly may know the Lord saves without weapons. Alma 44:2-7 makes all three, in order, at greater length — 44:3 'the Lord is with us … he hath delivered you into our hands', 44:5 'I command you, in the name of that all-powerful God', 44:4 'ye see that this is the true faith of God'. What the Book of Mormon adds is a reply. Goliath is given no answer in 1 Samuel; Zerahemnah is given 44:9, and he answers the one clause David rests on, that the LORD saveth not with sword and spear."
+        },
+        "note": "'Ye behold that the Lord is with us; and ye behold that he hath delivered you into our hands.' The chapter's frame is the champion-speech of 1 Samuel 17:45-47 — the KJV's single instance of a warrior telling a defeated enemy, in advance, why he lost — and the two rarest strings in that speech, 'into our hands' and 'in the name of the LORD of hosts', both surface in Moroni's version within three verses. Adjudicated here because 44:3 carries the verbal contact; 44:5, 44:7 and 44:11 continue it, and 44:9 answers it.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "44:9": [
+      {
+        "source": "1 Samuel 17:5",
+        "type": "allusion",
+        "subtype": "conceptual",
+        "confidence": "high",
+        "text": "And he had an helmet of brass upon his head, and he was armed with a coat of mail; and the weight of the coat was five thousand shekels of brass.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 2,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "1 Samuel 17:7",
+          "1 Samuel 17:38",
+          "1 Samuel 17:39",
+          "1 Samuel 17:47"
+        ],
+        "recurrenceRefs": [
+          "Alma 43:19",
+          "Alma 43:20",
+          "Alma 43:21",
+          "Alma 44:18"
+        ],
+        "provenance": {
+          "route": "1 Samuel 17:5-7, 38-39, 47 → KJV → Book of Mormon",
+          "other": "'Coat of mail' occurs in exactly two KJV verses, 1 Samuel 17:5 and 17:38 — Goliath wearing it and Saul putting it on David. Goliath's kit is a helmet, a coat of mail, a spear and a shield-bearer; the two items Zerahemnah names here, breastplates and shields, are the two of Goliath's the Book of Mormon has vocabulary for. No word is reproduced; the case rests on the argument, not the string.",
+          "significance": "This is the inversion the catalogue exists to record. In 1 Samuel the armour belongs to the enemy of God: Goliath is described by his equipment for three verses, David refuses Saul's borrowed version of it because he has not proved it, and the whole point of 17:47 is that 'the LORD saveth not with sword and spear'. Alma 43-44 puts the armour on the covenant side. Moroni's men have the breastplates, the arm-shields and the head-shields; the Lamanites are naked with slings and stones, which is David's equipment (17:40, 17:50); and it is the losing side that makes David's argument. Zerahemnah's 'we do not believe that it is God that hath delivered us into your hands; but we believe that it is your cunning that hath preserved you … it is your breast-plates, and your shields that hath preserved you' is 1 Samuel 17:47 stated as an accusation, and 44:18's 'their naked skins, and their bare heads, were exposed to the sharp swords' concedes that he is factually right about the mechanism. The Book of Mormon's answer is not to deny the armour but to relocate the argument to 44:4-5: it is faith that supplies the armour, so the armour is what God's deliverance looks like."
+        },
+        "note": "'We believe that it is your cunning that hath preserved you from our swords. Behold, it is your breast-plates, and your shields that hath preserved you.' A conceptual allusion with almost no shared wording, filed high because the argument, not the vocabulary, is the evidence: the KJV has exactly one debate about whether armour or God wins a battle, it is 1 Samuel 17:45-47, and Alma 44 stages both sides of it with the equipment swapped and the losing champion given the winning champion's line. The naming of breastplates and shields — two of Goliath's four items and the two Alma 43:19-21 has been listing for a chapter — is what ties the argument to that passage rather than to armour in general.",
+        "whyNot": "Nothing verbal connects the two passages. Breastplates and shields are the obvious things a defeated soldier would blame, and the theological argument about arms versus divine help is common enough in the Old Testament (Psalm 20:7, Psalm 33:16-17) that no single source need be in view.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "44:13": [
+      {
+        "source": "1 Samuel 17:51",
+        "type": "allusion",
+        "subtype": "conceptual",
+        "confidence": "moderate",
+        "text": "Therefore David ran, and stood upon the Philistine, and took his sword, and drew it out of the sheath thereof, and slew him, and cut off his head therewith. And when the Philistines saw their champion was dead, they fled.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 2,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 3,
+          "attestation": 0
+        },
+        "kjvSpecific": "uncertain",
+        "mediation": "direct-OT",
+        "composite": [
+          "1 Samuel 17:54",
+          "1 Samuel 17:57",
+          "1 Samuel 24:11"
+        ],
+        "recurrenceRefs": [
+          "Alma 44:12",
+          "Alma 44:14",
+          "Alma 44:15",
+          "1 Nephi 4:18"
+        ],
+        "provenance": {
+          "route": "1 Samuel 17:51-57 → KJV → Book of Mormon",
+          "other": "No string is reproduced. The elements are: a commander's own weapon turned against him (17:51 / 44:12, where Zerahemnah's raised sword is struck down and breaks by the hilt), a part of his head taken off (17:51 / 44:12), that part then taken up and carried in the hand or on the weapon as a display (17:54, 17:57 / 44:13), and the enemy army's collapse at the sight (17:51, 'when the Philistines saw their champion was dead, they fled' / 44:15, 'when they heard these words, and saw the scalp which was upon the sword, they were struck with fear').",
+          "significance": "The catalogue has already recorded the Book of Mormon's fullest use of this passage at 1 Nephi 4:18, where Nephi takes Laban by the hair of the head and smites off his head with Laban's own sword. Alma 44:12-15 is the same source run through a filter: the commander is not killed, the thing taken off is a scalp rather than a head, and the display is made not by the general but by an anonymous soldier who turns it into a prophecy — 'Even as this scalp hath fallen to the earth … so shall ye fall to the earth, except ye will deliver up your weapons of war.' The nearest biblical thing to that speech is not 1 Samuel 17 but 1 Samuel 24:11, where David holds up the cut skirt of Saul's robe and argues from it; here the token argues for surrender rather than for innocence. And 44:18's 'even as the soldier of Moroni had prophesied' is the narrator conceding that the sign-act worked, which is what makes the row worth having: the Book of Mormon has converted a trophy into a prophetic sign."
+        },
+        "note": "'Took up the scalp from off the ground, by the hair, and laid it upon the point of his sword, and stretched it forth unto them.' A conceptual allusion; the wording is the Book of Mormon's own throughout. The sequence is what carries it — sword broken, head-part struck off, part raised as a display, army breaks — and that sequence has one home in the KJV. Confidence held at moderate rather than high because the Book of Mormon has used this passage before, at 1 Nephi 4:18, and a writer with that scene already in his repertoire may be repeating himself rather than returning to Samuel. Note also 'by the hair', which 1 Nephi 4:18 has and 1 Samuel 17:51 does not.",
+        "whyNot": "Nothing verbal. Displaying an enemy's head to break the enemy's morale is a commonplace of ancient warfare and appears in the KJV at 1 Samuel 31:9, Judges 7:25 and 2 Kings 10:7-8 as well, none of which the Book of Mormon is closer to than to 1 Samuel 17.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "44:14": [
+      {
+        "source": "Numbers 25:12",
+        "type": "echo",
+        "subtype": "probable",
+        "confidence": "moderate",
+        "text": "Wherefore say, Behold, I give unto him my covenant of peace:",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 2,
+          "sequence": 2,
+          "context": 4,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Ezekiel 34:25",
+          "Ezekiel 37:26"
+        ],
+        "recurrenceRefs": [
+          "Alma 44:15"
+        ],
+        "provenance": {
+          "route": "Numbers 25:12 → KJV → Book of Mormon",
+          "other": "'Covenant of peace' occurs in exactly three KJV verses — Numbers 25:12, Ezekiel 34:25 and Ezekiel 37:26 — and in exactly two Book of Mormon verses, Alma 44:14 and 44:15, both in this scene and nowhere else in the book.",
+          "alternative": "Ezekiel 34:25 or 37:26, where the covenant of peace is God's own promise to a restored Israel; the machine ranked Ezekiel 34:25 here on the five-word run.",
+          "significance": "All three KJV owners of the phrase use it for a covenant God makes; the Book of Mormon uses it for terms an army dictates to a defeated enemy at swordpoint, which is a genuine semantic move and not a slip. Numbers 25:12 is proposed over the Ezekiel verses because of what it is given for: Phinehas receives the covenant of peace as the reward for a javelin-thrust through two bodies, an act of violence that stops a plague — 'so the plague was stayed from the children of Israel'. Alma 44's covenant of peace is likewise offered from behind a raised weapon, by a man holding the evidence of a head-wound, and likewise stops a slaughter: 44:15's covenanters are 'suffered to depart' and 44:20 has Moroni cause 'that the work of death should cease again'. The KJV's oddest covenant of peace and the Book of Mormon's oddest are odd in the same direction."
+        },
+        "note": "'Except ye will deliver up your weapons of war, and depart, with a covenant of peace.' A three-verse KJV phrase, used twice in this chapter and nowhere else in the Book of Mormon, and used for something none of the three KJV verses uses it for. The Ezekiel alternative is recorded and is the machine's proposal; Numbers 25:12 is preferred because its covenant of peace is also granted at the end of a killing that stops a killing, which is the shape of the whole scene from 44:12 to 44:20. Proposed in the sense of CONVENTIONS §0a — the phrase alone would not settle which of the three verses is in view.",
+        "whyNot": "Two words, and the Book of Mormon's sense matches none of the three candidates exactly, so the choice among them rests on situational fit rather than on wording.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ]
+  }
+}

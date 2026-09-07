@@ -1,0 +1,82 @@
+[
+  {
+    "bomRef": "Alma 46:1",
+    "source": "Revelation 13:15",
+    "category": "wrong-sense",
+    "sharedText": "that as many as would not",
+    "streams": ["machine-ngram"],
+    "reason": "The chapter's highest-scoring machine candidate, and a false one. 'As many as would not' occurs in exactly one KJV verse, Revelation 13:15, where the beast's image kills as many as would not worship it; Alma 46:1 has 'as many as would not hearken to the words of Helaman' gathering against their brethren. The two agree in a five-word relative construction and in nothing else: Revelation's clause names victims of a tyrant, Alma's names the tyrant's own faction. Where the Book of Mormon does pick up a covenant enforced by death it is Asa's, not the beast's, and that link is written at 46:35."
+  },
+  {
+    "bomRef": "Alma 46:7",
+    "source": "1 Thessalonians 2:5",
+    "category": "better-source-identified",
+    "sharedText": "flattering words",
+    "streams": ["manual"],
+    "reason": "'The flattering words of Amalickiah' (46:7), and again 'a man of many flattering words' (46:10), use a phrase that occurs in exactly one KJV verse, 1 Thessalonians 2:5. The borrowing is real and the argument for it — that Paul's disavowal of flattery and of 'a cloke of covetousness' is the exact anti-type of a demagogue seeking power — is made in this catalogue at Alma 30:47, with the earlier Nephite instance at Mosiah 11:7. Within one book a narrator reusing his own formula is not a fresh borrowing (ADJUDICATING §4), so the reader of 46:7 is sent to Alma 30:47 rather than given the row twice."
+  },
+  {
+    "bomRef": "Alma 46:10",
+    "source": "Ezekiel 32:9",
+    "category": "wrong-sense",
+    "sharedText": "the hearts of many people",
+    "streams": ["machine-ngram"],
+    "reason": "'The hearts of many people' occurs in exactly one KJV verse, and the absolute rarity is why this needs an entry rather than silence. Ezekiel 32:9 is God vexing the hearts of many people by destroying Egypt; Alma 46:10 is Amalickiah leading away the hearts of many people to do wickedly. The shared four words are a quantifier plus a body part, the verbs are opposed in agent and in effect, and nothing else in either verse touches the other. A KJV singleton that carries no sense with it is exactly the trap CONVENTIONS §9 warns the n-gram stream will set."
+  },
+  {
+    "bomRef": "Alma 46:12",
+    "source": "Numbers 14:3",
+    "category": "wrong-sense",
+    "sharedText": "our wives and our children",
+    "streams": ["machine-ngram"],
+    "reason": "'Our wives and our children' with exactly these pronouns occurs in exactly one KJV verse, Numbers 14:3, and it is tempting because the title of liberty ends on those five words. But Numbers 14:3 is the wilderness generation's argument for going back to Egypt — 'that our wives and our children should be a prey? were it not better for us to return' — the classic KJV speech of a people refusing to fight. Moroni's banner exists to make them fight. The register keeps the row because the rarity is real and a careful reader would stop at it; the link at this verse goes instead to Nehemiah 4:14, whose 'fight for your brethren, your sons, and your daughters, your wives' is the same list on the right side of the argument."
+  },
+  {
+    "bomRef": "Alma 46:19",
+    "source": "John 18:1",
+    "category": "formulaic",
+    "sharedText": "these words he went forth",
+    "streams": ["machine-ngram"],
+    "reason": "Scored at the top of its verse, and proposed again at 46:28. 'These words he went forth' occurs in exactly one KJV verse, John 18:1 — Jesus crossing the Kedron to Gethsemane — but the run is produced entirely by the Book of Mormon's own transition formula, 'when [X] had said these words, he went forth', which recurs across the whole book. The window closes before the words that would matter in either text: 'with his disciples over the brook Cedron' in John, 'among the people, waving the rent of his garment' in Alma. A narrative hinge shared by two writers of English narrative, not a borrowing."
+  },
+  {
+    "bomRef": "Alma 46:24",
+    "source": "Genesis 49:26",
+    "category": "insufficient-verbal",
+    "sharedText": "the words of Jacob, before his death",
+    "streams": ["manual"],
+    "reason": "Moroni quotes a prophecy of Jacob about a preserved remnant of Joseph's coat, introduced as 'the words of Jacob, before his death'. Genesis 49:22-26 is the King James Bible's only speech of Jacob before his death concerning Joseph, and a reader will go there. It is not the source: Genesis 49 says nothing about the coat, nothing about a remnant preserved from decay, and shares no wording with Alma 46:24-26 beyond the name Joseph. The quoted prophecy has no KJV background at all — it belongs to the Book of Mormon's own tradition of Joseph material (compare 2 Nephi 3) — and is registered here so the catalogue is not read as having missed the chapter's longest quotation. The Genesis contact in this passage is at 46:23, where 'rent in pieces' is Genesis 37:33."
+  },
+  {
+    "bomRef": "Alma 46:27",
+    "source": "1 Corinthians 16:13",
+    "category": "better-source-identified",
+    "sharedText": "stand fast in the faith",
+    "streams": ["machine-ngram"],
+    "reason": "'If we do not stand fast in the faith of Christ' reproduces a KJV singleton, 1 Corinthians 16:13, and it is a genuine borrowing. It is adjudicated in this catalogue at Alma 1:25, where the phrase stands beside 15:58's 'steadfast and immoveable' in the same sentence and the argument can be made properly; that row records earlier instances at 1 Nephi 2:10 and Mosiah 5:15. Within a single book a repeated formula is adjudicated at first use (ADJUDICATING §4), so 46:27 is cross-referenced rather than duplicated."
+  },
+  {
+    "bomRef": "Alma 46:34",
+    "source": "1 Samuel 8:7",
+    "category": "better-source-identified",
+    "sharedText": "the voice of the people",
+    "streams": ["machine-ngram"],
+    "reason": "'Appointed by the Chief Judges and the voice of the people' uses the phrase that occurs in exactly one KJV verse, 1 Samuel 8:7, God's concession to Samuel when Israel demands a king. The catalogue adjudicates it at Mosiah 7:9, again at Mosiah 29:2 where the kingship it first authorized is abolished, and within Alma at 2:3 and 10:19. Its appearance here is pointed — Moroni's authority rests on the voice of the people in the same chapter in which Amalickiah tries to become king by flattering it — but the borrowing itself has been argued, and a fifth full row would be the narrator's formula, not a new dependence."
+  },
+  {
+    "bomRef": "Alma 46:36",
+    "source": "Isaiah 59:19",
+    "category": "insufficient-verbal",
+    "sharedText": "standard",
+    "streams": ["manual"],
+    "reason": "'Thus Moroni planted the standard of liberty among the Nephites' is the chapter's closing image and the phrase every reader of Isaiah expects to be a borrowing: 'the Spirit of the LORD shall lift up a standard against him' (59:19), 'he shall set up an ensign for the nations' (11:12), 'set up a standard' (Jeremiah 50:2). It will not bear a link. 'Standard' occurs in nineteen KJV verses and 'ensign' in eight, most of them Numbers' tribal standards; 'planted the standard' occurs in none; and Isaiah's standard is raised by God against an enemy, not hoisted on towers by an army. The verse's real intertext is the one this catalogue writes at 46:12, where the object raised on the pole is a rent garment, and that figure is Samuel's and Ahijah's rather than Isaiah's."
+  },
+  {
+    "bomRef": "Alma 46:41",
+    "source": "Genesis 25:8",
+    "category": "common-vocabulary",
+    "sharedText": "died with old age",
+    "streams": ["manual"],
+    "reason": "The chapter's last verse — 'there were many who died with old age; and those who died in the faith of Christ, are happy in him' — invites Genesis 25:8's 'Abraham gave up the ghost, and died in a good old age', the KJV's formula for a peaceful death. The Book of Mormon's preposition is different ('with' for 'in'), the KJV's qualifying adjective 'good' is absent, and 'old age' is spread across fifteen KJV verses. There is nothing here to identify a source; the sentence is a demographic note, not an allusion."
+  }
+]

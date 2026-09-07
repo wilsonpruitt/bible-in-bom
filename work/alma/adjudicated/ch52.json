@@ -1,0 +1,269 @@
+{
+  "chapter": 52,
+  "adjudicated": "2026-09-07",
+  "adjudicator": "Opus",
+  "links": {
+    "52:1": [
+      {
+        "source": "Judges 4:22",
+        "type": "figural",
+        "subtype": "type-scene",
+        "confidence": "moderate",
+        "text": "And, behold, as Barak pursued Sisera, Jael came out to meet him, and said unto him, Come, and I will shew thee the man whom thou seekest. And when he came into her tent, behold, Sisera lay dead, and the nail was in his temples.",
+        "evidence": {
+          "vocabulary": 2,
+          "syntax": 2,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "no",
+        "mediation": "direct-OT",
+        "composite": [
+          "2 Kings 19:35",
+          "2 Kings 19:36"
+        ],
+        "recurrenceRefs": [
+          "Alma 51:34",
+          "Alma 52:2"
+        ],
+        "provenance": {
+          "route": "Judges 4:21-22 (the discovery in the tent) + 2 Kings 19:35-36 (the morning after, and the abandoned campaign) → KJV → Book of Mormon",
+          "other": "“lay dead” occurs in exactly one KJV verse, Judges 4:22, and it is the discovery of a dead enemy commander inside a tent — the KJV's only such scene. Alma 52:1 does not reproduce the phrase; it reproduces the situation. Separately, “dead corpses” occurs in exactly two KJV verses, 2 Kings 19:35 and its doublet Isaiah 37:36, both reading 'and when they arose early in the morning, behold, they were all dead corpses'.",
+          "alternative": "An army waking to find its general dead is a situation a writer could reach without a source; nothing in the verse is verbally distinctive.",
+          "significance": "The killing at Alma 51:34 — a javelin driven into a sleeping commander in his own tent, by night, by a single assailant who then withdraws — is Jael's; this verse is Barak's half of that story, the morning arrival of the men who came for Sisera and find the work already done. What the Book of Mormon adds is the Assyrian ending. In Judges the discovery is a victory scene; in 2 Kings 19:35-36 the enemy wakes to death in the camp and Sennacherib simply 'departed, and went and returned' — the campaign is over without a battle. Alma 52:1-2 has both movements in order: the body found at first light, and then an army that abandons its design of marching into the land northward and retreats. Teancum has done to Amalickiah what Jael did to Sisera and got what the angel got at Jerusalem."
+        },
+        "note": "'When the Lamanites awoke on the first morning of the first month, behold, they found Amalickiah was dead, in his own tent.' No clause is borrowed, and the link is offered as a type-scene rather than a verbal one. What carries it is that the KJV has exactly one scene of an enemy commander found dead inside a tent and exactly one of an enemy army waking to find its dead, and Alma 52:1-2 executes them consecutively — the second supplying what the first does not, namely the invading army's withdrawal. Recorded at moderate because the situation is generic enough to have been invented, and because the assassination itself belongs to Alma 51:34, where the Jael allusion is at its strongest.",
+        "whyNot": "There is no reproduced wording at all. 'Awoke', 'first morning' and 'found ... dead' are ordinary English, and an army discovering a murdered general has one natural way of being narrated.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "52:4": [
+      {
+        "source": "Hebrews 9:22",
+        "type": "echo",
+        "subtype": "possible",
+        "confidence": "low",
+        "text": "And almost all things are by the law purged with blood; and without shedding of blood is no remission.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 2,
+          "sequence": 1,
+          "context": 2,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "Hebrews 9:22 → KJV → Book of Mormon",
+          "other": "“shedding of blood” occurs in exactly one KJV verse, Hebrews 9:22. This catalogue has twice declined the same singleton on sense — at Mosiah 20:22 and Mosiah 29:40, both registered in data/exclusions.json — and has accepted it once, at Alma 34:13, where Hebrews 9's whole argument is in view.",
+          "alternative": "The phrase is the natural English for the thing and needs no source; a war narrative will say 'shedding of blood' whether or not it has read Hebrews.",
+          "significance": "The two Mosiah refusals turned on the same point: Hebrews makes blood-shedding the condition of obtaining something, and those verses make it a regrettable cost to be stopped. Alma 52:4 does not do that. Ammoron's decree is 'maintain those cities which they had taken by the shedding of blood', and the reason given is 'for they had not taken any cities, save they had lost much blood' — that is Hebrews' logic exactly, in a military key: without shedding of blood, no acquisition. The clause is a purchase argument, and it is the KJV's one purchase-by-blood verse that supplies its words."
+        },
+        "note": "Proposed under CONVENTIONS §0a and kept at `low` on purpose. The rarity is absolute and the argument-shape agrees with the source where the register's two earlier refusals of this phrase disagreed with it — Ammoron reasons that what cost blood must be held, which is the form of 'without shedding of blood is no remission'. Nothing else in the verse touches Hebrews 9, so the row is a proposal, not a finding, and it is flagged as one.",
+        "whyNot": "Three words, and a war chapter has every reason to use them without borrowing. The catalogue has declined this singleton at Mosiah 20:22 and Mosiah 29:40 for wrong sense; a reader who thinks the sense-agreement argued above is a coincidence should decline it here too, and the row is written so that it can be withdrawn on that ground alone.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "52:10": [
+      {
+        "source": "Acts 19:31",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "And certain of the chief of Asia, which were his friends, sent unto him, desiring him that he would not adventure himself into the theatre.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 4,
+          "context": 3,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Acts 9:38"
+        ],
+        "recurrenceRefs": [
+          "Alma 52:20",
+          "Alma 54:1"
+        ],
+        "provenance": {
+          "route": "Acts 19:31 → KJV → Book of Mormon",
+          "other": "“sent unto him desiring him” occurs in exactly one KJV verse, Acts 19:31; the shorter “desiring him that he would” occurs in exactly two, Acts 19:31 and Acts 9:38, and “desiring him” in the same two. The construction is therefore not merely rare in the KJV, it is Lukan and confined to Acts.",
+          "significance": "Recover the context and the borrowing acquires an argument the Book of Mormon then uses twice, in opposite directions. Acts 19:31 is the Ephesian riot: Paul's friends among the chief of Asia send to him desiring that he would NOT go out into the theatre, the public arena where the crowd is waiting. Alma 52:10 uses the formula for Moroni's message to Teancum, and Alma 52:20 uses it again for the embassy sent to the Zoramite Jacob 'desiring him that he would come out with his armies to meet them upon the plains' — a request to enter exactly the open arena Acts 19:31's message was sent to prevent. Jacob refuses, and by refusing does what Paul's friends wanted Paul to do. The KJV's one verse for an embassy carrying a request is the verse in which the right answer was to stay inside the walls. The formula returns a third time at Alma 54:1, where it is Ammoron who 'sent unto Moroni, desiring that he would exchange prisoners' — so all three of the chapter-block's negotiations, in both directions, are carried by the KJV's one verse for a message asking somebody to do something."
+        },
+        "note": "'And Moroni also sent unto him, desiring him that he would be faithful in maintaining that quarter of the land.' Eight consecutive words of Acts 19:31, from the only KJV verse that has them, in a chapter whose plot turns on messages sent between commanders. The n-gram stream ranked it first for the verse and it is one of the rare cases where that stream is right: the run is not connective tissue but a whole verbal frame — sent unto him, desiring him that he would, plus infinitive — and the Book of Mormon reuses the frame ten verses later for the embassy to Jacob. Below Skousen's sixteen-word threshold and not one of his 36.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      },
+      {
+        "source": "2 Kings 13:25",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "text": "And Jehoash the son of Jehoahaz took again out of the hand of Benhadad the son of Hazael the cities, which he had taken out of the hand of Jehoahaz his father by war. Three times did Joash beat him, and recovered the cities of Israel.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "recurrenceRefs": [
+          "Alma 52:16",
+          "Alma 52:19",
+          "Alma 52:26"
+        ],
+        "provenance": {
+          "route": "2 Kings 13:25 → KJV → Book of Mormon",
+          "other": "“taken out of the hand” occurs in exactly one KJV verse, 2 Kings 13:25, and “recovered the cities” in exactly one, the same verse. Alma 52:10 has the plural, 'taken out of their hands', so the singleton string is not literally reproduced; what is reproduced is the whole sentence-shape — take again + the cities + taken out of the hand(s) — from the KJV's single verse about a king recovering cities an enemy king had taken from his predecessor.",
+          "alternative": "The n-gram stream also offered 2 Chronicles 15:8 on 'the cities which he had taken', where Asa's captured cities are the setting for a religious reform; the verbal overlap is real but the situation is not this one.",
+          "significance": "2 Kings 13:25 is the KJV's one verse of exactly this military problem, and the correspondence extends past the words. Jehoash recovers cities lost in his father's reign to Benhadad, son of Hazael — a dynastic aggressor whose successor is fought by a successor. Alma 52 is Moroni's campaign to retake cities lost to Amalickiah, against Amalickiah's brother and successor Ammoron, who has been installed in this chapter seven verses earlier. The Book of Mormon has taken its formula for recovering lost cities from the Bible's only account of it, and it has taken it into a war that has the same two-generation shape."
+        },
+        "note": "'That perhaps he might take again, by stratagem or some other way, those cities which had been taken out of their hands.' Three of the source's distinctive elements arrive together — 'take again', 'the cities', 'taken out of the hand(s)' — and the source is a KJV singleton on two of them. The chapter then runs the programme the verse announces: retake Mulek (52:16), 'take again the city of Mulek' (52:19), and the possession obtained at 52:26.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "52:22": [
+      {
+        "source": "Joshua 8:13",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "And when they had set the people, even all the host that was on the north of the city, and their liers in wait on the west of the city, Joshua went that night into the midst of the valley.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 4,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Joshua 8:14",
+          "Joshua 8:15",
+          "Joshua 8:16",
+          "Joshua 8:19"
+        ],
+        "recurrenceRefs": [
+          "Alma 52:24",
+          "Alma 52:31",
+          "Alma 52:36"
+        ],
+        "provenance": {
+          "route": "Joshua 8:13-19 → KJV → Book of Mormon",
+          "other": "“on the west of the city” occurs in exactly one KJV verse, Joshua 8:13, and the shorter “west of the city” in exactly one, the same verse. Joshua 8:16's “drawn away from the city” occurs in exactly two, Joshua 8:16 and Judges 20:31 — the two biblical decoy-ambushes, of which Judges 20 is modelled on Joshua 8.",
+          "significance": "Joshua 8 is the Bible's set-piece on the tactic Alma 52:19-31 executes, and Alma has it verse by verse: an ambush force set on the west of the city and moving by night (8:13); a small force shown to the defenders in the morning (8:14-15); a feigned flight that draws the garrison out and away (8:15-16); the ambush entering and taking the emptied city (8:19); and the fleeing force turning back on its pursuers (8:20-21). What makes the borrowing verbal rather than merely typological is that the one element with no tactical necessity — the compass point — is the one Alma reproduces, from the only KJV verse where it stands. There is no military reason the wilderness Moroni marches into must be west of Mulek; there is a textual reason."
+        },
+        "note": "'Moroni and his army, by night, marched into the wilderness, on the west of the city Mulek.' Three of Joshua 8:13's elements in one clause — the ambush position west of the city, the night march, and (from 8:15) the wilderness the decoy uses — and 'on the west of the city' is a KJV singleton. Moroni's plan at 52:21 is called a decoy in the text's own word, and the chapter then follows Joshua 8's sequence to the end, which is why this row carries recurrence references to 52:24, 52:31 and 52:36 rather than repeating the argument there.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "52:31": [
+      {
+        "source": "Joshua 8:22",
+        "type": "allusion",
+        "subtype": "conceptual",
+        "confidence": "moderate",
+        "text": "And the other issued out of the city against them; so they were in the midst of Israel, some on this side, and some on that side: and they smote them, so that they let none of them remain or escape.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "uncertain",
+        "mediation": "direct-OT",
+        "recurrenceRefs": [
+          "Alma 52:22"
+        ],
+        "provenance": {
+          "route": "Joshua 8:22 → KJV → Book of Mormon",
+          "other": "“some on this side” occurs in exactly one KJV verse, Joshua 8:22. Alma 52:31 does not reproduce it — the Book of Mormon reads 'by the men of Moroni on one hand, and the men of Lehi on the other' — so this row rests on structure and position within the borrowed sequence, not on a shared string.",
+          "significance": "Joshua 8:22 is the moment the two Israelite forces close, and the KJV's phrase for it is 'in the midst of Israel, some on this side, and some on that side'. Alma 52:31 is the same moment with the same two-force geometry and a different English idiom for it, and it arrives at exactly the point in the sequence where Joshua puts it: after the flight, after the taking of the city, before the surrender. Where Joshua's closure is total — 'they let none of them remain or escape' — Moroni's ends in the surrender of 52:37-39 and a body of prisoners larger than the body of dead. The Book of Mormon has followed the Ai script to its last verse and then declined its ending."
+        },
+        "note": "'They were surrounded by the Nephites; by the men of Moroni on one hand, and the men of Lehi on the other.' The wording is not Joshua's; the position is. This is the payoff of the ambush adjudicated at 52:22, and it is recorded separately because a reader arriving at 52:31 should be told which biblical battle the pincer belongs to. Moderate, and the absent verbal contact is stated rather than argued around.",
+        "whyNot": "'On one hand and on the other' is ordinary English and shares no phrase with Joshua 8:22. If the Joshua 8:13 link at 52:22 is declined, nothing here stands on its own.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "52:36": [
+      {
+        "source": "Joshua 8:20",
+        "type": "echo",
+        "subtype": "conceptual",
+        "confidence": "moderate",
+        "text": "And when the men of Ai looked behind them, they saw, and, behold, the smoke of the city ascended up to heaven, and they had no power to flee this way or that way: and the people that fled to the wilderness turned back upon the pursuers.",
+        "evidence": {
+          "vocabulary": 2,
+          "syntax": 2,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "uncertain",
+        "mediation": "direct-OT",
+        "recurrenceRefs": [
+          "Alma 52:22"
+        ],
+        "provenance": {
+          "route": "Joshua 8:20 → KJV → Book of Mormon",
+          "other": "“this way or that way” occurs in exactly one KJV verse, Joshua 8:20, and “no power to flee” in exactly one, the same verse. Alma 52:36's 'knew not whether to go or to strike' is a paraphrase of that idea, not a reproduction of the phrase.",
+          "significance": "Joshua 8:20 describes a very particular military condition: a force caught between an ambush and a turned pursuit, which has not been beaten but has ceased to be able to choose. The KJV renders it as having 'no power to flee this way or that way'; Alma 52:36 renders the same condition as being 'much confused' and knowing 'not whether to go or to strike'. Alma's version supplies the alternative Joshua's leaves out — fight, not merely flight — which is what the verse needs, since Lehi is pressing on the rear and the front rank has already surrendered its weapons."
+        },
+        "note": "'The remainder of them, being much confused, knew not whether to go or to strike.' The clause is one of the more distinctive sentences in the Book of Mormon's war narrative and it has no KJV wording behind it, but it stands at the precise point of Joshua 8 where the KJV supplies its own one-off formula for the same paralysis. Recorded as an echo, at moderate, on the strength of the sequence adjudicated at 52:22 rather than on the words.",
+        "whyNot": "Nothing verbal is shared. Read on its own the sentence is the Book of Mormon's own idiom, and the row depends entirely on the Joshua 8 sequence being granted at 52:22.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ]
+  }
+}

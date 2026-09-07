@@ -1,0 +1,177 @@
+{
+  "chapter": 49,
+  "adjudicated": "2026-09-07",
+  "adjudicator": "Opus",
+  "links": {
+    "49:2": [
+      {
+        "source": "2 Kings 19:32",
+        "type": "allusion",
+        "subtype": "conceptual",
+        "confidence": "moderate",
+        "text": "Therefore thus saith the LORD concerning the king of Assyria, He shall not come into this city, nor shoot an arrow there, nor come before it with shield, nor cast a bank against it.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 2,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 3,
+          "attestation": 0
+        },
+        "kjvSpecific": "uncertain",
+        "mediation": "direct-OT",
+        "composite": [
+          "Isaiah 37:33",
+          "2 Kings 19:35",
+          "2 Kings 19:36"
+        ],
+        "recurrenceRefs": [
+          "Alma 49:11",
+          "Alma 49:18",
+          "Alma 49:22",
+          "Alma 49:23",
+          "Alma 49:27"
+        ],
+        "provenance": {
+          "route": "2 Kings 19:32 (= Isaiah 37:33) → KJV → Book of Mormon",
+          "other": "'Cast a bank' occurs in two KJV verses, 2 Kings 19:32 and its Isaiah 37:33 doublet; 'cast up a bank' in exactly one, 2 Samuel 20:15, where it is the besieger who casts it. The two candidate verses differ by a single letter — 2 Kings has 'with shield', Isaiah 'with shields' — and Alma 49:2's 'shield' is a verb, not the noun, so the doublet cannot be decided from this verse. Alma 49:6's 'shields' is plural, which would favour Isaiah if it were the same clause. It is not.",
+          "significance": "The oracle against Sennacherib promises Jerusalem four things her enemy will not do: come into the city, shoot an arrow there, come before it with shield, cast a bank against it. Alma 49 grants the Lamanites three of the four and takes the fourth away from them — they shoot arrows, they come with shields, they cannot enter, and the bank is already there because the defenders cast it up first. Read the source's context back into the borrowing and the rest of the chapter falls into place: the foreign king does not come down himself (49:10-11), his host is destroyed without a single defender lost (49:23), he blasphemes the God of the city he could not take (49:27), and he returns to his own land to be killed in his tent (51:34). That is the shape of 2 Kings 18-19 from the Rabshakeh's boast to Sennacherib's murder at Nineveh, run once through a Nephite war chapter."
+        },
+        "note": "The chapter's siege vocabulary is the KJV's, redistributed. Alma 49:2 has the Nephites 'cast up dirt round about, to shield them from the arrows and the stones'; 49:18 has 'the highness of the bank which had been thrown up, and the depth of the ditch'; 49:22 has the Lamanites trying to 'dig down their banks of earth'. In the KJV a bank is what an army casts up against a city (2 Samuel 20:15) or is forbidden to (2 Kings 19:32), never what a city casts up around itself, and Moroni's innovation is exactly that reversal — which is why the Lamanite captains are 'astonished exceedingly' at a technique 'which never had been known' (49:5, 49:8). The link is placed at 49:2 because that is where the earthwork, the arrows and the shielding stand in one sentence; the elements are distributed across the chapter and each word of them is ordinary siege English, which is what holds the confidence at moderate.",
+        "whyNot": "No clause is reproduced. 'Bank', 'ditch', 'arrows' and 'shield' are the common stock of any English siege narrative, and a writer describing fortifications in KJV idiom would reach for them without a source. The argument rests on the distribution — four of the oracle's elements in the right relation, plus the Sennacherib outcome — not on any one phrase.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "49:6": [
+      {
+        "source": "Exodus 28:42",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "text": "And thou shalt make them linen breeches to cover their nakedness; from the loins even unto the thighs they shall reach:",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 2,
+          "context": 3,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Genesis 3:21"
+        ],
+        "provenance": {
+          "route": "Exodus 28:42 + Genesis 3:21 → KJV → Book of Mormon",
+          "other": "'To cover their nakedness' occurs in exactly one KJV verse, Exodus 28:42, of the linen breeches made for Aaron and his sons. 'Coats of skins' occurs in exactly one, Genesis 3:21. 'Garments of skins' occurs in none: the Book of Mormon has the substance of Genesis 3:21 in words that are not quite its own, and the priestly formula verbatim.",
+          "significance": "Both KJV singletons behind this armour are garments God gives, not armour men make. Genesis 3:21 clothes the newly ashamed; Exodus 28:42 clothes the priest so that he may approach the altar and 'not bear iniquity, and die' (28:43). The Lamanites put on the two garments of covered nakedness in order to approach a fortification, and die anyway. The narrative has already told us why the covering is needed: nakedness has been the Lamanites' mark since 2 Nephi 5:24 and Enos 1:20, so the verse quietly reports that the Lamanites have taken the remedy Genesis and Exodus supply and turned it into equipment for a massacre (49:7)."
+        },
+        "note": "'They had also prepared themselves with shields, and with breast-plates; and they had also prepared themselves with garments of skins; yea, very thick garments, to cover their nakedness.' The four-word run 'to cover their nakedness' is a KJV singleton and the sentence it comes from is the last item of the priestly wardrobe in Exodus 28. Skins and the covering of nakedness together are Genesis 3:21's provision, and the two rare phrases arrive in one clause. Held at moderate because the sentence is describing armour and the borrowing may be no more than the readiest English for what armour does; that it reaches for the priestly phrase rather than 'to cover them' is the reason for recording it.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "49:17": [
+      {
+        "source": "Acts 2:30",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "text": "Therefore being a prophet, and knowing that God had sworn with an oath to him, that of the fruit of his loins, according to the flesh, he would raise up Christ to sit on his throne;",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 3,
+          "context": 2,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "Acts 2:30 → KJV → Book of Mormon",
+          "other": "'Sworn with an oath' occurs in exactly one KJV verse, Acts 2:30. The Old Testament's cognate formula is 'sware with an oath' (Numbers 30:10 has 'bound her soul by a bond with an oath'); the perfect participle is Peter's.",
+          "significance": "The one KJV oath sworn with an oath is God's to David, that of the fruit of his loins he would raise up Christ to sit on his throne — Peter's proof text at Pentecost that a promise sworn this way cannot fail. Alma 49 puts the phrase in the mouths of captains who swear to take a city, and the next six verses kill every one of them (49:23). The catalogue's interest is in the pairing: the formula the New Testament reserves for the one oath that holds is here used for an oath that is broken by the death of everyone who swore it, and the chapter says twice that they swore (49:13, 49:17) before it says that they all fell."
+        },
+        "note": "'Their Chief Captains had sworn with an oath, to attack the city.' A six-word run against the only KJV verse that contains it, and the fear of Lehi in the same sentence is what makes the oath rather than the tactics decide their movement. Below Skousen's sixteen-word threshold for a quotation, and catalogued as an allusion accordingly. The confidence is moderate rather than high because 'sworn with an oath' is unremarkable English and the context in Acts is remote from a Lamanite war council; the rarity count, not the setting, is the evidence.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "49:27": [
+      {
+        "source": "Job 2:9",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "text": "Then said his wife unto him, Dost thou still retain thine integrity? curse God, and die.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "provenance": {
+          "route": "Job 2:9 → KJV → Book of Mormon",
+          "other": "'Curse God' occurs in exactly one KJV verse, Job 2:9. Job 1:5 and 1:11 and 2:5 use 'curse thee' and 'curse thee to thy face' of the same act; the bare imperative with God as its object is the wife's alone.",
+          "significance": "Job's wife names two things in one breath: the integrity a man retains, and the cursing of God that would end him. Alma 49:27 names the same two and assigns them to different men. Amalickiah curses God, 'and this because Moroni had kept the commandments of God in preparing for the safety of his people' — that is, another man's retained integrity is given as the cause of the cursing, which is the exact relation Job 2:9 sets up and then leaves unresolved. The Book of Mormon resolves it by splitting the verse between two characters, and by carrying the consequence Job's wife attaches to the cursing ('and die') forward to Amalickiah's own death two chapters later."
+        },
+        "note": "'He was exceeding wroth, and he did curse God, and also Moroni.' The KJV has exactly one verse in which anyone is told to curse God, and it is the verse that also asks 'Dost thou still retain thine integrity?' — the two halves that Alma 49:27 holds together, the cursing and the other man's kept commandments. The 1830's 'exceeding wroth' (1920 'exceedingly') keeps the KJV's adverbial 'exceeding' here, as at 49:26. Note that the Book of Mormon uses the phrase of a man doing it, where Job 2:9 has it as advice refused; the borrowing takes the act his wife proposed and gives it to someone who performs it.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      },
+      {
+        "source": "John 6:53",
+        "type": "echo",
+        "subtype": "possible",
+        "confidence": "moderate",
+        "text": "Then Jesus said unto them, Verily, verily, I say unto you, Except ye eat the flesh of the Son of man, and drink his blood, ye have no life in you.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 2,
+          "context": 3,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "uncertain",
+        "mediation": "direct-NT",
+        "recurrenceRefs": [
+          "Alma 51:9"
+        ],
+        "provenance": {
+          "route": "John 6:53 → KJV → Book of Mormon",
+          "other": "'Drink his blood' occurs in exactly one KJV verse, John 6:53. The other four KJV verses that drink blood name what is drunk — the blood of the slain (Numbers 23:24), of these men (1 Chronicles 11:19), of goats (Psalm 50:13), of the princes of the earth (Ezekiel 39:18). Only John has the pronoun, and only John makes the drinking a condition of life.",
+          "significance": "The one man in the King James Bible whose blood anyone is invited to drink is the Son of man, and the invitation is that without it 'ye have no life in you'. Amalickiah swears in the same three words to drink the blood of the one man in the chapter who has kept the commandments of God, and the oath is the thing that kills him: 'his promise which he made, was rash' (51:10), and the javelin goes into his heart while he sleeps (51:34). Standing beside the cursing of God in the same sentence, the borrowing reads as a deliberate inversion — the eucharistic condition of life sworn as a threat of death, by a man who has just blasphemed."
+        },
+        "note": "'Swearing with an oath that he would drink his blood.' The three words are a KJV singleton and they arrive in the same clause as a second singleton, 'curse God' (Job 2:9), which is the argument for taking the coincidence seriously: one rare phrase in a verse is chance, two rare phrases from two testaments in one sentence is a habit of composition. The oath recurs at 51:9 in the form 'drink the blood of Moroni' and is answered at 51:34. Held at moderate, and kjvSpecific left uncertain, because an oath to drink an enemy's blood is a stock threat in English independent of any Bible.",
+        "whyNot": "'Drink his blood' as a vow of vengeance is ordinary nineteenth-century English and needs no scriptural source; the KJV singleton may be an accident of how seldom the Bible attaches that pronoun to that verb. The link rests on the company it keeps in 49:27, not on the phrase alone.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      }
+    ]
+  }
+}

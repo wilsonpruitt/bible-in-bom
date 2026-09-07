@@ -1,0 +1,74 @@
+[
+  {
+    "bomRef": "Alma 44:1",
+    "source": "2 Corinthians 7:3",
+    "category": "formulaic",
+    "sharedText": "that ye are in our",
+    "streams": ["machine-ngram"],
+    "reason": "The machine's top candidate for the verse, on a five-word run that breaks at the decisive word: Paul's is 'ye are in our hearts', Moroni's is 'ye are in our hands'. The real source of the clause is 1 Samuel 24:10, adjudicated at this verse."
+  },
+  {
+    "bomRef": "Alma 44:1",
+    "source": "Psalm 139:19",
+    "category": "insufficient-verbal",
+    "sharedText": "men of blood / bloody men",
+    "streams": ["manual"],
+    "reason": "'We do not desire to be men of blood' is a Book of Mormon hapax — the phrase occurs in this verse and nowhere else in the book — and it sounds biblical. It is not: 'men of blood' occurs in no KJV verse. The KJV's equivalent is 'bloody men' (Psalm 26:9, 59:2, 139:19), always an imprecation against enemies and never a self-description a speaker declines. 2 Samuel 16:7-8's 'thou bloody man' is the nearest situational fit and is likewise not the Book of Mormon's word order. Recorded because the phrase reads like a quotation and is not one."
+  },
+  {
+    "bomRef": "Alma 44:5",
+    "source": "Numbers 14:3",
+    "category": "formulaic",
+    "sharedText": "our wives and our children",
+    "streams": ["machine-ngram"],
+    "reason": "A stock list-item. Numbers 14:3 is the murmuring at Kadesh, adjudicated in this book at Alma 2:25 for a genuine reason; nothing here recalls it. The list at 44:5 is the continuation of the Nehemiah 4:14 list adjudicated at Alma 43:45."
+  },
+  {
+    "bomRef": "Alma 44:10",
+    "source": "1 Samuel 24:16",
+    "category": "better-source-identified",
+    "sharedText": "had made an end of speaking these words",
+    "streams": ["machine-ngram"],
+    "reason": "The chapter's longest machine run — eight words reproducing a KJV singleton — and it is a genuine borrowing, but it is a borrowing the catalogue has already adjudicated twice: at Jacob 3:14, where the argument is made, and again at Alma 12:19 across the book boundary. Here it is the Book of Mormon's own speech-closing formula recurring. The 1 Samuel 24 material that is fresh at this scene is 24:10's sparing of the enemy in hand, and that row sits at Alma 44:1."
+  },
+  {
+    "bomRef": "Alma 44:11",
+    "source": "1 Samuel 26:16",
+    "category": "formulaic",
+    "sharedText": "as the Lord liveth",
+    "streams": ["machine-ngram"],
+    "reason": "An oath formula in twenty-seven KJV verses, twelve of them in 1 Samuel alone. Nothing selects 26:16 over any of the others."
+  },
+  {
+    "bomRef": "Alma 44:15",
+    "source": "Ezekiel 34:25",
+    "category": "better-source-identified",
+    "sharedText": "a covenant of peace",
+    "streams": ["machine-ngram"],
+    "reason": "The phrase is adjudicated one verse earlier, at Alma 44:14, where the three KJV owners of it are weighed and Numbers 25:12 is preferred to the two Ezekiel verses. 44:15 is the same covenant being entered rather than offered. See Alma 44:14."
+  },
+  {
+    "bomRef": "Alma 44:19",
+    "source": "Revelation 18:2",
+    "category": "wrong-sense",
+    "sharedText": "cried mightily",
+    "streams": ["manual"],
+    "reason": "'Cried mightily' is a KJV singleton and Zerahemnah's 'he cried mightily unto Moroni' looks like a quotation of it. It is not. Revelation 18:2 is an angel's proclamation of Babylon's fall 'with a strong voice' — an announcement made from a position of total authority — whereas Alma 44:19 is a beaten commander begging for the lives of his men. The KJV's petitionary form is Jonah 3:8's 'cry mightily unto God', which the Book of Mormon does not use here either; and 'cried mightily' occurs five times in the Book of Mormon, so it is the book's own idiom for urgent speech rather than a borrowing."
+  },
+  {
+    "bomRef": "Alma 44:21",
+    "source": "1 Kings 8:5",
+    "category": "common-vocabulary",
+    "sharedText": "could not be told nor numbered",
+    "streams": ["manual"],
+    "reason": "'The number of their dead were not numbered, because of the greatness of the number' is the KJV's uncountable-multitude idiom, which runs through eleven verses in the 'for multitude' family (Genesis 16:10, 1 Kings 3:8, 1 Kings 8:5 and others) and is a figure rather than a source. The Book of Mormon's version also inverts the usual application: in the KJV the uncountable thing is always a blessing — seed, a congregation, a people — and here it is a body count."
+  },
+  {
+    "bomRef": "Alma 44:22",
+    "source": "Exodus 15:5",
+    "category": "better-source-identified",
+    "sharedText": "the depths of the sea",
+    "streams": ["manual"],
+    "reason": "'They did cast their dead into the waters of Sidon; and they have gone forth, and are buried in the depths of the sea' invites Exodus 15:4-5, the drowned Egyptian army whose 'depths have covered them', and Micah 7:19, whose 'depths of the sea' receive what is disposed of for good. Both are adjudicated in this book at Alma 3:3 ('their bones are in the depths of the sea, and they are many'), which is the same author disposing of the same kind of dead in the same water. Fourteen Book of Mormon verses use the phrase; this is the formula recurring. See Alma 3:3."
+  }
+]

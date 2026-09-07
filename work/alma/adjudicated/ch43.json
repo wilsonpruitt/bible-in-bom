@@ -1,0 +1,243 @@
+{
+  "chapter": 43,
+  "adjudicated": "2026-09-07",
+  "adjudicator": "Opus",
+  "links": {
+    "43:17": [
+      {
+        "source": "2 Kings 14:2",
+        "type": "echo",
+        "subtype": "possible",
+        "confidence": "moderate",
+        "text": "He was twenty and five years old when he began to reign, and reigned twenty and nine years in Jerusalem. And his mother’s name was Jehoaddan of Jerusalem.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 4,
+          "sequence": 3,
+          "context": 4,
+          "rarity": 3,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "2 Kings 18:2",
+          "2 Chronicles 25:1",
+          "2 Chronicles 27:1"
+        ],
+        "provenance": {
+          "route": "the KJV regnal accession formula (2 Kings 14:2 and parallels) → KJV → Book of Mormon",
+          "other": "'Twenty and five years old' occurs in exactly seven KJV verses. One is the Levite service age (Numbers 8:24); the other six are the accession notices of four kings of Judah — Amaziah (2 Kings 14:2, 2 Chronicles 25:1), Hezekiah (2 Kings 18:2), Jehoiakim (2 Kings 23:36, 2 Chronicles 36:5) and Jotham (2 Chronicles 27:1). The longer shape 'X years old when he began to reign' runs to thirty-five verses and is the KJV's standard coronation formula. Modern versions read 'twenty-five'; the compound numeral is the KJV's idiom.",
+          "alternative": "The number may simply be the number, and the sentence a chronicler's ordinary way of giving an age.",
+          "significance": "The one biblical sentence-shape the KJV reserves for a man's age at accession is here spent on a man's age at *appointment* — 'he was only twenty and five years old when he was appointed Chief Commander' — in a polity that abolished kingship forty years earlier (Mosiah 29) and in a chapter that will insist, at 43:45, that these men 'were not fighting for monarchy nor power'. If the formula is heard, Moroni is introduced in the cadence of a Judahite coronation and then explicitly denied the thing the cadence announces. The 1830's 'Chief Commander' was changed to 'chief captain' in 1920, which flattens the singularity of the office the sentence is conferring."
+        },
+        "note": "'He was only twenty and five years old when he was appointed Chief Commander over the armies of the Nephites.' No clause is reproduced, but the syntax is the KJV's accession notice — age, then the verb of taking office, then the extent of the rule — and twenty-and-five is specifically the accession age of four kings of Judah and of nobody else in the Bible outside the Levite service law. The 'only' is the tell: it is an authorial gloss on a formula the sentence expects the reader to recognise, and the thing it apologises for is youth at a throne.",
+        "whyNot": "Regnal formulae are the commonest narrative furniture in Kings and Chronicles, and any writer imitating biblical English would produce this shape without meaning anything by it. Twenty-five is also a plausible age to invent for a young commander on its own.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "43:20": [
+      {
+        "source": "2 Chronicles 26:14",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "And Uzziah prepared for them throughout all the host shields, and spears, and helmets, and habergeons, and bows, and slings to cast stones.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "2 Chronicles 26:15"
+        ],
+        "recurrenceRefs": [
+          "Alma 43:18",
+          "Alma 43:19",
+          "Alma 43:21",
+          "Alma 43:38"
+        ],
+        "provenance": {
+          "route": "2 Chronicles 26:14 → KJV → Book of Mormon",
+          "other": "2 Chronicles 26:14 is the KJV's only armoury inventory. 'Slings to cast stones' occurs in exactly one verse; so does 'bows and slings'; so does 'helmets and habergeons'. 'Shields and spears' occurs in two, both in Chronicles (11:12 and 26:14). Nothing else in the Bible lists defensive and missile equipment together in one breath — Goliath's arming in 1 Samuel 17:5-7 describes one man, and Ephesians 6:13-17 is allegory.",
+          "significance": "The Book of Mormon takes the KJV's single equipment list and splits it between the two armies. Moroni's people get the protective half — 'breast-plates, and with arm-shields; yea, and also shields to defend their heads' (43:19), the last being a periphrasis for the helmets the list names — and Zerahemnah's get the missile half, 'their bows and their arrows, their stones and their slings.' Recover the source and the division is not neutral: 2 Chronicles 26:14 is what Uzziah prepared 'throughout all the host', and the next verse says he was 'marvellously helped, till he was strong. But when he was strong, his heart was lifted up to his destruction.' The KJV's one story of a king who out-equipped his enemies is a story about what winning by equipment does to the winner, and Alma 43 hands that equipment to the Nephites twenty-five verses before it starts explaining why their cause is better than their armour."
+        },
+        "note": "'They had only their swords, and their cimeters, their bows and their arrows, their stones and their slings.' Three of the four distinctive strings in 2 Chronicles 26:14 are KJV singletons, and Alma 43:18-21 reproduces the whole inventory across four verses, distributed between the two armies rather than assigned to one. The order survives the distribution: shields and body armour first (43:19), then bows, then stones-and-slings (43:20), which is 2 Chronicles 26:14's order exactly. The link is filed here because 43:20 carries the rarest element, the slings and the stones together; 43:18-19 and 43:21 are the same borrowing continued.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "43:30": [
+      {
+        "source": "Joshua 8:2",
+        "type": "figural",
+        "subtype": "structural",
+        "confidence": "moderate",
+        "text": "And thou shalt do to Ai and her king as thou didst unto Jericho and her king: only the spoil thereof, and the cattle thereof, shall ye take for a prey unto yourselves: lay thee an ambush for the city behind it.",
+        "evidence": {
+          "vocabulary": 2,
+          "syntax": 2,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 3,
+          "attestation": 0
+        },
+        "kjvSpecific": "no",
+        "mediation": "direct-OT",
+        "composite": [
+          "Joshua 8:4",
+          "Joshua 8:13",
+          "Joshua 8:14",
+          "Joshua 8:22"
+        ],
+        "recurrenceRefs": [
+          "Alma 43:27",
+          "Alma 43:31",
+          "Alma 43:32",
+          "Alma 43:34",
+          "Alma 43:35",
+          "Alma 43:52"
+        ],
+        "provenance": {
+          "route": "Joshua 8:1-22 → KJV → Book of Mormon",
+          "other": "There is almost no shared wording, and what there is is generic — 'on the west of the' is shared with Joshua 8:13 and is a compass direction. The Book of Mormon does not use 'ambush', 'ambushment' or 'liers in wait' anywhere in this chapter; it says 'secreted', 'concealed' and 'stratagem'. The case is structural.",
+          "alternative": "Judges 20:29-38 (the liers in wait at Gibeah) and 2 Samuel 5:23 ('fetch a compass behind them') are the KJV's other ambush narratives and could stand behind the same scene.",
+          "significance": "The theological problem the verse raises — is a concealed attack lawful? — has one biblical answer, and Joshua 8 is it: the LORD himself gives the order, 'lay thee an ambush for the city behind it.' Mormon writes 'he thought it no sin that he should defend them by stratagem' as though the thought needed defending, and the defence is available in the one place in scripture where the ambush is divinely commanded. The staging then follows Joshua 8 step for step: the army divided (8:3-4 / 43:31-32), one part concealed and one part visible, the enemy drawn past the concealed part (8:14-15 / 43:34-35), and the enemy taken 'in the midst' with Israel on both sides (8:22 / 43:52, 'the armies of Moroni encircled them about; yea, even on both sides'). Even the compass points are worked: at Ai the host is on the north of the city and the liers in wait on the west; at Riplah the Lamanites come up on the north of the hill and the remainder of Moroni's army is concealed in the west valley."
+        },
+        "note": "'He thought it no sin that he should defend them by stratagem.' Filed as figural because there is no wording to test, and filed at 43:30 rather than at the ambush itself because 43:30 is where the argument is: Mormon pauses the narrative to license a tactic, and Joshua 8 is the licence. The whole of 43:27-52 then runs the Ai sequence — divide, conceal, let the enemy pass, close from behind, surround — with the river Sidon doing the work Ai's gate does. The strongest evidence is the sequence score; the vocabulary score is honestly low and the row should be read as a proposal in the sense of CONVENTIONS §0a.",
+        "whyNot": "Ambush is a universal military manoeuvre and needs no literary source, and the chapter's own terms ('secreted', 'stratagem') are the ones Joshua 8 does not use. A reader who wants shared words will not find them here.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "43:45": [
+      {
+        "source": "Nehemiah 4:14",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "And I looked, and rose up, and said unto the nobles, and to the rulers, and to the rest of the people, Be not ye afraid of them: remember the LORD, which is great and terrible, and fight for your brethren, your sons, and your daughters, your wives, and your houses.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "2 Chronicles 20:13",
+          "Nehemiah 4:17"
+        ],
+        "recurrenceRefs": [
+          "Alma 43:9",
+          "Alma 43:26",
+          "Alma 43:47",
+          "Alma 43:48"
+        ],
+        "provenance": {
+          "route": "Nehemiah 4:14 → KJV → Book of Mormon",
+          "other": "'Fight for your brethren' occurs in exactly one KJV verse, and 'your wives and your houses' in the same one. The third-person string the Book of Mormon actually has, 'their wives, and their children', is itself a KJV singleton at 2 Chronicles 20:13 — so the wording is closest to Chronicles and the rhetorical act is Nehemiah's. Both are recorded here.",
+          "alternative": "2 Chronicles 20:13, whose 'their wives, and their children' is the exact string, though it describes people standing before the LORD rather than fighting for anybody.",
+          "significance": "Nehemiah 4:14 is the Bible's one sentence in which a leader names the things his people are fighting for, in a list, to men who are about to give way. Everything around it fits Alma 43 better than the string-match does: Nehemiah's people build with a weapon in the other hand (4:17), they are outnumbered, and they are defending a place rather than taking one. Alma 43 supplies its list three times — 'their lands, and their houses, and their wives, and their children' (43:9), 'their lands and their country, their rights and their liberties' (43:26), 'their homes, and their liberties, their wives, and their children, and their all' (43:45) — and then, at 43:48, gives Moroni Nehemiah's own moment: the men 'were about to shrink and flee from them', and the commander speaks to their hearts and turns them. What the Book of Mormon adds to the list is the two items Nehemiah has no word for, 'their liberties' and 'their rites of worship'."
+        },
+        "note": "'They were fighting for their homes, and their liberties, their wives, and their children, and their all; yea, for their rites of worship, and their church.' The list is the argument, and the KJV has one list like it. Two of Nehemiah 4:14's phrases are singletons and both of them are list-items of the same kind the verse is enumerating; the Book of Mormon's version keeps the shape, converts the pronouns to third person (where 2 Chronicles 20:13 supplies the exact string), and extends the list past what a fifth-century wall-builder could have said into liberty and worship. Filed at 43:45 because that is where the list is fullest and where it is explicitly a *reason for fighting*; 43:9, 43:26 and 43:47 are the same borrowing at lower resolution.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "43:49": [
+      {
+        "source": "Exodus 24:3",
+        "type": "allusion",
+        "subtype": "paraphrase",
+        "confidence": "moderate",
+        "text": "And Moses came and told the people all the words of the LORD, and all the judgments: and all the people answered with one voice, and said, All the words which the LORD hath said will we do.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 4,
+          "context": 4,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "recurrenceRefs": [
+          "Mosiah 4:2",
+          "Mosiah 5:2"
+        ],
+        "provenance": {
+          "route": "Exodus 24:3 → KJV → Book of Mormon",
+          "other": "'With one voice' occurs in exactly two KJV verses: Exodus 24:3, where Israel ratifies the covenant, and Acts 19:34, where the Ephesian mob shouts for Diana for two hours. 'Answered with one voice' is a singleton at Exodus 24:3. The phrase enters the Book of Mormon at Mosiah 4:2, where it is adjudicated against the same verse; this is its first use in Alma.",
+          "alternative": "Acts 19:34 — a crowd crying out in one voice, which is closer to what an army does than to what a congregation does.",
+          "significance": "The covenant reading is available here in a way it is not everywhere the phrase recurs, because Mormon has just, three verses earlier, quoted the terms: 'the Lord had said unto them, and also unto their fathers, That inasmuch as ye are not guilty of the first offence, neither the second, ye shall not suffer yourselves to be slain' (43:46), and 'The Lord hath said That ye shall defend your families' (43:47). That is the structure of Exodus 24:3 — the words of the LORD recited, then the people answering with one voice — with the answer converted from assent into a battle-cry. What Israel says at Sinai is 'all the words which the LORD hath said will we do'; what Moroni's army says is nothing, it simply cries 'for their liberty, and their freedom from bondage', and the doing is the fighting."
+        },
+        "note": "'They cried with one voice unto the Lord their God, for their liberty, and their freedom from bondage.' The phrase is adjudicated at Mosiah 4:2 and the argument for Exodus 24:3 over Acts 19:34 is made there; it is given again here because this is its first appearance in Alma and because the immediate setting supplies something Mosiah's did not — a recitation of the LORD's words at 43:46-47 immediately before the one-voiced answer, which is Exodus 24:3's own sequence and not merely its phrase.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "43:50": [
+      {
+        "source": "Matthew 8:13",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "And Jesus said unto the centurion, Go thy way; and as thou hast believed, so be it done unto thee. And his servant was healed in the selfsame hour.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "Matthew 8:13 → KJV → Book of Mormon",
+          "other": "'Selfsame hour' occurs in exactly one KJV verse. 'Selfsame' itself occurs in fifteen, and every other one of them is 'selfsame day' — the circumcision of Abraham, the exodus, the feast days, the day Moses is told to climb Nebo. The hour is Matthew 8:13's alone. The phrase occurs once in the whole Book of Mormon, here; the 1830 hyphenates it, 'self-same hour', and 1920 closed it up to the KJV's spelling.",
+          "significance": "Recover the context and the KJV's one 'selfsame hour' is the hour in which a centurion's servant is healed at a distance, without the healer going to the house, because the centurion has argued from military command to divine command — 'I say to this man, Go, and he goeth' — and been told that no such faith has been found in Israel. Alma 43:50 is the answer to that verse from the other side of the transaction: here it is the soldiers, not the officer, who ask; the effect is again instantaneous and again at a distance from the one who grants it; and what turns in the selfsame hour is a battle. The Book of Mormon's one use of the New Testament's timestamp for faith answered without delay is spent on an army that cries out and is not touched, only relieved."
+        },
+        "note": "'In that self-same hour that they cried unto the Lord for their freedom, the Lamanites began to flee before them.' A two-word borrowing from a KJV singleton, used once in the Book of Mormon, and used to do exactly what it does in Matthew — mark the coincidence of a petition and its effect, with nothing in between. The clause is also the chapter's theological hinge: 43:44-48 has just conceded that the Lamanites fought better and that the Nephites were about to break, so the reversal cannot be attributed to arms, and the phrase that attributes it instead is the Gospel's phrase for a cure granted on a soldier's word.",
+        "bibliography": [],
+        "status": "novel",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ]
+  }
+}

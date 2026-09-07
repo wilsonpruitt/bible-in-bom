@@ -1,0 +1,293 @@
+{
+  "chapter": 42,
+  "adjudicated": "2026-09-07",
+  "adjudicator": "Opus",
+  "links": {
+    "42:2": [
+      {
+        "source": "Genesis 3:24",
+        "type": "quotation",
+        "subtype": "extended",
+        "confidence": "certain",
+        "text": "So he drove out the man; and he placed at the east of the garden of Eden Cherubims, and a flaming sword which turned every way, to keep the way of the tree of life.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 5
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Genesis 3:23"
+        ],
+        "recurrenceRefs": [
+          "Alma 12:21",
+          "2 Nephi 2:19"
+        ],
+        "variants": [
+          "1830 'from whence he was taken' → 1920 'from whence they were taken'",
+          "1830 'Cherubims' → 1920 'cherubim'"
+        ],
+        "provenance": {
+          "route": "Genesis 3:23-24 → KJV → Book of Mormon",
+          "other": "“flaming sword which turned every way” occurs in exactly one KJV verse and “drove out the man” occurs in exactly one; both are Genesis 3:24. “till the ground from whence he was taken” occurs in exactly one KJV verse, Genesis 3:23. The unbroken run from 'Cherubims' to 'tree of life' is seventeen words, which clears Skousen's sixteen-word threshold — one of the few places in this letter that does.",
+          "significance": "The 1830 reading is the evidence, and 1920 destroyed it. Alma 42:2's subject is plural — 'our first parents' — but the first edition continues 'to till the ground, from whence HE WAS taken', which is Genesis 3:23's singular pronoun surviving into a sentence whose grammar cannot support it. The 1920 edition repaired it to 'they were', and in doing so erased the one mark that shows the sentence was assembled out of a verse about one man. This is the mirror image of the usual §8 case: here a later editor moved the text AWAY from its source in order to make it read, and only the running text of this catalogue preserves the seam. Two further departures point the same way. The KJV has 'the east of the garden'; the Book of Mormon has 'the east END of the garden', and the only KJV 'east end' is the altar in 2 Chronicles 5:12. And Genesis keeps the cherubim to guard 'the way of the tree of life' — the road, not the tree — while Alma drops 'the way of' and has them keep the tree itself, which is what his argument requires, since 42:3-5 turns on Adam being physically prevented from eating."
+        },
+        "note": "A seventeen-word run out of Genesis 3:24 preceded by fifteen out of 3:23, with the KJV's own singular pronoun left standing in a plural sentence. Alma has been here before: at 12:21 Antionah threw Genesis 3:24 at him as an objection and he answered it publicly, but the phrasing there is a paraphrase ('God placed Cherubims and a flaming sword on the east of the garden of Eden'). This is where the verse is actually quoted, and CONVENTIONS §6a puts the link where the wording is. Hardy's apparatus cross-references Genesis 3:24 at this verse. Two deliberate-looking departures survive every edition: 'drew out the man' for the KJV's 'drove out', and cherubim who keep the tree rather than the way to it.",
+        "bibliography": [
+          "Hardy MSI at Alma 42.2 (Genesis 3:24)"
+        ],
+        "status": "consensus",
+        "streams": [
+          "scholarship",
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "42:3": [
+      {
+        "source": "Genesis 3:22",
+        "type": "quotation",
+        "subtype": "extended",
+        "confidence": "certain",
+        "text": "And the LORD God said, Behold, the man is become as one of us, to know good and evil: and now, lest he put forth his hand, and take also of the tree of life, and eat, and live for ever:",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 5
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "Genesis 3:5"
+        ],
+        "recurrenceRefs": [
+          "Alma 12:23",
+          "Alma 12:31",
+          "Mosiah 16:3"
+        ],
+        "variants": [
+          "1830 'had became as God' → 1920 'had become as God'"
+        ],
+        "provenance": {
+          "route": "Genesis 3:22 → KJV → Book of Mormon",
+          "other": "“put forth his hand and take also” occurs in exactly one KJV verse, Genesis 3:22, and the sixteen-word run from 'lest he should put forth his hand' to 'live forever' departs from it in one word. “as one of us” occurs in exactly one KJV verse, the same one. The Book of Mormon's 'as God' occurs there in no form; the nearest KJV phrasing is Genesis 3:5's 'ye shall be as gods, knowing good and evil', which supplies the plural the Book of Mormon has made singular.",
+          "significance": "The one substitution in an otherwise verbatim sentence is a theological correction, and it is made in the direction the Book of Mormon consistently goes. Genesis 3:22 has the LORD say 'the man is become as ONE OF US' — the KJV's plural of divine deliberation, a verse the whole history of Christian exegesis has had to manage. Alma writes 'the man had became as God', which removes the plurality and with it the exegetical problem. Note that he does not simply take the serpent's version either: Genesis 3:5's promise is 'ye shall be as GODS, knowing good and evil', plural again, and the Book of Mormon's singular matches neither verse. What it does match is the Book of Mormon's own settled reading of Genesis 3, made twice before — Mosiah 16:3 and Alma 12:31, both of which say 'knowing good and evil' with a singular divine referent. So the fall's outcome is reported in Genesis's exact words with Genesis's one grammatical embarrassment quietly removed."
+        },
+        "note": "Sixteen consecutive words of Genesis 3:22, and the departure is the interesting part: 'as one of us' becomes 'as God'. Alma had made the same argument publicly at 12:23 and 12:31 without quoting the verse this closely; here, writing to his son, he lays the whole text out. Hardy's apparatus cross-references Genesis 3:22-24 at this verse. 1830 reads 'had became', which 1920 corrected to 'had become' — the KJV's own participle, so the later edition moved toward the source, unlike the repair it made in the previous verse.",
+        "bibliography": [
+          "Hardy MSI at Alma 42.3 (Genesis 3:22-24)"
+        ],
+        "status": "consensus",
+        "streams": [
+          "scholarship",
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "42:5": [
+      {
+        "source": "Revelation 2:21",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "text": "And I gave her space to repent of her fornication; and she repented not.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 2,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "Revelation 2:21 → KJV → Book of Mormon",
+          "other": "“space to repent” occurs in exactly one KJV verse, Revelation 2:21, and it is the KJV's only use of 'space' to mean an interval granted for repentance. The Book of Mormon nominalizes it — 'having no space for repentance' — a form that occurs in no KJV verse. Alma 12:24 has the same idea in looser words, 'a space granted unto man, in which he might repent', and was not adjudicated to this source there.",
+          "significance": "In Revelation the space to repent is given to Jezebel of Thyatira and refused; here it is the whole point of the expulsion from Eden, which Alma is arguing was a mercy. The recovered context sharpens the argument he is making to a son who has sinned and not yet repented: 2:21's sentence continues 'and she repented not', and 2:22 is what follows for those who do not. Alma 42's case is that the interval exists at all — that Adam was prevented from eating precisely so that there would be a space — and the KJV's one phrase for such an interval carries with it a story about someone who was given one and wasted it. The letter's last word to Corianton, at 42:29-30, is that he should let his sins trouble him now."
+        },
+        "note": "'Having no space for repentance.' The KJV grants a 'space to repent' exactly once, at Revelation 2:21, and Alma's clause is that phrase turned into a noun. Held at moderate rather than higher because only two words are shared and 'space' in the sense of an interval of time is ordinary English; but the collocation of space with repentance is not ordinary in the KJV, it occurs in one verse only, and Alma builds a doctrine on it — the probationary time of 42:4 is that space, given a name.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "42:10": [
+      {
+        "source": "James 3:15",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "This wisdom descendeth not from above, but is earthly, sensual, devilish.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 5,
+          "context": 4,
+          "rarity": 5,
+          "attestation": 1
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "recurrenceRefs": [
+          "Mosiah 16:3"
+        ],
+        "provenance": {
+          "route": "James 3:15 → KJV → Book of Mormon",
+          "other": "“sensual, devilish” occurs in exactly one KJV verse, James 3:15, which is also the KJV's only occurrence of 'sensual' in this list-form (Jude 1:19 has 'sensual, having not the Spirit'). Mosiah 16:3, the Book of Mormon's earlier use, reads 'carnal and devlish' in 1830 without 'sensual'; Alma 42:10 is the first place in the book where the full triad appears.",
+          "significance": "James's three adjectives describe a WISDOM — 'this wisdom descendeth not from above' — and they are a judgment on a way of knowing, made in a passage about bitter envying and strife among teachers. Alma applies them to a nature rather than a wisdom, and swaps the first: 'earthly' becomes 'carnal'. The substitution is doing theological work, because 'earthly' locates the fault in a place and 'carnal' locates it in the flesh, which is what a doctrine of the Fall needs. The argument for the borrowing, as against the Book of Mormon simply having a stock phrase, is that Mosiah 16:3 has the pair without the middle term and this verse has all three in James's order; the formula is filling out toward its source rather than wearing down away from it."
+        },
+        "note": "'As they had become carnal, sensual and devilish, by nature.' The last two words are a KJV singleton pair belonging to James 3:15, in James's order, with 'earthly' exchanged for 'carnal'. The link was made across the book boundary at Mosiah 16:3, but the 1830 text there reads only 'carnal and devlish' — this is the first appearance of the complete triad, and 'sensual' is the word that makes James unavoidable, since it appears nowhere else in the Book of Mormon's fall vocabulary and only twice in the KJV.",
+        "bibliography": [],
+        "status": "majority",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "42:15": [
+      {
+        "source": "Isaiah 45:21",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "moderate",
+        "text": "Tell ye, and bring them near; yea, let them take counsel together: who hath declared this from ancient time? who hath told it from that time? have not I the LORD? and there is no God else beside me; a just God and a Saviour; there is none beside me.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 4,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "provenance": {
+          "route": "Isaiah 45:21 → KJV → Book of Mormon",
+          "other": "“just God” occurs in exactly one KJV verse, Isaiah 45:21, and so does the construction “a just God and a —”. The KJV has 'a just man' and 'the just God of Israel' nowhere in this form; the pairing of justice with a second divine title in one breath is unique to this verse.",
+          "significance": "This is the metalepsis the chapter is built to need. Isaiah 45:21 completes the phrase one way — 'a just God AND A SAVIOUR' — and Alma 42:15 completes it the other: 'that God might be a perfect, just God, and a merciful God'. Everything between 42:13 and 42:25 is an argument that those two completions are the same completion, that the God who cannot let justice be destroyed is the God who saves, and that the atonement is what makes the conjunction possible rather than a contradiction. The KJV's one verse holding the two words together is the verse Alma's whole argument is a commentary on, and the next line of Isaiah is 'Look unto me, and be ye saved, all the ends of the earth'. Held at moderate because the shared run is four words and could be reached without Isaiah; but four words that occur in one KJV verse, in a sentence whose subject is precisely the compatibility of those words, is not nothing."
+        },
+        "note": "'That God might be a perfect, just God, and a merciful God.' The KJV says 'a just God and a' exactly once, at Isaiah 45:21, where the second term is 'Saviour'. Alma substitutes 'merciful' and spends the surrounding fifteen verses arguing that the substitution is not one — that mercy and justice meet in the atonement, so that the God who is just is thereby the one who saves. Moderate rather than high because the phrase is short and 'just God' is a natural English collocation; what argues for the link is that it is not a natural KJV one.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "42:27": [
+      {
+        "source": "Revelation 22:17",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "And the Spirit and the bride say, Come. And let him that heareth say, Come. And let him that is athirst come. And whosoever will, let him take the water of life freely.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 5,
+          "context": 4,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Revelation 21:6"
+        ],
+        "recurrenceRefs": [
+          "Alma 5:34"
+        ],
+        "provenance": {
+          "route": "Revelation 22:17 → KJV → Book of Mormon",
+          "other": "“water of life freely” occurs in exactly two KJV verses, Revelation 21:6 and 22:17, and only 22:17 has 'whosoever will' attached to it. The Book of Mormon reads 'waters' plural, which is in neither.",
+          "significance": "Alma 5:34 already had 'the waters of life freely', and this catalogue adjudicated it there; but 5:34 has only the phrase, and 42:27 has the sentence. Revelation 22:17's structure is an invitation repeated three times and then made universal — Come, Come, let him that is athirst come, and whosoever will, let him take — and Alma reproduces both halves of that structure and then adds the half Revelation leaves unspoken: 'and whosoever will not come, the same is not compelled to come.' That negative clause is the reason the verse is here rather than in the register as a recurrence of 5:34. The whole chapter has been arguing that the sinner is not the victim of a sentence but the author of one, and the last thing it does with the Bible's most open invitation is to spell out its converse, which the Bible does not. Compare Hays on metalepsis: the meaning is in what the borrowing declines to leave suppressed."
+        },
+        "note": "'Whosoever will come, may come, and partake of the waters of life freely; and whosoever will not come, the same is not compelled to come.' Revelation 22:17 is the only KJV verse that joins 'whosoever will' to the water of life freely given, and Alma 5:34 — where this catalogue placed the link for the phrase alone — has neither the 'whosoever' nor the repeated 'come'. This is the verse where the source's sentence is reproduced, so it gets a row rather than a register entry, and what it adds is the express negative: the invitation is unconditional and so is the freedom to refuse it.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      },
+      {
+        "source": "Romans 2:6",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "text": "Who will render to every man according to his deeds:",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "provenance": {
+          "route": "Romans 2:6 → KJV → Book of Mormon",
+          "other": "“according to his deeds” occurs in exactly one KJV verse, Romans 2:6. The KJV's other renderings of the same principle read 'according to their works' (Revelation 20:12-13, adjudicated in this book at Alma 3:26, 11:41 and 40:21) or 'according to his ways' (Jeremiah 17:10, Ezekiel 33:20); 'deeds' in this construction is Paul's alone.",
+          "significance": "Alma has used the 'according to their works' formula throughout — three chapters earlier at 40:21, and again five verses before this one at 42:23 — and here, at the closing of the argument, he changes the noun. Romans 2 is the chapter where the change matters: 2:5 has the impenitent heart 'treasuring up unto thyself wrath against the day of wrath', and 2:6 is the verse that follows it. That is the sentence Alma 42:28 goes on to write in his own words — 'if he hath desired to do evil, and hath not repented in his days, behold, evil shall be done unto him' — and the point of Romans 2 is that the judgment is not an imposition but the sinner's own store, opened. Which is Alma 41-42's entire doctrine of restoration."
+        },
+        "note": "'In the last day, it shall be restored unto him, according to his deeds.' A KJV singleton, and a deliberate-looking departure from the 'according to their works' formula this letter has used twice already. Held at moderate because four words is a short run and the shift from 'works' to 'deeds' could be stylistic; what argues for Romans is that the verse immediately before it, on wrath treasured up by an impenitent heart, is what Alma 42:28 says next.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "42:31": [
+      {
+        "source": "Acts 26:25",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "But he said, I am not mad, most noble Festus; but speak forth the words of truth and soberness.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 1
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "recurrenceRefs": [
+          "Jacob 6:5",
+          "Mosiah 4:15",
+          "Alma 53:21"
+        ],
+        "provenance": {
+          "route": "Acts 26:25 → KJV → Book of Mormon",
+          "other": "“truth and soberness” occurs in exactly one KJV verse, Acts 26:25. Every Book of Mormon occurrence — Jacob 6:5, Mosiah 4:15, Alma 42:31 and 53:21 — reproduces the pair exactly, and Alma 42:31 keeps Paul's verb of utterance as well: 'declare the word with truth and soberness' against 'speak forth the words of truth and soberness'.",
+          "significance": "Paul says it to Festus, who has just shouted that Paul is mad — 'much learning doth make thee mad' — and it is a defence of the sanity of preaching resurrection to a hostile court. Alma is commissioning a son to go and preach after a letter that has spent three chapters on the resurrection and the justice of God, and the two words he chooses are the two Paul used when the doctrine was called insane. The recovered context supplies the anxiety the commission does not state: Corianton has already failed once at this work (Alma 39:3), and the charge is not merely to preach but to be credible. 'Soberness' is the KJV's word for that, and it exists there in one verse."
+        },
+        "note": "'Go thy way, declare the word with truth and soberness.' A KJV singleton, and this is its fourth appearance in the Book of Mormon; the argument for the pair as a borrowing was made at Mosiah 4:15 and it is a different narrator's voice here, so ADJUDICATING §4's across-a-book rule gives the row rather than a register entry. What Alma 42:31 adds is the verb: Paul 'speaks forth the words of truth and soberness' and Alma tells his son to 'declare the word with truth and soberness', which is nearer to Acts than the Jacob and Mosiah occurrences, both of which use the pair as a quality of persons or of a path rather than of speech.",
+        "bibliography": [],
+        "status": "majority",
+        "citationsPending": true,
+        "streams": [
+          "manual"
+        ]
+      }
+    ]
+  }
+}

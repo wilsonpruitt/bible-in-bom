@@ -1,0 +1,33 @@
+[
+  {
+    "bomRef": "Alma 51:7",
+    "source": "1 Samuel 8:7",
+    "category": "better-source-identified",
+    "sharedText": "the voice of the people",
+    "streams": [
+      "machine-ngram",
+      "manual"
+    ],
+    "reason": "A KJV singleton, the n-gram stream's top candidate for this verse, and adjudicated three times already — at Mosiah 7:9 for the phrase's first substantial use, at Mosiah 29:2 where it returns to its source as Mosiah abolishes the kingship, and at Alma 2:7 where the voice of the people first decides a question the other way by refusing to make Amlici king. Alma 51:7 is that same decision a second time, and the narrator's formula rather than a fresh borrowing: 'the voice of the people came in the favor of the freemen', against a party whose object was 'to establish a king over the land' (51:5). Registered rather than linked because a reader of this chapter should be sent to Alma 2:7, where the argument about a people voting down a king is made, and to Mosiah 29:2 for Samuel's own verse. The Alma 46:34 row does the same for Moroni's oath."
+  },
+  {
+    "bomRef": "Alma 51:20",
+    "source": "Nehemiah 4:14",
+    "category": "better-source-identified",
+    "sharedText": "the standard of liberty … the title of liberty",
+    "streams": [
+      "manual"
+    ],
+    "reason": "The title of liberty is Alma 46's, not this chapter's: Moroni's rent coat, the writing on it, and the biblical language behind them are adjudicated at Alma 46:12 (Nehemiah 4:14 and Ahijah's rent garment at 1 Kings 11:30), 46:13 and 46:22. Alma 51:20's 'yielded to the standard of liberty, and were compelled to hoist the title of liberty upon their towers' is the ensign five chapters later, doing the work the earlier chapter set up — the coerced hoisting is the narrative point, and it has no new biblical contact. Registered so that a reader meeting the title here is sent to where it was raised."
+  },
+  {
+    "bomRef": "Alma 51:30",
+    "source": "1 Kings 21:15",
+    "category": "common-vocabulary",
+    "sharedText": "take possession of the",
+    "streams": [
+      "machine-ngram"
+    ],
+    "reason": "A four-word run against a KJV singleton, and the association is apt enough to be worth refusing in writing. 'Take possession of the' occurs only at 1 Kings 21:15, Jezebel's instruction to Ahab to go down and take Naboth's vineyard now that Naboth has been judicially murdered — the Bible's paradigm of seizing land by killing for it. Amalickiah is taking cities by killing for them. But 'take possession' in its other inflections is ordinary KJV and ordinary English (Joshua 22:19, 1 Kings 21:16), the object here is a province and not a vineyard, and there is no second point of contact anywhere in the chapter: no false witness, no fasting proclaimed, no dogs, no prophet sent afterward. The rarity is a fact about the KJV's inflections, not about this sentence."
+  }
+]

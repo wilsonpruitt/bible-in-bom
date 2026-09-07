@@ -1,0 +1,220 @@
+{
+  "chapter": 41,
+  "adjudicated": "2026-09-07",
+  "adjudicator": "Opus",
+  "links": {
+    "41:1": [
+      {
+        "source": "2 Peter 3:16",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "high",
+        "text": "As also in all his epistles, speaking in them of these things; in which are some things hard to be understood, which they that are unlearned and unstable wrest, as they do also the other scriptures, unto their own destruction.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 3,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "2 Peter 3:17"
+        ],
+        "variants": [
+          "1830 'arrested' → 1920 'wrested'"
+        ],
+        "provenance": {
+          "route": "2 Peter 3:16 → KJV → Book of Mormon",
+          "other": "“wrest” occurs in exactly five KJV verses. Four are the judicial prohibition — Exodus 23:2, 23:6, Deuteronomy 16:19, and Psalm 56:5's 'every day they wrest my words' — and only 2 Peter 3:16 takes the scriptures as its object. “wrested” occurs in no KJV verse.",
+          "significance": "This is where the borrowing is visible in the mechanics of the book. The 1830 first edition reads 'some have arrested the Scriptures', which is not English and not the KJV; 1920 reads 'wrested', which is. The correction moves the text toward its source rather than away from it, which is the signature CONVENTIONS §8 asks to be recorded — a compositor or a dictating voice lost the KJV word and a later editor restored it. Recover 2 Peter 3 and it supplies the rest of Alma's sentence too: the wresters there are 'unlearned and unstable' and they do it 'unto their own destruction', which is Alma's 'have gone far astray'; and 3:17 warns the beloved to 'beware lest ye also, being led away with the error of the wicked, fall from your own stedfastness', which is the exact posture of a father writing to a son who has been unsettled by a doctrine. The chapter before has already used this chapter of 2 Peter at Alma 40:8, for the one-day-with-God sentence, so Alma 40-41 draws on 2 Peter 3 twice, at its beginning and at its end."
+        },
+        "note": "'Some have arrested the Scriptures, and have gone far astray, because of this thing.' The KJV has exactly one verse in which the scriptures are wrested, and it is the verse that also supplies the consequence — those who do it go 'unto their own destruction'. The 1830 reading 'arrested' is the interesting datum: it is not a word, and 1920's 'wrested' restores the KJV's. A modern reader sees the borrowing plainly and a reader of the first edition does not. The link also converts Alma 40:8's 2 Peter 3:8 echo from an isolated commonplace into a recurrence: the same short chapter of the New Testament stands behind a sentence near the start of Alma 40 and a sentence in the first line of Alma 41.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "41:7": [
+      {
+        "source": "Romans 14:4",
+        "type": "allusion",
+        "subtype": "strong-verbal",
+        "confidence": "high",
+        "text": "Who art thou that judgest another man’s servant? to his own master he standeth or falleth. Yea, he shall be holden up: for God is able to make him stand.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Isaiah 44:9"
+        ],
+        "provenance": {
+          "route": "Romans 14:4 → KJV → Book of Mormon, with Isaiah 44:9's construction in the following clause",
+          "other": "“standeth or falleth” occurs in exactly one KJV verse, Romans 14:4. “they are their own” occurs in exactly one KJV verse, Isaiah 44:9 — 'they are their own witnesses' — and the Book of Mormon changes the noun to 'judges'. “their own judges” occurs in no KJV verse.",
+          "significance": "Two consecutive clauses, two KJV rarities, and both of them about who is entitled to pass judgment. Romans 14:4 is a rebuke of the man who judges his neighbour: standing and falling are between a servant and his own master and nobody else's business. Alma keeps the phrase and removes the master — 'thus they stand or fall; for behold, they are their own judges' — which is the doctrine of the whole chapter, that restoration is not a sentence imposed but a disposition returned. And the clause that says so is built on the KJV's one occurrence of 'they are their own', where Isaiah's idolaters are their own witnesses against themselves. Witness becomes judge, and the substitution is the argument: in Isaiah the makers of images testify against themselves unknowingly, and in Alma the wicked pass the sentence themselves. Note also what Romans 14:4 refuses to concede and Alma does not quote — 'Yea, he shall be holden up: for God is able to make him stand.'"
+        },
+        "note": "'Thus they stand or fall; for behold, they are their own judges, whether to do good or do evil.' Two KJV singletons in adjacent clauses. 'Standeth or falleth' belongs to Romans 14:4 alone, where it is an argument against judging other people; 'they are their own —' belongs to Isaiah 44:9 alone, where the completion is 'witnesses'. Alma completes it with 'judges', which is precisely the substitution his doctrine needs, and the machine stream saw the second of these and not the first, because 'stand or fall' is not the KJV's inflection.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "41:11": [
+      {
+        "source": "Acts 8:23",
+        "type": "quotation",
+        "subtype": "close-verbal",
+        "confidence": "certain",
+        "text": "For I perceive that thou art in the gall of bitterness, and in the bond of iniquity.",
+        "evidence": {
+          "vocabulary": 5,
+          "syntax": 5,
+          "sequence": 5,
+          "context": 5,
+          "rarity": 5,
+          "attestation": 2
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Ephesians 2:12"
+        ],
+        "recurrenceRefs": [
+          "Mosiah 27:29",
+          "Mosiah 27:31",
+          "Alma 36:18"
+        ],
+        "provenance": {
+          "route": "Acts 8:23 → KJV → Mosiah 27:29 → Alma 41:11; 'without God in the world' from Ephesians 2:12 by way of Mosiah 27:31",
+          "other": "“gall of bitterness” occurs in exactly one KJV verse and “bond of iniquity” occurs in exactly one; both are Acts 8:23. “without God in the world” occurs in exactly one KJV verse, Ephesians 2:12. The Book of Mormon reads 'bonds' plural, which is in no KJV verse; “bonds of iniquity” occurs in no KJV verse.",
+          "significance": "The plural settles the route. Acts 8:23 has 'the bond of iniquity', singular; Mosiah 27:29 has 'the gall of bitterness and bonds of iniquity', plural; Alma 41:11 has 'the bonds of iniquity', plural. So the proximate model here is not the KJV but Alma's own conversion speech, and the same is true of the second half of the verse — 'without God in the world' is Ephesians 2:12's singleton, and it appears in Mosiah 27:31, two verses after the gall of bitterness, in the same speech. Alma 41:11 reproduces a pair of phrases in the order and the wording in which he first used them of himself. The generalization is the point: what he said in Mosiah 27 was a diagnosis of one man, and what he says here is the standing condition of 'all men that are in a state of nature'. He is telling Corianton that the state he is describing is the state he was in. And the Acts context is live three verses earlier as well: Alma 40:13's 'no part nor portion of the spirit of the Lord' answers to Acts 8:21, from the same speech of Peter's to Simon Magus, which makes each of the two proposals evidence for the other."
+        },
+        "note": "'In the gall of bitterness, and in the bonds of iniquity; they are without God in the world.' Two KJV singletons from two books, and the argument for the borrowing was made at Mosiah 27:29 and 27:31. What this verse adds is the route and the enlargement. The route is visible in a single letter — Acts has 'bond', the Book of Mormon has 'bonds', and Mosiah 27:29 is where the plural is coined — so the KJV is the ultimate source and Alma's own testimony is the proximate one. The enlargement is that Peter's accusation against one man, which Alma had applied to himself, is now the definition of the natural state of every man. The schema has no `mediation` value for a New Testament source reaching a verse through an earlier Book of Mormon passage; `OT-via-earlier-BoM` is the nearest and is wrong about the testament, so this is recorded as `direct-NT` with the route spelled out in provenance.",
+        "bibliography": [],
+        "status": "consensus",
+        "citationsPending": true,
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "41:13": [
+      {
+        "source": "1 Peter 3:9",
+        "type": "allusion",
+        "subtype": "close-verbal",
+        "confidence": "moderate",
+        "text": "Not rendering evil for evil, or railing for railing: but contrariwise blessing; knowing that ye are thereunto called, that ye should inherit a blessing.",
+        "evidence": {
+          "vocabulary": 4,
+          "syntax": 4,
+          "sequence": 3,
+          "context": 5,
+          "rarity": 3,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Romans 12:17",
+          "1 Thessalonians 5:15"
+        ],
+        "provenance": {
+          "route": "1 Peter 3:9 → KJV → Book of Mormon",
+          "other": "“evil for evil” occurs in exactly three KJV verses — Romans 12:17, 1 Thessalonians 5:15 and 1 Peter 3:9 — and every one of the three forbids it. 1 Peter 3:9 is the only one that continues the construction into a second pair, 'evil for evil, or railing for railing', which is the shape Alma's sentence has.",
+          "significance": "The most productive inversion in the chapter. In the KJV 'evil for evil' exists only as something Christians are told not to do; Alma makes it the definition of what God's restoration does do — 'to bring back again evil for evil, or carnal for carnal, or devilish for devilish' — and then, in the very next verse, draws the KJV's own conclusion from it: 'therefore, my son, see that ye are merciful unto your brethren'. That is 1 Thessalonians 5:15's 'See that none render evil for evil' with its imperative kept and its logic reversed. Paul and Peter forbid retaliation because vengeance belongs to God; Alma forbids it because retaliation is the mechanism of the judgment and you will receive what you send. The doctrine that looks least like the New Testament here is stated in the New Testament's words, and the ethical conclusion drawn from it is the New Testament's conclusion."
+        },
+        "note": "'The meaning of the word restoration, is to bring back again evil for evil, or carnal for carnal, or devilish for devilish.' The KJV's three 'evil for evil' verses are all prohibitions, and 1 Peter 3:9 is the one that runs the phrase into a second pair on the same pattern. Held at moderate rather than high because the phrase is short and its sense here is opposed to all three sources — but the opposition is exactly what makes the case, since Alma 41:14 immediately restates the prohibition ('see that ye are merciful … deal justly') as the consequence of the doctrine he has just built out of its words.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "machine-ngram",
+          "manual"
+        ]
+      }
+    ],
+    "41:14": [
+      {
+        "source": "Micah 6:8",
+        "type": "allusion",
+        "subtype": "paraphrase",
+        "confidence": "moderate",
+        "text": "He hath shewed thee, O man, what is good; and what doth the LORD require of thee, but to do justly, and to love mercy, and to walk humbly with thy God?",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 4,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-OT",
+        "composite": [
+          "John 7:24"
+        ],
+        "provenance": {
+          "route": "Micah 6:8 → KJV → Book of Mormon, with John 7:24 supplying the third member",
+          "other": "“do justly” occurs in exactly one KJV verse and “love mercy” occurs in exactly one; both are Micah 6:8. “judge righteous judgment” occurs in exactly one KJV verse, John 7:24, which is adjudicated at Mosiah 29:29. tools/mediation-check.py was run on Alma 41:14 against Micah 6:8 and John 7:24 and reports no decisive divergence — correctly, because the two are not rival forms of one text but contributors of different clauses, which is a case the tool is not built for.",
+          "significance": "Micah's triad is the KJV's most compact summary of what is required of a man, and Alma reproduces two-thirds of it in Micah's order with the mercy and justice reversed: 'see that ye are merciful unto your brethren; deal justly, judge righteously, and do good continually'. Where Micah's third member is walking humbly with God, Alma's is judging righteously — a horizontal duty in place of a vertical one — and the phrase for it is John 7:24's, the KJV's only 'righteous judgment'. That substitution is required by the argument: the chapter has just made every man his own judge (41:7), so the third thing required of him is not humility before God but competence as a judge. The next verse then supplies the sanction, in Matthew 7:2's words."
+        },
+        "note": "'See that ye are merciful unto your brethren; deal justly, judge righteously, and do good continually.' Two KJV singletons from Micah 6:8 stand behind the first two members — 'do justly' and 'love mercy' occur nowhere else — and the Book of Mormon exchanges Micah's third, walking humbly with God, for John 7:24's 'judge righteous judgment'. Held at moderate because the wording is adjusted throughout ('deal justly' for 'do justly', 'merciful' for 'love mercy') and the triad of justice, mercy and right conduct is a commonplace that could be reached without Micah. What argues for him is that the two rare collocations are his, in his sequence, in a sentence that begins 'see that ye'.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      }
+    ],
+    "41:15": [
+      {
+        "source": "Matthew 7:2",
+        "type": "allusion",
+        "subtype": "paraphrase",
+        "confidence": "moderate",
+        "text": "For with what judgment ye judge, ye shall be judged: and with what measure ye mete, it shall be measured to you again.",
+        "evidence": {
+          "vocabulary": 3,
+          "syntax": 3,
+          "sequence": 4,
+          "context": 5,
+          "rarity": 3,
+          "attestation": 0
+        },
+        "kjvSpecific": "yes",
+        "mediation": "direct-NT",
+        "composite": [
+          "Matthew 7:1",
+          "Luke 6:38"
+        ],
+        "provenance": {
+          "route": "Matthew 7:2 → KJV → Book of Mormon",
+          "other": "“measured to you again” occurs in exactly two KJV verses, Matthew 7:2 and Luke 6:38; Mark 4:24's parallel reads 'measured to you' without 'again'. “unto you again”, the Book of Mormon's own reading, occurs in no KJV verse — but the sentence beats it out five times in two verses: mercy, justice, a righteous judgment, good rewarded, and 'that which ye doth send out, shall return unto you again'.",
+          "significance": "Matthew 7:1-2 is the KJV's statement of the reciprocity principle and it is stated as a warning about judging: judge not, for with what judgment ye judge ye shall be judged. Alma 41 has spent nine verses making every man his own judge, so the warning arrives with a different force — the measure a man metes is meted to himself, not by a neighbour he has wronged but by the restoration. And Alma draws from it the conclusion Matthew does not draw: 'therefore the word restoration, more fully condemneth the sinner, and justifieth him not at all.' Luke 6:38's version supplies what Alma's verses 14-15 actually do with the principle, which is to run it in the positive direction first — give, and it shall be given unto you — before turning it against the sinner in the last clause.",
+          "alternative": "Galatians 6:7's sowing and reaping, which the Book of Mormon uses for the same doctrine at Alma 3:26; it has the reciprocity but not the repeated 'again'."
+        },
+        "note": "'That which ye doth send out, shall return unto you again, and be restored.' The KJV's phrase for the returning measure is 'measured to you again' (Matthew 7:2, Luke 6:38), and Alma's chapter-closing sentence is that principle with the metaphor changed from measuring to sending out. The tell is 'again', repeated at the end of four consecutive clauses in 41:14 and once more here; it is the word Matthew has and Mark's parallel at 4:24 does not. 1830 reads 'ye doth send out' where 1920 reads 'ye do', which is the first edition's grammar and does not bear on the source.",
+        "bibliography": [],
+        "status": "novel",
+        "streams": [
+          "manual"
+        ]
+      }
+    ]
+  }
+}

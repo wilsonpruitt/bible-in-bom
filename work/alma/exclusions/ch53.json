@@ -1,0 +1,66 @@
+[
+  {
+    "bomRef": "Alma 53:1",
+    "source": "Matthew 8:22",
+    "category": "wrong-sense",
+    "sharedText": "bury their dead",
+    "streams": ["manual"],
+    "reason": "Checked because the phrase is rare and the verse is memorable, and rejected on sense. “bury their dead” occurs in exactly two KJV verses, Matthew 8:22 and Luke 9:60, and both are the same saying: 'Let the dead bury their dead' — a refusal of a burial duty in favour of following Jesus. Alma 53:1 is the imposition of a burial duty on prisoners of war, under guard. The Book of Mormon's clause is the plain English for the action and shares nothing with the Gospel logion but three words in the same order."
+  },
+  {
+    "bomRef": "Alma 53:2",
+    "source": "Acts 27:12",
+    "category": "common-vocabulary",
+    "sharedText": "the more part",
+    "streams": ["machine-ngram"],
+    "reason": "A tempting one, and worth the register because of what sits beside it. “the more part” occurs in exactly two KJV verses, Acts 19:32 and Acts 27:12, both Lukan and both meaning 'the majority' — and this catalogue has just adjudicated a KJV singleton from Acts 19:31 at Alma 52:10, one verse from the first of them. So the coincidence looks like recurrence. It is declined anyway: 'the more part' is standard Early Modern and early-nineteenth-century English for a majority, not a King James coinage, and Alma 53:2's 'in the more part of all his battles' uses it in a quantitative sense ('most of') that neither Acts verse has — both of theirs are the greater number of persons in an assembly. A shared archaism is not a borrowing."
+  },
+  {
+    "bomRef": "Alma 53:3",
+    "source": "1 Chronicles 20:1",
+    "category": "formulaic",
+    "sharedText": "and it came to pass that after the",
+    "streams": ["machine-ngram"],
+    "reason": "The dossier's longest run in the chapter, eight words, and worth nothing: 'and it came to pass that after the' is the Book of Mormon's commonest sentence opening and the KJV's. That 1 Chronicles 20:1 goes on to a siege of Rabbah while Alma 53:3 goes on to a ditch dug round Bountiful is the sort of thematic near-miss that makes a long run look meaningful. Covered in kind by the standing exclusion at 1 Nephi 2:1."
+  },
+  {
+    "bomRef": "Alma 53:3",
+    "source": "Amos 3:11",
+    "category": "wrong-sense",
+    "sharedText": "round about the land",
+    "streams": ["machine-ngram"],
+    "reason": "Four words, and the senses face opposite ways. Amos 3:11's adversary 'round about the land' is an enemy encircling Israel for destruction; Alma 53:3's ditch is dug 'round about the land, or the city Bountiful' as a defence built by the enemy's own prisoners. The KJV's siege idiom that would matter here is 'cast up a bank against the city' (2 Samuel 20:15, and compare 2 Kings 19:32), and Alma 53:4's 'they cast up dirt out of the ditch against the breastwork' inverts it — earth thrown up by besiegers in the KJV, earth thrown up by the besieged here — but 'cast up' is too widely used (seven KJV verses) to carry a link on its own."
+  },
+  {
+    "bomRef": "Alma 53:17",
+    "source": "2 Chronicles 15:12",
+    "category": "better-source-identified",
+    "sharedText": "and they entered into a covenant to",
+    "streams": ["machine-ngram"],
+    "reason": "A cross-reference, not a rejection, and the highest-ranked candidate in the chapter. “entered into a covenant” occurs in exactly two KJV verses, 2 Chronicles 15:12 and Ezekiel 16:8, and only 2 Chronicles 15:12 has the Book of Mormon's construction with an infinitive of purpose — 'entered into a covenant to seek the LORD God of their fathers' / 'entered into a covenant, to fight for the liberty of the Nephites'. That borrowing is adjudicated in this book at Alma 46:35, where Moroni's covenant of freedom carries the second half of Asa's passage as well ('whosoever would not' and the death penalty of 2 Chronicles 15:13). Alma 53:17 is the same formula in the same hand seven chapters later, so it is registered here rather than relinked; a reader should go to 46:35. The Johannine 'laying down of their lives' in the same verse is a separate borrowing and is filed as a link."
+  },
+  {
+    "bomRef": "Alma 53:19",
+    "source": "Ezekiel 32:27",
+    "category": "common-vocabulary",
+    "sharedText": "their weapons of war and",
+    "streams": ["machine-ngram"],
+    "reason": "'Weapons of war' occurs in nine KJV verses and is the Book of Mormon's own standing phrase for arms, used four times in this chapter alone (53:14, 16, 18, 19). Ezekiel 32:27's uncircumcised warriors gone down to hell with their weapons of war have nothing to do with two thousand young men taking theirs up. The same candidate was registered on the same words at Alma 52:36."
+  },
+  {
+    "bomRef": "Alma 53:21",
+    "source": "Deuteronomy 10:13",
+    "category": "formulaic",
+    "sharedText": "to keep the commandments of",
+    "streams": ["machine-ngram"],
+    "reason": "'Keep the commandments' is one of the most widely distributed phrases in the King James Bible and one of the Book of Mormon's most frequent; Deuteronomy 10:13 has no better claim on Alma 53:21 than a dozen other verses. The clause that matters in this verse is 'men of truth and soberness', which is adjudicated as a link on two KJV singletons."
+  },
+  {
+    "bomRef": "Alma 53:22",
+    "source": "Exodus 16:35",
+    "category": "formulaic",
+    "sharedText": "the borders of the land",
+    "streams": ["machine-ngram"],
+    "reason": "Geographical boilerplate. 'The borders of the land' is the Book of Mormon war narrative's standing phrase for a frontier and appears three times in the two preceding chapters; Exodus 16:35's borders of Canaan are where the manna stopped. The same candidate was offered on the same words at Alma 52:11. The word in this verse that carries a link is 'stripling'."
+  }
+]

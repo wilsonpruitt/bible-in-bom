@@ -1,0 +1,114 @@
+[
+  {
+    "bomRef": "Alma 45:1",
+    "source": "Judges 2:14",
+    "category": "better-source-identified",
+    "sharedText": "the hands of their enemies",
+    "streams": ["machine-ngram"],
+    "reason": "The same machine proposal discharged at Alma 43:9. 'Hands of their enemies' is a KJV singleton at Judges 2:14, but the Book of Mormon uses it seventeen times and the Judges-cycle reading is adjudicated in this book at Alma 2:28 against Judges 2:18, the verse that supplies the deliverance rather than the selling. See Alma 2:28."
+  },
+  {
+    "bomRef": "Alma 45:1",
+    "source": "Matthew 2:10",
+    "category": "common-vocabulary",
+    "sharedText": "with exceeding great joy",
+    "streams": ["machine-ngram"],
+    "reason": "A four-word run of intensifiers. The magi seeing the star and a nation giving thanks after a war share the KJV's stock superlative for gladness and nothing else."
+  },
+  {
+    "bomRef": "Alma 45:2",
+    "source": "Luke 24:44",
+    "category": "formulaic",
+    "sharedText": "the words which I spake unto",
+    "streams": ["machine-ngram"],
+    "reason": "A six-word run of pure reported-speech tissue, and the chapter's longest. Luke 24:44 is the risen Christ opening the scriptures; Alma 45:2 is a father asking his son whether he believed what he was told about the records. The shared string is the English for referring back to something one has said."
+  },
+  {
+    "bomRef": "Alma 45:4",
+    "source": "Acts 8:37",
+    "category": "better-source-identified",
+    "sharedText": "Believest thou … Yea, I believe",
+    "streams": ["manual"],
+    "reason": "The catechetical exchange at 45:2-7 — 'Believest thou in Jesus Christ, which shall come?' / 'Yea, I believe … with all my heart' — reaches for the KJV's baptismal confession at Acts 8:37 ('If thou believest with all thine heart … I believe that Jesus Christ is the Son of God') and for John 11:26-27's 'Believest thou this? … Yea, Lord: I believe'. Both are already adjudicated in this book: Acts 8:37 at Alma 6:8 and Alma 15:6, John 11:26-27 at Alma 19:9. 'Believest thou' occurs in seventeen Book of Mormon verses, thirteen of them in Alma, so by chapter 45 it is the book's own interrogative and not a fresh borrowing. What is fresh at this scene is what follows the confession, and that row sits at Alma 45:8."
+  },
+  {
+    "bomRef": "Alma 45:7",
+    "source": "2 Kings 2:3",
+    "category": "formulaic",
+    "sharedText": "and he said, Yea, I",
+    "streams": ["machine-ngram"],
+    "reason": "A five-word run of dialogue tags, scoring 2.00 on a string that is three function words and a pronoun. Worth recording only for the coincidence: the verse the machine reached is from 2 Kings 2, the chapter in which Elijah is taken up, eleven verses before Alma 45:18-19 says its own prophet was taken up. The coincidence is the ranker's, not the text's — 2 Kings 2:3 is the sons of the prophets telling Elisha the Lord will take his master away, and nothing of that reaches Helaman's promise to keep his father's commandments. 2 Kings 2:11 does bear on 45:19 and is recorded in that row's composite."
+  },
+  {
+    "bomRef": "Alma 45:12",
+    "source": "Romans 13:12",
+    "category": "common-vocabulary",
+    "sharedText": "the works of darkness",
+    "streams": ["machine-ngram"],
+    "reason": "'Works of darkness' occurs in two KJV verses, Romans 13:12 and Ephesians 5:11, and neither is selected by anything at 45:12. Paul's is a metaphor of night and dawn with armour attached; Alma's is one item in a list of vices ('the works of darkness and lasciviousness, and all manner of iniquities') where the phrase is doing no metaphorical work at all."
+  },
+  {
+    "bomRef": "Alma 45:12",
+    "source": "2 Kings 10:30",
+    "category": "wrong-sense",
+    "sharedText": "the fourth generation shall",
+    "streams": ["machine-ngram"],
+    "reason": "A four-word run whose sense is opposed. 2 Kings 10:30 is a reward — Jehu is told his children to the fourth generation shall sit on the throne of Israel — while Alma 45:12 is a deadline: 'even the fourth generation shall not all pass away, before this great iniquity shall come.' The fourth generation is a blessing in the source and a term of destruction here. The generation-count Alma 45 is actually working from is Matthew 24:34's 'this generation shall not pass, till all these things be fulfilled', which belongs to the Olivet material adjudicated at 45:11."
+  },
+  {
+    "bomRef": "Alma 45:15",
+    "source": "Genesis 18:26",
+    "category": "insufficient-verbal",
+    "sharedText": "(no shared string)",
+    "streams": ["manual"],
+    "reason": "'He also blessed the earth, for the righteous' sake' is a striking half-line and 'for the righteous' sake' occurs in no KJV verse at all. The idea — a land spared or preserved on account of the righteous who are in it — has one biblical home, Abraham's bargaining over Sodom ('If I find in Sodom fifty righteous within the city, then I will spare all the place for their sakes'), and the pairing of 45:15's blessing with 45:16's curse on the same land is Genesis 18's logic applied in both directions. But there is no wording to test, and the Book of Mormon's own land-blessing-and-cursing doctrine is established from 2 Nephi 1:7 onward without it. Recorded because a reader might reasonably reach for Genesis 18 here."
+  },
+  {
+    "bomRef": "Alma 45:16",
+    "source": "Revelation 14:6",
+    "category": "better-source-identified",
+    "sharedText": "every nation, kindred, tongue, and people",
+    "streams": ["manual"],
+    "reason": "A KJV singleton ('to every nation, and kindred, and tongue, and people') and one of the Book of Mormon's most frequent formulas. It is adjudicated in this book at Alma 37:4. Here it is inserted into a curse rather than a proclamation of the everlasting gospel, which is worth noticing but is the formula recurring, not a fresh borrowing. See Alma 37:4."
+  },
+  {
+    "bomRef": "Alma 45:16",
+    "source": "Revelation 14:18",
+    "category": "better-source-identified",
+    "sharedText": "fully ripe",
+    "streams": ["manual"],
+    "reason": "'When they are fully ripe' reproduces a KJV singleton — Revelation 14:18's 'for her grapes are fully ripe' — and the harvest-of-wrath sense is the Book of Mormon's sense. It is adjudicated at Alma 37:28, eight chapters earlier and in the same speaker's mouth, and the phrase occurs six times in the book. See Alma 37:28."
+  },
+  {
+    "bomRef": "Alma 45:16",
+    "source": "Genesis 3:17",
+    "category": "common-vocabulary",
+    "sharedText": "cursed is the ground / cursed shall be the land",
+    "streams": ["manual"],
+    "reason": "'Cursed shall be the land' invites Genesis 3:17's 'cursed is the ground for thy sake', a KJV singleton, especially standing one verse after a blessing of the earth. But the Book of Mormon's land-curse is its own formula, running from 2 Nephi 1:7 through Jacob 2:29 and Alma 37:31, and its logic is conditional and national (the land is cursed to those who do wickedly) where Genesis 3:17's is universal and agricultural. No wording beyond the two common words is shared."
+  },
+  {
+    "bomRef": "Alma 45:17",
+    "source": "1 Corinthians 16:13",
+    "category": "better-source-identified",
+    "sharedText": "stand fast in the faith",
+    "streams": ["machine-ngram"],
+    "reason": "A KJV singleton reproduced entire, and a real borrowing — but one adjudicated at the start of this book, at Alma 1:25, where the church under persecution 'stood fast in the faith'. The phrase occurs three times in the Book of Mormon and all three are in Alma (1:25, 45:17, 46:27). Here it is Mormon's formula for the faithful remnant recurring. See Alma 1:25."
+  },
+  {
+    "bomRef": "Alma 45:19",
+    "source": "Acts 1:22",
+    "category": "common-vocabulary",
+    "sharedText": "he was taken up",
+    "streams": ["machine-ngram"],
+    "reason": "The machine's proposal for the verse, on a five-word run. 'Taken up' is the KJV's ordinary ascension verb (Acts 1:2, 1:9, 1:11, 1:22; 2 Kings 2:9-11 for Elijah), and Alma 45:19's 'taken up by the spirit' is not any one of them. The verse's real sources are Deuteronomy 34:5-6 and the assumption tradition Jude 1:9 carries, adjudicated as a link at this verse; Acts 1:22 adds nothing the composite does not already hold."
+  },
+  {
+    "bomRef": "Alma 45:21",
+    "source": "Acts 13:46",
+    "category": "formulaic",
+    "sharedText": "that the word of God should",
+    "streams": ["machine-ngram"],
+    "reason": "A six-word run of ecclesiastical boilerplate. Paul turning to the Gentiles and Helaman regularising the Nephite church share the English idiom for preaching being necessary."
+  }
+]

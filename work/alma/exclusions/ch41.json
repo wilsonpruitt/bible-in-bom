@@ -1,0 +1,58 @@
+[
+  {
+    "bomRef": "Alma 41:1",
+    "source": "Luke 7:40",
+    "category": "common-vocabulary",
+    "sharedText": "I have somewhat to say",
+    "streams": ["machine-ngram"],
+    "reason": "A five-word run matching a two-verse KJV phrase, which is rare enough to look like evidence, and it is not. 'I have somewhat to say unto thee' is the KJV's polite formula for opening a difficult subject and it occurs twice, at 1 Kings 2:14 (Adonijah to Bathsheba) and Luke 7:40 (Jesus to Simon the Pharisee); both are followed by 'Say on', and Alma is followed by 'But behold, I will explain it unto thee'. Alma 40:1 opens the previous chapter with the same formula in a different inflection ('here is somewhat more I would say unto thee'), which shows it is the letter's own way of starting a section rather than a borrowing. Registered because the Luke context — a man about to be taught the arithmetic of debt and forgiveness — is close enough to Alma 41's subject to tempt a reader."
+  },
+  {
+    "bomRef": "Alma 41:1",
+    "source": "2 Chronicles 16:10",
+    "category": "formulaic",
+    "sharedText": "because of this thing",
+    "streams": ["machine-ngram"],
+    "reason": "The stream's top-ranked candidate for the chapter and pure connective boilerplate: Asa in a rage with the seer. 'Because of this thing' is KJV narrative filler (Genesis 19:21, Deuteronomy 15:10, 1 Samuel 24:6 and elsewhere) and Alma uses 'this thing' twice in one verse as a pronoun for the doctrine of restoration. Nothing in 2 Chronicles 16 is in view. A model instance of CONVENTIONS §9's warning that the n-gram score is a recall floor and not a ranking."
+  },
+  {
+    "bomRef": "Alma 41:4",
+    "source": "1 Corinthians 15:53",
+    "category": "better-source-identified",
+    "sharedText": "mortality raised to immortality; corruption to incorruption",
+    "streams": ["manual"],
+    "reason": "The clause is the fourth appearance in Alma of 1 Corinthians 15:53-54's paired antitheses, and the closest of them to Paul's own wording is Alma 40:2, one chapter earlier, where the verb 'put on' survives and the argument is made. Here the verb is gone and the pairs are reduced to a two-item list inside a longer catalogue of restorations, which is Alma using a formula he has already established rather than reaching for Paul again. Adjudicate at Alma 40:2, with Alma 5:15 and 11:45 recorded there as the earlier paraphrases."
+  },
+  {
+    "bomRef": "Alma 41:5",
+    "source": "John 9:4",
+    "category": "better-source-identified",
+    "sharedText": "when the night cometh",
+    "streams": ["manual"],
+    "reason": "'The night cometh' is a KJV singleton (John 9:4, 'the night cometh, when no man can work') and Alma 41:5 ends its day/night antithesis with it: 'as he has desired to do evil all the day long, even so shall he have his reward of evil, when the night cometh'. The link is adjudicated at Alma 34:33, where Amulek builds the whole day-of-this-life argument on John 9:4 across two verses and keeps John's order. Alma 41:5 and 41:7 ('that endless night of darkness') are the same book's later reuse of that antithesis, five chapters on; 'all the day long' is separately distributed across thirteen KJV verses and identifies nothing."
+  },
+  {
+    "bomRef": "Alma 41:7",
+    "source": "Isaiah 41:23",
+    "category": "wrong-sense",
+    "sharedText": "do good, or do evil",
+    "streams": ["machine-ngram"],
+    "reason": "A five-word run in the wrong argument entirely. Isaiah 41:23 is the LORD's taunt to the idols — show us what is coming, do something, anything, good or bad, so that we may know you are gods — and 'do good, or do evil' there means 'act at all'. Alma 41:7 uses the pair as a genuine moral alternative offered to a free agent. Luke 6:9's 'is it lawful on the sabbath days to do good, or to do evil' is nearer the moral sense and further from the wording. The real borrowings in this verse are Romans 14:4 and Isaiah 44:9, and both are filed as a link."
+  },
+  {
+    "bomRef": "Alma 41:7",
+    "source": "Psalm 107:2",
+    "category": "common-vocabulary",
+    "sharedText": "these are they that are redeemed of the Lord",
+    "streams": ["manual"],
+    "reason": "'The redeemed of the LORD' occurs in exactly three KJV verses — Psalm 107:2, Isaiah 51:11 and Isaiah 62:12 — and none of them can be shown here. The Psalm has the redeemed telling of it, Isaiah 51:11 has them returning to Zion with singing, Isaiah 62:12 has it as a name given to a people; Alma has it as a class-label for those who pass the judgment. Worth registering rather than passing over because Isaiah 51:11 is itself transcribed in the Book of Mormon at 2 Nephi 8:11, so a reader might reasonably ask whether the phrase reached Alma through the earlier book — but nothing in Alma 41:7 follows 2 Nephi 8 beyond the three words shared with all three KJV verses, so there is no evidence either way and no link."
+  },
+  {
+    "bomRef": "Alma 41:8",
+    "source": "Daniel 6:8",
+    "category": "insufficient-verbal",
+    "sharedText": "decrees ... unalterable",
+    "streams": ["manual"],
+    "reason": "'Now the decrees of God are unalterable' looks for a KJV parent and has none: 'unalterable' occurs in no KJV verse, and the KJV's one idiom for a decree that cannot be revoked is Persian royal law — 'the law of the Medes and Persians, which altereth not' (Daniel 6:8, 6:12; compare Esther 1:19, 8:8). That is a real and suggestive background, since the point of the Persian formula is that the king himself cannot undo what he has signed, which is exactly the constraint Alma needs God to be under in order for restoration to be inevitable rather than arbitrary. But there is no shared wording at all, the association is available from general English usage of 'decree', and building a figural link on it would be manufacturing a case. Recorded so that the absence is on the record."
+  }
+]

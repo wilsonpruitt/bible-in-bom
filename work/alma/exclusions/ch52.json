@@ -1,0 +1,82 @@
+[
+  {
+    "bomRef": "Alma 52:3",
+    "source": "2 Chronicles 1:8",
+    "category": "common-vocabulary",
+    "sharedText": "to reign in his stead",
+    "streams": ["machine-ngram"],
+    "reason": "A genuine curiosity that resolves to boilerplate. “to reign in his stead” does occur in exactly one KJV verse, 2 Chronicles 1:8, because the infinitive is rare; the finite form 'reigned in his stead' occurs in sixty-three, from Genesis 36 through 2 Kings, and that formula is plainly what stands behind 'thus king Ammoron, the brother of king Amalickiah, was appointed to reign in his stead'. The singleton cannot be the source on sense either: 2 Chronicles 1:8 is Solomon thanking God for having 'made me to reign in his stead' after David, a lawful and divinely granted succession, whereas Ammoron is a usurper's brother taking the throne of a man murdered in his tent. The same candidate was declined on the same grounds at Jacob 1:11 and, in its finite form, at Mosiah 10:6."
+  },
+  {
+    "bomRef": "Alma 52:5",
+    "source": "Numbers 13:32",
+    "category": "formulaic",
+    "sharedText": "the land which they had",
+    "streams": ["machine-ngram"],
+    "reason": "Four words of relative-clause tissue. Numbers 13:32 is the spies' evil report of 'the land which they had searched'; Alma 52:5 has 'those parts of the land which they had obtained possession of'. The shared run stops exactly where the content would begin."
+  },
+  {
+    "bomRef": "Alma 52:8",
+    "source": "Lamentations 3:34",
+    "category": "wrong-sense",
+    "sharedText": "all the prisoners of",
+    "streams": ["machine-ngram"],
+    "reason": "Worth registering because the rarity looks promising and the sense is opposed. Lamentations 3:34, 'To crush under his feet all the prisoners of the earth', is one clause in a list of things the Lord does not approve; Alma 52:8 is Moroni's order that Teancum 'retain all the prisoners of the Lamanites, as a ransom' — an instruction to keep captives alive and exchange them, which is the chapter's distinguishing humane policy and the opposite of crushing them. Five shared words, none of them doing the same work."
+  },
+  {
+    "bomRef": "Alma 52:13",
+    "source": "2 Chronicles 15:8",
+    "category": "better-source-identified",
+    "sharedText": "the cities which he had taken",
+    "streams": ["machine-ngram"],
+    "reason": "The run is real but it belongs to a link filed three verses earlier. Alma 52:10's programme of retaking lost cities is adjudicated against 2 Kings 13:25, the KJV's one verse about a king recovering cities an enemy took from his predecessor, and 2 Kings 13:25 carries the same six words as 2 Chronicles 15:8 plus the two singletons ('taken out of the hand', 'recovered the cities') that decide it. Asa's captured cities in 2 Chronicles 15:8 are the setting for smashing idols, not for a war of recovery. See Alma 52:10."
+  },
+  {
+    "bomRef": "Alma 52:15",
+    "source": "1 Kings 16:15",
+    "category": "formulaic",
+    "sharedText": "in the twenty and seventh year of",
+    "streams": ["machine-ngram"],
+    "reason": "The regnal-dating formula, which Alma uses as its chapter furniture and which the n-gram stream ranks highly in every chapter of the book. 1 Kings 16:15, 2 Kings 15:1 and 1 Kings 16:10 were all offered on the same seven words for this verse, and 1 Kings 16:8 twice for 'the twenty and sixth year' at 52:1 and 52:14; the fact that three unrelated verses tie for first place is itself the demonstration that no one of them is a source. 'In the Nth year of the reign of the judges' is the Book of Mormon's own dating system wearing the KJV's regnal syntax. Covered in kind by the standing exclusions at Alma 4:1, Alma 15:19, Alma 28:9 and Alma 35:13."
+  },
+  {
+    "bomRef": "Alma 52:20",
+    "source": "Acts 19:31",
+    "category": "better-source-identified",
+    "sharedText": "desiring him that he would",
+    "streams": ["machine-ngram", "manual"],
+    "reason": "Not a rejection: a cross-reference. The Lukan formula 'sent unto him, desiring him that he would' is adjudicated at Alma 52:10, where the Book of Mormon reproduces eight consecutive words of Acts 19:31. Alma 52:20's 'desiring him that he would come out with his armies to meet them upon the plains' is the same borrowing used a second time in the same chapter, and it is the more interesting of the two — Acts 19:31's message asks its recipient NOT to venture into the public arena, and Jacob, declining Moroni's invitation to the open plain, does what Paul's friends asked Paul to do. The argument is made at 52:10; a reader arriving here should go there."
+  },
+  {
+    "bomRef": "Alma 52:24",
+    "source": "1 Kings 21:16",
+    "category": "wrong-sense",
+    "sharedText": "take possession of it",
+    "streams": ["machine-ngram"],
+    "reason": "The five-word run is exact and the situations do not touch. 1 Kings 21:16 is Ahab going down to Naboth's vineyard 'to take possession of it' after Jezebel has had Naboth judicially murdered — the KJV's paradigm of unlawful seizure. Alma 52:24 is Moroni's detachment entering a city its own people lost in war. 'Take possession of' is the ordinary English for occupying, and the machine's high score here is an artifact of the phrase being short and complete."
+  },
+  {
+    "bomRef": "Alma 52:24",
+    "source": "Joshua 8:16",
+    "category": "better-source-identified",
+    "sharedText": "leading away the Lamanites which were pursuing them in vain",
+    "streams": ["manual"],
+    "reason": "A cross-reference rather than a rejection. Joshua 8:16's 'they pursued after Joshua, and were drawn away from the city' is the source of this verse's action — the garrison drawn out and away by a feigned flight — but the whole Ai sequence is adjudicated at Alma 52:22 on Joshua 8:13's singleton 'on the west of the city', with Joshua 8:16 recorded there as a composite. A reader who wants the argument for the decoy should go to 52:22; the recurrence references there return to this verse, 52:31 and 52:36."
+  },
+  {
+    "bomRef": "Alma 52:36",
+    "source": "Ezekiel 32:27",
+    "category": "common-vocabulary",
+    "sharedText": "their weapons of war",
+    "streams": ["machine-ngram"],
+    "reason": "'Weapons of war' occurs in nine KJV verses and is the Book of Mormon's standing phrase for arms; Alma 52 alone uses it at 25, 32, 36, 38 and 39. No single KJV verse can be its source. Ezekiel 32:27's uncircumcised mighty gone down to hell with their weapons of war, swords laid under their heads, is a burial image with nothing to do with a surrender in the field."
+  },
+  {
+    "bomRef": "Alma 52:40",
+    "source": "Ezra 2:1",
+    "category": "formulaic",
+    "sharedText": "of those which had been",
+    "streams": ["machine-ngram"],
+    "reason": "Five words of relative-clause tissue, and the 1830's 'which' where 1920 reads 'who' is what lengthens the run. Ezra 2:1's returning exiles have no bearing on a count of prisoners against dead. Covered in kind by the standing exclusion at 1 Nephi 1:5."
+  }
+]

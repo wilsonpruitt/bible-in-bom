@@ -1,0 +1,66 @@
+[
+  {
+    "bomRef": "Alma 54:1",
+    "source": "Acts 19:31",
+    "category": "better-source-identified",
+    "sharedText": "sent unto Moroni, desiring that he would",
+    "streams": ["manual"],
+    "reason": "A cross-reference, not a rejection. 'Ammoron sent unto Moroni, desiring that he would exchange prisoners' is the third use in three chapters of the construction adjudicated at Alma 52:10, where the Book of Mormon reproduces eight consecutive words of Acts 19:31 — the KJV's one verse containing 'sent unto him, desiring him that he would'. This occurrence is the interesting one for a different reason: at 52:10 and 52:20 the formula carries Nephite messages, and here it carries the enemy king's, so the whole negotiation of Alma 52-54 runs in both directions on one borrowed frame. Registered here so that a reader arriving at 54:1 is sent to 52:10 rather than shown nothing."
+  },
+  {
+    "bomRef": "Alma 54:3",
+    "source": "Lamentations 3:34",
+    "category": "wrong-sense",
+    "sharedText": "all the prisoners of",
+    "streams": ["machine-ngram"],
+    "reason": "The same candidate the machine offered at Alma 52:8, on the same words, and declined for the same reason. Lamentations 3:34's 'To crush under his feet all the prisoners of the earth' is one item in a list of things the Lord does not approve; Alma 54:3 is an inventory of who is held by whom before an exchange. The Book of Mormon uses 'the prisoners of' whenever it counts captives, which in these three chapters is constantly."
+  },
+  {
+    "bomRef": "Alma 54:9",
+    "source": "Joshua 9:25",
+    "category": "formulaic",
+    "sharedText": "and now behold we are",
+    "streams": ["machine-ngram"],
+    "reason": "Five words of pure address-formula, and the senses run opposite: the Gibeonites' 'and now, behold, we are in thine hand' is a surrender, Moroni's 'and now behold, we are prepared to receive you' is a threat. Covered in kind by the standing exclusion at 1 Nephi 1:5."
+  },
+  {
+    "bomRef": "Alma 54:10",
+    "source": "2 Kings 5:20",
+    "category": "formulaic",
+    "sharedText": "but as the Lord liveth",
+    "streams": ["machine-ngram"],
+    "reason": "'As the LORD liveth' occurs in twenty-seven KJV verses and is the Bible's standard oath; no one of them can be a source. That the n-gram stream picked Gehazi's oath in 2 Kings 5:20 is an artifact of the preceding 'but', which Alma 54:10 also has. The Book of Mormon uses the formula throughout."
+  },
+  {
+    "bomRef": "Alma 54:10",
+    "source": "1 Kings 8:59",
+    "category": "common-vocabulary",
+    "sharedText": "and the cause of",
+    "streams": ["machine-ngram"],
+    "reason": "Registered because the collocation is genuinely close and still will not carry a link. 'Maintain the cause' occurs in two KJV verses (1 Kings 8:59, Psalm 140:12) and 'maintain their cause' in four more, all of them in Solomon's temple prayer or its Chronicles double, and all of them petitions that God will maintain a cause. Alma 54:10's 'we will maintain our religion and the cause of our God' reverses the direction — men undertaking to maintain God's cause rather than asking him to maintain theirs — and 'the cause of' is in any case the Book of Mormon war narrative's own idiom, running from 'the cause of freedom' at Alma 46 onward."
+  },
+  {
+    "bomRef": "Alma 54:11",
+    "source": "Ezekiel 24:14",
+    "category": "formulaic",
+    "sharedText": "will do it I will",
+    "streams": ["machine-ngram"],
+    "reason": "The chapter's top-ranked candidate by the n-gram score and worthless. Five words made entirely of auxiliaries and pronouns, straddling a clause boundary in both texts; Ezekiel 24:14's 'I will do it; I will not go back' is the Lord's oath of irrevocable judgement, Alma 54:11's 'if this be the case that ye will do it, I will exchange' is the terms of a prisoner swap. CONVENTIONS §9's warning about the n-gram stream in one row."
+  },
+  {
+    "bomRef": "Alma 54:13",
+    "source": "Zechariah 12:9",
+    "category": "common-vocabulary",
+    "sharedText": "will seek to destroy",
+    "streams": ["machine-ngram"],
+    "reason": "Four ordinary words. Zechariah 12:9's 'I will seek to destroy all the nations that come against Jerusalem' is a divine promise of protection; Alma 54:13 is a man's threat of reprisal in kind ('if ye seek to destroy us more, we will seek to destroy you'), and the doubling within the verse is what the sentence is for. Nothing else in the verse touches Zechariah."
+  },
+  {
+    "bomRef": "Alma 54:21",
+    "source": "Ephesians 1:6",
+    "category": "wrong-sense",
+    "sharedText": "he hath made us",
+    "streams": ["machine-ngram"],
+    "reason": "Worth a line because the collision is instructive. Ephesians 1:6's 'he hath made us accepted in the beloved' is about election and grace; Alma 54:21's 'we know not but that he hath made us as well as you' is about creation, and is offered by a man denying that he knows whether there is anyone to have made him. Four shared words, opposite theological work. The link at this verse is filed on 'as well as you' (Job 12:3) and 'as concerning that' (Acts 13:34), both KJV singletons."
+  }
+]
