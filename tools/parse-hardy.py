@@ -215,7 +215,20 @@ def walk_verses_and_footnotes(
         for para in paras:
             matches = list(FOOTNOTE_MARKER_RE.finditer(para))
             marker_hits = len(matches)
-            looks_like_footnotes = marker_hits >= 2 or (
+            # A genuine footnote-block paragraph OPENS on its own lettered key
+            # ("a 1 +4 years    b 4 +5 years..."). pdftotext flattens superscript
+            # footnote markers inline, so a body paragraph can also contain 2+
+            # marker-shaped hits (e.g. "...therefore, nine years had passed
+            # away.   f 9 And / Nephi... g 10 And it came to pass") without
+            # being a footnote block at all — found on 3 Nephi 2, where it
+            # silently swallowed verses 5-10 into the discarded footnote pile
+            # (audit-hardy.py flagged the resulting mis-keyed rows). Requiring
+            # the paragraph to itself start at a lettered key is what tells the
+            # two apart; checked against the whole raw text, it reclassifies
+            # exactly 3 paragraphs across every book, all three genuine body
+            # text with an inline marker, none of them footnote blocks.
+            starts_at_marker = bool(re.match(r"^[a-z]\s", para.strip()))
+            looks_like_footnotes = (marker_hits >= 2 and starts_at_marker) or (
                 marker_hits == 1 and len(para.strip()) < 400
             )
             if looks_like_footnotes and marker_hits:
@@ -226,6 +239,17 @@ def walk_verses_and_footnotes(
                     at_chapter_end = verse >= max_verse.get(chapter, 10**9) - 1
                     if n == verse + 1 and n <= max_verse.get(chapter, 10**9):
                         verse = n
+                    elif verse == 0 and n == chapter:
+                        # A verso reset onto a chapter's own verse 1 (anchor[1]
+                        # == 1) leaves verse == 0 expecting a literal "1" — but
+                        # this edition prints the chapter's own number in place
+                        # of that first verse (see the note above), so the
+                        # marker actually seen here is n == chapter, not 1.
+                        # Found on 3 Nephi 2: without this, the walker sat at
+                        # verse 0 through the whole page and treated verses
+                        # 1-10 as noise. Scoped to verse == 0 (only true right
+                        # after such a reset) so it cannot fire mid-chapter.
+                        verse = 1
                     elif at_chapter_end and n == chapter + 1 and (chapter + 1) in max_verse:
                         chapter = n
                         verse = 1

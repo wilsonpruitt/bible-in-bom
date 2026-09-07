@@ -43,6 +43,14 @@
         "Isaiah 48:16"
       ],
       "reason": "Found by tools/audit-hardy.py. Hardy keys each verse of the transcribed Isaiah blocks to its source (20:3→Isa 48:3, 20:6→48:6, 20:10→48:10, 21:7→49:7, 21:20→49:20, 21:24→49:24), so 1 Nephi 20 answers to Isaiah 48 and 21 to Isaiah 49. A row reading '21:16 → Isaiah 48:16' breaks that pattern; 1 Nephi 20:16 reproduces Isaiah 48:16 nearly word for word. This is the FIRST drift found in 1 Nephi, and it corrects my statement in the Jacob commit that 1 Nephi showed none — that was said of rows checked one at a time during adjudication, which is not an audit."
+    },
+    {
+      "from": "3 Nephi 26:2",
+      "to": "3 Nephi 25:2",
+      "refs": [
+        "Malachi 4:2"
+      ],
+      "reason": "Found by tools/audit-hardy.py's chapter-shift test on 3 Nephi (keyed here scores 0.00 word-overlap, 25:2 scores 0.82). Page 509 carries three footnotes keyed '2': 'a 2 ATV Sun of righteousness (= Mal 4.2); cf. 2 Ne 26.9; Ether 9.22', 'b 2 P calves of the stall (= Mal 4.2); cf. 1 Ne 22.24', both on 25:2 ('unto you that fear my name, shall the Son of Righteousness arise with healing in his wings'); and 'c 2 The phrases from Mal 4.1-2 that appear in the small plates...', which is 26:2's own note ('These scriptures... the Father commanded that I should give unto you') and correctly stays there. The walker's fn_chapter picker takes max(cands) with no footnote before it to anchor last_fn, so the page's first '2' note lands on the later of the two candidate chapters instead of the earlier — the same failure shape as the Jacob rows above, but triggered by a same-page chapter turnover rather than a wrong page bound. Malachi 4:1-2 (footnote c) is left at 26:2, where it belongs."
     }
   ],
   "reviewed_not_drift": [

@@ -9,6 +9,7 @@ import wordsOfMormon from "./words-of-mormon.json";
 import mosiah from "./mosiah.json";
 import alma from "./alma.json";
 import helaman from "./helaman.json";
+import thirdNephi from "./3-nephi.json";
 
 // Add a book: `python3.11 tools/bootstrap-book.py "<Book Name>" <slug>` builds
 // data/<slug>.json from the 1830 text and generates its machine candidates;
@@ -24,6 +25,7 @@ export const BOOKS: Book[] = [
   mosiah as Book,
   alma as Book,
   helaman as Book,
+  thirdNephi as Book,
 ];
 
 export function getBook(slug: string): Book | undefined {
